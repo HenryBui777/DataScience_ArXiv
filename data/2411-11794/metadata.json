@@ -1,0 +1,17 @@
+{
+  "title": "Competing Bandits in Decentralized Contextual Matching Markets",
+  "authors": [
+    "Satush Parikh",
+    "Soumya Basu",
+    "Avishek Ghosh",
+    "Abishek Sankararaman"
+  ],
+  "summary": "Sequential learning in a multi-agent resource constrained matching market has received significant interest in the past few years. We study decentralized learning in two-sided matching markets where the demand side (aka players or agents) competes for the supply side (aka arms) with potentially time-varying preferences to obtain a stable match. Motivated by the linear contextual bandit framework, we assume that for each agent, an arm-mean may be represented by a linear function of a known feature vector and an unknown (agent-specific) parameter. Moreover, the preferences over arms depend on a latent environment in each round, where the latent environment varies across rounds in a non-stationary manner. We propose learning algorithms to identify the latent environment and obtain stable matchings simultaneously. Our proposed algorithms achieve instance-dependent logarithmic regret, scaling independently of the number of arms, and hence applicable for a large market.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-06-19"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, stat.ML"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "GalaxyEdit: Large-Scale Image Editing Dataset with Enhanced Diffusion Adapter",
+  "authors": [
+    "Aniruddha Bala",
+    "Rohan Jaiswal",
+    "Loay Rashid",
+    "Siddharth Roheda"
+  ],
+  "summary": "Training of large-scale text-to-image and image-to-image models requires a huge amount of annotated data. While text-to-image datasets are abundant, data available for instruction-based image-to-image tasks like object addition and removal is limited. This is because of the several challenges associated with the data generation process, such as, significant human effort, limited automation, suboptimal end-to-end models, data diversity constraints and high expenses. We propose an automated data generation pipeline aimed at alleviating such limitations, and introduce GalaxyEdit - a large-scale image editing dataset for add and remove operations. We fine-tune the SD v1.5 model on our dataset and find that our model can successfully handle a broader range of objects and complex editing instructions, outperforming state-of-the-art methods in FID scores by 11.2\\% and 26.1\\% for add and remove tasks respectively. Furthermore, in light of on-device usage scenarios, we expand our research to include task-specific lightweight adapters leveraging the ControlNet-xs architecture. While ControlNet-xs excels in canny and depth guided generation, we propose to improve the communication between the control network and U-Net for more intricate add and remove tasks. We achieve this by enhancing ControlNet-xs with non-linear interaction layers based on Volterra filters. Our approach outperforms ControlNet-xs in both add/remove and canny-guided image generation tasks, highlighting the effectiveness of the proposed enhancement.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

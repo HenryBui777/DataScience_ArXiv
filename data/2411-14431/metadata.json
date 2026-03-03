@@ -1,0 +1,14 @@
+{
+  "title": "On Optimal Testing of Linearity",
+  "authors": [
+    "Vipul Arora",
+    "Esty Kelman",
+    "Uri Meir"
+  ],
+  "summary": "Linearity testing has been a focal problem in property testing of functions. We combine different known techniques and observations about linearity testing in order to resolve two recent versions of this task.\n  First, we focus on the online manipulations model introduced by Kalemaj, Raskhodnikova and Varma (ITCS 2022 \\& Theory of Computing 2023). In this model, up to $t$ data entries are adversarially manipulated after each query is answered. Ben-Eliezer, Kelman, Meir, and Raskhodnikova (ITCS 2024) showed an asymptotically optimal linearity tester that is resilient to $t$ manipulations per query, but their approach fails if $t$ is too large. We extend this result, showing an optimal tester for almost any possible value of $t$. First, we simplify their result when $t$ is small, and for larger values of $t$ we instead use sample-based testers, as defined by Goldreich and Ron (ACM Transactions on Computation Theory 2016). A key observation is that sample-based testing is resilient to online manipulations, but still achieves optimal query complexity for linearity when $t$ is large. We complement our result by showing that when $t$ is \\emph{very} large, any reasonable property, and in particular linearity, cannot be tested at all.\n  Second, we consider linearity over the reals with proximity parameter $\\varepsilon$. Fleming and Yoshida (ITCS 2020) gave a tester using $O(1/\\varepsilon\\ \\cdot log(1/\\varepsilon))$ queries. We simplify their algorithms and modify the analysis accordingly, showing an optimal tester that only uses $O(1/\\varepsilon)$ queries. This modification works for the low-degree testers presented in Arora, Bhattacharyya, Fleming, Kelman, and Yoshida (SODA 2023) as well, resulting in optimal testers for degree-$d$ polynomials, for any constant degree $d$.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CC, cs.DS"
+}

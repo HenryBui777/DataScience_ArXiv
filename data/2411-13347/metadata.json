@@ -1,0 +1,18 @@
+{
+  "title": "Simulation of Rutherford Cable AC Loss and Magnetization with the Coupled Axial and Transverse Currents Method",
+  "authors": [
+    "Julien Dular",
+    "Fredrik Magnus",
+    "Erik Schnaubelt",
+    "Arjan Verweij",
+    "Mariusz Wozniak"
+  ],
+  "summary": "The coupled axial and transverse currents (CATI) method was recently introduced to model the AC loss and magnetization in twisted composite superconducting strands with low computational cost and high accuracy. This method involves two-dimensional finite element (FE) models coupled with circuit equations representing the periodicity of the strand. In this paper, we propose to adapt the CATI method to Rutherford cables, which are periodic structures made of transposed superconducting strands. We focus on reproducing the interstrand coupling currents flowing across contact resistances between the strands and we analyze the associated AC loss. We show that results of a reference three-dimensional FE model are accurately reproduced with a strongly reduced computational cost.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-12-17"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.acc-ph"
+}

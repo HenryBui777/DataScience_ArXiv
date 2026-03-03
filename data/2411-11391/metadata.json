@@ -1,0 +1,16 @@
+{
+  "title": "The GECo algorithm for Graph Neural Networks Explanation",
+  "authors": [
+    "Salvatore Calderaro",
+    "Domenico Amato",
+    "Giosuè Lo Bosco",
+    "Riccardo Rizzo",
+    "Filippo Vella"
+  ],
+  "summary": "Graph Neural Networks (GNNs) are powerful models that can manage complex data sources and their interconnection links. One of GNNs' main drawbacks is their lack of interpretability, which limits their application in sensitive fields. In this paper, we introduce a new methodology involving graph communities to address the interpretability of graph classification problems. The proposed method, called GECo, exploits the idea that if a community is a subset of graph nodes densely connected, this property should play a role in graph classification. This is reasonable, especially if we consider the message-passing mechanism, which is the basic mechanism of GNNs. GECo analyzes the contribution to the classification result of the communities in the graph, building a mask that highlights graph-relevant structures. GECo is tested for Graph Convolutional Networks on six artificial and four real-world graph datasets and is compared to the main explainability methods such as PGMExplainer, PGExplainer, GNNExplainer, and SubgraphX using four different metrics. The obtained results outperform the other methods for artificial graph datasets and most real-world datasets.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Two-count interval representation of a permutation",
+  "authors": [
+    "Csaba Biró",
+    "André E. Kézdy",
+    "Jenő Lehel"
+  ],
+  "summary": "The interval count problem, a classical question in the study of interval orders, was introduced by Ronald Graham in the 1980s. This problem asks: given an interval order $P$, what is the minimum number of distinct interval lengths required to construct an interval representation of $P$? Interval orders that can be represented with just one interval length are known as semiorders, and their characterizations are well known. However, the characterization of interval orders that require at most $k$ interval lengths -- termed $k$-count interval orders -- remains an open and challenging problem for $k\\geq 2$.\n  Our investigation into $2$-count interval orders led us naturally to consider a related problem, interval representations of permutations, which we introduce in this paper. Specifically, we characterize permutations that have a $2$-count interval representation. We prove that a permutation admits a $2$-count interval representation if and only if its longest decreasing subsequences have length at most $2$. For larger values of $k$, however, a similar characterization does not hold. There are permutations that do not permit a $3$-count interval representation despite having decreasing subsequences of length at most $3$. Characterizing $k$-count permutations remains open for $k \\geq 3$.\n  The $k$-count permutation representation problem appears to capture essential aspects of the broader problem of characterizing $k$-count interval orders. To support this connection, we apply our findings on interval representations of permutations to demonstrate that a height-$3$ interval order is $2$-count if and only if it has depth at most $2$, where the depth of an interval order refers to the length of the longest nested chain of intervals required in any interval representation of the order.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.CO"
+}

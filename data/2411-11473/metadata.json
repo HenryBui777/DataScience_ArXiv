@@ -1,0 +1,15 @@
+{
+  "title": "Anomalous charge transport in the sine-Gordon model",
+  "authors": [
+    "Frederik Møller",
+    "Botond C. Nagy",
+    "Márton Kormos",
+    "Gábor Takács"
+  ],
+  "summary": "We conduct a comprehensive study of anomalous charge transport in the quantum sine--Gordon model. Employing the framework of Generalized Hydrodynamics, we compute Drude weights and Onsager matrices across a wide range of coupling strengths to quantify ballistic and diffusive transport, respectively. We find that charge transport is predominantly diffusive at accessible timescales, indicated by the corresponding Onsager matrix significantly exceeding the Drude weight -- contrary to most integrable models where transport is primarily ballistic. Reducing the Onsager matrix to a few key two-particle scattering processes enables us to efficiently examine transport in both low- and high-temperature limits. The charge transport is dictated by non-diagonal scattering of the internal charge degree of freedom: At particular values of the coupling strength with diagonal, diffusive effects amount to merely subleading corrections. However, at couplings approaching these points, the charge Onsager matrix and corresponding diffusive time-scale diverge. Our findings relate to similar transport anomalies in XXZ spin chains, offering insights through their shared Bethe Ansatz structures.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cond-mat.stat-mech, cond-mat.str-el, nlin.SI"
+}

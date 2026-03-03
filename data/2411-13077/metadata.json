@@ -1,0 +1,13 @@
+{
+  "title": "Far-field Boundary Conditions for Airfoil Simulation at High Incidence in Steady, Incompressible, Two-dimensional Flow",
+  "authors": [
+    "Narges Golmirzaee",
+    "David H. Wood"
+  ],
+  "summary": "This study concerns the far-field boundary conditions (BCs) for airfoil simulations at high incidence where the lift and drag are comparable in magnitude and the moment is significant. A NACA 0012 airfoil was simulated at high Reynolds number with the Spalart-Allmaras turbulence model in incompressible, steady flow. We use the impulse form of the lift, drag, and moment equations applied to a control volume coincident with the square computational domain, to explore the BCs. It is well known that consistency with the lift requires representing the airfoil by a point vortex, but it is largely unknown that consistency with the drag requires a point source as was first discovered by Lagally (1922) and Filon (1926). We show that having a point source in the BCs is more important at high drag than using a point vortex. The reason is that BCs without a point source cause blockage at the top and bottom sidewalls in a manner very similar to wind tunnel blockage for experiments. A simple \"Lagally-Filon\" correction for small levels of blockage is derived and shown to bring the results much closer to those obtained using boundary conditions including a point source. Although consistent with the lift and drag, the combined point vortex and source boundary condition is not consistent with the moment equation but the further correction for this inconsistency is shown to be very small. We speculate that the correction may be more important in cases where the moment is critical, such as vertical-axis turbines.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.flu-dyn"
+}

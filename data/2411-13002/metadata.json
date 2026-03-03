@@ -1,0 +1,15 @@
+{
+  "title": "Multi-scale simulation of red blood cell trauma in large-scale high-shear flows after Norwood operation",
+  "authors": [
+    "Saba Mansour",
+    "Emily Logan",
+    "James F. Antaki",
+    "Mahdi Esmaily"
+  ],
+  "summary": "Cardiovascular surgeries and mechanical circulatory support devices create non-physiological blood flow conditions that can be detrimental, especially for pediatric patients. A source of complications is mechanical red blood cell (RBC) damage induced by the localized supraphysiological shear fields. To understand such complications, we introduce a multi-scale numerical model to predict the risk of hemolysis in a set of idealized anatomies. We employed our in-house CFD solver coupled with Lagrangian tracking and cell-resolved fluid-structure interaction to measure flow-induced stresses and strains on the RBC membrane. The Norwood procedure, well-known to be associated with high mortality rate, is selected for its importance in the survival of the single-ventricle population. We simulated three anatomies including 2.5mm and 4.0mm diameter modified Blalock-Taussig (BT) shunts and a 2.5mm central shunt (CS), with hundreds of RBCs in each case for statistical analysis. The results show that the conditions created by these surgeries can elongate RBCs by more than two-fold (3.1% of RBCs for 2.5mm BT shunt, 1.4% for 4mm BT shunt, and 8.8% for CS). Shear and areal strain metrics also reveal that the central shunt creates the greatest deformations on the RBCs membrane, indicating it is a more hemolytic procedure in comparison to the BT shunt. Between the two BT shunts, the smaller diameter is slightly more prone to hemolysis. These conclusions are confirmed when strain history and different damage thresholds are considered. The spatial damage maps produced based on these metrics highlighted hot zones that match the clinical images of shunt thrombosis.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "Computer Methods and Programs in Biomedicine, 271 (2025) 108947",
+  "pdf_url": null,
+  "category": "physics.flu-dyn"
+}

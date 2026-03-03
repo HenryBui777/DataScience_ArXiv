@@ -1,0 +1,18 @@
+{
+  "title": "Hardware Trends Impacting Floating-Point Computations In Scientific Applications",
+  "authors": [
+    "Jack Dongarra",
+    "John Gunnels",
+    "Harun Bayraktar",
+    "Azzam Haidar",
+    "Dan Ernst"
+  ],
+  "summary": "The evolution of floating-point computation has been shaped by algorithmic advancements, architectural innovations, and the increasing computational demands of modern technologies, such as artificial intelligence (AI) and high-performance computing (HPC). This paper examines the historical progression of floating-point computation in scientific applications and contextualizes recent trends driven by AI, particularly the adoption of reduced-precision floating-point types. The challenges posed by these trends, including the trade-offs between performance, efficiency, and precision, are discussed, as are innovations in mixed-precision computing and emulation algorithms that offer solutions to these challenges. This paper also explores architectural shifts, including the role of specialized and general-purpose hardware, and how these trends will influence future advancements in scientific computing, energy efficiency, and system design.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-12-20"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Automatic Inference of Relational Object Invariants",
+  "authors": [
+    "Yusen Su",
+    "Jorge A. Navas",
+    "Arie Gurfinkel",
+    "Isabel Garcia-Contreras"
+  ],
+  "summary": "Relational object invariants (or representation invariants) are relational properties held by the fields of a (memory) object throughout its lifetime. For example, the length of a buffer never exceeds its capacity. Automatic inference of these invariants is particularly challenging because they are often broken temporarily during field updates. In this paper, we present an Abstract Interpretation-based solution to infer object invariants. Our key insight is a new object abstraction for memory objects, where memory is divided into multiple memory banks, each containing several objects. Within each bank, the objects are further abstracted by separating the most recently used (MRU) object, represented precisely with strong updates, while the rest are summarized. For an effective implementation of this approach, we introduce a new composite abstract domain, which forms a reduced product of numerical and equality sub-domains. This design efficiently expresses relationships between a small number of variables (e.g., fields of the same abstract object). We implement the new domain in the CRAB abstract interpreter and evaluate it on several benchmarks for memory safety. We show that our approach is significantly more scalable for relational properties than the existing implementation of CRAB. For evaluating precision, we have integrated our analysis as a pre-processing step to SEABMC bounded model checker, and show that it is effective at both discharging assertions during pre-processing, and significantly improving the run-time of SEABMC.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.PL"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Validating GWAS Findings through Reverse Engineering of Contingency Tables",
+  "authors": [
+    "Yuzhou Jiang",
+    "Erman Ayday"
+  ],
+  "summary": "Reproducibility in genome-wide association studies (GWAS) is crucial for ensuring reliable genomic research outcomes. However, limited access to original genomic datasets (mainly due to privacy concerns) prevents researchers from reproducing experiments to validate results. In this paper, we propose a novel method for GWAS reproducibility validation that detects unintentional errors without the need for dataset sharing. Our approach leverages p-values from GWAS outcome reports to estimate contingency tables for each single nucleotide polymorphism (SNP) and calculates the Hamming distance between the minor allele frequencies (MAFs) derived from these contingency tables and publicly available phenotype-specific MAF data. By comparing the average Hamming distance, we validate results that fall within a trusted threshold as reliable, while flagging those that exceed the threshold for further inspection. This approach not only allows researchers to validate the correctness of GWAS findings of other researchers, but it also provides a self-check step for the researchers before they publish their findings. We evaluate our approach using three real-life SNP datasets from OpenSNP, showing its ability to detect unintentional errors effectively, even when small errors occur, such as 1\\% of SNPs being reported incorrectly. This novel validation technique offers a promising solution to the GWAS reproducibility challenge, balancing the need for rigorous validation with the imperative of protecting sensitive genomic data, thereby enhancing trust and accuracy in genetic research.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-bio.GN, cs.CR"
+}

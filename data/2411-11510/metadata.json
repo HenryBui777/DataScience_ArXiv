@@ -1,0 +1,15 @@
+{
+  "title": "Closed-loop multi-step planning with innate physics knowledge",
+  "authors": [
+    "Giulia Lafratta",
+    "Bernd Porr",
+    "Christopher Chandler",
+    "Alice Miller"
+  ],
+  "summary": "We present a hierarchical framework to solve robot planning as an input control problem. At the lowest level are temporary closed control loops, (\"tasks\"), each representing a behaviour, contingent on a specific sensory input and therefore temporary. At the highest level, a supervising \"Configurator\" directs task creation and termination. Here resides \"core\" knowledge as a physics engine, where sequences of tasks can be simulated. The Configurator encodes and interprets simulation results,based on which it can choose a sequence of tasks as a plan. We implement this framework on a real robot and test it in an overtaking scenario as proof-of-concept.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO, cs.AI, cs.ET, eess.SY"
+}

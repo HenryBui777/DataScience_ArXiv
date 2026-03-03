@@ -1,0 +1,13 @@
+{
+  "title": "Photon drag at the junction between metal and 2d semiconductor",
+  "authors": [
+    "Dmitry Svintsov",
+    "Zhanna Devizorova"
+  ],
+  "summary": "Photon drag represents a mechanism of photocurrent generation wherein the electromagnetic (EM) field momentum is transferred directly to the charge carriers. It is believed to be small by the virtue of low photon momentum compared to the typical momenta of the charge carriers. Here, we show that photon drag becomes particularly strong at the junctions between metals and 2d materials, wherein highly non-uniform local EM fields are generated upon diffraction. To this end, we combine an exact theory of diffraction at 'metal-2d material' junctions with microscopic transport theory of photon drag, and derive the functional dependences of the respective photovoltage on the parameters of EM field and 2d system. The voltage responsivity appears inversely proportional to the electromagnetic frequency $ω$, the sheet density of charge, and a dimensionless momentum transfer coefficient $α$ which depends only on 2d conductivity in units of light speed $η= 2πσ/c$ and light polarization. For $p$-polarized incident light, the momentum transfer coefficient appears finite even for vanishingly small 2d conductivity $η$, which is a consequence of dynamic lightning rod effect. For $s$-polarized incident light, the momentum transfer coefficient scales as $η\\ln η^{-1}$, which stems from long-range dipole radiation of a linear junction. A simple estimate shows that the ratio of thermoelectric and photon drag photovoltages at the junction for $p$-polarization is roughly $ωτ_\\varepsilon$, where $τ_\\varepsilon$ is the energy relaxation time, while for $s$-polarization the photon drag always dominates over the thermoelectric effect.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "JETP Letters (2025)",
+  "pdf_url": null,
+  "category": "cond-mat.mes-hall, physics.optics"
+}

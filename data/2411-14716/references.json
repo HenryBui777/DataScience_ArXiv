@@ -1,0 +1,730 @@
+{
+  "2409-09350": {
+    "title": "OPUS: Occupancy Prediction Using a Sparse Set",
+    "authors": [
+      "Jiabao Wang",
+      "Zhaojiang Liu",
+      "Qiang Meng",
+      "Liujiang Yan",
+      "Ke Wang",
+      "Jie Yang",
+      "Wei Liu",
+      "Qibin Hou",
+      "Ming-Ming Cheng"
+    ],
+    "publication_date": "2024-09-14",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "8c15178c52220fc32948e11e22d120875ad59068",
+    "corpus_id": 272689372,
+    "category": "Computer Science"
+  },
+  "2408-11447": {
+    "title": "GaussianOcc: Fully Self-supervised and Efficient 3D Occupancy Estimation with Gaussian Splatting",
+    "authors": [
+      "Wanshui Gan",
+      "Fang Liu",
+      "Hongbin Xu",
+      "Ningkai Mo",
+      "Naoto Yokoya"
+    ],
+    "publication_date": "2024-08-21",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "e6c8a1f4060f9dd5c7e93b26979e69497f61a00a",
+    "corpus_id": 271916073,
+    "category": "Computer Science"
+  },
+  "2407-14108": {
+    "title": "GaussianBeV: 3D Gaussian Representation meets Perception Models for BeV Segmentation",
+    "authors": [
+      "Florian Chabot",
+      "Nicolas Granger",
+      "Guillaume Lapouge"
+    ],
+    "publication_date": "2024-07-19",
+    "venue": "IEEE Workshop/Winter Conference on Applications of Computer Vision",
+    "semantic_scholar_id": "47150310f8c9539bc5ee19a323bb57929b31eed4",
+    "corpus_id": 271309943,
+    "category": "Computer Science"
+  },
+  "2405-17429": {
+    "title": "GaussianFormer: Scene as Gaussians for Vision-Based 3D Semantic Occupancy Prediction",
+    "authors": [
+      "Yuanhui Huang",
+      "Wenzhao Zheng",
+      "Yunpeng Zhang",
+      "Jie Zhou",
+      "Jiwen Lu"
+    ],
+    "publication_date": "2024-05-27",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "e84113a4fcf42dc34edb150ea411a9ae7c05f091",
+    "corpus_id": 270063041,
+    "category": "Computer Science"
+  },
+  "2404-01300": {
+    "title": "NeRF-MAE: Masked AutoEncoders for Self-Supervised 3D Representation Learning for Neural Radiance Fields",
+    "authors": [
+      "Muhammad Zubair Irshad",
+      "Sergey Zakahrov",
+      "V. Guizilini",
+      "Adrien Gaidon",
+      "Z. Kira",
+      "Rares Ambrus"
+    ],
+    "publication_date": "2024-04-01",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "9f997658d58cab622c629bae8480a1c60c459ffd",
+    "corpus_id": 268856940,
+    "category": "Computer Science"
+  },
+  "2403-12722": {
+    "title": "HUGS: Holistic Urban 3D Scene Understanding via Gaussian Splatting",
+    "authors": [
+      "Hongyu Zhou",
+      "Jiahao Shao",
+      "Lu Xu",
+      "Dongfeng Bai",
+      "Weichao Qiu",
+      "Bingbing Liu",
+      "Yue Wang",
+      "Andreas Geiger",
+      "Yiyi Liao"
+    ],
+    "publication_date": "2024-03-19",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "a0be2538e6e1e7c381b948c82672664a7eaa8f26",
+    "corpus_id": 268531370,
+    "category": "Computer Science"
+  },
+  "2403-08760": {
+    "title": "MIM4D: Masked Modeling with Multi-View Video for Autonomous Driving Representation Learning",
+    "authors": [
+      "Jialv Zou",
+      "Bencheng Liao",
+      "Qian Zhang",
+      "Wenyu Liu",
+      "Xinggang Wang"
+    ],
+    "publication_date": "2024-03-13",
+    "venue": "International Journal of Computer Vision",
+    "semantic_scholar_id": "ace726e1ee103fb42455d82a5f8fa8630002c5d5",
+    "corpus_id": 268379286,
+    "category": "Computer Science"
+  },
+  "2402-14650": {
+    "title": "GaussianPro: 3D Gaussian Splatting with Progressive Propagation",
+    "authors": [
+      "Kai Cheng",
+      "Xiaoxiao Long",
+      "Kaizhi Yang",
+      "Yao Yao",
+      "Wei Yin",
+      "Yuexin Ma",
+      "Wenping Wang",
+      "Xuejin Chen"
+    ],
+    "publication_date": "2024-02-22",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "e22c03e7ca21ee07e2253960dcd4670cf955a3de",
+    "corpus_id": 267782867,
+    "category": "Computer Science"
+  },
+  "2401-08045": {
+    "title": "Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities",
+    "authors": [
+      "Xu Yan",
+      "Haiming Zhang",
+      "Yingjie Cai",
+      "Jingming Guo",
+      "Weichao Qiu",
+      "Bin Gao",
+      "Kaiqiang Zhou",
+      "Yue Zhao",
+      "Huan Jin",
+      "Jiantao Gao",
+      "Zhen Li",
+      "Lihui Jiang",
+      "Wei Zhang",
+      "Hongbo Zhang",
+      "Dengxin Dai",
+      "Bingbing Liu"
+    ],
+    "publication_date": "2024-01-16",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "550c32e252722c2ad6b3ac17703654d96cb2c600",
+    "corpus_id": 266999264,
+    "category": "Computer Science"
+  },
+  "2312-17655": {
+    "title": "Visual Point Cloud Forecasting Enables Scalable Autonomous Driving",
+    "authors": [
+      "Zetong Yang",
+      "Li Chen",
+      "Yanan Sun",
+      "Hongyang Li"
+    ],
+    "publication_date": "2023-12-29",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "4013689f1f543da38950b72cc263cc439634b595",
+    "corpus_id": 266690615,
+    "category": "Computer Science"
+  },
+  "2312-17118": {
+    "title": "Fully Sparse 3D Occupancy Prediction",
+    "authors": [
+      "Haisong Liu",
+      "Yang Chen",
+      "Haiguang Wang",
+      "Zetong Yang",
+      "Tianyu Li",
+      "Jia Zeng",
+      "Li Chen",
+      "Hongyang Li",
+      "Limin Wang"
+    ],
+    "publication_date": "2023-12-28",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "c526224d05de4f9edb4f25d6dda593f635e21d92",
+    "corpus_id": 266573689,
+    "category": "Computer Science"
+  },
+  "2312-11829": {
+    "title": "RadOcc: Learning Cross-Modality Occupancy Knowledge through Rendering Assisted Distillation",
+    "authors": [
+      "Haiming Zhang",
+      "Xu Yan",
+      "Dongfeng Bai",
+      "Jiantao Gao",
+      "Pan Wang",
+      "Bingbing Liu",
+      "Shuguang Cui",
+      "Zhen Li"
+    ],
+    "publication_date": "2023-12-19",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "fa3b125aa1b83c3a9d099fcfcd5e823c4a21493b",
+    "corpus_id": 266362540,
+    "category": "Computer Science"
+  },
+  "2312-12337": {
+    "title": "PixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction",
+    "authors": [
+      "David Charatan",
+      "S. Li",
+      "Andrea Tagliasacchi",
+      "Vincent Sitzmann"
+    ],
+    "publication_date": "2023-12-19",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "632a4956aebedd85f61445718ec5df9589bb5843",
+    "corpus_id": 266362208,
+    "category": "Computer Science"
+  },
+  "2312-07920": {
+    "title": "DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes",
+    "authors": [
+      "Xiaoyu Zhou",
+      "Zhiwei Lin",
+      "Xiaojun Shan",
+      "Yongtao Wang",
+      "Deqing Sun",
+      "Ming-Hsuan Yang"
+    ],
+    "publication_date": "2023-12-13",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "95d3b6d595e0510edb535a5071c48240d4bb950a",
+    "corpus_id": 266191747,
+    "category": "Computer Science"
+  },
+  "2311-18561": {
+    "title": "Periodic Vibration Gaussian: Dynamic Urban Scene Reconstruction and Real-time Rendering",
+    "authors": [
+      "Yurui Chen",
+      "Chun Gu",
+      "Junzhe Jiang",
+      "Xiatian Zhu",
+      "Li Zhang"
+    ],
+    "publication_date": "2023-11-30",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "3d3b85d1d1829bf951d5368670fb56ac096760c2",
+    "corpus_id": 265506369,
+    "category": "Computer Science"
+  },
+  "2310-17281": {
+    "title": "BEVContrast: Self-Supervision in BEV Space for Automotive Lidar Point Clouds",
+    "authors": [
+      "Corentin Sautier",
+      "Gilles Puy",
+      "Alexandre Boulch",
+      "Renaud Marlet",
+      "Vincent Lepetit"
+    ],
+    "publication_date": "2023-10-26",
+    "venue": "International Conference on 3D Vision",
+    "semantic_scholar_id": "d1664a797b599da8134f516f675b1654a397349e",
+    "corpus_id": 264490981,
+    "category": "Computer Science"
+  },
+  "2310-08370": {
+    "title": "UniPAD: A Universal Pre-Training Paradigm for Autonomous Driving",
+    "authors": [
+      "Honghui Yang",
+      "Sha Zhang",
+      "Di Huang",
+      "Xiaoyang Wu",
+      "Haoyi Zhu",
+      "Tong He",
+      "Shixiang Tang",
+      "Hengshuang Zhao",
+      "Qibo Qiu",
+      "Binbin Lin",
+      "Xiaofei He",
+      "Wanli Ouyang"
+    ],
+    "publication_date": "2023-10-12",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "9930206a9faa5e58bf8e59389c089400fc6eb6e6",
+    "corpus_id": 263909031,
+    "category": "Computer Science"
+  },
+  "2309-09502": {
+    "title": "RenderOcc: Vision-Centric 3D Occupancy Prediction with 2D Rendering Supervision",
+    "authors": [
+      "Mingjie Pan",
+      "Jiaming Liu",
+      "Renrui Zhang",
+      "Peixiang Huang",
+      "Xiaoqi Li",
+      "Li Liu",
+      "Shanghang Zhang"
+    ],
+    "publication_date": "2023-09-18",
+    "venue": "IEEE International Conference on Robotics and Automation",
+    "semantic_scholar_id": "64a41a828dcb43a451bc6cf7dd316b6d8dcf0877",
+    "corpus_id": 262044158,
+    "category": "Computer Science"
+  },
+  "2308-04079": {
+    "title": "3D Gaussian Splatting for Real-Time Radiance Field Rendering",
+    "authors": [
+      "Bernhard Kerbl",
+      "Georgios Kopanas",
+      "Thomas Leimkuehler",
+      "G. Drettakis"
+    ],
+    "publication_date": "2023-07-26",
+    "venue": "ACM Transactions on Graphics",
+    "semantic_scholar_id": "2cc1d857e86d5152ba7fe6a8355c2a0150cc280a",
+    "corpus_id": 259267917,
+    "category": "Computer Science"
+  },
+  "2307-01492": {
+    "title": "FB-OCC: 3D Occupancy Prediction based on Forward-Backward View Transformation",
+    "authors": [
+      "Zhiqi Li",
+      "Zhiding Yu",
+      "David Austin",
+      "Mingsheng Fang",
+      "Shiyi Lan",
+      "Jan Kautz",
+      "J. Álvarez"
+    ],
+    "publication_date": "2023-07-04",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "af3942c3196588440471541be01feb60dfa28516",
+    "corpus_id": 259341794,
+    "category": "Computer Science"
+  },
+  "2306-02851": {
+    "title": "Scene as Occupancy",
+    "authors": [
+      "Wenwen Tong",
+      "Chonghao Sima",
+      "Tai Wang",
+      "Silei Wu",
+      "Hanming Deng",
+      "Li Chen",
+      "Yingshuang Gu",
+      "Lewei Lu",
+      "Ping Luo",
+      "Dahua Lin",
+      "Hongyang Li"
+    ],
+    "publication_date": "2023-06-05",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "ccf32de46548780baa55a7ab7a2922ce10343f48",
+    "corpus_id": 259075608,
+    "category": "Computer Science"
+  },
+  "2306-00612": {
+    "title": "AD-PT: Autonomous Driving Pre-Training with Large-scale Point Cloud Dataset",
+    "authors": [
+      "Jiakang Yuan",
+      "Bo Zhang",
+      "Xiangchao Yan",
+      "Tao Chen",
+      "Botian Shi",
+      "Yikang Li",
+      "Y. Qiao"
+    ],
+    "publication_date": "2023-06-01",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "25c9502575d3c328a9e2f20580c98acb877ea2c5",
+    "corpus_id": 259000038,
+    "category": "Computer Science"
+  },
+  "2304-14365": {
+    "title": "Occ3D: A Large-Scale 3D Occupancy Prediction Benchmark for Autonomous Driving",
+    "authors": [
+      "Xiaoyu Tian",
+      "Tao Jiang",
+      "Longfei Yun",
+      "Yue Wang",
+      "Yilun Wang",
+      "Hang Zhao"
+    ],
+    "publication_date": "2023-04-27",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "1b3a6efc7c68e8a2b350b4d07cdb50b6a48c6e3b",
+    "corpus_id": 258352562,
+    "category": "Computer Science"
+  },
+  "2303-03991": {
+    "title": "OpenOccupancy: A Large Scale Benchmark for Surrounding Semantic Occupancy Perception",
+    "authors": [
+      "Xiaofeng Wang",
+      "Zhengbiao Zhu",
+      "Wenbo Xu",
+      "Yunpeng Zhang",
+      "Yi Wei",
+      "Xu Chi",
+      "Yun Ye",
+      "Dalong Du",
+      "Jiwen Lu",
+      "Xingang Wang"
+    ],
+    "publication_date": "2023-03-07",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "ab2a4a8111fc7b485d0ff3bb7b717e83c73bea14",
+    "corpus_id": 257378542,
+    "category": "Computer Science"
+  },
+  "2302-07817": {
+    "title": "Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction",
+    "authors": [
+      "Yuan-Ko Huang",
+      "Wenzhao Zheng",
+      "Yunpeng Zhang",
+      "Jie Zhou",
+      "Jiwen Lu"
+    ],
+    "publication_date": "2023-02-15",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "ea3cfdce04d7f6b2dc99a47ec9d33ba30dd5c39d",
+    "corpus_id": 256868375,
+    "category": "Computer Science"
+  },
+  "2212-10156": {
+    "title": "Planning-oriented Autonomous Driving",
+    "authors": [
+      "Yi Hu",
+      "Jiazhi Yang",
+      "Li Chen",
+      "Keyu Li",
+      "Chonghao Sima",
+      "Xizhou Zhu",
+      "Siqi Chai",
+      "Senyao Du",
+      "Tianwei Lin",
+      "Wen Wang",
+      "Lewei Lu",
+      "Xiaosong Jia",
+      "Qiang Liu",
+      "Jifeng Dai",
+      "Yu Qiao",
+      "Hongyang Li"
+    ],
+    "publication_date": "2022-12-20",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "fdd7d5b0f6b8641c356e170fd264cd11f70ba657",
+    "corpus_id": 257687420,
+    "category": "Computer Science"
+  },
+  "2212-07207": {
+    "title": "MAELi: Masked Autoencoder for Large-Scale LiDAR Point Clouds",
+    "authors": [
+      "Georg Krispel",
+      "David Schinagl",
+      "Christian Fruhwirth-Reisinger",
+      "Horst Possegger",
+      "H. Bischof"
+    ],
+    "publication_date": "2022-12-14",
+    "venue": "IEEE Workshop/Winter Conference on Applications of Computer Vision",
+    "semantic_scholar_id": "d102e7d6515ae066c72789950b6a5ea3c52cc51b",
+    "corpus_id": 254636401,
+    "category": "Computer Science"
+  },
+  "2212-05867": {
+    "title": "ALSO: Automotive Lidar Self-Supervision by Occupancy Estimation",
+    "authors": [
+      "Alexandre Boulch",
+      "Corentin Sautier",
+      "Bjoern Michele",
+      "Gilles Puy",
+      "Renaud Marlet"
+    ],
+    "publication_date": "2022-12-12",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "0a649ffe0429f41d1e033fa9b5e4bd11efd15b9d",
+    "corpus_id": 254564062,
+    "category": "Computer Science"
+  },
+  "2211-14710": {
+    "title": "3DPPE: 3D Point Positional Encoding for Multi-Camera 3D Object Detection Transformers",
+    "authors": [
+      "Changyong Shu",
+      "Jiajun Deng",
+      "F. Yu",
+      "Yifan Liu"
+    ],
+    "publication_date": "2022-11-27",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "ed1eee5db06bb4f33b06f38dce834073ef600a5c",
+    "corpus_id": 254043524,
+    "category": "Computer Science"
+  },
+  "2211-10439": {
+    "title": "BEVFormer v2: Adapting Modern Image Backbones to Bird's-Eye-View Recognition via Perspective Supervision",
+    "authors": [
+      "Chenyu Yang",
+      "Yuntao Chen",
+      "Haofei Tian",
+      "Chenxin Tao",
+      "Xizhou Zhu",
+      "Zhaoxiang Zhang",
+      "Gao Huang",
+      "Hongyang Li",
+      "Y. Qiao",
+      "Lewei Lu",
+      "Jie Zhou",
+      "Jifeng Dai"
+    ],
+    "publication_date": "2022-11-18",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "968fc508273f20a8c9cfc511a3d372f54198592b",
+    "corpus_id": 253708369,
+    "category": "Computer Science"
+  },
+  "2206-10092": {
+    "title": "BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection",
+    "authors": [
+      "Yinhao Li",
+      "Zheng Ge",
+      "Guanyi Yu",
+      "Jinrong Yang",
+      "Zengran Wang",
+      "Yukang Shi",
+      "Jian‐Yuan Sun",
+      "Zeming Li"
+    ],
+    "publication_date": "2022-06-21",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "234f0122e0edccba5c91763e800c2f02fe8ae4fe",
+    "corpus_id": 249890060,
+    "category": "Computer Science"
+  },
+  "2206-09900": {
+    "title": "Occupancy-MAE: Self-Supervised Pre-Training Large-Scale LiDAR Point Clouds With Masked Occupancy Autoencoders",
+    "authors": [
+      "Chen Min",
+      "Xinli Xu",
+      "Dawei Zhao",
+      "Liang Xiao",
+      "Yiming Nie",
+      "B. Dai"
+    ],
+    "publication_date": "2022-06-20",
+    "venue": "IEEE Transactions on Intelligent Vehicles",
+    "semantic_scholar_id": "b671dd98e7b2fd55fc42ccb86f047c993ed88c21",
+    "corpus_id": 258426494,
+    "category": "Computer Science"
+  },
+  "2206-04042": {
+    "title": "Learning Ego 3D Representation as Ray Tracing",
+    "authors": [
+      "Jiachen Lu",
+      "Zheyuan Zhou",
+      "Xiatian Zhu",
+      "Hang Xu",
+      "Li Zhang"
+    ],
+    "publication_date": "2022-06-08",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "f9d008afc0f4034163fd849c3097060ab0c1927b",
+    "corpus_id": 249461790,
+    "category": "Computer Science"
+  },
+  "2206-00630": {
+    "title": "Unifying Voxel-based Representation with Transformer for 3D Object Detection",
+    "authors": [
+      "Yanwei Li",
+      "Yilun Chen",
+      "Xiaojuan Qi",
+      "Zeming Li",
+      "Jian Sun",
+      "Jiaya Jia"
+    ],
+    "publication_date": "2022-06-01",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "20114810f64a7ca05b3b9acbc873a74d9de9c13a",
+    "corpus_id": 249240467,
+    "category": "Computer Science"
+  },
+  "2203-17270": {
+    "title": "BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers",
+    "authors": [
+      "Zhiqi Li",
+      "Wenhai Wang",
+      "Hongyang Li",
+      "Enze Xie",
+      "Chonghao Sima",
+      "Tong Lu",
+      "Qiao Yu",
+      "Jifeng Dai"
+    ],
+    "publication_date": "2022-03-31",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "a824c6e214dd0118f70af8bb05d67d94a858d076",
+    "corpus_id": 247839336,
+    "category": "Computer Science"
+  },
+  "2203-05625": {
+    "title": "PETR: Position Embedding Transformation for Multi-View 3D Object Detection",
+    "authors": [
+      "Yingfei Liu",
+      "Tiancai Wang",
+      "X. Zhang",
+      "Jian Sun"
+    ],
+    "publication_date": "2022-03-10",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "8bef2ad7d969f0e37d9c8b78d9c8d2997838f2cf",
+    "corpus_id": 247411100,
+    "category": "Computer Science"
+  },
+  "2201-03545": {
+    "title": "A ConvNet for the 2020s",
+    "authors": [
+      "Zhuang Liu",
+      "Hanzi Mao",
+      "Chaozheng Wu",
+      "Christoph Feichtenhofer",
+      "Trevor Darrell",
+      "Saining Xie"
+    ],
+    "publication_date": "2022-01-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "177e957f5cd93229c9794ea652c646d2557b4a69",
+    "corpus_id": 245837420,
+    "category": "Computer Science"
+  },
+  "2112-11790": {
+    "title": "BEVDet: High-performance Multi-camera 3D Object Detection in Bird-Eye-View",
+    "authors": [
+      "Junjie Huang",
+      "Guan Huang",
+      "Zheng Zhu",
+      "Dalong Du"
+    ],
+    "publication_date": "2021-12-22",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "56a7a5bc55a5af2b1a78a0c18b16a5af6f5d3670",
+    "corpus_id": 245385398,
+    "category": "Computer Science"
+  },
+  "2112-04680": {
+    "title": "SimIPU: Simple 2D Image and 3D Point Cloud Unsupervised Pre-Training for Spatial-Aware Visual Representations",
+    "authors": [
+      "Zhenyu Li",
+      "Zehui Chen",
+      "Ang Li",
+      "Liangji Fang",
+      "Qinhong Jiang",
+      "Xianming Liu",
+      "Junjun Jiang",
+      "Bolei Zhou",
+      "Hang Zhao"
+    ],
+    "publication_date": "2021-12-09",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "88e119f047fa9327215124e5872a7392ba421181",
+    "corpus_id": 245006203,
+    "category": "Computer Science"
+  },
+  "2108-06417": {
+    "title": "Is Pseudo-Lidar needed for Monocular 3D Object detection?",
+    "authors": [
+      "Dennis Park",
+      "Rares Ambrus",
+      "V. Guizilini",
+      "Jie Li",
+      "Adrien Gaidon"
+    ],
+    "publication_date": "2021-08-13",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "8620b942d3e31261971ce7b5d50f652a09e0aa62",
+    "corpus_id": 237091228,
+    "category": "Computer Science"
+  },
+  "2104-10956": {
+    "title": "FCOS3D: Fully Convolutional One-Stage Monocular 3D Object Detection",
+    "authors": [
+      "Tai Wang",
+      "Xinge Zhu",
+      "Jiangmiao Pang",
+      "Dahua Lin"
+    ],
+    "publication_date": "2021-04-22",
+    "venue": "2021 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)",
+    "semantic_scholar_id": "993e389503ad2e4a473b5b0db3abe90f094c811d",
+    "corpus_id": 233346796,
+    "category": "Computer Science"
+  },
+  "1908-09492": {
+    "title": "Class-balanced Grouping and Sampling for Point Cloud 3D Object Detection",
+    "authors": [
+      "Benjin Zhu",
+      "Zhengkai Jiang",
+      "Xiangxin Zhou",
+      "Zeming Li",
+      "Gang Yu"
+    ],
+    "publication_date": "2019-08-26",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "565166a12e9df19bb4c9a1abd078c6cd6f4bb39f",
+    "corpus_id": 201666248,
+    "category": "Computer Science"
+  },
+  "1903-11027": {
+    "title": "nuScenes: A Multimodal Dataset for Autonomous Driving",
+    "authors": [
+      "Holger Caesar",
+      "Varun Bankiti",
+      "Alex H. Lang",
+      "Sourabh Vora",
+      "Venice Erin Liong",
+      "Qiang Xu",
+      "Anush Krishnan",
+      "Yuxin Pan",
+      "G. Baldan",
+      "Oscar Beijbom"
+    ],
+    "publication_date": "2019-03-26",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "9e475a514f54665478aac6038c262e5a6bac5e64",
+    "corpus_id": 85517967,
+    "category": "Computer Science, Mathematics"
+  }
+}

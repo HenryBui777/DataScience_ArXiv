@@ -1,0 +1,21 @@
+{
+  "title": "I2TTS: Image-indicated Immersive Text-to-speech Synthesis with Spatial Perception",
+  "authors": [
+    "Jiawei Zhang",
+    "Tian-Hao Zhang",
+    "Jun Wang",
+    "Jiaran Gao",
+    "Xinyuan Qian",
+    "Xu-Cheng Yin"
+  ],
+  "summary": "Controlling the style and characteristics of speech synthesis is crucial for adapting the output to specific contexts and user requirements. Previous Text-to-speech (TTS) works have focused primarily on the technical aspects of producing natural-sounding speech, such as intonation, rhythm, and clarity. However, they overlook the fact that there is a growing emphasis on spatial perception of synthesized speech, which may provide immersive experience in gaming and virtual reality. To solve this issue, in this paper, we present a novel multi-modal TTS approach, namely Image-indicated Immersive Text-to-speech Synthesis (I2TTS). Specifically, we introduce a scene prompt encoder that integrates visual scene prompts directly into the synthesis pipeline to control the speech generation process. Additionally, we propose a reverberation classification and refinement technique that adjusts the synthesized mel-spectrogram to enhance the immersive experience, ensuring that the involved reverberation condition matches the scene accurately. Experimental results demonstrate that our model achieves high-quality scene and spatial matching without compromising speech naturalness, marking a significant advancement in the field of context-aware speech synthesis. Project demo page: https://spatialTTS.github.io/ Index Terms-Speech synthesis, scene prompt, spatial perception",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-12-02",
+    "2025-09-02",
+    "2025-09-03"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SD, eess.AS"
+}

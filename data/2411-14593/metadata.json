@@ -1,0 +1,15 @@
+{
+  "title": "A Systematic Study of Multi-Agent Deep Reinforcement Learning for Safe and Robust Autonomous Highway Ramp Entry",
+  "authors": [
+    "Larry Schester",
+    "Luis E. Ortiz"
+  ],
+  "summary": "Vehicles today can drive themselves on highways and driverless robotaxis operate in major cities, with more sophisticated levels of autonomous driving expected to be available and become more common in the future. Yet, technically speaking, so-called \"Level 5\" (L5) operation, corresponding to full autonomy, has not been achieved. For that to happen, functions such as fully autonomous highway ramp entry must be available, and provide provably safe, and reliably robust behavior to enable full autonomy. We present a systematic study of a highway ramp function that controls the vehicles forward-moving actions to minimize collisions with the stream of highway traffic into which a merging (ego) vehicle enters. We take a game-theoretic multi-agent (MA) approach to this problem and study the use of controllers based on deep reinforcement learning (DRL). The virtual environment of the MA DRL uses self-play with simulated data where merging vehicles safely learn to control longitudinal position during a taper-type merge. The work presented in this paper extends existing work by studying the interaction of more than two vehicles (agents) and does so by systematically expanding the road scene with additional traffic and ego vehicles. While previous work on the two-vehicle setting established that collision-free controllers are theoretically impossible in fully decentralized, non-coordinated environments, we empirically show that controllers learned using our approach are nearly ideal when measured against idealized optimal controllers.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-01-17"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO, cs.AI, cs.LG, cs.MA, eess.SY"
+}

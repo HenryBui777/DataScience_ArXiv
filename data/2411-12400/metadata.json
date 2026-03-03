@@ -1,0 +1,16 @@
+{
+  "title": "Bi-LSTM neural network for EEG-based error detection in musicians' performance",
+  "authors": [
+    "Isaac Ariza",
+    "Lorenzo J. Tardon",
+    "Ana M. Barbancho",
+    "Irene De-Torres",
+    "Isabel Barbancho"
+  ],
+  "summary": "Electroencephalography (EEG) is a tool that allows us to analyze brain activity with high temporal resolution. These measures, combined with deep learning and digital signal processing, are widely used in neurological disorder detection and emotion and mental activity recognition. In this paper, a new method for mental activity recognition is presented; instantaneous frequency, spectral entropy and Mel-frequency cepstral coefficients (MFCC) are used to classify EEG signals using bidirectional LSTM neural networks. It is shown that this method can be used for intra-subject or inter-subject analysis and has been applied to error detection in musician performance reaching compelling accuracy.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "Biomedical Signal Proces. and Control, Vol.78, 2022",
+  "pdf_url": null,
+  "category": "eess.SP"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Hermes: A General-Purpose Proxy-Enabled Networking Architecture",
+  "authors": [
+    "Behrooz Farkiani",
+    "Fan Liu",
+    "Ke Yang",
+    "John DeHart",
+    "Jyoti Parwatikar",
+    "Patrick Crowley"
+  ],
+  "summary": "We introduce Hermes, a general-purpose networking architecture that aims to improve service delivery over the Internet. Hermes delegates networking responsibilities from applications and services to proxies and is designed as a portable, adaptable solution to four fundamental challenges of efficient service delivery over the Internet: end-to-end traffic management, backward compatibility, data-plane security and privacy, and adaptable communication layers. The design centers on an overlay of reconfigurable proxies and HTTP tunneling and proxying techniques, utilizing assisting components to extend proxy functionality when needed. Through prototyping and emulation, we demonstrate that Hermes improves key performance metrics across multiple use cases: it provides backward compatibility through protocol translation and tunneling, improves reliability by delegating retry logic to proxies, enables unified policy-based Layer 3 routing across network segments, and serves as an efficient substrate for future architectures like NDN, facilitating their operation over the Internet. Beyond evaluating Hermes across various use cases, we measured the overhead of Hermes' HTTP tunneling and proxying mechanisms and found it to be modest, typically under 2 ms per hop. With workloads of up to 1000 concurrent requests, we also show that Hermes proxies can amortize connection setup time and reduce end-to-end latency compared to direct no-proxy baselines.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-11-08"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.NI, cs.PF"
+}

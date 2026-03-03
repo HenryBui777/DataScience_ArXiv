@@ -1,0 +1,13 @@
+{
+  "title": "Multiscale Markowitz",
+  "authors": [
+    "Revant Nayar",
+    "Raphael Douady"
+  ],
+  "summary": "Traditional Markowitz portfolio optimization constrains daily portfolio variance to a target value, optimising returns, Sharpe or variance within this constraint. However, this approach overlooks the relationship between variance at different time scales, typically described by $σ(Δt) \\propto (Δt)^{H}$ where $H$ is the Hurst exponent, most of the time assumed to be \\(\\frac{1}{2}\\). This paper introduces a multifrequency optimization framework that allows investors to specify target portfolio variance across a range of frequencies, characterized by a target Hurst exponent $H_{target}$, or optimize the portfolio at multiple time scales. By incorporating this scaling behavior, we enable a more nuanced and comprehensive risk management strategy that aligns with investor preferences at various time scales. This approach effectively manages portfolio risk across multiple frequencies and adapts to different market conditions, providing a robust tool for dynamic asset allocation. This overcomes some of the traditional limitations of Markowitz, when it comes to dealing with crashes, regime changes, volatility clustering or multifractality in markets. We illustrate this concept with a toy example and discuss the practical implementation for assets with varying scaling behaviors.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-fin.PM, nlin.CD, q-fin.MF"
+}

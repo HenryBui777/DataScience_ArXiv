@@ -1,0 +1,13 @@
+{
+  "title": "Large Eddy Simulation using Nonlinearly Stable Flux Reconstruction",
+  "authors": [
+    "Julien Brillon",
+    "Siva Nadarajah"
+  ],
+  "summary": "The performance of the nonlinearly stable flux reconstruction (NSFR) schemes for resolving subsonic viscous turbulent free-shear flows is investigated. The schemes are extensively verified for the direct numerical simulation (DNS) of the Taylor-Green Vortex (TGV) problem. Several under-resolved simulations of the TGV problem are conducted to assess the performance of NSFR for large eddy simulation that is implicitly filtered and fully implicit (ILES). Increasing the flux reconstruction correction parameter ensures that NSFR is stable and accurate for ILES while allowing for larger explicit time-steps. The entropy-stable schemes implemented with sum-factorization for tensor and Hadamard products are shown to be more cost-effective than classical DG with over-integration. The choice of the two-point (TP) numerical flux does not impact the solution and the use of standard eddy-viscosity-based sub-grid scale models does not yield improvements for the problem considered. From the DNS results, the pressure dilatation-based dissipation rate for the nonlinearly stable schemes is consistent with literature when computed from the kinetic energy (KE) budget terms, while spurious oscillations are seen when the term is directly computed. The magnitude of these oscillations is significantly lower for a collocated scheme and are effectively eliminated with the addition of Roe upwind dissipation to the TP numerical flux. Therefore, these oscillations are believed to be associated with the treatment of the face terms in nonlinearly stable schemes. It is shown that oversampling the velocity field is necessary for obtaining accurate turbulent KE (TKE) spectra and eliminates an apparent pile-up of TKE at the smallest resolved scales. Lastly, the TKE spectra for a decaying homogeneous isotropic turbulence case are in good agreement with experiment measurements and computational results in the literature.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.flu-dyn, math.NA, physics.comp-ph"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Contact Tooling Manipulation Control for Robotic Repair Platform",
+  "authors": [
+    "Joong-Ku Lee",
+    "Young Soo Park"
+  ],
+  "summary": "This paper delves into various robotic manipulation control methods designed for dynamic contact tooling operations on a robotic repair platform. The explored control strategies include hybrid position-force control, admittance control, bilateral telerobotic control, virtual fixture, and shared control. Each approach is elucidated and assessed in terms of its applicability and effectiveness for handling contact tooling tasks in real-world repair scenarios. The hybrid position-force controller is highlighted for its proficiency in executing precise force-required tasks, but it demands contingent on an accurate model of the environment and structured, static environment. In contrast, for unstructured environments, bilateral teleoperation control is investigated, revealing that the compliance with the remote robot controller is crucial for stable contact, albeit at the expense of reduced motion tracking performance. Moreover, advanced controllers for tooling manipulation tasks, such as virtual fixture and shared control approaches, are investigated for their potential applications.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Intensity-Spatial Dual Masked Autoencoder for Multi-Scale Feature Learning in Chest CT Segmentation",
+  "authors": [
+    "Yuexing Ding",
+    "Jun Wang",
+    "Hongbing Lyu"
+  ],
+  "summary": "In the field of medical image segmentation, challenges such as indistinct lesion features, ambiguous boundaries,and multi-scale characteristics have long revailed. This paper proposes an improved method named Intensity-Spatial Dual Masked AutoEncoder (ISD-MAE). Based on the tissue-contrast semi-masked autoencoder, a Masked AutoEncoder (MAE) branch is introduced to perform intensity masking and spatial masking operations on chest CT images for multi-scale feature learning and segmentation tasks. The model utilizes a dual-branch structure and contrastive learning to enhance the ability to learn tissue features and boundary details. Experiments are conducted on multiple 2D and 3D datasets. The results show that ISD-MAE significantly outperforms other methods in 2D pneumonia and mediastinal tumor segmentation tasks. For example, the Dice score reaches 90.10% on the COVID19 LESION dataset, and the performance is relatively stable. However, there is still room for improvement on 3D datasets. In response to this, improvement directions are proposed, including optimizing the loss function, using enhanced 3D convolution blocks, and processing datasets from multiple perspectives.Our code is available at:https://github.com/prowontheus/ISD-MAE.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-02-14"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.CV"
+}

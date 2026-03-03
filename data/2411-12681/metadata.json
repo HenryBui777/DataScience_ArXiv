@@ -1,0 +1,15 @@
+{
+  "title": "AI Guided Early Screening of Cervical Cancer",
+  "authors": [
+    "Dharanidharan S",
+    "Suhitha Renuka S",
+    "Ajishi Singh",
+    "Sheena Christabel Pravin"
+  ],
+  "summary": "In order to support the creation of reliable machine learning models for anomaly detection, this project focuses on preprocessing, enhancing, and organizing a medical imaging dataset. There are two classifications in the dataset: normal and abnormal, along with extra noise fluctuations. In order to improve the photographs' quality, undesirable artifacts, including visible medical equipment at the edges, were eliminated using central cropping. Adjusting the brightness and contrast was one of the additional preprocessing processes. Normalization was then performed to normalize the data. To make classification jobs easier, the dataset was methodically handled by combining several image subsets into two primary categories: normal and pathological. To provide a strong training set that adapts well to real-world situations, sophisticated picture preprocessing techniques were used, such as contrast enhancement and real-time augmentation (including rotations, zooms, and brightness modifications). To guarantee efficient model evaluation, the data was subsequently divided into training and testing subsets. In order to create precise and effective machine learning models for medical anomaly detection, high-quality input data is ensured via this thorough approach. Because of the project pipeline's flexible and scalable design, it can be easily integrated with bigger clinical decision-support systems.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.AI, cs.CV"
+}

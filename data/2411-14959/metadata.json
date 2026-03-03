@@ -1,0 +1,18 @@
+{
+  "title": "Design-o-meter: Towards Evaluating and Refining Graphic Designs",
+  "authors": [
+    "Sahil Goyal",
+    "Abhinav Mahajan",
+    "Swasti Mishra",
+    "Prateksha Udhayanan",
+    "Tripti Shukla",
+    "K J Joseph",
+    "Balaji Vasan Srinivasan"
+  ],
+  "summary": "Graphic designs are an effective medium for visual communication. They range from greeting cards to corporate flyers and beyond. Off-late, machine learning techniques are able to generate such designs, which accelerates the rate of content production. An automated way of evaluating their quality becomes critical. Towards this end, we introduce Design-o-meter, a data-driven methodology to quantify the goodness of graphic designs. Further, our approach can suggest modifications to these designs to improve its visual appeal. To the best of our knowledge, Design-o-meter is the first approach that scores and refines designs in a unified framework despite the inherent subjectivity and ambiguity of the setting. Our exhaustive quantitative and qualitative analysis of our approach against baselines adapted for the task (including recent Multimodal LLM-based approaches) brings out the efficacy of our methodology. We hope our work will usher more interest in this important and pragmatic problem setting.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI, cs.HC"
+}

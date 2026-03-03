@@ -1,0 +1,14 @@
+{
+  "title": "Improved PIR Schemes using Matching Vectors and Derivatives",
+  "authors": [
+    "Fatemeh Ghasemi",
+    "Swastik Kopparty",
+    "Madhu Sudan"
+  ],
+  "summary": "In this paper, we construct new t-server Private Information Retrieval (PIR) schemes with communication complexity subpolynomial in the previously best known, for all but finitely many t. Our results are based on combining derivatives (in the spirit of Woodruff-Yekhanin) with the Matching Vector based PIRs of Yekhanin and Efremenko. Previously such a combination was achieved in an ingenious way by Dvir and Gopi, using polynomials and derivatives over certain exotic rings, en route to their fundamental result giving the first 2-server PIR with subpolynomial communication.\n  Our improved PIRs are based on two ingredients:\n  - We develop a new and direct approach to combine derivatives with Matching Vector based PIRs. This approach is much simpler than that of Dvir-Gopi: it works over the same field as the original PIRs, and only uses elementary properties of polynomials and derivatives.\n  - A key subproblem that arises in the above approach is a higher-order polynomial interpolation problem. We show how \"sparse S-decoding polynomials\", a powerful tool from the original constructions of Matching Vector PIRs, can be used to solve this higher-order polynomial interpolation problem using surprisingly few higer-order evaluations.\n  Using the known sparse S-decoding polynomials, in combination with our ideas leads to our improved PIRs. Notably, we get a 3-server PIR scheme with communication $2^{O^{\\sim}( (\\log n)^{1/3}) }$, improving upon the previously best known communication of $2^{O^{\\sim}( \\sqrt{\\log n})}$ due to Efremenko.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CC, cs.IT"
+}

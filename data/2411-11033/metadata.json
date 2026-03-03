@@ -1,0 +1,18 @@
+{
+  "title": "REACCEPT: Automated Co-evolution of Production and Test Code Based on Dynamic Validation and Large Language Models",
+  "authors": [
+    "Jianlei Chi",
+    "Xiaotian Wang",
+    "Yuhan Huang",
+    "Lechen Yu",
+    "Di Cui",
+    "Jianguo Sun",
+    "Jun Sun"
+  ],
+  "summary": "Synchronizing production and test code, known as PT co-evolution, is critical for software quality in the software development lifecycle. Existing methods for automatic PT co-evolution either utilize predefined heuristic rules or rely on simple application of machine learning techniques. Due to the limitations of underlying techniques, existing methods either only partially automate PT co-evolution (e.g., only automate obsolete test code identification) or result in low accuracy.\n  In this paper, we propose REACCEPT, a novel approach that leverages large language models and dynamic validation to fully automate PT co-evolution (i.e., capable of both identifying and updating obsolete test cases). REACCEPT relies on experience-based prompt template generation, dynamic validation, and retrieval-augmented generation techniques to accomplish automated PT co-evolution. To evaluate REACCEPT's effectiveness, we extensive experiments with a dataset of 537 Java projects and compared REACCEPT's performance with several state-of-the-art methods. Results show that REACCEPT achieved an update accuracy of 60.16% on correctly identified obsolete test code, surpassing the state-of-the-art technique CEPROT by 90%. This confirms that REACCEPT can effectively assist developers in maintaining test code, improving overall software quality and reducing maintenance effort.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SE"
+}

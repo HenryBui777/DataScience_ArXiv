@@ -1,0 +1,19 @@
+{
+  "title": "Motif Channel Opened in a White-Box: Stereo Matching via Motif Correlation Graph",
+  "authors": [
+    "Ziyang Chen",
+    "Yongjun Zhang",
+    "Wenting Li",
+    "Bingshu Wang",
+    "Yong Zhao",
+    "C. L. Philip Chen"
+  ],
+  "summary": "Real-world applications of stereo matching, such as autonomous driving, place stringent demands on both safety and accuracy. However, learning-based stereo matching methods inherently suffer from the loss of geometric structures in certain feature channels, creating a bottleneck in achieving precise detail matching. Additionally, these methods lack interpretability due to the black-box nature of deep learning. In this paper, we propose MoCha-V2, a novel learning-based paradigm for stereo matching. MoCha-V2 introduces the Motif Correlation Graph (MCG) to capture recurring textures, which are referred to as ``motifs\" within feature channels. These motifs reconstruct geometric structures and are learned in a more interpretable way. Subsequently, we integrate features from multiple frequency domains through wavelet inverse transformation. The resulting motif features are utilized to restore geometric structures in the stereo matching process. Experimental results demonstrate the effectiveness of MoCha-V2. MoCha-V2 achieved 1st place on the Middlebury benchmark at the time of its release. Code is available at https://github.com/ZYangChen/MoCha-Stereo.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-01-05"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

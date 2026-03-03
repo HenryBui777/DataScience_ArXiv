@@ -1,0 +1,16 @@
+{
+  "title": "Grid and Road Expressions Are Complementary for Trajectory Representation Learning",
+  "authors": [
+    "Silin Zhou",
+    "Shuo Shang",
+    "Lisi Chen",
+    "Peng Han",
+    "Christian S. Jensen"
+  ],
+  "summary": "Trajectory representation learning (TRL) maps trajectories to vectors that can be used for many downstream tasks. Existing TRL methods use either grid trajectories, capturing movement in free space, or road trajectories, capturing movement in a road network, as input. We observe that the two types of trajectories are complementary, providing either region and location information or providing road structure and movement regularity. Therefore, we propose a novel multimodal TRL method, dubbed GREEN, to jointly utilize Grid and Road trajectory Expressions for Effective representatioN learning. In particular, we transform raw GPS trajectories into both grid and road trajectories and tailor two encoders to capture their respective information. To align the two encoders such that they complement each other, we adopt a contrastive loss to encourage them to produce similar embeddings for the same raw trajectory and design a mask language model (MLM) loss to use grid trajectories to help reconstruct masked road trajectories. To learn the final trajectory representation, a dual-modal interactor is used to fuse the outputs of the two encoders via cross-attention. We compare GREEN with 7 state-of-the-art TRL methods for 3 downstream tasks, finding that GREEN consistently outperforms all baselines and improves the accuracy of the best-performing baseline by an average of 15.99\\%.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI"
+}

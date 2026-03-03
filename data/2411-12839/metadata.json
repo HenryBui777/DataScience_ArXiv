@@ -1,0 +1,18 @@
+{
+  "title": "How do supernova remnants cool? II. Machine learning analysis of supernova remnant simulations",
+  "authors": [
+    "P. Smirnova",
+    "E. I. Makarenko",
+    "S. D. Clarke",
+    "E. Glukhov",
+    "S. Walch",
+    "I. Vaezzadeh",
+    "D. Seifried"
+  ],
+  "summary": "About 15%-60% of all supernova remnants are estimated to interact with dense molecular clouds. In these high density environments, radiative losses are significant. The cooling radiation can be observed in forbidden lines at optical wavelengths. We aim to determine whether supernovae at different positions within a molecular cloud can be distinguished based on their optical emission, using machine learning. We have conducted a statistical analysis of the optical line emission of simulated supernovae interacting with molecular clouds that formed from the multi-phase interstellar medium modelled in the SILCC-Zoom simulations with and without magnetic fields. This work is based on the post-processing of 3-D (magneto)hydrodynamical simulations. Our data set consists of 22 simulations. The supernovae are placed at a distance of either 25 pc or 50 pc from the molecular cloud centre of mass. First, we calculate optical synthetic emission maps (taking into account dust attenuation within the simulation sub-cube). Second, we analyse the data set of synthetic observations using principle component analysis to identify clusters with the k-means algorithm. We find that the presence or absence of magnetic fields has no statistically significant effect on the optical line emission. However, the ambient density distribution at the site of the supernova changes the entire evolution and morphology of the supernova remnant. Due to the different ambient densities in the 25 pc and 50 pc simulations, we are able to distinguish them in a statistically significant manner. Although, optical line attenuation within the supernova remnant can mimic this result depending on the attenuation model that is used. That is why, multi-dimensional analysis of optical emission line ratios in this work does not give extra information about the environmental conditions (ambient density and ambient magnetic field) of the SNR.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "A&A 693, A38 (2025)",
+  "pdf_url": null,
+  "category": "astro-ph.HE, astro-ph.GA"
+}

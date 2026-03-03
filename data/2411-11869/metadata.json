@@ -1,0 +1,15 @@
+{
+  "title": "A Multi-Modal Unsupervised Machine Learning Approach for Biomedical Signal Processing in CPR",
+  "authors": [
+    "Saidul Islam",
+    "Jamal Bentahar",
+    "Robin Cohen",
+    "Gaith Rjoub"
+  ],
+  "summary": "Cardiopulmonary resuscitation (CPR) is a critical, life-saving intervention aimed at restoring blood circulation and breathing in individuals experiencing cardiac arrest or respiratory failure. Accurate and real-time analysis of biomedical signals during CPR is essential for monitoring and decision-making, from the pre-hospital stage to the intensive care unit (ICU). However, CPR signals are often corrupted by noise and artifacts, making precise interpretation challenging. Traditional denoising methods, such as filters, struggle to adapt to the varying and complex noise patterns present in CPR signals. Given the high-stakes nature of CPR, where rapid and accurate responses can determine survival, there is a pressing need for more robust and adaptive denoising techniques. In this context, an unsupervised machine learning (ML) methodology is particularly valuable, as it removes the dependence on labeled data, which can be scarce or impractical in emergency scenarios. This paper introduces a novel unsupervised ML approach for denoising CPR signals using a multi-modality framework, which leverages multiple signal sources to enhance the denoising process. The proposed approach not only improves noise reduction and signal fidelity but also preserves critical inter-signal correlations (0.9993) which is crucial for downstream tasks. Furthermore, it outperforms existing methods in an unsupervised context in terms of signal-to-noise ratio (SNR) and peak signal-to-noise ratio (PSNR), making it highly effective for real-time applications. The integration of multi-modality further enhances the system's adaptability to various biomedical signals beyond CPR, improving both automated CPR systems and clinical decision-making.",
+  "submission_date": "2024-11-03",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP, cs.AI, cs.LG"
+}

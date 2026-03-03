@@ -1,0 +1,14 @@
+{
+  "title": "Deep Learning-Based Classification of Hyperkinetic Movement Disorders in Children",
+  "authors": [
+    "Nandika Ramamurthy",
+    "Dr Daniel Lumsden",
+    "Dr Rachel Sparks"
+  ],
+  "summary": "Hyperkinetic movement disorders (HMDs) in children, including dystonia (abnormal twisting) and chorea (irregular, random movements), pose significant diagnostic challenges due to overlapping clinical features. The prevalence of dystonia ranges from 2 to 50 per million, and chorea from 5 to 10 per 100,000. These conditions are often diagnosed with delays averaging 4.75 to 7.83 years. Traditional diagnostic methods depend on clinical history and expert physical examinations, but specialized tests are ineffective due to the complex pathophysiology of these disorders. This study develops a neural network model to differentiate between dystonia and chorea from video recordings of paediatric patients performing motor tasks. The model integrates a Graph Convolutional Network (GCN) to capture spatial relationships and Long Short-Term Memory (LSTM) networks to account for temporal dynamics. Attention mechanisms were incorporated to improve model interpretability. The model was trained and validated on a dataset of 50 videos (31 chorea-predominant, 19 dystonia-predominant) collected under regulatory approval from Guy's and St Thomas' NHS Foundation Trust. The model achieved 85% accuracy, 81% sensitivity, and 88% specificity at 15 frames per second. Attention maps highlighted the model's ability to correctly identify involuntary movement patterns, with misclassifications often due to occluded body parts or subtle movement variations. This work demonstrates the potential of deep learning to improve the accuracy and efficiency of HMD diagnosis and could contribute to more reliable, interpretable clinical tools.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI, cs.LG, eess.IV"
+}

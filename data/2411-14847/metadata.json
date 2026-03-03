@@ -1,0 +1,20 @@
+{
+  "title": "Dynamics-Aware Gaussian Splatting Streaming Towards Fast On-the-Fly 4D Reconstruction",
+  "authors": [
+    "Zhening Liu",
+    "Yingdong Hu",
+    "Xinjie Zhang",
+    "Rui Song",
+    "Jiawei Shao",
+    "Zehong Lin",
+    "Jun Zhang"
+  ],
+  "summary": "The recent development of 3D Gaussian Splatting (3DGS) has led to great interest in 4D dynamic spatial reconstruction. Existing approaches mainly rely on full-length multi-view videos, while there has been limited exploration of online reconstruction methods that enable on-the-fly training and per-timestep streaming. Current 3DGS-based streaming methods treat the Gaussian primitives uniformly and constantly renew the densified Gaussians, thereby overlooking the difference between dynamic and static features as well as neglecting the temporal continuity in the scene. To address these limitations, we propose a novel three-stage pipeline for iterative streamable 4D dynamic spatial reconstruction. Our pipeline comprises a selective inheritance stage to preserve temporal continuity, a dynamics-aware shift stage to distinguish dynamic and static primitives and optimize their movements, and an error-guided densification stage to accommodate emerging objects. Our method achieves state-of-the-art performance in online 4D reconstruction, demonstrating the fastest on-the-fly training, superior representation quality, and real-time rendering capability. Project page: https://www.liuzhening.top/DASS",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-03-27"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI"
+}

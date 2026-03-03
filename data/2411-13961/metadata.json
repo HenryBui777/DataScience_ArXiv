@@ -1,0 +1,15 @@
+{
+  "title": "Zero-Shot Low-Light Image Enhancement via Joint Frequency Domain Priors Guided Diffusion",
+  "authors": [
+    "Jinhong He",
+    "Shivakumara Palaiahnakote",
+    "Aoxiang Ning",
+    "Minglong Xue"
+  ],
+  "summary": "Due to the singularity of real-world paired datasets and the complexity of low-light environments, this leads to supervised methods lacking a degree of scene generalisation. Meanwhile, limited by poor lighting and content guidance, existing zero-shot methods cannot handle unknown severe degradation well. To address this problem, we will propose a new zero-shot low-light enhancement method to compensate for the lack of light and structural information in the diffusion sampling process by effectively combining the wavelet and Fourier frequency domains to construct rich a priori information. The key to the inspiration comes from the similarity between the wavelet and Fourier frequency domains: both light and structure information are closely related to specific frequency domain regions, respectively. Therefore, by transferring the diffusion process to the wavelet low-frequency domain and combining the wavelet and Fourier frequency domains by continuously decomposing them in the inverse process, the constructed rich illumination prior is utilised to guide the image generation enhancement process. Sufficient experiments show that the framework is robust and effective in various scenarios. The code will be available at: \\href{https://github.com/hejh8/Joint-Wavelet-and-Fourier-priors-guided-diffusion}{https://github.com/hejh8/Joint-Wavelet-and-Fourier-priors-guided-diffusion}.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

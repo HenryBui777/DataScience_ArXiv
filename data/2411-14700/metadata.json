@@ -1,0 +1,16 @@
+{
+  "title": "Optimal Energy Dispatch of Grid-Connected Electric Vehicle Considering Lithium Battery Electrochemical Model",
+  "authors": [
+    "Yuanbo Chen",
+    "Kedi Zheng",
+    "Yuxuan Gu",
+    "Jianxiao Wang",
+    "Qixin Chen"
+  ],
+  "summary": "The grid-connected electric vehicles (EVs) serve as a promising regulating resource in the distribution grid with Vehicle-to-Grid (V2G) facilities. In the day-ahead stage, electric vehicle batteries (EVBs) need to be precisely dispatched and controlled to ensure high efficiency and prevent degradation. This article focuses on considering a refined battery model, i.e. the electrochemical model (EM), in the optimal dispatch of the local energy system with high penetration of EVs which replenish energy through V2G-equipped charge station and battery swapping station (BSS). In this paper, to utilize the EM efficiently, recursive EVB constraints and a corresponding matrix-based state update method are proposed based on EM power characterization. The charging EV state distribution is profiled and a multi-layer BSS model along with binary aggregation is proposed, in order to overcome the computation complexity of combining the refined battery constraints with the mixed integer optimization. Finally, a local energy system scenario is investigated for evaluation. The efficiency and effectiveness of EM consideration are assessed from the perspective of both the system and battery.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "IEEE Transactions on Smart Grid, vol. 15, no. 3, pp. 3000-3015, May 2024",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Persistent Homology for Structural Characterization in Disordered Systems",
+  "authors": [
+    "An Wang",
+    "Li Zou"
+  ],
+  "summary": "We propose a unified framework based on persistent homology (PH) to characterize both local and global structures in disordered systems. It can simultaneously generate local and global descriptors using the same algorithm and data structure, and has shown to be highly effective and interpretable in predicting particle rearrangements and classifying global phases. We also demonstrated that using a single variable enables a linear SVM to achieve nearly perfect three-phase classification. Inspired by this discovery, we define a non-parametric metric, the Separation Index (SI), which not only achieves this classification without sacrificing significant performance but also establishes a connection between particle environments and the global phase structure. Our methods provide an effective framework for understanding and analyzing the properties of disordered materials, with broad potential applications in materials science and even wider studies of complex systems.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-22",
+    "2025-01-09",
+    "2025-02-24",
+    "2025-02-25",
+    "2025-03-25",
+    "2025-04-11",
+    "2025-04-20",
+    "2025-10-31"
+  ],
+  "publication_venue": "Phys. Rev. E 111, 045306 (2025)",
+  "pdf_url": null,
+  "category": "cond-mat.dis-nn, cond-mat.mtrl-sci, cs.LG, math-ph"
+}

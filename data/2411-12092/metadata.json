@@ -1,0 +1,17 @@
+{
+  "title": "Preprocessing for lessening the influence of eye artifacts in eeg analysis",
+  "authors": [
+    "Alejandro Villena",
+    "Lorenzo J. Tardon",
+    "Isabel Barbancho",
+    "Ana M. Barbancho",
+    "Elvira Brattico",
+    "Niels T. Haumann"
+  ],
+  "summary": "We dealt with the problem of artifacts in eeg signals in relation to the usage of lengthy trials. Specifically, we considered eye artifacts found in eeg signals,their influence in the analysis of the data and alternatives to diminish their impact on later studies of brain activity on lengthy tasks. We proposed a scheme of partial rejection on independent signal components, providesd a method to extract eeg signal components with diministhed influence of eye artifacts, and assess the importance of using artifact free signal excerpts to extract signal components in order to analyze brain activity in a musical context.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "Appl. Sci. 2019, 9, 1757",
+  "pdf_url": null,
+  "category": "eess.SP, cs.IR"
+}

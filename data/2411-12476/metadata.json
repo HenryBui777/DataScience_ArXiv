@@ -1,0 +1,16 @@
+{
+  "title": "Comparing Prior and Learned Time Representations in Transformer Models of Timeseries",
+  "authors": [
+    "Natalia Koliou",
+    "Tatiana Boura",
+    "Stasinos Konstantopoulos",
+    "George Meramveliotakis",
+    "George Kosmadakis"
+  ],
+  "summary": "What sets timeseries analysis apart from other machine learning exercises is that time representation becomes a primary aspect of the experiment setup, as it must adequately represent the temporal relations that are relevant for the application at hand. In the work described here we study wo different variations of the Transformer architecture: one where we use the fixed time representation proposed in the literature and one where the time representation is learned from the data. Our experiments use data from predicting the energy output of solar panels, a task that exhibits known periodicities (daily and seasonal) that is straight-forward to encode in the fixed time representation. Our results indicate that even in an experiment where the phenomenon is well-understood, it is difficult to encode prior knowledge due to side-effects that are difficult to mitigate. We conclude that research work is needed to work the human into the learning loop in ways that improve the robustness and trust-worthiness of the network.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI"
+}

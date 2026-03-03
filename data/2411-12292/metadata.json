@@ -1,0 +1,13 @@
+{
+  "title": "The Soft-PVTOL: modeling and control",
+  "authors": [
+    "Gerardo Flores",
+    "Mark W. Spong"
+  ],
+  "summary": "This paper presents, for the first time, the soft planar vertical take-off and landing (Soft-PVTOL) aircraft. This concept captures the soft aerial vehicle's fundamental dynamics with a minimum number of states and inputs but retains the main features to consider when designing control laws. Unlike conventional PVTOL and multi-rotors, where altering position inevitably impacts orientation due to their underactuated design, the Soft-PVTOL offers the unique advantage of separating these dynamics, opening doors to unparalleled maneuverability and precision. We demonstrate that the Soft-PVTOL can be modeled using the Euler-Lagrange equations by assuming a constant curvature model in the aerial robot's arms. Such a mathematical model is presented in detail and can be extended to several constant curvature segments in each Soft-PVTOL arm. Moreover, we design a passivity-based control law that exploits the flexibility of the robot's arms. We solve the tracking control problem, proving that the error equilibrium globally exponentially converges to zero. The controller is tested in numerical simulations, demonstrating robust performance and ensuring the efficacy of the closed-loop system.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

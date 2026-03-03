@@ -1,0 +1,933 @@
+{
+  "2410-18013": {
+    "title": "Scalable Ranked Preference Optimization for Text-to-Image Generation",
+    "authors": [
+      "Shyamgopal Karthik",
+      "Huseyin Coskun",
+      "Zeynep Akata",
+      "S. Tulyakov",
+      "Jian Ren",
+      "Anil Kag"
+    ],
+    "publication_date": "2024-10-23",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "2029e01777cf1de735f5103eeda2fecf83c04de7",
+    "corpus_id": 273532684,
+    "category": "Computer Science"
+  },
+  "2409-07253": {
+    "title": "Alignment of Diffusion Models: Fundamentals, Challenges, and Future",
+    "authors": [
+      "Buhua Liu",
+      "Shitong Shao",
+      "Bao Li",
+      "Lichen Bai",
+      "Zhiqiang Xu",
+      "Haoyi Xiong",
+      "James Kwok",
+      "Abdelsalam Helal",
+      "Zeke Xie"
+    ],
+    "publication_date": "2024-09-11",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "038244c4951bd658ff5dc827129dfec8fe4a441f",
+    "corpus_id": 272593310,
+    "category": "Computer Science"
+  },
+  "2407-08737": {
+    "title": "Video Diffusion Alignment via Reward Gradients",
+    "authors": [
+      "Mihir Prabhudesai",
+      "R. Mendonca",
+      "Zheyang Qin",
+      "Katerina Fragkiadaki",
+      "Deepak Pathak"
+    ],
+    "publication_date": "2024-07-11",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "44f6823dbe91be099d369de43187539aca1a25a8",
+    "corpus_id": 271097680,
+    "category": "Computer Science"
+  },
+  "2406-06382": {
+    "title": "Diffusion-RPO: Aligning Diffusion Models through Relative Preference Optimization",
+    "authors": [
+      "Yi Gu",
+      "Zhendong Wang",
+      "Yueqin Yin",
+      "Yujia Xie",
+      "Mingyuan Zhou"
+    ],
+    "publication_date": "2024-06-10",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "15cc57f2a6064347a8c6b80717b0ce9b8bf9bf7d",
+    "corpus_id": 270371825,
+    "category": "Computer Science"
+  },
+  "2406-06424": {
+    "title": "Margin-aware Preference Optimization for Aligning Diffusion Models without Reference",
+    "authors": [
+      "Jiwoo Hong",
+      "Sayak Paul",
+      "Noah Lee",
+      "Kashif Rasul",
+      "James Thorne",
+      "Jongheon Jeong"
+    ],
+    "publication_date": "2024-06-10",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "268e7df89189e13a4bf0dc4ebbf74cf057dd2082",
+    "corpus_id": 270371386,
+    "category": "Computer Science"
+  },
+  "2406-04314": {
+    "title": "Aesthetic Post-Training Diffusion Models from Generic Preferences with Step-by-step Preference Optimization",
+    "authors": [
+      "Zhanhao Liang",
+      "Yuhui Yuan",
+      "Shuyang Gu",
+      "Bohan Chen",
+      "Tiankai Hang",
+      "Mingxi Cheng",
+      "Ji Li",
+      "Liang Zheng"
+    ],
+    "publication_date": "2024-06-06",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "502987c72f29cf1f6189406c49d125ffb04eb5d3",
+    "corpus_id": 270285804,
+    "category": "Computer Science"
+  },
+  "2405-14867": {
+    "title": "Improved Distribution Matching Distillation for Fast Image Synthesis",
+    "authors": [
+      "Tianwei Yin",
+      "Michael Gharbi",
+      "Taesung Park",
+      "Richard Zhang",
+      "Eli Shechtman",
+      "Frédo Durand",
+      "William T. Freeman"
+    ],
+    "publication_date": "2024-05-23",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "cc6fc3c546b354abf6a0aa3b553f28a6b812489f",
+    "corpus_id": 269982921,
+    "category": "Computer Science"
+  },
+  "2405-13637": {
+    "title": "Curriculum Direct Preference Optimization for Diffusion and Consistency Models",
+    "authors": [
+      "Florinel-Alin Croitoru",
+      "Vlad Hondru",
+      "R. Ionescu",
+      "N. Sebe",
+      "Mubarak Shah"
+    ],
+    "publication_date": "2024-05-22",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "63f7790a137091c25cb61767b7c1c5f971fb17d5",
+    "corpus_id": 269982739,
+    "category": "Computer Science"
+  },
+  "2405-00760": {
+    "title": "Deep Reward Supervisions for Tuning Text-to-Image Diffusion Models",
+    "authors": [
+      "Xiaoshi Wu",
+      "Yiming Hao",
+      "Manyuan Zhang",
+      "Keqiang Sun",
+      "Zhaoyang Huang",
+      "Guanglu Song",
+      "Yu Liu",
+      "Hongsheng Li"
+    ],
+    "publication_date": "2024-05-01",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "2dc79747ab6217d129160523c5f36a9b8530ca68",
+    "corpus_id": 269502093,
+    "category": "Computer Science"
+  },
+  "2404-16767": {
+    "title": "REBEL: Reinforcement Learning via Regressing Relative Rewards",
+    "authors": [
+      "Zhaolin Gao",
+      "Jonathan D. Chang",
+      "Wenhao Zhan",
+      "Owen Oertell",
+      "Gokul Swamy",
+      "Kianté Brantley",
+      "Thorsten Joachims",
+      "J. Bagnell",
+      "Jason D. Lee",
+      "Wen Sun"
+    ],
+    "publication_date": "2024-04-25",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "59516436839bb0dd90eee34e913bb9306f383619",
+    "corpus_id": 269362680,
+    "category": "Computer Science"
+  },
+  "2404-13686": {
+    "title": "Hyper-SD: Trajectory Segmented Consistency Model for Efficient Image Synthesis",
+    "authors": [
+      "Yuxi Ren",
+      "Xin Xia",
+      "Yanzuo Lu",
+      "Jiacheng Zhang",
+      "Jie Wu",
+      "Pan Xie",
+      "Xing Wang",
+      "Xuefeng Xiao"
+    ],
+    "publication_date": "2024-04-21",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "d11ba4033060a770fe0dd31ce1ac78d5f5a61444",
+    "corpus_id": 269293579,
+    "category": "Computer Science"
+  },
+  "2404-04465": {
+    "title": "Aligning Diffusion Models by Optimizing Human Utility",
+    "authors": [
+      "Shufan Li",
+      "Konstantinos Kallidromitis",
+      "Akash Gokul",
+      "Yusuke Kato",
+      "Kazuki Kozuka"
+    ],
+    "publication_date": "2024-04-06",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "47434c384889d4d356925a99248678ab73188da8",
+    "corpus_id": 269004992,
+    "category": "Computer Science"
+  },
+  "2404-04095": {
+    "title": "Dynamic Prompt Optimizing for Text-to-Image Generation",
+    "authors": [
+      "Wenyi Mo",
+      "Tianyu Zhang",
+      "Yalong Bai",
+      "Bing Su",
+      "Ji-Rong Wen",
+      "Qing Yang"
+    ],
+    "publication_date": "2024-04-05",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "7be9a0708300e42fd3c376b4f4027dd530f240af",
+    "corpus_id": 268987752,
+    "category": "Computer Science"
+  },
+  "2403-18978": {
+    "title": "TextCraftor: Your Text Encoder can be Image Quality Controller",
+    "authors": [
+      "Yanyu Li",
+      "Xian Liu",
+      "Anil Kag",
+      "Ju Hu",
+      "Yerlan Idelbayev",
+      "Dhritiman Sagar",
+      "Yanzhi Wang",
+      "S. Tulyakov",
+      "Jian Ren"
+    ],
+    "publication_date": "2024-03-27",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "cb64df887aa5de75703e1b8b80ff59ff3fc029a9",
+    "corpus_id": 268733326,
+    "category": "Computer Science"
+  },
+  "2403-11027": {
+    "title": "Reward Guided Latent Consistency Distillation",
+    "authors": [
+      "Jiachen Li",
+      "Weixi Feng",
+      "Wenhu Chen",
+      "William Yang Wang"
+    ],
+    "publication_date": "2024-03-16",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "df9ad7a8e603760a8e2ffe8b4571e8871fc09916",
+    "corpus_id": 268513422,
+    "category": "Computer Science"
+  },
+  "2403-03206": {
+    "title": "Scaling Rectified Flow Transformers for High-Resolution Image Synthesis",
+    "authors": [
+      "Patrick Esser",
+      "Sumith Kulal",
+      "A. Blattmann",
+      "Rahim Entezari",
+      "Jonas Muller",
+      "Harry Saini",
+      "Yam Levi",
+      "Dominik Lorenz",
+      "Axel Sauer",
+      "Frederic Boesel",
+      "Dustin Podell",
+      "Tim Dockhorn",
+      "Zion English",
+      "Kyle Lacey",
+      "Alex Goodwin",
+      "Yannik Marek",
+      "Robin Rombach"
+    ],
+    "publication_date": "2024-03-05",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "41a66997ce0a366bba3becf7c3f37c9aebb13fbd",
+    "corpus_id": 268247980,
+    "category": "Computer Science"
+  },
+  "2402-16359": {
+    "title": "Feedback Efficient Online Fine-Tuning of Diffusion Models",
+    "authors": [
+      "Masatoshi Uehara",
+      "Yulai Zhao",
+      "Kevin Black",
+      "Ehsan Hajiramezanali",
+      "Gabriele Scalia",
+      "N. Diamant",
+      "Alex M. Tseng",
+      "Sergey Levine",
+      "Tommaso Biancalani"
+    ],
+    "publication_date": "2024-02-26",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "6a225bb2454f66d1b106bbae7e5129d6569aa260",
+    "corpus_id": 268033063,
+    "category": "Computer Science, Biology, Mathematics"
+  },
+  "2402-13929": {
+    "title": "SDXL-Lightning: Progressive Adversarial Diffusion Distillation",
+    "authors": [
+      "Shanchuan Lin",
+      "Anran Wang",
+      "Xiao Yang"
+    ],
+    "publication_date": "2024-02-21",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "39cdf703e9ab494be221e50ac25eb4a687cdde19",
+    "corpus_id": 267770548,
+    "category": "Computer Science"
+  },
+  "2402-10210": {
+    "title": "Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation",
+    "authors": [
+      "Huizhuo Yuan",
+      "Zixiang Chen",
+      "Kaixuan Ji",
+      "Quanquan Gu"
+    ],
+    "publication_date": "2024-02-15",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "613a32f18388958cc60dbb906d87fc7f206c0e66",
+    "corpus_id": 267681884,
+    "category": "Computer Science, Mathematics"
+  },
+  "2402-08714": {
+    "title": "PRDP: Proximal Reward Difference Prediction for Large-Scale Reward Finetuning of Diffusion Models",
+    "authors": [
+      "Fei Deng",
+      "Qifei Wang",
+      "Wei Wei",
+      "Matthias Grundmann",
+      "Tingbo Hou"
+    ],
+    "publication_date": "2024-02-13",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "87362cbd9039011e990511d4668f77de6c17a6ef",
+    "corpus_id": 267657535,
+    "category": "Computer Science"
+  },
+  "2402-08552": {
+    "title": "Confronting Reward Overoptimization for Diffusion Models: A Perspective of Inductive and Primacy Biases",
+    "authors": [
+      "Ziyi Zhang",
+      "Sen Zhang",
+      "Yibing Zhan",
+      "Yong Luo",
+      "Yonggang Wen",
+      "Dacheng Tao"
+    ],
+    "publication_date": "2024-02-13",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "2412a10df38c3d1de8f1392abb995a624413129f",
+    "corpus_id": 267637169,
+    "category": "Computer Science"
+  },
+  "2402-08265": {
+    "title": "A Dense Reward View on Aligning Text-to-Image Diffusion with Preference",
+    "authors": [
+      "Shentao Yang",
+      "Tianqi Chen",
+      "Mingyuan Zhou"
+    ],
+    "publication_date": "2024-02-13",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "9e08d4f7348ff2afbe8c96e7564f43d326e67d00",
+    "corpus_id": 267636835,
+    "category": "Computer Science"
+  },
+  "2401-12244": {
+    "title": "Large-scale Reinforcement Learning for Diffusion Models",
+    "authors": [
+      "Yinan Zhang",
+      "Eric Tzeng",
+      "Yilun Du",
+      "Dmitry Kislyuk"
+    ],
+    "publication_date": "2024-01-20",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "f86b13cf11c4fb2d67e0cc1090ede5b38c6b85a1",
+    "corpus_id": 267095304,
+    "category": "Computer Science"
+  },
+  "2401-05675": {
+    "title": "Parrot: Pareto-optimal Multi-Reward Reinforcement Learning Framework for Text-to-Image Generation",
+    "authors": [
+      "Seung Hyun Lee",
+      "Yinxiao Li",
+      "Junjie Ke",
+      "Innfarn Yoo",
+      "Han Zhang",
+      "Jiahui Yu",
+      "Qifei Wang",
+      "Fei Deng",
+      "Glenn Entis",
+      "Junfeng He",
+      "Gang Li",
+      "Sangpil Kim",
+      "Irfan Essa",
+      "Feng Yang"
+    ],
+    "publication_date": "2024-01-11",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "36fe9696942978764ad00471154dd67dcfb14e36",
+    "corpus_id": 266933034,
+    "category": "Computer Science"
+  },
+  "2312-10240": {
+    "title": "Rich Human Feedback for Text-to-Image Generation",
+    "authors": [
+      "Youwei Liang",
+      "Junfeng He",
+      "Gang Li",
+      "Peizhao Li",
+      "Arseniy Klimovskiy",
+      "Nicholas Carolan",
+      "Jiao Sun",
+      "Jordi Pont-Tuset",
+      "Sarah Young",
+      "Feng Yang",
+      "Junjie Ke",
+      "K. Dvijotham",
+      "Katie Collins",
+      "Yiwen Luo",
+      "Yang Li",
+      "Kai Kohlhoff",
+      "Deepak Ramachandran",
+      "Vidhya Navalpakkam"
+    ],
+    "publication_date": "2023-12-15",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "9a5dda25a3f2dce144b7fef305820e537401050e",
+    "corpus_id": 266348349,
+    "category": "Computer Science"
+  },
+  "2312-05239": {
+    "title": "SwiftBrush: One-Step Text-to-Image Diffusion Model with Variational Score Distillation",
+    "authors": [
+      "Thuan Hoang Nguyen",
+      "Anh Tran"
+    ],
+    "publication_date": "2023-12-08",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "210712cd3649f579e2bae01af40f9b394ee98e2c",
+    "corpus_id": 266149438,
+    "category": "Computer Science"
+  },
+  "2311-18828": {
+    "title": "One-Step Diffusion with Distribution Matching Distillation",
+    "authors": [
+      "Tianwei Yin",
+      "Michael Gharbi",
+      "Richard Zhang",
+      "Eli Shechtman",
+      "Frédo Durand",
+      "William T. Freeman",
+      "Taesung Park"
+    ],
+    "publication_date": "2023-11-30",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "516a4c05883d4dc130bb7a638ad8e427b6756aac",
+    "corpus_id": 265506768,
+    "category": "Computer Science"
+  },
+  "2311-17042": {
+    "title": "Adversarial Diffusion Distillation",
+    "authors": [
+      "Axel Sauer",
+      "Dominik Lorenz",
+      "A. Blattmann",
+      "Robin Rombach"
+    ],
+    "publication_date": "2023-11-28",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "d730d42bb655b3b44727d71c147f9758612043a8",
+    "corpus_id": 265466173,
+    "category": "Computer Science"
+  },
+  "2311-15657": {
+    "title": "Enhancing Diffusion Models with Text-Encoder Reinforcement Learning",
+    "authors": [
+      "Chaofeng Chen",
+      "Annan Wang",
+      "Haoning Wu",
+      "Liang Liao",
+      "Wenxiu Sun",
+      "Qiong Yan",
+      "Weisi Lin"
+    ],
+    "publication_date": "2023-11-27",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "515cc5ae651fee771c6101aa1b1a4a6968b8ba65",
+    "corpus_id": 265457291,
+    "category": "Computer Science"
+  },
+  "2311-13231": {
+    "title": "Using Human Feedback to Fine-tune Diffusion Models without Any Reward Model",
+    "authors": [
+      "Kai Yang",
+      "Jian Tao",
+      "Jiafei Lyu",
+      "Chunjiang Ge",
+      "Jiaxin Chen",
+      "Qimai Li",
+      "Weihan Shen",
+      "Xiaolong Zhu",
+      "Xiu Li"
+    ],
+    "publication_date": "2023-11-22",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "ec97a1565dff9d2fab1ef489e47296bbef68b680",
+    "corpus_id": 265352082,
+    "category": "Computer Science"
+  },
+  "2311-12908": {
+    "title": "Diffusion Model Alignment Using Direct Preference Optimization",
+    "authors": [
+      "Bram Wallace",
+      "Meihua Dang",
+      "Rafael Rafailov",
+      "Linqi Zhou",
+      "Aaron Lou",
+      "Senthil Purushwalkam",
+      "Stefano Ermon",
+      "Caiming Xiong",
+      "Shafiq R. Joty",
+      "Nikhil Naik"
+    ],
+    "publication_date": "2023-11-21",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "f5275c61736781d236abe6700b822f1ea62f982e",
+    "corpus_id": 265352136,
+    "category": "Computer Science"
+  },
+  "2310-04378": {
+    "title": "Latent Consistency Models: Synthesizing High-Resolution Images with Few-Step Inference",
+    "authors": [
+      "Simian Luo",
+      "Yiqin Tan",
+      "Longbo Huang",
+      "Jian Li",
+      "Hang Zhao"
+    ],
+    "publication_date": "2023-10-06",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "8b7cce220c3b19f9b2d4a6c531907ed3b592b55e",
+    "corpus_id": 263831037,
+    "category": "Computer Science"
+  },
+  "2310-03739": {
+    "title": "Aligning Text-to-Image Diffusion Models with Reward Backpropagation",
+    "authors": [
+      "Mihir Prabhudesai",
+      "Anirudh Goyal",
+      "Deepak Pathak",
+      "Katerina Fragkiadaki"
+    ],
+    "publication_date": "2023-10-05",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "174df7d2cc8d49f219d8899c7d75bc929f3a57c7",
+    "corpus_id": 263671961,
+    "category": "Computer Science"
+  },
+  "2310-02279": {
+    "title": "Consistency Trajectory Models: Learning Probability Flow ODE Trajectory of Diffusion",
+    "authors": [
+      "Dongjun Kim",
+      "Chieh-Hsin Lai",
+      "Wei-Hsiang Liao",
+      "Naoki Murata",
+      "Yuhta Takida",
+      "Toshimitsu Uesaka",
+      "Yutong He",
+      "Yuki Mitsufuji",
+      "Stefano Ermon"
+    ],
+    "publication_date": "2023-10-01",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "2ea9167ca0dd536923ea0968d6b89e2b6cc34f21",
+    "corpus_id": 263622294,
+    "category": "Computer Science, Mathematics"
+  },
+  "2309-17400": {
+    "title": "Directly Fine-Tuning Diffusion Models on Differentiable Rewards",
+    "authors": [
+      "Kevin Clark",
+      "Paul Vicol",
+      "Kevin Swersky",
+      "David J. Fleet"
+    ],
+    "publication_date": "2023-09-29",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "a395f1c0910a5622f6faaefb5b27e87bb1617759",
+    "corpus_id": 263310957,
+    "category": "Computer Science"
+  },
+  "2309-06380": {
+    "title": "InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation",
+    "authors": [
+      "Xingchao Liu",
+      "Xiwen Zhang",
+      "Jianzhu Ma",
+      "Jian Peng",
+      "Q. Liu"
+    ],
+    "publication_date": "2023-09-12",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "448e7e873a6e520072301b7d9c1d0d9289778418",
+    "corpus_id": 261697392,
+    "category": "Computer Science"
+  },
+  "2307-01952": {
+    "title": "SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis",
+    "authors": [
+      "Dustin Podell",
+      "Zion English",
+      "Kyle Lacey",
+      "A. Blattmann",
+      "Tim Dockhorn",
+      "Jonas Muller",
+      "Joe Penna",
+      "Robin Rombach"
+    ],
+    "publication_date": "2023-07-04",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "d7890d1906d95c4ae4c430b350455156d6d8aed9",
+    "corpus_id": 259341735,
+    "category": "Computer Science"
+  },
+  "2306-09341": {
+    "title": "Human Preference Score v2: A Solid Benchmark for Evaluating Human Preferences of Text-to-Image Synthesis",
+    "authors": [
+      "Xiaoshi Wu",
+      "Yiming Hao",
+      "Keqiang Sun",
+      "Yixiong Chen",
+      "Feng Zhu",
+      "Rui Zhao",
+      "Hongsheng Li"
+    ],
+    "publication_date": "2023-06-15",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "d8008ace077d72ccd277be795c720e9381623c10",
+    "corpus_id": 259171771,
+    "category": "Computer Science"
+  },
+  "2305-18455": {
+    "title": "Diff-Instruct: A Universal Approach for Transferring Knowledge From Pre-trained Diffusion Models",
+    "authors": [
+      "Weijian Luo",
+      "Tianyang Hu",
+      "Shifeng Zhang",
+      "Jiacheng Sun",
+      "Zhenguo Li",
+      "Zhihua Zhang"
+    ],
+    "publication_date": "2023-05-29",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "946fa1978b570407e082c61ed8334822f3da1740",
+    "corpus_id": 258967550,
+    "category": "Computer Science"
+  },
+  "2305-18290": {
+    "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+    "authors": [
+      "Rafael Rafailov",
+      "Archit Sharma",
+      "E. Mitchell",
+      "Stefano Ermon",
+      "Christopher D. Manning",
+      "Chelsea Finn"
+    ],
+    "publication_date": "2023-05-29",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "0d1c76d45afa012ded7ab741194baf142117c495",
+    "corpus_id": 258959321,
+    "category": "Computer Science"
+  },
+  "2305-16381": {
+    "title": "DPOK: Reinforcement Learning for Fine-tuning Text-to-Image Diffusion Models",
+    "authors": [
+      "Ying Fan",
+      "Olivia Watkins",
+      "Yuqing Du",
+      "Hao Liu",
+      "M. Ryu",
+      "Craig Boutilier",
+      "P. Abbeel",
+      "M. Ghavamzadeh",
+      "Kangwook Lee",
+      "Kimin Lee"
+    ],
+    "publication_date": "2023-05-25",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "a553bf27d801d09f667fe121c0ba9632257f364b",
+    "corpus_id": 258947323,
+    "category": "Computer Science"
+  },
+  "2305-13301": {
+    "title": "Training Diffusion Models with Reinforcement Learning",
+    "authors": [
+      "Kevin Black",
+      "Michael Janner",
+      "Yilun Du",
+      "Ilya Kostrikov",
+      "S. Levine"
+    ],
+    "publication_date": "2023-05-22",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "d8c78221e4366d6a72a6b3e41e35b706cc45c01d",
+    "corpus_id": 258833251,
+    "category": "Computer Science"
+  },
+  "2305-01569": {
+    "title": "Pick-a-Pic: An Open Dataset of User Preferences for Text-to-Image Generation",
+    "authors": [
+      "Yuval Kirstain",
+      "Adam Polyak",
+      "Uriel Singer",
+      "Shahbuland Matiana",
+      "Joe Penna",
+      "Omer Levy"
+    ],
+    "publication_date": "2023-05-02",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "cf694df964caa156ec306b45d3a3127533cb458f",
+    "corpus_id": 258437096,
+    "category": "Computer Science"
+  },
+  "2303-14420": {
+    "title": "Human Preference Score: Better Aligning Text-to-image Models with Human Preference",
+    "authors": [
+      "Xiaoshi Wu",
+      "Keqiang Sun",
+      "Feng Zhu",
+      "Rui Zhao",
+      "Hongsheng Li"
+    ],
+    "publication_date": "2023-03-25",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "9550076d9930dd3533ab9276126f1a9265fad7b4",
+    "corpus_id": 257767281,
+    "category": "Computer Science"
+  },
+  "2303-01469": {
+    "title": "Consistency Models",
+    "authors": [
+      "Yang Song",
+      "Prafulla Dhariwal",
+      "Mark Chen",
+      "I. Sutskever"
+    ],
+    "publication_date": "2023-03-02",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "ac974291d7e3a152067382675524f3e3c2ded11b",
+    "corpus_id": 257280191,
+    "category": "Computer Science, Mathematics"
+  },
+  "2302-12192": {
+    "title": "Aligning Text-to-Image Models using Human Feedback",
+    "authors": [
+      "Kimin Lee",
+      "Hao Liu",
+      "M. Ryu",
+      "Olivia Watkins",
+      "Yuqing Du",
+      "Craig Boutilier",
+      "P. Abbeel",
+      "M. Ghavamzadeh",
+      "S. Gu"
+    ],
+    "publication_date": "2023-02-23",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "1e4b6567ff66de6cdcbe58c863538241e2f62b45",
+    "corpus_id": 257102772,
+    "category": "Computer Science"
+  },
+  "2301-13362": {
+    "title": "Optimizing DDPM Sampling with Shortcut Fine-Tuning",
+    "authors": [
+      "Ying Fan",
+      "Kangwook Lee"
+    ],
+    "publication_date": "2023-01-31",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "c5434eef64f3275d821ba24bfa3818bfc10649fb",
+    "corpus_id": 256415971,
+    "category": "Computer Science"
+  },
+  "2212-09611": {
+    "title": "Optimizing Prompts for Text-to-Image Generation",
+    "authors": [
+      "Y. Hao",
+      "Zewen Chi",
+      "Li Dong",
+      "Furu Wei"
+    ],
+    "publication_date": "2022-12-19",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "4d81c33b295c092016ac236cfd32020a5bb70b97",
+    "corpus_id": 254853701,
+    "category": "Computer Science"
+  },
+  "2210-08402": {
+    "title": "LAION-5B: An open large-scale dataset for training next generation image-text models",
+    "authors": [
+      "Christoph Schuhmann",
+      "R. Beaumont",
+      "R. Vencu",
+      "Cade Gordon",
+      "Ross Wightman",
+      "Mehdi Cherti",
+      "Theo Coombes",
+      "Aarush Katta",
+      "Clayton Mullis",
+      "Mitchell Wortsman",
+      "P. Schramowski",
+      "Srivatsa Kundurthy",
+      "Katherine Crowson",
+      "Ludwig Schmidt",
+      "R. Kaczmarczyk",
+      "J. Jitsev"
+    ],
+    "publication_date": "2022-10-16",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "e5c8960eb2ec034ffbd353ef39fd1cb541d3c7c9",
+    "corpus_id": 252917726,
+    "category": "Computer Science"
+  },
+  "2210-03142": {
+    "title": "On Distillation of Guided Diffusion Models",
+    "authors": [
+      "Chenlin Meng",
+      "Ruiqi Gao",
+      "Diederik P. Kingma",
+      "Stefano Ermon",
+      "Jonathan Ho",
+      "Tim Salimans"
+    ],
+    "publication_date": "2022-10-06",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "625d57bd52c60cd79aa4add6c4420dc2ad3b808a",
+    "corpus_id": 252762155,
+    "category": "Computer Science"
+  },
+  "2112-10752": {
+    "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+    "authors": [
+      "Robin Rombach",
+      "A. Blattmann",
+      "Dominik Lorenz",
+      "Patrick Esser",
+      "B. Ommer"
+    ],
+    "publication_date": "2021-12-20",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "c10075b3746a9f3dd5811970e93c8ca3ad39b39d",
+    "corpus_id": 245335280,
+    "category": "Computer Science"
+  },
+  "2106-09685": {
+    "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+    "authors": [
+      "J. E. Hu",
+      "Yelong Shen",
+      "Phillip Wallis",
+      "Zeyuan Allen-Zhu",
+      "Yuanzhi Li",
+      "Shean Wang",
+      "Weizhu Chen"
+    ],
+    "publication_date": "2021-06-17",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "a8ca46b171467ceb2d7652fbfb67fe701ad86092",
+    "corpus_id": 235458009,
+    "category": "Computer Science"
+  },
+  "2010-02502": {
+    "title": "Denoising Diffusion Implicit Models",
+    "authors": [
+      "Jiaming Song",
+      "Chenlin Meng",
+      "Stefano Ermon"
+    ],
+    "publication_date": "2020-10-06",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "014576b866078524286802b1d0e18628520aa886",
+    "corpus_id": 222140788,
+    "category": "Computer Science"
+  },
+  "2006-11239": {
+    "title": "Denoising Diffusion Probabilistic Models",
+    "authors": [
+      "Jonathan Ho",
+      "Ajay Jain",
+      "P. Abbeel"
+    ],
+    "publication_date": "2020-06-19",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "5c126ae3421f05768d8edd97ecd44b1364e2c99a",
+    "corpus_id": 219955663,
+    "category": "Computer Science, Mathematics"
+  },
+  "1707-06347": {
+    "title": "Proximal Policy Optimization Algorithms",
+    "authors": [
+      "John Schulman",
+      "Filip Wolski",
+      "Prafulla Dhariwal",
+      "Alec Radford",
+      "Oleg Klimov"
+    ],
+    "publication_date": "2017-07-20",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "dce6f9d4017b1785979e7520fd0834ef8cf02f4b",
+    "corpus_id": 28695052,
+    "category": "Computer Science"
+  },
+  "1503-03585": {
+    "title": "Deep Unsupervised Learning using Nonequilibrium Thermodynamics",
+    "authors": [
+      "Jascha Narain Sohl-Dickstein",
+      "Eric A. Weiss",
+      "Niru Maheswaranathan",
+      "S. Ganguli"
+    ],
+    "publication_date": "2015-03-11",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "2dcef55a07f8607a819c21fe84131ea269cc2e3c",
+    "corpus_id": 14888175,
+    "category": "Computer Science, Mathematics"
+  }
+}

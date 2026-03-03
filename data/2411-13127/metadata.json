@@ -1,0 +1,21 @@
+{
+  "title": "Adapting Vision Foundation Models for Robust Cloud Segmentation in Remote Sensing Images",
+  "authors": [
+    "Xuechao Zou",
+    "Shun Zhang",
+    "Kai Li",
+    "Shiying Wang",
+    "Junliang Xing",
+    "Lei Jin",
+    "Congyan Lang",
+    "Pin Tao"
+  ],
+  "summary": "Cloud segmentation is a critical challenge in remote sensing image interpretation, as its accuracy directly impacts the effectiveness of subsequent data processing and analysis. Recently, vision foundation models (VFM) have demonstrated powerful generalization capabilities across various visual tasks. In this paper, we present a parameter-efficient adaptive approach, termed Cloud-Adapter, designed to enhance the accuracy and robustness of cloud segmentation. Our method leverages a VFM pretrained on general domain data, which remains frozen, eliminating the need for additional training. Cloud-Adapter incorporates a lightweight spatial perception module that initially utilizes a convolutional neural network (ConvNet) to extract dense spatial representations. These multi-scale features are then aggregated and serve as contextual inputs to an adapting module, which modulates the frozen transformer layers within the VFM. Experimental results demonstrate that the Cloud-Adapter approach, utilizing only 0.6% of the trainable parameters of the frozen backbone, achieves substantial performance gains. Cloud-Adapter consistently achieves state-of-the-art performance across various cloud segmentation datasets from multiple satellite sources, sensor series, data processing levels, land cover scenarios, and annotation granularities. We have released the code and model checkpoints at https://xavierjiezou.github.io/Cloud-Adapter/ to support further research.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-23"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

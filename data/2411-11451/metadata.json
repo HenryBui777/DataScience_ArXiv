@@ -1,0 +1,18 @@
+{
+  "title": "Robust Markov Decision Processes: A Place Where AI and Formal Methods Meet",
+  "authors": [
+    "Marnix Suilen",
+    "Thom Badings",
+    "Eline M. Bovy",
+    "David Parker",
+    "Nils Jansen"
+  ],
+  "summary": "Markov decision processes (MDPs) are a standard model for sequential decision-making problems and are widely used across many scientific areas, including formal methods and artificial intelligence (AI). MDPs do, however, come with the restrictive assumption that the transition probabilities need to be precisely known. Robust MDPs (RMDPs) overcome this assumption by instead defining the transition probabilities to belong to some uncertainty set. We present a gentle survey on RMDPs, providing a tutorial covering their fundamentals. In particular, we discuss RMDP semantics and how to solve them by extending standard MDP methods such as value iteration and policy iteration. We also discuss how RMDPs relate to other models and how they are used in several contexts, including reinforcement learning and abstraction techniques. We conclude with some challenges for future work on RMDPs.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-12-10"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AI, math.OC"
+}

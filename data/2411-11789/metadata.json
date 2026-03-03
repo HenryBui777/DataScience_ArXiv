@@ -1,0 +1,15 @@
+{
+  "title": "Resonance: Transaction Fees for Heterogeneous Computation",
+  "authors": [
+    "Maryam Bahrani",
+    "Naveen Durvasula"
+  ],
+  "summary": "Blockchain networks are facing increasingly heterogeneous computational demands, and in response, protocol designers have started building specialized infrastructure to supply that demand. This paper introduces Resonance: a new kind of transaction fee mechanism for the general two-sided market setting (with users on one side and nodes on the other), where both sides of the market exhibit a high degree of heterogeneity. We allow users submitting transactions to have arbitrary valuations for inclusion, nodes responsible for executing transactions to incur arbitrary costs for running any bundle of transactions, and further allow for arbitrary additional constraints on what allocations are valid. These constraints can, for example, be used to prevent state conflicts by requiring transactions that utilize the same part of the network's state to not be executed in parallel. They also enable support for new transaction types, such as transactions that require multiple nodes for execution (e.g. to run multi-party computation for better transaction privacy).\n  Resonance's design utilizes competition among sophisticated brokers to find individualized prices for each transaction and node. We show that at pure Nash equilibria, Resonance finds an efficient outcome and minimizes the need for strategization by users and nodes. It is also budget-balanced, individually rational for all parties, and computationally tractable.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-19"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.GT"
+}

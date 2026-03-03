@@ -1,0 +1,16 @@
+{
+  "title": "Multipath Mitigation Technology-integrated GNSS Direct Position Estimation Plug-in Module",
+  "authors": [
+    "Sergio Vicenzo",
+    "Bing Xu"
+  ],
+  "summary": "Direct position estimation (DPE) is an effective solution to the MP issue at the signal processing level. Unlike two-step positioning (2SP) receivers, DPE directly solves for the receiver position, velocity, and time (PVT) in the navigation domain, without the estimation of intermediate measurements, thus allowing it to provide more robust and accurate PVT estimates in the presence of multipath (MP) and weak signals. But GNSS positioning with DPE is mostly left unapplied commercially, and continuing research into DPE has remained relatively stagnant over the past few years. To encourage further research on DPE by the GNSS community, we propose a DPE plug-in module that can be integrated into the conventional 2SP software-defined receivers (SDRs). Programmed in MATLAB, the proposed DPE plug-in module is aimed for better understanding and familiarity of a practical implementation of DPE. Its plug-in module architecture allows it to be incorporated with 2SP MATLAB SDRs, both vector tracking and scalar tracking with minimum changes, making it easy to use, and provides greater flexibility for researchers using various 2SP SDRs. We propose to further improve the performance of DPE against MP by incorporating Multipath Mitigation Technology (MMT) into DPE. Referred to as MMT-DPE, it is proposed as a variant of DPE that adds the MP components into DPE signal model by integrating MMT cost function into DPE, with the aim to better suit DPE for urban environment applications. Results show that while in MP-only conditions, an MMT-integrated 2SP (MMT-2SP) has similar performance with MMT-DPE, the proposed MMT-DPE manages to show great superiority against NLOS, making it the preferable option for applications in urban environments.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-22",
+    "2025-01-13"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP"
+}

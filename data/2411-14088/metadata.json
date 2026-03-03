@@ -1,0 +1,16 @@
+{
+  "title": "Channel Customization for Low-Complexity CSI Acquisition in Multi-RIS-Assisted MIMO Systems",
+  "authors": [
+    "Weicong Chen",
+    "Yu Han",
+    "Chao-Kai Wen",
+    "Xiao Li",
+    "Shi Jin"
+  ],
+  "summary": "The deployment of multiple reconfigurable intelligent surfaces (RISs) enhances the propagation environment by improving channel quality, but it also complicates channel estimation. Following the conventional wireless communication system design, which involves full channel state information (CSI) acquisition followed by RIS configuration, can reduce transmission efficiency due to substantial pilot overhead and computational complexity. This study introduces an innovative approach that integrates CSI acquisition and RIS configuration, leveraging the channel-altering capabilities of the RIS to reduce both the overhead and complexity of CSI acquisition. The focus is on multi-RIS-assisted systems, featuring both direct and reflected propagation paths. By applying a fast-varying reflection sequence during RIS configuration for channel training, the complex problem of channel estimation is decomposed into simpler, independent tasks. These fast-varying reflections effectively isolate transmit signals from different paths, streamlining the CSI acquisition process for both uplink and downlink communications with reduced complexity. In uplink scenarios, a positioning-based algorithm derives partial CSI, informing the adjustment of RIS parameters to create a sparse reflection channel, enabling precise reconstruction of the uplink channel. Downlink communication benefits from this strategically tailored reflection channel, allowing effective CSI acquisition with fewer pilot signals. Simulation results highlight the proposed methodology's ability to accurately reconstruct the reflection channel with minimal impact on the normalized mean square error while simultaneously enhancing spectral efficiency.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IT, eess.SP"
+}

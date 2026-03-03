@@ -1,0 +1,439 @@
+{
+  "2411-16535": {
+    "title": "ADOBI: Adaptive Diffusion Bridge For Blind Inverse Problems with Application to MRI Reconstruction",
+    "authors": [
+      "Yuyang Hu",
+      "Albert Peng",
+      "Weijie Gan",
+      "U. Kamilov"
+    ],
+    "publication_date": "2024-11-25",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "2bc68a1a039e2d7776fc6ecd88aab0d4704a82d4",
+    "corpus_id": 274234177,
+    "category": "Engineering, Physics"
+  },
+  "2311-12078": {
+    "title": "Fast Controllable Diffusion Models for Undersampled MRI Reconstruction",
+    "authors": [
+      "Wei Jiang",
+      "Z. Xiong",
+      "Feng Liu",
+      "Nan Ye",
+      "Hongfu Sun"
+    ],
+    "publication_date": "2023-11-20",
+    "venue": "IEEE International Symposium on Biomedical Imaging",
+    "semantic_scholar_id": "6cedaeb30a79e6dc9e9dceefe5126ea0b74bbc01",
+    "corpus_id": 265308559,
+    "category": "Computer Science, Engineering"
+  },
+  "2309-00783": {
+    "title": "Diffusion Modeling With Domain-Conditioned Prior Guidance for Accelerated MRI and qMRI Reconstruction",
+    "authors": [
+      "Wanyu Bian",
+      "Albert Jang",
+      "F. Liu"
+    ],
+    "publication_date": "2023-09-02",
+    "venue": "IEEE Transactions on Medical Imaging",
+    "semantic_scholar_id": "7b084d8af3283f5d60dc8c59605aa99fa3d3487d",
+    "corpus_id": 261530205,
+    "category": "Computer Science, Medicine"
+  },
+  "2308-01096": {
+    "title": "Learning Fourier-Constrained Diffusion Bridges for MRI Reconstruction",
+    "authors": [
+      "Muhammad Usama Mirza",
+      "Onat Dalmaz",
+      "H. Bedel",
+      "Gokberk Elmas",
+      "Yilmaz Korkmaz",
+      "Alper Gungor",
+      "Salman UH Dar",
+      "Tolga cCukur"
+    ],
+    "publication_date": "2023-08-02",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "17bf8975c874471c878169d31a6d39ae43c25748",
+    "corpus_id": 260378889,
+    "category": "Engineering"
+  },
+  "2307-15990": {
+    "title": "Ultrasound Image Reconstruction with Denoising Diffusion Restoration Models",
+    "authors": [
+      "Yu-xin Zhang",
+      "Clément Huneau",
+      "J. Idier",
+      "D. Mateus"
+    ],
+    "publication_date": "2023-07-29",
+    "venue": "DGM4MICCAI",
+    "semantic_scholar_id": "acd359e89db298136080b0386c59714c439058e7",
+    "corpus_id": 260334221,
+    "category": "Computer Science, Engineering"
+  },
+  "2305-15086": {
+    "title": "Unpaired Image-to-Image Translation via Neural Schrödinger Bridge",
+    "authors": [
+      "Beomsu Kim",
+      "Gihyun Kwon",
+      "Kwanyoung Kim",
+      "Jong-Chul Ye"
+    ],
+    "publication_date": "2023-05-24",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "6ff292fab6b28be8f794676fb17f00121b6fe2c0",
+    "corpus_id": 258865834,
+    "category": "Computer Science, Mathematics"
+  },
+  "2305-08995": {
+    "title": "Denoising Diffusion Models for Plug-and-Play Image Restoration",
+    "authors": [
+      "Yuanzhi Zhu",
+      "K. Zhang",
+      "Jingyun Liang",
+      "Jiezhang Cao",
+      "B. Wen",
+      "R. Timofte",
+      "L. Gool"
+    ],
+    "publication_date": "2023-05-15",
+    "venue": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "semantic_scholar_id": "46943551a72ab1bf608067b63cb2668049b4b199",
+    "corpus_id": 258714952,
+    "category": "Computer Science, Engineering"
+  },
+  "2304-06140": {
+    "title": "An Edit Friendly DDPM Noise Space: Inversion and Manipulations",
+    "authors": [
+      "Inbar Huberman-Spiegelglas",
+      "V. Kulikov",
+      "T. Michaeli"
+    ],
+    "publication_date": "2023-04-12",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "d1c33172c2ffbc038f0598f3ac56bb04af79c904",
+    "corpus_id": 258108162,
+    "category": "Computer Science"
+  },
+  "2304-05060": {
+    "title": "SPIRiT-Diffusion: Self-Consistency Driven Diffusion Model for Accelerated MRI",
+    "authors": [
+      "Zhuoxu Cui",
+      "Chentao Cao",
+      "Jing Cheng",
+      "Seng Jia",
+      "Hairong Zheng",
+      "Dong Liang",
+      "Yanjie Zhu"
+    ],
+    "publication_date": "2023-04-11",
+    "venue": "IEEE Transactions on Medical Imaging",
+    "semantic_scholar_id": "3f67c2e81804be7fe3a700c12d9b389eb57800a5",
+    "corpus_id": 258059872,
+    "category": "Computer Science, Medicine"
+  },
+  "2303-05754": {
+    "title": "Decomposed Diffusion Sampler for Accelerating Large-Scale Inverse Problems",
+    "authors": [
+      "Hyungjin Chung",
+      "Suhyeon Lee",
+      "Jong-Chul Ye"
+    ],
+    "publication_date": "2023-03-10",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "8fcd6bc655aeb7af196a6f6436d178fd30be0468",
+    "corpus_id": 257482470,
+    "category": "Computer Science, Mathematics"
+  },
+  "2302-04867": {
+    "title": "UniPC: A Unified Predictor-Corrector Framework for Fast Sampling of Diffusion Models",
+    "authors": [
+      "Wenliang Zhao",
+      "Lujia Bai",
+      "Yongming Rao",
+      "Jie Zhou",
+      "Jiwen Lu"
+    ],
+    "publication_date": "2023-02-09",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "62d6e95e60ba36abacc5de85078d053316bd1942",
+    "corpus_id": 256697404,
+    "category": "Computer Science"
+  },
+  "2211-12340": {
+    "title": "DOLCE: A Model-Based Probabilistic Diffusion Framework for Limited-Angle CT Reconstruction",
+    "authors": [
+      "Jiaming Liu",
+      "Rushil Anirudh",
+      "J. Thiagarajan",
+      "Stewart He",
+      "K. A. Mohan",
+      "U. Kamilov",
+      "Hyojin Kim"
+    ],
+    "publication_date": "2022-11-22",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "eb0a53ad3b4874e8dc07c4a5289e5f629f50abe1",
+    "corpus_id": 253761022,
+    "category": "Computer Science, Engineering"
+  },
+  "2211-10656": {
+    "title": "Parallel Diffusion Models of Operator and Image for Blind Inverse Problems",
+    "authors": [
+      "Hyungjin Chung",
+      "Jeongsol Kim",
+      "Sehui Kim",
+      "J. C. Ye"
+    ],
+    "publication_date": "2022-11-19",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "4fb6b6f7a21c09bdf85aeb7e53ee448eb85cd0ae",
+    "corpus_id": 253734166,
+    "category": "Computer Science, Mathematics"
+  },
+  "2211-01095": {
+    "title": "DPM-Solver++: Fast Solver for Guided Sampling of Diffusion Probabilistic Models",
+    "authors": [
+      "Cheng Lu",
+      "Yuhao Zhou",
+      "Fan Bao",
+      "Jianfei Chen",
+      "Chongxuan Li",
+      "Jun Zhu"
+    ],
+    "publication_date": "2022-11-02",
+    "venue": "Machine Intelligence Research",
+    "semantic_scholar_id": "baa4f95081e9663fb045d145acc70049ace16ac9",
+    "corpus_id": 253254916,
+    "category": "Computer Science"
+  },
+  "2210-02747": {
+    "title": "Flow Matching for Generative Modeling",
+    "authors": [
+      "Y. Lipman",
+      "Ricky T. Q. Chen",
+      "Heli Ben-Hamu",
+      "Maximilian Nickel",
+      "Matt Le"
+    ],
+    "publication_date": "2022-10-06",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "af68f10ab5078bfc519caae377c90ee6d9c504e9",
+    "corpus_id": 252734897,
+    "category": "Computer Science, Mathematics"
+  },
+  "2207-05876": {
+    "title": "Adaptive Diffusion Priors for Accelerated MRI Reconstruction",
+    "authors": [
+      "S. Dar",
+      "cSaban Ozturk",
+      "Yilmaz Korkmaz",
+      "Gokberk Elmas",
+      "Muzaffer Ozbey",
+      "Alper Gungor",
+      "Tolga cCukur"
+    ],
+    "publication_date": "2022-07-12",
+    "venue": "Medical Image Anal.",
+    "semantic_scholar_id": "f1409ad3eb093888cd69b103adbeea574649467e",
+    "corpus_id": 250493155,
+    "category": "Computer Science, Engineering, Medicine"
+  },
+  "2203-04292": {
+    "title": "Towards performant and reliable undersampled MR reconstruction via diffusion model sampling",
+    "authors": [
+      "Cheng Peng",
+      "Pengfei Guo",
+      "S. K. Zhou",
+      "Vishal M. Patel",
+      "Ramalingam Chellappa"
+    ],
+    "publication_date": "2022-03-08",
+    "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+    "semantic_scholar_id": "be60e95fabbe3469d1ec3556c8a8c3efca56b7c8",
+    "corpus_id": 247318941,
+    "category": "Computer Science, Engineering"
+  },
+  "2110-11291": {
+    "title": "Likelihood Training of Schrödinger Bridge using Forward-Backward SDEs Theory",
+    "authors": [
+      "T. Chen",
+      "Guan-Horng Liu",
+      "Evangelos A. Theodorou"
+    ],
+    "publication_date": "2021-10-21",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "509e166d5e66df10675a0e15063daad518dcc5ad",
+    "corpus_id": 239050236,
+    "category": "Computer Science, Mathematics"
+  },
+  "2110-05243": {
+    "title": "Score-based diffusion models for accelerated MRI",
+    "authors": [
+      "Hyungjin Chung",
+      "Jong-Chul Ye"
+    ],
+    "publication_date": "2021-10-08",
+    "venue": "Medical Image Anal.",
+    "semantic_scholar_id": "ff85a9d7182063bb71b47ab239d662fd2975c4fc",
+    "corpus_id": 238583682,
+    "category": "Medicine, Engineering, Computer Science"
+  },
+  "2105-05233": {
+    "title": "Diffusion Models Beat GANs on Image Synthesis",
+    "authors": [
+      "Prafulla Dhariwal",
+      "Alex Nichol"
+    ],
+    "publication_date": "2021-05-11",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "64ea8f180d0682e6c18d1eb688afdb2027c02794",
+    "corpus_id": 234357997,
+    "category": "Computer Science, Mathematics"
+  },
+  "2011-13456": {
+    "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+    "authors": [
+      "Yang Song",
+      "Jascha Narain Sohl-Dickstein",
+      "Diederik P. Kingma",
+      "Abhishek Kumar",
+      "Stefano Ermon",
+      "Ben Poole"
+    ],
+    "publication_date": "2020-11-26",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "633e2fbfc0b21e959a244100937c5853afca4853",
+    "corpus_id": 227209335,
+    "category": "Computer Science, Mathematics"
+  },
+  "2006-11239": {
+    "title": "Denoising Diffusion Probabilistic Models",
+    "authors": [
+      "Jonathan Ho",
+      "Ajay Jain",
+      "P. Abbeel"
+    ],
+    "publication_date": "2020-06-19",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "5c126ae3421f05768d8edd97ecd44b1364e2c99a",
+    "corpus_id": 219955663,
+    "category": "Computer Science, Mathematics"
+  },
+  "2004-00589": {
+    "title": "Robust Image Reconstruction With Misaligned Structural Information",
+    "authors": [
+      "Leon Bungert",
+      "Matthias Joachim Ehrhardt"
+    ],
+    "publication_date": "2020-04-01",
+    "venue": "IEEE Access",
+    "semantic_scholar_id": "4b9b46adfe5214b86beebc042d0fa86c229b02f1",
+    "corpus_id": 214743584,
+    "category": "Computer Science, Mathematics"
+  },
+  "1910-03273": {
+    "title": "Joint multi‐contrast variational network reconstruction (jVN) with application to rapid 2D and 3D imaging",
+    "authors": [
+      "D. Polak",
+      "S. Cauley",
+      "B. Bilgiç",
+      "E. Gong",
+      "P. Bachert",
+      "E. Adalsteinsson",
+      "K. Setsompop"
+    ],
+    "publication_date": "2019-10-08",
+    "venue": "Magnetic Resonance in Medicine",
+    "semantic_scholar_id": "14f7789b5d63a3f7e161ccf9445ad87b6b4858d6",
+    "corpus_id": 203902793,
+    "category": "Medicine, Computer Science, Engineering, Physics"
+  },
+  "1907-05600": {
+    "title": "Generative Modeling by Estimating Gradients of the Data Distribution",
+    "authors": [
+      "Yang Song",
+      "Stefano Ermon"
+    ],
+    "publication_date": "2019-07-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "965359b3008ab50dd04e171551220ec0e7f83aba",
+    "corpus_id": 196470871,
+    "category": "Computer Science, Mathematics"
+  },
+  "1903-00691": {
+    "title": "Simultaneous use of individual and joint regularization terms in compressive sensing: Joint reconstruction of multi‐channel multi‐contrast MRI acquisitions",
+    "authors": [
+      "E. Kopanoglu",
+      "A. Güngör",
+      "Toygan Kilic",
+      "E. Saritas",
+      "K. Oguz",
+      "Tolga Cukur",
+      "H. E. Güven"
+    ],
+    "publication_date": "2019-03-02",
+    "venue": "NMR in Biomedicine",
+    "semantic_scholar_id": "766ff8f213298c28cbfde508752a5db6cf3b8f5e",
+    "corpus_id": 127821609,
+    "category": "Computer Science, Mathematics, Medicine, Physics, Engineering"
+  },
+  "1804-03596": {
+    "title": "A Deep Information Sharing Network for Multi-Contrast Compressed Sensing MRI Reconstruction",
+    "authors": [
+      "Liyan Sun",
+      "Zhiwen Fan",
+      "Yue Huang",
+      "Xinghao Ding",
+      "J. Paisley"
+    ],
+    "publication_date": "2018-04-10",
+    "venue": "IEEE Transactions on Image Processing",
+    "semantic_scholar_id": "2515cdad23a8f6a484200635934a620b13e45007",
+    "corpus_id": 4760361,
+    "category": "Computer Science, Medicine, Mathematics"
+  },
+  "1712-02862": {
+    "title": "MoDL: Model-Based Deep Learning Architecture for Inverse Problems",
+    "authors": [
+      "H. Aggarwal",
+      "M. Mani",
+      "M. Jacob"
+    ],
+    "publication_date": "2017-12-07",
+    "venue": "IEEE Transactions on Medical Imaging",
+    "semantic_scholar_id": "d8a486a5c681ea3a6f014f3b560803adfe9a0609",
+    "corpus_id": 5042331,
+    "category": "Computer Science, Medicine, Mathematics"
+  },
+  "1704-00447": {
+    "title": "Learning a variational network for reconstruction of accelerated MRI data",
+    "authors": [
+      "Kerstin Hammernik",
+      "Teresa Klatzer",
+      "Erich Kobler",
+      "M. Recht",
+      "D. Sodickson",
+      "T. Pock",
+      "F. Knoll"
+    ],
+    "publication_date": "2017-04-03",
+    "venue": "Magnetic Resonance in Medicine",
+    "semantic_scholar_id": "ee661a5510ab1f035aa5dbf3d06109c388e6358d",
+    "corpus_id": 3815411,
+    "category": "Medicine, Computer Science"
+  },
+  "1308-0215": {
+    "title": "A survey of the Schr\\\"odinger problem and some of its connections with optimal transport",
+    "authors": [
+      "Christian L'eonard"
+    ],
+    "publication_date": "2013-08-01",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "6609f2a04229c01f939151e6398c28c86b9ca989",
+    "corpus_id": 14387241,
+    "category": "Mathematics"
+  }
+}

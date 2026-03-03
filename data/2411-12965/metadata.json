@@ -1,0 +1,16 @@
+{
+  "title": "Two-Sided Nearest Neighbors: An adaptive and minimax optimal procedure for matrix completion",
+  "authors": [
+    "Tathagata Sadhukhan",
+    "Manit Paul",
+    "Raaz Dwivedi"
+  ],
+  "summary": "Nearest neighbor (NN) algorithms have been extensively used for missing data problems in recommender systems and sequential decision-making systems. Prior theoretical analysis has established favorable guarantees for NN when the underlying data is sufficiently smooth and the missingness probabilities are lower bounded. Here we analyze NN with non-smooth non-linear functions with vast amounts of missingness. In particular, we consider matrix completion settings where the entries of the underlying matrix follow a latent non-linear factor model, with the non-linearity belonging to a \\Holder function class that is less smooth than Lipschitz. Our results establish following favorable properties for a suitable two-sided NN: (1) The mean squared error (MSE) of NN adapts to the smoothness of the non-linearity, (2) under certain regularity conditions, the NN error rate matches the rate obtained by an oracle equipped with the knowledge of both the row and column latent factors, and finally (3) NN's MSE is non-trivial for a wide range of settings even when several matrix entries might be missing deterministically. We support our theoretical findings via extensive numerical simulations and a case study with data from a mobile health study, HeartSteps.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-09-01"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ML, cs.LG, math.ST, stat.ME"
+}

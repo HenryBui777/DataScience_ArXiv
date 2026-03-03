@@ -1,0 +1,13 @@
+{
+  "title": "A Quadratic Lower Bound for Simulation",
+  "authors": [
+    "Jan Friso Groote",
+    "Jan Martens"
+  ],
+  "summary": "We show that deciding simulation equivalence and simulation preorder have quadratic lower bounds assuming that the Strong Exponential Time Hypothesis holds. This is in line with the best know quadratic upper bounds of simulation equivalence. This means that deciding simulation is inherently quadratic. A typical consequence of this result is that computing simulation equivalence is fundamentally harder than bisimilarity.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LO"
+}

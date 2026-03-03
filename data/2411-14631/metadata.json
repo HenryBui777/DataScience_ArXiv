@@ -1,0 +1,17 @@
+{
+  "title": "RAMSES-yOMP: Performance Optimizations for the Astrophysical Hydrodynamic Simulation Code RAMSES",
+  "authors": [
+    "San Han",
+    "Yohan Dubois",
+    "Jaehyun Lee",
+    "Juhan Kim",
+    "Corentin Cadiou",
+    "Sukyoung K. Yi"
+  ],
+  "summary": "Developing an efficient code for large, multiscale astrophysical simulations is crucial in preparing the upcoming era of exascale computing. RAMSES is an astrophysical simulation code that employs parallel processing based on the Message Passing Interface (MPI). However, it has limitations in computational and memory efficiency when using a large number of CPU cores. The problem stems from inefficiencies in workload distribution and memory allocation that inevitably occur when a volume is simply decomposed into domains equal to the number of working processors. We present RAMSES-yOMP, which is a modified version of RAMSES designed to improve parallel scalability. Major updates include the incorporation of Open Multi-Processing into the MPI parallelization to take advantage of both the shared and distributed memory models. Utilizing this hybrid parallelism in high-resolution benchmark simulations with full prescriptions for baryonic physics, we achieved a performance increase of a factor of 2 in the total run-time, while using 75% less memory and 30% less storage compared to the original code, when using the same number of processors. These improvements allow us to perform larger or higher-resolution simulations than what was feasible previously.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.IM, astro-ph.GA"
+}

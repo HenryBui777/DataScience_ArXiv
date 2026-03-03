@@ -1,0 +1,13 @@
+{
+  "title": "Transformer-based Heuristic for Advanced Air Mobility Planning",
+  "authors": [
+    "Jun Xiang",
+    "Jun Chen"
+  ],
+  "summary": "Safety is extremely important for urban flights of autonomous Unmanned Aerial Vehicles (UAVs). Risk-aware path planning is one of the most effective methods to guarantee the safety of UAVs. This type of planning can be represented as a Constrained Shortest Path (CSP) problem, which seeks to find the shortest route that meets a predefined safety constraint. Solving CSP problems is NP-hard, presenting significant computational challenges. Although traditional methods can accurately solve CSP problems, they tend to be very slow. Previously, we introduced an additional safety dimension to the traditional A* algorithm, known as ASD A*, to effectively handle Constrained Shortest Path (CSP) problems. Then, we developed a custom learning-based heuristic using transformer-based neural networks, which significantly reduced computational load and enhanced the performance of the ASD A* algorithm. In this paper, we expand our dataset to include more risk maps and tasks, improve the proposed model, and increase its performance. We also introduce a new heuristic strategy and a novel neural network, which enhance the overall effectiveness of our approach.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

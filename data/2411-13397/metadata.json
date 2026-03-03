@@ -1,0 +1,16 @@
+{
+  "title": "Stability of the Inviscid Power-Law Vortex",
+  "authors": [
+    "Tim Binz",
+    "Matei P. Coiculescu"
+  ],
+  "summary": "We prove that the power-law vortex $\\overlineω(x) = β|x|^{-α}$, which explicitly solves the stationary unforced incompressible Euler equations in $\\mathbb{R}^2$ in both physical and self-similar coordinates, is exponentially linearly stable in self-similar coordinates with the natural scaling. This answers a question from the monograph by Albritton et al. on Vishik's non-uniqueness work on the two-dimensional Euler equations. Moreover, we prove that in physical coordinates, the linearization around $\\overlineω$ generates a strongly continuous group of isometries and we prove that the spectrum of the linearization is contained in the imaginary axis. Our results are valid for $L^2(\\mathbb{R}^2)$ functions with a mild symmetry condition.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-12-13",
+    "2025-02-10"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AP, physics.flu-dyn"
+}

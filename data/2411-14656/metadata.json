@@ -1,0 +1,21 @@
+{
+  "title": "mmWave Radar for Sit-to-Stand Analysis: A Comparative Study with Wearables and Kinect",
+  "authors": [
+    "Shuting Hu",
+    "Peggy Ackun",
+    "Xiang Zhang",
+    "Siyang Cao",
+    "Jennifer Barton",
+    "Melvin G. Hector",
+    "Mindy J. Fain",
+    "Nima Toosizadeh"
+  ],
+  "summary": "This study explores a novel approach for analyzing Sit-to-Stand (STS) movements using millimeter-wave (mmWave) radar technology. The goal is to develop a non-contact sensing, privacy-preserving, and all-day operational method for healthcare applications, including fall risk assessment. We used a 60GHz mmWave radar system to collect radar point cloud data, capturing STS motions from 45 participants. By employing a deep learning pose estimation model, we learned the human skeleton from Kinect built-in body tracking and applied Inverse Kinematics (IK) to calculate joint angles, segment STS motions, and extract commonly used features in fall risk assessment. Radar extracted features were then compared with those obtained from Kinect and wearable sensors. The results demonstrated the effectiveness of mmWave radar in capturing general motion patterns and large joint movements (e.g., trunk). Additionally, the study highlights the advantages and disadvantages of individual sensors and suggests the potential of integrated sensor technologies to improve the accuracy and reliability of motion analysis in clinical and biomedical research settings.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-11-28"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP, cs.ET, stat.AP"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "D-commuting SYK model: building quantum chaos from integrable blocks",
+  "authors": [
+    "Ping Gao",
+    "Han Lin",
+    "Cheng Peng"
+  ],
+  "summary": "We construct a new family of quantum chaotic models by combining multiple copies of integrable commuting SYK models. As each copy of the commuting SYK model does not commute with others, this construction breaks the integrability of each commuting SYK and the family of models demonstrates the emergence of quantum chaos. We study the spectrum of this model analytically in the double-scaled limit. As the number of copies tends to infinity, the spectrum becomes compact and equivalent to the regular SYK model. For finite $d$ copies, the spectrum is close to the regular SYK model in UV but has an exponential tail $e^{E/T_c}$ in the IR. We identify the reciprocal of the exponent in the tail as a critical temperature $T_c$, above which the model should be quantum chaotic. $T_c$ monotonically decreases as $d$ increases, which expands the chaotic regime over the non-chaotic regime. We propose the existence of a new phase around $T_c$, and the dynamics should be very different in two phases. We further carry out numeric analysis at finite $d$, which supports our proposal.\n  Given any finite dimensional local Hamiltonian, by decomposing it into $d$ groups, in which all terms in one group commute with each other but terms from different groups may not, our analysis can give an estimate of the critical temperature for quantum chaos based on the decomposition. We also comment on the implication of the critical temperature to future quantum simulations of quantum chaos and quantum gravity.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-12-09",
+    "2025-09-19"
+  ],
+  "publication_venue": "Phys. Rev. D 112, 066012 (2025)",
+  "pdf_url": null,
+  "category": "hep-th, cond-mat.stat-mech, cond-mat.str-el, quant-ph"
+}

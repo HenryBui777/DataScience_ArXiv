@@ -1,0 +1,20 @@
+{
+  "title": "HouseTune: Two-Stage Floorplan Generation with LLM Assistance",
+  "authors": [
+    "Ziyang Zong",
+    "Guanying Chen",
+    "Zhaohuan Zhan",
+    "Fengcheng Yu",
+    "Guang Tan"
+  ],
+  "summary": "This paper proposes a two-stage text-to-floorplan generation framework that combines the reasoning capability of Large Language Models (LLMs) with the generative power of diffusion models. In the first stage, we leverage a Chain-of-Thought (CoT) prompting strategy to guide an LLM in generating an initial layout (Layout-Init) from natural language descriptions, which ensures a user-friendly and intuitive design process. However, Layout-Init may lack precise geometric alignment and fine-grained structural details. To address this, the second stage employs a conditional diffusion model to refine Layout-Init into a final floorplan (Layout-Final) that better adheres to physical constraints and user requirements. Unlike prior methods, our approach effectively reduces the difficulty of floorplan generation learning without the need for extensive domain-specific training data. Experimental results demonstrate that our approach achieves state-of-the-art performance across all metrics, which validates its effectiveness in practical home design applications.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-20",
+    "2024-12-01",
+    "2025-03-10"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

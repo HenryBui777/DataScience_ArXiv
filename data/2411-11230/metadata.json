@@ -1,0 +1,13 @@
+{
+  "title": "Network-Security Informed Offer-Making of Aggregator with Utility-Owned Storage Lease Opportunity: Stochastic Stackelberg Game and Distributed Solution Methods",
+  "authors": [
+    "Congcong Liu",
+    "Zhengshuo Li"
+  ],
+  "summary": "Aggregators of distributed energy resources are increasingly encouraged to participate in wholesale market bidding. However, the delivery of the power they are awarded can result in over-voltage or congestion issues within the distribution network (DN). The opportunity to lease energy storage from the utility that manages the DN provides the aggregator with a means to mitigate these issues, while also benefiting the utility in terms of additional lease revenue. Nevertheless, this leasing opportunity considerably complicates the aggregator's offer-making process, as it requires the consideration of market uncertainties, uncertain power injection at DN buses, and the strategic interactions between the aggregator and the utility. This paper presents a stochastic Stackelberg game model that effectively captures the interactions between the aggregator and the utility, ensuring DN security across all potential uncertainty scenarios. Furthermore, in light of the privacy concerns of both the aggregator and the utility, two distributed solution methods are proposed. The first method follows a traditional predict-then-optimize framework and has been validated to achieve the game equilibrium. The second method employs an end-to-end framework, which has been empirically shown to yield superior economic results. Case studies conducted on 69 and 533-bus DNs illustrate the efficacy of the proposed methods.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Image Harmonization using Robust Restricted CDF Matching",
+  "authors": [
+    "Roman Stoklasa"
+  ],
+  "summary": "Deployment of machine learning algorithms into real-world practice is still a difficult task. One of the challenges lies in the unpredictable variability of input data, which may differ significantly among individual users, institutions, scanners, etc. The input data variability can be decreased by using suitable data preprocessing with robust data harmonization. In this paper, we present a method of image harmonization using Cumulative Distribution Function (CDF) matching based on curve fitting. This approach does not ruin local variability and individual important features. The transformation of image intensities is non-linear but still ``smooth and elastic\", as compared to other known histogram matching algorithms. Non-linear transformation allows for a very good match to the template. At the same time, elasticity constraints help to preserve local variability among individual inputs, which may encode important features for subsequent machine-learning processing. The pre-defined template CDF offers a better and more intuitive control for the input data transformation compared to other methods, especially ML-based ones. Even though we demonstrate our method for MRI images, the method is generic enough to apply to other types of imaging data.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

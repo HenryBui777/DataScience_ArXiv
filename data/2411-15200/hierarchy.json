@@ -1,0 +1,46 @@
+{
+  "elements": {
+    "document-2411-001": "Document",
+    "sent-2411-001": "This dissertation is my own work and contains nothing which is the outcome of work done in collaboration with others, except as specified in the text and Acknowledgements.",
+    "sent-2411-002": "This dissertation contains fewer than 65,000 words including appendices, bibliography, footnotes, tables and equations and has fewer than 150 figures.. \\end{declaration.}",
+    "abstract-2411-001": "Abstract",
+    "sent-2411-003": "Introduction Hyperkinetic movement disorders (HMDs) in children mainly comprise dystonia (abnormal twisting) and chorea (irregular, random movements).",
+    "sent-2411-004": "HMDs present significant diagnostic challenges due to their complex and often overlapping clinical manifestations.",
+    "sent-2411-005": "Prevalence of these conditions ranges from 2 to 50 per million and 5 to 10 per 100,000 respectively.",
+    "sent-2411-006": "These patients typically experience diagnostic delays averaging 4.75 to 7.83 years.",
+    "sent-2411-007": "Traditional diagnostic methods rely on clinical history and physical examinations by an expert, as specialised tests do not improve detection due to their complex pathophysiology.",
+    "sent-2411-008": "To address challenges in diagnosis, this study develops a neural network model to differentiate between dystonia and chorea from video recordings of patients performing a specific task.",
+    "sent-2411-009": "Methods The model utilizes joint position data extracted from videos of paediatric patients performing motor tasks.",
+    "sent-2411-010": "The model architecture integrates a Graph Convolutional Network (GCN), to capture spatial relationships, and Long Short-Term Memory (LSTM), to represent temporal dynamics.",
+    "sent-2411-011": "Attention mechanisms were incorporated to refine feature extraction and improve the model’s interpretability.",
+    "sent-2411-012": "A dataset of 50 videos (31 chorea-predominant, 19 dystonia-predominant) was used to train and validate the model.",
+    "sent-2411-013": "All data was collected under regulatory approval by Guy’s and St Thomas’ NHS Foundation Trust (GSTT) Electronic Records Research Interface (GERRI) (REC\\# 20EM/0112).",
+    "sent-2411-014": "Results and Discussion The model achieved an accuracy of 85\\%, and an F1 score of 81\\%.",
+    "sent-2411-015": "The model demonstrated high sensitivity (81\\%) and specificity (88\\%) at the optimal frame rate of 15 frames per second (fps).",
+    "sent-2411-016": "Attention maps provided valuable insights into the model's decision-making, highlighting the model’s correct identification of involuntary movement patterns, while model misclassifications are often linked to occluded body parts or subtle movement variations.",
+    "sent-2411-017": "This study highlights the potential of deep learning to improve the accuracy and efficiency of HMD diagnosis and ultimately could contribute to more reliable, interpretable clinical tools for paediatric HMDs."
+  },
+  "hierarchy": {
+    "1": {
+      "document-2411-001": null,
+      "sent-2411-001": "document-2411-001",
+      "sent-2411-002": "document-2411-001",
+      "abstract-2411-001": "document-2411-001",
+      "sent-2411-003": "abstract-2411-001",
+      "sent-2411-004": "abstract-2411-001",
+      "sent-2411-005": "abstract-2411-001",
+      "sent-2411-006": "abstract-2411-001",
+      "sent-2411-007": "abstract-2411-001",
+      "sent-2411-008": "abstract-2411-001",
+      "sent-2411-009": "abstract-2411-001",
+      "sent-2411-010": "abstract-2411-001",
+      "sent-2411-011": "abstract-2411-001",
+      "sent-2411-012": "abstract-2411-001",
+      "sent-2411-013": "abstract-2411-001",
+      "sent-2411-014": "abstract-2411-001",
+      "sent-2411-015": "abstract-2411-001",
+      "sent-2411-016": "abstract-2411-001",
+      "sent-2411-017": "abstract-2411-001"
+    }
+  }
+}

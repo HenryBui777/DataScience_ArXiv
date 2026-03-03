@@ -1,0 +1,17 @@
+{
+  "title": "Towards Variational Quantum Algorithms for generalized linear and nonlinear transport phenomena",
+  "authors": [
+    "Sergio Bengoechea",
+    "Paul Over",
+    "Dieter Jaksch",
+    "Thomas Rung"
+  ],
+  "summary": "This article proposes a Variational Quantum Algorithm to solve linear and nonlinear thermofluid dynamic transport equations. The hybrid classical-quantum framework is applied to problems governed by the heat, wave, and Burgers' equation in combination with different engineering boundary conditions. Topics covered include the encoding of band matrices, as in the consideration of non-constant material properties and upwind-biased first- and higher-order approximations, widely used in engineering Computational Fluid Dynamics, by the use of a mask function. Verification examples demonstrate high predictive agreement with classical methods. Furthermore, the scalability analysis shows a polylog scaling of the number of quantum gates with the number of qubits. Remaining challenges refer to the implicit construction of upwind schemes and the identification of an appropriate parameterization strategy of the quantum ansatz.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-07-16"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, physics.flu-dyn"
+}

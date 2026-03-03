@@ -1,0 +1,14 @@
+{
+  "title": "Twin Peak Method for Estimating Tissue Viscoelasticity using Shear Wave Elastography",
+  "authors": [
+    "Shuvrodeb Adikary",
+    "Matthew W. Urban",
+    "Murthy N. Guddati"
+  ],
+  "summary": "Tissue viscoelasticity is becoming an increasingly useful biomarker beyond elasticity and can theoretically be estimated using shear wave elastography (SWE), by inverting the propagation and attenuation characteristics of shear waves. Estimating viscosity is often more difficult than elasticity because attenuation, the main effect of viscosity, leads to poor signal-to-noise ratio of the shear wave motion. In the present work, we provide an alternative to existing methods of viscoelasticity estimation that is robust against noise. The method minimizes the difference between simulated and measured versions of two sets of peaks (twin peaks) in the frequency-wavenumber domain, obtained first by traversing through each frequency and then by traversing through each wavenumber. The slopes and deviation of the twin peaks are sensitive to elasticity and viscosity respectively, leading to the effectiveness of the proposed inversion algorithm for characterizing mechanical properties. This expected effectiveness is confirmed through in silico verification, followed by ex vivo validation and in vivo application, indicating that the proposed approach can be effectively used in accurately estimating viscoelasticity, thus potentially contributing to the development of enhanced biomarkers.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.bio-ph"
+}

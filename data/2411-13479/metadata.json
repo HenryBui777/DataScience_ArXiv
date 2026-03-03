@@ -1,0 +1,20 @@
+{
+  "title": "Conformal Prediction for Hierarchical Data",
+  "authors": [
+    "Guillaume Principato",
+    "Gilles Stoltz",
+    "Yvenn Amara-Ouali",
+    "Yannig Goude",
+    "Bachir Hamrouche",
+    "Jean-Michel Poggi"
+  ],
+  "summary": "We consider conformal prediction for multivariate data and focus on hierarchical data, where some components are linear combinations of others. Intuitively, the hierarchical structure can be leveraged to reduce the size of prediction regions for the same coverage level. We implement this intuition by including a projection step (also called a reconciliation step) in the split conformal prediction [SCP] procedure, and prove that the resulting prediction regions are indeed globally smaller. We do so both under the classic objective of joint coverage and under a new and challenging task: component-wise coverage, for which efficiency results are more difficult to obtain. The associated strategies and their analyses are based both on the literature of SCP and of forecast reconciliation, which we connect. We also illustrate the theoretical findings, for different scales of hierarchies on simulated data.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-02-03",
+    "2025-10-27"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ML, cs.LG, stat.AP"
+}

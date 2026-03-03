@@ -1,0 +1,12 @@
+{
+  "title": "Higher-Order Spectral Element Methods for Electromagnetic Modeling of Complex Anisotropic Waveguides",
+  "authors": [
+    "Raul Oliveira Ribeiro"
+  ],
+  "summary": "This research thesis presents a novel higher-order spectral element method (SEM) formulated in cylindrical coordinates for analyzing electromagnetic fields in waveguides filled with complex anisotropic media. In this study, we consider a large class of cylindrical waveguides: radially-bounded and radially-unbounded domains; homogeneous and inhomogeneous waveguides; concentric and non-concentric geometries; Hermitian and non-Hermitian anisotropic media tensors. This work explores different wave equation formulations for one-layer eccentric and multilayer cylindrical waveguides. For the first case, we can define a new normalized scalar Helmholtz equation for decoupling TM and TE modes, and for the second, a vectorial Helmholtz equation for hybrid modes in multilayered anisotropic structures. Additionally, we formulate a transformation optics (TO) framework to include non-symmetric and non-Hermitian media tensors for non-concentric multilayer waveguides. Lastly, we model excitation sources for logging sensors applied in geophysical problems using the fields obtained by SEM. We validate the proposed approach against analytical solutions, perturbation-based and mode-matching-based methods, finite-elements, and finite-integration numerical methods. Our technique obtains accurate results with fewer elements and degrees of freedom (DoF) than Cartesian-based SEM and ordinary finite-element approaches. To this end, we use higher-order two-dimensional basis functions associated with the zeros of the completed Lobatto polynomial to model the fields in each reference element. The convergence analysis demonstrates the absence of the Runge effect as the expansion order increases. Numerical results show that our formulation is efficient and accurate for modeling cylindrical waveguided geometries filled with complex media.",
+  "submission_date": "2024-11-12",
+  "revised_dates": [],
+  "publication_venue": "Maxwell, PUC-Rio, 2024",
+  "pdf_url": null,
+  "category": "math.NA, cs.CE"
+}

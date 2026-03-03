@@ -1,0 +1,14 @@
+{
+  "title": "ISAC Super-Resolution Receivers: The Effect of Different Dictionary Matrices",
+  "authors": [
+    "Iman Valiulahi",
+    "Christos Masouros",
+    "Athina P. Petropulu"
+  ],
+  "summary": "This paper presents an off-the-grid estimator for ISAC systems using lifted atomic norm minimization (LANM). The main challenge in the ISAC systems is the unknown nature of both transmitted signals and radar-communication channels. We use a known dictionary to encode transmit signals and show that LANM can localize radar targets and decode communication symbols when the number of observations is proportional to the system's degrees of freedom and the coherence of the dictionary matrix. We reformulate LANM using a dual method and solve it with semidefinite relaxation (SDR) for different dictionary matrices to reduce the number of observations required at the receiver. Simulations demonstrate that the proposed LANM accurately estimates communication data and target parameters under varying complexity by selecting different dictionary matrices.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IT, eess.SP"
+}

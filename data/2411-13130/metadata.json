@@ -1,0 +1,14 @@
+{
+  "title": "The impact of recovery rate heterogeneity in achieving herd immunity",
+  "authors": [
+    "Gabriel Turinici"
+  ],
+  "summary": "Herd immunity is a critical concept in epidemiology, describing a threshold at which a sufficient proportion of a population is immune, either through infection or vaccination, thereby preventing sustained transmission of a pathogen. In the classic Susceptible-Infectious-Recovered (SIR) model, which has been widely used to study infectious disease dynamics, the achievement of herd immunity depends on key parameters, including the transmission rate ($β$) and the recovery rate ($γ$), where $γ$ represents the inverse of the mean infectious period. While the transmission rate has received substantial attention, recent studies have underscored the significant role of $γ$ in determining the timing and sustainability of herd immunity. Additionally, it is becoming increasingly evident that assuming $γ$ as a constant parameter might oversimplify the dynamics, as variations in recovery times can reflect diverse biological, social, and healthcare-related factors.\n  In this paper, we investigate how heterogeneity in the recovery rate affects herd immunity. We show empirically that the mean of the recovery rate is not a reliable metric for determining the achievement of herd immunity. Furthermore, we provide a theoretical result demonstrating that it is instead the mean recovery time, which is the mean of the inverse $1/γ$ of the recovery rate that is critical in deciding whether herd immunity is achievable within the SIR framework. A similar result is proved for the SEIR model. These insights have significant implications for public health interventions and theoretical modeling of epidemic dynamics.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-02-24"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-bio.PE, math.DS"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Chanel-Orderer: A Channel-Ordering Predictor for Tri-Channel Natural Images",
+  "authors": [
+    "Shen Li",
+    "Lei Jiang",
+    "Wei Wang",
+    "Hongwei Hu",
+    "Liang Li"
+  ],
+  "summary": "This paper shows a proof-of-concept that, given a typical 3-channel images but in a randomly permuted channel order, a model (termed as Chanel-Orderer) with ad-hoc inductive biases in terms of both architecture and loss functions can accurately predict the channel ordering and knows how to make it right. Specifically, Chanel-Orderer learns to score each of the three channels with the priors of object semantics and uses the resulting scores to predict the channel ordering. This brings up benefits into a typical scenario where an \\texttt{RGB} image is often mis-displayed in the \\texttt{BGR} format and needs to be corrected into the right order. Furthermore, as a byproduct, the resulting model Chanel-Orderer is able to tell whether a given image is a near-gray-scale image (near-monochromatic) or not (polychromatic). Our research suggests that Chanel-Orderer mimics human visual coloring of our physical natural world.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

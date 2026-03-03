@@ -1,0 +1,16 @@
+{
+  "title": "Dense Suspensions in Rotary Shear",
+  "authors": [
+    "Naveen Kumar Agrawal",
+    "Zhouyang Ge",
+    "Martin Trulsson",
+    "Outi Tammisola",
+    "Luca Brandt"
+  ],
+  "summary": "We introduce a novel unsteady shear protocol, which we name Rotary Shear (RS), where the flow and vorticity directions are continuously rotated around the velocity gradient direction by imposing two out-of-phase oscillatory shear (OS) in orthogonal directions. We perform numerical simulations of dense suspensions of rigid non-Brownian spherical particles at volume fractions ($φ$) between 0.40 and 0.55 subject to this new RS protocol and compare to the classical OS protocol. We find that the suspension viscosity displays a similar non-monotonic response as the strain amplitude ($γ_0$) is increased: a minimum viscosity is found at an intermediate, volume-fraction dependent strain amplitude. However, the suspension dynamics is different in the new protocol. Unlike the OS protocol, suspensions under RS do not show self-adsorbing states at any $γ_0$ and do not undergo the reversible-irreversible transition: the stroboscropic particle dynamics are always diffusive, which we attribute to the fact that the RS protocol is irreversible. To validate this hypothesis, we introduce a reversible-RS (RRS) protocol, a combination of RS and OS, where we rotate the shear direction (as in RS) until it is instantaneously reversed (as in OS), and find the resulting rheology and dynamics to be closer to OS. Detailed microstructure analysis shows that both the OS and RRS protocols result in a contact-free, isotropic to an in-contact, anisotropic microstructure at the dynamically reversible-to-irreversible transition. The RS protocol does not render such a transition, and the dynamics remain diffusive with an in-contact, anisotropic microstructure for all strain amplitudes.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cond-mat.soft, physics.flu-dyn"
+}

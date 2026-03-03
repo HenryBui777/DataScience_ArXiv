@@ -1,0 +1,31 @@
+{
+  "title": "Baking Gaussian Splatting into Diffusion Denoiser for Fast and Scalable Single-stage Image-to-3D Generation and Reconstruction",
+  "authors": [
+    "Yuanhao Cai",
+    "He Zhang",
+    "Kai Zhang",
+    "Yixun Liang",
+    "Mengwei Ren",
+    "Fujun Luan",
+    "Qing Liu",
+    "Soo Ye Kim",
+    "Jianming Zhang",
+    "Zhifei Zhang",
+    "Yuqian Zhou",
+    "Yulun Zhang",
+    "Xiaokang Yang",
+    "Zhe Lin",
+    "Alan Yuille"
+  ],
+  "summary": "Existing feedforward image-to-3D methods mainly rely on 2D multi-view diffusion models that cannot guarantee 3D consistency. These methods easily collapse when changing the prompt view direction and mainly handle object-centric cases. In this paper, we propose a novel single-stage 3D diffusion model, DiffusionGS, for object generation and scene reconstruction from a single view. DiffusionGS directly outputs 3D Gaussian point clouds at each timestep to enforce view consistency and allow the model to generate robustly given prompt views of any directions, beyond object-centric inputs. Plus, to improve the capability and generality of DiffusionGS, we scale up 3D training data by developing a scene-object mixed training strategy. Experiments show that DiffusionGS yields improvements of 2.20 dB/23.25 and 1.34 dB/19.16 in PSNR/FID for objects and scenes than the state-of-the-art methods, without depth estimator. Plus, our method enjoys over 5$\\times$ faster speed ($\\sim$6s on an A100 GPU). Our Project page at https://caiyuanhao1998.github.io/project/DiffusionGS/ shows the video and interactive results. The code and models are publicly available at https://github.com/caiyuanhao1998/Open-DiffusionGS",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-26",
+    "2025-03-08",
+    "2025-06-26",
+    "2025-10-11"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.GR"
+}

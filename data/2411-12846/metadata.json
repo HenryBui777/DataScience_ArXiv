@@ -1,0 +1,14 @@
+{
+  "title": "Towards Fairness in AI for Melanoma Detection: Systemic Review and Recommendations",
+  "authors": [
+    "Laura N Montoya",
+    "Jennafer Shae Roberts",
+    "Belen Sanchez Hidalgo"
+  ],
+  "summary": "Early and accurate melanoma detection is crucial for improving patient outcomes. Recent advancements in artificial intelligence AI have shown promise in this area, but the technologys effectiveness across diverse skin tones remains a critical challenge. This study conducts a systematic review and preliminary analysis of AI based melanoma detection research published between 2013 and 2024, focusing on deep learning methodologies, datasets, and skin tone representation. Our findings indicate that while AI can enhance melanoma detection, there is a significant bias towards lighter skin tones. To address this, we propose including skin hue in addition to skin tone as represented by the LOreal Color Chart Map for a more comprehensive skin tone assessment technique. This research highlights the need for diverse datasets and robust evaluation metrics to develop AI models that are equitable and effective for all patients. By adopting best practices outlined in a PRISMA Equity framework tailored for healthcare and melanoma detection, we can work towards reducing disparities in melanoma outcomes.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CY, cs.CV, cs.HC, eess.IV"
+}

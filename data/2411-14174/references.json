@@ -1,0 +1,150 @@
+{
+  "2405-11514": {
+    "title": "Towards Translating Real-World Code with LLMs: A Study of Translating to Rust",
+    "authors": [
+      "Hasan Ferit Eniser",
+      "Hanliang Zhang",
+      "Cristina David",
+      "Meng Wang",
+      "M. Christakis",
+      "Brandon Paulsen",
+      "Joey Dodds",
+      "Daniel Kroening"
+    ],
+    "publication_date": "2024-05-19",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "255ca444da23f51651ff9e259e1d097ecd76b021",
+    "corpus_id": 269922036,
+    "category": "Computer Science"
+  },
+  "2404-18852": {
+    "title": "VERT: Verified Equivalent Rust Transpilation with Large Language Models as Few-Shot Learners",
+    "authors": [
+      "Aidan Z.H. Yang",
+      "Yoshiki Takashima",
+      "Brandon Paulsen",
+      "J. Dodds",
+      "Daniel Kroening"
+    ],
+    "publication_date": "2024-04-29",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "03651ef144d2f28583541f81056835a16aacfcac",
+    "corpus_id": 269449701,
+    "category": "Computer Science"
+  },
+  "2303-10515": {
+    "title": "Ownership guided C to Rust translation",
+    "authors": [
+      "HanLiang Zhang",
+      "C. David",
+      "Y. Yu",
+      "M. Wang"
+    ],
+    "publication_date": "2023-03-18",
+    "venue": "International Conference on Computer Aided Verification",
+    "semantic_scholar_id": "34d32432225c5095c2fcee926b90cd3bf2a7d425",
+    "corpus_id": 257631870,
+    "category": "Computer Science"
+  },
+  "2302-13863": {
+    "title": "Capstone: A Capability-based Foundation for Trustless Secure Memory Access (Extended Version)",
+    "authors": [
+      "Jason Yu",
+      "Conrad Watt",
+      "Aditya Badole",
+      "Trevor E. Carlson",
+      "P. Saxena"
+    ],
+    "publication_date": "2023-02-27",
+    "venue": "USENIX Security Symposium",
+    "semantic_scholar_id": "cfcfebcc497cc7c95db5d4707e81dd56969c3404",
+    "corpus_id": 257220126,
+    "category": "Computer Science"
+  },
+  "2211-12787": {
+    "title": "Program Repair",
+    "authors": [
+      "Xiang Gao",
+      "Yannic Noller",
+      "Abhik Roychoudhury"
+    ],
+    "publication_date": "2022-11-23",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "30624a18720bf93a85dc3efe570df271a8c9f4c3",
+    "corpus_id": 253801580,
+    "category": "Computer Science"
+  },
+  "2208-12900": {
+    "title": "Fat Pointers for Temporal Memory Safety of C",
+    "authors": [
+      "Jie Zhou",
+      "John Criswell",
+      "M. Hicks"
+    ],
+    "publication_date": "2022-08-27",
+    "venue": "Proc. ACM Program. Lang.",
+    "semantic_scholar_id": "3a225715a603745340667ce20f78e376fb1000cd",
+    "corpus_id": 251903483,
+    "category": "Computer Science"
+  },
+  "2203-13445": {
+    "title": "C to checked C by 3c",
+    "authors": [
+      "A. Machiry",
+      "J. Kastner",
+      "Matt McCutchen",
+      "Aaron Eline",
+      "Kyle Headley",
+      "M. Hicks"
+    ],
+    "publication_date": "2022-03-25",
+    "venue": "Proc. ACM Program. Lang.",
+    "semantic_scholar_id": "6c55dc3e80d2185dc9d63e06dca672ed82bd3076",
+    "corpus_id": 247748774,
+    "category": "Computer Science"
+  },
+  "2201-13394": {
+    "title": "A formal model of Checked C",
+    "authors": [
+      "Liyi Li",
+      "Yiyun Liu",
+      "Deena L. Postol",
+      "Leonidas Lampropoulos",
+      "David Van Horn",
+      "M. Hicks"
+    ],
+    "publication_date": "2022-01-31",
+    "venue": "IEEE Computer Security Foundations Symposium",
+    "semantic_scholar_id": "543e5389bf787af3f4c59ea5d4a318d28654040d",
+    "corpus_id": 246430440,
+    "category": "Computer Science"
+  },
+  "1811-09189": {
+    "title": "PAC it up: Towards Pointer Integrity using ARM Pointer Authentication",
+    "authors": [
+      "Hans Liljestrand",
+      "Thomas Nyman",
+      "Kui Wang",
+      "C. Perez",
+      "Jan-Erik Ekberg",
+      "N. Asokan"
+    ],
+    "publication_date": "2018-11-22",
+    "venue": "USENIX Security Symposium",
+    "semantic_scholar_id": "ba6734ddfcd831e9b45b27a12af44ef17447fe17",
+    "corpus_id": 53721743,
+    "category": "Computer Science"
+  },
+  "1710-06125": {
+    "title": "EffectiveSan: type and memory error detection using dynamically typed C/C++",
+    "authors": [
+      "Gregory J. Duck",
+      "R. Yap"
+    ],
+    "publication_date": "2017-10-17",
+    "venue": "ACM-SIGPLAN Symposium on Programming Language Design and Implementation",
+    "semantic_scholar_id": "673b842032d20ee72d165860bd52d17bf6037000",
+    "corpus_id": 4918751,
+    "category": "Computer Science"
+  }
+}

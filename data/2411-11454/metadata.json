@@ -1,0 +1,15 @@
+{
+  "title": "Relevance-guided Audio Visual Fusion for Video Saliency Prediction",
+  "authors": [
+    "Li Yu",
+    "Xuanzhe Sun",
+    "Pan Gao",
+    "Moncef Gabbouj"
+  ],
+  "summary": "Audio data, often synchronized with video frames, plays a crucial role in guiding the audience's visual attention. Incorporating audio information into video saliency prediction tasks can enhance the prediction of human visual behavior. However, existing audio-visual saliency prediction methods often directly fuse audio and visual features, which ignore the possibility of inconsistency between the two modalities, such as when the audio serves as background music. To address this issue, we propose a novel relevance-guided audio-visual saliency prediction network dubbed AVRSP. Specifically, the Relevance-guided Audio-Visual feature Fusion module (RAVF) dynamically adjusts the retention of audio features based on the semantic relevance between audio and visual elements, thereby refining the integration process with visual features. Furthermore, the Multi-scale feature Synergy (MS) module integrates visual features from different encoding stages, enhancing the network's ability to represent objects at various scales. The Multi-scale Regulator Gate (MRG) could transfer crucial fusion information to visual features, thus optimizing the utilization of multi-scale visual features. Extensive experiments on six audio-visual eye movement datasets have demonstrated that our AVRSP network achieves competitive performance in audio-visual saliency prediction.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

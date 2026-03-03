@@ -1,0 +1,592 @@
+{
+  "2409-15761": {
+    "title": "TFG: Unified Training-Free Guidance for Diffusion Models",
+    "authors": [
+      "Haotian Ye",
+      "Haowei Lin",
+      "Jiaqi Han",
+      "Minkai Xu",
+      "Sheng Liu",
+      "Yitao Liang",
+      "Jianzhu Ma",
+      "James Zou",
+      "Stefano Ermon"
+    ],
+    "publication_date": "2024-09-24",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "af1562eb85e7929d46881b8b725df24e32f8fade",
+    "corpus_id": 272832564,
+    "category": "Computer Science"
+  },
+  "2311-16424": {
+    "title": "Manifold Preserving Guided Diffusion",
+    "authors": [
+      "Yutong He",
+      "Naoki Murata",
+      "Chieh-Hsin Lai",
+      "Yuhta Takida",
+      "Toshimitsu Uesaka",
+      "Dongjun Kim",
+      "Wei-Hsiang Liao",
+      "Yuki Mitsufuji",
+      "J. Z. Kolter",
+      "Ruslan Salakhutdinov",
+      "Stefano Ermon"
+    ],
+    "publication_date": "2023-11-28",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "19f4d1533d8f7c4c13e9732c36fb374edd5ad470",
+    "corpus_id": 265466093,
+    "category": "Computer Science"
+  },
+  "2305-12577": {
+    "title": "Guided Motion Diffusion for Controllable Human Motion Synthesis",
+    "authors": [
+      "Korrawe Karunratanakul",
+      "Konpat Preechakul",
+      "Supasorn Suwajanakorn",
+      "Siyu Tang"
+    ],
+    "publication_date": "2023-05-21",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "b44e302e87fdb84cb299f1ba5fdb89f0d1b309b6",
+    "corpus_id": 258833752,
+    "category": "Computer Science"
+  },
+  "2305-08995": {
+    "title": "Denoising Diffusion Models for Plug-and-Play Image Restoration",
+    "authors": [
+      "Yuanzhi Zhu",
+      "K. Zhang",
+      "Jingyun Liang",
+      "Jiezhang Cao",
+      "B. Wen",
+      "R. Timofte",
+      "L. Gool"
+    ],
+    "publication_date": "2023-05-15",
+    "venue": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "semantic_scholar_id": "46943551a72ab1bf608067b63cb2668049b4b199",
+    "corpus_id": 258714952,
+    "category": "Computer Science, Engineering"
+  },
+  "2303-09833": {
+    "title": "FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model",
+    "authors": [
+      "Jiwen Yu",
+      "Yinhuai Wang",
+      "Chen Zhao",
+      "Bernard Ghanem",
+      "Jian Zhang"
+    ],
+    "publication_date": "2023-03-17",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "ce06533ecc98ba221a4db427738884c6a6af6eee",
+    "corpus_id": 257622962,
+    "category": "Computer Science"
+  },
+  "2302-08453": {
+    "title": "T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models",
+    "authors": [
+      "Chong Mou",
+      "Xintao Wang",
+      "Liangbin Xie",
+      "Jing Zhang",
+      "Zhongang Qi",
+      "Ying Shan",
+      "Xiaohu Qie"
+    ],
+    "publication_date": "2023-02-16",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "58842cdca3ea68f7b9e638b288fc247a6f26dafc",
+    "corpus_id": 256900833,
+    "category": "Computer Science"
+  },
+  "2302-07121": {
+    "title": "Universal Guidance for Diffusion Models",
+    "authors": [
+      "Arpit Bansal",
+      "Hong-Min Chu",
+      "Avi Schwarzschild",
+      "Soumyadip Sengupta",
+      "Micah Goldblum",
+      "Jonas Geiping",
+      "T. Goldstein"
+    ],
+    "publication_date": "2023-02-14",
+    "venue": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "semantic_scholar_id": "d24b4f34197df0257390b57f02537e6ce3284f2e",
+    "corpus_id": 256846836,
+    "category": "Computer Science"
+  },
+  "2302-05543": {
+    "title": "Adding Conditional Control to Text-to-Image Diffusion Models",
+    "authors": [
+      "Lvmin Zhang",
+      "Anyi Rao",
+      "Maneesh Agrawala"
+    ],
+    "publication_date": "2023-02-10",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "efbe97d20c4ffe356e8826c01dc550bacc405add",
+    "corpus_id": 256827727,
+    "category": "Computer Science"
+  },
+  "2212-09462": {
+    "title": "Latent Diffusion for Language Generation",
+    "authors": [
+      "Justin Lovelace",
+      "Varsha Kishore",
+      "Chao-gang Wan",
+      "Eliot Shekhtman",
+      "Kilian Q. Weinberger"
+    ],
+    "publication_date": "2022-12-19",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "23b7cde603b5ec8d5d13d46e1c453dc52d7c3f6c",
+    "corpus_id": 254854302,
+    "category": "Computer Science"
+  },
+  "2211-13752": {
+    "title": "Sketch-Guided Text-to-Image Diffusion Models",
+    "authors": [
+      "Andrey Voynov",
+      "Kfir Aberman",
+      "D. Cohen-Or"
+    ],
+    "publication_date": "2022-11-24",
+    "venue": "International Conference on Computer Graphics and Interactive Techniques",
+    "semantic_scholar_id": "55036dea7f6068d6b5de6ffe178bb324d01918a0",
+    "corpus_id": 254018130,
+    "category": "Computer Science"
+  },
+  "2211-10440": {
+    "title": "Magic3D: High-Resolution Text-to-3D Content Creation",
+    "authors": [
+      "Chen-Hsuan Lin",
+      "Jun Gao",
+      "Luming Tang",
+      "Towaki Takikawa",
+      "Xiaohui Zeng",
+      "Xun Huang",
+      "Karsten Kreis",
+      "S. Fidler",
+      "Ming-Yu Liu",
+      "Tsung-Yi Lin"
+    ],
+    "publication_date": "2022-11-18",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "bdf4af8311637c681904e71cf50f96fd0026f578",
+    "corpus_id": 253708074,
+    "category": "Computer Science"
+  },
+  "2210-09276": {
+    "title": "Imagic: Text-Based Real Image Editing with Diffusion Models",
+    "authors": [
+      "Bahjat Kawar",
+      "Shiran Zada",
+      "Oran Lang",
+      "Omer Tov",
+      "Hui-Tang Chang",
+      "Tali Dekel",
+      "Inbar Mosseri",
+      "M. Irani"
+    ],
+    "publication_date": "2022-10-17",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "23e261a20a315059b4de5492ed071c97a20c12e7",
+    "corpus_id": 252918469,
+    "category": "Computer Science"
+  },
+  "2209-14916": {
+    "title": "Human Motion Diffusion Model",
+    "authors": [
+      "Guy Tevet",
+      "Sigal Raab",
+      "Brian Gordon",
+      "Yonatan Shafir",
+      "Daniel Cohen-Or",
+      "Amit H. Bermano"
+    ],
+    "publication_date": "2022-09-29",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "15736f7c205d961c00378a938daffaacb5a0718d",
+    "corpus_id": 252595883,
+    "category": "Computer Science"
+  },
+  "2209-14687": {
+    "title": "Diffusion Posterior Sampling for General Noisy Inverse Problems",
+    "authors": [
+      "Hyungjin Chung",
+      "Jeongsol Kim",
+      "Michael T. McCann",
+      "M. Klasky",
+      "J. C. Ye"
+    ],
+    "publication_date": "2022-09-29",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "61e46884567be7cad12e999365b16a8d3414b678",
+    "corpus_id": 252596252,
+    "category": "Computer Science, Mathematics"
+  },
+  "2209-14988": {
+    "title": "DreamFusion: Text-to-3D using 2D Diffusion",
+    "authors": [
+      "Ben Poole",
+      "Ajay Jain",
+      "J. Barron",
+      "B. Mildenhall"
+    ],
+    "publication_date": "2022-09-29",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "4c94d04afa4309ec2f06bdd0fe3781f91461b362",
+    "corpus_id": 252596091,
+    "category": "Computer Science, Mathematics"
+  },
+  "2208-01626": {
+    "title": "Prompt-to-Prompt Image Editing with Cross Attention Control",
+    "authors": [
+      "Amir Hertz",
+      "Ron Mokady",
+      "J. Tenenbaum",
+      "Kfir Aberman",
+      "Y. Pritch",
+      "D. Cohen-Or"
+    ],
+    "publication_date": "2022-08-02",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "04e541391e8dce14d099d00fb2c21dbbd8afe87f",
+    "corpus_id": 251252882,
+    "category": "Computer Science"
+  },
+  "2206-09012": {
+    "title": "Diffusion models as plug-and-play priors",
+    "authors": [
+      "Alexandros Graikos",
+      "Nikolay Malkin",
+      "N. Jojic",
+      "D. Samaras"
+    ],
+    "publication_date": "2022-06-17",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "44b3fb61bec49f5e4d8a3b81ddc6082aedd771fe",
+    "corpus_id": 249889060,
+    "category": "Computer Science"
+  },
+  "2206-00941": {
+    "title": "Improving Diffusion Models for Inverse Problems using Manifold Constraints",
+    "authors": [
+      "Hyungjin Chung",
+      "Byeongsu Sim",
+      "Dohoon Ryu",
+      "J. C. Ye"
+    ],
+    "publication_date": "2022-06-02",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "b3f5cf32178bcbed91aa5303b70963c6463f48a2",
+    "corpus_id": 249282628,
+    "category": "Computer Science, Mathematics"
+  },
+  "2205-14217": {
+    "title": "Diffusion-LM Improves Controllable Text Generation",
+    "authors": [
+      "Xiang Lisa Li",
+      "John Thickstun",
+      "Ishaan Gulrajani",
+      "Percy Liang",
+      "Tatsunori Hashimoto"
+    ],
+    "publication_date": "2022-05-27",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "1386b8a11929cf02da291c56aca353e33bbc22ed",
+    "corpus_id": 249192356,
+    "category": "Computer Science"
+  },
+  "2205-11487": {
+    "title": "Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding",
+    "authors": [
+      "Chitwan Saharia",
+      "William Chan",
+      "Saurabh Saxena",
+      "Lala Li",
+      "Jay Whang",
+      "Emily L. Denton",
+      "Seyed Kamyar Seyed Ghasemipour",
+      "Burcu Karagol Ayan",
+      "S. S. Mahdavi",
+      "Raphael Gontijo Lopes",
+      "Tim Salimans",
+      "Jonathan Ho",
+      "David J. Fleet",
+      "Mohammad Norouzi"
+    ],
+    "publication_date": "2022-05-23",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "9695824d7a01fad57ba9c01d7d76a519d78d65e7",
+    "corpus_id": 248986576,
+    "category": "Computer Science"
+  },
+  "2204-06125": {
+    "title": "Hierarchical Text-Conditional Image Generation with CLIP Latents",
+    "authors": [
+      "A. Ramesh",
+      "Prafulla Dhariwal",
+      "Alex Nichol",
+      "Casey Chu",
+      "Mark Chen"
+    ],
+    "publication_date": "2022-04-13",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "c57293882b2561e1ba03017902df9fc2f289dea2",
+    "corpus_id": 248097655,
+    "category": "Computer Science"
+  },
+  "2201-11793": {
+    "title": "Denoising Diffusion Restoration Models",
+    "authors": [
+      "Bahjat Kawar",
+      "Michael Elad",
+      "Stefano Ermon",
+      "Jiaming Song"
+    ],
+    "publication_date": "2022-01-27",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "3d3c5fcbc40aadccceda58d3d9c5cd00588ea0b7",
+    "corpus_id": 246411364,
+    "category": "Computer Science, Engineering"
+  },
+  "2112-10752": {
+    "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+    "authors": [
+      "Robin Rombach",
+      "A. Blattmann",
+      "Dominik Lorenz",
+      "Patrick Esser",
+      "B. Ommer"
+    ],
+    "publication_date": "2021-12-20",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "c10075b3746a9f3dd5811970e93c8ca3ad39b39d",
+    "corpus_id": 245335280,
+    "category": "Computer Science"
+  },
+  "2111-14818": {
+    "title": "Blended Diffusion for Text-driven Editing of Natural Images",
+    "authors": [
+      "Omri Avrahami",
+      "D. Lischinski",
+      "Ohad Fried"
+    ],
+    "publication_date": "2021-11-29",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "88e8801e4daf404d3d40f1648ef29faeb8e6d58a",
+    "corpus_id": 244714366,
+    "category": "Computer Science"
+  },
+  "2110-02711": {
+    "title": "DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation",
+    "authors": [
+      "Gwanghyun Kim",
+      "Taesung Kwon",
+      "Jong-Chul Ye"
+    ],
+    "publication_date": "2021-10-06",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "8f8dedb511c0324d1cb7f9750560109ca9290b5f",
+    "corpus_id": 244909410,
+    "category": "Computer Science"
+  },
+  "2108-01073": {
+    "title": "SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations",
+    "authors": [
+      "Chenlin Meng",
+      "Yutong He",
+      "Yang Song",
+      "Jiaming Song",
+      "Jiajun Wu",
+      "Jun-Yan Zhu",
+      "Stefano Ermon"
+    ],
+    "publication_date": "2021-08-02",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "f671a09e3e5922e6d38cb77dda8d76d5ceac2a27",
+    "corpus_id": 245704504,
+    "category": "Computer Science"
+  },
+  "2105-05233": {
+    "title": "Diffusion Models Beat GANs on Image Synthesis",
+    "authors": [
+      "Prafulla Dhariwal",
+      "Alex Nichol"
+    ],
+    "publication_date": "2021-05-11",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "64ea8f180d0682e6c18d1eb688afdb2027c02794",
+    "corpus_id": 234357997,
+    "category": "Computer Science, Mathematics"
+  },
+  "2104-05703": {
+    "title": "Adversarial Open Domain Adaptation for Sketch-to-Photo Synthesis",
+    "authors": [
+      "Xiaoyu Xiang",
+      "Ding Liu",
+      "Xiao Yang",
+      "Yiheng Zhu",
+      "Xiaohui Shen",
+      "J. Allebach"
+    ],
+    "publication_date": "2021-04-12",
+    "venue": "IEEE Workshop/Winter Conference on Applications of Computer Vision",
+    "semantic_scholar_id": "fb1a1b333391e74a0cb1617524b0bf50290155c8",
+    "corpus_id": 233210644,
+    "category": "Computer Science"
+  },
+  "2101-12072": {
+    "title": "Autoregressive Denoising Diffusion Models for Multivariate Probabilistic Time Series Forecasting",
+    "authors": [
+      "Kashif Rasul",
+      "C. Seward",
+      "Ingmar Schuster",
+      "Roland Vollgraf"
+    ],
+    "publication_date": "2021-01-28",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "2ec659c6699933567a0924053de48359ae0eb00e",
+    "corpus_id": 231719657,
+    "category": "Computer Science"
+  },
+  "2011-13456": {
+    "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+    "authors": [
+      "Yang Song",
+      "Jascha Narain Sohl-Dickstein",
+      "Diederik P. Kingma",
+      "Abhishek Kumar",
+      "Stefano Ermon",
+      "Ben Poole"
+    ],
+    "publication_date": "2020-11-26",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "633e2fbfc0b21e959a244100937c5853afca4853",
+    "corpus_id": 227209335,
+    "category": "Computer Science, Mathematics"
+  },
+  "2006-11239": {
+    "title": "Denoising Diffusion Probabilistic Models",
+    "authors": [
+      "Jonathan Ho",
+      "Ajay Jain",
+      "P. Abbeel"
+    ],
+    "publication_date": "2020-06-19",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "5c126ae3421f05768d8edd97ecd44b1364e2c99a",
+    "corpus_id": 219955663,
+    "category": "Computer Science, Mathematics"
+  },
+  "1907-05600": {
+    "title": "Generative Modeling by Estimating Gradients of the Data Distribution",
+    "authors": [
+      "Yang Song",
+      "Stefano Ermon"
+    ],
+    "publication_date": "2019-07-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "965359b3008ab50dd04e171551220ec0e7f83aba",
+    "corpus_id": 196470871,
+    "category": "Computer Science, Mathematics"
+  },
+  "1812-04948": {
+    "title": "A Style-Based Generator Architecture for Generative Adversarial Networks",
+    "authors": [
+      "Tero Karras",
+      "S. Laine",
+      "Timo Aila"
+    ],
+    "publication_date": "2018-12-12",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "ceb2ebef0b41e31c1a21b28c2734123900c005e2",
+    "corpus_id": 54482423,
+    "category": "Computer Science, Mathematics"
+  },
+  "1809-00020": {
+    "title": "Performance Analysis of Plug-and-Play ADMM: A Graph Signal Processing Perspective",
+    "authors": [
+      "Stanley H. Chan"
+    ],
+    "publication_date": "2018-08-31",
+    "venue": "IEEE Transactions on Computational Imaging",
+    "semantic_scholar_id": "54039f3e518b75bddcbfc94593755eb90b30052a",
+    "corpus_id": 52157056,
+    "category": "Computer Science"
+  },
+  "1808-00897": {
+    "title": "BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation",
+    "authors": [
+      "Changqian Yu",
+      "Jingbo Wang",
+      "Chao Peng",
+      "Changxin Gao",
+      "Gang Yu",
+      "N. Sang"
+    ],
+    "publication_date": "2018-08-02",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "7a39a3ca168dfebb2e2d55b3fca0f750b32896da",
+    "corpus_id": 51906325,
+    "category": "Computer Science"
+  },
+  "1605-01710": {
+    "title": "Plug-and-Play ADMM for Image Restoration: Fixed-Point Convergence and Applications",
+    "authors": [
+      "Stanley H. Chan",
+      "Xiran Wang",
+      "Omar A. Elgendy"
+    ],
+    "publication_date": "2016-05-05",
+    "venue": "IEEE Transactions on Computational Imaging",
+    "semantic_scholar_id": "1dc8422156c87437b2b981b742b24ab530705bb7",
+    "corpus_id": 13997252,
+    "category": "Computer Science"
+  },
+  "1503-03585": {
+    "title": "Deep Unsupervised Learning using Nonequilibrium Thermodynamics",
+    "authors": [
+      "Jascha Narain Sohl-Dickstein",
+      "Eric A. Weiss",
+      "Niru Maheswaranathan",
+      "S. Ganguli"
+    ],
+    "publication_date": "2015-03-11",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "2dcef55a07f8607a819c21fe84131ea269cc2e3c",
+    "corpus_id": 14888175,
+    "category": "Computer Science, Mathematics"
+  },
+  "1409-8033": {
+    "title": "On the Convergence of Alternating Direction Lagrangian Methods for Nonconvex Structured Optimization Problems",
+    "authors": [
+      "S. Magnússon",
+      "C. Weeraddana",
+      "M. Rabbat",
+      "C. Fischione"
+    ],
+    "publication_date": "2014-09-29",
+    "venue": "IEEE Transactions on Control of Network Systems",
+    "semantic_scholar_id": "04872983a61e936cfd9944218f724d34bb5e6ddf",
+    "corpus_id": 4984367,
+    "category": "Computer Science, Mathematics"
+  },
+  "0803-4083": {
+    "title": "Accurate sampling using Langevin dynamics.",
+    "authors": [
+      "G. Bussi",
+      "M. Parrinello"
+    ],
+    "publication_date": "2007-05-25",
+    "venue": "Physical review. E, Statistical, nonlinear, and soft matter physics",
+    "semantic_scholar_id": "834ce99e9951b58372b5abd3819dfbdadd586a9b",
+    "corpus_id": 28548861,
+    "category": "Medicine, Physics"
+  }
+}

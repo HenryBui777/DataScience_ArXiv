@@ -1,0 +1,19 @@
+{
+  "title": "Deciding Bank Interest Rates -- A Major-Minor Impulse Control Mean-Field Game Perspective",
+  "authors": [
+    "Fan Chen",
+    "Nicholas Martin",
+    "Po-Yu Chen",
+    "Xiaozhen Wang",
+    "Zhenjie Ren",
+    "Francois Buet-Golfouse"
+  ],
+  "summary": "Deciding bank interest rates has been a long-standing challenge in finance. It is crucial to ensure that the selected rates balance market share and profitability. However, traditional approaches typically focus on the interest rate changes of individual banks, often neglecting the interactions with other banks in the market. This work proposes a novel framework that models the interest rate problem as a major-minor mean field game within the context of an interbank game. To incorporate the complex interactions between banks, we utilize mean-field theory and employ impulsive control to model the overhead in rate adjustments. Ultimately, we solve this optimal control problem using a new deep Q-network method, which iterates the parameterized action value functions for major and minor players and updates the networks in a Fictitious Play way. Our proposed algorithm converges, offering a solution that enables the analysis of strategies for major and minor players in the market under the Nash Equilibrium.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-01-03"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC, math.PR"
+}

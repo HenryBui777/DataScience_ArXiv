@@ -1,0 +1,18 @@
+{
+  "title": "Linear-optical protocols for mitigating and suppressing noise in bosonic systems",
+  "authors": [
+    "Y. S. Teo",
+    "S. U. Shringarpure",
+    "S. Cho",
+    "H. Jeong"
+  ],
+  "summary": "Quantum-information processing and computation with bosonic qubits are corruptible by noise channels. Using interferometers and photon-subtraction gadgets (PSGs) accompanied by linear amplification and attenuation, we establish linear-optical methods to mitigate and suppress bosonic noise channels. We first show that by employing amplifying and attenuating PSGs respectively at the input and output of either a thermal or random-displacement channel, probabilistic error cancellation (PEC) can be carried out to mitigate errors in expectation-value estimation. We also derive optimal physical estimators that are properly constrained to improve the sampling accuracy of PEC. Next, we prove that a purely-dephasing channel is coherently suppressible using a multimode Mach--Zehnder interferometer and conditional vacuum measurements (VMZ). In the limit of infinitely-many ancillas, with nonvanishing success rates, VMZ using either Hadamard or two-design interferometers turns any dephasing channel into a phase-space-rotated linear-attenuation channel that can subsequently be inverted with (rotated) linear amplification without Kerr nonlinearity. Moreover, for weak central-Gaussian dephasing, the suppression fidelity increases monotonically with the number of ancillas and most optimally with Hadamard interferometers. We demonstrate the performance of these linear-optical mitigation and suppression schemes on common noise channels (and their compositions) and popular bosonic codes. While the theoretical formalism pertains to idling noise channels, we also provide numerical evidence supporting mitigation and suppression capabilities with respect to noise from universal gate operations.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-04-16",
+    "2025-07-15"
+  ],
+  "publication_venue": "Quantum Sci. Technol. 10, 035003 (2025)",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Random signed measures",
+  "authors": [
+    "Riccardo Passeggeri"
+  ],
+  "summary": "Point processes and, more generally, random measures are ubiquitous in modern statistics. However, they can only take positive values, which is a severe limitation in many situations. In this work, we introduce and study random signed measures, also known as real-valued random measures, and apply them to constrcut various Bayesian non-parametric models. In particular, we provide an existence result for random signed measures, allowing us to obtain a canonical definition for them and solve a 70-year-old open problem. Further, we provide a representation of completely random signed measures (CRSMs), which extends the celebrated Kingman's representation for completely random measures (CRMs) to the real-valued case. We then introduce specific classes of random signed measures, including the Skellam point process, which plays the role of the Poisson point process in the real-valued case, and the Gaussian random measure. We use the theoretical results to develop two Bayesian nonparametric models -- one for topic modeling and the other for random graphs -- and to investigate mean function estimation in Bayesian nonparametric regression.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.PR, math.ST, stat.ME"
+}

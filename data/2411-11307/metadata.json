@@ -1,0 +1,21 @@
+{
+  "title": "Loop Quantum Photonic Chip for Coherent Multi-Time-Step Evolution",
+  "authors": [
+    "Yuancheng Zhan",
+    "Hui Zhang",
+    "Rebecca Erbanni",
+    "Andreas Burger",
+    "Lingxiao Wan",
+    "Xudong Jiang",
+    "Sanghoon Chae",
+    "Aiqun Liu",
+    "Dario Poletti",
+    "Leong Chuan Kwek"
+  ],
+  "summary": "Quantum evolution is crucial for the understanding of complex quantum systems. However, current implementations of time evolution on quantum photonic platforms face challenges of limited light source efficiency due to propagation loss and merely single-layer complexity. In this work, we present a loop quantum photonic chip (Loop-QPC) designed to efficiently simulate quantum dynamics over multiple time steps in a single chip. Our approach employs a recirculating loop structure to reuse computational resources and eliminate the need for multiple quantum tomography steps or chip reconfigurations. We experimentally demonstrate the dynamics of the spin-boson model on a low-loss Silicon Nitride (SiN) integrated photonic chip. The Loop-QPC achieves a three-step unitary evolution closely matching the theoretical predictions. These results establish the Loop-QPC as a promising method for efficient and scalable quantum simulation, advancing the development of quantum simulation on programmable photonic circuits.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Teaching MLPs to Master Heterogeneous Graph-Structured Knowledge for Efficient and Accurate Inference",
+  "authors": [
+    "Yunhui Liu",
+    "Xinyi Gao",
+    "Tieke He",
+    "Jianhua Zhao",
+    "Hongzhi Yin"
+  ],
+  "summary": "Heterogeneous Graph Neural Networks (HGNNs) have achieved promising results in various heterogeneous graph learning tasks, owing to their superiority in capturing the intricate relationships and diverse relational semantics inherent in heterogeneous graph structures. However, the neighborhood-fetching latency incurred by structure dependency in HGNNs makes it challenging to deploy for latency-constrained applications that require fast inference. Inspired by recent GNN-to-MLP knowledge distillation frameworks, we introduce HG2M and HG2M+ to combine both HGNN's superior performance and MLP's efficient inference. HG2M directly trains student MLPs with node features as input and soft labels from teacher HGNNs as targets, and HG2M+ further distills reliable and heterogeneous semantic knowledge into student MLPs through reliable node distillation and reliable meta-path distillation. Experiments conducted on six heterogeneous graph datasets show that despite lacking structural dependencies, HG2Ms can still achieve competitive or even better performance than HGNNs and significantly outperform vanilla MLPs. Moreover, HG2Ms demonstrate a 379.24$\\times$ speedup in inference over HGNNs on the large-scale IGB-3M-19 dataset, showcasing their ability for latency-sensitive deployments.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-07-14"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

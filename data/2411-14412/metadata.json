@@ -1,0 +1,16 @@
+{
+  "title": "Adversarial Data Poisoning Attacks on Quantum Machine Learning in the NISQ Era",
+  "authors": [
+    "Satwik Kundu",
+    "Swaroop Ghosh"
+  ],
+  "summary": "With the growing interest in Quantum Machine Learning (QML) and the increasing availability of quantum computers through cloud providers, addressing the potential security risks associated with QML has become an urgent priority. One key concern in the QML domain is the threat of data poisoning attacks in the current quantum cloud setting. Adversarial access to training data could severely compromise the integrity and availability of QML models. Classical data poisoning techniques require significant knowledge and training to generate poisoned data, and lack noise resilience, making them ineffective for QML models in the Noisy Intermediate Scale Quantum (NISQ) era. In this work, we first propose a simple yet effective technique to measure intra-class encoder state similarity (ESS) by analyzing the outputs of encoding circuits. Leveraging this approach, we introduce a \\underline{Qu}antum \\underline{I}ndiscriminate \\underline{D}ata Poisoning attack, QUID. Through extensive experiments conducted in both noiseless and noisy environments (e.g., IBM\\_Brisbane's noise), across various architectures and datasets, QUID achieves up to $92\\%$ accuracy degradation in model performance compared to baseline models and up to $75\\%$ accuracy degradation compared to random label-flipping. We also tested QUID against state-of-the-art classical defenses, with accuracy degradation still exceeding $50\\%$, demonstrating its effectiveness. This work represents the first attempt to reevaluate data poisoning attacks in the context of QML.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-22",
+    "2025-04-30"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, cs.CR, cs.CV"
+}

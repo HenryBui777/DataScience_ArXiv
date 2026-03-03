@@ -1,0 +1,16 @@
+{
+  "title": "Ordinal Multiple-instance Learning for Ulcerative Colitis Severity Estimation with Selective Aggregated Transformer",
+  "authors": [
+    "Kaito Shiku",
+    "Kazuya Nishimura",
+    "Daiki Suehiro",
+    "Kiyohito Tanaka",
+    "Ryoma Bise"
+  ],
+  "summary": "Patient-level diagnosis of severity in ulcerative colitis (UC) is common in real clinical settings, where the most severe score in a patient is recorded. However, previous UC classification methods (i.e., image-level estimation) mainly assumed the input was a single image. Thus, these methods can not utilize severity labels recorded in real clinical settings. In this paper, we propose a patient-level severity estimation method by a transformer with selective aggregator tokens, where a severity label is estimated from multiple images taken from a patient, similar to a clinical setting. Our method can effectively aggregate features of severe parts from a set of images captured in each patient, and it facilitates improving the discriminative ability between adjacent severity classes. Experiments demonstrate the effectiveness of the proposed method on two datasets compared with the state-of-the-art MIL methods. Moreover, we evaluated our method in real clinical settings and confirmed that our method outperformed the previous image-level methods. The code is publicly available at https://github.com/Shiku-Kaito/Ordinal-Multiple-instance-Learning-for-Ulcerative-Colitis-Severity-Estimation.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.LG"
+}

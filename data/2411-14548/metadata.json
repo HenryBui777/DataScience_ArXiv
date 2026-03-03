@@ -1,0 +1,16 @@
+{
+  "title": "A Random-Effects Approach to Generalized Linear Mixed Model Analysis of Incomplete Longitudinal Data",
+  "authors": [
+    "Thuan Nguyen",
+    "Jiangshan Zhang",
+    "Jiming Jiang"
+  ],
+  "summary": "We propose a random-effects approach to missing values for generalized linear mixed model (GLMM) analysis. The method converts a GLMM with missing covariates to another GLMM without missing covariates. The standard GLMM analysis tools for longitudinal data then apply. The method applies, in particular, to the cases of linear mixed models and logistic regression. Performance of the method is evaluated empirically, and compared with alternative approaches, including the popular MICE procedure of multiple imputation. Theoretical justification of the method is given, and explained, for the patterns observed in the simulation studies. Two real-data examples from healthcare studies are discussed.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-02-10"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME"
+}

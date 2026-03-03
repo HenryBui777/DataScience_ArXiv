@@ -1,0 +1,16 @@
+{
+  "title": "Advancing Complex Medical Communication in Arabic with Sporo AraSum: Surpassing Existing Large Language Models",
+  "authors": [
+    "Chanseo Lee",
+    "Sonu Kumar",
+    "Kimon A. Vogt",
+    "Sam Meraj",
+    "Antonia Vogt"
+  ],
+  "summary": "The increasing demand for multilingual capabilities in healthcare underscores the need for AI models adept at processing diverse languages, particularly in clinical documentation and decision-making. Arabic, with its complex morphology, syntax, and diglossia, poses unique challenges for natural language processing (NLP) in medical contexts. This case study evaluates Sporo AraSum, a language model tailored for Arabic clinical documentation, against JAIS, the leading Arabic NLP model. Using synthetic datasets and modified PDQI-9 metrics modified ourselves for the purposes of assessing model performances in a different language. The study assessed the models' performance in summarizing patient-physician interactions, focusing on accuracy, comprehensiveness, clinical utility, and linguistic-cultural competence.\n  Results indicate that Sporo AraSum significantly outperforms JAIS in AI-centric quantitative metrics and all qualitative attributes measured in our modified version of the PDQI-9. AraSum's architecture enables precise and culturally sensitive documentation, addressing the linguistic nuances of Arabic while mitigating risks of AI hallucinations. These findings suggest that Sporo AraSum is better suited to meet the demands of Arabic-speaking healthcare environments, offering a transformative solution for multilingual clinical workflows. Future research should incorporate real-world data to further validate these findings and explore broader integration into healthcare systems.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.AI"
+}

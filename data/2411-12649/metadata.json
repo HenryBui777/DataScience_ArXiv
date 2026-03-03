@@ -1,0 +1,15 @@
+{
+  "title": "PseudoSeer: a Search Engine for Pseudocode",
+  "authors": [
+    "Levent Toksoz",
+    "Mukund Srinath",
+    "Gang Tan",
+    "C. Lee Giles"
+  ],
+  "summary": "A novel pseudocode search engine is designed to facilitate efficient retrieval and search of academic papers containing pseudocode. By leveraging Elasticsearch, the system enables users to search across various facets of a paper, such as the title, abstract, author information, and LaTeX code snippets, while supporting advanced features like combined facet searches and exact-match queries for more targeted results. A description of the data acquisition process is provided, with arXiv as the primary data source, along with methods for data extraction and text-based indexing, highlighting how different data elements are stored and optimized for search. A weighted BM25-based ranking algorithm is used by the search engine, and factors considered when prioritizing search results for both single and combined facet searches are described. We explain how each facet is weighted in a combined search. Several search engine results pages are displayed. Finally, there is a brief overview of future work and potential evaluation methodology for assessing the effectiveness and performance of the search engine is described.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IR"
+}

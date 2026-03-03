@@ -1,0 +1,16 @@
+{
+  "title": "Sublinear-Time Sampling of Spanning Trees in the Congested Clique",
+  "authors": [
+    "Sriram V. Pemmaraju",
+    "Sourya Roy",
+    "Joshua Z. Sobel"
+  ],
+  "summary": "We present the first sublinear-in-$n$ round algorithm for sampling an approximately uniform spanning tree of an $n$-vertex graph in the CongestedClique model of distributed computing. In particular, our algorithm requires $\\Tilde{O}(n^{0.657})$ rounds for sampling a spanning tree within total variation distance $1/n^c$, for arbitrary constant $c > 0$, from the uniform distribution. More precisely, our algorithm requires $\\Tilde{O}(n^{1/2 + α})$ rounds, where $O(n^α)$ is the running time of matrix multiplication in the CongestedClique model (currently $α= 1 - 2/ω= 0.157$, where $ω$ is the sequential matrix multiplication time exponent). We can adapt our algorithm to give exact rather than approximate samples, but with a larger, though still $o(n)$, runtime of $\\Tilde{O}(n^{2/3+α}) = O(n^{.824})$.\n  In a remarkable result, Aldous (SIDM 1990) and Broder (FOCS 1989) showed that the first visit edge to each vertex, excluding the start vertex, during a random walk forms a uniformly chosen spanning tree of the underlying graph. Our algorithm is a significant departure from known techniques, featuring a top-down walk filling approach paired with Schur complement graphs for walk shortcutting. To make this idea work in the CongestedClique model, we present a novel compressed random walk reconstruction algorithm, based on randomly sampling a weighted perfect matching.\n  In addition, we show how to take somewhat shorter random walks even more efficiently in the CongestedClique model, obtaining an $O(\\log^3 n)$-round algorithm for uniformly sampling spanning trees from graphs with $O(n\\log n)$ cover times. These results are obtained by adding a load balancing component to the random walk algorithm of Bahmani, Chakrabarti and Xin (SIGMOD 2011) that uses the bottom-up ``doubling'' technique.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-05-09"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DC"
+}

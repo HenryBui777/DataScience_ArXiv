@@ -1,0 +1,12 @@
+{
+  "title": "Composing Ensembles of Instrument-Model Pairs for Optimizing Profitability in Algorithmic Trading",
+  "authors": [
+    "Sahand Hassanizorgabad"
+  ],
+  "summary": "Financial markets are nonlinear with complexity, where different types of assets are traded between buyers and sellers, each having a view to maximize their Return on Investment (ROI). Forecasting market trends is a challenging task since various factors like stock-specific news, company profiles, public sentiments, and global economic conditions influence them. This paper describes a daily price directional predictive system of financial instruments, addressing the difficulty of predicting short-term price movements. This paper will introduce the development of a novel trading system methodology by proposing a two-layer Composing Ensembles architecture, optimized through grid search, to predict whether the price will rise or fall the next day. This strategy was back-tested on a wide range of financial instruments and time frames, demonstrating an improvement of 20% over the benchmark, representing a standard investment strategy.",
+  "submission_date": "2024-11-06",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-fin.TR, cs.AI, cs.LG"
+}

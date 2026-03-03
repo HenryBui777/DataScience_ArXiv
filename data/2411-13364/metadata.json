@@ -1,0 +1,17 @@
+{
+  "title": "Effective dimensional reduction of complex systems based on tensor networks",
+  "authors": [
+    "Wout Merbis",
+    "Madelon Geurts",
+    "Clélia de Mulatier",
+    "Philippe Corboz"
+  ],
+  "summary": "The exact treatment of Markovian models of complex systems requires knowledge of probability distributions exponentially large in the number of components $n$. Mean-field approximations provide an effective reduction in complexity of the models, requiring only a number of phase space variables polynomial in system size. However, this comes at the cost of losing accuracy close to critical points in the systems dynamics and an inability to capture correlations in the system. In this work, we introduce a tunable approximation scheme for Markovian spreading models on networks based on Matrix Product States (MPS). By controlling the bond dimensions of the MPS, we can investigate the effective dimensionality needed to accurately represent the exact $2^n$ dimensional steady-state distribution. We introduce the entanglement entropy as a measure of the compressibility of the system and find that it peaks just after the phase transition on the disordered side, in line with the intuition that more complex states are at the 'edge of chaos'. We compare the accuracy of the MPS with exact methods on different types of small random networks and with Markov Chain Monte Carlo methods for a simplified version of the railway network of the Netherlands with 55 nodes. The MPS provides a systematic way to tune the accuracy of the approximation by reducing the dimensionality of the systems state vector, leading to an improvement over second-order mean-field approximations for sufficiently large bond dimensions.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-03-11"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cond-mat.stat-mech, cs.SI, physics.soc-ph"
+}

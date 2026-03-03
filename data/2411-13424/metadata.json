@@ -1,0 +1,17 @@
+{
+  "title": "CAFE A Novel Code switching Dataset for Algerian Dialect French and English",
+  "authors": [
+    "Houssam Eddine-Othman Lachemat",
+    "Akli Abbas",
+    "Nourredine Oukas",
+    "Yassine El Kheir",
+    "Samia Haboussi",
+    "Absar Chowdhury Shammur"
+  ],
+  "summary": "The paper introduces and publicly releases (Data download link available after acceptance) CAFE -- the first Code-switching dataset between Algerian dialect, French, and english languages. The CAFE speech data is unique for (a) its spontaneous speaking style in vivo human-human conversation capturing phenomena like code-switching and overlapping speech, (b) addresses distinct linguistic challenges in North African Arabic dialect; (c) the CAFE captures dialectal variations from various parts of Algeria within different sociolinguistic contexts. CAFE data contains approximately 37 hours of speech, with a subset, CAFE-small, of 2 hours and 36 minutes released with manual human annotation including speech segmentation, transcription, explicit annotation of code-switching points, overlapping speech, and other events such as noises, and laughter among others. The rest approximately 34.58 hours contain pseudo label transcriptions. In addition to the data release, the paper also highlighted the challenges of using state-of-the-art Automatic Speech Recognition (ASR) models such as Whisper large-v2,3 and PromptingWhisper to handle such content. Following, we benchmark CAFE data with the aforementioned Whisper models and show how well-designed data processing pipelines and advanced decoding techniques can improve the ASR performance in terms of Mixed Error Rate (MER) of 0.310, Character Error Rate (CER) of 0.329 and Word Error Rate (WER) of 0.538.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SD, cs.CL, eess.AS"
+}

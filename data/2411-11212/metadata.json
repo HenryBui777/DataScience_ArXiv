@@ -1,0 +1,28 @@
+{
+  "title": "ALMA Lensing Cluster Survey: Dust mass measurements as a function of redshift, stellar-mass and star formation rate, from z=1 to z=5",
+  "authors": [
+    "Jean-Baptiste Jolly",
+    "Kirsten Knudsen",
+    "Nicolas Laporte",
+    "Andrea Guerrero",
+    "Seiji Fujimoto",
+    "Kotaro Kohno",
+    "Vasily Kokorev",
+    "Claudia del P. Lagos",
+    "Thiébaut-Antoine Schirmer",
+    "Franz Bauer",
+    "Miroslava Dessauge-Zavadsky",
+    "Daniel Espada",
+    "Bunyo Hatsukade",
+    "Anton M. Koekemoer",
+    "Johan Richard",
+    "Fengwu Sun",
+    "John F. Wu"
+  ],
+  "summary": "Understanding the dust content of galaxies, its evolution with redshift and its relationship to stars and star formation is fundamental for our understanding of galaxy evolution. Using the ALMA Lensing Cluster Survey (ALCS) wide-area band-6 continuum dataset ($\\sim\\,$110 arcmin$^2$ across 33 lensing clusters), we aimed at constraining the dust mass evolution with redshift, stellar mass and star formation rate (SFR). After binning sources according to redshift, SFR and stellar mass -- extracted from an HST-IRAC catalog -- we performed a set of continuum stacking analyses in the image domain using \\textsc{LineStacker} on sources between $z=1$ and $z=5$, further improving the depth of our data. The large field of view provided by the ALCS allows us to reach a final sample of $\\sim4000$ galaxies with known coordinates and SED-derived physical parameters. We stack sources with SFR between $10^{-3}$ and $10^{3}$ M$_\\odot$ per year, and stellar mass between $10^{8}$ and $10^{12}$ M$_\\odot$, splitting them in different stellar mass and SFR bins. Through stacking we retrieve the continuum 1.2\\,mm flux, a known dust mass tracer, allowing us to derive the dust mass evolution with redshift and its relation with SFR and stellar mass. We observe clear continuum detections in the majority of the subsamples. From the non detections we derive 3-$σ$ upper limits. We observe a steady decline in the average dust mass with redshift. Moreover, sources with higher stellar mass or SFR have higher dust mass on average, allowing us to derive scaling relations. Our results are mostly in good agreement with models at $z\\sim1$-3, but indicate typically lower dust-mass than predicted at higher redshift.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "A&A 693, A190 (2025)",
+  "pdf_url": null,
+  "category": "astro-ph.GA"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Mirror Descent Algorithms for Risk Budgeting Portfolios",
+  "authors": [
+    "Martin Arnaiz Iglesias",
+    "Adil Rengim Cetingoz",
+    "Noufel Frikha"
+  ],
+  "summary": "This paper introduces and examines numerical approximation schemes for computing risk budgeting portfolios associated to positive homogeneous and sub-additive risk measures. We employ Mirror Descent algorithms to determine the optimal risk budgeting weights in both deterministic and stochastic settings, establishing convergence along with an explicit non-asymptotic quantitative rate for the averaged algorithm. A comprehensive numerical analysis follows, illustrating our theoretical findings across various risk measures -- including standard deviation, Expected Shortfall, deviation measures, and Variantiles -- and comparing the performance with that of the standard stochastic gradient descent method recently proposed in the literature.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-fin.PM, math.PR, q-fin.RM"
+}

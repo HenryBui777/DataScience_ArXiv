@@ -1,0 +1,1623 @@
+{
+  "2403-09859": {
+    "title": "MAMBA: an Effective World Model Approach for Meta-Reinforcement Learning",
+    "authors": [
+      "Zohar Rimon",
+      "Tom Jurgenson",
+      "Orr Krupnik",
+      "Gilad Adler",
+      "Aviv Tamar"
+    ],
+    "publication_date": "2024-03-14",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "4d3ffd8feca81d750aa30122b49cc1e874e70c1a",
+    "corpus_id": 268509972,
+    "category": "Computer Science"
+  },
+  "2403-03950": {
+    "title": "Stop Regressing: Training Value Functions via Classification for Scalable Deep RL",
+    "authors": [
+      "Jesse Farebrother",
+      "Jordi Orbay",
+      "Q. Vuong",
+      "Adrien Ali Taiga",
+      "Yevgen Chebotar",
+      "Ted Xiao",
+      "A. Irpan",
+      "Sergey Levine",
+      "Pablo Samuel Castro",
+      "Aleksandra Faust",
+      "Aviral Kumar",
+      "Rishabh Agarwal"
+    ],
+    "publication_date": "2024-03-06",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "1d36dd3d333659d72df8eb5666edfd5cde54c84f",
+    "corpus_id": 268253088,
+    "category": "Computer Science, Mathematics"
+  },
+  "2403-03020": {
+    "title": "SplAgger: Split Aggregation for Meta-Reinforcement Learning",
+    "authors": [
+      "Jacob Beck",
+      "Matthew Jackson",
+      "Risto Vuorio",
+      "Zheng Xiong",
+      "S. Whiteson"
+    ],
+    "publication_date": "2024-03-05",
+    "venue": "RLJ",
+    "semantic_scholar_id": "cd8e1f4a32e1070741a0348254dc8fc0348cff07",
+    "corpus_id": 268248282,
+    "category": "Computer Science"
+  },
+  "2402-09844": {
+    "title": "Jack of All Trades, Master of Some, a Multi-Purpose Transformer Agent",
+    "authors": [
+      "Quentin Gallou'edec",
+      "Edward Beeching",
+      "Clément Romac",
+      "Emmanuel Dellandr'ea"
+    ],
+    "publication_date": "2024-02-15",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "8d6957a99293a5998c96a6d14445bf89f25a9edc",
+    "corpus_id": 267682115,
+    "category": "Computer Science"
+  },
+  "2402-06402": {
+    "title": "Hierarchical Transformers are Efficient Meta-Reinforcement Learners",
+    "authors": [
+      "Gresa Shala",
+      "André Biedenkapp",
+      "Josif Grabocka"
+    ],
+    "publication_date": "2024-02-09",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "0a3197e93d1d5ee702908279dcc800ce4164c7b4",
+    "corpus_id": 267617058,
+    "category": "Computer Science"
+  },
+  "2402-05546": {
+    "title": "Offline Actor-Critic Reinforcement Learning Scales to Large Models",
+    "authors": [
+      "Jost Tobias Springenberg",
+      "A. Abdolmaleki",
+      "Jingwei Zhang",
+      "Oliver Groth",
+      "Michael Bloesch",
+      "Thomas Lampe",
+      "Philemon Brakel",
+      "Sarah Bechtle",
+      "Steven Kapturowski",
+      "Roland Hafner",
+      "N. Heess",
+      "Martin A. Riedmiller"
+    ],
+    "publication_date": "2024-02-08",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "911f28279f8f80f1520181ecc4e839c54408a68c",
+    "corpus_id": 267547617,
+    "category": "Computer Science"
+  },
+  "2312-12044": {
+    "title": "XLand-MiniGrid: Scalable Meta-Reinforcement Learning Environments in JAX",
+    "authors": [
+      "Alexander Nikulin",
+      "Vladislav Kurenkov",
+      "Ilya Zisman",
+      "Artem Agarkov",
+      "Viacheslav Sinii",
+      "Sergey Kolesnikov"
+    ],
+    "publication_date": "2023-12-19",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "317c7e5bb76ae979f916abdd3cd48b40aa431e11",
+    "corpus_id": 266362777,
+    "category": "Computer Science"
+  },
+  "2312-03801": {
+    "title": "Generalization to New Sequential Decision Making Tasks with In-Context Learning",
+    "authors": [
+      "S. Raparthy",
+      "Eric Hambro",
+      "Robert Kirk",
+      "Mikael Henaff",
+      "R. Raileanu"
+    ],
+    "publication_date": "2023-12-06",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "fa1e3a5c9f6e269d2a1ddbfe768a85b19ad94cf8",
+    "corpus_id": 266055379,
+    "category": "Computer Science"
+  },
+  "2310-16828": {
+    "title": "TD-MPC2: Scalable, Robust World Models for Continuous Control",
+    "authors": [
+      "Nicklas Hansen",
+      "Hao Su",
+      "Xiaolong Wang"
+    ],
+    "publication_date": "2023-10-25",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "8eeccf1033fd759c868b29ccb6aa70f5ffd1887c",
+    "corpus_id": 264451720,
+    "category": "Computer Science"
+  },
+  "2310-08910": {
+    "title": "Scalarization for Multi-Task and Multi-Domain Learning at Scale",
+    "authors": [
+      "Amelie Royer",
+      "Tijmen Blankevoort",
+      "B. Bejnordi"
+    ],
+    "publication_date": "2023-10-13",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "611bd91e0050185319513493ad9a135a639438bd",
+    "corpus_id": 264128171,
+    "category": "Computer Science"
+  },
+  "2310-08549": {
+    "title": "Cross-Episodic Curriculum for Transformer Agents",
+    "authors": [
+      "Lucy Xiaoyang Shi",
+      "Yunfan Jiang",
+      "Jake Grigsby",
+      "Linxi Fan",
+      "Yuke Zhu"
+    ],
+    "publication_date": "2023-10-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "a8282d1378cf872817d3291f5e7edb6fbdf0121a",
+    "corpus_id": 263909305,
+    "category": "Computer Science"
+  },
+  "2310-04128": {
+    "title": "Reinforcement Learning with Fast and Forgetful Memory",
+    "authors": [
+      "Steven D. Morad",
+      "Ryan Kortvelesy",
+      "Stephan Liwicki",
+      "Amanda Prorok"
+    ],
+    "publication_date": "2023-10-06",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "95aefec15c3a0b412c5e99952b10709907f11860",
+    "corpus_id": 263830672,
+    "category": "Computer Science"
+  },
+  "2309-10150": {
+    "title": "Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions",
+    "authors": [
+      "Yevgen Chebotar",
+      "Q. Vuong",
+      "A. Irpan",
+      "Karol Hausman",
+      "F. Xia",
+      "Yao Lu",
+      "Aviral Kumar",
+      "Tianhe Yu",
+      "Alexander Herzog",
+      "Karl Pertsch",
+      "K. Gopalakrishnan",
+      "Julian Ibarz",
+      "Ofir Nachum",
+      "S. Sontakke",
+      "Grecia Salazar",
+      "Huong Tran",
+      "Jodilyn Peralta",
+      "Clayton Tan",
+      "D. Manjunath",
+      "Jaspiar Singht",
+      "Brianna Zitkovich",
+      "Tomas Jackson",
+      "Kanishka Rao",
+      "Chelsea Finn",
+      "S. Levine"
+    ],
+    "publication_date": "2023-09-18",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "bf89341e16fc0a379ab5e4c6370cf7ea4e9afd03",
+    "corpus_id": 262054345,
+    "category": "Computer Science"
+  },
+  "2307-09288": {
+    "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models",
+    "authors": [
+      "Hugo Touvron",
+      "Louis Martin",
+      "Kevin R. Stone",
+      "Peter Albert",
+      "Amjad Almahairi",
+      "Yasmine Babaei",
+      "Niko-lay Bashlykov",
+      "Soumya Batra",
+      "Prajjwal Bhargava",
+      "Shruti Bhosale",
+      "D. Bikel",
+      "Lukas Blecher",
+      "Cris-tian Cantón Ferrer",
+      "Moya Chen",
+      "Guillem Cucurull",
+      "David Esiobu",
+      "Jude Fernandes",
+      "J. Fu",
+      "Wenyin Fu",
+      "Brian Fuller",
+      "Cynthia Gao",
+      "Vedanuj Goswami",
+      "Naman Goyal",
+      "A. Hartshorn",
+      "Saghar Hosseini",
+      "Rui Hou",
+      "Hakan Inan",
+      "Marcin Kardas",
+      "Viktor Kerkez",
+      "Madian Khabsa",
+      "Isabel M. Kloumann",
+      "A. Korenev",
+      "Punit Singh Koura",
+      "M. Lachaux",
+      "Thibaut Lavril",
+      "Jenya Lee",
+      "Diana Liskovich",
+      "Yinghai Lu",
+      "Yuning Mao",
+      "Xavier Martinet",
+      "Todor Mihaylov",
+      "Pushkar Mishra",
+      "Igor Molybog",
+      "Yixin Nie",
+      "Andrew Poulton",
+      "J. Reizenstein",
+      "Rashi Rungta",
+      "Kalyan Saladi",
+      "A. Schelten",
+      "Ruan Silva",
+      "Eric Michael Smith",
+      "R. Subramanian",
+      "Xia Tan",
+      "Binh Tang",
+      "Ross Taylor",
+      "Adina Williams",
+      "Jian Xiang Kuan",
+      "Puxin Xu",
+      "Zhengxu Yan",
+      "Iliyan Zarov",
+      "Yuchen Zhang",
+      "Angela Fan",
+      "M. Kambadur",
+      "Sharan Narang",
+      "Aur'elien Rodriguez",
+      "Robert Stojnic",
+      "Sergey Edunov",
+      "Thomas Scialom"
+    ],
+    "publication_date": "2023-07-18",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "104b0bb1da562d53cbda87aec79ef6a2827d191a",
+    "corpus_id": 259950998,
+    "category": "Computer Science"
+  },
+  "2307-03864": {
+    "title": "When Do Transformers Shine in RL? Decoupling Memory from Credit Assignment",
+    "authors": [
+      "Tianwei Ni",
+      "Michel Ma",
+      "Benjamin Eysenbach",
+      "Pierre-Luc Bacon"
+    ],
+    "publication_date": "2023-07-07",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "7177fcb8e0311eeebd4070b62312a4bec1432ea3",
+    "corpus_id": 259501310,
+    "category": "Computer Science"
+  },
+  "2306-14892": {
+    "title": "Supervised Pretraining Can Learn In-Context Reinforcement Learning",
+    "authors": [
+      "Jonathan Lee",
+      "Annie Xie",
+      "Aldo Pacchiano",
+      "Yash Chandak",
+      "Chelsea Finn",
+      "Ofir Nachum",
+      "E. Brunskill"
+    ],
+    "publication_date": "2023-06-26",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "5bac7d00035bc1e246a34f9ee3152b290f97bb92",
+    "corpus_id": 259262142,
+    "category": "Computer Science"
+  },
+  "2306-13831": {
+    "title": "Minigrid & Miniworld: Modular & Customizable Reinforcement Learning Environments for Goal-Oriented Tasks",
+    "authors": [
+      "Maxime Chevalier-Boisvert",
+      "Bolun Dai",
+      "Mark Towers",
+      "Rodrigo de Lazcano",
+      "Lucas Willems",
+      "Salem Lahlou",
+      "Suman Pal",
+      "P. S. Castro",
+      "Jordan K. Terry"
+    ],
+    "publication_date": "2023-06-24",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "8bb7cecd1bc3fa470aa882158e7553705b1a6141",
+    "corpus_id": 259252185,
+    "category": "Computer Science"
+  },
+  "2303-06296": {
+    "title": "Stabilizing Transformer Training by Preventing Attention Entropy Collapse",
+    "authors": [
+      "Shuangfei Zhai",
+      "T. Likhomanenko",
+      "Etai Littwin",
+      "Dan Busbridge",
+      "Jason Ramapuram",
+      "Yizhe Zhang",
+      "Jiatao Gu",
+      "J. Susskind"
+    ],
+    "publication_date": "2023-03-11",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "385c363ea8e450f362d389f401beaeb5b42a0022",
+    "corpus_id": 257496258,
+    "category": "Computer Science, Mathematics"
+  },
+  "2303-03982": {
+    "title": "Structured State Space Models for In-Context Reinforcement Learning",
+    "authors": [
+      "Chris Xiaoxuan Lu",
+      "Yannick Schroecker",
+      "Albert Gu",
+      "Emilio Parisotto",
+      "J. Foerster",
+      "Satinder Singh",
+      "Feryal M. P. Behbahani"
+    ],
+    "publication_date": "2023-03-07",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "d98b5c1d0f9a4e39dc79ea7a3f74e54789df5e13",
+    "corpus_id": 257378507,
+    "category": "Computer Science"
+  },
+  "2303-01859": {
+    "title": "POPGym: Benchmarking Partially Observable Reinforcement Learning",
+    "authors": [
+      "Steven D. Morad",
+      "Ryan Kortvelesy",
+      "Matteo Bettini",
+      "Stephan Liwicki",
+      "Amanda Prorok"
+    ],
+    "publication_date": "2023-03-03",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "c77112b5b2aff937ca071b349e47176b684c45b2",
+    "corpus_id": 257353458,
+    "category": "Computer Science"
+  },
+  "2301-07608": {
+    "title": "Human-Timescale Adaptation in an Open-Ended Task Space",
+    "authors": [
+      "Adaptive Agent Team",
+      "Jakob Bauer",
+      "Kate Baumli",
+      "Satinder Baveja",
+      "Feryal M. P. Behbahani",
+      "Avishkar Bhoopchand",
+      "N. Bradley-Schmieg",
+      "Michael Chang",
+      "Natalie Clay",
+      "Adrian Collister",
+      "Vibhavari Dasagi",
+      "Lucy Gonzalez",
+      "Karol Gregor",
+      "Edward Hughes",
+      "Sheleem Kashem",
+      "Maria Loks-Thompson",
+      "Hannah Openshaw",
+      "Jack Parker-Holder",
+      "Shreyaan Pathak",
+      "Nicolas Perez Nieves",
+      "Nemanja Rakicevic",
+      "Tim Rocktäschel",
+      "Yannick Schroecker",
+      "Jakub Sygnowski",
+      "K. Tuyls",
+      "Sarah York",
+      "Alexander Zacherl",
+      "Lei M. Zhang"
+    ],
+    "publication_date": "2023-01-18",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "bfe6fd05f09647b001c7eb6e333a95c881c88344",
+    "corpus_id": 255998274,
+    "category": "Computer Science"
+  },
+  "2301-04104": {
+    "title": "Mastering Diverse Domains through World Models",
+    "authors": [
+      "Danijar Hafner",
+      "J. Pašukonis",
+      "Jimmy Ba",
+      "T. Lillicrap"
+    ],
+    "publication_date": "2023-01-10",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "f2d952a183dfb0a1e031b8a3f535d9f8423d7a6e",
+    "corpus_id": 255569874,
+    "category": "Computer Science, Mathematics"
+  },
+  "2212-07530": {
+    "title": "Causes and Cures for Interference in Multilingual Translation",
+    "authors": [
+      "Uri Shaham",
+      "Maha Elbayad",
+      "Vedanuj Goswami",
+      "Omer Levy",
+      "Shruti Bhosale"
+    ],
+    "publication_date": "2022-12-14",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "66aa16f49ad4dcfd30655fe51fd736a93fef40a4",
+    "corpus_id": 254685798,
+    "category": "Computer Science"
+  },
+  "2212-04458": {
+    "title": "General-Purpose In-Context Learning by Meta-Learning Transformers",
+    "authors": [
+      "Louis Kirsch",
+      "James Harrison",
+      "Jascha Narain Sohl-Dickstein",
+      "Luke Metz"
+    ],
+    "publication_date": "2022-12-08",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "93fdf5cf598aefb0335f001039e83494dc721c3a",
+    "corpus_id": 254408503,
+    "category": "Computer Science, Mathematics"
+  },
+  "2211-15144": {
+    "title": "Offline Q-Learning on Diverse Multi-Task Data Both Scales And Generalizes",
+    "authors": [
+      "Aviral Kumar",
+      "Rishabh Agarwal",
+      "Xinyang Geng",
+      "G. Tucker",
+      "S. Levine"
+    ],
+    "publication_date": "2022-11-28",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "9bdad7f737c1303f199384c5b65dc67da7e5c4d8",
+    "corpus_id": 254044220,
+    "category": "Computer Science"
+  },
+  "2210-14215": {
+    "title": "In-context Reinforcement Learning with Algorithm Distillation",
+    "authors": [
+      "M. Laskin",
+      "Luyu Wang",
+      "Junhyuk Oh",
+      "Emilio Parisotto",
+      "Stephen Spencer",
+      "Richie Steigerwald",
+      "D. Strouse",
+      "S. Hansen",
+      "Angelos Filos",
+      "Ethan A. Brooks",
+      "M. Gazeau",
+      "Himanshu Sahni",
+      "Satinder Singh",
+      "Volodymyr Mnih"
+    ],
+    "publication_date": "2022-10-25",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "860bc4f071f35d6d8529a52c2c1858d030779a6a",
+    "corpus_id": 253107613,
+    "category": "Computer Science"
+  },
+  "2210-12448": {
+    "title": "Probing Transfer in Deep Reinforcement Learning without Task Engineering",
+    "authors": [
+      "Andrei A. Rusu",
+      "Sebastian Flennerhag",
+      "Dushyant Rao",
+      "Razvan Pascanu",
+      "R. Hadsell"
+    ],
+    "publication_date": "2022-10-22",
+    "venue": "CoLLAs",
+    "semantic_scholar_id": "b5dbf1e8065480bc0c57829f1dfd5e29987bf6d4",
+    "corpus_id": 253098789,
+    "category": "Computer Science"
+  },
+  "2209-11379": {
+    "title": "Do Current Multi-Task Optimization Methods in Deep Learning Even Help?",
+    "authors": [
+      "Derrick Xin",
+      "B. Ghorbani",
+      "Ankush Garg",
+      "Orhan Firat",
+      "J. Gilmer"
+    ],
+    "publication_date": "2022-09-23",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "f36d1dea0fa0f020cd827c9f39f15bad4e69bd4d",
+    "corpus_id": 252519253,
+    "category": "Computer Science"
+  },
+  "2206-06614": {
+    "title": "Transformers are Meta-Reinforcement Learners",
+    "authors": [
+      "L. Melo"
+    ],
+    "publication_date": "2022-06-14",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "90cd70aef56e83c8888004fc738e0f5f3f68c620",
+    "corpus_id": 249642580,
+    "category": "Computer Science"
+  },
+  "2206-03271": {
+    "title": "On the Effectiveness of Fine-tuning Versus Meta-reinforcement Learning",
+    "authors": [
+      "Mandi Zhao",
+      "Pieter Abbeel",
+      "Stephen James"
+    ],
+    "publication_date": "2022-06-07",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "5a407a8312ce6237d30a4c9d3a28db9ab3f7709f",
+    "corpus_id": 263880068,
+    "category": "Computer Science"
+  },
+  "2205-15967": {
+    "title": "You Can't Count on Luck: Why Decision Transformers Fail in Stochastic Environments",
+    "authors": [
+      "Keiran Paster",
+      "Sheila A. McIlraith",
+      "Jimmy Ba"
+    ],
+    "publication_date": "2022-05-31",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "3cadc8dfbeda7cc79dc83855b76a17eebda3ddcc",
+    "corpus_id": 249209674,
+    "category": "Computer Science"
+  },
+  "2205-15241": {
+    "title": "Multi-Game Decision Transformers",
+    "authors": [
+      "Kuang-Huei Lee",
+      "Ofir Nachum",
+      "Mengjiao Yang",
+      "L. Lee",
+      "Daniel Freeman",
+      "Winnie Xu",
+      "S. Guadarrama",
+      "Ian S. Fischer",
+      "Eric Jang",
+      "H. Michalewski",
+      "Igor Mordatch"
+    ],
+    "publication_date": "2022-05-30",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "51606f776a3b53a08d5a7e726f9ad771d52e2506",
+    "corpus_id": 249192343,
+    "category": "Computer Science"
+  },
+  "2205-06175": {
+    "title": "A Generalist Agent",
+    "authors": [
+      "S. Reed",
+      "Konrad Zolna",
+      "Emilio Parisotto",
+      "Sergio Gomez Colmenarejo",
+      "Alexander Novikov",
+      "Gabriel Barth-Maron",
+      "Mai Giménez",
+      "Yury Sulsky",
+      "Jackie Kay",
+      "Jost Tobias Springenberg",
+      "Tom Eccles",
+      "Jake Bruce",
+      "Ali Razavi",
+      "Ashley D. Edwards",
+      "N. Heess",
+      "Yutian Chen",
+      "R. Hadsell",
+      "O. Vinyals",
+      "Mahyar Bordbar",
+      "Nando de Freitas"
+    ],
+    "publication_date": "2022-05-12",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "5922f437512158970c417f4413bface021df5f78",
+    "corpus_id": 248722148,
+    "category": "Computer Science"
+  },
+  "2202-04500": {
+    "title": "Contextualize Me - The Case for Context in Reinforcement Learning",
+    "authors": [
+      "C. Benjamins",
+      "Theresa Eimer",
+      "Frederik Schubert",
+      "Aditya Mohan",
+      "André Biedenkapp",
+      "B. Rosenhahn",
+      "F. Hutter",
+      "M. Lindauer"
+    ],
+    "publication_date": "2022-02-09",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "df8e5f2e19b696fc5ed4bec9b61835943c8e8a8f",
+    "corpus_id": 246680013,
+    "category": "Computer Science"
+  },
+  "2201-04122": {
+    "title": "In Defense of the Unitary Scalarization for Deep Multi-Task Learning",
+    "authors": [
+      "Vitaly Kurin",
+      "A. Palma",
+      "Ilya Kostrikov",
+      "S. Whiteson",
+      "M. P. Kumar"
+    ],
+    "publication_date": "2022-01-11",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "6aeeac671877539d1f0facb18a47941dc85584b3",
+    "corpus_id": 245853571,
+    "category": "Computer Science"
+  },
+  "2111-01587": {
+    "title": "Procedural Generalization by Planning with Self-Supervised World Models",
+    "authors": [
+      "Ankesh Anand",
+      "Jacob Walker",
+      "Yazhe Li",
+      "Eszter V'ertes",
+      "Julian Schrittwieser",
+      "Sherjil Ozair",
+      "T. Weber",
+      "Jessica B. Hamrick"
+    ],
+    "publication_date": "2021-11-02",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "44164c068499fbe387a1765104d69a8cbc5f0327",
+    "corpus_id": 240419913,
+    "category": "Computer Science"
+  },
+  "2110-14048": {
+    "title": "Conflict-Averse Gradient Descent for Multi-task Learning",
+    "authors": [
+      "Bo Liu",
+      "Xingchao Liu",
+      "Xiaojie Jin",
+      "P. Stone",
+      "Qiang Liu"
+    ],
+    "publication_date": "2021-10-26",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "b7e531104c95eb67ce6c20d6dc1318e8bf837bf8",
+    "corpus_id": 239998731,
+    "category": "Computer Science"
+  },
+  "2110-12628": {
+    "title": "Recurrent Off-policy Baselines for Memory-based Continuous Control",
+    "authors": [
+      "Zhihan Yang",
+      "Hai V. Nguyen"
+    ],
+    "publication_date": "2021-10-25",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "17be3d9a32149f388e9ad8cc00716677d078d2d3",
+    "corpus_id": 239768601,
+    "category": "Computer Science"
+  },
+  "2110-09456": {
+    "title": "NormFormer: Improved Transformer Pretraining with Extra Normalization",
+    "authors": [
+      "Sam Shleifer",
+      "J. Weston",
+      "Myle Ott"
+    ],
+    "publication_date": "2021-10-18",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "2582a04918f6fe62dc142f2fca9ca0bb0b1d7895",
+    "corpus_id": 239016890,
+    "category": "Computer Science"
+  },
+  "2110-05038": {
+    "title": "Recurrent Model-Free RL Can Be a Strong Baseline for Many POMDPs",
+    "authors": [
+      "Tianwei Ni",
+      "Benjamin Eysenbach",
+      "R. Salakhutdinov"
+    ],
+    "publication_date": "2021-10-11",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "a7d58bd29778ef0d15b9e9e3eb2f37a8cf1ea70c",
+    "corpus_id": 246680124,
+    "category": "Computer Science"
+  },
+  "2110-04698": {
+    "title": "A Closer Look at Advantage-Filtered Behavioral Cloning in High-Noise Datasets",
+    "authors": [
+      "J. Grigsby",
+      "Yanjun Qi"
+    ],
+    "publication_date": "2021-10-10",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "96bec8e33d877af3f174bc5ef70bf14d9c4e759f",
+    "corpus_id": 238583318,
+    "category": "Computer Science"
+  },
+  "2107-09645": {
+    "title": "Mastering Visual Continuous Control: Improved Data-Augmented Reinforcement Learning",
+    "authors": [
+      "Denis Yarats",
+      "R. Fergus",
+      "A. Lazaric",
+      "Lerrel Pinto"
+    ],
+    "publication_date": "2021-07-20",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "e06c005e98281af455c454ce2478285f6f3afeca",
+    "corpus_id": 236134152,
+    "category": "Computer Science"
+  },
+  "2107-06277": {
+    "title": "Why Generalization in RL is Difficult: Epistemic POMDPs and Implicit Partial Observability",
+    "authors": [
+      "Dibya Ghosh",
+      "Jad Rahme",
+      "Aviral Kumar",
+      "Amy Zhang",
+      "Ryan P. Adams",
+      "S. Levine"
+    ],
+    "publication_date": "2021-07-13",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "ef24c31e07443b5d08dfbc822bff06acb7bc7cbd",
+    "corpus_id": 235829153,
+    "category": "Computer Science, Mathematics"
+  },
+  "2106-01345": {
+    "title": "Decision Transformer: Reinforcement Learning via Sequence Modeling",
+    "authors": [
+      "Lili Chen",
+      "Kevin Lu",
+      "A. Rajeswaran",
+      "Kimin Lee",
+      "Aditya Grover",
+      "M. Laskin",
+      "P. Abbeel",
+      "A. Srinivas",
+      "Igor Mordatch"
+    ],
+    "publication_date": "2021-06-02",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "c1ad5f9b32d80f1c65d67894e5b8c2fdf0ae4500",
+    "corpus_id": 235294299,
+    "category": "Computer Science"
+  },
+  "2104-07639": {
+    "title": "Robust Optimization for Multilingual Translation with Imbalanced Data",
+    "authors": [
+      "Xian Li",
+      "Hongyu Gong"
+    ],
+    "publication_date": "2021-04-15",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "e4e0674c580db2cd2c0f5d3dca65d9a98ce0ed02",
+    "corpus_id": 235422129,
+    "category": "Computer Science"
+  },
+  "2104-06159": {
+    "title": "Muesli: Combining Improvements in Policy Optimization",
+    "authors": [
+      "Matteo Hessel",
+      "Ivo Danihelka",
+      "Fabio Viola",
+      "A. Guez",
+      "Simon Schmitt",
+      "L. Sifre",
+      "T. Weber",
+      "David Silver",
+      "H. V. Hasselt"
+    ],
+    "publication_date": "2021-04-13",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "d4042b369e92c827a26dc62fdb047e00af332467",
+    "corpus_id": 233219421,
+    "category": "Computer Science"
+  },
+  "2103-03874": {
+    "title": "Measuring Mathematical Problem Solving With the MATH Dataset",
+    "authors": [
+      "Dan Hendrycks",
+      "Collin Burns",
+      "Saurav Kadavath",
+      "Akul Arora",
+      "Steven Basart",
+      "Eric Tang",
+      "D. Song",
+      "J. Steinhardt"
+    ],
+    "publication_date": "2021-03-05",
+    "venue": "NeurIPS Datasets and Benchmarks",
+    "semantic_scholar_id": "57d1e7ac339e783898f2c3b1af55737cbeee9fc5",
+    "corpus_id": 232134851,
+    "category": "Computer Science"
+  },
+  "2102-06177": {
+    "title": "Multi-Task Reinforcement Learning with Context-based Representations",
+    "authors": [
+      "Shagun Sodhani",
+      "Amy Zhang",
+      "Joelle Pineau"
+    ],
+    "publication_date": "2021-02-11",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "96b78897fba37282038bde12e48f8995d1276008",
+    "corpus_id": 231879645,
+    "category": "Computer Science"
+  },
+  "2102-02926": {
+    "title": "Alchemy: A benchmark and analysis toolkit for meta-reinforcement learning agents",
+    "authors": [
+      "Jane X. Wang",
+      "Michael King",
+      "Nicolas Porcel",
+      "Z. Kurth-Nelson",
+      "Tina Zhu",
+      "Charlie Deck",
+      "Peter Choy",
+      "Mary Cassin",
+      "Malcolm Reynolds",
+      "Francis Song",
+      "Gavin Buttimore",
+      "David P. Reichert",
+      "Neil C. Rabinowitz",
+      "L. Matthey",
+      "D. Hassabis",
+      "Alexander Lerchner",
+      "M. Botvinick"
+    ],
+    "publication_date": "2021-02-04",
+    "venue": "NeurIPS Datasets and Benchmarks",
+    "semantic_scholar_id": "eca9e42f081767eadf6a5ebed738b82bde2a17a6",
+    "corpus_id": 239019925,
+    "category": "Computer Science"
+  },
+  "2101-05982": {
+    "title": "Randomized Ensembled Double Q-Learning: Learning Fast Without a Model",
+    "authors": [
+      "Xinyue Chen",
+      "Che Wang",
+      "Zijian Zhou",
+      "K. Ross"
+    ],
+    "publication_date": "2021-01-15",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "736590f70e7f2dc464c1c62491cfa8adb4d718f3",
+    "corpus_id": 231627730,
+    "category": "Computer Science"
+  },
+  "2010-05874": {
+    "title": "Gradient Vaccine: Investigating and Improving Multi-task Optimization in Massively Multilingual Models",
+    "authors": [
+      "Zirui Wang",
+      "Yulia Tsvetkov",
+      "Orhan Firat",
+      "Yuan Cao"
+    ],
+    "publication_date": "2020-10-12",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "78d9f4a6bc0f53d0594a752f0934a3689b4460d8",
+    "corpus_id": 222291168,
+    "category": "Computer Science"
+  },
+  "2009-03300": {
+    "title": "Measuring Massive Multitask Language Understanding",
+    "authors": [
+      "Dan Hendrycks",
+      "Collin Burns",
+      "Steven Basart",
+      "Andy Zou",
+      "Mantas Mazeika",
+      "D. Song",
+      "J. Steinhardt"
+    ],
+    "publication_date": "2020-09-07",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "814a4f680b9ba6baba23b93499f4b48af1a27678",
+    "corpus_id": 221516475,
+    "category": "Computer Science"
+  },
+  "2008-02790": {
+    "title": "Decoupling Exploration and Exploitation for Meta-Reinforcement Learning without Sacrifices",
+    "authors": [
+      "E. Liu",
+      "Aditi Raghunathan",
+      "Percy Liang",
+      "Chelsea Finn"
+    ],
+    "publication_date": "2020-08-06",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "2a9336f92bcdc650c5257ec0cc1b4cd272f5ed1a",
+    "corpus_id": 229166934,
+    "category": "Computer Science, Mathematics"
+  },
+  "2007-06700": {
+    "title": "Revisiting Fundamentals of Experience Replay",
+    "authors": [
+      "W. Fedus",
+      "Prajit Ramachandran",
+      "Rishabh Agarwal",
+      "Yoshua Bengio",
+      "H. Larochelle",
+      "Mark Rowland",
+      "Will Dabney"
+    ],
+    "publication_date": "2020-07-12",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "517498898024107a75f5a4ea84f4129e300af603",
+    "corpus_id": 219107273,
+    "category": "Computer Science, Mathematics"
+  },
+  "2006-15134": {
+    "title": "Critic Regularized Regression",
+    "authors": [
+      "Ziyun Wang",
+      "Alexander Novikov",
+      "Konrad Zolna",
+      "Jost Tobias Springenberg",
+      "Scott E. Reed",
+      "Bobak Shahriari",
+      "Noah Siegel",
+      "J. Merel",
+      "Caglar Gulcehre",
+      "N. Heess",
+      "Nando de Freitas"
+    ],
+    "publication_date": "2020-06-26",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "7acbdb961f67d50fef359066f2a1d7755cf16ee2",
+    "corpus_id": 220127951,
+    "category": "Computer Science, Mathematics"
+  },
+  "2006-09359": {
+    "title": "Accelerating Online Reinforcement Learning with Offline Datasets",
+    "authors": [
+      "Ashvin Nair",
+      "Murtaza Dalal",
+      "Abhishek Gupta",
+      "S. Levine"
+    ],
+    "publication_date": "2020-06-16",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "0272b14dd471fe7b81df703af1b71d7600b77215",
+    "corpus_id": 219708452,
+    "category": "Computer Science, Mathematics"
+  },
+  "2005-14165": {
+    "title": "Language Models are Few-Shot Learners",
+    "authors": [
+      "Tom B. Brown",
+      "Benjamin Mann",
+      "Nick Ryder",
+      "Melanie Subbiah",
+      "J. Kaplan",
+      "Prafulla Dhariwal",
+      "Arvind Neelakantan",
+      "Pranav Shyam",
+      "Girish Sastry",
+      "Amanda Askell",
+      "Sandhini Agarwal",
+      "Ariel Herbert-Voss",
+      "Gretchen Krueger",
+      "T. Henighan",
+      "R. Child",
+      "A. Ramesh",
+      "Daniel M. Ziegler",
+      "Jeff Wu",
+      "Clemens Winter",
+      "Christopher Hesse",
+      "Mark Chen",
+      "Eric Sigler",
+      "Ma-teusz Litwin",
+      "Scott Gray",
+      "Benjamin Chess",
+      "Jack Clark",
+      "Christopher Berner",
+      "Sam McCandlish",
+      "Alec Radford",
+      "I. Sutskever",
+      "Dario Amodei"
+    ],
+    "publication_date": "2020-05-28",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+    "corpus_id": 218971783,
+    "category": "Computer Science"
+  },
+  "2005-01643": {
+    "title": "Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems",
+    "authors": [
+      "S. Levine",
+      "Aviral Kumar",
+      "G. Tucker",
+      "Justin Fu"
+    ],
+    "publication_date": "2020-05-04",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "5e7bc93622416f14e6948a500278bfbe58cd3890",
+    "corpus_id": 218486979,
+    "category": "Computer Science, Mathematics"
+  },
+  "2401-09561": {
+    "title": "Sharing Knowledge in Multi-Task Deep Reinforcement Learning",
+    "authors": [
+      "Carlo D'Eramo",
+      "Davide Tateo",
+      "Andrea Bonarini",
+      "Marcello Restelli",
+      "J. Peters"
+    ],
+    "publication_date": "2020-04-30",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "e74aded7d0839af48706c51a7b55af2ea20f0603",
+    "corpus_id": 209479151,
+    "category": "Computer Science"
+  },
+  "2002-08396": {
+    "title": "Keep Doing What Worked: Behavioral Modelling Priors for Offline Reinforcement Learning",
+    "authors": [
+      "Noah Siegel",
+      "Jost Tobias Springenberg",
+      "Felix Berkenkamp",
+      "A. Abdolmaleki",
+      "M. Neunert",
+      "Thomas Lampe",
+      "Roland Hafner",
+      "Martin A. Riedmiller"
+    ],
+    "publication_date": "2020-02-19",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "0881655dcdf891f529ebe7ac18301e138a5e265b",
+    "corpus_id": 211204780,
+    "category": "Computer Science, Mathematics"
+  },
+  "2001-06782": {
+    "title": "Gradient Surgery for Multi-Task Learning",
+    "authors": [
+      "Tianhe Yu",
+      "Saurabh Kumar",
+      "Abhishek Gupta",
+      "S. Levine",
+      "Karol Hausman",
+      "Chelsea Finn"
+    ],
+    "publication_date": "2020-01-19",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "449c5660d637741f7aa7ff42549c32b43c9968bf",
+    "corpus_id": 210839011,
+    "category": "Computer Science, Mathematics"
+  },
+  "1912-01588": {
+    "title": "Leveraging Procedural Generation to Benchmark Reinforcement Learning",
+    "authors": [
+      "K. Cobbe",
+      "Christopher Hesse",
+      "Jacob Hilton",
+      "John Schulman"
+    ],
+    "publication_date": "2019-12-03",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "8d814620a1ca77e745bc8a33b96b86148f2804fe",
+    "corpus_id": 208547624,
+    "category": "Computer Science, Mathematics"
+  },
+  "1911-08265": {
+    "title": "Mastering Atari, Go, chess and shogi by planning with a learned model",
+    "authors": [
+      "Julian Schrittwieser",
+      "Ioannis Antonoglou",
+      "T. Hubert",
+      "K. Simonyan",
+      "L. Sifre",
+      "Simon Schmitt",
+      "A. Guez",
+      "Edward Lockhart",
+      "D. Hassabis",
+      "T. Graepel",
+      "T. Lillicrap",
+      "David Silver"
+    ],
+    "publication_date": "2019-11-19",
+    "venue": "Nature",
+    "semantic_scholar_id": "c39fb7a46335c23f7529dd6f9f980462fd38653a",
+    "corpus_id": 208158225,
+    "category": "Computer Science, Mathematics, Medicine"
+  },
+  "1910-10897": {
+    "title": "Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning",
+    "authors": [
+      "Tianhe Yu",
+      "Deirdre Quillen",
+      "Zhanpeng He",
+      "Ryan C. Julian",
+      "Karol Hausman",
+      "Chelsea Finn",
+      "S. Levine"
+    ],
+    "publication_date": "2019-10-24",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "0bc855f84668b35cb65618d996d09f6e434d28c9",
+    "corpus_id": 204852201,
+    "category": "Computer Science, Mathematics"
+  },
+  "1910-07207": {
+    "title": "Soft Actor-Critic for Discrete Action Settings",
+    "authors": [
+      "Petros Christodoulou"
+    ],
+    "publication_date": "2019-10-16",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "0a0866ec7180bbf87b1c87ed48bd4fa00574b814",
+    "corpus_id": 204734462,
+    "category": "Computer Science, Mathematics"
+  },
+  "1910-00177": {
+    "title": "Advantage-Weighted Regression: Simple and Scalable Off-Policy Reinforcement Learning",
+    "authors": [
+      "Xue Bin Peng",
+      "Aviral Kumar",
+      "Grace Zhang",
+      "S. Levine"
+    ],
+    "publication_date": "2019-10-01",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "ad14227e4f51276892ffc37aa43fd8750bb5eba8",
+    "corpus_id": 203610423,
+    "category": "Computer Science, Mathematics"
+  },
+  "1910-00125": {
+    "title": "Meta-Q-Learning",
+    "authors": [
+      "Rasool Fakoor",
+      "P. Chaudhari",
+      "Stefano Soatto",
+      "Alex Smola"
+    ],
+    "publication_date": "2019-09-30",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "405d2cc9cccc035b4c8d950d6cfab4cc1a5d0628",
+    "corpus_id": 209977508,
+    "category": "Computer Science, Mathematics"
+  },
+  "1910-12179": {
+    "title": "BAIL: Best-Action Imitation Learning for Batch Deep Reinforcement Learning",
+    "authors": [
+      "Xinyue Chen",
+      "Zijian Zhou",
+      "Z. Wang",
+      "Che Wang",
+      "Yanqiu Wu",
+      "Qing Deng",
+      "K. Ross"
+    ],
+    "publication_date": "2019-09-25",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "b054fc685c3fa56459d5e49e4b42547164f8e024",
+    "corpus_id": 204907199,
+    "category": "Computer Science, Mathematics"
+  },
+  "1905-06424": {
+    "title": "Meta reinforcement learning as task inference",
+    "authors": [
+      "Jan Humplik",
+      "Alexandre Galashov",
+      "Leonard Hasenclever",
+      "Pedro A. Ortega",
+      "Y. Teh",
+      "N. Heess"
+    ],
+    "publication_date": "2019-05-15",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "9a3c9a0ac460c7891d03d56146f2d566c7e0fb08",
+    "corpus_id": 155100131,
+    "category": "Computer Science, Mathematics"
+  },
+  "1903-08254": {
+    "title": "Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables",
+    "authors": [
+      "Kate Rakelly",
+      "Aurick Zhou",
+      "Deirdre Quillen",
+      "Chelsea Finn",
+      "S. Levine"
+    ],
+    "publication_date": "2019-03-19",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "4625628163a2ee0e6cd320cd7a14b4ccded2a631",
+    "corpus_id": 84187276,
+    "category": "Computer Science, Mathematics"
+  },
+  "1903-00161": {
+    "title": "DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs",
+    "authors": [
+      "Dheeru Dua",
+      "Yizhong Wang",
+      "Pradeep Dasigi",
+      "Gabriel Stanovsky",
+      "Sameer Singh",
+      "Matt Gardner"
+    ],
+    "publication_date": "2019-03-01",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "dda6fb309f62e2557a071522354d8c2c897a2805",
+    "corpus_id": 67855846,
+    "category": "Computer Science"
+  },
+  "1902-06865": {
+    "title": "Hyperbolic Discounting and Learning over Multiple Horizons",
+    "authors": [
+      "W. Fedus",
+      "Carles Gelada",
+      "Yoshua Bengio",
+      "Marc G. Bellemare",
+      "H. Larochelle"
+    ],
+    "publication_date": "2019-02-19",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "c3f13bcbd19ed1082f95cb042f8f4dd593b12764",
+    "corpus_id": 67788222,
+    "category": "Computer Science, Mathematics"
+  },
+  "1810-06784": {
+    "title": "ProMP: Proximal Meta-Policy Search",
+    "authors": [
+      "Jonas Rothfuss",
+      "Dennis Lee",
+      "I. Clavera",
+      "T. Asfour",
+      "P. Abbeel"
+    ],
+    "publication_date": "2018-09-27",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "c456941a270cb2040eed4abfb39150508caf920c",
+    "corpus_id": 53015479,
+    "category": "Computer Science, Mathematics"
+  },
+  "1812-02224": {
+    "title": "Adapting Auxiliary Losses Using Gradient Similarity",
+    "authors": [
+      "Yunshu Du",
+      "Wojciech M. Czarnecki",
+      "Siddhant M. Jayakumar",
+      "Razvan Pascanu",
+      "Balaji Lakshminarayanan"
+    ],
+    "publication_date": "2018-09-27",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "f6b956d5ea11b18cd59a42d2bf2791fc0ab8671f",
+    "corpus_id": 53579309,
+    "category": "Computer Science, Mathematics"
+  },
+  "1809-04474": {
+    "title": "Multi-task Deep Reinforcement Learning with PopArt",
+    "authors": [
+      "Matteo Hessel",
+      "Hubert Soyer",
+      "L. Espeholt",
+      "Wojciech M. Czarnecki",
+      "Simon Schmitt",
+      "H. V. Hasselt"
+    ],
+    "publication_date": "2018-09-12",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "65769b53e71ea7c52b3a07ad32bd4fdade6a0173",
+    "corpus_id": 52194333,
+    "category": "Mathematics, Computer Science"
+  },
+  "1803-08494": {
+    "title": "Group Normalization",
+    "authors": [
+      "Yuxin Wu",
+      "Kaiming He"
+    ],
+    "publication_date": "2018-03-22",
+    "venue": "International Journal of Computer Vision",
+    "semantic_scholar_id": "d08b35243edc5be07387a9ed218070b31e502901",
+    "corpus_id": 4076251,
+    "category": "Computer Science"
+  },
+  "1803-01118": {
+    "title": "Some Considerations on Learning to Explore via Meta-Reinforcement Learning",
+    "authors": [
+      "Bradly C. Stadie",
+      "Ge Yang",
+      "Rein Houthooft",
+      "Xi Chen",
+      "Yan Duan",
+      "Yuhuai Wu",
+      "P. Abbeel",
+      "I. Sutskever"
+    ],
+    "publication_date": "2018-02-15",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "b80991d12b41a5a68dc14dd87b692c0f903ceb9c",
+    "corpus_id": 3707461,
+    "category": "Computer Science"
+  },
+  "1806-06920": {
+    "title": "Maximum a Posteriori Policy Optimisation",
+    "authors": [
+      "A. Abdolmaleki",
+      "Jost Tobias Springenberg",
+      "Yuval Tassa",
+      "R. Munos",
+      "N. Heess",
+      "Martin A. Riedmiller"
+    ],
+    "publication_date": "2018-02-15",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "a8ef08940341381390d9a5672546354d0ce51328",
+    "corpus_id": 49310753,
+    "category": "Computer Science, Mathematics"
+  },
+  "1802-01561": {
+    "title": "IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures",
+    "authors": [
+      "L. Espeholt",
+      "Hubert Soyer",
+      "R. Munos",
+      "K. Simonyan",
+      "Volodymyr Mnih",
+      "Tom Ward",
+      "Yotam Doron",
+      "Vlad Firoiu",
+      "Tim Harley",
+      "Iain Dunning",
+      "S. Legg",
+      "K. Kavukcuoglu"
+    ],
+    "publication_date": "2018-02-05",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "80196cdfcd0c6ce2953bf65a7f019971e2026386",
+    "corpus_id": 3645060,
+    "category": "Computer Science, Mathematics"
+  },
+  "1710-02298": {
+    "title": "Rainbow: Combining Improvements in Deep Reinforcement Learning",
+    "authors": [
+      "Matteo Hessel",
+      "Joseph Modayil",
+      "H. V. Hasselt",
+      "T. Schaul",
+      "Georg Ostrovski",
+      "Will Dabney",
+      "Dan Horgan",
+      "Bilal Piot",
+      "M. G. Azar",
+      "David Silver"
+    ],
+    "publication_date": "2017-10-06",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "0ab3f7ecbdc5a33565a234215604a6ca9d155a33",
+    "corpus_id": 19135734,
+    "category": "Computer Science"
+  },
+  "1709-10089": {
+    "title": "Overcoming Exploration in Reinforcement Learning with Demonstrations",
+    "authors": [
+      "Ashvin Nair",
+      "Bob McGrew",
+      "Marcin Andrychowicz",
+      "Wojciech Zaremba",
+      "P. Abbeel"
+    ],
+    "publication_date": "2017-09-28",
+    "venue": "IEEE International Conference on Robotics and Automation",
+    "semantic_scholar_id": "c28ec2a40a2c77e20d64cf1c85dc931106df8e83",
+    "corpus_id": 3543784,
+    "category": "Computer Science, Mathematics"
+  },
+  "1707-08114": {
+    "title": "A Survey on Multi-Task Learning",
+    "authors": [
+      "Yu Zhang",
+      "Qiang Yang"
+    ],
+    "publication_date": "2017-07-25",
+    "venue": "IEEE Transactions on Knowledge and Data Engineering",
+    "semantic_scholar_id": "7ad66cba3b7e3abae7ef33122588512a146f7f77",
+    "corpus_id": 11311635,
+    "category": "Computer Science, Mathematics"
+  },
+  "1707-06347": {
+    "title": "Proximal Policy Optimization Algorithms",
+    "authors": [
+      "John Schulman",
+      "Filip Wolski",
+      "Prafulla Dhariwal",
+      "Alec Radford",
+      "Oleg Klimov"
+    ],
+    "publication_date": "2017-07-20",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "dce6f9d4017b1785979e7520fd0834ef8cf02f4b",
+    "corpus_id": 28695052,
+    "category": "Computer Science"
+  },
+  "1707-06887": {
+    "title": "A Distributional Perspective on Reinforcement Learning",
+    "authors": [
+      "Marc G. Bellemare",
+      "Will Dabney",
+      "R. Munos"
+    ],
+    "publication_date": "2017-07-17",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "c1f4ef741242d629d1f56e442a09a7ba29595a0e",
+    "corpus_id": 966543,
+    "category": "Mathematics, Computer Science"
+  },
+  "1706-03762": {
+    "title": "Attention is All you Need",
+    "authors": [
+      "Ashish Vaswani",
+      "Noam M. Shazeer",
+      "Niki Parmar",
+      "Jakob Uszkoreit",
+      "Llion Jones",
+      "Aidan N. Gomez",
+      "Lukasz Kaiser",
+      "I. Polosukhin"
+    ],
+    "publication_date": "2017-06-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+    "corpus_id": 13756489,
+    "category": "Computer Science"
+  },
+  "1703-03400": {
+    "title": "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks",
+    "authors": [
+      "Chelsea Finn",
+      "P. Abbeel",
+      "S. Levine"
+    ],
+    "publication_date": "2017-03-09",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "c889d6f98e6d79b89c3a6adf8a921f88fa6ba518",
+    "corpus_id": 6719686,
+    "category": "Computer Science"
+  },
+  "1611-05763": {
+    "title": "Learning to reinforcement learn",
+    "authors": [
+      "Jane X. Wang",
+      "Z. Kurth-Nelson",
+      "Hubert Soyer",
+      "Joel Z. Leibo",
+      "Dhruva Tirumala",
+      "R. Munos",
+      "C. Blundell",
+      "D. Kumaran",
+      "M. Botvinick"
+    ],
+    "publication_date": "2016-11-17",
+    "venue": "Annual Meeting of the Cognitive Science Society",
+    "semantic_scholar_id": "282a380fb5ac26d99667224cef8c630f6882704f",
+    "corpus_id": 13623631,
+    "category": "Mathematics, Psychology, Computer Science"
+  },
+  "1611-02779": {
+    "title": "RL$^2$: Fast Reinforcement Learning via Slow Reinforcement Learning",
+    "authors": [
+      "Yan Duan",
+      "John Schulman",
+      "Xi Chen",
+      "P. Bartlett",
+      "I. Sutskever",
+      "P. Abbeel"
+    ],
+    "publication_date": "2016-11-04",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "954b01151ff13aef416d27adc60cd9a076753b1a",
+    "corpus_id": 14763001,
+    "category": "Computer Science, Mathematics"
+  },
+  "1607-06450": {
+    "title": "Layer Normalization",
+    "authors": [
+      "Jimmy Ba",
+      "J. Kiros",
+      "Geoffrey E. Hinton"
+    ],
+    "publication_date": "2016-07-21",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "97fb4e3d45bb098e27e0071448b6152217bd35a5",
+    "corpus_id": 8236317,
+    "category": "Computer Science, Mathematics"
+  },
+  "1509-02971": {
+    "title": "Continuous control with deep reinforcement learning",
+    "authors": [
+      "T. Lillicrap",
+      "Jonathan J. Hunt",
+      "A. Pritzel",
+      "N. Heess",
+      "Tom Erez",
+      "Yuval Tassa",
+      "David Silver",
+      "D. Wierstra"
+    ],
+    "publication_date": "2015-09-09",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "024006d4c2a89f7acacc6e4438d156525b60a98f",
+    "corpus_id": 16326763,
+    "category": "Computer Science, Mathematics"
+  },
+  "1502-02259": {
+    "title": "Contextual Markov Decision Processes",
+    "authors": [
+      "Assaf Hallak",
+      "Dotan Di Castro",
+      "Shie Mannor"
+    ],
+    "publication_date": "2015-02-08",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "04955600df47c66a055591d927c024e6e9c72c61",
+    "corpus_id": 14616648,
+    "category": "Computer Science, Mathematics"
+  },
+  "1406-1078": {
+    "title": "Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation",
+    "authors": [
+      "Kyunghyun Cho",
+      "B. V. Merrienboer",
+      "Çaglar Gülçehre",
+      "Dzmitry Bahdanau",
+      "Fethi Bougares",
+      "Holger Schwenk",
+      "Yoshua Bengio"
+    ],
+    "publication_date": "2014-06-03",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "0b544dfe355a5070b60986319a3f51fb45d1348e",
+    "corpus_id": 5590763,
+    "category": "Computer Science, Mathematics"
+  },
+  "1207-4708": {
+    "title": "The Arcade Learning Environment: An Evaluation Platform for General Agents",
+    "authors": [
+      "Marc G. Bellemare",
+      "Yavar Naddaf",
+      "J. Veness",
+      "Michael Bowling"
+    ],
+    "publication_date": "2012-07-19",
+    "venue": "Journal of Artificial Intelligence Research",
+    "semantic_scholar_id": "f82e4ff4f003581330338aaae71f60316e58dd26",
+    "corpus_id": 1552061,
+    "category": "Computer Science"
+  },
+  "2310-09971": {
+    "title": "AMAGO: Scalable In-Context Reinforcement Learning for Adaptive Agents",
+    "authors": [
+      "Jake Grigsby",
+      "Linxi Fan",
+      "Yuke Zhu"
+    ],
+    "publication_date": "2023-10-15",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "c373cb2cb16b65022de1d9447afa6d0f0aefb8e2",
+    "corpus_id": 264146391,
+    "category": "Computer Science"
+  }
+}

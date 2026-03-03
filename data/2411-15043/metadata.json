@@ -1,0 +1,17 @@
+{
+  "title": "Open-Vocabulary Online Semantic Mapping for SLAM",
+  "authors": [
+    "Tomas Berriel Martins",
+    "Martin R. Oswald",
+    "Javier Civera"
+  ],
+  "summary": "This paper presents an Open-Vocabulary Online 3D semantic mapping pipeline, that we denote by its acronym OVO. Given a sequence of posed RGB-D frames, we detect and track 3D segments, which we describe using CLIP vectors. These are computed from the viewpoints where they are observed by a novel CLIP merging method. Notably, our OVO has a significantly lower computational and memory footprint than offline baselines, while also showing better segmentation metrics than offline and online ones. Along with superior segmentation performance, we also show experimental results of our mapping contributions integrated with two different full SLAM backbones (Gaussian-SLAM and ORB-SLAM2), being the first ones using a neural network to merge CLIP descriptors and demonstrating end-to-end open-vocabulary online 3D mapping with loop closure.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-03-10",
+    "2025-09-29"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.RO"
+}

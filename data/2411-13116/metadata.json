@@ -1,0 +1,15 @@
+{
+  "title": "Provably Efficient Action-Manipulation Attack Against Continuous Reinforcement Learning",
+  "authors": [
+    "Zhi Luo",
+    "Xiyuan Yang",
+    "Pan Zhou",
+    "Di Wang"
+  ],
+  "summary": "Manipulating the interaction trajectories between the intelligent agent and the environment can control the agent's training and behavior, exposing the potential vulnerabilities of reinforcement learning (RL). For example, in Cyber-Physical Systems (CPS) controlled by RL, the attacker can manipulate the actions of the adopted RL to other actions during the training phase, which will lead to bad consequences. Existing work has studied action-manipulation attacks in tabular settings, where the states and actions are discrete. As seen in many up-and-coming RL applications, such as autonomous driving, continuous action space is widely accepted, however, its action-manipulation attacks have not been thoroughly investigated yet. In this paper, we consider this crucial problem in both white-box and black-box scenarios. Specifically, utilizing the knowledge derived exclusively from trajectories, we propose a black-box attack algorithm named LCBT, which uses the Monte Carlo tree search method for efficient action searching and manipulation. Additionally, we demonstrate that for an agent whose dynamic regret is sub-linearly related to the total number of steps, LCBT can teach the agent to converge to target policies with only sublinear attack cost, i.e., $O\\left(\\mathcal{R}(T) + MH^3K^E\\log (MT)\\right)(0<E<1)$, where $H$ is the number of steps per episode, $K$ is the total number of episodes, $T=KH$ is the total number of steps, $M$ is the number of subspaces divided in the state space, and $\\mathcal{R}(T)$ is the bound of the RL algorithm's regret. We conduct our proposed attack methods on three aggressive algorithms: DDPG, PPO, and TD3 in continuous settings, which show a promising attack performance.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI"
+}

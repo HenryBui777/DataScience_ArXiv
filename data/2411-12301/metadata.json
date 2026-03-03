@@ -1,0 +1,17 @@
+{
+  "title": "Physics-Guided Detector for SAR Airplanes",
+  "authors": [
+    "Zhongling Huang",
+    "Long Liu",
+    "Shuxin Yang",
+    "Zhirui Wang",
+    "Gong Cheng",
+    "Junwei Han"
+  ],
+  "summary": "The disperse structure distributions (discreteness) and variant scattering characteristics (variability) of SAR airplane targets lead to special challenges of object detection and recognition. The current deep learning-based detectors encounter challenges in distinguishing fine-grained SAR airplanes against complex backgrounds. To address it, we propose a novel physics-guided detector (PGD) learning paradigm for SAR airplanes that comprehensively investigate their discreteness and variability to improve the detection performance. It is a general learning paradigm that can be extended to different existing deep learning-based detectors with \"backbone-neck-head\" architectures. The main contributions of PGD include the physics-guided self-supervised learning, feature enhancement, and instance perception, denoted as PGSSL, PGFE, and PGIP, respectively. PGSSL aims to construct a self-supervised learning task based on a wide range of SAR airplane targets that encodes the prior knowledge of various discrete structure distributions into the embedded space. Then, PGFE enhances the multi-scale feature representation of a detector, guided by the physics-aware information learned from PGSSL. PGIP is constructed at the detection head to learn the refined and dominant scattering point of each SAR airplane instance, thus alleviating the interference from the complex background. We propose two implementations, denoted as PGD and PGD-Lite, and apply them to various existing detectors with different backbones and detection heads. The experiments demonstrate the flexibility and effectiveness of the proposed PGD, which can improve existing detectors on SAR airplane detection with fine-grained classification task (an improvement of 3.1\\% mAP most), and achieve the state-of-the-art performance (90.7\\% mAP) on SAR-AIRcraft-1.0 dataset. The project is open-source at \\url{https://github.com/XAI4SAR/PGD}.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

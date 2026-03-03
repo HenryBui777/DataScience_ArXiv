@@ -1,0 +1,821 @@
+{
+  "2405-16537": {
+    "title": "I2VEdit: First-Frame-Guided Video Editing via Image-to-Video Diffusion Models",
+    "authors": [
+      "Wenqi Ouyang",
+      "Yi Dong",
+      "Lei Yang",
+      "Jianlou Si",
+      "Xingang Pan"
+    ],
+    "publication_date": "2024-05-26",
+    "venue": "ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia",
+    "semantic_scholar_id": "a27a7c1bd27217bc0423d55bf0b4f3a38cc48b5f",
+    "corpus_id": 270063068,
+    "category": "Computer Science"
+  },
+  "2404-09967": {
+    "title": "Ctrl-Adapter: An Efficient and Versatile Framework for Adapting Diverse Controls to Any Diffusion Model",
+    "authors": [
+      "Han Lin",
+      "Jaemin Cho",
+      "Abhaysinh Zala",
+      "Mohit Bansal"
+    ],
+    "publication_date": "2024-04-15",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "bcbef7546696cd2d102b8b440702614876dda5aa",
+    "corpus_id": 269148816,
+    "category": "Computer Science"
+  },
+  "2403-14468": {
+    "title": "AnyV2V: A Tuning-Free Framework For Any Video-to-Video Editing Tasks",
+    "authors": [
+      "Max W.F. Ku",
+      "Cong Wei",
+      "Weiming Ren",
+      "Huan Yang",
+      "Wenhu Chen"
+    ],
+    "publication_date": "2024-03-21",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "8e489ab4bcc959a12f0bcacf2975cba9a6395561",
+    "corpus_id": 268554083,
+    "category": "Computer Science"
+  },
+  "2403-12035": {
+    "title": "CoCoCo: Improving Text-Guided Video Inpainting for Better Consistency, Controllability and Compatibility",
+    "authors": [
+      "Bojia Zi",
+      "Shihao Zhao",
+      "Xianbiao Qi",
+      "Jianan Wang",
+      "Yukai Shi",
+      "Qianyu Chen",
+      "Bin Liang",
+      "Kam-Fai Wong",
+      "Lei Zhang"
+    ],
+    "publication_date": "2024-03-18",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "e8398e5e8a6e26de19e8db0f2d1d518cb45428f8",
+    "corpus_id": 268532447,
+    "category": "Computer Science"
+  },
+  "2402-19479": {
+    "title": "Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers",
+    "authors": [
+      "Tsai-Shien Chen",
+      "Aliaksandr Siarohin",
+      "Willi Menapace",
+      "Ekaterina Deyneka",
+      "Hsiang-wei Chao",
+      "Byung Eun Jeon",
+      "Yuwei Fang",
+      "Hsin-Ying Lee",
+      "Jian Ren",
+      "Ming-Hsuan Yang",
+      "S. Tulyakov"
+    ],
+    "publication_date": "2024-02-29",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "8eae862d9669e7001eeee17b49fba793df9672c4",
+    "corpus_id": 268091168,
+    "category": "Computer Science"
+  },
+  "2402-13185": {
+    "title": "UniEdit: A Unified Tuning-Free Framework for Video Motion and Appearance Editing",
+    "authors": [
+      "Jianhong Bai",
+      "Tianyu He",
+      "Yuchi Wang",
+      "Junliang Guo",
+      "Haoji Hu",
+      "Zuozhu Liu",
+      "Jiang Bian"
+    ],
+    "publication_date": "2024-02-20",
+    "venue": "Proceedings of the 33rd ACM International Conference on Multimedia",
+    "semantic_scholar_id": "66a05b7405aa3591a8fb74e5958c8d6dc994606e",
+    "corpus_id": 267760278,
+    "category": "Computer Science"
+  },
+  "2401-03048": {
+    "title": "Latte: Latent Diffusion Transformer for Video Generation",
+    "authors": [
+      "Xin Ma",
+      "Yaohui Wang",
+      "Gengyun Jia",
+      "Xinyuan Chen",
+      "Ziwei Liu",
+      "Yuan-Fang Li",
+      "Cunjian Chen",
+      "Yu Qiao"
+    ],
+    "publication_date": "2024-01-05",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "e0eac8c64be3313e581c28a495bec192e7e67284",
+    "corpus_id": 266844878,
+    "category": "Computer Science"
+  },
+  "2401-02473": {
+    "title": "VASE: Object-Centric Appearance and Shape Manipulation of Real Videos",
+    "authors": [
+      "E. Peruzzo",
+      "Vidit Goel",
+      "Dejia Xu",
+      "Xingqian Xu",
+      "Yifan Jiang",
+      "Zhangyang Wang",
+      "Humphrey Shi",
+      "N. Sebe"
+    ],
+    "publication_date": "2024-01-04",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "2ee7301efe2829a8f34bbc70006e45f461092af8",
+    "corpus_id": 266818267,
+    "category": "Computer Science"
+  },
+  "2312-16693": {
+    "title": "I2V-Adapter: A General Image-to-Video Adapter for Diffusion Models",
+    "authors": [
+      "Xun Guo",
+      "Mingwu Zheng",
+      "Liang Hou",
+      "Yuan Gao",
+      "Yufan Deng",
+      "Pengfei Wan",
+      "Di Zhang",
+      "Yufan Liu",
+      "Weiming Hu",
+      "Zhengjun Zha",
+      "Haibin Huang",
+      "Chongyang Ma"
+    ],
+    "publication_date": "2023-12-27",
+    "venue": "International Conference on Computer Graphics and Interactive Techniques",
+    "semantic_scholar_id": "9512a9bbef95560c719a746676611bfcded428a1",
+    "corpus_id": 267320426,
+    "category": "Computer Science"
+  },
+  "2312-15770": {
+    "title": "A Recipe for Scaling up Text-to-Video Generation with Text-free Videos",
+    "authors": [
+      "Xiang Wang",
+      "Shiwei Zhang",
+      "Hangjie Yuan",
+      "Zhiwu Qing",
+      "Biao Gong",
+      "Yingya Zhang",
+      "Yujun Shen",
+      "Changxin Gao",
+      "Nong Sang"
+    ],
+    "publication_date": "2023-12-25",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "a40e68121e7887fc49e3e9b35f8acc7ce7dc9c89",
+    "corpus_id": 266550872,
+    "category": "Computer Science"
+  },
+  "2312-13834": {
+    "title": "Fairy: Fast Parallelized Instruction-Guided Video-to-Video Synthesis",
+    "authors": [
+      "Bichen Wu",
+      "Ching-Yao Chuang",
+      "Xiaoyan Wang",
+      "Yichen Jia",
+      "K. Krishnakumar",
+      "Tong Xiao",
+      "Feng Liang",
+      "Licheng Yu",
+      "Péter Vajda"
+    ],
+    "publication_date": "2023-12-20",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "e0d62e25811018636c22d2cc76650b9d31968890",
+    "corpus_id": 266435967,
+    "category": "Computer Science"
+  },
+  "2312-12490": {
+    "title": "InstructVideo: Instructing Video Diffusion Models with Human Feedback",
+    "authors": [
+      "Hangjie Yuan",
+      "Shiwei Zhang",
+      "Xiang Wang",
+      "Yujie Wei",
+      "Tao Feng",
+      "Yining Pan",
+      "Yingya Zhang",
+      "Ziwei Liu",
+      "Samuel Albanie",
+      "Dong Ni"
+    ],
+    "publication_date": "2023-12-19",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "8d20efb5161d85401bdcd56606a98379e4395f1c",
+    "corpus_id": 266374742,
+    "category": "Computer Science"
+  },
+  "2312-03816": {
+    "title": "AVID: Any-Length Video Inpainting with Diffusion Model",
+    "authors": [
+      "Zhixing Zhang",
+      "Bichen Wu",
+      "Xiaoyan Wang",
+      "Yaqiao Luo",
+      "Luxin Zhang",
+      "Yinan Zhao",
+      "Péter Vajda",
+      "Dimitris N. Metaxas",
+      "Licheng Yu"
+    ],
+    "publication_date": "2023-12-06",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "d37533f318857a480b52c258ae4581d84f5acffa",
+    "corpus_id": 266055411,
+    "category": "Computer Science"
+  },
+  "2311-17009": {
+    "title": "Space-Time Diffusion Features for Zero-Shot Text-Driven Motion Transfer",
+    "authors": [
+      "Danah Yatim",
+      "Rafail Fridman",
+      "Omer Bar-Tal",
+      "Yoni Kasten",
+      "Tali Dekel"
+    ],
+    "publication_date": "2023-11-28",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "070c827308bec794584b5ca38de57f8e1f5ce191",
+    "corpus_id": 265466643,
+    "category": "Computer Science"
+  },
+  "2311-17117": {
+    "title": "Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation",
+    "authors": [
+      "Liucheng Hu",
+      "Xin Gao",
+      "Peng Zhang",
+      "Ke Sun",
+      "Bang Zhang",
+      "Liefeng Bo"
+    ],
+    "publication_date": "2023-11-28",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "c8dc4af5c61f95cc79b7f83e8339efa62af8f811",
+    "corpus_id": 265499043,
+    "category": "Computer Science"
+  },
+  "2311-15127": {
+    "title": "Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets",
+    "authors": [
+      "A. Blattmann",
+      "Tim Dockhorn",
+      "Sumith Kulal",
+      "Daniel Mendelevitch",
+      "Maciej Kilian",
+      "Dominik Lorenz"
+    ],
+    "publication_date": "2023-11-25",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "1206b05eae5a06ba662ae79fb291b50e359c4f42",
+    "corpus_id": 265312551,
+    "category": "Computer Science"
+  },
+  "2311-04145": {
+    "title": "I2VGen-XL: High-Quality Image-to-Video Synthesis via Cascaded Diffusion Models",
+    "authors": [
+      "Shiwei Zhang",
+      "Jiayu Wang",
+      "Yingya Zhang",
+      "Kang Zhao",
+      "Hangjie Yuan",
+      "Z. Qin",
+      "Xiang Wang",
+      "Deli Zhao",
+      "Jingren Zhou"
+    ],
+    "publication_date": "2023-11-07",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "9b86ce1bde87b304141641b49299f4d0f1f7ba1d",
+    "corpus_id": 265043460,
+    "category": "Computer Science"
+  },
+  "2310-05922": {
+    "title": "FLATTEN: optical FLow-guided ATTENtion for consistent text-to-video editing",
+    "authors": [
+      "Yuren Cong",
+      "Mengmeng Xu",
+      "Christian Simon",
+      "Shoufa Chen",
+      "Jiawei Ren",
+      "Yanping Xie",
+      "Juan-Manuel Pérez-Rúa",
+      "Bodo Rosenhahn",
+      "Tao Xiang",
+      "Sen He"
+    ],
+    "publication_date": "2023-10-09",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "005f3db2174474853cd681d6b8547ee887d36500",
+    "corpus_id": 263829513,
+    "category": "Computer Science"
+  },
+  "2309-15103": {
+    "title": "LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models",
+    "authors": [
+      "Yaohui Wang",
+      "Xinyuan Chen",
+      "Xin Ma",
+      "Shangchen Zhou",
+      "Ziqi Huang",
+      "Yi Wang",
+      "Ceyuan Yang",
+      "Yinan He",
+      "Jiashuo Yu",
+      "Pe-der Yang",
+      "Yuwei Guo",
+      "Tianxing Wu",
+      "Chenyang Si",
+      "Yuming Jiang",
+      "Cunjian Chen",
+      "Chen Change Loy",
+      "Bo Dai",
+      "Dahua Lin",
+      "Y. Qiao",
+      "Ziwei Liu"
+    ],
+    "publication_date": "2023-09-26",
+    "venue": "International Journal of Computer Vision",
+    "semantic_scholar_id": "ed4603ea341acc26cab24f41aa40524fb7779917",
+    "corpus_id": 262823915,
+    "category": "Computer Science"
+  },
+  "2309-03897": {
+    "title": "ProPainter: Improving Propagation and Transformer for Video Inpainting",
+    "authors": [
+      "Shangchen Zhou",
+      "Chongyi Li",
+      "Kelvin C. K. Chan",
+      "Chen Change Loy"
+    ],
+    "publication_date": "2023-09-07",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "be96ecfcff570ed022ef3c77870309ca3ef695c0",
+    "corpus_id": 261582759,
+    "category": "Computer Science"
+  },
+  "2307-10373": {
+    "title": "TokenFlow: Consistent Diffusion Features for Consistent Video Editing",
+    "authors": [
+      "Michal Geyer",
+      "Omer Bar-Tal",
+      "Shai Bagon",
+      "Tali Dekel"
+    ],
+    "publication_date": "2023-07-19",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "4761f173965195798cd3046ef4af608a83504e4d",
+    "corpus_id": 259991741,
+    "category": "Computer Science"
+  },
+  "2307-04725": {
+    "title": "AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning",
+    "authors": [
+      "Yuwei Guo",
+      "Ceyuan Yang",
+      "Anyi Rao",
+      "Yaohui Wang",
+      "Y. Qiao",
+      "Dahua Lin",
+      "Bo Dai"
+    ],
+    "publication_date": "2023-07-10",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "c1caa303549764d220ff17dc1785985dd1ba6047",
+    "corpus_id": 259501509,
+    "category": "Computer Science"
+  },
+  "2306-00407": {
+    "title": "Toward Interactive Image Inpainting via Robust Sketch Refinement",
+    "authors": [
+      "Chang Liu",
+      "Shunxin Xu",
+      "Jialun Peng",
+      "Kaiwen Zhang",
+      "Dong Liu"
+    ],
+    "publication_date": "2023-06-01",
+    "venue": "IEEE transactions on multimedia",
+    "semantic_scholar_id": "5f1a22485b00aa0e3c109064ccf846f692bafe33",
+    "corpus_id": 258999784,
+    "category": "Computer Science"
+  },
+  "2305-11520": {
+    "title": "LaCon: Late-Constraint Diffusion for Steerable Guided Image Synthesis",
+    "authors": [
+      "Chang Liu",
+      "Dong Liu"
+    ],
+    "publication_date": "2023-05-19",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "d69e2a14768cca5dd3f367e9adbb74b33cb8b609",
+    "corpus_id": 258823368,
+    "category": "Computer Science"
+  },
+  "2305-10431": {
+    "title": "FastComposer: Tuning-Free Multi-subject Image Generation with Localized Attention",
+    "authors": [
+      "Guangxuan Xiao",
+      "Tianwei Yin",
+      "W. Freeman",
+      "F. Durand",
+      "Song Han"
+    ],
+    "publication_date": "2023-05-17",
+    "venue": "International Journal of Computer Vision",
+    "semantic_scholar_id": "1a3d6119d9513ad27fa4fc3262e517ec6a6d2261",
+    "corpus_id": 258740710,
+    "category": "Computer Science"
+  },
+  "2304-02643": {
+    "title": "Segment Anything",
+    "authors": [
+      "A. Kirillov",
+      "Eric Mintun",
+      "Nikhila Ravi",
+      "Hanzi Mao",
+      "Chloé Rolland",
+      "Laura Gustafson",
+      "Tete Xiao",
+      "Spencer Whitehead",
+      "A. Berg",
+      "Wan-Yen Lo",
+      "Piotr Dollár",
+      "Ross B. Girshick"
+    ],
+    "publication_date": "2023-04-05",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "7470a1702c8c86e6f28d32cfa315381150102f5b",
+    "corpus_id": 257952310,
+    "category": "Computer Science"
+  },
+  "2303-04761": {
+    "title": "Video-P2P: Video Editing with Cross-Attention Control",
+    "authors": [
+      "Shaoteng Liu",
+      "Yuechen Zhang",
+      "Wenbo Li",
+      "Zhe Lin",
+      "Jiaya Jia"
+    ],
+    "publication_date": "2023-03-08",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "6283502d6900a0b403e2454b1cb1cf16ddefd5a7",
+    "corpus_id": 257405406,
+    "category": "Computer Science"
+  },
+  "2302-05543": {
+    "title": "Adding Conditional Control to Text-to-Image Diffusion Models",
+    "authors": [
+      "Lvmin Zhang",
+      "Anyi Rao",
+      "Maneesh Agrawala"
+    ],
+    "publication_date": "2023-02-10",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "efbe97d20c4ffe356e8826c01dc550bacc405add",
+    "corpus_id": 256827727,
+    "category": "Computer Science"
+  },
+  "2301-13173": {
+    "title": "Shape-Aware Text-Driven Layered Video Editing",
+    "authors": [
+      "Yao-Chih Lee",
+      "Ji-Ze Jang",
+      "Yi-Ting Chen",
+      "Elizabeth Qiu",
+      "Jia-Bin Huang"
+    ],
+    "publication_date": "2023-01-30",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "304cbe454a0239401f3d88fde55045f99fe90549",
+    "corpus_id": 256390381,
+    "category": "Computer Science, Engineering"
+  },
+  "2212-11565": {
+    "title": "Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation",
+    "authors": [
+      "Jay Zhangjie Wu",
+      "Yixiao Ge",
+      "Xintao Wang",
+      "Weixian Lei",
+      "Yuchao Gu",
+      "W. Hsu",
+      "Ying Shan",
+      "Xiaohu Qie",
+      "Mike Zheng Shou"
+    ],
+    "publication_date": "2022-12-22",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "1367dcff4ccb927a5e95c452041288b3f0dd0eff",
+    "corpus_id": 254974187,
+    "category": "Computer Science"
+  },
+  "2211-13227": {
+    "title": "Paint by Example: Exemplar-based Image Editing with Diffusion Models",
+    "authors": [
+      "Binxin Yang",
+      "Shuyang Gu",
+      "Bo Zhang",
+      "Ting Zhang",
+      "Xuejin Chen",
+      "Xiaoyan Sun",
+      "Dong Chen",
+      "Fang Wen"
+    ],
+    "publication_date": "2022-11-23",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "4f1502111d35aa6651dfaedfeb1184b3c3dd2fcb",
+    "corpus_id": 253802085,
+    "category": "Computer Science"
+  },
+  "2211-09800": {
+    "title": "InstructPix2Pix: Learning to Follow Image Editing Instructions",
+    "authors": [
+      "Tim Brooks",
+      "Aleksander Holynski",
+      "Alexei A. Efros"
+    ],
+    "publication_date": "2022-11-17",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "a2d2bbe4c542173662a444b33b76c66992697830",
+    "corpus_id": 253581213,
+    "category": "Computer Science"
+  },
+  "2211-04894": {
+    "title": "Exploring Video Quality Assessment on User Generated Contents from Aesthetic and Technical Perspectives",
+    "authors": [
+      "Haoning Wu",
+      "Erli Zhang",
+      "Liang Liao",
+      "Chaofeng Chen",
+      "Jingwen Hou",
+      "Annan Wang",
+      "Wenxiu Sun",
+      "Qiong Yan",
+      "Weisi Lin"
+    ],
+    "publication_date": "2022-11-09",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "b8ac29f2da80cf3f7f367cf6ebabe3b18114a2e6",
+    "corpus_id": 257378482,
+    "category": "Computer Science, Engineering"
+  },
+  "2208-06768": {
+    "title": "Flow-Guided Transformer for Video Inpainting",
+    "authors": [
+      "Kaiwen Zhang",
+      "Jingjing Fu",
+      "Dong Liu"
+    ],
+    "publication_date": "2022-08-14",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "2a755c2b01cf2f3b8a91e1ce98facaf11f90bc92",
+    "corpus_id": 251564308,
+    "category": "Computer Science"
+  },
+  "2204-02491": {
+    "title": "Text2LIVE: Text-Driven Layered Image and Video Editing",
+    "authors": [
+      "Omer Bar-Tal",
+      "Dolev Ofri-Amar",
+      "Rafail Fridman",
+      "Yoni Kasten",
+      "Tali Dekel"
+    ],
+    "publication_date": "2022-04-05",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "c0e8812789e96f5a7aa3ad940dba1c237aec822d",
+    "corpus_id": 247996703,
+    "category": "Computer Science"
+  },
+  "2112-10752": {
+    "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+    "authors": [
+      "Robin Rombach",
+      "A. Blattmann",
+      "Dominik Lorenz",
+      "Patrick Esser",
+      "B. Ommer"
+    ],
+    "publication_date": "2021-12-20",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "c10075b3746a9f3dd5811970e93c8ca3ad39b39d",
+    "corpus_id": 245335280,
+    "category": "Computer Science"
+  },
+  "2112-05744": {
+    "title": "More Control for Free! Image Synthesis with Semantic Diffusion Guidance",
+    "authors": [
+      "Xihui Liu",
+      "Dong Huk Park",
+      "S. Azadi",
+      "Gong Zhang",
+      "Arman Chopikyan",
+      "Yuxiao Hu",
+      "Humphrey Shi",
+      "Anna Rohrbach",
+      "Trevor Darrell"
+    ],
+    "publication_date": "2021-12-10",
+    "venue": "IEEE Workshop/Winter Conference on Applications of Computer Vision",
+    "semantic_scholar_id": "dc563ae2179a79a3b58749bc142a719e009d6cc5",
+    "corpus_id": 245117331,
+    "category": "Computer Science"
+  },
+  "2110-02711": {
+    "title": "DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation",
+    "authors": [
+      "Gwanghyun Kim",
+      "Taesung Kwon",
+      "Jong-Chul Ye"
+    ],
+    "publication_date": "2021-10-06",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "8f8dedb511c0324d1cb7f9750560109ca9290b5f",
+    "corpus_id": 244909410,
+    "category": "Computer Science"
+  },
+  "2106-09685": {
+    "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+    "authors": [
+      "J. E. Hu",
+      "Yelong Shen",
+      "Phillip Wallis",
+      "Zeyuan Allen-Zhu",
+      "Yuanzhi Li",
+      "Shean Wang",
+      "Weizhu Chen"
+    ],
+    "publication_date": "2021-06-17",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "a8ca46b171467ceb2d7652fbfb67fe701ad86092",
+    "corpus_id": 235458009,
+    "category": "Computer Science"
+  },
+  "2104-08718": {
+    "title": "CLIPScore: A Reference-free Evaluation Metric for Image Captioning",
+    "authors": [
+      "Jack Hessel",
+      "Ari Holtzman",
+      "Maxwell Forbes",
+      "Ronan Le Bras",
+      "Yejin Choi"
+    ],
+    "publication_date": "2021-04-18",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "38b0567e83386ddc294d6c81b541deacbd8e3c2a",
+    "corpus_id": 233296711,
+    "category": "Computer Science"
+  },
+  "2104-00650": {
+    "title": "Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval",
+    "authors": [
+      "Max Bain",
+      "Arsha Nagrani",
+      "Gül Varol",
+      "Andrew Zisserman"
+    ],
+    "publication_date": "2021-04-01",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "bac87bdb1cabc35fafb8176a234d332ebcc02864",
+    "corpus_id": 232478955,
+    "category": "Computer Science"
+  },
+  "2103-00020": {
+    "title": "Learning Transferable Visual Models From Natural Language Supervision",
+    "authors": [
+      "Alec Radford",
+      "Jong Wook Kim",
+      "Chris Hallacy",
+      "A. Ramesh",
+      "Gabriel Goh",
+      "Sandhini Agarwal",
+      "Girish Sastry",
+      "Amanda Askell",
+      "Pamela Mishkin",
+      "Jack Clark",
+      "Gretchen Krueger",
+      "I. Sutskever"
+    ],
+    "publication_date": "2021-02-26",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4",
+    "corpus_id": 231591445,
+    "category": "Computer Science"
+  },
+  "2006-11239": {
+    "title": "Denoising Diffusion Probabilistic Models",
+    "authors": [
+      "Jonathan Ho",
+      "Ajay Jain",
+      "P. Abbeel"
+    ],
+    "publication_date": "2020-06-19",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "5c126ae3421f05768d8edd97ecd44b1364e2c99a",
+    "corpus_id": 219955663,
+    "category": "Computer Science, Mathematics"
+  },
+  "2003-12039": {
+    "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
+    "authors": [
+      "Zachary Teed",
+      "Jia Deng"
+    ],
+    "publication_date": "2020-03-26",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "3230e2d6b4671cc03974af2219c6d3270e6fac70",
+    "corpus_id": 214667893,
+    "category": "Computer Science, Materials Science"
+  },
+  "1907-01341": {
+    "title": "Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-Shot Cross-Dataset Transfer",
+    "authors": [
+      "René Ranftl",
+      "Katrin Lasinger",
+      "David Hafner",
+      "K. Schindler",
+      "V. Koltun"
+    ],
+    "publication_date": "2019-07-02",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "7bd83b055702bc178aa26def5b6df463f8eab7b9",
+    "corpus_id": 195776274,
+    "category": "Computer Science, Medicine"
+  },
+  "1809-03327": {
+    "title": "YouTube-VOS: A Large-Scale Video Object Segmentation Benchmark",
+    "authors": [
+      "N. Xu",
+      "L. Yang",
+      "Yuchen Fan",
+      "Dingcheng Yue",
+      "Yuchen Liang",
+      "Jianchao Yang",
+      "Thomas S. Huang"
+    ],
+    "publication_date": "2018-09-06",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "cc628fee1e83bfba1d581bfa128c9cb6c28ef8ad",
+    "corpus_id": 52181738,
+    "category": "Computer Science"
+  },
+  "1808-00449": {
+    "title": "Learning Blind Video Temporal Consistency",
+    "authors": [
+      "Wei-Sheng Lai",
+      "Jia-Bin Huang",
+      "Oliver Wang",
+      "Eli Shechtman",
+      "Ersin Yumer",
+      "Ming-Hsuan Yang"
+    ],
+    "publication_date": "2018-08-01",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "098b68fe34dba7fc4e206035ae2d149944bbca8f",
+    "corpus_id": 51892815,
+    "category": "Computer Science"
+  },
+  "1707-04993": {
+    "title": "MoCoGAN: Decomposing Motion and Content for Video Generation",
+    "authors": [
+      "S. Tulyakov",
+      "Ming-Yu Liu",
+      "Xiaodong Yang",
+      "Jan Kautz"
+    ],
+    "publication_date": "2017-07-17",
+    "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "e76edb86f270c3a77ed9f5a1e1b305461f36f96f",
+    "corpus_id": 4475365,
+    "category": "Computer Science"
+  },
+  "1704-00675": {
+    "title": "The 2017 DAVIS Challenge on Video Object Segmentation",
+    "authors": [
+      "J. Pont-Tuset",
+      "Federico Perazzi",
+      "Sergi Caelles",
+      "Pablo Arbeláez",
+      "A. Sorkine-Hornung",
+      "L. Gool"
+    ],
+    "publication_date": "2017-04-03",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "49e8fec24cce8b73706bc5fcd2c3f681addb9982",
+    "corpus_id": 3619941,
+    "category": "Computer Science"
+  }
+}

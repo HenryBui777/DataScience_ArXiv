@@ -1,0 +1,17 @@
+{
+  "title": "Diversification quotient based on expectiles",
+  "authors": [
+    "Xia Han",
+    "Liyuan Lin",
+    "Hao Wang",
+    "Ruodu Wang"
+  ],
+  "summary": "A diversification quotient (DQ) quantifies diversification in stochastic portfolio models based on a family of risk measures. We study DQ based on expectiles, offering a useful alternative to conventional risk measures such as Value-at-Risk (VaR) and Expected Shortfall (ES). The expectile-based DQ admits simple formulas and has a natural connection to the Omega ratio. Moreover, the expectile-based DQ is not affected by small-sample issues faced by VaR-based or ES-based DQ due to the scarcity of tail data. The expectile-based DQ exhibits pseudo-convexity in portfolio weights, allowing gradient descent algorithms for portfolio selection. We show that the corresponding optimization problem can be efficiently solved using linear programming techniques in real-data applications. Explicit formulas for DQ based on expectiles are also derived for elliptical and multivariate regularly varying distribution models. Our findings enhance the understanding of the DQ's role in financial risk management and highlight its potential to improve portfolio construction strategies.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-11-27"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-fin.PM"
+}

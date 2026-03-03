@@ -1,0 +1,22 @@
+{
+  "title": "Acquire Precise and Comparable Fundus Image Quality Score: FTHNet and FQS Dataset",
+  "authors": [
+    "Zheng Gong",
+    "Zhuo Deng",
+    "Run Gan",
+    "Zhiyuan Niu",
+    "Lu Chen",
+    "Canfeng Huang",
+    "Jia Liang",
+    "Weihao Gao",
+    "Fang Li",
+    "Shaochong Zhang",
+    "Lan Ma"
+  ],
+  "summary": "The retinal fundus images are utilized extensively in the diagnosis, and their quality can directly affect the diagnosis results. However, due to the insufficient dataset and algorithm application, current fundus image quality assessment (FIQA) methods are not powerful enough to meet ophthalmologists` demands. In this paper, we address the limitations of datasets and algorithms in FIQA. First, we establish a new FIQA dataset, Fundus Quality Score(FQS), which includes 2246 fundus images with two labels: a continuous Mean Opinion Score varying from 0 to 100 and a three-level quality label. Then, we propose a FIQA Transformer-based Hypernetwork (FTHNet) to solve these tasks with regression results rather than classification results in conventional FIQA works. The FTHNet is optimized for the FIQA tasks with extensive experiments. Results on our FQS dataset show that the FTHNet can give quality scores for fundus images with PLCC of 0.9423 and SRCC of 0.9488, significantly outperforming other methods with fewer parameters and less computation complexity.We successfully build a dataset and model addressing the problems of current FIQA methods. Furthermore, the model deployment experiments demonstrate its potential in automatic medical image quality control. All experiments are carried out with 10-fold cross-validation to ensure the significance of the results.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.CV"
+}

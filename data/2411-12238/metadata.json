@@ -1,0 +1,12 @@
+{
+  "title": "Performance of Large Language Models in Technical MRI Question Answering: A Comparative Study",
+  "authors": [
+    "Alan B McMillan"
+  ],
+  "summary": "Background: Advances in artificial intelligence, particularly large language models (LLMs), have the potential to enhance technical expertise in magnetic resonance imaging (MRI), regardless of operator skill or geographic location.\n  Methods: We assessed the accuracy of several LLMs in answering 570 technical MRI questions derived from a standardized review book. The questions spanned nine MRI topics, including Basic Principles, Image Production, and Safety. Closed-source models (e.g., OpenAI's o1 Preview, GPT-4o, GPT-4 Turbo, and Claude 3.5 Haiku) and open-source models (e.g., Phi 3.5 Mini, Llama 3.1, smolLM2) were tested. Models were queried using standardized prompts via the LangChain framework, and responses were graded against correct answers using an automated scoring protocol. Accuracy, defined as the proportion of correct answers, was the primary outcome.\n  Results: The closed-source o1 Preview model achieved the highest accuracy (94%), exceeding the random-guess baseline (26.5%). GPT-4o and o1 Mini scored 88%, and GPT-4 Turbo and Claude 3.5 Haiku each scored 84%. Among open-source models, Phi 3.5 Mini performed well, achieving 78% accuracy, comparable to several closed-source models. Accuracy was highest in Basic Principles and Instrumentation categories but lower in Image Weighting and Contrast, History, and Artifacts and Corrections.\n  Conclusions: LLMs exhibit high accuracy in addressing technical MRI questions, suggesting their potential to standardize and enhance MRI practice. These models may improve image quality and consistency across varied clinical environments. Further studies are needed to refine LLMs for clinical use and integrate them into MRI workflows.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.med-ph"
+}

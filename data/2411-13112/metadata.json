@@ -1,0 +1,24 @@
+{
+  "title": "SURDS: Benchmarking Spatial Understanding and Reasoning in Driving Scenarios with Vision Language Models",
+  "authors": [
+    "Xianda Guo",
+    "Ruijun Zhang",
+    "Yiqun Duan",
+    "Yuhang He",
+    "Dujun Nie",
+    "Wenke Huang",
+    "Chenming Zhang",
+    "Shuai Liu",
+    "Hao Zhao",
+    "Long Chen"
+  ],
+  "summary": "Accurate spatial reasoning in outdoor environments - covering geometry, object pose, and inter-object relationships - is fundamental to downstream tasks such as mapping, motion forecasting, and high-level planning in autonomous driving. We introduce SURDS, a large-scale benchmark designed to systematically evaluate the spatial reasoning capabilities of vision language models (VLMs). Built on the nuScenes dataset, SURDS comprises 41,080 vision-question-answer training instances and 9,250 evaluation samples, spanning six spatial categories: orientation, depth estimation, pixel-level localization, pairwise distance, lateral ordering, and front-behind relations. We benchmark leading general-purpose VLMs, including GPT, Gemini, and Qwen, revealing persistent limitations in fine-grained spatial understanding. To address these deficiencies, we go beyond static evaluation and explore whether alignment techniques can improve spatial reasoning performance. Specifically, we propose a reinforcement learning-based alignment scheme leveraging spatially grounded reward signals - capturing both perception-level accuracy (location) and reasoning consistency (logic). We further incorporate final-answer correctness and output-format rewards to guide fine-grained policy adaptation. Our GRPO-aligned variant achieves an overall score of 40.80 in the SURDS benchmark. Notably, it outperforms proprietary systems such as GPT-4o (13.30) and Gemini-2.0-flash (35.71). To our best knowledge, this is the first study to demonstrate that reinforcement learning-based alignment can significantly and consistently enhance the spatial reasoning capabilities of VLMs in real-world driving contexts. We release the SURDS benchmark, evaluation toolkit, and GRPO alignment code through: https://github.com/XiandaGuo/Drive-MLLM.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-26",
+    "2025-05-27"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

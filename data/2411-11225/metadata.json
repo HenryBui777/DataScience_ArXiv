@@ -1,0 +1,22 @@
+{
+  "title": "Online Item Cold-Start Recommendation with Popularity-Aware Meta-Learning",
+  "authors": [
+    "Yunze Luo",
+    "Yuezihan Jiang",
+    "Yinjie Jiang",
+    "Gaode Chen",
+    "Jingchi Wang",
+    "Kaigui Bian",
+    "Peiyi Li",
+    "Qi Zhang"
+  ],
+  "summary": "With the rise of e-commerce and short videos, online recommender systems that can capture users' interests and update new items in real-time play an increasingly important role. In both online and offline recommendation systems, the cold-start problem caused by interaction sparsity has been impacting the effectiveness of recommendations for cold-start items. Many cold-start scheme based on fine-tuning or knowledge transferring shows excellent performance on offline recommendation. Yet, these schemes are infeasible for online recommendation on streaming data pipelines due to different training method, computational overhead and time constraints. Inspired by the above questions, we propose a model-agnostic recommendation algorithm called Popularity-Aware Meta-learning (PAM), to address the item cold-start problem under streaming data settings. PAM divides the incoming data into different meta-learning tasks by predefined item popularity thresholds. The model can distinguish and reweight behavior-related and content-related features in each task based on their different roles in different popularity levels, thus adapting to recommendations for cold-start samples. These task-fixing design significantly reduces additional computation and storage costs compared to offline methods. Furthermore, PAM also introduced data augmentation and an additional self-supervised loss specifically designed for low-popularity tasks, leveraging insights from high-popularity samples. This approach effectively mitigates the issue of inadequate supervision due to the scarcity of cold-start samples. Experimental results across multiple public datasets demonstrate the superiority of our approach over other baseline methods in addressing cold-start challenges in online streaming data scenarios.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-25",
+    "2025-05-06"
+  ],
+  "publication_venue": "Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.1 (2025) 927 - 937",
+  "pdf_url": null,
+  "category": "cs.IR"
+}

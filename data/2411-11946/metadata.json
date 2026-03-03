@@ -1,0 +1,23 @@
+{
+  "title": "Cascade adaptive optics with a second stage based on a Zernike wavefront sensor for exoplanet observations",
+  "authors": [
+    "M. N'Diaye",
+    "A. Vigan",
+    "B. Engler",
+    "M. Kasper",
+    "K. Dohlen",
+    "S. Leveratto",
+    "J. Floriot",
+    "M. Marcos",
+    "C. Bailet",
+    "P. Bristow"
+  ],
+  "summary": "Over the past decade, the high-contrast observation of disks and gas giant planets around nearby stars has been made possible on ground-based instruments using extreme adaptive optics (XAO). While these facilities produce images with a Strehl ratio larger than 90% in H-band in median observing conditions and high-flux regime, the correction leaves AO residuals which impede the study of fainter or less massive exoplanets. Cascade AO systems with a fast second stage based on a Pyramid wavefront sensor have recently emerged as an appealing solution to reduce the atmospheric wavefront errors. Since these aberrations are expected to be small, they can also be accurately measured by a Zernike wavefront sensor (ZWFS), a well-known concept for its high sensitivity and moderate linear capture range. We propose an alternative second stage that relies on the ZWFS to correct for the AO residuals. We implemented the cascade AO with a ZWFS-based control loop on the ESO's GHOST testbed to validate the scheme in monochromatic light. In median wind speed and seeing, our second-stage AO with a ZWFS and a basic integrator reduce the atmospheric residuals by a factor of 6 and increase the wavefront error stability with a gain of 2 from open to closed loop. In the presence of non common path aberrations, we also reach a contrast gain by a factor of 2 in the images with a Lyot coronagraph at short separations from the source, proving the ability of our scheme to work in cascade with an XAO loop. In addition, it may prove useful for imaging fainter or lighter close-in companions. In more challenging conditions, contrast improvements are also achieved by adjusting the control loop features. Our study validates the ZWFS-based second-stage AO loop as an effective solution to address small residuals left from a single-stage XAO system for the coronagraphic observations of circumstellar environments.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-22"
+  ],
+  "publication_venue": "A&A 692, A157 (2024)",
+  "pdf_url": null,
+  "category": "astro-ph.IM, astro-ph.EP"
+}

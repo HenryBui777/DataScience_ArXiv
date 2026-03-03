@@ -1,0 +1,21 @@
+{
+  "title": "Attributed Graph Clustering in Collaborative Settings",
+  "authors": [
+    "Rui Zhang",
+    "Xiaoyang Hou",
+    "Zhihua Tian",
+    "Yan he",
+    "Enchao Gong",
+    "Jian Liu",
+    "Qingbiao Wu",
+    "Kui Ren"
+  ],
+  "summary": "Graph clustering is an unsupervised machine learning method that partitions the nodes in a graph into different groups. Despite achieving significant progress in exploiting both attributed and structured data information, graph clustering methods often face practical challenges related to data isolation. Moreover, the absence of collaborative methods for graph clustering limits their effectiveness.\n  In this paper, we propose a collaborative graph clustering framework for attributed graphs, supporting attributed graph clustering over vertically partitioned data with different participants holding distinct features of the same data. Our method leverages a novel technique that reduces the sample space, improving the efficiency of the attributed graph clustering method. Furthermore, we compare our method to its centralized counterpart under a proximity condition, demonstrating that the successful local results of each participant contribute to the overall success of the collaboration.\n  We fully implement our approach and evaluate its utility and efficiency by conducting experiments on four public datasets. The results demonstrate that our method achieves comparable accuracy levels to centralized attributed graph clustering methods. Our collaborative graph clustering framework provides an efficient and effective solution for graph clustering challenges related to data isolation.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-12-31"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.SI"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "MultiBalance: Multi-Objective Gradient Balancing in Industrial-Scale Multi-Task Recommendation System",
+  "authors": [
+    "Yun He",
+    "Xuxing Chen",
+    "Jiayi Xu",
+    "Renqin Cai",
+    "Yiling You",
+    "Jennifer Cao",
+    "Minhui Huang",
+    "Liu Yang",
+    "Yiqun Liu",
+    "Xiaoyi Liu",
+    "Rong Jin",
+    "Sem Park",
+    "Bo Long",
+    "Xue Feng"
+  ],
+  "summary": "In industrial recommendation systems, multi-task learning (learning multiple tasks simultaneously on a single model) is a predominant approach to save training/serving resources and improve recommendation performance via knowledge transfer between the joint learning tasks. However, multi-task learning often suffers from negative transfer: one or several tasks are less optimized than training them separately. To carefully balance the optimization, we propose a gradient balancing approach called MultiBalance, which is suitable for industrial-scale multi-task recommendation systems. It balances the per-task gradients to alleviate the negative transfer, while saving the huge cost for grid search or manual explorations for appropriate task weights. Moreover, compared with prior work that normally balance the per-task gradients of shared parameters, MultiBalance is more efficient since only requiring to access per-task gradients with respect to the shared feature representations. We conduct experiments on Meta's large-scale ads and feeds multi-task recommendation system, and observe that MultiBalance achieves significant gains (e.g., 0.738% improvement for normalized entropy (NE)) with neutral training cost in Queries Per Second (QPS), which is significantly more efficient than prior methods that balance per-task gradients of shared parameters with 70~80% QPS degradation.",
+  "submission_date": "2024-11-03",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IR, cs.LG, math.OC"
+}

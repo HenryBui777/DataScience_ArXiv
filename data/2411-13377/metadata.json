@@ -1,0 +1,14 @@
+{
+  "title": "Distributed weak independent sets in hypergraphs: Upper and lower bounds",
+  "authors": [
+    "Duncan Adamson",
+    "Will Rosenbaum",
+    "Paul G. Spirakis"
+  ],
+  "summary": "In this paper, we consider the problem of finding weak independent sets in a distributed network represented by a hypergraph. In this setting, each edge contains a set of r vertices rather than simply a pair, as in a standard graph. A k-weak independent set in a hypergraph is a set where no edge contains more than k vertices in the independent set. We focus two variations of this problem. First, we study the problem of finding k-weak maximal independent sets, k-weak independent sets where each vertex belongs to at least one edge with k vertices in the independent set. Second we introduce a weaker variant that we call (α, β)-independent sets where the independent set is β-weak, and each vertex belongs to at least one edge with at least αvertices in the independent set. Finally, we consider the problem of finding a (2, k)-ruling set on hypergraphs, i.e. independent sets where no vertex is a distance of more than k from the nearest member of the set.\n  Given a hypergraph H of rank r and maximum degree Δ, we provide a LLL formulation for finding an (α, β)-independent set when (β- α)^2 / (β+ α) \\geq 6 \\log(16 r Δ), an O(Δr / (β- α+ 1) + \\log^* n) round deterministic algorithm finding an (α, β)-independent set, and a O(Δ^2(r - k) \\log r + Δ\\log r \\log^* r + \\log^* n) round algorithm for finding a k-weak maximal independent set. Additionally, we provide zero round randomized algorithms for finding (α, β) independent sets, when (β- α)^2 / (β+ α) \\geq 6 c \\log n + 6 for some constant c, and finding an m-weak independent set for some m \\geq r / 2k where k is a given parameter. Finally, we provide lower bounds of Ω(Δ+ \\log^* n) and Ω(r + \\log^* n) on the problems of finding a k-weak maximal independent sets for some values of k.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DC"
+}

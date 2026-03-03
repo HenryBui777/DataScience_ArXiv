@@ -1,0 +1,14 @@
+{
+  "title": "MSSIDD: A Benchmark for Multi-Sensor Denoising",
+  "authors": [
+    "Shibin Mei",
+    "Hang Wang",
+    "Bingbing Ni"
+  ],
+  "summary": "The cameras equipped on mobile terminals employ different sensors in different photograph modes, and the transferability of raw domain denoising models between these sensors is significant but remains sufficient exploration. Industrial solutions either develop distinct training strategies and models for different sensors or ignore the differences between sensors and simply extend existing models to new sensors, which leads to tedious training or unsatisfactory performance. In this paper, we introduce a new benchmark, the Multi-Sensor SIDD (MSSIDD) dataset, which is the first raw-domain dataset designed to evaluate the sensor transferability of denoising models. The MSSIDD dataset consists of 60,000 raw images of six distinct sensors, derived through the degeneration of sRGB images via different camera sensor parameters. Furthermore, we propose a sensor consistency training framework that enables denoising models to learn the sensor-invariant features, thereby facilitating the generalization of the consistent model to unseen sensors. We evaluate previous arts on the newly proposed MSSIDD dataset, and the experimental results validate the effectiveness of our proposed method. Our dataset is available at https://www.kaggle.com/datasets/sjtuwh/mssidd.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, eess.IV"
+}

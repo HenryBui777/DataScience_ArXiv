@@ -1,0 +1,13 @@
+{
+  "title": "Classification of real hyperplane singularities by real log canonical thresholds",
+  "authors": [
+    "Dimitra Kosta",
+    "Daniel Windisch"
+  ],
+  "summary": "The log canonical threshold (lct) is a fundamental invariant in birational geometry, essential for understanding the complexity of singularities in algebraic varieties. Its real counterpart, the real log canonical threshold (rlct), also known as the learning coefficient, has become increasingly relevant in statistics and machine learning, where it plays a critical role in model selection and error estimation for singular statistical models. In this paper, we investigate the rlct and its multiplicity for real (not necessarily reduced) hyperplane arrangements. We derive explicit combinatorial formulas for these invariants, generalizing earlier results that were limited to specific examples. Moreover, we provide a general algebraic theory for real log canonical thresholds, and present a SageMath implementation for efficiently computing the rlct and its multiplicity in the case or real hyperplane arrangements. Applications to examples are given, illustrating how the formulas also can be used to analyze the asymptotic behavior of high-dimensional volume integrals.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AG, math.AC, math.ST"
+}

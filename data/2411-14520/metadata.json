@@ -1,0 +1,14 @@
+{
+  "title": "Open Challenges in the Formal Verification of Autonomous Driving",
+  "authors": [
+    "Paolo Burgio",
+    "Angelo Ferrando",
+    "Marco Villani"
+  ],
+  "summary": "In the realm of autonomous driving, the development and integration of highly complex and heterogeneous systems are standard practice. Modern vehicles are not monolithic systems; instead, they are composed of diverse hardware components, each running its own software systems. An autonomous vehicle comprises numerous independent components, often developed by different and potentially competing companies. This diversity poses significant challenges for the certification process, as it necessitates certifying components that may not disclose their internal behaviour (black-boxes). In this paper, we present a real-world case study of an autonomous driving system, identify key open challenges associated with its development and integration, and explore how formal verification techniques can address these challenges to ensure system reliability and safety.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "EPTCS 411, 2024, pp. 191-200",
+  "pdf_url": null,
+  "category": "cs.SE, cs.AI, cs.DC, cs.RO"
+}

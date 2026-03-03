@@ -1,0 +1,15 @@
+{
+  "title": "Mitigating Relative Over-Generalization in Multi-Agent Reinforcement Learning",
+  "authors": [
+    "Ting Zhu",
+    "Yue Jin",
+    "Jeremie Houssineau",
+    "Giovanni Montana"
+  ],
+  "summary": "In decentralized multi-agent reinforcement learning, agents learning in isolation can lead to relative over-generalization (RO), where optimal joint actions are undervalued in favor of suboptimal ones. This hinders effective coordination in cooperative tasks, as agents tend to choose actions that are individually rational but collectively suboptimal. To address this issue, we introduce MaxMax Q-Learning (MMQ), which employs an iterative process of sampling and evaluating potential next states, selecting those with maximal Q-values for learning. This approach refines approximations of ideal state transitions, aligning more closely with the optimal joint policy of collaborating agents. We provide theoretical analysis supporting MMQ's potential and present empirical evaluations across various environments susceptible to RO. Our results demonstrate that MMQ frequently outperforms existing baselines, exhibiting enhanced convergence and sample efficiency.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI, stat.ML"
+}

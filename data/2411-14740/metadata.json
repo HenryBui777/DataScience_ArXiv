@@ -1,0 +1,20 @@
+{
+  "title": "TEXGen: a Generative Diffusion Model for Mesh Textures",
+  "authors": [
+    "Xin Yu",
+    "Ze Yuan",
+    "Yuan-Chen Guo",
+    "Ying-Tian Liu",
+    "JianHui Liu",
+    "Yangguang Li",
+    "Yan-Pei Cao",
+    "Ding Liang",
+    "Xiaojuan Qi"
+  ],
+  "summary": "While high-quality texture maps are essential for realistic 3D asset rendering, few studies have explored learning directly in the texture space, especially on large-scale datasets. In this work, we depart from the conventional approach of relying on pre-trained 2D diffusion models for test-time optimization of 3D textures. Instead, we focus on the fundamental problem of learning in the UV texture space itself. For the first time, we train a large diffusion model capable of directly generating high-resolution texture maps in a feed-forward manner. To facilitate efficient learning in high-resolution UV spaces, we propose a scalable network architecture that interleaves convolutions on UV maps with attention layers on point clouds. Leveraging this architectural design, we train a 700 million parameter diffusion model that can generate UV texture maps guided by text prompts and single-view images. Once trained, our model naturally supports various extended applications, including text-guided texture inpainting, sparse-view texture completion, and text-driven texture synthesis. Project page is at http://cvmi-lab.github.io/TEXGen/.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "ACM Transactions on Graphics (TOG) 2024, Volume 43, Issue 6, Article No.: 213, Pages 1-14",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI, cs.GR"
+}

@@ -1,0 +1,357 @@
+{
+  "2409-03773": {
+    "title": "CoPRA: Bridging Cross-domain Pretrained Sequence Models with Complex Structures for Protein-RNA Binding Affinity Prediction",
+    "authors": [
+      "Rong Han",
+      "Xiaohong Liu",
+      "Tong Pan",
+      "Jing Xu",
+      "Xiao-Yong Wang",
+      "Wuyang Lan",
+      "Zhenyu Li",
+      "Zixuan Wang",
+      "Jiangning Song",
+      "Guangyu Wang",
+      "Ting Chen"
+    ],
+    "publication_date": "2024-08-21",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "e6f5cd6dbc4bae2491632b52c40442f64aefc504",
+    "corpus_id": 272463796,
+    "category": "Biology, Computer Science"
+  },
+  "2406-10391": {
+    "title": "BEACON: Benchmark for Comprehensive RNA Tasks and Language Models",
+    "authors": [
+      "Yuchen Ren",
+      "Zhiyuan Chen",
+      "Lifeng Qiao",
+      "Hongtai Jing",
+      "Yuchen Cai",
+      "Sheng Xu",
+      "Peng Ye",
+      "Xinzhu Ma",
+      "Siqi Sun",
+      "Hongliang Yan",
+      "Dong Yuan",
+      "Wanli Ouyang",
+      "Xihui Liu"
+    ],
+    "publication_date": "2024-06-14",
+    "venue": "bioRxiv",
+    "semantic_scholar_id": "b5687e40791d9d91a2566f9ab7c0889300654328",
+    "corpus_id": 270560441,
+    "category": "Biology, Computer Science"
+  },
+  "2406-07249": {
+    "title": "Are Protein Language Models Compute Optimal?",
+    "authors": [
+      "Yaiza Serrano",
+      "Álvaro Ciudad",
+      "Alexis Molina"
+    ],
+    "publication_date": "2024-06-11",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "3b91202d01eb928ac74fd8e15ea0f2503bcbe093",
+    "corpus_id": 270379481,
+    "category": "Computer Science, Biology"
+  },
+  "2406-02528": {
+    "title": "Scalable MatMul-free Language Modeling",
+    "authors": [
+      "Rui-Jie Zhu",
+      "Yu Zhang",
+      "Ethan Sifferman",
+      "Tyler Sheaves",
+      "Yiqiao Wang",
+      "Dustin Richmond",
+      "Peng Zhou",
+      "J. Eshraghian"
+    ],
+    "publication_date": "2024-06-04",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "401c4147375b016d4758cf2dd859232a8271fdcd",
+    "corpus_id": 270226550,
+    "category": "Computer Science"
+  },
+  "2403-00043": {
+    "title": "RiNALMo: general-purpose RNA language models can generalize well on structure prediction tasks",
+    "authors": [
+      "Rafael Josip Penic",
+      "Tin Vlašić",
+      "Roland G. Huber",
+      "Yue Wan",
+      "M. Šikić"
+    ],
+    "publication_date": "2024-02-29",
+    "venue": "Nature Communications",
+    "semantic_scholar_id": "b22934bb297d9db55259385bbb8cd8a0d29b4bd1",
+    "corpus_id": 268201711,
+    "category": "Biology, Computer Science, Medicine"
+  },
+  "2310-03281": {
+    "title": "A 5’ UTR Language Model for Decoding Untranslated Regions of mRNA and Function Predictions",
+    "authors": [
+      "Yanyi Chu",
+      "Dan Yu",
+      "Yupeng Li",
+      "Kaixuan Huang",
+      "Yue Shen",
+      "Le Cong",
+      "Jason Zhang",
+      "Mengdi Wang"
+    ],
+    "publication_date": "2023-10-05",
+    "venue": "bioRxiv",
+    "semantic_scholar_id": "6697fd951632a4df108f81d45a1308cdd97ba2e9",
+    "corpus_id": 263671756,
+    "category": "Computer Science, Biology, Medicine"
+  },
+  "2307-08691": {
+    "title": "FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning",
+    "authors": [
+      "Tri Dao"
+    ],
+    "publication_date": "2023-07-17",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "823ca4778e1027f2f0b356df051d762dcecaaba0",
+    "corpus_id": 259936734,
+    "category": "Computer Science"
+  },
+  "2302-05442": {
+    "title": "Scaling Vision Transformers to 22 Billion Parameters",
+    "authors": [
+      "Mostafa Dehghani",
+      "J. Djolonga",
+      "Basil Mustafa",
+      "Piotr Padlewski",
+      "J. Heek",
+      "J. Gilmer",
+      "A. Steiner",
+      "Mathilde Caron",
+      "Robert Geirhos",
+      "Ibrahim M. Alabdulmohsin",
+      "Rodolphe Jenatton",
+      "Lucas Beyer",
+      "Michael Tschannen",
+      "Anurag Arnab",
+      "Xiao Wang",
+      "C. Riquelme",
+      "M. Minderer",
+      "J. Puigcerver",
+      "Utku Evci",
+      "Manoj Kumar",
+      "Sjoerd van Steenkiste",
+      "Gamaleldin F. Elsayed",
+      "Aravindh Mahendran",
+      "F. Yu",
+      "Avital Oliver",
+      "Fantine Huot",
+      "Jasmijn Bastings",
+      "Mark Collier",
+      "A. Gritsenko",
+      "Vighnesh Birodkar",
+      "C. Vasconcelos",
+      "Yi Tay",
+      "Thomas Mensink",
+      "Alexander Kolesnikov",
+      "Filip Paveti'c",
+      "Dustin Tran",
+      "Thomas Kipf",
+      "Mario Luvci'c",
+      "Xiaohua Zhai",
+      "Daniel Keysers",
+      "Jeremiah Harmsen",
+      "N. Houlsby"
+    ],
+    "publication_date": "2023-02-10",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "61e721334296ebfbbf6443b5ed9eb8c83b708c95",
+    "corpus_id": 256808367,
+    "category": "Computer Science"
+  },
+  "2205-05131": {
+    "title": "UL2: Unifying Language Learning Paradigms",
+    "authors": [
+      "Yi Tay",
+      "Mostafa Dehghani",
+      "Vinh Q. Tran",
+      "Xavier García",
+      "Jason Wei",
+      "Xuezhi Wang",
+      "Hyung Won Chung",
+      "Dara Bahri",
+      "Tal Schuster",
+      "H. Zheng",
+      "Denny Zhou",
+      "N. Houlsby",
+      "Donald Metzler"
+    ],
+    "publication_date": "2022-05-10",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "b21670e8061a06ab97e7d6052c9345a326e84ff8",
+    "corpus_id": 252780443,
+    "category": "Computer Science"
+  },
+  "2204-00300": {
+    "title": "Interpretable RNA Foundation Model from Unannotated Data for Highly Accurate RNA Structure and Function Predictions",
+    "authors": [
+      "Jiayang Chen",
+      "Zhihang Hu",
+      "Siqi Sun",
+      "Qingxiong Tan",
+      "Yixuan Wang",
+      "Qinze Yu",
+      "Licheng Zong",
+      "Liang Hong",
+      "Jin Xiao",
+      "Irwin King",
+      "Yu Li"
+    ],
+    "publication_date": "2022-04-01",
+    "venue": "bioRxiv",
+    "semantic_scholar_id": "07264347e959913a6ea37953d9c0e30ed4efb3ba",
+    "corpus_id": 247922548,
+    "category": "Biology"
+  },
+  "2203-15556": {
+    "title": "Training Compute-Optimal Large Language Models",
+    "authors": [
+      "Jordan Hoffmann",
+      "Sebastian Borgeaud",
+      "A. Mensch",
+      "Elena Buchatskaya",
+      "Trevor Cai",
+      "Eliza Rutherford",
+      "Diego de Las Casas",
+      "Lisa Anne Hendricks",
+      "Johannes Welbl",
+      "Aidan Clark",
+      "Tom Hennigan",
+      "Eric Noland",
+      "Katie Millican",
+      "George van den Driessche",
+      "Bogdan Damoc",
+      "Aurelia Guy",
+      "Simon Osindero",
+      "K. Simonyan",
+      "Erich Elsen",
+      "Jack W. Rae",
+      "O. Vinyals",
+      "L. Sifre"
+    ],
+    "publication_date": "2022-03-29",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "8342b592fe238f3d230e4959b06fd10153c45db1",
+    "corpus_id": 247778764,
+    "category": "Computer Science"
+  },
+  "2106-12672": {
+    "title": "Charformer: Fast Character Transformers via Gradient-based Subword Tokenization",
+    "authors": [
+      "Yi Tay",
+      "Vinh Q. Tran",
+      "Sebastian Ruder",
+      "Jai Gupta",
+      "Hyung Won Chung",
+      "Dara Bahri",
+      "Zhen Qin",
+      "Simon Baumgartner",
+      "Cong Yu",
+      "Donald Metzler"
+    ],
+    "publication_date": "2021-06-23",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "e79d1206292bc5e67ba19737d87d4b2ea4a37105",
+    "corpus_id": 235624202,
+    "category": "Computer Science"
+  },
+  "2104-09864": {
+    "title": "RoFormer: Enhanced Transformer with Rotary Position Embedding",
+    "authors": [
+      "Jianlin Su",
+      "Yu Lu",
+      "Shengfeng Pan",
+      "Bo Wen",
+      "Yunfeng Liu"
+    ],
+    "publication_date": "2021-04-20",
+    "venue": "Neurocomputing",
+    "semantic_scholar_id": "66c10bf1f11bc1b2d92204d8f8391d087f6de1c4",
+    "corpus_id": 233307138,
+    "category": "Computer Science"
+  },
+  "2002-05202": {
+    "title": "GLU Variants Improve Transformer",
+    "authors": [
+      "Noam M. Shazeer"
+    ],
+    "publication_date": "2020-02-12",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "bdbf780dfd6b3eb0c9e980887feae5f23af15bc4",
+    "corpus_id": 211096588,
+    "category": "Computer Science, Mathematics"
+  },
+  "2001-08361": {
+    "title": "Scaling Laws for Neural Language Models",
+    "authors": [
+      "J. Kaplan",
+      "Sam McCandlish",
+      "T. Henighan",
+      "Tom B. Brown",
+      "Benjamin Chess",
+      "R. Child",
+      "Scott Gray",
+      "Alec Radford",
+      "Jeff Wu",
+      "Dario Amodei"
+    ],
+    "publication_date": "2020-01-23",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "e6c561d02500b2596a230b341a8eb8b921ca5bf2",
+    "corpus_id": 210861095,
+    "category": "Computer Science, Mathematics"
+  },
+  "1910-02054": {
+    "title": "ZeRO: Memory optimizations Toward Training Trillion Parameter Models",
+    "authors": [
+      "Samyam Rajbhandari",
+      "Jeff Rasley",
+      "Olatunji Ruwase",
+      "Yuxiong He"
+    ],
+    "publication_date": "2019-10-04",
+    "venue": "International Conference for High Performance Computing, Networking, Storage and Analysis",
+    "semantic_scholar_id": "00c957711b12468cb38424caccdf5291bb354033",
+    "corpus_id": 269617042,
+    "category": "Computer Science, Mathematics"
+  },
+  "1512-03385": {
+    "title": "Deep Residual Learning for Image Recognition",
+    "authors": [
+      "Kaiming He",
+      "X. Zhang",
+      "Shaoqing Ren",
+      "Jian Sun"
+    ],
+    "publication_date": "2015-12-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+    "corpus_id": 206594692,
+    "category": "Computer Science"
+  },
+  "1810-04805": {
+    "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+    "authors": [
+      "Jacob Devlin",
+      "Ming-Wei Chang",
+      "Kenton Lee",
+      "Kristina Toutanova"
+    ],
+    "publication_date": "",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "df2b0e26d0599ce3e70df8a9da02e51594e0e992",
+    "corpus_id": 52967399,
+    "category": "Computer Science"
+  }
+}

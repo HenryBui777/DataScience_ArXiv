@@ -1,0 +1,19 @@
+{
+  "title": "IREE Oriented Active RIS-Assisted Green communication System with Outdated CSI",
+  "authors": [
+    "Kai Cao",
+    "Tao Yu",
+    "Jihong Li",
+    "Xiaojing Chen",
+    "Yanzan Sun",
+    "Qingqing Wu",
+    "Wen Chen",
+    "Shunqing Zhang"
+  ],
+  "summary": "The rapid evolution of communication technologies has spurred a growing demand for energy-efficient network architectures and performance metrics. Active Reconfigurable Intelligent Surfaces (RIS) are emerging as a key component in green network architectures. Compared to passive RIS, active RIS are equipped with amplifiers on each reflecting element, allowing them to simultaneously reflect and amplify signals, thereby overcoming the double multiplicative fading in the phase response, and improving both system coverage and performance. Additionally, the Integrated Relative Energy Efficiency (IREE) metric, as introduced in [1], addresses the dynamic variations in traffic and capacity over time and space, enabling more energy-efficient wireless systems. Building on these advancements, this paper investigates the problem of maximizing IREE in active RIS-assisted green communication systems. However, acquiring perfect Channel State Information (CSI) in practical systems poses significant challenges and costs. To address this, we derive the average achievable rate based on outdated CSI and formulated the corresponding IREE maximization problem, which is solved by jointly optimizing beamforming at both the base station and RIS. Given the non-convex nature of the problem, we propose an Alternating Optimization Successive Approximation (AOSO) algorithm. By applying quadratic transform and relaxation techniques, we simplify the original problem and alternately optimize the beamforming matrices at the base station and RIS. Furthermore, to handle the discrete constraints of the RIS reflection coefficients, we develop a successive approximation method. Experimental results validate our theoretical analysis of the algorithm's convergence , demonstrating the effectiveness of the proposed algorithm and highlighting the superiority of IREE in enhancing the performance of green communication networks.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP"
+}

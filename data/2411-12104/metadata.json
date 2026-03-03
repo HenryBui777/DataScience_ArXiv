@@ -1,0 +1,14 @@
+{
+  "title": "Is Locational Marginal Price All You Need for Locational Marginal Emission?",
+  "authors": [
+    "Xuan He",
+    "Danny H. K. Tsang",
+    "Yize Chen"
+  ],
+  "summary": "Growing concerns over climate change call for improved techniques for estimating and quantifying the greenhouse gas emissions associated with electricity generation and transmission. Among the emission metrics designated for power grids, locational marginal emission (LME) can provide system operators and electricity market participants with valuable information on the emissions associated with electricity usage at various locations in the power network. In this paper, by investigating the operating patterns and physical interpretations of marginal emissions and costs in the security-constrained economic dispatch (SCED) problem, we identify and draw the exact connection between locational marginal price (LMP) and LME. Such interpretation helps instantly derive LME given nodal demand vectors or LMP, and also reveals the interplay between network congestion and nodal emission pattern. Our proposed approach helps reduce the computation time of LME by an order of magnitude compared to analytical approaches, while it can also serve as a plug-and-play module accompanied by an off-the-shelf market clearing and LMP calculation process.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY, eess.SP"
+}

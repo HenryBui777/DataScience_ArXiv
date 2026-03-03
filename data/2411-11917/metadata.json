@@ -1,0 +1,15 @@
+{
+  "title": "FCC: Fully Connected Correlation for Few-Shot Segmentation",
+  "authors": [
+    "Seonghyeon Moon",
+    "Haein Kong",
+    "Muhammad Haris Khan",
+    "Yuewei Lin"
+  ],
+  "summary": "Few-shot segmentation (FSS) aims to segment the target object in a query image using only a small set of support images and masks. Therefore, having strong prior information for the target object using the support set is essential for guiding the initial training of FSS, which leads to the success of few-shot segmentation in challenging cases, such as when the target object shows considerable variation in appearance, texture, or scale across the support and query images. Previous methods have tried to obtain prior information by creating correlation maps from pixel-level correlation on final-layer or same-layer features. However, we found these approaches can offer limited and partial information when advanced models like Vision Transformers are used as the backbone. Vision Transformer encoders have a multi-layer structure with identical shapes in their intermediate layers. Leveraging the feature comparison from all layers in the encoder can enhance the performance of few-shot segmentation. We introduce FCC (Fully Connected Correlation) to integrate pixel-level correlations between support and query features, capturing associations that reveal target-specific patterns and correspondences in both same-layers and cross-layers. FCC captures previously inaccessible target information, effectively addressing the limitations of support mask. Our approach consistently demonstrates state-of-the-art performance on PASCAL, COCO, and domain shift tests. We conducted an ablation study and cross-layer correlation analysis to validate FCC's core methodology. These findings reveal the effectiveness of FCC in enhancing prior information and overall model performance.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

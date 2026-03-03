@@ -1,0 +1,18 @@
+{
+  "title": "Exponentially Consistent Nonparametric Linkage-Based Clustering of Data Sequences",
+  "authors": [
+    "Bhupender Singh",
+    "Ananth Ram Rajagopalan",
+    "Srikrishna Bhashyam"
+  ],
+  "summary": "In this paper, we consider nonparametric clustering of $M$ independent and identically distributed (i.i.d.) data sequences generated from {\\em unknown} distributions. The distributions of the $M$ data sequences belong to $K$ underlying distribution clusters. Existing results on exponentially consistent nonparametric clustering algorithms, like single linkage-based (SLINK) clustering and $k$-medoids distribution clustering, assume that the maximum intra-cluster distance ($d_L$) is smaller than the minimum inter-cluster distance ($d_H$). First, in the fixed sample size (FSS) setting, we show that exponential consistency can be achieved for SLINK clustering under a less strict assumption, $d_I < d_H$, where $d_I$ is the maximum distance between any two sub-clusters of a cluster that partition the cluster. Note that $d_I < d_L$ in general. Thus, our results show that SLINK is exponentially consistent for a larger class of problems than previously known. In our simulations, we also identify examples where $k$-medoids clustering is unable to find the true clusters, but SLINK is exponentially consistent. Then, we propose a sequential clustering algorithm, named SLINK-SEQ, based on SLINK and prove that it is also exponentially consistent. Simulation results show that the SLINK-SEQ algorithm requires fewer expected number of samples than the FSS SLINK algorithm for the same probability of error.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-03-20",
+    "2025-04-24",
+    "2025-08-06"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ML, cs.IT, cs.LG, eess.SP"
+}

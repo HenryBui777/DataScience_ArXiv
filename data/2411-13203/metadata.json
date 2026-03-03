@@ -1,0 +1,19 @@
+{
+  "title": "A computational framework for integrating Predictive processes with evidence Accumulation Models (PAM)",
+  "authors": [
+    "Antonino Visalli",
+    "Francesco Maria Calistroni",
+    "Margherita Calderan",
+    "Francesco Donnarumma",
+    "Marco Zorzi",
+    "Ettore Ambrosini"
+  ],
+  "summary": "Evidence Accumulation Models (EAMs) have been widely used to investigate speeded decision-making processes, but they have largely neglected the role of predictive processes emphasized by theories of the predictive brain. In this paper, we present the Predictive evidence Accumulation Models (PAM), a novel computational framework that integrates predictive processes into EAMs. Grounded in the \"observing the observer\" framework, PAM combines models of Bayesian perceptual inference, such as the Hierarchical Gaussian Filter, with three established EAMs (the Diffusion Decision Model, Lognormal Race Model, and Race Diffusion Model) to model decision-making under uncertainty. We validate PAM through parameter recovery simulations, demonstrating its accuracy and computational efficiency across various decision-making scenarios. Additionally, we provide a step-by-step tutorial using real data to illustrate PAM's application and discuss its theoretical implications. PAM represents a significant advancement in the computational modeling of decision-making, bridging the gap between predictive brain theories and EAMs, and offers a promising tool for future empirical research.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-12-10"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.AP"
+}

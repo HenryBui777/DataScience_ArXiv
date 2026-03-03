@@ -1,0 +1,25 @@
+{
+  "title": "Multi-granularity Interest Retrieval and Refinement Network for Long-Term User Behavior Modeling in CTR Prediction",
+  "authors": [
+    "Xiang Xu",
+    "Hao Wang",
+    "Wei Guo",
+    "Luankang Zhang",
+    "Wanshan Yang",
+    "Runlong Yu",
+    "Yong Liu",
+    "Defu Lian",
+    "Enhong Chen"
+  ],
+  "summary": "Click-through Rate (CTR) prediction is crucial for online personalization platforms. Recent advancements have shown that modeling rich user behaviors can significantly improve the performance of CTR prediction. Current long-term user behavior modeling algorithms predominantly follow two cascading stages. The first stage retrieves subsequence related to the target item from the long-term behavior sequence, while the second stage models the relationship between the subsequence and the target item. Despite significant progress, these methods have two critical flaws. First, the retrieval query typically includes only target item information, limiting the ability to capture the user's diverse interests. Second, relational information, such as sequential and interactive information within the subsequence, is frequently overlooked. Therefore, it requires to be further mined to more accurately model user interests.\n  To this end, we propose Multi-granularity Interest Retrieval and Refinement Network (MIRRN). Specifically, we first construct queries based on behaviors observed at different time scales to obtain subsequences, each capturing users' interest at various granularities. We then introduce an noval multi-head Fourier transformer to efficiently learn sequential and interactive information within the subsequences, leading to more accurate modeling of user interests. Finally, we employ multi-head target attention to adaptively assess the impact of these multi-granularity interests on the target item. Extensive experiments have demonstrated that MIRRN significantly outperforms state-of-the-art baselines. Furthermore, an A/B test shows that MIRRN increases the average number of listening songs by 1.32% and the average time of listening songs by 0.55% on the Huawei Music App. The implementation code is publicly available at https://github.com/USTC-StarTeam/MIRRN.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-01-06",
+    "2025-01-10",
+    "2025-01-13",
+    "2025-02-17"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IR"
+}

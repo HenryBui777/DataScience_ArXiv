@@ -1,0 +1,14 @@
+{
+  "title": "Logarithmic Neyman Regret for Adaptive Estimation of the Average Treatment Effect",
+  "authors": [
+    "Ojash Neopane",
+    "Aaditya Ramdas",
+    "Aarti Singh"
+  ],
+  "summary": "Estimation of the Average Treatment Effect (ATE) is a core problem in causal inference with strong connections to Off-Policy Evaluation in Reinforcement Learning. This paper considers the problem of adaptively selecting the treatment allocation probability in order to improve estimation of the ATE. The majority of prior work on adaptive ATE estimation focus on asymptotic guarantees, and in turn overlooks important practical considerations such as the difficulty of learning the optimal treatment allocation as well as hyper-parameter selection. Existing non-asymptotic methods are limited by poor empirical performance and exponential scaling of the Neyman regret with respect to problem parameters. In order to address these gaps, we propose and analyze the Clipped Second Moment Tracking (ClipSMT) algorithm, a variant of an existing algorithm with strong asymptotic optimality guarantees, and provide finite sample bounds on its Neyman regret. Our analysis shows that ClipSMT achieves exponential improvements in Neyman regret on two fronts: improving the dependence on $T$ from $O(\\sqrt{T})$ to $O(\\log T)$, as well as reducing the exponential dependence on problem parameters to a polynomial dependence. Finally, we conclude with simulations which show the marked improvement of ClipSMT over existing approaches.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ML, cs.LG"
+}

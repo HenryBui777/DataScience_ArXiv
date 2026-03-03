@@ -1,0 +1,22 @@
+{
+  "title": "All Electrical Near-Zero Field Magnetoresistance Magnetometry up to 500 °C Using SiC Devices",
+  "authors": [
+    "F. Sgrignuoli",
+    "I. Viti",
+    "Z. G. Yu",
+    "E. Allridge",
+    "P. Lenahan",
+    "S. Goswami",
+    "R. Ghandi",
+    "M. Aghayan",
+    "D. M. Shaddock"
+  ],
+  "summary": "Silicon Carbide is renowned for its exceptional thermal stability, making it a crucial material for high-temperature power devices in extreme environments. While optically detected magnetic resonance in SiC has been widely studied for magnetometry, it requires complex setups involving optical and microwave sources. Similarly, electrically detected magnetic resonance in SiC, which relies on an electrical readout of spin resonance, has also been explored for magnetometry. However, both techniques require microwave excitation, which limits their scalability. In contrast, SiC's spin-dependent recombination currents enable a purely electrical approach to magnetometry through the near-zero field magnetoresistance effect, where the device resistance changes in response to small magnetic fields. Despite its potential, NZFMR remains underexplored for high-temperature applications. In this work, we demonstrate the use of NZFMR in SiC diodes for high-temperature relative magnetometry and achieve sensitive detection of weak magnetic fields at temperatures up to 500 °C. Our technology provides a simple and cost-effective alternative to other magnetometry architectures, eliminating the need for a microwave source or complex setup. The NZFMR signal is modulated by an external magnetic field, which alters the singlet-triplet pair ratio controlled by hyperfine interactions between nuclear and electron/hole spins, as well as dipole-dipole/exchange interactions between electron and hole spins, providing a novel mechanism for relative magnetometry sensing at elevated temperatures. A critical advantage of our approach is the sensor head's low power consumption, which is less than 0.5 W at 500 °C for magnetic fields below 5 Gauss.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-06-07"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.ins-det"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Optimal Distribution System Restoration via Tractable Modeling of Decision-Dependent Interruption Cost and Cold Load Pickup",
+  "authors": [
+    "Wei Wang",
+    "Minwu Chen",
+    "Hongbin Wang",
+    "Gaoqiang Peng",
+    "Hongzhou Chen"
+  ],
+  "summary": "Developing optimized restoration strategies for power distribution systems (PDSs) is critical to enhancing resilience. Prior knowledge of customer interruption cost (CIC) and load restoration behaviors, particularly cold load pickup (CLPU), is essential for effective decision-making. However, both CIC and CLPU are reciprocally influenced by the realized customer interruption duration (CID), making them decision-dependent and challenging to model, especially given the limited understanding of their underlying physical mechanisms. This paper proposes a novel and tractable modeling approach to capture the varying patterns of CIC and CLPU with CID - patterns derived from data that reflect observable surface - level correlations rather than underlying mechanisms - thereby enabling practical surrogate modeling of these decision-dependent factors. Specifically, quadratic functions are employed to model the increasing rate of CIC with respect to CID according to data fitting results. For CLPU, several defining characteristics are extracted and modeled in a piecewise linear form relative to CID, and the actual restored load accounting for CLPU is subsequently reconstructed. Building on these models, a PDS restoration optimization framework is developed, incorporating mobile energy storage systems (MESSs) and network reconfiguration strategies. Case studies validate the effectiveness of the proposed approach and highlight MESS's unique potential in accelerating CLPU-related restoration.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-02-25",
+    "2025-03-13"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

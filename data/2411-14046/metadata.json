@@ -1,0 +1,20 @@
+{
+  "title": "REFOL: Resource-Efficient Federated Online Learning for Traffic Flow Forecasting",
+  "authors": [
+    "Qingxiang Liu",
+    "Sheng Sun",
+    "Yuxuan Liang",
+    "Xiaolong Xu",
+    "Min Liu",
+    "Muhammad Bilal",
+    "Yuwei Wang",
+    "Xujing Li",
+    "Yu Zheng"
+  ],
+  "summary": "Multiple federated learning (FL) methods are proposed for traffic flow forecasting (TFF) to avoid heavy-transmission and privacy-leaking concerns resulting from the disclosure of raw data in centralized methods. However, these FL methods adopt offline learning which may yield subpar performance, when concept drift occurs, i.e., distributions of historical and future data vary. Online learning can detect concept drift during model training, thus more applicable to TFF. Nevertheless, the existing federated online learning method for TFF fails to efficiently solve the concept drift problem and causes tremendous computing and communication overhead. Therefore, we propose a novel method named Resource-Efficient Federated Online Learning (REFOL) for TFF, which guarantees prediction performance in a communication-lightweight and computation-efficient way. Specifically, we design a data-driven client participation mechanism to detect the occurrence of concept drift and determine clients' participation necessity. Subsequently, we propose an adaptive online optimization strategy, which guarantees prediction performance and meanwhile avoids meaningless model updates. Then, a graph convolution-based model aggregation mechanism is designed, aiming to assess participants' contribution based on spatial correlation without importing extra communication and computing consumption on clients. Finally, we conduct extensive experiments on real-world datasets to demonstrate the superiority of REFOL in terms of prediction improvement and resource economization.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

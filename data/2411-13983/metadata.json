@@ -1,0 +1,19 @@
+{
+  "title": "Learning Two-agent Motion Planning Strategies from Generalized Nash Equilibrium for Model Predictive Control",
+  "authors": [
+    "Hansung Kim",
+    "Edward L. Zhu",
+    "Chang Seok Lim",
+    "Francesco Borrelli"
+  ],
+  "summary": "We introduce an Implicit Game-Theoretic MPC (IGT-MPC), a decentralized algorithm for two-agent motion planning that uses a learned value function that predicts the game-theoretic interaction outcomes as the terminal cost-to-go function in a model predictive control (MPC) framework, guiding agents to implicitly account for interactions with other agents and maximize their reward. This approach applies to competitive and cooperative multi-agent motion planning problems which we formulate as constrained dynamic games. Given a constrained dynamic game, we randomly sample initial conditions and solve for the generalized Nash equilibrium (GNE) to generate a dataset of GNE solutions, computing the reward outcome of each game-theoretic interaction from the GNE. The data is used to train a simple neural network to predict the reward outcome, which we use as the terminal cost-to-go function in an MPC scheme. We showcase emerging competitive and coordinated behaviors using IGT-MPC in scenarios such as two-vehicle head-to-head racing and un-signalized intersection navigation. IGT-MPC offers a novel method integrating machine learning and game-theoretic reasoning into model-based decentralized multi-agent motion planning.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-23",
+    "2025-03-02",
+    "2025-06-05"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.MA, cs.RO, eess.SY"
+}

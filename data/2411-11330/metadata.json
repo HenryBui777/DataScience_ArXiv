@@ -1,0 +1,15 @@
+{
+  "title": "Entanglement Classification of Arbitrary Three-Qubit States via Artificial Neural Networks",
+  "authors": [
+    "Jorawar Singh",
+    "Vaishali Gulati",
+    "Kavita Dorai",
+    "Arvind"
+  ],
+  "summary": "We design and successfully implement artificial neural networks (ANNs) to detect and classify entanglement for three-qubit systems using limited state features. The overall design principle is a feed forward neural network (FFNN), with the output layer consisting of a single neuron for the detection of genuine multipartite entanglement (GME) and six neurons for the classification problem corresponding to six entanglement classes under stochastic local operations and classical communication (SLOCC). The models are trained and validated on a simulated dataset of randomly generated states. We achieve high accuracy, around 98%, for detecting GME as well as for SLOCC classification. Remarkably, we find that feeding only 7 diagonal elements of the density matrix into the ANN results in an accuracy greater than 94% for both the tasks, showcasing the strength of the method in reducing the required input data while maintaining efficient performance. Reducing the feature set makes it easier to apply ANN models for entanglement classification, particularly in resource-constrained environments, without sacrificing accuracy. The performance of the ANN models was further evaluated by introducing white noise into the data set, and the results indicate that the models are robust and are able to well tolerate noise.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

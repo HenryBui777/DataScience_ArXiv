@@ -1,0 +1,15 @@
+{
+  "title": "Quantum illumination advantage in quantum Doppler radar",
+  "authors": [
+    "Rongyu Wei",
+    "Francesco Albarelli",
+    "Jun Li",
+    "Vittorio Giovannetti"
+  ],
+  "summary": "A Doppler radar is a device that employs the Doppler effect to estimate the radial velocity of a moving target at a distance. Traditional radars are based on a classical description of the electromagnetic radiation, but in principle their performance can be improved employing entangled quantum probe states. For target detection, i.e. hypothesis testing, a quantum advantage exists even in the high-noise regime appropriate to describe microwave fields, a protocol known as quantum illumination. In this paper, we show a similar advantage also for a quantum Doppler radar operating in presence of thermal noise, whereas so far a quantum advantage was shown in the noiseless scenario or in lidars operating at optical frequencies with negligible thermal noise. Concretely, we quantify the radar performance in terms of the quantum Fisher information, which captures the ultimate precision allowed by quantum mechanics in the asymptotic regime. We compare a classical protocol based on coherent states with a quantum one that uses multimode states obtained from spontaneous parametric downconversion. To ensure a fair comparison we match the signal energy and pulse duration. We show that a 3dB advantage is possible in the regime of small number of signal photons and high thermal noise, even for low transmissivity.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

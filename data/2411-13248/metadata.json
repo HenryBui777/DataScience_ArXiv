@@ -1,0 +1,14 @@
+{
+  "title": "On lower bounds of the density of planar periodic sets without unit distances",
+  "authors": [
+    "Alexander Tolmachev"
+  ],
+  "summary": "Determining the maximal density $m_1(\\mathbb{R}^2)$ of planar sets without unit distances is a fundamental problem in combinatorial geometry. This paper investigates lower bounds for this quantity. We introduce a novel approach to estimating $m_1(\\mathbb{R}^2)$ by reformulating the problem as a Maximal Independent Set (MIS) problem on graphs constructed from flat torus, focusing on periodic sets with respect to two non-collinear vectors. Our experimental results, supported by theoretical justifications of proposed method, demonstrate that for a sufficiently wide range of parameters this approach does not improve the known lower bound $0.22936 \\le m_1(\\mathbb{R}^2)$. The best discrete sets found are approximations of Croft's construction. In addition, several open source software packages for MIS problem are compared on this task.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-04-11"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.MG, cs.LG, math.CO"
+}

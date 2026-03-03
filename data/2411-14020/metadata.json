@@ -1,0 +1,14 @@
+{
+  "title": "Pointwise convergence of solutions of the Schrödinger equation along general curves on Damek-Ricci spaces",
+  "authors": [
+    "Utsav Dewan"
+  ],
+  "summary": "One of the most celebrated problems in Euclidean Harmonic analysis is the Carleson's problem: determining the optimal regularity of the initial condition $f$ of the Schrödinger equation given by \\begin{equation*} \\begin{cases}\n  i\\frac{\\partial u}{\\partial t} =Δu\\:,\\: (x,t) \\in \\mathbb{R}^n \\times \\mathbb{R} \\newline\n  u(0,\\cdot)=f\\:, \\text{ on } \\mathbb{R}^n \\:,\n  \\end{cases} \\end{equation*} in terms of the index $β$ such that $f$ belongs to the inhomogeneous Sobolev space $H^β(\\mathbb{R}^n)$, so that the solution of the Schrödinger operator $u$ converges pointwise to $f$, \\begin{equation*} \\displaystyle\\lim_{t \\to 0+} u(x,t)=f(x), \\text{ almost everywhere}. \\end{equation*} Recently, the author considered the Carleson's problem for the Schrödinger equation with radial initial data on Damek-Ricci spaces and obtained the sharp bound up to the endpoint $β\\ge 1/4$.\n  Interpreting the above as convergence along vertical lines, in this article, we consider the problem of pointwise convergence via more general approach paths. By constructing a counter-example on the $3$-dimensional Real Hyperbolic space, we show that the solutions of the Schrödinger equation, unlike Harmonic functions or solutions of the Heat equation, do not admit any natural wide approach region. We then study their pointwise convergence properties on Damek-Ricci spaces along general curves that satisfy certain Hölder conditions and bilipschitz conditions in the distance from the identity and again obtain the sharp bound up to the endpoint $β\\ge 1/4$. Certain Euclidean analogues are also obtained.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-02-18"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.FA, math.AP"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Entropy-stable fluxes for high-order Discontinuous Galerkin simulations of high-enthalpy flows",
+  "authors": [
+    "Georgii Oblapenko",
+    "Arseniy Tarnovskiy",
+    "Moritz Ertl",
+    "Manuel Torrilhon"
+  ],
+  "summary": "In the present work, we extend the Discontinuous Galerkin Spectral Element Method (DGSEM) to high-enthalpy reacting gas flows with internal degrees of freedom. An entropy- and kinetic energy-preserving flux function is proposed which allows for use of arbitrary expressions for the internal energies of the constituent gas species. The developed method is applied to simulation of several model problems and compared to the DLR TAU solver.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.flu-dyn"
+}

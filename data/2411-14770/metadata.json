@@ -1,0 +1,20 @@
+{
+  "title": "Aim My Robot: Precision Local Navigation to Any Object",
+  "authors": [
+    "Xiangyun Meng",
+    "Xuning Yang",
+    "Sanghun Jung",
+    "Fabio Ramos",
+    "Srid Sadhan Jujjavarapu",
+    "Sanjoy Paul",
+    "Dieter Fox"
+  ],
+  "summary": "Existing navigation systems mostly consider \"success\" when the robot reaches within 1m radius to a goal. This precision is insufficient for emerging applications where the robot needs to be positioned precisely relative to an object for downstream tasks, such as docking, inspection, and manipulation. To this end, we design and implement Aim-My-Robot (AMR), a local navigation system that enables a robot to reach any object in its vicinity at the desired relative pose, with centimeter-level precision. AMR achieves high precision and robustness by leveraging multi-modal perception, precise action prediction, and is trained on large-scale photorealistic data generated in simulation. AMR shows strong sim2real transfer and can adapt to different robot kinematics and unseen objects with little to no fine-tuning.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-12-27"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

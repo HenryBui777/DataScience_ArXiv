@@ -1,0 +1,17 @@
+{
+  "title": "An iterative method to deblend AGN-Host contributions for Integral Field spectroscopic observations",
+  "authors": [
+    "Héctor Ibarra-Medel",
+    "Castalia Alenka Negrete",
+    "Ivan Lacerna",
+    "Héctor Manuel Hernández-Toledo",
+    "Edgar Cortes-Suárez",
+    "Sebastián Francisco Sánchez"
+  ],
+  "summary": "We present a new iterative deblending method to separate the host galaxy (HG) and their Active Galactic Nuclei (AGN) emission with the use of Integral Field spectroscopic (IFS) data. The method decomposes the resolved HG emission from the unresolved AGN emission by modelling the two-dimensional surface brightness (SB) profile of the point-spread function (PSF) and the two-dimensional SB HG continuum simultaneously per each monochromatic slide. Our method does not require any prior information about the observed SB profile or a detailed fitting of the PSF, making it ideal for the automatic analysis of large galaxy samples. In this work, we test the quality of our method, its advantages, and its disadvantages. We test our method by using a set of IFS mock data cubes to quantify the reliability of our deblending process and further compare our method with the {\\sc QDeblend3D} analysis tool. Furthermore, we applied our method to three data cubes selected from the MaNGA survey according to the dominance of either its HG or its AGN. We show that our deblending method is capable of disengaging the bright, nonresolved AGN emission from the HG continuum and its narrow emission lines. However, the decoupling depends on how well the IFS spatially resolves the PSF, and on the relative flux intensity of the HG-AGN. Therefore, the method is ideal for disentangling the bright-flux contribution from AGN-dominated spectra.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.GA, astro-ph.IM"
+}

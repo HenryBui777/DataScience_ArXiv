@@ -1,0 +1,12 @@
+{
+  "title": "Underlying Core Inflation with Multiple Regimes",
+  "authors": [
+    "Gabriel Rodriguez-Rondon"
+  ],
+  "summary": "This paper introduces a new approach for estimating core inflation indicators based on common factors across a broad range of price indices. Specifically, by utilizing procedures for detecting multiple regimes in high-dimensional factor models, we propose two types of core inflation indicators: one incorporating multiple structural breaks and another based on Markov switching. The structural breaks approach can eliminate revisions for past regimes, though it functions as an offline indicator, as real-time detection of breaks is not feasible with this method. On the other hand, the Markov switching approach can reduce revisions while being useful in real time, making it a simple and robust core inflation indicator suitable for real-time monitoring and as a short-term guide for monetary policy. Additionally, this approach allows us to estimate the probability of being in different inflationary regimes. To demonstrate the effectiveness of these indicators, we apply them to Canadian price data. To compare the real-time performance of the Markov switching approach to the benchmark model without regime-switching, we assess their abilities to forecast headline inflation and minimize revisions. We find that the Markov switching model delivers superior predictive accuracy and significantly reduces revisions during periods of substantial inflation changes. Hence, our findings suggest that accounting for time-varying factors and parameters enhances inflation signal accuracy and reduces data requirements, especially following sudden economic shifts.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "econ.GN, stat.AP, stat.ME"
+}

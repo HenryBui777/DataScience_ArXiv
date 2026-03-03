@@ -1,0 +1,14 @@
+{
+  "title": "Transforming Engineering Diagrams: A Novel Approach for P&ID Digitization using Transformers",
+  "authors": [
+    "Jan Marius Stürmer",
+    "Marius Graumann",
+    "Tobias Koch"
+  ],
+  "summary": "The digitization of complex technical systems, such as Piping and Instrumentation Diagrams (P&IDs), is crucial for efficient maintenance and operation of complex systems in hydraulic and process engineering. Previous approaches often rely on separate modules that analyze diagram elements individually, neglecting the diagram's overall structure. We address this limitation by proposing a novel approach that utilizes the Relationformer, a state-of-the-art deep learning architecture, to extract graphs from P&IDs. Our method leverages the ability of the Relationformer to simultaneously detect objects and their relationships in images, making it suitable for the task of graph extraction from engineering diagrams. We apply our proposed approach to both real-world and synthetically created P&ID datasets, and evaluate its effectiveness by comparing it with a modular digitization approach based on recent literature. We present PID2Graph, the first publicly accessible P&ID dataset featuring comprehensive labels for the graph structure, including symbols, nodes and their connections that is used for evaluation. To understand the effect of patching and stitching of both of the approaches, we compare values before and after merging the patches. For the real-world data, the Relationformer achieves convincing results, outperforming the modular digitization approach for edge detection by more than 25%. Our work provides a comprehensive framework for assessing the performance of P&ID digitization methods and opens up new avenues for research in this area using transformer architectures. The P&ID dataset used for evaluation will be published and publicly available upon acceptance of the paper.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Aggregating Funnels for Faster Fetch&Add and Queues",
+  "authors": [
+    "Younghun Roh",
+    "Yuanhao Wei",
+    "Eric Ruppert",
+    "Panagiota Fatourou",
+    "Siddhartha Jayanti",
+    "Julian Shun"
+  ],
+  "summary": "Many concurrent algorithms require processes to perform fetch-and-add operations on a single memory location, which can be a hot spot of contention. We present a novel algorithm called Aggregating Funnels that reduces this contention by spreading the fetch-and-add operations across multiple memory locations. It aggregates fetch-and-add operations into batches so that the batch can be performed by a single hardware fetch-and-add instruction on one location and all operations in the batch can efficiently compute their results by performing a fetch-and-add instruction on a different location. We show experimentally that this approach achieves higher throughput than previous combining techniques, such as Combining Funnels, and is substantially more scalable than applying hardware fetch-and-add instructions on a single memory location. We show that replacing the fetch-and-add instructions in the fastest state-of-the-art concurrent queue by our Aggregating Funnels eliminates a bottleneck and greatly improves the queue's overall throughput.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-03-01"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DC"
+}

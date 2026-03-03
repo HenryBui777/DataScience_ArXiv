@@ -1,0 +1,16 @@
+{
+  "title": "Sharp Bounds for Multiple Models in Matrix Completion",
+  "authors": [
+    "Dali Liu",
+    "Haolei Weng"
+  ],
+  "summary": "In this paper, we demonstrate how a class of advanced matrix concentration inequalities, introduced in \\cite{brailovskaya2024universality}, can be used to eliminate the dimensional factor in the convergence rate of matrix completion. This dimensional factor represents a significant gap between the upper bound and the minimax lower bound, especially in high dimension. Through a more precise spectral norm analysis, we remove the dimensional factors for three popular matrix completion estimators, thereby establishing their minimax rate optimality.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-21",
+    "2025-04-24"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.ST"
+}

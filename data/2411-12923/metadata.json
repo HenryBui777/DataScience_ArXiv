@@ -1,0 +1,14 @@
+{
+  "title": "Towards Automated Verification of Logarithmic Arithmetic",
+  "authors": [
+    "Mark G. Arnold",
+    "Thomas A. Bailey",
+    "John R. Cowles"
+  ],
+  "summary": "Correctness proofs for floating point programs are difficult to verify. To simplify the task, a similar, but less complex system, known as logarithmic arithmetic can be used. The Boyer-Moore Theorem Prover, NQTHM, mechanically verified the correctness of a simple implementation of logarithmic arithmetic. It also verified some useful theorems about accumulated relative error bounds for addition, multiplication and division in this logarithmic number system. These theorems were used to verify a program that approximates e^x using a truncated Taylor series. Axioms that characterize the finite precision of the logarithmic system using a rational base, b, were shown by the prover to be satisfiable for any choice of 1 < b < 2. The prover verified the correctness of a function for converting an arbitrary rational value to a logarithmic representation. It also verified that multiplication and division implementations produce exact results for exact inputs, and that addition implementation produces a result as accurate as possible for exact inputs. When these operations are used in combination by a program, such as evaluating a polynomial, the relative error increases in a way that can be bounded by simple expressions, referred to here as tolerances. Several mechanically verified theorems about tolerances allow us to construct mechanically verified proofs about logarithmic arithmetic programs. Although similar to interval arithmetic, tolerances are especially suited to logarithmic arithmetic.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LO, cs.AR"
+}

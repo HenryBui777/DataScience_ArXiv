@@ -1,0 +1,15 @@
+{
+  "title": "On the Accuracy and Precision of Moving Averages to Estimate Wi-Fi Link Quality",
+  "authors": [
+    "Gianluca Cena",
+    "Gabriele Formis",
+    "Matteo Rosani",
+    "Stefano Scanzio"
+  ],
+  "summary": "The radio spectrum is characterized by a noticeable variability, which impairs performance and determinism of every wireless communication technology. To counteract this aspect, mechanisms like Minstrel are customarily employed in real Wi-Fi devices, and the adoption of machine learning for optimization is envisaged in next-generation Wi-Fi 8. All these approaches require communication quality to be monitored at runtime.\n  In this paper, the effectiveness of simple techniques based on moving averages to estimate wireless link quality is analyzed, to assess their advantages and weaknesses. Results can be used, e.g., as a baseline when studying how artificial intelligence can be employed to mitigate unpredictability of wireless networks by providing reliable estimates about current spectrum conditions.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "29th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA 2024)",
+  "pdf_url": null,
+  "category": "cs.NI, cs.LG"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "First-order definitions of rings of integral functions over algebraic extensions of function fields and undecidability",
+  "authors": [
+    "Alexandra Shlapentokh",
+    "Caleb Springer"
+  ],
+  "summary": "In this paper, we study questions of definability and decidability for infinite algebraic extensions ${\\bf K}$ of $\\mathbb{F}_p(t)$ and their subrings of $\\mathcal{S}$-integral functions. We focus on fields ${\\bf K}$ satisfying a local property which we call $q$-boundedness. This can be considered a function field analogue of prior work of the first author which considered algebraic extensions of $\\mathbb{Q}$. One simple consequence of our work states that if ${\\bf K}$ is a $q$-bounded Galois extension of $\\mathbb{F}_p(t)$, then for infinitely many non-constant $u$ the integral closure $\\mathcal{O}_{\\bf K}$ of $\\mathbb{F}_p[u]$ inside ${\\bf K}$ is first-order definable in ${\\bf K}$. Under the additional assumption that the constant subfield of ${\\bf K}$ is infinite, it follows that both $\\mathcal{O}_{\\bf K}$ and ${\\bf K}$ have undecidable first-order theories, and that $\\mathbb{F}_p[w]$ is definable in ${\\bf K}$ for every non-constant $w$ in ${\\bf K}$. Our primary tools are norm equations and the Hasse Norm Principle, in the spirit of Rumely. Our paper has an intersection with a recent arXiv preprint by Martínez-Ranero, Salcedo, and Utreras, although our definability results are more extensive and undecidability results are much stronger.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-01-15"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NT, math.LO"
+}

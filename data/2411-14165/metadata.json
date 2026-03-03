@@ -1,0 +1,15 @@
+{
+  "title": "Formalizing Stateful Behavior Trees",
+  "authors": [
+    "Serena S. Serbinowska",
+    "Preston Robinette",
+    "Gabor Karsai",
+    "Taylor T. Johnson"
+  ],
+  "summary": "Behavior Trees (BTs) are high-level controllers that are useful in a variety of planning tasks and are gaining traction in robotic mission planning. As they gain popularity in safety-critical domains, it is important to formalize their syntax and semantics, as well as verify properties for them. In this paper, we formalize a class of BTs we call Stateful Behavior Trees (SBTs) that have auxiliary variables and operate in an environment that can change over time. SBTs have access to persistent shared memory (often known as a blackboard) that keeps track of these auxiliary variables. We demonstrate that SBTs are equivalent in computational power to Turing Machines when the blackboard can store mathematical (i.e., unbounded) integers. We further identify syntactic assumptions where SBTs have computational power equivalent to finite state automata, specifically where the auxiliary variables are of finitary types. We present a domain specific language (DSL) for writing SBTs and adapt the tool BehaVerify for use with this DSL. This new DSL in BehaVerify supports interfacing with popular BT libraries in Python, and also provides generation of Haskell code and nuXmv models, the latter of which is used for model checking temporal logic specifications for the SBTs. We include examples and scalability results where BehaVerify outperforms another verification tool by a factor of 100.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "EPTCS 411, 2024, pp. 201-218",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

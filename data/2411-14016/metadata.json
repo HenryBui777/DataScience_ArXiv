@@ -1,0 +1,15 @@
+{
+  "title": "Robust Mutual Fund Selection with False Discovery Rate Control",
+  "authors": [
+    "Hongfei Wang",
+    "Long Feng",
+    "Ping Zhao",
+    "Zhaojun Wang"
+  ],
+  "summary": "In this article, we address the challenge of identifying skilled mutual funds among a large pool of candidates, utilizing the linear factor pricing model. Assuming observable factors with a weak correlation structure for the idiosyncratic error, we propose a spatial-sign based multiple testing procedure (SS-BH). When latent factors are present, we first extract them using the elliptical principle component method (He et al. 2022) and then propose a factor-adjusted spatial-sign based multiple testing procedure (FSS-BH). Simulation studies demonstrate that our proposed FSS-BH procedure performs exceptionally well across various applications and exhibits robustness to variations in the covariance structure and the distribution of the error term. Additionally, real data application further highlights the superiority of the FSS-BH procedure.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME"
+}

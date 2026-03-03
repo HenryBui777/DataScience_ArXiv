@@ -1,0 +1,14 @@
+{
+  "title": "Whack-a-Chip: The Futility of Hardware-Centric Export Controls",
+  "authors": [
+    "Ritwik Gupta",
+    "Leah Walker",
+    "Andrew W. Reddie"
+  ],
+  "summary": "U.S. export controls on semiconductors are widely known to be permeable, with the People's Republic of China (PRC) steadily creating state-of-the-art artificial intelligence (AI) models with exfiltrated chips. This paper presents the first concrete, public evidence of how leading PRC AI labs evade and circumvent U.S. export controls. We examine how Chinese companies, notably Tencent, are not only using chips that are restricted under U.S. export controls but are also finding ways to circumvent these regulations by using software and modeling techniques that maximize less capable hardware. Specifically, we argue that Tencent's ability to power its Hunyuan-Large model with non-export controlled NVIDIA H20s exemplifies broader gains in efficiency in machine learning that have eroded the moat that the United States initially built via its existing export controls. Finally, we examine the implications of this finding for the future of the United States' export control strategy.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CY, cs.AI"
+}

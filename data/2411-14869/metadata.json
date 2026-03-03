@@ -1,0 +1,18 @@
+{
+  "title": "BIP3D: Bridging 2D Images and 3D Perception for Embodied Intelligence",
+  "authors": [
+    "Xuewu Lin",
+    "Tianwei Lin",
+    "Lichao Huang",
+    "Hongyu Xie",
+    "Zhizhong Su"
+  ],
+  "summary": "In embodied intelligence systems, a key component is 3D perception algorithm, which enables agents to understand their surrounding environments. Previous algorithms primarily rely on point cloud, which, despite offering precise geometric information, still constrain perception performance due to inherent sparsity, noise, and data scarcity. In this work, we introduce a novel image-centric 3D perception model, BIP3D, which leverages expressive image features with explicit 3D position encoding to overcome the limitations of point-centric methods. Specifically, we leverage pre-trained 2D vision foundation models to enhance semantic understanding, and introduce a spatial enhancer module to improve spatial understanding. Together, these modules enable BIP3D to achieve multi-view, multi-modal feature fusion and end-to-end 3D perception. In our experiments, BIP3D outperforms current state-of-the-art results on the EmbodiedScan benchmark, achieving improvements of 5.69% in the 3D detection task and 15.25% in the 3D visual grounding task.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-11-27"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI, cs.LG"
+}

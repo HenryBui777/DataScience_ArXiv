@@ -1,0 +1,33 @@
+{
+  "title": "Towards Next-Generation Medical Agent: How o1 is Reshaping Decision-Making in Medical Scenarios",
+  "authors": [
+    "Shaochen Xu",
+    "Yifan Zhou",
+    "Zhengliang Liu",
+    "Zihao Wu",
+    "Tianyang Zhong",
+    "Huaqin Zhao",
+    "Yiwei Li",
+    "Hanqi Jiang",
+    "Yi Pan",
+    "Junhao Chen",
+    "Jin Lu",
+    "Wei Zhang",
+    "Tuo Zhang",
+    "Lu Zhang",
+    "Dajiang Zhu",
+    "Xiang Li",
+    "Wei Liu",
+    "Quanzheng Li",
+    "Andrea Sikora",
+    "Xiaoming Zhai",
+    "Zhen Xiang",
+    "Tianming Liu"
+  ],
+  "summary": "Artificial Intelligence (AI) has become essential in modern healthcare, with large language models (LLMs) offering promising advances in clinical decision-making. Traditional model-based approaches, including those leveraging in-context demonstrations and those with specialized medical fine-tuning, have demonstrated strong performance in medical language processing but struggle with real-time adaptability, multi-step reasoning, and handling complex medical tasks. Agent-based AI systems address these limitations by incorporating reasoning traces, tool selection based on context, knowledge retrieval, and both short- and long-term memory. These additional features enable the medical AI agent to handle complex medical scenarios where decision-making should be built on real-time interaction with the environment. Therefore, unlike conventional model-based approaches that treat medical queries as isolated questions, medical AI agents approach them as complex tasks and behave more like human doctors. In this paper, we study the choice of the backbone LLM for medical AI agents, which is the foundation for the agent's overall reasoning and action generation. In particular, we consider the emergent o1 model and examine its impact on agents' reasoning, tool-use adaptability, and real-time information retrieval across diverse clinical scenarios, including high-stakes settings such as intensive care units (ICUs). Our findings demonstrate o1's ability to enhance diagnostic accuracy and consistency, paving the way for smarter, more responsive AI tools that support better patient outcomes and decision-making efficacy in clinical practice.",
+  "submission_date": "2024-11-16",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.AI, cs.CY"
+}

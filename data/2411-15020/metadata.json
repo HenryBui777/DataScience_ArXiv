@@ -1,0 +1,13 @@
+{
+  "title": "ZT-SDN: An ML-powered Zero-Trust Architecture for Software-Defined Networks",
+  "authors": [
+    "Charalampos Katsis",
+    "Elisa Bertino"
+  ],
+  "summary": "Zero Trust (ZT) is a security paradigm aiming to curtail an attacker's lateral movements within a network by implementing least-privilege and per-request access control policies. However, its widespread adoption is hindered by the difficulty of generating proper rules due to the lack of detailed knowledge of communication requirements and the characteristic behaviors of communicating entities under benign conditions. Consequently, manual rule generation becomes cumbersome and error-prone. To address these problems, we propose ZT-SDN, an automated framework for learning and enforcing network access control in Software-Defined Networks. ZT-SDN collects data from the underlying network and models the network \"transactions\" performed by communicating entities as graphs. The nodes represent entities, while the directed edges represent transactions identified by different protocol stacks observed. It uses novel unsupervised learning approaches to extract transaction patterns directly from the network data, such as the allowed protocol stacks and port numbers and data transmission behavior. Finally, ZT-SDN uses an innovative approach to generate correct access control rules and infer strong associations between them, allowing proactive rule deployment in forwarding devices. We show the framework's efficacy in detecting abnormal network accesses and abuses of permitted flows in changing network conditions with real network datasets. Additionally, we showcase ZT-SDN's scalability and the network's performance when applied in an SDN environment.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR"
+}

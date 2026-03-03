@@ -1,0 +1,13 @@
+{
+  "title": "Model-free learning of probability flows: Elucidating the nonequilibrium dynamics of flocking",
+  "authors": [
+    "Nicholas M. Boffi",
+    "Eric Vanden-Eijnden"
+  ],
+  "summary": "Active systems comprise a class of nonequilibrium dynamics in which individual components autonomously dissipate energy. Efforts towards understanding the role played by activity have centered on computation of the entropy production rate (EPR), which quantifies the breakdown of time reversal symmetry. A fundamental difficulty in this program is that high dimensionality of the phase space renders traditional computational techniques infeasible for estimating the EPR. Here, we overcome this challenge with a novel deep learning approach that estimates probability currents directly from stochastic system trajectories. We derive a new physical connection between the probability current and two local definitions of the EPR for inertial systems, which we apply to characterize the departure from equilibrium in a canonical model of flocking. Our results highlight that entropy is produced and consumed on the spatial interface of a flock as the interplay between alignment and fluctuation dynamically creates and annihilates order. By enabling the direct visualization of when and where a given system is out of equilibrium, we anticipate that our methodology will advance the understanding of a broad class of complex nonequilibrium dynamics.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cond-mat.stat-mech, cs.LG, math.PR"
+}

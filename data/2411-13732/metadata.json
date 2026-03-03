@@ -1,0 +1,14 @@
+{
+  "title": "Typing Composite Subjects",
+  "authors": [
+    "Luca Aceto",
+    "Daniele Gorla",
+    "Stian Lybech"
+  ],
+  "summary": "Many type systems have been presented in the literature for variants of the pi-calculus, but none of them are able to handle composite subjects such as those found in the language epi, which features polyadic synchronisation. The purpose of this paper is to address the question of how to type composite subjects in a general fashion. We assess the validity of our proposal by first proving the standard correctness results for a type system (i.e., subject reduction and type safety). Then, we follow the path opened by Sangiorgi in 1998 and show an encoding in epi of a minimal OO language called WC (While with \\Classes) whose ``expectable'' type system exactly corresponds to the one induced by ours via the encoding. This comparison contributes to understanding the relationship between our types and conventional types for OO languages.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.PL"
+}

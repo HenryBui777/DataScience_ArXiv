@@ -1,0 +1,719 @@
+{
+  "2405-08707": {
+    "title": "Beyond Scaling Laws: Understanding Transformer Performance with Associative Memory",
+    "authors": [
+      "Xueyan Niu",
+      "Bo Bai",
+      "Lei Deng",
+      "Wei Han"
+    ],
+    "publication_date": "2024-05-14",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "6d0ca1437b6bbfd51325c8ebcf29f2b31ccd84cb",
+    "corpus_id": 269761957,
+    "category": "Computer Science"
+  },
+  "2311-01906": {
+    "title": "Simplifying Transformer Blocks",
+    "authors": [
+      "Bobby He",
+      "Thomas Hofmann"
+    ],
+    "publication_date": "2023-11-03",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "f44444f558ddae120aa116729dcb48dc5e1055a9",
+    "corpus_id": 265019228,
+    "category": "Computer Science"
+  },
+  "2309-17425": {
+    "title": "Data Filtering Networks",
+    "authors": [
+      "Alex Fang",
+      "Albin Madappally Jose",
+      "Amit Jain",
+      "Ludwig Schmidt",
+      "Alexander Toshev",
+      "Vaishaal Shankar"
+    ],
+    "publication_date": "2023-09-29",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "f349e5e8f0d18c948c1ffd92d3791db2b0ba2e55",
+    "corpus_id": 263310452,
+    "category": "Computer Science"
+  },
+  "2309-12314": {
+    "title": "TinyCLIP: CLIP Distillation via Affinity Mimicking and Weight Inheritance",
+    "authors": [
+      "Kan Wu",
+      "Houwen Peng",
+      "Zhenghong Zhou",
+      "Bin Xiao",
+      "Mengchen Liu",
+      "Lu Yuan",
+      "Hong Xuan",
+      "Michael Valenzuela",
+      "Xi Chen",
+      "Xinggang Wang",
+      "Hongyang Chao",
+      "Han Hu"
+    ],
+    "publication_date": "2023-09-21",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "4bfedad39c1cdd7cf2cc2beaa09d4fe8c5166f18",
+    "corpus_id": 262083905,
+    "category": "Computer Science"
+  },
+  "2308-08428": {
+    "title": "ALIP: Adaptive Language-Image Pre-training with Synthetic Caption",
+    "authors": [
+      "Kaicheng Yang",
+      "Jiankang Deng",
+      "Xiang An",
+      "Jiawei Li",
+      "Ziyong Feng",
+      "Jia Guo",
+      "Jing Yang",
+      "Tongliang Liu"
+    ],
+    "publication_date": "2023-08-16",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "d948b1e697aeca03684482003c271536c86c443f",
+    "corpus_id": 260926403,
+    "category": "Computer Science"
+  },
+  "2307-12732": {
+    "title": "CLIP-KD: An Empirical Study of CLIP Model Distillation",
+    "authors": [
+      "Chuanguang Yang",
+      "Zhulin An",
+      "Libo Huang",
+      "Junyu Bi",
+      "Xinqiang Yu",
+      "Hansheng Yang",
+      "Boyu Diao",
+      "Yongjun Xu"
+    ],
+    "publication_date": "2023-07-24",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "cebb04d531606229d9ed598fd85c201996fe6e67",
+    "corpus_id": 260125303,
+    "category": "Computer Science"
+  },
+  "2306-17759": {
+    "title": "The Shaped Transformer: Attention Models in the Infinite Depth-and-Width Limit",
+    "authors": [
+      "Lorenzo Noci",
+      "Chuning Li",
+      "Mufan Bill Li",
+      "Bobby He",
+      "T. Hofmann",
+      "Chris J. Maddison",
+      "Daniel M. Roy"
+    ],
+    "publication_date": "2023-06-30",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "c1738f21ea2460e1015d590906a4f43e155f60c8",
+    "corpus_id": 259309089,
+    "category": "Computer Science, Mathematics"
+  },
+  "2304-14108": {
+    "title": "DataComp: In search of the next generation of multimodal datasets",
+    "authors": [
+      "S. Gadre",
+      "Gabriel Ilharco",
+      "Alex Fang",
+      "J. Hayase",
+      "G. Smyrnis",
+      "Thao Nguyen",
+      "Ryan Marten",
+      "Mitchell Wortsman",
+      "Dhruba Ghosh",
+      "Jieyu Zhang",
+      "E. Orgad",
+      "R. Entezari",
+      "G. Daras",
+      "Sarah Pratt",
+      "Vivek Ramanujan",
+      "Yonatan Bitton",
+      "K. Marathe",
+      "Stephen Mussmann",
+      "R. Vencu",
+      "Mehdi Cherti",
+      "Ranjay Krishna",
+      "Pang Wei Koh",
+      "O. Saukh",
+      "Alexander J. Ratner",
+      "Shuran Song",
+      "Hannaneh Hajishirzi",
+      "Ali Farhadi",
+      "R. Beaumont",
+      "Sewoong Oh",
+      "A. Dimakis",
+      "J. Jitsev",
+      "Y. Carmon",
+      "Vaishaal Shankar",
+      "Ludwig Schmidt"
+    ],
+    "publication_date": "2023-04-27",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "f9570989919338079088270a9cf1a7afc8db8093",
+    "corpus_id": 258352812,
+    "category": "Computer Science"
+  },
+  "2303-15343": {
+    "title": "Sigmoid Loss for Language Image Pre-Training",
+    "authors": [
+      "Xiaohua Zhai",
+      "Basil Mustafa",
+      "Alexander Kolesnikov",
+      "Lucas Beyer"
+    ],
+    "publication_date": "2023-03-27",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "35aba190f28b5c39df333c06ca21f46bd4845eba",
+    "corpus_id": 257767223,
+    "category": "Computer Science"
+  },
+  "2303-14189": {
+    "title": "FastViT: A Fast Hybrid Vision Transformer using Structural Reparameterization",
+    "authors": [
+      "Pavan Kumar Anasosalu Vasu",
+      "J. Gabriel",
+      "Jeff J. Zhu",
+      "Oncel Tuzel",
+      "Anurag Ranjan"
+    ],
+    "publication_date": "2023-03-24",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "52cc542b60c99e8866a7fc515c10f443089005f2",
+    "corpus_id": 257756882,
+    "category": "Computer Science"
+  },
+  "2303-08343": {
+    "title": "Sharing Low Rank Conformer Weights for Tiny Always-On Ambient Speech Recognition Models",
+    "authors": [
+      "Steven M. Hernandez",
+      "Ding Zhao",
+      "Shaojin Ding",
+      "A. Bruguier",
+      "Rohit Prabhavalkar",
+      "Tara N. Sainath",
+      "Yanzhang He",
+      "Ian McGraw"
+    ],
+    "publication_date": "2023-03-15",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "31f87d4d974dfa8b3de92b054c1e3089f07a357a",
+    "corpus_id": 257532836,
+    "category": "Computer Science, Engineering"
+  },
+  "2301-06958": {
+    "title": "RILS: Masked Visual Reconstruction in Language Semantic Space",
+    "authors": [
+      "Shusheng Yang",
+      "Yixiao Ge",
+      "Kun Yi",
+      "Dian Li",
+      "Ying Shan",
+      "Xiaohu Qie",
+      "Xinggang Wang"
+    ],
+    "publication_date": "2023-01-17",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "d6b1d1bad791f5b80244b2c015c817ef53829182",
+    "corpus_id": 257233129,
+    "category": "Computer Science"
+  },
+  "2210-08402": {
+    "title": "LAION-5B: An open large-scale dataset for training next generation image-text models",
+    "authors": [
+      "Christoph Schuhmann",
+      "R. Beaumont",
+      "R. Vencu",
+      "Cade Gordon",
+      "Ross Wightman",
+      "Mehdi Cherti",
+      "Theo Coombes",
+      "Aarush Katta",
+      "Clayton Mullis",
+      "Mitchell Wortsman",
+      "P. Schramowski",
+      "Srivatsa Kundurthy",
+      "Katherine Crowson",
+      "Ludwig Schmidt",
+      "R. Kaczmarczyk",
+      "J. Jitsev"
+    ],
+    "publication_date": "2022-10-16",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "e5c8960eb2ec034ffbd353ef39fd1cb541d3c7c9",
+    "corpus_id": 252917726,
+    "category": "Computer Science"
+  },
+  "2205-01917": {
+    "title": "CoCa: Contrastive Captioners are Image-Text Foundation Models",
+    "authors": [
+      "Jiahui Yu",
+      "Zirui Wang",
+      "Vijay Vasudevan",
+      "Legg Yeung",
+      "Mojtaba Seyedhosseini",
+      "Yonghui Wu"
+    ],
+    "publication_date": "2022-05-04",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "a26a7a74f1e5fd562be95c3611a0680759fbdf84",
+    "corpus_id": 248512473,
+    "category": "Computer Science"
+  },
+  "2204-03610": {
+    "title": "Unified Contrastive Learning in Image-Text-Label Space",
+    "authors": [
+      "Jianwei Yang",
+      "Chunyuan Li",
+      "Pengchuan Zhang",
+      "Bin Xiao",
+      "Ce Liu",
+      "Lu Yuan",
+      "Jianfeng Gao"
+    ],
+    "publication_date": "2022-04-07",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "5e76879aaea118b532fb24a50b721076d4c6ae93",
+    "corpus_id": 248006101,
+    "category": "Computer Science"
+  },
+  "2201-12086": {
+    "title": "BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation",
+    "authors": [
+      "Junnan Li",
+      "Dongxu Li",
+      "Caiming Xiong",
+      "S. Hoi"
+    ],
+    "publication_date": "2022-01-28",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "a3b42a83669998f65df60d7c065a70d07ca95e99",
+    "corpus_id": 246411402,
+    "category": "Computer Science"
+  },
+  "2112-12750": {
+    "title": "SLIP: Self-supervision meets Language-Image Pre-training",
+    "authors": [
+      "Norman Mu",
+      "Alexander Kirillov",
+      "David A. Wagner",
+      "Saining Xie"
+    ],
+    "publication_date": "2021-12-23",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "e9581d9758062f76e029bd19a58c4ae976cfb414",
+    "corpus_id": 245424883,
+    "category": "Computer Science"
+  },
+  "2112-01071": {
+    "title": "Extract Free Dense Labels from CLIP",
+    "authors": [
+      "Chong Zhou",
+      "Chen Change Loy",
+      "Bo Dai"
+    ],
+    "publication_date": "2021-12-02",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "0a7e7347e16bf13d710f6f3d30748baabdbb96ad",
+    "corpus_id": 251105026,
+    "category": "Computer Science"
+  },
+  "2111-11418": {
+    "title": "MetaFormer is Actually What You Need for Vision",
+    "authors": [
+      "Weihao Yu",
+      "Romy Mi Luo",
+      "Pan Zhou",
+      "Chenyang Si",
+      "Yichen Zhou",
+      "Xinchao Wang",
+      "Jiashi Feng",
+      "Shuicheng Yan"
+    ],
+    "publication_date": "2021-11-22",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "57150ca7d793d6f784cf82da1c349edf7beb6bc2",
+    "corpus_id": 244478080,
+    "category": "Computer Science"
+  },
+  "2111-07783": {
+    "title": "FILIP: Fine-grained Interactive Language-Image Pre-Training",
+    "authors": [
+      "Lewei Yao",
+      "Runhu Huang",
+      "Lu Hou",
+      "Guansong Lu",
+      "Minzhe Niu",
+      "Hang Xu",
+      "Xiaodan Liang",
+      "Zhenguo Li",
+      "Xin Jiang",
+      "Chunjing Xu"
+    ],
+    "publication_date": "2021-11-09",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "f675c62abfa788ea0be85d3124eba15a14d5e9d6",
+    "corpus_id": 244117525,
+    "category": "Computer Science"
+  },
+  "2110-05208": {
+    "title": "Supervision Exists Everywhere: A Data Efficient Contrastive Language-Image Pre-training Paradigm",
+    "authors": [
+      "Yangguang Li",
+      "Feng Liang",
+      "Lichen Zhao",
+      "Yufeng Cui",
+      "Wanli Ouyang",
+      "Jing Shao",
+      "F. Yu",
+      "Junjie Yan"
+    ],
+    "publication_date": "2021-10-11",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "767923635f2fd4467d848dba9655866e4f9b55c8",
+    "corpus_id": 238582773,
+    "category": "Computer Science"
+  },
+  "2107-06263": {
+    "title": "CMT: Convolutional Neural Networks Meet Vision Transformers",
+    "authors": [
+      "Jianyuan Guo",
+      "Kai Han",
+      "Han Wu",
+      "Chang Xu",
+      "Yehui Tang",
+      "Chunjing Xu",
+      "Yunhe Wang"
+    ],
+    "publication_date": "2021-07-13",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "761240b06248b9836ee564bdab61559c84b681ed",
+    "corpus_id": 235829175,
+    "category": "Computer Science"
+  },
+  "2106-09685": {
+    "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+    "authors": [
+      "J. E. Hu",
+      "Yelong Shen",
+      "Phillip Wallis",
+      "Zeyuan Allen-Zhu",
+      "Yuanzhi Li",
+      "Shean Wang",
+      "Weizhu Chen"
+    ],
+    "publication_date": "2021-06-17",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "a8ca46b171467ceb2d7652fbfb67fe701ad86092",
+    "corpus_id": 235458009,
+    "category": "Computer Science"
+  },
+  "2105-14217": {
+    "title": "Less is More: Pay Less Attention in Vision Transformers",
+    "authors": [
+      "Zizheng Pan",
+      "Bohan Zhuang",
+      "Haoyu He",
+      "Jing Liu",
+      "Jianfei Cai"
+    ],
+    "publication_date": "2021-05-29",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "a0964686d80e173529efca6377f47e6a1b2fe69a",
+    "corpus_id": 235254310,
+    "category": "Computer Science"
+  },
+  "2103-03206": {
+    "title": "Perceiver: General Perception with Iterative Attention",
+    "authors": [
+      "Andrew Jaegle",
+      "Felix Gimeno",
+      "Andrew Brock",
+      "Andrew Zisserman",
+      "O. Vinyals",
+      "João Carreira"
+    ],
+    "publication_date": "2021-03-04",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "b3bf9fe13195e9aa70e1dac04e01fcff7008e812",
+    "corpus_id": 232110866,
+    "category": "Computer Science, Engineering"
+  },
+  "2103-00020": {
+    "title": "Learning Transferable Visual Models From Natural Language Supervision",
+    "authors": [
+      "Alec Radford",
+      "Jong Wook Kim",
+      "Chris Hallacy",
+      "A. Ramesh",
+      "Gabriel Goh",
+      "Sandhini Agarwal",
+      "Girish Sastry",
+      "Amanda Askell",
+      "Pamela Mishkin",
+      "Jack Clark",
+      "Gretchen Krueger",
+      "I. Sutskever"
+    ],
+    "publication_date": "2021-02-26",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4",
+    "corpus_id": 231591445,
+    "category": "Computer Science"
+  },
+  "2102-08981": {
+    "title": "Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts",
+    "authors": [
+      "Soravit Changpinyo",
+      "P. Sharma",
+      "Nan Ding",
+      "Radu Soricut"
+    ],
+    "publication_date": "2021-02-17",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "394be105b87e9bfe72c20efe6338de10604e1a11",
+    "corpus_id": 231951742,
+    "category": "Computer Science"
+  },
+  "2010-11929": {
+    "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+    "authors": [
+      "Alexey Dosovitskiy",
+      "Lucas Beyer",
+      "Alexander Kolesnikov",
+      "Dirk Weissenborn",
+      "Xiaohua Zhai",
+      "Thomas Unterthiner",
+      "Mostafa Dehghani",
+      "M. Minderer",
+      "G. Heigold",
+      "S. Gelly",
+      "Jakob Uszkoreit",
+      "N. Houlsby"
+    ],
+    "publication_date": "2020-10-22",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "268d347e8a55b5eb82fb5e7d2f800e33c75ab18a",
+    "corpus_id": 225039882,
+    "category": "Computer Science"
+  },
+  "2006-16241": {
+    "title": "The Many Faces of Robustness: A Critical Analysis of Out-of-Distribution Generalization",
+    "authors": [
+      "Dan Hendrycks",
+      "Steven Basart",
+      "Norman Mu",
+      "Saurav Kadavath",
+      "Frank Wang",
+      "Evan Dorundo",
+      "R. Desai",
+      "Tyler Lixuan Zhu",
+      "Samyak Parajuli",
+      "Mike Guo",
+      "D. Song",
+      "J. Steinhardt",
+      "J. Gilmer"
+    ],
+    "publication_date": "2020-06-29",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "022622e024890d6e044ac50e2da6b44c59bdf418",
+    "corpus_id": 220250257,
+    "category": "Computer Science, Mathematics"
+  },
+  "2005-08100": {
+    "title": "Conformer: Convolution-augmented Transformer for Speech Recognition",
+    "authors": [
+      "Anmol Gulati",
+      "James Qin",
+      "Chung-Cheng Chiu",
+      "Niki Parmar",
+      "Yu Zhang",
+      "Jiahui Yu",
+      "Wei Han",
+      "Shibo Wang",
+      "Zhengdong Zhang",
+      "Yonghui Wu",
+      "Ruoming Pang"
+    ],
+    "publication_date": "2020-05-16",
+    "venue": "Interspeech",
+    "semantic_scholar_id": "0170fc76e934ee643f869df18fb617d5357e8b4e",
+    "corpus_id": 218674528,
+    "category": "Computer Science, Engineering"
+  },
+  "1909-13719": {
+    "title": "Randaugment: Practical automated data augmentation with a reduced search space",
+    "authors": [
+      "E. D. Cubuk",
+      "Barret Zoph",
+      "Jonathon Shlens",
+      "Quoc V. Le"
+    ],
+    "publication_date": "2019-09-30",
+    "venue": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "semantic_scholar_id": "87f6a7c014ce206ac5b57299c07e10667d194b39",
+    "corpus_id": 208006202,
+    "category": "Computer Science"
+  },
+  "1907-01470": {
+    "title": "Augmenting Self-attention with Persistent Memory",
+    "authors": [
+      "Sainbayar Sukhbaatar",
+      "Edouard Grave",
+      "Guillaume Lample",
+      "H. Jégou",
+      "Armand Joulin"
+    ],
+    "publication_date": "2019-07-02",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "830995ef17cc291c13f42dfd9f462137de1d2179",
+    "corpus_id": 195776151,
+    "category": "Computer Science, Mathematics"
+  },
+  "1905-13549": {
+    "title": "Learning Robust Global Representations by Penalizing Local Predictive Power",
+    "authors": [
+      "Haohan Wang",
+      "Songwei Ge",
+      "E. Xing",
+      "Zachary Chase Lipton"
+    ],
+    "publication_date": "2019-05-01",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "4ae0c4a511697e960c477ea3e37b3e11bf3e0e02",
+    "corpus_id": 173188134,
+    "category": "Computer Science"
+  },
+  "1904-08739": {
+    "title": "Cascaded Partial Decoder for Fast and Accurate Salient Object Detection",
+    "authors": [
+      "Zhe Wu",
+      "Li Su",
+      "Qingming Huang"
+    ],
+    "publication_date": "2019-04-18",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "66ce56946214ab496c260012d828f7883ebfca22",
+    "corpus_id": 120409665,
+    "category": "Computer Science"
+  },
+  "1902-10811": {
+    "title": "Do ImageNet Classifiers Generalize to ImageNet?",
+    "authors": [
+      "B. Recht",
+      "R. Roelofs",
+      "Ludwig Schmidt",
+      "Vaishaal Shankar"
+    ],
+    "publication_date": "2019-02-13",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "4e0bb8c1c683b43357c5d5216f6b74ff2cb32434",
+    "corpus_id": 67855879,
+    "category": "Computer Science, Mathematics"
+  },
+  "1706-03762": {
+    "title": "Attention is All you Need",
+    "authors": [
+      "Ashish Vaswani",
+      "Noam M. Shazeer",
+      "Niki Parmar",
+      "Jakob Uszkoreit",
+      "Llion Jones",
+      "Aidan N. Gomez",
+      "Lukasz Kaiser",
+      "I. Polosukhin"
+    ],
+    "publication_date": "2017-06-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+    "corpus_id": 13756489,
+    "category": "Computer Science"
+  },
+  "1611-04849": {
+    "title": "Deeply Supervised Salient Object Detection with Short Connections",
+    "authors": [
+      "Qibin Hou",
+      "Ming-Ming Cheng",
+      "Xiaowei Hu",
+      "A. Borji",
+      "Z. Tu",
+      "Philip H. S. Torr"
+    ],
+    "publication_date": "2016-11-15",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "0d4d0be9c6ce0fc11f08acee36c8e98edd6ab35b",
+    "corpus_id": 3958565,
+    "category": "Computer Science, Medicine"
+  },
+  "1505-04870": {
+    "title": "Flickr30k Entities: Collecting Region-to-Phrase Correspondences for Richer Image-to-Sentence Models",
+    "authors": [
+      "Bryan A. Plummer",
+      "Liwei Wang",
+      "Christopher M. Cervantes",
+      "Juan C. Caicedo",
+      "J. Hockenmaier",
+      "Svetlana Lazebnik"
+    ],
+    "publication_date": "2015-05-19",
+    "venue": "International Journal of Computer Vision",
+    "semantic_scholar_id": "11c9c31dff70de92ada9160c78ff8bb46b2912d6",
+    "corpus_id": 6941275,
+    "category": "Computer Science"
+  },
+  "1503-02531": {
+    "title": "Distilling the Knowledge in a Neural Network",
+    "authors": [
+      "Geoffrey E. Hinton",
+      "O. Vinyals",
+      "J. Dean"
+    ],
+    "publication_date": "2015-03-09",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "0c908739fbff75f03469d13d4a1a07de3414ee19",
+    "corpus_id": 7200347,
+    "category": "Mathematics, Computer Science"
+  },
+  "1405-0312": {
+    "title": "Microsoft COCO: Common Objects in Context",
+    "authors": [
+      "Tsung-Yi Lin",
+      "M. Maire",
+      "Serge J. Belongie",
+      "James Hays",
+      "P. Perona",
+      "Deva Ramanan",
+      "Piotr Dollár",
+      "C. L. Zitnick"
+    ],
+    "publication_date": "2014-05-01",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "71b7178df5d2b112d07e45038cb5637208659ff7",
+    "corpus_id": 14113767,
+    "category": "Computer Science"
+  },
+  "2103-14030": {
+    "title": "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows",
+    "authors": [
+      "Ze Liu",
+      "Yutong Lin",
+      "Yue Cao",
+      "Han Hu",
+      "Yixuan Wei",
+      "Zheng Zhang",
+      "Stephen Lin",
+      "B. Guo"
+    ],
+    "publication_date": "",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "c8b25fab5608c3e033d34b4483ec47e68ba109b7",
+    "corpus_id": 232352874,
+    "category": "Computer Science"
+  }
+}

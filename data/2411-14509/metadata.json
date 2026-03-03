@@ -1,0 +1,15 @@
+{
+  "title": "End-to-End Convolutional Activation Anomaly Analysis for Anomaly Detection",
+  "authors": [
+    "Aleksander Kozłowski",
+    "Daniel Ponikowski",
+    "Piotr Żukiewicz",
+    "Paweł Twardowski"
+  ],
+  "summary": "We propose an End-to-end Convolutional Activation Anomaly Analysis (E2E-CA$^3$), which is a significant extension of A$^3$ anomaly detection approach proposed by Sperl, Schulze and Böttinger, both in terms of architecture and scope of application. In contrast to the original idea, we utilize a convolutional autoencoder as a target network, which allows for natural application of the method both to image and tabular data. The alarm network is also designed as a CNN, where the activations of convolutional layers from CAE are stacked together into $k+1-$dimensional tensor. Moreover, we combine the classification loss of the alarm network with the reconstruction error of the target CAE, as a \"best of both worlds\" approach, which greatly increases the versatility of the network. The evaluation shows that despite generally straightforward and lightweight architecture, it has a very promising anomaly detection performance on common datasets such as MNIST, CIFAR-10 and KDDcup99.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

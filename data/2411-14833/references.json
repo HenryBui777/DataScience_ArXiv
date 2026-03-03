@@ -1,0 +1,578 @@
+{
+  "2410-11831": {
+    "title": "CoTracker3: Simpler and Better Point Tracking by Pseudo-Labelling Real Videos",
+    "authors": [
+      "Nikita Karaev",
+      "Iurii Makarov",
+      "Jianyuan Wang",
+      "Natalia Neverova",
+      "Andrea Vedaldi",
+      "Christian Rupprecht"
+    ],
+    "publication_date": "2024-10-15",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "a23c5c698c936a89ad5fac4e6f70f756c0fc56a0",
+    "corpus_id": 273351070,
+    "category": "Computer Science"
+  },
+  "2405-15700": {
+    "title": "Trackastra: Transformer-based cell tracking for live-cell microscopy",
+    "authors": [
+      "Benjamin Gallusser",
+      "Martin Weigert"
+    ],
+    "publication_date": "2024-05-24",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "23cf53647365a644aed0c6bd945b9ff161d6d39b",
+    "corpus_id": 270045898,
+    "category": "Computer Science"
+  },
+  "2401-13220": {
+    "title": "Segment Any Cell: A SAM-based Auto-prompting Fine-tuning Framework for Nuclei Segmentation",
+    "authors": [
+      "Saiyang Na",
+      "Yuzhi Guo",
+      "Feng Jiang",
+      "Hehuan Ma",
+      "Junzhou Huang"
+    ],
+    "publication_date": "2024-01-24",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "e010c068d4d1136c45f4a06857c45a24b3f07d3f",
+    "corpus_id": 267200053,
+    "category": "Computer Science, Engineering"
+  },
+  "2310-19641": {
+    "title": "DistNet2D: Leveraging long-range temporal information for efficient segmentation and tracking",
+    "authors": [
+      "J. Ollion",
+      "Martin Maliet",
+      "Caroline Giuglaris",
+      "Elise Vacher",
+      "Maxime Deforet"
+    ],
+    "publication_date": "2023-10-30",
+    "venue": "PRX Life",
+    "semantic_scholar_id": "be7838abde73951fea1a32c7ed37e6ec0d00f620",
+    "corpus_id": 264825336,
+    "category": "Computer Science, Physics, Biology"
+  },
+  "2310-04895": {
+    "title": "Cell Tracking-by-detection using Elliptical Bounding Boxes",
+    "authors": [
+      "Lucas N. Kirsten",
+      "Cláudio R. Jung"
+    ],
+    "publication_date": "2023-10-08",
+    "venue": "Journal of Visual Communication and Image Representation",
+    "semantic_scholar_id": "f4ab1af3432f3245b84f0954fd1ed850332d9b3c",
+    "corpus_id": 263831317,
+    "category": "Computer Science"
+  },
+  "2310-08501": {
+    "title": "Unsupervised Learning of Object-Centric Embeddings for Cell Instance Segmentation in Microscopy Images",
+    "authors": [
+      "Steffen Wolf",
+      "Manan Lalit",
+      "Henry Westmacott",
+      "Katie McDole",
+      "Jan Funke"
+    ],
+    "publication_date": "2023-10-01",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "198bedd52d5dbea97be20566a42b4ed29f10a083",
+    "corpus_id": 263908915,
+    "category": "Computer Science"
+  },
+  "2308-04526": {
+    "title": "Large-Scale Multi-Hypotheses Cell Tracking Using Ultrametric Contours Maps",
+    "authors": [
+      "Jordão Bragantini",
+      "Merlin Lange",
+      "Loic A. Royer"
+    ],
+    "publication_date": "2023-08-08",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "b8d2b262f1fee856e93cbfeb3e26dd988235cc9c",
+    "corpus_id": 260735617,
+    "category": "Computer Science"
+  },
+  "2307-15055": {
+    "title": "PointOdyssey: A Large-Scale Synthetic Dataset for Long-Term Point Tracking",
+    "authors": [
+      "Yang Zheng",
+      "Adam W. Harley",
+      "Bokui Shen",
+      "Gordon Wetzstein",
+      "L. Guibas"
+    ],
+    "publication_date": "2023-07-27",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "f84a328afa81ecbd651636633bea0618045d0dfc",
+    "corpus_id": 260203056,
+    "category": "Computer Science"
+  },
+  "2307-07635": {
+    "title": "CoTracker: It is Better to Track Together",
+    "authors": [
+      "Nikita Karaev",
+      "Ignacio Rocco",
+      "Benjamin Graham",
+      "N. Neverova",
+      "A. Vedaldi",
+      "C. Rupprecht"
+    ],
+    "publication_date": "2023-07-14",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "fa85633fb74d071911fe64d952afe47adc9928d6",
+    "corpus_id": 259937159,
+    "category": "Computer Science"
+  },
+  "2306-05422": {
+    "title": "Tracking Everything Everywhere All at Once",
+    "authors": [
+      "Qianqian Wang",
+      "Yen-Yu Chang",
+      "Ruojin Cai",
+      "Zhengqi Li",
+      "Bharath Hariharan",
+      "Aleksander Holynski",
+      "Noah Snavely"
+    ],
+    "publication_date": "2023-06-08",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "408399600631b7eacf491dae0ac997fb5c13ccc7",
+    "corpus_id": 259108921,
+    "category": "Computer Science"
+  },
+  "2211-03726": {
+    "title": "TAP-Vid: A Benchmark for Tracking Any Point in a Video",
+    "authors": [
+      "Carl Doersch",
+      "Ankush Gupta",
+      "L. Markeeva",
+      "Adrià Recasens",
+      "Lucas Smaira",
+      "Y. Aytar",
+      "João Carreira",
+      "Andrew Zisserman",
+      "Yezhou Yang"
+    ],
+    "publication_date": "2022-11-07",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "d81c7c08765add0fd478aa3d6b3a9f4b7c1003a8",
+    "corpus_id": 253384359,
+    "category": "Computer Science, Mathematics"
+  },
+  "2204-10713": {
+    "title": "EmbedTrack—Simultaneous Cell Segmentation and Tracking Through Learning Offsets and Clustering Bandwidths",
+    "authors": [
+      "Katharina Löffler",
+      "R. Mikut"
+    ],
+    "publication_date": "2022-04-22",
+    "venue": "IEEE Access",
+    "semantic_scholar_id": "3ecfd810e99df7dc555a6e8c351d55aa1826ae7c",
+    "corpus_id": 248366295,
+    "category": "Computer Science"
+  },
+  "2204-04153": {
+    "title": "Particle Video Revisited: Tracking Through Occlusions Using Point Trajectories",
+    "authors": [
+      "Adam W. Harley",
+      "Zhaoyuan Fang",
+      "Katerina Fragkiadaki"
+    ],
+    "publication_date": "2022-04-08",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "6cd66bafd46f027c43519c880c0e47e30d72b1c3",
+    "corpus_id": 248069518,
+    "category": "Computer Science"
+  },
+  "2204-02663": {
+    "title": "Towards An End-to-End Framework for Flow-Guided Video Inpainting",
+    "authors": [
+      "Z. Li",
+      "Cheng Lu",
+      "Jia Qin",
+      "Chunle Guo",
+      "Mingg-Ming Cheng"
+    ],
+    "publication_date": "2022-04-06",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "12dae93be3c4cb772d03fc35f38d94af1621065d",
+    "corpus_id": 247996633,
+    "category": "Engineering, Computer Science"
+  },
+  "2202-04731": {
+    "title": "Graph Neural Network for Cell Tracking in Microscopy Videos",
+    "authors": [
+      "Tal Ben-Haim",
+      "Tammy Riklin-Raviv"
+    ],
+    "publication_date": "2022-02-09",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "efacd784b1fc49b536f48282d00ac1ff06ed153d",
+    "corpus_id": 246705999,
+    "category": "Computer Science"
+  },
+  "2111-15174": {
+    "title": "CRIS: CLIP-Driven Referring Image Segmentation",
+    "authors": [
+      "Zhaoqing Wang",
+      "Yu Lu",
+      "Qiang Li",
+      "Xunqiang Tao",
+      "Yan Guo",
+      "Ming Gong",
+      "Tongliang Liu"
+    ],
+    "publication_date": "2021-11-30",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "76a2b197b5427ffd1d3470c6d3ea026588eb5d0a",
+    "corpus_id": 244729320,
+    "category": "Computer Science"
+  },
+  "2110-04886": {
+    "title": "Multi-Class Cell Detection Using Spatial Context Representation",
+    "authors": [
+      "Shahira Abousamra",
+      "David Belinsky",
+      "John S. Van Arnam",
+      "F. Allard",
+      "E. Yee",
+      "Rajarsi R. Gupta",
+      "T. Kurç",
+      "D. Samaras",
+      "J. Saltz",
+      "Chao Chen"
+    ],
+    "publication_date": "2021-10-01",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "c273e489bc6c18991d0883c3f976269fa404df2d",
+    "corpus_id": 238583109,
+    "category": "Computer Science, Medicine"
+  },
+  "2108-08202": {
+    "title": "Overfitting the Data: Compact Neural Video Delivery via Content-aware Feature Modulation",
+    "authors": [
+      "Jiaming Liu",
+      "Ming Lu",
+      "Kaixin Chen",
+      "Xiaoqi Li",
+      "Shizun Wang",
+      "Zhaoqing Wang",
+      "E. Wu",
+      "Yurong Chen",
+      "Chuang Zhang",
+      "Ming Wu"
+    ],
+    "publication_date": "2021-08-18",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "792a4a0a4d1056f238cdc720595a4d26430d071c",
+    "corpus_id": 237195068,
+    "category": "Computer Science, Engineering"
+  },
+  "2106-13195": {
+    "title": "FitVid: Overfitting in Pixel-Level Video Prediction",
+    "authors": [
+      "M. Babaeizadeh",
+      "M. Saffar",
+      "Suraj Nair",
+      "S. Levine",
+      "Chelsea Finn",
+      "D. Erhan"
+    ],
+    "publication_date": "2021-06-24",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "aa5e7fffefb7f53fb6f7e937b5976584d001c906",
+    "corpus_id": 235623762,
+    "category": "Computer Science"
+  },
+  "2104-07960": {
+    "title": "OmniFlow: Human Omnidirectional Optical Flow",
+    "authors": [
+      "Roman Seidel",
+      "André Apitzsch",
+      "G. Hirtz"
+    ],
+    "publication_date": "2021-04-16",
+    "venue": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "semantic_scholar_id": "a6be6f3905b32d4e7a4b9157ff4da8dd0156019c",
+    "corpus_id": 233289696,
+    "category": "Computer Science"
+  },
+  "2102-10377": {
+    "title": "Celltrack R-CNN: A Novel End-To-End Deep Neural Network For Cell Segmentation And Tracking In Microscopy Images",
+    "authors": [
+      "Yuqian Chen",
+      "Yang Song",
+      "C. Zhang",
+      "Fan Zhang",
+      "L. O’Donnell",
+      "Wojciech Chrzanowski",
+      "Weidong (Tom) Cai"
+    ],
+    "publication_date": "2021-02-20",
+    "venue": "IEEE International Symposium on Biomedical Imaging",
+    "semantic_scholar_id": "07129116591119162bf873e7dafc9ab44aae323e",
+    "corpus_id": 231985744,
+    "category": "Computer Science"
+  },
+  "2007-15258": {
+    "title": "Weakly-Supervised Cell Tracking via Backward-and-Forward Propagation",
+    "authors": [
+      "Kazuya Nishimura",
+      "Junya Hayashida",
+      "Chenyang Wang",
+      "Dai Fei Elmer Ker",
+      "Ryoma Bise"
+    ],
+    "publication_date": "2020-07-30",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "9537c782e56dc07a19af6fc6e118a13fe8faa925",
+    "corpus_id": 220871185,
+    "category": "Computer Science"
+  },
+  "2003-12039": {
+    "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
+    "authors": [
+      "Zachary Teed",
+      "Jia Deng"
+    ],
+    "publication_date": "2020-03-26",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "3230e2d6b4671cc03974af2219c6d3270e6fac70",
+    "corpus_id": 214667893,
+    "category": "Computer Science, Materials Science"
+  },
+  "2002-10749": {
+    "title": "MPM: Joint Representation of Motion and Position Map for Cell Tracking",
+    "authors": [
+      "Junya Hayashida",
+      "Kazuya Nishimura",
+      "Ryoma Bise"
+    ],
+    "publication_date": "2020-02-25",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "4dd6aa3756ba10789e2699b34acb597feadb777f",
+    "corpus_id": 211296729,
+    "category": "Computer Science, Engineering"
+  },
+  "1910-09783": {
+    "title": "J Regularization Improves Imbalanced Multiclass Segmentation",
+    "authors": [
+      "F. Guerrero-Peña",
+      "Pedro D. Marrero-Fernández",
+      "Paul T. Tarr",
+      "Ing Ren Tsang",
+      "E. Meyerowitz",
+      "Alexandre Cunha"
+    ],
+    "publication_date": "2019-10-22",
+    "venue": "IEEE International Symposium on Biomedical Imaging",
+    "semantic_scholar_id": "7d78b5bfb749eca31a37340e1d6e55360e877914",
+    "corpus_id": 204823937,
+    "category": "Computer Science"
+  },
+  "1908-03636": {
+    "title": "Star-convex Polyhedra for 3D Object Detection and Segmentation in Microscopy",
+    "authors": [
+      "Martin Weigert",
+      "Uwe Schmidt",
+      "R. Haase",
+      "Ko Sugawara",
+      "E. Myers"
+    ],
+    "publication_date": "2019-08-09",
+    "venue": "IEEE Workshop/Winter Conference on Applications of Computer Vision",
+    "semantic_scholar_id": "c97042386e3571fa39e6e97aeb7dd966636eef05",
+    "corpus_id": 199543861,
+    "category": "Computer Science"
+  },
+  "1906-10886": {
+    "title": "Joint Multi-frame Detection and Segmentation for Multi-cell Tracking",
+    "authors": [
+      "Zibin Zhou",
+      "Fei Wang",
+      "Wen Xi",
+      "Hu Chen",
+      "Peng Gao",
+      "Chengkang He"
+    ],
+    "publication_date": "2019-06-26",
+    "venue": "International Conference on Image and Graphics",
+    "semantic_scholar_id": "6e5dc7db06f21b3afb6bdfe658a0247d1ee4ffa3",
+    "corpus_id": 195658077,
+    "category": "Computer Science, Engineering"
+  },
+  "1904-11489": {
+    "title": "Spatial-Temporal Relation Networks for Multi-Object Tracking",
+    "authors": [
+      "Jiarui Xu",
+      "Yue Cao",
+      "Zheng Zhang",
+      "Han Hu"
+    ],
+    "publication_date": "2019-04-25",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "c8de9f5482d9ee9c8f5422872d02723df39aad66",
+    "corpus_id": 131775950,
+    "category": "Computer Science"
+  },
+  "1902-05020": {
+    "title": "Unsupervised 3D End-to-End Medical Image Registration With Volume Tweening Network",
+    "authors": [
+      "Ting Fung Lau",
+      "Ji Luo",
+      "Shengyu Zhao",
+      "E. Chang",
+      "Yan Xu"
+    ],
+    "publication_date": "2019-02-13",
+    "venue": "IEEE journal of biomedical and health informatics",
+    "semantic_scholar_id": "993b3aad98d8e256619cd3cfeb10ae549d2249a7",
+    "corpus_id": 61153704,
+    "category": "Computer Science, Medicine"
+  },
+  "1806-02070": {
+    "title": "Instance Segmentation and Tracking with Cosine Embeddings and Recurrent Hourglass Networks",
+    "authors": [
+      "Christian Payer",
+      "Darko Štern",
+      "Thomas Neff",
+      "H. Bischof",
+      "M. Urschler"
+    ],
+    "publication_date": "2018-06-06",
+    "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+    "semantic_scholar_id": "c40612278cc6ec4c91e4210377b3325777136a72",
+    "corpus_id": 46946408,
+    "category": "Computer Science"
+  },
+  "1709-02371": {
+    "title": "PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume",
+    "authors": [
+      "Deqing Sun",
+      "Xiaodong Yang",
+      "Ming-Yu Liu",
+      "Jan Kautz"
+    ],
+    "publication_date": "2017-09-07",
+    "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "54c802e7dadac855de06725bf146cdf20319e46b",
+    "corpus_id": 30824366,
+    "category": "Computer Science"
+  },
+  "1706-03762": {
+    "title": "Attention is All you Need",
+    "authors": [
+      "Ashish Vaswani",
+      "Noam M. Shazeer",
+      "Niki Parmar",
+      "Jakob Uszkoreit",
+      "Llion Jones",
+      "Aidan N. Gomez",
+      "Lukasz Kaiser",
+      "I. Polosukhin"
+    ],
+    "publication_date": "2017-06-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+    "corpus_id": 13756489,
+    "category": "Computer Science"
+  },
+  "1705-03386": {
+    "title": "Cell Tracking via Proposal Generation and Selection",
+    "authors": [
+      "S. Akram",
+      "Juho Kannala",
+      "L. Eklund",
+      "J. Heikkilä"
+    ],
+    "publication_date": "2017-05-09",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "7b8410de472121262ba3c0c75968b8ca1d1c8d29",
+    "corpus_id": 6460690,
+    "category": "Computer Science"
+  },
+  "1704-07325": {
+    "title": "Accurate Optical Flow via Direct Cost Volume Processing",
+    "authors": [
+      "Jia Xu",
+      "René Ranftl",
+      "V. Koltun"
+    ],
+    "publication_date": "2017-04-24",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "143e10cae07f27f2db9de171eb04a332ddbfeab4",
+    "corpus_id": 9280953,
+    "category": "Computer Science"
+  },
+  "1612-01925": {
+    "title": "FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks",
+    "authors": [
+      "Eddy Ilg",
+      "N. Mayer",
+      "Tonmoy Saikia",
+      "Margret Keuper",
+      "Alexey Dosovitskiy",
+      "T. Brox"
+    ],
+    "publication_date": "2016-12-06",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "edd846e76cacfba5be37da99c006e3ccc9b861b0",
+    "corpus_id": 3759573,
+    "category": "Computer Science"
+  },
+  "1608-01276": {
+    "title": "Fuzzy-based propagation of prior knowledge to improve large-scale image analysis pipelines",
+    "authors": [
+      "J. Stegmaier",
+      "R. Mikut"
+    ],
+    "publication_date": "2016-08-04",
+    "venue": "PLoS ONE",
+    "semantic_scholar_id": "eeb3ccb7bc27a1287ad6c9b632308a05f5bded3f",
+    "corpus_id": 4504197,
+    "category": "Computer Science, Biology, Medicine"
+  },
+  "1508-06464": {
+    "title": "SPF-CellTracker: Tracking Multiple Cells with Strongly-Correlated Moves Using a Spatial Particle Filter",
+    "authors": [
+      "Osamu Hirose",
+      "Shotaro Kawaguchi",
+      "T. Tokunaga",
+      "Yu Toyoshima",
+      "Takayuki Teramoto",
+      "S. Kuge",
+      "T. Ishihara",
+      "Y. Iino",
+      "Ryo Yoshida"
+    ],
+    "publication_date": "2015-08-26",
+    "venue": "IEEE/ACM Transactions on Computational Biology & Bioinformatics",
+    "semantic_scholar_id": "cbd0c5760e7e239cc0d71725ea40942def7b099b",
+    "corpus_id": 4698728,
+    "category": "Medicine, Computer Science"
+  },
+  "1504-06852": {
+    "title": "FlowNet: Learning Optical Flow with Convolutional Networks",
+    "authors": [
+      "Alexey Dosovitskiy",
+      "P. Fischer",
+      "Eddy Ilg",
+      "Philip Häusser",
+      "C. Hazirbas",
+      "Vladimir Golkov",
+      "Patrick van der Smagt",
+      "D. Cremers",
+      "T. Brox"
+    ],
+    "publication_date": "2015-04-26",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "c2fb5b39428818d7ec8cc78e152e19c21b7db568",
+    "corpus_id": 12552176,
+    "category": "Computer Science"
+  }
+}

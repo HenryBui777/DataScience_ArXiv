@@ -1,0 +1,17 @@
+{
+  "title": "Mode-coupling formulation of heat transport in anharmonic materials",
+  "authors": [
+    "Aloïs Castellano",
+    "J. P. Alvarinhas Batista",
+    "Olle Hellman",
+    "Matthieu J. Verstraete"
+  ],
+  "summary": "The temperature-dependent phonons are a generalization of interatomic force constants varying in T, which as found widespread use in computing the thermal transport of materials. A formal justification for using this combination to access thermal conductivity in anharmonic crystals, beyond the harmonic approximation and perturbation theory, is still lacking. In this work, we derive a theory of heat transport of anharmonic crystals, using the mode-coupling theory of anharmonic lattice dynamics. Starting from the Green-Kubo formula, we develop the thermal conductivity tensor based on the system's dynamical susceptibility, or spectral function. Our results account for both the diagonal and off-diagonal contributions of the heat current, with and without collective effects. We implement our theory in the TDEP package, and have notably introduced a Monte Carlo scheme to compute phonon scattering due to third- and fourth-order interactions, achieving a substantial reduction in computational cost which enables full convergence of such calculations for the first time. We apply our methodology to systems with varying regimes of anharmonicity and thermal conductivity to demonstrate its universality. These applications highlight the importance of the phonon renormalizations and their interactions beyond the harmonic order. Overall, our work advances the understanding of thermal conductivity in anharmonic crystals and provides a theoretically robust framework for predicting heat transport in complex materials.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-01-30"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cond-mat.mtrl-sci"
+}

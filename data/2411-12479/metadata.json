@@ -1,0 +1,18 @@
+{
+  "title": "Graph-based Square-Root Estimation for Sparse Linear Regression",
+  "authors": [
+    "Peili Li",
+    "Zhuomei Li",
+    "Yunhai Xiao",
+    "Chao Ying",
+    "Zhou Yu"
+  ],
+  "summary": "Sparse linear regression is one of the classic problems in the field of statistics, which has deep connections and high intersections with optimization, computation, and machine learning. To address the effective handling of high-dimensional data, the diversity of real noise, and the challenges in estimating standard deviation of the noise, we propose a novel and general graph-based square-root estimation (GSRE) model for sparse linear regression. Specifically, we use square-root-loss function to encourage the estimators to be independent of the unknown standard deviation of the error terms and design a sparse regularization term by using the graphical structure among predictors in a node-by-node form. Based on the predictor graphs with special structure, we highlight the generality by analyzing that the model in this paper is equivalent to several classic regression models. Theoretically, we also analyze the finite sample bounds, asymptotic normality and model selection consistency of GSRE method without relying on the standard deviation of error terms. In terms of computation, we employ the fast and efficient alternating direction method of multipliers. Finally, based on a large number of simulated and real data with various types of noise, we demonstrate the performance advantages of the proposed method in estimation, prediction and model selection.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-08-01"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME, stat.CO"
+}

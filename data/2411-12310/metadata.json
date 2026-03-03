@@ -1,0 +1,14 @@
+{
+  "title": "Variable-Frequency Imitation Learning for Variable-Speed Motion",
+  "authors": [
+    "Nozomu Masuya",
+    "Sho Sakaino",
+    "Toshiaki Tsuji"
+  ],
+  "summary": "Conventional methods of imitation learning for variable-speed motion have difficulty extrapolating speeds because they rely on learning models running at a constant sampling frequency. This study proposes variable-frequency imitation learning (VFIL), a novel method for imitation learning with learning models trained to run at variable sampling frequencies along with the desired speeds of motion. The experimental results showed that the proposed method improved the velocity-wise accuracy along both the interpolated and extrapolated frequency labels, in addition to a 12.5 % increase in the overall success rate.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

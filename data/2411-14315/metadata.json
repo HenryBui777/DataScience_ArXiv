@@ -1,0 +1,15 @@
+{
+  "title": "Introducing a Harmonic Balance Navier-Stokes Finite Element Solver to Accelerate Cardiovascular Simulations",
+  "authors": [
+    "Dongjie Jia",
+    "Mahdi Esmaily"
+  ],
+  "summary": "The adoption of cardiovascular simulations for diagnosis and surgical planning on a patient-specific basis requires the development of faster methods than the existing state-of-the-art techniques. To address this need, we leverage the periodic nature of these flows to accurately capture their time-dependence using spectral discretization. Owing to the reduced size of the discrete problem, the resulting approach, known as the harmonic balance method, significantly lowers the solution cost when compared against the conventional time marching methods. This study describes a stabilized finite element implementation of the harmonic balanced method that targets the simulation of physically-stable time-periodic flows. That stabilized method is based on the Galerkin/least-squares formulation that permits stable solution in convection-dominant flows and convenient use of the same interpolation functions for velocity and pressure. We test this solver against its equivalent time marching method using three common physiological cases where blood flow is modeled in a Glenn operation, a cerebral artery, and a left main coronary artery. Using the conventional time marching solver, simulating these cases takes more than ten hours. That cost is reduced by up to two orders of magnitude when the proposed harmonic balance solver is utilized, where a solution is produced in approximately 30 minutes. We show that that solution is in excellent agreement with the conventional solvers when the number of modes is sufficiently large to accurately represent the imposed boundary conditions.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-12-09"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA, physics.flu-dyn"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Why the p-norms $p{=}1$, $p{=}2$ and $p{=}\\infty$ are so special? An answer based on spatial uniformity",
+  "authors": [
+    "Carlos Pinzón"
+  ],
+  "summary": "Among all metrics based on p-norms, the Manhattan (p=1), euclidean (p=2) and Chebyshev distances (p=infinity) are the most widely used for their interpretability, simplicity and technical convenience. But these are not the only arguments for the ubiquity of these three p-norms. This article proves that there is a volume-surface correspondence property that is unique to them. More precisely, it is shown that sampling uniformly from the volume of an n-dimensional p-ball and projecting to its surface is equivalent to directly sampling uniformly from its surface if and only if p is 1, 2 or infinity. Sampling algorithms and their implementations in Python are also provided.",
+  "submission_date": "2024-11-11",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.ST, cs.CR, math.NA"
+}

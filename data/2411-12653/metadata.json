@@ -1,0 +1,15 @@
+{
+  "title": "Smart Predict-then-Optimize Method with Dependent Data: Risk Bounds and Calibration of Autoregression",
+  "authors": [
+    "Jixian Liu",
+    "Tao Xu",
+    "Jianping He",
+    "Chongrong Fang"
+  ],
+  "summary": "The predict-then-optimize (PTO) framework is indispensable for addressing practical stochastic decision-making tasks. It consists of two crucial steps: initially predicting unknown parameters of an optimization model and subsequently solving the problem based on these predictions. Elmachtoub and Grigas [1] introduced the Smart Predict-then-Optimize (SPO) loss for the framework, which gauges the decision error arising from predicted parameters, and a convex surrogate, the SPO+ loss, which incorporates the underlying structure of the optimization model. The consistency of these different loss functions is guaranteed under the assumption of i.i.d. training data. Nevertheless, various types of data are often dependent, such as power load fluctuations over time. This dependent nature can lead to diminished model performance in testing or real-world applications. Motivated to make intelligent predictions for time series data, we present an autoregressive SPO method directly targeting the optimization problem at the decision stage in this paper, where the conditions of consistency are no longer met. Therefore, we first analyze the generalization bounds of the SPO loss within our autoregressive model. Subsequently, the uniform calibration results in Liu and Grigas [2] are extended in the proposed model. Finally, we conduct experiments to empirically demonstrate the effectiveness of the SPO+ surrogate compared to the absolute loss and the least squares loss, especially when the cost vectors are determined by stationary dynamical systems and demonstrate the relationship between normalized regret and mixing coefficients.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY, stat.ML"
+}

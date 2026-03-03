@@ -1,0 +1,14 @@
+{
+  "title": "Strong orientation of a connected graph for a crossing family",
+  "authors": [
+    "Ahmad Abdi",
+    "Mahsa Dalirrooyfard",
+    "Meike Neuwohner"
+  ],
+  "summary": "Given a connected graph $G=(V,E)$ and a crossing family $\\mathcal{C}$ over ground set $V$ such that $|δ_G(U)|\\geq 2$ for every $U\\in \\mathcal{C}$, we prove there exists a strong orientation of $G$ for $\\mathcal{C}$, i.e., an orientation of $G$ such that each set in $\\mathcal{C}$ has at least one outgoing and at least one incoming arc. This implies the main conjecture in Chudnovsky et al. (Disjoint dijoins. Journal of Combinatorial Theory, Series B, 120:18--35, 2016). In particular, in every minimal counterexample to the Edmonds-Giles conjecture where the minimum weight of a dicut is $2$, the arcs of nonzero weight must be disconnected.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.CO"
+}

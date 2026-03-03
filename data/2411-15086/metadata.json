@@ -1,0 +1,13 @@
+{
+  "title": "Quantum-enhanced unsupervised image segmentation for medical images analysis",
+  "authors": [
+    "Laia Domingo",
+    "Mahdi Chehimi"
+  ],
+  "summary": "Breast cancer remains the leading cause of cancer-related mortality among women worldwide, necessitating the meticulous examination of mammograms by radiologists to characterize abnormal lesions. This manual process demands high accuracy and is often time-consuming, costly, and error-prone. Automated image segmentation using artificial intelligence offers a promising alternative to streamline this workflow. However, most existing methods are supervised, requiring large, expertly annotated datasets that are not always available, and they experience significant generalization issues. Thus, unsupervised learning models can be leveraged for image segmentation, but they come at a cost of reduced accuracy, or require extensive computational resourcess. In this paper, we propose the first end-to-end quantum-enhanced framework for unsupervised mammography medical images segmentation that balances between performance accuracy and computational requirements. We first introduce a quantum-inspired image representation that serves as an initial approximation of the segmentation mask. The segmentation task is then formulated as a QUBO problem, aiming to maximize the contrast between the background and the tumor region while ensuring a cohesive segmentation mask with minimal connected components. We conduct an extensive evaluation of quantum and quantum-inspired methods for image segmentation, demonstrating that quantum annealing and variational quantum circuits achieve performance comparable to classical optimization techniques. Notably, quantum annealing is shown to be an order of magnitude faster than the classical optimization method in our experiments. Our findings demonstrate that this framework achieves performance comparable to state-of-the-art supervised methods, including UNet-based architectures, offering a viable unsupervised alternative for breast cancer image segmentation.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.CV, quant-ph"
+}

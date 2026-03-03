@@ -1,0 +1,15 @@
+{
+  "title": "Uncertainty Propagation and Minimization for Channel Estimation in UAV-mounted RIS Systems",
+  "authors": [
+    "Kevin Weinberger",
+    "David Müller",
+    "Martin Mönnigmann",
+    "Aydin Sezgin"
+  ],
+  "summary": "Reconfigurable Intelligent Surfaces (RIS) are emerging as a key technology for sixth-generation (6G) wireless networks, leveraging adjustable reflecting elements to dynamically control electromagnetic wave propagation and optimize wireless connectivity. By positioning the RIS on an unmanned aerial vehicle (UAV), it can maintain line-of-sight and proximity to both the transmitter and receiver, critical factors that mitigate path loss and enhance signal strength. The lightweight, power-efficient nature of RIS makes UAV integration feasible, yet the setup faces significant disturbances from UAV motion, which can degrade RIS alignment and link performance. In this study, we address these challenges using both experimental measurements and analytical methods. Using an extended Kalman filter (EKF), we estimate the UAV's orientation in real time during experimental flights to capture real disturbance effects. The resulting orientation uncertainty is then propagated to the RIS's channel estimates by applying the Guide to the Expression of Uncertainty in Measurement (GUM) framework as well as complex-valued propagation techniques to accurately assess and minimize the impact of UAV orientation uncertainties on RIS performance. This method enables us to systematically trace and quantify how orientation uncertainties affect channel gain and phase stability in real-time. Through numerical simulations, we find that the uncertainty of the RIS channel link is influenced by the RIS's configuration. Furthermore, our results demonstrate that the uncertainty area is most accurately represented by an annular section, enabling a 58% reduction in the uncertainty area while maintaining a 95% coverage probability.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

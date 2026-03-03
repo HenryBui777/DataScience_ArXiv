@@ -1,0 +1,562 @@
+{
+  "2408-16767": {
+    "title": "ReconX: Reconstruct Any Scene from Sparse Views with Video Diffusion Model",
+    "authors": [
+      "Fangfu Liu",
+      "Wenqiang Sun",
+      "Hanyang Wang",
+      "Yikai Wang",
+      "Haowen Sun",
+      "Junliang Ye",
+      "Jun Zhang",
+      "Yueqi Duan"
+    ],
+    "publication_date": "2024-08-29",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "ca34c3c4d31f81032abce198fdda6951e53d8fba",
+    "corpus_id": 272146325,
+    "category": "Computer Science"
+  },
+  "2408-13912": {
+    "title": "Splatt3R: Zero-shot Gaussian Splatting from Uncalibrated Image Pairs",
+    "authors": [
+      "Brandon Smart",
+      "Chuanxia Zheng",
+      "Iro Laina",
+      "V. Prisacariu"
+    ],
+    "publication_date": "2024-08-25",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "44d8c25fecb5628382854ecfe92e3b1015749e7c",
+    "corpus_id": 271957263,
+    "category": "Computer Science"
+  },
+  "2406-04961": {
+    "title": "Multiplane Prior Guided Few-Shot Aerial Scene Rendering",
+    "authors": [
+      "Zihan Gao",
+      "Licheng Jiao",
+      "Lingling Li",
+      "Xu Liu",
+      "Fang Liu",
+      "Puhua Chen",
+      "Yuwei Guo"
+    ],
+    "publication_date": "2024-06-07",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "cb1b414b81d0f2d9ae9444fac57ba97309a03a65",
+    "corpus_id": 270357594,
+    "category": "Computer Science"
+  },
+  "2406-04343": {
+    "title": "Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image",
+    "authors": [
+      "Stanislaw Szymanowicz",
+      "Eldar Insafutdinov",
+      "Chuanxia Zheng",
+      "Dylan Campbell",
+      "João F. Henriques",
+      "Christian Rupprecht",
+      "Andrea Vedaldi"
+    ],
+    "publication_date": "2024-06-06",
+    "venue": "International Conference on 3D Vision",
+    "semantic_scholar_id": "904e2a5bbc25d0929a1fc2b2df75791a1ab7573a",
+    "corpus_id": 270286027,
+    "category": "Computer Science"
+  },
+  "2405-13943": {
+    "title": "DOGS: Distributed-Oriented Gaussian Splatting for Large-Scale 3D Reconstruction Via Gaussian Consensus",
+    "authors": [
+      "Yu Chen",
+      "Gim Hee Lee"
+    ],
+    "publication_date": "2024-05-22",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "192ba2f22c2f94d192af762ba6064bd827bbd59e",
+    "corpus_id": 269982508,
+    "category": "Computer Science"
+  },
+  "2404-01133": {
+    "title": "CityGaussian: Real-time High-quality Large-Scale Scene Rendering with Gaussians",
+    "authors": [
+      "Yang Liu",
+      "He Guan",
+      "Chuanchen Luo",
+      "Lue Fan",
+      "Junran Peng",
+      "Zhaoxiang Zhang"
+    ],
+    "publication_date": "2024-04-01",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "d0aaeb36661475a6cc840c1353adf25f5890d27a",
+    "corpus_id": 268819328,
+    "category": "Computer Science"
+  },
+  "2403-20032": {
+    "title": "HO-Gaussian: Hybrid Optimization of 3D Gaussian Splatting for Urban Scenes",
+    "authors": [
+      "Zhuopeng Li",
+      "Yilin Zhang",
+      "Chenming Wu",
+      "Jian-Zong Zhu",
+      "Liangjun Zhang"
+    ],
+    "publication_date": "2024-03-29",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "51ea1c5f17de14e93b3741825d0293f57e787ed0",
+    "corpus_id": 268793568,
+    "category": "Computer Science"
+  },
+  "2403-14627": {
+    "title": "MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images",
+    "authors": [
+      "Yuedong Chen",
+      "Haofei Xu",
+      "Chuanxia Zheng",
+      "Bohan Zhuang",
+      "M. Pollefeys",
+      "Andreas Geiger",
+      "Tat-Jen Cham",
+      "Jianfei Cai"
+    ],
+    "publication_date": "2024-03-21",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "fa0c7c850b6298fa49518e42e9f9e492dd4c5541",
+    "corpus_id": 268553970,
+    "category": "Computer Science"
+  },
+  "2403-11460": {
+    "title": "Fed3DGS: Scalable 3D Gaussian Splatting with Federated Learning",
+    "authors": [
+      "Teppei Suzuki"
+    ],
+    "publication_date": "2024-03-18",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "67e1b2a8742ac7ec67b2b0a14b4db289399ad8f8",
+    "corpus_id": 268513331,
+    "category": "Computer Science"
+  },
+  "2403-06912": {
+    "title": "DNGaussian: Optimizing Sparse-View 3D Gaussian Radiance Fields with Global-Local Depth Normalization",
+    "authors": [
+      "Jiahe Li",
+      "Jiawei Zhang",
+      "Xiao Bai",
+      "Jin Zheng",
+      "Xin Ning",
+      "Jun Zhou",
+      "Lin Gu"
+    ],
+    "publication_date": "2024-03-11",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "f710834a3e6de8f066b116a97711e9782532c15f",
+    "corpus_id": 268363574,
+    "category": "Computer Science"
+  },
+  "2402-17427": {
+    "title": "VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction",
+    "authors": [
+      "Jiaqi Lin",
+      "Zhihao Li",
+      "Xiao Tang",
+      "Jianzhuang Liu",
+      "Shiyong Liu",
+      "Jiayue Liu",
+      "Yangdi Lu",
+      "Xiaofei Wu",
+      "Songcen Xu",
+      "Youliang Yan",
+      "Wenming Yang"
+    ],
+    "publication_date": "2024-02-27",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "930283ab1c699d72dd95720f91d3124ed7f4ea1c",
+    "corpus_id": 268032504,
+    "category": "Computer Science"
+  },
+  "2312-14132": {
+    "title": "DUSt3R: Geometric 3D Vision Made Easy",
+    "authors": [
+      "Shuzhe Wang",
+      "Vincent Leroy",
+      "Yohann Cabon",
+      "Boris Chidlovskii",
+      "Jérôme Revaud"
+    ],
+    "publication_date": "2023-12-21",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "5f82a81766cb78395a55b8fc697c2421a20f4a9e",
+    "corpus_id": 266436038,
+    "category": "Computer Science"
+  },
+  "2312-13150": {
+    "title": "Splatter Image: Ultra-Fast Single-View 3D Reconstruction",
+    "authors": [
+      "Stanislaw Szymanowicz",
+      "C. Rupprecht",
+      "A. Vedaldi"
+    ],
+    "publication_date": "2023-12-20",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "32032367b4e57d1fa355864982b62fb44b52cfc8",
+    "corpus_id": 266374851,
+    "category": "Computer Science"
+  },
+  "2312-12337": {
+    "title": "PixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction",
+    "authors": [
+      "David Charatan",
+      "S. Li",
+      "Andrea Tagliasacchi",
+      "Vincent Sitzmann"
+    ],
+    "publication_date": "2023-12-19",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "632a4956aebedd85f61445718ec5df9589bb5843",
+    "corpus_id": 266362208,
+    "category": "Computer Science"
+  },
+  "2312-02155": {
+    "title": "GPS-Gaussian: Generalizable Pixel-Wise 3D Gaussian Splatting for Real-Time Human Novel View Synthesis",
+    "authors": [
+      "Shunyuan Zheng",
+      "Boyao Zhou",
+      "Ruizhi Shao",
+      "Boning Liu",
+      "Shengping Zhang",
+      "Liqiang Nie",
+      "Yebin Liu"
+    ],
+    "publication_date": "2023-12-04",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "745095916bb16d8e11562ede6ce30846c37e9ebd",
+    "corpus_id": 265608762,
+    "category": "Computer Science"
+  },
+  "2312-00451": {
+    "title": "FSGS: Real-Time Few-shot View Synthesis using Gaussian Splatting",
+    "authors": [
+      "Zehao Zhu",
+      "Zhiwen Fan",
+      "Yifan Jiang",
+      "Zhangyang Wang"
+    ],
+    "publication_date": "2023-12-01",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "51965f41228e35a798c55613c40dd1499584660b",
+    "corpus_id": 265552031,
+    "category": "Computer Science"
+  },
+  "2311-16664": {
+    "title": "DGNR: Density-Guided Neural Point Rendering of Large Driving Scenes",
+    "authors": [
+      "Zhuopeng Li",
+      "Chenming Wu",
+      "Liangjun Zhang",
+      "Jian-Zong Zhu"
+    ],
+    "publication_date": "2023-11-28",
+    "venue": "IEEE Transactions on Automation Science and Engineering",
+    "semantic_scholar_id": "1a8701333a8a38c8419ef931c78ee8e602631a3d",
+    "corpus_id": 265466405,
+    "category": "Computer Science"
+  },
+  "2308-15733": {
+    "title": "Drone-NeRF: Efficient NeRF Based 3D Scene Reconstruction for Large-Scale Drone Survey",
+    "authors": [
+      "Zhi Jia",
+      "Bing Wang",
+      "Changhao Chen"
+    ],
+    "publication_date": "2023-08-30",
+    "venue": "Image and Vision Computing",
+    "semantic_scholar_id": "6a88035245eba529e98b661ada1591e3198bfb88",
+    "corpus_id": 261339671,
+    "category": "Computer Science"
+  },
+  "2308-04079": {
+    "title": "3D Gaussian Splatting for Real-Time Radiance Field Rendering",
+    "authors": [
+      "Bernhard Kerbl",
+      "Georgios Kopanas",
+      "Thomas Leimkuehler",
+      "G. Drettakis"
+    ],
+    "publication_date": "2023-07-26",
+    "venue": "ACM Transactions on Graphics",
+    "semantic_scholar_id": "2cc1d857e86d5152ba7fe6a8355c2a0150cc280a",
+    "corpus_id": 259267917,
+    "category": "Computer Science"
+  },
+  "2304-08463": {
+    "title": "Learning to Render Novel Views from Wide-Baseline Stereo Pairs",
+    "authors": [
+      "Yilun Du",
+      "Cameron Smith",
+      "A. Tewari",
+      "Vincent Sitzmann"
+    ],
+    "publication_date": "2023-04-17",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "6ae06fdab54b37a6bddc5bbbe1ed8909b735c7e2",
+    "corpus_id": 258179236,
+    "category": "Computer Science"
+  },
+  "2303-16196": {
+    "title": "SparseNeRF: Distilling Depth Ranking for Few-shot Novel View Synthesis",
+    "authors": [
+      "Guangcong Wang",
+      "Zhaoxi Chen",
+      "Chen Change Loy",
+      "Ziwei Liu"
+    ],
+    "publication_date": "2023-03-28",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "3b0adce2481b4786be8d9810ccb2b1a9dec2f8ba",
+    "corpus_id": 257771582,
+    "category": "Computer Science"
+  },
+  "2303-14001": {
+    "title": "Grid-guided Neural Radiance Fields for Large Urban Scenes",
+    "authors": [
+      "Linning Xu",
+      "Yuanbo Xiangli",
+      "Sida Peng",
+      "Xingang Pan",
+      "Nanxuan Zhao",
+      "C. Theobalt",
+      "Bo Dai",
+      "Dahua Lin"
+    ],
+    "publication_date": "2023-03-24",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "b904a7f27dafcd2d29de5852fcad03041a1166f5",
+    "corpus_id": 257756954,
+    "category": "Computer Science"
+  },
+  "2303-07418": {
+    "title": "FreeNeRF: Improving Few-Shot Neural Rendering with Free Frequency Regularization",
+    "authors": [
+      "Jiawei Yang",
+      "M. Pavone",
+      "Yue Wang"
+    ],
+    "publication_date": "2023-03-13",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "59015e5b1f0fbe6a41feb87b1fbf76f3c7339840",
+    "corpus_id": 257505220,
+    "category": "Computer Science"
+  },
+  "2303-03003": {
+    "title": "Efficient Large-scale Scene Representation with a Hybrid of High-resolution Grid and Plane Features",
+    "authors": [
+      "Yuqi Zhang",
+      "Guanying Chen",
+      "Shuguang Cui"
+    ],
+    "publication_date": "2023-03-06",
+    "venue": "Pattern Recognition",
+    "semantic_scholar_id": "ef91b32ea9dc7deada8f6c37ced8da92074bf72d",
+    "corpus_id": 257364886,
+    "category": "Computer Science"
+  },
+  "2303-00304": {
+    "title": "Renderable Neural Radiance Map for Visual Navigation",
+    "authors": [
+      "Obin Kwon",
+      "Jeongho Park",
+      "Songhwai Oh"
+    ],
+    "publication_date": "2023-03-01",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "5e311019f725273df9fa4e03d82ad581e0e6ba80",
+    "corpus_id": 257254942,
+    "category": "Computer Science"
+  },
+  "2212-08051": {
+    "title": "Objaverse: A Universe of Annotated 3D Objects",
+    "authors": [
+      "Matt Deitke",
+      "Dustin Schwenk",
+      "Jordi Salvador",
+      "Luca Weihs",
+      "Oscar Michel",
+      "Eli VanderBilt",
+      "Ludwig Schmidt",
+      "Kiana Ehsani",
+      "Aniruddha Kembhavi",
+      "Ali Farhadi"
+    ],
+    "publication_date": "2022-12-15",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "1b31dbf44e68b698120552366df03e6e35a1e428",
+    "corpus_id": 254685588,
+    "category": "Computer Science"
+  },
+  "2210-04932": {
+    "title": "NeRF2Real: Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields",
+    "authors": [
+      "Arunkumar Byravan",
+      "Jan Humplik",
+      "Leonard Hasenclever",
+      "Arthur Brussee",
+      "F. Nori",
+      "Tuomas Haarnoja",
+      "Ben Moran",
+      "Steven Bohez",
+      "Fereshteh Sadeghi",
+      "Bojan Vujatovic",
+      "N. Heess"
+    ],
+    "publication_date": "2022-10-10",
+    "venue": "IEEE International Conference on Robotics and Automation",
+    "semantic_scholar_id": "9406e95bcafaf5dbce5629467a5e4282d40b667d",
+    "corpus_id": 252815541,
+    "category": "Computer Science"
+  },
+  "2202-05263": {
+    "title": "Block-NeRF: Scalable Large Scene Neural View Synthesis",
+    "authors": [
+      "Matthew Tancik",
+      "Vincent Casser",
+      "Xinchen Yan",
+      "Sabeek Pradhan",
+      "B. Mildenhall",
+      "Pratul P. Srinivasan",
+      "J. Barron",
+      "Henrik Kretzschmar"
+    ],
+    "publication_date": "2022-02-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "d7d1bbade9453f0348fac8a5c60d131528b87fcf",
+    "corpus_id": 246706356,
+    "category": "Computer Science"
+  },
+  "2112-10703": {
+    "title": "Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly- Throughs",
+    "authors": [
+      "Haithem Turki",
+      "Deva Ramanan",
+      "M. Satyanarayanan"
+    ],
+    "publication_date": "2021-12-20",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "80d44d92f074683ba8d4c86e1f18f0bc1a29abc4",
+    "corpus_id": 245334780,
+    "category": "Computer Science"
+  },
+  "2112-05504": {
+    "title": "BungeeNeRF: Progressive Neural Radiance Field for Extreme Multi-scale Scene Rendering",
+    "authors": [
+      "Yuanbo Xiangli",
+      "Linning Xu",
+      "Xingang Pan",
+      "Nanxuan Zhao",
+      "Anyi Rao",
+      "C. Theobalt",
+      "Bo Dai",
+      "Dahua Lin"
+    ],
+    "publication_date": "2021-12-10",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "795fecd949592a89c88cc96d22478df04519d4f8",
+    "corpus_id": 251040899,
+    "category": "Computer Science"
+  },
+  "2112-00724": {
+    "title": "RegNeRF: Regularizing Neural Radiance Fields for View Synthesis from Sparse Inputs",
+    "authors": [
+      "Michael Niemeyer",
+      "J. Barron",
+      "B. Mildenhall",
+      "Mehdi S. M. Sajjadi",
+      "Andreas Geiger",
+      "Noha Radwan"
+    ],
+    "publication_date": "2021-12-01",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "7163d171d4671ab8c0fd342e5280db532700999a",
+    "corpus_id": 244773517,
+    "category": "Computer Science"
+  },
+  "2107-04286": {
+    "title": "Capturing, Reconstructing, and Simulating: The UrbanScene3D Dataset",
+    "authors": [
+      "Liqiang Lin",
+      "Yilin Liu",
+      "Yue Hu",
+      "Xingguang Yan",
+      "Ke Xie",
+      "Hui Huang"
+    ],
+    "publication_date": "2021-07-09",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "906c24bd0da5ec3a69b886b5547bb4c2be9b7e3c",
+    "corpus_id": 247939747,
+    "category": "Computer Science"
+  },
+  "2104-00681": {
+    "title": "NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video",
+    "authors": [
+      "Jiaming Sun",
+      "Yiming Xie",
+      "Linghao Chen",
+      "Xiaowei Zhou",
+      "H. Bao"
+    ],
+    "publication_date": "2021-04-01",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "8db0bf0fa406254d4cd57eb413443a0b96bd12b8",
+    "corpus_id": 232478414,
+    "category": "Computer Science"
+  },
+  "2103-13413": {
+    "title": "Vision Transformers for Dense Prediction",
+    "authors": [
+      "René Ranftl",
+      "Alexey Bochkovskiy",
+      "V. Koltun"
+    ],
+    "publication_date": "2021-03-24",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "8e33914d6051dd031a5e096962b9398fc1d16067",
+    "corpus_id": 232352612,
+    "category": "Computer Science"
+  },
+  "1905-00889": {
+    "title": "Local light field fusion",
+    "authors": [
+      "B. Mildenhall",
+      "Pratul P. Srinivasan",
+      "Rodrigo Ortiz Cayon",
+      "N. Kalantari",
+      "Ravi Ramamoorthi",
+      "Ren Ng",
+      "Abhishek Kar"
+    ],
+    "publication_date": "2019-05-02",
+    "venue": "ACM Transactions on Graphics",
+    "semantic_scholar_id": "af39e137818ef8304ccea2ada546700de1dd2f8c",
+    "corpus_id": 260545139,
+    "category": "Computer Science"
+  },
+  "1706-03762": {
+    "title": "Attention is All you Need",
+    "authors": [
+      "Ashish Vaswani",
+      "Noam M. Shazeer",
+      "Niki Parmar",
+      "Jakob Uszkoreit",
+      "Llion Jones",
+      "Aidan N. Gomez",
+      "Lukasz Kaiser",
+      "I. Polosukhin"
+    ],
+    "publication_date": "2017-06-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+    "corpus_id": 13756489,
+    "category": "Computer Science"
+  }
+}

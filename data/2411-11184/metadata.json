@@ -1,0 +1,14 @@
+{
+  "title": "A Lie group corresponding to the free Lie algebra and its universality",
+  "authors": [
+    "Yury A. Neretin"
+  ],
+  "summary": "Consider the real free Lie algebra $\\mathfrak{fr}_n$ with generators $ω_1$, \\dots, $ω_n$. Since it is positively graded, it has a completion $\\overline{\\mathfrak{fr}}_n$ consisting of formal series. By the Campbell--Hausdorff formula, we have a corresponding Lie group $\\overline{\\mathrm{Fr}}_n$. It is the set $\\exp\\bigl(\\overline{\\mathfrak{fr}}_n\\bigr)$ in the completed universal enveloping algebra of $\\mathfrak{fr}_n$. Also, the group $\\overline{\\mathrm{Fr}}_n$ is a 'submanifold' in the algebra of formal associative noncommutative series in $ω_1$, \\dots, $ω_n$, the 'submanifold' is determined by a certain system of quadratic equations. We consider a certain dense subgroup $\\mathrm{Fr}_n^\\infty\\subset \\overline{\\mathrm{Fr}}_n$ with a stronger (Polish) topology and show that any homomorphism $π$ from $\\mathfrak{fr}_n$ to a real finite-dimensional Lie algebra $\\mathfrak{g}$ can be integrated in a unique way to a homomorphism $Π$ from $\\mathrm{Fr}_n^\\infty$ to the corresponding simply connected Lie group $G$. If $π$ is surjective, then $Π$ also is surjective. Note that Pestov (1993) constructed a separable Banach--Lie group such that any separable Banach--Lie group is its quotient.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [
+    "2025-03-29"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.GR, math.RA, math.RT"
+}

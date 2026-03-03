@@ -1,0 +1,15 @@
+{
+  "title": "Parsing Millions of DNS Records per Second",
+  "authors": [
+    "Jeroen Koekkoek",
+    "Daniel Lemire"
+  ],
+  "summary": "The Domain Name System (DNS) plays a critical role in the functioning of the Internet. It provides a hierarchical name space for locating resources. Data is typically stored in plain text files, possibly spanning gigabytes. Frequent parsing of these files to refresh the data is computationally expensive: processing a zone file can take minutes.\n  We propose a novel approach called simdzone to enhance DNS parsing throughput. We use data parallelism, specifically the Single Instruction Multiple Data (SIMD) instructions available on commodity processors. We show that we can multiply the parsing speed compared to state-of-the-art parsers found in Knot DNS and the NLnet Labs Name Server Daemon (NSD). The resulting software library replaced the parser in NSD.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-12-12"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DS"
+}

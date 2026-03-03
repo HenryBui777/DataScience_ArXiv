@@ -1,0 +1,19 @@
+{
+  "title": "Advanced Plaque Modeling for Atherosclerosis Detection Using Molecular Communication",
+  "authors": [
+    "Alexander Wietfeld",
+    "Pit Hofmann",
+    "Jonas Fuchtmann",
+    "Pengjie Zhou",
+    "Ruifeng Zheng",
+    "Juan A. Cabrera",
+    "Frank H. P. Fitzek",
+    "Wolfgang Kellerer"
+  ],
+  "summary": "As one of the most prevalent diseases worldwide, plaque formation in human arteries, known as atherosclerosis, is the focus of many research efforts. Previously, molecular communication (MC) models have been proposed to capture and analyze the natural processes inside the human body and to support the development of diagnosis and treatment methods. In the future, synthetic MC networks are envisioned to span the human body as part of the Internet of Bio-Nano Things (IoBNT), turning blood vessels into physical communication channels. By observing and characterizing changes in these channels, MC networks could play an active role in detecting diseases like atherosclerosis. In this paper, building on previous preliminary work for simulating an MC scenario in a plaque-obstructed blood vessel, we evaluate different analytical models for non-Newtonian flow and derive associated channel impulse responses (CIRs). Additionally, we add the crucial factor of flow pulsatility to our simulation model and investigate the effect of the systole-diastole cycle on the received particles across the plaque channel. We observe a significant influence of the plaque on the channel in terms of the flow profile and CIR across different emission times in the cycle. These metrics could act as crucial indicators for early non-invasive plaque detection in advanced future MC methods.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.ET, physics.med-ph"
+}

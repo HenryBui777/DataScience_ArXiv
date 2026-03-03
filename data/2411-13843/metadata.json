@@ -1,0 +1,14 @@
+{
+  "title": "Non-parametric structural shape optimization of piecewise developable surfaces using discrete differential geometry",
+  "authors": [
+    "Makoto Ohsaki",
+    "Kentaro Hayakawa",
+    "Jingyao Zhang"
+  ],
+  "summary": "We propose a two-level structural optimization method for obtaining an approximate optimal shape of piecewise developable surface without specifying internal boundaries between surface patches. The condition for developability of a polyhedral surface onto a plane is formulated using the area of discrete Gauss map formed by unit normal vectors at the faces adjacent to each vertex. The objective function of the lower-level optimization problem is the sum of square errors for developability at all interior vertices. The contribution of large error to the objective function is underestimated by filtering with hyperbolic tangent function so that the internal boundary between the surface patches can naturally emerge as a result of optimization. Vertices are located non-periodically to generate the internal boundaries in various unspecified directions. Simulated annealing is used for the upper-level optimization problem for maximizing stiffness evaluated by the compliance under the specified vertical loads. The design variables are the heights of the specified points. It is shown in the numerical examples that the compliance values of the surfaces with a square and a rectangular plan are successfully reduced by the proposed method while keeping the developability of each surface patch. Thus, a new class of structural shape optimization problem of shell surfaces is proposed by limiting the feasible surface to piecewise developable surfaces which have desirable geometrical characteristics in view of fabrication and construction.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC"
+}

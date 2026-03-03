@@ -1,0 +1,15 @@
+{
+  "title": "TaQ-DiT: Time-aware Quantization for Diffusion Transformers",
+  "authors": [
+    "Xinyan Liu",
+    "Huihong Shi",
+    "Yang Xu",
+    "Zhongfeng Wang"
+  ],
+  "summary": "Transformer-based diffusion models, dubbed Diffusion Transformers (DiTs), have achieved state-of-the-art performance in image and video generation tasks. However, their large model size and slow inference speed limit their practical applications, calling for model compression methods such as quantization. Unfortunately, existing DiT quantization methods overlook (1) the impact of reconstruction and (2) the varying quantization sensitivities across different layers, which hinder their achievable performance. To tackle these issues, we propose innovative time-aware quantization for DiTs (TaQ-DiT). Specifically, (1) we observe a non-convergence issue when reconstructing weights and activations separately during quantization and introduce a joint reconstruction method to resolve this problem. (2) We discover that Post-GELU activations are particularly sensitive to quantization due to their significant variability across different denoising steps as well as extreme asymmetries and variations within each step. To address this, we propose time-variance-aware transformations to facilitate more effective quantization. Experimental results show that when quantizing DiTs' weights to 4-bit and activations to 8-bit (W4A8), our method significantly surpasses previous quantization methods.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV"
+}

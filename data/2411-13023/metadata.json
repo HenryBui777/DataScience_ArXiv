@@ -1,0 +1,16 @@
+{
+  "title": "Enhancing Transportation Cyber-Physical Systems Security: A Shift to Post-Quantum Cryptography",
+  "authors": [
+    "Abdullah Al Mamun",
+    "Akid Abrar",
+    "Mizanur Rahman",
+    "M Sabbir Salek",
+    "Mashrur Chowdhury"
+  ],
+  "summary": "The rise of quantum computing threatens traditional cryptographic algorithms that secure Transportation Cyber-Physical Systems (TCPS). Shor's algorithm poses a significant threat to RSA and ECC, while Grover's algorithm reduces the security of symmetric encryption schemes, such as AES. The objective of this paper is to underscore the urgency of transitioning to post-quantum cryptography (PQC) to mitigate these risks in TCPS by analyzing the vulnerabilities of traditional cryptographic schemes and the applicability of standardized PQC schemes in TCPS. We analyzed vulnerabilities in traditional cryptography against quantum attacks and reviewed the applicability of NIST-standardized PQC schemes, including CRYSTALS-Kyber, CRYSTALS-Dilithium, and SPHINCS+, in TCPS. We conducted a case study to analyze the vulnerabilities of a TCPS application from the Architecture Reference for Cooperative and Intelligent Transportation (ARC-IT) service package, i.e., Electronic Toll Collection, leveraging the Microsoft Threat Modeling tool. This case study highlights the cryptographic vulnerabilities of a TCPS application and presents how PQC can effectively counter these threats. Additionally, we evaluated CRYSTALS-Kyber's performance across wired and wireless TCPS data communication scenarios. While CRYSTALS-Kyber proves effective in securing TCPS applications over high-bandwidth, low-latency Ethernet networks, our analysis highlights challenges in meeting the stringent latency requirements of safety-critical wireless applications within TCPS. Future research should focus on developing lightweight PQC solutions and hybrid schemes that integrate traditional and PQC algorithms, to enhance compatibility, scalability, and real-time performance, ensuring robust protection against emerging quantum threats in TCPS.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR"
+}

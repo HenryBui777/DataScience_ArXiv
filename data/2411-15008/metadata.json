@@ -1,0 +1,14 @@
+{
+  "title": "Evolutionary Automata and Deep Evolutionary Computation",
+  "authors": [
+    "Eugene Eberbach"
+  ],
+  "summary": "Evolution by natural selection, which is one of the most compelling themes of modern science, brought forth evolutionary algorithms and evolutionary computation, applying mechanisms of evolution in nature to various problems solved by computers. In this paper we concentrate on evolutionary automata that constitute an analogous model of evolutionary computation compared to well-known evolutionary algorithms. Evolutionary automata provide a more complete dual model of evolutionary computation, similar like abstract automata (e.g., Turing machines) form a more formal and precise model compared to recursive algorithms and their subset - evolutionary algorithms. An evolutionary automaton is an automaton that evolves performing evolutionary computation perhaps using an infinite number of generations. This model allows for a direct modeling evolution of evolution, and leads to tremendous expressiveness of evolutionary automata and evolutionary computation. This also gives the hint to the power of natural evolution that is self-evolving by interactive feedback with the environment.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-08-25"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.NE, cs.CL"
+}

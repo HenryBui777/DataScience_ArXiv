@@ -1,0 +1,20 @@
+{
+  "title": "Med-2E3: A 2D-Enhanced 3D Medical Multimodal Large Language Model",
+  "authors": [
+    "Yiming Shi",
+    "Xun Zhu",
+    "Kaiwen Wang",
+    "Ying Hu",
+    "Chenyi Guo",
+    "Miao Li",
+    "Ji Wu"
+  ],
+  "summary": "3D medical image analysis is essential for modern healthcare, yet traditional task-specific models are inadequate due to limited generalizability across diverse clinical scenarios. Multimodal large language models (MLLMs) offer a promising solution to these challenges. However, existing MLLMs have limitations in fully leveraging the rich, hierarchical information embedded in 3D medical images. Inspired by clinical practice, where radiologists focus on both 3D spatial structure and 2D planar content, we propose Med-2E3, a 3D medical MLLM that integrates a dual 3D-2D encoder architecture. To aggregate 2D features effectively, we design a Text-Guided Inter-Slice (TG-IS) scoring module, which scores the attention of each 2D slice based on slice contents and task instructions. To the best of our knowledge, Med-2E3 is the first MLLM to integrate both 3D and 2D features for 3D medical image analysis. Experiments on large-scale, open-source 3D medical multimodal datasets demonstrate that TG-IS exhibits task-specific attention distribution and significantly outperforms current state-of-the-art models. The code is available at: https://github.com/MSIIP/Med-2E3",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-10-21"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

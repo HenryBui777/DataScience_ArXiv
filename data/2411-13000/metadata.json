@@ -1,0 +1,15 @@
+{
+  "title": "NCAirFL: CSI-Free Over-the-Air Federated Learning Based on Non-Coherent Detection",
+  "authors": [
+    "Haifeng Wen",
+    "Nicolò Michelusi",
+    "Osvaldo Simeone",
+    "Hong Xing"
+  ],
+  "summary": "Over-the-air federated learning (FL), i.e., AirFL, leverages computing primitively over multiple access channels. A long-standing challenge in AirFL is to achieve coherent signal alignment without relying on expensive channel estimation and feedback. This paper proposes NCAirFL, a CSI-free AirFL scheme based on unbiased non-coherent detection at the edge server. By exploiting binary dithering and a long-term memory based error-compensation mechanism, NCAirFL achieves a convergence rate of order $\\mathcal{O}(1/\\sqrt{T})$ in terms of the average square norm of the gradient for general non-convex and smooth objectives, where $T$ is the number of communication rounds. Experiments demonstrate the competitive performance of NCAirFL compared to vanilla FL with ideal communications and to coherent transmission-based benchmarks.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IT, cs.LG, eess.SP"
+}

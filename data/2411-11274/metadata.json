@@ -1,0 +1,16 @@
+{
+  "title": "Computing Conforming Partitions with Low Stabbing Number for Rectilinear Polygons",
+  "authors": [
+    "Therese Biedl",
+    "Stephane Durocher",
+    "Debajyoti Mondal",
+    "Rahnuma Islam Nishat",
+    "Bastien Rivier"
+  ],
+  "summary": "A \\emph{conforming partition} of a rectilinear $ n $-gon\\bastien{I change from ``a polygon'', otherwise $ n $ is not defined.} $ P $ is a partition of $ P $ into rectangles without using Steiner points (i.e., all corners of all rectangles must lie on\\bastien{Maybe add: the boundary of} $ P $). The stabbing number of such a partition is the maximum number of rectangles intersected by an axis-aligned segment lying in the interior of $ P $. In this paper, we examine the problem of computing conforming partitions with low stabbing number. We show that computing a conforming partition with stabbing number at most~$ 4 $ is $ NP $-hard, which strengthens a previously known hardness result [Durocher \\& Mehrabi, Theor. Comput. Sci. 689: 157-168 (2017)] and eliminates the possibility for fixed-parameter-tractable algorithms parameterized by the stabbing number unless $ P = NP $. In contrast, we give (i) an $ O ( n \\log n ) $-time\\bastien{Reviewer request: changed from \"linearithmic\".} algorithm to decide whether a conforming partition with stabbing number~$ 2 $ exists, (ii) a fixed-parameter-tractable algorithm parameterized by both the stabbing number and treewidth of the pixelation of the polygon, and (iii) a fixed-parameter-tractable algorithm parameterized by the stabbing number for simple polygons in general position.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CG"
+}

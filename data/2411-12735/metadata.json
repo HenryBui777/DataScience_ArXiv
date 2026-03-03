@@ -1,0 +1,16 @@
+{
+  "title": "The More the Merrier: On Evolving Five-valued Spectra Boolean Functions",
+  "authors": [
+    "Claude Carlet",
+    "Marko Ðurasevic",
+    "Domagoj Jakobovic",
+    "Luca Mariot",
+    "Stjepan Picek"
+  ],
+  "summary": "Evolving Boolean functions with specific properties is an interesting optimization problem since, depending on the combination of properties and Boolean function size, the problem can range from very simple to (almost) impossible to solve. Moreover, some problems are more interesting as there may be only a few options for generating the required Boolean functions. This paper investigates one such problem: evolving five-valued spectra Boolean functions, which are the functions whose Walsh-Hadamard coefficients can only take five distinct values. We experimented with three solution encodings, two fitness functions, and 12 Boolean function sizes and showed that the tree encoding is superior to other choices, as we can obtain five-valued Boolean functions with high nonlinearity.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.NE"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "GNN-MultiFix: Addressing the pitfalls for GNNs for multi-label node classification",
+  "authors": [
+    "Tianqi Zhao",
+    "Megha Khosla"
+  ],
+  "summary": "Graph neural networks (GNNs) have emerged as powerful models for learning representations of graph data showing state of the art results in various tasks. Nevertheless, the superiority of these methods is usually supported by either evaluating their performance on small subset of benchmark datasets or by reasoning about their expressive power in terms of certain graph isomorphism tests. In this paper we critically analyse both these aspects through a transductive setting for the task of node classification. First, we delve deeper into the case of multi-label node classification which offers a more realistic scenario and has been ignored in most of the related works. Through analysing the training dynamics for GNN methods we highlight the failure of GNNs to learn over multi-label graph datasets even for the case of abundant training data. Second, we show that specifically for transductive node classification, even the most expressive GNN may fail to learn in absence of node attributes and without using explicit label information as input. To overcome this deficit, we propose a straightforward approach, referred to as GNN-MultiFix, that integrates the feature, label, and positional information of a node. GNN-MultiFix demonstrates significant improvement across all the multi-label datasets. We release our code at https://anonymous.4open.science/r/Graph-MultiFix-4121.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

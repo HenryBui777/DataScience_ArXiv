@@ -1,0 +1,48 @@
+{
+  "elements": {
+    "document-2411-001": "Document",
+    "sent-2411-001": "It is not substantially the same as any work that has already been submitted, or is being concurrently submitted, for any degree, diploma or other qualification at the University of Cambridge or any other University or similar institution except as declared in the preface and specified in the text.",
+    "sent-2411-002": "It does not exceed the prescribed word limit for the relevant Degree Committee.. \\end{declaration.}",
+    "abstract-2411-001": "Abstract",
+    "sent-2411-003": "General Relativity (GR) has been immensely successful at predicting gravitational phenomena at the energy scales we have observed thus far.",
+    "sent-2411-004": "However, we know GR will lose its predictive power at sufficiently high energy scales due to its nonrenormalizability.",
+    "sent-2411-005": "Therefore, we should think of GR as the low energy limit of some unknown UV-complete theory of gravity which we have been unable to probe so far, and thus we should develop the mathematical theory around possible corrections to GR.",
+    "sent-2411-006": "One approach is the framework of effective field theory (EFT), where the Lagrangian is treated as a series of higher derivative terms scaling with some UV parameter beyond which we have \"integrated out\" the unknown physics.",
+    "sent-2411-007": "This thesis is concerned with studying two issues in gravitational EFTs.",
+    "sent-2411-008": "First, we would like these theories to be mathematically healthy and thus should ask whether their equations are well-posed.",
+    "sent-2411-009": "Previous work has answered this in the affirmative for certain EFTs of gravity and the simplest form of matter, a scalar field.",
+    "sent-2411-010": "Here, we will demonstrate this remains true with the inclusion of a more complicated matter field, the electromagnetic field.",
+    "sent-2411-011": "Specifically, we show that a \"modified harmonic\" gauge produces a strongly hyperbolic formulation of the leading order Einstein-Maxwell EFT so long as the higher derivative terms are small.",
+    "sent-2411-012": "Second, the thermodynamic nature of black holes is independent of the theory of gravity, therefore we should expect the laws of black hole mechanics to remain valid in EFT.",
+    "sent-2411-013": "Here we will demonstrate this is indeed the case for EFTs of gravity and broad classes of matter fields.",
+    "sent-2411-014": "We show that the zeroth law can be proved for EFTs of gravity, electromagnetism and a charged or uncharged scalar field.",
+    "sent-2411-015": "We find we must modify the statements of the first and second laws by generalizing the formula of black hole entropy from the Bekenstein-Hawking entropy used in GR.",
+    "sent-2411-016": "For stationary black holes, the Wald entropy is a sufficient definition to satisfy the first law in EFT.",
+    "sent-2411-017": "For dynamical black holes we show that with further corrections we can prove a non-perturbative second law.",
+    "sent-2411-018": "We discuss the gauge dependence of this definition of dynamical black hole entropy and provide explicit constructions for specific EFTs."
+  },
+  "hierarchy": {
+    "1": {
+      "document-2411-001": null,
+      "sent-2411-001": "document-2411-001",
+      "sent-2411-002": "document-2411-001",
+      "abstract-2411-001": "document-2411-001",
+      "sent-2411-003": "abstract-2411-001",
+      "sent-2411-004": "abstract-2411-001",
+      "sent-2411-005": "abstract-2411-001",
+      "sent-2411-006": "abstract-2411-001",
+      "sent-2411-007": "abstract-2411-001",
+      "sent-2411-008": "abstract-2411-001",
+      "sent-2411-009": "abstract-2411-001",
+      "sent-2411-010": "abstract-2411-001",
+      "sent-2411-011": "abstract-2411-001",
+      "sent-2411-012": "abstract-2411-001",
+      "sent-2411-013": "abstract-2411-001",
+      "sent-2411-014": "abstract-2411-001",
+      "sent-2411-015": "abstract-2411-001",
+      "sent-2411-016": "abstract-2411-001",
+      "sent-2411-017": "abstract-2411-001",
+      "sent-2411-018": "abstract-2411-001"
+    }
+  }
+}

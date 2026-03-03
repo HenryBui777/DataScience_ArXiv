@@ -1,0 +1,15 @@
+{
+  "title": "PyAWD: A Library for Generating Large Synthetic Datasets of Acoustic Wave Propagation",
+  "authors": [
+    "Pascal Tribel",
+    "Gianluca Bontempi"
+  ],
+  "summary": "Seismic data is often sparse and unevenly distributed due to the high costs and logistical challenges associated with deploying physical seismometers, limiting the application of Machine Learning (ML) in earthquake analysis. While simulation methods exist, no tool allows the generation of large datasets containing simulated measurements of the ground motion. To address this gap, we introduce PyAWD, a Python library designed to generate high-resolution synthetic datasets simulating spatio-temporal acoustic wave propagation in both two-dimensional and three-dimensional heterogeneous media. By allowing fine control over parameters such as the wave speed, external forces, spatial and temporal discretization, and media composition, PyAWD enables the creation of ML-scale datasets that capture the complexity of seismic wave behavior. We illustrate the library's potential with an epicenter retrieval task, showcasing its suitability for designing complex, accurate seismic problems that require advanced ML approaches in the absence or lack of dense real-world data. We also show the usefulness of our tool to tackle the problem of data budgeting in the framework of epicenter retrieval.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-04-29"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

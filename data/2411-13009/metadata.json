@@ -1,0 +1,17 @@
+{
+  "title": "LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts",
+  "authors": [
+    "Zhuohan Gu",
+    "Jiayi Yao",
+    "Kuntai Du",
+    "Junchen Jiang"
+  ],
+  "summary": "As large language models (LLMs) show impressive performance on complex tasks, they still struggle with longer contextual understanding and high computational costs. To balance efficiency and quality, we introduce LLMSteer, a fine-tuning-free framework that enhances LLMs through query-independent attention steering. Tested on popular LLMs and datasets, LLMSteer narrows the performance gap with baselines by 65.9% and reduces the runtime delay by up to 4.8x compared to recent attention steering methods.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-21"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.CL"
+}

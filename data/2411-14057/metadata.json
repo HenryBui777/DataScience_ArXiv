@@ -1,0 +1,15 @@
+{
+  "title": "Characterizing and Transforming DAGs within the I-LCA Framework",
+  "authors": [
+    "Marc Hellmuth",
+    "Anna Lindeberg"
+  ],
+  "summary": "We explore the connections between clusters and least common ancestors (LCAs) in directed acyclic graphs (DAGs), focusing on the interplay between so-called $I$-lca-relevant DAGs and DAGs with the $I$-lca-property. Here, $I$ denotes a set of integers. In $I$-lca-relevant DAGs, each vertex is the unique LCA for some subset $A$ of leaves of size $|A|\\in I$, whereas in a DAG with the $I$-lca-property there exists a unique LCA for every subset $A$ of leaves satisfying $|A|\\in I$. We elaborate on the difference between these two properties and establish their close relationship to pre-$I$-ary and $I$-ary set systems. This, in turn, generalizes results established for (pre-)binary and $k$-ary set systems. Moreover, we build upon recently established results that use a simple operator $\\ominus$, enabling the transformation of arbitrary DAGs into $I$-lca-relevant DAGs. This process reduces unnecessary complexity while preserving key structural properties of the original DAG. The set $C_G$ consists of all clusters in a DAG $G$, where clusters correspond to the descendant leaves of vertices. While in some cases $C_H = C_G$ when transforming $G$ into an $I$-lca-relevant DAG $H$, it often happens that certain clusters in $C_G$ do not appear as clusters in $H$. To understand this phenomenon in detail, we characterize the subset of clusters in $C_G$ that remain in $H$ for DAGs $G$ with the $I$-lca-property. Furthermore, we show that the set $W$ of vertices required to transform $G$ into $H = G \\ominus W$ is uniquely determined for such DAGs. This, in turn, allows us to show that the ``shortcut-free'' version of the transformed DAG $H$ is always a tree or a galled-tree whenever $C_G$ represents the clustering system of a tree or galled-tree and $G$ has the $I$-lca-property. In the latter case $C_H = C_G$ always holds.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-08-11"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.CO, cs.DM"
+}

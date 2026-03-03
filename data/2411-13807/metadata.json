@@ -1,0 +1,21 @@
+{
+  "title": "MagicDrive-V2: High-Resolution Long Video Generation for Autonomous Driving with Adaptive Control",
+  "authors": [
+    "Ruiyuan Gao",
+    "Kai Chen",
+    "Bo Xiao",
+    "Lanqing Hong",
+    "Zhenguo Li",
+    "Qiang Xu"
+  ],
+  "summary": "The rapid advancement of diffusion models has greatly improved video synthesis, especially in controllable video generation, which is vital for applications like autonomous driving. Although DiT with 3D VAE has become a standard framework for video generation, it introduces challenges in controllable driving video generation, especially for geometry control, rendering existing control methods ineffective. To address these issues, we propose MagicDrive-V2, a novel approach that integrates the MVDiT block and spatial-temporal conditional encoding to enable multi-view video generation and precise geometric control. Additionally, we introduce an efficient method for obtaining contextual descriptions for videos to support diverse textual control, along with a progressive training strategy using mixed video data to enhance training efficiency and generalizability. Consequently, MagicDrive-V2 enables multi-view driving video synthesis with $3.3\\times$ resolution and $4\\times$ frame count (compared to current SOTA), rich contextual control, and geometric controls. Extensive experiments demonstrate MagicDrive-V2's ability, unlocking broader applications in autonomous driving.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-03-04",
+    "2025-03-05",
+    "2025-07-25"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

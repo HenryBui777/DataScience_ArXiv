@@ -1,0 +1,12 @@
+{
+  "title": "Switching Graph Matrix Norm Bounds: from i.i.d. to Random Regular Graphs",
+  "authors": [
+    "Jeff Xu"
+  ],
+  "summary": "In this work, we give novel spectral norm bounds for graph matrix on inputs being random regular graphs. Graph matrix is a family of random matrices with entries given by polynomial functions of the underlying input. These matrices have been known to be the backbone for the analysis of various average-case algorithms and hardness. Previous investigations of such matrices are largely restricted to the \\Erdos-\\Renyi model, and tight matrix norm bounds on regular graphs are only known for specific examples. We unite these two lines of investigations, and give the first result departing from the \\Erdos-\\Renyi setting in the full generality of graph matrices. We believe our norm bound result would enable a simple transfer of spectral analysis for average-case algorithms and hardness between these two distributions of random graphs.\n  As an application of our spectral norm bounds, we show that higher-degree Sum-of-Squares lower bounds for the independent set problem on \\Erdos-\\Renyi random graphs can be switched into lower bounds on random $d$-regular graphs. Our result is the first to address the general open question of analyzing higher-degree Sum-of-Squares on random regular graphs.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CC"
+}

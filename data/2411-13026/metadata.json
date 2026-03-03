@@ -1,0 +1,16 @@
+{
+  "title": "X as Supervision: Contending with Depth Ambiguity in Unsupervised Monocular 3D Pose Estimation",
+  "authors": [
+    "Yuchen Yang",
+    "Xuanyi Liu",
+    "Xing Gao",
+    "Zhihang Zhong",
+    "Xiao Sun"
+  ],
+  "summary": "Recent unsupervised methods for monocular 3D pose estimation have endeavored to reduce dependence on limited annotated 3D data, but most are solely formulated in 2D space, overlooking the inherent depth ambiguity issue. Due to the information loss in 3D-to-2D projection, multiple potential depths may exist, yet only some of them are plausible in human structure. To tackle depth ambiguity, we propose a novel unsupervised framework featuring a multi-hypothesis detector and multiple tailored pretext tasks. The detector extracts multiple hypotheses from a heatmap within a local window, effectively managing the multi-solution problem. Furthermore, the pretext tasks harness 3D human priors from the SMPL model to regularize the solution space of pose estimation, aligning it with the empirical distribution of 3D human structures. This regularization is partially achieved through a GCN-based discriminator within the discriminative learning, and is further complemented with synthetic images through rendering, ensuring plausible estimations. Consequently, our approach demonstrates state-of-the-art unsupervised 3D pose estimation performance on various human datasets. Further evaluations on data scale-up and one animal dataset highlight its generalization capabilities. Code will be available at https://github.com/Charrrrrlie/X-as-Supervision.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

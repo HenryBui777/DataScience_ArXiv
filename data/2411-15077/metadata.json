@@ -1,0 +1,17 @@
+{
+  "title": "Constructing Multipartite Planar Maximally Entangled States from Phase States and Quantum Secret Sharing Protocol",
+  "authors": [
+    "Lahoucine Bouhouch",
+    "Yassine Dakir",
+    "Abdallah Slaoui",
+    "Rachid Ahl Laamara"
+  ],
+  "summary": "In this paper, we explore the construction of Planar Maximally Entangled (PME) states from phase states. PME states form a class of $n$-partite states in which any subset of adjacent particles whose size is less than or equal to half the total number of particles is in a fully entangled state. This property is essential to ensuring the robustness and stability of PME states in various quantum information applications. We introduce phase states for a set of so-called noninteracting $n$ particles and describe their corresponding separable density matrices. These phase states, although individually separable, serve as a starting point for the generation of entangled states when subjected to unitary dynamics. Using this method, we suggest a way to make complex multi-qubit states by watching how unconnected phase states change over time with a certain unitary interaction operator. In addition, we show how to derive PME states from these intricate phase states for two-, three-, four-, and K-qubit systems. This construction method for PME states represents a significant advance over absolutely maximally entangled (AME) states, as it provides a more accessible and versatile resource for quantum information processing. Not only does it enable the creation of a broader class of multipartite entangled states, overcoming the limitations of AME states, notably their restricted availability in low-dimensional systems; for example, the absence of a four-qubit AME state, but it also offers a systematic construction method for any even number of qudits, paving the way for practical applications in key quantum technologies such as teleportation, secret sharing and error correction, where multipartite entanglement plays a central role in protocol efficiency.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-02-07"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, math-ph"
+}

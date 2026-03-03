@@ -1,0 +1,16 @@
+{
+  "title": "Weak synchronization in heterogeneous multi-agent systems",
+  "authors": [
+    "Anton A. Stoorvogel",
+    "Ali Saberi",
+    "Zhenwei Liu"
+  ],
+  "summary": "In this paper, we propose a new framework for synchronization of heterogeneous multi agent system which we refer to as weak synchronization. This new framework of synchronization is based on achieving the network stability in the absence of any information on communication network including the connectivity. Here by network stability, we mean that in the basic setup of a multi-agent system, we require that the signals exchanged over the network converge to zero. As such if the network happens to have a directed spanning tree then we obtain classical synchronization. Moreover, we design protocols which achieve weak synchronization for any network without making any kind of assumptions on communication network. If the network happens to have a directed spanning tree, then we obtain classical synchronization. However, if this is not the case then we describe in detail in this paper what kind of synchronization properties are preserved in the system and the output of the different agents can behave.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-02-02"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

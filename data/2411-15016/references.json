@@ -1,0 +1,707 @@
+{
+  "2408-05020": {
+    "title": "RadarPillars: Efficient Object Detection from 4D Radar Point Clouds",
+    "authors": [
+      "Alexander Musiat",
+      "Laurenz Reichardt",
+      "Michael Schulze",
+      "Oliver Wasenmüller"
+    ],
+    "publication_date": "2024-08-09",
+    "venue": "2024 IEEE 27th International Conference on Intelligent Transportation Systems (ITSC)",
+    "semantic_scholar_id": "ff8bc620793829240eb3ab15a2614769ce5e789d",
+    "corpus_id": 271843356,
+    "category": "Computer Science"
+  },
+  "2408-00565": {
+    "title": "MUFASA: Multi-View Fusion and Adaptation Network with Spatial Awareness for Radar Object Detection",
+    "authors": [
+      "Xiangyuan Peng",
+      "Miao Tang",
+      "Huawei Sun",
+      "Kay Bierzynski",
+      "Lorenzo Servadei",
+      "Robert Wille"
+    ],
+    "publication_date": "2024-08-01",
+    "venue": "International Conference on Artificial Neural Networks",
+    "semantic_scholar_id": "49ae66a3d26c2c47e11d1d197a942c97580c828d",
+    "corpus_id": 271600735,
+    "category": "Computer Science"
+  },
+  "2312-06988": {
+    "title": "MWSIS: Multimodal Weakly Supervised Instance Segmentation with 2D Box Annotations for Autonomous Driving",
+    "authors": [
+      "Guangfeng Jiang",
+      "Jun Liu",
+      "Yuzhi Wu",
+      "Wenlong Liao",
+      "Tao He",
+      "Pai Peng"
+    ],
+    "publication_date": "2023-12-12",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "569e269e2e27919ab08c58c39fd4e2c3772ba171",
+    "corpus_id": 266174190,
+    "category": "Computer Science"
+  },
+  "2310-16389": {
+    "title": "MVFAN: Multi-View Feature Assisted Network for 4D Radar Object Detection",
+    "authors": [
+      "Qiao Yan",
+      "Yihan Wang"
+    ],
+    "publication_date": "2023-10-25",
+    "venue": "International Conference on Neural Information Processing",
+    "semantic_scholar_id": "c66bec69050ba035d06c6c62ca568dd8c84c92ca",
+    "corpus_id": 264451759,
+    "category": "Computer Science"
+  },
+  "2308-05478": {
+    "title": "Reviewing 3D Object Detectors in the Context of High-Resolution 3+1D Radar",
+    "authors": [
+      "Patrick Palmer",
+      "Martin Krueger",
+      "R. Altendorfer",
+      "Ganesh Adam",
+      "Torsten Bertram"
+    ],
+    "publication_date": "2023-08-10",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "7d693ef51fc7c6a8d4a2699a7c76266fa20e746d",
+    "corpus_id": 260775454,
+    "category": "Computer Science"
+  },
+  "2307-10784": {
+    "title": "SMURF: Spatial Multi-Representation Fusion for 3D Object Detection With 4D Imaging Radar",
+    "authors": [
+      "Jianan Liu",
+      "Qiuchi Zhao",
+      "Weiyi Xiong",
+      "Tao Huang",
+      "Qinghua Han",
+      "Bing Zhu"
+    ],
+    "publication_date": "2023-07-20",
+    "venue": "IEEE Transactions on Intelligent Vehicles",
+    "semantic_scholar_id": "799249b3e850302efade52a7d8271262f1312702",
+    "corpus_id": 259991145,
+    "category": "Computer Science"
+  },
+  "2307-00724": {
+    "title": "LXL: LiDAR Excluded Lean 3D Object Detection With 4D Imaging Radar and Camera Fusion",
+    "authors": [
+      "Weiyi Xiong",
+      "Jianan Liu",
+      "Tao Huang",
+      "Qingyan Han",
+      "Yu Xia",
+      "Bing Zhu"
+    ],
+    "publication_date": "2023-07-03",
+    "venue": "IEEE Transactions on Intelligent Vehicles",
+    "semantic_scholar_id": "068c0e00245bbb15654f25f452ee3bc043db2305",
+    "corpus_id": 259316448,
+    "category": "Computer Science"
+  },
+  "2304-10410": {
+    "title": "Radar-Camera Fusion for Object Detection and Semantic Segmentation in Autonomous Driving: A Comprehensive Review",
+    "authors": [
+      "Shanliang Yao",
+      "Runwei Guan",
+      "Xiaoyu Huang",
+      "Zhuoxiao Li",
+      "Xiangyu Sha",
+      "Yong Yue",
+      "Eng Gee Lim",
+      "H. Seo",
+      "K. Man",
+      "Xiaohui Zhu",
+      "Yutao Yue"
+    ],
+    "publication_date": "2023-04-20",
+    "venue": "IEEE Transactions on Intelligent Vehicles",
+    "semantic_scholar_id": "35a4f01fed1b6e2b1e9075fd96a16416e948a5cd",
+    "corpus_id": 258236266,
+    "category": "Computer Science"
+  },
+  "2304-02643": {
+    "title": "Segment Anything",
+    "authors": [
+      "A. Kirillov",
+      "Eric Mintun",
+      "Nikhila Ravi",
+      "Hanzi Mao",
+      "Chloé Rolland",
+      "Laura Gustafson",
+      "Tete Xiao",
+      "Spencer Whitehead",
+      "A. Berg",
+      "Wan-Yen Lo",
+      "Piotr Dollár",
+      "Ross B. Girshick"
+    ],
+    "publication_date": "2023-04-05",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "7470a1702c8c86e6f28d32cfa315381150102f5b",
+    "corpus_id": 257952310,
+    "category": "Computer Science"
+  },
+  "2304-00670": {
+    "title": "CRN: Camera Radar Net for Accurate, Robust, Efficient 3D Perception",
+    "authors": [
+      "Youngseok Kim",
+      "Sanmin Kim",
+      "J. Shin",
+      "Junwon Choi",
+      "Dongsuk Kum"
+    ],
+    "publication_date": "2023-04-03",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "19c9750a5112bd4fd715a00e690fd477520cbb6f",
+    "corpus_id": 257912964,
+    "category": "Computer Science"
+  },
+  "2303-11301": {
+    "title": "VoxelNeXt: Fully Sparse VoxelNet for 3D Object Detection and Tracking",
+    "authors": [
+      "Yukang Chen",
+      "Jianhui Liu",
+      "Xiangyu Zhang",
+      "Xiaojuan Qi",
+      "Jiaya Jia"
+    ],
+    "publication_date": "2023-03-20",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "924fe49caf4768dd0acb53783d261a70e9d4c1b5",
+    "corpus_id": 257631740,
+    "category": "Computer Science"
+  },
+  "2303-03595": {
+    "title": "LoGoNet: Towards Accurate 3D Object Detection with Local-to-Global Cross- Modal Fusion",
+    "authors": [
+      "Xin Li",
+      "Tengyu Ma",
+      "Yuenan Hou",
+      "Botian Shi",
+      "Yucheng Yang",
+      "You-Chen Liu",
+      "Xingjiao Wu",
+      "Qingsheng Chen",
+      "Yikang Li",
+      "Y. Qiao",
+      "Liangbo He"
+    ],
+    "publication_date": "2023-03-07",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "03f06493de39c9dd84125b5e8aa5a198c4524045",
+    "corpus_id": 257378160,
+    "category": "Computer Science"
+  },
+  "2209-06535": {
+    "title": "CRAFT: Camera-Radar 3D Object Detection with Spatio-Contextual Fusion Transformer",
+    "authors": [
+      "Youngseok Kim",
+      "Sanmin Kim",
+      "Junwon Choi",
+      "Dongsuk Kum"
+    ],
+    "publication_date": "2022-09-14",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "2a32aec5f06324bd0dabab8a41c97e29a954a21a",
+    "corpus_id": 252220886,
+    "category": "Computer Science"
+  },
+  "2209-03102": {
+    "title": "MSMDFusion: Fusing LiDAR and Camera at Multiple Scales with Multi-Depth Seeds for 3D Object Detection",
+    "authors": [
+      "Yang Jiao",
+      "Zequn Jie",
+      "Shaoxiang Chen",
+      "Jingjing Chen",
+      "Xiaolin Wei",
+      "Lin Ma",
+      "Yu-Gang Jiang"
+    ],
+    "publication_date": "2022-09-07",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "bbd281c29abf5c6974926781da5bdcf0a7aefd12",
+    "corpus_id": 252111042,
+    "category": "Computer Science"
+  },
+  "2208-11112": {
+    "title": "DeepInteraction: 3D Object Detection via Modality Interaction",
+    "authors": [
+      "Zeyu Yang",
+      "Jia-Qing Chen",
+      "Zhenwei Miao",
+      "Wei Li",
+      "Xiatian Zhu",
+      "Li Zhang"
+    ],
+    "publication_date": "2022-08-23",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "55733a0acf33341066348b7e3a0ba1d716f4aef9",
+    "corpus_id": 251741547,
+    "category": "Computer Science"
+  },
+  "2206-09474": {
+    "title": "3D Object Detection for Autonomous Driving: A Comprehensive Survey",
+    "authors": [
+      "Jiageng Mao",
+      "Shaoshuai Shi",
+      "Xiaogang Wang",
+      "Hongsheng Li"
+    ],
+    "publication_date": "2022-06-19",
+    "venue": "International Journal of Computer Vision",
+    "semantic_scholar_id": "e48a76c8d04339184bdd62d40f9f7524745b0da1",
+    "corpus_id": 257921140,
+    "category": "Computer Science"
+  },
+  "2206-08171": {
+    "title": "K-Radar: 4D Radar Object Detection for Autonomous Driving in Various Weather Conditions",
+    "authors": [
+      "Dong-Hee Paek",
+      "S. Kong",
+      "Kevin Tirta Wijaya"
+    ],
+    "publication_date": "2022-06-16",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "8098fbba14d7a67a929916e1123b1212bc0a29f9",
+    "corpus_id": 252762695,
+    "category": "Computer Science"
+  },
+  "2205-13790": {
+    "title": "BEVFusion: A Simple and Robust LiDAR-Camera Fusion Framework",
+    "authors": [
+      "Tingting Liang",
+      "Hongwei Xie",
+      "Kaicheng Yu",
+      "Zhongyu Xia",
+      "Zhiwei Lin",
+      "Yongtao Wang",
+      "T. Tang",
+      "Bing Wang",
+      "Zhi Tang"
+    ],
+    "publication_date": "2022-05-27",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "4e7487374ba0807f233ebe930d2f7ac507e8830a",
+    "corpus_id": 249151966,
+    "category": "Computer Science"
+  },
+  "2205-13542": {
+    "title": "BEVFusion: Multi-Task Multi-Sensor Fusion with Unified Bird's-Eye View Representation",
+    "authors": [
+      "Zhijian Liu",
+      "Haotian Tang",
+      "Alexander Amini",
+      "Xinyu Yang",
+      "Huizi Mao",
+      "Daniela Rus",
+      "Song Han"
+    ],
+    "publication_date": "2022-05-26",
+    "venue": "IEEE International Conference on Robotics and Automation",
+    "semantic_scholar_id": "4ac46b5bbd5728b51279d07c1730b509943a982e",
+    "corpus_id": 249097415,
+    "category": "Computer Science"
+  },
+  "2204-13483": {
+    "title": "TJ4DRadSet: A 4D Radar Dataset for Autonomous Driving",
+    "authors": [
+      "Lianqing Zheng",
+      "Zhixiong Ma",
+      "Xichan Zhu",
+      "Bin Tan",
+      "Sen Li",
+      "Kai Long",
+      "Weiqi Sun",
+      "Sihan Chen",
+      "Lu Zhang",
+      "Mengyue Wan",
+      "Libo Huang",
+      "Jie Bai"
+    ],
+    "publication_date": "2022-04-28",
+    "venue": "2022 IEEE 25th International Conference on Intelligent Transportation Systems (ITSC)",
+    "semantic_scholar_id": "4792e4100a89ba9514a663a50cabd88011ed0149",
+    "corpus_id": 248426794,
+    "category": "Computer Science"
+  },
+  "2204-12463": {
+    "title": "Focal Sparse Convolutional Networks for 3D Object Detection",
+    "authors": [
+      "Yukang Chen",
+      "Yanwei Li",
+      "X. Zhang",
+      "Jian Sun",
+      "Jiaya Jia"
+    ],
+    "publication_date": "2022-04-26",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "fdd82bf3177aa309bc2c79cac8482d8f3c4e8190",
+    "corpus_id": 248392001,
+    "category": "Computer Science"
+  },
+  "2111-09621": {
+    "title": "SimpleTrack: Understanding and Rethinking 3D Multi-object Tracking",
+    "authors": [
+      "Ziqi Pang",
+      "Zhichao Li",
+      "Naiyan Wang"
+    ],
+    "publication_date": "2021-11-18",
+    "venue": "ECCV Workshops",
+    "semantic_scholar_id": "b47d3f018d91a45dc7d5297c382990abf8ff7ec8",
+    "corpus_id": 244346157,
+    "category": "Computer Science"
+  },
+  "2111-06881": {
+    "title": "Multimodal Virtual Point 3D Detection",
+    "authors": [
+      "Tianwei Yin",
+      "Xingyi Zhou",
+      "Philipp Krähenbühl"
+    ],
+    "publication_date": "2021-11-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "9eaf5cc6f632b456e1d2959a93965c91f5c91fae",
+    "corpus_id": 244102957,
+    "category": "Computer Science"
+  },
+  "2106-12735": {
+    "title": "Multi-Modal 3D Object Detection in Autonomous Driving: A Survey",
+    "authors": [
+      "Yingjie Wang",
+      "Qi Mao",
+      "Hanqi Zhu",
+      "Jiajun Deng",
+      "Yu Zhang",
+      "Jianmin Ji",
+      "Houqiang Li",
+      "Yanyong Zhang"
+    ],
+    "publication_date": "2021-06-24",
+    "venue": "International Journal of Computer Vision",
+    "semantic_scholar_id": "e3af84d5498fd4ec36bbf476f7d204d57ff0bb8e",
+    "corpus_id": 235624112,
+    "category": "Computer Science"
+  },
+  "2106-01178": {
+    "title": "ImVoxelNet: Image to Voxels Projection for Monocular and Multi-View General-Purpose 3D Object Detection",
+    "authors": [
+      "D. Rukhovich",
+      "Anna Vorontsova",
+      "A. Konushin"
+    ],
+    "publication_date": "2021-06-02",
+    "venue": "IEEE Workshop/Winter Conference on Applications of Computer Vision",
+    "semantic_scholar_id": "2f9465d95975fd61b7bc2af95d803f2a43bd7d44",
+    "corpus_id": 235293744,
+    "category": "Computer Science"
+  },
+  "2011-04841": {
+    "title": "CenterFusion: Center-based Radar and Camera Fusion for 3D Object Detection",
+    "authors": [
+      "Ramin Nabati",
+      "H. Qi"
+    ],
+    "publication_date": "2020-11-10",
+    "venue": "IEEE Workshop/Winter Conference on Applications of Computer Vision",
+    "semantic_scholar_id": "a7c88d4d3b6ebd0c69625053921730001f2c2a15",
+    "corpus_id": 226290163,
+    "category": "Computer Science"
+  },
+  "2010-04159": {
+    "title": "Deformable DETR: Deformable Transformers for End-to-End Object Detection",
+    "authors": [
+      "Xizhou Zhu",
+      "Weijie Su",
+      "Lewei Lu",
+      "Bin Li",
+      "Xiaogang Wang",
+      "Jifeng Dai"
+    ],
+    "publication_date": "2020-10-08",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "39ca8f8ff28cc640e3b41a6bd7814ab85c586504",
+    "corpus_id": 222208633,
+    "category": "Computer Science"
+  },
+  "2009-00784": {
+    "title": "CLOCs: Camera-LiDAR Object Candidates Fusion for 3D Object Detection",
+    "authors": [
+      "Su Pang",
+      "Daniel Morris",
+      "H. Radha"
+    ],
+    "publication_date": "2020-09-02",
+    "venue": "IEEE/RJS International Conference on Intelligent RObots and Systems",
+    "semantic_scholar_id": "20454697ea082975db2503a52418efb8f65b8ae6",
+    "corpus_id": 221447417,
+    "category": "Computer Science"
+  },
+  "2007-08856": {
+    "title": "EPNet: Enhancing Point Features with Image Semantics for 3D Object Detection",
+    "authors": [
+      "Tengteng Huang",
+      "Zhe Liu",
+      "Xiwu Chen",
+      "X. Bai"
+    ],
+    "publication_date": "2020-07-17",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "ed77a2e787aa06308072f78c8b06265c0fa23d9e",
+    "corpus_id": 220633447,
+    "category": "Computer Science"
+  },
+  "2006-11275": {
+    "title": "Center-based 3D Object Detection and Tracking",
+    "authors": [
+      "Tianwei Yin",
+      "Xingyi Zhou",
+      "Philipp Krähenbühl"
+    ],
+    "publication_date": "2020-06-19",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "22d40963e633e1b4af4a9fefda68e1b8dc96ba63",
+    "corpus_id": 219956621,
+    "category": "Computer Science"
+  },
+  "2002-10187": {
+    "title": "3DSSD: Point-Based 3D Single Stage Object Detector",
+    "authors": [
+      "Zetong Yang",
+      "Yanan Sun",
+      "Shu Liu",
+      "Jiaya Jia"
+    ],
+    "publication_date": "2020-02-24",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "c31c55db4d962527fd2e1366d173ba3f9a5fb0ed",
+    "corpus_id": 211259226,
+    "category": "Computer Science"
+  },
+  "1911-10150": {
+    "title": "PointPainting: Sequential Fusion for 3D Object Detection",
+    "authors": [
+      "Sourabh Vora",
+      "Alex H. Lang",
+      "Bassam Helou",
+      "Oscar Beijbom"
+    ],
+    "publication_date": "2019-11-22",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "8648f59b62dda3900d597e944abe8af51a18f665",
+    "corpus_id": 208248084,
+    "category": "Computer Science, Engineering, Mathematics"
+  },
+  "1906-07155": {
+    "title": "MMDetection: Open MMLab Detection Toolbox and Benchmark",
+    "authors": [
+      "Kai Chen",
+      "Jiaqi Wang",
+      "Jiangmiao Pang",
+      "Yuhang Cao",
+      "Yu Xiong",
+      "Xiaoxiao Li",
+      "Shuyang Sun",
+      "Wansen Feng",
+      "Ziwei Liu",
+      "Jiarui Xu",
+      "Zheng Zhang",
+      "Dazhi Cheng",
+      "Chenchen Zhu",
+      "Tianheng Cheng",
+      "Qijie Zhao",
+      "Buyu Li",
+      "Xin Lu",
+      "Rui Zhu",
+      "Yue Wu",
+      "Jimmy",
+      "Jifeng Dai",
+      "Jingdong Wang",
+      "Jianping Shi",
+      "Wanli Ouyang",
+      "Chen Change Loy",
+      "Dahua Lin"
+    ],
+    "publication_date": "2019-06-17",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "c2c083df88e88223e1a411e61040b94c233b1b63",
+    "corpus_id": 189927886,
+    "category": "Computer Science, Engineering"
+  },
+  "1904-01649": {
+    "title": "MVX-Net: Multimodal VoxelNet for 3D Object Detection",
+    "authors": [
+      "Vishwanath A. Sindagi",
+      "Yin Zhou",
+      "Oncel Tuzel"
+    ],
+    "publication_date": "2019-04-02",
+    "venue": "IEEE International Conference on Robotics and Automation",
+    "semantic_scholar_id": "dafd2826ec24d0dbdf0f4df7b6f20e7e2448f802",
+    "corpus_id": 102483619,
+    "category": "Computer Science"
+  },
+  "1903-11027": {
+    "title": "nuScenes: A Multimodal Dataset for Autonomous Driving",
+    "authors": [
+      "Holger Caesar",
+      "Varun Bankiti",
+      "Alex H. Lang",
+      "Sourabh Vora",
+      "Venice Erin Liong",
+      "Qiang Xu",
+      "Anush Krishnan",
+      "Yuxin Pan",
+      "G. Baldan",
+      "Oscar Beijbom"
+    ],
+    "publication_date": "2019-03-26",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "9e475a514f54665478aac6038c262e5a6bac5e64",
+    "corpus_id": 85517967,
+    "category": "Computer Science, Mathematics"
+  },
+  "1901-07518": {
+    "title": "Hybrid Task Cascade for Instance Segmentation",
+    "authors": [
+      "Kai Chen",
+      "Jiangmiao Pang",
+      "Jiaqi Wang",
+      "Yu Xiong",
+      "Xiaoxiao Li",
+      "Shuyang Sun",
+      "Wansen Feng",
+      "Ziwei Liu",
+      "Jianping Shi",
+      "Wanli Ouyang",
+      "Chen Change Loy",
+      "Dahua Lin"
+    ],
+    "publication_date": "2019-01-22",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "21248bcc81539e7cd1ef83b3b184768603f6f247",
+    "corpus_id": 58981777,
+    "category": "Computer Science"
+  },
+  "1812-05784": {
+    "title": "PointPillars: Fast Encoders for Object Detection From Point Clouds",
+    "authors": [
+      "Alex H. Lang",
+      "Sourabh Vora",
+      "Holger Caesar",
+      "Lubing Zhou",
+      "Jiong Yang",
+      "Oscar Beijbom"
+    ],
+    "publication_date": "2018-12-14",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "3bb322718d64a34b91b29c8230c5978de5d7fb7a",
+    "corpus_id": 55701967,
+    "category": "Computer Science, Mathematics"
+  },
+  "1812-04244": {
+    "title": "PointRCNN: 3D Object Proposal Generation and Detection From Point Cloud",
+    "authors": [
+      "Shaoshuai Shi",
+      "Xiaogang Wang",
+      "Hongsheng Li"
+    ],
+    "publication_date": "2018-12-11",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "7ce6eca495909de2ffa0b6d9c16993757208764e",
+    "corpus_id": 54607410,
+    "category": "Computer Science"
+  },
+  "1811-08188": {
+    "title": "Orthographic Feature Transform for Monocular 3D Object Detection",
+    "authors": [
+      "Thomas Roddick",
+      "Alex Kendall",
+      "R. Cipolla"
+    ],
+    "publication_date": "2018-11-20",
+    "venue": "British Machine Vision Conference",
+    "semantic_scholar_id": "dfc700032ec2ec0b393c850fed61aa065ce7bb61",
+    "corpus_id": 53755805,
+    "category": "Computer Science"
+  },
+  "1711-06396": {
+    "title": "VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection",
+    "authors": [
+      "Yin Zhou",
+      "Oncel Tuzel"
+    ],
+    "publication_date": "2017-11-17",
+    "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "80f5ee8578ee76e2c17824f211762ffec7e029d4",
+    "corpus_id": 42427078,
+    "category": "Computer Science"
+  },
+  "1707-06484": {
+    "title": "Deep Layer Aggregation",
+    "authors": [
+      "F. Yu",
+      "Dequan Wang",
+      "Trevor Darrell"
+    ],
+    "publication_date": "2017-07-20",
+    "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "37c5a90619eb4bfd7c41b674e4fdf2317622e0f7",
+    "corpus_id": 30834643,
+    "category": "Computer Science"
+  },
+  "1612-03144": {
+    "title": "Feature Pyramid Networks for Object Detection",
+    "authors": [
+      "Tsung-Yi Lin",
+      "Piotr Dollár",
+      "Ross B. Girshick",
+      "Kaiming He",
+      "Bharath Hariharan",
+      "Serge J. Belongie"
+    ],
+    "publication_date": "2016-12-09",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2a94c84383ee3de5e6211d43d16e7de387f68878",
+    "corpus_id": 10716717,
+    "category": "Computer Science"
+  },
+  "1512-03385": {
+    "title": "Deep Residual Learning for Image Recognition",
+    "authors": [
+      "Kaiming He",
+      "X. Zhang",
+      "Shaoqing Ren",
+      "Jian Sun"
+    ],
+    "publication_date": "2015-12-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+    "corpus_id": 206594692,
+    "category": "Computer Science"
+  },
+  "1405-0312": {
+    "title": "Microsoft COCO: Common Objects in Context",
+    "authors": [
+      "Tsung-Yi Lin",
+      "M. Maire",
+      "Serge J. Belongie",
+      "James Hays",
+      "P. Perona",
+      "Deva Ramanan",
+      "Piotr Dollár",
+      "C. L. Zitnick"
+    ],
+    "publication_date": "2014-05-01",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "71b7178df5d2b112d07e45038cb5637208659ff7",
+    "corpus_id": 14113767,
+    "category": "Computer Science"
+  }
+}

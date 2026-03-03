@@ -1,0 +1,16 @@
+{
+  "title": "Towards Linking Histological Changes to Liver Viscoelasticity: A Hybrid Analytical-Computational Micromechanics Approach",
+  "authors": [
+    "Haritya Shah",
+    "Murthy N. Guddati"
+  ],
+  "summary": "Motivated by elastography that utilizes tissue mechanical properties as biomarkers for liver disease, with the eventual objective of quantitatively linking histopathology and bulk mechanical properties, we develop a micromechanical modeling approach to capture the effects of fat and collagen deposition in the liver. Specifically, we utilize computational homogenization to convert the microstructural changes in hepatic lobule to the effective viscoelastic modulus of the liver tissue, i.e., predict the bulk material properties by analyzing the deformation of repeating unit cell. The lipid and collagen deposition is simulated with the help of ad hoc algorithms informed by histological observations. Collagen deposition is directly included in the computational model, while composite material theory is used to convert fat content to the microscopic mechanical properties, which in turn is included in the computational model. The results illustrate the ability of the model to capture the effect of both fat and collagen deposition on the viscoelastic moduli and represents a step towards linking histopathological changes in the liver to its bulk mechanical properties, which can eventually provide insights for accurate diagnosis with elastography.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-29",
+    "2025-01-02"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.bio-ph"
+}

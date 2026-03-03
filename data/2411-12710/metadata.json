@@ -1,0 +1,14 @@
+{
+  "title": "Travel Time Based Task Mapping for NoC-Based DNN Accelerator",
+  "authors": [
+    "Yizhi Chen",
+    "Wenyao Zhu",
+    "Zhonghai Lu"
+  ],
+  "summary": "Network-on-Chip (NoC) based architectures are recently proposed to accelerate deep neural networks in specialized hardware. Given that the hardware configuration is fixed post-manufacture, proper task mapping attracts researchers' interest. We propose a travel time-based task mapping method that allocates uneven counts of tasks across different Processing Elements (PEs). This approach utilizes the travel time recorded in the sampling window and implicitly makes use of static NoC architecture information and dynamic NoC congestion status. Furthermore, we examine the effectiveness of our method under various configurations, including different mapping iterations, flit sizes, and NoC architecture. Our method achieves up to 12.1% improvement compared with even mapping and static distance mapping for one layer. For a complete NN example, our method achieves 10.37% and 13.75% overall improvements to row-major mapping and distance-based mapping, respectively. While ideal travel time-based mapping (post-run) achieves 10.37% overall improvements to row-major mapping, we adopt a sampling window to efficiently map tasks during the running, achieving 8.17% (sampling window 10) improvement.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AR"
+}

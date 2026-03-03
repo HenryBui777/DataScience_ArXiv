@@ -1,0 +1,25 @@
+{
+  "title": "DiffusionDrive: Truncated Diffusion Model for End-to-End Autonomous Driving",
+  "authors": [
+    "Bencheng Liao",
+    "Shaoyu Chen",
+    "Haoran Yin",
+    "Bo Jiang",
+    "Cheng Wang",
+    "Sixu Yan",
+    "Xinbang Zhang",
+    "Xiangyu Li",
+    "Ying Zhang",
+    "Qian Zhang",
+    "Xinggang Wang"
+  ],
+  "summary": "Recently, the diffusion model has emerged as a powerful generative technique for robotic policy learning, capable of modeling multi-mode action distributions. Leveraging its capability for end-to-end autonomous driving is a promising direction. However, the numerous denoising steps in the robotic diffusion policy and the more dynamic, open-world nature of traffic scenes pose substantial challenges for generating diverse driving actions at a real-time speed. To address these challenges, we propose a novel truncated diffusion policy that incorporates prior multi-mode anchors and truncates the diffusion schedule, enabling the model to learn denoising from anchored Gaussian distribution to the multi-mode driving action distribution. Additionally, we design an efficient cascade diffusion decoder for enhanced interaction with conditional scene context. The proposed model, DiffusionDrive, demonstrates 10$\\times$ reduction in denoising steps compared to vanilla diffusion policy, delivering superior diversity and quality in just 2 steps. On the planning-oriented NAVSIM dataset, with the aligned ResNet-34 backbone, DiffusionDrive achieves 88.1 PDMS without bells and whistles, setting a new record, while running at a real-time speed of 45 FPS on an NVIDIA 4090. Qualitative results on challenging scenarios further confirm that DiffusionDrive can robustly generate diverse plausible driving actions. Code and model will be available at https://github.com/hustvl/DiffusionDrive.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-03-24",
+    "2025-04-10"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.RO"
+}

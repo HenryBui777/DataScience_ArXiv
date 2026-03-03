@@ -1,0 +1,16 @@
+{
+  "title": "StreetviewLLM: Extracting Geographic Information Using a Chain-of-Thought Multimodal Large Language Model",
+  "authors": [
+    "Zongrong Li",
+    "Junhao Xu",
+    "Siqin Wang",
+    "Yifan Wu",
+    "Haiyang Li"
+  ],
+  "summary": "Geospatial predictions are crucial for diverse fields such as disaster management, urban planning, and public health. Traditional machine learning methods often face limitations when handling unstructured or multi-modal data like street view imagery. To address these challenges, we propose StreetViewLLM, a novel framework that integrates a large language model with the chain-of-thought reasoning and multimodal data sources. By combining street view imagery with geographic coordinates and textual data, StreetViewLLM improves the precision and granularity of geospatial predictions. Using retrieval-augmented generation techniques, our approach enhances geographic information extraction, enabling a detailed analysis of urban environments. The model has been applied to seven global cities, including Hong Kong, Tokyo, Singapore, Los Angeles, New York, London, and Paris, demonstrating superior performance in predicting urban indicators, including population density, accessibility to healthcare, normalized difference vegetation index, building height, and impervious surface. The results show that StreetViewLLM consistently outperforms baseline models, offering improved predictive accuracy and deeper insights into the built environment. This research opens new opportunities for integrating the large language model into urban analytics, decision-making in urban planning, infrastructure management, and environmental monitoring.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.AI, cs.CV"
+}

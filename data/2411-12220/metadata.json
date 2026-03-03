@@ -1,0 +1,19 @@
+{
+  "title": "DeTrigger: A Gradient-Centric Approach to Backdoor Attack Mitigation in Federated Learning",
+  "authors": [
+    "Kichang Lee",
+    "Yujin Shin",
+    "Jonghyuk Yun",
+    "Songkuk Kim",
+    "Jun Han",
+    "JeongGil Ko"
+  ],
+  "summary": "Federated Learning (FL) enables collaborative model training across distributed devices while preserving local data privacy, making it ideal for mobile and embedded systems. However, the decentralized nature of FL also opens vulnerabilities to model poisoning attacks, particularly backdoor attacks, where adversaries implant trigger patterns to manipulate model predictions. In this paper, we propose DeTrigger, a scalable and efficient backdoor-robust federated learning framework that leverages insights from adversarial attack methodologies. By employing gradient analysis with temperature scaling, DeTrigger detects and isolates backdoor triggers, allowing for precise model weight pruning of backdoor activations without sacrificing benign model knowledge. Extensive evaluations across four widely used datasets demonstrate that DeTrigger achieves up to 251x faster detection than traditional methods and mitigates backdoor attacks by up to 98.9%, with minimal impact on global model accuracy. Our findings establish DeTrigger as a robust and scalable solution to protect federated learning environments against sophisticated backdoor threats.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-02-03"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI, cs.CR"
+}

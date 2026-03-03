@@ -1,0 +1,24 @@
+{
+  "title": "Single-boson exchange formulation of the Schwinger-Dyson equation and its application to the functional renormalization group",
+  "authors": [
+    "Miriam Patricolo",
+    "Marcel Gievers",
+    "Kilian Fraboulet",
+    "Aiman Al-Eryani",
+    "Sarah Heinzelmann",
+    "Pietro M. Bonetti",
+    "Alessandro Toschi",
+    "Demetrio Vilardi",
+    "Sabine Andergassen"
+  ],
+  "summary": "We extend the recently introduced single-boson exchange formulation to the computation of the self-energy from the Schwinger--Dyson equation (SDE). In particular, we derive its expression both in diagrammatic and in physical channels. The simple form of the single-boson exchange SDE, involving only the bosonic propagator and the fermion-boson vertex, but not the rest function, allows for an efficient numerical implementation. We furthermore discuss its implications in a truncated unity solver, where a restricted number of form factors introduces an information loss in the projection of the momentum dependence that in general affects the equivalence between the different channel representations. In the application to the functional renormalization group, we find that the convergence in the number of form factors depends on the channel representation of the SDE. For the two-dimensional Hubbard model at weak coupling, the pseudogap opening driven by antiferromagnetic fluctuations is captured already by a single ($s$-wave) form factor in the magnetic channel representation, differently to the density and superconducting channels.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-02-03",
+    "2025-02-19",
+    "2025-02-20"
+  ],
+  "publication_venue": "SciPost Phys. 18, 078 (2025)",
+  "pdf_url": null,
+  "category": "cond-mat.str-el"
+}

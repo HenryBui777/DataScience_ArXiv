@@ -1,0 +1,20 @@
+{
+  "title": "FGP: Feature-Gradient-Prune for Efficient Convolutional Layer Pruning",
+  "authors": [
+    "Qingsong Lv",
+    "Jiasheng Sun",
+    "Sheng Zhou",
+    "Xu Zhang",
+    "Liangcheng Li",
+    "Yun Gao",
+    "Sun Qiao",
+    "Jie Song",
+    "Jiajun Bu"
+  ],
+  "summary": "To reduce computational overhead while maintaining model performance, model pruning techniques have been proposed. Among these, structured pruning, which removes entire convolutional channels or layers, significantly enhances computational efficiency and is compatible with hardware acceleration. However, existing pruning methods that rely solely on image features or gradients often result in the retention of redundant channels, negatively impacting inference efficiency. To address this issue, this paper introduces a novel pruning method called Feature-Gradient Pruning (FGP). This approach integrates both feature-based and gradient-based information to more effectively evaluate the importance of channels across various target classes, enabling a more accurate identification of channels that are critical to model performance. Experimental results demonstrate that the proposed method improves both model compactness and practicality while maintaining stable performance. Experiments conducted across multiple tasks and datasets show that FGP significantly reduces computational costs and minimizes accuracy loss compared to existing methods, highlighting its effectiveness in optimizing pruning outcomes. The source code is available at: https://github.com/FGP-code/FGP.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

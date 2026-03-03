@@ -1,0 +1,15 @@
+{
+  "title": "An Abstract Domain for Heap Commutativity (Extended Version)",
+  "authors": [
+    "Jared Pincus",
+    "Eric Koskinen"
+  ],
+  "summary": "Commutativity of program code (i.e. the equivalence of two code fragments composed in alternate orders) is of ongoing interest in many settings such as program verification, scalable concurrency, and security analysis. While some have explored static analysis for code commutativity, few have specifically catered to heap-manipulating programs. We introduce an abstract domain in which commutativity synthesis or verification techniques can safely be performed on abstract mathematical models and, from those results, one can directly obtain commutativity conditions for concrete heap programs. This approach offloads challenges of concrete heap reasoning into the simpler abstract space. We show this reasoning supports framing and composition, and conclude with commutativity analysis of programs operating on example heap data structures. Our work has been mechanized in Coq and is available in the supplement.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-25"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.PL, cs.LO"
+}

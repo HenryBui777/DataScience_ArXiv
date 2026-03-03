@@ -1,0 +1,18 @@
+{
+  "title": "Exploring Kolmogorov-Arnold Networks for Interpretable Time Series Classification",
+  "authors": [
+    "Irina Barašin",
+    "Blaž Bertalanič",
+    "Mihael Mohorčič",
+    "Carolina Fortuna"
+  ],
+  "summary": "Time series classification is a relevant step supporting decision-making processes in various domains, and deep neural models have shown promising performance in this respect. Despite significant advancements in deep learning, the theoretical understanding of how and why complex architectures function remains limited, prompting the need for more interpretable models. Recently, the Kolmogorov-Arnold Networks (KANs) have been proposed as a more interpretable alternative to deep learning. While KAN-related research is significantly rising, to date, the study of KAN architectures for time series classification has been limited. In this paper, we aim to conduct a comprehensive and robust exploration of the KAN architecture for time series classification utilising 117 datasets from UCR benchmark archive, from multiple different domains. More specifically, we investigate a) the transferability of reference architectures designed for regression to classification tasks, b) identifying the hyperparameter and implementation configurations for an architecture that best generalizes across 117 datasets, c) the associated complexity trade-offs and d) evaluate KANs interpretability. Our results demonstrate that (1) the Efficient KAN outperforms MLPs in both performance and training times, showcasing its suitability for classification tasks. (2) Efficient KAN exhibits greater stability than the original KAN across grid sizes, depths, and layer configurations, especially when lower learning rates are employed. (3) KAN achieves competitive accuracy compared to state-of-the-art models such as HIVE-COTE2 and InceptionTime, while maintaining smaller architectures and faster training times, highlighting its favorable balance of performance and transparency. (4) The interpretability of the KAN model, as confirmed by SHAP analysis, reinforces its capacity for transparent decision-making.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-02-18",
+    "2025-11-01"
+  ],
+  "publication_venue": "International Journal of Intelligent Systems, vol. 2025, no. 1, article 9553189, 2025",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

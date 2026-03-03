@@ -1,0 +1,16 @@
+{
+  "title": "Validation tests of Gaussian boson samplers with photon-number resolving detectors",
+  "authors": [
+    "Alexander S. Dellios",
+    "Margaret D. Reid",
+    "Peter D. Drummond"
+  ],
+  "summary": "An important challenge with the current generation of noisy, large-scale quantum computers is the question of validation. Does the hardware generate correct answers? If not, what are the errors? This issue is often combined with questions of computational advantage, but it is a fundamentally distinct issue. In current experiments, complete validation of the output statistics is generally not possible because it is exponentially hard to do so. Here, we apply phase-space simulation methods to partially verify recent experiments on Gaussian boson sampling (GBS) implementing photon-number resolving (PNR) detectors. The positive-P phase-space distribution is employed, as it uses probabilistic sampling to reduce complexity. It is \\sim10^{18} times faster than direct classical simulation for experiments on 288 modes where quantum computational advantage is claimed. When combined with binning and marginalization to improve statistics, multiple validation tests are efficiently computable, of which some tests can be carried out on experimental data. We show that the data as a whole shows discrepancies with theoretical predictions for perfect squeezing. However, a small modification of the GBS parameters greatly improves agreement for some tests. We suggest that such validation tests could form the basis of feedback methods to improve GBS experiments.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-07-10"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Fluid flow channeling and mass transport with discontinuous porosity distribution",
+  "authors": [
+    "Simon Boisserée",
+    "Evangelos Moulas",
+    "Markus Bachmayr"
+  ],
+  "summary": "The flow of fluids within porous rocks is an important process with numerous applications in Earth sciences. Modeling the compaction-driven fluid flow requires the solution of coupled nonlinear partial differential equations that account for the fluid flow and the solid deformation within the porous medium. Despite the nonlinear relation of porosity and permeability that is commonly encountered, natural data show evidence of channelized fluid flow in rocks that have an overall layered structure. Layers of different rock types have discontinuous hydraulic and mechanical properties. We present numerical results obtained by a novel space-time method, which can handle discontinuous initial porosity (and permeability) distributions efficiently. The space-time method enables straightforward coupling to models of mass transport for trace elements. Our results indicate that, under certain conditions, the discontinuity of the initial porosity influences the distribution of incompatible trace elements, leading to sharp concentration gradients and large degrees of elemental enrichment. Finally, our results indicate that the enrichment of trace elements depends not only on the channelization of the flow but also on the interaction of fluid-filled channels with layers of different porosity and permeability.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-12-20",
+    "2025-01-02",
+    "2025-10-02"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.geo-ph, physics.flu-dyn"
+}

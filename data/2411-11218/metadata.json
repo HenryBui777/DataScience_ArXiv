@@ -1,0 +1,14 @@
+{
+  "title": "Conjugate Momentum-Based Estimation of External Forces for Bio-Inspired Morphing Wing Flight",
+  "authors": [
+    "Bibek Gupta",
+    "Eric Sihite",
+    "Alireza Ramezani"
+  ],
+  "summary": "Dynamic morphing wing flights present significant challenges in accurately estimating external forces due to complex interactions between aerodynamics, rapid wing movements, and external disturbances. Traditional force estimation methods often struggle with unpredictable disturbances like wind gusts or unmodeled impacts that can destabilize flight in real-world scenarios. This paper addresses these challenges by implementing a Conjugate Momentum-based Observer, which effectively estimates and manages unknown external forces acting on the Aerobat, a bio-inspired robotic platform with dynamically morphing wings. Through simulations, the observer demonstrates its capability to accurately detect and quantify external forces, even in the presence of Gaussian noise and abrupt impulse inputs. The results validate the robustness of the method, showing improved stability and control of the Aerobat in dynamic environments. This research contributes to advancements in bio-inspired robotics by enhancing force estimation for flapping-wing systems, with potential applications in autonomous aerial navigation and robust flight control.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO, eess.SY"
+}

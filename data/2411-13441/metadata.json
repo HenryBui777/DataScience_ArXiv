@@ -1,0 +1,14 @@
+{
+  "title": "A Case Study of API Design for Interoperability and Security of the Internet of Things",
+  "authors": [
+    "Dongha Kim",
+    "Chanhee Lee",
+    "Hokeun Kim"
+  ],
+  "summary": "Heterogeneous distributed systems, including the Internet of Things (IoT) or distributed cyber-physical systems (CPS), often suffer a lack of interoperability and security, which hinders the wider deployment of such systems. Specifically, the different levels of security requirements and the heterogeneity in terms of communication models, for instance, point-to-point vs. publish-subscribe, are the example challenges of IoT and distributed CPS consisting of heterogeneous devices and applications. In this paper, we propose a working application programming interface (API) and runtime to enhance interoperability and security while addressing the challenges that stem from the heterogeneity in the IoT and distributed CPS. In our case study, we design and implement our application programming interface (API) design approach using open-source software, and with our working implementation, we evaluate the effectiveness of our proposed approach. Our experimental results suggest that our approach can achieve both interoperability and security in the IoT and distributed CPS with a reasonably small overhead and better-managed software.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DC, eess.SY"
+}

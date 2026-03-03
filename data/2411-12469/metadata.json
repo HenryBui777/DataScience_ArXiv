@@ -1,0 +1,17 @@
+{
+  "title": "AI Flow at the Network Edge",
+  "authors": [
+    "Jiawei Shao",
+    "Xuelong Li"
+  ],
+  "summary": "Recent advancements in large language models (LLMs) and their multimodal variants have led to remarkable progress across various domains, demonstrating impressive capabilities and unprecedented potential. In the era of ubiquitous connectivity, leveraging communication networks to distribute intelligence is a transformative concept, envisioning AI-powered services accessible at the network edge. However, pushing large models from the cloud to resource-constrained environments faces critical challenges. Model inference on low-end devices leads to excessive latency and performance bottlenecks, while raw data transmission over limited bandwidth networks causes high communication overhead. This article presents AI Flow, a framework that streamlines the inference process by jointly leveraging the heterogeneous resources available across devices, edge nodes, and cloud servers, making intelligence flow across networks. To facilitate cooperation among multiple computational nodes, the proposed framework explores a paradigm shift in the design of communication network systems from transmitting information flow to intelligence flow, where the goal of communications is task-oriented and folded into the inference process. Experimental results demonstrate the effectiveness of the proposed framework through an image captioning use case, showcasing the ability to reduce response latency while maintaining high-quality captions. This article serves as a position paper for identifying the motivation, challenges, and principles of AI Flow.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-12-25",
+    "2024-12-31",
+    "2025-02-13"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP, cs.AI, cs.LG, cs.NI"
+}

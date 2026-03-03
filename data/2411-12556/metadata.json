@@ -1,0 +1,22 @@
+{
+  "title": "UMGAD: Unsupervised Multiplex Graph Anomaly Detection",
+  "authors": [
+    "Xiang Li",
+    "Jianpeng Qi",
+    "Zhongying Zhao",
+    "Guanjie Zheng",
+    "Lei Cao",
+    "Junyu Dong",
+    "Yanwei Yu"
+  ],
+  "summary": "Graph anomaly detection (GAD) is a critical task in graph machine learning, with the primary objective of identifying anomalous nodes that deviate significantly from the majority. This task is widely applied in various real-world scenarios, including fraud detection and social network analysis. However, existing GAD methods still face two major challenges: (1) They are often limited to detecting anomalies in single-type interaction graphs and struggle with multiple interaction types in multiplex heterogeneous graphs. (2) In unsupervised scenarios, selecting appropriate anomaly score thresholds remains a significant challenge for accurate anomaly detection. To address the above challenges, we propose a novel Unsupervised Multiplex Graph Anomaly Detection method, named UMGAD. We first learn multi-relational correlations among nodes in multiplex heterogeneous graphs and capture anomaly information during node attribute and structure reconstruction through graph-masked autoencoder (GMAE). Then, to further extract abnormal information, we generate attribute-level and subgraph-level augmented-view graphs, respectively, and perform attribute and structure reconstruction through GMAE. Finally, we learn to optimize node attributes and structural features through contrastive learning between original-view and augmented-view graphs to improve the model's ability to capture anomalies. Meanwhile, we propose a new anomaly score threshold selection strategy, which allows the model to be independent of ground truth information in real unsupervised scenarios. Extensive experiments on six datasets show that our UMGAD significantly outperforms state-of-the-art methods, achieving average improvements of 12.25% in AUC and 11.29% in Macro-F1 across all datasets.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-03-02",
+    "2025-03-04",
+    "2025-04-09"
+  ],
+  "publication_venue": "2025 IEEE 41st International Conference on Data Engineering (ICDE), pages: 3724-3737",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

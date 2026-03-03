@@ -1,0 +1,16 @@
+{
+  "title": "Sentiment Analysis of Economic Text: A Lexicon-Based Approach",
+  "authors": [
+    "Luca Barbaglia",
+    "Sergio Consoli",
+    "Sebastiano Manzan",
+    "Luca Tiozzo Pezzoli",
+    "Elisa Tosetti"
+  ],
+  "summary": "We propose an Economic Lexicon (EL) specifically designed for textual applications in economics. We construct the dictionary with two important characteristics: 1) to have a wide coverage of terms used in documents discussing economic concepts, and 2) to provide a human-annotated sentiment score in the range [-1,1]. We illustrate the use of the EL in the context of a simple sentiment measure and consider several applications in economics. The comparison to other lexicons shows that the EL is superior due to its wider coverage of domain relevant terms and its more accurate categorization of the word sentiment.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "Economic Inquiry, 1-19 (2024)",
+  "pdf_url": null,
+  "category": "cs.CE, cs.CL, cs.CY"
+}

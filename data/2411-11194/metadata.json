@@ -1,0 +1,22 @@
+{
+  "title": "Careless Whisper: Exploiting Silent Delivery Receipts to Monitor Users on Mobile Instant Messengers",
+  "authors": [
+    "Gabriel K. Gegenhuber",
+    "Maximilian Günther",
+    "Markus Maier",
+    "Aljosha Judmayer",
+    "Florian Holzbauer",
+    "Philipp É. Frenzel",
+    "Johanna Ullrich"
+  ],
+  "summary": "With over 3 billion users globally, mobile instant messaging apps have become indispensable for both personal and professional communication. Besides plain messaging, many services implement additional features such as delivery and read receipts informing a user when a message has successfully reached its target. This paper highlights that delivery receipts can pose significant privacy risks to users. We use specifically crafted messages that trigger delivery receipts allowing any user to be pinged without their knowledge or consent. By using this technique at high frequency, we demonstrate how an attacker could extract private information such as the online and activity status of a victim, e.g., screen on/off. Moreover, we can infer the number of currently active user devices and their operating system, as well as launch resource exhaustion attacks, such as draining a user's battery or data allowance, all without generating any notification on the target side. Due to the widespread adoption of vulnerable messengers (WhatsApp and Signal) and the fact that any user can be targeted simply by knowing their phone number, we argue for a design change to address this issue.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [
+    "2024-11-19",
+    "2025-07-01",
+    "2025-10-31"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR, cs.NI"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Multi-Target Spacecraft Mission Design using Convex Optimization and Binary Integer Programming",
+  "authors": [
+    "Jack Yarndley",
+    "Harry Holt",
+    "Roberto Armellin"
+  ],
+  "summary": "The optimal design of multi-target rendezvous and flyby missions is challenging due to the combination of traditional spacecraft trajectory optimization and high-dimensional combinatorial problems. This often requires large-scale global search techniques or simplified approximations that rely on manual tuning to be performant. While global search techniques are typically computationally expensive, limiting their use in time- or cost-constrained scenarios, this work proposes a computationally efficient nested-loop approach. The problem is split into separate combinatorial and optimal control subproblems: the combinatorial problem is solved using Binary Integer Programming (BIP) with a fixed rendezvous time schedule, while the optimal control problem is handled with adaptive-mesh Sequential Convex Programming (SCP), which also optimizes the time schedule. By iterating these processes in a nested-loop structure, the approach can efficiently find high-quality solutions. When, applied to the Global Trajectory Optimization Competition 12 (GTOC 12) problem, this method results in several new best-known solutions.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-01-23"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.IM, astro-ph.EP"
+}

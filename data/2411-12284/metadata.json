@@ -1,0 +1,17 @@
+{
+  "title": "DT-RaDaR: Digital Twin Assisted Robot Navigation using Differential Ray-Tracing",
+  "authors": [
+    "Sunday Amatare",
+    "Gaurav Singh",
+    "Raul Shakya",
+    "Aavash Kharel",
+    "Ahmed Alkhateeb",
+    "Debashri Roy"
+  ],
+  "summary": "Autonomous system navigation is a well-researched and evolving field. Recent advancements in improving robot navigation have sparked increased interest among researchers and practitioners, especially in the use of sensing data. However, this heightened focus has also raised significant privacy concerns, particularly for robots that rely on cameras and LiDAR for navigation. Our innovative concept of Radio Frequency (RF) map generation through ray-tracing (RT) within digital twin environments effectively addresses these concerns. In this paper, we propose DT-RaDaR, a robust privacy-preserving, deep reinforcement learning-based framework for robot navigation that leverages RF ray-tracing in both static and dynamic indoor scenarios as well as in smart cities. We introduce a streamlined framework for generating RF digital twins using open-source tools like Blender and NVIDIA's Sionna RT. This approach allows for high-fidelity replication of real-world environments and RF propagation models, optimized for service robot navigation. Several experimental validations and results demonstrate the feasibility of the proposed framework in indoor environments and smart cities, positioning our work as a significant advancement toward the practical implementation of robot navigation using ray-tracing-generated data.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.NI"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "On the relationship between Koopman operator approximations and neural ordinary differential equations for data-driven time-evolution predictions",
+  "authors": [
+    "Jake Buzhardt",
+    "C. Ricardo Constante-Amores",
+    "Michael D. Graham"
+  ],
+  "summary": "This work explores the relationship between state space methods and Koopman operator-based methods for predicting the time-evolution of nonlinear dynamical systems. We demonstrate that extended dynamic mode decomposition with dictionary learning (EDMD-DL), when combined with a state space projection, is equivalent to a neural network representation of the nonlinear discrete-time flow map on the state space. We highlight how this projection step introduces nonlinearity into the evolution equations, enabling significantly improved EDMD-DL predictions. With this projection, EDMD-DL leads to a nonlinear dynamical system on the state space, which can be represented in either discrete or continuous time. This system has a natural structure for neural networks, where the state is first expanded into a high dimensional feature space followed by a linear mapping which represents the discrete-time map or the vector field as a linear combination of these features. Inspired by these observations, we implement several variations of neural ordinary differential equations (ODEs) and EDMD-DL, developed by combining different aspects of their respective model structures and training procedures. We evaluate these methods using numerical experiments on chaotic dynamics in the Lorenz system and a nine-mode model of turbulent shear flow, showing comparable performance across methods in terms of short-time trajectory prediction, reconstruction of long-time statistics, and prediction of rare events. These results highlight the equivalence of the EDMD-DL implementation with a state space projection to a neural ODE representation of the dynamics. We also show that these methods provide comparable performance to a non-Markovian approach in terms of prediction of extreme events.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-03-14"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "nlin.CD, cs.LG"
+}

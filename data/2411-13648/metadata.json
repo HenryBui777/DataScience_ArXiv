@@ -1,0 +1,14 @@
+{
+  "title": "Accurate Shear Estimation with Fourth-Order Moments",
+  "authors": [
+    "Andy Park",
+    "Xiangchong Li",
+    "Rachel Mandelbaum"
+  ],
+  "summary": "As imaging surveys progress in exploring the large-scale structure of the Universe through the use of weak gravitational lensing, achieving subpercent accuracy in estimating shape distortions caused by lensing, or shear, is imperative for precision cosmology. In this paper, we extend the \\texttt{FPFS} shear estimator using fourth-order shapelet moments and combine it with the original second-order shear estimator to reduce galaxy shape noise. We calibrate this novel shear estimator analytically to a subpercent level accuracy using the \\texttt{AnaCal} framework. This higher-order shear estimator is tested with realistic image simulations, and after analytical correction for the detection/selection bias and noise bias, the multiplicative shear bias $|m|$ is below $3\\times10^{-3}$ ($99.7\\%$ confidence interval) for both isolated and blended galaxies. Once combined with the second-order \\texttt{FPFS} shear estimator, the shape noise is reduced by $\\sim35\\%$ for isolated galaxies in simulations with HSC and LSST observational conditions. However, for blended galaxies, the effective number density does not significantly improve with the combination of the two estimators. Based on these results, we recommend exploration of how this framework can further reduce the systematic uncertainties in shear due to PSF leakage and modelling error, and potentially provide improved precision in shear inference in high-resolution space-based images.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.CO"
+}

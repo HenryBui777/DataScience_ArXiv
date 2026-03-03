@@ -1,0 +1,15 @@
+{
+  "title": "Analysis of Hardware Synthesis Strategies for Machine Learning in Collider Trigger and Data Acquisition",
+  "authors": [
+    "Haoyi Jia",
+    "Abhilasha Dave",
+    "Julia Gonski",
+    "Ryan Herbst"
+  ],
+  "summary": "To fully exploit the physics potential of current and future high energy particle colliders, machine learning (ML) can be implemented in detector electronics for intelligent data processing and acquisition. The implementation of ML in real-time at colliders requires very low latencies that are unachievable with a software-based approach, requiring optimization and synthesis of ML algorithms for deployment on hardware. An analysis of neural network inference efficiency is presented, focusing on the application of collider trigger algorithms in field programmable gate arrays (FPGAs). Trade-offs are evaluated between two frameworks, the SLAC Neural Network Library (SNL) and hls4ml, in terms of resources and latency for different model sizes. Results highlight the strengths and limitations of each approach, offering valuable insights for optimizing real-time neural network deployments at colliders. This work aims to guide researchers and engineers in selecting the most suitable hardware and software configurations for real-time, resource-constrained environments.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.ins-det, cs.AR, cs.LG, hep-ex"
+}

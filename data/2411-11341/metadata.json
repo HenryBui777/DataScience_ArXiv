@@ -1,0 +1,15 @@
+{
+  "title": "Ultra high order cumulants and quantitative CLT for polynomials in Random Matrices",
+  "authors": [
+    "Zhigang Bao",
+    "Daniel Munoz George"
+  ],
+  "summary": "From the study of the high order freeness of random matrices, it is known that the order $r$ cumulant of the trace of a polynomial of $N$-dimensional GUE/GOE is of order $N^{2-r}$ if $r$ is fixed. In this work, we extend the study along three directions. First, we also consider generally distributed Wigner matrices with subexponential entries. Second, we include the deterministic matrices into discussion and consider arbitrary polynomials in random matrices and deterministic matrices. Third, more importantly, we consider the ultra high order cumulants in the sense that $r$ is arbitrary, i.e., could be $N$ dependent. Our main results are the upper bounds of the ultra high order cumulants, for which not only the $N$-dependence but also the $r$-dependence become significant. These results are then used to derive three types of quantitative CLT for the trace of any given self-adjoint polynomial in these random matrix variables: a CLT with a Cramér type correction, a Berry-Esseen bound, and a concentration inequality which captures both the Gaussian tail in the small deviation regime and $M$-dependent tail in the large deviation regime, where $M$ is the degree of the polynomial. In contrast to the second order freeness which implies the CLT for linear eigenvalue statistics of polynomials in random matrices, our study on the ultra high order cumulants leads to the quantitative versions of the CLT.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-11-07"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.PR, math-ph"
+}

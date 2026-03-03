@@ -1,0 +1,15 @@
+{
+  "title": "Hardness Amplification for Dynamic Binary Search Trees",
+  "authors": [
+    "Shunhua Jiang",
+    "Victor Lecomte",
+    "Omri Weinstein",
+    "Sorrachai Yingchareonthawornchai"
+  ],
+  "summary": "We prove direct-sum theorems for Wilber's two lower bounds [Wilber, FOCS'86] on the cost of access sequences in the binary search tree (BST) model. These bounds are central to the question of dynamic optimality [Sleator and Tarjan, JACM'85]: the Alternation bound is the only bound to have yielded online BST algorithms beating $\\log n$ competitive ratio, while the Funnel bound has repeatedly been conjectured to exactly characterize the cost of executing an access sequence using the optimal tree [Wilber, FOCS'86, Kozma'16], and has been explicitly linked to splay trees [Levy and Tarjan, SODA'19]. Previously, the direct-sum theorem for the Alternation bound was known only when approximation was allowed [Chalermsook, Chuzhoy and Saranurak, APPROX'20, ToC'24].\n  We use these direct-sum theorems to amplify the sequences from [Lecomte and Weinstein, ESA'20] that separate between Wilber's Alternation and Funnel bounds, increasing the Alternation and Funnel bounds while optimally maintaining the separation. As a corollary, we show that Tango trees [Demaine et al., FOCS'04] are optimal among any BST algorithms that charge their costs to the Alternation bound. This is true for any value of the Alternation bound, even values for which Tango trees achieve a competitive ratio of $o(\\log \\log n)$ instead of the default $O(\\log \\log n)$. Previously, the optimality of Tango trees was shown only for a limited range of Alternation bound [Lecomte and Weinstein, ESA'20].",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DS"
+}

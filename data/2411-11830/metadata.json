@@ -1,0 +1,15 @@
+{
+  "title": "Investigating the galaxy-halo connection of DESI Emission-Line Galaxies with SHAMe-SF",
+  "authors": [
+    "Sara Ortega-Martinez",
+    "Sergio Contreras",
+    "Raul E. Angulo",
+    "Jonas Chaves-Montero"
+  ],
+  "summary": "The Dark Energy Spectroscopic Instrument (DESI) survey is mapping the large-scale distribution of millions of Emission Line Galaxies (ELGs) over vast cosmic volumes to measure the growth history of the Universe. However, compared to Luminous Red Galaxies (LRGs), very little is known about the connection of ELGs with the underlying matter field. In this paper, we employ a novel theoretical model, SHAMe-SF, to infer the connection between ELGs and their host dark matter subhaloes. SHAMe-SF is a version of subhalo abundance matching that incorporates prescriptions for multiple processes, including star formation, tidal stripping, environmental correlations, and quenching. We analyse the public measurements of the projected and redshift-space ELGs correlation functions at $z=1.0$ and $z=1.3$ from DESI One Percent data release, which we fit over a broad range of scales $r \\in [0.1, 30]/h^{-1}$Mpc to within the statistical uncertainties of the data. We also validate the inference pipeline using two mock DESI ELG catalogues built from hydrodynamical (TNG300) and semi-analytical galaxy formation models (\\texttt{L-Galaxies}). SHAMe-SF is able to reproduce the clustering of DESI-ELGs and the mock DESI samples within statistical uncertainties. We infer that DESI ELGs typically reside in haloes of $\\sim 10^{11.8}h^{-1}$M$_{\\odot}$ when they are central, and $\\sim 10^{12.5}h^{-1}$M$_{\\odot}$ when they are a satellite, which occurs in $\\sim$30 \\% of the cases. In addition, compared to the distribution of dark matter within halos, satellite ELGs preferentially reside both in the outskirts and inside haloes, and have a net infall velocity towards the centre. Finally, our results show evidence of assembly bias and conformity.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "A&A 697, A226 (2025)",
+  "pdf_url": null,
+  "category": "astro-ph.CO, astro-ph.GA"
+}

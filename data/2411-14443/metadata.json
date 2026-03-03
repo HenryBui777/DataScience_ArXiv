@@ -1,0 +1,14 @@
+{
+  "title": "Industrial Machines Health Prognosis using a Transformer-based Framework",
+  "authors": [
+    "David J Poland",
+    "Lemuel Puglisi",
+    "Daniele Ravi"
+  ],
+  "summary": "This article introduces Transformer Quantile Regression Neural Networks (TQRNNs), a novel data-driven solution for real-time machine failure prediction in manufacturing contexts. Our objective is to develop an advanced predictive maintenance model capable of accurately identifying machine system breakdowns. To do so, TQRNNs employ a two-step approach: (i) a modified quantile regression neural network to segment anomaly outliers while maintaining low time complexity, and (ii) a concatenated transformer network aimed at facilitating accurate classification even within a large timeframe of up to one hour. We have implemented our proposed pipeline in a real-world beverage manufacturing industry setting. Our findings demonstrate the model's effectiveness, achieving an accuracy rate of 70.84% with a 1-hour lead time for predicting machine breakdowns. Additionally, our analysis shows that using TQRNNs can increase high-quality production, improving product yield from 78.38% to 89.62%. We believe that predictive maintenance assumes a pivotal role in modern manufacturing, minimizing unplanned downtime, reducing repair costs, optimizing production efficiency, and ensuring operational stability. Its potential to generate substantial cost savings while enhancing sustainability and competitiveness underscores its importance in contemporary manufacturing practices.",
+  "submission_date": "2024-11-05",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP, cs.LG"
+}

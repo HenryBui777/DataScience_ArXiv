@@ -1,0 +1,14 @@
+{
+  "title": "Robust Steganography with Boundary-Preserving Overflow Alleviation and Adaptive Error Correction",
+  "authors": [
+    "Yu Cheng",
+    "Zhenlin Luo",
+    "Zhaoxia Yin"
+  ],
+  "summary": "With the rapid evolution of the Internet, the vast amount of data has created opportunities for fostering the development of steganographic techniques. However, traditional steganographic techniques encounter challenges due to distortions in online social networks, such as JPEG recompression. Presently, research into the lossy operations of spatial truncation in JPEG recompression remains limited. Existing methods aim to ensure the stability of the quantized coefficients by reducing the effects of spatial truncation. Nevertheless, these approaches may induce notable alterations to image pixels, potentially compromising anti-steganalysis performance. In this study, we analyzed the overflow characteristics of spatial blocks and observed that pixel values at the boundaries of spatial blocks are more prone to overflow. Building upon this observation, we proposed a preprocessing method that performs overflow removal operations based on the actual overflow conditions of spatial blocks. After preprocessing, our algorithm enhances coefficient stability while minimizing modifications to spatial block boundaries, favoring image quality preservation. Subsequently, we employed adaptive error correction coding to reduce coding redundancy, thereby augmenting robustness and mitigating its impact on anti-steganalysis performance. The experimental results indicate that the proposed method possesses a strong embedding capacity, maintaining a high level of robustness while enhancing security.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR, cs.MM"
+}

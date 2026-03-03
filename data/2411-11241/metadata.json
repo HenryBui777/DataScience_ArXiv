@@ -1,0 +1,14 @@
+{
+  "title": "Well-balanced fifth-order finite volume WENO schemes with constant subtraction technique for shallow water equations",
+  "authors": [
+    "Lidan Zhao",
+    "Zhanjing Tao",
+    "Min Zhang"
+  ],
+  "summary": "In this paper, we propose a new well-balanced fifth-order finite volume WENO method for solving one- and two-dimensional shallow water equations with bottom topography. The well-balanced property is crucial to the ability of a scheme to simulate perturbation waves over the ``lake-at-rest'' steady state such as waves on a lake or tsunami waves in the deep ocean. We adopt the constant subtraction technique such that both the flux gradient and source term in the new pre-balanced form vanish at the lake-at-rest steady state, while the well-balanced WENO method by Xing and Shu [Commun. Comput. Phys., 2006] uses high-order accurate numerical discretization of the source term and makes the exact balance between the source term and the flux gradient, to achieve the well-balanced property. The scaling positivity-preserving limiter is used for the water height near the dry areas. The fifth-order WENO-AO reconstruction is used to construct the solution since it has better resolution than the WENO-ZQ and WENO-MR reconstructions for the perturbation of steady state flows. Extensive one- and two-dimensional numerical examples are presented to demonstrate the well-balanced, fifth-order accuracy, non-oscillatory, and positivity-preserving properties of the proposed method.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

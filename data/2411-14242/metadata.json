@@ -1,0 +1,16 @@
+{
+  "title": "Approximate Constrained Lumping of Chemical Reaction Networks",
+  "authors": [
+    "Alexander Leguizamon-Robayo",
+    "Antonio Jiménez-Pastor",
+    "Micro Tribastone",
+    "Max Tschaikowski",
+    "Andrea Vandin"
+  ],
+  "summary": "Gaining insights from realistic dynamical models of biochemical systems can be challenging given their large number of state variables. Model reduction techniques can mitigate this by decreasing complexity by mapping the model onto a lower-dimensional state space. Exact constrained lumping identifies reductions as linear combinations of the original state variables in systems of nonlinear ordinary differential equations, preserving specific user-defined output variables without error. However, exact reductions can be too stringent in practice, as model parameters are often uncertain or imprecise -- a particularly relevant problem for biochemical systems. We propose approximate constrained lumping. It allows for a relaxation of exactness within a given tolerance parameter $\\varepsilon$, while still working in polynomial time. We prove that the accuracy, i.e., the difference between the output variables in the original and reduced model, is in the order of $\\varepsilon$. Furthermore, we provide a heuristic algorithm to find the smallest $\\varepsilon$ for a given maximum allowable size of the lumped system. Our method is applied to several models from the literature, resulting in coarser aggregations than exact lumping while still capturing the dynamics of the original system accurately.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CE, q-bio.MN, q-bio.QM"
+}

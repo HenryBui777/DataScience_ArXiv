@@ -1,0 +1,13 @@
+{
+  "title": "The occlusion process: improving sampler performance with parallel computation and variational approximation",
+  "authors": [
+    "Max Hird",
+    "Florian Maire"
+  ],
+  "summary": "Autocorrelations in MCMC chains increase the variance of the estimators they produce. We propose the occlusion process to mitigate this problem. It is a process that sits upon an existing MCMC sampler, and occasionally replaces its samples with ones that are decorrelated from the chain. We show that this process inherits many desirable properties from the underlying MCMC sampler, such as a Law of Large Numbers, convergence in a normed function space, and geometric ergodicity, to name a few. We show how to simulate the occlusion process at no additional time-complexity to the underlying MCMC chain. This requires a threaded computer, and a variational approximation to the target distribution. We demonstrate empirically the occlusion process' decorrelation and variance reduction capabilities on two target distributions. The first is a bimodal Gaussian mixture model in 1d and 100d. The second is the Ising model on an arbitrary graph, for which we propose a novel variational distribution.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.CO"
+}

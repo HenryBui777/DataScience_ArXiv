@@ -1,0 +1,14 @@
+{
+  "title": "Quantum Kernel-Based Long Short-term Memory",
+  "authors": [
+    "Yu-Chao Hsu",
+    "Tai-Yu Li",
+    "Kuan-Cheng Chen"
+  ],
+  "summary": "The integration of quantum computing into classical machine learning architectures has emerged as a promising approach to enhance model efficiency and computational capacity. In this work, we introduce the Quantum Kernel-Based Long Short-Term Memory (QK-LSTM) network, which utilizes quantum kernel functions within the classical LSTM framework to capture complex, non-linear patterns in sequential data. By embedding input data into a high-dimensional quantum feature space, the QK-LSTM model reduces the reliance on large parameter sets, achieving effective compression while maintaining accuracy in sequence modeling tasks. This quantum-enhanced architecture demonstrates efficient convergence, robust loss minimization, and model compactness, making it suitable for deployment in edge computing environments and resource-limited quantum devices (especially in the NISQ era). Benchmark comparisons reveal that QK-LSTM achieves performance on par with classical LSTM models, yet with fewer parameters, underscoring its potential to advance quantum machine learning applications in natural language processing and other domains requiring efficient temporal data processing.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, cs.AI"
+}

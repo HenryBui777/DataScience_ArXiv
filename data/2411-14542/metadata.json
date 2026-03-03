@@ -1,0 +1,16 @@
+{
+  "title": "Combining missing data imputation and internal validation in clinical risk prediction models",
+  "authors": [
+    "Junhui Mi",
+    "Rahul D. Tendulkar",
+    "Sarah M. C. Sittenfeld",
+    "Sujata Patil",
+    "Emily C. Zabor"
+  ],
+  "summary": "Methods to handle missing data have been extensively explored in the context of estimation and descriptive studies, with multiple imputation being the most widely used method in clinical research. However, in the context of clinical risk prediction models, where the goal is often to achieve high prediction accuracy and to make predictions for future patients, there are different considerations regarding the handling of missing data. As a result, deterministic imputation is better suited to the setting of clinical risk prediction models, since the outcome is not included in the imputation model and the imputation method can be easily applied to future patients. In this paper, we provide a tutorial demonstrating how to conduct bootstrapping followed by deterministic imputation of missing data to construct and internally validate the performance of a clinical risk prediction model in the presence of missing data. Extensive simulation study results are provided to help guide decision-making in real-world applications.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME, stat.AP"
+}

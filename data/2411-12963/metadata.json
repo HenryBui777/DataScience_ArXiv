@@ -1,0 +1,16 @@
+{
+  "title": "Probabilistic Dynamic Line Rating Forecasting with Line Graph Convolutional LSTM",
+  "authors": [
+    "Minsoo Kim",
+    "Vladimir Dvorkin",
+    "Jip Kim"
+  ],
+  "summary": "Dynamic line rating (DLR) is a promising solution to increase the utilization of transmission lines by adjusting ratings based on real-time weather conditions. Accurate DLR forecast at the scheduling stage is thus necessary for system operators to proactively optimize power flows, manage congestion, and reduce the cost of grid operations. However, the DLR forecast remains challenging due to weather uncertainty. To reliably predict DLRs, we propose a new probabilistic forecasting model based on line graph convolutional LSTM. Like standard LSTM networks, our model accounts for temporal correlations between DLRs across the planning horizon. The line graph-structured network additionally allows us to leverage the spatial correlations of DLR features across the grid to improve the quality of predictions. Simulation results on the synthetic Texas 123-bus system demonstrate that the proposed model significantly outperforms the baseline probabilistic DLR forecasting models regarding reliability and sharpness while using the fewest parameters.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-03-09"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

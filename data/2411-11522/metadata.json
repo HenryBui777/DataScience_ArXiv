@@ -1,0 +1,13 @@
+{
+  "title": "Robust Bernoulli mixture models for credit portfolio risk",
+  "authors": [
+    "Jonathan Ansari",
+    "Eva Lütkebohmert"
+  ],
+  "summary": "This paper presents comparison results and establishes risk bounds for credit portfolios within classes of Bernoulli mixture models, assuming conditionally independent defaults that are stochastically increasing with a common risk factor. We provide simple and interpretable conditions for conditional default probabilities that imply a comparison of credit portfolio losses in convex order. In the case of threshold models, the ranking of portfolio losses is based on a pointwise comparison of the underlying copulas. Our setting includes as special case the well-known Gaussian copula model but allows for general tail dependencies, which are crucial for modeling credit portfolio risks. Moreover, our results extend the classical parameterized models, such as the industry models CreditMetrics and KMV Portfolio Manager, to a robust setting where individual parameters or the copula modeling the dependence structure can be ambiguous. A simulation study and a real data example under model uncertainty offer evidence supporting the effectiveness of our approach.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-fin.RM, q-fin.MF"
+}

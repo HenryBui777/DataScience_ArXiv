@@ -1,0 +1,16 @@
+{
+  "title": "HoGA: Higher-Order Graph Attention via Diversity-Aware k-Hop Sampling",
+  "authors": [
+    "Thomas Bailie",
+    "Yun Sing Koh",
+    "Karthik Mukkavilli"
+  ],
+  "summary": "Graphs model latent variable relationships in many real-world systems, and Message Passing Neural Networks (MPNNs) are widely used to learn such structures for downstream tasks. While edge-based MPNNs effectively capture local interactions, their expressive power is theoretically bounded, limiting the discovery of higher-order relationships. We introduce the Higher-Order Graph Attention (HoGA) module, which constructs a k-order attention matrix by sampling subgraphs to maximize diversity among feature vectors. Unlike existing higher-order attention methods that greedily resample similar k-order relationships, HoGA targets diverse modalities in higher-order topology, reducing redundancy and expanding the range of captured substructures. Applied to two single-hop attention models, HoGA achieves at least a 5% accuracy gain on all benchmark node classification datasets and outperforms recent baselines on six of eight datasets. Code is available at https://github.com/TB862/Higher_Order.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-10-29"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

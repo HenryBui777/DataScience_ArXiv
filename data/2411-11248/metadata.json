@@ -1,0 +1,13 @@
+{
+  "title": "A model-free test of the time-reversibility of climate change processes",
+  "authors": [
+    "Yuichi Goto",
+    "Marc Hallin"
+  ],
+  "summary": "Time-reversibility is a crucial feature of many time series models, while time-irreversibility is the rule rather than the exception in real-life data. Testing the null hypothesis of time-reversibilty, therefore, should be an important step preliminary to the identification and estimation of most traditional time-series models. Existing procedures, however, mostly consist of testing necessary but not sufficient conditions, leading to under-rejection, or sufficient but non-necessary ones, which leads to over-rejection. Moreover, they generally are model-besed. In contrast, the copula spectrum studied by Goto et al. ($\\textit{Ann. Statist.}$ 2022, $\\textbf{50}$: 3563--3591) allows for a model-free necessary and sufficient time-reversibility condition. A test based on this copula-spectrum-based characterization has been proposed by authors. This paper illustrates the performance of this test, with an illustration in the analysis of climatic data.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME"
+}

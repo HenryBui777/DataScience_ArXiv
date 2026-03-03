@@ -1,0 +1,17 @@
+{
+  "title": "Error Analysis of the Deep Mixed Residual Method for High-order Elliptic Equations",
+  "authors": [
+    "Mengjia Bai",
+    "Jingrun Chen",
+    "Rui Du",
+    "Zhiwei Sun"
+  ],
+  "summary": "This paper presents an a priori error analysis of the Deep Mixed Residual method (MIM) for solving high-order elliptic equations with non-homogeneous boundary conditions, including Dirichlet, Neumann, and Robin conditions. We examine MIM with two types of loss functions, referred to as first-order and second-order least squares systems. By providing boundedness and coercivity analysis, we leverage Céa's Lemma to decompose the total error into the approximation, generalization, and optimization errors. Utilizing the Barron space theory and Rademacher complexity, an a priori error is derived regarding the training samples and network size that are exempt from the curse of dimensionality. Our results reveal that MIM significantly reduces the regularity requirements for activation functions compared to the deep Ritz method, implying the effectiveness of MIM in solving high-order equations.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-24"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

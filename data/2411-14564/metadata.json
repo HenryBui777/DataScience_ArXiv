@@ -1,0 +1,22 @@
+{
+  "title": "Galaxy Clustering with LSST: Effects of Number Count Bias from Blending",
+  "authors": [
+    "Benjamin Levine",
+    "Javier Sánchez",
+    "Chihway Chang",
+    "Anja von der Linden",
+    "Eboni Collins",
+    "Eric Gawiser",
+    "Katarzyna Krzyżańska",
+    "Boris Leistedt",
+    "The LSST Dark Energy Science Collaboration"
+  ],
+  "summary": "The Vera C. Rubin Observatory Legacy Survey of Space and Time (LSST) will survey the southern sky to create the largest galaxy catalog to date, and its statistical power demands an improved understanding of systematic effects such as source overlaps, also known as blending. In this work we study how blending introduces a bias in the number counts of galaxies (instead of the flux and colors), and how it propagates into galaxy clustering statistics. We use the $300\\,$deg$^2$ DC2 image simulation and its resulting galaxy catalog (LSST Dark Energy Science Collaboration et al. 2021) to carry out this study. We find that, for a LSST Year 1 (Y1)-like cosmological analyses, the number count bias due to blending leads to small but statistically significant differences in mean redshift measurements when comparing an observed sample to an unblended calibration sample. In the two-point correlation function, blending causes differences greater than 3$σ$ on scales below approximately $10'$, but large scales are unaffected. We fit $Ω_{\\rm m}$ and linear galaxy bias in a Bayesian cosmological analysis and find that the recovered parameters from this limited area sample, with the LSST Y1 scale cuts, are largely unaffected by blending. Our main results hold when considering photometric redshift and a LSST Year 5 (Y5)-like sample.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-04-06"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.CO"
+}

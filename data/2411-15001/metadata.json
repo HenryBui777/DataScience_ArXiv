@@ -1,0 +1,14 @@
+{
+  "title": "A positive- and bound-preserving vectorial lattice Boltzmann method in two dimensions",
+  "authors": [
+    "Gauthier Wissocq",
+    "Yongle Liu",
+    "Rémi Abgrall"
+  ],
+  "summary": "We present a novel positive kinetic scheme built on the efficient collide-and-stream algorithm of the lattice Boltzmann method (LBM) to address hyperbolic conservation laws. We focus on the compressible Euler equations with strong discontinuities. Starting from the work of Jin and Xin [20] and then [4,8], we show how the LBM discretization procedure can yield both first- and second-order schemes, referred to as vectorial LBM. Noticing that the first-order scheme is convex preserving under a specific CFL constraint, we develop a blending strategy that preserves both the conservation and simplicity of the algorithm. This approach employs convex limiters, carefully designed to ensure either positivity (of the density and the internal energy) preservation (PP) or well-defined local maximum principles (LMP), while minimizing numerical dissipation. On challenging test cases involving strong discontinuities and near-vacuum regions, we demonstrate the scheme accuracy, robustness, and ability to capture sharp discontinuities with minimal numerical oscillations.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

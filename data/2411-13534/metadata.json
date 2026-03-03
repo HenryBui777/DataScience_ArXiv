@@ -1,0 +1,21 @@
+{
+  "title": "Predictive Insights into LGBTQ+ Minority Stress: A Transductive Exploration of Social Media Discourse",
+  "authors": [
+    "S. Chapagain",
+    "Y. Zhao",
+    "T. K. Rohleen",
+    "S. M. Hamdi",
+    "S. F. Boubrahimi",
+    "R. E. Flinn",
+    "E. M. Lund",
+    "D. Klooster",
+    "J. R. Scheer",
+    "C. J. Cascalheira"
+  ],
+  "summary": "Individuals who identify as sexual and gender minorities, including lesbian, gay, bisexual, transgender, queer, and others (LGBTQ+) are more likely to experience poorer health than their heterosexual and cisgender counterparts. One primary source that drives these health disparities is minority stress (i.e., chronic and social stressors unique to LGBTQ+ communities' experiences adapting to the dominant culture). This stress is frequently expressed in LGBTQ+ users' posts on social media platforms. However, these expressions are not just straightforward manifestations of minority stress. They involve linguistic complexity (e.g., idiom or lexical diversity), rendering them challenging for many traditional natural language processing methods to detect. In this work, we designed a hybrid model using Graph Neural Networks (GNN) and Bidirectional Encoder Representations from Transformers (BERT), a pre-trained deep language model to improve the classification performance of minority stress detection. We experimented with our model on a benchmark social media dataset for minority stress detection (LGBTQ+ MiSSoM+). The dataset is comprised of 5,789 human-annotated Reddit posts from LGBTQ+ subreddits. Our approach enables the extraction of hidden linguistic nuances through pretraining on a vast amount of raw data, while also engaging in transductive learning to jointly develop representations for both labeled training data and unlabeled test data. The RoBERTa-GCN model achieved an accuracy of 0.86 and an F1 score of 0.86, surpassing the performance of other baseline models in predicting LGBTQ+ minority stress. Improved prediction of minority stress expressions on social media could lead to digital health interventions to improve the wellbeing of LGBTQ+ people-a community with high rates of stress-sensitive health problems.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL"
+}

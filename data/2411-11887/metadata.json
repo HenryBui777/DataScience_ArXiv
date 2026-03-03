@@ -1,0 +1,20 @@
+{
+  "title": "Inverse Diffusion Approximation for Extraction of Scattering and Absorption Coefficients in Highly Scattering Media",
+  "authors": [
+    "Lingxi Li",
+    "Yue Yu",
+    "Joanna Borowiec",
+    "Francisco V Ramirez-Cuevas",
+    "Danhong Yang",
+    "Souvik Ghosh",
+    "Cameron Tropea",
+    "Ivan P. Parkin",
+    "Ioannis Papakonstantinou"
+  ],
+  "summary": "Photon transport through a diffusing slab can be described by the radiative transfer equation (RTE). When the slab is highly scattering and weakly absorbing, the RTE simplifies to the diffusion equation. In this paper, an inverse diffusion approximation (IDA) method is numerically developed to determine the optical properties (reduced scattering $μ'_s$ and absorption coefficient $μ_a$) of a homogeneous slab using simple reflectance and transmission measurements with a spectrometer. The reflectance and transmission of a diffusing slab with an arbitrary thickness can then be predicted by solving the forward problem by using the calculated $μ'_s$ and $μ_a$. Our method is validated both numerically, by directly comparing with Monte-Carlo simulations, and experimentally, by comparing with measurements on ZnO/PDMS and TiO$_2$/PDMS composite polymer films with varying thicknesses. The IDA method is also applied to distinguish between different types of tissue. Overall, our method could be used to guide the design of radiative cooling reflectors, or lighting and optical display diffusers for applications in medical imaging and other fields.",
+  "submission_date": "2024-11-05",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.optics, physics.app-ph"
+}

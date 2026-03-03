@@ -1,0 +1,16 @@
+{
+  "title": "SAMOS: A Neural MOS Prediction Model Leveraging Semantic Representations and Acoustic Features",
+  "authors": [
+    "Yu-Fei Shi",
+    "Yang Ai",
+    "Ye-Xin Lu",
+    "Hui-Peng Du",
+    "Zhen-Hua Ling"
+  ],
+  "summary": "Assessing the naturalness of speech using mean opinion score (MOS) prediction models has positive implications for the automatic evaluation of speech synthesis systems. Early MOS prediction models took the raw waveform or amplitude spectrum of speech as input, whereas more advanced methods employed self-supervised-learning (SSL) based models to extract semantic representations from speech for MOS prediction. These methods utilized limited aspects of speech information for MOS prediction, resulting in restricted prediction accuracy. Therefore, in this paper, we propose SAMOS, a MOS prediction model that leverages both Semantic and Acoustic information of speech to be assessed. Specifically, the proposed SAMOS leverages a pretrained wav2vec2 to extract semantic representations and uses the feature extractor of a pretrained BiVocoder to extract acoustic features. These two types of features are then fed into the prediction network, which includes multi-task heads and an aggregation layer, to obtain the final MOS score. Experimental results demonstrate that the proposed SAMOS outperforms current state-of-the-art MOS prediction models on the BVCC dataset and performs comparable performance on the BC2019 dataset, according to the results of system-level evaluation metrics.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SD, eess.AS"
+}

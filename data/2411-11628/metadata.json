@@ -1,0 +1,16 @@
+{
+  "title": "Linear Convergence of the Proximal Gradient Method for Composite Optimization Under the Polyak-Łojasiewicz Inequality and Its Variant",
+  "authors": [
+    "Qingyuan Kong",
+    "Rujun Jiang",
+    "Yihan He"
+  ],
+  "summary": "We study the linear convergence rates of the proximal gradient method for composite functions satisfying two classes of Polyak-Łojasiewicz (PL) inequality: the PL inequality, the variant of PL inequality defined by the proximal map-based residual. Using the performance estimation problem, we either provide new explicit linear convergence rates or improve existing complexity bounds for minimizing composite functions under the two classes of PL inequality. Finally, we illustrate numerically the effects of our theoretical results.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-06-30"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC"
+}

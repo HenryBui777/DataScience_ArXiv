@@ -1,0 +1,554 @@
+{
+  "2408-05147": {
+    "title": "Gemma Scope: Open Sparse Autoencoders Everywhere All At Once on Gemma 2",
+    "authors": [
+      "Tom Lieberum",
+      "Senthooran Rajamanoharan",
+      "Arthur Conmy",
+      "Lewis Smith",
+      "Nicolas Sonnerat",
+      "Vikrant Varma",
+      "J'anos Kram'ar",
+      "Anca Dragan",
+      "Rohin Shah",
+      "Neel Nanda"
+    ],
+    "publication_date": "2024-08-09",
+    "venue": "BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP",
+    "semantic_scholar_id": "890efc891e9b59e8cb5e8c244428f6b81ec0a4da",
+    "corpus_id": 271843380,
+    "category": "Computer Science"
+  },
+  "2407-14435": {
+    "title": "Jumping Ahead: Improving Reconstruction Fidelity with JumpReLU Sparse Autoencoders",
+    "authors": [
+      "Senthooran Rajamanoharan",
+      "Tom Lieberum",
+      "Nicolas Sonnerat",
+      "Arthur Conmy",
+      "Vikrant Varma",
+      "János Kramár",
+      "Neel Nanda"
+    ],
+    "publication_date": "2024-07-19",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "1a80429448d7379ca1157a33a36bd5130257e3e9",
+    "corpus_id": 271298201,
+    "category": "Computer Science"
+  },
+  "2406-15927": {
+    "title": "Semantic Entropy Probes: Robust and Cheap Hallucination Detection in LLMs",
+    "authors": [
+      "Jannik Kossen",
+      "Jiatong Han",
+      "Muhammed Razzak",
+      "L. Schut",
+      "Shreshth A. Malik",
+      "Yarin Gal"
+    ],
+    "publication_date": "2024-06-22",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "648375ec8d90cb792de76030223539498612102e",
+    "corpus_id": 270703114,
+    "category": "Computer Science"
+  },
+  "2406-12673": {
+    "title": "Estimating Knowledge in Large Language Models Without Generating a Single Token",
+    "authors": [
+      "Daniela Gottesman",
+      "Mor Geva"
+    ],
+    "publication_date": "2024-06-18",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "881af971d00621709b4c772750cd3ea9d0fb11fd",
+    "corpus_id": 270562553,
+    "category": "Computer Science"
+  },
+  "2406-11717": {
+    "title": "Refusal in Language Models Is Mediated by a Single Direction",
+    "authors": [
+      "Andy Arditi",
+      "Oscar Obeso",
+      "Aaquib Syed",
+      "Daniel Paleka",
+      "Nina Rimsky",
+      "Wes Gurnee",
+      "Neel Nanda"
+    ],
+    "publication_date": "2024-06-17",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "88f9af8b0a28e14c42d4f70ce2d911b51a06cd16",
+    "corpus_id": 270560489,
+    "category": "Computer Science"
+  },
+  "2406-04093": {
+    "title": "Scaling and evaluating sparse autoencoders",
+    "authors": [
+      "Leo Gao",
+      "Tom Dupr'e la Tour",
+      "Henk Tillman",
+      "Gabriel Goh",
+      "Rajan Troll",
+      "Alec Radford",
+      "I. Sutskever",
+      "Jan Leike",
+      "Jeffrey Wu"
+    ],
+    "publication_date": "2024-06-06",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "0d24c5680efe9769e6d7ea579db0499ec819a8c7",
+    "corpus_id": 270286001,
+    "category": "Computer Science"
+  },
+  "2405-16908": {
+    "title": "Can Large Language Models Faithfully Express Their Intrinsic Uncertainty in Words?",
+    "authors": [
+      "G. Yona",
+      "Roee Aharoni",
+      "Mor Geva"
+    ],
+    "publication_date": "2024-05-27",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "e399fb6a97130fb3ec6db57d583a62f5db45fe18",
+    "corpus_id": 270062441,
+    "category": "Computer Science"
+  },
+  "2405-00208": {
+    "title": "A Primer on the Inner Workings of Transformer-based Language Models",
+    "authors": [
+      "Javier Ferrando",
+      "Gabriele Sarti",
+      "Arianna Bisazza",
+      "M. Costa-jussà"
+    ],
+    "publication_date": "2024-04-30",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "61494e66cac2a3b9b846a5c934d478bbd8b8c319",
+    "corpus_id": 269484740,
+    "category": "Computer Science"
+  },
+  "2404-15255": {
+    "title": "How to use and interpret activation patching",
+    "authors": [
+      "Stefan Heimersheim",
+      "Neel Nanda"
+    ],
+    "publication_date": "2024-04-23",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "a0b775b9ff82ce1fb7dd34d53a7d09f70b171895",
+    "corpus_id": 269302704,
+    "category": "Computer Science"
+  },
+  "2403-19647": {
+    "title": "Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models",
+    "authors": [
+      "Samuel Marks",
+      "Can Rager",
+      "Eric J. Michaud",
+      "Yonatan Belinkov",
+      "David Bau",
+      "Aaron Mueller"
+    ],
+    "publication_date": "2024-03-28",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "b8f280d8bf685f8da7c83068e73f000528072d6b",
+    "corpus_id": 268732732,
+    "category": "Computer Science"
+  },
+  "2403-18167": {
+    "title": "Mechanistic Understanding and Mitigation of Language Model Non-Factual Hallucinations",
+    "authors": [
+      "Lei Yu",
+      "Meng Cao",
+      "J. C. K. Cheung",
+      "Yue Dong"
+    ],
+    "publication_date": "2024-03-27",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "01b4977937966694c00f6c7b55e712eef50603a4",
+    "corpus_id": 268723949,
+    "category": "Computer Science"
+  },
+  "2402-14811": {
+    "title": "Fine-Tuning Enhances Existing Mechanisms: A Case Study on Entity Tracking",
+    "authors": [
+      "Nikhil Prakash",
+      "Tamar Rott Shaham",
+      "Tal Haklay",
+      "Yonatan Belinkov",
+      "David Bau"
+    ],
+    "publication_date": "2024-02-22",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "0edcd3f065caa1d9e2dad4458f5b2f56efa3162b",
+    "corpus_id": 267783084,
+    "category": "Computer Science"
+  },
+  "2402-07321": {
+    "title": "Summing Up the Facts: Additive Mechanisms Behind Factual Recall in LLMs",
+    "authors": [
+      "Bilal Chughtai",
+      "Alan Cooney",
+      "Neel Nanda"
+    ],
+    "publication_date": "2024-02-11",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "ebfc54627cdd61a07c44667ab3a8ea77099fe59b",
+    "corpus_id": 267627186,
+    "category": "Computer Science"
+  },
+  "2312-17249": {
+    "title": "Do Androids Know They're Only Dreaming of Electric Sheep?",
+    "authors": [
+      "Sky CH-Wang",
+      "Benjamin Van Durme",
+      "Jason Eisner",
+      "Chris Kedzie"
+    ],
+    "publication_date": "2023-12-28",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "6789e0a19f70e283b120fd6a3792162d01a021d5",
+    "corpus_id": 266573169,
+    "category": "Computer Science"
+  },
+  "2311-12786": {
+    "title": "Mechanistically analyzing the effects of fine-tuning on procedurally defined tasks",
+    "authors": [
+      "Samyak Jain",
+      "Robert Kirk",
+      "E. Lubana",
+      "Robert P. Dick",
+      "Hidenori Tanaka",
+      "Edward Grefenstette",
+      "Tim Rocktaschel",
+      "D. Krueger"
+    ],
+    "publication_date": "2023-11-21",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "3cea9013b9b8383c673dd992942a248646743e09",
+    "corpus_id": 265308865,
+    "category": "Computer Science"
+  },
+  "2311-05232": {
+    "title": "A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions",
+    "authors": [
+      "Lei Huang",
+      "Weijiang Yu",
+      "Weitao Ma",
+      "Weihong Zhong",
+      "Zhangyin Feng",
+      "Haotian Wang",
+      "Qianglong Chen",
+      "Weihua Peng",
+      "Xiaocheng Feng",
+      "Bing Qin",
+      "Ting Liu"
+    ],
+    "publication_date": "2023-11-09",
+    "venue": "ACM Trans. Inf. Syst.",
+    "semantic_scholar_id": "1e909e2a8cdacdcdff125ebcc566f37cb869a1c8",
+    "corpus_id": 265067168,
+    "category": "Computer Science"
+  },
+  "2311-03658": {
+    "title": "The Linear Representation Hypothesis and the Geometry of Large Language Models",
+    "authors": [
+      "Kiho Park",
+      "Yo Joong Choe",
+      "Victor Veitch"
+    ],
+    "publication_date": "2023-11-07",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "eb44ce1f7e1f4deac10f6e7009e2073f1eb0b3e4",
+    "corpus_id": 265042984,
+    "category": "Computer Science, Mathematics"
+  },
+  "2310-15154": {
+    "title": "Linear Representations of Sentiment in Large Language Models",
+    "authors": [
+      "Curt Tigges",
+      "Oskar Hollinsworth",
+      "Atticus Geiger",
+      "Neel Nanda"
+    ],
+    "publication_date": "2023-10-23",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "012dda8aef89ffa57128b15dc3cad2c02eedfa80",
+    "corpus_id": 264591569,
+    "category": "Computer Science"
+  },
+  "2310-06824": {
+    "title": "The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets",
+    "authors": [
+      "Samuel Marks",
+      "Max Tegmark"
+    ],
+    "publication_date": "2023-10-10",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "d59523889679aee15992c4bf6e52b134186d07d3",
+    "corpus_id": 263831277,
+    "category": "Computer Science"
+  },
+  "2310-01405": {
+    "title": "Representation Engineering: A Top-Down Approach to AI Transparency",
+    "authors": [
+      "Andy Zou",
+      "Long Phan",
+      "Sarah Chen",
+      "James Campbell",
+      "Phillip Guo",
+      "Richard Ren",
+      "Alexander Pan",
+      "Xuwang Yin",
+      "Mantas Mazeika",
+      "Ann-Kathrin Dombrowski",
+      "Shashwat Goel",
+      "Nathaniel Li",
+      "Michael J. Byun",
+      "Zifan Wang",
+      "Alex Troy Mallen",
+      "Steven Basart",
+      "Sanmi Koyejo",
+      "Dawn Song",
+      "Matt Fredrikson",
+      "Zico Kolter",
+      "Dan Hendrycks"
+    ],
+    "publication_date": "2023-10-02",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "58fdf550600fc3873729d466601c5d08a51ba8a0",
+    "corpus_id": 263605618,
+    "category": "Computer Science"
+  },
+  "2309-15098": {
+    "title": "Attention Satisfies: A Constraint-Satisfaction Lens on Factual Errors of Language Models",
+    "authors": [
+      "Mert Yuksekgonul",
+      "Varun Chandrasekaran",
+      "Erik Jones",
+      "Suriya Gunasekar",
+      "Ranjita Naik",
+      "Hamid Palangi",
+      "Ece Kamar",
+      "Besmira Nushi"
+    ],
+    "publication_date": "2023-09-26",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "fdc75b7b51ca98e555a4a8f0bc261e76bac6fb70",
+    "corpus_id": 262954661,
+    "category": "Computer Science"
+  },
+  "2309-08600": {
+    "title": "Sparse Autoencoders Find Highly Interpretable Features in Language Models",
+    "authors": [
+      "Hoagy Cunningham",
+      "Aidan Ewart",
+      "Logan Riggs Smith",
+      "R. Huben",
+      "Lee Sharkey"
+    ],
+    "publication_date": "2023-09-15",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "edb548fe7574d99454b352ffdb61bca93c3072ba",
+    "corpus_id": 261934663,
+    "category": "Computer Science"
+  },
+  "2307-03987": {
+    "title": "A Stitch in Time Saves Nine: Detecting and Mitigating Hallucinations of LLMs by Validating Low-Confidence Generation",
+    "authors": [
+      "Neeraj Varshney",
+      "Wenlin Yao",
+      "Hongming Zhang",
+      "Jianshu Chen",
+      "Dong Yu"
+    ],
+    "publication_date": "2023-07-08",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "1827dd28ef866eaeb929ddf4bcfa492880aba4c7",
+    "corpus_id": 263699899,
+    "category": "Computer Science"
+  },
+  "2306-03341": {
+    "title": "Inference-Time Intervention: Eliciting Truthful Answers from a Language Model",
+    "authors": [
+      "Kenneth Li",
+      "Oam Patel",
+      "Fernanda Vi'egas",
+      "H. Pfister",
+      "M. Wattenberg"
+    ],
+    "publication_date": "2023-06-06",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "405f8f5f1c6df1b3343c812832479aad5180b65f",
+    "corpus_id": 259088877,
+    "category": "Computer Science"
+  },
+  "2304-14767": {
+    "title": "Dissecting Recall of Factual Associations in Auto-Regressive Language Models",
+    "authors": [
+      "Mor Geva",
+      "Jasmijn Bastings",
+      "Katja Filippova",
+      "A. Globerson"
+    ],
+    "publication_date": "2023-04-28",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "133b97e40017a9bbbadd10bcd7f13088a97ca3cc",
+    "corpus_id": 258417932,
+    "category": "Computer Science"
+  },
+  "2304-13734": {
+    "title": "The Internal State of an LLM Knows When its Lying",
+    "authors": [
+      "A. Azaria",
+      "Tom M. Mitchell"
+    ],
+    "publication_date": "2023-04-26",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "f406aceba4f29cc7cfbe7edb2f52f01374486589",
+    "corpus_id": 258352729,
+    "category": "Computer Science"
+  },
+  "2211-00593": {
+    "title": "Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small",
+    "authors": [
+      "Kevin Wang",
+      "Alexandre Variengien",
+      "Arthur Conmy",
+      "Buck Shlegeris",
+      "J. Steinhardt"
+    ],
+    "publication_date": "2022-11-01",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "6edd112383ad494f5f2eba72b6f4ffae122ce61f",
+    "corpus_id": 253244237,
+    "category": "Computer Science"
+  },
+  "2202-05262": {
+    "title": "Locating and Editing Factual Associations in GPT",
+    "authors": [
+      "Kevin Meng",
+      "David Bau",
+      "A. Andonian",
+      "Yonatan Belinkov"
+    ],
+    "publication_date": "2022-02-10",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "996445d847f06e99b0bd259345408a0cf1bce87e",
+    "corpus_id": 255825985,
+    "category": "Computer Science"
+  },
+  "2202-03629": {
+    "title": "Survey of Hallucination in Natural Language Generation",
+    "authors": [
+      "Ziwei Ji",
+      "Nayeon Lee",
+      "Rita Frieske",
+      "Tiezheng Yu",
+      "D. Su",
+      "Yan Xu",
+      "Etsuko Ishii",
+      "Yejin Bang",
+      "Delong Chen",
+      "Wenliang Dai",
+      "Andrea Madotto",
+      "Pascale Fung"
+    ],
+    "publication_date": "2022-02-08",
+    "venue": "ACM Computing Surveys",
+    "semantic_scholar_id": "3def68bd0f856886d34272840a7f81588f2bc082",
+    "corpus_id": 246652372,
+    "category": "Computer Science"
+  },
+  "2101-00027": {
+    "title": "The Pile: An 800GB Dataset of Diverse Text for Language Modeling",
+    "authors": [
+      "Leo Gao",
+      "Stella Biderman",
+      "Sid Black",
+      "Laurence Golding",
+      "Travis Hoppe",
+      "Charles Foster",
+      "Jason Phang",
+      "Horace He",
+      "Anish Thite",
+      "Noa Nabeshima",
+      "Shawn Presser",
+      "Connor Leahy"
+    ],
+    "publication_date": "2020-12-31",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "db1afe3b3cd4cd90e41fbba65d3075dd5aebb61e",
+    "corpus_id": 230435736,
+    "category": "Computer Science"
+  },
+  "2005-14165": {
+    "title": "Language Models are Few-Shot Learners",
+    "authors": [
+      "Tom B. Brown",
+      "Benjamin Mann",
+      "Nick Ryder",
+      "Melanie Subbiah",
+      "J. Kaplan",
+      "Prafulla Dhariwal",
+      "Arvind Neelakantan",
+      "Pranav Shyam",
+      "Girish Sastry",
+      "Amanda Askell",
+      "Sandhini Agarwal",
+      "Ariel Herbert-Voss",
+      "Gretchen Krueger",
+      "T. Henighan",
+      "R. Child",
+      "A. Ramesh",
+      "Daniel M. Ziegler",
+      "Jeff Wu",
+      "Clemens Winter",
+      "Christopher Hesse",
+      "Mark Chen",
+      "Eric Sigler",
+      "Ma-teusz Litwin",
+      "Scott Gray",
+      "Benjamin Chess",
+      "Jack Clark",
+      "Christopher Berner",
+      "Sam McCandlish",
+      "Alec Radford",
+      "I. Sutskever",
+      "Dario Amodei"
+    ],
+    "publication_date": "2020-05-28",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+    "corpus_id": 218971783,
+    "category": "Computer Science"
+  },
+  "1904-03750": {
+    "title": "JumpReLU: A Retrofit Defense Strategy for Adversarial Attacks",
+    "authors": [
+      "N. Benjamin Erichson",
+      "Z. Yao",
+      "Michael W. Mahoney"
+    ],
+    "publication_date": "2019-04-07",
+    "venue": "International Conference on Pattern Recognition Applications and Methods",
+    "semantic_scholar_id": "ac7aba64f4ab4ce15d7d1ed563121b012b240d92",
+    "corpus_id": 102352101,
+    "category": "Computer Science"
+  },
+  "1310-4546": {
+    "title": "Distributed Representations of Words and Phrases and their Compositionality",
+    "authors": [
+      "Tomas Mikolov",
+      "I. Sutskever",
+      "Kai Chen",
+      "G. Corrado",
+      "J. Dean"
+    ],
+    "publication_date": "2013-10-16",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "87f40e6f3022adbc1f1905e3e506abad05a9964f",
+    "corpus_id": 16447573,
+    "category": "Computer Science, Mathematics"
+  }
+}

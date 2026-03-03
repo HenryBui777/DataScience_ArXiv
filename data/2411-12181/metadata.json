@@ -1,0 +1,16 @@
+{
+  "title": "Enhancing Low Dose Computed Tomography Images Using Consistency Training Techniques",
+  "authors": [
+    "Mahmut S. Gokmen",
+    "Jie Zhang",
+    "Ge Wang",
+    "Jin Chen",
+    "Cody Bumgardner"
+  ],
+  "summary": "Diffusion models have significant impact on wide range of generative tasks, especially on image inpainting and restoration. Although the improvements on aiming for decreasing number of function evaluations (NFE), the iterative results are still computationally expensive. Consistency models are as a new family of generative models, enable single-step sampling of high quality data without the need for adversarial training. In this paper, we introduce the beta noise distribution, which provides flexibility in adjusting noise levels. This is combined with a sinusoidal curriculum that enhances the learning of the trajectory between the noise distribution and the posterior distribution of interest, allowing High Noise Improved Consistency Training (HN-iCT) to be trained in a supervised fashion. Additionally, High Noise Improved Consistency Training with Image Condition (HN-iCT-CN) architecture is introduced, enables to take Low Dose images as a condition for extracting significant features by Weighted Attention Gates (WAG).Our results indicate that unconditional image generation using HN-iCT significantly outperforms basic CT and iCT training techniques with NFE=1 on the CIFAR10 and CelebA datasets. Moreover, our image-conditioned model demonstrates exceptional performance in enhancing low-dose (LD) CT scans.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.AI, cs.CV"
+}

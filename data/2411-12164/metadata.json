@@ -1,0 +1,19 @@
+{
+  "title": "Diffusion Transformers as Open-World Spatiotemporal Foundation Models",
+  "authors": [
+    "Yuan Yuan",
+    "Chonghua Han",
+    "Jingtao Ding",
+    "Guozhen Zhang",
+    "Depeng Jin",
+    "Yong Li"
+  ],
+  "summary": "The urban environment is characterized by complex spatio-temporal dynamics arising from diverse human activities and interactions. Effectively modeling these dynamics is essential for understanding and optimizing urban systems. In this work, we introduce UrbanDiT, a foundation model for open-world urban spatio-temporal learning that successfully scales up diffusion transformers in this field. UrbanDiT pioneers a unified model that integrates diverse data sources and types while learning universal spatio-temporal patterns across different cities and scenarios. This allows the model to unify both multi-data and multi-task learning, and effectively support a wide range of spatio-temporal applications. Its key innovation lies in the elaborated prompt learning framework, which adaptively generates both data-driven and task-specific prompts, guiding the model to deliver superior performance across various urban applications. UrbanDiT offers three advantages: 1) It unifies diverse data types, such as grid-based and graph-based data, into a sequential format; 2) With task-specific prompts, it supports a wide range of tasks, including bi-directional spatio-temporal prediction, temporal interpolation, spatial extrapolation, and spatio-temporal imputation; and 3) It generalizes effectively to open-world scenarios, with its powerful zero-shot capabilities outperforming nearly all baselines with training data. UrbanDiT sets up a new benchmark for foundation models in the urban spatio-temporal domain. Code and datasets are publicly available at https://github.com/tsinghua-fib-lab/UrbanDiT.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-10-20"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI"
+}

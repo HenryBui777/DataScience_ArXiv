@@ -1,0 +1,16 @@
+{
+  "title": "Exploring Eye Tracking to Detect Cognitive Load in Complex Virtual Reality Training",
+  "authors": [
+    "Mahsa Nasri",
+    "Mehmet Kosa",
+    "Leanne Chukoskie",
+    "Mohsen Moghaddam",
+    "Casper Harteveld"
+  ],
+  "summary": "Virtual Reality (VR) has been a beneficial training tool in fields such as advanced manufacturing. However, users may experience a high cognitive load due to various factors, such as the use of VR hardware or tasks within the VR environment. Studies have shown that eye-tracking has the potential to detect cognitive load, but in the context of VR and complex spatiotemporal tasks (e.g., assembly and disassembly), it remains relatively unexplored. Here, we present an ongoing study to detect users' cognitive load using an eye-tracking-based machine learning approach. We developed a VR training system for cold spray and tested it with 22 participants, obtaining 19 valid eye-tracking datasets and NASA-TLX scores. We applied Multi-Layer Perceptron (MLP) and Random Forest (RF) models to compare the accuracy of predicting cognitive load (i.e., NASA-TLX) using pupil dilation and fixation duration. Our preliminary analysis demonstrates the feasibility of using eye tracking to detect cognitive load in complex spatiotemporal VR experiences and motivates further exploration.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.HC, cs.LG"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Sparse Zero Correlation Zone Arrays for Training Design in Spatial Modulation Systems",
+  "authors": [
+    "Cheng-Yu Pai",
+    "Zilong Liu",
+    "Chao-Yu Chen"
+  ],
+  "summary": "This paper presents a novel training matrix design for spatial modulation (SM) systems, by introducing a new class of two-dimensional (2D) arrays called sparse zero correlation zone (SZCZ) arrays. An SZCZ array is characterized by a majority of zero entries and exhibits the zero periodic auto- and cross-correlation zone properties across any two rows. With these unique properties, we show that SZCZ arrays can be effectively used as training matrices for SM systems. Additionally, direct constructions of SZCZ arrays with large ZCZ widths and controllable sparsity levels based on 2D restricted generalized Boolean functions (RGBFs) are proposed. Compared with existing training schemes, the proposed SZCZ-based training matrices have larger ZCZ widths, thereby offering greater tolerance for delay spread in multipath channels. Simulation results demonstrate that the proposed SZCZ-based training design exhibits superior channel estimation performance over frequency-selective fading channels compared to existing alternatives.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IT"
+}

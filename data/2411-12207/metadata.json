@@ -1,0 +1,12 @@
+{
+  "title": "CMBAnalysis: A Modern Framework for High-Precision Cosmic Microwave Background Analysis",
+  "authors": [
+    "Srikrishna S Kashyap"
+  ],
+  "summary": "I present CMBAnalysis, a state-of-the-art Python framework designed for high-precision analysis of Cosmic Microwave Background (CMB) radiation data. This comprehensive package implements parallel Markov Chain Monte Carlo (MCMC) techniques for robust cosmological parameter estimation, featuring adaptive integration methods and sophisticated error propagation. The framework incorporates recent advances in computational cosmology, including support for extended cosmological models, detailed systematic error analysis, and optimized numerical algorithms. I demonstrate its capabilities through analysis of Planck Legacy Archive data, achieving parameter constraints competitive with established pipelines while offering significant performance improvements through parallel processing and algorithmic optimizations. Notable features include automated convergence diagnostics, comprehensive uncertainty quantification, and publication-quality visualization tools. The framework's modular architecture facilitates extension to new cosmological models and analysis techniques, while maintaining numerical stability through carefully implemented regularization schemes. My implementation achieves excellent computational efficiency, with parallel MCMC sampling reducing analysis time by up to 75\\% compared to serial implementations. The code is open-source, extensively documented, and includes a comprehensive test suite, making it valuable for both research applications and educational purposes in modern cosmology.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.CO, astro-ph.IM, cs.CE"
+}

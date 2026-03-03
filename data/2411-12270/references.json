@@ -1,0 +1,900 @@
+{
+  "2308-10794": {
+    "title": "MGMAE: Motion Guided Masking for Video Masked Autoencoding",
+    "authors": [
+      "Bingkun Huang",
+      "Zhiyu Zhao",
+      "Guozhen Zhang",
+      "Y. Qiao",
+      "Limin Wang"
+    ],
+    "publication_date": "2023-08-21",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "54f5ffa912dfa12fa77dae9b205cf25f51b74748",
+    "corpus_id": 261049343,
+    "category": "Computer Science"
+  },
+  "2304-07193": {
+    "title": "DINOv2: Learning Robust Visual Features without Supervision",
+    "authors": [
+      "M. Oquab",
+      "Timothée Darcet",
+      "Théo Moutakanni",
+      "Huy Q. Vo",
+      "Marc Szafraniec",
+      "Vasil Khalidov",
+      "Pierre Fernandez",
+      "Daniel Haziza",
+      "Francisco Massa",
+      "Alaaeldin El-Nouby",
+      "Mahmoud Assran",
+      "Nicolas Ballas",
+      "Wojciech Galuba",
+      "Russ Howes",
+      "Po-Yao (Bernie) Huang",
+      "Shang-Wen Li",
+      "Ishan Misra",
+      "Michael G. Rabbat",
+      "Vasu Sharma",
+      "Gabriel Synnaeve",
+      "Huijiao Xu",
+      "H. Jégou",
+      "J. Mairal",
+      "Patrick Labatut",
+      "Armand Joulin",
+      "Piotr Bojanowski"
+    ],
+    "publication_date": "2023-04-14",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "5a9cb1b3dc4655218b3deeaf4a2417a9a8cd0891",
+    "corpus_id": 258170077,
+    "category": "Computer Science"
+  },
+  "2304-03378": {
+    "title": "Self-Supervised Video Similarity Learning",
+    "authors": [
+      "Giorgos Kordopatis-Zilos",
+      "Giorgos Tolias",
+      "Christos Tzelepis",
+      "I. Kompatsiaris",
+      "I. Patras",
+      "S. Papadopoulos"
+    ],
+    "publication_date": "2023-04-06",
+    "venue": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "semantic_scholar_id": "66818a9d410216214897ef3e0bdcb732f3aaad96",
+    "corpus_id": 258041301,
+    "category": "Computer Science"
+  },
+  "2303-16727": {
+    "title": "VideoMAE V2: Scaling Video Masked Autoencoders with Dual Masking",
+    "authors": [
+      "Limin Wang",
+      "Bingkun Huang",
+      "Zhiyu Zhao",
+      "Zhan Tong",
+      "Yinan He",
+      "Yi Wang",
+      "Yali Wang",
+      "Yu Qiao"
+    ],
+    "publication_date": "2023-03-29",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "9fac3d0728a8c833a593446e3e176e90d856df04",
+    "corpus_id": 257805127,
+    "category": "Computer Science"
+  },
+  "2212-05922": {
+    "title": "Audiovisual Masked Autoencoders",
+    "authors": [
+      "Mariana-Iuliana Georgescu",
+      "Eduardo Fonseca",
+      "Radu Tudor Ionescu",
+      "Mario Lucic",
+      "C. Schmid",
+      "Anurag Arnab"
+    ],
+    "publication_date": "2022-12-09",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "541ca024fc404a0c14ae280b18020d6540faa0d3",
+    "corpus_id": 254563922,
+    "category": "Computer Science"
+  },
+  "2212-01893": {
+    "title": "Joint Self-Supervised Image-Volume Representation Learning with Intra-Inter Contrastive Clustering",
+    "authors": [
+      "D. M. Nguyen",
+      "Hoangvu Nguyen",
+      "M. T. N. Truong",
+      "T. Cao",
+      "Binh Duc Nguyen",
+      "Nhat Ho",
+      "P. Swoboda",
+      "Shadi Albarqouni",
+      "Pengtao Xie",
+      "Daniel Sonntag"
+    ],
+    "publication_date": "2022-12-04",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "37ad559f8a5cdd982b7b7c196e82b02f7f51501a",
+    "corpus_id": 254246405,
+    "category": "Computer Science"
+  },
+  "2210-08344": {
+    "title": "How Mask Matters: Towards Theoretical Understandings of Masked Autoencoders",
+    "authors": [
+      "Qi Zhang",
+      "Yifei Wang",
+      "Yisen Wang"
+    ],
+    "publication_date": "2022-10-15",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "b58d5388fd408af2437ac173cb457e8ff01598a7",
+    "corpus_id": 252918861,
+    "category": "Computer Science"
+  },
+  "2210-04154": {
+    "title": "Self-supervised Video Representation Learning with Motion-Aware Masked Autoencoders",
+    "authors": [
+      "Haosen Yang",
+      "Deng Huang",
+      "Bin Wen",
+      "Jiannan Wu",
+      "H. Yao",
+      "Yi Jiang",
+      "Xiatian Zhu",
+      "Zehuan Yuan"
+    ],
+    "publication_date": "2022-10-09",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "da2529210998a44cb8a8a654d35b3298880bdb8b",
+    "corpus_id": 252780183,
+    "category": "Computer Science"
+  },
+  "2210-07839": {
+    "title": "Contrastive Audio-Visual Masked Autoencoder",
+    "authors": [
+      "Yuan Gong",
+      "Andrew Rouditchenko",
+      "Alexander H. Liu",
+      "David F. Harwath",
+      "Leonid Karlinsky",
+      "Hilde Kuehne",
+      "James R. Glass"
+    ],
+    "publication_date": "2022-10-02",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "3fa1505ec327b82416987a7db3dadab8b12601ea",
+    "corpus_id": 252907593,
+    "category": "Computer Science, Engineering"
+  },
+  "2208-00449": {
+    "title": "SdAE: Self-distillated Masked Autoencoder",
+    "authors": [
+      "Yabo Chen",
+      "Yuchen Liu",
+      "Dongsheng Jiang",
+      "Xiaopeng Zhang",
+      "Wenrui Dai",
+      "H. Xiong",
+      "Qi Tian"
+    ],
+    "publication_date": "2022-07-31",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "8a9a9679656d97c326faa5375405c744e9989bcb",
+    "corpus_id": 251223971,
+    "category": "Computer Science"
+  },
+  "2208-00173": {
+    "title": "A Survey on Masked Autoencoder for Self-supervised Learning in Vision and Beyond",
+    "authors": [
+      "Chaoning Zhang",
+      "Chenshuang Zhang",
+      "Junha Song",
+      "John Seon Keun Yi",
+      "Kang Zhang",
+      "In-So Kweon"
+    ],
+    "publication_date": "2022-07-30",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "105379f4d5b4bb18257a39ede1aa6aa7378322bb",
+    "corpus_id": 251224242,
+    "category": "Computer Science"
+  },
+  "2207-10172": {
+    "title": "Video Anomaly Detection by Solving Decoupled Spatio-Temporal Jigsaw Puzzles",
+    "authors": [
+      "Guodong Wang",
+      "Yunhong Wang",
+      "Jie Qin",
+      "Dongming Zhang",
+      "Xiuguo Bao",
+      "Di Huang"
+    ],
+    "publication_date": "2022-07-20",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "6f154c62bde8492837114c41f541e88f920fc96d",
+    "corpus_id": 250918173,
+    "category": "Computer Science"
+  },
+  "2207-00419": {
+    "title": "Self-Supervised Learning for Videos: A Survey",
+    "authors": [
+      "Madeline Chantry Schiappa",
+      "Y. Rawat",
+      "M. Shah"
+    ],
+    "publication_date": "2022-06-18",
+    "venue": "ACM Computing Surveys",
+    "semantic_scholar_id": "b2847d1b6d569022ffd2f50cbfbd6a22797eccf6",
+    "corpus_id": 250243839,
+    "category": "Computer Science"
+  },
+  "2206-07687": {
+    "title": "Structured Sparsity Learning for Efficient Video Super-Resolution",
+    "authors": [
+      "Bin Xia",
+      "Jingwen He",
+      "Yulun Zhang",
+      "Yitong Wang",
+      "Yapeng Tian",
+      "Wenming Yang",
+      "L. Gool"
+    ],
+    "publication_date": "2022-06-15",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "98c5902abe53f6ecd744333958b9f0a859e8ac91",
+    "corpus_id": 253734709,
+    "category": "Computer Science, Engineering"
+  },
+  "2205-12551": {
+    "title": "Masked Jigsaw Puzzle: A Versatile Position Embedding for Vision Transformers",
+    "authors": [
+      "Bin Ren",
+      "Yahui Liu",
+      "Yue Song",
+      "Wei Bi",
+      "R. Cucchiara",
+      "N. Sebe",
+      "Wei Wang"
+    ],
+    "publication_date": "2022-05-25",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "ed4e8f54074ac075148d29cf7650d0bff2ca95a8",
+    "corpus_id": 257365045,
+    "category": "Computer Science"
+  },
+  "2205-09113": {
+    "title": "Masked Autoencoders As Spatiotemporal Learners",
+    "authors": [
+      "Christoph Feichtenhofer",
+      "Haoqi Fan",
+      "Yanghao Li",
+      "Kaiming He"
+    ],
+    "publication_date": "2022-05-18",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "1457c1ea57ce45ff79d59b689efe376c42540dda",
+    "corpus_id": 248863181,
+    "category": "Computer Science"
+  },
+  "2203-12602": {
+    "title": "VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training",
+    "authors": [
+      "Zhan Tong",
+      "Yibing Song",
+      "Jue Wang",
+      "Limin Wang"
+    ],
+    "publication_date": "2022-03-23",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "4990f7542f0600e0501a7e7a931b32eb7cb804d5",
+    "corpus_id": 247619234,
+    "category": "Computer Science"
+  },
+  "2203-01205": {
+    "title": "Audio self-supervised learning: A survey",
+    "authors": [
+      "Shuo Liu",
+      "Adria Mallol-Ragolta",
+      "Emilia Parada-Cabeleiro",
+      "Kun Qian",
+      "Xingshuo Jing",
+      "Alexander Kathan",
+      "Bin Hu",
+      "Björn Schuller"
+    ],
+    "publication_date": "2022-03-02",
+    "venue": "Patterns",
+    "semantic_scholar_id": "904fd897a47e2713257334f17c1ce09114e7973d",
+    "corpus_id": 247218173,
+    "category": "Computer Science, Medicine, Engineering"
+  },
+  "2202-03670": {
+    "title": "How to Understand Masked Autoencoders",
+    "authors": [
+      "Shuhao Cao",
+      "Peng Xu",
+      "D. Clifton"
+    ],
+    "publication_date": "2022-02-08",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "73fc48a264c944a6642753cbf3c96abf91910737",
+    "corpus_id": 246652549,
+    "category": "Computer Science"
+  },
+  "2112-09133": {
+    "title": "Masked Feature Prediction for Self-Supervised Visual Pre-Training",
+    "authors": [
+      "Chen Wei",
+      "Haoqi Fan",
+      "Saining Xie",
+      "Chaoxia Wu",
+      "A. Yuille",
+      "Christoph Feichtenhofer"
+    ],
+    "publication_date": "2021-12-16",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "008a428e049003fe768068a0f1fa1416af5c4982",
+    "corpus_id": 245218767,
+    "category": "Computer Science"
+  },
+  "2112-05181": {
+    "title": "Contextualized Spatio-Temporal Contrastive Learning with Self-Supervision",
+    "authors": [
+      "Liangzhe Yuan",
+      "Rui Qian",
+      "Yin Cui",
+      "Boqing Gong",
+      "Florian Schroff",
+      "Ming-Hsuan Yang",
+      "Hartwig Adam",
+      "Ting Liu"
+    ],
+    "publication_date": "2021-12-09",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "9f1db3f42bb3a56ebc90b6796cc80b0de1f45761",
+    "corpus_id": 245117937,
+    "category": "Computer Science"
+  },
+  "2112-01529": {
+    "title": "BEVT: BERT Pretraining of Video Transformers",
+    "authors": [
+      "Rui Wang",
+      "Dongdong Chen",
+      "Zuxuan Wu",
+      "Yinpeng Chen",
+      "Xiyang Dai",
+      "Mengchen Liu",
+      "Yu-Gang Jiang",
+      "Luowei Zhou",
+      "Lu Yuan"
+    ],
+    "publication_date": "2021-12-02",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "9f951b58fc21926f94fc68d9b565d31cc02e8623",
+    "corpus_id": 244799265,
+    "category": "Computer Science"
+  },
+  "2111-14585": {
+    "title": "Similarity Contrastive Estimation for Self-Supervised Soft Contrastive Learning",
+    "authors": [
+      "J. Denize",
+      "Jaonary Rabarisoa",
+      "Astrid Orcesi",
+      "Romain H'erault",
+      "S. Canu"
+    ],
+    "publication_date": "2021-11-29",
+    "venue": "IEEE Workshop/Winter Conference on Applications of Computer Vision",
+    "semantic_scholar_id": "1e37ed53c510880c90fb73bb05947574951616f6",
+    "corpus_id": 244714490,
+    "category": "Computer Science"
+  },
+  "2111-06377": {
+    "title": "Masked Autoencoders Are Scalable Vision Learners",
+    "authors": [
+      "Kaiming He",
+      "Xinlei Chen",
+      "Saining Xie",
+      "Yanghao Li",
+      "Piotr Doll'ar",
+      "Ross B. Girshick"
+    ],
+    "publication_date": "2021-11-11",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "6351ebb4a3287f5f3e1273464b3b91e5df5a16d7",
+    "corpus_id": 243985980,
+    "category": "Computer Science"
+  },
+  "2104-14558": {
+    "title": "A Large-Scale Study on Unsupervised Spatiotemporal Representation Learning",
+    "authors": [
+      "Christoph Feichtenhofer",
+      "Haoqi Fan",
+      "Bo Xiong",
+      "Ross B. Girshick",
+      "Kaiming He"
+    ],
+    "publication_date": "2021-04-29",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "6ed5a7fb19d0fae0b7c8b47b007db194e43c2592",
+    "corpus_id": 233444206,
+    "category": "Computer Science"
+  },
+  "2104-14294": {
+    "title": "Emerging Properties in Self-Supervised Vision Transformers",
+    "authors": [
+      "Mathilde Caron",
+      "Hugo Touvron",
+      "Ishan Misra",
+      "Herv'e J'egou",
+      "J. Mairal",
+      "Piotr Bojanowski",
+      "Armand Joulin"
+    ],
+    "publication_date": "2021-04-29",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "ad4a0938c48e61b7827869e4ac3baffd0aefab35",
+    "corpus_id": 233444273,
+    "category": "Computer Science"
+  },
+  "2011-00362": {
+    "title": "A Survey on Contrastive Self-supervised Learning",
+    "authors": [
+      "Ashish Jaiswal",
+      "Ashwin Ramesh Babu",
+      "Mohammad Zaki Zadeh",
+      "Debapriya Banerjee",
+      "F. Makedon"
+    ],
+    "publication_date": "2020-10-31",
+    "venue": "Technologies",
+    "semantic_scholar_id": "02f3c052a9cf675a6f033eac56c9dacb0a10ea28",
+    "corpus_id": 226227230,
+    "category": "Computer Science"
+  },
+  "2010-11929": {
+    "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+    "authors": [
+      "Alexey Dosovitskiy",
+      "Lucas Beyer",
+      "Alexander Kolesnikov",
+      "Dirk Weissenborn",
+      "Xiaohua Zhai",
+      "Thomas Unterthiner",
+      "Mostafa Dehghani",
+      "M. Minderer",
+      "G. Heigold",
+      "S. Gelly",
+      "Jakob Uszkoreit",
+      "N. Houlsby"
+    ],
+    "publication_date": "2020-10-22",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "268d347e8a55b5eb82fb5e7d2f800e33c75ab18a",
+    "corpus_id": 225039882,
+    "category": "Computer Science"
+  },
+  "2010-09709": {
+    "title": "Self-supervised Co-training for Video Representation Learning",
+    "authors": [
+      "Tengda Han",
+      "Weidi Xie",
+      "Andrew Zisserman"
+    ],
+    "publication_date": "2020-10-19",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "88f440120730e21b07bbd188b2a04787a3208861",
+    "corpus_id": 224703413,
+    "category": "Computer Science"
+  },
+  "2009-05757": {
+    "title": "Enhancing Unsupervised Video Representation Learning by Decoupling the Scene and the Motion",
+    "authors": [
+      "Jinpeng Wang",
+      "Yuting Gao",
+      "Ke Li",
+      "Xinyang Jiang",
+      "Xiao-Wei Guo",
+      "Rongrong Ji",
+      "Xing Sun"
+    ],
+    "publication_date": "2020-09-12",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "7270be2fab5fcdb59c325c0fbc8370351956aa22",
+    "corpus_id": 221655321,
+    "category": "Computer Science"
+  },
+  "2008-12959": {
+    "title": "Puzzle-AE: Novelty Detection in Images through Solving Puzzles",
+    "authors": [
+      "Mohammadreza Salehi",
+      "Ainaz Eftekhar",
+      "Niousha Sadjadi",
+      "M. H. Rohban",
+      "H. Rabiee"
+    ],
+    "publication_date": "2020-08-29",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "41378e80ee1d974a6e6f3bad0cf1e672f66d3d3b",
+    "corpus_id": 221376515,
+    "category": "Computer Science"
+  },
+  "2008-03800": {
+    "title": "Spatiotemporal Contrastive Video Representation Learning",
+    "authors": [
+      "Rui Qian",
+      "Tianjian Meng",
+      "Boqing Gong",
+      "Ming-Hsuan Yang",
+      "H. Wang",
+      "Serge J. Belongie",
+      "Yin Cui"
+    ],
+    "publication_date": "2020-08-09",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "1f3a9a431dc5bf813455ac89df5c0a4e747bc553",
+    "corpus_id": 221090567,
+    "category": "Computer Science"
+  },
+  "2008-02531": {
+    "title": "Self-supervised Video Representation Learning Using Inter-intra Contrastive Framework",
+    "authors": [
+      "Li Tao",
+      "Xueting Wang",
+      "T. Yamasaki"
+    ],
+    "publication_date": "2020-08-06",
+    "venue": "ACM Multimedia",
+    "semantic_scholar_id": "de4e13d7fa8de21e7a09b4ce3f6245ee4e13102c",
+    "corpus_id": 221006139,
+    "category": "Computer Science"
+  },
+  "2008-01064": {
+    "title": "Predicting What You Already Know Helps: Provable Self-Supervised Learning",
+    "authors": [
+      "J. Lee",
+      "Qi Lei",
+      "Nikunj Saunshi",
+      "Jiacheng Zhuo"
+    ],
+    "publication_date": "2020-08-03",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "a504b45e2cff77abcc9d78cc95159c08305e44d1",
+    "corpus_id": 220935764,
+    "category": "Computer Science, Mathematics"
+  },
+  "2008-00975": {
+    "title": "SeCo: Exploring Sequence Supervision for Unsupervised Representation Learning",
+    "authors": [
+      "Ting Yao",
+      "Yiheng Zhang",
+      "Zhaofan Qiu",
+      "Yingwei Pan",
+      "Tao Mei"
+    ],
+    "publication_date": "2020-08-03",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "7b4741f8e6667664f1b21c390830b2022eca2da0",
+    "corpus_id": 220935968,
+    "category": "Computer Science"
+  },
+  "2007-12368": {
+    "title": "Self-Supervised Learning Across Domains",
+    "authors": [
+      "S. Bucci",
+      "A. D'Innocente",
+      "Yujun Liao",
+      "Fabio Maria Carlucci",
+      "Barbara Caputo",
+      "T. Tommasi"
+    ],
+    "publication_date": "2020-07-24",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "163dda1b0d8d62dde9dde483f48298c58f48c2e6",
+    "corpus_id": 220768714,
+    "category": "Computer Science, Medicine"
+  },
+  "2006-15704": {
+    "title": "PyTorch distributed",
+    "authors": [
+      "Shen Li",
+      "Yanli Zhao",
+      "R. Varma",
+      "Omkar Salpekar",
+      "P. Noordhuis",
+      "Teng Li",
+      "Adam Paszke",
+      "Jeff Smith",
+      "Brian Vaughan",
+      "Pritam Damania",
+      "Soumith Chintala"
+    ],
+    "publication_date": "2020-06-28",
+    "venue": "Proceedings of the VLDB Endowment",
+    "semantic_scholar_id": "c75390f8138e2a422956d0e1b00cb6a39579bc95",
+    "corpus_id": 220250008,
+    "category": "Computer Science"
+  },
+  "2006-10511": {
+    "title": "Contrastive learning of global and local features for medical image segmentation with limited annotations",
+    "authors": [
+      "K. Chaitanya",
+      "Ertunç Erdil",
+      "Neerav Karani",
+      "E. Konukoglu"
+    ],
+    "publication_date": "2020-06-18",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "72d926dfe60e0de18f3cd034de51bca22ceda3f2",
+    "corpus_id": 219792321,
+    "category": "Computer Science, Engineering, Mathematics"
+  },
+  "2006-07733": {
+    "title": "Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning",
+    "authors": [
+      "Jean-Bastien Grill",
+      "Florian Strub",
+      "Florent Altch'e",
+      "Corentin Tallec",
+      "Pierre H. Richemond",
+      "Elena Buchatskaya",
+      "Carl Doersch",
+      "B. '. Pires",
+      "Z. Guo",
+      "M. G. Azar",
+      "Bilal Piot",
+      "K. Kavukcuoglu",
+      "R. Munos",
+      "Michal Valko"
+    ],
+    "publication_date": "2020-06-13",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "38f93092ece8eee9771e61c1edaf11b1293cae1b",
+    "corpus_id": 219687798,
+    "category": "Computer Science, Mathematics"
+  },
+  "2004-14368": {
+    "title": "Vggsound: A Large-Scale Audio-Visual Dataset",
+    "authors": [
+      "Honglie Chen",
+      "Weidi Xie",
+      "A. Vedaldi",
+      "Andrew Zisserman"
+    ],
+    "publication_date": "2020-04-29",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "66831f683141c11ed7e20b0f2e8b40700740c164",
+    "corpus_id": 216522760,
+    "category": "Computer Science, Engineering"
+  },
+  "2004-05937": {
+    "title": "Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks",
+    "authors": [
+      "Lin Wang",
+      "Kuk-Jin Yoon"
+    ],
+    "publication_date": "2020-04-13",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "db3010eedc3a19ed1b4ae06f9006179db05f34bc",
+    "corpus_id": 215745611,
+    "category": "Computer Science, Medicine"
+  },
+  "2004-02753": {
+    "title": "Temporally Coherent Embeddings for Self-Supervised Video Representation Learning",
+    "authors": [
+      "Joshua Knights",
+      "Anthony Vanderkop",
+      "Daniel Ward",
+      "Olivia Mackenzie-Ross",
+      "Peyman Moghadam"
+    ],
+    "publication_date": "2020-03-21",
+    "venue": "International Conference on Pattern Recognition",
+    "semantic_scholar_id": "195a51f9e4be3537f930d87f5200e63a51b9a226",
+    "corpus_id": 214802344,
+    "category": "Computer Science, Engineering"
+  },
+  "1903-06864": {
+    "title": "Domain Generalization by Solving Jigsaw Puzzles",
+    "authors": [
+      "Fabio Maria Carlucci",
+      "A. D'Innocente",
+      "S. Bucci",
+      "B. Caputo",
+      "T. Tommasi"
+    ],
+    "publication_date": "2019-03-16",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "7ce7941ffe5220383d4e614ebcf2397e30cb27a7",
+    "corpus_id": 81978372,
+    "category": "Computer Science"
+  },
+  "1812-00329": {
+    "title": "Iterative Reorganization With Weak Spatial Constraints: Solving Arbitrary Jigsaw Puzzles for Unsupervised Representation Learning",
+    "authors": [
+      "Chen Wei",
+      "Lingxi Xie",
+      "Xutong Ren",
+      "Yingda Xia",
+      "Chi Su",
+      "Jiaying Liu",
+      "Qi Tian",
+      "A. Yuille"
+    ],
+    "publication_date": "2018-12-02",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "37ef97bd03a03d34a40ba5d6bbe4d3889c2b30f0",
+    "corpus_id": 54437811,
+    "category": "Computer Science"
+  },
+  "1805-00385": {
+    "title": "Boosting Self-Supervised Learning via Knowledge Transfer",
+    "authors": [
+      "M. Noroozi",
+      "Ananth Vinjimoor",
+      "P. Favaro",
+      "H. Pirsiavash"
+    ],
+    "publication_date": "2018-05-01",
+    "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2a1f38e4451e826e01c9874954ba7c6f32ff79f4",
+    "corpus_id": 4525685,
+    "category": "Computer Science"
+  },
+  "1802-01880": {
+    "title": "Learning Image Representations by Completing Damaged Jigsaw Puzzles",
+    "authors": [
+      "Dahun Kim",
+      "Donghyeon Cho",
+      "Donggeun Yoo",
+      "In-So Kweon"
+    ],
+    "publication_date": "2018-02-06",
+    "venue": "IEEE Workshop/Winter Conference on Applications of Computer Vision",
+    "semantic_scholar_id": "e22979cdf147a63be74f3816ef59ef11f3508919",
+    "corpus_id": 13684877,
+    "category": "Computer Science"
+  },
+  "1706-03762": {
+    "title": "Attention is All you Need",
+    "authors": [
+      "Ashish Vaswani",
+      "Noam M. Shazeer",
+      "Niki Parmar",
+      "Jakob Uszkoreit",
+      "Llion Jones",
+      "Aidan N. Gomez",
+      "Lukasz Kaiser",
+      "I. Polosukhin"
+    ],
+    "publication_date": "2017-06-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+    "corpus_id": 13756489,
+    "category": "Computer Science"
+  },
+  "1706-00384": {
+    "title": "Deep Mutual Learning",
+    "authors": [
+      "Ying Zhang",
+      "T. Xiang",
+      "Timothy M. Hospedales",
+      "Huchuan Lu"
+    ],
+    "publication_date": "2017-06-01",
+    "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "f06a12928307e17b1aff2b9f4a6c11791f19b6a7",
+    "corpus_id": 26071966,
+    "category": "Computer Science"
+  },
+  "1705-06950": {
+    "title": "The Kinetics Human Action Video Dataset",
+    "authors": [
+      "W. Kay",
+      "João Carreira",
+      "K. Simonyan",
+      "Brian Zhang",
+      "Chloe Hillier",
+      "Sudheendra Vijayanarasimhan",
+      "Fabio Viola",
+      "Tim Green",
+      "T. Back",
+      "Apostol Natsev",
+      "Mustafa Suleyman",
+      "Andrew Zisserman"
+    ],
+    "publication_date": "2017-05-19",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "86e1bdbfd13b9ed137e4c4b8b459a3980eb257f6",
+    "corpus_id": 27300853,
+    "category": "Computer Science"
+  },
+  "1703-04044": {
+    "title": "Colorization as a Proxy Task for Visual Understanding",
+    "authors": [
+      "Gustav Larsson",
+      "M. Maire",
+      "Gregory Shakhnarovich"
+    ],
+    "publication_date": "2017-03-11",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "164b8826b9a30adf69630e634b308046b8cec619",
+    "corpus_id": 12369376,
+    "category": "Computer Science"
+  },
+  "1609-02612": {
+    "title": "Generating Videos with Scene Dynamics",
+    "authors": [
+      "Carl Vondrick",
+      "H. Pirsiavash",
+      "A. Torralba"
+    ],
+    "publication_date": "2016-09-08",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "ee091ccf24c4f053c5c3dfbefe4a7975ed3447c1",
+    "corpus_id": 9933254,
+    "category": "Computer Science"
+  },
+  "1603-09246": {
+    "title": "Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles",
+    "authors": [
+      "M. Noroozi",
+      "P. Favaro"
+    ],
+    "publication_date": "2016-03-30",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "2ec8f7e0257a07d3914322b36072d1bbcd58a1e0",
+    "corpus_id": 187547,
+    "category": "Computer Science"
+  },
+  "1603-06668": {
+    "title": "Learning Representations for Automatic Colorization",
+    "authors": [
+      "Gustav Larsson",
+      "M. Maire",
+      "Gregory Shakhnarovich"
+    ],
+    "publication_date": "2016-03-22",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "8e63784bd5a24d5e3035e2a11753e65e6e56625d",
+    "corpus_id": 7023610,
+    "category": "Computer Science"
+  },
+  "1502-04681": {
+    "title": "Unsupervised Learning of Video Representations using LSTMs",
+    "authors": [
+      "Nitish Srivastava",
+      "Elman Mansimov",
+      "R. Salakhutdinov"
+    ],
+    "publication_date": "2015-02-16",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "829510ad6f975c939d589eeb01a3cf6fc6c8ce4d",
+    "corpus_id": 11699847,
+    "category": "Computer Science"
+  },
+  "1409-0575": {
+    "title": "ImageNet Large Scale Visual Recognition Challenge",
+    "authors": [
+      "Olga Russakovsky",
+      "Jia Deng",
+      "Hao Su",
+      "J. Krause",
+      "S. Satheesh",
+      "Sean Ma",
+      "Zhiheng Huang",
+      "A. Karpathy",
+      "A. Khosla",
+      "Michael S. Bernstein",
+      "A. Berg",
+      "Li Fei-Fei"
+    ],
+    "publication_date": "2014-09-01",
+    "venue": "International Journal of Computer Vision",
+    "semantic_scholar_id": "e74f9b7f8eec6ba4704c206b93bc8079af3da4bd",
+    "corpus_id": 2930547,
+    "category": "Computer Science"
+  }
+}

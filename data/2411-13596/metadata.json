@@ -1,0 +1,31 @@
+{
+  "title": "End-to-End Multi-Track Reconstruction using Graph Neural Networks at Belle II",
+  "authors": [
+    "Lea Reuter",
+    "Giacomo De Pietro",
+    "Slavomira Stefkova",
+    "Torben Ferber",
+    "Valerio Bertacchi",
+    "Giulia Casarosa",
+    "Luigi Corona",
+    "Patrick Ecker",
+    "Alexander Glazov",
+    "Yubo Han",
+    "Martina Laurenza",
+    "Thomas Lueck",
+    "Ludovico Massaccesi",
+    "Suryanarayan Mondal",
+    "Bianca Scavino",
+    "Stefano Spataro",
+    "Christian Wessel",
+    "Laura Zani"
+  ],
+  "summary": "We present the study of an end-to-end multi-track reconstruction algorithm for the central drift chamber of the Belle II experiment at the SuperKEKB collider using Graph Neural Networks for an unknown number of particles. The algorithm uses detector hits as inputs without pre-filtering to simultaneously predict the number of track candidates in an event and their kinematic properties. In a second step, we cluster detector hits for each track candidate to pass to a track fitting algorithm. Using a realistic full detector simulation including beam-induced backgrounds and detector noise taken from actual collision data, we find significant improvements in track finding efficiencies for tracks in a variety of different event topologies compared to the existing baseline algorithm used in Belle II. For events with a hypothetical long-lived massive particle with a mass in the GeV-range decaying uniformly along its flight direction into two charged particles, the GNN achieves a combined track finding and fitting efficiency of 85.4% with a fake rate of 2.5%, compared to 52.2% and 4.1% for the baseline algorithm. This is the first end-to-end multi-track machine learning algorithm for a drift chamber detector that has been utilized in a realistic particle physics environment.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-05-13"
+  ],
+  "publication_venue": "Comput Softw Big Sci 9, 6 (2025)",
+  "pdf_url": null,
+  "category": "physics.ins-det, hep-ex, physics.data-an"
+}

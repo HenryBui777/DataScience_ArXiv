@@ -1,0 +1,15 @@
+{
+  "title": "Learning to Ask: Conversational Product Search via Representation Learning",
+  "authors": [
+    "Jie Zou",
+    "Jimmy Xiangji Huang",
+    "Zhaochun Ren",
+    "Evangelos Kanoulas"
+  ],
+  "summary": "Online shopping platforms, such as Amazon and AliExpress, are increasingly prevalent in society, helping customers purchase products conveniently. With recent progress in natural language processing, researchers and practitioners shift their focus from traditional product search to conversational product search. Conversational product search enables user-machine conversations and through them collects explicit user feedback that allows to actively clarify the users' product preferences. Therefore, prospective research on an intelligent shopping assistant via conversations is indispensable. Existing publications on conversational product search either model conversations independently from users, queries, and products or lead to a vocabulary mismatch. In this work, we propose a new conversational product search model, ConvPS, to assist users in locating desirable items. The model is first trained to jointly learn the semantic representations of user, query, item, and conversation via a unified generative framework. After learning these representations, they are integrated to retrieve the target items in the latent semantic space. Meanwhile, we propose a set of greedy and explore-exploit strategies to learn to ask the user a sequence of high-performance questions for conversations. Our proposed ConvPS model can naturally integrate the representation learning of the user, query, item, and conversation into a unified generative framework, which provides a promising avenue for constructing accurate and robust conversational product search systems that are flexible and adaptive. Experimental results demonstrate that our ConvPS model significantly outperforms state-of-the-art baselines.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.AI, cs.IR"
+}

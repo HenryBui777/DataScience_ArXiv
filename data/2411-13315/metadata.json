@@ -1,0 +1,14 @@
+{
+  "title": "Leveraging NMF to Investigate Air Quality in Central Taiwan",
+  "authors": [
+    "Shu-Chuan Chen",
+    "Jui-Fang Chang",
+    "Yintzer Shih"
+  ],
+  "summary": "This study investigates air pollution in central Taiwan, focusing on key pollutants, including SO$_2$, NO$_2$, PM$_{10}$, and PM$_{2.5}$. We use non-negative matrix factorization (NMF) to reduce data dimensionality, followed by wind direction analysis and speed to trace pollution sources. Our findings indicate that PM$_{2.5}$ and NO$_2$ levels are primarily influenced by local sources, while SO$_2$ levels are more affected by transboundary factors. For PM$_{10}$, contributions from domestic and transboundary sources are nearly equal.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

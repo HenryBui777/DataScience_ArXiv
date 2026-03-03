@@ -1,0 +1,18 @@
+{
+  "title": "Cooperative Grasping and Transportation using Multi-agent Reinforcement Learning with Ternary Force Representation",
+  "authors": [
+    "Ing-Sheng Bernard-Tiong",
+    "Yoshihisa Tsurumine",
+    "Ryosuke Sota",
+    "Kazuki Shibata",
+    "Takamitsu Matsubara"
+  ],
+  "summary": "Cooperative grasping and transportation require effective coordination to complete the task. This study focuses on the approach leveraging force-sensing feedback, where robots use sensors to detect forces applied by others on an object to achieve coordination. Unlike explicit communication, it avoids delays and interruptions; however, force-sensing is highly sensitive and prone to interference from variations in grasping environment, such as changes in grasping force, grasping pose, object size and geometry, which can interfere with force signals, subsequently undermining coordination. We propose multi-agent reinforcement learning (MARL) with ternary force representation, a force representation that maintains consistent representation against variations in grasping environment. The simulation and real-world experiments demonstrate the robustness of the proposed method to changes in grasping force, object size and geometry as well as inherent sim2real gap.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-23"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Distributed Distance Sensitivity Oracles",
+  "authors": [
+    "Vignesh Manoharan",
+    "Vijaya Ramachandran"
+  ],
+  "summary": "We present results for the distance sensitivity oracle (DSO) problem, where one needs to preprocess a given directed weighted graph $G=(V,E)$ in order to answer queries about the shortest path distance from $s$ to $t$ in $G$ that avoids edge $e$, for any $s,t \\in V, e \\in E$. No non-trivial results are known for DSO in the distributed CONGEST model even though it is of importance to maintain efficient communication under an edge failure. We present DSO algorithms with different tradeoffs between preprocessing and query cost -- one that optimizes query response rounds, and another that prioritizes preprocessing rounds. We complement these algorithms with unconditional CONGEST lower bounds. Additionally, we present almost-optimal upper and lower bounds for the related all pairs second simple shortest path (2-APSiSP) problem.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-03-08",
+    "2025-06-03"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DS"
+}

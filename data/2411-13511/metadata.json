@@ -1,0 +1,17 @@
+{
+  "title": "Universal properties of Wigner delay times and resonance widths of tight-binding random graphs",
+  "authors": [
+    "K. B. Hidalgo-Castro",
+    "L. A. Razo-López",
+    "A. M. Martínez-Argüello",
+    "J. A. Méndez-Bermúdez"
+  ],
+  "summary": "The delay experienced by a probe due to interactions with a scattering media is highly related to the internal dynamics inside that media. This property is well captured by the Wigner delay time and the resonance widths. By the use of the equivalence between the adjacency matrix of a random graph and the tight-binding Hamiltonian of the corresponding electronic media, the scattering matrix approach to electronic transport is used to compute Wigner delay times and resonance widths of Erdös-Rényi graphs and random geometric graphs, including bipartite random geometric graphs. In particular, the situation when a single-channel lead attached to the graphs is considered. Our results show a smooth crossover towards universality as the graphs become complete. We also introduce a parameter $ξ$, depending on the graph average degree $\\langle k \\rangle$ and graph size $N$, that scales the distributions of both Wigner delay times and resonance widths; highlighting the universal character of both distributions. Specifically, $ξ= \\langle k \\rangle N^{-α}$ where $α$ is graph-model dependent.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-04-24"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cond-mat.dis-nn"
+}

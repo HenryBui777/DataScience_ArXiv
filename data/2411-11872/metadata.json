@@ -1,0 +1,13 @@
+{
+  "title": "Towards a Network Expansion Approach for Reliable Brain-Computer Interface",
+  "authors": [
+    "Byeong-Hoo Lee",
+    "Kang Yin"
+  ],
+  "summary": "Robotic arms are increasingly being used in collaborative environments, requiring an accurate understanding of human intentions to ensure both effectiveness and safety. Electroencephalogram (EEG) signals, which measure brain activity, provide a direct means of communication between humans and robotic systems. However, the inherent variability and instability of EEG signals, along with their diverse distribution, pose significant challenges in data collection and ultimately affect the reliability of EEG-based applications. This study presents an extensible network designed to improve its ability to extract essential features from EEG signals. This strategy focuses on improving performance by increasing network capacity through expansion when learning performance is insufficient. Evaluations were conducted in a pseudo-online format. Results showed that the proposed method outperformed control groups over three sessions and yielded competitive performance, confirming the ability of the network to be calibrated and personalized with data from new sessions.",
+  "submission_date": "2024-11-04",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP, cs.HC"
+}

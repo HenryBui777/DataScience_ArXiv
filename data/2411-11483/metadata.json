@@ -1,0 +1,17 @@
+{
+  "title": "Robust State Estimation for Legged Robots with Dual Beta Kalman Filter",
+  "authors": [
+    "Tianyi Zhang",
+    "Wenhan Cao",
+    "Chang Liu",
+    "Tao Zhang",
+    "Jiangtao Li",
+    "Shengbo Eben Li"
+  ],
+  "summary": "Existing state estimation algorithms for legged robots that rely on proprioceptive sensors often overlook foot slippage and leg deformation in the physical world, leading to large estimation errors. To address this limitation, we propose a comprehensive measurement model that accounts for both foot slippage and variable leg length by analyzing the relative motion between foot contact points and the robot's body center. We show that leg length is an observable quantity, meaning that its value can be explicitly inferred by designing an auxiliary filter. To this end, we introduce a dual estimation framework that iteratively employs a parameter filter to estimate the leg length parameters and a state filter to estimate the robot's state. To prevent error accumulation in this iterative framework, we construct a partial measurement model for the parameter filter using the leg static equation. This approach ensures that leg length estimation relies solely on joint torques and foot contact forces, avoiding the influence of state estimation errors on the parameter estimation. Unlike leg length which can be directly estimated, foot slippage cannot be measured directly with the current sensor configuration. However, since foot slippage occurs at a low frequency, it can be treated as outliers in the measurement data. To mitigate the impact of these outliers, we propose the beta Kalman filter (beta KF), which redefines the estimation loss in canonical Kalman filtering using beta divergence. This divergence can assign low weights to outliers in an adaptive manner, thereby enhancing the robustness of the estimation algorithm. These techniques together form the dual beta-Kalman filter (Dual beta KF), a novel algorithm for robust state estimation in legged robots. Experimental results on the Unitree GO2 robot demonstrate that the Dual beta KF significantly outperforms state-of-the-art methods.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

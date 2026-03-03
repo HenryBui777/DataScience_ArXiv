@@ -1,0 +1,15 @@
+{
+  "title": "Competitive binding of Activator-Repressor in Stochastic Gene Expression",
+  "authors": [
+    "Amit Kumar Das",
+    "Debabrata Biswas"
+  ],
+  "summary": "Regulation of gene expression is the consequence of interactions between the promoter of the gene and the transcription factors (TFs). In this paper, we explore the features of a genetic network where the TFs (activators and repressors) bind the promoter in a competitive way. We develop an analytical theory that offers detailed reaction kinetics of the competitive activator-repressor system which could be the powerful tools for extensive study and analysis of the genetic circuit in future research. Moreover, the theoretical approach helps us to find a most probable set of parameter values which was unavailable in experiments. We study the noisy behaviour of the circuit and compare the profile with the network where the activator and repressor bind the promoter non-competitively. We further notice that, due to the effect of transcriptional reinitiation in the presence of the activator and repressor molecules, there exits some anomalous characteristic features in the mean expressions and noise profiles. We find that, in presence of the reinitiation the noise in transcriptional level remains low while it is higher in translational level than the noise when the reinitiation is absent. In addition, it is possible to reduce the noise further below the Poissonian level in competitive circuit than the non-competitive one with the help of some noise reducing parameters.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-06-04"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-bio.MN, physics.bio-ph"
+}

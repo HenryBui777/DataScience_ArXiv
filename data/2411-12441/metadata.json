@@ -1,0 +1,17 @@
+{
+  "title": "Towards Unifying Feature Interaction Models for Click-Through Rate Prediction",
+  "authors": [
+    "Yu Kang",
+    "Junwei Pan",
+    "Jipeng Jin",
+    "Shudong Huang",
+    "Xiaofeng Gao",
+    "Lei Xiao"
+  ],
+  "summary": "Modeling feature interactions plays a crucial role in accurately predicting click-through rates (CTR) in advertising systems. To capture the intricate patterns of interaction, many existing models employ matrix-factorization techniques to represent features as lower-dimensional embedding vectors, enabling the modeling of interactions as products between these embeddings. In this paper, we propose a general framework called IPA to systematically unify these models. Our framework comprises three key components: the Interaction Function, which facilitates feature interaction; the Layer Pooling, which constructs higher-level interaction layers; and the Layer Aggregator, which combines the outputs of all layers to serve as input for the subsequent classifier. We demonstrate that most existing models can be categorized within our framework by making specific choices for these three components. Through extensive experiments and a dimensional collapse analysis, we evaluate the performance of these choices. Furthermore, by leveraging the most powerful components within our framework, we introduce a novel model that achieves competitive results compared to state-of-the-art CTR models. PFL gets significant GMV lift during online A/B test in Tencent's advertising platform and has been deployed as the production model in several primary scenarios.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IR"
+}

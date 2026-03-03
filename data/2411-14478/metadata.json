@@ -1,0 +1,12 @@
+{
+  "title": "Why you don't overfit, and don't need Bayes if you only train for one epoch",
+  "authors": [
+    "Laurence Aitchison"
+  ],
+  "summary": "Here, we show that in the data-rich setting where you only train on each datapoint once (or equivalently, you only train for one epoch), standard \"maximum likelihood\" training optimizes the true data generating process (DGP) loss, which is equivalent to the test loss. Further, we show that the Bayesian model average optimizes the same objective, albeit while taking the expectation over uncertainty induced by finite data. As standard maximum likelihood training in the single-epoch setting optimizes the same objective as Bayesian inference, we argue that we do not expect Bayesian inference to offer any advantages in terms of overfitting or calibration in these settings. This explains the diminishing importance of Bayes in areas such as LLMs, which are often trained with one (or very few) epochs.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

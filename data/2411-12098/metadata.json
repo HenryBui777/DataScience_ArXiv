@@ -1,0 +1,15 @@
+{
+  "title": "Federated Contrastive Learning of Graph-Level Representations",
+  "authors": [
+    "Xiang Li",
+    "Gagan Agrawal",
+    "Rajiv Ramnath",
+    "Ruoming Jin"
+  ],
+  "summary": "Graph-level representations (and clustering/classification based on these representations) are required in a variety of applications. Examples include identifying malicious network traffic, prediction of protein properties, and many others. Often, data has to stay in isolated local systems (i.e., cannot be centrally shared for analysis) due to a variety of considerations like privacy concerns, lack of trust between the parties, regulations, or simply because the data is too large to be shared sufficiently quickly. This points to the need for federated learning for graph-level representations, a topic that has not been explored much, especially in an unsupervised setting.\n  Addressing this problem, this paper presents a new framework we refer to as Federated Contrastive Learning of Graph-level Representations (FCLG). As the name suggests, our approach builds on contrastive learning. However, what is unique is that we apply contrastive learning at two levels. The first application is for local unsupervised learning of graph representations. The second level is to address the challenge associated with data distribution variation (i.e. the ``Non-IID issue\") when combining local models. Through extensive experiments on the downstream task of graph-level clustering, we demonstrate FCLG outperforms baselines (which apply existing federated methods on existing graph-level clustering methods) with significant margins.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

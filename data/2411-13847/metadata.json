@@ -1,0 +1,14 @@
+{
+  "title": "Multitask Learning for SAR Ship Detection with Gaussian-Mask Joint Segmentation",
+  "authors": [
+    "Ming Zhao",
+    "Xin Zhang",
+    "André Kaup"
+  ],
+  "summary": "Detecting ships in synthetic aperture radar (SAR) images is challenging due to strong speckle noise, complex surroundings, and varying scales. This paper proposes MLDet, a multitask learning framework for SAR ship detection, consisting of object detection, speckle suppression, and target segmentation tasks. An angle classification loss with aspect ratio weighting is introduced to improve detection accuracy by addressing angular periodicity and object proportions. The speckle suppression task uses a dual-feature fusion attention mechanism to reduce noise and fuse shallow and denoising features, enhancing robustness. The target segmentation task, leveraging a rotated Gaussian-mask, aids the network in extracting target regions from cluttered backgrounds and improves detection efficiency with pixel-level predictions. The Gaussian-mask ensures ship centers have the highest probabilities, gradually decreasing outward under a Gaussian distribution. Additionally, a weighted rotated boxes fusion (WRBF) strategy combines multi-direction anchor predictions, filtering anchors beyond boundaries or with high overlap but low confidence. Extensive experiments on SSDD+ and HRSID datasets demonstrate the effectiveness and superiority of MLDet.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-16, 2023, Art no. 5214516",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

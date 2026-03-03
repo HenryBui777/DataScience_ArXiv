@@ -1,0 +1,18 @@
+{
+  "title": "AKRA 2.0: Accurate Kappa Reconstruction Algorithm for masked shear catalog",
+  "authors": [
+    "Yuan Shi",
+    "Pengjie Zhang",
+    "Furen Deng",
+    "Shuren Zhou",
+    "Hongbo Cai",
+    "Ji Yao",
+    "Zeyang Sun"
+  ],
+  "summary": "Cosmic shear surveys serve as a powerful tool for mapping the underlying matter density field, including non-visible dark matter. A key challenge in cosmic shear surveys is the accurate reconstruction of lensing convergence ($κ$) maps from shear catalogs impacted by survey boundaries and masks, which seminal Kaiser-Squires (KS) method are not designed to handle. To overcome these limitations, we previously proposed the Accurate Kappa Reconstruction Algorithm (AKRA), a prior-free maximum likelihood map-making method. Initially designed for flat sky scenarios with periodic boundary conditions, AKRA has proven successful in recovering high-precision $κ$ maps from masked shear catalogs. In this work, we upgrade AKRA to AKRA 2.0 by integrating the tools designed for spherical geometry. This upgrade employs spin-weighted spherical harmonic transforms to reconstruct the convergence field over the full sky. To optimize computational efficiency, we implement a scale-splitting strategy that segregates the analysis into two parts: large-scale analysis on the sphere (referred to as AKRA-sphere) and small-scale analysis on the flat sky (referred to as AKRA-flat); the results from both analyses are then combined to produce final reconstructed $κ$ map. We tested AKRA 2.0 using simulated shear catalogs with various masks, demonstrating that the reconstructed $κ$ map by AKRA 2.0 maintains high accuracy. For the reconstructed $κ$ map in unmasked regions, the reconstructed convergence power spectrum $C_κ^{\\rm{rec}}$ and the correlation coefficient with the true $κ$ map $r_\\ell$ achieve accuracies of $(1-C_\\ell^{\\rm{rec}}/C_\\ell^{\\rm{true}}) \\lesssim 1\\%$ and $(1-r_\\ell) \\lesssim 1\\%$, respectively. Our algorithm is capable of straightforwardly handling further issues such as inhomogeneous shape measurement noise, which we will address in subsequent analysis.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.IM, astro-ph.CO"
+}

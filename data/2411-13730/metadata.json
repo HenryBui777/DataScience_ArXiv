@@ -1,0 +1,14 @@
+{
+  "title": "Replicable Online Learning",
+  "authors": [
+    "Saba Ahmadi",
+    "Siddharth Bhandari",
+    "Avrim Blum"
+  ],
+  "summary": "We investigate the concept of algorithmic replicability introduced by Impagliazzo et al. 2022, Ghazi et al. 2021, Ahn et al. 2024 in an online setting. In our model, the input sequence received by the online learner is generated from time-varying distributions chosen by an adversary (obliviously). Our objective is to design low-regret online algorithms that, with high probability, produce the exact same sequence of actions when run on two independently sampled input sequences generated as described above. We refer to such algorithms as adversarially replicable. Previous works (such as Esfandiari et al. 2022) explored replicability in the online setting under inputs generated independently from a fixed distribution; we term this notion as iid-replicability. Our model generalizes to capture both adversarial and iid input sequences, as well as their mixtures, which can be modeled by setting certain distributions as point-masses.\n  We demonstrate adversarially replicable online learning algorithms for online linear optimization and the experts problem that achieve sub-linear regret. Additionally, we propose a general framework for converting an online learner into an adversarially replicable one within our setting, bounding the new regret in terms of the original algorithm's regret. We also present a nearly optimal (in terms of regret) iid-replicable online algorithm for the experts problem, highlighting the distinction between the iid and adversarial notions of replicability. Finally, we establish lower bounds on the regret (in terms of the replicability parameter and time) that any replicable online algorithm must incur.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

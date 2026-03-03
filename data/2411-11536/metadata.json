@@ -1,0 +1,13 @@
+{
+  "title": "Hierarchical-Graph-Structured Edge Partition Models for Learning Evolving Community Structure",
+  "authors": [
+    "Xincan Yu",
+    "Sikun Yang"
+  ],
+  "summary": "We propose a novel dynamic network model to capture evolving latent communities within temporal networks. To achieve this, we decompose each observed dynamic edge between vertices using a Poisson-gamma edge partition model, assigning each vertex to one or more latent communities through \\emph{nonnegative} vertex-community memberships. Specifically, hierarchical transition kernels are employed to model the interactions between these latent communities in the observed temporal network. A hierarchical graph prior is placed on the transition structure of the latent communities, allowing us to model how they evolve and interact over time. Consequently, our dynamic network enables the inferred community structure to merge, split, and interact with one another, providing a comprehensive understanding of complex network dynamics. Experiments on various real-world network datasets demonstrate that the proposed model not only effectively uncovers interpretable latent structures but also surpasses other state-of-the art dynamic network models in the tasks of link prediction and community detection.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SI, cs.LG"
+}

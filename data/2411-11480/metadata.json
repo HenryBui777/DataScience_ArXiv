@@ -1,0 +1,13 @@
+{
+  "title": "The truncated univariate rational moment problem",
+  "authors": [
+    "Rajkamal Nailwal",
+    "Aljaž Zalar"
+  ],
+  "summary": "Given a closed subset $K$ in $\\mathbb{R}$, the rational $K$-truncated moment problem ($K$-RTMP) asks to characterize the existence of a positive Borel measure $μ$, supported on $K$, such that a linear functional $\\mathcal{L}$, defined on all rational functions of the form $\\frac{f}{q}$, where $q$ is a fixed polynomial with all real zeros of even order and $f$ is any real polynomial of degree at most $2k$, is an integration with respect to $μ$. The case of a compact set $K$ was solved by Chandler in 1994, but there is no argument that ensures that $μ$ vanishes on all real zeros of $q$. An obvious necessary condition for the solvability of the $K$-RTMP is that $\\mathcal{L}$ is nonnegative on every $f$ satisfying $f|_{K}\\geq 0$. If $\\mathcal{L}$ is strictly positive on every $0\\neq f|_{K}\\geq 0$, we add the missing argument from Chandler's solution and also bound the number of atoms in a minimal representing measure. We show by an example that nonnegativity of $\\mathcal{L}$ is not sufficient and add the missing conditions to the solution. We also solve the $K$-RTMP for unbounded $K$ and derive the solutions to the strong truncated Hamburger moment problem and the truncated moment problem on the unit circle as special cases.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.FA"
+}

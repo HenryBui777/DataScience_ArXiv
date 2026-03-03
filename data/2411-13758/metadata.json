@@ -1,0 +1,13 @@
+{
+  "title": "On parametric formulations for the Asymmetric Traveling Salesman Problem",
+  "authors": [
+    "Gustavo Angulo",
+    "Diego Moran"
+  ],
+  "summary": "The traveling salesman problem is a widely studied classical combinatorial problem for which there are several integer linear formulations. In this work, we consider the Miller-Tucker-Zemlin (MTZ), Desrochers-Laporte (DL) and Single Commodity Flow (SCF) formulations. We argue that the choice of some parameters of these formulations is arbitrary and, therefore, there are families of formulations of which each of MTZ, DL, and SCF is a particular case. We analyze these families for different choices of the parameters, noting that in general the formulations involved are not comparable to each other and there is no one that dominates the rest. Then we define and study the closure of each family, that is, the set obtained by considering all the associated formulations simultaneously. In particular, we give an explicit integer linear formulation for the closure of each of the families we have defined and then show how they compare to each other.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC"
+}

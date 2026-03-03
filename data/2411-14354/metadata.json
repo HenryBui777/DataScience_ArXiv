@@ -1,0 +1,15 @@
+{
+  "title": "Contrasting local and global modeling with machine learning and satellite data: A case study estimating tree canopy height in African savannas",
+  "authors": [
+    "Esther Rolf",
+    "Lucia Gordon",
+    "Milind Tambe",
+    "Andrew Davies"
+  ],
+  "summary": "While advances in machine learning with satellite imagery (SatML) are facilitating environmental monitoring at a global scale, developing SatML models that are accurate and useful for local regions remains critical to understanding and acting on an ever-changing planet. As increasing attention and resources are being devoted to training SatML models with global data, it is important to understand when improvements in global models will make it easier to train or fine-tune models that are accurate in specific regions. To explore this question, we contrast local and global training paradigms for SatML through a case study of tree canopy height (TCH) mapping in the Karingani Game Reserve, Mozambique. We find that recent advances in global TCH mapping do not necessarily translate to better local modeling abilities in our study region. Specifically, small models trained only with locally-collected data outperform published global TCH maps, and even outperform globally pretrained models that we fine-tune using local data. Analyzing these results further, we identify specific points of conflict and synergy between local and global modeling paradigms that can inform future research toward aligning local and global performance objectives in geospatial machine learning.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI, cs.CV"
+}

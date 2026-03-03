@@ -1,0 +1,15 @@
+{
+  "title": "CV-Cities: Advancing Cross-View Geo-Localization in Global Cities",
+  "authors": [
+    "Gaoshuang Huang",
+    "Yang Zhou",
+    "Luying Zhao",
+    "Wenjian Gan"
+  ],
+  "summary": "Cross-view geo-localization (CVGL), which involves matching and retrieving satellite images to determine the geographic location of a ground image, is crucial in GNSS-constrained scenarios. However, this task faces significant challenges due to substantial viewpoint discrepancies, the complexity of localization scenarios, and the need for global localization. To address these issues, we propose a novel CVGL framework that integrates the vision foundational model DINOv2 with an advanced feature mixer. Our framework introduces the symmetric InfoNCE loss and incorporates near-neighbor sampling and dynamic similarity sampling strategies, significantly enhancing localization accuracy. Experimental results show that our framework surpasses existing methods across multiple public and self-built datasets. To further improve globalscale performance, we have developed CV-Cities, a novel dataset for global CVGL. CV-Cities includes 223,736 ground-satellite image pairs with geolocation data, spanning sixteen cities across six continents and covering a wide range of complex scenarios, providing a challenging benchmark for CVGL. The framework trained with CV-Cities demonstrates high localization accuracy in various test cities, highlighting its strong globalization and generalization capabilities. Our datasets and codes are available at https://github.com/GaoShuang98/CVCities.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

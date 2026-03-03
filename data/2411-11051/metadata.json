@@ -1,0 +1,12 @@
+{
+  "title": "Amortized Analysis of Leftist Heaps",
+  "authors": [
+    "Berry Schoenmakers"
+  ],
+  "summary": "Leftist heaps and skew heaps are two well-known data structures for mergeable priority queues. Leftist heaps are constructed for efficiency in the worst-case sense whereas skew heaps are self-adjusting, designed for efficiency in the amortized sense. In this paper, we analyze the amortized complexity of leftist heaps to initiate a full performance comparison with skew heaps. We consider both the leftist heaps originally developed by Crane and Knuth, which are also referred to as rank-biased (or, height-biased) leftist heaps, and the weight-biased leftist heaps introduced by Cho and Sahni. We show how weight-biased leftist heaps satisfy the same exact amortized bounds as skew heaps. With these matching bounds we establish a nice trade-off in which storage of weights is used to limit the worst-case complexity of leftist heaps, without affecting the amortized complexity compared to skew heaps. For rank-biased leftist heaps, we obtain the same amortized lower bounds as for skew heaps, but whether these bounds are tight is left as an open problem.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "Principles of Verification: Cycling the Probabilistic Landscape, Part I, LNCS 15260, Springer 2024, pp. 73-84",
+  "pdf_url": null,
+  "category": "cs.DS"
+}

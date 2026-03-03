@@ -1,0 +1,19 @@
+{
+  "title": "Reduced Network Cumulative Constraint Violation for Distributed Bandit Convex Optimization under Slater Condition",
+  "authors": [
+    "Kunpeng Zhang",
+    "Xinlei Yi",
+    "Jinliang Ding",
+    "Ming Cao",
+    "Karl H. Johansson",
+    "Tao Yang"
+  ],
+  "summary": "This paper studies the distributed bandit convex optimization problem with time-varying inequality constraints, where the goal is to minimize network regret and cumulative constraint violation. To calculate network cumulative constraint violation, existing distributed bandit online algorithms solving this problem directly use the clipped constraint function to replace its original constraint function. However, the use of the clipping operation renders Slater condition (i.e, there exists a point that strictly satisfies the inequality constraints at all iterations) ineffective to achieve reduced network cumulative constraint violation. To tackle this challenge, we propose a new distributed bandit online primal-dual algorithm. If local loss functions are convex, we show that the proposed algorithm establishes sublinear network regret and cumulative constraint violation bounds. When Slater condition holds, the network cumulative constraint violation bound is reduced. In addition, if local loss functions are strongly convex, for the case where strongly convex parameters are unknown, the network regret bound is reduced. For the case where strongly convex parameters are known, the network regret and cumulative constraint violation bounds are further reduced. To the best of our knowledge, this paper is among the first to establish reduced (network) cumulative constraint violation bounds for (distributed) bandit convex optimization with time-varying constraints under Slater condition. Finally, a numerical example is provided to verify the theoretical results.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-03-28"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

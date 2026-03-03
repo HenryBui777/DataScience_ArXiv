@@ -1,0 +1,17 @@
+{
+  "title": "Representing Hypergraphs by Point-Line Incidences",
+  "authors": [
+    "Alexander Dobler",
+    "Stephen Kobourov",
+    "Debajyoti Mondal",
+    "Martin Nöllenburg"
+  ],
+  "summary": "We consider hypergraph visualizations that represent vertices as points in the plane and hyperedges as curves passing through the points of their incident vertices. Specifically, we consider several different variants of this problem by (a) restricting the curves to be lines or line segments, (b) allowing two curves to cross if they do not share an element, or not; and (c) allowing two curves to overlap or not. We show $\\exists\\mathbb{R}$-hardness for six of the eight resulting decision problem variants and describe polynomial-time algorithms in some restricted settings. Lastly, we briefly touch on what happens if we allow the lines of the represented hyperedges to have bends - to this we generalize a counterexample to a long-standing result that was sometimes assumed to be correct.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-06-06"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CG"
+}

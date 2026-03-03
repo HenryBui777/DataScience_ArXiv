@@ -1,0 +1,19 @@
+{
+  "title": "Differentially Private Adaptation of Diffusion Models via Noisy Aggregated Embeddings",
+  "authors": [
+    "Pura Peetathawatchai",
+    "Wei-Ning Chen",
+    "Berivan Isik",
+    "Sanmi Koyejo",
+    "Albert No"
+  ],
+  "summary": "Personalizing large-scale diffusion models poses serious privacy risks, especially when adapting to small, sensitive datasets. A common approach is to fine-tune the model using differentially private stochastic gradient descent (DP-SGD), but this suffers from severe utility degradation due to the high noise needed for privacy, particularly in the small data regime. We propose an alternative that leverages Textual Inversion (TI), which learns an embedding vector for an image or set of images, to enable adaptation under differential privacy (DP) constraints. Our approach, Differentially Private Aggregation via Textual Inversion (DPAgg-TI), adds calibrated noise to the aggregation of per-image embeddings to ensure formal DP guarantees while preserving high output fidelity. We show that DPAgg-TI outperforms DP-SGD finetuning in both utility and robustness under the same privacy budget, achieving results closely matching the non-private baseline on style adaptation tasks using private artwork from a single artist and Paris 2024 Olympic pictograms. In contrast, DP-SGD fails to generate meaningful outputs in this setting.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-02-24",
+    "2025-08-05"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.CR, cs.LG"
+}

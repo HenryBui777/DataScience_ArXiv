@@ -1,0 +1,17 @@
+{
+  "title": "Post-CCSD(T) corrections in the S66 noncovalent interactions benchmark",
+  "authors": [
+    "Emmanouil Semidalas",
+    "A. Daniel Boese",
+    "Jan M. L. Martin"
+  ],
+  "summary": "For noncovalent interactions, it is generally assumed that CCSD(T) is nearly the exact solution within the 1-particle basis set. For the S66 noncovalent interactions benchmark, we present for the majority of species CCSDT and CCSDT(Q) corrections with a polarized double-zeta basis set. For hydrogen bonds, pure London complexes, and mixed-influence complexes, CCSD(T) benefits from error cancellation between (usually repulsive) higher-order triples, $T_3 - (T)$, and (almost universally attractive) connected quadruples, (Q). For $π$-stacking complexes, this cancellation starts breaking down and CCSD(T) overbinds; CCSD(T)$_Λ$ corrects the problem at the expense of London complexes. A fairly simple two-parameter model predicts CCSDT(Q)--CCSD(T) differences to 0.01 kcal/mol RMS, requiring no calculations that scale more steeply than $O(N^7)$.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-01-04",
+    "2025-01-21"
+  ],
+  "publication_venue": "Chemical Physics Letters 863 (2025) 141874",
+  "pdf_url": null,
+  "category": "physics.chem-ph"
+}

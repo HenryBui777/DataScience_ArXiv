@@ -1,0 +1,16 @@
+{
+  "title": "Behaviour diversity in a walking and climbing centipede-like virtual creature",
+  "authors": [
+    "Emma Stensby Norstein",
+    "Kotaro Yasui",
+    "Takeshi Kano",
+    "Akio Ishiguro",
+    "Kyrre Glette"
+  ],
+  "summary": "Robot controllers are often optimised for a single robot in a single environment. This approach proves brittle, as such a controller will often fail to produce sensible behavior for a new morphology or environment. In comparison, animal gaits are robust and versatile. By observing animals, and attempting to extract general principles of locomotion from their movement, we aim to design a single decentralised controller applicable to diverse morphologies and environments. The controller implements the three components 1) undulation, 2) peristalsis, and 3) leg motion, which we believe are the essential elements in most animal gaits. The controller is tested on a variety of simulated centipede-like robots. The centipede is chosen as inspiration because it moves using both body contractions and legged locomotion. For a controller to work in qualitatively different settings, it must also be able to exhibit qualitatively different behaviors. We find that six different modes of locomotion emerge from our controller in response to environmental and morphological changes. We also find that different parts of the centipede model can exhibit different modes of locomotion, simultaneously, based on local morphological features. This controller can potentially aid in the design or evolution of robots, by quickly testing the potential of a morphology, or be used to get insights about underlying locomotion principles in the centipede.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

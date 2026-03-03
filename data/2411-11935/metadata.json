@@ -1,0 +1,16 @@
+{
+  "title": "Calibrated and Efficient Sampling-Free Confidence Estimation for LiDAR Scene Semantic Segmentation",
+  "authors": [
+    "Hanieh Shojaei Miandashti",
+    "Qianqian Zou",
+    "Claus Brenner"
+  ],
+  "summary": "Reliable deep learning models require not only accurate predictions but also well-calibrated confidence estimates to ensure dependable uncertainty estimation. This is crucial in safety-critical applications like autonomous driving, which depend on rapid and precise semantic segmentation of LiDAR point clouds for real-time 3D scene understanding. In this work, we introduce a sampling-free approach for estimating well-calibrated confidence values for classification tasks, achieving alignment with true classification accuracy and significantly reducing inference time compared to sampling-based methods. Our evaluation using the Adaptive Calibration Error (ACE) metric for LiDAR semantic segmentation shows that our approach maintains well-calibrated confidence values while achieving increased processing speed compared to a sampling baseline. Additionally, reliability diagrams reveal that our method produces underconfidence rather than overconfident predictions, an advantage for safety-critical applications. Our sampling-free approach offers well-calibrated and time-efficient predictions for LiDAR scene semantic segmentation.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-05-13"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.LG"
+}

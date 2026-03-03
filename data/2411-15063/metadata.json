@@ -1,0 +1,15 @@
+{
+  "title": "Avoiding lensing bias in cosmic shear analysis",
+  "authors": [
+    "Christopher A. J. Duncan",
+    "Michael L. Brown"
+  ],
+  "summary": "We show, using the pseudo-$C_\\ell$ technique, how to estimate cosmic shear and galaxy-galaxy lensing power spectra that are insensitive to the effects of multiple sources of lensing bias including source-lens clustering, magnification bias and obscuration effects. All of these effects are of significant concern for ongoing and near-future Stage-IV cosmic shear surveys. Their common attribute is that they all introduce a cosmological dependence into the selection of the galaxy shear sample. Here, we show how a simple adaptation of the pseudo-$C_\\ell$ method can help to suppress these biases to negligible levels in a model-independent way. Our approach is based on making pixelised maps of the shear field and then using a uniform weighting of those shear maps when extracting power spectra. To produce unbiased measurements, the weighting scheme must be independent of the cosmological signal, which makes the commonly-used inverse-variance weighting scheme unsuitable for cosmic shear measurements. We demonstrate this explicitly. A frequently-cited motivation for using inverse-variance weights is to minimize the errors on the resultant power spectra. We find that, for a Stage-IV-like survey configuration, this motivation is not compelling: the precision of power spectra recovered from uniform-weighted maps is only very slightly degraded compared to those recovered from an inverse-variance analysis, and we predict no degradation in cosmological parameter constraints. We suggest that other 2-point statistics, such as real-space correlation functions, can be rendered equally robust to these lensing biases by applying those estimators to pixelised shear maps using a uniform weighting scheme.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-08-11"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.CO"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "ViSTa Dataset: Do vision-language models understand sequential tasks?",
+  "authors": [
+    "Evžen Wybitul",
+    "Evan Ryan Gunter",
+    "Mikhail Seleznyov",
+    "David Lindner"
+  ],
+  "summary": "Using vision-language models (VLMs) as reward models in reinforcement learning holds promise for reducing costs and improving safety. So far, VLM reward models have only been used for goal-oriented tasks, where the agent must reach a particular final outcome. We explore VLMs' potential to supervise tasks that cannot be scored by the final state alone. To this end, we introduce ViSTa, a dataset for evaluating Vision-based understanding of Sequential Tasks. ViSTa comprises over 4,000 videos with step-by-step descriptions in virtual home, Minecraft, and real-world environments. Its novel hierarchical structure -- basic single-step tasks composed into more and more complex sequential tasks -- allows a fine-grained understanding of how well VLMs can judge tasks with varying complexity. To illustrate this, we use ViSTa to evaluate state-of-the-art VLMs, including CLIP, ViCLIP, and GPT-4o. We find that, while they are all good at object recognition, they fail to understand sequential tasks, with only GPT-4o achieving non-trivial performance.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-21"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.LG"
+}

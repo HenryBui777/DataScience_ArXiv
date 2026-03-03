@@ -1,0 +1,15 @@
+{
+  "title": "X-CrossNet: A complex spectral mapping approach to target speaker extraction with cross attention speaker embedding fusion",
+  "authors": [
+    "Chang Sun",
+    "Bo Qin"
+  ],
+  "summary": "Target speaker extraction (TSE) is a technique for isolating a target speaker's voice from mixed speech using auxiliary features associated with the target speaker. It is another attempt at addressing the cocktail party problem and is generally considered to have more practical application prospects than traditional speech separation methods. Although academic research in this area has achieved high performance and evaluation scores on public datasets, most models exhibit significantly reduced performance in real-world noisy or reverberant conditions. To address this limitation, we propose a novel TSE model, X-CrossNet, which leverages CrossNet as its backbone. CrossNet is a speech separation network specifically optimized for challenging noisy and reverberant environments, achieving state-of-the-art performance in tasks such as speaker separation under these conditions. Additionally, to enhance the network's ability to capture and utilize auxiliary features of the target speaker, we integrate a Cross-Attention mechanism into the global multi-head self-attention (GMHSA) module within each CrossNet block. This facilitates more effective integration of target speaker features with mixed speech features. Experimental results show that our method performs superior separation on the WSJ0-2mix and WHAMR! datasets, demonstrating strong robustness and stability.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-25"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SD, cs.MM, eess.AS"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Multi-impurity method for the bond-weighted tensor renormalization group",
+  "authors": [
+    "Satoshi Morita",
+    "Naoki Kawashima"
+  ],
+  "summary": "We propose a multi-impurity method for the bond-weighted tensor renormalization group (BWTRG) to compute the higher-order moment of physical quantities in a two-dimensional system. The replacement of the bond weight with an impurity matrix in a bond-weighted triad tensor network represents a physical quantity such as the magnetization and the energy. We demonstrate that the accuracy of the proposed method is much higher than the conventional tensor renormalization group for the Ising model and the five-state Potts model. Furthermore, we perform the finite-size scaling analysis and observe that the dimensionless quantity characterizing the structure of the fixed point tensor satisfies the same scaling relation in the critical region as the Binder parameter. The estimated critical temperature dependence on the bond dimension indicates that the exponent relating the correlation length to the bond dimension varies continuously with respect to the BWTRG hyperparameter. We find that BWTRG with the optimal hyperparameter is more efficient in terms of computational time than alternative approaches based on the matrix product state in estimating the critical temperature.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-02-25"
+  ],
+  "publication_venue": "Phys. Rev. B 111, 054433 (2025)",
+  "pdf_url": null,
+  "category": "cond-mat.stat-mech, hep-lat"
+}

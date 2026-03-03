@@ -1,0 +1,14 @@
+{
+  "title": "Geometric percolation of spins and spin-dipoles in Ashkin-Teller model",
+  "authors": [
+    "Aikya Banerjee",
+    "Priyajit Jana",
+    "P. K. Mohanty"
+  ],
+  "summary": "Ashkin-Teller model is a two-layer lattice model where spins in each layer interact ferromagnetically with strength $J$, and the spin-dipoles (product of spins) interact with neighbors with strength $λ.$ The model exhibits simultaneous magnetic and electric transitions along a self-dual line on the $λ$-$J$ plane with continuously varying critical exponents. In this article, we investigate the percolation of geometric clusters of spins and spin-dipoles denoted respectively as magnetic and electric clusters. We find that the largest cluster in both cases becomes macroscopic in size and spans the lattice when interaction exceeds a critical threshold given by the same self-dual line where magnetic and electric transitions occur. The fractal dimension of the critical spanning clusters is related to order parameter exponent $β_{m,e}$ as $D_{m,e}=d-\\frac{5}{12}\\frac{β_{m,e}}ν,$ where $d=2$ is the spatial dimension and $ν$ is the correlation length exponent. This relation determines all other percolation exponents and their variation wrt $λ.$ We show that for magnetic Percolation, the Binder cumulant, as a function of $ξ_2/L$ with $ξ_2$ being the second-moment correlation length, remains invariant all along the critical line and matches with that of the spin-percolation in the usual Ising model. The function also remains invariant for the electric percolation, forming a new superuniversality class of percolation transition.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "Phys. Rev. B 111, 014403 (2025)",
+  "pdf_url": null,
+  "category": "cond-mat.stat-mech"
+}

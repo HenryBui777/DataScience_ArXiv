@@ -1,0 +1,15 @@
+{
+  "title": "Parallel Network Reconstruction with Multi-directional Regularization",
+  "authors": [
+    "Zhaoyu Xing",
+    "Wei Zhong"
+  ],
+  "summary": "Reconstructing large-scale latent networks from observed dynamics is crucial for understanding complex systems. However, the existing methods based on compressive sensing are often rendered infeasible in practice by prohibitive computational and memory costs. To address this challenge, we introduce a new distributed computing framework for efficient large-scale network reconstruction with parallel computing, namely PALMS (Parallel Adaptive Lasso with Multi-directional Signals). The core idea of PALMS is to decompose the complex global problem by partitioning network nodes, enabling the parallel estimation of sub-networks across multiple computing units. This strategy substantially reduces the computational complexity and storage requirements of classic methods. By using the adaptive multi-directional regularization on each computing unit, we also establish the consistency of PALMS estimator theoretically. Extensive simulation studies and empirical analyses on several large-scale real-world networks validate the computational efficiency and robust reconstruction accuracy of our approach.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-08-18"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.ST, cs.LG, stat.ML"
+}

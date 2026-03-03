@@ -1,0 +1,14 @@
+{
+  "title": "Improvements on Permutation Reconstruction from Minors",
+  "authors": [
+    "Yiming Ma",
+    "Wenjie Zhong",
+    "Xiande Zhang"
+  ],
+  "summary": "We study the reconstruction problem of permutation sequences from their $k$-minors, which are subsequences of length $k$ with entries renumbered by $1,2,\\ldots,k$ preserving order. We prove that the minimum number $k$ such that any permutation of length $n$ can be reconstructed from the multiset of its $k$-minors is between $\\exp{(Ω(\\sqrt{\\ln n}))}$ and $O(\\sqrt{n\\ln n})$. These results imply better bounds of a well-studied parameter $N_d$, which is the smallest number such that any permutation of length $n\\ge N_d$ can be reconstructed by its $(n-d)$-minors. The new bounds are $ d+\\exp(Ω(\\sqrt{\\ln d}))<N_d<d+O(\\sqrt{d\\ln d})$ asymptotically, and the previous bounds were $d+\\log_2 d<N_d<d^2/4+2d+4$.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.CO, math.OC"
+}

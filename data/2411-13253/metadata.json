@@ -1,0 +1,13 @@
+{
+  "title": "The vDZP Basis Set Is Effective For Many Density Functionals",
+  "authors": [
+    "Corin C. Wagen",
+    "Jonathon E. Vandezande"
+  ],
+  "summary": "In recent years, \"composite\" density-functional-theory-based methods comprising specially optimized combinations of functionals, basis sets, and empirical corrections have become widely used owing to their robustness and computational efficiency, but the bespoke nature of these methods makes them challenging to develop. Here, we report that the recently reported vDZP basis set can be used in combination with a wide variety of density functionals to produce efficient and accurate results comparable to those obtained with composite methods, but without any method- or correction-specific reparameterization. This result enables rapid quantum chemical calculations to be run with a variety of density functionals without the typical errors incurred by small basis sets.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.chem-ph"
+}

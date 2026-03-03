@@ -1,0 +1,25 @@
+{
+  "title": "On-Board Vision-Language Models for Personalized Autonomous Vehicle Motion Control: System Design and Real-World Validation",
+  "authors": [
+    "Can Cui",
+    "Zichong Yang",
+    "Yupeng Zhou",
+    "Juntong Peng",
+    "Sung-Yeon Park",
+    "Cong Zhang",
+    "Yunsheng Ma",
+    "Xu Cao",
+    "Wenqian Ye",
+    "Yiheng Feng",
+    "Jitesh Panchal",
+    "Lingxi Li",
+    "Yaobin Chen",
+    "Ziran Wang"
+  ],
+  "summary": "Personalized driving refers to an autonomous vehicle's ability to adapt its driving behavior or control strategies to match individual users' preferences and driving styles while maintaining safety and comfort standards. However, existing works either fail to capture every individual preference precisely or become computationally inefficient as the user base expands. Vision-Language Models (VLMs) offer promising solutions to this front through their natural language understanding and scene reasoning capabilities. In this work, we propose a lightweight yet effective on-board VLM framework that provides low-latency personalized driving performance while maintaining strong reasoning capabilities. Our solution incorporates a Retrieval-Augmented Generation (RAG)-based memory module that enables continuous learning of individual driving preferences through human feedback. Through comprehensive real-world vehicle deployment and experiments, our system has demonstrated the ability to provide safe, comfortable, and personalized driving experiences across various scenarios and significantly reduce takeover rates by up to 76.9%. To the best of our knowledge, this work represents the first end-to-end VLM-based motion control system in real-world autonomous vehicles.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AI, cs.RO"
+}

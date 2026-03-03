@@ -1,0 +1,18 @@
+{
+  "title": "Dual-Frequency Filtering Self-aware Graph Neural Networks for Homophilic and Heterophilic Graphs",
+  "authors": [
+    "Yachao Yang",
+    "Yanfeng Sun",
+    "Jipeng Guo",
+    "Junbin Gao",
+    "Shaofan Wang",
+    "Fujiao Ju",
+    "Baocai Yin"
+  ],
+  "summary": "Graph Neural Networks (GNNs) have excelled in handling graph-structured data, attracting significant research interest. However, two primary challenges have emerged: interference between topology and attributes distorting node representations, and the low-pass filtering nature of most GNNs leading to the oversight of valuable high-frequency information in graph signals. These issues are particularly pronounced in heterophilic graphs. To address these challenges, we propose Dual-Frequency Filtering Self-aware Graph Neural Networks (DFGNN). DFGNN integrates low-pass and high-pass filters to extract smooth and detailed topological features, using frequency-specific constraints to minimize noise and redundancy in the respective frequency bands. The model dynamically adjusts filtering ratios to accommodate both homophilic and heterophilic graphs. Furthermore, DFGNN mitigates interference by aligning topological and attribute representations through dynamic correspondences between their respective frequency bands, enhancing overall model performance and expressiveness. Extensive experiments conducted on benchmark datasets demonstrate that DFGNN outperforms state-of-the-art methods in classification performance, highlighting its effectiveness in handling both homophilic and heterophilic graphs.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

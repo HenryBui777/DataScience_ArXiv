@@ -1,0 +1,14 @@
+{
+  "title": "Funnel theorems for spreading on networks",
+  "authors": [
+    "Gadi Fibich",
+    "Tomer Levin",
+    "Steven Schochet"
+  ],
+  "summary": "We derive novel analytic tools for the Bass and SI models on networks for the spreading of innovations and epidemics on networks. We prove that the correlation between the nonadoption (noninfection) probabilities of $L \\ge 2$ disjoint subsets of nodes $\\{A_l\\}_{l=1}^L$ is non-negative, find the necessary and sufficient condition that determines whether this correlation is positive or zero, and provide an upper bound for its magnitude. Using this result, we prove the funnel theorems, which provide lower and upper bounds for the difference between the non-adoption probability of a node and the product of its nonadoption probabilities on $L$ modified networks in which the node under consideration is only influenced by incoming edges from $A_l$ for $l=1, \\dots, L$. The funnel theorems can be used, among other things, to explicitly compute the exact expected adoption/infection level on various types of networks, both with and without cycles.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.soc-ph, math.PR"
+}

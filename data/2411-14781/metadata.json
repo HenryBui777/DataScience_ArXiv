@@ -1,0 +1,16 @@
+{
+  "title": "Reconciling Semantic Controllability and Diversity for Remote Sensing Image Synthesis with Hybrid Semantic Embedding",
+  "authors": [
+    "Junde Liu",
+    "Danpei Zhao",
+    "Bo Yuan",
+    "Wentao Li",
+    "Tian Li"
+  ],
+  "summary": "Significant advancements have been made in semantic image synthesis in remote sensing. However, existing methods still face formidable challenges in balancing semantic controllability and diversity. In this paper, we present a Hybrid Semantic Embedding Guided Generative Adversarial Network (HySEGGAN) for controllable and efficient remote sensing image synthesis. Specifically, HySEGGAN leverages hierarchical information from a single source. Motivated by feature description, we propose a hybrid semantic Embedding method, that coordinates fine-grained local semantic layouts to characterize the geometric structure of remote sensing objects without extra information. Besides, a Semantic Refinement Network (SRN) is introduced, incorporating a novel loss function to ensure fine-grained semantic feedback. The proposed approach mitigates semantic confusion and prevents geometric pattern collapse. Experimental results indicate that the method strikes an excellent balance between semantic controllability and diversity. Furthermore, HySEGGAN significantly improves the quality of synthesized images and achieves state-of-the-art performance as a data augmentation technique across multiple datasets for downstream tasks.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

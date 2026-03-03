@@ -1,0 +1,594 @@
+{
+  "2308-08810": {
+    "title": "Label Shift Adapter for Test-Time Adaptation under Covariate and Label Shifts",
+    "authors": [
+      "S. Park",
+      "Seunghan Yang",
+      "J. Choo",
+      "Sungrack Yun"
+    ],
+    "publication_date": "2023-08-17",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "428359260dd1ac6e3b9214cc22282a7fd37a253a",
+    "corpus_id": 261030386,
+    "category": "Computer Science"
+  },
+  "2306-03536": {
+    "title": "On Pitfalls of Test-Time Adaptation",
+    "authors": [
+      "Hao Zhao",
+      "Yuejiang Liu",
+      "Alexandre Alahi",
+      "Tao Lin"
+    ],
+    "publication_date": "2023-06-06",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "7ae382583eee01df36b9e45c32cfb0b0f8108516",
+    "corpus_id": 259089251,
+    "category": "Computer Science"
+  },
+  "2306-00650": {
+    "title": "Universal Test-time Adaptation through Weight Ensembling, Diversity Weighting, and Prior Correction",
+    "authors": [
+      "Robert A. Marsden",
+      "Mario Döbler",
+      "Bin Yang"
+    ],
+    "publication_date": "2023-06-01",
+    "venue": "IEEE Workshop/Winter Conference on Applications of Computer Vision",
+    "semantic_scholar_id": "639a0a95a6f81d89cfa7d30238fd58b2fcd87d20",
+    "corpus_id": 258999734,
+    "category": "Computer Science"
+  },
+  "2302-12400": {
+    "title": "Towards Stable Test-Time Adaptation in Dynamic Wild World",
+    "authors": [
+      "Shuaicheng Niu",
+      "Jiaxiang Wu",
+      "Yifan Zhang",
+      "Z. Wen",
+      "Yaofo Chen",
+      "P. Zhao",
+      "Mingkui Tan"
+    ],
+    "publication_date": "2023-02-24",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "f849b873e94f28e1f2a3e1dc4d7bef17eb64adab",
+    "corpus_id": 257206115,
+    "category": "Computer Science"
+  },
+  "2302-05155": {
+    "title": "TTN: A Domain-Shift Aware Batch Normalization in Test-Time Adaptation",
+    "authors": [
+      "Hyesu Lim",
+      "Byeonggeun Kim",
+      "J. Choo",
+      "Sungha Choi"
+    ],
+    "publication_date": "2023-02-10",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "f175795f1a93c62f3d42cf11bb24f70895839504",
+    "corpus_id": 256808572,
+    "category": "Computer Science"
+  },
+  "2302-03020": {
+    "title": "RLSbench: Domain Adaptation Under Relaxed Label Shift",
+    "authors": [
+      "S. Garg",
+      "Nick Erickson",
+      "J. Sharpnack",
+      "Alexander J. Smola",
+      "Sivaraman Balakrishnan",
+      "Zachary Chase Lipton"
+    ],
+    "publication_date": "2023-02-06",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "603ce317ee153ef6f61ea02a90c187f088c51bc1",
+    "corpus_id": 256615848,
+    "category": "Computer Science, Mathematics"
+  },
+  "2301-13381": {
+    "title": "When Source-Free Domain Adaptation Meets Learning with Noisy Labels",
+    "authors": [
+      "L. Yi",
+      "Gezheng Xu",
+      "Pengcheng Xu",
+      "Jiaqi Li",
+      "Ruizhi Pu",
+      "Charles Ling",
+      "A. Mcleod",
+      "Boyu Wang"
+    ],
+    "publication_date": "2023-01-31",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "549f026dfe0dcd86ff8f081584f3385e5696fd8e",
+    "corpus_id": 256416103,
+    "category": "Computer Science"
+  },
+  "2301-13018": {
+    "title": "DELTA: degradation-free fully test-time adaptation",
+    "authors": [
+      "Bowen Zhao",
+      "Chen Chen",
+      "Shutao Xia"
+    ],
+    "publication_date": "2023-01-30",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "92a144817376b2b8014b75a6f575e11ba75e76b0",
+    "corpus_id": 256390348,
+    "category": "Computer Science"
+  },
+  "2208-05117": {
+    "title": "NOTE: Robust Continual Test-time Adaptation Against Temporal Correlation",
+    "authors": [
+      "Taesik Gong",
+      "Jongheon Jeong",
+      "Taewon Kim",
+      "Yewon Kim",
+      "Jinwoo Shin",
+      "Sung-Ju Lee"
+    ],
+    "publication_date": "2022-08-10",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "62c29e503d18ac3a6a08aef4d4f076621a99504a",
+    "corpus_id": 252846066,
+    "category": "Computer Science"
+  },
+  "2207-11707": {
+    "title": "Improving Test-Time Adaptation via Shift-agnostic Weight Regularization and Nearest Source Prototypes",
+    "authors": [
+      "Sungha Choi",
+      "Seunghan Yang",
+      "Seokeon Choi",
+      "Sungrack Yun"
+    ],
+    "publication_date": "2022-07-24",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "911770d6614af8f46a352b7427ad47a76984ab2f",
+    "corpus_id": 251040952,
+    "category": "Computer Science"
+  },
+  "2207-09640": {
+    "title": "Test-Time Adaptation via Conjugate Pseudo-labels",
+    "authors": [
+      "Sachin Goyal",
+      "Mingjie Sun",
+      "Aditi Raghunathan",
+      "Zico Kolter"
+    ],
+    "publication_date": "2022-07-20",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "8a06e2975ad8aeff58a952e3a98d967dfbb865fe",
+    "corpus_id": 250698719,
+    "category": "Computer Science"
+  },
+  "2207-10792": {
+    "title": "Test-Time Adaptation via Self-Training with Nearest Neighbor Information",
+    "authors": [
+      "M-U Jang",
+      "Sae-Young Chung"
+    ],
+    "publication_date": "2022-07-08",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "ec1a1e378d5b106303a4b17128119353dbd2336a",
+    "corpus_id": 251018503,
+    "category": "Computer Science"
+  },
+  "2203-11932": {
+    "title": "Dataset Distillation by Matching Training Trajectories",
+    "authors": [
+      "George Cazenavette",
+      "Tongzhou Wang",
+      "A. Torralba",
+      "Alexei A. Efros",
+      "Jun-Yan Zhu"
+    ],
+    "publication_date": "2022-03-22",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "11154b89486fd7b41bfab5f8b0e19756c488523e",
+    "corpus_id": 247597241,
+    "category": "Computer Science"
+  },
+  "2201-05718": {
+    "title": "Parameter-free Online Test-time Adaptation",
+    "authors": [
+      "Malik Boudiaf",
+      "Romain Mueller",
+      "Ismail Ben Ayed",
+      "Luca Bertinetto"
+    ],
+    "publication_date": "2022-01-15",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "170676e3d7a8cd5606a7643ff72948e502af0e49",
+    "corpus_id": 246015836,
+    "category": "Computer Science"
+  },
+  "2104-02057": {
+    "title": "An Empirical Study of Training Self-Supervised Vision Transformers",
+    "authors": [
+      "Xinlei Chen",
+      "Saining Xie",
+      "Kaiming He"
+    ],
+    "publication_date": "2021-04-05",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "739ceacfafb1c4eaa17509351b647c773270b3ae",
+    "corpus_id": 233024948,
+    "category": "Computer Science"
+  },
+  "2103-00020": {
+    "title": "Learning Transferable Visual Models From Natural Language Supervision",
+    "authors": [
+      "Alec Radford",
+      "Jong Wook Kim",
+      "Chris Hallacy",
+      "A. Ramesh",
+      "Gabriel Goh",
+      "Sandhini Agarwal",
+      "Girish Sastry",
+      "Amanda Askell",
+      "Pamela Mishkin",
+      "Jack Clark",
+      "Gretchen Krueger",
+      "I. Sutskever"
+    ],
+    "publication_date": "2021-02-26",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4",
+    "corpus_id": 231591445,
+    "category": "Computer Science"
+  },
+  "2102-05291": {
+    "title": "Clusterability as an Alternative to Anchor Points When Learning with Noisy Labels",
+    "authors": [
+      "Zhaowei Zhu",
+      "Yiwen Song",
+      "Yang Liu"
+    ],
+    "publication_date": "2021-02-10",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "646c28e0bee560f6a37b37289284774e53962ce6",
+    "corpus_id": 231861656,
+    "category": "Computer Science, Mathematics"
+  },
+  "2012-00321": {
+    "title": "Disentangling Label Distribution for Long-tailed Visual Recognition",
+    "authors": [
+      "Youngkyu Hong",
+      "Seungju Han",
+      "Kwanghee Choi",
+      "Seokjun Seo",
+      "Beomsu Kim",
+      "Buru Chang"
+    ],
+    "publication_date": "2020-12-01",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "bf9386df7a517cb888f0229a1815b76e3826f150",
+    "corpus_id": 227239080,
+    "category": "Computer Science"
+  },
+  "2007-07314": {
+    "title": "Long-tail learning via logit adjustment",
+    "authors": [
+      "A. Menon",
+      "Sadeep Jayasumana",
+      "A. Rawat",
+      "Himanshu Jain",
+      "Andreas Veit",
+      "Sanjiv Kumar"
+    ],
+    "publication_date": "2020-07-14",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "4f65f604d3bf5fa91634484a3232b426267b71ef",
+    "corpus_id": 220525799,
+    "category": "Computer Science, Mathematics"
+  },
+  "2007-00644": {
+    "title": "Measuring Robustness to Natural Distribution Shifts in Image Classification",
+    "authors": [
+      "Rohan Taori",
+      "Achal Dave",
+      "Vaishaal Shankar",
+      "Nicholas Carlini",
+      "B. Recht",
+      "Ludwig Schmidt"
+    ],
+    "publication_date": "2020-07-01",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "e609165fac8e4923423f754fb82292a614395c92",
+    "corpus_id": 220280805,
+    "category": "Computer Science, Mathematics"
+  },
+  "2006-16971": {
+    "title": "Improving robustness against common corruptions by covariate shift adaptation",
+    "authors": [
+      "Steffen Schneider",
+      "E. Rusak",
+      "L. Eck",
+      "O. Bringmann",
+      "Wieland Brendel",
+      "M. Bethge"
+    ],
+    "publication_date": "2020-06-30",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "aa12f44062c06f90526cb128f10e829846145b1f",
+    "corpus_id": 220266097,
+    "category": "Computer Science, Mathematics"
+  },
+  "2006-10963": {
+    "title": "Evaluating Prediction-Time Batch Normalization for Robustness under Covariate Shift",
+    "authors": [
+      "Zachary Nado",
+      "Shreyas Padhy",
+      "D. Sculley",
+      "A. D'Amour",
+      "Balaji Lakshminarayanan",
+      "Jasper Snoek"
+    ],
+    "publication_date": "2020-06-19",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "69bad7481b4c7dab2f0ac7c518c2be7256e699bf",
+    "corpus_id": 219956080,
+    "category": "Computer Science, Mathematics"
+  },
+  "2006-07805": {
+    "title": "Dual T: Reducing Estimation Error for Transition Matrix in Label-noise Learning",
+    "authors": [
+      "Yu Yao",
+      "Tongliang Liu",
+      "Bo Han",
+      "Mingming Gong",
+      "Jiankang Deng",
+      "Gang Niu",
+      "Masashi Sugiyama"
+    ],
+    "publication_date": "2020-06-14",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "521b955c0991e21944b265b03f8377c2a8701816",
+    "corpus_id": 219687353,
+    "category": "Computer Science, Mathematics"
+  },
+  "2006-07178": {
+    "title": "Meta-Reinforcement Learning Robust to Distributional Shift via Model Identification and Experience Relabeling",
+    "authors": [
+      "R. Mendonca",
+      "Xinyang Geng",
+      "Chelsea Finn",
+      "S. Levine"
+    ],
+    "publication_date": "2020-06-12",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "41a5c7271635f66aa1fa3497e28d6791db27b73b",
+    "corpus_id": 219635913,
+    "category": "Computer Science, Mathematics"
+  },
+  "1912-01703": {
+    "title": "PyTorch: An Imperative Style, High-Performance Deep Learning Library",
+    "authors": [
+      "Adam Paszke",
+      "Sam Gross",
+      "Francisco Massa",
+      "Adam Lerer",
+      "James Bradbury",
+      "Gregory Chanan",
+      "Trevor Killeen",
+      "Zeming Lin",
+      "N. Gimelshein",
+      "L. Antiga",
+      "Alban Desmaison",
+      "Andreas Köpf",
+      "E. Yang",
+      "Zachary DeVito",
+      "Martin Raison",
+      "Alykhan Tejani",
+      "Sasank Chilamkurthy",
+      "Benoit Steiner",
+      "Lu Fang",
+      "Junjie Bai",
+      "Soumith Chintala"
+    ],
+    "publication_date": "2019-12-03",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "3c8a456509e6c0805354bd40a35e3f2dbf8069b1",
+    "corpus_id": 202786778,
+    "category": "Computer Science, Mathematics"
+  },
+  "1906-00189": {
+    "title": "Are Anchor Points Really Indispensable in Label-Noise Learning?",
+    "authors": [
+      "Xiaobo Xia",
+      "Tongliang Liu",
+      "N. Wang",
+      "Bo Han",
+      "Chen Gong",
+      "Gang Niu",
+      "Masashi Sugiyama"
+    ],
+    "publication_date": "2019-06-01",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "4f62d8a036f7616510909d4a19db19b735264d9c",
+    "corpus_id": 173991056,
+    "category": "Computer Science, Mathematics"
+  },
+  "1905-12022": {
+    "title": "Bayesian Nonparametric Federated Learning of Neural Networks",
+    "authors": [
+      "M. Yurochkin",
+      "Mayank Agarwal",
+      "S. Ghosh",
+      "K. Greenewald",
+      "T. Hoang",
+      "Y. Khazaeni"
+    ],
+    "publication_date": "2019-05-24",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "5ac658ff79e30358a2f4a8ac4486090c3b7a2289",
+    "corpus_id": 168170092,
+    "category": "Computer Science, Mathematics"
+  },
+  "1903-12261": {
+    "title": "Benchmarking Neural Network Robustness to Common Corruptions and Perturbations",
+    "authors": [
+      "Dan Hendrycks",
+      "Thomas G. Dietterich"
+    ],
+    "publication_date": "2019-03-28",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "49b64383fe36268410c430352637ed23b16820c5",
+    "corpus_id": 56657912,
+    "category": "Computer Science, Mathematics"
+  },
+  "1806-00451": {
+    "title": "Do CIFAR-10 Classifiers Generalize to CIFAR-10?",
+    "authors": [
+      "B. Recht",
+      "R. Roelofs",
+      "Ludwig Schmidt",
+      "Vaishaal Shankar"
+    ],
+    "publication_date": "2018-06-01",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "f445493badf53febbaeab340a4fca98d9e4ab7f7",
+    "corpus_id": 44141423,
+    "category": "Computer Science, Mathematics"
+  },
+  "1803-08375": {
+    "title": "Deep Learning using Rectified Linear Units (ReLU)",
+    "authors": [
+      "Abien Fred Agarap"
+    ],
+    "publication_date": "2018-03-22",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "b79e5e4622a95417deec313cd543617b19611bea",
+    "corpus_id": 4090379,
+    "category": "Computer Science, Mathematics"
+  },
+  "1710-03077": {
+    "title": "Deeper, Broader and Artier Domain Generalization",
+    "authors": [
+      "Da Li",
+      "Yongxin Yang",
+      "Yi-Zhe Song",
+      "Timothy M. Hospedales"
+    ],
+    "publication_date": "2017-10-09",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "b1e7f07965a53491690bd31fdab626bfac606eae",
+    "corpus_id": 6037691,
+    "category": "Computer Science"
+  },
+  "1706-07522": {
+    "title": "Deep Hashing Network for Unsupervised Domain Adaptation",
+    "authors": [
+      "Hemanth Venkateswara",
+      "José Eusébio",
+      "Shayok Chakraborty",
+      "S. Panchanathan"
+    ],
+    "publication_date": "2017-06-22",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "b8ebda42e272d3617375118542d4675a0c0e501d",
+    "corpus_id": 2928248,
+    "category": "Computer Science"
+  },
+  "1706-03762": {
+    "title": "Attention is All you Need",
+    "authors": [
+      "Ashish Vaswani",
+      "Noam M. Shazeer",
+      "Niki Parmar",
+      "Jakob Uszkoreit",
+      "Llion Jones",
+      "Aidan N. Gomez",
+      "Lukasz Kaiser",
+      "I. Polosukhin"
+    ],
+    "publication_date": "2017-06-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+    "corpus_id": 13756489,
+    "category": "Computer Science"
+  },
+  "1609-03683": {
+    "title": "Making Deep Neural Networks Robust to Label Noise: A Loss Correction Approach",
+    "authors": [
+      "Giorgio Patrini",
+      "A. Rozza",
+      "A. Menon",
+      "R. Nock",
+      "Lizhen Qu"
+    ],
+    "publication_date": "2016-09-13",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "91d331d2bdd5fc86400c40c497bcb4c741c652be",
+    "corpus_id": 16406313,
+    "category": "Computer Science, Mathematics"
+  },
+  "1512-03385": {
+    "title": "Deep Residual Learning for Image Recognition",
+    "authors": [
+      "Kaiming He",
+      "X. Zhang",
+      "Shaoqing Ren",
+      "Jian Sun"
+    ],
+    "publication_date": "2015-12-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+    "corpus_id": 206594692,
+    "category": "Computer Science"
+  },
+  "1503-02531": {
+    "title": "Distilling the Knowledge in a Neural Network",
+    "authors": [
+      "Geoffrey E. Hinton",
+      "O. Vinyals",
+      "J. Dean"
+    ],
+    "publication_date": "2015-03-09",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "0c908739fbff75f03469d13d4a1a07de3414ee19",
+    "corpus_id": 7200347,
+    "category": "Mathematics, Computer Science"
+  },
+  "1409-1556": {
+    "title": "Very Deep Convolutional Networks for Large-Scale Image Recognition",
+    "authors": [
+      "K. Simonyan",
+      "Andrew Zisserman"
+    ],
+    "publication_date": "2014-09-04",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "eb42cf88027de515750f230b23b1a057dc782108",
+    "corpus_id": 14124313,
+    "category": "Computer Science"
+  },
+  "1810-04805": {
+    "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+    "authors": [
+      "Jacob Devlin",
+      "Ming-Wei Chang",
+      "Kenton Lee",
+      "Kristina Toutanova"
+    ],
+    "publication_date": "",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "df2b0e26d0599ce3e70df8a9da02e51594e0e992",
+    "corpus_id": 52967399,
+    "category": "Computer Science"
+  },
+  "1106-1813": {
+    "title": "SMOTE: Synthetic Minority Over-sampling Technique",
+    "authors": [
+      "N. Chawla",
+      "K. Bowyer",
+      "L. Hall",
+      "W. Kegelmeyer"
+    ],
+    "publication_date": "",
+    "venue": "Journal of Artificial Intelligence Research",
+    "semantic_scholar_id": "8cb44f06586f609a29d9b496cc752ec01475dffe",
+    "corpus_id": 1554582,
+    "category": "Computer Science, Mathematics"
+  }
+}

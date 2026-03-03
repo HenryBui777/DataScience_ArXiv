@@ -1,0 +1,19 @@
+{
+  "title": "Constant Rate Scheduling: Constant-Rate Distributional Change for Efficient Training and Sampling in Diffusion Models",
+  "authors": [
+    "Shuntaro Okada",
+    "Kenji Doi",
+    "Ryota Yoshihashi",
+    "Hirokatsu Kataoka",
+    "Tomohiro Tanaka"
+  ],
+  "summary": "We propose a general approach to optimize noise schedules for training and sampling in diffusion models. Our approach optimizes the noise schedules to ensure a constant rate of change in the probability distribution of diffused data throughout the diffusion process. Any distance metric for measuring the probability-distributional change is applicable to our approach, and we introduce three distance metrics. We evaluated the effectiveness of our approach on unconditional and class-conditional image-generation tasks using the LSUN (Horse, Bedroom, Church), ImageNet, FFHQ, and CIFAR10 datasets. Through extensive experiments, we confirmed that our approach broadly improves the performance of pixel-space and latent-space diffusion models regardless of the dataset, sampler, and number of function evaluations ranging from 5 to 250. Notably, by using our approach for optimizing both training and sampling schedules, we achieved a state-of-the-art FID score of 2.03 without sacrificing mode coverage on LSUN Horse 256 $\\times$ 256.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-02-04",
+    "2025-06-03"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.LG"
+}

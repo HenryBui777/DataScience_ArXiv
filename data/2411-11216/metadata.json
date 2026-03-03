@@ -1,0 +1,17 @@
+{
+  "title": "Optimization free control and ground force estimation with momentum observer for a multimodal legged aerial robot",
+  "authors": [
+    "Kaushik Venkatesh Krishnamurthy",
+    "Chenghao Wang",
+    "Shreyansh Pitroda",
+    "Eric Sihite",
+    "Alireza Ramezani",
+    "Morteza Gharib"
+  ],
+  "summary": "Legged-aerial multimodal robots can make the most of both legged and aerial systems. In this paper, we propose a control framework that bypasses heavy onboard computers by using an optimization-free Explicit Reference Governor that incorporates external thruster forces from an attitude controller. Ground reaction forces are maintained within friction cone constraints using costly optimization solvers, but the ERG framework filters applied velocity references that ensure no slippage at the foot end. We also propose a Conjugate momentum observer, that is widely used in Disturbance Observation to estimate ground reaction forces and compare its efficacy against a constrained model in estimating ground reaction forces in a reduced-order simulation of Husky.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO, eess.SY"
+}

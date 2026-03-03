@@ -1,0 +1,17 @@
+{
+  "title": "Learning a Neural Association Network for Self-supervised Multi-Object Tracking",
+  "authors": [
+    "Shuai Li",
+    "Michael Burke",
+    "Subramanian Ramamoorthy",
+    "Juergen Gall"
+  ],
+  "summary": "This paper introduces a novel framework to learn data association for multi-object tracking in a self-supervised manner. Fully-supervised learning methods are known to achieve excellent tracking performances, but acquiring identity-level annotations is tedious and time-consuming. Motivated by the fact that in real-world scenarios object motion can be usually represented by a Markov process, we present a novel expectation maximization (EM) algorithm that trains a neural network to associate detections for tracking, without requiring prior knowledge of their temporal correspondences. At the core of our method lies a neural Kalman filter, with an observation model conditioned on associations of detections parameterized by a neural network. Given a batch of frames as input, data associations between detections from adjacent frames are predicted by a neural network followed by a Sinkhorn normalization that determines the assignment probabilities of detections to states. Kalman smoothing is then used to obtain the marginal probability of observations given the inferred states, producing a training objective to maximize this marginal probability using gradient descent. The proposed framework is fully differentiable, allowing the underlying neural model to be trained end-to-end. We evaluate our approach on the challenging MOT17, MOT20, and BDD100K datasets and achieve state-of-the-art results in comparison to self-supervised trackers using public detections.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-09-03"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

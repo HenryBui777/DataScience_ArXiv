@@ -1,0 +1,15 @@
+{
+  "title": "Scalable Wavelength Arbitration for Microring-based DWDM Transceivers",
+  "authors": [
+    "Sunjin Choi",
+    "Vladimir Stojanović"
+  ],
+  "summary": "This paper introduces the concept of autonomous microring arbitration, or wavelength arbitration, to address the challenge of multi-microring initialization in microring-based Dense-Wavelength-Division-Multiplexed (DWDM) transceivers. This arbitration is inherently policy-driven, defining critical system characteristics such as the spectral ordering of microrings. Furthermore, to facilitate large-scale deployment, the arbitration algorithms must operate independently of specific wavelength information and be resilient to system variability. Addressing these complexities requires a holistic approach that encompasses the entire system, from device-level variabilities to the transceiver electrical-to-optical interface - this system-wide perspective is the focus of this paper. To support efficient analysis, we develop a hierarchical framework incorporating an ideal, wavelength-aware arbitration model to examine arbitration failures at both the policy and algorithmic levels. The effectiveness of this approach is demonstrated in two ways: by analyzing the robustness of each policy in relation to device variabilities, and by developing an algorithm that achieves near-perfect alignment with the ideal model, offering superior robustness compared to the traditional sequential tuning method. The simulator code used in this paper is available at https://github.com/wdmsim/wdm-simulator.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-02-08"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AR, eess.SP"
+}

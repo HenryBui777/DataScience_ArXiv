@@ -1,0 +1,14 @@
+{
+  "title": "FLRNet: A Deep Learning Method for Regressive Reconstruction of Flow Field From Limited Sensor Measurements",
+  "authors": [
+    "Phong C. H. Nguyen",
+    "Joseph B. Choi",
+    "Quang-Trung Luu"
+  ],
+  "summary": "Many applications in computational and experimental fluid mechanics require effective methods for reconstructing the flow fields from limited sensor data. However, this task remains a significant challenge because the measurement operator, which provides the punctual sensor measurement for a given state of the flow field, is often ill-conditioned and non-invertible. This issue impedes the feasibility of identifying the forward map, theoretically the inverse of the measurement operator, for field reconstruction purposes. While data-driven methods are available, their generalizability across different flow conditions (\\textit{e.g.,} different Reynold numbers) remains questioned. Moreover, they frequently face the problem of spectral bias, which leads to smooth and blurry reconstructed fields, thereby decreasing the accuracy of reconstruction. We introduce FLRNet, a deep learning method for flow field reconstruction from sparse sensor measurements. FLRNet employs an variational autoencoder with Fourier feature layers and incorporates an extra perceptual loss term during training to learn a rich, low-dimensional latent representation of the flow field. The learned latent representation is then correlated to the sensor measurement using a fully connected (dense) network. We validated the reconstruction capability and the generalizability of FLRNet under various fluid flow conditions and sensor configurations, including different sensor counts and sensor layouts. Numerical experiments show that in all tested scenarios, FLRNet consistently outperformed other baselines, delivering the most accurate reconstructed flow field and being the most robust to noise.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.flu-dyn, cs.LG"
+}

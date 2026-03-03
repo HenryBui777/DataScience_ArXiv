@@ -1,0 +1,15 @@
+{
+  "title": "Implementation of tools for lessening the influence of artifacts in EEG signal analysis",
+  "authors": [
+    "Mario Molina-Molina",
+    "Lorenzo J. Tardon",
+    "Ana M. Barbancho",
+    "Isabel Barbancho"
+  ],
+  "summary": "This manuscript describes and implementation of scripts of code aimed at reducing the influence of artifacts, specifically focused on ocular artifacts, in the measurement and processing of electroencephalogram (EEG) signals. This process is of importance because it benefits the analysis and study of long trial samples when the appearance of ocular artifacts cannot be avoided by simply discarding trials. The implementations provided to the reader illustrate, with slight modifications, previously proposed methods aimed at the partial or complete elimination of EEG channels or components are those that resemble the electro-oculogram (EOG) signals in which artifacts are detected. In addition to the description of each of the provided functions, examples of utilization and illustrative figures will be included to show the expected results and processing pipeline.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "Applied Sciences, 14,971, 2024",
+  "pdf_url": null,
+  "category": "eess.SP"
+}

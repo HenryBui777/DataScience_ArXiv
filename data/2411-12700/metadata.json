@@ -1,0 +1,18 @@
+{
+  "title": "Learning multivariate Gaussians with imperfect advice",
+  "authors": [
+    "Arnab Bhattacharyya",
+    "Davin Choo",
+    "Philips George John",
+    "Themis Gouleakis"
+  ],
+  "summary": "We revisit the problem of distribution learning within the framework of learning-augmented algorithms. In this setting, we explore the scenario where a probability distribution is provided as potentially inaccurate advice on the true, unknown distribution. Our objective is to develop learning algorithms whose sample complexity decreases as the quality of the advice improves, thereby surpassing standard learning lower bounds when the advice is sufficiently accurate.\n  Specifically, we demonstrate that this outcome is achievable for the problem of learning a multivariate Gaussian distribution $N(\\boldsymbolμ, \\boldsymbolΣ)$ in the PAC learning setting. Classically, in the advice-free setting, $\\tildeΘ(d^2/\\varepsilon^2)$ samples are sufficient and worst case necessary to learn $d$-dimensional Gaussians up to TV distance $\\varepsilon$ with constant probability. When we are additionally given a parameter $\\tilde{\\boldsymbolΣ}$ as advice, we show that $\\tilde{O}(d^{2-β}/\\varepsilon^2)$ samples suffices whenever $\\| \\tilde{\\boldsymbolΣ}^{-1/2} \\boldsymbolΣ \\tilde{\\boldsymbolΣ}^{-1/2} - \\boldsymbol{I_d} \\|_1 \\leq \\varepsilon d^{1-β}$ (where $\\|\\cdot\\|_1$ denotes the entrywise $\\ell_1$ norm) for any $β> 0$, yielding a polynomial improvement over the advice-free setting.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-21",
+    "2025-01-31"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.DS, cs.IT, stat.ML"
+}

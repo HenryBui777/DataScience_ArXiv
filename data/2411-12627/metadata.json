@@ -1,0 +1,13 @@
+{
+  "title": "A Generalized Flux-Corrected Transport Algorithm I: A Finite-Difference Formulation",
+  "authors": [
+    "William J Rider",
+    "Dennis R Liles"
+  ],
+  "summary": "This paper presents a generalized flux-corrected transport (FCT) algorithm, which is shown to be total variation diminishing under some conditions. The new algorithm has improved properties from the standpoint of use and analysis. Results show that the new FCT algorithm performs better than the older FCT algorithms and is comparable with other modern methods. This reformulation will also allow the FCT to be used effectively with exact or approximate Riemann solvers and as an implicit algorithm.\n  This paper was originally submitted to the Journal of Computational Physics in 1990. It got lost in review. One reviewer loved the paper and suggested it be published immediately (he also died while it was in review). Another reviewer savaged the paper being from the FCT camp. The journal also went through several changes in management. Ultimately I declined to continue pursuing the paper as I had one infant child at the time and another on the way in 1995. Now 30 years on I am going to put this online.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.comp-ph, math.NA"
+}

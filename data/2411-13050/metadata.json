@@ -1,0 +1,19 @@
+{
+  "title": "Topkima-Former: Low-energy, Low-Latency Inference for Transformers using top-k In-memory ADC",
+  "authors": [
+    "Shuai Dong",
+    "Junyi Yang",
+    "Xiaoqi Peng",
+    "Hongyang Shang",
+    "Ye Ke",
+    "Xiaofeng Yang",
+    "Hongjie Liu",
+    "Arindam Basu"
+  ],
+  "summary": "Transformer model has gained prominence as a popular deep neural network architecture for neural language processing (NLP) and computer vision (CV) applications. However, the extensive use of nonlinear operations, like softmax, poses a performance bottleneck during transformer inference and comprises up to 40% of the total latency. Hence, we propose innovations at the circuit, architecture, and algorithm levels to accelerate the transformer. At the circuit level, we propose topkima-combining top-k activation selection with in-memory ADC (IMA) to implement a low-energy and low-latency softmax without any sorting latency. Only the k largest activations are sent to the softmax calculation block, reducing the huge computational cost of softmax. Using a modified training scheme with top-k only in the forward pass, experimental results demonstrate only a 0.4% to 1.2% reduction in accuracy across ViT, distilBERT, and BERT-base models when evaluated on CIFAR-10, CIFAR-100, and SQuAD datasets with k=5. At the architecture level, an improved scale-free technique is introduced to reduce the computational cost of attention. The combined system, dubbed Topkima-Former, enhances 1.8x-84x speedup and 1.3x-35x energy efficiency (EE) over prior In-memory computing (IMC) accelerators. Compared to a conventional softmax macro and a digital top-k (Dtopk) softmax macro, our proposed tokima softmax macro achieves about 15x and 8x faster speed respectively.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AR"
+}

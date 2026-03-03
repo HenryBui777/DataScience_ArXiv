@@ -1,0 +1,18 @@
+{
+  "title": "Learning from Label Proportions and Covariate-shifted Instances",
+  "authors": [
+    "Sagalpreet Singh",
+    "Navodita Sharma",
+    "Shreyas Havaldar",
+    "Rishi Saket",
+    "Aravindan Raghuveer"
+  ],
+  "summary": "In many applications, especially due to lack of supervision or privacy concerns, the training data is grouped into bags of instances (feature-vectors) and for each bag we have only an aggregate label derived from the instance-labels in the bag. In learning from label proportions (LLP) the aggregate label is the average of the instance-labels in a bag, and a significant body of work has focused on training models in the LLP setting to predict instance-labels. In practice however, the training data may have fully supervised albeit covariate-shifted source data, along with the usual target data with bag-labels, and we wish to train a good instance-level predictor on the target domain. We call this the covariate-shifted hybrid LLP problem. Fully supervised covariate shifted data often has useful training signals and the goal is to leverage them for better predictive performance in the hybrid LLP setting. To achieve this, we develop methods for hybrid LLP which naturally incorporate the target bag-labels along with the source instance-labels, in the domain adaptation framework. Apart from proving theoretical guarantees bounding the target generalization error, we also conduct experiments on several publicly available datasets showing that our methods outperform LLP and domain adaptation baselines as well techniques from previous related work.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-07-15"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

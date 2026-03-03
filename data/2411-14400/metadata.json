@@ -1,0 +1,14 @@
+{
+  "title": "23 DoF Grasping Policies from a Raw Point Cloud",
+  "authors": [
+    "Martin Matak",
+    "Karl Van Wyk",
+    "Tucker Hermans"
+  ],
+  "summary": "Coordinating the motion of robots with high degrees of freedom (DoF) to grasp objects gives rise to many challenges. In this paper, we propose a novel imitation learning approach to learn a policy that directly predicts 23 DoF grasp trajectories from a partial point cloud provided by a single, fixed camera. At the core of the approach is a second-order geometric-based model of behavioral dynamics. This Neural Geometric Fabric (NGF) policy predicts accelerations directly in joint space. We show that our policy is capable of generalizing to novel objects, and combine our policy with a geometric fabric motion planner in a loop to generate stable grasping trajectories. We evaluate our approach on a set of three different objects, compare different policy structures, and run ablation studies to understand the importance of different object encodings for policy learning.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

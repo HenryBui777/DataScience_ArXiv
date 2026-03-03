@@ -1,0 +1,13 @@
+{
+  "title": "Comment on Quantum illumination using polarization-entangled photon pairs for enhanced object detection (Opt. Express 32, 40150-40164, 2024)",
+  "authors": [
+    "Artur Czerwinski",
+    "Jakub J. Borkowski"
+  ],
+  "summary": "The paper by K. Sengupta et al. (Opt. Express 32, 40150-40164, 2024) explores quantum illumination using polarization-entangled photon pairs for object detection in noisy environments. In this comment, we highlight fundamental flaws in the mathematical model used to describe photon loss. We argue that the treatment of photon loss and its effects on quantum entanglement is incorrect. We demonstrate that the conclusions of Sengupta et al., particularly the detection of low-reflectivity objects using quantum correlations, are unsubstantiated, as the assumed resilience of polarization entanglement to photon loss contradicts established principles of quantum information theory. We present a more rigorous framework for describing the effects of photon loss on both polarization-encoded and photon-number quantum states. Additionally, we critique the approach used in the OE article to model photon loss in free-space optical (FSO) transmission, noting that it is based on a fiber-optic model that was adopted with insufficient attribution from an earlier publication. We propose several improvements to enhance the modeling of FSO photon loss.",
+  "submission_date": "2024-11-06",
+  "revised_dates": [],
+  "publication_venue": "Opt. Express 33, 38005-38008 (2025)",
+  "pdf_url": null,
+  "category": "quant-ph, physics.optics"
+}

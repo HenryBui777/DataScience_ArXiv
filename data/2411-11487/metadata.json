@@ -1,0 +1,20 @@
+{
+  "title": "Look a Group at Once: Multi-Slide Modeling for Survival Prediction",
+  "authors": [
+    "Xinyang Li",
+    "Yi Zhang",
+    "Yi Xie",
+    "Jianfei Yang",
+    "Xi Wang",
+    "Hao Chen",
+    "Haixian Zhang"
+  ],
+  "summary": "Survival prediction is a critical task in pathology. In clinical practice, pathologists often examine multiple cases, leveraging a broader spectrum of cancer phenotypes to enhance pathological assessment. Despite significant advancements in deep learning, current solutions typically model each slide as a sample, struggling to effectively capture comparable and slide-agnostic pathological features. In this paper, we introduce GroupMIL, a novel framework inspired by the clinical practice of collective analysis, which models multiple slides as a single sample and organizes groups of patches and slides sequentially to capture cross-slide prognostic features. We also present GPAMamba, a model designed to facilitate intra- and inter-slide feature interactions, effectively capturing local micro-environmental characteristics within slide-level graphs while uncovering essential prognostic patterns across an extended patch sequence within the group framework. Furthermore, we develop a dual-head predictor that delivers comprehensive survival risk and probability assessments for each patient. Extensive empirical evaluations demonstrate that our model significantly outperforms state-of-the-art approaches across five datasets from The Cancer Genome Atlas.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-24"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Homogenized $\\textit{C. elegans}$ Neural Activity and Connectivity Data",
+  "authors": [
+    "Quilee Simeon",
+    "Anshul Kashyap",
+    "Konrad P Kording",
+    "Edward S Boyden"
+  ],
+  "summary": "There is renewed interest in modeling and understanding the nervous system of the nematode $\\textit{Caenorhabditis elegans}$ ($\\textit{C. elegans}$), as this small model system provides a path to bridge the gap between nervous system structure (connectivity) and function (physiology). However, existing physiology datasets, whether involving passive recording or stimulation, are in distinct formats, and connectome datasets require preprocessing before analysis can commence. Here we compile and homogenize datasets of neural activity and connectivity. Our neural activity dataset is derived from 12 $\\textit{C. elegans}$ neuroimaging experiments, while our connectivity dataset is compiled from 9 connectome annotations based on 3 primary electron microscopy studies and 1 signal propagation study. Physiology datasets, collected under varying protocols, measure calcium fluorescence in labeled subsets of the worm's 300 neurons. Our preprocessing pipeline standardizes these datasets by consistently ordering labeled neurons and resampling traces to a common sampling rate, yielding recordings from approximately 900 worms and 250 uniquely labeled neurons. The connectome datasets, collected from electron microscopy reconstructions, represent the entire nervous system as a graph of connections. Our collection is accessible on HuggingFace, facilitating analysis of the structure-function relationship in biology using modern neural network architectures and enabling cross-lab and cross-animal comparisons.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-20",
+    "2024-11-28",
+    "2025-05-19"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-bio.NC"
+}

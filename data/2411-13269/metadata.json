@@ -1,0 +1,14 @@
+{
+  "title": "Towards Specification-Driven LLM-Based Generation of Embedded Automotive Software",
+  "authors": [
+    "Minal Suresh Patil",
+    "Gustav Ung",
+    "Mattias Nyberg"
+  ],
+  "summary": "The paper studies how code generation by LLMs can be combined with formal verification to produce critical embedded software. The first contribution is a general framework, spec2code, in which LLMs are combined with different types of critics that produce feedback for iterative backprompting and fine-tuning. The second contribution presents a first feasibility study, where a minimalistic instantiation of spec2code, without iterative backprompting and fine-tuning, is empirically evaluated using three industrial case studies from the heavy vehicle manufacturer Scania. The goal is to automatically generate industrial-quality code from specifications only. Different combinations of formal ACSL specifications and natural language specifications are explored. The results indicate that formally correct code can be generated even without the application of iterative backprompting and fine-tuning.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SE, cs.AI"
+}

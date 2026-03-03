@@ -1,0 +1,16 @@
+{
+  "title": "Revealing Structure and Symmetry of Nonlinearity in Natural and Engineering Flows",
+  "authors": [
+    "Brandon Yeung",
+    "Tianyi Chu",
+    "Oliver T. Schmidt"
+  ],
+  "summary": "Energy transfer across scales is fundamental in fluid dynamics, linking large-scale flow motions to small-scale turbulent structures in engineering and natural environments. Triadic interactions among three wave components form complex networks across scales, challenging understanding and model reduction. We introduce Triadic Orthogonal Decomposition (TOD), a method that identifies coherent flow structures optimally capturing spectral momentum transfer, quantifies their coupling and energy exchange in an energy budget bispectrum, and reveals the regions where they interact. TOD distinguishes three components--a momentum recipient, donor, and catalyst--and recovers laws governing pairwise, six-triad, and global triad conservation. Applied to unsteady cylinder wake and wind turbine wake data, TOD reveals networks of triadic interactions with forward and backward energy transfer across frequencies and scales.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-20"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.flu-dyn, nlin.CD"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Efficient Spatio-Temporal Signal Recognition on Edge Devices Using PointLCA-Net",
+  "authors": [
+    "Sanaz Mahmoodi Takaghaj"
+  ],
+  "summary": "Recent advancements in machine learning, particularly through deep learning architectures like PointNet, have transformed the processing of three-dimensional (3D) point clouds, significantly improving 3D object classification and segmentation tasks. While 3D point clouds provide detailed spatial information, spatio-temporal signals introduce a dynamic element that accounts for changes over time. However, applying deep learning techniques to spatio-temporal signals and deploying them on edge devices presents challenges, including real-time processing, memory capacity, and power consumption. To address these issues, this paper presents a novel approach that combines PointNet's feature extraction with the in-memory computing capabilities and energy efficiency of neuromorphic systems for spatio-temporal signal recognition. The proposed method consists of a two-stage process: in the first stage, PointNet extracts features from the spatio-temporal signals, which are then stored in non-volatile memristor crossbar arrays. In the second stage, these features are processed by a single-layer spiking neural encoder-decoder that employs the Locally Competitive Algorithm (LCA) for efficient encoding and classification. This work integrates the strengths of both PointNet and LCA, enhancing computational efficiency and energy performance on edge devices. PointLCA-Net achieves high recognition accuracy for spatio-temporal data with substantially lower energy burden during both inference and training than comparable approaches, thus advancing the deployment of advanced neural architectures in energy-constrained environments.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-04-13",
+    "2025-05-20"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.ET"
+}

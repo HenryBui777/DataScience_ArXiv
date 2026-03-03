@@ -1,0 +1,13 @@
+{
+  "title": "Do Captioning Metrics Reflect Music Semantic Alignment?",
+  "authors": [
+    "Jinwoo Lee",
+    "Kyogu Lee"
+  ],
+  "summary": "Music captioning has emerged as a promising task, fueled by the advent of advanced language generation models. However, the evaluation of music captioning relies heavily on traditional metrics such as BLEU, METEOR, and ROUGE which were developed for other domains, without proper justification for their use in this new field. We present cases where traditional metrics are vulnerable to syntactic changes, and show they do not correlate well with human judgments. By addressing these issues, we aim to emphasize the need for a critical reevaluation of how music captions are assessed.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SD, cs.IR, eess.AS"
+}

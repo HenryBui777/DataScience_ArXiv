@@ -1,0 +1,19 @@
+{
+  "title": "Comparative Analysis of nnUNet and MedNeXt for Head and Neck Tumor Segmentation in MRI-guided Radiotherapy",
+  "authors": [
+    "Nikoo Moradi",
+    "André Ferreira",
+    "Behrus Puladi",
+    "Jens Kleesiek",
+    "Emad Fatemizadeh",
+    "Gijs Luijten",
+    "Victor Alves",
+    "Jan Egger"
+  ],
+  "summary": "Radiation therapy (RT) is essential in treating head and neck cancer (HNC), with magnetic resonance imaging(MRI)-guided RT offering superior soft tissue contrast and functional imaging. However, manual tumor segmentation is time-consuming and complex, and therfore remains a challenge. In this study, we present our solution as team TUMOR to the HNTS-MRG24 MICCAI Challenge which is focused on automated segmentation of primary gross tumor volumes (GTVp) and metastatic lymph node gross tumor volume (GTVn) in pre-RT and mid-RT MRI images. We utilized the HNTS-MRG2024 dataset, which consists of 150 MRI scans from patients diagnosed with HNC, including original and registered pre-RT and mid-RT T2-weighted images with corresponding segmentation masks for GTVp and GTVn. We employed two state-of-the-art models in deep learning, nnUNet and MedNeXt. For Task 1, we pretrained models on pre-RT registered and mid-RT images, followed by fine-tuning on original pre-RT images. For Task 2, we combined registered pre-RT images, registered pre-RT segmentation masks, and mid-RT data as a multi-channel input for training. Our solution for Task 1 achieved 1st place in the final test phase with an aggregated Dice Similarity Coefficient of 0.8254, and our solution for Task 2 ranked 8th with a score of 0.7005. The proposed solution is publicly available at Github Repository.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.CV, cs.LG"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Capturing Sparks of Abstraction for the ARC Challenge",
+  "authors": [
+    "Martin Andrews"
+  ],
+  "summary": "Excellent progress has been made recently in solving ARC Challenge problems. However, it seems that new techniques may be required to push beyond 60% accuracy. Even commercial Large Language Models (LLMs) struggle to 'understand' many of the problems (when given the input and output grids), which makes discovering solutions by LLM-lead program search somewhat futile.\n  In this work, LLM 'understanding' is attempted from a stronger starting position : An LLM is given complete solutions to tasks in code, and then asked to explain how the task is being solved at various levels of abstraction. Specifically, the LLM was given code solutions implemented in arc-dsl-llm (an LLM-legible version of Hodel's arc-dsl to obtain: (a) commented code; (b) code refactored into reusable functional chunks; (c) problem solution steps; and (d) high-level problem-solving tactics.\n  We demonstrate that 'Sparks of Abstraction' can be extracted from the LLM output - in a form that could be used in downstream tasks with Local LLMs eligible to enter the ARC Prize.\n  Both the arc-dsl-llm DSL framework (with the re-engineered solutions) and the Gemini LLM-generated data (along with the generation code) are made Open Source.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.AI, cs.LG"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "On the structure of normalized models of circular-arc graphs -- Hsu's approach revisited",
+  "authors": [
+    "Tomasz Krawczyk"
+  ],
+  "summary": "Circular-arc graphs are the intersection graphs of arcs of a circle. The main result of this work describes the structure of all \\emph{normalized intersection models} of circular-arc graphs. Normalized models of a circular-arc graph reflect the neighborhood relation between its vertices and can be seen as its canonical representations; in particular, any intersection model can be made normalized by possibly extending some of its arcs. We~devise a data-structure, called \\emph{PQM-tree}, that maintains the set of all normalized models of a circular-arc graph. We show that the PQM-tree of a circular-arc graph can be computed in linear time. Finally, basing on PQM-trees, we provide a linear-time algorithm for the canonization and the isomorphism problem for circular-arc graphs.\n  We describe the structure of the normalized models of circular-arc graphs using an approach proposed by Hsu~[\\emph{SIAM J. Comput. 24(3), 411--439, (1995)}]. In the aforementioned work, Hsu claimed the construction of decomposition trees representing the set of all normalized intersection models of circular-arc graphs and an $\\mathcal{O}(nm)$ time isomorphism algorithm for this class of graphs. However, the counterexample given in~[\\emph{Discrete Math. Theor. Comput. Sci., 15(1), 157--182, 2013}] shows that Hsu's isomorphism algorithm is incorrect. Also, in a companion paper we show that the decomposition trees proposed by Hsu are not constructed correctly; in particular, we showed that there are circular-arc graphs whose all normalized models do not follow the description given by Hsu.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-26"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DS"
+}

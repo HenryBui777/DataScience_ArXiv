@@ -1,0 +1,16 @@
+{
+  "title": "An Effective Iterative Solution for Independent Vector Analysis with Convergence Guarantees",
+  "authors": [
+    "Clément Cosserat",
+    "Ben Gabrielson",
+    "Emilie Chouzenoux",
+    "Jean-Christophe Pesquet",
+    "Tülay Adali"
+  ],
+  "summary": "Independent vector analysis (IVA) is an attractive solution to address the problem of joint blind source separation (JBSS), that is, the simultaneous extraction of latent sources from several datasets implicitly sharing some information. Among IVA approaches, we focus here on the celebrated IVA-G model, that describes observed data through the mixing of independent Gaussian source vectors across the datasets. IVA-G algorithms usually seek the values of demixing matrices that maximize the joint likelihood of the datasets, estimating the sources using these demixing matrices. Instead, we write the likelihood of the data with respect to both the demixing matrices and the precision matrices of the source estimate. This allows us to formulate a cost function whose mathematical properties enable the use of a proximal alternating algorithm based on closed form operators with provable convergence to a critical point. After establishing the convergence properties of the new algorithm, we illustrate its desirable performance in separating sources with covariance structures that represent varying degrees of difficulty for JBSS.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC"
+}

@@ -1,0 +1,425 @@
+{
+  "2407-03086": {
+    "title": "Effective Heterogeneous Federated Learning via Efficient Hypernetwork-based Weight Generation",
+    "authors": [
+      "Yujin Shin",
+      "Kichang Lee",
+      "Sungmin Lee",
+      "You Rim Choi",
+      "Hyung-Sin Kim",
+      "Jeonggil Ko"
+    ],
+    "publication_date": "2024-07-03",
+    "venue": "ACM International Conference on Embedded Networked Sensor Systems",
+    "semantic_scholar_id": "5b0ed356074f1119fe2a1e89c0143e0dbdbba969",
+    "corpus_id": 270924327,
+    "category": "Computer Science"
+  },
+  "2502-20639": {
+    "title": "FedConv: A Learning-on-Model Paradigm for Heterogeneous Federated Clients",
+    "authors": [
+      "Leming Shen",
+      "Qian Yang",
+      "Kaiyan Cui",
+      "Yuanqing Zheng",
+      "Xiao-Yong Wei",
+      "Jianwei Liu",
+      "Jinsong Han"
+    ],
+    "publication_date": "2024-06-03",
+    "venue": "ACM SIGMOBILE International Conference on Mobile Systems, Applications, and Services",
+    "semantic_scholar_id": "9d8b5742468c1377a081c661e6ee1646288e930e",
+    "corpus_id": 270259402,
+    "category": "Computer Science"
+  },
+  "2307-10562": {
+    "title": "Shared Adversarial Unlearning: Backdoor Mitigation by Unlearning Shared Adversarial Examples",
+    "authors": [
+      "Shaokui Wei",
+      "Mingda Zhang",
+      "H. Zha",
+      "Baoyuan Wu"
+    ],
+    "publication_date": "2023-07-20",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "92018bf2418a2276cdadff9b81b740c8b13d89c4",
+    "corpus_id": 259991722,
+    "category": "Computer Science"
+  },
+  "2203-08669": {
+    "title": "MPAF: Model Poisoning Attacks to Federated Learning based on Fake Clients",
+    "authors": [
+      "Xiaoyu Cao",
+      "N. Gong"
+    ],
+    "publication_date": "2022-03-16",
+    "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "semantic_scholar_id": "17a14063353425ccd1ef9dae0c25d844f3e48e7c",
+    "corpus_id": 247476326,
+    "category": "Computer Science"
+  },
+  "2202-10627": {
+    "title": "On the Effectiveness of Adversarial Training Against Backdoor Attacks",
+    "authors": [
+      "Yinghua Gao",
+      "Dongxian Wu",
+      "Jingfeng Zhang",
+      "Guanhao Gan",
+      "Shutao Xia",
+      "Gang Niu",
+      "Masashi Sugiyama"
+    ],
+    "publication_date": "2022-02-22",
+    "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+    "semantic_scholar_id": "8d0a2fc6a7b7c97a00a58e7f86fa51a7929a99d8",
+    "corpus_id": 247025760,
+    "category": "Medicine, Computer Science"
+  },
+  "2111-14655": {
+    "title": "FedHM: Efficient Federated Learning for Heterogeneous Models via Low-rank Factorization",
+    "authors": [
+      "Dezhong Yao",
+      "Wanning Pan",
+      "Yao Wan",
+      "Hai Jin",
+      "Lichao Sun"
+    ],
+    "publication_date": "2021-11-29",
+    "venue": "Artificial Intelligence",
+    "semantic_scholar_id": "7e0ed523da82438e6491de17ee0f86be973465ce",
+    "corpus_id": 244715028,
+    "category": "Computer Science"
+  },
+  "2104-02361": {
+    "title": "Backdoor Attack in the Physical World",
+    "authors": [
+      "Yiming Li",
+      "Tongqing Zhai",
+      "Yong Jiang",
+      "Zhifeng Li",
+      "Shutao Xia"
+    ],
+    "publication_date": "2021-04-06",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "1a1b3e71ec50e6d04f158325b44684276141ca49",
+    "corpus_id": 233033462,
+    "category": "Computer Science"
+  },
+  "2012-13995": {
+    "title": "FLTrust: Byzantine-robust Federated Learning via Trust Bootstrapping",
+    "authors": [
+      "Xiaoyu Cao",
+      "Minghong Fang",
+      "Jia Liu",
+      "N. Gong"
+    ],
+    "publication_date": "2020-12-27",
+    "venue": "Network and Distributed System Security Symposium",
+    "semantic_scholar_id": "11f603d62b5790d646d32fb9ee5cdbb5b0326698",
+    "corpus_id": 229678616,
+    "category": "Computer Science"
+  },
+  "2012-03816": {
+    "title": "Invisible Backdoor Attack with Sample-Specific Triggers",
+    "authors": [
+      "Yuezun Li",
+      "Yiming Li",
+      "Baoyuan Wu",
+      "Longkang Li",
+      "R. He",
+      "Siwei Lyu"
+    ],
+    "publication_date": "2020-12-07",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "9df35283dc71e95f0451a478b531b544dd1d6d0d",
+    "corpus_id": 237054216,
+    "category": "Computer Science"
+  },
+  "2007-14390": {
+    "title": "Flower: A Friendly Federated Learning Research Framework",
+    "authors": [
+      "Daniel J. Beutel",
+      "Taner Topal",
+      "Akhil Mathur",
+      "Xinchi Qiu",
+      "Titouan Parcollet",
+      "N. Lane"
+    ],
+    "publication_date": "2020-07-28",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "a199a03e11b68c4132be880b5fcabc57251bc477",
+    "corpus_id": 220831008,
+    "category": "Computer Science, Mathematics"
+  },
+  "2006-14871": {
+    "title": "Can We Mitigate Backdoor Attack Using Adversarial Detection Methods?",
+    "authors": [
+      "Kaidi Jin",
+      "Tianwei Zhang",
+      "Chao Shen",
+      "Yufei Chen",
+      "Ming Fan",
+      "Chenhao Lin",
+      "Ting Liu"
+    ],
+    "publication_date": "2020-06-26",
+    "venue": "IEEE Transactions on Dependable and Secure Computing",
+    "semantic_scholar_id": "2d3c223cdfc6d79d7fa4657e5aedd6a4afc85206",
+    "corpus_id": 251174328,
+    "category": "Computer Science, Mathematics"
+  },
+  "2006-14580": {
+    "title": "Backdoor Attacks Against Deep Learning Systems in the Physical World",
+    "authors": [
+      "Emily Wenger",
+      "Josephine Passananti",
+      "A. Bhagoji",
+      "Yuanshun Yao",
+      "Haitao Zheng",
+      "Ben Y. Zhao"
+    ],
+    "publication_date": "2020-06-25",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "9e75112b213fcdb3253b18da84d85cca2250036b",
+    "corpus_id": 227261697,
+    "category": "Computer Science"
+  },
+  "2006-08848": {
+    "title": "Personalized Federated Learning with Moreau Envelopes",
+    "authors": [
+      "Canh T. Dinh",
+      "N. H. Tran",
+      "Tuan Dung Nguyen"
+    ],
+    "publication_date": "2020-06-01",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "70f1b279f96a9ba8e15f599635ba0e3ec449ef5f",
+    "corpus_id": 219708331,
+    "category": "Computer Science, Mathematics"
+  },
+  "2002-02175": {
+    "title": "An Analysis of Adversarial Attacks and Defenses on Autonomous Driving Models",
+    "authors": [
+      "Yao Deng",
+      "Xi Zheng",
+      "Tianyi Zhang",
+      "Chen Chen",
+      "Guannan Lou",
+      "Miryung Kim"
+    ],
+    "publication_date": "2020-02-06",
+    "venue": "Annual IEEE International Conference on Pervasive Computing and Communications",
+    "semantic_scholar_id": "f661e8d9e676319dac9a1109803e941b8fc1be11",
+    "corpus_id": 211043979,
+    "category": "Engineering, Computer Science"
+  },
+  "1911-11815": {
+    "title": "Local Model Poisoning Attacks to Byzantine-Robust Federated Learning",
+    "authors": [
+      "Minghong Fang",
+      "Xiaoyu Cao",
+      "Jinyuan Jia",
+      "N. Gong"
+    ],
+    "publication_date": "2019-11-26",
+    "venue": "USENIX Security Symposium",
+    "semantic_scholar_id": "0a1574ce29eec463bd3e0b50b82157f3e5a1f81d",
+    "corpus_id": 208310035,
+    "category": "Computer Science"
+  },
+  "1911-07963": {
+    "title": "Can You Really Backdoor Federated Learning?",
+    "authors": [
+      "Ziteng Sun",
+      "P. Kairouz",
+      "A. Suresh",
+      "H. B. McMahan"
+    ],
+    "publication_date": "2019-11-18",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "fb4098dd30489715a7adc6a1f7839e283d1e37ee",
+    "corpus_id": 208157929,
+    "category": "Computer Science, Mathematics"
+  },
+  "1909-06335": {
+    "title": "Measuring the Effects of Non-Identical Data Distribution for Federated Visual Classification",
+    "authors": [
+      "T. Hsu",
+      "Qi",
+      "Matthew Brown"
+    ],
+    "publication_date": "2019-09-13",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "46d8c9e2dc9c12615eb5f6813d18f967d61c7e0d",
+    "corpus_id": 202572978,
+    "category": "Computer Science, Mathematics"
+  },
+  "1908-01763": {
+    "title": "TABOR: A Highly Accurate Approach to Inspecting and Restoring Trojan Backdoors in AI Systems",
+    "authors": [
+      "Wenbo Guo",
+      "Lun Wang",
+      "Xinyu Xing",
+      "Min Du",
+      "D. Song"
+    ],
+    "publication_date": "2019-08-02",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "02ef95dcbd75d3ef9ec0e1b64528dca4092d48d8",
+    "corpus_id": 199452956,
+    "category": "Computer Science"
+  },
+  "1807-00459": {
+    "title": "How To Backdoor Federated Learning",
+    "authors": [
+      "Eugene Bagdasarian",
+      "Andreas Veit",
+      "Yiqing Hua",
+      "D. Estrin",
+      "Vitaly Shmatikov"
+    ],
+    "publication_date": "2018-07-02",
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "semantic_scholar_id": "14d8b4fdb0262c30ae9afe20ea8e7227b115c63e",
+    "corpus_id": 49557410,
+    "category": "Computer Science"
+  },
+  "1803-01498": {
+    "title": "Byzantine-Robust Distributed Learning: Towards Optimal Statistical Rates",
+    "authors": [
+      "Dong Yin",
+      "Yudong Chen",
+      "K. Ramchandran",
+      "P. Bartlett"
+    ],
+    "publication_date": "2018-03-05",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "5ad1cfdc40f58c5ee078496312798f784fc80801",
+    "corpus_id": 3708326,
+    "category": "Computer Science, Mathematics"
+  },
+  "1712-05526": {
+    "title": "Targeted Backdoor Attacks on Deep Learning Systems Using Data Poisoning",
+    "authors": [
+      "Xinyun Chen",
+      "Chang Liu",
+      "Bo Li",
+      "Kimberly Lu",
+      "D. Song"
+    ],
+    "publication_date": "2017-12-15",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "cb4c2a2d7e50667914d1a648f1a9134056724780",
+    "corpus_id": 36122023,
+    "category": "Computer Science"
+  },
+  "1708-06733": {
+    "title": "BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain",
+    "authors": [
+      "Tianyu Gu",
+      "Brendan Dolan-Gavitt",
+      "S. Garg"
+    ],
+    "publication_date": "2017-08-22",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "573fd2ce97c70bb29097e8efb28a27af791225ca",
+    "corpus_id": 26783139,
+    "category": "Computer Science"
+  },
+  "1608-04644": {
+    "title": "Towards Evaluating the Robustness of Neural Networks",
+    "authors": [
+      "Nicholas Carlini",
+      "D. Wagner"
+    ],
+    "publication_date": "2016-08-16",
+    "venue": "IEEE Symposium on Security and Privacy",
+    "semantic_scholar_id": "df40ce107a71b770c9d0354b78fdd8989da80d2f",
+    "corpus_id": 2893830,
+    "category": "Computer Science"
+  },
+  "1602-05629": {
+    "title": "Communication-Efficient Learning of Deep Networks from Decentralized Data",
+    "authors": [
+      "H. B. McMahan",
+      "Eider Moore",
+      "Daniel Ramage",
+      "S. Hampson",
+      "B. A. Y. Arcas"
+    ],
+    "publication_date": "2016-02-17",
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "semantic_scholar_id": "d1dbf643447405984eeef098b1b320dee0b3b8a7",
+    "corpus_id": 14955348,
+    "category": "Computer Science"
+  },
+  "1512-03385": {
+    "title": "Deep Residual Learning for Image Recognition",
+    "authors": [
+      "Kaiming He",
+      "X. Zhang",
+      "Shaoqing Ren",
+      "Jian Sun"
+    ],
+    "publication_date": "2015-12-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+    "corpus_id": 206594692,
+    "category": "Computer Science"
+  },
+  "1503-02531": {
+    "title": "Distilling the Knowledge in a Neural Network",
+    "authors": [
+      "Geoffrey E. Hinton",
+      "O. Vinyals",
+      "J. Dean"
+    ],
+    "publication_date": "2015-03-09",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "0c908739fbff75f03469d13d4a1a07de3414ee19",
+    "corpus_id": 7200347,
+    "category": "Mathematics, Computer Science"
+  },
+  "1412-6980": {
+    "title": "Adam: A Method for Stochastic Optimization",
+    "authors": [
+      "Diederik P. Kingma",
+      "Jimmy Ba"
+    ],
+    "publication_date": "2014-12-22",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "a6cb366736791bcccc5c8639de5a8f9636bf87e8",
+    "corpus_id": 6628106,
+    "category": "Mathematics, Computer Science"
+  },
+  "1412-6572": {
+    "title": "Explaining and Harnessing Adversarial Examples",
+    "authors": [
+      "I. Goodfellow",
+      "Jonathon Shlens",
+      "Christian Szegedy"
+    ],
+    "publication_date": "2014-12-19",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "bee044c8e8903fb67523c1f8c105ab4718600cdb",
+    "corpus_id": 6706414,
+    "category": "Computer Science, Mathematics"
+  },
+  "1312-6199": {
+    "title": "Intriguing properties of neural networks",
+    "authors": [
+      "Christian Szegedy",
+      "Wojciech Zaremba",
+      "I. Sutskever",
+      "Joan Bruna",
+      "D. Erhan",
+      "I. Goodfellow",
+      "R. Fergus"
+    ],
+    "publication_date": "2013-12-20",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "d891dc72cbd40ffaeefdc79f2e7afe1e530a23ad",
+    "corpus_id": 604334,
+    "category": "Computer Science"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Forecasting Application Counts in Talent Acquisition Platforms: Harnessing Multimodal Signals using LMs",
+  "authors": [
+    "Md Ahsanul Kabir",
+    "Kareem Abdelfatah",
+    "Shushan He",
+    "Mohammed Korayem",
+    "Mohammad Al Hasan"
+  ],
+  "summary": "As recruitment and talent acquisition have become more and more competitive, recruitment firms have become more sophisticated in using machine learning (ML) methodologies for optimizing their day to day activities. But, most of published ML based methodologies in this area have been limited to the tasks like candidate matching, job to skill matching, job classification and normalization. In this work, we discuss a novel task in the recruitment domain, namely, application count forecasting, motivation of which comes from designing of effective outreach activities to attract qualified applicants. We show that existing auto-regressive based time series forecasting methods perform poorly for this task. Henceforth, we propose a multimodal LM-based model which fuses job-posting metadata of various modalities through a simple encoder. Experiments from large real-life datasets from CareerBuilder LLC show the effectiveness of the proposed method over existing state-of-the-art methods.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI"
+}

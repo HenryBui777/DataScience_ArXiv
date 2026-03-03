@@ -1,0 +1,14 @@
+{
+  "title": "A Data-Driven Pool Strategy for Price-Makers Under Imperfect Information",
+  "authors": [
+    "Kedi Zheng",
+    "Hongye Guo",
+    "Qixin Chen"
+  ],
+  "summary": "This paper studies the pool strategy for price-makers under imperfect information. In this occasion, market participants cannot obtain essential transmission parameters of the power system. Thus, price-makers should estimate the market results with respect to their offer curves using available historical information. The linear programming model of economic dispatch is analyzed with the theory of rim multi-parametric linear programming (rim-MPLP). The characteristics of system patterns (combinations of status flags for generating units and transmission lines) are revealed. A multi-class classification model based on support vector machine (SVM) is trained to map the offer curves to system patterns, which is then integrated into the decision framework of the price-maker. The performance of the proposed method is validated on the IEEE 30-bus system, Illinois synthetic 200-bus system, and South Carolina synthetic 500-bus system.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "IEEE Transactions on Power Systems, vol. 38, no. 1, pp. 278-289, Jan. 2023",
+  "pdf_url": null,
+  "category": "eess.SY, cs.LG"
+}

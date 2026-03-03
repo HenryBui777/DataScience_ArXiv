@@ -1,0 +1,16 @@
+{
+  "title": "Universal solution to the Schrieffer-Wolff Transformation Generator",
+  "authors": [
+    "Leander Reascos",
+    "Giovanni Francesco Diotallevi",
+    "Mónica Benito"
+  ],
+  "summary": "The Schrieffer-Wolff transformation (SWT) is an important perturbative method in quantum mechanics used to simplify Hamiltonians by decoupling low- and high-energy subspaces. Existing methods for implementing the SWT often lack general applicability to arbitrary perturbative systems or fail to provide a closed-form solution for the SWT generator. In this article, we present a systematic and unified framework for the SWT that addresses these shortcomings. Specifically, we derive a closed-form solution for the SWT generator that is universally applicable to any system that satisfies the conditions required for perturbative treatment. Furthermore, we extend this solution to time-dependent systems with periodic perturbations, covering all frequency regimes. The effectiveness of this approach is then demonstrated by applying it to analyze the dispersive shift of an anharmonic resonator coupled to a two-level system with time-dependent coupling.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-06-18"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, cond-mat.other"
+}

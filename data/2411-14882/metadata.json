@@ -1,0 +1,16 @@
+{
+  "title": "On Temporal Decay of Compressible Hookean Viscoelastic Fluids with Relatively Large Elasticity Coefficient",
+  "authors": [
+    "Shengbin Fu",
+    "Wenting Huang",
+    "Fei Jiang"
+  ],
+  "summary": "Recently, Jiang--Jiang (J. Differential Equations 282, 2021) showed the existence of unique strong solutions in spatial periodic domain (denoted by $\\mathbb{T}^3$), whenever the elasticity coefficient is larger than the initial velocity perturbation of the rest state. Motivated by Jiang--Jiang's result, we revisit the Cauchy problem of the compressible viscoelastic fluids in Lagrangian coordinates. Employing an energy method with temporal weights and an additional asymptotic stability condition of initial density in Lagrangian coordinates, we extend the Jiang--Jiang's result with exponential decay-in-time in $\\mathbb{T}^3$ to the one with algebraic decay-in-time in the whole space $\\mathbb{R}^3$. Thanks to the algebraic decay of solutions established by the energy method with temporal weights, we can further use the spectral analysis to improve the temporal decay rate of solutions. In particular, we find that the $k$-th order spatial derivatives of both the density and deformation perturbations converge to zero in $L^2(\\mathbb{R}^3)$ at a rate of $(1+t)^{-\\frac{3}{4}-\\frac{k+1}{2}}$, which is faster than the decay rate $(1 +t)^{-\\frac{3}{4}-\\frac{k}{2}}$ obtained by Hu--Wu (SIAM J. Math. Anal. 45, 2013) for $k=0$ and $ 1$. In addition, it's well-known that the decay rate $(1+t)^{-\\frac{3}{4}-\\frac{k}{2}}$ of the density perturbation is optimal in the compressible Navier--Stokes equations (A.~Matsumura, T.~Nishida, Proc. Jpn. Acad. Ser-A. 55, 1979). Therefore, our faster temporal decay rates indicate that the elasticity accelerates the decay of the density perturbation after the rest state of a compressible viscoelastic fluid being perturbed.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-11-26"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AP, math.DS"
+}

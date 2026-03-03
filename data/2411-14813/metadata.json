@@ -1,0 +1,15 @@
+{
+  "title": "Lifting independence along functors",
+  "authors": [
+    "Mark Kamsma",
+    "Jiří Rosický"
+  ],
+  "summary": "Given a functor $F: \\mathcal{C} \\to \\mathcal{D}$ and a model-theoretic independence relation on $\\mathcal{D}$, we can lift that independence relation along $F$ to $\\mathcal{C}$ by declaring a commuting square in $\\mathcal{C}$ to be independent if its image under $F$ is independent. For each property that an independence relation can have we give assumptions on the functor that guarantee the property to be lifted.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-09-01"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.CT, math.LO"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Two models of sparse and clustered dynamic networks",
+  "authors": [
+    "Mindaugas Bloznelis",
+    "Dominykas Marma"
+  ],
+  "summary": "We present two models of sparse dynamic networks that display transitivity - the tendency for vertices sharing a common neighbour to be neighbours of one another. Our first network is a continuous time Markov chain $G=\\{G_t=(V,E_t), t\\ge 0\\}$ whose states are graphs with the common vertex set $V=\\{1,\\dots, n\\}$. The transitions are defined as follows. Given $t$, the vertex pairs $\\{i,j\\}\\subset V$ are assigned independent exponential waiting times $A_{ij}$. At time $t+\\min_{ij} A_{ij}$ the pair $\\{i_0,j_0\\}$ with $A_{i_0j_0}=\\min_{ij} A_{ij}$ toggles its adjacency status. To mimic clustering patterns of sparse real networks we set intensities $a_{ij}$ of exponential times $A_{ij}$ to be negatively correlated with the degrees of the common neighbours of vertices $i$ and $j$ in $G_t$. Another dynamic network is based on a latent Markov chain $H=\\{H_t=(V\\cup W, E_t), t\\ge 0\\}$ whose states are bipartite graphs with the bipartition $V\\cup W$, where $W=\\{1,\\dots,m\\}$ is an auxiliary set of attributes/affiliations. Our second network $G'=\\{G'_t =(E'_t,V), t\\ge 0\\}$ is the affiliation network defined by $H$: vertices $i_1,i_2\\in V$ are adjacent in $G'_t$ whenever $i_1$ and $i_2$ have a common neighbour in $H_t$. We analyze geometric properties of both dynamic networks at stationarity and show that networks possess high clustering. They admit tunable degree distribution and clustering coefficients.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.PR, cs.SI"
+}

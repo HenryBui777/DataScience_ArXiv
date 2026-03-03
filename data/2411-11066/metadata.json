@@ -1,0 +1,15 @@
+{
+  "title": "TS-LLaVA: Constructing Visual Tokens through Thumbnail-and-Sampling for Training-Free Video Large Language Models",
+  "authors": [
+    "Tingyu Qu",
+    "Mingxiao Li",
+    "Tinne Tuytelaars",
+    "Marie-Francine Moens"
+  ],
+  "summary": "Recent advances in multimodal Large Language Models (LLMs) have shown great success in understanding multi-modal contents. For video understanding tasks, training-based video LLMs are difficult to build due to the scarcity of high-quality, curated video-text paired data. In contrast, paired image-text data are much easier to obtain, and there is substantial similarity between images and videos. Consequently, extending image LLMs for video understanding tasks presents an appealing alternative. Developing effective strategies for compressing visual tokens from multiple frames is a promising way to leverage the powerful pre-trained image LLM. In this work, we explore the limitations of the existing compression strategies for building a training-free video LLM. The findings lead to our method TS-LLaVA, which constructs visual tokens through a Thumbnail-and-Sampling strategy. Given a video, we select few equidistant frames from all input frames to construct a Thumbnail image as a detailed visual cue, complemented by Sampled visual tokens from all input frames. Our method establishes the new state-of-the-art performance among training-free video LLMs on various benchmarks. Notably, our 34B model outperforms GPT-4V on the MVBench benchmark, and achieves performance comparable to the 72B training-based video LLM, Video-LLaMA2, on the challenging MLVU benchmark. Code is available at https://github.com/tingyu215/TS-LLaVA.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

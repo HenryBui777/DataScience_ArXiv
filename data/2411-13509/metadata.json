@@ -1,0 +1,15 @@
+{
+  "title": "Degenerate quantum erasure decoding",
+  "authors": [
+    "Kao-Yueh Kuo",
+    "Yingkai Ouyang"
+  ],
+  "summary": "Erasures are the primary type of errors in physical systems dominated by leakage errors. While quantum error correction (QEC) using stabilizer codes can combat erasure errors, it remains unknown which constructions achieve capacity performance. If such codes exist, decoders with linear runtime in the code length are also desired. In this paper, we present erasure capacity-achieving quantum codes under maximum-likelihood decoding (MLD), though MLD requires cubic runtime in the code length. For QEC, using an accurate decoder with the shortest possible runtime will minimize the degradation of quantum information while awaiting the decoder's decision. To address this, we propose belief propagation (BP) decoders that run in linear time and exploit error degeneracy in stabilizer codes, achieving capacity or near-capacity performance for a broad class of codes, including bicycle codes, product codes, and topological codes. We furthermore explore the potential of our BP decoders to handle mixed erasure and depolarizing errors, and also local deletion errors via concatenation with permutation invariant codes.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-03-29"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, cs.IT"
+}

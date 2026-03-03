@@ -1,0 +1,15 @@
+{
+  "title": "Electrostatic Force Regularization for Neural Structured Pruning",
+  "authors": [
+    "Abdesselam Ferdi",
+    "Abdelmalik Taleb-Ahmed",
+    "Amir Nakib",
+    "Youcef Ferdi"
+  ],
+  "summary": "The demand for deploying deep convolutional neural networks (DCNNs) on resource-constrained devices for real-time applications remains substantial. However, existing state-of-the-art structured pruning methods often involve intricate implementations, require modifications to the original network architectures, and necessitate an extensive fine-tuning phase. To overcome these challenges, we propose a novel method that, for the first time, incorporates the concepts of charge and electrostatic force from physics into the training process of DCNNs. The magnitude of this force is directly proportional to the product of the charges of the convolution filter and the source filter, and inversely proportional to the square of the distance between them. We applied this electrostatic-like force to the convolution filters, either attracting filters with opposite charges toward non-zero weights or repelling filters with like charges toward zero weights. Consequently, filters subject to repulsive forces have their weights reduced to zero, enabling their removal, while the attractive forces preserve filters with significant weights that retain information. Unlike conventional methods, our approach is straightforward to implement, does not require any architectural modifications, and simultaneously optimizes weights and ranks filter importance, all without the need for extensive fine-tuning. We validated the efficacy of our method on modern DCNN architectures using the MNIST, CIFAR, and ImageNet datasets, achieving competitive performance compared to existing structured pruning approaches.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

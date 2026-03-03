@@ -1,0 +1,13 @@
+{
+  "title": "Active Subsampling for Measurement-Constrained M-Estimation of Individualized Thresholds with High-Dimensional Data",
+  "authors": [
+    "Jingyi Duan",
+    "Yang Ning"
+  ],
+  "summary": "In the measurement-constrained problems, despite the availability of large datasets, we may be only affordable to observe the labels on a small portion of the large dataset. This poses a critical question that which data points are most beneficial to label given a budget constraint. In this paper, we focus on the estimation of the optimal individualized threshold in a measurement-constrained M-estimation framework. Our goal is to estimate a high-dimensional parameter $θ$ in a linear threshold $θ^T Z$ for a continuous variable $X$ such that the discrepancy between whether $X$ exceeds the threshold $θ^T Z$ and a binary outcome $Y$ is minimized. We propose a novel $K$-step active subsampling algorithm to estimate $θ$, which iteratively samples the most informative observations and solves a regularized M-estimator. The theoretical properties of our estimator demonstrate a phase transition phenomenon with respect to $β\\geq 1$, the smoothness of the conditional density of $X$ given $Y$ and $Z$. For $β>(1+\\sqrt{3})/2$, we show that the two-step algorithm yields an estimator with the parametric convergence rate $O_p((s \\log d /N)^{1/2})$ in $l_2$ norm. The rate of our estimator is strictly faster than the minimax optimal rate with $N$ i.i.d. samples drawn from the population. For the other two scenarios $1<β\\leq (1+\\sqrt{3})/2$ and $β=1$, the estimator from the two-step algorithm is sub-optimal. The former requires to run $K>2$ steps to attain the same parametric rate, whereas in the latter case only a near parametric rate can be obtained. Furthermore, we formulate a minimax framework for the measurement-constrained M-estimation problem and prove that our estimator is minimax rate optimal up to a logarithmic factor. Finally, we demonstrate the performance of our method in simulation studies and apply the method to analyze a large diabetes dataset.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.ST, stat.ME, stat.ML"
+}

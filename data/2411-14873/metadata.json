@@ -1,0 +1,15 @@
+{
+  "title": "Implementation of Real-Time Lane Detection on Autonomous Mobile Robot",
+  "authors": [
+    "Midriem Mirdanies",
+    "Roni Permana Saputra",
+    "Edwar Yazid",
+    "Rozeha A. Rashid"
+  ],
+  "summary": "This paper describes the implementation of a learning-based lane detection algorithm on an Autonomous Mobile Robot. It aims to implement the Ultra Fast Lane Detection algorithm for real-time application on the SEATER P2MC-BRIN prototype using a camera and optimize its performance on the Jetson Nano platform. Preliminary experiments were conducted to evaluate the algorithm's performance in terms of data processing speed and accuracy using two types of datasets: outdoor using a public dataset and indoor using an internal dataset from the indoor area of the BRIN Workshop Building in Bandung. The experiments revealed that the algorithm runs more optimally on the Jetson Nano platform after conversion to TensorRT compared to the ONNX model, achieving processing speeds of approximately 101 ms using CULane and 105 ms using TuSimple, which is about 22 times faster than the previous model. While the algorithm demonstrates good accuracy on the outdoor public dataset, its performance falls short on the indoor dataset. Future work should focus on transfer learning and fine-tuning to enhance indoor lane detection accuracy.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "2024 IEEE International Conference on Advanced Telecommunication and Networking Technologies (ATNT)",
+  "pdf_url": null,
+  "category": "cs.RO, cs.CV"
+}

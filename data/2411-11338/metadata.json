@@ -1,0 +1,14 @@
+{
+  "title": "Pricing Filtering in Dantzig-Wolfe Decomposition",
+  "authors": [
+    "Abdellah Bulaich Mehamdi",
+    "Mathieu Lacroix",
+    "Sébastien Martin"
+  ],
+  "summary": "Column generation is used alongside Dantzig-Wolfe Decomposition, especially for linear programs having a decomposable pricing step requiring to solve numerous independent pricing subproblems. We propose a filtering method to detect which pricing subproblems may have improving columns, and only those subproblems are solved during pricing. This filtering is done by providing light, computable bounds using dual information from previous iterations of the column generation. The experiments show a significant impact on different combinatorial optimization problems.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DM"
+}

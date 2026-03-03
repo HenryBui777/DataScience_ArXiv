@@ -1,0 +1,16 @@
+{
+  "title": "Improved Upper Bounds on Key Invariants of Erdős-Rényi Numerical Semigroups",
+  "authors": [
+    "Tristram Bogart",
+    "Santiago Morales"
+  ],
+  "summary": "De Loera, O'Neill and Wilburne introduced a general model for random numerical semigroups in which each positive integer is chosen independently with some probability p to be a generator, and proved upper and lower bounds on the expected Frobenius number and expected embedding dimensions. We use a range of probabilistic methods to improve the upper bounds to within a polylogarithmic factor of the lower bounds in each case. As one of the tools to do this, we prove that for any prime q, if A is a random subset of the cyclic group Z_q whose size is of order log(q) and k is also of order log(q), then with high probability the k-fold sumset kA is all of Z_q.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-01-22",
+    "2025-07-21"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AC, math.CO, math.NT"
+}

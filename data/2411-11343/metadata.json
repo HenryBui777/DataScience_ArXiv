@@ -1,0 +1,17 @@
+{
+  "title": "Teaching Video Diffusion Model with Latent Physical Phenomenon Knowledge",
+  "authors": [
+    "Qinglong Cao",
+    "Ding Wang",
+    "Xirui Li",
+    "Yuntian Chen",
+    "Chao Ma",
+    "Xiaokang Yang"
+  ],
+  "summary": "Video diffusion models have exhibited tremendous progress in various video generation tasks. However, existing models struggle to capture latent physical knowledge, failing to infer physical phenomena that are challenging to articulate with natural language. Generating videos following the fundamental physical laws is still an opening challenge. To address this challenge, we propose a novel method to teach video diffusion models with latent physical phenomenon knowledge, enabling the accurate generation of physically informed phenomena. Specifically, we first pretrain Masked Autoencoders (MAE) to reconstruct the physical phenomena, resulting in output embeddings that encapsulate latent physical phenomenon knowledge. Leveraging these embeddings, we could generate the pseudo-language prompt features based on the aligned spatial relationships between CLIP vision and language encoders. Particularly, given that diffusion models typically use CLIP's language encoder for text prompt embeddings, our approach integrates the CLIP visual features informed by latent physical knowledge into a quaternion hidden space. This enables the modeling of spatial relationships to produce physical knowledge-informed pseudo-language prompts. By incorporating these prompt features and fine-tuning the video diffusion model in a parameter-efficient manner, the physical knowledge-informed videos are successfully generated. We validate our method extensively through both numerical simulations and real-world observations of physical phenomena, demonstrating its remarkable performance across diverse scenarios.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, stat.AP"
+}

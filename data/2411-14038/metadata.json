@@ -1,0 +1,19 @@
+{
+  "title": "Minimum Monotone Spanning Trees",
+  "authors": [
+    "Emilio Di Giacomo",
+    "Walter Didimo",
+    "Eleni Katsanou",
+    "Lena Schlipf",
+    "Antonios Symvonis",
+    "Alexander Wolff"
+  ],
+  "summary": "Computing a Euclidean minimum spanning tree of a set of points is a seminal problem in computational geometry and geometric graph theory. We combine it with another classical problem in graph drawing, namely computing a monotone geometric representation of a given graph. More formally, given a finite set $S$ of points in the plane and a finite set $\\cal D$ of directions, a geometric spanning tree $T$ with vertex set $S$ is ${\\cal D}$-monotone if, for every pair $\\{u,v\\}$ of vertices of $T$, there exists a direction $d \\in \\cal D$ for which the unique path from $u$ to $v$ in $T$ is monotone with respect to $d$. We provide a characterization of ${\\cal D}$-monotone spanning trees. Based on it, we show that a ${\\cal D}$-monotone spanning tree of minimum length can be computed in polynomial time if the number $k=|{\\cal D}|$ of directions is fixed, both when (i) the set ${\\cal D}$ of directions is prescribed and when (ii) the objective is to find a minimum-length ${\\cal D}$-monotone spanning tree over all sets ${\\cal D}$ of $k$ directions. For $k = 2$, we describe algorithms that are much faster than those for the general case. Furthermore, in contrast to the classical Euclidean minimum spanning tree, whose vertex degree is at most six, we show that for every even integer $k$, there exists a point set $S_k$ and a set $\\cal D$ of $k$ directions such that any minimum-length $\\cal D$-monotone spanning tree of $S_k$ has maximum vertex degree $2k$.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-23"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CG"
+}

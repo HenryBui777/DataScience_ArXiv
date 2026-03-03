@@ -1,0 +1,17 @@
+{
+  "title": "A Multi-Layer Blockchain Simulator and Performance Evaluation of Social Internet of Vehicles with Multi-Connectivity Management",
+  "authors": [
+    "Yi-Ting Sun",
+    "Hsin-Chieh Lee",
+    "Yun-Chen Yu",
+    "Ting-Feng Wu",
+    "Ibrahim Althamary",
+    "Chih-Wei Huang"
+  ],
+  "summary": "The evolution of vehicle-to-everything (V2X) communication brings significant challenges, such as data integrity and vulnerabilities stemming from centralized management. This paper presents an innovative integration of decentralized blockchain technology with V2X communication through a multi-layered architecture that combines the Simulation of Urban Mobility (SUMO) traffic simulator and the BlockSim blockchain simulator. In addition, as the Social Internet of Vehicles (SIoV) emerges, efficient resource management becomes indispensable for ensuring seamless communication. We also propose a reference multi-connectivity management method named Enhanced MAX-SINR, designed to advance research in blockchain-specific approaches, taking into account retransmission successfull rates. We evaluate blockchain performance in diverse environments such as urban, suburban, and rural areas, demonstrating that enhancing the success rate of retransmitted blockchain-related messages significantly boosts blockchain transaction performance and provides a foundation for developing intelligent SIoV systems.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.NI"
+}

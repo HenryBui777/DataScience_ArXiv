@@ -1,0 +1,19 @@
+{
+  "title": "PR-ENDO: Physically Based Relightable Gaussian Splatting for Endoscopy",
+  "authors": [
+    "Joanna Kaleta",
+    "Weronika Smolak-Dyżewska",
+    "Dawid Malarz",
+    "Diego Dall'Alba",
+    "Przemysław Korzeniowski",
+    "Przemysław Spurek"
+  ],
+  "summary": "Endoluminal endoscopic procedures are essential for diagnosing colorectal cancer and other severe conditions in the digestive tract, urogenital system, and airways. 3D reconstruction and novel-view synthesis from endoscopic images are promising tools for enhancing diagnosis. Moreover, integrating physiological deformations and interaction with the endoscope enables the development of simulation tools from real video data. However, constrained camera trajectories and view-dependent lighting create artifacts, leading to inaccurate or overfitted reconstructions. We present PR-ENDO, a novel 3D reconstruction framework leveraging the unique property of endoscopic imaging, where a single light source is closely aligned with the camera. Our method separates light effects from tissue properties. PR-ENDO enhances 3D Gaussian Splatting with a physically based relightable model. We boost the traditional light transport formulation with a specialized MLP capturing complex light-related effects while ensuring reduced artifacts and better generalization across novel views. PR-ENDO achieves superior reconstruction quality compared to baseline methods on both public and in-house datasets. Unlike existing approaches, PR-ENDO enables tissue modifications while preserving a physically accurate response to light, making it closer to real-world clinical use.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-07-09"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

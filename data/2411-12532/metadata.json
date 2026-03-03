@@ -1,0 +1,15 @@
+{
+  "title": "Towards a unified theory for testing statistical hypothesis: Multinormal mean with nuisance covariance matrix",
+  "authors": [
+    "Ming-Tien Tsai"
+  ],
+  "summary": "Under a multinormal distribution with an arbitrary unknown covariance matrix, the main purpose of this paper is to propose a framework to achieve the goal of reconciliation of Bayesian, frequentist, and Fisher's reporting $p$-values, Neyman-Pearson's optimal theory and Wald's decision theory for the problems of testing mean against restricted alternatives (closed convex cones). To proceed, the tests constructed via the likelihood ratio (LR) and the union-intersection (UI) principles are studied. For the problems of testing against restricted alternatives, first, we show that the LRT and the UIT are not the proper Bayes tests, however, they are shown to be the integrated LRT and the integrated UIT, respectively. For the problem of testing against the positive orthant space alternative, both the null distributions of the LRT and the UIT depend on the unknown nuisance covariance matrix. Hence we have difficulty adopting Fisher's approach to reporting $p$-values. On the other hand, according to the definition of the level of significance, both the LRT and the UIT are shown to be power-dominated by the corresponding LRT and UIT for testing against the half-space alternative, respectively. Hence, both the LRT and the UIT are $α$-inadmissible, these results are against the common statistical sense. Neither Fisher's approach of reporting $p$-values alone nor Neyman-Pearson's optimal theory for power function alone is a satisfactory criterion for evaluating the performance of tests. Wald's decision theory via $d$-admissibility may shed light on resolving these challenging issues of imposing the balance between type 1 error and power.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-30",
+    "2024-12-07"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.ST"
+}

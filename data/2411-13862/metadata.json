@@ -1,0 +1,20 @@
+{
+  "title": "Image Compression Using Novel View Synthesis Priors",
+  "authors": [
+    "Luyuan Peng",
+    "Mandar Chitre",
+    "Hari Vishnu",
+    "Yuen Min Too",
+    "Bharath Kalyan",
+    "Rajat Mishra",
+    "Soo Pieng Tan"
+  ],
+  "summary": "Real-time visual feedback is essential for tetherless control of remotely operated vehicles, particularly during inspection and manipulation tasks. Though acoustic communication is the preferred choice for medium-range communication underwater, its limited bandwidth renders it impractical to transmit images or videos in real-time. To address this, we propose a model-based image compression technique that leverages prior mission information. Our approach employs trained machine-learning based novel view synthesis models, and uses gradient descent optimization to refine latent representations to help generate compressible differences between camera images and rendered images. We evaluate the proposed compression technique using a dataset from an artificial ocean basin, demonstrating superior compression ratios and image quality over existing techniques. Moreover, our method exhibits robustness to introduction of new objects within the scene, highlighting its potential for advancing tetherless remotely operated vehicle operations.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-27"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.CV, cs.RO"
+}

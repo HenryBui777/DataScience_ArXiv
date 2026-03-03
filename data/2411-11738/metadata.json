@@ -1,0 +1,18 @@
+{
+  "title": "WoodYOLO: A Novel Object Detector for Wood Species Detection in Microscopic Images",
+  "authors": [
+    "Lars Nieradzik",
+    "Henrike Stephani",
+    "Jördis Sieburg-Rockel",
+    "Stephanie Helmling",
+    "Andrea Olbrich",
+    "Stephanie Wrage",
+    "Janis Keuper"
+  ],
+  "summary": "Wood species identification plays a crucial role in various industries, from ensuring the legality of timber products to advancing ecological conservation efforts. This paper introduces WoodYOLO, a novel object detection algorithm specifically designed for microscopic wood fiber analysis. Our approach adapts the YOLO architecture to address the challenges posed by large, high-resolution microscopy images and the need for high recall in localization of the cell type of interest (vessel elements). Our results show that WoodYOLO significantly outperforms state-of-the-art models, achieving performance gains of 12.9% and 6.5% in F2 score over YOLOv10 and YOLOv7, respectively. This improvement in automated wood cell type localization capabilities contributes to enhancing regulatory compliance, supporting sustainable forestry practices, and promoting biodiversity conservation efforts globally.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI"
+}

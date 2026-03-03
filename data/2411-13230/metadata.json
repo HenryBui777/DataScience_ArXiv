@@ -1,0 +1,15 @@
+{
+  "title": "OceanLens: An Adaptive Backscatter and Edge Correction using Deep Learning Model for Enhanced Underwater Imaging",
+  "authors": [
+    "Rajini Makam",
+    "Dhatri Shankari T M",
+    "Sharanya Patil",
+    "Suresh Sundram"
+  ],
+  "summary": "Underwater environments pose significant challenges due to the selective absorption and scattering of light by water, which affects image clarity, contrast, and color fidelity. To overcome these, we introduce OceanLens, a method that models underwater image physics-encompassing both backscatter and attenuation-using neural networks. Our model incorporates adaptive backscatter and edge correction losses, specifically Sobel and LoG losses, to manage image variance and luminance, resulting in clearer and more accurate outputs. Additionally, we demonstrate the relevance of pre-trained monocular depth estimation models for generating underwater depth maps. Our evaluation compares the performance of various loss functions against state-of-the-art methods using the SeeThru dataset, revealing significant improvements. Specifically, we observe an average of 65% reduction in Grayscale Patch Mean Angular Error (GPMAE) and a 60% increase in the Underwater Image Quality Metric (UIQM) compared to the SeeThru and DeepSeeColor methods. Further, the results were improved with additional convolution layers that capture subtle image details more effectively with OceanLens. This architecture is validated on the UIEB dataset, with model performance assessed using Peak Signal-to-Noise Ratio (PSNR) and Structural Similarity Index Measure (SSIM) metrics. OceanLens with multiple convolutional layers achieves up to 12-15% improvement in the SSIM.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV"
+}

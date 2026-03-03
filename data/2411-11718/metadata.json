@@ -1,0 +1,19 @@
+{
+  "title": "Distributed Maximum Flow in Planar Graphs",
+  "authors": [
+    "Yaseen Abd-Elhaleem",
+    "Michal Dory",
+    "Merav Parter",
+    "Oren Weimann"
+  ],
+  "summary": "The dual of a planar graph $G$ is a planar graph $G^*$ that has a vertex for each face of $G$ and an edge for each pair of adjacent faces of $G$. The profound relationship between a planar graph and its dual has been the algorithmic basis for solving numerous (centralized) classical problems on planar graphs. In the distributed setting however, the only use of planar duality is for finding a recursive decomposition of $G$ [DISC 2017, STOC 2019].\n  We extend the distributed algorithmic toolkit to work on the dual graph $G^*$. These tools can then facilitate various algorithms on $G$ by solving a suitable dual problem on $G^*$.\n  Given a directed planar graph $G$ with positive and negative edge-lengths and hop-diameter $D$, our key result is an $\\tilde{O}(D^2)$-round algorithm for Single Source Shortest Paths on $G^*$, which then implies $\\tilde{O}(D^2)$-round algorithms for Maximum $st$-Flow and Directed Global Min-Cut on $G$. Prior to our work, no $\\tilde{O}(\\text{poly}(D))$-round algorithm was known for those problems. We further obtain a $D\\cdot n^{o(1)}$-rounds $(1-ε)$-approximation algorithm for Maximum $st$-Flow on $G$ when $G$ is undirected and $st$-planar. Finally, we give a near optimal $\\tilde O(D)$-round algorithm for computing the weighted girth of $G$. The main challenges in our work are that $G^*$ is not the communication graph (e.g., a vertex of $G$ is mapped to multiple vertices of $G^*$), and that the diameter of $G^*$ can be much larger than $D$ (i.e., possibly by a linear factor). We overcome these challenges by carefully defining and maintaining subgraphs of the dual graph $G^*$ while applying the recursive decomposition on the primal graph $G$. The main technical difficulty, is that along the recursive decomposition, a face of $G$ gets shattered into (disconnected) components yet we still need to treat it as a dual node.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-04-23",
+    "2025-05-04",
+    "2025-10-22"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DC, cs.DS"
+}

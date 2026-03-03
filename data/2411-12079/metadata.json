@@ -1,0 +1,13 @@
+{
+  "title": "Sharp Poincare-Wirtinger inequalities on complete graphs",
+  "authors": [
+    "Cristian González-Riquelme",
+    "José Madrid"
+  ],
+  "summary": "Let $K_n=(V,E)$ be the complete graph with $n\\geq 3$ vertices (here $V$ and $E$ denote the set of vertices and edges of $K_n$ respectively). We find the optimal value ${\\bf{C}}_{n,p}$ such that the inequality $$\\|f-m_f\\|_p\\le {\\bf C}_{n,p}{\\rm Var}_{p}f$$ holds for every $f:V\\to \\mathbb{R},$ where ${\\rm Var}_p$ stands for the $p$-variation, and $m_f$ stands for the average value of $f$, for all $p\\in[1,3+δ^1_n)\\cup (3+δ^2_n,+\\infty)$, for $δ^1_n=\\frac{1}{2n^2\\log(n)}+O(1/n^3)$ and $δ^2_n=\\frac{2}{n}+O(1/n^2).$ Moreover, we characterize all the maximizer functions in that case. The behavior of the maximizers is different in each of the intervals $(1,2)$, $(2,3+δ^{1}_n)$ and $(3+δ^{2}_n,\\infty).$",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.CA, math.CO"
+}

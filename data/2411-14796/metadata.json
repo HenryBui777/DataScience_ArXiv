@@ -1,0 +1,19 @@
+{
+  "title": "Adaptive Hyper-Graph Convolution Network for Skeleton-based Human Action Recognition with Virtual Connections",
+  "authors": [
+    "Youwei Zhou",
+    "Tianyang Xu",
+    "Cong Wu",
+    "Xiaojun Wu",
+    "Josef Kittler"
+  ],
+  "summary": "The shared topology of human skeletons motivated the recent investigation of graph convolutional network (GCN) solutions for action recognition. However, most of the existing GCNs rely on the binary connection of two neighboring vertices (joints) formed by an edge (bone), overlooking the potential of constructing multi-vertex convolution structures. Although some studies have attempted to utilize hyper-graphs to represent the topology, they rely on a fixed construction strategy, which limits their adaptivity in uncovering the intricate latent relationships within the action. In this paper, we address this oversight and explore the merits of an adaptive hyper-graph convolutional network (Hyper-GCN) to achieve the aggregation of rich semantic information conveyed by skeleton vertices. In particular, our Hyper-GCN adaptively optimises the hyper-graphs during training, revealing the action-driven multi-vertex relations. Besides, virtual connections are often designed to support efficient feature aggregation, implicitly extending the spectrum of dependencies within the skeleton. By injecting virtual connections into hyper-graphs, the semantic clues of diverse action categories can be highlighted. The results of experiments conducted on the NTU-60, NTU-120, and NW-UCLA datasets demonstrate the merits of our Hyper-GCN, compared to the state-of-the-art methods. The code is available at https://github.com/6UOOON9/Hyper-GCN.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-03-09",
+    "2025-08-04"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.LG"
+}

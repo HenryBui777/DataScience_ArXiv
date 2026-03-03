@@ -1,0 +1,23 @@
+{
+  "title": "Aeos: Transport of Metals from Minihalos following Population III Stellar Feedback",
+  "authors": [
+    "Jennifer Mead",
+    "Kaley Brauer",
+    "Greg L. Bryan",
+    "Mordecai-Mark Mac Low",
+    "Alexander P. Ji",
+    "John H. Wise",
+    "Andrew Emerick",
+    "Eric P. Andersson",
+    "Anna Frebel",
+    "Benoit Côté"
+  ],
+  "summary": "We investigate how stellar feedback from the first stars (Population III) distributes metals through the interstellar and intergalactic medium using the star-by-star cosmological hydrodynamics simulation, Aeos. We find that energy injected from the supernovae of the first stars is enough to expel a majority of gas and injected metals beyond the virial radius of halos with mass $M_* \\lesssim 10^7$ M$_\\odot$, regardless of the number of supernovae. This prevents self-enrichment and results in a non-monotonic increase in metallicity at early times. Most minihalos ($M \\gtrsim 10^5 \\, \\rm M_\\odot$) do not retain significant fractions of the yields produced within their virial radii until they have grown to halo masses of $M \\gtrsim 10^7 \\, \\rm M_\\odot$. The loss of metals to regions well beyond the virial radius delays the onset of enriched star formation and extends the period that Population III star formation can persist. We also explore the contributions of different nucleosynthetic channels to 10 individual elements. On the timescale of the simulation (lowest redshift $z=14.3$), enrichment is dominated by core-collapse supernovae for all elements, but with a significant contribution from asymptotic giant branch winds to the s-process elements, which are normally thought to only be important at late times. In this work, we establish important mechanisms for early chemical enrichment which allows us to apply Aeos in later epochs to trace the evolution of enrichment during the complete transition from Population III to Population II stars.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-08-11"
+  ],
+  "publication_venue": "ApJ, 980 (2025) 62",
+  "pdf_url": null,
+  "category": "astro-ph.GA"
+}

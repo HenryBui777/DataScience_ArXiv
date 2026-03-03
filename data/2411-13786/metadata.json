@@ -1,0 +1,13 @@
+{
+  "title": "Adaptable Embeddings Network (AEN)",
+  "authors": [
+    "Stan Loosmore",
+    "Alexander Titus"
+  ],
+  "summary": "Modern day Language Models see extensive use in text classification, yet this comes at significant computational cost. Compute-effective classification models are needed for low-resource environments, most notably on edge devices. We introduce Adaptable Embeddings Networks (AEN), a novel dual-encoder architecture using Kernel Density Estimation (KDE). This architecture allows for runtime adaptation of classification criteria without retraining and is non-autoregressive. Through thorough synthetic data experimentation, we demonstrate our model outputs comparable and in certain cases superior results to that of autoregressive models an order of magnitude larger than AEN's size. The architecture's ability to preprocess and cache condition embeddings makes it ideal for edge computing applications and real-time monitoring systems.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.CL"
+}

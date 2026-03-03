@@ -1,0 +1,17 @@
+{
+  "title": "Error Analysis of Sum-Product Algorithms under Stochastic Rounding",
+  "authors": [
+    "Pablo de Oliveira Castro",
+    "El-Mehdi El Arar",
+    "Eric Petit",
+    "Devan Sohier"
+  ],
+  "summary": "The quality of numerical computations can be measured through their forward error, for which finding good error bounds is challenging in general. For several algorithms and using stochastic rounding (SR), probabilistic analysis has been shown to be an effective alternative for obtaining tight error bounds. This analysis considers the distribution of errors and evaluates the algorithm's performance on average. Using martingales and the Azuma-Hoeffding inequality, it provides error bounds that are valid with a certain probability and in O($\\sqrt$nu) instead of deterministic worst-case bounds in O(nu), where n is the number of operations and u is the unit roundoff. In this paper, we present a general method that automatically constructs a martingale for any computation scheme with multi-linear errors based on additions, subtractions, and multiplications. We apply this generalization to algorithms previously studied with SR, such as pairwise summation and the Horner algorithm, and prove equivalent results. We also analyze a previously unstudied algorithm, Karatsuba polynomial multiplication, which illustrates that the method can handle reused intermediate computations.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-08-28"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.CO, cs.DS, math.CA"
+}

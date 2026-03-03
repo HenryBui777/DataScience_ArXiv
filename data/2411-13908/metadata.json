@@ -1,0 +1,18 @@
+{
+  "title": "Hybrid Physics-ML Modeling for Marine Vehicle Maneuvering Motions in the Presence of Environmental Disturbances",
+  "authors": [
+    "Zihao Wang",
+    "Jian Cheng",
+    "Liang Xu",
+    "Lizhu Hao",
+    "Yan Peng"
+  ],
+  "summary": "A hybrid physics-machine learning modeling framework is proposed for the surface vehicles' maneuvering motions to address the modeling capability and stability in the presence of environmental disturbances. From a deep learning perspective, the framework is based on a variant version of residual networks with additional feature extraction. Initially, an imperfect physical model is derived and identified to capture the fundamental hydrodynamic characteristics of marine vehicles. This model is then integrated with a feedforward network through a residual block. Additionally, feature extraction from trigonometric transformations is employed in the machine learning component to account for the periodic influence of currents and waves. The proposed method is evaluated using real navigational data from the 'JH7500' unmanned surface vehicle. The results demonstrate the robust generalizability and accurate long-term prediction capabilities of the nonlinear dynamic model in specific environmental conditions. This approach has the potential to be extended and applied to develop a comprehensive high-fidelity simulator.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-03-26"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

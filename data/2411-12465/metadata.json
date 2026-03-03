@@ -1,0 +1,15 @@
+{
+  "title": "Itô, Stratonovich, and zoom-in schemes in stochastic inflation",
+  "authors": [
+    "Eemeli Tomberg"
+  ],
+  "summary": "The Itô and Stratonovich approaches are two ways to integrate stochastic differential equations. Detailed knowledge of the origin of the stochastic noise is needed to determine which approach suits a particular problem. I discuss this topic pedagogically in stochastic inflation, where the noise arises from a changing comoving coarse-graining scale or, equivalently, from `zooming in' into inflating space. I introduce a zoom-in scheme where deterministic evolution alternates with instantaneous zoom-in steps. I show that this alternating zoom-in scheme is equivalent to the Itô approach in the Markovian limit, while the Stratonovich approach doesn't have a similar interpretation. In the full non-Markovian setup, the difference vanishes. The framework of zoom-in schemes clarifies the relationship between computations in stochastic inflation, linear perturbation theory, and the classical $ΔN$ formalism. It informs the numerical implementation of stochastic inflation and is a building block for a first-principles derivation of the stochastic equations.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-12-05",
+    "2025-04-23"
+  ],
+  "publication_venue": "JCAP 04 (2025) 035",
+  "pdf_url": null,
+  "category": "astro-ph.CO, gr-qc, hep-th"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "A Control Lyapunov Function Approach to Event-Triggered Parameterized Control for Discrete-Time Linear Systems",
+  "authors": [
+    "Anusree Rajan",
+    "Kushagra Parmeshwar",
+    "Pavankumar Tallapragada"
+  ],
+  "summary": "This paper proposes an event-triggered parameterized control method using a control Lyapunov function approach for discrete time linear systems with external disturbances. In this control method, each control input to the plant is a linear combination of a fixed set of linearly independent scalar functions. The controller updates the coefficients of the parameterized control input in an event-triggered manner so as to minimize a quadratic cost function subject to quadratic constraints and communicates the same to the actuator. We design an event-triggering rule that guarantees global uniform ultimate boundedness of trajectories of the closed loop system and non-trivial inter-event times. We illustrate our results through numerical examples and we also compare the performance of the proposed control method with other existing control methods in the literature.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC, eess.SY"
+}

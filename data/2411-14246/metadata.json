@@ -1,0 +1,16 @@
+{
+  "title": "Simulation-Aided Policy Tuning for Black-Box Robot Learning",
+  "authors": [
+    "Shiming He",
+    "Alexander von Rohr",
+    "Dominik Baumann",
+    "Ji Xiang",
+    "Sebastian Trimpe"
+  ],
+  "summary": "How can robots learn and adapt to new tasks and situations with little data? Systematic exploration and simulation are crucial tools for efficient robot learning. We present a novel black-box policy search algorithm focused on data-efficient policy improvements. The algorithm learns directly on the robot and treats simulation as an additional information source to speed up the learning process. At the core of the algorithm, a probabilistic model learns the dependence of the policy parameters and the robot learning objective not only by performing experiments on the robot, but also by leveraging data from a simulator. This substantially reduces interaction time with the robot. Using this model, we can guarantee improvements with high probability for each policy update, thereby facilitating fast, goal-oriented learning. We evaluate our algorithm on simulated fine-tuning tasks and demonstrate the data-efficiency of the proposed dual-information source optimization algorithm. In a real robot learning experiment, we show fast and successful task learning on a robot manipulator with the aid of an imperfect simulator.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO, cs.LG, eess.SY"
+}

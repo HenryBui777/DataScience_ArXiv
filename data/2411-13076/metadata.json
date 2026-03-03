@@ -1,0 +1,20 @@
+{
+  "title": "Hints of Prompt: Enhancing Visual Representation for Multimodal LLMs in Autonomous Driving",
+  "authors": [
+    "Hao Zhou",
+    "Zhanning Gao",
+    "Zhili Chen",
+    "Maosheng Ye",
+    "Qifeng Chen",
+    "Tongyi Cao",
+    "Honggang Qi"
+  ],
+  "summary": "In light of the dynamic nature of autonomous driving environments and stringent safety requirements, general MLLMs combined with CLIP alone often struggle to accurately represent driving-specific scenarios, particularly in complex interactions and long-tail cases. To address this, we propose the Hints of Prompt (HoP) framework, which introduces three key enhancements: Affinity hint to emphasize instance-level structure by strengthening token-wise connections, Semantic hint to incorporate high-level information relevant to driving-specific cases, such as complex interactions among vehicles and traffic signs, and Question hint to align visual features with the query context, focusing on question-relevant regions. These hints are fused through a Hint Fusion module, enriching visual representations by capturing driving-related representations with limited domain data, ensuring faster adaptation to driving scenarios. Extensive experiments confirm the effectiveness of the HoP framework, showing that it significantly outperforms previous state-of-the-art methods in all key metrics.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-10-15"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

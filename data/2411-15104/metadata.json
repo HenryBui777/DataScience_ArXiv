@@ -1,0 +1,21 @@
+{
+  "title": "Noise-Aware Ensemble Learning for Efficient Radar Modulation Recognition",
+  "authors": [
+    "Do-Hyun Park",
+    "Min-Wook Jeon",
+    "Jinwoo Jeong",
+    "Isaac Sim",
+    "Sangbom Yun",
+    "Junghyun Seo",
+    "Hyoung-Nam Kim"
+  ],
+  "summary": "Electronic warfare support (ES) systems intercept adversary radar signals and estimate various types of signal information, including modulation schemes. The accurate and rapid identification of modulation schemes under conditions of very low signal power remains a significant challenge for ES systems. This paper proposes a recognition model based on a noise-aware ensemble learning (NAEL) framework to efficiently recognize radar modulation schemes in noisy environments. The NAEL framework evaluates the influence of noise on recognition and adaptively selects an appropriate neural network structure, offering significant advantages in terms of computational efficiency and recognition performance. We present the analysis results of the recognition performance of the proposed model based on experimental data. Our recognition model demonstrates superior recognition accuracy with low computational complexity compared to conventional classification models.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-12-07",
+    "2025-05-14"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP"
+}

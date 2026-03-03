@@ -1,0 +1,221 @@
+{
+  "2303-12914": {
+    "title": "TRON: Transformer Neural Network Acceleration with Non-Coherent Silicon Photonics",
+    "authors": [
+      "S. Afifi",
+      "Febin P. Sunny",
+      "Mahdi Nikdast",
+      "S. Pasricha"
+    ],
+    "publication_date": "2023-03-22",
+    "venue": "ACM Great Lakes Symposium on VLSI",
+    "semantic_scholar_id": "3d2b67d34b2cea6d8e58514e2c823abbbabf7f03",
+    "corpus_id": 257687599,
+    "category": "Computer Science"
+  },
+  "2303-07470": {
+    "title": "X-Former: In-Memory Acceleration of Transformers",
+    "authors": [
+      "Shrihari Sridharan",
+      "Jacob R. Stevens",
+      "K. Roy",
+      "A. Raghunathan"
+    ],
+    "publication_date": "2023-03-13",
+    "venue": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems",
+    "semantic_scholar_id": "bd5c24ec7d3c91648fb0beec6508a5302823f97b",
+    "corpus_id": 257505181,
+    "category": "Computer Science"
+  },
+  "2211-05109": {
+    "title": "ViTALiTy: Unifying Low-rank and Sparse Approximation for Vision Transformer Acceleration with a Linear Taylor Attention",
+    "authors": [
+      "Jyotikrishna Dass",
+      "Shang Wu",
+      "Huihong Shi",
+      "Chaojian Li",
+      "Zhifan Ye",
+      "Zhongfeng Wang",
+      "Yingyan Lin"
+    ],
+    "publication_date": "2022-11-09",
+    "venue": "International Symposium on High-Performance Computer Architecture",
+    "semantic_scholar_id": "9b069ba5259d229bfd4fe3ac3768148e2d1092f8",
+    "corpus_id": 253420713,
+    "category": "Computer Science"
+  },
+  "2208-03646": {
+    "title": "A length adaptive algorithm-hardware co-design of transformer on FPGA through sparse attention and dynamic pipelining",
+    "authors": [
+      "Hongwu Peng",
+      "Shaoyi Huang",
+      "Shiyang Chen",
+      "Bingbing Li",
+      "Tong Geng",
+      "Ang Li",
+      "Weiwen Jiang",
+      "Wujie Wen",
+      "J. Bi",
+      "Hang Liu",
+      "Caiwen Ding"
+    ],
+    "publication_date": "2022-07-10",
+    "venue": "Design Automation Conference",
+    "semantic_scholar_id": "0f1358b84f319947e20304edd42ec6fdd2d5de2c",
+    "corpus_id": 251403135,
+    "category": "Computer Science"
+  },
+  "2112-12433": {
+    "title": "Sparse-softmax: A Simpler and Faster Alternative Softmax Transformation",
+    "authors": [
+      "Shaoshi Sun",
+      "Zhenyuan Zhang",
+      "B. Huang",
+      "Pengbin Lei",
+      "Jianlin Su",
+      "Shengfeng Pan",
+      "Jiarun Cao"
+    ],
+    "publication_date": "2021-12-23",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "7e8d64ebb3d5bbcd96fdb0cec839c343cb70709a",
+    "corpus_id": 245424925,
+    "category": "Computer Science"
+  },
+  "2103-09301": {
+    "title": "Softermax: Hardware/Software Co-Design of an Efficient Softmax for Transformers",
+    "authors": [
+      "Jacob R. Stevens",
+      "Rangharajan Venkatesan",
+      "Steve Dai",
+      "Brucek Khailany",
+      "A. Raghunathan"
+    ],
+    "publication_date": "2021-03-16",
+    "venue": "Design Automation Conference",
+    "semantic_scholar_id": "b080ba53a471348e7e76234decdf14e730fea7db",
+    "corpus_id": 232257991,
+    "category": "Computer Science"
+  },
+  "2101-01321": {
+    "title": "I-BERT: Integer-only BERT Quantization",
+    "authors": [
+      "Sehoon Kim",
+      "A. Gholami",
+      "Z. Yao",
+      "Michael W. Mahoney",
+      "K. Keutzer"
+    ],
+    "publication_date": "2021-01-05",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "d06bda5e759c8e8569754d8f7235cf1a9a1e9985",
+    "corpus_id": 230523998,
+    "category": "Computer Science, Mathematics"
+  },
+  "2012-09852": {
+    "title": "SpAtten: Efficient Sparse Attention Architecture with Cascade Token and Head Pruning",
+    "authors": [
+      "Hanrui Wang",
+      "Zhekai Zhang",
+      "Song Han"
+    ],
+    "publication_date": "2020-12-17",
+    "venue": "International Symposium on High-Performance Computer Architecture",
+    "semantic_scholar_id": "73e0f38ab49b19b86321016b773e15f1d02e3a72",
+    "corpus_id": 229298088,
+    "category": "Computer Science"
+  },
+  "2010-11929": {
+    "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+    "authors": [
+      "Alexey Dosovitskiy",
+      "Lucas Beyer",
+      "Alexander Kolesnikov",
+      "Dirk Weissenborn",
+      "Xiaohua Zhai",
+      "Thomas Unterthiner",
+      "Mostafa Dehghani",
+      "M. Minderer",
+      "G. Heigold",
+      "S. Gelly",
+      "Jakob Uszkoreit",
+      "N. Houlsby"
+    ],
+    "publication_date": "2020-10-22",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "268d347e8a55b5eb82fb5e7d2f800e33c75ab18a",
+    "corpus_id": 225039882,
+    "category": "Computer Science"
+  },
+  "2003-06471": {
+    "title": "DNN+NeuroSim V2.0: An End-to-End Benchmarking Framework for Compute-in-Memory Accelerators for On-Chip Training",
+    "authors": [
+      "Xiaochen Peng",
+      "Shanshi Huang",
+      "Hongwu Jiang",
+      "A. Lu",
+      "Shimeng Yu"
+    ],
+    "publication_date": "2020-03-13",
+    "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "semantic_scholar_id": "8de446ad3bc957a86f3b76369a1020acb360bdf7",
+    "corpus_id": 212725374,
+    "category": "Computer Science"
+  },
+  "1807-00343": {
+    "title": "Xcel-RAM: Accelerating Binary Neural Networks in High-Throughput SRAM Compute Arrays",
+    "authors": [
+      "Amogh Agrawal",
+      "Akhilesh R. Jaiswal",
+      "Deboleena Roy",
+      "Bing Han",
+      "Gopalakrishnan Srinivasan",
+      "Aayush Ankit",
+      "K. Roy"
+    ],
+    "publication_date": "2018-07-01",
+    "venue": "IEEE Transactions on Circuits and Systems Part 1: Regular Papers",
+    "semantic_scholar_id": "704bf21bb25e5d460fa5a1101568a764b1bd9ed5",
+    "corpus_id": 49559453,
+    "category": "Computer Science"
+  },
+  "1602-02068": {
+    "title": "From Softmax to Sparsemax: A Sparse Model of Attention and Multi-Label Classification",
+    "authors": [
+      "André F. T. Martins",
+      "Ramón Fernández Astudillo"
+    ],
+    "publication_date": "2016-02-05",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "c1e3a26fb88c6720f4e84b7118e6f2df7dc8efa3",
+    "corpus_id": 16432551,
+    "category": "Computer Science, Mathematics"
+  },
+  "1512-00486": {
+    "title": "Loss Functions for Top-k Error: Analysis and Insights",
+    "authors": [
+      "Maksim Lapin",
+      "Matthias Hein",
+      "B. Schiele"
+    ],
+    "publication_date": "2015-12-01",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "d26eb1b1ba7813dceaf871e4916e422f7cf7430d",
+    "corpus_id": 9657031,
+    "category": "Computer Science, Mathematics"
+  },
+  "1810-04805": {
+    "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+    "authors": [
+      "Jacob Devlin",
+      "Ming-Wei Chang",
+      "Kenton Lee",
+      "Kristina Toutanova"
+    ],
+    "publication_date": "",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "df2b0e26d0599ce3e70df8a9da02e51594e0e992",
+    "corpus_id": 52967399,
+    "category": "Computer Science"
+  }
+}

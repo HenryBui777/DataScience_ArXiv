@@ -1,0 +1,15 @@
+{
+  "title": "O-MAGIC: Online Change-Point Detection for Dynamic Systems",
+  "authors": [
+    "Yan Sun",
+    "Yeping Wang",
+    "Zhaohui Li",
+    "Shihao Yang"
+  ],
+  "summary": "The capture of changes in dynamic systems, especially ordinary differential equations (ODEs), is an important and challenging task, with multiple applications in biomedical research and other scientific areas. This article proposes a fast and mathematically rigorous online method, called ODE-informed MAnifold-constrained Gaussian process Inference for Change point detection(O-MAGIC), to detect changes of parameters in the ODE system using noisy and sparse observation data. O-MAGIC imposes a Gaussian process prior to the time series of system components with a latent manifold constraint, induced by restricting the derivative process to satisfy ODE conditions. To detect the parameter changes from the observation, we propose a procedure based on a two-sample generalized likelihood ratio (GLR) test that can detect multiple change points in the dynamic system automatically. O-MAGIC bypasses conventional numerical integration and achieves substantial savings in computation time. By incorporating the ODE structures through manifold constraints, O-MAGIC enjoys a significant advantage in detection delay, while following principled statistical construction under the Bayesian paradigm, which further enables it to handle systems with missing data or unobserved components. O-MAGIC can also be applied to general nonlinear systems. Simulation studies on three challenging examples: SEIRD model, Lotka-Volterra model and Lorenz model are provided to illustrate the robustness and efficiency of O-MAGIC, compared with numerical integration and other popular time-series-based change point detection benchmark methods.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.AP"
+}

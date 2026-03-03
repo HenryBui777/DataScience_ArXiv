@@ -1,0 +1,16 @@
+{
+  "title": "FocusLLaVA: A Coarse-to-Fine Approach for Efficient and Effective Visual Token Compression",
+  "authors": [
+    "Yuke Zhu",
+    "Chi Xie",
+    "Shuang Liang",
+    "Bo Zheng",
+    "Sheng Guo"
+  ],
+  "summary": "Recent advances on Multi-modal Large Language Models have demonstrated that high-resolution image input is crucial for model capabilities, especially for fine-grained tasks. However, high-resolution images lead to a quadratic increase in the number of visual tokens input into LLMs, resulting in significant computational costs. Current work develop visual token compression methods to achieve efficiency improvements, often at the expense of performance. We argue that removing visual redundancy can simultaneously improve both efficiency and performance. We build a coarse-to-fine visual token compression method, with a vision-guided sampler for compressing redundant regions with low information density, and a text-guided sampler for selecting visual tokens that are strongly correlated with the user instructions.With these two modules, the proposed FocusLLaVA achieves improvements in both efficiency and performance. We validate the effectiveness of our approach on a wide range of evaluation datasets.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Lagrangian dual with zero duality gap that admits decomposition",
+  "authors": [
+    "Diego Cifuentes",
+    "Santanu S. Dey",
+    "Jingye Xu"
+  ],
+  "summary": "For mixed integer programs (MIPs) with block structures and coupling constraints, on dualizing the coupling constraints the resulting Lagrangian relaxation becomes decomposable into blocks which allows for the use of parallel computing. However, the resulting Lagrangian dual can have non-zero duality gap due to the inherent non-convexity of MIPs. In this paper, we propose two reformulations of such MIPs by adding redundant constraints, such that the Lagrangian dual obtained by dualizing the coupling constraints and the redundant constraints have zero duality gap while still remaining decomposable. One of these reformulations is similar, although not the same as the RLT hierarchy. In this case, we present multiplicative bounds on the quality of the dual bound at each level of the hierarchy for packing and covering MIPs. We show our results are applicable to general sparse MIPs, where decomposability is revealed via the tree-decomposition of the intersection graph of the constraint matrix. In preliminary experiments, we observe that the proposed Lagrangian duals give better dual bounds than classical Lagrangian dual and Gurobi in equal time, where Gurobi is not exploiting decomposability.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Randomized Basket Trial with an Interim Analysis (RaBIt) and Applications in Mental Health",
+  "authors": [
+    "Sahil S. Patel",
+    "Desmond Zeya Chen",
+    "David Castle",
+    "Clement Ma"
+  ],
+  "summary": "Basket trials can efficiently evaluate a single treatment across multiple diseases with a common shared target. Prior methods for randomized basket trials required baskets to have the same sample and effect sizes. To that end, we developed a general randomized basket trial with an interim analysis (RaBIt) that allows for unequal sample sizes and effect sizes per basket. RaBIt is characterized by pruning at an interim stage and then analyzing a pooling of the remaining baskets. We derived the analytical power and type 1 error for the design. We first show that our results are consistent with the prior methods when the sample and effect sizes were the same across baskets. As we adjust the sample allocation between baskets, our threshold for the final test statistic becomes more stringent in order to maintain the same overall type 1 error. Finally, we notice that if we fix a sample size for the baskets proportional to their accrual rate, then at the cost of an almost negligible amount of power, the trial overall is expected to take substantially less time than the non-generalized version.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME"
+}

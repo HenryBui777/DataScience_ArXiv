@@ -1,0 +1,12 @@
+{
+  "title": "Model Checking for Reinforcement Learning in Autonomous Driving: One Can Do More Than You Think!",
+  "authors": [
+    "Rong Gu"
+  ],
+  "summary": "Most reinforcement learning (RL) platforms use high-level programming languages, such as OpenAI Gymnasium using Python. These frameworks provide various API and benchmarks for testing RL algorithms in different domains, such as autonomous driving (AD) and robotics. These platforms often emphasise the design of RL algorithms and the training performance but neglect the correctness of models and reward functions, which can be crucial for the successful application of RL. This paper proposes using formal methods to model AD systems and demonstrates how model checking (MC) can be used in RL for AD. Most studies combining MC and RL focus on safety, such as safety shields. However, this paper shows different facets where MC can strengthen RL. First, an MC-based model pre-analysis can reveal bugs with respect to sensor accuracy and learning step size. This step serves as a preparation of RL, which saves time if bugs exist and deepens users' understanding of the target system. Second, reward automata can benefit the design of reward functions and greatly improve learning performance especially when the learning objectives are multiple. All these findings are supported by experiments.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "EPTCS 411, 2024, pp. 160-177",
+  "pdf_url": null,
+  "category": "cs.LG, cs.LO"
+}

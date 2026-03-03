@@ -1,0 +1,16 @@
+{
+  "title": "Constrained Coding and Deep Learning Aided Threshold Detection for Resistive Memories",
+  "authors": [
+    "Xingwei Zhong",
+    "Kui Cai",
+    "Guanghui Song",
+    "Weijie Wang",
+    "Yao Zhu"
+  ],
+  "summary": "Resistive random access memory (ReRAM) is a promising emerging non-volatile memory (NVM) technology that shows high potential for both data storage and computing. However, its crossbar array architecture leads to the sneak path problem, which may severely degrade the reliability of data stored in the ReRAM cell. Due to the complication of memory physics and unique features of the sneak path induced interference (SPI), it is difficult to derive an accurate channel model for it. The deep learning (DL)-based detection scheme \\cite{zhong2020sneakdl} can better mitigate the SPI, at the cost of additional power consumption and read latency. In this letter, we first propose a novel CC scheme which can not only reduce the SPI in the memory array, but also effectively differentiate the memory arrays into two categories of sneak-path-free and sneak-path-affected arrays. For the sneak-path-free arrays, we can use a simple middle-point threshold detector to detect the low and high resistance cells of ReRAM. For the sneak-path-affected arrays, a DL detector is first trained off-line (prior to the data detection of ReRAM). To avoid the additional power consumption and latency introduced by the DL detector, we further propose a DL-based threshold detector, whose detection threshold can be derived based on the outputs of the DL detector. It is then utilized for the online data detection of all the identified sneak-path-affected arrays. Simulation results demonstrate that the above CC and DL aided threshold detection scheme can effectively mitigate the SPI of the ReRAM array and achieve better error rate performance than the prior art detection schemes, without the prior knowledge of the channel.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IT, eess.SP"
+}

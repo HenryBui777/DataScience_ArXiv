@@ -1,0 +1,17 @@
+{
+  "title": "Verifying Machine Unlearning with Explainable AI",
+  "authors": [
+    "Àlex Pujol Vidal",
+    "Anders S. Johansen",
+    "Mohammad N. S. Jahromi",
+    "Sergio Escalera",
+    "Kamal Nasrollahi",
+    "Thomas B. Moeslund"
+  ],
+  "summary": "We investigate the effectiveness of Explainable AI (XAI) in verifying Machine Unlearning (MU) within the context of harbor front monitoring, focusing on data privacy and regulatory compliance. With the increasing need to adhere to privacy legislation such as the General Data Protection Regulation (GDPR), traditional methods of retraining ML models for data deletions prove impractical due to their complexity and resource demands. MU offers a solution by enabling models to selectively forget specific learned patterns without full retraining. We explore various removal techniques, including data relabeling, and model perturbation. Then, we leverage attribution-based XAI to discuss the effects of unlearning on model performance. Our proof-of-concept introduces feature importance as an innovative verification step for MU, expanding beyond traditional metrics and demonstrating techniques' ability to reduce reliance on undesired patterns. Additionally, we propose two novel XAI-based metrics, Heatmap Coverage (HC) and Attention Shift (AS), to evaluate the effectiveness of these methods. This approach not only highlights how XAI can complement MU by providing effective verification, but also sets the stage for future research to enhance their joint integration.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI"
+}

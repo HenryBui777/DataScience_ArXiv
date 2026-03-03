@@ -1,0 +1,13 @@
+{
+  "title": "Sample space filling analysis for boson sampling validation",
+  "authors": [
+    "A. A. Mazanik",
+    "A. N. Rubtsov"
+  ],
+  "summary": "Achieving a quantum computational advantage regime, and thus providing evidence against the extended Church-Turing thesis, remains one of the key challenges of modern science. Boson sampling seems to be a very promising platform in this regard, but to be confident of attaining the advantage regime, one must provide evidence of operating with a correct boson sampling distribution, rather than with a pathological classically simulatable one. This problem is often called the validation problem, and it poses a major challenge to demonstrating unambiguous quantum advantage. In this work, using the recently proposed wave function network approach, we study the sample space filling behavior with increasing the number of collected samples. We show that due to the intrinsic nature of the boson sampling wave function, its filling behavior can be computationally efficiently distinguished from classically simulated cases. Therefore, we propose a new validation protocol based on the sample space filling analysis and test it for problems of up to $20$ photons injected into a $400$-mode interferometer. Due to its simplicity and computational efficiency, it can be used among other protocols to validate future experiments to provide more convincing results.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

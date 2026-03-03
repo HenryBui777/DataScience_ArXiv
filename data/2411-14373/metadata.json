@@ -1,0 +1,15 @@
+{
+  "title": "Cross--layer Formal Verification of Robotic Systems",
+  "authors": [
+    "Sylvain Raïs",
+    "Julien Brunel",
+    "David Doose",
+    "Frédéric Herbreteau"
+  ],
+  "summary": "Robotic systems are widely used to interact with humans or to perform critical tasks. As a result, it is imperative to provide guarantees about their behavior. Due to the modularity and complexity of robotic systems, their design and verification are often divided into several layers. However, some system properties can only be investigated by considering multiple layers simultaneously. We propose a cross-layer verification method to verify the expected properties of concrete robotic systems. Our method verifies one layer using abstractions of other layers. We propose two approaches: refining the models of the abstract layers and refining the property under verification. A combination of these two approaches seems to be the most promising to ensure model genericity and to  avoid the state-space explosion problem.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "EPTCS 411, 2024, pp. 143-150",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

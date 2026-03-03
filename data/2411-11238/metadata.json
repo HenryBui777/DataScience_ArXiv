@@ -1,0 +1,14 @@
+{
+  "title": "Reliable Learning of Halfspaces under Gaussian Marginals",
+  "authors": [
+    "Ilias Diakonikolas",
+    "Lisheng Ren",
+    "Nikos Zarifis"
+  ],
+  "summary": "We study the problem of PAC learning halfspaces in the reliable agnostic model of Kalai et al. (2012). The reliable PAC model captures learning scenarios where one type of error is costlier than the others. Our main positive result is a new algorithm for reliable learning of Gaussian halfspaces on $\\mathbb{R}^d$ with sample and computational complexity $$d^{O(\\log (\\min\\{1/α, 1/ε\\}))}\\min (2^{\\log(1/ε)^{O(\\log (1/α))}},2^{\\mathrm{poly}(1/ε)})\\;,$$ where $ε$ is the excess error and $α$ is the bias of the optimal halfspace. We complement our upper bound with a Statistical Query lower bound suggesting that the $d^{Ω(\\log (1/α))}$ dependence is best possible. Conceptually, our results imply a strong computational separation between reliable agnostic learning and standard agnostic learning of halfspaces in the Gaussian setting.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.DS, stat.ML"
+}

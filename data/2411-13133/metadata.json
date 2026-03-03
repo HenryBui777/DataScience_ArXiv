@@ -1,0 +1,14 @@
+{
+  "title": "Connectivity of the adjacency graph of complementary components of the SLE fan",
+  "authors": [
+    "Cillian Doherty",
+    "Konstantinos Kavvadias",
+    "Jason Miller"
+  ],
+  "summary": "Suppose that $h$ is an instance of the Gaussian free field (GFF) on a simply connected domain $D \\subseteq {\\mathbf C}$ and $x,y \\in \\partial D$ are distinct. Fix $κ\\in (0,4)$ and for each $θ\\in {\\mathbf R}$ let $η_θ$ be the flow line of $h$ from $x$ to $y$. Recall that for $θ_1 < θ_2$ the fan ${\\mathbf F}(θ_1,θ_2)$ of flow lines of $h$ from $x$ to $y$ is the closure of the union of $η_θ$ as $θ$ varies in any fixed countable dense subset of $[θ_1,θ_2]$. We show that the adjacency graph of components of $D \\setminus {\\mathbf F}(θ_1,θ_2)$ is a.s. connected, meaning it a.s. holds that for every pair $U,V$ of components there exist components $U_1,\\ldots,U_n$ so that $U_1 = U$, $U_n = V$, and $\\partial U_i \\cap \\partial U_{i+1} \\neq \\emptyset$ for each $1 \\leq i \\leq n-1$. We further show that ${\\mathbf F}(θ_1,θ_2)$ a.s. determines the flow lines used in its construction. That is, for each $θ\\in [θ_1,θ_2]$ we prove that $η_θ$ is a.s. determined by ${\\mathbf F}(θ_1,θ_2)$ as a set.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.PR"
+}

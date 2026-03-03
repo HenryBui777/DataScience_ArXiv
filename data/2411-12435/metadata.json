@@ -1,0 +1,16 @@
+{
+  "title": "STRisk: A Socio-Technical Approach to Assess Hacking Breaches Risk",
+  "authors": [
+    "Hicham Hammouchi",
+    "Narjisse Nejjari",
+    "Ghita Mezzour",
+    "Mounir Ghogho",
+    "Houda Benbrahim"
+  ],
+  "summary": "Data breaches have begun to take on new dimensions and their prediction is becoming of great importance to organizations. Prior work has addressed this issue mainly from a technical perspective and neglected other interfering aspects such as the social media dimension. To fill this gap, we propose STRisk which is a predictive system where we expand the scope of the prediction task by bringing into play the social media dimension. We study over 3800 US organizations including both victim and non-victim organizations. For each organization, we design a profile composed of a variety of externally measured technical indicators and social factors. In addition, to account for unreported incidents, we consider the non-victim sample to be noisy and propose a noise correction approach to correct mislabeled organizations. We then build several machine learning models to predict whether an organization is exposed to experience a hacking breach. By exploiting both technical and social features, we achieve a Area Under Curve (AUC) score exceeding 98%, which is 12% higher than the AUC achieved using only technical features. Furthermore, our feature importance analysis reveals that open ports and expired certificates are the best technical predictors, while spreadability and agreeability are the best social predictors.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "IEEE Transactions on Dependable and Secure Computing ( Volume: 20, Issue: 2, 01 March-April 2023)",
+  "pdf_url": null,
+  "category": "cs.CR, cs.LG"
+}

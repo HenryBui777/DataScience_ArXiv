@@ -1,0 +1,456 @@
+{
+  "2409-06178": {
+    "title": "SQLucid: Grounding Natural Language Database Queries with Interactive Explanations",
+    "authors": [
+      "Yuan Tian",
+      "Jonathan K. Kummerfeld",
+      "Toby Jia-Jun Li",
+      "Tianyi Zhang"
+    ],
+    "publication_date": "2024-09-10",
+    "venue": "ACM Symposium on User Interface Software and Technology",
+    "semantic_scholar_id": "4d30425cbba144244c5c9af6d102330eec0c9528",
+    "corpus_id": 272436369,
+    "category": "Computer Science"
+  },
+  "2406-12692": {
+    "title": "MAGIC: Generating Self-Correction Guideline for In-Context Text-to-SQL",
+    "authors": [
+      "Arian Askari",
+      "Christian Poelitz",
+      "Xinye Tang"
+    ],
+    "publication_date": "2024-06-18",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "606e0c8288b6b8ed53243677ceb0a95f61d93c76",
+    "corpus_id": 270562716,
+    "category": "Computer Science"
+  },
+  "2404-17136": {
+    "title": "Automated Data Visualization from Natural Language via Large Language Models: An Exploratory Study",
+    "authors": [
+      "Yang Wu",
+      "Yao Wan",
+      "Hongyu Zhang",
+      "Yulei Sui",
+      "Wucai Wei",
+      "Wei Zhao",
+      "Guandong Xu",
+      "Hai Jin"
+    ],
+    "publication_date": "2024-04-26",
+    "venue": "Proc. ACM Manag. Data",
+    "semantic_scholar_id": "265cc7ca6afaf6812a9ece8e88454692f18dcbfd",
+    "corpus_id": 269430443,
+    "category": "Computer Science"
+  },
+  "2404-12560": {
+    "title": "Dubo-SQL: Diverse Retrieval-Augmented Generation and Fine Tuning for Text-to-SQL",
+    "authors": [
+      "Dayton G. Thorpe",
+      "Andrew Duberstein",
+      "Ian A. Kinsey"
+    ],
+    "publication_date": "2024-04-19",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "7047d94171efc72f868339302d966b51122fe6a1",
+    "corpus_id": 269282528,
+    "category": "Computer Science"
+  },
+  "2309-01957": {
+    "title": "Automatic Data Transformation Using Large Language Model - An Experimental Study on Building Energy Data",
+    "authors": [
+      "Ankita Sharma",
+      "Xuanmao Li",
+      "Hong Guan",
+      "Guoxin Sun",
+      "Liang Zhang",
+      "Lanjun Wang",
+      "Kesheng Wu",
+      "Lei Cao",
+      "Erkang Zhu",
+      "Alex Sim",
+      "Teresa Wu",
+      "Jia Zou"
+    ],
+    "publication_date": "2023-09-05",
+    "venue": "BigData Congress [Services Society]",
+    "semantic_scholar_id": "3120c2763edab339b937ddbe76991ebdfe0e01e6",
+    "corpus_id": 261530167,
+    "category": "Computer Science"
+  },
+  "2308-16361": {
+    "title": "Large Language Models as Data Preprocessors",
+    "authors": [
+      "Haochen Zhang",
+      "Yuyang Dong",
+      "Chuan Xiao",
+      "M. Oyamada"
+    ],
+    "publication_date": "2023-08-30",
+    "venue": "VLDB Workshops",
+    "semantic_scholar_id": "3e1ca026052d30e3b9677e363616fae23f6616df",
+    "corpus_id": 261397017,
+    "category": "Computer Science"
+  },
+  "2308-14120": {
+    "title": "Large language models streamline automated machine learning for clinical studies",
+    "authors": [
+      "Soroosh Tayebi Arasteh",
+      "T. Han",
+      "Mahshad Lotfinia",
+      "C. Kuhl",
+      "Jakob Nikolas Kather",
+      "D. Truhn",
+      "S. Nebelung"
+    ],
+    "publication_date": "2023-08-27",
+    "venue": "Nature Communications",
+    "semantic_scholar_id": "4c299f0f76addd5c0ed65cf0ce2379c54a814d0e",
+    "corpus_id": 261243907,
+    "category": "Medicine, Computer Science"
+  },
+  "2307-05074": {
+    "title": "Retrieval-augmented GPT-3.5-based Text-to-SQL Framework with Sample-aware Prompting and Dynamic Revision Chain",
+    "authors": [
+      "Chunxi Guo",
+      "Zhiliang Tian",
+      "Jintao Tang",
+      "Shasha Li",
+      "Zhihua Wen",
+      "Kaixuan Wang",
+      "Ting Wang"
+    ],
+    "publication_date": "2023-07-11",
+    "venue": "International Conference on Neural Information Processing",
+    "semantic_scholar_id": "191e300e381d4128b749d16fe3d83c8643a3bd1f",
+    "corpus_id": 259766168,
+    "category": "Computer Science"
+  },
+  "2307-05782": {
+    "title": "Large Language Models",
+    "authors": [
+      "Michael R Douglas"
+    ],
+    "publication_date": "2023-07-11",
+    "venue": "Communications of the ACM",
+    "semantic_scholar_id": "d62c4d00b277e948956b6610ce2644e88fe1577b",
+    "corpus_id": 259837466,
+    "category": "Computer Science, Physics, Mathematics, Medicine"
+  },
+  "2306-15595": {
+    "title": "Extending Context Window of Large Language Models via Positional Interpolation",
+    "authors": [
+      "Shouyuan Chen",
+      "Sherman Wong",
+      "Liangjian Chen",
+      "Yuandong Tian"
+    ],
+    "publication_date": "2023-06-27",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "f5afaccfe90268485a9961c5771ec5e71e9b806c",
+    "corpus_id": 259262376,
+    "category": "Computer Science"
+  },
+  "2305-03111": {
+    "title": "Can LLM Already Serve as A Database Interface? A BIg Bench for Large-Scale Database Grounded Text-to-SQLs",
+    "authors": [
+      "Jinyang Li",
+      "Binyuan Hui",
+      "Ge Qu",
+      "Binhua Li",
+      "Jiaxi Yang",
+      "Bowen Li",
+      "Bailin Wang",
+      "Bowen Qin",
+      "Rongyu Cao",
+      "Ruiying Geng",
+      "Nan Huo",
+      "Chenhao Ma",
+      "K. Chang",
+      "Fei Huang",
+      "Reynold Cheng",
+      "Yongbin Li"
+    ],
+    "publication_date": "2023-05-04",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "8f831f341e959955a495730d81996e62c57cc0bd",
+    "corpus_id": 258547040,
+    "category": "Computer Science"
+  },
+  "2304-11015": {
+    "title": "DIN-SQL: Decomposed In-Context Learning of Text-to-SQL with Self-Correction",
+    "authors": [
+      "M. Pourreza",
+      "Davood Rafiei"
+    ],
+    "publication_date": "2023-04-21",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "cc0f0cb09a73f82ed44d900f5ca710bec784acc1",
+    "corpus_id": 258291425,
+    "category": "Computer Science"
+  },
+  "2302-02094": {
+    "title": "Chat2VIS: Generating Data Visualizations via Natural Language Using ChatGPT, Codex and GPT-3 Large Language Models",
+    "authors": [
+      "Paula Maddigan",
+      "Teo Sušnjak"
+    ],
+    "publication_date": "2023-02-04",
+    "venue": "IEEE Access",
+    "semantic_scholar_id": "ef3a38b9f15e9dcb5652cb3f86f19b845cdaaef7",
+    "corpus_id": 256615714,
+    "category": "Computer Science"
+  },
+  "2107-13586": {
+    "title": "Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing",
+    "authors": [
+      "Pengfei Liu",
+      "Weizhe Yuan",
+      "Jinlan Fu",
+      "Zhengbao Jiang",
+      "Hiroaki Hayashi",
+      "Graham Neubig"
+    ],
+    "publication_date": "2021-07-28",
+    "venue": "ACM Computing Surveys",
+    "semantic_scholar_id": "28692beece311a90f5fa1ca2ec9d0c2ce293d069",
+    "corpus_id": 236493269,
+    "category": "Computer Science"
+  },
+  "2102-07817": {
+    "title": "What Do We Want From Explainable Artificial Intelligence (XAI)? - A Stakeholder Perspective on XAI and a Conceptual Model Guiding Interdisciplinary XAI Research",
+    "authors": [
+      "Markus Langer",
+      "Daniel Oster",
+      "Timo Speith",
+      "H. Hermanns",
+      "Lena Kästner",
+      "Eva Schmidt",
+      "Andreas Sesing",
+      "Kevin Baum"
+    ],
+    "publication_date": "2021-02-15",
+    "venue": "Artificial Intelligence",
+    "semantic_scholar_id": "9dae90ce317bc61eeeeb16a3589fe9201a799de0",
+    "corpus_id": 231934147,
+    "category": "Computer Science"
+  },
+  "2007-12520": {
+    "title": "An Empirical Validation of Cognitive Complexity as a Measure of Source Code Understandability",
+    "authors": [
+      "Marvin Muñoz Barón",
+      "Marvin Wyrich",
+      "S. Wagner"
+    ],
+    "publication_date": "2020-07-24",
+    "venue": "International Symposium on Empirical Software Engineering and Measurement",
+    "semantic_scholar_id": "f21f87348ec71846080f82ec031a6fa68c6cd9a1",
+    "corpus_id": 220769224,
+    "category": "Computer Science"
+  },
+  "2005-14165": {
+    "title": "Language Models are Few-Shot Learners",
+    "authors": [
+      "Tom B. Brown",
+      "Benjamin Mann",
+      "Nick Ryder",
+      "Melanie Subbiah",
+      "J. Kaplan",
+      "Prafulla Dhariwal",
+      "Arvind Neelakantan",
+      "Pranav Shyam",
+      "Girish Sastry",
+      "Amanda Askell",
+      "Sandhini Agarwal",
+      "Ariel Herbert-Voss",
+      "Gretchen Krueger",
+      "T. Henighan",
+      "R. Child",
+      "A. Ramesh",
+      "Daniel M. Ziegler",
+      "Jeff Wu",
+      "Clemens Winter",
+      "Christopher Hesse",
+      "Mark Chen",
+      "Eric Sigler",
+      "Ma-teusz Litwin",
+      "Scott Gray",
+      "Benjamin Chess",
+      "Jack Clark",
+      "Christopher Berner",
+      "Sam McCandlish",
+      "Alec Radford",
+      "I. Sutskever",
+      "Dario Amodei"
+    ],
+    "publication_date": "2020-05-28",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+    "corpus_id": 218971783,
+    "category": "Computer Science"
+  },
+  "2004-11375": {
+    "title": "QueryVis: Logic-based Diagrams help Users Understand Complicated SQL Queries Faster",
+    "authors": [
+      "Aristotelis Leventidis",
+      "Jiahui Zhang",
+      "Cody Dunne",
+      "Wolfgang Gatterbauer",
+      "H. V. Jagadish",
+      "Mirek Riedewald"
+    ],
+    "publication_date": "2020-04-23",
+    "venue": "SIGMOD Conference",
+    "semantic_scholar_id": "483c05a0a80d9f20da9703c77086080e9c99bf8e",
+    "corpus_id": 216144785,
+    "category": "Computer Science"
+  },
+  "2005-02539": {
+    "title": "Speak to your Parser: Interactive Text-to-SQL with Natural Language Feedback",
+    "authors": [
+      "Ahmed Elgohary",
+      "Saghar Hosseini",
+      "Ahmed Hassan Awadallah"
+    ],
+    "publication_date": "2020-04-14",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "4c8bdcf2ece019a72bbbf226a726dc8067f148d1",
+    "corpus_id": 218516925,
+    "category": "Computer Science"
+  },
+  "1910-10683": {
+    "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+    "authors": [
+      "Colin Raffel",
+      "Noam M. Shazeer",
+      "Adam Roberts",
+      "Katherine Lee",
+      "Sharan Narang",
+      "Michael Matena",
+      "Yanqi Zhou",
+      "Wei Li",
+      "Peter J. Liu"
+    ],
+    "publication_date": "2019-10-23",
+    "venue": "Journal of machine learning research",
+    "semantic_scholar_id": "6c4b76232bb72897685d19b3d264c6ee3005bc2b",
+    "corpus_id": 204838007,
+    "category": "Mathematics, Computer Science"
+  },
+  "1910-05389": {
+    "title": "Model-based Interactive Semantic Parsing: A Unified Framework and A Text-to-SQL Case Study",
+    "authors": [
+      "Ziyu Yao",
+      "Yu Su",
+      "Huan Sun",
+      "Wen-tau Yih"
+    ],
+    "publication_date": "2019-10-01",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "25f87536c57090d3c797e216fd2b871dbb54fbf0",
+    "corpus_id": 204509379,
+    "category": "Computer Science"
+  },
+  "1909-05378": {
+    "title": "CoSQL: A Conversational Text-to-SQL Challenge Towards Cross-Domain Natural Language Interfaces to Databases",
+    "authors": [
+      "Tao Yu",
+      "Rui Zhang",
+      "H. Er",
+      "Suyi Li",
+      "Eric Xue",
+      "B. Pang",
+      "Xi Victoria Lin",
+      "Y. Tan",
+      "Tianze Shi",
+      "Zihan Li",
+      "Youxuan Jiang",
+      "Michihiro Yasunaga",
+      "Sungrok Shim",
+      "Tao Chen",
+      "Alexander R. Fabbri",
+      "Zifan Li",
+      "Luyao Chen",
+      "Yuwen Zhang",
+      "Shreya Dixit",
+      "Vincent Zhang",
+      "Caiming Xiong",
+      "R. Socher",
+      "Walter S. Lasecki",
+      "Dragomir R. Radev"
+    ],
+    "publication_date": "2019-09-11",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "545e60873b0fad25407bb6d647f92c905bd2483d",
+    "corpus_id": 202565697,
+    "category": "Computer Science"
+  },
+  "1809-08887": {
+    "title": "Spider: A Large-Scale Human-Labeled Dataset for Complex and Cross-Domain Semantic Parsing and Text-to-SQL Task",
+    "authors": [
+      "Tao Yu",
+      "Rui Zhang",
+      "Kai-Chou Yang",
+      "Michihiro Yasunaga",
+      "Dongxu Wang",
+      "Zifan Li",
+      "James Ma",
+      "Irene Z Li",
+      "Qingning Yao",
+      "Shanelle Roman",
+      "Zilin Zhang",
+      "Dragomir R. Radev"
+    ],
+    "publication_date": "2018-09-24",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "8e773b1840b894603c06b677a0f15ebcf0f26378",
+    "corpus_id": 52815560,
+    "category": "Computer Science"
+  },
+  "1709-00103": {
+    "title": "Seq2SQL: Generating Structured Queries from Natural Language using Reinforcement Learning",
+    "authors": [
+      "Victor Zhong",
+      "Caiming Xiong",
+      "R. Socher"
+    ],
+    "publication_date": "2017-08-31",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "cbd569036fc72ae7ff747350b91816440282596b",
+    "corpus_id": 25156106,
+    "category": "Computer Science"
+  },
+  "1706-03762": {
+    "title": "Attention is All you Need",
+    "authors": [
+      "Ashish Vaswani",
+      "Noam M. Shazeer",
+      "Niki Parmar",
+      "Jakob Uszkoreit",
+      "Llion Jones",
+      "Aidan N. Gomez",
+      "Lukasz Kaiser",
+      "I. Polosukhin"
+    ],
+    "publication_date": "2017-06-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+    "corpus_id": 13756489,
+    "category": "Computer Science"
+  },
+  "1810-04805": {
+    "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+    "authors": [
+      "Jacob Devlin",
+      "Ming-Wei Chang",
+      "Kenton Lee",
+      "Kristina Toutanova"
+    ],
+    "publication_date": "",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "df2b0e26d0599ce3e70df8a9da02e51594e0e992",
+    "corpus_id": 52967399,
+    "category": "Computer Science"
+  }
+}

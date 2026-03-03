@@ -1,0 +1,14 @@
+{
+  "title": "Determining the Quark Mass with the Gradient Flow",
+  "authors": [
+    "Hiromasa Takaura",
+    "Robert Harlander",
+    "Fabian Lange"
+  ],
+  "summary": "We propose a new method to determine the quark mass by using bilinear operators of the flowed quark field defined within the gradient-flow formalism. This method enables the quark mass determination through a comparison of perturbative calculations with lattice data. The gauge-invariant nature of the observable should allow clear control over perturbative errors. At the same time, the gradient flow suppresses the noise in the lattice measurements of the observable, which simply consists of one-point functions. Concerning the perturbative input in this framework, we study the mass dependence of the flowed quark condensate $\\langle \\barχ(t,x) χ(t,x) \\rangle$ at the two-loop level. For this purpose, we develop a novel approach for expanding massive gradient-flow integrals in the limit of small and large $(m^2t)$. We also present a fully numerical result which includes the full mass dependence.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "hep-lat"
+}

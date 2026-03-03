@@ -1,0 +1,13 @@
+{
+  "title": "Popular LLMs Amplify Race and Gender Disparities in Human Mobility",
+  "authors": [
+    "Xinhua Wu",
+    "Qi R. Wang"
+  ],
+  "summary": "As large language models (LLMs) are increasingly applied in areas influencing societal outcomes, it is critical to understand their tendency to perpetuate and amplify biases. This study investigates whether LLMs exhibit biases in predicting human mobility -- a fundamental human behavior -- based on race and gender. Using three prominent LLMs -- GPT-4, Gemini, and Claude -- we analyzed their predictions of visitations to points of interest (POIs) for individuals, relying on prompts that included names with and without explicit demographic details. We find that LLMs frequently reflect and amplify existing societal biases. Specifically, predictions for minority groups were disproportionately skewed, with these individuals being significantly less likely to be associated with wealth-related points of interest (POIs). Gender biases were also evident, as female individuals were consistently linked to fewer career-related POIs compared to their male counterparts. These biased associations suggest that LLMs not only mirror but also exacerbate societal stereotypes, particularly in contexts involving race and gender.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.AI"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "mDAE : modified Denoising AutoEncoder for missing data imputation",
+  "authors": [
+    "Mariette Dupuy",
+    "Marie Chavent",
+    "Remi Dubois"
+  ],
+  "summary": "This paper introduces a methodology based on Denoising AutoEncoder (DAE) for missing data imputation. The proposed methodology, called mDAE hereafter, results from a modification of the loss function and a straightforward procedure for choosing the hyper-parameters. An ablation study shows on several UCI Machine Learning Repository datasets, the benefit of using this modified loss function and an overcomplete structure, in terms of Root Mean Squared Error (RMSE) of reconstruction. This numerical study is completed by comparing the mDAE methodology with eight other methods (four standard and four more recent). A criterion called Mean Distance to Best (MDB) is proposed to measure how a method performs globally well on all datasets. This criterion is defined as the mean (over the datasets) of the distances between the RMSE of the considered method and the RMSE of the best method. According to this criterion, the mDAE methodology was consistently ranked among the top methods (along with SoftImput and missForest), while the four more recent methods were systematically ranked last. The Python code of the numerical study will be available on GitHub so that results can be reproduced or generalized with other datasets and methods.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI"
+}

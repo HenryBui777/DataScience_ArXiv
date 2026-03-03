@@ -1,0 +1,16 @@
+{
+  "title": "Uncertainty quantification for electrical impedance tomography using quasi-Monte Carlo methods",
+  "authors": [
+    "Laura Bazahica",
+    "Vesa Kaarnioja",
+    "Lassi Roininen"
+  ],
+  "summary": "The theoretical development of quasi-Monte Carlo (QMC) methods for uncertainty quantification of partial differential equations (PDEs) is typically centered around simplified model problems such as elliptic PDEs subject to homogeneous zero Dirichlet boundary conditions. In this paper, we present a theoretical treatment of the application of randomly shifted rank-1 lattice rules to electrical impedance tomography (EIT). EIT is an imaging modality, where the goal is to reconstruct the interior conductivity of an object based on electrode measurements of current and voltage taken at the boundary of the object. This is an inverse problem, which we tackle using the Bayesian statistical inversion paradigm. As the reconstruction, we consider QMC integration to approximate the unknown conductivity given current and voltage measurements. We prove under moderate assumptions placed on the parameterization of the unknown conductivity that the QMC approximation of the reconstructed estimate has a dimension-independent, faster-than-Monte Carlo cubature convergence rate. Finally, we present numerical results for examples computed using simulated measurement data.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-03-25"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

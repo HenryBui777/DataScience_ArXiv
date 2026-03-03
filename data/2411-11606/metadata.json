@@ -1,0 +1,15 @@
+{
+  "title": "Direct Fractional Auction",
+  "authors": [
+    "Dmitriy Taubman",
+    "Boris Gleyzer",
+    "Ke Yang",
+    "Farhad Rassekh"
+  ],
+  "summary": "This paper designs a market algorithm for fractional ownership of an indivisible asset. It provides an efficient market mechanism, named Direct Fractional Auction (DFA) that offers valuable assets to both small and large investors who can become partial owners of such assets. Additionally, it introduces procedures and algorithms with DFA to determine the optimal winning combinations of unaffiliated bidders. DFA, on the one hand, transfers the partial ownership to the winners and, on the other, redirects the proceeds from the auctions to the sellers. We show that the DFA algorithm works more efficiently than the Greedy algorithm in maximizing the seller's value. We also demonstrate the possibility of reducing the complexity of the problem using the \"pruning\" method for data pre-processing.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "econ.GN"
+}

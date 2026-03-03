@@ -1,0 +1,17 @@
+{
+  "title": "Analytical Formula for Fractional-Order Conditional Moments of Nonlinear Drift CEV Process with Regime Switching: Hybrid Approach with Applications",
+  "authors": [
+    "Kittisak Chumpong",
+    "Khamron Mekchay",
+    "Fukiat Nualsri",
+    "Phiraphat Sutthimat"
+  ],
+  "summary": "This paper introduces an analytical formula for the fractional-order conditional moments of nonlinear drift constant elasticity of variance (NLD-CEV) processes under regime switching, governed by continuous-time finite-state irreducible Markov chains. By employing a hybrid system approach, we derive exact closed-form expressions for these moments across arbitrary fractional orders and regime states, thereby enhancing the analytical tractability of NLD-CEV models under stochastic regimes. Our methodology hinges on formulating and solving a complex system of interconnected partial differential equations derived from the Feynman-Kac formula for switching diffusions. To illustrate the practical relevance of our approach, Monte Carlo simulations for process with Markovian switching are applied to validate the accuracy and computational efficiency of the analytical formulas. Furthermore, we apply our findings for the valuation of financial derivatives within a dynamic nonlinear mean-reverting regime-switching framework, which demonstrates significant improvements over traditional methods. This work offers substantial contributions to financial modeling and derivative pricing by providing a robust tool for practitioners and researchers who are dealing with complex stochastic environments.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-23"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-fin.MF"
+}

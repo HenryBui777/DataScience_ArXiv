@@ -1,0 +1,19 @@
+{
+  "title": "Sensor-fusion based Prognostics for Deep-space Habitats Exhibiting Multiple Unlabeled Failure Modes",
+  "authors": [
+    "Benjamin Peters",
+    "Ayush Mohanty",
+    "Xiaolei Fang",
+    "Stephen K. Robinson",
+    "Nagi Gebraeel"
+  ],
+  "summary": "Deep-space habitats are complex systems that must operate autonomously over extended durations without ground-based maintenance. These systems are vulnerable to multiple, often unknown, failure modes that affect different subsystems and sensors in mode-specific ways. Developing accurate remaining useful life (RUL) prognostics is challenging, especially when failure labels are unavailable and sensor relevance varies by failure mode. In this paper, we propose an unsupervised prognostics framework that jointly identifies latent failure modes and selects informative sensors using only unlabeled training data. The methodology consists of two phases. In the offline phase, we model system failure times using a mixture of Gaussian regressions and apply a novel Expectation-Maximization algorithm to cluster degradation trajectories and select mode-specific sensors. In the online phase, we extract low-dimensional features from the selected sensors to diagnose the active failure mode and predict RUL using a weighted regression model. We demonstrate the effectiveness of our approach on a simulated dataset that reflects deep-space telemetry characteristics and on a real-world engine degradation dataset, showing improved accuracy and interpretability over existing methods.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-03-10",
+    "2025-07-06"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ML, cs.LG, eess.SY, stat.AP"
+}

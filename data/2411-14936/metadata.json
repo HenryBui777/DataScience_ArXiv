@@ -1,0 +1,14 @@
+{
+  "title": "Massive Particle Systems, Wasserstein Brownian Motions, and the Dean-Kawasaki Equation",
+  "authors": [
+    "Lorenzo Dello Schiavo"
+  ],
+  "summary": "We develop a unifying theory for four different objects: (1) infinite systems of interacting massive particles; (2) solutions to the Dean-Kawasaki equation with singular drift and space-time white noise; (3) Wasserstein diffusions with a.s. purely atomic reversible random measures; (4) metric measure Brownian motions induced by Cheeger energies on $L^2$-Wasserstein spaces.\n  For the objects in (1)-(3) we prove existence and uniqueness of solutions, and several characterizations, on an arbitrary locally compact Polish ambient space $M$ with exponentially recurrent Feller driving noise. In the case of the Dean-Kawasaki equation, this amounts to replacing the Laplace operator with some arbitrary diffusive Markov generator $\\mathsf{L}$ with ultracontractive semigroup. In addition to a complete discussion of the free case, we consider singular interactions, including, e.g., mean-field repulsive isotropic pairwise interactions of Riesz and logarithmic type under the assumption of local integrability.\n  We further show that each Markov diffusion generator $\\mathsf{L}$ on $M$ induces in a natural way a geometry on the space of probability measures over $M$. When $M$ is a manifold and $\\mathsf{L}$ is a drifted Laplace-Beltrami operator, this geometry coincides with the geometry of $L^2$-optimal transportation. The corresponding `geometric Brownian motion' coincides with the 'metric measure Brownian motion' in (4).",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-06-08"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.PR, math.FA"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Improving the solver for the Balitsky-Kovchegov evolution equation with Automatic Differentiation",
+  "authors": [
+    "Florian Cougoulic",
+    "Piotr Korcyl",
+    "Tomasz Stebel"
+  ],
+  "summary": "The Balitsky-Kovchegov (BK) evolution equation is an equation derived from perturbative Quantum Chromodynamics that allows one to evolve with collision energy the scattering amplitude of a pair of quark and antiquark off a hadron target, called the dipole amplitude. The initial condition, being a non-perturbative object, usually has to be modeled separately. Typically, the model contains several tunable parameters that are determined by fitting to experimental data. In this contribution, we propose an implementation of the BK solver using differentiable programming. Automatic differentiation offers the possibility that the first and second derivatives of the amplitude with respect to the initial condition parameters are automatically calculated at all stages of the simulation. This fact should considerably facilitate and speed up the fitting step. Moreover, in the context of Transverse Momentum Distributions (TMD), we demonstrate that automatic differentiation can be used to obtain the first and second derivatives of the amplitude with respect to the quark-antiquark separation. These derivatives can be used to relate various TMD functions to the dipole amplitude. Our C++ code for the solver, which is available in a public repository, includes the Balitsky one-loop running coupling prescription and the kinematic constraint. This version of the BK equation is widely used in the small-$x$ evolution framework.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-11-04"
+  ],
+  "publication_venue": "Comput.Phys.Commun. 313 (2025) 109616",
+  "pdf_url": null,
+  "category": "hep-ph"
+}

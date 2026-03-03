@@ -1,0 +1,13 @@
+{
+  "title": "A new paradigm for wall-modeled large eddy simulations using the volume-filtering framework",
+  "authors": [
+    "Max Hausmann",
+    "Berend van Wachem"
+  ],
+  "summary": "In the present paper, we apply the framework of volume-filtering for particle-laden flows, to large eddy simulations (LES) of wall-bounded flows leading to a new perspective on wall-modeled LES (WMLES) that we refer to as volume-filtered WMLES (VF-WMLES). In contrast to existing wall-models, the VF-WMLES framework does not rely on temporal averaging, does not make a priori assumptions on the pressure gradient, and can be used with a uniform spatial filter, which avoids the appearance of commutation closures in spatial derivatives of the filtered momentum and continuity equation. Volume-filtering is well-defined, even close to the wall, and it is shown that a non-zero slip and penetration velocity at the wall is a direct consequence of volume-filtering the flow. With the VF-WMLES concept, new wall models can be directly assessed in a priori and a posteriori studies by comparing the predicted slip and penetration velocities at the wall with the velocities from explicitly volume-filtered direct numerical simulations (DNS). Based on the VF-WMLES concept, we derive an LES modeling strategy that is based on the recently proposed PC-IBM, a modeling framework based on volume-filtering allowing to couple the flow with arbitrarily shaped solid boundaries using relatively coarse Cartesian fluid meshes. The proposed VF-WMLES is validated with two cases, a turbulent channel flow and a turbulent flow over periodic hills, and shown to accurately predict the mean velocity profiles for both cases.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "Phys. Rev. Fluids 10, 044604, 2025",
+  "pdf_url": null,
+  "category": "physics.flu-dyn, physics.comp-ph"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Simplifying CLIP: Unleashing the Power of Large-Scale Models on Consumer-level Computers",
+  "authors": [
+    "Hongbo Liu"
+  ],
+  "summary": "Contrastive Language-Image Pre-training (CLIP) has attracted a surge of attention for its superior zero-shot performance and excellent transferability to downstream tasks. However, training such large-scale models usually requires substantial computation and storage, which poses barriers for general users with consumer-level computers. Motivated by this observation, in this paper we investigate how to achieve competitive performance on only one Nvidia RTX3090 GPU and with one terabyte for storing dataset. On one hand, we simplify the transformer block structure and combine Weight Inheritance with multi-stage Knowledge Distillation (WIKD), thereby reducing the parameters and improving the inference speed during training along with deployment. On the other hand, confronted with the convergence challenge posed by small dataset, we generate synthetic captions for each sample as data augmentation, and devise a novel Pair Matching (PM) loss to fully exploit the distinguishment among positive and negative image-text pairs. Extensive experiments demonstrate that our model can achieve a new state-of-the-art datascale-parameter-accuracy tradeoff, which could further popularize the CLIP model in the related research community.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-01-13"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.CV"
+}

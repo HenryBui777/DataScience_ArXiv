@@ -1,0 +1,16 @@
+{
+  "title": "Rethinking Text-Promptable Surgical Instrument Segmentation with Robust Framework",
+  "authors": [
+    "Tae-Min Choi",
+    "Juyoun Park"
+  ],
+  "summary": "Surgical instrument segmentation is an essential component of computer-assisted and robotic surgery systems. Vision-based segmentation models typically produce outputs limited to a predefined set of instrument categories, which restricts their applicability in interactive systems and robotic task automation. Promptable segmentation methods allow selective predictions based on textual prompts. However, they often rely on the assumption that the instruments present in the scene are already known, and prompts are generated accordingly, limiting their ability to generalize to unseen or dynamically emerging instruments. In practical surgical environments, where instrument existence information is not provided, this assumption does not hold consistently, resulting in false-positive segmentation. To address these limitations, we formulate a new task called Robust text-promptable Surgical Instrument Segmentation (R-SIS). Under this setting, prompts are issued for all candidate categories without access to instrument presence information. R-SIS requires distinguishing which prompts refer to visible instruments and generating masks only when such instruments are explicitly present in the scene. This setting reflects practical conditions where uncertainty in instrument presence is inherent. We evaluate existing segmentation methods under the R-SIS protocol using surgical video datasets and observe substantial false-positive predictions in the absence of ground-truth instruments. These findings demonstrate a mismatch between current evaluation protocols and real-world use cases, and support the need for benchmarks that explicitly account for prompt uncertainty and instrument absence.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-02-17",
+    "2025-05-20"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Scaling Program Synthesis Based Technology Mapping with Equality Saturation",
+  "authors": [
+    "Gus Henry Smith",
+    "Colin Knizek",
+    "Daniel Petrisko",
+    "Zachary Tatlock",
+    "Jonathan Balkind",
+    "Gilbert Louis Bernstein",
+    "Haobin Ni",
+    "Chandrakana Nandi"
+  ],
+  "summary": "State-of-the-art hardware compilers for FPGAs often fail to find efficient mappings of high-level designs to low-level primitives, especially complex programmable primitives like digital signal processors (DSPs). New approaches apply sketch-guided program synthesis to more optimally map designs. However, this approach has two primary drawbacks. First, sketch-guided program synthesis requires the user to provide sketches, which are challenging to write and require domain expertise. Second, the open-source SMT solvers which power sketch-guided program synthesis struggle with the sorts of operations common in hardware -- namely multiplication. In this paper, we address both of these challenges using an equality saturation (eqsat) framework. By combining eqsat and an existing state-of-the-art program-synthesis-based tool, we produce Churchroad, a technology mapper which handles larger and more complex designs than the program-synthesis-based tool alone, while eliminating the need for a user to provide sketches.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [
+    "2024-11-19"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.PL, cs.AR"
+}

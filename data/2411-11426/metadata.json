@@ -1,0 +1,16 @@
+{
+  "title": "SpiderDAN: Matching Augmentation in Demand-Aware Networks",
+  "authors": [
+    "Aleksander Figiel",
+    "Darya Melnyk",
+    "André Nichterlein",
+    "Arash Pourdamghani",
+    "Stefan Schmid"
+  ],
+  "summary": "Graph augmentation is a fundamental and well-studied problem that arises in network optimization. We consider a new variant of this model motivated by reconfigurable communication networks. In this variant, we consider a given physical network and the measured communication demands between the nodes. Our goal is to augment the given physical network with a matching, so that the shortest path lengths in the augmented network, weighted with the demands, are minimal.We prove that this problem is NP-hard, even if the physical network is a cycle. We then use results from demand-aware network design to provide a constant-factor approximation algorithm for adding a matching in case that only a few nodes in the network cause almost all the communication. For general real-world communication patterns, we design and evaluate a series of heuristics that can deal with arbitrary graphs as the underlying network structure. Our algorithms are validated experimentally using real-world traces (from e.g., Facebook) of data centers.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DS, cs.NI"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "DKMGP: A Gaussian Process Approach to Multi-Task and Multi-Step Vehicle Dynamics Modeling in Autonomous Racing",
+  "authors": [
+    "Jingyun Ning",
+    "Madhur Behl"
+  ],
+  "summary": "Autonomous racing is gaining attention for its potential to advance autonomous vehicle technologies. Accurate race car dynamics modeling is essential for capturing and predicting future states like position, orientation, and velocity. However, accurately modeling complex subsystems such as tires and suspension poses significant challenges. In this paper, we introduce the Deep Kernel-based Multi-task Gaussian Process (DKMGP), which leverages the structure of a variational multi-task and multi-step Gaussian process model enhanced with deep kernel learning for vehicle dynamics modeling. Unlike existing single-step methods, DKMGP performs multi-step corrections with an adaptive correction horizon (ACH) algorithm that dynamically adjusts to varying driving conditions. To validate and evaluate the proposed DKMGP method, we compare the model performance with DKL-SKIP and a well-tuned single-track model, using high-speed dynamics data (exceeding 230kmph) collected from a full-scale Indy race car during the Indy Autonomous Challenge held at the Las Vegas Motor Speedway at CES 2024. The results demonstrate that DKMGP achieves upto 99% prediction accuracy compared to one-step DKL-SKIP, while improving real-time computational efficiency by 1752x. Our results show that DKMGP is a scalable and efficient solution for vehicle dynamics modeling making it suitable for high-speed autonomous racing control.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

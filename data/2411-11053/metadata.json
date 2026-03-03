@@ -1,0 +1,20 @@
+{
+  "title": "SRA-MCTS: Self-driven Reasoning Augmentation with Monte Carlo Tree Search for Code Generation",
+  "authors": [
+    "Bin Xu",
+    "Yiguan Lin",
+    "Yinghao Li",
+    "Yang Gao"
+  ],
+  "summary": "Large language models demonstrate exceptional performance in simple code generation tasks but still face challenges in tackling complex problems. These challenges may stem from insufficient reasoning and problem decomposition capabilities. To address this issue, we propose a reasoning-augmented data generation process, SRA-MCTS, which guides the model to autonomously generate high-quality intermediate reasoning paths. This creates a positive feedback loop, enabling continuous improvement. Our method operates entirely through the model itself without requiring additional supervision. By synthesizing natural language reasoning paths and translating them into executable code, the approach ensures analytical accuracy and enhances the success rate in solving complex tasks. Experimental results show that, even without additional supervisory signals, our method achieves performance improvements across different model scales, demonstrating the significant potential of self-improvement in small models. Furthermore, the method remains robust when traditional Chain-of-Thought (CoT) approaches exhibit performance degradation, with notable improvements observed in diversity metrics such as pass@10. We encourage further exploration of reasoning processes within training data to enhance the ability of language models to address complex problems. Our code and data are public at https://github.com/DIRECT-BIT/SRA-MCTS.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [
+    "2024-11-20",
+    "2024-11-21",
+    "2024-11-23",
+    "2025-05-09"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.AI"
+}

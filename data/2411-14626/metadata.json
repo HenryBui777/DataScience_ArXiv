@@ -1,0 +1,20 @@
+{
+  "title": "Beneath the Surface: The Role of Underwater Image Enhancement in Object Detection",
+  "authors": [
+    "Ali Awad",
+    "Ashraf Saleem",
+    "Sidike Paheding",
+    "Evan Lucas",
+    "Serein Al-Ratrout",
+    "Timothy C. Havens"
+  ],
+  "summary": "Underwater imagery often suffers from severe degradation resulting in low visual quality and reduced object detection performance. This work aims to evaluate state-of-the-art image enhancement models, investigate their effects on underwater object detection, and explore their potential to improve detection performance. To this end, we apply nine recent underwater image enhancement models, covering physical, non-physical and learning-based categories, to two recent underwater image datasets. Following this, we conduct joint qualitative and quantitative analyses on the original and enhanced images, revealing the discrepancy between the two analyses, and analyzing changes in the quality distribution of the images after enhancement. We then train three recent object detection models on the original datasets, selecting the best-performing detector for further analysis. This detector is subsequently re-trained on the enhanced datasets to evaluate changes in detection performance, highlighting the adverse effect of enhancement on detection performance at the dataset level. Next, we perform a correlation study to examine the relationship between various enhancement metrics and the mean Average Precision (mAP). Finally, we conduct an image-level analysis that reveals images of improved detection performance after enhancement. The findings of this study demonstrate the potential of image enhancement to improve detection performance and provide valuable insights for researchers to further explore the effects of enhancement on detection at the individual image level, rather than at the dataset level. This could enable the selective application of enhancement for improved detection. The data generated, code developed, and supplementary materials are publicly available at: https://github.com/RSSL-MTU/Enhancement-Detection-Analysis.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-26",
+    "2025-04-18"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.AI, cs.CV"
+}

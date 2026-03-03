@@ -1,0 +1,18 @@
+{
+  "title": "On the Fairness, Diversity and Reliability of Text-to-Image Generative Models",
+  "authors": [
+    "Jordan Vice",
+    "Naveed Akhtar",
+    "Leonid Sigal",
+    "Richard Hartley",
+    "Ajmal Mian"
+  ],
+  "summary": "The rapid proliferation of multimodal generative models has sparked critical discussions on their reliability, fairness and potential for misuse. While text-to-image models excel at producing high-fidelity, user-guided content, they often exhibit unpredictable behaviors and vulnerabilities that can be exploited to manipulate class or concept representations. To address this, we propose an evaluation framework to assess model reliability by analyzing responses to global and local perturbations in the embedding space, enabling the identification of inputs that trigger unreliable or biased behavior. Beyond social implications, fairness and diversity are fundamental to defining robust and trustworthy model behavior. Our approach offers deeper insights into these essential aspects by evaluating: (i) generative diversity, measuring the breadth of visual representations for learned concepts, and (ii) generative fairness, which examines the impact that removing concepts from input prompts has on control, under a low guidance setup. Beyond these evaluations, our method lays the groundwork for detecting unreliable, bias-injected models and tracing the provenance of embedded biases. Our code is publicly available at https://github.com/JJ-Vice/T2I_Fairness_Diversity_Reliability.\n  Keywords: Fairness, Reliability, AI Ethics, Bias, Text-to-Image Models",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-05-26"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI"
+}

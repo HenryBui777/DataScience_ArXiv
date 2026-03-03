@@ -1,0 +1,19 @@
+{
+  "title": "Enhancing Medical Image Segmentation with Deep Learning and Diffusion Models",
+  "authors": [
+    "Houze Liu",
+    "Tong Zhou",
+    "Yanlin Xiang",
+    "Aoran Shen",
+    "Jiacheng Hu",
+    "Junliang Du"
+  ],
+  "summary": "Medical image segmentation is crucial for accurate clinical diagnoses, yet it faces challenges such as low contrast between lesions and normal tissues, unclear boundaries, and high variability across patients. Deep learning has improved segmentation accuracy and efficiency, but it still relies heavily on expert annotations and struggles with the complexities of medical images. The small size of medical image datasets and the high cost of data acquisition further limit the performance of segmentation networks. Diffusion models, with their iterative denoising process, offer a promising alternative for better detail capture in segmentation. However, they face difficulties in accurately segmenting small targets and maintaining the precision of boundary details. This article discusses the importance of medical image segmentation, the limitations of current deep learning approaches, and the potential of diffusion models to address these challenges.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-12-06"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.CV, cs.LG"
+}

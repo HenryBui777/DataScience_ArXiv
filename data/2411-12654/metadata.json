@@ -1,0 +1,14 @@
+{
+  "title": "Combining Hyperbolic Quadrature Method of Moments and Discrete-Velocity-Direction Models for Solving BGK-type Equations",
+  "authors": [
+    "Tianshu Li",
+    "Yihong Chen",
+    "Qian Huang"
+  ],
+  "summary": "This paper introduces the discrete-velocity-direction model (DVDM) in conjunction with the hyperbolic quadrature method of moments (HyQMOM) to develop a multidimensional spatial-temporal approximation of the BGK equation, termed DVD-HyQMOM. Serving as a multidimensional extension of HyQMOM, DVD-HyQMOM model achieves higher accuracy than other DVDM submodels, especially with an increased number of abscissas. The efficiency and effectiveness of this model are demonstrated through various numerical tests.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.comp-ph, math.NA"
+}

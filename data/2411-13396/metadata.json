@@ -1,0 +1,16 @@
+{
+  "title": "Sensitivity Analysis on Policy-Augmented Graphical Hybrid Models with Shapley Value Estimation",
+  "authors": [
+    "Junkai Zhao",
+    "Wei Xie",
+    "Jun Luo"
+  ],
+  "summary": "Driven by the critical challenges in biomanufacturing, including high complexity and high uncertainty, we propose a comprehensive and computationally efficient sensitivity analysis framework for general nonlinear policy-augmented knowledge graphical (pKG) hybrid models that characterize the risk- and science-based understandings of underlying stochastic decision process mechanisms. The criticality of each input (i.e., random factors, policy parameters, and model parameters) is measured by applying Shapley value (SV) sensitivity analysis to pKG (called SV-pKG), accounting for process causal interdependences. To quickly assess the SV for heavily instrumented bioprocesses, we approximate their dynamics with linear Gaussian pKG models and improve the SV estimation efficiency by utilizing the linear Gaussian properties. In addition, we propose an effective permutation sampling method with TFWW transformation and variance reduction techniques, namely the quasi-Monte Carlo and antithetic sampling methods, to further improve the sampling efficiency and estimation accuracy of SV for both general nonlinear and linear Gaussian pKG models. Our proposed framework can benefit efficient interpretation and support stable optimal process control in biomanufacturing.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-12-01"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ML, stat.CO"
+}

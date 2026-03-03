@@ -1,0 +1,14 @@
+{
+  "title": "Improving Controllability and Editability for Pretrained Text-to-Music Generation Models",
+  "authors": [
+    "Yixiao Zhang"
+  ],
+  "summary": "The field of AI-assisted music creation has made significant strides, yet existing systems often struggle to meet the demands of iterative and nuanced music production. These challenges include providing sufficient control over the generated content and allowing for flexible, precise edits. This thesis tackles these issues by introducing a series of advancements that progressively build upon each other, enhancing the controllability and editability of text-to-music generation models.\n  First, we introduce Loop Copilot, a system that tries to address the need for iterative refinement in music creation. Loop Copilot leverages a large language model (LLM) to coordinate multiple specialised AI models, enabling users to generate and refine music interactively through a conversational interface. Central to this system is the Global Attribute Table, which records and maintains key musical attributes throughout the iterative process, ensuring that modifications at any stage preserve the overall coherence of the music. While Loop Copilot excels in orchestrating the music creation process, it does not directly address the need for detailed edits to the generated content.\n  To overcome this limitation, MusicMagus is presented as a further solution for editing AI-generated music. MusicMagus introduces a zero-shot text-to-music editing approach that allows for the modification of specific musical attributes, such as genre, mood, and instrumentation, without the need for retraining. By manipulating the latent space within pre-trained diffusion models, MusicMagus ensures that these edits are stylistically coherent and that non-targeted attributes remain unchanged. This system is particularly effective in maintaining the structural integrity of the music during edits, but it encounters challenges with more complex and real-world audio scenarios.\n  ...",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-21"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SD, eess.AS"
+}

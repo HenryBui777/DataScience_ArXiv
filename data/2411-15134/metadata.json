@@ -1,0 +1,16 @@
+{
+  "title": "Toric invariance of vertically parametrized systems",
+  "authors": [
+    "Elisenda Feliu",
+    "Oskar Henriksson"
+  ],
+  "summary": "We consider the problem of deciding whether the complex, real or positive solution sets of a parametrized polynomial system are toric (in the sense that they admit a monomial parametrization) for either all parameter values or generically in parameter space. We focus on vertically parametrized systems, which are sparse systems where we allow linear dependencies between coefficients in front of the same monomial. We give a matroid-theoretic characterization of the maximal-dimensional torus for which all solution sets are invariant under componentwise multiplication. Building on this, we provide necessary conditions and sufficient conditions for when the solution sets are unions of finitely many or a unique coset. Our results are applied to steady state systems of reaction networks, where toricity substantially simplifies the determination of multistationarity, and we illustrate our criteria by scanning for toricity in a database of biological models.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-12-27",
+    "2025-08-21"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AG"
+}

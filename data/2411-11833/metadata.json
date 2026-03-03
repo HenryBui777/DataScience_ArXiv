@@ -1,0 +1,21 @@
+{
+  "title": "Differentiable GPU-Parallelized Task and Motion Planning",
+  "authors": [
+    "William Shen",
+    "Caelan Garrett",
+    "Nishanth Kumar",
+    "Ankit Goyal",
+    "Tucker Hermans",
+    "Leslie Pack Kaelbling",
+    "Tomás Lozano-Pérez",
+    "Fabio Ramos"
+  ],
+  "summary": "Planning long-horizon robot manipulation requires making discrete decisions about which objects to interact with and continuous decisions about how to interact with them. A robot planner must select grasps, placements, and motions that are feasible and safe. This class of problems falls under Task and Motion Planning (TAMP) and poses significant computational challenges in terms of algorithm runtime and solution quality, particularly when the solution space is highly constrained. To address these challenges, we propose a new bilevel TAMP algorithm that leverages GPU parallelism to efficiently explore thousands of candidate continuous solutions simultaneously. Our approach uses GPU parallelism to sample an initial batch of solution seeds for a plan skeleton and to apply differentiable optimization on this batch to satisfy plan constraints and minimize solution cost with respect to soft objectives. We demonstrate that our algorithm can effectively solve highly constrained problems with non-convex constraints in just seconds, substantially outperforming serial TAMP approaches, and validate our approach on multiple real-world robots. Project website and code: https://cutamp.github.io",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-04-29"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

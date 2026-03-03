@@ -1,0 +1,13 @@
+{
+  "title": "Comparing design and off-design aerodynamic performance of a natural laminar airfoil",
+  "authors": [
+    "Aditi Sengupta",
+    "Abhijeet Guha"
+  ],
+  "summary": "Natural laminar flow airfoils are essential technologies designed to reduce drag and significantly enhance aerodynamic performance. A notable example is the SHM1 airfoil, created to meet the requirements of the small-business Honda jet. This airfoil has undergone extensive testing across various operational conditions, including low-speed wind tunnel tests and flight tests across a range of Reynolds numbers and free-stream Mach numbers, as detailed in \"Natural-laminar-flow airfoil development for a lightweight business jet\" by Fujino et al., J. Aircraft, 40(4), 2003. Additionally, investigations into drag-divergence behavior have been conducted using a transonic wind tunnel, with subsequent studies focusing on transonic shock boundary layer interactions through both experimental and numerical approaches. This study employs a series of numerical simulations to analyze the flow physics and aerodynamic performance across different free-stream Mach numbers in the subsonic and transonic regimes. This is achieved by examining computed instantaneous numerical Schlieren for various design conditions (such as low speed, climb, and cruise) and off-design scenarios (including transonic shock emergence, drag-divergence, and shock-induced separation). The dominant time scales, the time-averaged load distributions and boundary layer parameters are compared to provide a comprehensive overview of the SHM1's aerodynamics, establishing benchmark results for optimization of various flow separation and shock control techniques.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.flu-dyn"
+}

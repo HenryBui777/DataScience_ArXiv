@@ -1,0 +1,13 @@
+{
+  "title": "A computational model for inelastic behaviour and fracture of refractory industrial components under high-temperature conditions, application to slide gate plates",
+  "authors": [
+    "Lorenzo Fiore",
+    "Andrea Piccolroaz"
+  ],
+  "summary": "This work aims to provide a computational model that can describe the complex behaviour of refractory industrial components under working conditions. Special attention is given to the asymmetric tension-compression behaviour and its evolution in the full range of working temperatures. The model accounts for inelastic flow in compression and brittle fracture behaviour in tension by leveraging the continuum-mechanics theory of plasticity and phase-field fracture damage. The model is implemented in the Finite Element open-source platform FEniCS and is used to analyze the fracture phenomenon in the refractory plate used in ladle slide gate systems to control the liquid steel flow from the ladle to the tundish.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CE, physics.class-ph"
+}

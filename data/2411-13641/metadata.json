@@ -1,0 +1,16 @@
+{
+  "title": "Bounds on the bubble wall velocity",
+  "authors": [
+    "Wen-Yuan Ai",
+    "Benoit Laurent",
+    "Jorinde van de Vis"
+  ],
+  "summary": "Determining the bubble wall velocity in first-order phase transitions is a challenging task, requiring the solution of (coupled) equations of motion for the scalar field and Boltzmann equations for the particles in the plasma. The collision terms appearing in the Boltzmann equation present a prominent source of uncertainty as they are often known only at leading log accuracy. In this paper, we derive upper and lower bounds on the wall velocity, corresponding to the local thermal equilibrium and ballistic limits. These bounds are completely independent of the collision terms.\n  For the ballistic approximation, we argue that the inhomogeneous plasma temperature and velocity distributions across the bubble wall should be taken into account. This way, the hydrodynamic obstruction previously observed in local thermal equilibrium is also present for the ballistic approximation. This is essential for the ballistic approximation to provide a lower bound on the wall velocity. We use a model-independent approach to study the behaviour of the limiting wall velocities as a function of a few generic parameters, and we test our developments in the singlet extended Standard Model.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-02-24"
+  ],
+  "publication_venue": "JHEP 02 (2025) 119",
+  "pdf_url": null,
+  "category": "hep-ph, astro-ph.CO"
+}

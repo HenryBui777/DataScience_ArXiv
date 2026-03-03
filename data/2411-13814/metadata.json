@@ -1,0 +1,16 @@
+{
+  "title": "AutoMixQ: Self-Adjusting Quantization for High Performance Memory-Efficient Fine-Tuning",
+  "authors": [
+    "Changhai Zhou",
+    "Shiyang Zhang",
+    "Yuhua Zhou",
+    "Zekai Liu",
+    "Shichao Weng"
+  ],
+  "summary": "Fine-tuning large language models (LLMs) under resource constraints is a significant challenge in deep learning. Low-Rank Adaptation (LoRA), pruning, and quantization are all effective methods for improving resource efficiency. However, combining them directly often results in suboptimal performance, especially with uniform quantization across all model layers. This is due to the complex, uneven interlayer relationships introduced by pruning, necessitating more refined quantization strategies. To address this, we propose AutoMixQ, an end-to-end optimization framework that selects optimal quantization configurations for each LLM layer. AutoMixQ leverages lightweight performance models to guide the selection process, significantly reducing time and computational resources compared to exhaustive search methods. By incorporating Pareto optimality, AutoMixQ balances memory usage and performance, approaching the upper bounds of model capability under strict resource constraints. Our experiments on widely used benchmarks show that AutoMixQ reduces memory consumption while achieving superior performance. For example, at a 30\\% pruning rate in LLaMA-7B, AutoMixQ achieved 66.21\\% on BoolQ compared to 62.45\\% for LoRA and 58.96\\% for LoftQ, while reducing memory consumption by 35.5\\% compared to LoRA and 27.5\\% compared to LoftQ.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI"
+}

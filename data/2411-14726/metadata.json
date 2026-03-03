@@ -1,0 +1,12 @@
+{
+  "title": "Enhancing Molecular Design through Graph-based Topological Reinforcement Learning",
+  "authors": [
+    "Xiangyu Zhang"
+  ],
+  "summary": "The generation of drug-like molecules is crucial for drug design. Existing reinforcement learning (RL) methods often overlook structural information. However, feature engineering-based methods usually merely focus on binding affinity prediction without substantial molecular modification. To address this, we present Graph-based Topological Reinforcement Learning (GraphTRL), which integrates both chemical and structural data for improved molecular generation. GraphTRL leverages multiscale weighted colored graphs (MWCG) and persistent homology, combined with molecular fingerprints, as the state space for RL. Evaluations show that GraphTRL outperforms existing methods in binding affinity prediction, offering a promising approach to accelerate drug discovery.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, q-bio.BM"
+}

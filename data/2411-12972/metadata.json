@@ -1,0 +1,20 @@
+{
+  "title": "UniFlow: A Foundation Model for Unified Urban Spatio-Temporal Flow Prediction",
+  "authors": [
+    "Yuan Yuan",
+    "Jingtao Ding",
+    "Chonghua Han",
+    "Zhi Sheng",
+    "Depeng Jin",
+    "Yong Li"
+  ],
+  "summary": "Urban spatio-temporal flow prediction, encompassing traffic flows and crowd flows, is crucial for optimizing city infrastructure and managing traffic and emergency responses. Traditional approaches have relied on separate models tailored to either grid-based data, representing cities as uniform cells, or graph-based data, modeling cities as networks of nodes and edges. In this paper, we build UniFlow, a foundational model for general urban flow prediction that unifies both grid-based and graphbased data. We first design a multi-view spatio-temporal patching mechanism to standardize different data into a consistent sequential format and then introduce a spatio-temporal transformer architecture to capture complex correlations and dynamics. To leverage shared spatio-temporal patterns across different data types and facilitate effective cross-learning, we propose SpatioTemporal Memory Retrieval Augmentation (ST-MRA). By creating structured memory modules to store shared spatio-temporal patterns, ST-MRA enhances predictions through adaptive memory retrieval. Extensive experiments demonstrate that UniFlow outperforms existing models in both grid-based and graph-based flow prediction, excelling particularly in scenarios with limited data availability, showcasing its superior performance and broad applicability. The datasets and code implementation have been released on https://github.com/YuanYuan98/UniFlow.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-03-05",
+    "2025-04-01"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

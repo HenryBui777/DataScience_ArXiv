@@ -1,0 +1,23 @@
+{
+  "title": "Combinational Backdoor Attack against Customized Text-to-Image Models",
+  "authors": [
+    "Wenbo Jiang",
+    "Jiaming He",
+    "Hongwei Li",
+    "Rui Zhang",
+    "Hanxiao Chen",
+    "Meng Hao",
+    "Haomiao Yang",
+    "Qingchuan Zhao",
+    "Guowen Xu"
+  ],
+  "summary": "Recently, Text-to-Image (T2I) synthesis technology has made tremendous strides. Numerous representative T2I models have emerged and achieved promising application outcomes, such as DALL-E, Stable Diffusion, Imagen, etc. In practice, it has become increasingly popular for model developers to selectively adopt personalized pre-trained text encoders and conditional diffusion models from third-party platforms, integrating them together to build customized (personalized) T2I models. However, such an adoption approach is vulnerable to backdoor attacks. In this work, we propose a \\textbf{C}ombinational \\textbf{B}ackdoor \\textbf{A}ttack against \\textbf{C}ustomized \\textbf{T2I} models (CBACT2I) targeting this application scenario. Different from previous backdoor attacks against T2I models, CBACT2I embeds the backdoor into the text encoder and the conditional diffusion model separately. The customized T2I model exhibits backdoor behaviors only when the backdoor text encoder is used in combination with the backdoor conditional diffusion model. These properties make CBACT2I more stealthy and controllable than prior backdoor attacks against T2I models. Extensive experiments demonstrate the high effectiveness of CBACT2I with different backdoor triggers and backdoor targets, the strong generality on different combinations of customized text encoders and diffusion models, as well as the high stealthiness against state-of-the-art backdoor detection methods.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-27",
+    "2025-09-23"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR"
+}

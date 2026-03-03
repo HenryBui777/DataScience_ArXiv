@@ -1,0 +1,13 @@
+{
+  "title": "Tool Compensation and User Strategy during Human-Robot Teleoperation are Impacted by System Dynamics and Kinesthetic Feedback",
+  "authors": [
+    "Jacob D. Carducci",
+    "Jeremy D. Brown"
+  ],
+  "summary": "Manipulating an environment remotely with a robotic teleoperator introduces novel electromechanical (EM) dynamics between the user and environment. While considerable effort has focused on minimizing these dynamics, there is limited research into understanding their impact on a user's internal model and resulting motor control strategy. Here we investigate to what degree the dynamics and kinesthetic feedback of the teleoperator influence task behavior and tool compensation.\n  Our teleoperator testbed features a leader port controlled by user input via wrist rotation, a follower port connected to a virtual environment rendered by rotary motor, and three distinct transmissions (Rigid, Unilateral EM, Bilateral EM) in-between that can be engaged independently. 30 adult participants rotated a disk in a visco-elastic virtual environment through counterbalanced presentation of each transmission. Users tracked targets oscillating at 7 pre-defined random frequencies between 0.55 and 2.35 Hz. After session completion, trajectories of the target, leader, and follower were decomposed into components of gain and phase error for all frequencies. We found that while tracking performance at the follower port was similar across transmissions, users' adjustment at the leader port differed between Rigid and EM transmissions. Users applied different pinch forces between Rigid and Unilateral transmissions, suggesting that tracking strategy does change between dynamics and feedback. However, the users' ability to compensate dynamics diminished significantly as task speed got faster and more difficult. Therefore, there are limits to pursuit tracking at the human wrist when compensating teleoperator dynamics.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.HC"
+}

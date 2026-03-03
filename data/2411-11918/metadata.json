@@ -1,0 +1,15 @@
+{
+  "title": "Artificial Intelligence Mangrove Monitoring System Based on Deep Learning and Sentinel-2 Satellite Data in the UAE (2017-2024)",
+  "authors": [
+    "Linlin Tan",
+    "Haishan Wu"
+  ],
+  "summary": "Mangroves play a crucial role in maintaining coastal ecosystem health and protecting biodiversity. Therefore, continuous mapping of mangroves is essential for understanding their dynamics. Earth observation imagery typically provides a cost-effective way to monitor mangrove dynamics. However, there is a lack of regional studies on mangrove areas in the UAE. This study utilizes the UNet++ deep learning model combined with Sentinel-2 multispectral data and manually annotated labels to monitor the spatiotemporal dynamics of densely distributed mangroves (coverage greater than 70%) in the UAE from 2017 to 2024, achieving an mIoU of 87.8% on the validation set. Results show that the total mangrove area in the UAE in 2024 was approximately 9,142.21 hectares, an increase of 2,061.33 hectares compared to 2017, with carbon sequestration increasing by approximately 194,383.42 tons, equivalent to fixing about 713,367.36 tons of carbon dioxide. Abu Dhabi has the largest mangrove area and plays a dominant role in the UAE's mangrove growth, increasing by 1,855.6 hectares between 2017-2024, while other emirates have also contributed to mangrove expansion through stable and sustainable growth in mangrove areas. This comprehensive growth pattern reflects the collective efforts of all emirates in mangrove restoration.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-12-02"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, stat.CO"
+}

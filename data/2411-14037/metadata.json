@@ -1,0 +1,18 @@
+{
+  "title": "ZAP: Zoned Architecture and Parallelizable Compiler for Field Programmable Atom Array",
+  "authors": [
+    "Chen Huang",
+    "Xi Zhao",
+    "Hongze Xu",
+    "Weifeng Zhuang",
+    "Meng-Jun Hu",
+    "Dong E. Liu",
+    "Jingbo Wang"
+  ],
+  "summary": "Neutral atom quantum computing platforms have gained significant attention due to their potential scalability and flexibility in qubit arrangement. In this work, we present a novel zoned architecture for neutral atom quantum compilation, which divides the system into distinct zones: a storage zone and an interaction zone. This architecture optimizes atom placement and interaction scheduling, effectively reducing the operation depth and improving parallelism during compilation. Through a tailored algorithmic approach, we significantly enhance the compilation efficiency and scalability compared to existing methods. Compared to the state-of-the-art Enola platform, our method achieves a 5.4x increase in fidelity when the system need 100 qubits, marking a pivotal advancement in neutral atom quantum computing. Our approach provides a robust framework for future large-scale quantum computations, ensuring both high fidelity and efficient execution.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

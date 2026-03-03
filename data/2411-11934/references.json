@@ -1,0 +1,846 @@
+{
+  "2412-12091": {
+    "title": "Wonderland: Navigating 3D Scenes From a Single Image",
+    "authors": [
+      "Hanwen Liang",
+      "Junli Cao",
+      "Vidit Goel",
+      "Guocheng Qian",
+      "Sergei Korolev",
+      "D. Terzopoulos",
+      "Konstantinos N. Plataniotis",
+      "Sergey Tulyakov",
+      "Jian Ren"
+    ],
+    "publication_date": "2024-12-16",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "00d3c25193aa2d08b954ba769734689051aa1e82",
+    "corpus_id": 274789623,
+    "category": "Computer Science"
+  },
+  "2409-02095": {
+    "title": "DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos",
+    "authors": [
+      "Wenbo Hu",
+      "Xiangjun Gao",
+      "Xiaoyu Li",
+      "Sijie Zhao",
+      "Xiaodong Cun",
+      "Yong Zhang",
+      "Long Quan",
+      "Ying Shan"
+    ],
+    "publication_date": "2024-09-03",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "830af4785ac62dbc4679ad98f09f4751a76992a6",
+    "corpus_id": 272368291,
+    "category": "Computer Science"
+  },
+  "2406-18524": {
+    "title": "MultiDiff: Consistent Novel View Synthesis from a Single Image",
+    "authors": [
+      "Norman Müller",
+      "Katja Schwarz",
+      "Barbara Roessle",
+      "L. Porzi",
+      "S. R. Bulò",
+      "Matthias Nießner",
+      "P. Kontschieder"
+    ],
+    "publication_date": "2024-06-16",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "4c67609d442947db10aeebfe9825fb3fdae158e8",
+    "corpus_id": 270737865,
+    "category": "Computer Science"
+  },
+  "2405-15364": {
+    "title": "NVS-Solver: Video Diffusion Model as Zero-Shot Novel View Synthesizer",
+    "authors": [
+      "Meng You",
+      "Zhiyu Zhu",
+      "Hui Liu",
+      "Junhui Hou"
+    ],
+    "publication_date": "2024-05-24",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "704cb5f07665bcb30cbab06a55bbe92e0d50692e",
+    "corpus_id": 270045709,
+    "category": "Computer Science"
+  },
+  "2405-14868": {
+    "title": "Generative Camera Dolly: Extreme Monocular Dynamic Novel View Synthesis",
+    "authors": [
+      "Basile Van Hoorick",
+      "Rundi Wu",
+      "Ege Ozguroglu",
+      "Kyle Sargent",
+      "Ruoshi Liu",
+      "P. Tokmakov",
+      "Achal Dave",
+      "Changxi Zheng",
+      "Carl Vondrick"
+    ],
+    "publication_date": "2024-05-23",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "0b7d3bf45a62d0e636e6181ed543c26182b8982b",
+    "corpus_id": 269982411,
+    "category": "Computer Science"
+  },
+  "2403-14627": {
+    "title": "MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images",
+    "authors": [
+      "Yuedong Chen",
+      "Haofei Xu",
+      "Chuanxia Zheng",
+      "Bohan Zhuang",
+      "M. Pollefeys",
+      "Andreas Geiger",
+      "Tat-Jen Cham",
+      "Jianfei Cai"
+    ],
+    "publication_date": "2024-03-21",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "fa0c7c850b6298fa49518e42e9f9e492dd4c5541",
+    "corpus_id": 268553970,
+    "category": "Computer Science"
+  },
+  "2402-17177": {
+    "title": "Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models",
+    "authors": [
+      "Yixin Liu",
+      "Kai Zhang",
+      "Yuan Li",
+      "Zhiling Yan",
+      "Chujie Gao",
+      "Ruoxi Chen",
+      "Zhengqing Yuan",
+      "Yue Huang",
+      "Hanchi Sun",
+      "Jianfeng Gao",
+      "Lifang He",
+      "Lichao Sun"
+    ],
+    "publication_date": "2024-02-27",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "a6f7485dfdf45320e82d84bcfdc51bcd52dff18b",
+    "corpus_id": 268032569,
+    "category": "Computer Science"
+  },
+  "2401-10891": {
+    "title": "Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data",
+    "authors": [
+      "Lihe Yang",
+      "Bingyi Kang",
+      "Zilong Huang",
+      "Xiaogang Xu",
+      "Jiashi Feng",
+      "Hengshuang Zhao"
+    ],
+    "publication_date": "2024-01-19",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "afea54c7f17f4fac0f71bebed6bc782ed69d8bd0",
+    "corpus_id": 267061016,
+    "category": "Computer Science"
+  },
+  "2312-14125": {
+    "title": "VideoPoet: A Large Language Model for Zero-Shot Video Generation",
+    "authors": [
+      "D. Kondratyuk",
+      "Lijun Yu",
+      "Xiuye Gu",
+      "José Lezama",
+      "Jonathan Huang",
+      "Rachel Hornung",
+      "Hartwig Adam",
+      "Hassan Akbari",
+      "Y. Alon",
+      "Vighnesh Birodkar",
+      "Yong Cheng",
+      "Ming-Chang Chiu",
+      "Josh Dillon",
+      "Irfan Essa",
+      "Agrim Gupta",
+      "Meera Hahn",
+      "Anja Hauth",
+      "David Hendon",
+      "Alonso Martinez",
+      "David C. Minnen",
+      "David A. Ross",
+      "Grant Schindler",
+      "Mikhail Sirotenko",
+      "Kihyuk Sohn",
+      "Krishna Somandepalli",
+      "Huisheng Wang",
+      "Jimmy Yan",
+      "Ming Yang",
+      "Xuan Yang",
+      "Bryan Seybold",
+      "Lu Jiang"
+    ],
+    "publication_date": "2023-12-21",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "0c4f46e4dcae5527018e6432fb60cfe8c3354e97",
+    "corpus_id": 266435847,
+    "category": "Computer Science"
+  },
+  "2312-12337": {
+    "title": "PixelSplat: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction",
+    "authors": [
+      "David Charatan",
+      "S. Li",
+      "Andrea Tagliasacchi",
+      "Vincent Sitzmann"
+    ],
+    "publication_date": "2023-12-19",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "632a4956aebedd85f61445718ec5df9589bb5843",
+    "corpus_id": 266362208,
+    "category": "Computer Science"
+  },
+  "2312-08071": {
+    "title": "Novel View Synthesis with View-Dependent Effects from a Single Image",
+    "authors": [
+      "J. Bello",
+      "Munchurl Kim"
+    ],
+    "publication_date": "2023-12-13",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "d93dff824a9b5babf303ec853b487116e3fa5ddd",
+    "corpus_id": 266191169,
+    "category": "Computer Science, Engineering"
+  },
+  "2312-06662": {
+    "title": "Photorealistic Video Generation with Diffusion Models",
+    "authors": [
+      "Agrim Gupta",
+      "Lijun Yu",
+      "Kihyuk Sohn",
+      "Xiuye Gu",
+      "Meera Hahn",
+      "Fei-Fei Li",
+      "Irfan Essa",
+      "Lu Jiang",
+      "José Lezama"
+    ],
+    "publication_date": "2023-12-11",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "905ba940236b00bebb2fd348d4d932e7887b0c0a",
+    "corpus_id": 266163109,
+    "category": "Computer Science"
+  },
+  "2312-11037": {
+    "title": "SinMPI: Novel View Synthesis from a Single Image with Expanded Multiplane Images",
+    "authors": [
+      "Guo Pu",
+      "Peng-Shuai Wang",
+      "Zhouhui Lian"
+    ],
+    "publication_date": "2023-12-10",
+    "venue": "ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia",
+    "semantic_scholar_id": "9386b245d5af24d8e99f2f7383a2aab785bdcaaa",
+    "corpus_id": 266177432,
+    "category": "Computer Science"
+  },
+  "2311-17117": {
+    "title": "Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation",
+    "authors": [
+      "Liucheng Hu",
+      "Xin Gao",
+      "Peng Zhang",
+      "Ke Sun",
+      "Bang Zhang",
+      "Liefeng Bo"
+    ],
+    "publication_date": "2023-11-28",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "c8dc4af5c61f95cc79b7f83e8339efa62af8f811",
+    "corpus_id": 265499043,
+    "category": "Computer Science"
+  },
+  "2311-15127": {
+    "title": "Stable Video Diffusion: Scaling Latent Video Diffusion Models to Large Datasets",
+    "authors": [
+      "A. Blattmann",
+      "Tim Dockhorn",
+      "Sumith Kulal",
+      "Daniel Mendelevitch",
+      "Maciej Kilian",
+      "Dominik Lorenz"
+    ],
+    "publication_date": "2023-11-25",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "1206b05eae5a06ba662ae79fb291b50e359c4f42",
+    "corpus_id": 265312551,
+    "category": "Computer Science"
+  },
+  "2311-12886": {
+    "title": "AnimateAnything: Fine-Grained Open Domain Image Animation with Motion Guidance",
+    "authors": [
+      "Zuozhuo Dai",
+      "Zhenghao Zhang",
+      "Yao Yao",
+      "Bingxue Qiu",
+      "Siyu Zhu",
+      "Long Qin",
+      "Weizhi Wang"
+    ],
+    "publication_date": "2023-11-21",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "ff1715c4a33a58cc8069b86be8b99e760134eb78",
+    "corpus_id": 265351810,
+    "category": "Computer Science"
+  },
+  "2308-07926": {
+    "title": "CoDeF: Content Deformation Fields for Temporally Consistent Video Processing",
+    "authors": [
+      "Ouyang Hao",
+      "Qiuyu Wang",
+      "Yuxi Xiao",
+      "Qingyan Bai",
+      "Juntao Zhang",
+      "Kecheng Zheng",
+      "Xiaowei Zhou",
+      "Qifeng Chen",
+      "Yujun Shen"
+    ],
+    "publication_date": "2023-08-15",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "c2d65fc3a7fde3f7662c6ef9448e5737d7e5551f",
+    "corpus_id": 260899973,
+    "category": "Computer Science"
+  },
+  "2308-04079": {
+    "title": "3D Gaussian Splatting for Real-Time Radiance Field Rendering",
+    "authors": [
+      "Bernhard Kerbl",
+      "Georgios Kopanas",
+      "Thomas Leimkuehler",
+      "G. Drettakis"
+    ],
+    "publication_date": "2023-07-26",
+    "venue": "ACM Transactions on Graphics",
+    "semantic_scholar_id": "2cc1d857e86d5152ba7fe6a8355c2a0150cc280a",
+    "corpus_id": 259267917,
+    "category": "Computer Science"
+  },
+  "2307-04725": {
+    "title": "AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning",
+    "authors": [
+      "Yuwei Guo",
+      "Ceyuan Yang",
+      "Anyi Rao",
+      "Yaohui Wang",
+      "Y. Qiao",
+      "Dahua Lin",
+      "Bo Dai"
+    ],
+    "publication_date": "2023-07-10",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "c1caa303549764d220ff17dc1785985dd1ba6047",
+    "corpus_id": 259501509,
+    "category": "Computer Science"
+  },
+  "2306-02018": {
+    "title": "VideoComposer: Compositional Video Synthesis with Motion Controllability",
+    "authors": [
+      "Xiang Wang",
+      "Hangjie Yuan",
+      "Shiwei Zhang",
+      "Dayou Chen",
+      "Jiuniu Wang",
+      "Yingya Zhang",
+      "Yujun Shen",
+      "Deli Zhao",
+      "Jingren Zhou"
+    ],
+    "publication_date": "2023-06-03",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "f02ea7a18f00859d9ea1b321e3385ae7d0170639",
+    "corpus_id": 259075720,
+    "category": "Computer Science"
+  },
+  "2304-10700": {
+    "title": "Long-Term Photometric Consistent Novel View Synthesis with Diffusion Models",
+    "authors": [
+      "Jason J. Yu",
+      "Fereshteh Forghani",
+      "K. Derpanis",
+      "Marcus A. Brubaker"
+    ],
+    "publication_date": "2023-04-21",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "49da3d3896b885f072986d61cc34a77ad05e1924",
+    "corpus_id": 258291651,
+    "category": "Computer Science"
+  },
+  "2304-08818": {
+    "title": "Align Your Latents: High-Resolution Video Synthesis with Latent Diffusion Models",
+    "authors": [
+      "A. Blattmann",
+      "Robin Rombach",
+      "Huan Ling",
+      "Tim Dockhorn",
+      "Seung Wook Kim",
+      "S. Fidler",
+      "Karsten Kreis"
+    ],
+    "publication_date": "2023-04-18",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "f5a0c57f90c6abe31482e9f320ccac5ee789b135",
+    "corpus_id": 258187553,
+    "category": "Computer Science"
+  },
+  "2304-08465": {
+    "title": "MasaCtrl: Tuning-Free Mutual Self-Attention Control for Consistent Image Synthesis and Editing",
+    "authors": [
+      "Ming Cao",
+      "Xintao Wang",
+      "Zhongang Qi",
+      "Ying Shan",
+      "Xiaohu Qie",
+      "Yinqiang Zheng"
+    ],
+    "publication_date": "2023-04-17",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "85963807c11abe38e9a2797d9860e012238607ef",
+    "corpus_id": 258179432,
+    "category": "Computer Science"
+  },
+  "2303-17599": {
+    "title": "Zero-Shot Video Editing Using Off-The-Shelf Image Diffusion Models",
+    "authors": [
+      "Wen Wang",
+      "K. Xie",
+      "Zide Liu",
+      "Hao Chen",
+      "Yue Cao",
+      "Xinlong Wang",
+      "Chunhua Shen"
+    ],
+    "publication_date": "2023-03-30",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "782838a8699e10b80a0a359f2f7c448aef2ee429",
+    "corpus_id": 257833877,
+    "category": "Computer Science"
+  },
+  "2303-13439": {
+    "title": "Text2Video-Zero: Text-to-Image Diffusion Models are Zero-Shot Video Generators",
+    "authors": [
+      "Levon Khachatryan",
+      "A. Movsisyan",
+      "Vahram Tadevosyan",
+      "Roberto Henschel",
+      "Zhangyang Wang",
+      "Shant Navasardyan",
+      "Humphrey Shi"
+    ],
+    "publication_date": "2023-03-23",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "923a03032014a12c4e8b26511c0394e1b915fe74",
+    "corpus_id": 257687280,
+    "category": "Computer Science"
+  },
+  "2303-09535": {
+    "title": "FateZero: Fusing Attentions for Zero-shot Text-based Video Editing",
+    "authors": [
+      "Chenyang Qi",
+      "Xiaodong Cun",
+      "Yong Zhang",
+      "Chenyang Lei",
+      "Xintao Wang",
+      "Ying Shan",
+      "Qifeng Chen"
+    ],
+    "publication_date": "2023-03-17",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "14ccb8bcceb6de10eda6ad08bec242a4f2946497",
+    "corpus_id": 257557738,
+    "category": "Computer Science"
+  },
+  "2302-12288": {
+    "title": "ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth",
+    "authors": [
+      "Shariq Farooq Bhat",
+      "R. Birkl",
+      "Diana Wofk",
+      "Peter Wonka",
+      "Matthias Muller"
+    ],
+    "publication_date": "2023-02-23",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "ebe2a5a186fa08e4e1b5d225d7a253d444d2c396",
+    "corpus_id": 257205739,
+    "category": "Computer Science"
+  },
+  "2302-10781": {
+    "title": "Learning 3D Photography Videos via Self-supervised Diffusion on Single Images",
+    "authors": [
+      "Xiaodong Wang",
+      "Chenfei Wu",
+      "Shengming Yin",
+      "Minheng Ni",
+      "Jianfeng Wang",
+      "Linjie Li",
+      "Zhengyuan Yang",
+      "Fan Yang",
+      "Lijuan Wang",
+      "Zicheng Liu",
+      "Yuejian Fang",
+      "Nan Duan"
+    ],
+    "publication_date": "2023-02-21",
+    "venue": "International Joint Conference on Artificial Intelligence",
+    "semantic_scholar_id": "0aeb1cde8d78b5dfe9f6a2e9afde596a94268e56",
+    "corpus_id": 257050454,
+    "category": "Computer Science"
+  },
+  "2302-03011": {
+    "title": "Structure and Content-Guided Video Synthesis with Diffusion Models",
+    "authors": [
+      "Patrick Esser",
+      "Johnathan Chiu",
+      "Parmida Atighehchian",
+      "Jonathan Granskog",
+      "Anastasis Germanidis"
+    ],
+    "publication_date": "2023-02-06",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "07be0ec1f45e21a1032616535d0290ee6bfe0f6b",
+    "corpus_id": 256615582,
+    "category": "Computer Science"
+  },
+  "2212-11565": {
+    "title": "Tune-A-Video: One-Shot Tuning of Image Diffusion Models for Text-to-Video Generation",
+    "authors": [
+      "Jay Zhangjie Wu",
+      "Yixiao Ge",
+      "Xintao Wang",
+      "Weixian Lei",
+      "Yuchao Gu",
+      "W. Hsu",
+      "Ying Shan",
+      "Xiaohu Qie",
+      "Mike Zheng Shou"
+    ],
+    "publication_date": "2022-12-22",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "1367dcff4ccb927a5e95c452041288b3f0dd0eff",
+    "corpus_id": 254974187,
+    "category": "Computer Science"
+  },
+  "2209-14792": {
+    "title": "Make-A-Video: Text-to-Video Generation without Text-Video Data",
+    "authors": [
+      "Uriel Singer",
+      "Adam Polyak",
+      "Thomas Hayes",
+      "Xiaoyue Yin",
+      "Jie An",
+      "Songyang Zhang",
+      "Qiyuan Hu",
+      "Harry Yang",
+      "Oron Ashual",
+      "Oran Gafni",
+      "Devi Parikh",
+      "Sonal Gupta",
+      "Yaniv Taigman"
+    ],
+    "publication_date": "2022-09-29",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "1e33716e8820b867d5a8aaebab44c2d3135ea4ac",
+    "corpus_id": 252595919,
+    "category": "Computer Science"
+  },
+  "2205-11733": {
+    "title": "Single-View View Synthesis in the Wild with Learned Adaptive Multiplane Images",
+    "authors": [
+      "Yuxuan Han",
+      "Ruicheng Wang",
+      "Jiaolong Yang"
+    ],
+    "publication_date": "2022-05-24",
+    "venue": "International Conference on Computer Graphics and Interactive Techniques",
+    "semantic_scholar_id": "3f27b9f293beb96ebd472468ae111a6addf01646",
+    "corpus_id": 249017754,
+    "category": "Computer Science"
+  },
+  "2204-03458": {
+    "title": "Video Diffusion Models",
+    "authors": [
+      "Jonathan Ho",
+      "Tim Salimans",
+      "Alexey Gritsenko",
+      "William Chan",
+      "Mohammad Norouzi",
+      "David J. Fleet"
+    ],
+    "publication_date": "2022-04-07",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "3b2a675bb617ae1a920e8e29d535cdf27826e999",
+    "corpus_id": 248006185,
+    "category": "Computer Science"
+  },
+  "2204-02491": {
+    "title": "Text2LIVE: Text-Driven Layered Image and Video Editing",
+    "authors": [
+      "Omer Bar-Tal",
+      "Dolev Ofri-Amar",
+      "Rafail Fridman",
+      "Yoni Kasten",
+      "Tali Dekel"
+    ],
+    "publication_date": "2022-04-05",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "c0e8812789e96f5a7aa3ad940dba1c237aec822d",
+    "corpus_id": 247996703,
+    "category": "Computer Science"
+  },
+  "2204-00928": {
+    "title": "SinNeRF: Training Neural Radiance Fields on Complex Scenes from a Single Image",
+    "authors": [
+      "Dejia Xu",
+      "Yifan Jiang",
+      "Peihao Wang",
+      "Zhiwen Fan",
+      "Humphrey Shi",
+      "Zhangyang Wang"
+    ],
+    "publication_date": "2022-04-02",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "084f52f037074c4ef58e8c2a0065a1b1d98a851b",
+    "corpus_id": 247940204,
+    "category": "Computer Science"
+  },
+  "2112-10752": {
+    "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+    "authors": [
+      "Robin Rombach",
+      "A. Blattmann",
+      "Dominik Lorenz",
+      "Patrick Esser",
+      "B. Ommer"
+    ],
+    "publication_date": "2021-12-20",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "c10075b3746a9f3dd5811970e93c8ca3ad39b39d",
+    "corpus_id": 245335280,
+    "category": "Computer Science"
+  },
+  "2109-01068": {
+    "title": "SLIDE: Single Image 3D Photography with Soft Layering and Depth-aware Inpainting",
+    "authors": [
+      "V. Jampani",
+      "Huiwen Chang",
+      "Kyle Sargent",
+      "Abhishek Kar",
+      "Richard Tucker",
+      "Michael Krainin",
+      "D. Kaeser",
+      "W. Freeman",
+      "D. Salesin",
+      "B. Curless",
+      "Ce Liu"
+    ],
+    "publication_date": "2021-09-02",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "df4ba60ec19c6969645e690f258633eca7278922",
+    "corpus_id": 237386323,
+    "category": "Computer Science"
+  },
+  "2105-06468": {
+    "title": "Dynamic View Synthesis from Dynamic Monocular Video",
+    "authors": [
+      "Chen Gao",
+      "Ayush Saraf",
+      "J. Kopf",
+      "Jia-Bin Huang"
+    ],
+    "publication_date": "2021-05-13",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "6b0a81d050e0bc0e49010c49f51ec3fcbaab6b28",
+    "corpus_id": 234482661,
+    "category": "Computer Science"
+  },
+  "2104-08885": {
+    "title": "A survey of image labelling for computer vision applications",
+    "authors": [
+      "Christoph Sager",
+      "Christian Janiesch",
+      "Patrick Zschech"
+    ],
+    "publication_date": "2021-04-18",
+    "venue": "The Journal of Business Analysis",
+    "semantic_scholar_id": "3408001209a69d5e8c7790254006f965abecc005",
+    "corpus_id": 233296998,
+    "category": "Computer Science"
+  },
+  "2103-15407": {
+    "title": "Self-Supervised Visibility Learning for Novel View Synthesis",
+    "authors": [
+      "Yujiao Shi",
+      "Hongdong Li",
+      "Xin Yu"
+    ],
+    "publication_date": "2021-03-29",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "9bb2003f59c1e2b542139e869cdc0ed4ebd13217",
+    "corpus_id": 232404548,
+    "category": "Computer Science"
+  },
+  "2012-09855": {
+    "title": "Infinite Nature: Perpetual View Generation of Natural Scenes from a Single Image",
+    "authors": [
+      "Andrew Liu",
+      "Richard Tucker",
+      "V. Jampani",
+      "A. Makadia",
+      "Noah Snavely",
+      "Angjoo Kanazawa"
+    ],
+    "publication_date": "2020-12-17",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "b44657c2e33b043374be13ff065744fd201a9a02",
+    "corpus_id": 229297871,
+    "category": "Computer Science"
+  },
+  "2004-11364": {
+    "title": "Single-View View Synthesis With Multiplane Images",
+    "authors": [
+      "Richard Tucker",
+      "Noah Snavely"
+    ],
+    "publication_date": "2020-04-23",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "34121c7a41667080da133b2cad7d714e9f209cfd",
+    "corpus_id": 216080881,
+    "category": "Computer Science"
+  },
+  "2004-04727": {
+    "title": "3D Photography Using Context-Aware Layered Depth Inpainting",
+    "authors": [
+      "Meng-Li Shih",
+      "Shih-Yang Su",
+      "J. Kopf",
+      "Jia-Bin Huang"
+    ],
+    "publication_date": "2020-04-09",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "909d1109959ea980745a43a717a50a1478bce1fb",
+    "corpus_id": 215548442,
+    "category": "Computer Science, Engineering"
+  },
+  "2003-12039": {
+    "title": "RAFT: Recurrent All-Pairs Field Transforms for Optical Flow",
+    "authors": [
+      "Zachary Teed",
+      "Jia Deng"
+    ],
+    "publication_date": "2020-03-26",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "3230e2d6b4671cc03974af2219c6d3270e6fac70",
+    "corpus_id": 214667893,
+    "category": "Computer Science, Materials Science"
+  },
+  "2003-05534": {
+    "title": "Softmax Splatting for Video Frame Interpolation",
+    "authors": [
+      "Simon Niklaus",
+      "Feng Liu"
+    ],
+    "publication_date": "2020-03-11",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "82da38e2ddd8aebbc13d9e4505bc86ad83c0d6da",
+    "corpus_id": 212675709,
+    "category": "Computer Science"
+  },
+  "1912-08804": {
+    "title": "SynSin: End-to-End View Synthesis From a Single Image",
+    "authors": [
+      "Olivia Wiles",
+      "Georgia Gkioxari",
+      "R. Szeliski",
+      "Justin Johnson"
+    ],
+    "publication_date": "2019-12-18",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "30e911f84f00423625f50ec70b9056ffc3d5b8ca",
+    "corpus_id": 209405397,
+    "category": "Computer Science"
+  },
+  "1907-01341": {
+    "title": "Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-Shot Cross-Dataset Transfer",
+    "authors": [
+      "René Ranftl",
+      "Katrin Lasinger",
+      "David Hafner",
+      "K. Schindler",
+      "V. Koltun"
+    ],
+    "publication_date": "2019-07-02",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "7bd83b055702bc178aa26def5b6df463f8eab7b9",
+    "corpus_id": 195776274,
+    "category": "Computer Science, Medicine"
+  },
+  "1812-02246": {
+    "title": "Photo Wake-Up: 3D Character Animation From a Single Photo",
+    "authors": [
+      "Chung-Yi Weng",
+      "B. Curless",
+      "Ira Kemelmacher-Shlizerman"
+    ],
+    "publication_date": "2018-12-05",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "470f8a226ff414f73e75dd0c6f9258a07809c22a",
+    "corpus_id": 54446715,
+    "category": "Computer Science"
+  },
+  "1808-00449": {
+    "title": "Learning Blind Video Temporal Consistency",
+    "authors": [
+      "Wei-Sheng Lai",
+      "Jia-Bin Huang",
+      "Oliver Wang",
+      "Eli Shechtman",
+      "Ersin Yumer",
+      "Ming-Hsuan Yang"
+    ],
+    "publication_date": "2018-08-01",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "098b68fe34dba7fc4e206035ae2d149944bbca8f",
+    "corpus_id": 51892815,
+    "category": "Computer Science"
+  },
+  "1706-03762": {
+    "title": "Attention is All you Need",
+    "authors": [
+      "Ashish Vaswani",
+      "Noam M. Shazeer",
+      "Niki Parmar",
+      "Jakob Uszkoreit",
+      "Llion Jones",
+      "Aidan N. Gomez",
+      "Lukasz Kaiser",
+      "I. Polosukhin"
+    ],
+    "publication_date": "2017-06-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+    "corpus_id": 13756489,
+    "category": "Computer Science"
+  },
+  "1701-08493": {
+    "title": "A Survey on Structure from Motion",
+    "authors": [
+      "Onur Özyesil",
+      "V. Voroninski",
+      "R. Basri",
+      "A. Singer"
+    ],
+    "publication_date": "2017-01-30",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "6562880ada35f0410ad6c4db941586bb2b0ebdb1",
+    "corpus_id": 1717286,
+    "category": "Computer Science"
+  }
+}

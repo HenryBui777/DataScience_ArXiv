@@ -1,0 +1,14 @@
+{
+  "title": "Leveraging Global IoT Networks for a Distributed Radio Telescope: Calibration Methods and Performance Analysis",
+  "authors": [
+    "Junming Diao"
+  ],
+  "summary": "This paper introduces an innovative approach to radio astronomy by utilizing the global network of Internet of Things (IoT) devices to form a distributed radio telescope. Leveraging existing IoT infrastructure with minimal modifications, the proposed system employs widely dispersed devices to simultaneously capture both astronomical and communication signals. Digital beamforming techniques are applied to align the astronomical signals, effectively minimizing interference from communication sources. Calibration is achieved using multiple distributed satellites transmitting known signals, enabling precise channel estimation and phase correction via GPS localization. We analyze two calibration methods, Phase Alignment Calibration (PAC) and Eigenvalue-Based Calibration (EVC), and demonstrate that EVC outperforms PAC in environments with significant variation in node performance. Compared to the Green Bank Telescope (GBT), the IoT-based telescope enhances antenna gain by three orders of magnitude and increases survey speed by eight orders of magnitude, owing to the vast number of nodes and expansive field of view (FoV). These findings demonstrate the feasibility and significant advantages of the IoT-enabled telescope, paving the way for cost-effective, high-speed, and widely accessible astronomical observations.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-04-30"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.IM"
+}

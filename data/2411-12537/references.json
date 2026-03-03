@@ -1,0 +1,652 @@
+{
+  "2412-06464": {
+    "title": "Gated Delta Networks: Improving Mamba2 with Delta Rule",
+    "authors": [
+      "Songlin Yang",
+      "Jan Kautz",
+      "Ali Hatamizadeh"
+    ],
+    "publication_date": "2024-12-09",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "968ea1c7f681592ce6b0830eac0b7fda8db71792",
+    "corpus_id": 274598177,
+    "category": "Computer Science"
+  },
+  "2407-19115": {
+    "title": "Towards Scalable and Stable Parallelization of Nonlinear RNNs",
+    "authors": [
+      "Xavier Gonzalez",
+      "Andrew Warrington",
+      "Jimmy T.H. Smith",
+      "Scott W. Linderman"
+    ],
+    "publication_date": "2024-07-26",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "de5b72c3f8b0802fb860b4d3369dcfc864848944",
+    "corpus_id": 271534277,
+    "category": "Computer Science"
+  },
+  "2407-04620": {
+    "title": "Learning to (Learn at Test Time): RNNs with Expressive Hidden States",
+    "authors": [
+      "Yu Sun",
+      "Xinhao Li",
+      "Karan Dalal",
+      "Jiarui Xu",
+      "Arjun Vikram",
+      "Genghan Zhang",
+      "Yann Dubois",
+      "Xinlei Chen",
+      "Xiaolong Wang",
+      "Oluwasanmi Koyejo",
+      "Tatsunori Hashimoto",
+      "Carlos Guestrin"
+    ],
+    "publication_date": "2024-07-05",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "35ab93f41115e860bee5e202b71061addfd0fd5d",
+    "corpus_id": 271039606,
+    "category": "Computer Science"
+  },
+  "2406-09347": {
+    "title": "Separations in the Representational Capabilities of Transformers and Recurrent Architectures",
+    "authors": [
+      "S. Bhattamishra",
+      "Michael Hahn",
+      "Phil Blunsom",
+      "Varun Kanade"
+    ],
+    "publication_date": "2024-06-13",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "1073f194e3714757bf9a237a83bc55502aa41b95",
+    "corpus_id": 270440803,
+    "category": "Computer Science, Mathematics"
+  },
+  "2406-06484": {
+    "title": "Parallelizing Linear Transformers with the Delta Rule over Sequence Length",
+    "authors": [
+      "Songlin Yang",
+      "Bailin Wang",
+      "Yu Zhang",
+      "Yikang Shen",
+      "Yoon Kim"
+    ],
+    "publication_date": "2024-06-10",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "7afaabb73bec969c0937be46b9f0f757e07c8534",
+    "corpus_id": 270371554,
+    "category": "Computer Science"
+  },
+  "2405-21060": {
+    "title": "Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality",
+    "authors": [
+      "Tri Dao",
+      "Albert Gu"
+    ],
+    "publication_date": "2024-05-31",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "ca9f5b3bf0f54ad97513e6175b30497873670fed",
+    "corpus_id": 270199762,
+    "category": "Computer Science"
+  },
+  "2405-17394": {
+    "title": "The Expressive Capacity of State Space Models: A Formal Language Perspective",
+    "authors": [
+      "Yash Sarrof",
+      "Yana Veitsman",
+      "Michael Hahn"
+    ],
+    "publication_date": "2024-05-27",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "e7f47e8393c697696a3fccd9ff906dfdb49fe736",
+    "corpus_id": 270063518,
+    "category": "Computer Science"
+  },
+  "2405-04517": {
+    "title": "xLSTM: Extended Long Short-Term Memory",
+    "authors": [
+      "Maximilian Beck",
+      "Korbinian Poppel",
+      "M. Spanring",
+      "Andreas Auer",
+      "Oleksandra Prudnikova",
+      "Michael K Kopp",
+      "G. Klambauer",
+      "Johannes Brandstetter",
+      "Sepp Hochreiter"
+    ],
+    "publication_date": "2024-05-07",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "e2a6ffba64331989858e5078bfb8277343aa90bd",
+    "corpus_id": 269614336,
+    "category": "Computer Science, Mathematics"
+  },
+  "2404-08819": {
+    "title": "The Illusion of State in State-Space Models",
+    "authors": [
+      "William Merrill",
+      "Jackson Petty",
+      "Ashish Sabharwal"
+    ],
+    "publication_date": "2024-04-12",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "917479a7a72ee7c1fb320c14d770e30ef322ef28",
+    "corpus_id": 269149086,
+    "category": "Computer Science"
+  },
+  "2402-19047": {
+    "title": "Theoretical Foundations of Deep Selective State-Space Models",
+    "authors": [
+      "Nicola Muca Cirone",
+      "Antonio Orvieto",
+      "Benjamin Walker",
+      "C. Salvi",
+      "Terry Lyons"
+    ],
+    "publication_date": "2024-02-29",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "917096f28209ef90c9e6363cf49438341120af5e",
+    "corpus_id": 268063708,
+    "category": "Computer Science, Mathematics"
+  },
+  "2312-06635": {
+    "title": "Gated Linear Attention Transformers with Hardware-Efficient Training",
+    "authors": [
+      "Songlin Yang",
+      "Bailin Wang",
+      "Yikang Shen",
+      "Rameswar Panda",
+      "Yoon Kim"
+    ],
+    "publication_date": "2023-12-11",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "62b18cc55dcc7ffe52c28e1086aee893b7bc4334",
+    "corpus_id": 266162792,
+    "category": "Computer Science"
+  },
+  "2312-00752": {
+    "title": "Mamba: Linear-Time Sequence Modeling with Selective State Spaces",
+    "authors": [
+      "Albert Gu",
+      "Tri Dao"
+    ],
+    "publication_date": "2023-12-01",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "7bbc7595196a0606a07506c4fb1473e5e87f6082",
+    "corpus_id": 265551773,
+    "category": "Computer Science"
+  },
+  "2311-00208": {
+    "title": "What Formal Languages Can Transformers Express? A Survey",
+    "authors": [
+      "Lena Strobl",
+      "William Merrill",
+      "Gail Weiss",
+      "David Chiang",
+      "Dana Angluin"
+    ],
+    "publication_date": "2023-11-01",
+    "venue": "Transactions of the Association for Computational Linguistics",
+    "semantic_scholar_id": "09ebb5f26bbecbe3d604af2da3c65fc6f38833d8",
+    "corpus_id": 264833196,
+    "category": "Computer Science"
+  },
+  "2310-16076": {
+    "title": "Practical Computational Power of Linear Transformers and Their Recurrent and Self-Referential Extensions",
+    "authors": [
+      "Kazuki Irie",
+      "R'obert Csord'as",
+      "Jürgen Schmidhuber"
+    ],
+    "publication_date": "2023-10-24",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "9c71d178705989cd4371f8e760508f11b18a4bb4",
+    "corpus_id": 264451993,
+    "category": "Computer Science"
+  },
+  "2309-12252": {
+    "title": "Parallelizing non-linear sequential models over the sequence length",
+    "authors": [
+      "Yi Heng Lim",
+      "Qi Zhu",
+      "Joshua Selfridge",
+      "M. F. Kasim"
+    ],
+    "publication_date": "2023-09-21",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "c170b8763cb9f53810fbf44717fb78d8c04bb023",
+    "corpus_id": 262084002,
+    "category": "Computer Science, Physics"
+  },
+  "2309-07412": {
+    "title": "Advancing Regular Language Reasoning in Linear Recurrent Neural Networks",
+    "authors": [
+      "Ting-Han Fan",
+      "Ta-Chung Chi",
+      "Alexander I. Rudnicky"
+    ],
+    "publication_date": "2023-09-14",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "06a8f2e3c4266196b008851f1ec7ef9f340809da",
+    "corpus_id": 261823538,
+    "category": "Computer Science"
+  },
+  "2307-11888": {
+    "title": "Universality of Linear Recurrences Followed by Non-linear Projections: Finite-Width Guarantees and Benefits of Complex Eigenvalues",
+    "authors": [
+      "Antonio Orvieto",
+      "Soham De",
+      "Caglar Gulcehre",
+      "Razvan Pascanu",
+      "Samuel L. Smith"
+    ],
+    "publication_date": "2023-07-21",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "0a304c773678824f7ab82e9f1acc8ed86dc668af",
+    "corpus_id": 260125003,
+    "category": "Computer Science"
+  },
+  "2305-13048": {
+    "title": "RWKV: Reinventing RNNs for the Transformer Era",
+    "authors": [
+      "Bo Peng",
+      "Eric Alcaide",
+      "Quentin Anthony",
+      "Alon Albalak",
+      "Samuel Arcadinho",
+      "Stella Biderman",
+      "Huanqi Cao",
+      "Xin Cheng",
+      "Michael Chung",
+      "Matteo Grella",
+      "G. Kranthikiran",
+      "Xingjian Du",
+      "Xuming He",
+      "Haowen Hou",
+      "Przemyslaw Kazienko",
+      "Jan Kocoń",
+      "Jiaming Kong",
+      "Bartlomiej Koptyra",
+      "Hayden Lau",
+      "Krishna Sri Ipsit Mantri",
+      "Ferdinand Mom",
+      "Atsushi Saito",
+      "Xiangru Tang",
+      "Bolun Wang",
+      "J. S. Wind",
+      "Stansilaw Wozniak",
+      "Ruichong Zhang",
+      "Zhenyuan Zhang",
+      "Qihang Zhao",
+      "P. Zhou",
+      "Jian Zhu",
+      "Rui Zhu"
+    ],
+    "publication_date": "2023-05-22",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "026b3396a63ed5772329708b7580d633bb86bec9",
+    "corpus_id": 258832459,
+    "category": "Computer Science"
+  },
+  "2304-09433": {
+    "title": "Language Models Enable Simple Systems for Generating Structured Views of Heterogeneous Data Lakes",
+    "authors": [
+      "Simran Arora",
+      "Brandon Yang",
+      "Sabri Eyuboglu",
+      "A. Narayan",
+      "Andrew Hojel",
+      "Immanuel Trummer",
+      "Christopher Ré"
+    ],
+    "publication_date": "2023-04-19",
+    "venue": "Proceedings of the VLDB Endowment",
+    "semantic_scholar_id": "2ef1c2438c3a4552db9e7080e15d8c51bc071f58",
+    "corpus_id": 258212828,
+    "category": "Computer Science"
+  },
+  "2301-13196": {
+    "title": "Looped Transformers as Programmable Computers",
+    "authors": [
+      "Angeliki Giannou",
+      "Shashank Rajput",
+      "Jy-yong Sohn",
+      "Kangwook Lee",
+      "Jason D. Lee",
+      "Dimitris Papailiopoulos"
+    ],
+    "publication_date": "2023-01-30",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "d4c60620570801a231a7756f931dda1740288fb9",
+    "corpus_id": 256389656,
+    "category": "Computer Science"
+  },
+  "2212-14052": {
+    "title": "Hungry Hungry Hippos: Towards Language Modeling with State Space Models",
+    "authors": [
+      "Tri Dao",
+      "Daniel Y. Fu",
+      "Khaled Kamal Saab",
+      "A. Thomas",
+      "A. Rudra",
+      "Christopher Ré"
+    ],
+    "publication_date": "2022-12-28",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "5a77b508302771fc083bf24e0bcda8553c9b5421",
+    "corpus_id": 255340454,
+    "category": "Computer Science"
+  },
+  "2210-10749": {
+    "title": "Transformers Learn Shortcuts to Automata",
+    "authors": [
+      "Bingbin Liu",
+      "J. Ash",
+      "Surbhi Goel",
+      "A. Krishnamurthy",
+      "Cyril Zhang"
+    ],
+    "publication_date": "2022-10-19",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "e82e3f4347674b75c432cb80604d38ee630d4bf6",
+    "corpus_id": 252992725,
+    "category": "Computer Science, Mathematics"
+  },
+  "2207-02098": {
+    "title": "Neural Networks and the Chomsky Hierarchy",
+    "authors": [
+      "Gr'egoire Del'etang",
+      "Anian Ruoss",
+      "Jordi Grau-Moya",
+      "Tim Genewein",
+      "L. Wenliang",
+      "Elliot Catt",
+      "Marcus Hutter",
+      "S. Legg",
+      "Pedro A. Ortega"
+    ],
+    "publication_date": "2022-07-05",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "c6d38add1b7bbc10f0da37a90e3f1b51ee5fb617",
+    "corpus_id": 250280065,
+    "category": "Computer Science"
+  },
+  "2207-00729": {
+    "title": "The Parallelism Tradeoff: Limitations of Log-Precision Transformers",
+    "authors": [
+      "William Merrill",
+      "Ashish Sabharwal"
+    ],
+    "publication_date": "2022-07-02",
+    "venue": "Transactions of the Association for Computational Linguistics",
+    "semantic_scholar_id": "955191363c3676f71766af3d14d1e6bbc0f040d6",
+    "corpus_id": 257050206,
+    "category": "Computer Science"
+  },
+  "2111-00396": {
+    "title": "Efficiently Modeling Long Sequences with Structured State Spaces",
+    "authors": [
+      "Albert Gu",
+      "Karan Goel",
+      "Christopher R'e"
+    ],
+    "publication_date": "2021-10-31",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "ac2618b2ce5cdcf86f9371bcca98bc5e37e46f51",
+    "corpus_id": 240354066,
+    "category": "Computer Science"
+  },
+  "2110-13985": {
+    "title": "Combining Recurrent, Convolutional, and Continuous-time Models with Linear State-Space Layers",
+    "authors": [
+      "Albert Gu",
+      "Isys Johnson",
+      "Karan Goel",
+      "Khaled Kamal Saab",
+      "Tri Dao",
+      "A. Rudra",
+      "Christopher R'e"
+    ],
+    "publication_date": "2021-10-26",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "ca9047c78d48b606c4e4f0c456b1dda550de28b2",
+    "corpus_id": 239998472,
+    "category": "Computer Science"
+  },
+  "2106-06295": {
+    "title": "Going Beyond Linear Transformers with Recurrent Fast Weight Programmers",
+    "authors": [
+      "Kazuki Irie",
+      "Imanol Schlag",
+      "R'obert Csord'as",
+      "J. Schmidhuber"
+    ],
+    "publication_date": "2021-06-11",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "86589b6286ef3c55b8b4fccfb41a3b30b7afdf61",
+    "corpus_id": 235417174,
+    "category": "Computer Science"
+  },
+  "2103-03874": {
+    "title": "Measuring Mathematical Problem Solving With the MATH Dataset",
+    "authors": [
+      "Dan Hendrycks",
+      "Collin Burns",
+      "Saurav Kadavath",
+      "Akul Arora",
+      "Steven Basart",
+      "Eric Tang",
+      "D. Song",
+      "J. Steinhardt"
+    ],
+    "publication_date": "2021-03-05",
+    "venue": "NeurIPS Datasets and Benchmarks",
+    "semantic_scholar_id": "57d1e7ac339e783898f2c3b1af55737cbeee9fc5",
+    "corpus_id": 232134851,
+    "category": "Computer Science"
+  },
+  "2102-11174": {
+    "title": "Linear Transformers Are Secretly Fast Weight Programmers",
+    "authors": [
+      "Imanol Schlag",
+      "Kazuki Irie",
+      "J. Schmidhuber"
+    ],
+    "publication_date": "2021-02-22",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "1a703f08da01cf737cce3fb9064259b3f4b44e9c",
+    "corpus_id": 235377069,
+    "category": "Computer Science"
+  },
+  "2011-07831": {
+    "title": "Learning Associative Inference Using Fast Weight Memory",
+    "authors": [
+      "Imanol Schlag",
+      "Tsendsuren Munkhdalai",
+      "J. Schmidhuber"
+    ],
+    "publication_date": "2020-11-16",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "5e11e806d24dd80ecf0f91e7aacedbba8d9fd6fc",
+    "corpus_id": 226965048,
+    "category": "Computer Science"
+  },
+  "2006-16236": {
+    "title": "Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention",
+    "authors": [
+      "Angelos Katharopoulos",
+      "Apoorv Vyas",
+      "Nikolaos Pappas",
+      "Franccois Fleuret"
+    ],
+    "publication_date": "2020-06-29",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "6f68e1bb253925d8431588555d3010419f322e04",
+    "corpus_id": 220250819,
+    "category": "Computer Science, Mathematics"
+  },
+  "2004-08500": {
+    "title": "A Formal Hierarchy of RNN Architectures",
+    "authors": [
+      "William Merrill",
+      "Gail Weiss",
+      "Yoav Goldberg",
+      "Roy Schwartz",
+      "Noah A. Smith",
+      "Eran Yahav"
+    ],
+    "publication_date": "2020-04-01",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "45e5d7637a585a87d967a4a357d17c5d89aecea2",
+    "corpus_id": 215828261,
+    "category": "Computer Science"
+  },
+  "1911-11641": {
+    "title": "PIQA: Reasoning about Physical Commonsense in Natural Language",
+    "authors": [
+      "Yonatan Bisk",
+      "Rowan Zellers",
+      "Ronan Le Bras",
+      "Jianfeng Gao",
+      "Yejin Choi"
+    ],
+    "publication_date": "2019-11-26",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "04f4e55e14150b7c48b0287ba77c7443df76ed45",
+    "corpus_id": 208290939,
+    "category": "Computer Science"
+  },
+  "1910-02054": {
+    "title": "ZeRO: Memory optimizations Toward Training Trillion Parameter Models",
+    "authors": [
+      "Samyam Rajbhandari",
+      "Jeff Rasley",
+      "Olatunji Ruwase",
+      "Yuxiong He"
+    ],
+    "publication_date": "2019-10-04",
+    "venue": "International Conference for High Performance Computing, Networking, Storage and Analysis",
+    "semantic_scholar_id": "00c957711b12468cb38424caccdf5291bb354033",
+    "corpus_id": 269617042,
+    "category": "Computer Science, Mathematics"
+  },
+  "1906-06755": {
+    "title": "Theoretical Limitations of Self-Attention in Neural Sequence Models",
+    "authors": [
+      "Michael Hahn"
+    ],
+    "publication_date": "2019-06-16",
+    "venue": "Transactions of the Association for Computational Linguistics",
+    "semantic_scholar_id": "b3564be8b79f25585acb035f3deaf4ae93c26d8f",
+    "corpus_id": 189928186,
+    "category": "Computer Science"
+  },
+  "1905-07830": {
+    "title": "HellaSwag: Can a Machine Really Finish Your Sentence?",
+    "authors": [
+      "Rowan Zellers",
+      "Ari Holtzman",
+      "Yonatan Bisk",
+      "Ali Farhadi",
+      "Yejin Choi"
+    ],
+    "publication_date": "2019-05-01",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "8b0f27bb594b1eaaf493eaf1e2ee723a2b0a19ad",
+    "corpus_id": 159041722,
+    "category": "Computer Science"
+  },
+  "1806-03822": {
+    "title": "Know What You Don’t Know: Unanswerable Questions for SQuAD",
+    "authors": [
+      "Pranav Rajpurkar",
+      "Robin Jia",
+      "Percy Liang"
+    ],
+    "publication_date": "2018-06-11",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "4d1c856275744c0284312a3a50efb6ca9dc4cd4c",
+    "corpus_id": 47018994,
+    "category": "Computer Science"
+  },
+  "1803-05457": {
+    "title": "Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge",
+    "authors": [
+      "Peter Clark",
+      "Isaac Cowhey",
+      "Oren Etzioni",
+      "Tushar Khot",
+      "Ashish Sabharwal",
+      "Carissa Schoenick",
+      "Oyvind Tafjord"
+    ],
+    "publication_date": "2018-03-14",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "88bb0a28bb58d847183ec505dda89b63771bb495",
+    "corpus_id": 3922816,
+    "category": "Computer Science"
+  },
+  "1706-03762": {
+    "title": "Attention is All you Need",
+    "authors": [
+      "Ashish Vaswani",
+      "Noam M. Shazeer",
+      "Niki Parmar",
+      "Jakob Uszkoreit",
+      "Llion Jones",
+      "Aidan N. Gomez",
+      "Lukasz Kaiser",
+      "I. Polosukhin"
+    ],
+    "publication_date": "2017-06-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+    "corpus_id": 13756489,
+    "category": "Computer Science"
+  },
+  "1705-03551": {
+    "title": "TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension",
+    "authors": [
+      "Mandar Joshi",
+      "Eunsol Choi",
+      "Daniel S. Weld",
+      "Luke Zettlemoyer"
+    ],
+    "publication_date": "2017-05-01",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "f010affab57b5fcf1cd6be23df79d8ec98c7289c",
+    "corpus_id": 26501419,
+    "category": "Computer Science"
+  },
+  "1608-03983": {
+    "title": "SGDR: Stochastic Gradient Descent with Warm Restarts",
+    "authors": [
+      "I. Loshchilov",
+      "F. Hutter"
+    ],
+    "publication_date": "2016-08-13",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "b022f2a277a4bf5f42382e86e4380b96340b9e86",
+    "corpus_id": 14337532,
+    "category": "Computer Science, Mathematics"
+  },
+  "1606-06031": {
+    "title": "The LAMBADA dataset: Word prediction requiring a broad discourse context",
+    "authors": [
+      "Denis Paperno",
+      "Germán Kruszewski",
+      "Angeliki Lazaridou",
+      "Q. N. Pham",
+      "R. Bernardi",
+      "Sandro Pezzelle",
+      "Marco Baroni",
+      "Gemma Boleda",
+      "R. Fernández"
+    ],
+    "publication_date": "2016-06-20",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "5ed791f810da580c78df6a052c6b9f2e258f6b0a",
+    "corpus_id": 2381275,
+    "category": "Computer Science"
+  }
+}

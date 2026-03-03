@@ -1,0 +1,13 @@
+{
+  "title": "Universal programmable waveguide arrays",
+  "authors": [
+    "Akram Youssry",
+    "Alberto Peruzzo"
+  ],
+  "summary": "Implementing arbitrary unitary transformations is crucial for applications in quantum computing, signal processing, and machine learning. Unitaries govern quantum state evolution, enabling reversible transformations critical in quantum tasks like cryptography and simulation and playing key roles in classical domains such as dimensionality reduction and signal compression. Integrated optical waveguide arrays have emerged as a promising platform for these transformations, offering scalability for both quantum and classical systems. However, scalable and efficient methods for implementing arbitrary unitaries remain challenging. Here, we present a theoretical framework for realizing arbitrary unitary matrices through programmable waveguide arrays (PWAs). We provide a mathematical proof demonstrating that cascaded PWAs can implement any unitary matrix within practical constraints, along with a numerical optimization method for customized PWA designs. Our results establish PWAs as a universal and scalable architecture for quantum photonic computing, effectively bridging quantum and classical applications, and positioning PWAs as an enabling technology for advancements in quantum simulation, machine learning, secure communication, and signal processing.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, physics.optics"
+}

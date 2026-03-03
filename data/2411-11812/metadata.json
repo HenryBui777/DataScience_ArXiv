@@ -1,0 +1,17 @@
+{
+  "title": "cHyRRT and cHySST: Two Motion Planning Tools for Hybrid Dynamical Systems",
+  "authors": [
+    "Beverly Xu",
+    "Nan Wang",
+    "Ricardo Sanfelice"
+  ],
+  "summary": "This paper presents two implementations of the recently developed motion planning algorithms HyRRT arXiv:2210.1508(2) and HySST arXiv:2305.1864(9). Specifically, cHyRRT, an implementation of the HyRRT algorithm, generates solutions to motion planning problems for hybrid systems with a probabilistic completeness guarantee, while cHySST, an implementation of the asymptotically near-optimal HySST algorithm, finds near-optimal trajectories based on a user-defined cost function. The implementations align with the theoretical foundations of hybrid system theory and are designed based on OMPL, ensuring compatibility with ROS while prioritizing computational efficiency. The structure, components, and usage of both tools are detailed. A modified pinball game and collision-resilient tensegrity multicopter example are provided to illustrate the tools' key capabilities.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-12-10",
+    "2025-07-06"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

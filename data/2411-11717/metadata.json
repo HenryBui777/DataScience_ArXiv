@@ -1,0 +1,15 @@
+{
+  "title": "RAWMamba: Unified sRGB-to-RAW De-rendering With State Space Model",
+  "authors": [
+    "Hongjun Chen",
+    "Wencheng Han",
+    "Huan Zheng",
+    "Jianbing Shen"
+  ],
+  "summary": "Recent advancements in sRGB-to-RAW de-rendering have increasingly emphasized metadata-driven approaches to reconstruct RAW data from sRGB images, supplemented by partial RAW information. In image-based de-rendering, metadata is commonly obtained through sampling, whereas in video tasks, it is typically derived from the initial frame. The distinct metadata requirements necessitate specialized network architectures, leading to architectural incompatibilities that increase deployment complexity. In this paper, we propose RAWMamba, a Mamba-based unified framework developed for sRGB-to-RAW de-rendering across both image and video domains. The core of RAWMamba is the Unified Metadata Embedding (UME) module, which harmonizes diverse metadata types into a unified representation. In detail, a multi-perspective affinity modeling method is proposed to promote the extraction of reference information. In addition, we introduce the Local Tone-Aware Mamba (LTA-Mamba) module, which captures long-range dependencies to enable effective global propagation of metadata. Experimental results demonstrate that the proposed RAWMamba achieves state-of-the-art performance, yielding high-quality RAW data reconstruction.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Intermediate scattering function of a gravitactic circle swimmer",
+  "authors": [
+    "Regina Rusch",
+    "Oleksandr Chepizhko",
+    "Thomas Franosch"
+  ],
+  "summary": "We analyze gravitaxis of a Brownian circle swimmer by deriving and characterizing analytically the experimentally measurable intermediate scattering function (ISF). To solve the associated Fokker-Planck equation we use a spectral-theory approach and find formal expressions in terms of eigenfunctions and eigenvalues of the overdamped-noisy-driven-pendulum problem. We further perform a Taylor series of the ISF in the wavevector to read off the cumulants up to the fourth order. We focus on the skewness and kurtosis analyzed for four observation directions in the 2D-plane. Validating our findings involves conducting Langevin-dynamics simulations and interpreting the results using a harmonic approximation. The skewness and kurtosis are amplified as the orienting torque approaches the intrinsic angular drift of the circle swimmer from above, highlighting deviations from Gaussian behavior. Transforming the ISF to the comoving frame, again a measurable quantity, reveals gravitactic effects and diverse behaviors spanning from diffusive motion at low wavenumbers to circular motion at intermediate and directed motion at higher wavenumbers.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "Phys. Rev. E 110, 054606 (2024)",
+  "pdf_url": null,
+  "category": "cond-mat.soft"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Robust 3D Semantic Occupancy Prediction with Calibration-free Spatial Transformation",
+  "authors": [
+    "Zhuangwei Zhuang",
+    "Ziyin Wang",
+    "Sitao Chen",
+    "Lizhao Liu",
+    "Hui Luo",
+    "Mingkui Tan"
+  ],
+  "summary": "3D semantic occupancy prediction, which seeks to provide accurate and comprehensive representations of environment scenes, is important to autonomous driving systems. For autonomous cars equipped with multi-camera and LiDAR, it is critical to aggregate multi-sensor information into a unified 3D space for accurate and robust predictions. Recent methods are mainly built on the 2D-to-3D transformation that relies on sensor calibration to project the 2D image information into the 3D space. These methods, however, suffer from two major limitations: First, they rely on accurate sensor calibration and are sensitive to the calibration noise, which limits their application in real complex environments. Second, the spatial transformation layers are computationally expensive and limit their running on an autonomous vehicle. In this work, we attempt to exploit a Robust and Efficient 3D semantic Occupancy (REO) prediction scheme. To this end, we propose a calibration-free spatial transformation based on vanilla attention to implicitly model the spatial correspondence. In this way, we robustly project the 2D features to a predefined BEV plane without using sensor calibration as input. Then, we introduce 2D and 3D auxiliary training tasks to enhance the discrimination power of 2D backbones on spatial, semantic, and texture features. Last, we propose a query-based prediction scheme to efficiently generate large-scale fine-grained occupancy predictions. By fusing point clouds that provide complementary spatial information, our REO surpasses the existing methods by a large margin on three benchmarks, including OpenOccupancy, Occ3D-nuScenes, and SemanticKITTI Scene Completion. For instance, our REO achieves 19.8$\\times$ speedup compared to Co-Occ, with 1.1 improvements in geometry IoU on OpenOccupancy. Our code will be available at https://github.com/ICEORY/REO.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

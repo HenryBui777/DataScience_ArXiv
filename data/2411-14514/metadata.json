@@ -1,0 +1,21 @@
+{
+  "title": "NexusSplats: Efficient 3D Gaussian Splatting in the Wild",
+  "authors": [
+    "Yuzhou Tang",
+    "Dejun Xu",
+    "Yongjie Hou",
+    "Zhenzhong Wang",
+    "Min Jiang"
+  ],
+  "summary": "Photorealistic 3D reconstruction of unstructured real-world scenes remains challenging due to complex illumination variations and transient occlusions. Existing methods based on Neural Radiance Fields (NeRF) and 3D Gaussian Splatting (3DGS) struggle with inefficient light decoupling and structure-agnostic occlusion handling. To address these limitations, we propose NexusSplats, an approach tailored for efficient and high-fidelity 3D scene reconstruction under complex lighting and occlusion conditions. In particular, NexusSplats leverages a hierarchical light decoupling strategy that performs centralized appearance learning, efficiently and effectively decoupling varying lighting conditions. Furthermore, a structure-aware occlusion handling mechanism is developed, establishing a nexus between 3D and 2D structures for fine-grained occlusion handling. Experimental results demonstrate that NexusSplats achieves state-of-the-art rendering quality and reduces the number of total parameters by 65.4\\%, leading to 2.7$\\times$ faster reconstruction.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-25",
+    "2024-11-26",
+    "2024-11-28",
+    "2025-03-09"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Sounds Good? Fast and Secure Contact Exchange in Groups",
+  "authors": [
+    "Florentin Putz",
+    "Steffen Haesler",
+    "Matthias Hollick"
+  ],
+  "summary": "Trustworthy digital communication requires the secure exchange of contact information, but current approaches lack usability and scalability for larger groups of users. We evaluate the usability of two secure contact exchange systems: the current state of the art, SafeSlinger, and our newly designed protocol, PairSonic, which extends trust from physical encounters to spontaneous online communication. Our lab study (N=45) demonstrates PairSonic's superior usability, automating the tedious verification tasks from previous approaches via an acoustic out-of-band channel. Although participants significantly preferred our system, minimizing user effort surprisingly decreased the perceived security for some users, who associated security with complexity. We discuss user perceptions of the different protocol components and identify remaining usability barriers for CSCW application scenarios.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "Proc. ACM Hum.-Comput. Interact. 8, CSCW2, Article 425 (November 2024), 44 pages",
+  "pdf_url": null,
+  "category": "cs.HC, cs.CR, cs.NI"
+}

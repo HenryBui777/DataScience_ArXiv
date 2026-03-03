@@ -1,0 +1,12 @@
+{
+  "title": "Modelling financial returns with mixtures of generalized normal distributions",
+  "authors": [
+    "Pierdomenico Duttilo"
+  ],
+  "summary": "This PhD Thesis presents an investigation into the analysis of financial returns using mixture models, focusing on mixtures of generalized normal distributions (MGND) and their extensions. The study addresses several critical issues encountered in the estimation process and proposes innovative solutions to enhance accuracy and efficiency. In Chapter 2, the focus lies on the MGND model and its estimation via expectation conditional maximization (ECM) and generalized expectation maximization (GEM) algorithms. A thorough exploration reveals a degeneracy issue when estimating the shape parameter. Several algorithms are proposed to overcome this critical issue. Chapter 3 extends the theoretical perspective by applying the MGND model on several stock market indices. A two-step approach is proposed for identifying turmoil days and estimating returns and volatility. Chapter 4 introduces constrained mixture of generalized normal distributions (CMGND), enhancing interpretability and efficiency by imposing constraints on parameters. Simulation results highlight the benefits of constrained parameter estimation. Finally, Chapter 5 introduces generalized normal distribution-hidden Markov models (GND-HMMs) able to capture the dynamic nature of financial returns. This manuscript contributes to the statistical modelling of financial returns by offering flexible, parsimonious, and interpretable frameworks. The proposed mixture models capture complex patterns in financial data, thereby facilitating more informed decision-making in financial analysis and risk management.",
+  "submission_date": "2024-10-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-fin.ST, stat.ME"
+}

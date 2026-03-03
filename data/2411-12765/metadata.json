@@ -1,0 +1,15 @@
+{
+  "title": "Motion Analysis of Upper Limb and Hand in a Haptic Rotation Task",
+  "authors": [
+    "Kathrin Krieger",
+    "Yuri De Pra",
+    "Helge Ritter",
+    "Alexandra Moringen"
+  ],
+  "summary": "Humans seem to have a bias to overshoot when rotating a rotary knob blindfolded around a specified target angle (i.e. during haptic rotation). Whereas some influence factors that strengthen or weaken such an effect are already known, the underlying reasons for the overshoot are still unknown. This work approaches the topic of haptic rotations by analyzing a detailed recording of the movement. We propose an experimental framework and an approach to investigate which upper limb and hand joint movements contribute significantly to a haptic rotation task and to the angle overshoot based on the acquired data. With stepwise regression with backward elimination, we analyze a rotation around 90 degrees counterclockwise with two fingers under different grasping orientations. Our results showed that the wrist joint, the sideways finger movement in the proximal joints, and the distal finger joints contributed significantly to overshooting. This suggests that two phenomena are behind the overshooting: 1) The significant contribution of the wrist joint indicates a bias of a hand-centered egocentric reference frame. 2) Significant contribution of the finger joints indicates a rolling of the fingertips over the rotary knob surface and, thus, a change of contact point for which probably the human does not compensate.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.HC, cs.RO"
+}

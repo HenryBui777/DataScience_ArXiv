@@ -1,0 +1,295 @@
+@article{Zhang.2022,
+  title = {PEDENet: Image anomaly localization via patch embedding and density estimation},
+  author = {Zhang, Kaitai and Wang, Bin and Kuo, C.-C. Jay},
+  year = {2022},
+  journal = {Pattern Recognition Letters},
+  volume = {153},
+  pages = {144--150},
+  doi = {10.1016/j.patrec.2021.11.030},
+  issn = {01678655},
+  file = {PEDENet Image anomaly localization via patch embedding a:Attachments/PEDENet Image anomaly localization via patch embedding a.pdf:application/pdf},
+}
+
+@article{Choi.2022,
+  title = {ViV-Ano: Anomaly Detection and Localization Combining Vision Transformer and Variational Autoencoder in the Manufacturing Process},
+  author = {Choi, Byeonggeun and Jeong, Jongpil},
+  year = {2022},
+  journal = {Electronics},
+  volume = {11},
+  number = {15},
+  pages = {2306},
+  doi = {10.3390/electronics11152306},
+  file = {ViV-Ano Anomaly Detection and Localization Combining Vis:Attachments/ViV-Ano Anomaly Detection and Localization Combining Vis.pdf:application/pdf},
+}
+
+@misc{Bae.11222022,
+  title = {Image Anomaly Detection and Localization with Position and Neighborhood  Information},
+  author = {Bae, Jaehyeok and Lee, Jae-Han and Kim, Seyun},
+  url = {https://arxiv.org/pdf/2211.12634v2.pdf},
+  abstract = {Anomaly detection and localization are essential in many areas, where collecting enough anomalous samples for training is almost impossible. To overcome this difficulty, many existing methods use a pre-trained network to encode input images and non-parametric modeling to estimate the encoded feature distribution. In the modeling process, however, they overlook that position and neighborhood information affect the distribution of normal features. To use the information, in this paper, the normal distribution is estimated with conditional probability given neighborhood features, which is modeled with a multi-layer perceptron network. At the same time, positional information can be used by building a histogram of representative features at each position. While existing methods simply resize the anomaly map into the resolution of an input image, the proposed method uses an additional refine network that is trained from synthetic anomaly images to perform better interpolation considering the shape and edge of the input image. For the popular industrial dataset, MVTec AD benchmark, the experimental results show \textbf{99.52\%},
+  date = {11/22/2022},
+  keywords = {Computer Science - Computer Vision and Pattern Recognition},
+  file = {221112634v2pdf:Attachments/221112634v2pdf.pdf:application/pdf},
+}
+
+@misc{Vaswani.2021,
+  title = {Scaling Local Self-Attention for Parameter Efficient Visual Backbones},
+  author = {Vaswani, Ashish and Ramachandran, Prajit and Srinivas, Aravind and Parmar, Niki and Hechtman, Blake and Shlens, Jonathon},
+  url = {https://arxiv.org/pdf/2103.12731},
+  abstract = {Self-attention has the promise of improving computer vision systems due to parameter-independent scaling of receptive fields and content-dependent interactions, in contrast to parameter-dependent scaling and content-independent interactions of convolutions. Self-attention models have recently been shown to have encouraging improvements on accuracy-parameter trade-offs compared to baseline convolutional models such as ResNet-50. In this work, we aim to develop self-attention models that can outperform not just the canonical baseline models, but even the high-performing convolutional models. We propose two extensions to self-attention that, in conjunction with a more efficient implementation of self-attention, improve the speed, memory usage, and accuracy of these models. We leverage these improvements to develop a new self-attention model family, HaloNets, which reach state-of-the-art accuracies on the parameter-limited setting of the ImageNet classification benchmark. In preliminary transfer learning experiments, we find that HaloNet models outperform much larger models and have better inference performance. On harder tasks such as object detection and instance segmentation, our simple local self-attention and convolutional hybrids show improvements over very strong baselines. These results mark another step in demonstrating the efficacy of self-attention models on settings traditionally dominated by convolutional models.},
+  date = {2021},
+  keywords = {Computer Vision and Pattern Recognition (cs.CV)},
+  file = {Scaling Local Self-Attention for Parameter Efficient Vis:Attachments/Scaling Local Self-Attention for Parameter Efficient Vis.pdf:application/pdf},
+}
+
+@misc{Zhang.5262021,
+  title = {Nested Hierarchical Transformer: Towards Accurate, Data-Efficient and  Interpretable Visual Understanding},
+  author = {Zhang, Zizhao and Zhang, Han and Zhao, Long and Chen, Ting and Arik, Sercan O. and Pfister, Tomas},
+  url = {https://arxiv.org/pdf/2105.12723.pdf},
+  abstract = {Hierarchical structures are popular in recent vision transformers, however, they require sophisticated designs and massive datasets to work well. In this paper, we explore the idea of nesting basic local transformers on non-overlapping image blocks and aggregating them in a hierarchical way. We find that the block aggregation function plays a critical role in enabling cross-block non-local information communication. This observation leads us to design a simplified architecture that requires minor code changes upon the original vision transformer. The benefits of the proposed judiciously-selected design are threefold: (1) NesT converges faster and requires much less training data to achieve good generalization on both ImageNet and small datasets like CIFAR; (2) when extending our key ideas to image generation, NesT leads to a strong decoder that is 8$\times$ faster than previous transformer-based generators; and (3) we show that decoupling the feature learning and abstraction processes via this nested hierarchy in our design enables constructing a novel method (named GradCAT) for visually interpreting the learned model. Source code is available https://github.com/google-research/nested-transformer.},
+  date = {5/26/2021},
+  keywords = {Computer Science - Computer Vision and Pattern Recognition},
+  file = {210512723pdf:Attachments/210512723pdf.pdf:application/pdf},
+}
+
+@misc{Touvron.2020,
+  title = {Training data-efficient image transformers {\&},
+  author = {Touvron, Hugo and Cord, Matthieu and Douze, Matthijs and Massa, Francisco and Sablayrolles, Alexandre and J{\'e},
+  url = {https://arxiv.org/pdf/2012.12877},
+  abstract = {Recently, neural networks purely based on attention were shown to address image understanding tasks such as image classification. However, these visual transformers are pre-trained with hundreds of millions of images using an expensive infrastructure, thereby limiting their adoption.
+              
+              In this work, we produce a competitive convolution-free transformer by training on Imagenet only. We train them on a single computer in less than 3 days. Our reference vision transformer (86M parameters) achieves top-1 accuracy of 83.1{\%},
+  date = {2020},
+  keywords = {Computer Vision and Pattern Recognition (cs.CV)},
+  file = {Training data-efficient image transformers  distillation:Attachments/Training data-efficient image transformers  distillation.pdf:application/pdf},
+}
+
+@misc{You.952022,
+  title = {ADTR: Anomaly Detection Transformer with Feature Reconstruction},
+  author = {You, Zhiyuan and Yang, Kai and Luo, Wenhan and Cui, Lei and {Le Xinyi},
+  url = {https://arxiv.org/pdf/2209.01816.pdf},
+  abstract = {Anomaly detection with only prior knowledge from normal samples attracts more attention because of the lack of anomaly samples. Existing CNN-based pixel reconstruction approaches suffer from two concerns. First, the reconstruction source and target are raw pixel values that contain indistinguishable semantic information. Second, CNN tends to reconstruct both normal samples and anomalies well, making them still hard to distinguish. In this paper, we propose Anomaly Detection TRansformer (ADTR) to apply a transformer to reconstruct pre-trained features. The pre-trained features contain distinguishable semantic information. Also, the adoption of transformer limits to reconstruct anomalies well such that anomalies could be detected easily once the reconstruction fails. Moreover, we propose novel loss functions to make our approach compatible with the normal-sample-only case and the anomaly-available case with both image-level and pixel-level labeled anomalies. The performance could be further improved by adding simple synthetic or external irrelevant anomalies. Extensive experiments are conducted on anomaly detection datasets including MVTec-AD and CIFAR-10. Our method achieves superior performance compared with all baselines.},
+  date = {9/5/2022},
+  keywords = {Computer Science - Computer Vision and Pattern Recognition},
+  file = {220901816pdf:Attachments/220901816pdf.pdf:application/pdf},
+}
+
+@article{Wang.2018,
+  title = {A fast and robust convolutional neural network-based defect detection model in product quality control},
+  author = {Wang, Tian and Chen, Yang and Qiao, Meina and Snoussi, Hichem},
+  year = {2018},
+  journal = {The International Journal of Advanced Manufacturing Technology},
+  volume = {94},
+  number = {9-12},
+  pages = {3465--3471},
+  doi = {10.1007/s00170-017-0882-0},
+  issn = {0268-3768},
+  abstract = {Int J Adv Manuf Technol, doi:10.1007/s00170-017-0882-0},
+  keywords = {Convolutional neural networks;Defect detection;Product quality control},
+  file = {A fast and robust convolutional neural network-based def:Attachments/A fast and robust convolutional neural network-based def.pdf:application/pdf},
+}
+
+@misc{Mathian.862022,
+  title = {HaloAE: An HaloNet based Local Transformer Auto-Encoder for Anomaly  Detection and Localization},
+  author = {Mathian, E. and Liu, H. and Fernandez-Cuesta, L. and Samaras, D. and Foll, M. and Chen, L.},
+  url = {https://arxiv.org/pdf/2208.03486.pdf},
+  abstract = {Unsupervised anomaly detection and localization is a crucial task as it is impossible to collect and label all possible anomalies. Many studies have emphasized the importance of integrating local and global information to achieve accurate segmentation of anomalies. To this end, there has been a growing interest in Transformer, which allows modeling long-range content interactions. However, global interactions through self attention are generally too expensive for most image scales. In this study, we introduce HaloAE, the first auto-encoder based on a local 2D version of Transformer with HaloNet. With HaloAE, we have created a hybrid model that combines convolution and local 2D block-wise self-attention layers and jointly performs anomaly detection and segmentation through a single model. We achieved competitive results on the MVTec dataset, suggesting that vision models incorporating Transformer could benefit from a local computation of the self-attention operation, and pave the way for other applications.},
+  date = {08/06/2022},
+  keywords = {Computer Science - Artificial Intelligence;Computer Science - Computer Vision and Pattern Recognition},
+  file = {220803486pdf:Attachments/220803486pdf.pdf:application/pdf},
+}
+
+@misc{Dosovitskiy.2020,
+  title = {An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale},
+  author = {Dosovitskiy, Alexey and Beyer, Lucas and Kolesnikov, Alexander and Weissenborn, Dirk and Zhai, Xiaohua and Unterthiner, Thomas and Dehghani, Mostafa and Minderer, Matthias and Heigold, Georg and Gelly, Sylvain and Uszkoreit, Jakob and Houlsby, Neil},
+  url = {https://arxiv.org/pdf/2010.11929},
+  abstract = {While the Transformer architecture has become the de-facto standard for natural language processing tasks, its applications to computer vision remain limited. In vision, attention is either applied in conjunction with convolutional networks, or used to replace certain components of convolutional networks while keeping their overall structure in place. We show that this reliance on CNNs is not necessary and a pure transformer applied directly to sequences of image patches can perform very well on image classification tasks. When pre-trained on large amounts of data and transferred to multiple mid-sized or small image recognition benchmarks (ImageNet, CIFAR-100, VTAB, etc.), Vision Transformer (ViT) attains excellent results compared to state-of-the-art convolutional networks while requiring substantially fewer computational resources to train.},
+  date = {2020},
+  keywords = {Artificial Intelligence (cs.AI);Computer Vision and Pattern Recognition (cs.CV);Machine Learning (cs.LG)},
+  file = {An Image is Worth 16x16 Words Transformers for Image Rec:Attachments/An Image is Worth 16x16 Words Transformers for Image Rec.pdf:application/pdf},
+}
+
+@misc{Roth.6152021,
+  title = {Towards Total Recall in Industrial Anomaly Detection},
+  author = {Roth, Karsten and Pemula, Latha and Zepeda, Joaquin and Sch{\"o},
+  url = {https://arxiv.org/pdf/2106.08265v2.pdf},
+  abstract = {Being able to spot defective parts is a critical component in large-scale industrial manufacturing. A particular challenge that we address in this work is the cold-start problem: fit a model using nominal (non-defective) example images only. While handcrafted solutions per class are possible, the goal is to build systems that work well simultaneously on many different tasks automatically. The best performing approaches combine embeddings from ImageNet models with an outlier detection model. In this paper, we extend on this line of work and propose \textbf{PatchCore},
+  date = {06/15/2021},
+  keywords = {Computer Science - Computer Vision and Pattern Recognition},
+  file = {210608265v2pdf:Attachments/210608265v2pdf.pdf:application/pdf},
+}
+
+@misc{Yu.2021,
+  title = {FastFlow: Unsupervised Anomaly Detection and Localization via 2D Normalizing Flows},
+  author = {Yu, Jiawei and Zheng, Ye and Wang, Xiang and Li, Wei and Wu, Yushuang and Zhao, Rui and Wu, Liwei},
+  url = {https://arxiv.org/pdf/2111.07677},
+  abstract = {Unsupervised anomaly detection and localization is crucial to the practical application when collecting and labeling sufficient anomaly data is infeasible. Most existing representation-based approaches extract normal image features with a deep convolutional neural network and characterize the corresponding distribution through non-parametric distribution estimation methods. The anomaly score is calculated by measuring the distance between the feature of the test image and the estimated distribution. However, current methods can not effectively map image features to a tractable base distribution and ignore the relationship between local and global features which are important to identify anomalies. To this end, we propose FastFlow implemented with 2D normalizing flows and use it as the probability distribution estimator. Our FastFlow can be used as a plug-in module with arbitrary deep feature extractors such as ResNet and vision transformer for unsupervised anomaly detection and localization. In training phase, FastFlow learns to transform the input visual feature into a tractable distribution and obtains the likelihood to recognize anomalies in inference phase. Extensive experimental results on the MVTec AD dataset show that FastFlow surpasses previous state-of-the-art methods in terms of accuracy and inference efficiency with various backbone networks. Our approach achieves 99.4{\%},
+  date = {2021},
+  keywords = {Computer Vision and Pattern Recognition (cs.CV)},
+  file = {FastFlow Unsupervised Anomaly Detection and Localization:Attachments/FastFlow Unsupervised Anomaly Detection and Localization.pdf:application/pdf},
+}
+
+@misc{Gudovskiy.2021,
+  title = {CFLOW-AD: Real-Time Unsupervised Anomaly Detection with Localization via Conditional Normalizing Flows},
+  author = {Gudovskiy, Denis and Ishizaka, Shun and Kozuka, Kazuki},
+  url = {https://arxiv.org/pdf/2107.12571},
+  abstract = {Unsupervised anomaly detection with localization has many practical applications when labeling is infeasible and, moreover, when anomaly examples are completely missing in the train data. While recently proposed models for such data setup achieve high accuracy metrics, their complexity is a limiting factor for real-time processing. In this paper, we propose a real-time model and analytically derive its relationship to prior methods. Our CFLOW-AD model is based on a conditional normalizing flow framework adopted for anomaly detection with localization. In particular, CFLOW-AD consists of a discriminatively pretrained encoder followed by a multi-scale generative decoders where the latter explicitly estimate likelihood of the encoded features. Our approach results in a computationally and memory-efficient model: CFLOW-AD is faster and smaller by a factor of 10x than prior state-of-the-art with the same input setting. Our experiments on the MVTec dataset show that CFLOW-AD outperforms previous methods by 0.36{\%},
+  date = {2021},
+  keywords = {Artificial Intelligence (cs.AI);Computer Vision and Pattern Recognition (cs.CV);Machine Learning (cs.LG)},
+  file = {CFLOW-AD Real-Time Unsupervised Anomaly Detection with L:Attachments/CFLOW-AD Real-Time Unsupervised Anomaly Detection with L.pdf:application/pdf},
+}
+
+@inproceedings{Mishra.2021,
+  author = {Mishra, Pankaj and Verk, Riccardo and Fornasier, Daniele and Piciarelli, Claudio and Foresti, Gian Luca},
+  title = {{VT-ADL},
+  booktitle = {30th IEEE/IES International Symposium on Industrial Electronics (ISIE)},
+  year = {2021},
+  month = {June},
+  location = {Kyoto, Japan},
+}
+
+@article{Tao.2022,
+  title = {Deep Learning for Unsupervised Anomaly Localization in Industrial Images: A Survey},
+  author = {Tao, Xian and Gong, Xinyi and Zhang, Xin and Yan, Shaohua and Adak, Chandranath},
+  year = {2022},
+  journal = {IEEE Transactions on Instrumentation and Measurement},
+  volume = {71},
+  pages = {1--21},
+  doi = {10.1109/TIM.2022.3196436},
+  issn = {0018-9456},
+  file = {Deep Learning for Unsupervised Anomaly Localization in I:Attachments/Deep Learning for Unsupervised Anomaly Localization in I.pdf:application/pdf},
+}
+
+@inproceedings{Zong.,
+  title = {Deep Autoencoding Gaussian Mixture Model for Unsupervised Anomaly Detection},
+  author = {Bo Zong and Qi Song and Martin Renqiang Min and Wei Cheng and Cristian Lumezanu and Daeki Cho and Haifeng Chen},
+  booktitle = {International Conference on Learning Representations},
+  year = {2018},
+  url = {https://openreview.net/forum?id=BJJLHbb0-},
+}
+
+@misc{Li.6172021,
+  title = {Efficient Self-supervised Vision Transformers for Representation  Learning},
+  author = {Li, Chunyuan and Yang, Jianwei and Zhang, Pengchuan and Gao, Mei and Xiao, Bin and Dai, Xiyang and Yuan, Lu and Gao, Jianfeng},
+  url = {https://arxiv.org/pdf/2106.09785.pdf},
+  abstract = {This paper investigates two techniques for developing efficient self-supervised vision transformers (EsViT) for visual representation learning. First, we show through a comprehensive empirical study that multi-stage architectures with sparse self-attentions can significantly reduce modeling complexity but with a cost of losing the ability to capture fine-grained correspondences between image regions. Second, we propose a new pre-training task of region matching which allows the model to capture fine-grained region dependencies and as a result significantly improves the quality of the learned vision representations. Our results show that combining the two techniques, EsViT achieves 81.3{\%},
+  date = {06/17/2021},
+  keywords = {Computer Science - Artificial Intelligence;Computer Science - Computer Vision and Pattern Recognition;Computer Science - Learning},
+  file = {210609785pdf:Attachments/210609785pdf.pdf:application/pdf},
+}
+
+@techreport{Bishop.,
+}
+
+@misc{He.2015ResNet,
+  title = {Deep Residual Learning for Image Recognition},
+  author = {He, Kaiming and Zhang, Xiangyu and Ren, Shaoqing and Sun, Jian},
+  url = {https://arxiv.org/pdf/1512.03385},
+  abstract = {Deeper neural networks are more difficult to train. We present a residual learning framework to ease the training of networks that are substantially deeper than those used previously. We explicitly reformulate the layers as learning residual functions with reference to the layer inputs, instead of learning unreferenced functions. We provide comprehensive empirical evidence showing that these residual networks are easier to optimize, and can gain accuracy from considerably increased depth. On the ImageNet dataset we evaluate residual nets with a depth of up to 152 layers---8x deeper than VGG nets but still having lower complexity. An ensemble of these residual nets achieves 3.57{\%},
+  date = {2015},
+  keywords = {Computer Vision and Pattern Recognition (cs.CV)},
+  file = {Deep Residual Learning for Image Recognition:Attachments/Deep Residual Learning for Image Recognition.pdf:application/pdf},
+}
+
+@article{Wang.2022,
+  title = {PVT v2: Improved baselines with Pyramid Vision Transformer},
+  author = {Wang, Wenhai and Xie, Enze and Li, Xiang and Fan, Deng-Ping and Song, Kaitao and Liang, Ding and Lu, Tong and Luo, Ping and Shao, Ling},
+  year = {2022},
+  journal = {Computational Visual Media},
+  volume = {8},
+  number = {3},
+  pages = {415--424},
+  doi = {10.1007/s41095-022-0274-8},
+  issn = {2096-0433},
+  file = {PVT v2 Improved baselines with Pyramid Vision Transformer:Attachments/PVT v2 Improved baselines with Pyramid Vision Transformer.pdf:application/pdf},
+}
+
+@misc{Liu.2021,
+  title = {Swin Transformer: Hierarchical Vision Transformer using Shifted Windows},
+  author = {Liu, Ze and Lin, Yutong and Cao, Yue and Hu, Han and Wei, Yixuan and Zhang, Zheng and Lin, Stephen and Guo, Baining},
+  url = {https://arxiv.org/pdf/2103.14030},
+  abstract = {This paper presents a new vision Transformer, called Swin Transformer, that capably serves as a general-purpose backbone for computer vision. Challenges in adapting Transformer from language to vision arise from differences between the two domains, such as large variations in the scale of visual entities and the high resolution of pixels in images compared to words in text. To address these differences, we propose a hierarchical Transformer whose representation is computed with \textbf{S},
+  date = {2021},
+  keywords = {Computer Vision and Pattern Recognition (cs.CV);Machine Learning (cs.LG)},
+  file = {Swin Transformer Hierarchical Vision Transformer using S:Attachments/Swin Transformer Hierarchical Vision Transformer using S.pdf:application/pdf},
+}
+
+@article{Fan.2020,
+  title = {Video anomaly detection and localization via Gaussian Mixture Fully Convolutional Variational Autoencoder},
+  author = {Fan, Yaxiang and Wen, Gongjian and Li, Deren and Qiu, Shaohua and Levine, Martin D. and Xiao, Fei},
+  year = {2020},
+  journal = {Computer Vision and Image Understanding},
+  volume = {195},
+  doi = {10.1016/j.cviu.2020.102920},
+  issn = {10773142},
+  abstract = {We present a novel end-to-end partially supervised deep learning approach for video anomaly detection and localization using only normal samples. The insight that motivates this study is that the normal samples can be associated with at least one Gaussian component of a Gaussian Mixture Model (GMM), while anomalies either do not belong to any Gaussian component. The method is based on Gaussian Mixture Variational Autoencoder, which can learn feature representations of the normal samples as a Gaussian Mixture Model trained using deep learning. A Fully Convolutional Network (FCN) that does not contain a fully-connected layer is employed for the encoder--decoder structure to preserve relative spatial coordinates between the input image and the output feature map. Based on the joint probabilities of each of the Gaussian mixture components, we introduce a sample energy based method to score the anomaly of image test patches. A two-stream network framework is employed to combine the appearance and motion anomalies, using RGB frames for the former and dynamic flow images, for the latter. We test our approach on two popular benchmarks (UCSD Dataset and Avenue Dataset). The experimental results verify the superiority of our method compared to the state of the art.},
+  keywords = {Anomaly detection;Dynamic flow;Gaussian mixture model;Two-stream network;Variational autoencoder;Video surveillance},
+  file = {Video anomaly detection and localization via Gaussian Mi:Attachments/Video anomaly detection and localization via Gaussian Mi.pdf:application/pdf},
+}
+
+@misc{Dinh.2016,
+  title = {Density estimation using Real NVP},
+  author = {Dinh, Laurent and Sohl-Dickstein, Jascha and Bengio, Samy},
+  url = {https://arxiv.org/pdf/1605.08803},
+  abstract = {Unsupervised learning of probabilistic models is a central yet challenging problem in machine learning. Specifically, designing models with tractable learning, sampling, inference and evaluation is crucial in solving this task. We extend the space of such models using real-valued non-volume preserving (real NVP) transformations, a set of powerful invertible and learnable transformations, resulting in an unsupervised learning algorithm with exact log-likelihood computation, exact sampling, exact inference of latent variables, and an interpretable latent space. We demonstrate its ability to model natural images on four datasets through sampling, log-likelihood evaluation and latent variable manipulations.},
+  date = {2016},
+  file = {Density estimation using Real NVP:Attachments/Density estimation using Real NVP.pdf:application/pdf},
+  keywords = {Artificial Intelligence (cs.AI);Machine Learning (cs.LG);Machine Learning (stat.ML);Neural and Evolutionary Computing (cs.NE)},
+  1 = {https://arxiv.org/pdf/1605.08803},
+}
+
+@article{li2022efficientformer,
+  title = {EfficientFormer: Vision Transformers at MobileNet Speed},
+  author = {Li, Yanyu and Yuan, Geng and Wen, Yang and Hu, Ju and Evangelidis, Georgios and Tulyakov, Sergey and Wang, Yanzhi and Ren, Jian},
+  year = {2022},
+  journal = {arXiv preprint arXiv:2206.01191},
+}
+
+@misc{Kim.10262022,
+  title = {AltUB: Alternating Training Method to Update Base Distribution of Normalizing Flow for Anomaly Detection},
+  author = {Kim, Yeongmin and Jang, Huiwon and Lee, DongKeon and Choi, Ho-Jin},
+  url = {https://arxiv.org/pdf/2210.14913v1.pdf},
+  abstract = {Unsupervised anomaly detection is coming into the spotlight these days in various practical domains due to the limited amount of anomaly data. One of the major approaches for it is a normalizing flow which pursues the invertible transformation of a complex distribution as images into an easy distribution as N(0, I). In fact, algorithms based on normalizing flow like FastFlow and CFLOW-AD establish state-of-the-art performance on unsupervised anomaly detection tasks. Nevertheless, we investigate these algorithms convert normal images into not N(0, I) as their destination, but an arbitrary normal distribution. Moreover, their performances are often unstable, which is highly critical for unsupervised tasks because data for validation are not provided. To break through these observations, we propose a simple solution AltUB which introduces alternating training to update the base distribution of normalizing flow for anomaly detection. AltUB effectively improves the stability of performance of normalizing flow. Furthermore, our method achieves the new state-of-the-art performance of the anomaly segmentation task on the MVTec AD dataset with 98.8{\%},
+  date = {10/26/2022},
+  file = {221014913v1pdf:Attachments/221014913v1pdf.pdf:application/pdf},
+  keywords = {Computer Science - Artificial Intelligence;Computer Science - Learning},
+  1 = {https://arxiv.org/pdf/2210.14913v1.pdf},
+}
+
+@misc{Lei.352023,
+  title = {PyramidFlow: High-Resolution Defect Contrastive Localization using Pyramid Normalizing Flow},
+  author = {Lei, Jiarui and Hu, Xiaobo and Wang, Yue and Liu, Dong},
+  url = {https://arxiv.org/pdf/2303.02595v1.pdf},
+  abstract = {During industrial processing, unforeseen defects may arise in products due to uncontrollable factors. Although unsupervised methods have been successful in defect localization, the usual use of pre-trained models results in low-resolution outputs, which damages visual performance. To address this issue, we propose PyramidFlow, the first fully normalizing flow method without pre-trained models that enables high-resolution defect localization. Specifically, we propose a latent template-based defect contrastive localization paradigm to reduce intra-class variance, as the pre-trained models do. In addition, PyramidFlow utilizes pyramid-like normalizing flows for multi-scale fusing and volume normalization to help generalization. Our comprehensive studies on MVTecAD demonstrate the proposed method outperforms the comparable algorithms that do not use external priors, even achieving state-of-the-art performance in more challenging BTAD scenarios.},
+  date = {3/5/2023},
+  file = {230302595v1pdf:Attachments/230302595v1pdf.pdf:application/pdf},
+  keywords = {Computer Science - Artificial Intelligence;Computer Science - Computer Vision and Pattern Recognition},
+  1 = {https://arxiv.org/pdf/2303.02595v1.pdf},
+}
+
+@misc{freia,
+  author = {Ardizzone, Lynton and Bungert, Till and Draxler, Felix and Köthe, Ullrich and Kruse, Jakob and Schmier, Robert and Sorrenson, Peter},
+  title = {{Framework for Easily Invertible Architectures (FrEIA)},
+  year = {2022},
+  url = {https://github.com/vislearn/FrEIA},
+}
+
+@article{Sandler.,
+  abstract = {In this paper we describe a new mobile architecture, MobileNetV2, that improves the state of the art performance of mobile models on multiple tasks and benchmarks as well as across a spectrum of different model sizes. We also describe efficient ways of applying these mobile models to object detection in a novel framework we call SSDLite. Additionally, we demonstrate how to build mobile semantic segmentation models through a reduced form of DeepLabv3 which we call Mobile DeepLabv3.  The MobileNetV2 architecture is based on an inverted residual structure where the input and output of the residual block are thin bottleneck layers opposite to traditional residual models which use expanded representations in the input an MobileNetV2 uses lightweight depthwise convolutions to filter features in the intermediate expansion layer. Additionally, we find that it is important to remove non-linearities in the narrow layers in order to maintain representational power. We demonstrate that this improves performance and provide an intuition that led to this design. Finally, our approach allows decoupling of the input/output domains from the expressiveness of the transformation, which provides a convenient framework for further analysis. We measure our performance on Imagenet classification, COCO object detection, VOC image segmentation. We evaluate the trade-offs between accuracy, and number of operations measured by multiply-adds (MAdd), as well as the number of parameters},
+  author = {Sandler, Mark and Howard, Andrew and Zhu, Menglong and Zhmoginov, Andrey and Chen, Liang-Chieh},
+  file = {MobileNetV2 Inverted Residuals and Linear Bottlenecks:Attachments/MobileNetV2 Inverted Residuals and Linear Bottlenecks.pdf:application/pdf},
+  journal = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  keywords = {Computer Science - Computer Vision and Pattern Recognition;Computer Vision and Pattern Recognition (cs.CV)},
+  title = {MobileNetV2: Inverted Residuals and Linear Bottlenecks},
+  url = {https://arxiv.org/pdf/1801.04381},
+  1 = {https://arxiv.org/pdf/1801.04381},
+}
+
+@inproceedings{deng2009imagenet,
+  title = {Imagenet: A large-scale hierarchical image database},
+  author = {Deng, Jia and Dong, Wei and Socher, Richard and Li, Li-Jia and Li, Kai and Fei-Fei, Li},
+  booktitle = {2009 IEEE conference on computer vision and pattern recognition},
+  pages = {248--255},
+  year = {2009},
+  organization = {Ieee},
+}

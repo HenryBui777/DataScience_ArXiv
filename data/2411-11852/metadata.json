@@ -1,0 +1,17 @@
+{
+  "title": "LUTMUL: Exceed Conventional FPGA Roofline Limit by LUT-based Efficient Multiplication for Neural Network Inference",
+  "authors": [
+    "Yanyue Xie",
+    "Zhengang Li",
+    "Dana Diaconu",
+    "Suranga Handagala",
+    "Miriam Leeser",
+    "Xue Lin"
+  ],
+  "summary": "For FPGA-based neural network accelerators, digital signal processing (DSP) blocks have traditionally been the cornerstone for handling multiplications. This paper introduces LUTMUL, which harnesses the potential of look-up tables (LUTs) for performing multiplications. The availability of LUTs typically outnumbers that of DSPs by a factor of 100, offering a significant computational advantage. By exploiting this advantage of LUTs, our method demonstrates a potential boost in the performance of FPGA-based neural network accelerators with a reconfigurable dataflow architecture. Our approach challenges the conventional peak performance on DSP-based accelerators and sets a new benchmark for efficient neural network inference on FPGAs. Experimental results demonstrate that our design achieves the best inference speed among all FPGA-based accelerators, achieving a throughput of 1627 images per second and maintaining a top-1 accuracy of 70.95% on the ImageNet dataset.",
+  "submission_date": "2024-11-01",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AR, cs.AI, cs.LG"
+}

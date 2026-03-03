@@ -1,0 +1,17 @@
+{
+  "title": "Collaborative Feature-Logits Contrastive Learning for Open-Set Semi-Supervised Object Detection",
+  "authors": [
+    "Xinhao Zhong",
+    "Siyu Jiao",
+    "Yao Zhao",
+    "Yunchao Wei"
+  ],
+  "summary": "Current Semi-Supervised Object Detection (SSOD) methods enhance detector performance by leveraging large amounts of unlabeled data, assuming that both labeled and unlabeled data share the same label space. However, in open-set scenarios, the unlabeled dataset contains both in-distribution (ID) classes and out-of-distribution (OOD) classes. Applying semi-supervised detectors in such settings can lead to misclassifying OOD class as ID classes. To alleviate this issue, we propose a simple yet effective method, termed Collaborative Feature-Logits Detector (CFL-Detector). Specifically, we introduce a feature-level clustering method using contrastive loss to clarify vector boundaries in the feature space and highlight class differences. Additionally, by optimizing the logits-level uncertainty classification loss, the model enhances its ability to effectively distinguish between ID and OOD classes. Extensive experiments demonstrate that our method achieves state-of-the-art performance compared to existing methods.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-12-03"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

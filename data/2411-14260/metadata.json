@@ -1,0 +1,14 @@
+{
+  "title": "Existence and global behaviour of solutions of a parabolic problem involving the fractional $p$-Laplacian in porous medium",
+  "authors": [
+    "Loïc Constantin",
+    "Jacques Giacomoni",
+    "Guillaume Warnault"
+  ],
+  "summary": "In this paper, we prove the existence and the uniqueness of a weak and mild solution of the following nonlinear parabolic problem involving the porous $p$-fractional Laplacian:\n  \\begin{equation*} \\begin{cases} \\partial_t u+(-Δ)^s_p(|u|^{m-1}u)=h(t,x,|u|^{m-1}u) & \\text{in} \\; (0,T)\\times Ω,\\\\ u=0 & \\text{in} \\; (0,T) \\times \\mathbb{R}^d\\backslash Ω, \\\\ u(0,\\cdot)=u_0 & \\text{in} \\; Ω. \\end{cases}\\ \\end{equation*} We also study further the the homogeneous case $h(u)=|u|^{q-1}u$ with $q>0$. In particular we investigate global time existence, uniqueness, global behaviour of weak solutions and stabilization.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AP"
+}

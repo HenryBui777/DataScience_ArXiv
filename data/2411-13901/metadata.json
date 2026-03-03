@@ -1,0 +1,19 @@
+{
+  "title": "Dressing the Imagination: A Dataset for AI-Powered Translation of Text into Fashion Outfits and A Novel KAN Adapter for Enhanced Feature Adaptation",
+  "authors": [
+    "Gayatri Deshmukh",
+    "Somsubhra De",
+    "Chirag Sehgal",
+    "Jishu Sen Gupta",
+    "Sparsh Mittal"
+  ],
+  "summary": "Specialized datasets that capture the fashion industry's rich language and styling elements can boost progress in AI-driven fashion design. We present FLORA, (Fashion Language Outfit Representation for Apparel Generation), the first comprehensive dataset containing 4,330 curated pairs of fashion outfits and corresponding textual descriptions. Each description utilizes industry-specific terminology and jargon commonly used by professional fashion designers, providing precise and detailed insights into the outfits. Hence, the dataset captures the delicate features and subtle stylistic elements necessary to create high-fidelity fashion designs.\n  We demonstrate that fine-tuning generative models on the FLORA dataset significantly enhances their capability to generate accurate and stylistically rich images from textual descriptions of fashion sketches. FLORA will catalyze the creation of advanced AI models capable of comprehending and producing subtle, stylistically rich fashion designs. It will also help fashion designers and end-users to bring their ideas to life.\n  As a second orthogonal contribution, we introduce NeRA (Nonlinear low-rank Expressive Representation Adapter), a novel adapter architecture based on Kolmogorov-Arnold Networks (KAN). Unlike traditional PEFT techniques such as LoRA, LoKR, DoRA, and LoHA that use MLP adapters, NeRA uses learnable spline-based nonlinear transformations, enabling superior modeling of complex semantic relationships, achieving strong fidelity, faster convergence and semantic alignment. Extensive experiments on our proposed FLORA and LAION-5B datasets validate the superiority of NeRA over existing adapters.\n  We will open-source both the FLORA dataset and our implementation code.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-03-11",
+    "2025-10-01"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

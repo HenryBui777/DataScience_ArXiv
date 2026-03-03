@@ -1,0 +1,13 @@
+{
+  "title": "Enhancements of Fragment Based Algorithms for Vehicle Routing Problems",
+  "authors": [
+    "Lucas Sippel",
+    "Michael Forbes"
+  ],
+  "summary": "The method of fragments was recently proposed, and its effectiveness has been empirically shown for three specialised pickup and delivery problems. We propose an enhanced fragment algorithm that for the first time, effectively solves the Pickup and Delivery Problem with Time Windows. Additionally, we describe the approach in general terms to exemplify its theoretical applicability to vehicle routing problems without pickup and delivery requirements. We then apply it to the Truck-Based Drone Delivery Routing Problem Problem with Time Windows. The algorithm uses a fragment formulation rather than a route one. The definition of a fragment is problem specific, but generally, they can be thought of as enumerable segments of routes with a particular structure. A resource expanded network is constructed from the fragments and is iteratively updated via dynamic discretization discovery. Additionally, we introduce two new concepts called formulation leveraging and column enumeration for row elimination that are crucial for solving difficult problems. These use the strong linear relaxation of the route formulation to strengthen the fragment formulation. We test our algorithm on instances of the Pickup and Delivery Problem with Time Windows and the Truck-Based Drone Delivery Routing Problem with Time Windows. Our approach is competitive with, or outperforms the state-of-the-art algorithm for both.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Swift: A Multi-FPGA Framework for Scaling Up Accelerated Graph Analytics",
+  "authors": [
+    "Oluwole Jaiyeoba",
+    "Abdullah T. Mughrabi",
+    "Morteza Baradaran",
+    "Beenish Gul",
+    "Kevin Skadron"
+  ],
+  "summary": "Graph analytics are vital in fields such as social networks, biomedical research, and graph neural networks (GNNs). However, traditional CPUs and GPUs struggle with the memory bottlenecks caused by large graph datasets and their fine-grained memory accesses. While specialized graph accelerators address these challenges, they often support only moderate-sized graphs (under 500 million edges). Our paper proposes Swift, a novel scale-up graph accelerator framework that processes large graphs by leveraging the flexibility of FPGA custom datapath and memory resources, and optimizes utilization of high-bandwidth 3D memory (HBM). Swift supports up to 8 FPGAs in a node. Swift introduces a decoupled, asynchronous model based on the Gather-Apply-Scatter (GAS) scheme. It subgraphs across FPGAs, and each subgraph into intervals based on source vertex IDs. Processing on these intervals is decoupled and executed asynchronously, instead of bulk-synchonous operation, where throughput is limited by the slowest task. This enables simultaneous processing within each multi-FPGA node and optimizes the utilization of communication (PCIe), off-chip (HBM), and on-chip BRAM/URAM resources. Swift demonstrates significant performance improvements compared to prior scalable FPGA-based frameworks, performing 12.8 times better than the ForeGraph. Performance against Gunrock on NVIDIA A40 GPUs is mixed, because NVlink gives the GPU system a nearly 5X bandwidth advantage, but the FPGA system nevertheless achieves 2.6x greater energy efficiency.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AR"
+}

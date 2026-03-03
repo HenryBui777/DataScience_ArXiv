@@ -1,0 +1,736 @@
+{
+  "2408-11812": {
+    "title": "Scaling Cross-Embodied Learning: One Policy for Manipulation, Navigation, Locomotion and Aviation",
+    "authors": [
+      "Ria Doshi",
+      "H. Walke",
+      "Oier Mees",
+      "Sudeep Dasari",
+      "Sergey Levine"
+    ],
+    "publication_date": "2024-08-21",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "9fbade2b7936b805f808825c46aebd604883fca9",
+    "corpus_id": 271915701,
+    "category": "Computer Science"
+  },
+  "2407-07788": {
+    "title": "BiGym: A Demo-Driven Mobile Bi-Manual Manipulation Benchmark",
+    "authors": [
+      "Nikita Chernyadev",
+      "Nicholas Backshall",
+      "Xiao Ma",
+      "Yunfan Lu",
+      "Younggyo Seo",
+      "Stephen James"
+    ],
+    "publication_date": "2024-07-10",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "0a9986915ee2b48a34f396b69a68198a967aa1be",
+    "corpus_id": 271089023,
+    "category": "Computer Science"
+  },
+  "2407-07787": {
+    "title": "Continuous Control with Coarse-to-fine Reinforcement Learning",
+    "authors": [
+      "Younggyo Seo",
+      "Jafar Uruç",
+      "Stephen James"
+    ],
+    "publication_date": "2024-07-10",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "25908892225280f00bbef3fe555e2683ed50fd72",
+    "corpus_id": 271088773,
+    "category": "Computer Science, Engineering"
+  },
+  "2406-10454": {
+    "title": "HumanPlus: Humanoid Shadowing and Imitation from Humans",
+    "authors": [
+      "Zipeng Fu",
+      "Qingqing Zhao",
+      "Qi Wu",
+      "Gordon Wetzstein",
+      "Chelsea Finn"
+    ],
+    "publication_date": "2024-06-15",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "05e61e2a23889323b5397232024467ee5980acde",
+    "corpus_id": 270560408,
+    "category": "Computer Science, Engineering"
+  },
+  "2406-09246": {
+    "title": "OpenVLA: An Open-Source Vision-Language-Action Model",
+    "authors": [
+      "Moo Jin Kim",
+      "Karl Pertsch",
+      "Siddharth Karamcheti",
+      "Ted Xiao",
+      "A. Balakrishna",
+      "Suraj Nair",
+      "Rafael Rafailov",
+      "E. Foster",
+      "Grace Lam",
+      "Pannag R. Sanketi",
+      "Quan Vuong",
+      "Thomas Kollar",
+      "Benjamin Burchfiel",
+      "Russ Tedrake",
+      "Dorsa Sadigh",
+      "Sergey Levine",
+      "Percy Liang",
+      "Chelsea Finn"
+    ],
+    "publication_date": "2024-06-13",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "8f9ceb5ffad8e7a066dfc9d9aaa5153b714740ee",
+    "corpus_id": 270440391,
+    "category": "Computer Science"
+  },
+  "2405-12213": {
+    "title": "Octo: An Open-Source Generalist Robot Policy",
+    "authors": [
+      "Octo Model Team",
+      "Dibya Ghosh",
+      "H. Walke",
+      "Karl Pertsch",
+      "Kevin Black",
+      "Oier Mees",
+      "Sudeep Dasari",
+      "Joey Hejna",
+      "Tobias Kreiman",
+      "Charles Xu",
+      "Jianlan Luo",
+      "You Liang Tan",
+      "Pannag R. Sanketi",
+      "Quan Vuong",
+      "Ted Xiao",
+      "Dorsa Sadigh",
+      "Chelsea Finn",
+      "Sergey Levine"
+    ],
+    "publication_date": "2024-05-20",
+    "venue": "Robotics: Science and Systems",
+    "semantic_scholar_id": "1d2753d74025e7a71594506623be81f18b073adb",
+    "corpus_id": 266379116,
+    "category": "Computer Science"
+  },
+  "2404-19737": {
+    "title": "Better & Faster Large Language Models via Multi-token Prediction",
+    "authors": [
+      "Fabian Gloeckle",
+      "Badr Youbi Idrissi",
+      "Baptiste Rozière",
+      "David Lopez-Paz",
+      "Gabriele Synnaeve"
+    ],
+    "publication_date": "2024-04-30",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "b9c289f141c54ab465a885fb7be7936d98e8c853",
+    "corpus_id": 269457456,
+    "category": "Computer Science"
+  },
+  "2403-12203": {
+    "title": "Bootstrapping Reinforcement Learning with Imitation for Vision-Based Agile Flight",
+    "authors": [
+      "Jiaxu Xing",
+      "Angel Romero",
+      "L. Bauersfeld",
+      "Davide Scaramuzza"
+    ],
+    "publication_date": "2024-03-18",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "1a8254800afd2de64eb3451d7db1a56ad4c637e1",
+    "corpus_id": 268531352,
+    "category": "Computer Science"
+  },
+  "2403-10506": {
+    "title": "HumanoidBench: Simulated Humanoid Benchmark for Whole-Body Locomotion and Manipulation",
+    "authors": [
+      "Carmelo Sferrazza",
+      "Dun-Ming Huang",
+      "Xingyu Lin",
+      "Youngwoon Lee",
+      "Pieter Abbeel"
+    ],
+    "publication_date": "2024-03-15",
+    "venue": "Robotics: Science and Systems",
+    "semantic_scholar_id": "75850000ac9e056ce604c1bcd7631a3ae73d0458",
+    "corpus_id": 268509956,
+    "category": "Computer Science"
+  },
+  "2402-05546": {
+    "title": "Offline Actor-Critic Reinforcement Learning Scales to Large Models",
+    "authors": [
+      "Jost Tobias Springenberg",
+      "A. Abdolmaleki",
+      "Jingwei Zhang",
+      "Oliver Groth",
+      "Michael Bloesch",
+      "Thomas Lampe",
+      "Philemon Brakel",
+      "Sarah Bechtle",
+      "Steven Kapturowski",
+      "Roland Hafner",
+      "N. Heess",
+      "Martin A. Riedmiller"
+    ],
+    "publication_date": "2024-02-08",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "911f28279f8f80f1520181ecc4e839c54408a68c",
+    "corpus_id": 267547617,
+    "category": "Computer Science"
+  },
+  "2401-02117": {
+    "title": "Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation",
+    "authors": [
+      "Zipeng Fu",
+      "Tony Zhao",
+      "Chelsea Finn"
+    ],
+    "publication_date": "2024-01-04",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "fc3819a50705fc3cf90ab92f2a206b858fef3b19",
+    "corpus_id": 266755740,
+    "category": "Computer Science, Engineering"
+  },
+  "2311-02198": {
+    "title": "Imitation Bootstrapped Reinforcement Learning",
+    "authors": [
+      "Hengyuan Hu",
+      "Suvir Mirchandani",
+      "Dorsa Sadigh"
+    ],
+    "publication_date": "2023-11-03",
+    "venue": "Robotics: Science and Systems",
+    "semantic_scholar_id": "00f776a588e13e4c9278e91f7c10c536f6dc8c2d",
+    "corpus_id": 265033656,
+    "category": "Computer Science"
+  },
+  "2310-16828": {
+    "title": "TD-MPC2: Scalable, Robust World Models for Continuous Control",
+    "authors": [
+      "Nicklas Hansen",
+      "Hao Su",
+      "Xiaolong Wang"
+    ],
+    "publication_date": "2023-10-25",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "8eeccf1033fd759c868b29ccb6aa70f5ffd1887c",
+    "corpus_id": 264451720,
+    "category": "Computer Science"
+  },
+  "2309-10150": {
+    "title": "Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions",
+    "authors": [
+      "Yevgen Chebotar",
+      "Q. Vuong",
+      "A. Irpan",
+      "Karol Hausman",
+      "F. Xia",
+      "Yao Lu",
+      "Aviral Kumar",
+      "Tianhe Yu",
+      "Alexander Herzog",
+      "Karl Pertsch",
+      "K. Gopalakrishnan",
+      "Julian Ibarz",
+      "Ofir Nachum",
+      "S. Sontakke",
+      "Grecia Salazar",
+      "Huong Tran",
+      "Jodilyn Peralta",
+      "Clayton Tan",
+      "D. Manjunath",
+      "Jaspiar Singht",
+      "Brianna Zitkovich",
+      "Tomas Jackson",
+      "Kanishka Rao",
+      "Chelsea Finn",
+      "S. Levine"
+    ],
+    "publication_date": "2023-09-18",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "bf89341e16fc0a379ab5e4c6370cf7ea4e9afd03",
+    "corpus_id": 262054345,
+    "category": "Computer Science"
+  },
+  "2309-01918": {
+    "title": "RoboAgent: Generalization and Efficiency in Robot Manipulation via Semantic Augmentations and Action Chunking",
+    "authors": [
+      "Homanga Bharadhwaj",
+      "Jay Vakil",
+      "Mohit Sharma",
+      "Abhi Gupta",
+      "Shubham Tulsiani",
+      "Vikash Kumar"
+    ],
+    "publication_date": "2023-09-05",
+    "venue": "IEEE International Conference on Robotics and Automation",
+    "semantic_scholar_id": "148e95859248878a0695a31ef6165614a01df631",
+    "corpus_id": 261518421,
+    "category": "Computer Science"
+  },
+  "2305-17109": {
+    "title": "Reinforcement Learning with Simple Sequence Priors",
+    "authors": [
+      "Tankred Saanum",
+      "N. Éltető",
+      "P. Dayan",
+      "Marcel Binz",
+      "Eric Schulz"
+    ],
+    "publication_date": "2023-05-26",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "124d6231c80eb298ac38e5fcfcd8404653a5cb34",
+    "corpus_id": 258947619,
+    "category": "Computer Science"
+  },
+  "2305-03270": {
+    "title": "Deep RL at Scale: Sorting Waste in Office Buildings with a Fleet of Mobile Manipulators",
+    "authors": [
+      "Alexander Herzog",
+      "Kanishka Rao",
+      "Karol Hausman",
+      "Yao Lu",
+      "Paul Wohlhart",
+      "Mengyuan Yan",
+      "Jessica Lin",
+      "Montse Gonzalez Arenas",
+      "Ted Xiao",
+      "Daniel Kappler",
+      "Daniel Ho",
+      "Jarek Rettinghouse",
+      "Yevgen Chebotar",
+      "Kuang-Huei Lee",
+      "K. Gopalakrishnan",
+      "Ryan C. Julian",
+      "A. Li",
+      "Chuyuan Fu",
+      "Bo Wei",
+      "S. Ramesh",
+      "K. Holden",
+      "Kim Kleiven",
+      "David Rendleman",
+      "Sean Kirmani",
+      "Jeffrey Bingham",
+      "Jonathan Weisz",
+      "Ying Xu",
+      "Wenlong Lu",
+      "Matthew Bennice",
+      "Cody Fong",
+      "David Do",
+      "Jessica Lam",
+      "Yunfei Bai",
+      "Benjie Holson",
+      "Michael J. Quinlan",
+      "Noah Brown",
+      "Mrinal Kalakrishnan",
+      "Julian Ibarz",
+      "P. Pastor",
+      "S. Levine"
+    ],
+    "publication_date": "2023-05-05",
+    "venue": "Robotics: Science and Systems",
+    "semantic_scholar_id": "987d908732fcbaad6b50dcc6793eed0d538e102b",
+    "corpus_id": 258547005,
+    "category": "Computer Science"
+  },
+  "2304-13705": {
+    "title": "Learning Fine-Grained Bimanual Manipulation with Low-Cost Hardware",
+    "authors": [
+      "Tony Zhao",
+      "Vikash Kumar",
+      "S. Levine",
+      "Chelsea Finn"
+    ],
+    "publication_date": "2023-04-23",
+    "venue": "Robotics: Science and Systems",
+    "semantic_scholar_id": "91eb20f923ea3b0246868902aef4e9bea572b800",
+    "corpus_id": 258331658,
+    "category": "Computer Science"
+  },
+  "2303-04137": {
+    "title": "Diffusion policy: Visuomotor policy learning via action diffusion",
+    "authors": [
+      "Cheng Chi",
+      "S. Feng",
+      "Yilun Du",
+      "Zhenjia Xu",
+      "Eric Cousineau",
+      "B. Burchfiel",
+      "Shuran Song"
+    ],
+    "publication_date": "2023-03-07",
+    "venue": "Robotics: Science and Systems",
+    "semantic_scholar_id": "bdba3bd30a49ea4c5b20b43dbd8f0eb59e9d80e2",
+    "corpus_id": 257378658,
+    "category": "Computer Science"
+  },
+  "2301-04104": {
+    "title": "Mastering Diverse Domains through World Models",
+    "authors": [
+      "Danijar Hafner",
+      "J. Pašukonis",
+      "Jimmy Ba",
+      "T. Lillicrap"
+    ],
+    "publication_date": "2023-01-10",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "f2d952a183dfb0a1e031b8a3f535d9f8423d7a6e",
+    "corpus_id": 255569874,
+    "category": "Computer Science, Mathematics"
+  },
+  "2210-12566": {
+    "title": "Solving Continuous Control via Q-learning",
+    "authors": [
+      "Tim Seyde",
+      "Peter Werner",
+      "Wilko Schwarting",
+      "Igor Gilitschenski",
+      "Martin A. Riedmiller",
+      "Daniela Rus",
+      "Markus Wulfmeier"
+    ],
+    "publication_date": "2022-10-22",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "dd95d004827a6183146b2f497c9cbbd30803aeed",
+    "corpus_id": 253098130,
+    "category": "Computer Science"
+  },
+  "2209-07550": {
+    "title": "Human-level Atari 200x faster",
+    "authors": [
+      "Steven Kapturowski",
+      "Víctor Campos",
+      "Ray Jiang",
+      "Nemanja Raki'cevi'c",
+      "Hado van Hasselt",
+      "C. Blundell",
+      "Adrià Puigdomènech Badia"
+    ],
+    "publication_date": "2022-09-15",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "b3e59caf23dd121048779b2edcdff0dd2872cd43",
+    "corpus_id": 252355382,
+    "category": "Computer Science"
+  },
+  "2107-09645": {
+    "title": "Mastering Visual Continuous Control: Improved Data-Augmented Reinforcement Learning",
+    "authors": [
+      "Denis Yarats",
+      "R. Fergus",
+      "A. Lazaric",
+      "Lerrel Pinto"
+    ],
+    "publication_date": "2021-07-20",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "e06c005e98281af455c454ce2478285f6f3afeca",
+    "corpus_id": 236134152,
+    "category": "Computer Science"
+  },
+  "2107-00591": {
+    "title": "Offline-to-Online Reinforcement Learning via Balanced Replay and Pessimistic Q-Ensemble",
+    "authors": [
+      "Seunghyun Lee",
+      "Younggyo Seo",
+      "Kimin Lee",
+      "P. Abbeel",
+      "Jinwoo Shin"
+    ],
+    "publication_date": "2021-07-01",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "33b456eb43e5391761540f17a29e598d7595565b",
+    "corpus_id": 235694361,
+    "category": "Computer Science"
+  },
+  "2006-12983": {
+    "title": "dm_control: Software and Tasks for Continuous Control",
+    "authors": [
+      "Yuval Tassa",
+      "S. Tunyasuvunakool",
+      "Alistair Muldal",
+      "Yotam Doron",
+      "Siqi Liu",
+      "Steven Bohez",
+      "J. Merel",
+      "Tom Erez",
+      "T. Lillicrap",
+      "N. Heess"
+    ],
+    "publication_date": "2020-06-22",
+    "venue": "Softw. Impacts",
+    "semantic_scholar_id": "8ba600c169f0d2422625822223976bce562eabe1",
+    "corpus_id": 219980295,
+    "category": "Computer Science"
+  },
+  "2006-11239": {
+    "title": "Denoising Diffusion Probabilistic Models",
+    "authors": [
+      "Jonathan Ho",
+      "Ajay Jain",
+      "P. Abbeel"
+    ],
+    "publication_date": "2020-06-19",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "5c126ae3421f05768d8edd97ecd44b1364e2c99a",
+    "corpus_id": 219955663,
+    "category": "Computer Science, Mathematics"
+  },
+  "2006-09359": {
+    "title": "Accelerating Online Reinforcement Learning with Offline Datasets",
+    "authors": [
+      "Ashvin Nair",
+      "Murtaza Dalal",
+      "Abhishek Gupta",
+      "S. Levine"
+    ],
+    "publication_date": "2020-06-16",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "0272b14dd471fe7b81df703af1b71d7600b77215",
+    "corpus_id": 219708452,
+    "category": "Computer Science, Mathematics"
+  },
+  "1909-12271": {
+    "title": "RLBench: The Robot Learning Benchmark & Learning Environment",
+    "authors": [
+      "Stephen James",
+      "Zicong Ma",
+      "David Rovick Arrojo",
+      "A. Davison"
+    ],
+    "publication_date": "2019-09-26",
+    "venue": "IEEE Robotics and Automation Letters",
+    "semantic_scholar_id": "a2fdfda785b3a2a0178d174daa515377c531f222",
+    "corpus_id": 202889132,
+    "category": "Computer Science"
+  },
+  "1906-11176": {
+    "title": "PyRep: Bringing V-REP to Deep Robot Learning",
+    "authors": [
+      "Stephen James",
+      "M. Freese",
+      "A. Davison"
+    ],
+    "publication_date": "2019-06-26",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "6ecc2f4cf7dddea9a9466a473173492fdab2eee6",
+    "corpus_id": 195657945,
+    "category": "Engineering, Computer Science"
+  },
+  "1812-05905": {
+    "title": "Soft Actor-Critic Algorithms and Applications",
+    "authors": [
+      "Tuomas Haarnoja",
+      "Aurick Zhou",
+      "Kristian Hartikainen",
+      "G. Tucker",
+      "Sehoon Ha",
+      "Jie Tan",
+      "Vikash Kumar",
+      "Henry Zhu",
+      "Abhishek Gupta",
+      "P. Abbeel",
+      "S. Levine"
+    ],
+    "publication_date": "2018-12-13",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "12c0751b4f51ed833172a713b7e32390032ead93",
+    "corpus_id": 55703664,
+    "category": "Computer Science, Mathematics"
+  },
+  "1806-10293": {
+    "title": "QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation",
+    "authors": [
+      "Dmitry Kalashnikov",
+      "A. Irpan",
+      "P. Pastor",
+      "Julian Ibarz",
+      "Alexander Herzog",
+      "Eric Jang",
+      "Deirdre Quillen",
+      "E. Holly",
+      "Mrinal Kalakrishnan",
+      "Vincent Vanhoucke",
+      "S. Levine"
+    ],
+    "publication_date": "2018-06-27",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "eb37e7b76d26b75463df22b2a3aa32b6a765c672",
+    "corpus_id": 49470584,
+    "category": "Computer Science, Mathematics"
+  },
+  "1805-08296": {
+    "title": "Data-Efficient Hierarchical Reinforcement Learning",
+    "authors": [
+      "Ofir Nachum",
+      "S. Gu",
+      "Honglak Lee",
+      "S. Levine"
+    ],
+    "publication_date": "2018-05-21",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "39b7007e6f3dd0744833f292f07ed77973503bfd",
+    "corpus_id": 43920938,
+    "category": "Computer Science, Mathematics"
+  },
+  "1802-09477": {
+    "title": "Addressing Function Approximation Error in Actor-Critic Methods",
+    "authors": [
+      "Scott Fujimoto",
+      "H. V. Hoof",
+      "D. Meger"
+    ],
+    "publication_date": "2018-02-26",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "4debb99c0c63bfaa97dd433bc2828e4dac81c48b",
+    "corpus_id": 3544558,
+    "category": "Computer Science, Mathematics"
+  },
+  "1707-06887": {
+    "title": "A Distributional Perspective on Reinforcement Learning",
+    "authors": [
+      "Marc G. Bellemare",
+      "Will Dabney",
+      "R. Munos"
+    ],
+    "publication_date": "2017-07-17",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "c1f4ef741242d629d1f56e442a09a7ba29595a0e",
+    "corpus_id": 966543,
+    "category": "Mathematics, Computer Science"
+  },
+  "1706-03762": {
+    "title": "Attention is All you Need",
+    "authors": [
+      "Ashish Vaswani",
+      "Noam M. Shazeer",
+      "Niki Parmar",
+      "Jakob Uszkoreit",
+      "Llion Jones",
+      "Aidan N. Gomez",
+      "Lukasz Kaiser",
+      "I. Polosukhin"
+    ],
+    "publication_date": "2017-06-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+    "corpus_id": 13756489,
+    "category": "Computer Science"
+  },
+  "1703-01161": {
+    "title": "FeUdal Networks for Hierarchical Reinforcement Learning",
+    "authors": [
+      "A. Vezhnevets",
+      "Simon Osindero",
+      "T. Schaul",
+      "N. Heess",
+      "Max Jaderberg",
+      "David Silver",
+      "K. Kavukcuoglu"
+    ],
+    "publication_date": "2017-03-03",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "049c6e5736313374c6e594c34b9be89a3a09dced",
+    "corpus_id": 6656096,
+    "category": "Computer Science"
+  },
+  "1609-05140": {
+    "title": "The Option-Critic Architecture",
+    "authors": [
+      "Pierre-Luc Bacon",
+      "J. Harb",
+      "Doina Precup"
+    ],
+    "publication_date": "2016-09-16",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "15b26d8cb35d7e795c8832fe08794224ee1e9f84",
+    "corpus_id": 6627476,
+    "category": "Computer Science"
+  },
+  "1607-06450": {
+    "title": "Layer Normalization",
+    "authors": [
+      "Jimmy Ba",
+      "J. Kiros",
+      "Geoffrey E. Hinton"
+    ],
+    "publication_date": "2016-07-21",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "97fb4e3d45bb098e27e0071448b6152217bd35a5",
+    "corpus_id": 8236317,
+    "category": "Computer Science, Mathematics"
+  },
+  "1606-08415": {
+    "title": "Gaussian Error Linear Units (GELUs)",
+    "authors": [
+      "Dan Hendrycks",
+      "Kevin Gimpel"
+    ],
+    "publication_date": "2016-06-27",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "de5e7320729f5d3cbb6709eb6329ec41ace8c95d",
+    "corpus_id": 125617073,
+    "category": "Computer Science"
+  },
+  "1604-06057": {
+    "title": "Hierarchical Deep Reinforcement Learning: Integrating Temporal Abstraction and Intrinsic Motivation",
+    "authors": [
+      "Tejas D. Kulkarni",
+      "Karthik Narasimhan",
+      "A. Saeedi",
+      "J. Tenenbaum"
+    ],
+    "publication_date": "2016-04-20",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "d37620e6f8fe678a43e12930743281cd8cca6a66",
+    "corpus_id": 4669377,
+    "category": "Computer Science, Mathematics"
+  },
+  "1512-03385": {
+    "title": "Deep Residual Learning for Image Recognition",
+    "authors": [
+      "Kaiming He",
+      "X. Zhang",
+      "Shaoqing Ren",
+      "Jian Sun"
+    ],
+    "publication_date": "2015-12-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+    "corpus_id": 206594692,
+    "category": "Computer Science"
+  },
+  "1511-06581": {
+    "title": "Dueling Network Architectures for Deep Reinforcement Learning",
+    "authors": [
+      "Ziyun Wang",
+      "T. Schaul",
+      "Matteo Hessel",
+      "H. V. Hasselt",
+      "Marc Lanctot",
+      "Nando de Freitas"
+    ],
+    "publication_date": "2015-11-20",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "4c05d7caa357148f0bbd61720bdd35f0bc05eb81",
+    "corpus_id": 5389801,
+    "category": "Computer Science"
+  },
+  "1406-1078": {
+    "title": "Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation",
+    "authors": [
+      "Kyunghyun Cho",
+      "B. V. Merrienboer",
+      "Çaglar Gülçehre",
+      "Dzmitry Bahdanau",
+      "Fethi Bougares",
+      "Holger Schwenk",
+      "Yoshua Bengio"
+    ],
+    "publication_date": "2014-06-03",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "0b544dfe355a5070b60986319a3f51fb45d1348e",
+    "corpus_id": 5590763,
+    "category": "Computer Science, Mathematics"
+  }
+}

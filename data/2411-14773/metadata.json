@@ -1,0 +1,16 @@
+{
+  "title": "Mode-conditioned music learning and composition: a spiking neural network inspired by neuroscience and psychology",
+  "authors": [
+    "Qian Liang",
+    "Yi Zeng",
+    "Menghaoran Tang"
+  ],
+  "summary": "Musical mode is one of the most critical element that establishes the framework of pitch organization and determines the harmonic relationships. Previous works often use the simplistic and rigid alignment method, and overlook the diversity of modes. However, in contrast to AI models, humans possess cognitive mechanisms for perceiving the various modes and keys. In this paper, we propose a spiking neural network inspired by brain mechanisms and psychological theories to represent musical modes and keys, ultimately generating musical pieces that incorporate tonality features. Specifically, the contributions are detailed as follows: 1) The model is designed with multiple collaborated subsystems inspired by the structures and functions of corresponding brain regions; 2)We incorporate mechanisms for neural circuit evolutionary learning that enable the network to learn and generate mode-related features in music, reflecting the cognitive processes involved in human music perception. 3)The results demonstrate that the proposed model shows a connection framework closely similar to the Krumhansl-Schmuckler model, which is one of the most significant key perception models in the music psychology domain. 4) Experiments show that the model can generate music pieces with characteristics of the given modes and keys. Additionally, the quantitative assessments of generated pieces reveals that the generating music pieces have both tonality characteristics and the melodic adaptability needed to generate diverse and musical content. By combining insights from neuroscience, psychology, and music theory with advanced neural network architectures, our research aims to create a system that not only learns and generates music but also bridges the gap between human cognition and artificial intelligence.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-01-14"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SD, cs.AI, eess.AS, q-bio.NC"
+}

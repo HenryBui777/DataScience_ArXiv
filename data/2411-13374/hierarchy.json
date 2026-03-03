@@ -1,0 +1,57 @@
+{
+  "elements": {
+    "document-2411-001": "Document",
+    "abstract-2411-001": "Abstract",
+    "sent-2411-001": "Circular-arc graphs are the intersection graphs of arcs of a circle.",
+    "sent-2411-002": "The main result of this work describes the structure of all normalized intersection models of circular-arc graphs.",
+    "sent-2411-003": "Normalized models of a circular-arc graph reflect the neighborhood relation between its vertices and can be seen as its canonical representations; in particular, any intersection model can be made normalized by possibly extending some of its arcs.",
+    "sent-2411-004": "We~devise a data-structure, called PQM-tree, that maintains the set of all normalized models of a circular-arc graph.",
+    "sent-2411-005": "We show that the PQM-tree of a circular-arc graph can be computed in linear time.",
+    "sent-2411-006": "Finally, basing on PQM-trees, we provide a linear-time algorithm for the canonization and the isomorphism problem for circular-arc graphs.",
+    "sent-2411-007": "We describe the structure of the normalized models of circular-arc graphs using an approach proposed by Hsu~[SIAM J.. Comput.",
+    "sent-2411-008": "In the aforementioned work, Hsu claimed the construction of decomposition trees representing the set of all normalized intersection models of circular-arc graphs and an $\\Oh{nm}$ time isomorphism algorithm for this class of graphs.",
+    "sent-2411-009": "However, the counterexample given in~[Discrete Math.. Theor.",
+    "sent-2411-010": "Sci., 15(1), 157--182, 2013] shows that Hsu's isomorphism algorithm is not incorrect.",
+    "sent-2411-011": "Also, due to the errors pointed out in~\\cite{Kra24appendix , the decomposition trees proposed by Hsu are not constructed correctly; in particular, we showed that there are circular-arc graphs whose all normalized models do not follow the description given by Hsu.}",
+    "sent-2411-012": "We~devise a data-structure, called PQSM-tree, that maintains the set of all normalized models of a circular-arc graph.",
+    "sent-2411-013": "We show that the PQSM-tree of a circular-arc graph can be computed in linear time.",
+    "sent-2411-014": "Finally, basing on PQSM-trees, we provide a linear-time algorithm for the canonization and the isomorphism problem for circular-arc graphs.",
+    "sent-2411-015": "In the aforementioned work, Hsu claimed the construction of decomposition trees representing the set of all normalized intersection models of circular-arc graphs and an~$\\Oh{nm}$ time isomorphism algorithm for this class of graphs.",
+    "sent-2411-016": "Sci., 15(1), 157--182, 2013] shows that Hsu's isomorphism algorithm is incorrect.",
+    "acknowledgements-2411-001": "Acknowledgments",
+    "sent-2411-017": "We sincerely thank Janek Derbisz and Stefan Felsner for their valuable comments on this manuscript.. \\bibliographystyle{plain.}"
+  },
+  "hierarchy": {
+    "1": {
+      "document-2411-001": null,
+      "abstract-2411-001": "document-2411-001",
+      "sent-2411-001": "abstract-2411-001",
+      "sent-2411-002": "abstract-2411-001",
+      "sent-2411-003": "abstract-2411-001",
+      "sent-2411-004": "abstract-2411-001",
+      "sent-2411-005": "abstract-2411-001",
+      "sent-2411-006": "abstract-2411-001",
+      "sent-2411-007": "abstract-2411-001",
+      "sent-2411-008": "abstract-2411-001",
+      "sent-2411-009": "abstract-2411-001",
+      "sent-2411-010": "abstract-2411-001",
+      "sent-2411-011": "abstract-2411-001"
+    },
+    "2": {
+      "abstract-2411-001": "document-2411-001",
+      "sent-2411-001": "abstract-2411-001",
+      "sent-2411-002": "abstract-2411-001",
+      "sent-2411-003": "abstract-2411-001",
+      "sent-2411-012": "abstract-2411-001",
+      "sent-2411-013": "abstract-2411-001",
+      "sent-2411-014": "abstract-2411-001",
+      "sent-2411-007": "abstract-2411-001",
+      "sent-2411-015": "abstract-2411-001",
+      "sent-2411-009": "abstract-2411-001",
+      "sent-2411-016": "abstract-2411-001",
+      "sent-2411-011": "abstract-2411-001",
+      "acknowledgements-2411-001": "document-2411-001",
+      "sent-2411-017": "acknowledgements-2411-001"
+    }
+  }
+}

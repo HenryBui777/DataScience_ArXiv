@@ -1,0 +1,17 @@
+{
+  "title": "Efficient Federated Unlearning with Adaptive Differential Privacy Preservation",
+  "authors": [
+    "Yu Jiang",
+    "Xindi Tong",
+    "Ziyao Liu",
+    "Huanyi Ye",
+    "Chee Wei Tan",
+    "Kwok-Yan Lam"
+  ],
+  "summary": "Federated unlearning (FU) offers a promising solution to effectively address the need to erase the impact of specific clients' data on the global model in federated learning (FL), thereby granting individuals the ``Right to be Forgotten\". The most straightforward approach to achieve unlearning is to train the model from scratch, excluding clients who request data removal, but it is resource-intensive. Current state-of-the-art FU methods extend traditional FL frameworks by leveraging stored historical updates, enabling more efficient unlearning than training from scratch. However, the use of stored updates introduces significant privacy risks. Adversaries with access to these updates can potentially reconstruct clients' local data, a well-known vulnerability in the privacy domain. While privacy-enhanced techniques exist, their applications to FU scenarios that balance unlearning efficiency with privacy protection remain underexplored. To address this gap, we propose FedADP, a method designed to achieve both efficiency and privacy preservation in FU. Our approach incorporates an adaptive differential privacy (DP) mechanism, carefully balancing privacy and unlearning performance through a novel budget allocation strategy tailored for FU. FedADP also employs a dual-layered selection process, focusing on global models with significant changes and client updates closely aligned with the global model, reducing storage and communication costs. Additionally, a novel calibration method is introduced to facilitate effective unlearning. Extensive experimental results demonstrate that FedADP effectively manages the trade-off between unlearning efficiency and privacy protection.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR, cs.LG"
+}

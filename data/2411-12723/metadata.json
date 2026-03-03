@@ -1,0 +1,15 @@
+{
+  "title": "Homogeneous planet masses I: Reanalysis of archival HARPS radial velocities",
+  "authors": [
+    "H. L. M. Osborne",
+    "L. D. Nielsen",
+    "V. Van Eylen",
+    "O. Barragán"
+  ],
+  "summary": "Empirical exoplanet mass-radius relations have been used to study the demographics and compositions of small exoplanets for many years. However, the heterogeneous nature of these measurements hinders robust statistical analysis of this population, particularly with regard to the masses of planets. For this reason, we perform a homogeneous and consistent re-analysis of the radial velocity (RV) observations of 85 small exoplanets using publicly available HARPS RV data and the fitting toolkit Pyaneti. For the entire sample, we run 12 different models to investigate the impact of modelling choices, including the use of multi-dimensional Gaussian Processes (GPs) to mitigate stellar activity. We find that the way orbital eccentricity is modelled can significantly impact the RV amplitude found in some cases. We also find that the addition of a GP to mitigate stellar activity does impact the RV amplitude found - though if the GP is modelled on activity indicators as well as the RVs the results are more robust. The RV amplitude found for every planet in our sample using all the models is made available for other groups to perform demographics studies. Finally, we provide a list of recommendations for the RV community moving forward.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "A&A 693, A4 (2025)",
+  "pdf_url": null,
+  "category": "astro-ph.EP, astro-ph.IM, astro-ph.SR"
+}

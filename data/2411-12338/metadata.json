@@ -1,0 +1,14 @@
+{
+  "title": "Target Height Estimation Using a Single Acoustic Camera for Compensation in 2D Seabed Mosaicking",
+  "authors": [
+    "Xiaoteng Zhou",
+    "Yusheng Wang",
+    "Katsunori Mizuno"
+  ],
+  "summary": "This letter proposes a novel approach for compensating target height data in 2D seabed mosaicking for low-visibility underwater perception. Acoustic cameras are effective sensors for sensing the marine environments due to their high-resolution imaging capabilities and robustness to darkness and turbidity. However, the loss of elevation angle during the imaging process results in a lack of target height information in the original acoustic camera images, leading to a simplistic 2D representation of the seabed mosaicking. In perceiving cluttered and unexplored marine environments, target height data is crucial for avoiding collisions with marine robots. This study proposes a novel approach for estimating seabed target height using a single acoustic camera and integrates height data into 2D seabed mosaicking to compensate for the missing 3D dimension of seabed targets. Unlike classic methods that model the loss of elevation angle to achieve seabed 3D reconstruction, this study focuses on utilizing available acoustic cast shadow clues and simple sensor motion to quickly estimate target height. The feasibility of our proposal is verified through a water tank experiment and a simulation experiment.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO, cs.CV"
+}

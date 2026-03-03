@@ -1,0 +1,16 @@
+{
+  "title": "flashcurve: A machine-learning approach for the simple and fast generation of adaptive-binning light curves with Fermi-LAT data",
+  "authors": [
+    "Theo Glauch",
+    "Kristian Tchiorniy"
+  ],
+  "summary": "Gamma rays measured by the Fermi-LAT satellite tell us a lot about the processes taking place in high-energetic astrophysical objects. The fluxes coming from these objects are, however, extremely variable. Hence, gamma-ray light curves optimally use adaptive bin sizes in order to retrieve most information about the source dynamics and to combine gamma-ray observations in a multi-messenger perspective. However, standard adaptive binning approaches are slow, expensive and inaccurate in highly populated regions. Here, we present a novel, powerful, deep-learning-based approach to estimate the necessary time windows for adaptive binning light curves in Fermi-LAT data using raw photon data. The approach is shown to be fast and accurate. It can also be seen as a prototype to train machine-learning models for adaptive binning light curves for other astrophysical messengers.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-02-11",
+    "2025-02-12"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.IM, astro-ph.HE"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Cosmological Analysis with Calibrated Neural Quantile Estimation and Approximate Simulators",
+  "authors": [
+    "He Jia"
+  ],
+  "summary": "A major challenge in extracting information from current and upcoming surveys of cosmological Large-Scale Structure (LSS) is the limited availability of computationally expensive high-fidelity simulations. We introduce Neural Quantile Estimation (NQE), a new Simulation-Based Inference (SBI) method that leverages a large number of approximate simulations for training and a small number of high-fidelity simulations for calibration. This approach guarantees an unbiased posterior and achieves near-optimal constraining power when the approximate simulations are reasonably accurate. As a proof of concept, we demonstrate that cosmological parameters can be inferred at field level from projected 2-dim dark matter density maps up to $k_{\\rm max}\\sim1.5\\,h$/Mpc at $z=0$ by training on $\\sim10^4$ Particle-Mesh (PM) simulations with transfer function correction and calibrating with $\\sim10^2$ Particle-Particle (PP) simulations. The calibrated posteriors closely match those obtained by directly training on $\\sim10^4$ expensive PP simulations, but at a fraction of the computational cost. Our method offers a practical and scalable framework for SBI of cosmological LSS, enabling precise inference across vast volumes and down to small scales.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.CO, astro-ph.IM, cs.LG"
+}

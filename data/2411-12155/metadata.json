@@ -1,0 +1,18 @@
+{
+  "title": "Coarse-to-fine Q-Network with Action Sequence for Data-Efficient Robot Learning",
+  "authors": [
+    "Younggyo Seo",
+    "Pieter Abbeel"
+  ],
+  "summary": "Predicting a sequence of actions has been crucial in the success of recent behavior cloning algorithms in robotics. Can similar ideas improve reinforcement learning (RL)? We answer affirmatively by observing that incorporating action sequences when predicting ground-truth return-to-go leads to lower validation loss. Motivated by this, we introduce Coarse-to-fine Q-Network with Action Sequence (CQN-AS), a novel value-based RL algorithm that learns a critic network that outputs Q-values over a sequence of actions, i.e., explicitly training the value function to learn the consequence of executing action sequences. Our experiments show that CQN-AS outperforms several baselines on a variety of sparse-reward humanoid control and tabletop manipulation tasks from BiGym and RLBench.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-01-29",
+    "2025-02-01",
+    "2025-05-28",
+    "2025-07-07"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI, cs.RO"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "RISecure-PUF: Multipurpose PUF-Driven Security Extensions with Lookaside Buffer in RISC-V",
+  "authors": [
+    "Chenghao Chen",
+    "Xiaolin Zhang",
+    "Kailun Qin",
+    "Tengfei Wang",
+    "Yipeng Shi",
+    "Tianyi Huang",
+    "Chi Zhang",
+    "Dawu Gu"
+  ],
+  "summary": "RISC-V's limited security features hinder its use in confidential computing and heterogeneous platforms. This paper introduces RISecure-PUF, a security extension utilizing existing Physical Unclonable Functions for key generation and secure protocol purposes. A one-way hash function is integrated to ensure provable security against modeling attacks, while a lookaside buffer accelerates batch sampling and minimizes reliance on error correction codes. Implemented on the Genesys 2 FPGA, RISecure-PUF improves at least $2.72\\times$ in batch scenarios with negligible hardware overhead and a maximum performance reduction of $10.7\\%$, enabled by reusing the hash function module in integrated environments such as cryptographic engines.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR"
+}

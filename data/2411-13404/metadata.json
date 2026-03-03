@@ -1,0 +1,14 @@
+{
+  "title": "Issues with Input-Space Representation in Nonlinear Data-Based Dissipativity Estimation",
+  "authors": [
+    "Ethan LoCicero",
+    "Alex Penne",
+    "Leila Bridgeman"
+  ],
+  "summary": "In data-based control, dissipativity can be a powerful tool for attaining stability guarantees for nonlinear systems if that dissipativity can be inferred from data. This work provides a tutorial on several existing methods for data-based dissipativity estimation of nonlinear systems. The interplay between the underlying assumptions of these methods and their sample complexity is investigated. It is shown that methods based on delta-covering result in an intractable trade-off between sample complexity and robustness. A new method is proposed to quantify the robustness of machine learning-based dissipativity estimation. It is shown that this method achieves a more tractable trade-off between robustness and sample complexity. Several numerical case studies demonstrate the results.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY, math.OC"
+}

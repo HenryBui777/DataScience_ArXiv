@@ -1,0 +1,18 @@
+{
+  "title": "New multinucleon knockout model in NuWro Monte Carlo generator",
+  "authors": [
+    "Hemant Prasad",
+    "Jan T. Sobczyk",
+    "Artur M. Ankowski",
+    "J. Luis Bonilla",
+    "Rwik Dharmapal Banerjee",
+    "Krzysztof M. Graczyk",
+    "Beata E. Kowal"
+  ],
+  "summary": "We present the implementation and results of a new model for the n-particle n-hole ($\\it{np-nh}$) contribution in the NuWro event generator, grounded in the theoretical framework established by the Valencia group in 2020. For the $\\it{2p2h}$ component, we introduce a novel nucleon sampling function with tunable parameters to approximate correlations in the momenta of outgoing nucleons. These parameters are calibrated by comparing our results to those of the Valencia model across a range of incoming neutrino energies. In addition, our model incorporates a distinct contribution from the $\\it{3p3h}$ mechanism. We discuss the differences between the new NuWro implementation, the original Valencia model, and the previous NuWro version, focusing on the distribution of outgoing nucleon momenta. Finally, we assess the impact of the hadronic model on experimental analyses involving hadronic observables.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "hep-ph, hep-ex, nucl-th"
+}

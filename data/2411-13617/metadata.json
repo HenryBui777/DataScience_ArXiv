@@ -1,0 +1,13 @@
+{
+  "title": "Maximum-norm a posteriori error bounds for parabolic equations discretised by the extrapolated Euler method in time and FEM in space",
+  "authors": [
+    "Torsten Linß",
+    "Goran Radojev"
+  ],
+  "summary": "A class of linear parabolic equations is considered. We derive a framework for the a posteriori error analysis of time discretisations by Richardson extrapolation of arbitrary order combined with finite element discretisations in space. We use the idea of elliptic reconstructions and certain bounds for the Green's function of the parabolic operator. The crucial point in the analysis is the design of suitable polynomial reconstructions in time from approximations that are given only in the mesh points.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

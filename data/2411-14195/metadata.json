@@ -1,0 +1,14 @@
+{
+  "title": "On $k$-convex hulls",
+  "authors": [
+    "Davide Ravasini"
+  ],
+  "summary": "For every integer $k\\geq 2$ and every $R>1$ one can find a dimension $n$ and construct a symmetric convex body $K\\subset\\mathbb{R}^n$ with $\\text{diam}\\,Q_{k-1}(K)\\geq R\\cdot\\text{diam}\\,Q_k(K)$, where $Q_k(K)$ denotes the $k$-convex hull of $K$. The purpose of this short note is to show that this result due to E.\\ Kopecká is impossible to obtain if one additionally requires that all isometric images of $K$ satisfy the same inequality. To this end, we introduce the dual construction to the $k$-convex hull of $K$, which we call the $k$-cross approximation of $K$. We also prove an infinite-dimensional version of the main result that holds in general Hilbert spaces.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-09-30"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.MG, math.FA"
+}

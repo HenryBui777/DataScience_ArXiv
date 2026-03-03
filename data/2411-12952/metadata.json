@@ -1,0 +1,16 @@
+{
+  "title": "Optimized four-qubit quantum error correcting code for amplitude damping channel",
+  "authors": [
+    "Xuanhui Mao",
+    "Qian Xu",
+    "Liang Jiang"
+  ],
+  "summary": "Quantum error correction (QEC) is essential for reliable quantum information processing. Targeting a particular error channel, both the encoding and the recovery channel can be optimized through a biconvex optimization to give a high-performance, noise-adapted QEC scheme. We solve the biconvex optimization by the technique of alternating semi-definite programming and identify a new four-qubit code for amplitude damping channel, one major noise in superconducting circuits and a good model for spontaneous emission and energy dissipation. We also construct analytical encoding and recovery channels that are close to the numerically optimized ones. We show that the new code notably outperforms the Leung-Nielsen-Chuang-Yamamoto four-qubit code in terms of the entanglement fidelity over an amplitude damping channel.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-05-18"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

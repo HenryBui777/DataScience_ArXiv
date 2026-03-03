@@ -1,0 +1,13 @@
+{
+  "title": "Path weighting sensitivities",
+  "authors": [
+    "Liu Xuan",
+    "Gauthier Michel"
+  ],
+  "summary": "In this paper, we study the computation of sensitivities with respect to spot of path dependent financial derivatives by means of path weighting. We propose explicit path weighting formula and variance reduction adjustment in order to address the large variance happening when the first simulation time step is small. We also propose a covariance inflation technique to addresses the degenerator case when the covariance matrix is singular. The stock dynamics we consider is given in a general functional form, which includes the classical Black-Scholes model, the implied distribution model, and the local volatility model.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.PR, q-fin.ST"
+}

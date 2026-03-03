@@ -1,0 +1,13 @@
+{
+  "title": "Current noise in quantum dot thermoelectric engines",
+  "authors": [
+    "Simon Wozny",
+    "Martin Leijnse"
+  ],
+  "summary": "We theoretically investigate a thermoelectric heat engine based on a single-level quantum dot, calculating average quantities such as current, heat current, output power, and efficiency, as well as fluctuations (noise). Our theory is based on a diagrammatic expansion of the memory kernel together with counting statistics, and we investigate the effects of strong interactions and next-to-leading order tunneling. Accounting for next-to-leading order tunneling is crucial for a correct description when operating at high power and high efficiency, and in particular affect the qualitative behavior of the Fano factor and efficiency. We compare our results with the so-called thermodynamic uncertainty relations, which provide a lower bound on the fluctuations for a given efficiency. In principle, the conventional thermodynamic uncertainty relations can be violated by the non-Markovian quantum effects originating from next-to-leading order tunneling, providing a type of quantum advantage. However, for the specific heat engine realization we consider here, we find that next-to-leading order tunneling does not lead to such violations, but in fact always pushes the results further away from the bound set by the thermodynamic uncertainty relations.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "Phys. Rev. B 111, 075422 (2025)",
+  "pdf_url": null,
+  "category": "cond-mat.mes-hall, quant-ph"
+}

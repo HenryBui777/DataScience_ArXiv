@@ -1,0 +1,16 @@
+{
+  "title": "Collaborative Contrastive Network for Click-Through Rate Prediction",
+  "authors": [
+    "Chen Gao",
+    "Zixin Zhao",
+    "Sihao Hu",
+    "Lv Shao",
+    "Tong Liu"
+  ],
+  "summary": "E-commerce platforms provide entrances for customers to enter mini-apps to meet their specific shopping needs. At the entrance of a mini-app, a trigger item recommended based on customers' historical preferences, is displayed to attract customers to enter the mini-app. Existing Click-Through Rate (CTR) prediction approaches have two significant weaknesses: (i) A portion of customer entries is driven by their interest in the mini-app itself rather than the trigger item. In such cases, approaches highly hinging on the trigger item tend to recommend similar items, thus misunderstanding the customers' real intention; (ii) Approaches that consider customers' intention toward mini-apps, require the regular existence of mini-apps for customers to cultivate routine shopping habits, making such approaches less robust for mini-apps that are available for only short periods (1 or 3 days) in Explosive Promotional Scenarios (EPS), such as the Black Friday and China's Double 11 Shopping Carnival. To address the above-mentioned issues, we introduce a more general and robust CTR prediction approach, dubbed Collaborative Contrastive Network (CCN). Given a user, CCN learns to identify two item clusters that can represent the user's interests and disinterests, via leveraging the collaborative relationship of co-click/co-non-click or the non-collaborative relationship of mono-click as the supervision signal for contrastive learning. This paradigm does not need to explicitly estimate user's binary entry intention and avoids amplifying the impact of the trigger item. Online A/B testing on large-scale real-world data demonstrates that CCN sets a new state-of-the-art performance on Taobao, boosting CTR by 12.3% and order volume by 12.7%.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IR"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "A Systematic Assessment of Data Volume Reduction for IACTs",
+  "authors": [
+    "Clara Escañuela Nieves",
+    "Felix Werner",
+    "Jim Hinton"
+  ],
+  "summary": "High energy cosmic-rays generate air showers when they enter Earth's atmosphere. Ground-based gamma-ray astronomy is possible using either direct detection of shower particles at mountain altitudes, or with arrays of imaging air-Cherenkov telescopes (IACTs). Advances in the technique and larger collection areas have increased the rate at which air-shower events can be captured, and the amount of data produced by modern high-time-resolution Cherenkov cameras. Therefore, Data Volume Reduction (DVR) has become critical for such telescope arrays, ensuring that only useful information is stored long-term. Given the vast amount of raw data, owing to the highest resolution and sensitivity, the upcoming Cherenkov Telescope Array Observatory (CTAO) will need robust data reduction strategies to ensure efficient handling and analysis. The CTAO data rates needs be reduced from hundreds of Petabytes (PB) per year to a few PB/year.\n  This paper presents algorithms tailored for CTAO but also applicable for other arrays, focusing on selecting pixels likely to contain shower light. It describes and evaluates multiple algorithms based on their signal efficiency, noise rejection, and shower reconstruction. With a focus on a time-based clustering algorithm which demonstrates a notable enhancement in the retention of low-level signal pixels. Moreover, the robustness is assessed under different observing conditions, including detector defects. Through testing and analysis, it is shown that these algorithms offer promising solutions for efficient volume reduction in CTAO, addressing the challenges posed by the array's very large data volume and ensuring reliable data storage amidst varying observational conditions and hardware issues.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-02-26"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.IM, astro-ph.HE"
+}

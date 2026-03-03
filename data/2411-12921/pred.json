@@ -1,0 +1,253 @@
+{
+  "partition": "train",
+  "groundtruth": {
+    "formal2021spladesparselexicalexpansion": "2107-05720",
+    "formal2022distillationhardnegativesampling": "2205-04733",
+    "santhanam2022colbertv2effectiveefficientretrieval": "2112-01488",
+    "santhanam2022plaidefficientenginelate": "2205-09707",
+    "chen2024bgem3embeddingmultilingualmultifunctionality": "2402-03216",
+    "xiao2024cpackpackedresourcesgeneral": "2309-07597",
+    "bednář2023likesmallczechsemantic": "2311-13921",
+    "devlin2019bertpretrainingdeepbidirectional": "1810-04805",
+    "gao2022simcsesimplecontrastivelearning": "2104-08821",
+    "kocián2021siamesebertbasedmodelweb": "2112-01810",
+    "Von_sek_2024": "2405-20994",
+    "ecir2024translate-distill": "2401-04810",
+    "ecir2022colbert-x": "2201-08471",
+    "bai2020spartermlearningtermbasedsparse": "2010-00768",
+    "kocmi2020announcing": "2007-03006",
+    "poświata2024plmtebpolishmassivetext": "2405-10138",
+    "möller2021germanquadgermandprimprovingnonenglish": "2104-12741",
+    "enevoldsen2024scandinavianembeddingbenchmarkscomprehensive": "2406-02396",
+    "hendrycks2021measuringmassivemultitasklanguage": "2009-03300",
+    "yüksel2024turkishmmlumeasuringmassivemultitask": "2407-12402",
+    "koto2024arabicmmluassessingmassivemultitask": "2402-12840",
+    "he2020momentumcontrastunsupervisedvisual": "1911-05722"
+  },
+  "prediction": {
+    "bm25": [
+      "2205-09707",
+      "2309-07597",
+      "2201-10005",
+      "2405-10138",
+      "2104-08821"
+    ],
+    "neelakantan2022text": [
+      "2201-10005",
+      "2309-07597",
+      "2009-03300",
+      "2201-08471",
+      "2205-09707"
+    ],
+    "formal2021spladesparselexicalexpansion": [
+      "2107-05720",
+      "2205-04733",
+      "2112-01810",
+      "1911-05722",
+      "2104-12741"
+    ],
+    "formal2022distillationhardnegativesampling": [
+      "2205-04733",
+      "2107-05720",
+      "2004-12832",
+      "2104-12741",
+      "2401-04810"
+    ],
+    "DBLP:journals/corr/abs-2004-12832": [
+      "2004-12832",
+      "2112-01488",
+      "2205-09707",
+      "2112-01810",
+      "2205-04733"
+    ],
+    "santhanam2022colbertv2effectiveefficientretrieval": [
+      "2112-01488",
+      "2205-09707",
+      "2004-12832",
+      "1810-04805",
+      "2311-13921"
+    ],
+    "santhanam2022plaidefficientenginelate": [
+      "2205-09707",
+      "2112-01488",
+      "2004-12832",
+      "2309-07597",
+      "2104-08821"
+    ],
+    "gemmateam2024gemma2improvingopen": [
+      "2402-12840",
+      "2309-07597",
+      "2402-03216",
+      "1810-04805",
+      "2010-00768"
+    ],
+    "chen2024bgem3embeddingmultilingualmultifunctionality": [
+      "2402-03216",
+      "2010-00768",
+      "2309-07597",
+      "2401-04810",
+      "2405-20994"
+    ],
+    "xiao2024cpackpackedresourcesgeneral": [
+      "2309-07597",
+      "2406-02396",
+      "2402-03216",
+      "2010-00768",
+      "2407-12402"
+    ],
+    "bednář2023likesmallczechsemantic": [
+      "2311-13921",
+      "2405-20994",
+      "2309-07597",
+      "2407-12402",
+      "2112-01488"
+    ],
+    "devlin2019bertpretrainingdeepbidirectional": [
+      "1810-04805",
+      "1911-05722",
+      "2112-01488",
+      "2201-08471",
+      "2107-05720"
+    ],
+    "gao2022simcsesimplecontrastivelearning": [
+      "2104-08821",
+      "2205-09707",
+      "2201-08471",
+      "2405-10138",
+      "1911-05722"
+    ],
+    "kocián2021siamesebertbasedmodelweb": [
+      "2112-01810",
+      "2405-20994",
+      "2107-05720",
+      "2004-12832",
+      "2104-12741"
+    ],
+    "zhang2022makingmiraclmultilingualinformation": [
+      "2010-00768",
+      "2309-07597",
+      "2402-03216",
+      "2201-08471",
+      "2205-09707"
+    ],
+    "muennighoff2023mtebmassivetextembedding": [
+      "2405-10138",
+      "2309-07597",
+      "2406-02396",
+      "2311-13921",
+      "2201-10005"
+    ],
+    "bajaj2018msmarcohumangenerated": [
+      "1611-09268",
+      "2010-00768",
+      "1911-05722",
+      "2107-05720",
+      "1810-04805"
+    ],
+    "banon-etal-2020-paracrawl": [
+      "2407-12402",
+      "2406-02396",
+      "2405-20994",
+      "2402-12840",
+      "2402-03216"
+    ],
+    "Von_sek_2024": [
+      "2405-20994",
+      "2407-12402",
+      "2401-04810",
+      "2402-03216",
+      "2402-12840"
+    ],
+    "ecir2024translate-distill": [
+      "2401-04810",
+      "2201-08471",
+      "2402-03216",
+      "2405-20994",
+      "2104-12741"
+    ],
+    "ecir2022colbert-x": [
+      "2201-08471",
+      "2401-04810",
+      "2205-09707",
+      "2201-10005",
+      "1810-04805"
+    ],
+    "openai2023ada": [
+      "2309-07597",
+      "2311-13921",
+      "1810-04805",
+      "1911-05722",
+      "2112-01488"
+    ],
+    "bai2020spartermlearningtermbasedsparse": [
+      "2010-00768",
+      "2402-03216",
+      "2309-07597",
+      "2009-03300",
+      "2407-12402"
+    ],
+    "kocmi2020announcing": [
+      "2007-03006",
+      "2205-09707",
+      "2010-00768",
+      "1911-05722",
+      "1810-04805"
+    ],
+    "poświata2024plmtebpolishmassivetext": [
+      "2405-10138",
+      "2402-12840",
+      "2104-08821",
+      "2009-03300",
+      "2407-12402"
+    ],
+    "möller2021germanquadgermandprimprovingnonenglish": [
+      "2104-12741",
+      "2401-04810",
+      "2205-04733",
+      "2112-01810",
+      "2107-05720"
+    ],
+    "enevoldsen2024scandinavianembeddingbenchmarkscomprehensive": [
+      "2406-02396",
+      "2309-07597",
+      "2407-12402",
+      "2401-04810",
+      "2402-12840"
+    ],
+    "retrieval_skquad": [
+      "2309-07597",
+      "2311-13921",
+      "1810-04805",
+      "2010-00768",
+      "2009-03300"
+    ],
+    "hendrycks2021measuringmassivemultitasklanguage": [
+      "2009-03300",
+      "2407-12402",
+      "2402-12840",
+      "2112-01488",
+      "2309-07597"
+    ],
+    "yüksel2024turkishmmlumeasuringmassivemultitask": [
+      "2407-12402",
+      "2009-03300",
+      "2402-12840",
+      "2406-02396",
+      "2405-20994"
+    ],
+    "koto2024arabicmmluassessingmassivemultitask": [
+      "2402-12840",
+      "2009-03300",
+      "2407-12402",
+      "2405-20994",
+      "2405-10138"
+    ],
+    "he2020momentumcontrastunsupervisedvisual": [
+      "1911-05722",
+      "2009-03300",
+      "2107-05720",
+      "2309-07597",
+      "1611-09268"
+    ]
+  }
+}

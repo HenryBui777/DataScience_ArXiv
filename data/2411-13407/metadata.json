@@ -1,0 +1,17 @@
+{
+  "title": "Transformer-Based Contextualized Language Models Joint with Neural Networks for Natural Language Inference in Vietnamese",
+  "authors": [
+    "Dat Van-Thanh Nguyen",
+    "Tin Van Huynh",
+    "Kiet Van Nguyen",
+    "Ngan Luu-Thuy Nguyen"
+  ],
+  "summary": "Natural Language Inference (NLI) is a task within Natural Language Processing (NLP) that holds value for various AI applications. However, there have been limited studies on Natural Language Inference in Vietnamese that explore the concept of joint models. Therefore, we conducted experiments using various combinations of contextualized language models (CLM) and neural networks. We use CLM to create contextualized work presentations and use Neural Networks for classification. Furthermore, we have evaluated the strengths and weaknesses of each joint model and identified the model failure points in the Vietnamese context. The highest F1 score in this experiment, up to 82.78% in the benchmark dataset (ViNLI). By conducting experiments with various models, the most considerable size of the CLM is XLM-R (355M). That combination has consistently demonstrated superior performance compared to fine-tuning strong pre-trained language models like PhoBERT (+6.58%), mBERT (+19.08%), and XLM-R (+0.94%) in terms of F1-score. This article aims to introduce a novel approach or model that attains improved performance for Vietnamese NLI. Overall, we find that the joint approach of CLM and neural networks is simple yet capable of achieving high-quality performance, which makes it suitable for applications that require efficient resource utilization.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-21"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "(Independent) Roman Domination Parameterized by Distance to Cluster",
+  "authors": [
+    "Pradeesha Ashok",
+    "Gautam K. Das",
+    "Arti Pandey",
+    "Kaustav Paul",
+    "Subhabrata Paul"
+  ],
+  "summary": "Given a graph $G=(V,E)$, a function $f:V\\to \\{0,1,2\\}$ is said to be a \\emph{Roman Dominating function} (RDF) if for every $v\\in V$ with $f(v)=0$, there exists a vertex $u\\in N(v)$ such that $f(u)=2$. A Roman Dominating function $f$ is said to be an \\emph{Independent Roman Dominating function} (IRDF), if $V_1\\cup V_2$ forms an independent set, where $V_i=\\{v\\in V~\\vert~f(v)=i\\}$, for $i\\in \\{0,1,2\\}$. The total weight of $f$ is equal to $\\sum_{v\\in V} f(v)$, and is denoted as $w(f)$. The \\emph{Roman Domination Number} (resp. \\emph{Independent Roman Domination Number}) of $G$, denoted by $γ_R(G)$ (resp. $i_R(G)$), is defined as min$\\{w(f)~\\vert~f$ is an RDF (resp. IRDF) of $G\\}$. For a given graph $G$, the problem of computing $γ_R(G)$ (resp. $i_R(G)$) is defined as the \\emph{Roman Domination problem} (resp. \\emph{Independent Roman Domination problem}).\n  In this paper, we examine structural parameterizations of the (Independent) Roman Domination problem. We propose fixed-parameter tractable (FPT) algorithms for the (Independent) Roman Domination problem in graphs that are $k$ vertices away from a cluster graph. These graphs have a set of $k$ vertices whose removal results in a cluster graph. We refer to $k$ as the distance to the cluster graph. Specifically, we prove the following results when parameterized by the deletion distance $k$ to cluster graphs: we can find the Roman Domination Number (and Independent Roman Domination Number) in time $4^kn^{O(1)}$. In terms of lower bounds, we show that the Roman Domination number can not be computed in time $2^{εk}n^{O(1)}$, for any $0<ε<1$ unless a well-known conjecture, SETH fails. In addition, we also show that the Roman Domination problem parameterized by distance to cluster, does not admit a polynomial kernel unless NP $\\subseteq$ coNP$/$poly.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CC, cs.DM, cs.DS, math.CO"
+}

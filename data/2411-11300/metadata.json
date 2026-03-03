@@ -1,0 +1,13 @@
+{
+  "title": "Accelerating spherical K-means clustering for large-scale sparse document data",
+  "authors": [
+    "Kazuo Aoyama",
+    "Kazumi Saito"
+  ],
+  "summary": "This paper presents an accelerated spherical K-means clustering algorithm for large-scale and high-dimensional sparse document data sets. We design an algorithm working in an architecture-friendly manner (AFM), which is a procedure of suppressing performance-degradation factors such as the numbers of instructions, branch mispredictions, and cache misses in CPUs of a modern computer system. For the AFM operation, we leverage unique universal characteristics (UCs) of a data-object and a cluster's mean set, which are skewed distributions on data relationships such as Zipf's law and a feature-value concentration phenomenon. The UCs indicate that the most part of the number of multiplications for similarity calculations is executed regarding terms with high document frequencies (df) and the most part of a similarity between an object- and a mean-feature vector is obtained by the multiplications regarding a few high mean-feature values. Our proposed algorithm applies an inverted-index data structure to a mean set, extracts the specific region with high-df terms and high mean-feature values in the mean-inverted index by newly introduced two structural parameters, and exploits the index divided into three parts for efficient pruning. The algorithm determines the two structural parameters by minimizing the approximate number of multiplications related to that of instructions, reduces the branch mispredictions by sharing the index structure including the two parameters with all the objects, and suppressing the cache misses by keeping in the caches the frequently used data in the foregoing specific region, resulting in working in the AFM. We experimentally demonstrate that our algorithm efficiently achieves superior speed performance in large-scale documents compared with algorithms using the state-of-the-art techniques.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ML, cs.LG"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Engineering spectro-temporal light states with physics-embedded deep learning",
+  "authors": [
+    "Shilong Liu",
+    "Stéphane Virally",
+    "Gabriel Demontigny",
+    "Patrick Cusson",
+    "Denis V. Seletskiy"
+  ],
+  "summary": "Frequency synthesis and spectro-temporal control of optical wave packets are central to ultrafast science, with supercontinuum (SC) generation standing as one remarkable example. Through passive manipulation, femtosecond (fs) pulses from nJ-level lasers can be transformed into octave-spanning spectra, supporting few-cycle pulse outputs when coupled with external pulse compressors. While strategies such as machine learning have been applied to control the SC's central wavelength and bandwidth, their success has been limited by the nonlinearities and strong sensitivity to measurement noise. Here, we propose and demonstrate how a physics-embedded convolutional neural network (P-CNN) that embeds spectro-temporal correlations can circumvent such challenges, resulting in faster convergence and reduced noise sensitivity. This innovative approach enables on-demand control over spectro-temporal features of SC, achieving few-cycle pulse shaping without external compressors. This approach heralds a new era of arbitrary spectro-temporal light state engineering, with implications for ultrafast photonics, photonic neuromorphic computation, and AI-driven optical systems.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-06-30"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.optics, nlin.PS, physics.class-ph, quant-ph"
+}

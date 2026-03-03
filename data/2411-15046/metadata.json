@@ -1,0 +1,16 @@
+{
+  "title": "On Feasible Rewards in Multi-Agent Inverse Reinforcement Learning",
+  "authors": [
+    "Till Freihaut",
+    "Giorgia Ramponi"
+  ],
+  "summary": "In multi-agent systems, agent behavior is driven by utility functions that encapsulate their individual goals and interactions. Inverse Reinforcement Learning (IRL) seeks to uncover these utilities by analyzing expert behavior, offering insights into the underlying decision-making processes. However, multi-agent settings pose significant challenges, particularly when rewards are inferred from equilibrium observations. A key obstacle is that single (Nash) equilibrium observations often fail to adequately capture critical game properties, leading to potential misrepresentations. This paper offers a rigorous analysis of the feasible reward set in multi-agent IRL and addresses these limitations by introducing entropy-regularized games, ensuring equilibrium uniqueness and enhancing interpretability. Furthermore, we examine the effects of estimation errors and present the first sample complexity results for multi-agent IRL across diverse scenarios.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-12-05",
+    "2025-02-17"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

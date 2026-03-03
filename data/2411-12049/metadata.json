@@ -1,0 +1,16 @@
+{
+  "title": "Simulating Non-Markovian Quantum Dynamics on NISQ Computers Using the Hierarchical Equations of Motion",
+  "authors": [
+    "Xiaohan Dan",
+    "Eitan Geva",
+    "Victor S. Batista"
+  ],
+  "summary": "Quantum computing offers promising new avenues for tackling the long-standing challenge of simulating the quantum dynamics of complex chemical systems, particularly open quantum systems coupled to external baths. However, simulating such non-unitary dynamics on quantum computers is challenging since quantum circuits are specifically designed to carry out unitary transformations. Furthermore, chemical systems are often strongly coupled to the surrounding environment, rendering the dynamics non-Markovian and beyond the scope of Markovian quantum master equations like Lindblad or Redfield. In this work, we introduce a quantum algorithm designed to simulate non-Markovian dynamics of open quantum systems. Our approach enables the implementation of arbitrary quantum master equations on noisy intermediate-scale quantum (NISQ) computers. We illustrate the method as applied in conjunction with the numerically exact hierarchical equations of motion (HEOM) method. The effectiveness of the resulting quantum HEOM algorithm is demonstrated as applied to simulations of the non-Lindbladian electronic energy and charge transfer dynamics in models of the carotenoid-porphyrin-\\ce{C60} molecular triad dissolved in tetrahydrofuran and the Fenna-Matthews-Olson complex.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-02-10"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, physics.chem-ph"
+}

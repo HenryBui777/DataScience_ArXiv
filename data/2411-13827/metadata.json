@@ -1,0 +1,13 @@
+{
+  "title": "Designing a Secure Device-to-Device File Transfer Mechanism",
+  "authors": [
+    "Chaitanya Rahalkar",
+    "Anushka Virgaonkar"
+  ],
+  "summary": "Secure, reliable, and fast transfer of files across the Internet is a problem attempted to be solved through many application-layer protocols. In this paper, we aim to design a secure, reliable, opendesign, and performant file transfer protocol that is inspired by the WebRTC protocol stack. Traditionally, transferring files involves a publicly exposed (available on the public network) third-party server that serves the uploaded files to the receiver. Here, the third party server has to bear the storage and bandwidth cost to transfer the files between the two parties. We propose a protocol that uses a relay server to relay the files from the client to the server. A relay server has several advantages over a regular file-hosting server. Firstly, a relay server does not retain the uploaded files, it simply relays them. Secondly, a relay server has a full-duplex communication channel and therefore the receiver is not required to wait for the sender to upload the files completely. In this paper, we study available file transfer approaches and their known flaws. We propose our idea and compare our stack with the WebRTC stack. Finally, we perform empirical analysis and, benchmark our device-to-device transfer approach along with other available options including WebRTC.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR"
+}

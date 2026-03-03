@@ -1,0 +1,21 @@
+{
+  "title": "Self-testing quantum randomness expansion on an integrated photonic chip",
+  "authors": [
+    "Gong Zhang",
+    "Ignatius William Primaatmaja",
+    "Yue Chen",
+    "Si Qi Ng",
+    "Hong Jie Ng",
+    "Marco Pistoia",
+    "Xiao Gong",
+    "Koon Tong Goh",
+    "Chao Wang",
+    "Charles Lim"
+  ],
+  "summary": "The power of quantum random number generation is more than just the ability to create truly random numbers$\\unicode{x2013}$it can also enable self-testing, which allows the user to verify the implementation integrity of certain critical quantum components with minimal assumptions. In this work, we develop and implement a self-testing quantum random number generator (QRNG) chipset capable of generating 15.33 Mbits of certifiable randomness in each run (an expansion rate of $5.11\\times 10^{-4}$ at a repetition rate of 10 Mhz). The chip design is based on a highly loss-and-noise tolerant measurement-device-independent protocol, where random coherent states encoded using quadrature phase shift keying are used to self-test the quantum homodyne detection unit: well-known to be challenging to characterise in practice. Importantly, this proposal opens up the possibility to implement miniaturised self-testing QRNG devices at production scale using standard silicon photonics foundry platforms.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

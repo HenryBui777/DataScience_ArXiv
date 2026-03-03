@@ -1,0 +1,387 @@
+{
+  "2407-15484": {
+    "title": "6DGS: 6D Pose Estimation from a Single Image and a 3D Gaussian Splatting Model",
+    "authors": [
+      "M. Bortolon",
+      "T. Tsesmelis",
+      "Stuart James",
+      "Fabio Poiesi",
+      "A. D. Bue"
+    ],
+    "publication_date": "2024-07-22",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "531f6d57cf267e279d881a454ca05a22be11c90d",
+    "corpus_id": 271329416,
+    "category": "Computer Science"
+  },
+  "2403-20018": {
+    "title": "SCINeRF: Neural Radiance Fields from a Snapshot Compressive Image",
+    "authors": [
+      "Yunhao Li",
+      "Xiaodong Wang",
+      "Ping Wang",
+      "Xin Yuan",
+      "Peidong Liu"
+    ],
+    "publication_date": "2024-03-29",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "9933999a5cbbdd63c42d5ffb06c421d1d9465885",
+    "corpus_id": 268793820,
+    "category": "Engineering, Computer Science"
+  },
+  "2403-17888": {
+    "title": "2D Gaussian Splatting for Geometrically Accurate Radiance Fields",
+    "authors": [
+      "Binbin Huang",
+      "Zehao Yu",
+      "Anpei Chen",
+      "Andreas Geiger",
+      "Shenghua Gao"
+    ],
+    "publication_date": "2024-03-26",
+    "venue": "International Conference on Computer Graphics and Interactive Techniques",
+    "semantic_scholar_id": "9c0d40f01ced7d425cb6145e9f961c6e44a478a8",
+    "corpus_id": 268692234,
+    "category": "Computer Science"
+  },
+  "2311-16493": {
+    "title": "Mip-Splatting: Alias-Free 3D Gaussian Splatting",
+    "authors": [
+      "Zehao Yu",
+      "Anpei Chen",
+      "Binbin Huang",
+      "Torsten Sattler",
+      "Andreas Geiger"
+    ],
+    "publication_date": "2023-11-27",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "7e305e37b49feb8899ae94f641c4f2d0d01ef054",
+    "corpus_id": 265466192,
+    "category": "Computer Science"
+  },
+  "2311-11700": {
+    "title": "GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting",
+    "authors": [
+      "Chi Yan",
+      "Delin Qu",
+      "Dong Wang",
+      "Dan Xu",
+      "Zhigang Wang",
+      "Bin Zhao",
+      "Xuelong Li"
+    ],
+    "publication_date": "2023-11-20",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "8b5f4902411123c5e68ded502f296cf325864831",
+    "corpus_id": 265294572,
+    "category": "Computer Science"
+  },
+  "2310-08528": {
+    "title": "4D Gaussian Splatting for Real-Time Dynamic Scene Rendering",
+    "authors": [
+      "Guanjun Wu",
+      "Taoran Yi",
+      "Jiemin Fang",
+      "Lingxi Xie",
+      "Xiaopeng Zhang",
+      "Wei Wei",
+      "Wenyu Liu",
+      "Qi Tian",
+      "Xinggang Wang"
+    ],
+    "publication_date": "2023-10-12",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "395bfdae59f1a5fde16213cade43d2587e4565df",
+    "corpus_id": 263908793,
+    "category": "Computer Science"
+  },
+  "2309-13101": {
+    "title": "Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction",
+    "authors": [
+      "Ziyi Yang",
+      "Xinyu Gao",
+      "Wenming Zhou",
+      "Shaohui Jiao",
+      "Yuqing Zhang",
+      "Xiaogang Jin"
+    ],
+    "publication_date": "2023-09-22",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "1ce81d64eefe5915c6ef9719915efa5f4079a6c1",
+    "corpus_id": 262466218,
+    "category": "Computer Science"
+  },
+  "2308-04079": {
+    "title": "3D Gaussian Splatting for Real-Time Radiance Field Rendering",
+    "authors": [
+      "Bernhard Kerbl",
+      "Georgios Kopanas",
+      "Thomas Leimkuehler",
+      "G. Drettakis"
+    ],
+    "publication_date": "2023-07-26",
+    "venue": "ACM Transactions on Graphics",
+    "semantic_scholar_id": "2cc1d857e86d5152ba7fe6a8355c2a0150cc280a",
+    "corpus_id": 259267917,
+    "category": "Computer Science"
+  },
+  "2305-10006": {
+    "title": "EfficientSCI: Densely Connected Network with Space-time Factorization for Large-scale Video Snapshot Compressive Imaging",
+    "authors": [
+      "Lishun Wang",
+      "Miao Cao",
+      "Xin Yuan"
+    ],
+    "publication_date": "2023-05-17",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "0aa5c7b8f5559d90626ef1cfad38faeec34b3ee7",
+    "corpus_id": 258740877,
+    "category": "Computer Science, Engineering"
+  },
+  "2209-01578": {
+    "title": "Spatial-Temporal Transformer for Video Snapshot Compressive Imaging",
+    "authors": [
+      "Lishun Wang",
+      "Miao Cao",
+      "Yong Zhong",
+      "Xin Yuan"
+    ],
+    "publication_date": "2022-09-04",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "b7fc9a498195c45dfb38d365cd4b959a2dc069e7",
+    "corpus_id": 252089498,
+    "category": "Computer Science, Medicine, Engineering"
+  },
+  "2201-05483": {
+    "title": "Adaptive Deep PnP Algorithm for Video Snapshot Compressive Imaging",
+    "authors": [
+      "Zong-Jhe Wu",
+      "Chengshuai Yang",
+      "Xiongfei Su",
+      "Xin Yuan"
+    ],
+    "publication_date": "2022-01-14",
+    "venue": "International Journal of Computer Vision",
+    "semantic_scholar_id": "a83e6f65bd9e04c41ca53cc266e1fbc34444872d",
+    "corpus_id": 245986670,
+    "category": "Computer Science, Engineering"
+  },
+  "2111-14292": {
+    "title": "Deblur-NeRF: Neural Radiance Fields from Blurry Images",
+    "authors": [
+      "Li Ma",
+      "Xiaoyu Li",
+      "Jing Liao",
+      "Qi Zhang",
+      "Xuan Wang",
+      "Jue Wang",
+      "P. Sander"
+    ],
+    "publication_date": "2021-11-29",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "7bc683fe1911f4987b845f7d2165d5888f0a50e9",
+    "corpus_id": 244714238,
+    "category": "Computer Science"
+  },
+  "2111-12077": {
+    "title": "Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields",
+    "authors": [
+      "J. Barron",
+      "B. Mildenhall",
+      "Dor Verbin",
+      "Pratul P. Srinivasan",
+      "Peter Hedman"
+    ],
+    "publication_date": "2021-11-23",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "ec90ffa017a2cc6a51342509ce42b81b478aefb3",
+    "corpus_id": 244488448,
+    "category": "Computer Science"
+  },
+  "2103-03089": {
+    "title": "Memory-Efficient Network for Large-scale Video Compressive Sensing",
+    "authors": [
+      "Ziheng Cheng",
+      "Bo Chen",
+      "Guanliang Liu",
+      "Hao Zhang",
+      "Ruiying Lu",
+      "Zhengjue Wang",
+      "Xin Yuan"
+    ],
+    "publication_date": "2021-03-04",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "d4feb947c35c2a3d8b4fe34f653e2337a2f9661e",
+    "corpus_id": 232110492,
+    "category": "Engineering, Computer Science"
+  },
+  "2101-04822": {
+    "title": "Plug-and-Play Algorithms for Video Snapshot Compressive Imaging",
+    "authors": [
+      "Xin Yuan",
+      "Yang Liu",
+      "J. Suo",
+      "F. Durand",
+      "Qionghai Dai"
+    ],
+    "publication_date": "2021-01-13",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "af215b3c6e8fb04a3874be214af28bedab623b7e",
+    "corpus_id": 231592829,
+    "category": "Medicine, Computer Science, Engineering"
+  },
+  "2012-08364": {
+    "title": "GAP-net for Snapshot Compressive Imaging",
+    "authors": [
+      "Ziyi Meng",
+      "S. Jalali",
+      "Xin Yuan"
+    ],
+    "publication_date": "2020-12-13",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "284d79dbbdd492c9439e0cab1f99808d9e1fb70c",
+    "corpus_id": 229181347,
+    "category": "Computer Science, Engineering"
+  },
+  "2010-11929": {
+    "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+    "authors": [
+      "Alexey Dosovitskiy",
+      "Lucas Beyer",
+      "Alexander Kolesnikov",
+      "Dirk Weissenborn",
+      "Xiaohua Zhai",
+      "Thomas Unterthiner",
+      "Mostafa Dehghani",
+      "M. Minderer",
+      "G. Heigold",
+      "S. Gelly",
+      "Jakob Uszkoreit",
+      "N. Houlsby"
+    ],
+    "publication_date": "2020-10-22",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "268d347e8a55b5eb82fb5e7d2f800e33c75ab18a",
+    "corpus_id": 225039882,
+    "category": "Computer Science"
+  },
+  "2003-13654": {
+    "title": "Plug-and-Play Algorithms for Large-Scale Snapshot Compressive Imaging",
+    "authors": [
+      "Xin Yuan",
+      "Yang Liu",
+      "J. Suo",
+      "Qionghai Dai"
+    ],
+    "publication_date": "2020-03-30",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2cf825fd9fdc518ad7b262fbd9f2ad58570c8d28",
+    "corpus_id": 214714320,
+    "category": "Computer Science"
+  },
+  "1905-00889": {
+    "title": "Local light field fusion",
+    "authors": [
+      "B. Mildenhall",
+      "Pratul P. Srinivasan",
+      "Rodrigo Ortiz Cayon",
+      "N. Kalantari",
+      "Ravi Ramamoorthi",
+      "Ren Ng",
+      "Abhishek Kar"
+    ],
+    "publication_date": "2019-05-02",
+    "venue": "ACM Transactions on Graphics",
+    "semantic_scholar_id": "af39e137818ef8304ccea2ada546700de1dd2f8c",
+    "corpus_id": 260545139,
+    "category": "Computer Science"
+  },
+  "1807-07837": {
+    "title": "Rank Minimization for Snapshot Compressive Imaging",
+    "authors": [
+      "Yang Liu",
+      "Xin Yuan",
+      "J. Suo",
+      "D. Brady",
+      "Qionghai Dai"
+    ],
+    "publication_date": "2018-07-20",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "3fe00962a460c960c90a84d346e31362ecb364cc",
+    "corpus_id": 49902154,
+    "category": "Computer Science, Medicine"
+  },
+  "1801-03924": {
+    "title": "The Unreasonable Effectiveness of Deep Features as a Perceptual Metric",
+    "authors": [
+      "Richard Zhang",
+      "Phillip Isola",
+      "Alexei A. Efros",
+      "Eli Shechtman",
+      "Oliver Wang"
+    ],
+    "publication_date": "2018-01-11",
+    "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "c468bbde6a22d961829e1970e6ad5795e05418d1",
+    "corpus_id": 4766599,
+    "category": "Computer Science"
+  },
+  "1704-00675": {
+    "title": "The 2017 DAVIS Challenge on Video Object Segmentation",
+    "authors": [
+      "J. Pont-Tuset",
+      "Federico Perazzi",
+      "Sergi Caelles",
+      "Pablo Arbeláez",
+      "A. Sorkine-Hornung",
+      "L. Gool"
+    ],
+    "publication_date": "2017-04-03",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "49e8fec24cce8b73706bc5fcd2c3f681addb9982",
+    "corpus_id": 3619941,
+    "category": "Computer Science"
+  },
+  "1511-03890": {
+    "title": "Generalized alternating projection based total variation minimization for compressive sensing",
+    "authors": [
+      "Xin Yuan"
+    ],
+    "publication_date": "2015-11-12",
+    "venue": "International Conference on Information Photonics",
+    "semantic_scholar_id": "aed3a9333d5867242ed438c3329cd93b51b5f76d",
+    "corpus_id": 2602948,
+    "category": "Computer Science, Mathematics"
+  },
+  "1302-2575": {
+    "title": "Coded aperture compressive temporal imaging",
+    "authors": [
+      "P. Llull",
+      "X. Liao",
+      "Xin Yuan",
+      "Jianbo Yang",
+      "D. Kittle",
+      "L. Carin",
+      "G. Sapiro",
+      "D. Brady"
+    ],
+    "publication_date": "2013-02-04",
+    "venue": "Optics Express",
+    "semantic_scholar_id": "176cec7939516b68f442c66f1a053b873c364466",
+    "corpus_id": 85413,
+    "category": "Computer Science, Medicine, Mathematics"
+  },
+  "math/0409186": {
+    "title": "Robust uncertainty principles: exact signal reconstruction from highly incomplete frequency information",
+    "authors": [
+      "E. Candès",
+      "J. Romberg",
+      "T. Tao"
+    ],
+    "publication_date": "2004-09-10",
+    "venue": "IEEE Transactions on Information Theory",
+    "semantic_scholar_id": "c1180048929ed490ab25e0e612f8f7c3d7196450",
+    "corpus_id": 7033413,
+    "category": "Mathematics, Computer Science"
+  }
+}

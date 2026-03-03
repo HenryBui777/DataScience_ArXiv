@@ -1,0 +1,14 @@
+{
+  "title": "Synchronisability in Mailbox Communication",
+  "authors": [
+    "Cinzia Di Giusto",
+    "Laetitia Laversa",
+    "Kirstin Peters"
+  ],
+  "summary": "We revisit the problem of synchronisability for communicating automata, i.e., whether the language of send messages for an asynchronous system is the same as the language of send messages with a synchronous communication. The un/decidability of the problem depends on the specific asynchronous semantics considered as well as the topology (the communication flow) of the system. Synchronisability is known to be undecidable under the peer-to-peer semantics, while it is still an open problem for mailbox communication. The problem was shown to be decidable for ring topologies. In this paper, we show that when generalising to automata with accepting states, synchronisability is undecidable under the mailbox semantics, this result is obtained by resorting to the Post Correspondence problem. In an attempt to solve the specific problem where all states are accepting, we also show that synchronisability is decidable for tree topologies (where, as well as for rings, peer-to-peer coincides with mailbox semantics). We also discuss synchronisability for multitrees in the mailbox setting.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "EPTCS 412, 2024, pp. 19-34",
+  "pdf_url": null,
+  "category": "cs.FL, cs.PL"
+}

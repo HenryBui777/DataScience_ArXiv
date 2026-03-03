@@ -1,0 +1,14 @@
+{
+  "title": "A Novel Approach to Eliminating Hallucinations in Large Language Model-Assisted Causal Discovery",
+  "authors": [
+    "Grace Sng",
+    "Yanming Zhang",
+    "Klaus Mueller"
+  ],
+  "summary": "The increasing use of large language models (LLMs) in causal discovery as a substitute for human domain experts highlights the need for optimal model selection. This paper presents the first hallucination survey of popular LLMs for causal discovery. We show that hallucinations exist when using LLMs in causal discovery so the choice of LLM is important. We propose using Retrieval Augmented Generation (RAG) to reduce hallucinations when quality data is available. Additionally, we introduce a novel method employing multiple LLMs with an arbiter in a debate to audit edges in causal graphs, achieving a comparable reduction in hallucinations to RAG.",
+  "submission_date": "2024-11-16",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.AI"
+}

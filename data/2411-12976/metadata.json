@@ -1,0 +1,14 @@
+{
+  "title": "Oblivious Algorithms for Maximum Directed Cut: New Upper and Lower Bounds",
+  "authors": [
+    "Samuel Hwang",
+    "Noah G. Singer",
+    "Santhoshini Velusamy"
+  ],
+  "summary": "In the maximum directed cut problem, the input is a directed graph $G=(V,E)$, and the goal is to pick a partition $V = S \\cup (V \\setminus S)$ of the vertices such that as many edges as possible go from $S$ to $V\\setminus S$. Oblivious algorithms, introduced by Feige and Jozeph (Algorithmica'17), are a simple class of algorithms for this problem. These algorithms independently and randomly assign each vertex $v$ to either $S$ or $V \\setminus S$, and the distribution of $v$'s assignment is determined using only extremely local information about $v$: its bias, i.e., the relative difference between its out- and in-degrees. These algorithms have natural implementations in certain graph streaming models, where they have important implications (Saxena, Singer, Sudan, and Velusamy, SODA'23, FOCS'23, Kallaugher, Parekh, and Voronova, STOC'24).\n  In this work, we narrow the gap between upper and lower bounds on the best approximation ratio achievable by oblivious algorithms for Max-Directed-Cut. We show that there exists an oblivious algorithm achieving an approximation ratio of at least $0.4853$, while every oblivious algorithm obeying a natural symmetry property achieves an approximation ratio of at most $0.4889$. The previous known bounds were $0.4844$ and $0.4899$, due to Singer (APPROX'23) and Feige and Jozeph, respectively. Our techniques involve designing principled parameterizations of the spaces of algorithms and lower bounds and then executing computer searches through these spaces.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DS"
+}

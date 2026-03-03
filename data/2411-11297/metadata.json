@@ -1,0 +1,13 @@
+{
+  "title": "Stochastic quantization and diffusion models",
+  "authors": [
+    "Kenji Fukushima",
+    "Syo Kamata"
+  ],
+  "summary": "This is a pedagogical review of the possible connection between the stochastic quantization in physics and the diffusion models in machine learning. For machine-learning applications, the denoising diffusion model has been established as a successful technique, which is formulated in terms of the stochastic differential equation (SDE). In this review, we focus on an SDE approach used in the score-based generative modeling. Interestingly, the evolution of the probability distribution is equivalently described by a particular class of SDEs, and in a particular limit, the stochastic noises can be eliminated. Then, we turn to a similar mathematical formulation in quantum physics, that is, the stochastic quantization. We make a brief overview on the stochastic quantization using a simple toy model of the one-dimensional integration. The analogy between the diffusion model and the stochastic quantization is clearly seen in this concrete example. Finally, we discuss how the sign problem arises in the toy model with complex parameters. The origin of the difficulty is understood based on the Lefschetz thimble analysis. We point out that the SDE is not invariant under the variable change which induces a kernel and a special choice of the kernel guided by the Lefschetz thimble analysis can reduce the sign problem.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "J. Phys. Soc. Jpn. 94, 031010 (2025)",
+  "pdf_url": null,
+  "category": "hep-lat, hep-ph, quant-ph"
+}

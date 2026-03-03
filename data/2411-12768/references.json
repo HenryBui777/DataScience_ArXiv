@@ -1,0 +1,1297 @@
+{
+  "2410-14425": {
+    "title": "Unlearning Backdoor Attacks for LLMs with Weak-to-Strong Knowledge Distillation",
+    "authors": [
+      "Shuai Zhao",
+      "Xiaobao Wu",
+      "Cong-Duy Nguyen",
+      "Meihuizi Jia",
+      "Yichao Feng",
+      "Anh Tuan Luu"
+    ],
+    "publication_date": "2024-10-18",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "dff70581dedc3b5709f144137ae5d96d52add3c1",
+    "corpus_id": 273482748,
+    "category": "Computer Science"
+  },
+  "2410-11205": {
+    "title": "Adversarially Guided Stateful Defense Against Backdoor Attacks in Federated Deep Learning",
+    "authors": [
+      "Hassan Ali",
+      "Surya Nepal",
+      "S. Kanhere",
+      "Sanjay Jha"
+    ],
+    "publication_date": "2024-10-15",
+    "venue": "Asia-Pacific Computer Systems Architecture Conference",
+    "semantic_scholar_id": "e1f3b4e2ff72a0729a60af0c79f9561bb15d7253",
+    "corpus_id": 273351340,
+    "category": "Computer Science"
+  },
+  "2406-12257": {
+    "title": "CleanGen: Mitigating Backdoor Attacks for Generation Tasks in Large Language Models",
+    "authors": [
+      "Yuetai Li",
+      "Zhangchen Xu",
+      "Fengqing Jiang",
+      "Luyao Niu",
+      "D. Sahabandu",
+      "Bhaskar Ramasubramanian",
+      "Radha Poovendran"
+    ],
+    "publication_date": "2024-06-18",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "c7fbab2b0df6ddc1c9e818e64ea953aa17a9ad4d",
+    "corpus_id": 270562843,
+    "category": "Computer Science"
+  },
+  "2405-07667": {
+    "title": "Simulate and Eliminate: Revoke Backdoors for Generative Large Language Models",
+    "authors": [
+      "Haoran Li",
+      "Yulin Chen",
+      "Zihao Zheng",
+      "Qi Hu",
+      "Chunkit Chan",
+      "Heshan Liu",
+      "Yangqiu Song"
+    ],
+    "publication_date": "2024-05-13",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "96f0afd55fb1b37fcd683c7e3aa1704d18b60a73",
+    "corpus_id": 269757159,
+    "category": "Computer Science"
+  },
+  "2402-09179": {
+    "title": "Instruction Backdoor Attacks Against Customized LLMs",
+    "authors": [
+      "Rui Zhang",
+      "Hongwei Li",
+      "Rui Wen",
+      "Wenbo Jiang",
+      "Yuan Zhang",
+      "Michael Backes",
+      "Yun Shen",
+      "Yang Zhang"
+    ],
+    "publication_date": "2024-02-14",
+    "venue": "USENIX Security Symposium",
+    "semantic_scholar_id": "e6d94c50c5a471a584922a03c405587b59bf18e4",
+    "corpus_id": 267657775,
+    "category": "Computer Science"
+  },
+  "2402-00898": {
+    "title": "An Early Categorization of Prompt Injection Attacks on Large Language Models",
+    "authors": [
+      "Sippo Rossi",
+      "Alisia Marianne Michel",
+      "R. Mukkamala",
+      "J. Thatcher"
+    ],
+    "publication_date": "2024-01-31",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "78fa00a8cdd113e63ed18285fcd1bb6e8b042785",
+    "corpus_id": 267406189,
+    "category": "Computer Science"
+  },
+  "2401-15295": {
+    "title": "Shortcuts Everywhere and Nowhere: Exploring Multi-Trigger Backdoor Attacks",
+    "authors": [
+      "Yige Li",
+      "Xingjun Ma",
+      "Jiabo He",
+      "Hanxun Huang",
+      "Yu-Gang Jiang"
+    ],
+    "publication_date": "2024-01-27",
+    "venue": "IEEE Transactions on Dependable and Secure Computing",
+    "semantic_scholar_id": "8422e0fcd98c7abe2277ee00ad602d7e851c8341",
+    "corpus_id": 267311724,
+    "category": "Computer Science"
+  },
+  "2401-12242": {
+    "title": "BadChain: Backdoor Chain-of-Thought Prompting for Large Language Models",
+    "authors": [
+      "Zhen Xiang",
+      "Fengqing Jiang",
+      "Zidi Xiong",
+      "Bhaskar Ramasubramanian",
+      "R. Poovendran",
+      "Bo Li"
+    ],
+    "publication_date": "2024-01-20",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "f8d7b0245480646abd257bac60ee37804981a0d7",
+    "corpus_id": 267094837,
+    "category": "Computer Science"
+  },
+  "2401-05949": {
+    "title": "Universal Vulnerabilities in Large Language Models: Backdoor Attacks for In-context Learning",
+    "authors": [
+      "Shuai Zhao",
+      "Meihuizi Jia",
+      "Anh Tuan Luu",
+      "Fengjun Pan",
+      "Jinming Wen"
+    ],
+    "publication_date": "2024-01-11",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "eb16eae728f54962992e6115c5dcd0df3be28c89",
+    "corpus_id": 267740116,
+    "category": "Computer Science"
+  },
+  "2401-05566": {
+    "title": "Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training",
+    "authors": [
+      "Evan Hubinger",
+      "Carson E. Denison",
+      "Jesse Mu",
+      "Mike Lambert",
+      "Meg Tong",
+      "M. MacDiarmid",
+      "Tamera Lanham",
+      "Daniel M. Ziegler",
+      "Tim Maxwell",
+      "Newton Cheng",
+      "Adam Jermyn",
+      "Amanda Askell",
+      "Ansh Radhakrishnan",
+      "Cem Anil",
+      "D. Duvenaud",
+      "Deep Ganguli",
+      "Fazl Barez",
+      "J. Clark",
+      "Kamal Ndousse",
+      "Kshitij Sachan",
+      "M. Sellitto",
+      "Mrinank Sharma",
+      "Nova Dassarma",
+      "Roger Grosse",
+      "Shauna Kravec",
+      "Yuntao Bai",
+      "Zachary Witten",
+      "Marina Favaro",
+      "J. Brauner",
+      "Holden Karnofsky",
+      "P. Christiano",
+      "Samuel R. Bowman",
+      "Logan Graham",
+      "Jared Kaplan",
+      "S. Mindermann",
+      "R. Greenblatt",
+      "Buck Shlegeris",
+      "Nicholas Schiefer",
+      "Ethan Perez"
+    ],
+    "publication_date": "2024-01-10",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "9363e8e1fe2be2a13b4d6f5fc61bbaed14ab9a23",
+    "corpus_id": 266933030,
+    "category": "Computer Science"
+  },
+  "2311-16194": {
+    "title": "BadCLIP: Trigger-Aware Prompt Learning for Backdoor Attacks on CLIP",
+    "authors": [
+      "Jiawang Bai",
+      "Kuofeng Gao",
+      "Shaobo Min",
+      "Shu-Tao Xia",
+      "Zhifeng Li",
+      "Wei Liu"
+    ],
+    "publication_date": "2023-11-26",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "d0dfbf14af09e514d139c617aa3288ef96268fba",
+    "corpus_id": 265466314,
+    "category": "Computer Science"
+  },
+  "2310-12439": {
+    "title": "PoisonPrompt: Backdoor Attack on Prompt-Based Large Language Models",
+    "authors": [
+      "Hongwei Yao",
+      "Jian Lou",
+      "Zhan Qin"
+    ],
+    "publication_date": "2023-10-19",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "6ad93900b1c956020242653e33ac447824f75fc6",
+    "corpus_id": 264306255,
+    "category": "Computer Science"
+  },
+  "2310-07676": {
+    "title": "Composite Backdoor Attacks Against Large Language Models",
+    "authors": [
+      "Hai Huang",
+      "Zhengyu Zhao",
+      "Michael Backes",
+      "Yun Shen",
+      "Yang Zhang"
+    ],
+    "publication_date": "2023-10-11",
+    "venue": "NAACL-HLT",
+    "semantic_scholar_id": "94dd5c30b052e29039c20e8cbd4214bb2302740a",
+    "corpus_id": 263834732,
+    "category": "Computer Science"
+  },
+  "2310-06825": {
+    "title": "Mistral 7B",
+    "authors": [
+      "Albert Qiaochu Jiang",
+      "Alexandre Sablayrolles",
+      "A. Mensch",
+      "Chris Bamford",
+      "Devendra Singh Chaplot",
+      "Diego de Las Casas",
+      "Florian Bressand",
+      "Gianna Lengyel",
+      "Guillaume Lample",
+      "Lucile Saulnier",
+      "Lélio Renard Lavaud",
+      "M. Lachaux",
+      "Pierre Stock",
+      "Teven Le Scao",
+      "Thibaut Lavril",
+      "Thomas Wang",
+      "Timothée Lacroix",
+      "William El Sayed"
+    ],
+    "publication_date": "2023-10-10",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "db633c6b1c286c0386f0078d8a2e6224e03a6227",
+    "corpus_id": 263830494,
+    "category": "Computer Science"
+  },
+  "2310-03693": {
+    "title": "Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!",
+    "authors": [
+      "Xiangyu Qi",
+      "Yi Zeng",
+      "Tinghao Xie",
+      "Pin-Yu Chen",
+      "Ruoxi Jia",
+      "Prateek Mittal",
+      "Peter Henderson"
+    ],
+    "publication_date": "2023-10-05",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "0e0e706e13f160e74cac9556f28ab9a358c148d2",
+    "corpus_id": 263671523,
+    "category": "Computer Science"
+  },
+  "2309-13256": {
+    "title": "Defending Pre-trained Language Models as Few-shot Learners against Backdoor Attacks",
+    "authors": [
+      "Zhaohan Xi",
+      "Tianyu Du",
+      "Changjiang Li",
+      "Ren Pang",
+      "S. Ji",
+      "Jinghui Chen",
+      "Fenglong Ma",
+      "Ting Wang"
+    ],
+    "publication_date": "2023-09-23",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "41cc3338635cde85316a0bcb934bffc73008761a",
+    "corpus_id": 262459235,
+    "category": "Computer Science"
+  },
+  "2309-03883": {
+    "title": "DoLa: Decoding by Contrasting Layers Improves Factuality in Large Language Models",
+    "authors": [
+      "Yung-Sung Chuang",
+      "Yujia Xie",
+      "Hongyin Luo",
+      "Yoon Kim",
+      "James R. Glass",
+      "Pengcheng He"
+    ],
+    "publication_date": "2023-09-07",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "ed5020eeda1fbe8c29b1282d654b34abee22d90f",
+    "corpus_id": 261582463,
+    "category": "Computer Science"
+  },
+  "2308-12950": {
+    "title": "Code Llama: Open Foundation Models for Code",
+    "authors": [
+      "Baptiste Rozière",
+      "Jonas Gehring",
+      "Fabian Gloeckle",
+      "Sten Sootla",
+      "Itai Gat",
+      "Xiaoqing Tan",
+      "Yossi Adi",
+      "Jingyu Liu",
+      "Tal Remez",
+      "J. Rapin",
+      "Artyom Kozhevnikov",
+      "I. Evtimov",
+      "Joanna Bitton",
+      "Manish P Bhatt",
+      "Cris-tian Cantón Ferrer",
+      "Aaron Grattafiori",
+      "Wenhan Xiong",
+      "Alexandre D'efossez",
+      "Jade Copet",
+      "Faisal Azhar",
+      "Hugo Touvron",
+      "Louis Martin",
+      "Nicolas Usunier",
+      "Thomas Scialom",
+      "Gabriel Synnaeve"
+    ],
+    "publication_date": "2023-08-24",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "0b0debb710366cdff461938c80763eace1651af6",
+    "corpus_id": 261100919,
+    "category": "Computer Science"
+  },
+  "2307-16888": {
+    "title": "Backdooring Instruction-Tuned Large Language Models with Virtual Prompt Injection",
+    "authors": [
+      "Jun Yan",
+      "Vikas Yadav",
+      "SHIYANG LI",
+      "Lichang Chen",
+      "Zheng Tang",
+      "Hai Wang",
+      "Vijay Srinivasan",
+      "Xiang Ren",
+      "Hongxia Jin"
+    ],
+    "publication_date": "2023-07-31",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "37665dd5ae7245f087d663785c17eef068578676",
+    "corpus_id": 260334112,
+    "category": "Computer Science"
+  },
+  "2307-15043": {
+    "title": "Universal and Transferable Adversarial Attacks on Aligned Language Models",
+    "authors": [
+      "Andy Zou",
+      "Zifan Wang",
+      "J. Z. Kolter",
+      "Matt Fredrikson"
+    ],
+    "publication_date": "2023-07-27",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "47030369e97cc44d4b2e3cf1be85da0fd134904a",
+    "corpus_id": 260202961,
+    "category": "Computer Science"
+  },
+  "2307-14692": {
+    "title": "Backdoor Attacks for In-Context Learning with Language Models",
+    "authors": [
+      "Nikhil Kandpal",
+      "Matthew Jagielski",
+      "Florian Tramèr",
+      "Nicholas Carlini"
+    ],
+    "publication_date": "2023-07-27",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "4d21debb0f5fec315181e0912b5105c6ce4fc67f",
+    "corpus_id": 260203047,
+    "category": "Computer Science"
+  },
+  "2307-09288": {
+    "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models",
+    "authors": [
+      "Hugo Touvron",
+      "Louis Martin",
+      "Kevin R. Stone",
+      "Peter Albert",
+      "Amjad Almahairi",
+      "Yasmine Babaei",
+      "Niko-lay Bashlykov",
+      "Soumya Batra",
+      "Prajjwal Bhargava",
+      "Shruti Bhosale",
+      "D. Bikel",
+      "Lukas Blecher",
+      "Cris-tian Cantón Ferrer",
+      "Moya Chen",
+      "Guillem Cucurull",
+      "David Esiobu",
+      "Jude Fernandes",
+      "J. Fu",
+      "Wenyin Fu",
+      "Brian Fuller",
+      "Cynthia Gao",
+      "Vedanuj Goswami",
+      "Naman Goyal",
+      "A. Hartshorn",
+      "Saghar Hosseini",
+      "Rui Hou",
+      "Hakan Inan",
+      "Marcin Kardas",
+      "Viktor Kerkez",
+      "Madian Khabsa",
+      "Isabel M. Kloumann",
+      "A. Korenev",
+      "Punit Singh Koura",
+      "M. Lachaux",
+      "Thibaut Lavril",
+      "Jenya Lee",
+      "Diana Liskovich",
+      "Yinghai Lu",
+      "Yuning Mao",
+      "Xavier Martinet",
+      "Todor Mihaylov",
+      "Pushkar Mishra",
+      "Igor Molybog",
+      "Yixin Nie",
+      "Andrew Poulton",
+      "J. Reizenstein",
+      "Rashi Rungta",
+      "Kalyan Saladi",
+      "A. Schelten",
+      "Ruan Silva",
+      "Eric Michael Smith",
+      "R. Subramanian",
+      "Xia Tan",
+      "Binh Tang",
+      "Ross Taylor",
+      "Adina Williams",
+      "Jian Xiang Kuan",
+      "Puxin Xu",
+      "Zhengxu Yan",
+      "Iliyan Zarov",
+      "Yuchen Zhang",
+      "Angela Fan",
+      "M. Kambadur",
+      "Sharan Narang",
+      "Aur'elien Rodriguez",
+      "Robert Stojnic",
+      "Sergey Edunov",
+      "Thomas Scialom"
+    ],
+    "publication_date": "2023-07-18",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "104b0bb1da562d53cbda87aec79ef6a2827d191a",
+    "corpus_id": 259950998,
+    "category": "Computer Science"
+  },
+  "2306-17194": {
+    "title": "On the Exploitability of Instruction Tuning",
+    "authors": [
+      "Manli Shu",
+      "Jiong Wang",
+      "Chen Zhu",
+      "Jonas Geiping",
+      "Chaowei Xiao",
+      "T. Goldstein"
+    ],
+    "publication_date": "2023-06-28",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "f5fa0b3c2ecbf17ba922932432bed46a1447ed23",
+    "corpus_id": 259309096,
+    "category": "Computer Science"
+  },
+  "2306-11698": {
+    "title": "DecodingTrust: A Comprehensive Assessment of Trustworthiness in GPT Models",
+    "authors": [
+      "Boxin Wang",
+      "Weixin Chen",
+      "Hengzhi Pei",
+      "Chulin Xie",
+      "Mintong Kang",
+      "Chenhui Zhang",
+      "Chejian Xu",
+      "Zidi Xiong",
+      "Ritik Dutta",
+      "Rylan Schaeffer",
+      "Sang Truong",
+      "Simran Arora",
+      "Mantas Mazeika",
+      "Dan Hendrycks",
+      "Zinan Lin",
+      "Yuk-Kit Cheng",
+      "Sanmi Koyejo",
+      "D. Song",
+      "Bo Li"
+    ],
+    "publication_date": "2023-06-20",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "a6d3794c23626060781da0f1ff2bcdf7457b6c43",
+    "corpus_id": 259202782,
+    "category": "Computer Science"
+  },
+  "2306-06815": {
+    "title": "TrojLLM: A Black-box Trojan Prompt Attack on Large Language Models",
+    "authors": [
+      "Jiaqi Xue",
+      "Yepeng Liu",
+      "Mengxin Zheng",
+      "Ting Hua",
+      "Yilin Shen",
+      "L. Boloni",
+      "Qian Lou"
+    ],
+    "publication_date": "2023-06-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "33e7f54c2b31849ea5f4a36f0a3470ea57857ff6",
+    "corpus_id": 259137375,
+    "category": "Computer Science"
+  },
+  "2306-05685": {
+    "title": "Judging LLM-as-a-judge with MT-Bench and Chatbot Arena",
+    "authors": [
+      "Lianmin Zheng",
+      "Wei-Lin Chiang",
+      "Ying Sheng",
+      "Siyuan Zhuang",
+      "Zhanghao Wu",
+      "Yonghao Zhuang",
+      "Zi Lin",
+      "Zhuohan Li",
+      "Dacheng Li",
+      "E. Xing",
+      "Haotong Zhang",
+      "Joseph E. Gonzalez",
+      "Ion Stoica"
+    ],
+    "publication_date": "2023-06-09",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "a0a79dad89857a96f8f71b14238e5237cbfc4787",
+    "corpus_id": 259129398,
+    "category": "Computer Science"
+  },
+  "2305-14710": {
+    "title": "Instructions as Backdoors: Backdoor Vulnerabilities of Instruction Tuning for Large Language Models",
+    "authors": [
+      "Jiashu Xu",
+      "Mingyu Derek Ma",
+      "Fei Wang",
+      "Chaowei Xiao",
+      "Muhao Chen"
+    ],
+    "publication_date": "2023-05-24",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "82fe948f18ca0138d035f553286c5e4b712dbdbe",
+    "corpus_id": 258866212,
+    "category": "Computer Science"
+  },
+  "2305-11442": {
+    "title": "Zero-Shot Text Classification via Self-Supervised Tuning",
+    "authors": [
+      "Chaoqun Liu",
+      "Wenxuan Zhang",
+      "Guizhen Chen",
+      "Xiaobao Wu",
+      "A. Luu",
+      "Chip-Hong Chang",
+      "Lidong Bing"
+    ],
+    "publication_date": "2023-05-19",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "56a1ad3a676fe85c32fc0a2971aac186387494dc",
+    "corpus_id": 258822986,
+    "category": "Computer Science"
+  },
+  "2305-02424": {
+    "title": "Backdoor Learning on Sequence to Sequence Models",
+    "authors": [
+      "Lichang Chen",
+      "Minhao Cheng",
+      "Heng Huang"
+    ],
+    "publication_date": "2023-05-03",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "aec4fc30ea7b4daebae736375efcfed7f4f83c5b",
+    "corpus_id": 258480005,
+    "category": "Computer Science"
+  },
+  "2305-01219": {
+    "title": "Prompt as Triggers for Backdoor Attack: Examining the Vulnerability in Language Models",
+    "authors": [
+      "Shuai Zhao",
+      "Jinming Wen",
+      "Anh Tuan Luu",
+      "J. Zhao",
+      "Jie Fu"
+    ],
+    "publication_date": "2023-05-02",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "3def0d3624211ffb012f15835f2071e28766f2d3",
+    "corpus_id": 258437126,
+    "category": "Computer Science"
+  },
+  "2305-00944": {
+    "title": "Poisoning Language Models During Instruction Tuning",
+    "authors": [
+      "Alexander Wan",
+      "Eric Wallace",
+      "Sheng Shen",
+      "D. Klein"
+    ],
+    "publication_date": "2023-05-01",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "bf52c9d94fd61fae0d231a7e43d45d673584c282",
+    "corpus_id": 258426823,
+    "category": "Computer Science"
+  },
+  "2302-12758": {
+    "title": "Defending Against Backdoor Attacks by Layer-wise Feature Analysis",
+    "authors": [
+      "N. Jebreel",
+      "J. Domingo-Ferrer",
+      "Yiming Li"
+    ],
+    "publication_date": "2023-02-24",
+    "venue": "Pacific-Asia Conference on Knowledge Discovery and Data Mining",
+    "semantic_scholar_id": "3cadb53c8a785c5ca757f99c7b22e549f00d2b5d",
+    "corpus_id": 257205941,
+    "category": "Computer Science"
+  },
+  "2302-10149": {
+    "title": "Poisoning Web-Scale Training Datasets is Practical",
+    "authors": [
+      "Nicholas Carlini",
+      "Matthew Jagielski",
+      "Christopher A. Choquette-Choo",
+      "Daniel Paleka",
+      "Will Pearce",
+      "H. Anderson",
+      "A. Terzis",
+      "Kurt Thomas",
+      "Florian Tramèr"
+    ],
+    "publication_date": "2023-02-20",
+    "venue": "IEEE Symposium on Security and Privacy",
+    "semantic_scholar_id": "2cf43a61d0937ad25f23eaef7c90253ab799b3c7",
+    "corpus_id": 257038404,
+    "category": "Computer Science"
+  },
+  "2212-08073": {
+    "title": "Constitutional AI: Harmlessness from AI Feedback",
+    "authors": [
+      "Yuntao Bai",
+      "Saurav Kadavath",
+      "Sandipan Kundu",
+      "Amanda Askell",
+      "John Kernion",
+      "Andy Jones",
+      "A. Chen",
+      "Anna Goldie",
+      "Azalia Mirhoseini",
+      "C. McKinnon",
+      "Carol Chen",
+      "Catherine Olsson",
+      "Chris Olah",
+      "Danny Hernandez",
+      "Dawn Drain",
+      "Deep Ganguli",
+      "Dustin Li",
+      "Eli Tran-Johnson",
+      "E. Perez",
+      "Jamie Kerr",
+      "J. Mueller",
+      "Jeffrey Ladish",
+      "J. Landau",
+      "Kamal Ndousse",
+      "Kamilė Lukošiūtė",
+      "Liane Lovitt",
+      "M. Sellitto",
+      "Nelson Elhage",
+      "Nicholas Schiefer",
+      "Noem'i Mercado",
+      "Nova Dassarma",
+      "R. Lasenby",
+      "Robin Larson",
+      "Sam Ringer",
+      "Scott Johnston",
+      "Shauna Kravec",
+      "S. E. Showk",
+      "Stanislav Fort",
+      "Tamera Lanham",
+      "Timothy Telleen-Lawton",
+      "Tom Conerly",
+      "T. Henighan",
+      "Tristan Hume",
+      "Sam Bowman",
+      "Zac Hatfield-Dodds",
+      "Benjamin Mann",
+      "Dario Amodei",
+      "Nicholas Joseph",
+      "Sam McCandlish",
+      "Tom B. Brown",
+      "Jared Kaplan"
+    ],
+    "publication_date": "2022-12-15",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "3936fd3c6187f606c6e4e2e20b196dbc41cc4654",
+    "corpus_id": 254823489,
+    "category": "Computer Science"
+  },
+  "2210-09545": {
+    "title": "Fine-mixing: Mitigating Backdoors in Fine-tuned Language Models",
+    "authors": [
+      "Zhiyuan Zhang",
+      "L. Lyu",
+      "Xingjun Ma",
+      "Chenguang Wang",
+      "Xu Sun"
+    ],
+    "publication_date": "2022-10-18",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "1e69f7b278ba4ae61fdbeb3330d041107287bd20",
+    "corpus_id": 252968204,
+    "category": "Computer Science"
+  },
+  "2208-03111": {
+    "title": "Data-free Backdoor Removal based on Channel Lipschitzness",
+    "authors": [
+      "Runkai Zheng",
+      "Rong Tang",
+      "Jianze Li",
+      "Li Liu"
+    ],
+    "publication_date": "2022-08-05",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "d3ecd098d386080ee71a9a4f8cad7b73a6faa3a4",
+    "corpus_id": 251371330,
+    "category": "Computer Science"
+  },
+  "2206-01832": {
+    "title": "Kallima: A Clean-label Framework for Textual Backdoor Attacks",
+    "authors": [
+      "Xiaoyi Chen",
+      "Yinpeng Dong",
+      "Zeyu Sun",
+      "Shengfang Zhai",
+      "Qingni Shen",
+      "Zhonghai Wu"
+    ],
+    "publication_date": "2022-06-03",
+    "venue": "European Symposium on Research in Computer Security",
+    "semantic_scholar_id": "01f6358f184776ea26d995f3b567cb3246d8701c",
+    "corpus_id": 249395608,
+    "category": "Computer Science"
+  },
+  "2205-12700": {
+    "title": "BITE: Textual Backdoor Attacks with Iterative Trigger Injection",
+    "authors": [
+      "Jun Yan",
+      "Vansh Gupta",
+      "Xiang Ren"
+    ],
+    "publication_date": "2022-05-25",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "4a461210e454066f482f2237a736975e87e0f6a0",
+    "corpus_id": 256901263,
+    "category": "Computer Science"
+  },
+  "2203-13474": {
+    "title": "CodeGen: An Open Large Language Model for Code with Multi-Turn Program Synthesis",
+    "authors": [
+      "Erik Nijkamp",
+      "Bo Pang",
+      "Hiroaki Hayashi",
+      "Lifu Tu",
+      "Haiquan Wang",
+      "Yingbo Zhou",
+      "S. Savarese",
+      "Caiming Xiong"
+    ],
+    "publication_date": "2022-03-25",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "38115e80d805fb0fb8f090dc88ced4b24be07878",
+    "corpus_id": 252668917,
+    "category": "Computer Science"
+  },
+  "2202-10627": {
+    "title": "On the Effectiveness of Adversarial Training Against Backdoor Attacks",
+    "authors": [
+      "Yinghua Gao",
+      "Dongxian Wu",
+      "Jingfeng Zhang",
+      "Guanhao Gan",
+      "Shutao Xia",
+      "Gang Niu",
+      "Masashi Sugiyama"
+    ],
+    "publication_date": "2022-02-22",
+    "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+    "semantic_scholar_id": "8d0a2fc6a7b7c97a00a58e7f86fa51a7929a99d8",
+    "corpus_id": 247025760,
+    "category": "Medicine, Computer Science"
+  },
+  "2202-05749": {
+    "title": "Constrained Optimization with Dynamic Bound-scaling for Effective NLPBackdoor Defense",
+    "authors": [
+      "Guangyu Shen",
+      "Yingqi Liu",
+      "Guanhong Tao",
+      "Qiuling Xu",
+      "Zhuo Zhang",
+      "Shengwei An",
+      "Shiqing Ma",
+      "X. Zhang"
+    ],
+    "publication_date": "2022-02-11",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "8355c3bf17986a2e43beb4fd4436292fdcf890cb",
+    "corpus_id": 246824021,
+    "category": "Computer Science"
+  },
+  "2112-05224": {
+    "title": "Spinning Language Models: Risks of Propaganda-As-A-Service and Countermeasures",
+    "authors": [
+      "Eugene Bagdasarian",
+      "Vitaly Shmatikov"
+    ],
+    "publication_date": "2021-12-09",
+    "venue": "IEEE Symposium on Security and Privacy",
+    "semantic_scholar_id": "0429020abad6f22ea17681fa403aa591693bb607",
+    "corpus_id": 248069679,
+    "category": "Computer Science"
+  },
+  "2111-07970": {
+    "title": "Triggerless Backdoor Attack for NLP Tasks with Clean Labels",
+    "authors": [
+      "Leilei Gan",
+      "Jiwei Li",
+      "Tianwei Zhang",
+      "Xiaoya Li",
+      "Yuxian Meng",
+      "Fei Wu",
+      "Shangwei Guo",
+      "Chun Fan"
+    ],
+    "publication_date": "2021-11-15",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "b48cf1158ea6fb8347aac390ac3303efe697e305",
+    "corpus_id": 244117423,
+    "category": "Computer Science"
+  },
+  "2110-15767": {
+    "title": "Adversarial Robustness with Semi-Infinite Constrained Learning",
+    "authors": [
+      "Alexander Robey",
+      "Luiz F. O. Chamon",
+      "George Pappas",
+      "Hamed Hassani",
+      "Alejandro Ribeiro"
+    ],
+    "publication_date": "2021-10-29",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "1750b220f7a141880236e75e73e7f2a02a13fffb",
+    "corpus_id": 240288565,
+    "category": "Computer Science, Mathematics"
+  },
+  "2110-14430": {
+    "title": "Adversarial Neuron Pruning Purifies Backdoored Deep Models",
+    "authors": [
+      "Dongxian Wu",
+      "Yisen Wang"
+    ],
+    "publication_date": "2021-10-27",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "f17b9c4118e6cf6042e9fb9feacbea8909e5e655",
+    "corpus_id": 239998081,
+    "category": "Computer Science"
+  },
+  "2110-07831": {
+    "title": "RAP: Robustness-Aware Perturbations for Defending against Backdoor Attacks on NLP Models",
+    "authors": [
+      "Wenkai Yang",
+      "Yankai Lin",
+      "Peng Li",
+      "Jie Zhou",
+      "Xu Sun"
+    ],
+    "publication_date": "2021-10-15",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "ca115a9eb54e2875b9d4c4c3d5ed8adcb399dbf8",
+    "corpus_id": 239009606,
+    "category": "Computer Science"
+  },
+  "2110-07139": {
+    "title": "Mind the Style of Text! Adversarial and Backdoor Attacks Based on Text Style Transfer",
+    "authors": [
+      "Fanchao Qi",
+      "Yangyi Chen",
+      "Xurui Zhang",
+      "Mukai Li",
+      "Zhiyuan Liu",
+      "Maosong Sun"
+    ],
+    "publication_date": "2021-10-14",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "342f6ae2ebfc0ddddf15e8ba910eab6f2e06bf83",
+    "corpus_id": 238857078,
+    "category": "Computer Science"
+  },
+  "2110-03735": {
+    "title": "Adversarial Unlearning of Backdoors via Implicit Hypergradient",
+    "authors": [
+      "Yi Zeng",
+      "Si Chen",
+      "Won Park",
+      "Z. Mao",
+      "Ming Jin",
+      "R. Jia"
+    ],
+    "publication_date": "2021-10-07",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "f87ce4d2786cd7b40f6ef0e891181fe9464a4baf",
+    "corpus_id": 238531600,
+    "category": "Computer Science"
+  },
+  "2109-01652": {
+    "title": "Finetuned Language Models Are Zero-Shot Learners",
+    "authors": [
+      "Jason Wei",
+      "Maarten Bosma",
+      "Vincent Zhao",
+      "Kelvin Guu",
+      "Adams Wei Yu",
+      "Brian Lester",
+      "Nan Du",
+      "Andrew M. Dai",
+      "Quoc V. Le"
+    ],
+    "publication_date": "2021-09-03",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "ff0b2681d7b05e16c46dfb71d980cc2f605907cd",
+    "corpus_id": 237416585,
+    "category": "Computer Science"
+  },
+  "2107-03374": {
+    "title": "Evaluating Large Language Models Trained on Code",
+    "authors": [
+      "Mark Chen",
+      "Jerry Tworek",
+      "Heewoo Jun",
+      "Qiming Yuan",
+      "Henrique Pondé",
+      "Jared Kaplan",
+      "Harrison Edwards",
+      "Yura Burda",
+      "Nicholas Joseph",
+      "Greg Brockman",
+      "Alex Ray",
+      "Raul Puri",
+      "Gretchen Krueger",
+      "Michael Petrov",
+      "Heidy Khlaaf",
+      "Girish Sastry",
+      "Pamela Mishkin",
+      "Brooke Chan",
+      "Scott Gray",
+      "Nick Ryder",
+      "Mikhail Pavlov",
+      "Alethea Power",
+      "Lukasz Kaiser",
+      "Mo Bavarian",
+      "Clemens Winter",
+      "P. Tillet",
+      "F. Such",
+      "D. Cummings",
+      "Matthias Plappert",
+      "Fotios Chantzis",
+      "Elizabeth Barnes",
+      "Ariel Herbert-Voss",
+      "William H. Guss",
+      "Alex Nichol",
+      "Igor Babuschkin",
+      "S. Balaji",
+      "Shantanu Jain",
+      "A. Carr",
+      "Jan Leike",
+      "Josh Achiam",
+      "Vedant Misra",
+      "Evan Morikawa",
+      "Alec Radford",
+      "M. Knight",
+      "Miles Brundage",
+      "Mira Murati",
+      "Katie Mayer",
+      "Peter Welinder",
+      "Bob McGrew",
+      "Dario Amodei",
+      "Sam McCandlish",
+      "I. Sutskever",
+      "Wojciech Zaremba"
+    ],
+    "publication_date": "2021-07-07",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269",
+    "corpus_id": 235755472,
+    "category": "Computer Science"
+  },
+  "2106-09685": {
+    "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+    "authors": [
+      "J. E. Hu",
+      "Yelong Shen",
+      "Phillip Wallis",
+      "Zeyuan Allen-Zhu",
+      "Yuanzhi Li",
+      "Shean Wang",
+      "Weizhu Chen"
+    ],
+    "publication_date": "2021-06-17",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "a8ca46b171467ceb2d7652fbfb67fe701ad86092",
+    "corpus_id": 235458009,
+    "category": "Computer Science"
+  },
+  "2105-12400": {
+    "title": "Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger",
+    "authors": [
+      "Fanchao Qi",
+      "Mukai Li",
+      "Yangyi Chen",
+      "Zhengyan Zhang",
+      "Zhiyuan Liu",
+      "Yasheng Wang",
+      "Maosong Sun"
+    ],
+    "publication_date": "2021-05-26",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "ac6d17a1e4345b6699965fca636590edb91f10a8",
+    "corpus_id": 235196099,
+    "category": "Computer Science"
+  },
+  "2101-05930": {
+    "title": "Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks",
+    "authors": [
+      "Yige Li",
+      "Nodens F. Koren",
+      "L. Lyu",
+      "X. Lyu",
+      "Bo Li",
+      "Xingjun Ma"
+    ],
+    "publication_date": "2021-01-15",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "4d4e5c0c691e42b7078208598d585caacc2e34c2",
+    "corpus_id": 231627799,
+    "category": "Computer Science"
+  },
+  "2011-10369": {
+    "title": "ONION: A Simple and Effective Defense Against Textual Backdoor Attacks",
+    "authors": [
+      "Fanchao Qi",
+      "Yangyi Chen",
+      "Mukai Li",
+      "Zhiyuan Liu",
+      "Maosong Sun"
+    ],
+    "publication_date": "2020-11-20",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "3a1f8829e641b46f661775f64a7f27b933a46103",
+    "corpus_id": 227118606,
+    "category": "Computer Science"
+  },
+  "2006-01043": {
+    "title": "BadNL: Backdoor Attacks against NLP Models with Semantic-preserving Improvements",
+    "authors": [
+      "Xiaoyi Chen",
+      "A. Salem",
+      "Dingfan Chen",
+      "M. Backes",
+      "Shiqing Ma",
+      "Qingni Shen",
+      "Zhonghai Wu",
+      "Yang Zhang"
+    ],
+    "publication_date": "2020-06-01",
+    "venue": "Asia-Pacific Computer Systems Architecture Conference",
+    "semantic_scholar_id": "c4cdf2e0d89aadb13bf9c61654ff9e17be2b01b9",
+    "corpus_id": 238354397,
+    "category": "Computer Science"
+  },
+  "2005-14165": {
+    "title": "Language Models are Few-Shot Learners",
+    "authors": [
+      "Tom B. Brown",
+      "Benjamin Mann",
+      "Nick Ryder",
+      "Melanie Subbiah",
+      "J. Kaplan",
+      "Prafulla Dhariwal",
+      "Arvind Neelakantan",
+      "Pranav Shyam",
+      "Girish Sastry",
+      "Amanda Askell",
+      "Sandhini Agarwal",
+      "Ariel Herbert-Voss",
+      "Gretchen Krueger",
+      "T. Henighan",
+      "R. Child",
+      "A. Ramesh",
+      "Daniel M. Ziegler",
+      "Jeff Wu",
+      "Clemens Winter",
+      "Christopher Hesse",
+      "Mark Chen",
+      "Eric Sigler",
+      "Ma-teusz Litwin",
+      "Scott Gray",
+      "Benjamin Chess",
+      "Jack Clark",
+      "Christopher Berner",
+      "Sam McCandlish",
+      "Alec Radford",
+      "I. Sutskever",
+      "Dario Amodei"
+    ],
+    "publication_date": "2020-05-28",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+    "corpus_id": 218971783,
+    "category": "Computer Science"
+  },
+  "2004-06660": {
+    "title": "Weight Poisoning Attacks on Pretrained Models",
+    "authors": [
+      "Keita Kurita",
+      "Paul Michel",
+      "Graham Neubig"
+    ],
+    "publication_date": "2020-04-14",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "0d360a1256ccdfca58cf98d12243df8407fd442d",
+    "corpus_id": 215754328,
+    "category": "Computer Science, Mathematics"
+  },
+  "1907-11692": {
+    "title": "RoBERTa: A Robustly Optimized BERT Pretraining Approach",
+    "authors": [
+      "Yinhan Liu",
+      "Myle Ott",
+      "Naman Goyal",
+      "Jingfei Du",
+      "Mandar Joshi",
+      "Danqi Chen",
+      "Omer Levy",
+      "M. Lewis",
+      "Luke Zettlemoyer",
+      "Veselin Stoyanov"
+    ],
+    "publication_date": "2019-07-26",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "077f8329a7b6fa3b7c877a57b81eb6c18b5f87de",
+    "corpus_id": 198953378,
+    "category": "Computer Science"
+  },
+  "1905-12457": {
+    "title": "A Backdoor Attack Against LSTM-Based Text Classification Systems",
+    "authors": [
+      "Jiazhu Dai",
+      "Chuanshuai Chen",
+      "Yufeng Li"
+    ],
+    "publication_date": "2019-05-29",
+    "venue": "IEEE Access",
+    "semantic_scholar_id": "f182ccbc90c1d20d358e3d197b340691f277428f",
+    "corpus_id": 168170110,
+    "category": "Computer Science"
+  },
+  "1904-09751": {
+    "title": "The Curious Case of Neural Text Degeneration",
+    "authors": [
+      "Ari Holtzman",
+      "Jan Buys",
+      "Li Du",
+      "Maxwell Forbes",
+      "Yejin Choi"
+    ],
+    "publication_date": "2019-04-22",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "cf4aa38ae31b43fd07abe13b4ffdb265babb7be1",
+    "corpus_id": 127986954,
+    "category": "Computer Science"
+  },
+  "1811-01437": {
+    "title": "QuSecNets: Quantization-based Defense Mechanism for Securing Deep Neural Network against Adversarial Attacks",
+    "authors": [
+      "Hassan Ali",
+      "Hammad Tariq",
+      "M. Hanif",
+      "Faiq Khalid",
+      "Semeen Rehman",
+      "Rehan Ahmed",
+      "M. Shafique"
+    ],
+    "publication_date": "2018-11-04",
+    "venue": "IEEE International Symposium on On-Line Testing and Robust System Design",
+    "semantic_scholar_id": "29373e067d44e9668aeb402a6ea4338db0ac99b7",
+    "corpus_id": 53221698,
+    "category": "Computer Science, Mathematics"
+  },
+  "1805-12185": {
+    "title": "Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks",
+    "authors": [
+      "Kang Liu",
+      "Brendan Dolan-Gavitt",
+      "S. Garg"
+    ],
+    "publication_date": "2018-05-30",
+    "venue": "International Symposium on Recent Advances in Intrusion Detection",
+    "semantic_scholar_id": "790ec1befba47991e8fd50a24d13be6094253f93",
+    "corpus_id": 44096776,
+    "category": "Computer Science"
+  },
+  "1706-06083": {
+    "title": "Towards Deep Learning Models Resistant to Adversarial Attacks",
+    "authors": [
+      "A. Ma̧dry",
+      "Aleksandar Makelov",
+      "Ludwig Schmidt",
+      "Dimitris Tsipras",
+      "Adrian Vladu"
+    ],
+    "publication_date": "2017-06-19",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "7aa38b85fa8cba64d6a4010543f6695dbf5f1386",
+    "corpus_id": 3488815,
+    "category": "Computer Science, Mathematics"
+  },
+  "1704-08847": {
+    "title": "Parseval Networks: Improving Robustness to Adversarial Examples",
+    "authors": [
+      "Moustapha Cissé",
+      "Piotr Bojanowski",
+      "Edouard Grave",
+      "Yann Dauphin",
+      "Nicolas Usunier"
+    ],
+    "publication_date": "2017-04-28",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "013efe3ff541e518c51f08d1b62a62e0c57c0b14",
+    "corpus_id": 26714567,
+    "category": "Computer Science, Mathematics"
+  },
+  "1506-02626": {
+    "title": "Learning both Weights and Connections for Efficient Neural Network",
+    "authors": [
+      "Song Han",
+      "Jeff Pool",
+      "J. Tran",
+      "W. Dally"
+    ],
+    "publication_date": "2015-06-08",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "1ff9a37d766e3a4f39757f5e1b235a42dacf18ff",
+    "corpus_id": 2238772,
+    "category": "Computer Science"
+  },
+  "1412-6572": {
+    "title": "Explaining and Harnessing Adversarial Examples",
+    "authors": [
+      "I. Goodfellow",
+      "Jonathon Shlens",
+      "Christian Szegedy"
+    ],
+    "publication_date": "2014-12-19",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "bee044c8e8903fb67523c1f8c105ab4718600cdb",
+    "corpus_id": 6706414,
+    "category": "Computer Science, Mathematics"
+  }
+}

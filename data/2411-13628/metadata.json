@@ -1,0 +1,15 @@
+{
+  "title": "MambaDETR: Query-based Temporal Modeling using State Space Model for Multi-View 3D Object Detection",
+  "authors": [
+    "Tong Ning",
+    "Ke Lu",
+    "Xirui Jiang",
+    "Jian Xue"
+  ],
+  "summary": "Utilizing temporal information to improve the performance of 3D detection has made great progress recently in the field of autonomous driving. Traditional transformer-based temporal fusion methods suffer from quadratic computational cost and information decay as the length of the frame sequence increases. In this paper, we propose a novel method called MambaDETR, whose main idea is to implement temporal fusion in the efficient state space. Moreover, we design a Motion Elimination module to remove the relatively static objects for temporal fusion. On the standard nuScenes benchmark, our proposed MambaDETR achieves remarkable result in the 3D object detection task, exhibiting state-of-the-art performance among existing temporal fusion methods.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

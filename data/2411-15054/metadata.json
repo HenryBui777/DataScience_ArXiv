@@ -1,0 +1,13 @@
+{
+  "title": "The 1D nonlocal Fisher-KPP equation with a top hat kernel. Part 3. The effect of perturbations in the kernel",
+  "authors": [
+    "David John Needham",
+    "John Billingham"
+  ],
+  "summary": "In the third part of this series of papers, we address the same Cauchy problem that was considered in part 1, namely the nonlocal Fisher-KPP equation in one spatial dimension, $u_t = D u_{xx} + u(1-φ_T*u)$, where $φ_T*u$ is a spatial convolution with the top hat kernel, $φ_T(y) \\equiv H\\left(\\frac{1}{4}-y^2\\right)$, except that now we include a specified perturbation to this kernel, which we denote as $\\overlineφ:\\mathbb{R}\\to \\mathbb{R}$. Thus the top hat kernel $φ_T$ is now replaced by the perturbed kernel $φ:\\mathbb{R} \\to \\mathbb{R}$, where $φ(x) = φ_T(x) + \\overlineφ(x)~~\\forall~~x\\in \\mathbb{R}$. When the magnitude of the kernel perturbation is small in a suitable norm, the situation is shown to be generally a regular perturbation problem when the diffusivity $D$ is formally of O(1) or larger. However when $D$ becomes small, and in particular, of the same order as the magnitude of the perturbation to the kernel, this becomes a strongly singular perturbation problem, with considerable changes in overall structure. This situation is uncovered in detail In terms of its generic interest, the model forms a natural extension to the classical Fisher-KPP model, with the introduction of the simplest possible nonlocal effect into the saturation term. Nonlocal reaction-diffusion models arise naturally in a variety of (frequently biological or ecological) contexts, and as such it is of fundamental interest to examine its properties in detail, and to compare and contrast these with the well known properties of the classical Fisher-KPP model.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AP"
+}

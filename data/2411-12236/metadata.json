@@ -1,0 +1,17 @@
+{
+  "title": "Circuit Quantisation from First Principles",
+  "authors": [
+    "Yun-Chih Liao",
+    "Ben J. Powell",
+    "Thomas M. Stace"
+  ],
+  "summary": "Superconducting circuit quantisation conventionally starts from classical Euler-Lagrange circuit equations-of-motion. Invoking the correspondence principle yields a canonically quantised circuit description of circuit dynamics over a bosonic Hilbert space. This process has been very successful for describing experiments, but implicitly starts from the classical Ginsberg-Landau (GL) mean field theory for the circuit. Here we employ a different approach which starts from a microscopic fermionic Hamiltonian for interacting electrons, whose ground space is described by the Bardeen-Cooper-Schrieffer (BCS) many-body wavefuction that underpins conventional superconductivity. We introduce the BCS ground-space as a subspace of the full fermionic Hilbert space, and show that projecting the electronic Hamiltonian onto this subspace yields the standard Hamiltonian terms for Josephson junctions, capacitors and inductors, from which standard quantised circuit models follow. Importantly, this approach does not assume a spontaneously broken symmetry, which is important for quantised circuits that support superpositions of phases, and the phase-charge canonical commutation relations are derived from the underlying fermionic commutation properties, rather than imposed. By expanding the projective subspace, this approach can be extended to describe phenomena outside the BCS ground space, including quasiparticle excitations.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-01-09",
+    "2025-01-20"
+  ],
+  "publication_venue": "Phys. Rev. Research 7, 033144 (2025)",
+  "pdf_url": null,
+  "category": "quant-ph, cond-mat.supr-con"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Enhanced Sign Language Translation between American Sign Language (ASL) and Indian Sign Language (ISL) Using LLMs",
+  "authors": [
+    "Malay Kumar",
+    "S. Sarvajit Visagan",
+    "Tanish Sarang Mahajan",
+    "Anisha Natarajan"
+  ],
+  "summary": "We have come up with a research that hopes to provide a bridge between the users of American Sign Language and the users of spoken language and Indian Sign Language (ISL). The research enabled us to create a novel framework that we have developed for Learner Systems. Leveraging art of Large models to create key features including: - Real-time translation between these two sign languages in an efficient manner. Making LLM's capability available for seamless translations to ISL. Here is the full study showing its implementation in this paper. The core of the system is a sophisticated pipeline that begins with reclassification and recognition of ASL gestures based on a strong Random Forest Classifier. By recognizing the ASL, it is translated into text which can be more easily processed. Highly evolved natural language NLP (Natural Language Processing) techniques come in handy as they play a role in our LLM integration where you then use LLMs to be able to convert the ASL text to ISL which provides you with the intent of sentence or phrase. The final step is to synthesize the translated text back into ISL gestures, creating an end-to-end translation experience using RIFE-Net. This framework is tasked with key challenges such as automatically dealing with gesture variability and overcoming the linguistic differences between ASL and ISL. By automating the translation process, we hope to vastly improve accessibility for sign language users. No longer will the communication gap between ASL and ISL create barriers; this totally cool innovation aims to bring our communities closer together. And we believe, with full confidence in our framework, that we're able to apply the same principles across a wide variety of sign language dialects.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.AI"
+}

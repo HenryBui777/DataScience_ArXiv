@@ -1,0 +1,18 @@
+{
+  "title": "Improving Wheatstone Bridge Sensitivity with Computational Simulations and Bayesian Optimization",
+  "authors": [
+    "Yong Zhou",
+    "Ze-yan Peng",
+    "Yan Xiao",
+    "Wen-mei Guo",
+    "Guan-xin Yao"
+  ],
+  "summary": "The Wheatstone bridge experiment is fundamental for precise measurement of electrical resistance, holding significant value in both undergraduate physics education and real-life scientific research. This study reimagines the experiment by integrating computational simulation with traditional methods, enhancing its educational and practical value. By analyzing key factors such as internal resistances of the galvanometer and power supply and optimizing resistor configurations, we demonstrate pathways to maximize sensitivity. A Bayesian optimization-based software tool was also developed to automate sensitivity calculations, guiding optimal component selection. This approach bridges theoretical concepts and experimental applications, equipping students with valuable skills in both experimental and computational aspects of physics and preparing students for modern scientific challenges.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-11-28"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.ed-ph"
+}

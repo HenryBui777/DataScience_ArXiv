@@ -1,0 +1,15 @@
+{
+  "title": "A Real-Time DETR Approach to Bangladesh Road Object Detection for Autonomous Vehicles",
+  "authors": [
+    "Irfan Nafiz Shahan",
+    "Arban Hossain",
+    "Saadman Sakib",
+    "Al-Mubin Nabil"
+  ],
+  "summary": "In the recent years, we have witnessed a paradigm shift in the field of Computer Vision, with the forthcoming of the transformer architecture. Detection Transformers has become a state of the art solution to object detection and is a potential candidate for Road Object Detection in Autonomous Vehicles. Despite the abundance of object detection schemes, real-time DETR models are shown to perform significantly better on inference times, with minimal loss of accuracy and performance. In our work, we used Real-Time DETR (RTDETR) object detection on the BadODD Road Object Detection dataset based in Bangladesh, and performed necessary experimentation and testing. Our results gave a mAP50 score of 0.41518 in the public 60% test set, and 0.28194 in the private 40% test set.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

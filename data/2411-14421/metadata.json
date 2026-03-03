@@ -1,0 +1,18 @@
+{
+  "title": "From RNNs to Foundation Models: An Empirical Study on Commercial Building Energy Consumption",
+  "authors": [
+    "Shourya Bose",
+    "Yijiang Li",
+    "Amy Van Sant",
+    "Yu Zhang",
+    "Kibaek Kim"
+  ],
+  "summary": "Accurate short-term energy consumption forecasting for commercial buildings is crucial for smart grid operations. While smart meters and deep learning models enable forecasting using past data from multiple buildings, data heterogeneity from diverse buildings can reduce model performance. The impact of increasing dataset heterogeneity in time series forecasting, while keeping size and model constant, is understudied. We tackle this issue using the ComStock dataset, which provides synthetic energy consumption data for U.S. commercial buildings. Two curated subsets, identical in size and region but differing in building type diversity, are used to assess the performance of various time series forecasting models, including fine-tuned open-source foundation models (FMs). The results show that dataset heterogeneity and model architecture have a greater impact on post-training forecasting performance than the parameter count. Moreover, despite the higher computational cost, fine-tuned FMs demonstrate competitive performance compared to base models trained from scratch.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-26"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

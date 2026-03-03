@@ -1,0 +1,17 @@
+{
+  "title": "Multimodal 3D Brain Tumor Segmentation with Adversarial Training and Conditional Random Field",
+  "authors": [
+    "Lan Jiang",
+    "Yuchao Zheng",
+    "Miao Yu",
+    "Haiqing Zhang",
+    "Fatemah Aladwani",
+    "Alessandro Perelli"
+  ],
+  "summary": "Accurate brain tumor segmentation remains a challenging task due to structural complexity and great individual differences of gliomas. Leveraging the pre-eminent detail resilience of CRF and spatial feature extraction capacity of V-net, we propose a multimodal 3D Volume Generative Adversarial Network (3D-vGAN) for precise segmentation. The model utilizes Pseudo-3D for V-net improvement, adds conditional random field after generator and use original image as supplemental guidance. Results, using the BraTS-2018 dataset, show that 3D-vGAN outperforms classical segmentation models, including U-net, Gan, FCN and 3D V-net, reaching specificity over 99.8%.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "Medical Image Understanding and Analysis (MIUA), Lecture Notes in Computer Science, Springer, vol. 14859, 2024",
+  "pdf_url": null,
+  "category": "eess.IV, cs.CV"
+}

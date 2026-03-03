@@ -1,0 +1,15 @@
+{
+  "title": "Patching FPGAs: The Security Implications of Bitstream Modifications",
+  "authors": [
+    "Endres Puschner",
+    "Maik Ender",
+    "Steffen Becker",
+    "Christof Paar"
+  ],
+  "summary": "Field Programmable Gate Arrays (FPGAs) are known for their reprogrammability that allows for post-manufacture circuitry changes. Nowadays, they are integral to a variety of systems including high-security applications such as aerospace and military systems. However, this reprogrammability also introduces significant security challenges, as bitstream manipulation can directly alter hardware circuits. Malicious manipulations may lead to leakage of secret data and the implementation of hardware Trojans. In this paper, we present a comprehensive framework for manipulating bitstreams with minimal reverse engineering, thereby exposing the potential risks associated with inadequate bitstream protection. Our methodology does not require a complete understanding of proprietary bitstream formats or a fully reverse-engineered target design. Instead, it enables precise modifications by inserting pre-synthesized circuits into existing bitstreams. This novel approach is demonstrated through a semi-automated framework consisting of five steps: (1) partial bitstream reverse engineering, (2) designing the modification, (3) placing and (4) routing the modification into the existing circuit, and (5) merging of the modification with the original bitstream. We validate our framework through four practical case studies on the OpenTitan design synthesized for Xilinx 7-Series FPGAs. While current protections such as bitstream authentication and encryption often fall short, our work highlights and discusses the urgency of developing effective countermeasures. We recommend using FPGAs as trust anchors only when bitstream manipulation attacks can be reliably excluded.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR"
+}

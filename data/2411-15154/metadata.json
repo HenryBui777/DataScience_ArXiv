@@ -1,0 +1,19 @@
+{
+  "title": "Modeling of UV NLoS Communication Channels: From Atmospheric Scattering and Obstacle Reflection Perspectives",
+  "authors": [
+    "Tianfeng Wu",
+    "Fang Yang",
+    "Tian Cao",
+    "Ling Cheng",
+    "Yupeng Chen",
+    "Jian Song",
+    "Julian Cheng",
+    "Zhu Han"
+  ],
+  "summary": "As transceiver elevation angles increase from small to large, existing ultraviolet (UV) non-line-of-sight (NLoS) models encounter two challenges: i) cannot estimate the channel characteristics of UV NLoS communication scenarios when there exists an obstacle in the overlap volume between the transmitter beam and the receiver field-of-view (FoV), and ii) cannot evaluate the channel path loss for the wide beam and wide FoV scenarios with existing simplified single-scattering path loss models. To address these challenges, a UV NLoS scattering model incorporating an obstacle was investigated, where the obstacle's orientation angle, coordinates, and geometric dimensions were taken into account to approach actual application environments. Then, a UV NLoS reflection model was developed combined with specific geometric diagrams. Further, a simplified single-scattering path loss model was proposed with a closed-form expression. Finally, the proposed models were validated by comparing them with the Monte-Carlo photon-tracing model, the exact single-scattering model, and the latest simplified single-scattering model. Numerical results show that the path loss curves obtained by the proposed models agree well with those attained by related NLoS models under identical parameter settings, and avoiding obstacles is not always a good option for UV NLoS communications. Moreover, the accuracy of the proposed simplified model is superior to that of the existing simplified model for all kinds of transceiver FoV angles.",
+  "submission_date": "2024-11-08",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP"
+}

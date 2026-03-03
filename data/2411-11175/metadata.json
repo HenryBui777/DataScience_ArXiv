@@ -1,0 +1,16 @@
+{
+  "title": "Low-Rank Conjugate Gradient-Net for Accelerated Cardiac MR Imaging",
+  "authors": [
+    "Jaykumar H. Patel",
+    "Brenden T. Kadota",
+    "Calder D. Sheagren",
+    "Mark Chiew",
+    "Graham A. Wright"
+  ],
+  "summary": "Cardiovascular diseases (CVDs) remain the leading cause of mortality and morbidity worldwide. Both diagnosis and prognosis of these diseases benefit from high-quality imaging, which cardiac magnetic resonance imaging provides. CMR imaging requires lengthy acquisition times and multiple breath-holds for a complete exam, which can lead to patient discomfort and frequently results in image artifacts. In this work, we present a Low-rank tensor U-Net method (LowRank-CGNet) that rapidly reconstructs highly undersampled data with a variety of anatomy, contrast, and undersampling artifacts. The model uses conjugate gradient data consistency to solve for the spatial and temporal bases and employs a U-Net to further regularize the basis vectors. Currently, model performance is superior to a standard U-Net, but inferior to conventional compressed sensing methods. In the future, we aim to further improve model performance by increasing the U-Net size, extending the training duration, and dynamically updating the tensor rank for different anatomies.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, eess.SP"
+}

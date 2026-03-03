@@ -1,0 +1,619 @@
+{
+  "2507-00217": {
+    "title": "CrossPipe: Towards Optimal Pipeline Schedules for Cross-Datacenter Training",
+    "authors": [
+      "Tiancheng Chen",
+      "Aleš Kubíček",
+      "Langwen Huang",
+      "Torsten Hoefler"
+    ],
+    "publication_date": "2025-06-30",
+    "venue": "USENIX Annual Technical Conference",
+    "semantic_scholar_id": "59884b88cd8b5ea346c876609cd0f96868f42656",
+    "corpus_id": 280049543,
+    "category": "Computer Science"
+  },
+  "2505-11329": {
+    "title": "TokenWeave: Efficient Compute-Communication Overlap for Distributed LLM Inference",
+    "authors": [
+      "Raja Gond",
+      "Nipun Kwatra",
+      "R. Ramjee"
+    ],
+    "publication_date": "2025-05-16",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "8a38fef8f90763a99ed03d3f12954c73fcf791bf",
+    "corpus_id": 278714823,
+    "category": "Computer Science"
+  },
+  "2504-17096": {
+    "title": "Sailor: Automating Distributed Training over Dynamic, Heterogeneous, and Geo-distributed Clusters",
+    "authors": [
+      "F. Strati",
+      "Zhendong Zhang",
+      "George Manos",
+      "Ixeia S'anchez P'eriz",
+      "Qinghao Hu",
+      "Tiancheng Chen",
+      "Berk Buzcu",
+      "Song Han",
+      "Pamela Delgado",
+      "Ana Klimovic"
+    ],
+    "publication_date": "2025-04-23",
+    "venue": "Symposium on Operating Systems Principles",
+    "semantic_scholar_id": "36922be23c6122f84d58ba6fe12c923a5e942fe4",
+    "corpus_id": 278033558,
+    "category": "Computer Science"
+  },
+  "2410-07192": {
+    "title": "PipeFill: Using GPUs During Bubbles in Pipeline-parallel LLM Training",
+    "authors": [
+      "Daiyaan Arfeen",
+      "Zhen Zhang",
+      "Xinwei Fu",
+      "G. R. Ganger",
+      "Yida Wang"
+    ],
+    "publication_date": "2024-09-23",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "1431846b1e81d53400bf08e6ef5c28ca43a28e7c",
+    "corpus_id": 273234046,
+    "category": "Computer Science"
+  },
+  "2408-00741": {
+    "title": "DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency",
+    "authors": [
+      "Jovan Stojkovic",
+      "Chaojie Zhang",
+      "Íñigo Goiri",
+      "Josep Torrellas",
+      "Esha Choukse"
+    ],
+    "publication_date": "2024-08-01",
+    "venue": "International Symposium on High-Performance Computer Architecture",
+    "semantic_scholar_id": "34b753179472fe605bdbbda7f3478bd79b53ba6d",
+    "corpus_id": 271600544,
+    "category": "Computer Science"
+  },
+  "2403-20306": {
+    "title": "Towards Greener LLMs: Bringing Energy-Efficiency to the Forefront of LLM Inference",
+    "authors": [
+      "Jovan Stojkovic",
+      "Esha Choukse",
+      "Chaojie Zhang",
+      "Íñigo Goiri",
+      "Josep Torrellas"
+    ],
+    "publication_date": "2024-03-29",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "72c906a9841b8d44c2962c4890d5845a394856bb",
+    "corpus_id": 268793445,
+    "category": "Computer Science"
+  },
+  "2403-02310": {
+    "title": "Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve",
+    "authors": [
+      "Amey Agrawal",
+      "Nitin Kedia",
+      "Ashish Panwar",
+      "Jayashree Mohan",
+      "Nipun Kwatra",
+      "Bhargav S. Gulavani",
+      "Alexey Tumanov",
+      "R. Ramjee"
+    ],
+    "publication_date": "2024-03-04",
+    "venue": "USENIX Symposium on Operating Systems Design and Implementation",
+    "semantic_scholar_id": "20f090e35ad598fba2404e550c2462dc9da03a10",
+    "corpus_id": 268249103,
+    "category": "Computer Science"
+  },
+  "2401-11181": {
+    "title": "Inference without Interference: Disaggregate LLM Inference for Mixed Downstream Workloads",
+    "authors": [
+      "Cunchen Hu",
+      "HeYang Huang",
+      "Liangliang Xu",
+      "Xusheng Chen",
+      "Jiang Xu",
+      "Shuang Chen",
+      "Hao Feng",
+      "Chenxi Wang",
+      "Sa Wang",
+      "Yungang Bao",
+      "Ninghui Sun",
+      "Yizhou Shan"
+    ],
+    "publication_date": "2024-01-20",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "21e53e51ff77a5f34f43cb8ca029909c3ad9f71e",
+    "corpus_id": 267068930,
+    "category": "Computer Science"
+  },
+  "2401-09670": {
+    "title": "DistServe: Disaggregating Prefill and Decoding for Goodput-optimized Large Language Model Serving",
+    "authors": [
+      "Yinmin Zhong",
+      "Shengyu Liu",
+      "Junda Chen",
+      "Jianbo Hu",
+      "Yibo Zhu",
+      "Xuanzhe Liu",
+      "Xin Jin",
+      "Hao Zhang"
+    ],
+    "publication_date": "2024-01-18",
+    "venue": "USENIX Symposium on Operating Systems Design and Implementation",
+    "semantic_scholar_id": "72f77a393079431e4207b3afe678ee80b420e6f8",
+    "corpus_id": 267034664,
+    "category": "Computer Science"
+  },
+  "2311-18677": {
+    "title": "Splitwise: Efficient Generative LLM Inference Using Phase Splitting",
+    "authors": [
+      "Pratyush Patel",
+      "Esha Choukse",
+      "Chaojie Zhang",
+      "Íñigo Goiri",
+      "Aashaka Shah",
+      "Saeed Maleki",
+      "Ricardo Bianchini"
+    ],
+    "publication_date": "2023-11-30",
+    "venue": "International Symposium on Computer Architecture",
+    "semantic_scholar_id": "ad9146d98ae95bbeeef460abe083ecc2c4798672",
+    "corpus_id": 265506047,
+    "category": "Computer Science"
+  },
+  "2401-10241": {
+    "title": "Zero Bubble Pipeline Parallelism",
+    "authors": [
+      "Penghui Qi",
+      "Xinyi Wan",
+      "Guangxing Huang",
+      "Min Lin"
+    ],
+    "publication_date": "2023-11-30",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "7e88160ab2b3c9224ce0b9a66bec1740728984bf",
+    "corpus_id": 267060979,
+    "category": "Computer Science"
+  },
+  "2310-01889": {
+    "title": "Ring Attention with Blockwise Transformers for Near-Infinite Context",
+    "authors": [
+      "Hao Liu",
+      "Matei Zaharia",
+      "Pieter Abbeel"
+    ],
+    "publication_date": "2023-10-03",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "02ad9f3fefe33cb9ca546591bec65dbdf7766c80",
+    "corpus_id": 263608461,
+    "category": "Computer Science"
+  },
+  "2310-03003": {
+    "title": "From Words to Watts: Benchmarking the Energy Costs of Large Language Model Inference",
+    "authors": [
+      "S. Samsi",
+      "Dan Zhao",
+      "Joseph McDonald",
+      "Baolin Li",
+      "Adam Michaleas",
+      "Michael Jones",
+      "William Bergeron",
+      "J. Kepner",
+      "Devesh Tiwari",
+      "V. Gadepally"
+    ],
+    "publication_date": "2023-09-25",
+    "venue": "IEEE Conference on High Performance Extreme Computing",
+    "semantic_scholar_id": "4ea8e22236681a09225ee3f8ff5fffd934ec9bae",
+    "corpus_id": 263620702,
+    "category": "Computer Science"
+  },
+  "2309-14509": {
+    "title": "DeepSpeed Ulysses: System Optimizations for Enabling Training of Extreme Long Sequence Transformer Models",
+    "authors": [
+      "S. A. Jacobs",
+      "Masahiro Tanaka",
+      "Chengming Zhang",
+      "Minjia Zhang",
+      "L. Song",
+      "Samyam Rajbhandari",
+      "Yuxiong He"
+    ],
+    "publication_date": "2023-09-25",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "a51ac7a5e8f6454268ac16ecdc52ecac98ce54d9",
+    "corpus_id": 262826014,
+    "category": "Computer Science"
+  },
+  "2309-01172": {
+    "title": "FusionAI: Decentralized Training and Deploying LLMs with Massive Consumer-Level GPUs",
+    "authors": [
+      "Zhenheng Tang",
+      "Yuxin Wang",
+      "Xin He",
+      "Longteng Zhang",
+      "Xinglin Pan",
+      "Qiang Wang",
+      "Rongfei Zeng",
+      "Kaiyong Zhao",
+      "S. Shi",
+      "Bingsheng He",
+      "Xiaowen Chu"
+    ],
+    "publication_date": "2023-09-03",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "660380b17d3a37d8132f2e6dcb5cb47092e5b7d1",
+    "corpus_id": 261530813,
+    "category": "Computer Science"
+  },
+  "2308-00852": {
+    "title": "CASSINI: Network-Aware Job Scheduling in Machine Learning Clusters",
+    "authors": [
+      "S. Rajasekaran",
+      "M. Ghobadi",
+      "Aditya Akella"
+    ],
+    "publication_date": "2023-08-01",
+    "venue": "Symposium on Networked Systems Design and Implementation",
+    "semantic_scholar_id": "c095361942179c96cae0c30248fb6ff80b0bc390",
+    "corpus_id": 260378738,
+    "category": "Computer Science"
+  },
+  "2305-13479": {
+    "title": "Rethinking Machine Learning Collective Communication as a Multi-Commodity Flow Problem",
+    "authors": [
+      "Xuting Liu",
+      "Behnaz Arzani",
+      "S. Kakarla",
+      "Liangyu Zhao",
+      "Vincent Liu",
+      "M. Castro",
+      "Srikanth Kandula",
+      "Luke Marshall"
+    ],
+    "publication_date": "2023-05-22",
+    "venue": "Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication",
+    "semantic_scholar_id": "8891901ac102282b5d525fe83aa3e48a6e6be78f",
+    "corpus_id": 258841007,
+    "category": "Computer Science"
+  },
+  "2301-02654": {
+    "title": "Does compressing activations help model parallel training?",
+    "authors": [
+      "S. Bian",
+      "Dacheng Li",
+      "Hongyi Wang",
+      "Eric P. Xing",
+      "S. Venkataraman"
+    ],
+    "publication_date": "2023-01-06",
+    "venue": "Conference on Machine Learning and Systems",
+    "semantic_scholar_id": "a1a18645ee975e8b8fa0e9f922353c0ed6da361b",
+    "corpus_id": 255522599,
+    "category": "Computer Science"
+  },
+  "2211-14133": {
+    "title": "PipeFisher: Efficient Training of Large Language Models Using Pipelining and Fisher Information Matrices",
+    "authors": [
+      "Kazuki Osawa",
+      "Shigang Li",
+      "T. Hoefler"
+    ],
+    "publication_date": "2022-11-25",
+    "venue": "Conference on Machine Learning and Systems",
+    "semantic_scholar_id": "4e9625d1f3d591a2d4ea7dc7ff0f683fde6d682b",
+    "corpus_id": 254017667,
+    "category": "Computer Science"
+  },
+  "2210-17223": {
+    "title": "Accelerating Distributed MoE Training and Inference with Lina",
+    "authors": [
+      "Jiamin Li",
+      "Yimin Jiang",
+      "Yibo Zhu",
+      "Cong Wang",
+      "Hong-Yu Xu"
+    ],
+    "publication_date": "2022-10-31",
+    "venue": "USENIX Annual Technical Conference",
+    "semantic_scholar_id": "6d088e8d785a57b50c2b0e465e2460e09ced48d7",
+    "corpus_id": 259859076,
+    "category": "Computer Science"
+  },
+  "2210-07259": {
+    "title": "Skyplane: Optimizing Transfer Cost and Throughput Using Cloud-Aware Overlays",
+    "authors": [
+      "Paras Jain",
+      "Sam Kumar",
+      "Sarah Wooders",
+      "Shishir G. Patil",
+      "Joseph Gonzalez",
+      "Ion Stoica"
+    ],
+    "publication_date": "2022-10-13",
+    "venue": "Symposium on Networked Systems Design and Implementation",
+    "semantic_scholar_id": "7f95b762c274f93ccb303cdf4bcdc7ee927e1378",
+    "corpus_id": 252907392,
+    "category": "Computer Science"
+  },
+  "2206-01288": {
+    "title": "Decentralized Training of Foundation Models in Heterogeneous Environments",
+    "authors": [
+      "Binhang Yuan",
+      "Yongjun He",
+      "Jared Davis",
+      "Tianyi Zhang",
+      "Tri Dao",
+      "Beidi Chen",
+      "Percy Liang",
+      "Christopher Ré",
+      "Ce Zhang"
+    ],
+    "publication_date": "2022-06-02",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "6b117a8dcaa161562b0a69afbb9811e11afb5b3e",
+    "corpus_id": 249375466,
+    "category": "Computer Science"
+  },
+  "2205-05632": {
+    "title": "On Distributed Adaptive Optimization with Gradient Compression",
+    "authors": [
+      "Xiaoyun Li",
+      "Belhal Karimi",
+      "Ping Li"
+    ],
+    "publication_date": "2022-05-11",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "bf64a012b7d8fc831da367fc56419e5bf9c968c7",
+    "corpus_id": 247613032,
+    "category": "Computer Science, Mathematics"
+  },
+  "2111-04007": {
+    "title": "Varuna: scalable, low-cost training of massive deep learning models",
+    "authors": [
+      "Sanjith Athlur",
+      "Nitika Saran",
+      "Muthian Sivathanu",
+      "R. Ramjee",
+      "Nipun Kwatra"
+    ],
+    "publication_date": "2021-11-07",
+    "venue": "European Conference on Computer Systems",
+    "semantic_scholar_id": "43332a71939ae7f3bd4756cba2c5ef0763b5cfac",
+    "corpus_id": 243847496,
+    "category": "Computer Science"
+  },
+  "2106-04759": {
+    "title": "Communication-efficient SGD: From Local SGD to One-Shot Averaging",
+    "authors": [
+      "Artin Spiridonoff",
+      "Alexander Olshevsky",
+      "I. Paschalidis"
+    ],
+    "publication_date": "2021-06-09",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "25890b3be92e8037585377320fbb09c0c679595c",
+    "corpus_id": 235376763,
+    "category": "Computer Science, Mathematics"
+  },
+  "2105-14500": {
+    "title": "Tesseract: Parallelize the Tensor Parallelism Efficiently",
+    "authors": [
+      "Boxiang Wang",
+      "Qifan Xu",
+      "Zhengda Bian",
+      "Yang You"
+    ],
+    "publication_date": "2021-05-30",
+    "venue": "International Conference on Parallel Processing",
+    "semantic_scholar_id": "659b95b28a9f3b6cfa3bd06fa7bd004165db5663",
+    "corpus_id": 251979875,
+    "category": "Computer Science"
+  },
+  "2104-07857": {
+    "title": "ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep learning",
+    "authors": [
+      "Samyam Rajbhandari",
+      "Olatunji Ruwase",
+      "Jeff Rasley",
+      "Shaden Smith",
+      "Yuxiong He"
+    ],
+    "publication_date": "2021-04-16",
+    "venue": "International Conference for High Performance Computing, Networking, Storage and Analysis",
+    "semantic_scholar_id": "72dd63d67588a42fc817bbb8d655b397f67425df",
+    "corpus_id": 233289729,
+    "category": "Computer Science"
+  },
+  "2104-04473": {
+    "title": "Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM",
+    "authors": [
+      "D. Narayanan",
+      "M. Shoeybi",
+      "J. Casper",
+      "P. LeGresley",
+      "M. Patwary",
+      "V. Korthikanti",
+      "Dmitri Vainbrand",
+      "Prethvi Kashinkunti",
+      "J. Bernauer",
+      "Bryan Catanzaro",
+      "Amar Phanishayee",
+      "M. Zaharia"
+    ],
+    "publication_date": "2021-04-09",
+    "venue": "International Conference for High Performance Computing, Networking, Storage and Analysis",
+    "semantic_scholar_id": "774591fdd988eaaff3917e7c5171d044b0843e63",
+    "corpus_id": 236635565,
+    "category": "Computer Science"
+  },
+  "2101-03961": {
+    "title": "Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity",
+    "authors": [
+      "W. Fedus",
+      "Barret Zoph",
+      "Noam M. Shazeer"
+    ],
+    "publication_date": "2021-01-11",
+    "venue": "Journal of machine learning research",
+    "semantic_scholar_id": "fdacf2a732f55befdc410ea927091cad3b791f13",
+    "corpus_id": 231573431,
+    "category": "Computer Science"
+  },
+  "2010-10458": {
+    "title": "Towards Scalable Distributed Training of Deep Learning on Public Cloud Clusters",
+    "authors": [
+      "S. Shi",
+      "Xianhao Zhou",
+      "Shutao Song",
+      "Xingyao Wang",
+      "Zilin Zhu",
+      "Xuelin Huang",
+      "Xinan Jiang",
+      "Feihu Zhou",
+      "Zhenyu Guo",
+      "Liqiang Xie",
+      "Rui Lan",
+      "Xianbin Ouyang",
+      "Yan Zhang",
+      "Jieqian Wei",
+      "Jing Gong",
+      "Weiliang Lin",
+      "Ping Gao",
+      "Peng Meng",
+      "Xiaomin Xu",
+      "Chenyang Guo",
+      "Bo Yang",
+      "Zhibo Chen",
+      "Yongjian Wu",
+      "X. Chu"
+    ],
+    "publication_date": "2020-10-20",
+    "venue": "Conference on Machine Learning and Systems",
+    "semantic_scholar_id": "f57db358459390590bc838663025dae0f8d51ebf",
+    "corpus_id": 224803615,
+    "category": "Computer Science"
+  },
+  "2006-16668": {
+    "title": "GShard: Scaling Giant Models with Conditional Computation and Automatic Sharding",
+    "authors": [
+      "Dmitry Lepikhin",
+      "HyoukJoong Lee",
+      "Yuanzhong Xu",
+      "Dehao Chen",
+      "Orhan Firat",
+      "Yanping Huang",
+      "M. Krikun",
+      "Noam M. Shazeer",
+      "Z. Chen"
+    ],
+    "publication_date": "2020-06-30",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "1882f194cb43828852cc052887671e55a80f945a",
+    "corpus_id": 220265858,
+    "category": "Computer Science, Mathematics"
+  },
+  "2001-08361": {
+    "title": "Scaling Laws for Neural Language Models",
+    "authors": [
+      "J. Kaplan",
+      "Sam McCandlish",
+      "T. Henighan",
+      "Tom B. Brown",
+      "Benjamin Chess",
+      "R. Child",
+      "Scott Gray",
+      "Alec Radford",
+      "Jeff Wu",
+      "Dario Amodei"
+    ],
+    "publication_date": "2020-01-23",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "e6c561d02500b2596a230b341a8eb8b921ca5bf2",
+    "corpus_id": 210861095,
+    "category": "Computer Science, Mathematics"
+  },
+  "1910-13598": {
+    "title": "Local SGD with Periodic Averaging: Tighter Analysis and Adaptive Synchronization",
+    "authors": [
+      "Farzin Haddadpour",
+      "Mohammad Mahdi Kamani",
+      "M. Mahdavi",
+      "V. Cadambe"
+    ],
+    "publication_date": "2019-10-30",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "cb340ba0b1b3c56e5003bfeb51ab6e4b60148364",
+    "corpus_id": 202790015,
+    "category": "Computer Science, Mathematics"
+  },
+  "1807-06629": {
+    "title": "Parallel Restarted SGD with Faster Convergence and Less Communication: Demystifying Why Model Averaging Works for Deep Learning",
+    "authors": [
+      "Hao Yu",
+      "Sen Yang",
+      "Shenghuo Zhu"
+    ],
+    "publication_date": "2018-07-17",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "e0e152748ea0badfbd798dfed3ac743abb58af26",
+    "corpus_id": 53285773,
+    "category": "Mathematics, Computer Science"
+  },
+  "1706-03762": {
+    "title": "Attention is All you Need",
+    "authors": [
+      "Ashish Vaswani",
+      "Noam M. Shazeer",
+      "Niki Parmar",
+      "Jakob Uszkoreit",
+      "Llion Jones",
+      "Aidan N. Gomez",
+      "Lukasz Kaiser",
+      "I. Polosukhin"
+    ],
+    "publication_date": "2017-06-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+    "corpus_id": 13756489,
+    "category": "Computer Science"
+  },
+  "1705-07878": {
+    "title": "TernGrad: Ternary Gradients to Reduce Communication in Distributed Deep Learning",
+    "authors": [
+      "W. Wen",
+      "Cong Xu",
+      "Feng Yan",
+      "Chunpeng Wu",
+      "Yandan Wang",
+      "Yiran Chen",
+      "Hai Helen Li"
+    ],
+    "publication_date": "2017-05-22",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "4bdb91a6e47385292ab7a18e8901a6a25f50cc6b",
+    "corpus_id": 3747520,
+    "category": "Computer Science, Mathematics"
+  },
+  "1606-06160": {
+    "title": "DoReFa-Net: Training Low Bitwidth Convolutional Neural Networks with Low Bitwidth Gradients",
+    "authors": [
+      "Shuchang Zhou",
+      "Zekun Ni",
+      "Xinyu Zhou",
+      "He Wen",
+      "Yuxin Wu",
+      "Yuheng Zou"
+    ],
+    "publication_date": "2016-06-20",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "8b053389eb8c18c61b84d7e59a95cb7e13f205b7",
+    "corpus_id": 14395129,
+    "category": "Computer Science"
+  }
+}

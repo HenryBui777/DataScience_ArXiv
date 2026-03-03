@@ -1,0 +1,14 @@
+{
+  "title": "Strong parity edge-colorings of graphs",
+  "authors": [
+    "Peter Bradshaw",
+    "Sergey Norin",
+    "Douglas B. West"
+  ],
+  "summary": "An edge-coloring of a graph $G$ assigns a color to each edge of $G$. An edge-coloring is a parity edge-coloring if for each path $P$ in $G$, it uses some color on an odd number of edges in $P$. It is a strong parity edge-coloring if for every open walk $W$ in $G$, it uses some color an odd number of times along $W$. The minimum numbers of colors in parity and strong parity edge-colorings of $G$ are denoted $p(G)$ and $\\hat{p}(G)$, respectively.\n  We characterize strong parity edge-colorings and use this characterization to prove lower bounds on $\\hat{p}(G)$ and answer several questions of Bunde, Milans, West, and Wu. The applications are as follows. (1) We prove the conjecture that $\\hat{p}(K_{s,t})=s \\circ t$, where $s \\circ t$ is the Hopf-Stiefel function. (2) We show that $\\hat{p}(G)$ for a connected $n$-vertex graph $G$ equals the known lower bound $\\lceil \\log_2 n \\rceil$ if and only if $G$ is a subgraph of the hypercube $Q_{\\lceil \\log_2 n \\rceil }$. (3) We asymptotically compute $\\hat{p}(G)$ when $G$ is the $\\ell$th distance-power of a path, proving $\\hat{p}(P_n^\\ell)\\sim\\ell \\lceil {\\log_2 n} \\rceil$. (4) We disprove the conjecture that $\\hat{p}(G)=p(G)$ when $G$ is bipartite by constructing bipartite graphs $G$ such that $\\hat{p}(G)/p(G)$ is arbitrarily large; in particular, with $\\hat{p}(G)\\ge\\frac{1-o(1)}3 k\\ln k$ and $p(G)\\le2k+k^{1/3}$.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.CO"
+}

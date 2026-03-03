@@ -1,0 +1,15 @@
+{
+  "title": "Distributed Coordination of Grid-Forming and Grid-Following Inverters for Optimal Frequency Control in Power Systems",
+  "authors": [
+    "Xiaoyang Wang",
+    "Xin Chen"
+  ],
+  "summary": "The large-scale integration of inverter-interfaced renewable energy sources presents significant challenges to maintaining power balance and nominal frequency in modern power systems. This paper studies grid-level coordinated control of grid-forming (GFM) and grid-following (GFL) inverter-based resources (IBRs) for scalable and optimal frequency control. We propose a fully distributed optimal frequency control algorithm based on the projected primal-dual gradient method and by leveraging the structure of the underlying physical system dynamics. The proposed algorithm i) restores the nominal system frequency while minimizing total control cost and enforcing IBR power capacity limits and line thermal constraints, and ii) operates in a distributed manner that only needs local measurements and neighbor-to-neighbor communication. In particular, when the line thermal constraints are disregarded, the proposed algorithm admits a fully local implementation that requires no communication, while still ensuring optimality and satisfying IBR power capacity limits. We establish the global asymptotic convergence of the algorithm using Lyapunov stability analysis. The effectiveness and optimality of the proposed algorithms are validated through high-fidelity, 100% inverter-based electromagnetic transient (EMT) simulations on the IEEE 39-bus system.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-05-12"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY, math.OC"
+}

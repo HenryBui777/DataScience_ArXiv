@@ -1,0 +1,19 @@
+{
+  "title": "Improved GUI Grounding via Iterative Narrowing",
+  "authors": [
+    "Anthony Nguyen"
+  ],
+  "summary": "Graphical User Interface (GUI) grounding plays a crucial role in enhancing the capabilities of Vision-Language Model (VLM) agents. While general VLMs, such as GPT-4V, demonstrate strong performance across various tasks, their proficiency in GUI grounding remains suboptimal. Recent studies have focused on fine-tuning these models specifically for zero-shot GUI grounding, yielding significant improvements over baseline performance. We introduce a visual prompting framework that employs an iterative narrowing mechanism to further improve the performance of both general and fine-tuned models in GUI grounding. For evaluation, we tested our method on a comprehensive benchmark comprising various UI platforms and provided the code to reproduce our results.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-24",
+    "2024-11-28",
+    "2024-12-09",
+    "2024-12-20",
+    "2025-08-14",
+    "2025-09-11"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI, cs.CL"
+}

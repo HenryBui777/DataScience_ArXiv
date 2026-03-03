@@ -1,0 +1,21 @@
+{
+  "title": "SegBook: A Simple Baseline and Cookbook for Volumetric Medical Image Segmentation",
+  "authors": [
+    "Jin Ye",
+    "Ying Chen",
+    "Yanjun Li",
+    "Haoyu Wang",
+    "Zhongying Deng",
+    "Ziyan Huang",
+    "Yanzhou Su",
+    "Chenglong Ma",
+    "Yuanfeng Ji",
+    "Junjun He"
+  ],
+  "summary": "Computed Tomography (CT) is one of the most popular modalities for medical imaging. By far, CT images have contributed to the largest publicly available datasets for volumetric medical segmentation tasks, covering full-body anatomical structures. Large amounts of full-body CT images provide the opportunity to pre-train powerful models, e.g., STU-Net pre-trained in a supervised fashion, to segment numerous anatomical structures. However, it remains unclear in which conditions these pre-trained models can be transferred to various downstream medical segmentation tasks, particularly segmenting the other modalities and diverse targets. To address this problem, a large-scale benchmark for comprehensive evaluation is crucial for finding these conditions. Thus, we collected 87 public datasets varying in modality, target, and sample size to evaluate the transfer ability of full-body CT pre-trained models. We then employed a representative model, STU-Net with multiple model scales, to conduct transfer learning across modalities and targets. Our experimental results show that (1) there may be a bottleneck effect concerning the dataset size in fine-tuning, with more improvement on both small- and large-scale datasets than medium-size ones. (2) Models pre-trained on full-body CT demonstrate effective modality transfer, adapting well to other modalities such as MRI. (3) Pre-training on the full-body CT not only supports strong performance in structure detection but also shows efficacy in lesion detection, showcasing adaptability across target tasks. We hope that this large-scale open evaluation of transfer learning can direct future research in volumetric medical image segmentation.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.CV"
+}

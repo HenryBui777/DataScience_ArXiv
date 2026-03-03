@@ -1,0 +1,17 @@
+{
+  "title": "Deep Feature Response Discriminative Calibration",
+  "authors": [
+    "Wenxiang Xu",
+    "Tian Qiu",
+    "Linyun Zhou",
+    "Zunlei Feng",
+    "Mingli Song",
+    "Huiqiong Wang"
+  ],
+  "summary": "Deep neural networks (DNNs) have numerous applications across various domains. Several optimization techniques, such as ResNet and SENet, have been proposed to improve model accuracy. These techniques improve the model performance by adjusting or calibrating feature responses according to a uniform standard. However, they lack the discriminative calibration for different features, thereby introducing limitations in the model output. Therefore, we propose a method that discriminatively calibrates feature responses. The preliminary experimental results indicate that the neural feature response follows a Gaussian distribution. Consequently, we compute confidence values by employing the Gaussian probability density function, and then integrate these values with the original response values. The objective of this integration is to improve the feature discriminability of the neural feature response. Based on the calibration values, we propose a plugin-based calibration module incorporated into a modified ResNet architecture, termed Response Calibration Networks (ResCNet). Extensive experiments on datasets like CIFAR-10, CIFAR-100, SVHN, and ImageNet demonstrate the effectiveness of the proposed approach. The developed code is publicly available at https://github.com/tcmyxc/ResCNet.",
+  "submission_date": "2024-11-16",
+  "revised_dates": [],
+  "publication_venue": "Neurocomputing 2025",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

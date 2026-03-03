@@ -1,0 +1,15 @@
+{
+  "title": "Path Planning and Task Assignment for Data Retrieval from Wireless Sensor Nodes Relying on Game-Theoretic Learning",
+  "authors": [
+    "Sotiris Papatheodorou",
+    "Michalis Smyrnakis",
+    "Tembine Hamidou",
+    "Anthony Tzes"
+  ],
+  "summary": "The energy-efficient trip allocation of mobile robots employing differential drives for data retrieval from stationary sensor locations is the scope of this article. Given a team of robots and a set of targets (wireless sensor nodes), the planner computes all possible tours that each robot can make if it needs to visit a part of or the entire set of targets. Each segment of the tour relies on a minimum energy path planning algorithm. After the computation of all possible tour-segments, a utility function penalizing the overall energy consumption is formed. Rather than relying on the NP-hard Mobile Element Scheduling (MES) MILP problem, an approach using elements from game theory is employed. The suggested approach converges fast for most practical reasons thus allowing its utilization in near real time applications. Simulations are offered to highlight the efficiency of the developed algorithm.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

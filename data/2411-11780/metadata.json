@@ -1,0 +1,13 @@
+{
+  "title": "A New Direction for First-Principles Device Simulations",
+  "authors": [
+    "Yong-Hoon Kim",
+    "Ryong-Gyu Lee"
+  ],
+  "summary": "The continued miniaturization of semiconductor devices, represented by Moore's law, has reached the atomic scale limit, requiring nanoscale quantum mechanical effects to be included in device simulations without empirical parameters. For this purpose, a method that combines density functional theory (DFT) and non-equilibrium Green's function (NEGF) theory has been established as the standard approach for atomic-scale device simulations. However, the DFT-NEGF scheme has several inherent weaknesses due to the underlying Landauer or grand canonical viewpoint. To overcome these challenges, over the years, we have developed an alternative approach, the multi-space constrained-search DFT (MS-DFT) formalism. The central starting point of this development is the replacement of the Landauer picture by the multi-space excitation viewpoint or the mapping of the quantum transport process to the energy- and position-space electron excitation within a (micro)canonical ensemble device model. This change in the viewpoint leads to several fundamental advantages of MS-DFT over its DFT-NEGF counterparts, such as the variational determination of non-equilibrium total energy, the explicit extraction of quasi-Fermi level distributions, and the possibility of faithfully modeling finite 2D electrodes. In this article, we highlight the key features and applications of the MS-DFT formalism.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cond-mat.mes-hall"
+}

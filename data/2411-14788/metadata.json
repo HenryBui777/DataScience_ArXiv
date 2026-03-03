@@ -1,0 +1,17 @@
+{
+  "title": "Jovis: A Visualization Tool for PostgreSQL Query Optimizer",
+  "authors": [
+    "Yoojin Choi",
+    "Juhee Han",
+    "Kyoseung Koo",
+    "Bongki Moon"
+  ],
+  "summary": "Query optimizers are essential components of relational database management systems that directly impact query performance as they transform input queries into efficient execution plans. While users can obtain the final execution plan using the EXPLAIN command and leverage existing visualization tools for intuitive understanding, the internal decision-making processes of query optimizers are hidden from users, making it difficult to understand how the plan is constructed. To address this challenge, we present Jovis, an interactive visualization tool designed to explore the query optimization process in PostgreSQL. Jovis provides a comprehensive view of the entire optimization workflow through tailored visualization for each optimization strategy. It also includes features that allow users to participate in optimization by providing hints, tuning parameters, and reusing prior optimization results. Jovis serves as both an educational tool for learners and a practical resource for database professionals, helping users understand and improve query optimization by guiding the optimizer to make better decisions or consider previously unexplored plans. The source code, data, and/or other artifacts have been made available at https://github.com/orgs/snu-jovis.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-03-25"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DB, cs.HC"
+}

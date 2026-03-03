@@ -1,0 +1,17 @@
+{
+  "title": "Adaptive Anomaly Detection for Identifying Attacks in Cyber-Physical Systems: A Systematic Literature Review",
+  "authors": [
+    "Pablo Moriano",
+    "Steven C. Hespeler",
+    "Mingyan Li",
+    "Maria Mahbub"
+  ],
+  "summary": "Modern cyberattacks in cyber-physical systems (CPS) rapidly evolve and cannot be deterred effectively with most current methods which focused on characterizing past threats. Adaptive anomaly detection (AAD) is among the most promising techniques to detect evolving cyberattacks focused on fast data processing and model adaptation. AAD has been researched in the literature extensively; however, to the best of our knowledge, our work is the first systematic literature review (SLR) on the current research within this field. We present a comprehensive SLR, gathering 397 relevant papers and systematically analyzing 65 of them (47 research and 18 survey papers) on AAD in CPS studies from 2013 to 2023 (November). We introduce a novel taxonomy considering attack types, CPS application, learning paradigm, data management, and algorithms. Our analysis indicates, among other findings, that reviewed works focused on a single aspect of adaptation (either data processing or model adaptation) but rarely in both at the same time. We aim to help researchers to advance the state of the art and help practitioners to become familiar with recent progress in this field. We identify the limitations of the state of the art and provide recommendations for future research directions.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-01-03"
+  ],
+  "publication_venue": "Artificial Intelligence Review 58, 283 (2025)",
+  "pdf_url": null,
+  "category": "cs.CR, cs.LG"
+}

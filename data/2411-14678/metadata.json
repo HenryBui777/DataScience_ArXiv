@@ -1,0 +1,12 @@
+{
+  "title": "Reinterpreting PID Controller From the Perspective of State Feedback and Lumped Disturbance Compensation",
+  "authors": [
+    "Xinyu Shi"
+  ],
+  "summary": "This paper analyzes the motion of solutions to non-homogeneous linear differential equations. It further clarifies that a proportional-integral-derivative (PID) controller essentially comprises two parts: a homogeneous controller and a disturbance observer, which are responsible for stabilizing the homogeneous system and compensating for the lumped disturbances (non-homogeneous components) of the system respectively. Based on this framework, the impact of measurement noise on control performance is examined, and a parameter tuning scheme for the traditional PID controller is provided. Finally, as examples, controllers are designed for two representative control problems: a trajectory tracking controller for an underactuated vertical takeoff and landing (VTOL) aircraft in the time domain, and a lateral controller for a vehicle in the distance domain.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY, math.OC"
+}

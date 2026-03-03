@@ -1,0 +1,13 @@
+{
+  "title": "Instrumentation of Software Systems with OpenTelemetry for Software Visualization",
+  "authors": [
+    "Malte Hansen",
+    "Wilhelm Hasselbring"
+  ],
+  "summary": "As software systems grow in complexity, data and tools that provide valuable insights for easier program comprehension become increasingly important. OpenTelemetry has become a standard for the collection of monitoring data. In this work we present our experiences with different ways how OpenTelemetry can be leveraged to automatically instrument software systems for the purpose of software visualization. Particularly, we explore automatic instrumentation with the OpenTelemetry SDKs, and both application and unit test instrumentation with the Java agent inspectIT Ocelot. The collected data is exported to our live trace visualization tool ExplorViz.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SE"
+}

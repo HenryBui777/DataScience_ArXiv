@@ -1,0 +1,13 @@
+{
+  "title": "Modelling Directed Networks with Reciprocity",
+  "authors": [
+    "Rui Feng",
+    "Chenlei Leng"
+  ],
+  "summary": "Asymmetric relational data is increasingly prevalent across diverse fields, underscoring the need for directed network models to address the complex challenges posed by their unique structures. Unlike undirected models, directed models can capture reciprocity, the tendency of nodes to form mutual links. In this work, we address a fundamental question: what is the effective sample size for modeling reciprocity? We examine this by analyzing the Bernoulli model with reciprocity, allowing for varying sparsity levels between non-reciprocal and reciprocal effects. We then extend this framework to a model that incorporates node-specific heterogeneity and link-specific reciprocity using covariates. Our findings reveal intriguing interplays between non-reciprocal and reciprocal effects in sparse networks. We propose a straightforward inference procedure based on maximum likelihood estimation that operates without prior knowledge of sparsity levels, whether covariates are included or not.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Reliable Evaluation of Attribution Maps in CNNs: A Perturbation-Based Approach",
+  "authors": [
+    "Lars Nieradzik",
+    "Henrike Stephani",
+    "Janis Keuper"
+  ],
+  "summary": "In this paper, we present an approach for evaluating attribution maps, which play a central role in interpreting the predictions of convolutional neural networks (CNNs). We show that the widely used insertion/deletion metrics are susceptible to distribution shifts that affect the reliability of the ranking. Our method proposes to replace pixel modifications with adversarial perturbations, which provides a more robust evaluation framework. By using smoothness and monotonicity measures, we illustrate the effectiveness of our approach in correcting distribution shifts. In addition, we conduct the most comprehensive quantitative and qualitative assessment of attribution maps to date. Introducing baseline attribution maps as sanity checks, we find that our metric is the only contender to pass all checks. Using Kendall's $τ$ rank correlation coefficient, we show the increased consistency of our metric across 15 dataset-architecture combinations. Of the 16 attribution maps tested, our results clearly show SmoothGrad to be the best map currently available. This research makes an important contribution to the development of attribution maps by providing a reliable and consistent evaluation framework. To ensure reproducibility, we will provide the code along with our results.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI, cs.LG"
+}

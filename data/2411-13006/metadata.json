@@ -1,0 +1,14 @@
+{
+  "title": "Automating Sonologists USG Commands with AI and Voice Interface",
+  "authors": [
+    "Emad Mohamed",
+    "Shruti Tiwari",
+    "Sheena Christabel Pravin"
+  ],
+  "summary": "This research presents an advanced AI-powered ultrasound imaging system that incorporates real-time image processing, organ tracking, and voice commands to enhance the efficiency and accuracy of diagnoses in clinical practice. Traditional ultrasound diagnostics often require significant time and introduce a degree of subjectivity due to user interaction. The goal of this innovative solution is to provide Sonologists with a more predictable and productive imaging procedure utilizing artificial intelligence, computer vision, and voice technology. The functionality of the system employs computer vision and deep learning algorithms, specifically adopting the Mask R-CNN model from Detectron2 for semantic segmentation of organs and key landmarks. This automation improves diagnostic accuracy by enabling the extraction of valuable information with minimal human input. Additionally, it includes a voice recognition feature that allows for hands-free operation, enabling users to control the system with commands such as freeze or liver, all while maintaining their focus on the patient. The architecture comprises video processing and real-time segmentation modules that prepare the system to perform essential imaging functions, such as freezing and zooming in on frames. The liver histopathology module, optimized for detecting fibrosis, achieved an impressive accuracy of 98.6%. Furthermore, the organ segmentation module produces output confidence levels between 50% and 95%, demonstrating its efficacy in organ detection.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.AI, cs.CV"
+}

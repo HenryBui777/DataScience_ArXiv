@@ -1,0 +1,15 @@
+{
+  "title": "sMoRe: Enhancing Object Manipulation and Organization in Mixed Reality Spaces with LLMs and Generative AI",
+  "authors": [
+    "Yunhao Xing",
+    "Que Liu",
+    "Jingwu Wang",
+    "Diego Gomez-Zara"
+  ],
+  "summary": "In mixed reality (MR) environments, understanding space and creating virtual objects is crucial to providing an intuitive and rich user experience. This paper introduces sMoRe (Spatial Mapping and Object Rendering Environment), an MR application that combines Generative AI (GenAI) with large language models (LLMs) to assist users in creating, placing, and managing virtual objects within physical spaces. sMoRe allows users to use voice or typed text commands to create and place virtual objects using GenAI while specifying spatial constraints. The system leverages LLMs to interpret users' commands, analyze the current scene, and identify optimal locations. Additionally, sMoRe integrates text-to-3D generative AI to dynamically create 3D objects based on users' descriptions. Our user study demonstrates the effectiveness of sMoRe in enhancing user comprehension, interaction, and organization of the MR environment.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.HC"
+}

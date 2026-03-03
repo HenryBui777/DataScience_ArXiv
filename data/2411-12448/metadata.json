@@ -1,0 +1,22 @@
+{
+  "title": "Large Language Models for Lossless Image Compression: Next-Pixel Prediction in Language Space is All You Need",
+  "authors": [
+    "Kecheng Chen",
+    "Pingping Zhang",
+    "Hui Liu",
+    "Jie Liu",
+    "Yibing Liu",
+    "Jiaxin Huang",
+    "Shiqi Wang",
+    "Hong Yan",
+    "Haoliang Li"
+  ],
+  "summary": "We have recently witnessed that ``Intelligence\" and `` Compression\" are the two sides of the same coin, where the language large model (LLM) with unprecedented intelligence is a general-purpose lossless compressor for various data modalities. This attribute particularly appeals to the lossless image compression community, given the increasing need to compress high-resolution images in the current streaming media era. Consequently, a spontaneous envision emerges: Can the compression performance of the LLM elevate lossless image compression to new heights? However, our findings indicate that the naive application of LLM-based lossless image compressors suffers from a considerable performance gap compared with existing state-of-the-art (SOTA) codecs on common benchmark datasets. In light of this, we are dedicated to fulfilling the unprecedented intelligence (compression) capacity of the LLM for lossless image compression tasks, thereby bridging the gap between theoretical and practical compression performance. Specifically, we propose P$^{2}$-LLM, a next-pixel prediction-based LLM, which integrates various elaborated insights and methodologies, \\textit{e.g.,} pixel-level priors, the in-context ability of LLM, and a pixel-level semantic preservation strategy, to enhance the understanding capacity of pixel sequences for better next-pixel predictions. Extensive experiments on benchmark datasets demonstrate that P$^{2}$-LLM can beat SOTA classical and learned codecs.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-22"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, eess.IV"
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Which Channel in 6G, Low-rank or Full-rank, more needs RIS from a Perspective of DoF?",
+  "authors": [
+    "Yongqiang Li",
+    "Feng Shu",
+    "Maolin Li",
+    "Ke Yang",
+    "Bin Deng",
+    "Xuehui Wang",
+    "Fuhui Zhou",
+    "Cunhua Pan",
+    "Qingqing Wu"
+  ],
+  "summary": "Reconfigurable intelligent surface (RIS), as an efficient tool to improve receive signal-to-noise ratio, extend coverage and create more spatial diversity, is viewed as a most promising technique for the future wireless networks like 6G. As you know, RIS is very suitable for a special wireless scenario with wireless link between BS and users being completely blocked, i.e., no link. In this paper, we extend its applications to a general scenario, i.e., rank-deficient channel, particularly some extremely low-rank ones such as no link, and line-of-sight (LoS, rank-one). Actually, there are several potential important low-rank applications like low-altitude, satellite, UAV, marine, and deep-space communications. In such a situation, it is found that RIS may make a dramatic degrees of freedom (DoF) enhancement over no RIS. By using a distributed RISs placement, the DoF of channel from BS to user in LoS channel may be even boosted from a low-rank like 0/1 to full-rank. This will achieve an extremely rate improvement via spatial parallel multiple-stream transmission from BS to user. In this paper, we present a complete review of making an in-depth discussion on DoF effect of RIS.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-25",
+    "2024-12-02",
+    "2024-12-04",
+    "2024-12-05",
+    "2025-07-02"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP"
+}

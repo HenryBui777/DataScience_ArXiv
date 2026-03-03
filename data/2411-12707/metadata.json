@@ -1,0 +1,14 @@
+{
+  "title": "Barttender: An approachable & interpretable way to compare medical imaging and non-imaging data",
+  "authors": [
+    "Ayush Singla",
+    "Shakson Isaac",
+    "Chirag J. Patel"
+  ],
+  "summary": "Imaging-based deep learning has transformed healthcare research, yet its clinical adoption remains limited due to challenges in comparing imaging models with traditional non-imaging and tabular data. To bridge this gap, we introduce Barttender, an interpretable framework that uses deep learning for the direct comparison of the utility of imaging versus non-imaging tabular data for tasks like disease prediction.\n  Barttender converts non-imaging tabular features, such as scalar data from electronic health records, into grayscale bars, facilitating an interpretable and scalable deep learning based modeling of both data modalities. Our framework allows researchers to evaluate differences in utility through performance measures, as well as local (sample-level) and global (population-level) explanations. We introduce a novel measure to define global feature importances for image-based deep learning models, which we call gIoU. Experiments on the CheXpert and MIMIC datasets with chest X-rays and scalar data from electronic health records show that Barttender performs comparably to traditional methods and offers enhanced explainability using deep learning models.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-bio.QM, cs.CV"
+}

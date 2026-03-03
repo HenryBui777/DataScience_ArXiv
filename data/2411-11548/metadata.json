@@ -1,0 +1,12 @@
+{
+  "title": "Real-Time Fitness Exercise Classification and Counting from Video Frames",
+  "authors": [
+    "Riccardo Riccio"
+  ],
+  "summary": "This paper introduces a novel method for real-time exercise classification using a Bidirectional Long Short-Term Memory (BiLSTM) neural network. Existing exercise recognition approaches often rely on synthetic datasets, raw coordinate inputs sensitive to user and camera variations, and fail to fully exploit the temporal dependencies in exercise movements. These issues limit their generalizability and robustness in real-world conditions, where lighting, camera angles, and user body types vary.\n  To address these challenges, we propose a BiLSTM-based model that leverages invariant features, such as joint angles, alongside raw coordinates. By using both angles and (x, y, z) coordinates, the model adapts to changes in perspective, user positioning, and body differences, improving generalization. Training on 30-frame sequences enables the BiLSTM to capture the temporal context of exercises and recognize patterns evolving over time.\n  We compiled a dataset combining synthetic data from the InfiniteRep dataset and real-world videos from Kaggle and other sources. This dataset includes four common exercises: squat, push-up, shoulder press, and bicep curl. The model was trained and validated on these diverse datasets, achieving an accuracy of over 99% on the test set. To assess generalizability, the model was tested on 2 separate test sets representative of typical usage conditions. Comparisons with the previous approach from the literature are present in the result section showing that the proposed model is the best-performing one.\n  The classifier is integrated into a web application providing real-time exercise classification and repetition counting without manual exercise selection.\n  Demo and datasets are available at the following GitHub Repository: https://github.com/RiccardoRiccio/Fitness-AI-Trainer-With-Automatic-Exercise-Recognition-and-Counting.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI, cs.LG"
+}

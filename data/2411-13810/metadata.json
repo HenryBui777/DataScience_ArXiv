@@ -1,0 +1,14 @@
+{
+  "title": "Dynamic Spatial Interaction Models for a Resource Allocator's Decisions and Local Agents' Multiple Activities",
+  "authors": [
+    "Hanbat Jeong"
+  ],
+  "summary": "This paper introduces a novel spatial interaction model to explore the decision-making processes of a resource allocator and local agents, with central and local governments serving as empirical representations. The model captures two key features: (i) resource allocations from the allocator to local agents and the resulting strategic interactions, and (ii) local agents' multiple activities and their interactions. We develop a network game for the micro-foundations of these processes. In this game, local agents engage in multiple activities, while the allocator distributes resources by monitoring the externalities arising from their interactions. The game's unique Nash equilibrium establishes our econometric framework. To estimate the agent payoff parameters, we employ the quasi-maximum likelihood (QML) estimation method and examine the asymptotic properties of the QML estimator to ensure robust statistical inference. Empirically, we study interactions among U.S. states in public welfare and housing and community development expenditures, focusing on how federal grants influence these expenditures and the interdependencies among state governments. Our findings reveal significant spillovers across the states' two expenditures. Additionally, we detect positive effects of federal grants on both types of expenditures, inducing a responsive grant scheme based on states' decisions. Last, we compare state expenditures and social welfare through counterfactual simulations under two scenarios: (i) responsive intervention by monitoring states' decisions and (ii) autonomous transfers. We find that responsive intervention enhances social welfare by leading to an increase in the states' two expenditures. However, due to the heavy reliance on autonomous transfers, the magnitude of these improvements remains relatively small compared to the share of federal grants in total state revenues.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-07-01"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "econ.EM"
+}

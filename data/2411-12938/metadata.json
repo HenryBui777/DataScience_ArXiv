@@ -1,0 +1,16 @@
+{
+  "title": "Novel computational approaches for ratio distributions with an application to Hake's ratio in effect size measurement",
+  "authors": [
+    "Jozef Hanč",
+    "Martina Hančová",
+    "Dominik Borovský"
+  ],
+  "summary": "Ratio statistics and distributions are fundamental in various disciplines, including linear regression, metrology, nuclear physics, operations research, econometrics, biostatistics, genetics, and engineering. In this work, we introduce two novel computational approaches for evaluating ratio distributions using open data science tools and modern numerical quadratures. The first approach employs 1D double exponential quadrature of the Mellin convolution with/without barycentric interpolation, which is a very fast and efficient quadrature technique. The second approach utilizes 2D vectorized Broda-Khan numerical inversion of characteristic functions. It offers broader applicability by not requiring knowledge of PDFs or the independence of ratio constituents. The pilot numerical study, conducted in the context of Hake's ratio - a widely used measure of effect size and educational effectiveness in physics education - demonstrates the proposed methods' speed, accuracy, and reliability. The analytical and numerical explorations also provide more clarifying insight into the theoretical and empirical properties of Hake's ratio distribution. The proposed methods appear promising in a robust framework for fast and exact ratio distribution computations beyond normal random variables, with potential applications in multidimensional statistics and uncertainty analysis in metrology, where precise and reliable data handling is essential.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-06-21"
+  ],
+  "publication_venue": "Stat Papers 66, 102 (2025)",
+  "pdf_url": null,
+  "category": "stat.CO, physics.data-an"
+}

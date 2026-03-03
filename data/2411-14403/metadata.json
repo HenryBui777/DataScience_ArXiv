@@ -1,0 +1,16 @@
+{
+  "title": "Landing Trajectory Prediction for UAS Based on Generative Adversarial Network",
+  "authors": [
+    "Jun Xiang",
+    "Drake Essick",
+    "Luiz Gonzalez Bautista",
+    "Junfei Xie",
+    "Jun Chen"
+  ],
+  "summary": "Models for trajectory prediction are an essential component of many advanced air mobility studies. These models help aircraft detect conflict and plan avoidance maneuvers, which is especially important in Unmanned Aircraft systems (UAS) landing management due to the congested airspace near vertiports. In this paper, we propose a landing trajectory prediction model for UAS based on Generative Adversarial Network (GAN). The GAN is a prestigious neural network that has been developed for many years. In previous research, GAN has achieved many state-of-the-art results in many generation tasks. The GAN consists of one neural network generator and a neural network discriminator. Because of the learning capacity of the neural networks, the generator is capable to understand the features of the sample trajectory. The generator takes the previous trajectory as input and outputs some random status of a flight. According to the results of the experiences, the proposed model can output more accurate predictions than the baseline method(GMR) in various datasets. To evaluate the proposed model, we also create a real UAV landing dataset that includes more than 2600 trajectories of drone control manually by real pilots.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO, cs.AI"
+}

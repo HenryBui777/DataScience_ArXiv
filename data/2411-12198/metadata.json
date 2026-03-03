@@ -1,0 +1,18 @@
+{
+  "title": "CCIS-Diff: A Generative Model with Stable Diffusion Prior for Controlled Colonoscopy Image Synthesis",
+  "authors": [
+    "Yifan Xie",
+    "Jingge Wang",
+    "Tao Feng",
+    "Fei Ma",
+    "Yang Li"
+  ],
+  "summary": "Colonoscopy is crucial for identifying adenomatous polyps and preventing colorectal cancer. However, developing robust models for polyp detection is challenging by the limited size and accessibility of existing colonoscopy datasets. While previous efforts have attempted to synthesize colonoscopy images, current methods suffer from instability and insufficient data diversity. Moreover, these approaches lack precise control over the generation process, resulting in images that fail to meet clinical quality standards. To address these challenges, we propose CCIS-DIFF, a Controlled generative model for high-quality Colonoscopy Image Synthesis based on a Diffusion architecture. Our method offers precise control over both the spatial attributes (polyp location and shape) and clinical characteristics of polyps that align with clinical descriptions. Specifically, we introduce a blur mask weighting strategy to seamlessly blend synthesized polyps with the colonic mucosa, and a text-aware attention mechanism to guide the generated images to reflect clinical characteristics. Notably, to achieve this, we construct a new multi-modal colonoscopy dataset that integrates images, mask annotations, and corresponding clinical text descriptions. Experimental results demonstrate that our method generates high-quality, diverse colonoscopy images with fine control over both spatial constraints and clinical consistency, offering valuable support for downstream segmentation and diagnostic tasks.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-01-05"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI"
+}

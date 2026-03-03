@@ -1,0 +1,16 @@
+{
+  "title": "Defective Edge Detection Using Cascaded Ensemble Canny Operator",
+  "authors": [
+    "Anjali Nambiyar Rajkumar Kannan"
+  ],
+  "summary": "Edge detection has been one of the most difficult challenges in computer vision because of the difficulty in identifying the borders and edges from the real-world images including objects of varying kinds and sizes. Methods based on ensemble learning, which use a combination of backbones and attention modules, outperformed more conventional approaches, such as Sobel and Canny edge detection. Nevertheless, these algorithms are still challenged when faced with complicated scene photos. In addition, the identified edges utilizing the current methods are not refined and often include incorrect edges. In this work, we used a Cascaded Ensemble Canny operator to solve these problems and detect the object edges. The most difficult Fresh and Rotten and Berkeley datasets are used to test the suggested approach in Python. In terms of performance metrics and output picture quality, the acquired results outperform the specified edge detection networks",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-12-04",
+    "2024-12-20",
+    "2024-12-24"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

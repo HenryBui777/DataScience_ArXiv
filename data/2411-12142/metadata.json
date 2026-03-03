@@ -1,0 +1,23 @@
+{
+  "title": "A Computational Method for Measuring \"Open Codes\" in Qualitative Analysis",
+  "authors": [
+    "John Chen",
+    "Alexandros Lotsos",
+    "Sihan Cheng",
+    "Caiyi Wang",
+    "Lexie Zhao",
+    "Jessica Hullman",
+    "Bruce Sherin",
+    "Uri Wilensky",
+    "Michael Horn"
+  ],
+  "summary": "Qualitative analysis is critical to understanding human datasets in many social science disciplines. A central method in this process is inductive coding, where researchers identify and interpret codes directly from the datasets themselves. Yet, this exploratory approach poses challenges for meeting methodological expectations (such as ``depth'' and ``variation''), especially as researchers increasingly adopt Generative AI (GAI) for support. Ground-truth-based metrics are insufficient because they contradict the exploratory nature of inductive coding, while manual evaluation can be labor-intensive. This paper presents a theory-informed computational method for measuring inductive coding results from humans and GAI. Our method first merges individual codebooks using an LLM-enriched algorithm. It measures each coder's contribution against the merged result using four novel metrics: Coverage, Overlap, Novelty, and Divergence. Through two experiments on a human-coded online conversation dataset, we 1) reveal the merging algorithm's impact on metrics; 2) validate the metrics' stability and robustness across multiple runs and different LLMs; and 3) showcase the metrics' ability to diagnose coding issues, such as excessive or irrelevant (hallucinated) codes. Our work provides a reliable pathway for ensuring methodological rigor in human-AI qualitative analysis.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-26",
+    "2025-09-02"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.AI, cs.HC, cs.LG"
+}

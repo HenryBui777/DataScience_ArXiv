@@ -1,0 +1,12 @@
+{
+  "title": "Meaning at the Planck scale? Contextualized word embeddings for doing history, philosophy, and sociology of science",
+  "authors": [
+    "Arno Simons"
+  ],
+  "summary": "This paper explores the potential of contextualized word embeddings (CWEs) as a new tool in the history, philosophy, and sociology of science (HPSS) for studying contextual and evolving meanings of scientific concepts. Using the term \"Planck\" as a test case, I evaluate five BERT-based models with varying degrees of domain-specific pretraining, including my custom model Astro-HEP-BERT, trained on the Astro-HEP Corpus, a dataset containing 21.84 million paragraphs from 600,000 articles in astrophysics and high-energy physics. For this analysis, I compiled two labeled datasets: (1) the Astro-HEP-Planck Corpus, consisting of 2,900 labeled occurrences of \"Planck\" sampled from 1,500 paragraphs in the Astro-HEP Corpus, and (2) a physics-related Wikipedia dataset comprising 1,186 labeled occurrences of \"Planck\" across 885 paragraphs. Results demonstrate that the domain-adapted models outperform the general-purpose ones in disambiguating the target term, predicting its known meanings, and generating high-quality sense clusters, as measured by a novel purity indicator I developed. Additionally, this approach reveals semantic shifts in the target term over three decades in the unlabeled Astro-HEP Corpus, highlighting the emergence of the Planck space mission as a dominant sense. The study underscores the importance of domain-specific pretraining for analyzing scientific language and demonstrates the cost-effectiveness of adapting pretrained models for HPSS research. By offering a scalable and transferable method for modeling the meanings of scientific concepts, CWEs open up new avenues for investigating the socio-historical dynamics of scientific discourses.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, physics.hist-ph"
+}

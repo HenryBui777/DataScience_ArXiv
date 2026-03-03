@@ -1,0 +1,22 @@
+{
+  "title": "Can Artificial Intelligence Generate Quality Research Topics Reflecting Patient Concerns?",
+  "authors": [
+    "Jiyeong Kim",
+    "Michael L. Chen",
+    "Shawheen J. Rezaei",
+    "Mariana Ramirez-Posada",
+    "Jennifer L. Caswell-Jin",
+    "Allison W. Kurian",
+    "Fauzia Riaz",
+    "Kavita Y. Sarin",
+    "Jean Y. Tang",
+    "Steven M. Asch",
+    "Eleni Linos"
+  ],
+  "summary": "Patient-centered research is increasingly important in narrowing the gap between research and patient care, yet incorporating patient perspectives into health research has been inconsistent. We propose an automated framework leveraging innovative natural language processing (NLP) and artificial intelligence (AI) with patient portal messages to generate research ideas that prioritize important patient issues. We further quantified the quality of AI-generated research topics. To define patient clinical concerns, we analyzed 614,464 patient messages from 25,549 individuals with breast or skin cancer obtained from a large academic hospital (2013 to 2024), constructing a 2-staged unsupervised NLP topic model. Then, we generated research topics to resolve the defined issues using a widely used AI (ChatGPT-4o, OpenAI Inc, April 2024 version) with prompt-engineering strategies. We guided AI to perform multi-level tasks: 1) knowledge interpretation and summarization (e.g., interpreting and summarizing the NLP-defined topics), 2) knowledge generation (e.g., generating research ideas corresponding to patients issues), 3) self-reflection and correction (e.g., ensuring and revising the research ideas after searching for scientific articles), and 4) self-reassurance (e.g., confirming and finalizing the research ideas). Six highly experienced breast oncologists and dermatologists assessed the significance and novelty of AI-generated research topics using a 5-point Likert scale (1-exceptional, 5-poor). One-third of the AI-suggested research topics were highly significant and novel when both scores were lower than the average. Two-thirds of the AI-suggested topics were novel in both cancers. Our findings demonstrate that AI-generated research topics reflecting patient perspectives via a large volume of patient messages can meaningfully guide future directions in patient-centered health research.",
+  "submission_date": "2024-11-15",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.AI, cs.IR"
+}

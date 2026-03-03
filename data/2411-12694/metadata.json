@@ -1,0 +1,16 @@
+{
+  "title": "Local Density and its Distributed Approximation",
+  "authors": [
+    "Aleksander Bjørn Christiansen",
+    "Ivor van der Hoog",
+    "Eva Rotenberg"
+  ],
+  "summary": "The densest subgraph problem is a classic problem in combinatorial optimisation. Danisch, Chan, and Sozio propose a definition for \\emph{local density} that assigns to each vertex $v$ a value $ρ^*(v)$. This local density is a generalisation of the maximum subgraph density of a graph. I.e., if $ρ(G)$ is the subgraph density of a finite graph $G$, then $ρ(G)$ equals the maximum local density $ρ^*(v)$ over vertices $v$ in $G$. They approximate the local density of each vertex with no theoretical (asymptotic) guarantees.\n  We provide an extensive study of this local density measure. Just as with (global) maximum subgraph density, we show that there is a dual relation between the local out-degrees and the minimum out-degree orientations of the graph. We introduce the definition of the local out-degree $g^*(v)$ of a vertex $v$, and show it to be equal to the local density $ρ^*(v)$. We consider the local out-degree to be conceptually simpler, shorter to define, and easier to compute.\n  Using the local out-degree we show a previously unknown fact: that existing algorithms already dynamically approximate the local density. Next, we provide the first distributed algorithms that compute the local density with provable guarantees: given any $\\varepsilon$ such that $\\varepsilon^{-1} \\in O(poly \\, n)$, we show a deterministic distributed algorithm in the LOCAL model where, after $O(\\varepsilon^{-2} \\log^2 n)$ rounds, every vertex $v$ outputs a $(1 + \\varepsilon)$-approximation of their local density $ρ^*(v)$. In CONGEST, we show a deterministic distributed algorithm that requires $\\text{poly}(\\log n,\\varepsilon^{-1}) \\cdot 2^{O(\\sqrt{\\log n})}$ rounds, which is sublinear in $n$.\n  As a corollary, we obtain the first deterministic algorithm running in a sublinear number of rounds for $(1+\\varepsilon)$-approximate densest subgraph detection in the CONGEST model.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-20"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DS, cs.DC"
+}

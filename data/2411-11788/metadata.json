@@ -1,0 +1,18 @@
+{
+  "title": "Enabling steep slope walking on Husky using reduced order modeling and quadratic programming",
+  "authors": [
+    "Kaushik Venkatesh Krishnamurthy",
+    "Eric Sihite",
+    "Chenghao Wang",
+    "Shreyansh Pitroda",
+    "Adarsh Salagame",
+    "Alireza Ramezani",
+    "Morteza Gharib"
+  ],
+  "summary": "Wing-assisted inclined running (WAIR) observed in some young birds, is an attractive maneuver that can be extended to legged aerial systems. This study proposes a control method using a modified Variable Length Inverted Pendulum (VLIP) by assuming a fixed zero moment point and thruster forces collocated at the center of mass of the pendulum. A QP MPC is used to find the optimal ground reaction forces and thruster forces to track a reference position and velocity trajectory. Simulation results of this VLIP model on a slope of 40 degrees is maintained and shows thruster forces that can be obtained through posture manipulation. The simulation also provides insight to how the combined efforts of the thrusters and the tractive forces from the legs make WAIR possible in thruster-assisted legged systems.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO, eess.SY"
+}

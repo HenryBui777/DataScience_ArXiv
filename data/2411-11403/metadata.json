@@ -1,0 +1,17 @@
+{
+  "title": "Hadamard Langevin dynamics for sampling the l1-prior",
+  "authors": [
+    "Ivan Cheltsov",
+    "Federico Cornalba",
+    "Clarice Poon",
+    "Tony Shardlow"
+  ],
+  "summary": "Priors with non-smooth log densities have been widely used in Bayesian inverse problems, particularly in imaging, due to their sparsity inducing properties. To date, the majority of algorithms for handling such densities are based on proximal Langevin dynamics where one replaces the non-smooth part by a smooth approximation known as the Moreau envelope. In this work, we introduce a novel approach for sampling densities with $\\ell_1$-priors based on a Hadamard product parameterization. This builds upon the idea that the Laplace prior has a Gaussian mixture representation and our method can be seen as a form of overparametrization: by increasing the number of variables, we construct a density from which one can directly recover the original density. This is fundamentally different from proximal-type approaches since our resolution is exact, while proximal-based methods introduce additional bias due to the Moreau-envelope smoothing. For our new density, we present its Langevin dynamics in continuous time and establish well-posedness and geometric ergodicity. We also present a discretization scheme for the continuous dynamics and prove convergence as the time-step diminishes.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-02-09"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

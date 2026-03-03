@@ -1,0 +1,418 @@
+{
+  "2401-16013": {
+    "title": "SERL: A Software Suite for Sample-Efficient Robotic Reinforcement Learning",
+    "authors": [
+      "Jianlan Luo",
+      "Zheyuan Hu",
+      "Charles Xu",
+      "You Liang Tan",
+      "Jacob Berg",
+      "Archit Sharma",
+      "S. Schaal",
+      "Chelsea Finn",
+      "Abhishek Gupta",
+      "Sergey Levine"
+    ],
+    "publication_date": "2024-01-29",
+    "venue": "IEEE International Conference on Robotics and Automation",
+    "semantic_scholar_id": "fc4d4a25aac973b516c0bf890e36660fe228e79a",
+    "corpus_id": 267311834,
+    "category": "Computer Science"
+  },
+  "2305-15572": {
+    "title": "The Behavior and Convergence of Local Bayesian Optimization",
+    "authors": [
+      "Kaiwen Wu",
+      "Kyurae Kim",
+      "R. Garnett",
+      "J. Gardner"
+    ],
+    "publication_date": "2023-05-24",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "9738c961f1c858c6bfa90d0c3753f7ef8d3d4731",
+    "corpus_id": 258888130,
+    "category": "Computer Science, Mathematics"
+  },
+  "2301-12844": {
+    "title": "Are Random Decompositions all we need in High Dimensional Bayesian Optimisation?",
+    "authors": [
+      "Juliusz Ziomek",
+      "Haitham Bou-Ammar"
+    ],
+    "publication_date": "2023-01-30",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "20a93646a95156b07f1212932d4aa5ad34ad8ad6",
+    "corpus_id": 256390592,
+    "category": "Computer Science, Mathematics"
+  },
+  "2210-11662": {
+    "title": "Local Bayesian optimization via maximizing probability of descent",
+    "authors": [
+      "Quan Nguyen",
+      "Kaiwen Wu",
+      "J. Gardner",
+      "R. Garnett"
+    ],
+    "publication_date": "2022-10-21",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "6248e2b4fd0ac7be959e696db938685cf8642bec",
+    "corpus_id": 253080324,
+    "category": "Computer Science"
+  },
+  "2210-09622": {
+    "title": "Deep Black-Box Reinforcement Learning with Movement Primitives",
+    "authors": [
+      "Fabian Otto",
+      "Onur Çelik",
+      "Hongyi Zhou",
+      "Hanna Ziesche",
+      "Ngo Anh Vien",
+      "G. Neumann"
+    ],
+    "publication_date": "2022-10-18",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "cf628a42ee56c8f1b858790822a2bc0a61a49110",
+    "corpus_id": 252967797,
+    "category": "Computer Science"
+  },
+  "2203-00551": {
+    "title": "Bayesian Optimisation for Robust Model Predictive Control under Model Parameter Uncertainty",
+    "authors": [
+      "Rel Guzman",
+      "Rafael Oliveira",
+      "Fabio Ramos"
+    ],
+    "publication_date": "2022-03-01",
+    "venue": "IEEE International Conference on Robotics and Automation",
+    "semantic_scholar_id": "13d79f3c750085ec73619d22a714bc06c794e69b",
+    "corpus_id": 247187747,
+    "category": "Computer Science, Mathematics"
+  },
+  "2105-10049": {
+    "title": "Learning Modular Robot Control Policies",
+    "authors": [
+      "Julian Whitman",
+      "M. Travers",
+      "H. Choset"
+    ],
+    "publication_date": "2021-05-20",
+    "venue": "IEEE Transactions on robotics",
+    "semantic_scholar_id": "0f4fe1a89cc743bb089e76637d60146394505205",
+    "corpus_id": 235125619,
+    "category": "Computer Science"
+  },
+  "2102-02915": {
+    "title": "How to train your robot with deep reinforcement learning: lessons we have learned",
+    "authors": [
+      "Julian Ibarz",
+      "Jie Tan",
+      "Chelsea Finn",
+      "Mrinal Kalakrishnan",
+      "P. Pastor",
+      "S. Levine"
+    ],
+    "publication_date": "2021-01-31",
+    "venue": "Int. J. Robotics Res.",
+    "semantic_scholar_id": "400811ee31020a3f002551476dac25973e13035e",
+    "corpus_id": 231839855,
+    "category": "Computer Science"
+  },
+  "2011-09445": {
+    "title": "Cautious Bayesian Optimization for Efficient and Scalable Policy Search",
+    "authors": [
+      "Lukas P. Fröhlich",
+      "M. Zeilinger",
+      "Edgar D. Klenske"
+    ],
+    "publication_date": "2020-11-18",
+    "venue": "Conference on Learning for Dynamics & Control",
+    "semantic_scholar_id": "a6b6de5bcb1f609aed6d78d735622ab196455700",
+    "corpus_id": 227013023,
+    "category": "Computer Science"
+  },
+  "2011-07589": {
+    "title": "DIRL: Domain-Invariant Representation Learning for Sim-to-Real Transfer",
+    "authors": [
+      "A. Tanwani"
+    ],
+    "publication_date": "2020-11-15",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "49b75632072e2081823de079d84ca219c6cf26ab",
+    "corpus_id": 226964700,
+    "category": "Computer Science"
+  },
+  "2010-11251": {
+    "title": "Learning quadrupedal locomotion over challenging terrain",
+    "authors": [
+      "Joonho Lee",
+      "Jemin Hwangbo",
+      "Lorenz Wellhausen",
+      "V. Koltun",
+      "Marco Hutter"
+    ],
+    "publication_date": "2020-10-21",
+    "venue": "Science Robotics",
+    "semantic_scholar_id": "eadbe2e4f9de47dd357589cf59e3d1f0199e5075",
+    "corpus_id": 224828219,
+    "category": "Computer Science, Engineering, Medicine"
+  },
+  "2002-04794": {
+    "title": "Computing the racing line using Bayesian optimization",
+    "authors": [
+      "Achin Jain",
+      "M. Morari"
+    ],
+    "publication_date": "2020-02-12",
+    "venue": "IEEE Conference on Decision and Control",
+    "semantic_scholar_id": "c587335f8cac9b8b4185b833547022344c04d94f",
+    "corpus_id": 211082645,
+    "category": "Computer Science"
+  },
+  "1910-07113": {
+    "title": "Solving Rubik's Cube with a Robot Hand",
+    "authors": [
+      "OpenAI",
+      "Ilge Akkaya",
+      "Marcin Andrychowicz",
+      "Maciek Chociej",
+      "Ma-teusz Litwin",
+      "Bob McGrew",
+      "Arthur Petron",
+      "A. Paino",
+      "Matthias Plappert",
+      "Glenn Powell",
+      "Raphael Ribas",
+      "Jonas Schneider",
+      "N. Tezak",
+      "Jerry Tworek",
+      "Peter Welinder",
+      "Lilian Weng",
+      "Qiming Yuan",
+      "Wojciech Zaremba",
+      "Lei M. Zhang"
+    ],
+    "publication_date": "2019-10-16",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "320b227027030fc291de2896fc3c6da49d7614be",
+    "corpus_id": 204734323,
+    "category": "Computer Science, Mathematics"
+  },
+  "1910-01739": {
+    "title": "Scalable Global Optimization via Local Bayesian Optimization",
+    "authors": [
+      "David Eriksson",
+      "Michael Pearce",
+      "J. Gardner",
+      "Ryan D. Turner",
+      "Matthias Poloczek"
+    ],
+    "publication_date": "2019-10-01",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "86d21de665d9e70882dd21d9923d04fbe6fc0a73",
+    "corpus_id": 202769642,
+    "category": "Computer Science, Mathematics"
+  },
+  "1907-03613": {
+    "title": "Data Efficient Reinforcement Learning for Legged Robots",
+    "authors": [
+      "Yuxiang Yang",
+      "Ken Caluwaerts",
+      "Atil Iscen",
+      "Tingnan Zhang",
+      "Jie Tan",
+      "Vikas Sindhwani"
+    ],
+    "publication_date": "2019-07-08",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "d078f720a7fb0e1961a17ea967332599e6d2b692",
+    "corpus_id": 195833719,
+    "category": "Computer Science"
+  },
+  "1808-00177": {
+    "title": "Learning dexterous in-hand manipulation",
+    "authors": [
+      "Marcin Andrychowicz",
+      "Bowen Baker",
+      "Maciek Chociej",
+      "R. Józefowicz",
+      "Bob McGrew",
+      "J. Pachocki",
+      "Arthur Petron",
+      "Matthias Plappert",
+      "Glenn Powell",
+      "Alex Ray",
+      "Jonas Schneider",
+      "Szymon Sidor",
+      "Joshua Tobin",
+      "Peter Welinder",
+      "Lilian Weng",
+      "Wojciech Zaremba"
+    ],
+    "publication_date": "2018-08-01",
+    "venue": "Int. J. Robotics Res.",
+    "semantic_scholar_id": "d37a34c204a8beefcaef4dddddb7a90c16e973d4",
+    "corpus_id": 51894399,
+    "category": "Computer Science, Mathematics"
+  },
+  "1807-01675": {
+    "title": "Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion",
+    "authors": [
+      "Jacob Buckman",
+      "Danijar Hafner",
+      "G. Tucker",
+      "E. Brevdo",
+      "Honglak Lee"
+    ],
+    "publication_date": "2018-07-04",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "08555bf7d6a483f783b7508ed2df5b1a4d29661c",
+    "corpus_id": 49577255,
+    "category": "Mathematics, Computer Science"
+  },
+  "1805-12114": {
+    "title": "Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models",
+    "authors": [
+      "Kurtland Chua",
+      "R. Calandra",
+      "R. McAllister",
+      "S. Levine"
+    ],
+    "publication_date": "2018-05-30",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "56136aa0b2c347cbcf3d50821f310c4253155026",
+    "corpus_id": 44177328,
+    "category": "Computer Science, Mathematics"
+  },
+  "1710-06537": {
+    "title": "Sim-to-Real Transfer of Robotic Control with Dynamics Randomization",
+    "authors": [
+      "Xue Bin Peng",
+      "Marcin Andrychowicz",
+      "Wojciech Zaremba",
+      "P. Abbeel"
+    ],
+    "publication_date": "2017-10-18",
+    "venue": "IEEE International Conference on Robotics and Automation",
+    "semantic_scholar_id": "0af8cdb71ce9e5bf37ad2a11f05af293cfe62172",
+    "corpus_id": 3707478,
+    "category": "Computer Science, Engineering"
+  },
+  "1703-02949": {
+    "title": "Learning Invariant Feature Spaces to Transfer Skills with Reinforcement Learning",
+    "authors": [
+      "Abhishek Gupta",
+      "Coline Devin",
+      "Yuxuan Liu",
+      "P. Abbeel",
+      "S. Levine"
+    ],
+    "publication_date": "2017-03-08",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "7f710932a0aa99f2c2ddbec6e7765f10c48d3fc2",
+    "corpus_id": 6587686,
+    "category": "Computer Science"
+  },
+  "1703-01250": {
+    "title": "Virtual vs. real: Trading off simulations and physical experiments in reinforcement learning with Bayesian optimization",
+    "authors": [
+      "A. Marco",
+      "Felix Berkenkamp",
+      "Philipp Hennig",
+      "Angela P. Schoellig",
+      "Andreas Krause",
+      "S. Schaal",
+      "Sebastian Trimpe"
+    ],
+    "publication_date": "2017-03-03",
+    "venue": "IEEE International Conference on Robotics and Automation",
+    "semantic_scholar_id": "1460b2073fc915c496021cc40613a87d9b46fa51",
+    "corpus_id": 1041684,
+    "category": "Computer Science"
+  },
+  "1610-06283": {
+    "title": "Deep neural networks for improved, impromptu trajectory tracking of quadrotors",
+    "authors": [
+      "Qiyang Li",
+      "Jingxing Qian",
+      "Zining Zhu",
+      "Xuchan Bao",
+      "Mohamed K. Helwa",
+      "Angela P. Schoellig"
+    ],
+    "publication_date": "2016-10-20",
+    "venue": "IEEE International Conference on Robotics and Automation",
+    "semantic_scholar_id": "a60c9e3bbc63bd151b07bebeecb4f6934915291d",
+    "corpus_id": 7097296,
+    "category": "Computer Science, Engineering"
+  },
+  "1610-04286": {
+    "title": "Sim-to-Real Robot Learning from Pixels with Progressive Nets",
+    "authors": [
+      "Andrei A. Rusu",
+      "Matej Vecerík",
+      "Thomas Rothörl",
+      "N. Heess",
+      "Razvan Pascanu",
+      "R. Hadsell"
+    ],
+    "publication_date": "2016-10-13",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "505808c55b2d96ad72f4b7bca04572655742b87d",
+    "corpus_id": 876231,
+    "category": "Engineering, Computer Science"
+  },
+  "1605-01950": {
+    "title": "Automatic LQR tuning based on Gaussian process global optimization",
+    "authors": [
+      "A. Marco",
+      "Philipp Hennig",
+      "Jeannette Bohg",
+      "S. Schaal",
+      "Sebastian Trimpe"
+    ],
+    "publication_date": "2016-05-06",
+    "venue": "IEEE International Conference on Robotics and Automation",
+    "semantic_scholar_id": "3f1c092d89e3cb2bc93ad5515bd0e1c67068b4bb",
+    "corpus_id": 14000743,
+    "category": "Computer Science"
+  },
+  "1603-02199": {
+    "title": "Learning hand-eye coordination for robotic grasping with deep learning and large-scale data collection",
+    "authors": [
+      "S. Levine",
+      "P. Pastor",
+      "A. Krizhevsky",
+      "Deirdre Quillen"
+    ],
+    "publication_date": "2016-03-07",
+    "venue": "Int. J. Robotics Res.",
+    "semantic_scholar_id": "494e2d5b40dcebde349f9872c7317e5003f9c5d2",
+    "corpus_id": 13072941,
+    "category": "Computer Science, Mathematics"
+  },
+  "1509-01066": {
+    "title": "Safe controller optimization for quadrotors with Gaussian processes",
+    "authors": [
+      "Felix Berkenkamp",
+      "Angela P. Schoellig",
+      "Andreas Krause"
+    ],
+    "publication_date": "2015-09-03",
+    "venue": "IEEE International Conference on Robotics and Automation",
+    "semantic_scholar_id": "f0f8caf3dcf23ad60df6c9828700ddefe0f25507",
+    "corpus_id": 7909124,
+    "category": "Computer Science"
+  },
+  "1112-1217": {
+    "title": "Entropy Search for Information-Efficient Global Optimization",
+    "authors": [
+      "Philipp Hennig",
+      "Christian J. Schuler"
+    ],
+    "publication_date": "2011-12-06",
+    "venue": "Journal of machine learning research",
+    "semantic_scholar_id": "510ebe952f10eb5401f65fe5e31aee5bfa72322d",
+    "corpus_id": 166832,
+    "category": "Mathematics, Computer Science"
+  }
+}

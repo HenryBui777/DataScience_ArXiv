@@ -1,0 +1,15 @@
+{
+  "title": "A Deep Learning Approach to Predict the Fall [of Price] of Cryptocurrency Long Before its Actual Fall",
+  "authors": [
+    "Anika Tahsin Meem"
+  ],
+  "summary": "In modern times, the cryptocurrency market is one of the world's most rapidly rising financial markets. The cryptocurrency market is regarded to be more volatile and illiquid than traditional markets such as equities, foreign exchange, and commodities. The risk of this market creates an uncertain condition among the investors. The purpose of this research is to predict the magnitude of the risk factor of the cryptocurrency market. Risk factor is also called volatility. Our approach will assist people who invest in the cryptocurrency market by overcoming the problems and difficulties they experience. Our approach starts with calculating the risk factor of the cryptocurrency market from the existing parameters. In twenty elements of the cryptocurrency market, the risk factor has been predicted using different machine learning algorithms such as CNN, LSTM, BiLSTM, and GRU. All of the models have been applied to the calculated risk factor parameter. A new model has been developed to predict better than the existing models. Our proposed model gives the highest RMSE value of 1.3229 and the lowest RMSE value of 0.0089. Following our model, it will be easier for investors to trade in complicated and challenging financial assets like bitcoin, Ethereum, dogecoin, etc. Where the other existing models, the highest RMSE was 14.5092, and the lower was 0.02769. So, the proposed model performs much better than models with proper generalization. Using our approach, it will be easier for investors to trade in complicated and challenging financial assets like Bitcoin, Ethereum, and Dogecoin.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-25",
+    "2024-11-30"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-fin.ST, cs.CV, cs.LG"
+}

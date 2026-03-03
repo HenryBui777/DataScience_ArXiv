@@ -1,0 +1,16 @@
+{
+  "title": "Efficient and Physically-Consistent Modeling of Reconfigurable Electromagnetic Structures",
+  "authors": [
+    "Alexander Stutz-Tirri",
+    "Georg Schwan",
+    "Christoph Studer"
+  ],
+  "summary": "Reconfigurable electromagnetic structures (REMSs), such as reconfigurable reflectarrays (RRAs) or reconfigurable intelligent surfaces (RISs), hold significant potential to improve wireless communication and sensing systems. Even though several REMS modeling approaches have been proposed in recent years, the literature lacks models that are both computationally efficient and physically consistent. As a result, algorithms that control the reconfigurable elements of REMSs (e.g., the phase shifts of an RIS) are often built on simplistic models that are inaccurate. To enable physically accurate REMS-parameter tuning, we present a new framework for efficient and physically consistent modeling of general REMSs. Our modeling method combines a circuit-theoretic approach with a new formalism that describes a REMS's interaction with the electromagnetic (EM) waves in its far-field region. Our modeling method enables efficient computation of the entire far-field radiation pattern for arbitrary configurations of the REMS reconfigurable elements once a single full-wave EM simulation of the non-reconfigurable parts of the REMS has been performed. The predictions made by the proposed framework align with the physical laws of classical electrodynamics and model effects caused by inter-antenna coupling, non-reciprocal materials, polarization, ohmic losses, matching losses, influence of metallic housings, noise from low-noise amplifiers, and noise arising in or received by antennas. In order to validate the efficiency and accuracy of our modeling approach, we (i) compare our modeling method to EM simulations and (ii) conduct a case study involving a planar RRA that enables simultaneous multiuser beam- and null-forming using a new, computationally efficient, and physically accurate parameter tuning algorithm.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-23"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP, cs.IT"
+}

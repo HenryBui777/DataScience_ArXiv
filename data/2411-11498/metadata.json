@@ -1,0 +1,12 @@
+{
+  "title": "Efficient smoothness selection for nonparametric Markov-switching models via quasi restricted maximum likelihood",
+  "authors": [
+    "Jan-Ole Koslik"
+  ],
+  "summary": "Markov-switching models are powerful tools that allow capturing complex patterns from time series data driven by latent states. Recent work has highlighted the benefits of estimating components of these models nonparametrically, enhancing their flexibility and reducing biases, which in turn can improve state decoding, forecasting, and overall inference. Formulating such models using penalized splines is straightforward, but practically feasible methods for a data-driven smoothness selection in these models are still lacking. Traditional techniques, such as cross-validation and information criteria-based selection suffer from major drawbacks, most importantly their reliance on computationally expensive grid search methods, hampering practical usability for Markov-switching models. Michelot (2022) suggested treating spline coefficients as random effects with a multivariate normal distribution and using the R package TMB (Kristensen et al., 2016) for marginal likelihood maximization. While this method avoids grid search and typically results in adequate smoothness selection, it entails a nested optimization problem, thus being computationally demanding. We propose to exploit the simple structure of penalized splines treated as random effects, thereby greatly reducing the computational burden while potentially improving fixed effects parameter estimation accuracy. Our proposed method offers a reliable and efficient mechanism for smoothness selection, rendering the estimation of Markov-switching models involving penalized splines feasible for complex data structures.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME, stat.CO"
+}

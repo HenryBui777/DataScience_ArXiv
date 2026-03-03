@@ -1,0 +1,12 @@
+{
+  "title": "Occupation Uncertainty Relations",
+  "authors": [
+    "Katarzyna Macieszczak"
+  ],
+  "summary": "We introduce occupation uncertainty relations (OURs) for dynamics of a Markov process over discrete configurations. Those are lower bounds on uncertainties of system observables that are time-integrated along stochastic trajectories. The uncertainty is defined as the ratio of the variance to the square of the average, with the latter necessarily shifted by the average in a reference distribution. The derived bounds are observable independent, but rely on the reference choice. We show, however, that all OURs originate from a matrix bound on correlations between times spent in different system configurations, i.e., occupation times. This result is reference independent, and expressed only in terms of stationary probability and lifetimes of individual configurations. Any dynamics that saturates the matrix bound, is optimal in approximating stationary distribution by occupation times; this always occurs for unidirectional cycles. Furthermore, using this bound, dynamic correlations can be asymptotically bounded in terms of static correlations, in turn leading to the positivity of dynamic exponents in the thermodynamic limit. While at a finite size the matrix bound generally saturates away from equilibrium, we demonstrate detailed-balance dynamics can still saturate it asymptotically, by leading to vanishing dynamic exponents and optimal simulations in that context.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cond-mat.stat-mech, physics.comp-ph"
+}

@@ -1,0 +1,24 @@
+{
+  "title": "Physically Interpretable Probabilistic Domain Characterization",
+  "authors": [
+    "Anaïs Halin",
+    "Sébastien Piérard",
+    "Renaud Vandeghen",
+    "Benoît Gérin",
+    "Maxime Zanella",
+    "Martin Colot",
+    "Jan Held",
+    "Anthony Cioppa",
+    "Emmanuel Jean",
+    "Gianluca Bontempi",
+    "Saïd Mahmoudi",
+    "Benoît Macq",
+    "Marc Van Droogenbroeck"
+  ],
+  "summary": "Characterizing domains is essential for models analyzing dynamic environments, as it allows them to adapt to evolving conditions or to hand the task over to backup systems when facing conditions outside their operational domain. Existing solutions typically characterize a domain by solving a regression or classification problem, which limits their applicability as they only provide a limited summarized description of the domain. In this paper, we present a novel approach to domain characterization by characterizing domains as probability distributions. Particularly, we develop a method to predict the likelihood of different weather conditions from images captured by vehicle-mounted cameras by estimating distributions of physical parameters using normalizing flows. To validate our proposed approach, we conduct experiments within the context of autonomous vehicles, focusing on predicting the distribution of weather parameters to characterize the operational domain. This domain is characterized by physical parameters (absolute characterization) and arbitrarily predefined domains (relative characterization). Finally, we evaluate whether a system can safely operate in a target domain by comparing it to multiple source domains where safety has already been established. This approach holds significant potential, as accurate weather prediction and effective domain adaptation are crucial for autonomous systems to adjust to dynamic environmental conditions.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI, cs.LG, eess.IV"
+}

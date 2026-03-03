@@ -1,0 +1,15 @@
+{
+  "title": "GenAI Assistance for Deep Reinforcement Learning-based VNF Placement and SFC Provisioning in 5G Cores",
+  "authors": [
+    "Murat Arda Onsu",
+    "Poonam Lohan",
+    "Burak Kantarci",
+    "Emil Janulewicz"
+  ],
+  "summary": "Virtualization technology, Network Function Virtualization (NFV), gives flexibility to communication and 5G core network technologies for dynamic and efficient resource allocation while reducing the cost and dependability of the physical infrastructure. In the NFV context, Service Function Chain (SFC) refers to the ordered arrangement of various Virtual Network Functions (VNFs). To provide an automated SFC provisioning algorithm that satisfies high demands of SFC requests having ultra-reliable and low latency communication (URLLC) requirements, in the literature, Artificial Intelligence (AI) modules and Deep Reinforcement Learning (DRL) algorithms are investigated in detail. This research proposes a generative Variational Autoencoder (VAE) assisted advanced-DRL module for handling SFC requests in a dynamic environment where network configurations and request amounts can be changed. Using the hybrid approach, including generative VAE and DRL, the algorithm leverages several advantages, such as dimensionality reduction, better generalization on the VAE side, exploration, and trial-error learning from the DRL model. Results show that GenAI-assisted DRL surpasses the state-of-the-art model of DRL in SFC provisioning in terms of SFC acceptance ratio, E2E delay, and throughput maximization.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.NI"
+}

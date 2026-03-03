@@ -1,0 +1,14 @@
+{
+  "title": "Analysis of Higher Education Dropouts Dynamics through Multilevel Functional Decomposition of Recurrent Events in Counting Processes",
+  "authors": [
+    "Alessandra Ragni",
+    "Chiara Masci",
+    "Anna Maria Paganoni"
+  ],
+  "summary": "This paper analyzes the dynamics of higher education dropouts through an innovative approach that integrates recurrent events modeling and point process theory with functional data analysis. We propose a novel methodology that extends existing frameworks to accommodate hierarchical data structures, demonstrating its potential through a simulation study. Using administrative data from student careers at Politecnico di Milano, we explore dropout patterns during the first year across different bachelor's degree programs and schools. Specifically, we employ Cox-based recurrent event models, treating dropouts as repeated occurrences within both programs and schools. Additionally, we apply functional modeling of recurrent events and multilevel principal component analysis to disentangle latent effects associated with degree programs and schools, identifying critical periods of dropout risk and providing valuable insights for institutions seeking to implement strategies aimed at reducing dropout rates.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.AP"
+}

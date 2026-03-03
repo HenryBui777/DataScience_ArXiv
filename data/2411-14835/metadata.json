@@ -1,0 +1,16 @@
+{
+  "title": "Line graphs with the largest eigenvalue multiplicity",
+  "authors": [
+    "Wenhao Zhen",
+    "Dein Wong",
+    "Songnian Xu"
+  ],
+  "summary": "For a connected graph $G$, we denote by $L(G)$, $m_{G}(λ)$, $c(G)$ and $p(G)$ the line graph of $G$, the eigenvalue multiplicity of $λ$ in $G$, the cyclomatic number and the number of pendant vertices in $G$, respectively. In 2023, Yang et al. \\cite{WL LT} proved that $m_{L(T)}(λ)\\leq p(T)-1$ for any tree $T$ with $p(T)\\geq 3$, and characterized all trees $T$ with $m_{L(T)}(λ) = p(T)-1$. In 2024, Chang et al. \\cite{-1 LG} proved that, if $G$ is not a cycle, then $m_{L(G)}(λ)\\leq 2c(G)+p(G)-1$, and characterized all graphs $G$ with $m_{L(G)}(-1) = 2c(G)+p(G)-1$. The remaining ploblem is to characterize all graphs $G$ with $m_{L(G)}(λ)= 2c(G)+p(G)-1$ for an arbitrary eigenvalue $λ$ of $L(G)$. In this paper, we give this problem a complete solution.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-12-21"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.SP"
+}

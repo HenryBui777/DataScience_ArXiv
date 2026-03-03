@@ -1,0 +1,23 @@
+{
+  "title": "Schemato -- An LLM for Netlist-to-Schematic Conversion",
+  "authors": [
+    "Ryoga Matsuo",
+    "Stefan Uhlich",
+    "Arun Venkitaraman",
+    "Andrea Bonetti",
+    "Chia-Yu Hsieh",
+    "Ali Momeni",
+    "Lukas Mauch",
+    "Augusto Capone",
+    "Eisaku Ohbuchi",
+    "Lorenzo Servadei"
+  ],
+  "summary": "Machine learning models are advancing circuit design, particularly in analog circuits. They typically generate netlists that lack human interpretability. This is a problem as human designers heavily rely on the interpretability of circuit diagrams or schematics to intuitively understand, troubleshoot, and develop designs. Hence, to integrate domain knowledge effectively, it is crucial to translate ML-generated netlists into interpretable schematics quickly and accurately. We propose Schemato, a large language model (LLM) for netlist-to-schematic conversion. In particular, we consider our approach in converting netlists to .asc files, text-based schematic description used in LTSpice. Experiments on our circuit dataset show that Schemato achieves up to 76% compilation success rate, surpassing 63% scored by the state-of-the-art LLMs. Furthermore, our experiments show that Schemato generates schematics with an average graph edit distance score and mean structural similarity index measure, scaled by the compilation success rate that are 1.8x and 4.3x higher than the best performing LLMs respectively, demonstrating its ability to generate schematics that are more accurately connected and are closer to the reference human design.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-06-02"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AR"
+}

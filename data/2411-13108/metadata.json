@@ -1,0 +1,19 @@
+{
+  "title": "Demonstrating the Suitability of Neuromorphic, Event-Based, Dynamic Vision Sensors for In Process Monitoring of Metallic Additive Manufacturing and Welding",
+  "authors": [
+    "David Mascareñas",
+    "Andre Green",
+    "Ashlee Liao",
+    "Michael Torrez",
+    "Alessandro Cattaneo",
+    "Amber Black",
+    "John Bernardin",
+    "Garrett Kenyon"
+  ],
+  "summary": "We demonstrate the suitability of high dynamic range, high-speed, neuromorphic event-based, dynamic vision sensors for metallic additive manufacturing and welding for in-process monitoring applications. In-process monitoring to enable quality control of mission critical components produced using metallic additive manufacturing is of high interest. However, the extreme light environment and high speed dynamics of metallic melt pools have made this a difficult environment in which to make measurements. Event-based sensing is an alternative measurement paradigm where data is only transmitted/recorded when a measured quantity exceeds a threshold resolution. The result is that event-based sensors consume less power and less memory/bandwidth, and they operate across a wide range of timescales and dynamic ranges. Event-driven driven imagers stand out from conventional imager technology in that they have a very high dynamic range of approximately 120 dB. Conventional 8 bit imagers only have a dynamic range of about 48 dB. This high dynamic range makes them a good candidate for monitoring manufacturing processes that feature high intensity light sources/generation such as metallic additive manufacturing and welding. In addition event based imagers are able to capture data at timescales on the order of 100 μs, which makes them attractive to capturing fast dynamics in a metallic melt pool. In this work we demonstrate that event-driven imagers have been shown to be able to observe tungsten inert gas (TIG) and laser welding melt pools. The results of this effort suggest that with additional engineering effort, neuromorphic event imagers should be capable of 3D geometry measurements of the melt pool, and anomaly detection/classification/prediction.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "International Modal Analysis Conference, Orlando, FL, 2024",
+  "pdf_url": null,
+  "category": "eess.IV, cs.CV"
+}

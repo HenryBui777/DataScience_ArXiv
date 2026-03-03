@@ -1,0 +1,15 @@
+{
+  "title": "Learning based Ge'ez character handwritten recognition",
+  "authors": [
+    "Hailemicael Lulseged Yimer",
+    "Hailegabriel Dereje Degefa",
+    "Marco Cristani",
+    "Federico Cunico"
+  ],
+  "summary": "Ge'ez, an ancient Ethiopic script of cultural and historical significance, has been largely neglected in handwriting recognition research, hindering the digitization of valuable manuscripts. Our study addresses this gap by developing a state-of-the-art Ge'ez handwriting recognition system using Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTM) networks. Our approach uses a two-stage recognition process. First, a CNN is trained to recognize individual characters, which then acts as a feature extractor for an LSTM-based system for word recognition. Our dual-stage recognition approach achieves new top scores in Ge'ez handwriting recognition, outperforming eight state-of-the-art methods, which are SVTR, ASTER, and others as well as human performance, as measured in the HHD-Ethiopic dataset work. This research significantly advances the preservation and accessibility of Ge'ez cultural heritage, with implications for historical document digitization, educational tools, and cultural preservation. The code will be released upon acceptance.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

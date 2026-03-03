@@ -1,0 +1,16 @@
+{
+  "title": "Stabilizer disentangling of conformal field theories",
+  "authors": [
+    "Martina Frau",
+    "Poetri Sonya Tarabunga",
+    "Mario Collura",
+    "Emanuele Tirrito",
+    "Marcello Dalmonte"
+  ],
+  "summary": "Understanding how entanglement can be reduced through simple operations is crucial for both classical and quantum algorithms. We investigate the entanglement properties of lattice models hosting conformal field theories cooled via local Clifford operations, a procedure we refer to as stabilizer disentangling. We uncover two distinct regimes: a constant gain regime, where disentangling is volume-independent, and a log-gain regime, where disentanglement increases with volume, characterized by a reduced effective central charge. In both cases, disentangling efficiency correlates with the target state magic, with larger magic leading to more effective cooling. The dichotomy between the two cases stems from mutual stabilizer Renyi entropy, which influences the entanglement cooling process. We provide an analytical understanding of such effect in the context of cluster Ising models, that feature disentangling global Clifford operations. Our findings indicate that matrix product states possess subclasses based on the relationship between entanglement and magic, and clarifying the potential of new classes of variational states embedding Clifford dynamics within matrix product states.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "SciPost Phys. 19, 085 (2025)",
+  "pdf_url": null,
+  "category": "quant-ph, cond-mat.str-el"
+}

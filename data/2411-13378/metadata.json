@@ -1,0 +1,20 @@
+{
+  "title": "Quantum-Brain: Quantum-Inspired Neural Network Approach to Vision-Brain Understanding",
+  "authors": [
+    "Hoang-Quan Nguyen",
+    "Xuan-Bac Nguyen",
+    "Hugh Churchill",
+    "Arabinda Kumar Choudhary",
+    "Pawan Sinha",
+    "Samee U. Khan",
+    "Khoa Luu"
+  ],
+  "summary": "Vision-brain understanding aims to extract semantic information about brain signals from human perceptions. Existing deep learning methods for vision-brain understanding are usually introduced in a traditional learning paradigm missing the ability to learn the connectivities between brain regions. Meanwhile, the quantum computing theory offers a new paradigm for designing deep learning models. Motivated by the connectivities in the brain signals and the entanglement properties in quantum computing, we propose a novel Quantum-Brain approach, a quantum-inspired neural network, to tackle the vision-brain understanding problem. To compute the connectivity between areas in brain signals, we introduce a new Quantum-Inspired Voxel-Controlling module to learn the impact of a brain voxel on others represented in the Hilbert space. To effectively learn connectivity, a novel Phase-Shifting module is presented to calibrate the value of the brain signals. Finally, we introduce a new Measurement-like Projection module to present the connectivity information from the Hilbert space into the feature space. The proposed approach can learn to find the connectivities between fMRI voxels and enhance the semantic information obtained from human perceptions. Our experimental results on the Natural Scene Dataset benchmarks illustrate the effectiveness of the proposed method with Top-1 accuracies of 95.1% and 95.6% on image and brain retrieval tasks and an Inception score of 95.3% on fMRI-to-image reconstruction task. Our proposed quantum-inspired network brings a potential paradigm to solving the vision-brain problems via the quantum computing theory.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-08-14"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

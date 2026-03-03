@@ -1,0 +1,14 @@
+{
+  "title": "Suppressing Si Valley Excitation and Valley-Induced Spin Dephasing for Long-Distance Shuttling",
+  "authors": [
+    "Yasuo Oda",
+    "Merritt P. Losert",
+    "Jason P. Kestner"
+  ],
+  "summary": "We present a scalable protocol for suppressing errors during electron spin shuttling in silicon quantum dots. The approach maps the valley Hamiltonian to a Landau-Zener problem to model the nonadiabatic dynamics in regions of small valley splitting. An optimization refines the shuttling velocity profile over a single small segment of the shuttling path. The protocol reliably returns the valley state to the ground state at the end of the shuttle, disentangling the spin and valley degrees of freedom, after which a single virtual $z$-rotation on the spin compensates its evolution during the shuttle. The time cost and complexity of the error suppression is minimal and independent of the distance over which the spin is shuttled, and the maximum velocities imposed by valley physics are found to be orders of magnitude larger than current experimentally achievable shuttling speeds. This protocol offers a chip-scale solution for high-fidelity quantum transport in silicon spin-based quantum computing devices.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cond-mat.mes-hall, quant-ph"
+}

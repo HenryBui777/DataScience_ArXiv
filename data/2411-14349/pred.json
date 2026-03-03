@@ -1,0 +1,339 @@
+{
+  "partition": "train",
+  "groundtruth": {
+    "AwasthiTV-ICLR23-ReLUGD": "2208-02711",
+    "ChenM-COLT20-FilteredPCA": "2004-13748",
+    "DiakonikolasKPZ-COLT21-OptimalityOfPolyRegression": "2102-04401",
+    "Tian17-learning-unbiased-relu-under-gaussian-using-gradient-1": "1703-00560",
+    "GoelKK19-relu-hardness-1": "1911-01462",
+    "GoelGK20-relu-hardness-3": "2006-15812",
+    "FreiCG20-agnostic-learning-unbiased-relu-OPT2/3": "2005-14426",
+    "DiakonikolasGKK20-agnostic-learning-unbiased-relu-constant-convex-surrogate": "2005-12844",
+    "DiakonikolasKTZ22-agnostic-learning-unbiased-activations-GD": "2206-08918",
+    "WangZDD23-agnostic-learning-unbiased-activations-constant-SGD-convex-surrogate": "2306-07892",
+    "DiakonikolasKKT22-biased-halfspace-general-Massart": "2108-08767",
+    "DiakonikolasKS18a-biased-halfspace-nasty-noise": "1707-01242",
+    "GoelGJKK20-CSQ-hardness-learning-one-layer-NN": "2006-12011",
+    "FeldmanGRVX13-planted-clique-CSQ-hardness-framework": "1201-1214",
+    "AwasthiTV21-learning-depth-2-NN": "2107-10209",
+    "chen2020learning": "2009-13512",
+    "KianiLLJ024-SQCSQ-separation-2": "2401-01869",
+    "DamianLS22-CSQ-hardness-polynomial-of-one-dimension": "2206-15144",
+    "KakadeKKS11-single-index-early": "1104-2018",
+    "DiakonikolasKKT21-agnostic-proper-learning": "2102-05629",
+    "WangZDD2024-agnostic-gaussian-SIM": "2411-05708",
+    "DiakonikolasKR23-cryptographic-hardness-Gaussian-ReLU": "2302-06512",
+    "ZarifisWDD24-SIM-agnostic-2nd": "2402-17756",
+    "GollakotaGKS23-SIM-agnostic-1st": "2306-10615"
+  },
+  "prediction": {
+    "book:small2010expansions": [
+      "1901-06587",
+      "1004-4389",
+      "2005-12844",
+      "2004-13748",
+      "2401-01869"
+    ],
+    "AwasthiTV-ICLR23-ReLUGD": [
+      "2208-02711",
+      "2107-10209",
+      "2005-14426",
+      "1201-1214",
+      "2306-07892"
+    ],
+    "ChenM-COLT20-FilteredPCA": [
+      "2004-13748",
+      "2009-13512",
+      "2306-07892",
+      "2005-14426",
+      "1901-06587"
+    ],
+    "DiakonikolasKPZ-COLT21-OptimalityOfPolyRegression": [
+      "2102-04401",
+      "2006-16200",
+      "2302-06512",
+      "2206-08918",
+      "2005-12844"
+    ],
+    "KalaiKMS05-L1-poly-regression": [
+      "2005-12844",
+      "2006-15812",
+      "2006-12011",
+      "1911-01462",
+      "2009-13512"
+    ],
+    "Tian17-learning-unbiased-relu-under-gaussian-using-gradient-1": [
+      "1703-00560",
+      "2302-06512",
+      "1707-01242",
+      "1705-04591",
+      "2108-08767"
+    ],
+    "Soltanolkotabi17-learning-unbiased-relu-under-gaussina-using-gradient-2": [
+      "1705-04591",
+      "2005-12844",
+      "math/0702683",
+      "1707-01242",
+      "1901-06587"
+    ],
+    "KalanSA19-learning-unbiased-relu-under-gaussina-using-gradient-3": [
+      "1901-06587",
+      "1911-01462",
+      "1104-2018",
+      "1004-4389",
+      "math/0702683"
+    ],
+    "GoelKK19-relu-hardness-1": [
+      "1911-01462",
+      "2006-15812",
+      "2306-10615",
+      "2006-12011",
+      "2009-13512"
+    ],
+    "DiakonikolasKZ20-relu-hardness-2": [
+      "2006-12476",
+      "2102-04401",
+      "2006-16200",
+      "2005-12844",
+      "2302-06512"
+    ],
+    "GoelGK20-relu-hardness-3": [
+      "2006-15812",
+      "1911-01462",
+      "2009-13512",
+      "2005-12844",
+      "2006-12011"
+    ],
+    "Kearns93-SQ-model": [
+      "2009-13512",
+      "2005-14426",
+      "2208-02711",
+      "2206-15144",
+      "2006-15812"
+    ],
+    "DiakonikolasKMR22-hard-to-constnat-approximate-relu-distribution-free": [
+      "2206-08918",
+      "2102-05629",
+      "2307-08438",
+      "2108-08767",
+      "2302-06512"
+    ],
+    "FreiCG20-agnostic-learning-unbiased-relu-OPT2/3": [
+      "2005-14426",
+      "2206-08918",
+      "2306-07892",
+      "2208-02711",
+      "2005-12844"
+    ],
+    "DiakonikolasGKK20-agnostic-learning-unbiased-relu-constant-convex-surrogate": [
+      "2005-12844",
+      "2009-13512",
+      "2306-07892",
+      "2006-12476",
+      "1707-01242"
+    ],
+    "DiakonikolasKTZ22-agnostic-learning-unbiased-activations-GD": [
+      "2206-08918",
+      "2108-08767",
+      "2102-05629",
+      "2006-12476",
+      "2102-04401"
+    ],
+    "WangZDD23-agnostic-learning-unbiased-activations-constant-SGD-convex-surrogate": [
+      "2306-07892",
+      "2402-17756",
+      "2005-12844",
+      "2302-06512",
+      "1707-01242"
+    ],
+    "DiakonikolasDKW23-biased-halfspace-RCN": [
+      "2307-08438",
+      "2006-16200",
+      "2206-08918",
+      "2302-06512",
+      "2102-04401"
+    ],
+    "DiakonikolasKKT22-biased-halfspace-general-Massart": [
+      "2108-08767",
+      "2102-05629",
+      "2206-08918",
+      "2006-12476",
+      "2102-04401"
+    ],
+    "DiakonikolasKS18a-biased-halfspace-nasty-noise": [
+      "1707-01242",
+      "2005-12844",
+      "2206-08918",
+      "2102-04401",
+      "2006-12476"
+    ],
+    "DiakonikolasKLZ24-testable-learning-biased-halfspace": [
+      "2006-16200",
+      "2206-08918",
+      "2102-05629",
+      "2005-12844",
+      "2108-08767"
+    ],
+    "DiakonikolasKS17-SQLB-high-dim-Gaussian-Mixture": [
+      "1707-01242",
+      "2102-04401",
+      "2006-12476",
+      "2108-08767",
+      "2006-16200"
+    ],
+    "GoelGJKK20-CSQ-hardness-learning-one-layer-NN": [
+      "2006-12011",
+      "1911-01462",
+      "2306-10615",
+      "2009-13512",
+      "2006-15812"
+    ],
+    "Massart06": [
+      "math/0702683",
+      "1705-04591",
+      "1901-06587",
+      "1707-01242",
+      "2306-07892"
+    ],
+    "FeldmanGRVX13-planted-clique-CSQ-hardness-framework": [
+      "1201-1214",
+      "2208-02711",
+      "2206-15144",
+      "2411-05708",
+      "2403-05529"
+    ],
+    "AwasthiTV21-learning-depth-2-NN": [
+      "2107-10209",
+      "2208-02711",
+      "2102-05629",
+      "1104-2018",
+      "2108-08767"
+    ],
+    "Tropp12-matrix-concentration-ineq": [
+      "1004-4389",
+      "2006-15812",
+      "1901-06587",
+      "2206-15144",
+      "2009-13512"
+    ],
+    "Marshall60-multivariate-chebyshev": [
+      "1705-04591",
+      "1901-06587",
+      "1707-01242",
+      "2306-07892",
+      "2401-01869"
+    ],
+    "goel2019learning": [
+      "2006-15812",
+      "1911-01462",
+      "2009-13512",
+      "2306-10615",
+      "2006-12011"
+    ],
+    "chen2020learning": [
+      "2009-13512",
+      "2004-13748",
+      "2306-10615",
+      "2006-15812",
+      "1911-01462"
+    ],
+    "kalai2009isotron": [
+      "2009-13512",
+      "2006-15812",
+      "1911-01462",
+      "1104-2018",
+      "2005-14426"
+    ],
+    "kakade2011efficient": [
+      "1104-2018",
+      "2411-05708",
+      "2005-12844",
+      "2307-08438",
+      "2108-08767"
+    ],
+    "AndoniPV014-SQCSQ-separation-1": [
+      "2401-01869",
+      "math/0702683",
+      "1705-04591",
+      "2005-12844",
+      "1901-06587"
+    ],
+    "KianiLLJ024-SQCSQ-separation-2": [
+      "2401-01869",
+      "2403-05529",
+      "2402-17756",
+      "2306-07892",
+      "1004-4389"
+    ],
+    "DiakonikolasKKZ20-CSQ-bound-depth2-NN": [
+      "2006-12476",
+      "2108-08767",
+      "2102-05629",
+      "2206-08918",
+      "2006-16200"
+    ],
+    "DamianLS22-CSQ-hardness-polynomial-of-one-dimension": [
+      "2206-15144",
+      "2403-05529",
+      "2302-06512",
+      "2006-16200",
+      "2102-05629"
+    ],
+    "DamianPLB24-single-index-optimal-SQ-lower-bound": [
+      "2403-05529",
+      "2107-10209",
+      "2206-15144",
+      "2208-02711",
+      "2402-17756"
+    ],
+    "KakadeKKS11-single-index-early": [
+      "1104-2018",
+      "2411-05708",
+      "2005-12844",
+      "2307-08438",
+      "2108-08767"
+    ],
+    "DiakonikolasKKT21-agnostic-proper-learning": [
+      "2102-05629",
+      "2108-08767",
+      "2206-08918",
+      "2006-12476",
+      "2102-04401"
+    ],
+    "KearnsSS94-agnostic-learning": [
+      "1705-04591",
+      "1004-4389",
+      "math/0702683",
+      "2401-01869",
+      "2005-12844"
+    ],
+    "WangZDD2024-agnostic-gaussian-SIM": [
+      "2411-05708",
+      "2402-17756",
+      "2302-06512",
+      "2108-08767",
+      "2102-05629"
+    ],
+    "DiakonikolasKR23-cryptographic-hardness-Gaussian-ReLU": [
+      "2302-06512",
+      "2006-16200",
+      "2102-04401",
+      "2006-12476",
+      "2307-08438"
+    ],
+    "ZarifisWDD24-SIM-agnostic-2nd": [
+      "2402-17756",
+      "2306-07892",
+      "2411-05708",
+      "2005-12844",
+      "2102-05629"
+    ],
+    "GollakotaGKS23-SIM-agnostic-1st": [
+      "2306-10615",
+      "2009-13512",
+      "1911-01462",
+      "2005-12844",
+      "2006-12011"
+    ]
+  }
+}

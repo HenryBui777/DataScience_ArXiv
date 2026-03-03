@@ -1,0 +1,22 @@
+{
+  "title": "Semiparametric quantile functional regression analysis of adolescent physical activity distributions in the presence of missing data",
+  "authors": [
+    "Benny Ren",
+    "Ian Barnett",
+    "Haochang Shou",
+    "Jeremy Rubin",
+    "Hongxiao Zhu",
+    "Terry Conway",
+    "Kelli Cain",
+    "Brian Saelens",
+    "Karen Glanz",
+    "James Sallis",
+    "Jeffrey S. Morris"
+  ],
+  "summary": "In the age of digital healthcare, passively collected physical activity profiles from wearable sensors are a preeminent tool for evaluating health outcomes. In order to fully leverage the vast amounts of data collected through wearable accelerometers, we propose to use quantile functional regression to model activity profiles as distributional outcomes through quantile responses, which can be used to evaluate activity level differences across covariates based on any desired distributional summary. Our proposed framework addresses two key problems not handled in existing distributional regression literature. First, we use spline mixed model formulations in the basis space to model nonparametric effects of continuous predictors on the distributional response. Second, we address the underlying missingness problem that is common in these types of wearable data but typically not addressed. We show that the missingness can induce bias in the subject-specific distributional summaries that leads to biased distributional regression estimates and even bias the frequently used scalar summary measures, and introduce a nonparametric function-on-function modeling approach that adjusts for each subject's missingness profile to address this problem. We evaluate our nonparametric modeling and missing data adjustment using simulation studies based on realistically simulated activity profiles and use it to gain insights into adolescent activity profiles from the Teen Environment and Neighborhood study.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME, stat.AP"
+}

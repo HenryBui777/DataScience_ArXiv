@@ -1,0 +1,724 @@
+{
+  "2410-02057": {
+    "title": "Stochastic Deep Restoration Priors for Imaging Inverse Problems",
+    "authors": [
+      "Yuyang Hu",
+      "Albert Peng",
+      "Weijie Gan",
+      "P. Milanfar",
+      "M. Delbracio",
+      "U. Kamilov"
+    ],
+    "publication_date": "2024-10-02",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "32ca73cf8a138e473f37879abf73e039e30362d7",
+    "corpus_id": 273098275,
+    "category": "Engineering"
+  },
+  "2409-06219": {
+    "title": "Denoising: a powerful building block for imaging, inverse problems and machine learning",
+    "authors": [
+      "P. Milanfar",
+      "M. Delbracio"
+    ],
+    "publication_date": "2024-09-10",
+    "venue": "Philosophical transactions. Series A, Mathematical, physical, and engineering sciences",
+    "semantic_scholar_id": "0443b742ee2a33a178d1c2d2068e84201a678105",
+    "corpus_id": 272550819,
+    "category": "Computer Science, Engineering, Medicine"
+  },
+  "2409-01985": {
+    "title": "UNSURE: self-supervised learning with Unknown Noise level and Stein's Unbiased Risk Estimate",
+    "authors": [
+      "Julián Tachella",
+      "Mike Davies",
+      "Laurent Jacques"
+    ],
+    "publication_date": "2024-09-03",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "41bb687d01e2b56b57a0f16f2c7ae34a824e7a5b",
+    "corpus_id": 272366786,
+    "category": "Computer Science, Mathematics, Engineering"
+  },
+  "2404-02382": {
+    "title": "Imaging transformer for MRI denoising with the SNR unit training: enabling generalization across field-strengths, imaging contrasts, and anatomy",
+    "authors": [
+      "Hui Xue",
+      "Sarah M. Hooper",
+      "Azaan Rehman",
+      "Iain Pierce",
+      "T. Treibel",
+      "R. Davies",
+      "P. Bandettini",
+      "R. Ramasawmy",
+      "A. Javed",
+      "Zheren Zhu",
+      "Yang Yang",
+      "James C. Moon",
+      "Adrienne Campbell",
+      "Peter Kellman"
+    ],
+    "publication_date": "2024-04-03",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "e562e3736741ded49d234e6be0b64a5028adfc56",
+    "corpus_id": 268875977,
+    "category": "Engineering"
+  },
+  "2404-10177": {
+    "title": "Consistent Diffusion Meets Tweedie: Training Exact Ambient Diffusion Models with Noisy Data",
+    "authors": [
+      "G. Daras",
+      "Alexandros G. Dimakis",
+      "Constantinos Daskalakis"
+    ],
+    "publication_date": "2024-03-20",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "f7b4211d53a05737b5efc161da69c78e2e7b8850",
+    "corpus_id": 269157394,
+    "category": "Computer Science"
+  },
+  "2403-08728": {
+    "title": "Ambient Diffusion Posterior Sampling: Solving Inverse Problems with Diffusion Models trained on Corrupted Data",
+    "authors": [
+      "Asad Aali",
+      "G. Daras",
+      "Brett Levac",
+      "Sidharth Kumar",
+      "Alexandros G. Dimakis",
+      "Jonathan I. Tamir"
+    ],
+    "publication_date": "2024-03-13",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "4b5665e71affef68cd0e0bc08ddb28245fe1012b",
+    "corpus_id": 268379382,
+    "category": "Computer Science"
+  },
+  "2311-11383": {
+    "title": "A Survey of Emerging Applications of Diffusion Probabilistic Models in MRI",
+    "authors": [
+      "Yuheng Fan",
+      "Hanxi Liao",
+      "Shiqi Huang",
+      "Yimin Luo",
+      "Huazhu Fu",
+      "Haikun Qi"
+    ],
+    "publication_date": "2023-11-19",
+    "venue": "Meta-Radiology",
+    "semantic_scholar_id": "c3d29052af038b1bbd1492491f34a853133096cf",
+    "corpus_id": 265295505,
+    "category": "Computer Science"
+  },
+  "2305-19256": {
+    "title": "Ambient Diffusion: Learning Clean Distributions from Corrupted Data",
+    "authors": [
+      "G. Daras",
+      "Kulin Shah",
+      "Y. Dagan",
+      "Aravind Gollakota",
+      "A. Dimakis",
+      "Adam R. Klivans"
+    ],
+    "publication_date": "2023-05-30",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "fdc04fe7c4a3fb4038d1bbd5f4e2fdf2599566e3",
+    "corpus_id": 258967610,
+    "category": "Computer Science, Mathematics"
+  },
+  "2305-01166": {
+    "title": "Solving Inverse Problems with Score-Based Generative Priors learned from Noisy Data",
+    "authors": [
+      "Asad Aali",
+      "Marius Arvinte",
+      "Sidharth Kumar",
+      "Jonathan I. Tamir"
+    ],
+    "publication_date": "2023-05-02",
+    "venue": "Asilomar Conference on Signals, Systems and Computers",
+    "semantic_scholar_id": "b18e880d09c27c3e7026e21a8bca8b29f40f1cf5",
+    "corpus_id": 258437173,
+    "category": "Computer Science, Engineering"
+  },
+  "2304-11751": {
+    "title": "Score-Based Diffusion Models as Principled Priors for Inverse Imaging",
+    "authors": [
+      "Berthy T. Feng",
+      "Jamie Smith",
+      "Michael Rubinstein",
+      "Huiwen Chang",
+      "K. Bouman",
+      "W. T. Freeman"
+    ],
+    "publication_date": "2023-04-23",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "7ec215b728f3988f8d48ebf065fb746835460677",
+    "corpus_id": 258298618,
+    "category": "Computer Science"
+  },
+  "2303-11253": {
+    "title": "Zero-Shot Noise2Noise: Efficient Image Denoising without any Data",
+    "authors": [
+      "Youssef Mansour",
+      "Reinhard Heckel"
+    ],
+    "publication_date": "2023-03-20",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "598fef3c65d45714dfc2c9f531c612c92dbfd607",
+    "corpus_id": 257631645,
+    "category": "Computer Science"
+  },
+  "2302-03018": {
+    "title": "DDM2: Self-Supervised Diffusion MRI Denoising with Generative Diffusion Models",
+    "authors": [
+      "Tiange Xiang",
+      "Mahmut Yurt",
+      "Ali B. Syed",
+      "K. Setsompop",
+      "A. Chaudhari"
+    ],
+    "publication_date": "2023-02-06",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "0949978a51943a8547632b273496375616a9931b",
+    "corpus_id": 256615188,
+    "category": "Computer Science, Engineering"
+  },
+  "2301-03362": {
+    "title": "Image Denoising: The Deep Learning Revolution and Beyond - A Survey Paper -",
+    "authors": [
+      "Michael Elad",
+      "Bahjat Kawar",
+      "Gregory Vaksman"
+    ],
+    "publication_date": "2023-01-09",
+    "venue": "SIAM Journal of Imaging Sciences",
+    "semantic_scholar_id": "9a1c023d80550f899a1e6ebfbc6f3579194634a8",
+    "corpus_id": 255546477,
+    "category": "Engineering, Computer Science"
+  },
+  "2210-02584": {
+    "title": "SPICER: Self‐supervised learning for MRI with automatic coil sensitivity estimation and reconstruction",
+    "authors": [
+      "Yuyang Hu",
+      "Weijie Gan",
+      "Chunwei Ying",
+      "Tongyao Wang",
+      "C. Eldeniz",
+      "Jiaming Liu",
+      "Yasheng Chen",
+      "H. An",
+      "U. Kamilov"
+    ],
+    "publication_date": "2022-10-05",
+    "venue": "Magnetic Resonance in Medicine",
+    "semantic_scholar_id": "76ddf8808f4855fb7772c3b1728ceca24cb1a1c1",
+    "corpus_id": 252734844,
+    "category": "Engineering, Medicine"
+  },
+  "2210-01696": {
+    "title": "Clean Self-Supervised MRI Reconstruction from Noisy, Sub-Sampled Training Data with Robust SSDU",
+    "authors": [
+      "Charles Millard",
+      "M. Chiew"
+    ],
+    "publication_date": "2022-10-04",
+    "venue": "Bioengineering",
+    "semantic_scholar_id": "34a8dfbaefd30bce7698fb6a0e528fd6de719f59",
+    "corpus_id": 252692917,
+    "category": "Engineering, Medicine"
+  },
+  "2209-14687": {
+    "title": "Diffusion Posterior Sampling for General Noisy Inverse Problems",
+    "authors": [
+      "Hyungjin Chung",
+      "Jeongsol Kim",
+      "Michael T. McCann",
+      "M. Klasky",
+      "J. C. Ye"
+    ],
+    "publication_date": "2022-09-29",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "61e46884567be7cad12e999365b16a8d3414b678",
+    "corpus_id": 252596252,
+    "category": "Computer Science, Mathematics"
+  },
+  "2209-00835": {
+    "title": "Self-Score: Self-Supervised Learning on Score-Based Models for MRI Reconstruction",
+    "authors": [
+      "Zhuoxu Cui",
+      "Chentao Cao",
+      "Shaonan Liu",
+      "Qingyong Zhu",
+      "Jing Cheng",
+      "Haifeng Wang",
+      "Yanjie Zhu",
+      "Dong Liang"
+    ],
+    "publication_date": "2022-09-02",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "6d42123d2c896632b3fc286007ee79448f0042c1",
+    "corpus_id": 252070949,
+    "category": "Computer Science, Engineering"
+  },
+  "2206-09012": {
+    "title": "Diffusion models as plug-and-play priors",
+    "authors": [
+      "Alexandros Graikos",
+      "Nikolay Malkin",
+      "N. Jojic",
+      "D. Samaras"
+    ],
+    "publication_date": "2022-06-17",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "44b3fb61bec49f5e4d8a3b81ddc6082aedd771fe",
+    "corpus_id": 249889060,
+    "category": "Computer Science"
+  },
+  "2206-00941": {
+    "title": "Improving Diffusion Models for Inverse Problems using Manifold Constraints",
+    "authors": [
+      "Hyungjin Chung",
+      "Byeongsu Sim",
+      "Dohoon Ryu",
+      "J. C. Ye"
+    ],
+    "publication_date": "2022-06-02",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "b3f5cf32178bcbed91aa5303b70963c6463f48a2",
+    "corpus_id": 249282628,
+    "category": "Computer Science, Mathematics"
+  },
+  "2206-00364": {
+    "title": "Elucidating the Design Space of Diffusion-Based Generative Models",
+    "authors": [
+      "Tero Karras",
+      "M. Aittala",
+      "Timo Aila",
+      "S. Laine"
+    ],
+    "publication_date": "2022-06-01",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "2f4c451922e227cbbd4f090b74298445bbd900d0",
+    "corpus_id": 249240415,
+    "category": "Computer Science, Mathematics"
+  },
+  "2205-10278": {
+    "title": "A Theoretical Framework for Self-Supervised MR Image Reconstruction Using Sub-Sampling via Variable Density Noisier2Noise",
+    "authors": [
+      "Charles Millard",
+      "M. Chiew"
+    ],
+    "publication_date": "2022-05-20",
+    "venue": "IEEE Transactions on Computational Imaging",
+    "semantic_scholar_id": "616c6a2ba6d5eba92500f50e8f25a83cc43dcdd0",
+    "corpus_id": 255394097,
+    "category": "Computer Science, Medicine, Engineering"
+  },
+  "2202-01479": {
+    "title": "Bayesian MRI reconstruction with joint uncertainty estimation using diffusion models",
+    "authors": [
+      "Guanxiong Luo",
+      "Moritz Blumenthal",
+      "Martin Heide",
+      "M. Uecker"
+    ],
+    "publication_date": "2022-02-03",
+    "venue": "Magnetic Resonance in Medicine",
+    "semantic_scholar_id": "6299f74c4369dac2d8973101711032bc4824a4af",
+    "corpus_id": 256697667,
+    "category": "Medicine, Computer Science"
+  },
+  "2201-11793": {
+    "title": "Denoising Diffusion Restoration Models",
+    "authors": [
+      "Bahjat Kawar",
+      "Michael Elad",
+      "Stefano Ermon",
+      "Jiaming Song"
+    ],
+    "publication_date": "2022-01-27",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "3d3c5fcbc40aadccceda58d3d9c5cd00588ea0b7",
+    "corpus_id": 246411364,
+    "category": "Computer Science, Engineering"
+  },
+  "2111-08005": {
+    "title": "Solving Inverse Problems in Medical Imaging with Score-Based Generative Models",
+    "authors": [
+      "Yang Song",
+      "Liyue Shen",
+      "Lei Xing",
+      "Stefano Ermon"
+    ],
+    "publication_date": "2021-11-15",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "49f6dbf4ead6a8a3d26f9cf218a654f2f3d1d896",
+    "corpus_id": 244130146,
+    "category": "Engineering, Computer Science, Mathematics"
+  },
+  "2110-05243": {
+    "title": "Score-based diffusion models for accelerated MRI",
+    "authors": [
+      "Hyungjin Chung",
+      "Jong-Chul Ye"
+    ],
+    "publication_date": "2021-10-08",
+    "venue": "Medical Image Anal.",
+    "semantic_scholar_id": "ff85a9d7182063bb71b47ab239d662fd2975c4fc",
+    "corpus_id": 238583682,
+    "category": "Medicine, Engineering, Computer Science"
+  },
+  "2109-08618": {
+    "title": "A review and experimental evaluation of deep learning methods for MRI reconstruction",
+    "authors": [
+      "Arghya Pal",
+      "Y. Rathi"
+    ],
+    "publication_date": "2021-09-17",
+    "venue": "The journal of machine learning for biomedical imaging",
+    "semantic_scholar_id": "431ed350f596edc77a22bfe64c3dd748eb7bba2e",
+    "corpus_id": 247319645,
+    "category": "Medicine, Engineering, Computer Science"
+  },
+  "2108-01368": {
+    "title": "Robust Compressed Sensing MRI with Deep Generative Priors",
+    "authors": [
+      "A. Jalal",
+      "Marius Arvinte",
+      "G. Daras",
+      "E. Price",
+      "A. Dimakis",
+      "Jonathan I. Tamir"
+    ],
+    "publication_date": "2021-08-03",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "a9194aa117acabe333aaaf330cf71c66094ced51",
+    "corpus_id": 236881431,
+    "category": "Computer Science, Mathematics"
+  },
+  "2106-07009": {
+    "title": "Noise2Score: Tweedie's Approach to Self-Supervised Image Denoising without Clean Images",
+    "authors": [
+      "Kwanyoung Kim",
+      "Jong-Chul Ye"
+    ],
+    "publication_date": "2021-06-13",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "3dae6b4f9f68e1c8256256a69496b8c4ab04a37a",
+    "corpus_id": 235422658,
+    "category": "Engineering, Computer Science"
+  },
+  "2103-15914": {
+    "title": "Tasting the cake: evaluating self-supervised generalization on out-of-distribution multimodal MRI data",
+    "authors": [
+      "A. Fedorov",
+      "E. Geenjaar",
+      "L. Wu",
+      "T. DeRamus",
+      "V. Calhoun",
+      "S. Plis"
+    ],
+    "publication_date": "2021-03-29",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "a54f01496aa8316b138a7080ade3f95b2c34f5e9",
+    "corpus_id": 232417475,
+    "category": "Computer Science"
+  },
+  "2011-13456": {
+    "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+    "authors": [
+      "Yang Song",
+      "Jascha Narain Sohl-Dickstein",
+      "Diederik P. Kingma",
+      "Abhishek Kumar",
+      "Stefano Ermon",
+      "Ben Poole"
+    ],
+    "publication_date": "2020-11-26",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "633e2fbfc0b21e959a244100937c5853afca4853",
+    "corpus_id": 227209335,
+    "category": "Computer Science, Mathematics"
+  },
+  "2010-10631": {
+    "title": "ENSURE: A General Approach for Unsupervised Training of Deep Image Reconstruction Algorithms",
+    "authors": [
+      "H. Aggarwal",
+      "Aniket Pramanik",
+      "Maneesh John",
+      "M. Jacob"
+    ],
+    "publication_date": "2020-10-20",
+    "venue": "IEEE Transactions on Medical Imaging",
+    "semantic_scholar_id": "3a5e379f84661f81d10c8614f83d050010ec3199",
+    "corpus_id": 253838700,
+    "category": "Computer Science, Medicine, Engineering, Mathematics"
+  },
+  "2006-11239": {
+    "title": "Denoising Diffusion Probabilistic Models",
+    "authors": [
+      "Jonathan Ho",
+      "Ajay Jain",
+      "P. Abbeel"
+    ],
+    "publication_date": "2020-06-19",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "5c126ae3421f05768d8edd97ecd44b1364e2c99a",
+    "corpus_id": 219955663,
+    "category": "Computer Science, Mathematics"
+  },
+  "2006-09011": {
+    "title": "Improved Techniques for Training Score-Based Generative Models",
+    "authors": [
+      "Yang Song",
+      "Stefano Ermon"
+    ],
+    "publication_date": "2020-06-16",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "1156e277fa7ec195b043161d3c5c97715da17658",
+    "corpus_id": 219708245,
+    "category": "Computer Science, Mathematics"
+  },
+  "2005-06001": {
+    "title": "Deep Learning Techniques for Inverse Problems in Imaging",
+    "authors": [
+      "Greg Ongie",
+      "A. Jalal",
+      "Christopher A. Metzler",
+      "Richard Baraniuk",
+      "A. Dimakis",
+      "R. Willett"
+    ],
+    "publication_date": "2020-05-01",
+    "venue": "IEEE Journal on Selected Areas in Information Theory",
+    "semantic_scholar_id": "b3e430ce15a956694d45203e69c537486025309f",
+    "corpus_id": 218613748,
+    "category": "Computer Science, Engineering, Mathematics"
+  },
+  "1910-11908": {
+    "title": "Noisier2Noise: Learning to Denoise From Unpaired Noisy Data",
+    "authors": [
+      "N. Moran",
+      "Dan Schmidt",
+      "Yu Zhong",
+      "Patrick Coady"
+    ],
+    "publication_date": "2019-10-25",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "3106671680dc238d11c9655d2075e37a5e8ef649",
+    "corpus_id": 204904999,
+    "category": "Engineering, Computer Science"
+  },
+  "1910-09116": {
+    "title": "Self-Supervised Physics-Based Deep Learning MRI Reconstruction Without Fully-Sampled Data",
+    "authors": [
+      "Burhaneddin Yaman",
+      "S. A. Hosseini",
+      "S. Moeller",
+      "J. Ellermann",
+      "K. Uğurbil",
+      "M. Akçakaya"
+    ],
+    "publication_date": "2019-10-21",
+    "venue": "IEEE International Symposium on Biomedical Imaging",
+    "semantic_scholar_id": "46843b97bfabf0e8e9d4cdbf46f399419dfadba1",
+    "corpus_id": 204800600,
+    "category": "Computer Science, Engineering, Physics"
+  },
+  "1910-13110": {
+    "title": "Unsupervised Deep Basis Pursuit: Learning inverse problems without ground-truth data",
+    "authors": [
+      "Jonathan I. Tamir",
+      "Stella X. Yu",
+      "M. Lustig"
+    ],
+    "publication_date": "2019-09-14",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "3dad1ed0a0c554561fdd3b94d3afc1761de0ca09",
+    "corpus_id": 204949869,
+    "category": "Computer Science, Engineering"
+  },
+  "1909-01127": {
+    "title": "MRI reconstruction using deep Bayesian estimation",
+    "authors": [
+      "Guanxiong Luo",
+      "Na Zhao",
+      "Wenhao Jiang",
+      "E. Hui",
+      "P. Cao"
+    ],
+    "publication_date": "2019-09-03",
+    "venue": "Magnetic Resonance in Medicine",
+    "semantic_scholar_id": "c2ae05e01673196249ca6156a891d3f3e924c4fb",
+    "corpus_id": 215727630,
+    "category": "Computer Science, Medicine, Engineering"
+  },
+  "1905-09325": {
+    "title": "Self-supervised learning of inverse problem solvers in medical imaging",
+    "authors": [
+      "O. Senouf",
+      "S. Vedula",
+      "Tomer Weiss",
+      "A. Bronstein",
+      "O. Michailovich",
+      "M. Zibulevsky"
+    ],
+    "publication_date": "2019-05-22",
+    "venue": "DART/MIL3ID@MICCAI",
+    "semantic_scholar_id": "a6c7bf091c95578556cf22c4ad3746bed3f46dc0",
+    "corpus_id": 162183973,
+    "category": "Computer Science, Engineering"
+  },
+  "1901-11365": {
+    "title": "Noise2Self: Blind Denoising by Self-Supervision",
+    "authors": [
+      "Joshua D. Batson",
+      "Loic A. Royer"
+    ],
+    "publication_date": "2019-01-30",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "ea9cf47573638745c9992cf9c5ebdabadd3c6849",
+    "corpus_id": 59523708,
+    "category": "Computer Science, Mathematics"
+  },
+  "1811-10980": {
+    "title": "Noise2Void - Learning Denoising From Single Noisy Images",
+    "authors": [
+      "Alexander Krull",
+      "T. Buchholz",
+      "Florian Jug"
+    ],
+    "publication_date": "2018-11-27",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "be2cafced16bb8834bdd322a0a512142c8d05388",
+    "corpus_id": 53751136,
+    "category": "Computer Science"
+  },
+  "1805-10531": {
+    "title": "Unsupervised Learning with Stein's Unbiased Risk Estimator",
+    "authors": [
+      "Christopher A. Metzler",
+      "A. Mousavi",
+      "Reinhard Heckel",
+      "Richard Baraniuk"
+    ],
+    "publication_date": "2018-05-26",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "f48376d7d58e784e9d459bda361d221a2b383641",
+    "corpus_id": 44114568,
+    "category": "Computer Science, Mathematics"
+  },
+  "1803-04189": {
+    "title": "Noise2Noise: Learning Image Restoration without Clean Data",
+    "authors": [
+      "J. Lehtinen",
+      "Jacob Munkberg",
+      "J. Hasselgren",
+      "S. Laine",
+      "Tero Karras",
+      "M. Aittala",
+      "Timo Aila"
+    ],
+    "publication_date": "2018-03-12",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "02ccfc9b550d381b5df4365a2ae48bb5f7f7578e",
+    "corpus_id": 3846544,
+    "category": "Computer Science, Mathematics"
+  },
+  "1803-01314": {
+    "title": "Training Deep Learning based Denoisers without Ground Truth Data",
+    "authors": [
+      "Shakarim Soltanayev",
+      "S. Chun"
+    ],
+    "publication_date": "2018-03-04",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "35ce6decc34959b0df4d2046169ac0f1cdd4fd7f",
+    "corpus_id": 3707854,
+    "category": "Computer Science, Mathematics"
+  },
+  "1712-02862": {
+    "title": "MoDL: Model-Based Deep Learning Architecture for Inverse Problems",
+    "authors": [
+      "H. Aggarwal",
+      "M. Mani",
+      "M. Jacob"
+    ],
+    "publication_date": "2017-12-07",
+    "venue": "IEEE Transactions on Medical Imaging",
+    "semantic_scholar_id": "d8a486a5c681ea3a6f014f3b560803adfe9a0609",
+    "corpus_id": 5042331,
+    "category": "Computer Science, Medicine, Mathematics"
+  },
+  "1712-01751": {
+    "title": "Convolutional Recurrent Neural Networks for Dynamic MR Image Reconstruction",
+    "authors": [
+      "C. Qin",
+      "Jo Schlemper",
+      "Jose Caballero",
+      "A. Price",
+      "J. Hajnal",
+      "D. Rueckert"
+    ],
+    "publication_date": "2017-12-05",
+    "venue": "IEEE Transactions on Medical Imaging",
+    "semantic_scholar_id": "ab06ced81c792b5752168cebef39c81f3eb60778",
+    "corpus_id": 31556183,
+    "category": "Computer Science, Medicine"
+  },
+  "1711-11386": {
+    "title": "MR Image Reconstruction Using Deep Density Priors",
+    "authors": [
+      "K. Tezcan",
+      "Christian F. Baumgartner",
+      "R. Luechinger",
+      "K. Pruessmann",
+      "E. Konukoglu"
+    ],
+    "publication_date": "2017-11-30",
+    "venue": "IEEE Transactions on Medical Imaging",
+    "semantic_scholar_id": "6a23c70733ad0640c7ebd25e0906d2fcaf66c46a",
+    "corpus_id": 23514906,
+    "category": "Medicine, Computer Science, Engineering, Mathematics"
+  },
+  "1704-00447": {
+    "title": "Learning a variational network for reconstruction of accelerated MRI data",
+    "authors": [
+      "Kerstin Hammernik",
+      "Teresa Klatzer",
+      "Erich Kobler",
+      "M. Recht",
+      "D. Sodickson",
+      "T. Pock",
+      "F. Knoll"
+    ],
+    "publication_date": "2017-04-03",
+    "venue": "Magnetic Resonance in Medicine",
+    "semantic_scholar_id": "ee661a5510ab1f035aa5dbf3d06109c388e6358d",
+    "corpus_id": 3815411,
+    "category": "Medicine, Computer Science"
+  },
+  "1505-04597": {
+    "title": "U-Net: Convolutional Networks for Biomedical Image Segmentation",
+    "authors": [
+      "O. Ronneberger",
+      "P. Fischer",
+      "T. Brox"
+    ],
+    "publication_date": "2015-05-18",
+    "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+    "semantic_scholar_id": "6364fdaa0a0eccd823a779fcdd489173f938e91a",
+    "corpus_id": 3719281,
+    "category": "Computer Science"
+  },
+  "0804-3010": {
+    "title": "Generalized SURE for Exponential Families: Applications to Regularization",
+    "authors": [
+      "Yonina C. Eldar"
+    ],
+    "publication_date": "2008-04-14",
+    "venue": "IEEE Transactions on Signal Processing",
+    "semantic_scholar_id": "8486f4f6b9863fe551d3a843cdf1b6a3a55d9edc",
+    "corpus_id": 437354,
+    "category": "Computer Science, Mathematics"
+  }
+}

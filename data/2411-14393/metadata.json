@@ -1,0 +1,12 @@
+{
+  "title": "POS-tagging to highlight the skeletal structure of sentences",
+  "authors": [
+    "Grigorii Churakov"
+  ],
+  "summary": "This study presents the development of a part-of-speech (POS) tagging model to extract the skeletal structure of sentences using transfer learning with the BERT architecture for token classification. The model, fine-tuned on Russian text, demonstrating its effectiveness. The approach offers potential applications in enhancing natural language processing tasks, such as improving machine translation.\n  Keywords: part of speech tagging, morphological analysis, natural language processing, BERT.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "In: Proc. All-Russian Sci.-Techn. Conf. \"Automated Control Systems and Information Technologies\", Perm, Russia, Jun 7-9, 2024, vol. 1, pp. 67-72",
+  "pdf_url": null,
+  "category": "cs.CL"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Examem: Low-Overhead Memory Instrumentation for Intelligent Memory Systems",
+  "authors": [
+    "Ashwin Poduval",
+    "Hayden Coffey",
+    "Michael Swift"
+  ],
+  "summary": "Memory performance is often the main bottleneck in modern computing systems. In recent years, researchers have attempted to scale the memory wall by leveraging new technology such as CXL, HBM, and in- and near-memory processing. Developers optimizing for such hardware need to understand how target applications perform to fully take advantage of these systems. Existing software and hardware performance introspection techniques are ill-suited for this purpose due to one or more of the following factors: coarse-grained measurement, inability to offer data needed to debug key issues, high runtime overhead, and hardware dependence. The heightened integration between compute and memory in many proposed systems offers an opportunity to extend compiler support for this purpose.\n  We have developed Examem, a memory performance introspection framework based on the LLVM compiler infrastructure. Examem supports developer annotated regions in code, allowing for targeted instrumentation of kernels. Examem supports hardware performance counters when available, in addition to software instrumentation. It statically records information about the instruction mix of the code and adds dynamic instrumentation to produce estimated memory bandwidth for an instrumented region at runtime. This combined approach keeps runtime overhead low while remaining accurate, with a geomean overhead under 10% and a geomean byte accuracy of 93%. Finally, our instrumentation is performed using an LLVM IR pass, which is target agnostic, and we have applied it to four ISAs.",
+  "submission_date": "2024-11-16",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.PF, cs.AR"
+}

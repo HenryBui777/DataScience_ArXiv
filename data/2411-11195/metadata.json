@@ -1,0 +1,23 @@
+{
+  "title": "SoK: The Security-Safety Continuum of Multimodal Foundation Models through Information Flow and Game-Theoretic Defenses",
+  "authors": [
+    "Ruoxi Sun",
+    "Jiamin Chang",
+    "Hammond Pearce",
+    "Chaowei Xiao",
+    "Bo Li",
+    "Qi Wu",
+    "Surya Nepal",
+    "Minhui Xue"
+  ],
+  "summary": "Multimodal foundation models (MFMs) integrate diverse data modalities to support complex and wide-ranging tasks. However, this integration also introduces distinct safety and security challenges. In this paper, we unify the concepts of safety and security in the context of MFMs by identifying critical threats that arise from both model behavior and system-level interactions. We propose a taxonomy grounded in information theory, evaluating risks through the concepts of channel capacity, signal, noise, and bandwidth. This perspective provides a principled way to analyze how information flows through MFMs and how vulnerabilities can emerge across modalities. Building on this foundation, we investigate defense mechanisms through the lens of a minimax game between attackers and defenders, highlighting key gaps in current research. In particular, we identify insufficient protection for cross-modal alignment and a lack of systematic and scalable defense strategies. Our work offers both a theoretical and practical foundation for advancing the safety and security of MFMs, supporting the development of more robust and trustworthy systems.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [
+    "2024-11-19",
+    "2025-08-08",
+    "2025-08-12"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR"
+}

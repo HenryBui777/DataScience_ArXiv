@@ -1,0 +1,688 @@
+{
+  "2309-00526": {
+    "title": "SQLdepth: Generalizable Self-Supervised Fine-Structured Monocular Depth Estimation",
+    "authors": [
+      "Youhong Wang",
+      "Yunji Liang",
+      "Hao Xu",
+      "Shaohui Jiao",
+      "Hongkai Yu"
+    ],
+    "publication_date": "2023-09-01",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "2d87ad25d0ad74c40bd9ad90e5e61b1764f592cf",
+    "corpus_id": 261493887,
+    "category": "Computer Science"
+  },
+  "2307-14786": {
+    "title": "Towards Deeply Unified Depth-aware Panoptic Segmentation with Bi-directional Guidance Learning",
+    "authors": [
+      "Ju He",
+      "Yifan Wang",
+      "Lijun Wang",
+      "Huchuan Lu",
+      "Ju He",
+      "Jinpeng Lan",
+      "Bin Luo",
+      "Yifeng Geng",
+      "Xuansong Xie"
+    ],
+    "publication_date": "2023-07-27",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "b441d9da7ab790da509d152c881665015cc8a692",
+    "corpus_id": 260202884,
+    "category": "Computer Science"
+  },
+  "2305-01255": {
+    "title": "RT-K-Net: Revisiting K-Net for Real-Time Panoptic Segmentation",
+    "authors": [
+      "Markus Schön",
+      "M. Buchholz",
+      "K. Dietmayer"
+    ],
+    "publication_date": "2023-05-02",
+    "venue": "2023 IEEE Intelligent Vehicles Symposium (IV)",
+    "semantic_scholar_id": "6dd3de54d03deeec1c247ebe4486058c6f88d330",
+    "corpus_id": 258437245,
+    "category": "Computer Science"
+  },
+  "2211-06220": {
+    "title": "OneFormer: One Transformer to Rule Universal Image Segmentation",
+    "authors": [
+      "Jitesh Jain",
+      "Jiacheng Li",
+      "M. Chiu",
+      "Ali Hassani",
+      "Nikita Orlov",
+      "Humphrey Shi"
+    ],
+    "publication_date": "2022-11-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "6a993404e07687b7edb7fb9a05092213a9419859",
+    "corpus_id": 253499214,
+    "category": "Computer Science"
+  },
+  "2210-07577": {
+    "title": "MonoDVPS: A Self-Supervised Monocular Depth Estimation Approach to Depth-aware Video Panoptic Segmentation",
+    "authors": [
+      "Andra Petrovai",
+      "S. Nedevschi"
+    ],
+    "publication_date": "2022-10-14",
+    "venue": "IEEE Workshop/Winter Conference on Applications of Computer Vision",
+    "semantic_scholar_id": "25e3dfffaedb401054bedf1af28b8186c5ed41ad",
+    "corpus_id": 252907195,
+    "category": "Computer Science"
+  },
+  "2210-07124": {
+    "title": "RTFormer: Efficient Design for Real-Time Semantic Segmentation with Transformer",
+    "authors": [
+      "Jian Wang",
+      "Chen-xi Gou",
+      "Qiman Wu",
+      "Haocheng Feng",
+      "Junyu Han",
+      "Errui Ding",
+      "Jingdong Wang"
+    ],
+    "publication_date": "2022-10-13",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "46f7aa7bccd627e0ad43f76e47318cc0c5887f75",
+    "corpus_id": 252873647,
+    "category": "Computer Science"
+  },
+  "2208-03543": {
+    "title": "MonoViT: Self-Supervised Monocular Depth Estimation with a Vision Transformer",
+    "authors": [
+      "Chaoqiang Zhao",
+      "Youming Zhang",
+      "Matteo Poggi",
+      "Fabio Tosi",
+      "Xianda Guo",
+      "Zheng Zhu",
+      "Guan Huang",
+      "Yang Tang",
+      "Stefano Mattoccia"
+    ],
+    "publication_date": "2022-08-06",
+    "venue": "International Conference on 3D Vision",
+    "semantic_scholar_id": "a541b67926de2e0964cb1f3922e2d5dc54d26b28",
+    "corpus_id": 251402956,
+    "category": "Computer Science"
+  },
+  "2206-15083": {
+    "title": "UniDAformer: Unified Domain Adaptive Panoptic Segmentation Transformer via Hierarchical Mask Calibration",
+    "authors": [
+      "Jingyi Zhang",
+      "Jiaxing Huang",
+      "Xiaoqin Zhang",
+      "Shijian Lu"
+    ],
+    "publication_date": "2022-06-30",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "c03b03c1a0f1f6f75a79d6cddbdb3b2ebccd8e47",
+    "corpus_id": 257663281,
+    "category": "Computer Science"
+  },
+  "2206-00468": {
+    "title": "PanopticDepth: A Unified Framework for Depth-aware Panoptic Segmentation",
+    "authors": [
+      "Naiyu Gao",
+      "Fei He",
+      "Jian Jia",
+      "Yanhu Shan",
+      "Haoyang Zhang",
+      "Xin Zhao",
+      "Kaiqi Huang"
+    ],
+    "publication_date": "2022-06-01",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "ca091fe0a6869a5168c6713bd7c81872d1e13394",
+    "corpus_id": 249240435,
+    "category": "Computer Science"
+  },
+  "2206-08948": {
+    "title": "CMT-DeepLab: Clustering Mask Transformers for Panoptic Segmentation",
+    "authors": [
+      "Qihang Yu",
+      "Huiyu Wang",
+      "Dahun Kim",
+      "Siyuan Qiao",
+      "Maxwell D. Collins",
+      "Yukun Zhu",
+      "Hartwig Adam",
+      "A. Yuille",
+      "Liang-Chieh Chen"
+    ],
+    "publication_date": "2022-06-01",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "31a9744bd5421b3fbbad2ab38ce33bb2f352c77a",
+    "corpus_id": 249890221,
+    "category": "Computer Science"
+  },
+  "2201-03545": {
+    "title": "A ConvNet for the 2020s",
+    "authors": [
+      "Zhuang Liu",
+      "Hanzi Mao",
+      "Chaozheng Wu",
+      "Christoph Feichtenhofer",
+      "Trevor Darrell",
+      "Saining Xie"
+    ],
+    "publication_date": "2022-01-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "177e957f5cd93229c9794ea652c646d2557b4a69",
+    "corpus_id": 245837420,
+    "category": "Computer Science"
+  },
+  "2112-02582": {
+    "title": "PolyphonicFormer: Unified Query Learning for Depth-aware Video Panoptic Segmentation",
+    "authors": [
+      "Haobo Yuan",
+      "Xiangtai Li",
+      "Yibo Yang",
+      "Guangliang Cheng",
+      "Jing Zhang",
+      "Yunhai Tong",
+      "Lefei Zhang",
+      "D. Tao"
+    ],
+    "publication_date": "2021-12-05",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "55022c4f52fe34022143a5c8f886ded527cb4662",
+    "corpus_id": 244909337,
+    "category": "Computer Science"
+  },
+  "2112-01527": {
+    "title": "Masked-attention Mask Transformer for Universal Image Segmentation",
+    "authors": [
+      "Bowen Cheng",
+      "Ishan Misra",
+      "A. Schwing",
+      "Alexander Kirillov",
+      "Rohit Girdhar"
+    ],
+    "publication_date": "2021-12-02",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "658a017302d29e4acf4ca789cb5d9f27983717ff",
+    "corpus_id": 244799297,
+    "category": "Computer Science"
+  },
+  "2206-13199": {
+    "title": "MGNet: Monocular Geometric Scene Understanding for Autonomous Driving",
+    "authors": [
+      "Markus Schön",
+      "M. Buchholz",
+      "K. Dietmayer"
+    ],
+    "publication_date": "2021-10-01",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "ec08e5993d5d7e414212d1b9754526955e534889",
+    "corpus_id": 244712384,
+    "category": "Computer Science"
+  },
+  "2107-06278": {
+    "title": "Per-Pixel Classification is Not All You Need for Semantic Segmentation",
+    "authors": [
+      "Bowen Cheng",
+      "A. Schwing",
+      "Alexander Kirillov"
+    ],
+    "publication_date": "2021-07-13",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "260ad39a1dac4b451019e2bf17925f4df8e3b69a",
+    "corpus_id": 235829267,
+    "category": "Computer Science"
+  },
+  "2106-14855": {
+    "title": "K-Net: Towards Unified Image Segmentation",
+    "authors": [
+      "Wenwei Zhang",
+      "Jiangmiao Pang",
+      "Kai Chen",
+      "Chen Change Loy"
+    ],
+    "publication_date": "2021-06-28",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "262654ac1d13cf8d8b204594f4a88d3e04f3dd37",
+    "corpus_id": 235658076,
+    "category": "Computer Science"
+  },
+  "2104-14540": {
+    "title": "The Temporal Opportunist: Self-Supervised Multi-Frame Monocular Depth",
+    "authors": [
+      "Jamie Watson",
+      "Oisin Mac Aodha",
+      "V. Prisacariu",
+      "G. Brostow",
+      "Michael Firman"
+    ],
+    "publication_date": "2021-04-29",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "fdf8fa52c889d70a1a43b1cf241f24736584f948",
+    "corpus_id": 233444160,
+    "category": "Computer Science"
+  },
+  "2012-05258": {
+    "title": "ViP-DeepLab: Learning Visual Perception with Depth-aware Video Panoptic Segmentation",
+    "authors": [
+      "Siyuan Qiao",
+      "Yukun Zhu",
+      "Hartwig Adam",
+      "A. Yuille",
+      "Liang-Chieh Chen"
+    ],
+    "publication_date": "2020-12-09",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "86f88bc71034122eb9d4f8ea16371ebd3efd42cc",
+    "corpus_id": 228083552,
+    "category": "Computer Science"
+  },
+  "2012-00759": {
+    "title": "MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers",
+    "authors": [
+      "Huiyu Wang",
+      "Yukun Zhu",
+      "Hartwig Adam",
+      "A. Yuille",
+      "Liang-Chieh Chen"
+    ],
+    "publication_date": "2020-12-01",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "787119e3c3f819244c82b7d97779473773e60696",
+    "corpus_id": 227248077,
+    "category": "Computer Science"
+  },
+  "2011-14141": {
+    "title": "AdaBins: Depth Estimation Using Adaptive Bins",
+    "authors": [
+      "Shariq Farooq Bhat",
+      "Ibraheem Alhashim",
+      "Peter Wonka"
+    ],
+    "publication_date": "2020-11-28",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "9717f7d873859ca0080caf944f7a2d9b456be121",
+    "corpus_id": 227227779,
+    "category": "Computer Science"
+  },
+  "2011-11675": {
+    "title": "Scaling Wide Residual Networks for Panoptic Segmentation",
+    "authors": [
+      "Liang-Chieh Chen",
+      "Huiyu Wang",
+      "Siyuan Qiao"
+    ],
+    "publication_date": "2020-11-23",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "7b11dcf7488fa67d44a042fe6e0ae12a6f88120c",
+    "corpus_id": 227151823,
+    "category": "Computer Science"
+  },
+  "2008-04017": {
+    "title": "SynDistNet: Self-Supervised Monocular Fisheye Camera Distance Estimation Synergized with Semantic Segmentation for Autonomous Driving",
+    "authors": [
+      "V. Kumar",
+      "Marvin Klingner",
+      "S. Yogamani",
+      "Stefan Milz",
+      "T. Fingscheidt",
+      "Patrick Mäder"
+    ],
+    "publication_date": "2020-08-10",
+    "venue": "IEEE Workshop/Winter Conference on Applications of Computer Vision",
+    "semantic_scholar_id": "069d7693461f1ac023b8fc801bf42dfd70373fdf",
+    "corpus_id": 221090701,
+    "category": "Computer Science"
+  },
+  "2004-05560": {
+    "title": "Toward Hierarchical Self-Supervised Monocular Absolute Depth Estimation for Autonomous Driving Applications",
+    "authors": [
+      "Feng Xue",
+      "G. Zhuo",
+      "Ziyuan Huang",
+      "Wufei Fu",
+      "Zhuoyue Wu",
+      "M. Ang"
+    ],
+    "publication_date": "2020-04-12",
+    "venue": "IEEE/RJS International Conference on Intelligent RObots and Systems",
+    "semantic_scholar_id": "19ee708196dae15bed3f26a9968f503ad7c45d4e",
+    "corpus_id": 215744998,
+    "category": "Computer Science"
+  },
+  "2004-02307": {
+    "title": "EfficientPS: Efficient Panoptic Segmentation",
+    "authors": [
+      "Rohit Mohan",
+      "Abhinav Valada"
+    ],
+    "publication_date": "2020-04-05",
+    "venue": "International Journal of Computer Vision",
+    "semantic_scholar_id": "be9e1f4d698055d3cbc9dfa7f8d52ca1f8a96e0c",
+    "corpus_id": 214802390,
+    "category": "Computer Science"
+  },
+  "2002-12319": {
+    "title": "Semantically-Guided Representation Learning for Self-Supervised Monocular Depth",
+    "authors": [
+      "V. Guizilini",
+      "Rui Hou",
+      "Jie Li",
+      "Rares Ambrus",
+      "Adrien Gaidon"
+    ],
+    "publication_date": "2020-02-27",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "86be6c7ba5ca77a668e5d6ab342445b72ca24208",
+    "corpus_id": 211532626,
+    "category": "Computer Science"
+  },
+  "1912-01202": {
+    "title": "Real-Time Panoptic Segmentation From Dense Detections",
+    "authors": [
+      "Rui Hou",
+      "Jie Li",
+      "Arjun Bhargava",
+      "Allan Raventós",
+      "V. Guizilini",
+      "Chao Fang",
+      "J. Lynch",
+      "Adrien Gaidon"
+    ],
+    "publication_date": "2019-12-03",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "f98137b87802367aa9f4d73e8e4f9a9300fbcb5a",
+    "corpus_id": 208548413,
+    "category": "Computer Science"
+  },
+  "1912-01703": {
+    "title": "PyTorch: An Imperative Style, High-Performance Deep Learning Library",
+    "authors": [
+      "Adam Paszke",
+      "Sam Gross",
+      "Francisco Massa",
+      "Adam Lerer",
+      "James Bradbury",
+      "Gregory Chanan",
+      "Trevor Killeen",
+      "Zeming Lin",
+      "N. Gimelshein",
+      "L. Antiga",
+      "Alban Desmaison",
+      "Andreas Köpf",
+      "E. Yang",
+      "Zachary DeVito",
+      "Martin Raison",
+      "Alykhan Tejani",
+      "Sasank Chilamkurthy",
+      "Benoit Steiner",
+      "Lu Fang",
+      "Junjie Bai",
+      "Soumith Chintala"
+    ],
+    "publication_date": "2019-12-03",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "3c8a456509e6c0805354bd40a35e3f2dbf8069b1",
+    "corpus_id": 202786778,
+    "category": "Computer Science, Mathematics"
+  },
+  "1911-10194": {
+    "title": "Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation",
+    "authors": [
+      "Bowen Cheng",
+      "Maxwell D. Collins",
+      "Yukun Zhu",
+      "Ting Liu",
+      "Thomas S. Huang",
+      "Hartwig Adam",
+      "Liang-Chieh Chen"
+    ],
+    "publication_date": "2019-10-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "e065392ba6160ac27906e5a79398c9a71e4a4bb7",
+    "corpus_id": 208248153,
+    "category": "Computer Science, Engineering, Mathematics"
+  },
+  "1905-02693": {
+    "title": "3D Packing for Self-Supervised Monocular Depth Estimation",
+    "authors": [
+      "V. Guizilini",
+      "Rares Ambrus",
+      "Sudeep Pillai",
+      "Adrien Gaidon"
+    ],
+    "publication_date": "2019-05-06",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "43fcb6cf679cd2ae412d7cb53e85312600cc20dd",
+    "corpus_id": 146808364,
+    "category": "Computer Science"
+  },
+  "1905-01220": {
+    "title": "Seamless Scene Segmentation",
+    "authors": [
+      "L. Porzi",
+      "S. R. Bulò",
+      "Aleksander Colovic",
+      "P. Kontschieder"
+    ],
+    "publication_date": "2019-05-03",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "c99bea6773fc40197e77e0f5c636b7b2f04b37a5",
+    "corpus_id": 145047913,
+    "category": "Computer Science"
+  },
+  "1901-02446": {
+    "title": "Panoptic Feature Pyramid Networks",
+    "authors": [
+      "Alexander Kirillov",
+      "Ross B. Girshick",
+      "Kaiming He",
+      "Piotr Dollár"
+    ],
+    "publication_date": "2019-01-08",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "a84906dbd4d6640f918d0b6ed2a7313dda0d55f1",
+    "corpus_id": 57721164,
+    "category": "Computer Science"
+  },
+  "1805-04409": {
+    "title": "PAD-Net: Multi-tasks Guided Prediction-and-Distillation Network for Simultaneous Depth Estimation and Scene Parsing",
+    "authors": [
+      "Dan Xu",
+      "Wanli Ouyang",
+      "Xiaogang Wang",
+      "N. Sebe"
+    ],
+    "publication_date": "2018-05-11",
+    "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "6cfa4ab327d42103195cb8e5c6181028cec8ee62",
+    "corpus_id": 21670200,
+    "category": "Computer Science"
+  },
+  "1803-03893": {
+    "title": "Unsupervised Learning of Monocular Depth Estimation and Visual Odometry with Deep Feature Reconstruction",
+    "authors": [
+      "Huangying Zhan",
+      "Ravi Garg",
+      "C. Weerasekera",
+      "Kejie Li",
+      "Harsh Agarwal",
+      "I. Reid"
+    ],
+    "publication_date": "2018-03-11",
+    "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "f58592051db1f5d300d096f2cd7869258d2de9d8",
+    "corpus_id": 4578162,
+    "category": "Computer Science"
+  },
+  "1801-00868": {
+    "title": "Panoptic Segmentation",
+    "authors": [
+      "Alexander Kirillov",
+      "Kaiming He",
+      "Ross B. Girshick",
+      "C. Rother",
+      "Piotr Dollár"
+    ],
+    "publication_date": "2018-01-03",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "dce916351ef589afa7a63452648dd8acba931e92",
+    "corpus_id": 4853375,
+    "category": "Computer Science"
+  },
+  "1708-06500": {
+    "title": "Sparsity Invariant CNNs",
+    "authors": [
+      "J. Uhrig",
+      "N. Schneider",
+      "Lukas Schneider",
+      "U. Franke",
+      "T. Brox",
+      "Andreas Geiger"
+    ],
+    "publication_date": "2017-08-22",
+    "venue": "International Conference on 3D Vision",
+    "semantic_scholar_id": "90c80317fa68784a3fe4fc3136bb188895b09fa4",
+    "corpus_id": 206429195,
+    "category": "Computer Science"
+  },
+  "1707-03237": {
+    "title": "Generalised Dice overlap as a deep learning loss function for highly unbalanced segmentations",
+    "authors": [
+      "C. Sudre",
+      "Wenqi Li",
+      "Tom Kamiel Magda Vercauteren",
+      "S. Ourselin",
+      "M. Jorge Cardoso"
+    ],
+    "publication_date": "2017-07-11",
+    "venue": "DLMIA/ML-CDS@MICCAI",
+    "semantic_scholar_id": "2d8edc4e38bf9907170238726ec902cb3739393b",
+    "corpus_id": 21957663,
+    "category": "Computer Science, Medicine, Mathematics"
+  },
+  "1706-03762": {
+    "title": "Attention is All you Need",
+    "authors": [
+      "Ashish Vaswani",
+      "Noam M. Shazeer",
+      "Niki Parmar",
+      "Jakob Uszkoreit",
+      "Llion Jones",
+      "Aidan N. Gomez",
+      "Lukasz Kaiser",
+      "I. Polosukhin"
+    ],
+    "publication_date": "2017-06-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+    "corpus_id": 13756489,
+    "category": "Computer Science"
+  },
+  "1704-07813": {
+    "title": "Unsupervised Learning of Depth and Ego-Motion from Video",
+    "authors": [
+      "Tinghui Zhou",
+      "Matthew A. Brown",
+      "Noah Snavely",
+      "D. Lowe"
+    ],
+    "publication_date": "2017-04-25",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "3abf64d10a5d9a426d864bcfd68daed370d6904c",
+    "corpus_id": 11977588,
+    "category": "Computer Science"
+  },
+  "1609-03677": {
+    "title": "Unsupervised Monocular Depth Estimation with Left-Right Consistency",
+    "authors": [
+      "Clément Godard",
+      "Oisin Mac Aodha",
+      "G. Brostow"
+    ],
+    "publication_date": "2016-09-13",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "4463dc4a32b948f0230f3b782cbfecaf1c9e5b1d",
+    "corpus_id": 206596513,
+    "category": "Computer Science, Mathematics"
+  },
+  "1604-01685": {
+    "title": "The Cityscapes Dataset for Semantic Urban Scene Understanding",
+    "authors": [
+      "Marius Cordts",
+      "Mohamed Omran",
+      "Sebastian Ramos",
+      "Timo Rehfeld",
+      "Markus Enzweiler",
+      "Rodrigo Benenson",
+      "Uwe Franke",
+      "S. Roth",
+      "B. Schiele"
+    ],
+    "publication_date": "2016-04-06",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "c8c494ee5488fe20e0aa01bddf3fc4632086d654",
+    "corpus_id": 502946,
+    "category": "Computer Science"
+  },
+  "1512-03385": {
+    "title": "Deep Residual Learning for Image Recognition",
+    "authors": [
+      "Kaiming He",
+      "X. Zhang",
+      "Shaoqing Ren",
+      "Jian Sun"
+    ],
+    "publication_date": "2015-12-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+    "corpus_id": 206594692,
+    "category": "Computer Science"
+  },
+  "1506-04579": {
+    "title": "ParseNet: Looking Wider to See Better",
+    "authors": [
+      "Wei Liu",
+      "Andrew Rabinovich",
+      "A. Berg"
+    ],
+    "publication_date": "2015-06-15",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "2173f1b8172c9b5bed4650c81b69988717bd6df6",
+    "corpus_id": 10875471,
+    "category": "Computer Science"
+  },
+  "1406-2283": {
+    "title": "Depth Map Prediction from a Single Image using a Multi-Scale Deep Network",
+    "authors": [
+      "D. Eigen",
+      "Christian Puhrsch",
+      "R. Fergus"
+    ],
+    "publication_date": "2014-06-09",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "dd2cf76ae78a3262a094ac865aa9f60c55472c5d",
+    "corpus_id": 2255738,
+    "category": "Computer Science"
+  },
+  "2103-14030": {
+    "title": "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows",
+    "authors": [
+      "Ze Liu",
+      "Yutong Lin",
+      "Yue Cao",
+      "Han Hu",
+      "Yixuan Wei",
+      "Zheng Zhang",
+      "Stephen Lin",
+      "B. Guo"
+    ],
+    "publication_date": "",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "c8b25fab5608c3e033d34b4483ec47e68ba109b7",
+    "corpus_id": 232352874,
+    "category": "Computer Science"
+  }
+}

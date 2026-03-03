@@ -1,0 +1,13 @@
+{
+  "title": "Mini-Splatting2: Building 360 Scenes within Minutes via Aggressive Gaussian Densification",
+  "authors": [
+    "Guangchi Fang",
+    "Bing Wang"
+  ],
+  "summary": "In this study, we explore the essential challenge of fast scene optimization for Gaussian Splatting. Through a thorough analysis of the geometry modeling process, we reveal that dense point clouds can be effectively reconstructed early in optimization through Gaussian representations. This insight leads to our approach of aggressive Gaussian densification, which provides a more efficient alternative to conventional progressive densification methods. By significantly increasing the number of critical Gaussians, we enhance the model capacity to capture dense scene geometry at the early stage of optimization. This strategy is seamlessly integrated into the Mini-Splatting densification and simplification framework, enabling rapid convergence without compromising quality. Additionally, we introduce visibility culling within Gaussian Splatting, leveraging per-view Gaussian importance as precomputed visibility to accelerate the optimization process. Our Mini-Splatting2 achieves a balanced trade-off among optimization time, the number of Gaussians, and rendering quality, establishing a strong baseline for future Gaussian-Splatting-based works. Our work sets the stage for more efficient, high-quality 3D scene modeling in real-world applications, and the code will be made available no matter acceptance.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

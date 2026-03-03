@@ -1,0 +1,14 @@
+{
+  "title": "Stability and Performance Analysis on Self-dual Cones",
+  "authors": [
+    "Emil Vladu"
+  ],
+  "summary": "In this paper, we consider nonsymmetric solutions to certain Lyapunov and Riccati equations and inequalities with coefficient matrices corresponding to cone-preserving dynamical systems. Most results presented here appear to be novel even in the special case of positive systems. First, we provide a simple eigenvalue criterion for a Sylvester equation to admit a cone-preserving solution. For a single system preserving a self-dual cone, this reduces to stability. Further, we provide a set of conditions equivalent to testing a given H-infinity norm bound, as in the bounded real lemma. These feature the stability of a coefficient matrix similar to the Hamiltonian, a solution to two conic inequalities, and a stabilizing cone-preserving solution to a nonsymmetric Riccati equation. Finally, we show that the H-infinity norm is attained at zero frequency.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-12-21"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC, eess.SY"
+}

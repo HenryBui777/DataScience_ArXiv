@@ -1,0 +1,390 @@
+{
+  "partition": "train",
+  "groundtruth": {
+    "lewis2021retrievalaugmentedgenerationknowledgeintensivenlp": "2005-11401",
+    "koh2020understandingblackboxpredictionsinfluence": "1703-04730",
+    "choe2024dataworthgptllmscale": "2405-13954",
+    "cohenwang2024contextciteattributingmodelgeneration": "2409-00729",
+    "li2017understandingneuralnetworksrepresentation": "1612-08220",
+    "yin2022interpretinglanguagemodelscontrastive": "2202-10419",
+    "kaplan2020scalinglawsneurallanguage": "2001-08361",
+    "hoffmann2022trainingcomputeoptimallargelanguage": "2203-15556",
+    "vaswani2023attentionneed": "1706-03762",
+    "Menick2022TeachingLM": "2203-11147",
+    "liu2023evaluatingverifiabilitygenerativesearch": "2304-09848",
+    "nakano2022webgptbrowserassistedquestionansweringhuman": "2112-09332",
+    "ChatGPTHallucinates": "2309-09401",
+    "asai2023selfraglearningretrievegenerate": "2310-11511",
+    "Sun2023TowardsVT": "2312-09075",
+    "RetreivingSupportingEvidence": "2309-11392",
+    "gao2023enablinglargelanguagemodels": "2305-14627",
+    "grosse2023studying": "2308-03296",
+    "kandpal2023large": "2211-08411",
+    "li2016visualizingunderstandingneuralmodels": "1506-01066",
+    "wu2021perturbedmaskingparameterfreeprobing": "2004-14786",
+    "Sanyal2021DiscretizedIG": "2108-13654",
+    "enguehard2023sequentialintegratedgradientssimple": "2305-15853",
+    "lundberg2017unifiedapproachinterpretingmodel": "1705-07874",
+    "mccann2018natural": "1806-08730",
+    "jain2019attention": "1902-10186",
+    "bae2022if": "2209-05364",
+    "pruthi2020estimating": "2002-08484",
+    "chang2024large": "2406-11813",
+    "albalak2024survey": "2402-16827",
+    "antoniades2024generalization": "2407-14985",
+    "liu2024lost": "2307-03172",
+    "kuratov2024babilong": "2406-10149"
+  },
+  "prediction": {
+    "SentenceBERT": [
+      "2409-00729",
+      "2407-14985",
+      "2406-11813",
+      "2406-10149",
+      "2405-13954"
+    ],
+    "openai2024gpt4technicalreport": [
+      "2303-08774",
+      "2407-14985",
+      "2406-11813",
+      "2406-10149",
+      "2405-13954"
+    ],
+    "geminiteam2024geminifamilyhighlycapable": [
+      "2304-09848",
+      "1612-08220",
+      "2006-14651",
+      "2406-11813",
+      "2406-10149"
+    ],
+    "lewis2021retrievalaugmentedgenerationknowledgeintensivenlp": [
+      "2005-11401",
+      "2308-03296",
+      "2303-08774",
+      "2203-11147",
+      "2104-01477"
+    ],
+    "koh2020understandingblackboxpredictionsinfluence": [
+      "1703-04730",
+      "1806-03822",
+      "2304-09848",
+      "2307-03172",
+      "2004-14786"
+    ],
+    "choe2024dataworthgptllmscale": [
+      "2405-13954",
+      "2209-05364",
+      "2308-03296",
+      "2303-08774",
+      "2406-10149"
+    ],
+    "pope2022efficientlyscalingtransformerinference": [
+      "2112-09332",
+      "2303-08774",
+      "2211-08411",
+      "2202-10419",
+      "2209-05364"
+    ],
+    "cohenwang2024contextciteattributingmodelgeneration": [
+      "2409-00729",
+      "2303-08774",
+      "2304-09848",
+      "1612-08220",
+      "2006-14651"
+    ],
+    "li2017understandingneuralnetworksrepresentation": [
+      "1612-08220",
+      "1506-01066",
+      "2108-13654",
+      "1703-04730",
+      "1908-10084"
+    ],
+    "2e6b5217-1119-3bfe-8b9c-c1af48fb0291": [
+      "2309-11392",
+      "1612-08220",
+      "2108-13654",
+      "1908-10084",
+      "2304-09848"
+    ],
+    "yin2022interpretinglanguagemodelscontrastive": [
+      "2202-10419",
+      "1909-07913",
+      "1806-03822",
+      "2002-08484",
+      "2210-08726"
+    ],
+    "yang2018hotpotqa": [
+      "1809-09600",
+      "2303-08774",
+      "1806-03822",
+      "1806-08730",
+      "2210-08726"
+    ],
+    "dubey2024llama3herdmodels": [
+      "2303-08774",
+      "2409-00729",
+      "2407-14985",
+      "2406-11813",
+      "2405-13954"
+    ],
+    "qwen2": [
+      "2303-08774",
+      "2407-14985",
+      "2406-11813",
+      "2403-18381",
+      "2402-16827"
+    ],
+    "10.5555/1394399": [
+      "1809-09600",
+      "2303-08774",
+      "1908-04626",
+      "2402-16827",
+      "2203-15556"
+    ],
+    "kaplan2020scalinglawsneurallanguage": [
+      "2001-08361",
+      "2303-08774",
+      "2308-03296",
+      "2112-09332",
+      "2006-14651"
+    ],
+    "hoffmann2022trainingcomputeoptimallargelanguage": [
+      "2203-15556",
+      "2303-08774",
+      "2209-05364",
+      "2203-11147",
+      "2309-09401"
+    ],
+    "vaswani2023attentionneed": [
+      "1706-03762",
+      "2303-08774",
+      "2309-11392",
+      "2309-09401",
+      "2308-03296"
+    ],
+    "Menick2022TeachingLM": [
+      "2203-11147",
+      "2112-09332",
+      "2303-08774",
+      "2005-11401",
+      "2203-15556"
+    ],
+    "Thoppilan2022LaMDALM": [
+      "2211-08411",
+      "2210-08726",
+      "2303-08774",
+      "1706-03762",
+      "2305-13252"
+    ],
+    "liu2023evaluatingverifiabilitygenerativesearch": [
+      "2304-09848",
+      "1703-04730",
+      "2307-03172",
+      "1806-03822",
+      "2403-18381"
+    ],
+    "nakano2022webgptbrowserassistedquestionansweringhuman": [
+      "2112-09332",
+      "2203-11147",
+      "2303-08774",
+      "1809-09600",
+      "2307-03172"
+    ],
+    "ChatGPTHallucinates": [
+      "2309-09401",
+      "2305-11859",
+      "2305-14627",
+      "2308-03296",
+      "2309-11392"
+    ],
+    "ChatGPTFakeMedicalQA": [
+      "2310-11511",
+      "2312-09075",
+      "2308-03296",
+      "2305-13252",
+      "2305-15853"
+    ],
+    "asai2023selfraglearningretrievegenerate": [
+      "2310-11511",
+      "2307-03172",
+      "2304-09848",
+      "2406-11813",
+      "2406-10149"
+    ],
+    "Sun2023TowardsVT": [
+      "2312-09075",
+      "2311-07838",
+      "2303-08774",
+      "2403-18381",
+      "2407-14985"
+    ],
+    "RetreivingSupportingEvidence": [
+      "2309-11392",
+      "2305-15853",
+      "2305-11859",
+      "2209-05364",
+      "1908-10084"
+    ],
+    "gao2023enablinglargelanguagemodels": [
+      "2305-14627",
+      "2303-08774",
+      "2210-08726",
+      "2308-03296",
+      "1908-10084"
+    ],
+    "serrano2019attentioninterpretable": [
+      "2105-03011",
+      "1908-04626",
+      "1706-03762",
+      "2303-08774",
+      "1909-07913"
+    ],
+    "grosse2023studying": [
+      "2308-03296",
+      "2005-11401",
+      "2303-08774",
+      "2209-05364",
+      "2405-13954"
+    ],
+    "kandpal2023large": [
+      "2211-08411",
+      "2303-08774",
+      "2402-16827",
+      "2309-09401",
+      "2305-13252"
+    ],
+    "cammarata2020thread": [
+      "2303-08774",
+      "2006-14651",
+      "2004-14786",
+      "2002-08484",
+      "2005-11401"
+    ],
+    "li2016visualizingunderstandingneuralmodels": [
+      "1506-01066",
+      "1612-08220",
+      "2405-13954",
+      "1602-04938",
+      "1705-07874"
+    ],
+    "wu2021perturbedmaskingparameterfreeprobing": [
+      "2004-14786",
+      "2303-08774",
+      "2108-13654",
+      "2305-13252",
+      "2105-03011"
+    ],
+    "Sanyal2021DiscretizedIG": [
+      "2108-13654",
+      "2305-15853",
+      "2104-01477",
+      "2002-08484",
+      "2305-14627"
+    ],
+    "enguehard2023sequentialintegratedgradientssimple": [
+      "2305-15853",
+      "2108-13654",
+      "2309-11392",
+      "2308-03296",
+      "2305-11859"
+    ],
+    "ribeiro2016whyitrustyou": [
+      "1602-04938",
+      "1612-08220",
+      "2407-14985",
+      "2406-11813",
+      "2406-10149"
+    ],
+    "lundberg2017unifiedapproachinterpretingmodel": [
+      "1705-07874",
+      "2303-08774",
+      "1506-01066",
+      "2108-13654",
+      "2006-14651"
+    ],
+    "mccann2018natural": [
+      "1806-08730",
+      "2303-08774",
+      "1703-04730",
+      "2211-08411",
+      "1806-03822"
+    ],
+    "jain2019attention": [
+      "1902-10186",
+      "1908-04626",
+      "2303-08774",
+      "1909-07913",
+      "1908-10084"
+    ],
+    "basu2021influence": [
+      "2006-14651",
+      "2108-13654",
+      "1705-07874",
+      "2203-15556",
+      "2402-16827"
+    ],
+    "bae2022if": [
+      "2209-05364",
+      "2308-03296",
+      "2405-13954",
+      "2309-11392",
+      "2305-14627"
+    ],
+    "pruthi2020estimating": [
+      "2002-08484",
+      "2108-13654",
+      "1908-10084",
+      "1612-08220",
+      "2004-14786"
+    ],
+    "chang2024large": [
+      "2406-11813",
+      "2303-08774",
+      "2310-11511",
+      "2407-14985",
+      "2312-09075"
+    ],
+    "razeghi2022impact": [
+      "2105-03011",
+      "1602-04938",
+      "2303-08774",
+      "2202-10419",
+      "2203-15556"
+    ],
+    "albalak2024survey": [
+      "2402-16827",
+      "2407-14985",
+      "2406-11813",
+      "2211-08411",
+      "1809-09600"
+    ],
+    "antoniades2024generalization": [
+      "2407-14985",
+      "2402-16827",
+      "2312-09075",
+      "1809-09600",
+      "2303-08774"
+    ],
+    "liu2024lost": [
+      "2307-03172",
+      "2304-09848",
+      "1806-03822",
+      "1703-04730",
+      "2112-09332"
+    ],
+    "kuratov2024babilong": [
+      "2406-10149",
+      "2310-11511",
+      "2407-14985",
+      "2312-09075",
+      "2305-13252"
+    ],
+    "doi:10.1080/00401706.1969.10490657": [
+      "2006-14651",
+      "1506-01066",
+      "1806-03822",
+      "2202-10419",
+      "1703-04730"
+    ]
+  }
+}

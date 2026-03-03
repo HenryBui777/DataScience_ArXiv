@@ -1,0 +1,14 @@
+{
+  "title": "Trajectory Planning and Control for Robotic Magnetic Manipulation",
+  "authors": [
+    "Ogulcan Isitman",
+    "Gokhan Alcan",
+    "Ville Kyrki"
+  ],
+  "summary": "Robotic magnetic manipulation offers a minimally invasive approach to gastrointestinal examinations through capsule endoscopy. However, controlling such systems using external permanent magnets (EPM) is challenging due to nonlinear magnetic interactions, especially when there are complex navigation requirements such as avoidance of sensitive tissues. In this work, we present a novel trajectory planning and control method incorporating dynamics and navigation requirements, using a single EPM fixed to a robotic arm to manipulate an internal permanent magnet (IPM). Our approach employs a constrained iterative linear quadratic regulator that considers the dynamics of the IPM to generate optimal trajectories for both the EPM and IPM. Extensive simulations and real-world experiments, motivated by capsule endoscopy operations, demonstrate the robustness of the method, showcasing resilience to external disturbances and precise control under varying conditions. The experimental results show that the IPM reaches the goal position with a maximum mean error of 0.18 cm and a standard deviation of 0.21 cm. This work introduces a unified framework for constrained trajectory optimization in magnetic manipulation, directly incorporating both the IPM's dynamics and the EPM's manipulability.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO, eess.SY"
+}

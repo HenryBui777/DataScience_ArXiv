@@ -1,0 +1,17 @@
+{
+  "title": "Iterative Reweighted Framework Based Algorithms for Sparse Linear Regression with Generalized Elastic Net Penalty",
+  "authors": [
+    "Yanyun Ding",
+    "Zhenghua Yao",
+    "Peili Li",
+    "Yunhai Xiao"
+  ],
+  "summary": "The elastic net penalty is frequently employed in high-dimensional statistics for parameter regression and variable selection. It is particularly beneficial compared to lasso when the number of predictors greatly surpasses the number of observations. However, empirical evidence has shown that the $\\ell_q$-norm penalty (where $0 < q < 1$) often provides better regression compared to the $\\ell_1$-norm penalty, demonstrating enhanced robustness in various scenarios. In this paper, we explore a generalized elastic net model that employs a $\\ell_r$-norm (where $r \\geq 1$) in loss function to accommodate various types of noise, and employs a $\\ell_q$-norm (where $0 < q < 1$) to replace the $\\ell_1$-norm in elastic net penalty. Theoretically, we establish the computable lower bounds for the nonzero entries of the generalized first-order stationary points of the proposed generalized elastic net model. For implementation, we develop two efficient algorithms based on the locally Lipschitz continuous $ε$-approximation to $\\ell_q$-norm. The first algorithm employs an alternating direction method of multipliers (ADMM), while the second utilizes a proximal majorization-minimization method (PMM), where the subproblems are addressed using the semismooth Newton method (SNN). We also perform extensive numerical experiments with both simulated and real data, showing that both algorithms demonstrate superior performance. Notably, the PMM-SSN is efficient than ADMM, even though the latter provides a simpler implementation.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-12-05"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ML, cs.LG, math.ST"
+}

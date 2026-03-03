@@ -1,0 +1,597 @@
+{
+  "2403-18344": {
+    "title": "LC-LLM: Explainable Lane-Change Intention and Trajectory Predictions with Large Language Models",
+    "authors": [
+      "Mingxing Peng",
+      "Xusen Guo",
+      "Xianda Chen",
+      "Meixin Zhu",
+      "Kehua Chen",
+      "Hao Yang",
+      "Xuesong Wang",
+      "Yinhai Wang"
+    ],
+    "publication_date": "2024-03-27",
+    "venue": "Communications in Transportation Research",
+    "semantic_scholar_id": "77a9c310df0d7896d297da90fc4a1131819c341e",
+    "corpus_id": 268723960,
+    "category": "Computer Science"
+  },
+  "2306-17770": {
+    "title": "MTR++: Multi-Agent Motion Prediction With Symmetric Scene Modeling and Guided Intention Querying",
+    "authors": [
+      "Shaoshuai Shi",
+      "Li Jiang",
+      "Dengxin Dai",
+      "B. Schiele"
+    ],
+    "publication_date": "2023-06-30",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "373c3a91ff8a8fa558a6da1c07c8eab154d668d2",
+    "corpus_id": 259308934,
+    "category": "Computer Science, Medicine"
+  },
+  "2303-16574": {
+    "title": "FEND: A Future Enhanced Distribution-Aware Contrastive Learning Framework for Long-Tail Trajectory Prediction",
+    "authors": [
+      "Yuning Wang",
+      "Pu Zhang",
+      "Lei Bai",
+      "Jianru Xue"
+    ],
+    "publication_date": "2023-03-29",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "0acce07a83281dfae981c3230e224e8c9eb6c015",
+    "corpus_id": 257804547,
+    "category": "Computer Science"
+  },
+  "2303-16005": {
+    "title": "Uncovering the Missing Pattern: Unified Framework Towards Trajectory Imputation and Prediction",
+    "authors": [
+      "Yi Xu",
+      "Armin Bazarjani",
+      "Hyung-gun Chi",
+      "Chiho Choi",
+      "Y. Fu"
+    ],
+    "publication_date": "2023-03-28",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "34aa5546668fa15e9582cc422b7384536001dc98",
+    "corpus_id": 257771376,
+    "category": "Computer Science"
+  },
+  "2302-08635": {
+    "title": "Generative Causal Representation Learning for Out-of-Distribution Motion Forecasting",
+    "authors": [
+      "Shayan Shirahmad Gale Bagi",
+      "Zahra Gharaee",
+      "O. Schulte",
+      "Mark Crowley"
+    ],
+    "publication_date": "2023-02-17",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "85417b24b6e4bc262dba79e8245f72ed3c8a0c71",
+    "corpus_id": 257019881,
+    "category": "Computer Science, Mathematics"
+  },
+  "2209-11820": {
+    "title": "Expanding the Deployment Envelope of Behavior Prediction via Adaptive Meta-Learning",
+    "authors": [
+      "B. Ivanovic",
+      "James Harrison",
+      "M. Pavone"
+    ],
+    "publication_date": "2022-09-23",
+    "venue": "IEEE International Conference on Robotics and Automation",
+    "semantic_scholar_id": "a6c62936dbed0f5fd465f32a3c07e3222876dfea",
+    "corpus_id": 252531437,
+    "category": "Computer Science"
+  },
+  "2206-10902": {
+    "title": "S2TNet: Spatio-Temporal Transformer Networks for Trajectory Prediction in Autonomous Driving",
+    "authors": [
+      "Weihua Chen"
+    ],
+    "publication_date": "2022-06-22",
+    "venue": "Asian Conference on Machine Learning",
+    "semantic_scholar_id": "8e55643b118f8998c5b919e6b139a664a9d56ac7",
+    "corpus_id": 245474382,
+    "category": "Computer Science"
+  },
+  "2204-08770": {
+    "title": "GroupNet: Multiscale Hypergraph Neural Networks for Trajectory Prediction with Relational Reasoning",
+    "authors": [
+      "Chenxin Xu",
+      "Maosen Li",
+      "Zhenyang Ni",
+      "Ya Zhang",
+      "Siheng Chen"
+    ],
+    "publication_date": "2022-04-19",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "c6711254d7901acd3c02005548d520320afd4a9a",
+    "corpus_id": 248239810,
+    "category": "Computer Science"
+  },
+  "2203-11474": {
+    "title": "Remember Intentions: Retrospective-Memory-based Trajectory Prediction",
+    "authors": [
+      "Chenxin Xu",
+      "Wei Mao",
+      "Wenjun Zhang",
+      "Siheng Chen"
+    ],
+    "publication_date": "2022-03-22",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "36660ac08f47df66c6ebccbafbdd4daa3e129885",
+    "corpus_id": 247596699,
+    "category": "Computer Science"
+  },
+  "2111-14820": {
+    "title": "Towards Robust and Adaptive Motion Forecasting: A Causal Representation Perspective",
+    "authors": [
+      "Yuejiang Liu",
+      "Riccardo Cadei",
+      "Jonas Schweizer",
+      "Sherwin Bahmani",
+      "Alexandre Alahi"
+    ],
+    "publication_date": "2021-11-29",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "1632e0ce53261e1e6ef7a0edea359b6569af0aa0",
+    "corpus_id": 244714689,
+    "category": "Computer Science"
+  },
+  "2109-11094": {
+    "title": "PredictionNet: Real-Time Joint Probabilistic Traffic Prediction for Planning, Control, and Simulation",
+    "authors": [
+      "A. Kamenev",
+      "Lirui Wang",
+      "Ollin Boer Bohan",
+      "Ishwar Kulkarni",
+      "Bilal Kartal",
+      "Artem Molchanov",
+      "Stan Birchfield",
+      "David Nist'er",
+      "Nikolai Smolyanskiy"
+    ],
+    "publication_date": "2021-09-23",
+    "venue": "IEEE International Conference on Robotics and Automation",
+    "semantic_scholar_id": "615c0ed3496be55fe2b174ab2e8fa86b60a7a324",
+    "corpus_id": 237604975,
+    "category": "Computer Science"
+  },
+  "2107-14202": {
+    "title": "Human Trajectory Prediction via Counterfactual Analysis",
+    "authors": [
+      "Guangyi Chen",
+      "Junlong Li",
+      "Jiwen Lu",
+      "Jie Zhou"
+    ],
+    "publication_date": "2021-07-29",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "78f98e306f39943537a796e7884175b3cac9f147",
+    "corpus_id": 236493724,
+    "category": "Computer Science"
+  },
+  "2104-01528": {
+    "title": "SGCN:Sparse Graph Convolution Network for Pedestrian Trajectory Prediction",
+    "authors": [
+      "Liushuai Shi",
+      "Le Wang",
+      "Chengjiang Long",
+      "Sanpin Zhou",
+      "Mo Zhou",
+      "Zhenxing Niu",
+      "G. Hua"
+    ],
+    "publication_date": "2021-04-04",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "9b175ff0549462007d050680b1ae46fe9dbf4bea",
+    "corpus_id": 233025416,
+    "category": "Computer Science"
+  },
+  "2103-14023": {
+    "title": "AgentFormer: Agent-Aware Transformers for Socio-Temporal Multi-Agent Forecasting",
+    "authors": [
+      "Ye Yuan",
+      "Xinshuo Weng",
+      "Yanglan Ou",
+      "Kris Kitani"
+    ],
+    "publication_date": "2021-03-25",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "44121878a5f390f178e241310a65afef1ccac33c",
+    "corpus_id": 232352504,
+    "category": "Computer Science"
+  },
+  "2103-11624": {
+    "title": "Multimodal Motion Prediction with Stacked Transformers",
+    "authors": [
+      "Yicheng Liu",
+      "Jinghuai Zhang",
+      "Liangji Fang",
+      "Qinhong Jiang",
+      "Bolei Zhou"
+    ],
+    "publication_date": "2021-03-22",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "22ad3545d78f2acfe7de1b2c38ec72efc9faa0d6",
+    "corpus_id": 232307829,
+    "category": "Computer Science"
+  },
+  "2101-11472": {
+    "title": "Spatial-Channel Transformer Network for Trajectory Prediction on the Traffic Scenes",
+    "authors": [
+      "Jingwen Zhao",
+      "Xuanpeng Li",
+      "Qifan Xue",
+      "Weigong Zhang"
+    ],
+    "publication_date": "2021-01-27",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "1de08bac98bc074da5f2479919e4b4e17e0c8afb",
+    "corpus_id": 231718998,
+    "category": "Computer Science"
+  },
+  "2012-01526": {
+    "title": "From Goals, Waypoints & Paths To Long Term Human Trajectory Forecasting",
+    "authors": [
+      "K. Mangalam",
+      "Yang An",
+      "Harshayu Girase",
+      "J. Malik"
+    ],
+    "publication_date": "2020-12-02",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "78060fa493f597378a286d74c9979deb2775ff25",
+    "corpus_id": 227254503,
+    "category": "Computer Science"
+  },
+  "2009-12547": {
+    "title": "Causal Intervention for Weakly-Supervised Semantic Segmentation",
+    "authors": [
+      "Dong Zhang",
+      "Hanwang Zhang",
+      "Jinhui Tang",
+      "Xiansheng Hua",
+      "Qianru Sun"
+    ],
+    "publication_date": "2020-09-26",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "cff4d87fcd98c65b352e9dabe1e6f444d99e6aad",
+    "corpus_id": 221970958,
+    "category": "Computer Science"
+  },
+  "2005-08514": {
+    "title": "Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction",
+    "authors": [
+      "Cunjun Yu",
+      "Xiao Ma",
+      "Jiawei Ren",
+      "Haiyu Zhao",
+      "Shuai Yi"
+    ],
+    "publication_date": "2020-05-18",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "a5d5aaf0de62f37b23251aed9c8266de4991c33c",
+    "corpus_id": 218673505,
+    "category": "Computer Science"
+  },
+  "2005-04259": {
+    "title": "VectorNet: Encoding HD Maps and Agent Dynamics From Vectorized Representation",
+    "authors": [
+      "Jiyang Gao",
+      "Chen Sun",
+      "Hang Zhao",
+      "Yi Shen",
+      "Dragomir Anguelov",
+      "Congcong Li",
+      "C. Schmid"
+    ],
+    "publication_date": "2020-05-08",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "296c808abc2b11c6b7cc44237357b6590bac4f35",
+    "corpus_id": 218581144,
+    "category": "Computer Science, Mathematics"
+  },
+  "2004-03842": {
+    "title": "Multi-Head Attention based Probabilistic Vehicle Trajectory Prediction",
+    "authors": [
+      "Hayoung Kim",
+      "Dongchan Kim",
+      "Gihoon Kim",
+      "Jeongmin Cho",
+      "K. Huh"
+    ],
+    "publication_date": "2020-04-08",
+    "venue": "2020 IEEE Intelligent Vehicles Symposium (IV)",
+    "semantic_scholar_id": "1788b2d1ca42c9417d69a87ed457fa34bacdb9e2",
+    "corpus_id": 215415849,
+    "category": "Computer Science, Engineering"
+  },
+  "2004-02025": {
+    "title": "It Is Not the Journey but the Destination: Endpoint Conditioned Trajectory Prediction",
+    "authors": [
+      "K. Mangalam",
+      "Harshayu Girase",
+      "Shreya Agarwal",
+      "Kuan-Hui Lee",
+      "E. Adeli",
+      "J. Malik",
+      "Adrien Gaidon"
+    ],
+    "publication_date": "2020-04-04",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "08809dada9c78ed7cb6eec79e41c72759364d22f",
+    "corpus_id": 214802170,
+    "category": "Computer Science"
+  },
+  "2002-07217": {
+    "title": "Decision-Making with Auto-Encoding Variational Bayes",
+    "authors": [
+      "Romain Lopez",
+      "Pierre Boyeau",
+      "N. Yosef",
+      "Michael I. Jordan",
+      "J. Regier"
+    ],
+    "publication_date": "2020-02-17",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "ef4f5a50837a7c1b3e87b9300ffc7ba00d461a0f",
+    "corpus_id": 211146177,
+    "category": "Mathematics, Computer Science"
+  },
+  "1908-11853": {
+    "title": "BooVAE: Boosting Approach for Continual Learning of VAE",
+    "authors": [
+      "Anna Kuzina",
+      "E. Egorov",
+      "Evgeny Burnaev"
+    ],
+    "publication_date": "2019-08-30",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "d07c33fc900880d0a1da37ef84d8f1e06bd46417",
+    "corpus_id": 243730354,
+    "category": "Computer Science, Mathematics"
+  },
+  "1907-07792": {
+    "title": "GRIP: Graph-based Interaction-aware Trajectory Prediction",
+    "authors": [
+      "Xin Li",
+      "Xiaowen Ying",
+      "Mooi Choo Choo Chuah"
+    ],
+    "publication_date": "2019-07-17",
+    "venue": "International Conference on Intelligent Transportation Systems",
+    "semantic_scholar_id": "ff835d571253fd167a55c4a1d5da48ed1f8abe5d",
+    "corpus_id": 197544825,
+    "category": "Computer Science"
+  },
+  "1906-08469": {
+    "title": "Predicting Motion of Vulnerable Road Users using High-Definition Maps and Efficient ConvNets",
+    "authors": [
+      "Fang-Chieh Chou",
+      "Tsung-Han Lin",
+      "Henggang Cui",
+      "Vladan Radosavljevic",
+      "Thi Nguyen",
+      "Tzu-Kuo Huang",
+      "Matthew Niedoba",
+      "J. Schneider",
+      "Nemanja Djuric"
+    ],
+    "publication_date": "2019-06-20",
+    "venue": "2020 IEEE Intelligent Vehicles Symposium (IV)",
+    "semantic_scholar_id": "0794dc41b013403ea30e20b78bb04d6958327972",
+    "corpus_id": 53418284,
+    "category": "Computer Science, Engineering"
+  },
+  "1904-04776": {
+    "title": "Multi-Agent Tensor Fusion for Contextual Trajectory Prediction",
+    "authors": [
+      "Tianyang Zhao",
+      "Yifei Xu",
+      "Mathew Monfort",
+      "Wongun Choi",
+      "Chris Baker",
+      "Yibiao Zhao",
+      "Yizhou Wang",
+      "Y. Wu"
+    ],
+    "publication_date": "2019-04-09",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "073384621e1f469ae2437b8f34a1f8a5de4d7497",
+    "corpus_id": 104291828,
+    "category": "Computer Science"
+  },
+  "1903-02588": {
+    "title": "Sentence Embedding Alignment for Lifelong Relation Extraction",
+    "authors": [
+      "Hong Wang",
+      "Wenhan Xiong",
+      "Mo Yu",
+      "Xiaoxiao Guo",
+      "Shiyu Chang",
+      "William Yang Wang"
+    ],
+    "publication_date": "2019-03-06",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "64584150548d79aadad3a0b3e7a3c949967c5d55",
+    "corpus_id": 71147690,
+    "category": "Computer Science"
+  },
+  "1902-10486": {
+    "title": "Continual Learning with Tiny Episodic Memories",
+    "authors": [
+      "Arslan Chaudhry",
+      "Marcus Rohrbach",
+      "Mohamed Elhoseiny",
+      "Thalaiyasingam Ajanthan",
+      "P. Dokania",
+      "Philip H. S. Torr",
+      "Marc'Aurelio Ranzato"
+    ],
+    "publication_date": "2019-02-27",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "853a5a6950827c3000b421702ae986ccef364ff6",
+    "corpus_id": 67855851,
+    "category": "Computer Science, Mathematics"
+  },
+  "1906-02815": {
+    "title": "Intention-aware Long Horizon Trajectory Prediction of Surrounding Vehicles using Dual LSTM Networks",
+    "authors": [
+      "Long Xin",
+      "Pin Wang",
+      "Ching-yao Chan",
+      "Jianyu Chen",
+      "S. Li",
+      "B. Cheng"
+    ],
+    "publication_date": "2018-11-01",
+    "venue": "International Conference on Intelligent Transportation Systems",
+    "semantic_scholar_id": "a2797ad59cb758ccf47b5b68684c08bb15aa4698",
+    "corpus_id": 54463057,
+    "category": "Computer Science, Mathematics"
+  },
+  "1810-11910": {
+    "title": "Learning to Learn without Forgetting By Maximizing Transfer and Minimizing Interference",
+    "authors": [
+      "M. Riemer",
+      "Ignacio Cases",
+      "R. Ajemian",
+      "Miao Liu",
+      "I. Rish",
+      "Y. Tu",
+      "G. Tesauro"
+    ],
+    "publication_date": "2018-09-27",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "2b877889ac31b73d1ede70b00eb4c7118ef8eca2",
+    "corpus_id": 53100211,
+    "category": "Computer Science, Mathematics"
+  },
+  "1809-10732": {
+    "title": "Multimodal Trajectory Predictions for Autonomous Driving using Deep Convolutional Networks",
+    "authors": [
+      "Henggang Cui",
+      "Vladan Radosavljevic",
+      "Fang-Chieh Chou",
+      "Tsung-Han Lin",
+      "Thi Nguyen",
+      "Tzu-Kuo Huang",
+      "J. Schneider",
+      "Nemanja Djuric"
+    ],
+    "publication_date": "2018-09-18",
+    "venue": "IEEE International Conference on Robotics and Automation",
+    "semantic_scholar_id": "c32576bebf4e0ef6e827776c6f880ae7706fbcc2",
+    "corpus_id": 52891221,
+    "category": "Engineering, Computer Science, Mathematics"
+  },
+  "1808-05819": {
+    "title": "Uncertainty-aware Short-term Motion Prediction of Traffic Actors for Autonomous Driving",
+    "authors": [
+      "Nemanja Djuric",
+      "Vladan Radosavljevic",
+      "Henggang Cui",
+      "Thi Nguyen",
+      "Fang-Chieh Chou",
+      "Tsung-Han Lin",
+      "Nitin Singh",
+      "J. Schneider"
+    ],
+    "publication_date": "2018-08-17",
+    "venue": "IEEE Workshop/Winter Conference on Applications of Computer Vision",
+    "semantic_scholar_id": "42f8c5513a0c90cb64748dae12fb631cc3efaadc",
+    "corpus_id": 211858520,
+    "category": "Computer Science, Mathematics"
+  },
+  "1706-08840": {
+    "title": "Gradient Episodic Memory for Continual Learning",
+    "authors": [
+      "David Lopez-Paz",
+      "Marc'Aurelio Ranzato"
+    ],
+    "publication_date": "2017-06-01",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "118fae4b4d07453561f1eded88654f812c7c61ec",
+    "corpus_id": 37308416,
+    "category": "Computer Science, Mathematics"
+  },
+  "1705-07120": {
+    "title": "VAE with a VampPrior",
+    "authors": [
+      "J. Tomczak",
+      "M. Welling"
+    ],
+    "publication_date": "2017-05-19",
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "semantic_scholar_id": "5ea2cdab68c69d7aef5a004495783ae7628193f2",
+    "corpus_id": 3523097,
+    "category": "Computer Science, Mathematics"
+  },
+  "1612-00796": {
+    "title": "Overcoming catastrophic forgetting in neural networks",
+    "authors": [
+      "J. Kirkpatrick",
+      "Razvan Pascanu",
+      "Neil C. Rabinowitz",
+      "J. Veness",
+      "Guillaume Desjardins",
+      "Andrei A. Rusu",
+      "Kieran Milan",
+      "John Quan",
+      "Tiago Ramalho",
+      "A. Grabska-Barwinska",
+      "D. Hassabis",
+      "C. Clopath",
+      "D. Kumaran",
+      "R. Hadsell"
+    ],
+    "publication_date": "2016-12-02",
+    "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+    "semantic_scholar_id": "2e55ba6c97ce5eb55abd959909403fe8da7e9fe9",
+    "corpus_id": 4704285,
+    "category": "Computer Science, Medicine, Mathematics"
+  },
+  "1605-03661": {
+    "title": "Learning Representations for Counterfactual Inference",
+    "authors": [
+      "Fredrik D. Johansson",
+      "Uri Shalit",
+      "D. Sontag"
+    ],
+    "publication_date": "2016-05-12",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "759b00cf35b397eab468935b5d90d04e9ed25549",
+    "corpus_id": 8558103,
+    "category": "Mathematics, Computer Science"
+  },
+  "1511-05644": {
+    "title": "Adversarial Autoencoders",
+    "authors": [
+      "Alireza Makhzani",
+      "Jonathon Shlens",
+      "N. Jaitly",
+      "I. Goodfellow"
+    ],
+    "publication_date": "2015-11-18",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "c8c04ed972d38e2326a53d322a6f2d7e0f8218c1",
+    "corpus_id": 5092785,
+    "category": "Computer Science"
+  },
+  "1210-4852": {
+    "title": "The Do-Calculus Revisited",
+    "authors": [
+      "J. Pearl"
+    ],
+    "publication_date": "2012-08-14",
+    "venue": "Conference on Uncertainty in Artificial Intelligence",
+    "semantic_scholar_id": "8fab7cf2c7310fc0d9a3449be6c4c29aecd4fd4e",
+    "corpus_id": 2768684,
+    "category": "Computer Science, Mathematics"
+  }
+}

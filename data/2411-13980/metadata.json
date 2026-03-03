@@ -1,0 +1,12 @@
+{
+  "title": "Second derivatives of solutions to the 3D incompressible Navier-Stokes equation in Lebesgue spaces",
+  "authors": [
+    "Igor Honoré"
+  ],
+  "summary": "We obtain new controls for the Leray solutions $u$ of the incompressible Navier-Stokes equation in $\\mathbb{R}^3$. Specifically, we estimate $u$, $\\nabla u$, and $\\nabla^2 u$ in suitable Lebesgue spaces $L^{\\tilde r}_TL^r$, $r <+ \\infty$ with some constraints on $\\tilde r>0$. Our method is based on a Duhamel formula around a perturbed heat equation, allowing to thoroughly exploit the well-known energy estimates which balances the potential singularities. We also perform a new Bihari-LaSalle argument in this context. Eventually, we adapt our strategy to prove that $\\sup_{t \\in [0,T]} \\int_{0}^t (t-s)^{-θ} \\|\\nabla^k u(s,\\cdot)\\|_{L^r} ds<+ \\infty$, for all $θ< \\frac{3-kr}{2r}$, $k \\in [0,2]$, and $1<r<\\frac{3}{k}$.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AP"
+}

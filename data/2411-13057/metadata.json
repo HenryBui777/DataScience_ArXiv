@@ -1,0 +1,22 @@
+{
+  "title": "Learning Multi-Branch Cooperation for Enhanced Click-Through Rate Prediction at Taobao",
+  "authors": [
+    "Xu Chen",
+    "Zida Cheng",
+    "Yuangang Pan",
+    "Shuai Xiao",
+    "Xiaoming Liu",
+    "Jinsong Lan",
+    "Xiaoyong Zhu",
+    "Bo Zheng",
+    "Ivor W. Tsang"
+  ],
+  "summary": "Existing click-through rate (CTR) prediction works have studied the role of feature interaction through a variety of techniques. Each interaction technique exhibits its own strength, and solely using one type usually constrains the model's capability to capture the complex feature relationships, especially for industrial data with enormous input feature fields. Recent research shows that effective CTR models often combine an MLP network with a dedicated feature interaction network in a two-parallel structure. However, the interplay and cooperative dynamics between different streams or branches remain under-researched. In this work, we introduce a novel Multi-Branch Cooperation Network (MBCnet) which enables multiple branch networks to collaborate with each other for better complex feature interaction modeling. Specifically, MBCnet consists of three branches: the Extensible Feature Grouping and Crossing (EFGC) branch that promotes the model's memorization ability of specific feature fields, the low rank Cross Net branch and Deep branch to enhance explicit and implicit feature crossing for improved generalization. Among these branches, a novel cooperation scheme is proposed based on two principles: Branch co-teaching and moderate differentiation. Branch co-teaching encourages well-learned branches to support poorly-learned ones on specific training samples. Moderate differentiation advocates branches to maintain a reasonable level of difference in their feature representations on the same inputs. This cooperation strategy improves learning through mutual knowledge sharing and boosts the discovery of diverse feature interactions across branches. Experiments on large-scale industrial datasets and online A/B test at Taobao app demonstrate MBCnet's superior performance, delivering a 0.09 point increase in CTR, 1.49% growth in deals, and 1.62% rise in GMV. Core codes are available online.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-06-19"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IR, cs.AI"
+}

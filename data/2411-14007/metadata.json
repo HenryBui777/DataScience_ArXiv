@@ -1,0 +1,19 @@
+{
+  "title": "Approximating One-Sided and Two-Sided Nash Social Welfare With Capacities",
+  "authors": [
+    "Salil Gokhale",
+    "Harshul Sagar",
+    "Rohit Vaish",
+    "Vignesh Viswanathan",
+    "Jatin Yadav"
+  ],
+  "summary": "We study the problem of maximizing Nash social welfare, which is the geometric mean of agents' utilities, in two well-known models. The first model involves one-sided preferences, where a set of indivisible items is allocated among a group of agents (commonly studied in fair division). The second model deals with two-sided preferences, where a set of workers and firms, each having numerical valuations for the other side, are matched with each other (commonly studied in matching-under-preferences literature). We study these models under capacity constraints, which restrict the number of items (respectively, workers) that an agent (respectively, a firm) can receive.\n  We develop constant-factor approximation algorithms for both problems under a broad class of valuations. Specifically, our main results are the following: (a) For any $ε> 0$, a $(6+ε)$-approximation algorithm for the one-sided problem when agents have submodular valuations, and (b) a $1.33$-approximation algorithm for the two-sided problem when the firms have subadditive valuations. The former result provides the first constant-factor approximation algorithm for Nash welfare in the one-sided problem with submodular valuations and capacities, while the latter result improves upon an existing $\\sqrt{OPT}$-approximation algorithm for additive valuations. Our result for the two-sided setting also establishes a computational separation between the Nash and utilitarian welfare objectives. We also complement our algorithms with hardness-of-approximation results. Additionally, for the case of additive valuations, we modify the configuration LP of Feng and Li [ICALP 2024] to obtain an $(e^{1/e}+ε)-$ approximation algorithm for weighted two-sided Nash social welfare under capacity constraints.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-02-03",
+    "2025-05-16"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.GT"
+}

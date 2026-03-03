@@ -1,0 +1,16 @@
+{
+  "title": "SILVIA: Automated Superword-Level Parallelism Exploitation via HLS-Specific LLVM Passes for Compute-Intensive FPGA Accelerators",
+  "authors": [
+    "Giovanni Brignone",
+    "Roberto Bosio",
+    "Fabrizio Ottati",
+    "Claudio Sansoè",
+    "Luciano Lavagno"
+  ],
+  "summary": "High-level synthesis (HLS) aims at democratizing custom hardware acceleration with highly abstracted software-like descriptions. However, efficient accelerators still require substantial low-level hardware optimizations, defeating the HLS intent. In the context of field-programmable gate arrays, digital signal processors (DSPs) are a crucial resource that typically requires a significant optimization effort for its efficient utilization, especially when used for sub-word vectorization. This work proposes SILVIA, an open-source LLVM transformation pass that automatically identifies superword-level parallelism within an HLS design and exploits it by packing multiple operations, such as additions, multiplications, and multiply-and-adds, into a single DSP. SILVIA is integrated in the flow of the commercial AMD Vitis HLS tool and proves its effectiveness by packing multiple operations on the DSPs without any manual source-code modifications on several diverse state-of-the-art HLS designs such as convolutional neural networks and basic linear algebra subprograms accelerators, reducing the DSP utilization for additions by 70 % and for multiplications and multiply-and-adds by 50 % on average.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AR"
+}

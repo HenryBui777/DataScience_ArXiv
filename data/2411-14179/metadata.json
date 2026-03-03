@@ -1,0 +1,19 @@
+{
+  "title": "CompetitorFormer: Competitor Transformer for 3D Instance Segmentation",
+  "authors": [
+    "Duanchu Wang",
+    "Jing Liu",
+    "Haoran Gong",
+    "Yinghui Quan",
+    "Di Wang"
+  ],
+  "summary": "Transformer-based methods have become the dominant approach for 3D instance segmentation. These methods predict instance masks via instance queries, ranking them by classification confidence and IoU scores to select the top prediction as the final outcome. However, it has been observed that the current models employ a fixed and higher number of queries than the instances present within a scene. In such instances, multiple queries predict the same instance, yet only a single query is ultimately optimized. The close scores of queries in the lower-level decoders make it challenging for the dominant query to distinguish itself rapidly, which ultimately impairs the model's accuracy and convergence efficiency. This phenomenon is referred to as inter-query competition. To address this challenge, we put forth a series of plug-and-play competition-oriented designs, collectively designated as the CompetitorFormer, with the aim of reducing competition and facilitating a dominant query. Experiments showed that integrating our designs with state-of-the-art frameworks consistently resulted in significant performance improvements in 3D instance segmentation across a range of datasets.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-12-29",
+    "2025-01-03"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

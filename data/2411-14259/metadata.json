@@ -1,0 +1,16 @@
+{
+  "title": "Addressing the Readout Problem in Quantum Differential Equation Algorithms with Quantum Scientific Machine Learning",
+  "authors": [
+    "Chelsea A. Williams",
+    "Stefano Scali",
+    "Antonio A. Gentile",
+    "Daniel Berger",
+    "Oleksandr Kyriienko"
+  ],
+  "summary": "Quantum differential equation solvers aim to prepare solutions as $n$-qubit quantum states over a fine grid of $O(2^n)$ points, surpassing the linear scaling of classical solvers. However, unlike classically stored vectors of solutions, the readout of exact quantum states poses a bottleneck due to the complexity of tomography. Here, we show that the readout problem can be addressed with quantum learning tools where we focus on distilling the relevant features. Treating outputs of quantum differential equation solvers as quantum data, we demonstrate that low-dimensional output can be extracted using a measurement operator adapted to detect relevant features. We apply this quantum scientific machine learning approach to classify solutions for shock wave detection and turbulence modeling in scenarios where data samples come directly from quantum differential equation solvers. We show that the basis chosen for performing analysis greatly impacts classification accuracy. Our work opens up the area of research where quantum machine learning for quantum datasets is inherently required.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, cond-mat.dis-nn, physics.flu-dyn"
+}

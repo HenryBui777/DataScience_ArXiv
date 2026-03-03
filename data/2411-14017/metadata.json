@@ -1,0 +1,19 @@
+{
+  "title": "Automatic brain tumor segmentation in 2D intra-operative ultrasound images using magnetic resonance imaging tumor annotations",
+  "authors": [
+    "Mathilde Faanes",
+    "Ragnhild Holden Helland",
+    "Ole Solheim",
+    "Sébastien Muller",
+    "Ingerid Reinertsen"
+  ],
+  "summary": "Automatic segmentation of brain tumors in intra-operative ultrasound (iUS) images could facilitate localization of tumor tissue during resection surgery. The lack of large annotated datasets limits the current models performances. In this paper, we investigated the use of tumor annotations in magnetic resonance imaging (MRI) scans, which are more accessible than annotations in iUS images, for training of deep learning models for iUS brain tumor segmentation. We used 180 annotated MRI scans with corresponding unannotated iUS images, and 29 annotated iUS images. Image registration was performed to transfer the MRI annotations to the corresponding iUS images before training the nnU-Net model with different configurations of the data and label origins. The results showed no significant difference in Dice score for a model trained with only MRI annotated tumors compared to models trained with only iUS annotations and both, and to expert annotations, indicating that MRI tumor annotations can be used as a substitute for iUS tumor annotations to train a deep learning model for automatic brain tumor segmentation in iUS images. The best model obtained an average Dice score of $0.62\\pm0.31$, compared to $0.67\\pm0.25$ for an expert neurosurgeon, where the performance on larger tumors were similar, but lower for the models on smaller tumors. In addition, the results showed that removing smaller tumors from the training sets improved the results. The main models are available here: https://github.com/mathildefaanes/us_brain_tumor_segmentation/tree/main",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-08-04",
+    "2025-08-15"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.CV, cs.LG"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Well-Posedness for Dean-Kawasaki Models of Vlasov-Fokker-Planck Type",
+  "authors": [
+    "Fenna Müller",
+    "Max von Renesse",
+    "Johannes Zimmer"
+  ],
+  "summary": "We consider systems of interacting particles which are described by a second order Langevin equation. The class of equations considered includes the situation where the particle evolution is governed by Hamiltonian dynamics with additional damping and noise satisfying a fluctuation-dissipation relation. Also covered are systems of two equations describing an evolution of interacting agents, as arising in several descriptions of active matter, including models for flocking and swarming. We first show that such particle systems can be represented exactly by so-called equations of fluctuating hydrodynamics, which in this case are stochastic versions of a Vlasov-Fokker-Planck type equation. While the derivation given here is simple, it is a blueprint for the rigorous derivation of equations of fluctuating hydrodynamics. We then show a dichotomy previously known for purely diffusive (first order) systems carries over to the second order setting considered here: Solutions exist for suitable atomic initial data, in which case the solution is, properly scaled, the empirical density describing the particle system. For smooth initial data, however, we prove that no solution exists.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-01-28",
+    "2025-07-28"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AP, math-ph, math.PR"
+}

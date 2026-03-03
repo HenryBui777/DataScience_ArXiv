@@ -1,0 +1,19 @@
+{
+  "title": "STOP: Spatiotemporal Orthogonal Propagation for Weight-Threshold-Leakage Synergistic Training of Deep Spiking Neural Networks",
+  "authors": [
+    "Haoran Gao",
+    "Xichuan Zhou",
+    "Yingcheng Lin",
+    "Min Tian",
+    "Liyuan Liu",
+    "Cong Shi"
+  ],
+  "summary": "The prevailing of artificial intelligence-of-things calls for higher energy-efficient edge computing paradigms, such as neuromorphic agents leveraging brain-inspired spiking neural network (SNN) models based on spatiotemporally sparse binary spikes. However, the lack of efficient and high-accuracy deep SNN learning algorithms prevents them from practical edge deployments at a strictly bounded cost. In this paper, we propose the spatiotemporal orthogonal propagation (STOP) algorithm to tackle this challenge. Our algorithm enables fully synergistic learning of synaptic weights as well as firing thresholds and leakage factors in spiking neurons to improve SNN accuracy, in a unified temporally-forward trace-based framework to mitigate the huge memory requirement for storing neural states across all time-steps in the forward pass. Characteristically, the spatially-backward neuronal errors and temporally-forward traces propagate orthogonally to and independently of each other, substantially reducing computational complexity. Our STOP algorithm obtained high recognition accuracies of 94.84%, 74.92%, 98.26% and 77.10% on the CIFAR-10, CIFAR-100, DVS-Gesture and DVS-CIFAR10 datasets with adequate deep convolutional SNNs of VGG-11 or ResNet-18 structures. Compared with other deep SNN training algorithms, our method is more plausible for edge intelligent scenarios where resources are limited but high-accuracy in-situ learning is desired.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [
+    "2024-11-27"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.NE, cs.CV"
+}

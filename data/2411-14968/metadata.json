@@ -1,0 +1,13 @@
+{
+  "title": "Optimization Strategies for Parallel Computation of Skylines",
+  "authors": [
+    "Paolo Ciaccia",
+    "Davide Martinenghi"
+  ],
+  "summary": "Skyline queries are one of the most widely adopted tools for Multi-Criteria Analysis, with applications covering diverse domains, including, e.g., Database Systems, Data Mining, and Decision Making. Skylines indeed offer a useful overview of the most suitable alternatives in a dataset, while discarding all the options that are dominated by (i.e., worse than) others.\n  The intrinsically quadratic complexity associated with skyline computation has pushed researchers to identify strategies for parallelizing the task, particularly by partitioning the dataset at hand. In this paper, after reviewing the main partitioning approaches available in the relevant literature, we propose two orthogonal optimization strategies for reducing the computational overhead, and compare them experimentally in a multi-core environment equipped with PySpark.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DB"
+}

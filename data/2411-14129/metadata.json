@@ -1,0 +1,12 @@
+{
+  "title": "On averaged self-distances in finite dimensional Banach spaces",
+  "authors": [
+    "Gyula Lakos"
+  ],
+  "summary": "Assume that $\\mathfrak A$ is a real Banach space of finite dimension $n\\geq2$. Consider any Borel probability measure $ν$ supported on the unit ball $K$ of $\\mathfrak A$. We show that \\[Δ(ν)=\\int_{x \\in K}\\int_{ y\\in K}|x-y|_{\\mathfrak A} \\,\\,\\,ν(x)\\,ν(y)\\leq 2(1-2^{-n}f(n)),\\] where $f:\\mathbb N\\setminus \\{0,1\\}\\rightarrow (0,1]$ is a concrete universal function such that $f(n)\\sim \\frac{2}{\\mathrm e n^2\\log n}$. It is hoped that in the estimate`$f(n)$' can be replaced by `$1$'.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.FA, math.MG"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "LightFFDNets: Lightweight Convolutional Neural Networks for Rapid Facial Forgery Detection",
+  "authors": [
+    "Günel Jabbarlı",
+    "Murat Kurt"
+  ],
+  "summary": "Accurate and fast recognition of forgeries is an issue of great importance in the fields of artificial intelligence, image processing and object detection. Recognition of forgeries of facial imagery is the process of classifying and defining the faces in it by analyzing real-world facial images. This process is usually accomplished by extracting features from an image, using classifier algorithms, and correctly interpreting the results. Recognizing forgeries of facial imagery correctly can encounter many different challenges. For example, factors such as changing lighting conditions, viewing faces from different angles can affect recognition performance, and background complexity and perspective changes in facial images can make accurate recognition difficult. Despite these difficulties, significant progress has been made in the field of forgery detection. Deep learning algorithms, especially Convolutional Neural Networks (CNNs), have significantly improved forgery detection performance.\n  This study focuses on image processing-based forgery detection using Fake-Vs-Real-Faces (Hard) [10] and 140k Real and Fake Faces [61] data sets. Both data sets consist of two classes containing real and fake facial images. In our study, two lightweight deep learning models are proposed to conduct forgery detection using these images. Additionally, 8 different pretrained CNN architectures were tested on both data sets and the results were compared with newly developed lightweight CNN models. It's shown that the proposed lightweight deep learning models have minimum number of layers. It's also shown that the proposed lightweight deep learning models detect forgeries of facial imagery accurately, and computationally efficiently. Although the data set consists only of face images, the developed models can also be used in other two-class object recognition problems.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI"
+}

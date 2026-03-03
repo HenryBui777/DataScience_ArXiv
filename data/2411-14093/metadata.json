@@ -1,0 +1,14 @@
+{
+  "title": "Desingularization of bounded-rank tensor sets",
+  "authors": [
+    "Bin Gao",
+    "Renfeng Peng",
+    "Ya-xiang Yuan"
+  ],
+  "summary": "Low-rank tensors appear to be prosperous in many applications. However, the sets of bounded-rank tensors are non-smooth and non-convex algebraic varieties, rendering the low-rank optimization problems to be challenging. To this end, we delve into the geometry of bounded-rank tensor sets, including Tucker and tensor train formats. We propose a desingularization approach for bounded-rank tensor sets by introducing slack variables, resulting in a low-dimensional smooth manifold embedded in a higher-dimensional space while preserving the structure of low-rank tensor formats. Subsequently, optimization on tensor varieties can be reformulated to optimization on smooth manifolds, where the methods and convergence are well explored. We reveal the relationship between the landscape of optimization on varieties and that of optimization on manifolds. Numerical experiments on tensor completion illustrate that the proposed methods are in favor of others under different rank parameters.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC, math.AG, math.NA"
+}

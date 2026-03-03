@@ -1,0 +1,16 @@
+{
+  "title": "METEOR: Evolutionary Journey of Large Language Models from Guidance to Self-Growth",
+  "authors": [
+    "Jiawei Li",
+    "Xiaoang Xu",
+    "Yang Gao"
+  ],
+  "summary": "Model evolution enables learning from feedback to refine experiences and update skills, transforming models from having no domain knowledge to becoming domain experts. However, there is currently no unified and effective method for guiding this evolutionary process. To address this gap, we propose the Meteor method, which includes three training phases: weak-to-strong data distillation, iterative training, and self-evolution strategies. Each phase maximizes the model's inherent domain capabilities, allowing it to autonomously refine its domain knowledge and enhance performance. Experiments demonstrate that our approach significantly improves accuracy, completeness, relevance, coherence, and reliability across domain-specific tasks.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-29"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI, cs.CL"
+}

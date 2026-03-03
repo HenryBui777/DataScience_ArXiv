@@ -1,0 +1,12 @@
+{
+  "title": "Asymptotics in Multiple Hypotheses Testing under Dependence: beyond Normality",
+  "authors": [
+    "Monitirtha Dey"
+  ],
+  "summary": "Correlated observations are ubiquitous phenomena in a plethora of scientific avenues. Tackling this dependence among test statistics has been one of the pertinent problems in simultaneous inference. However, very little literature exists that elucidates the effect of correlation on different testing procedures under general distributional assumptions. In this work, we address this gap in a unified way by considering the multiple testing problem under a general correlated framework. We establish an upper bound on the family-wise error rate(FWER) of Bonferroni's procedure for equicorrelated test statistics. Consequently, we find that for a quite general class of distributions, Bonferroni FWER asymptotically tends to zero when the number of hypotheses approaches infinity. We extend this result to general positively correlated elliptically contoured setups. We also present examples of distributions for which Bonferroni FWER has a strictly positive limit under equicorrelation. We extend the limiting zero results to the class of step-down procedures under quite general correlated setups. Specifically, the probability of rejecting at least one hypothesis approaches zero asymptotically for any step-down procedure. The results obtained in this work generalize existing results for correlated Normal test statistics and facilitate new insights into the performances of multiple testing procedures under dependence.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.ST, stat.ME"
+}

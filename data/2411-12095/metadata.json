@@ -1,0 +1,22 @@
+{
+  "title": "Feasibility study of a novel thermal neutron detection system using event mode camera and LYSO scintillation crystal",
+  "authors": [
+    "Tianqi Gao",
+    "Mohammad Alsulimane",
+    "Sergey Burdin",
+    "Gabriele DAmen",
+    "Cinzia Da Via",
+    "Konstantinos Mavrokoridis",
+    "Andrei Nomerotski",
+    "Adam Roberts",
+    "Peter Svihra",
+    "Jon Taylor",
+    "Alessandro Tricoli"
+  ],
+  "summary": "The feasibility study of a new technique for thermal neutron detection using a Timepix3 camera (TPX3Cam) with custom-made optical add-ons operated in event-mode data acquisition is presented. The camera has a spatial resolution of ~ 16 um and a temporal resolution of 1.56 ns. Thermal neutrons react with 6 Lithium to produce a pair of 2.73 MeV tritium and 2.05 MeV alpha particles, which in turn interact with a thin layer of LYSO crystal to produce localized scintillation photons. These photons are directed by a pair of lenses to an image intensifier, before being recorded by the TPX3Cam. The results were reconstructed through a custom clustering algorithm utilizing the Time-of-Arrival (ToA) and geometric centre of gravity of the hits. Filtering parameters were found through data analysis to reduce the background of gamma and other charged particles. The efficiency of the converter is 4%, and the overall detection efficiency of the system including the lead shielding and polythene moderator is ~ 0.34%, all converted thermal neutrons can be seen by the TPX3Cam. The experiment used a weak thermal neutron source against a large background, the measured signal-to-noise ratio is 1/67.5. Under such high noise, thermal neutrons were successfully detected and predicted the reduced neutron rate, and matched the simulated rate of the thermal neutrons converted from the source. This result demonstrated the excellent sensitivity of the system.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.ins-det, hep-ex"
+}

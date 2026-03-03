@@ -1,0 +1,16 @@
+{
+  "title": "Different PCA approaches for vector functional time series with applications to resistive switching processes",
+  "authors": [
+    "C. Acal",
+    "A. M. Aguilera",
+    "F. J. Alonso",
+    "J. E. Ruiz-Castro",
+    "J. B. Roldán"
+  ],
+  "summary": "This paper is motivated by modeling the cycle-to-cycle variability associated with the resistive switching operation behind memristors. As the data are by nature curves, functional principal component analysis is a suitable candidate to explain the main modes of variability. Taking into account this data-driven motivation, in this paper we propose two new forecasting approaches based on studying the sequential cross-dependence between and within a multivariate functional time series in terms of vector autoregressive modeling of the most explicative functional principal component scores. The main difference between the two methods lies in whether a univariate or multivariate PCA is performed so that we have a different set of principal component scores for each functional time series or the same one for all of them. Finally, the sample performance of the proposed methodologies is illustrated by an application on a bivariate functional time series of reset-set curves.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "Mathematics and Computers in Simulation, Volume 223, 2024, 288-298",
+  "pdf_url": null,
+  "category": "math.ST"
+}

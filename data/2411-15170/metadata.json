@@ -1,0 +1,14 @@
+{
+  "title": "Improving the Test-retest Reliability of Quantitative Susceptibility Mapping",
+  "authors": [
+    "Shuai Huang",
+    "Thomas Denney",
+    "Deqiang Qiu"
+  ],
+  "summary": "Motivation - The test-retest reliability of quantitative susceptibility mapping (QSM) is affected by parameters of the acquisition protocol such as the angulation of acquisition plane with respect to the B0 field direction and spatial resolution.\n  Goal - We aim to reduce the protocol-dependent biases/errors that might overshadow subtle changes of the susceptibility values due to pathology in the brain.\n  Approach - The magnitude and phase images used for QSM are registered according to a standard reference protocol in the k-space through nonuniform fast Fourier transform (NUFFT).\n  Results - With the help of our proposed approach, the test-retest reliability of scans acquired from different protocols is notably improved.\n  Impact - The improved test-retest reliability of QSM makes it easier to detect subtle susceptibility changes in the early stages of neurodegeneration such as Alzheimer's disease and Parkinson's disease.",
+  "submission_date": "2024-11-15",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Data assimilation in 2D incompressible Navier-Stokes equations, using a stabilized explicit $O(Δt)^2$ leapfrog finite difference scheme run backward in time",
+  "authors": [
+    "Alfred S. Carasso"
+  ],
+  "summary": "For the 2D incompressible Navier-Stokes equations, with given hypothetical non smooth data at time $T > 0 $that may not correspond to an actual solution at time $T$, a previously developed stabilized backward marching explicit leapfrog finite difference scheme is applied to these data, to find initial values at time $t = 0$ that can evolve into useful approximations to the given data at time $T$. That may not always be possible. Similar data assimilation problems, involving other dissipative systems, are of considerable interest in the geophysical sciences, and are commonly solved using computationally intensive methods based on neural networks informed by machine learning. Successful solution of ill-posed time-reversed Navier-Stokes equations is limited by uncertainty estimates, based on logarithmic convexity, that place limits on the value of $T > 0$. In computational experiments involving satellite images of hurricanes and other meteorological phenomena, the present method is shown to produce successful solutions at values of $T > 0$, that are several orders of magnitude larger than would be expected, based on the best-known uncertainty estimates. However, unsuccessful examples are also given. The present self-contained paper outlines the stabilizing technique, based on applying a compensating smoothing operator at each time step, and stresses the important differences between data assimilation, and backward recovery, in ill-posed time reversed problems for dissipative equations. While theorems are stated without proof, the reader is referred to a previous paper, on Navier-Stokes backward recovery, where these proofs can be found.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "2024 NIST Technical Note 2299",
+  "pdf_url": null,
+  "category": "math.NA"
+}

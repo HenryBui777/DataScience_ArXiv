@@ -1,0 +1,14 @@
+{
+  "title": "RV4Chatbot: Are Chatbots Allowed to Dream of Electric Sheep?",
+  "authors": [
+    "Andrea Gatti",
+    "Viviana Mascardi",
+    "Angelo Ferrando"
+  ],
+  "summary": "Chatbots have become integral to various application domains, including those with safety-critical considerations. As a result, there is a pressing need for methods that ensure chatbots consistently adhere to expected, safe behaviours. In this paper, we introduce RV4Chatbot, a Runtime Verification framework designed to monitor deviations in chatbot behaviour. We formalise expected behaviours as interaction protocols between the user and the chatbot. We present the RV4Chatbot design and describe two implementations that instantiate it: RV4Rasa, for monitoring chatbots created with the Rasa framework, and RV4Dialogflow, for monitoring Dialogflow chatbots. Additionally, we detail experiments conducted in a factory automation scenario using both RV4Rasa and RV4Dialogflow.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "EPTCS 411, 2024, pp. 73-90",
+  "pdf_url": null,
+  "category": "cs.AI, cs.HC, cs.SE"
+}

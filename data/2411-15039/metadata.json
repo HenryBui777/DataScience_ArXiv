@@ -1,0 +1,17 @@
+{
+  "title": "Energy participation ratio analysis for very anharmonic superconducting circuits",
+  "authors": [
+    "Figen Yilmaz",
+    "Siddharth Singh",
+    "Martijn F. S. Zwanenburg",
+    "Jinlun Hu",
+    "Taryn V. Stefanski",
+    "Christian Kraglund Andersen"
+  ],
+  "summary": "Superconducting circuits are being employed for large-scale quantum devices, and a pertinent challenge is to perform accurate numerical simulations of device parameters. One of the most advanced methods for analyzing superconducting circuit designs is the energy participation ratio (EPR) method, which constructs quantum Hamiltonians based on the energy distribution extracted from classical electromagnetic simulations. In the EPR approach, we extract linear terms from finite element simulations and add nonlinear terms using the energy participation ratio extracted from the classical simulations. However, the EPR method relies on a low-order expansion of nonlinear terms, which is prohibitive for accurately describing highly anharmonic circuits. An example of such a circuit is the fluxonium qubit, which has recently attracted increasing attention due to its high lifetimes and low error rates. In this work, we extend the EPR approach to effectively address highly nonlinear superconducting circuits, and, as a proof of concept, we apply our approach to a fluxonium qubit. Specifically, we design, fabricate, and experimentally measure a fluxonium qubit coupled to a readout resonator. We compare the measured frequencies of both the qubit and the resonator to those extracted from the EPR analysis, and we find an excellent agreement. Furthermore, we compare the dispersive shift as a function of external flux obtained from experiments with our EPR analysis and a simpler lumped element model. Our findings reveal that the EPR results closely align with the experimental data, providing more accurate estimations compared to the simplified lumped element simulations.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

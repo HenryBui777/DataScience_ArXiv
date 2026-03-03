@@ -1,0 +1,378 @@
+@article{Rudin_1992_tvloss,
+  author = {Leonid I. Rudin and Stanley Osher and Emad Fatemi},
+  doi = {https://doi.org/10.1016/0167-2789(92)90242-F},
+  url = {https://www.sciencedirect.com/science/article/pii/016727899290242F},
+  issn = {0167-2789},
+  journal = {Physica D: Nonlinear Phenomena},
+  pages = {259-268},
+  year = {1992},
+  abstract = {A constrained optimization type of numerical algorithm for removing noise from images is presented. The total variation of the image is minimized subject to constraints involving the statistics of the noise. The constraints are imposed using Lanrange multipliers. The solution is obtained using the gradient-projection method. This amounts to solving a time dependent partial differential equation on a manifold determined by the constraints. As t → ∞ the solution converges to a steady state which is the denoised image. The numerical algorithm is simple and relatively fast. The results appear to be state-of-the-art for very noisy images. The method is noninvasive, yielding sharp edges in the image. The technique could be interpreted as a first step of moving each level set of the image normal to itself with velocity equal to the curvature of the level set divided by the magnitude of the gradient of the image, and a second step which projects the image back onto the constraint set.},
+  volume = {60},
+  title = {Nonlinear total variation based noise removal algorithms},
+  number = {1},
+}
+
+@inproceedings{ConvLSTM,
+  author = {Shi, Xingjian and Chen, Zhourong and Wang, Hao and Yeung, Dit-Yan and Wong, Wai-kin and Woo, Wang-chun},
+  booktitle = {Proceedings of the 28th International Conference on Neural Information Processing Systems - Volume 1},
+  location = {Montreal, Canada},
+  publisher = {MIT Press},
+  year = {2015},
+  address = {Cambridge, MA, USA},
+  abstract = {The goal of precipitation nowcasting is to predict the future rainfall intensity in a local region over a relatively short period of time. Very few previous studies have examined this crucial and challenging weather forecasting problem from the machine learning perspective. In this paper, we formulate precipitation nowcasting as a spatiotemporal sequence forecasting problem in which both the input and the prediction target are spatiotemporal sequences. By extending the fully connected LSTM (FC-LSTM) to have convolutional structures in both the input-to-state and state-to-state transitions, we propose the convolutional LSTM (ConvLSTM) and use it to build an end-to-end trainable model for the precipitation nowcasting problem. Experiments show that our ConvLSTM network captures spatiotemporal correlations better and consistently outperforms FC-LSTM and the state-of-the-art operational ROVER algorithm for precipitation nowcasting.},
+  pages = {802–810},
+  numpages = {9},
+  series = {NIPS'15},
+  title = {Convolutional LSTM Network: a machine learning approach for precipitation nowcasting},
+}
+
+@inproceedings{devlin-etal-2019-bert,
+}
+
+@inproceedings{bao2022beit,
+  author = {Hangbo Bao and Li Dong and Songhao Piao and Furu Wei},
+  year = {2022},
+  url = {https://openreview.net/forum?id=p-BhZSz59o4},
+  booktitle = {International Conference on Learning Representations},
+  title = {{BE},
+}
+
+@inproceedings{igpt2020chen,
+  author = {Chen, Mark and Radford, Alec and Child, Rewon and Wu, Jeffrey and Jun, Heewoo and Luan, David and Sutskever, Ilya},
+  url = {https://proceedings.mlr.press/v119/chen20s.html},
+  booktitle = {Proceedings of the 37th International Conference on Machine Learning},
+  editor = {III, Hal Daumé and Singh, Aarti},
+  pages = {1691--1703},
+  year = {2020},
+  publisher = {PMLR},
+  abstract = {Inspired by progress in unsupervised representation learning for natural language, we examine whether similar models can learn useful representations for images. We train a sequence Transformer to auto-regressively predict pixels, without incorporating knowledge of the 2D input structure. Despite training on low-resolution ImageNet without labels, we find that a GPT-2 scale model learns strong image representations as measured by linear probing, fine-tuning, and low-data classification. On CIFAR-10, we achieve 96.3% accuracy with a linear probe, outperforming a supervised Wide ResNet, and 99.0% accuracy with full fine-tuning, matching the top supervised pre-trained models. We are also competitive with self-supervised benchmarks on ImageNet when substituting pixels for a VQVAE encoding, achieving 69.0% top-1 accuracy on a linear probe of our features.},
+  month = {13--18 Jul},
+  volume = {119},
+  series = {Proceedings of Machine Learning Research},
+  title = {Generative Pretraining From Pixels},
+  pdf = {http://proceedings.mlr.press/v119/chen20s/chen20s.pdf},
+}
+
+@inproceedings{tong2022videomae,
+  author = {Zhan Tong and Yibing Song and Jue Wang and Limin Wang},
+  year = {2022},
+  booktitle = {Advances in Neural Information Processing Systems},
+  title = {Video{MAE},
+}
+
+@article{vaswani2017attention,
+  author = {Vaswani, Ashish and Shazeer, Noam and Parmar, Niki and Uszkoreit, Jakob and Jones, Llion and Gomez, Aidan N and Kaiser, {\L},
+  year = {2017},
+  volume = {30},
+  title = {Attention is all you need},
+  journal = {Advances in neural information processing systems},
+}
+
+@inproceedings{dae,
+  author = {Vincent, Pascal and Larochelle, Hugo and Bengio, Yoshua and Manzagol, Pierre-Antoine},
+  doi = {10.1145/1390156.1390294},
+  url = {https://doi.org/10.1145/1390156.1390294},
+  booktitle = {Proceedings of the 25th International Conference on Machine Learning},
+  location = {Helsinki, Finland},
+  publisher = {Association for Computing Machinery},
+  year = {2008},
+  address = {New York, NY, USA},
+  isbn = {9781605582054},
+  abstract = {Previous work has shown that the difficulties in learning deep generative or discriminative models can be overcome by an initial unsupervised learning step that maps inputs to useful intermediate representations. We introduce and motivate a new training principle for unsupervised learning of a representation based on the idea of making the learned representations robust to partial corruption of the input pattern. This approach can be used to train autoencoders, and these denoising autoencoders can be stacked to initialize deep architectures. The algorithm can be motivated from a manifold learning and information theoretic perspective or from a generative model perspective. Comparative experiments clearly show the surprising advantage of corrupting the input of autoencoders on a pattern classification benchmark suite.},
+  pages = {1096–1103},
+  numpages = {8},
+  series = {ICML '08},
+  title = {Extracting and composing robust features with denoising autoencoders},
+}
+
+@article{MaskedAutoencoders2021,
+  author = {Kaiming He and Xinlei Chen and Saining Xie and Yanghao Li and Piotr Doll{\'a},
+  year = {2021},
+  title = {Masked Autoencoders Are Scalable Vision Learners},
+  journal = {arXiv:2111.06377},
+}
+
+@article{bachmann2022multimae,
+  author = {Roman Bachmann and David Mizrahi and Andrei Atanov and Amir Zamir},
+  year = {2022},
+  title = {{MultiMAE},
+  journal = {European Conference on Computer Vision},
+}
+
+@article{dosovitskiy2020image,
+  author = {Dosovitskiy, Alexey and Beyer, Lucas and Kolesnikov, Alexander and Weissenborn, Dirk and Zhai, Xiaohua and Unterthiner, Thomas and Dehghani, Mostafa and Minderer, Matthias and Heigold, Georg and Gelly, Sylvain and others},
+  year = {2020},
+  title = {An image is worth 16x16 words: Transformers for image recognition at scale},
+  journal = {arXiv preprint arXiv:2010.11929},
+}
+
+@inproceedings{Zhang_2016_CVPR,
+  author = {Zhang, Yingying and Zhou, Desen and Chen, Siqin and Gao, Shenghua and Ma, Yi},
+  year = {2016},
+  booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  title = {Single-Image Crowd Counting via Multi-Column Convolutional Neural Network},
+  month = {June},
+}
+
+@inproceedings{Li_2018_CSRNet,
+  author = {Li, Yuhong and Zhang, Xiaofan and Chen, Deming},
+  year = {2018},
+  pages = {1091-1100},
+  doi = {10.1109/CVPR.2018.00120},
+  volume = {},
+  booktitle = {2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  title = {CSRNet: Dilated Convolutional Neural Networks for Understanding the Highly Congested Scenes},
+  number = {},
+}
+
+@inproceedings{Liu_2019_CAN,
+  author = {Liu, Weizhe and Salzmann, Mathieu and Fua, Pascal},
+  year = {2019},
+  booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  title = {Context-Aware Crowd Counting},
+  month = {June},
+}
+
+@inproceedings{vlcounter,
+  author = {Kang, Seunggu and Moon, WonJun and Kim, Euiyeon and Heo, Jae-Pil},
+  pages = {2714--2722},
+  year = {2024},
+  volume = {38},
+  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  title = {Vlcounter: Text-aware visual representation for zero-shot object counting},
+}
+
+@inproceedings{clipcount,
+  author = {Jiang, Ruixiang and Liu, Lingbo and Chen, Changwen},
+  doi = {10.1145/3581783.3611789},
+  url = {https://doi.org/10.1145/3581783.3611789},
+  booktitle = {Proceedings of the 31st ACM International Conference on Multimedia},
+  location = {Ottawa ON, Canada},
+  publisher = {Association for Computing Machinery},
+  year = {2023},
+  address = {New York, NY, USA},
+  isbn = {9798400701085},
+  abstract = {Recent advances in visual-language models have shown remarkable zero-shot text-image matching ability that is transferable to downstream tasks such as object detection and segmentation. Adapting these models for object counting, however, remains a formidable challenge. In this study, we first investigate transferring vision-language models (VLMs) for class-agnostic object counting. Specifically, we propose CLIP-Count, the first end-to-end pipeline that estimates density maps for open-vocabulary objects with text guidance in a zero-shot manner. To align the text embedding with dense visual features, we introduce a patch-text contrastive loss that guides the model to learn informative patch-level visual representations for dense prediction. Moreover, we design a hierarchical patch-text interaction module to propagate semantic information across different resolution levels of visual features. Benefiting from the full exploitation of the rich image-text alignment knowledge of pretrained VLMs, our method effectively generates high-quality density maps for objects-of-interest. Extensive experiments on FSC-147, CARPK, and ShanghaiTech crowd counting datasets demonstrate state-of-the-art accuracy and generalizability of the proposed method. Code is available: https://github.com/songrise/CLIP-Count. https://github.com/songrise/CLIP-Count.},
+  pages = {4535–4545},
+  numpages = {11},
+  series = {MM '23},
+  title = {CLIP-Count: Towards Text-Guided Zero-Shot Object Counting},
+  keywords = {zero-shot, text-guided, clip, class-agnostic object counting},
+}
+
+@article{fang2019FDST,
+  author = {Fang, Yanyan and Zhan, Biyun and Cai, Wandi and Gao, Shenghua and Hu, Bo},
+  year = {2019},
+  title = {Locality-constrained Spatial Transformer Network for Video Crowd Counting},
+  journal = {arXiv preprint arXiv:1907.07911},
+}
+
+@inproceedings{Hossain_2020_MOPN,
+  author = {Hossain, Mohammad Asiful and Cannons, Kevin and Jang, Daesik and Cuzzolin, Fabio and Xu, Zhan},
+  year = {2020},
+  booktitle = {Proceedings of the Asian Conference on Computer Vision (ACCV)},
+  title = {Video-Based Crowd Counting Using a Multi-Scale Optical Flow Pyramid Network},
+  month = {November},
+}
+
+@article{FANG2020MLSTN,
+  author = {Yanyan Fang and Shenghua Gao and Jing Li and Weixin Luo and Linfang He and Bo Hu},
+  doi = {https://doi.org/10.1016/j.neucom.2020.01.087},
+  url = {https://www.sciencedirect.com/science/article/pii/S0925231220301454},
+  issn = {0925-2312},
+  journal = {Neurocomputing},
+  pages = {98-107},
+  year = {2020},
+  abstract = {Video-based crowd counting can leverage the spatial-temporal information between neighboring frames, and thus this information would improve the robustness of crowd counting. Therefore, this solution is more practical than single image-based crowd counting in real applications. Since severe occlusions, translation, rotation, and scaling of persons will give rise to the change of density map of heads between neighboring frames, video-based crowd counting is a very challenging task. To alleviate these issues in video crowd counting, a Multi-Level Feature Fusion Based Locality-Constrained Spatial Transformer Network (MLSTN) is proposed, which consists of two components, namely density map regression module and Locality-Constrained Spatial Transformer (LST) module. Specifically, we first estimate the density map of each frame by utilizing the combination of the low-level, middle-level and high-level features of the Convolutional Neural Networks. This is because the low-level features may be more effective in the extraction of small head information, while the middle and high level features are more effective in the extraction of medium and large head information. Then to measure the relationship of the density maps between neighboring frames, the LST module is proposed, which estimates the density map of the next frame by concatenating several regression density maps. To facilitate the performance evaluation for video crowd counting, we have collected and labeled a large-scale video crowd counting dataset which includes 100 five-second-long sequences with 394,081 annotated heads from 13 different scenes. As far as we know, it is the largest video crowd counting dataset. Extensive experiments show the effectiveness of our proposed approach for crowd counting on our dataset and other video-based crowd counting datasets. All our dataset are released online.11https://github.com/sweetyy83/Lstn_fdst_dataset.},
+  volume = {392},
+  title = {Multi-level feature fusion based Locality-Constrained Spatial Transformer network for video crowd counting},
+  keywords = {Convolutional neural network, Locality-constrained spatial transformer network, Video crowd counting, Multi-level feature fusion},
+}
+
+@inproceedings{Liu_2020_EPF,
+  author = {Liu, Weizhe and Salzmann, Mathieu and Fua, Pascal},
+  year = {2020},
+  booktitle = {The European Conference on Computer Vision (ECCV)},
+  title = {Estimating People Flows to Better Count Them in Crowded Scenes},
+  month = {August},
+}
+
+@inproceedings{Meng_2021_PHNet,
+  author = {Meng, Shiqiao and Li, Jiajie and Guo, Weiwei and Ye, Lai and Jiang, Jinfeng},
+  year = {2021},
+  pages = {1956-1963},
+  doi = {10.1109/ICPR48806.2021.9412792},
+  volume = {},
+  booktitle = {2020 25th International Conference on Pattern Recognition (ICPR)},
+  title = {PHNet: Parasite-Host Network for Video Crowd Counting},
+  number = {},
+}
+
+@article{Li_2022_GNANet,
+  author = {Li, Haopeng and Liu, Lingbo and Yang, Kunlin and Liu, Shinan and Gao, Junyu and Zhao, Bin and Zhang, Rui and Hou, Jun},
+  year = {2022},
+  pages = {6032-6047},
+  doi = {10.1109/TIP.2022.3205210},
+  volume = {31},
+  title = {Video Crowd Localization With Multifocus Gaussian Neighborhood Attention and a Large-Scale Benchmark},
+  journal = {IEEE Transactions on Image Processing},
+  number = {},
+}
+
+@inproceedings{Avvenuti_2022_PeopleFLowTF,
+  author = {Avvenuti, Marco and Bongiovanni, Marco and Ciampi, Luca and Falchi, Fabrizio and Gennaro, Claudio and Messina, Nicola},
+  year = {2022},
+  pages = {1-6},
+  doi = {10.1109/ISCC55528.2022.9913019},
+  volume = {},
+  booktitle = {2022 IEEE Symposium on Computers and Communications (ISCC)},
+  title = {A Spatio-Temporal Attentive Network for Video-Based Crowd Counting},
+  number = {},
+}
+
+@misc{bai2021monet,
+  author = {Haoyue Bai and S. -H. Gary Chan},
+  year = {2021},
+  archiveprefix = {arXiv},
+  primaryclass = {cs.CV},
+  eprint = {2104.13946},
+  title = {Motion-guided Non-local Spatial-Temporal Network for Video Crowd Counting},
+}
+
+@article{liang2022transcrowd,
+  author = {Liang, Dingkang and Chen, Xiwu and Xu, Wei and Zhou, Yu and Bai, Xiang},
+  pages = {1--14},
+  year = {2022},
+  publisher = {Springer},
+  volume = {65},
+  title = {TransCrowd: weakly-supervised crowd counting with transformers},
+  journal = {Science China Information Sciences},
+  number = {6},
+}
+
+@inproceedings{Feng_2017_ConvLSTM,
+  author = {Xiong, Feng and Shi, Xingjian and Yeung, Dit-Yan},
+  year = {2017},
+  pages = {5161-5169},
+  doi = {10.1109/ICCV.2017.551},
+  volume = {},
+  booktitle = {2017 IEEE International Conference on Computer Vision (ICCV)},
+  title = {Spatiotemporal Modeling for Crowd Counting in Videos},
+  number = {},
+}
+
+@article{wu2020tan,
+  author = {Wu, Xingjiao and Xu, Baohan and Zheng, Yingbin and Ye, Hao and Yang, Jing and He, Liang},
+  pages = {13--20},
+  year = {2020},
+  publisher = {Elsevier},
+  volume = {403},
+  title = {Fast video crowd counting with a temporal aware network},
+  journal = {Neurocomputing},
+}
+
+@article{zou2019e3d,
+  author = {Zou, Zhikang and Shao, Huiliang and Qu, Xiaoye and Wei, Wei and Zhou, Pan},
+  year = {2019},
+  title = {Enhanced 3D convolutional networks for crowd counting},
+  journal = {arXiv preprint arXiv:1908.04121},
+}
+
+@inproceedings{yang2020rpnet,
+  author = {Yang, Yifan and Li, Guorong and Wu, Zhe and Su, Li and Huang, Qingming and Sebe, Nicu},
+  pages = {4374--4383},
+  year = {2020},
+  booktitle = {Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  title = {Reverse perspective network for perspective-aware object counting},
+}
+
+@article{tian2021cctrans,
+  author = {Tian, Ye and Chu, Xiangxiang and Wang, Hongpeng},
+  year = {2021},
+  title = {Cctrans: Simplifying and improving crowd counting with transformer},
+  journal = {arXiv preprint arXiv:2109.14483},
+}
+
+@article{du2023redesigning,
+  author = {Du, Zhipeng and Shi, Miaojing and Deng, Jiankang and Zafeiriou, Stefanos},
+  year = {2023},
+  publisher = {IEEE},
+  title = {Redesigning multi-scale neural network for crowd counting},
+  journal = {IEEE Transactions on Image Processing},
+}
+
+@inproceedings{liu2023pet,
+  author = {Liu, Chengxin and Lu, Hao and Cao, Zhiguo and Liu, Tongliang},
+  year = {2023},
+  booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  title = {Point-Query Quadtree for Crowd Counting, Localization, and More},
+}
+
+@inproceedings{Sun2018PWC-Net,
+  author = {Deqing Sun and Xiaodong Yang and Ming-Yu Liu and Jan Kautz},
+  year = {2018},
+  booktitle = {2018 IEEE Conference on Computer Vision and Pattern Recognition},
+  title = {{PWC-Net},
+}
+
+@inproceedings{Mall,
+  author = {Loy, Chen Change and Gong, Shaogang and Xiang, Tao},
+  year = {2013},
+  pages = {2256-2263},
+  doi = {10.1109/ICCV.2013.270},
+  volume = {},
+  booktitle = {2013 IEEE International Conference on Computer Vision},
+  title = {From Semi-supervised to Transfer Counting of Crowds},
+  number = {},
+}
+
+@article{birdcount,
+  author = {Wang, Hongchang
+and Lu, Huaxiang
+and Guo, Huimin
+and Jian, Haifang
+and Gan, Chuang
+and Liu, Wu},
+  doi = {10.1007/s11042-023-14833-z},
+  url = {https://doi.org/10.1007/s11042-023-14833-z},
+  day = {29},
+  issn = {1573-7721},
+  journal = {Multimedia Tools and Applications},
+  abstract = {The fluctuation of the bird population reflects the change in the ecosystem, which plays a vital role in ecosystem conservation. However, manual counting is still the mainstream method for bird population counting, which is time-consuming and laborious. One major bottleneck in developing efficient, accurate, and intelligent learning algorithms to counting birds is the lack of large-scale datasets. In this paper, the first large-scale bird population counting dataset, named Bird-Count, with multi-modality morphology annotations is proposed. This paper first evaluates various state-of-the-art (SOTA) models for crowd counting on the Bird-Count and gets poor results. The reason is that the forms, appearances, and postures among different birds are more variant than the crowd. To mitigate these challenges, a simple yet effective plug-and-play framework, called Morphology Prior Knowledge Fusion Network (MPKNet), which can be used on-site to help generate a high-precision bird population density map by incorporating morphological prior knowledge, is proposed. Comprehensive evaluations show that the proposed method can reduce the error rate by 6.02{\%},
+  year = {2023},
+  title = {Bird-Count: a multi-modality benchmark and system for bird population counting in the wild},
+  month = {Apr},
+}
+
+@inproceedings{chfl,
+  author = {Shu, Weibo and Wan, Jia and Tan, Kay Chen and Kwong, Sam and Chan, Antoni B},
+  pages = {19618--19627},
+  year = {2022},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  title = {Crowd Counting in the Frequency Domain},
+}
+
+@inproceedings{lin2022boosting,
+  author = {Lin, Hui and Ma, Zhiheng and Ji, Rongrong and Wang, Yaowei and Hong, Xiaopeng},
+  year = {2022},
+  booktitle = {CVPR},
+  title = {Boosting Crowd Counting via Multifaceted Attention},
+}
+
+@inproceedings{ma2019bayesian,
+  author = {Ma, Zhiheng and Wei, Xing and Hong, Xiaopeng and Gong, Yihong},
+  pages = {6142--6151},
+  year = {2019},
+  booktitle = {Proceedings of the IEEE International Conference on Computer Vision},
+  title = {Bayesian loss for crowd count estimation with point supervision},
+}
+
+@misc{lin2024gram,
+  author = {Hui Lin and Zhiheng Ma and Xiaopeng Hong and Qinnan Shangguan and Deyu Meng},
+  year = {2024},
+  archiveprefix = {arXiv},
+  url = {https://arxiv.org/abs/2401.03870},
+  primaryclass = {cs.CV},
+  eprint = {2401.03870},
+  title = {Gramformer: Learning Crowd Counting via Graph-Modulated Transformer},
+}

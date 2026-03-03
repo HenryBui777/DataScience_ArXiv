@@ -1,0 +1,483 @@
+{
+  "2501-16050": {
+    "title": "Skeleton-Guided-Translation: A Benchmarking Framework for Code Repository Translation with Fine-Grained Quality Evaluation",
+    "authors": [
+      "Xing Zhang",
+      "Jiaheng Wen",
+      "Fangkai Yang",
+      "Pu Zhao",
+      "Yu Kang",
+      "Junhao Wang",
+      "Maoquan Wang",
+      "Yufan Huang",
+      "Elsie Nallipogu",
+      "Qingwei Lin",
+      "Yingnong Dang",
+      "S. Rajmohan",
+      "Dongmei Zhang",
+      "Qi Zhang"
+    ],
+    "publication_date": "2025-01-27",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "0e7d3998a31d92699e6fa0335b143d1a509d3713",
+    "corpus_id": 275920885,
+    "category": "Computer Science"
+  },
+  "2501-14257": {
+    "title": "C2SaferRust: Transforming C Projects into Safer Rust with NeuroSymbolic Techniques",
+    "authors": [
+      "Vikram Nitin",
+      "Rahul Krishna",
+      "Luiz Lemos do Valle",
+      "Baishakhi Ray"
+    ],
+    "publication_date": "2025-01-24",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "839829e6b6e758f4504a1acc9f07b1b6405a1262",
+    "corpus_id": 275907101,
+    "category": "Computer Science"
+  },
+  "2412-17744": {
+    "title": "RepoTransBench: A Real-World Benchmark for Repository-Level Code Translation",
+    "authors": [
+      "Yanlin Wang",
+      "Yanlin Wang",
+      "Suiquan Wang",
+      "Daya Guo",
+      "Jiachi Chen",
+      "John C. Grundy",
+      "Xilin Liu",
+      "Yuchi Ma",
+      "Mingzhi Mao",
+      "Hongyu Zhang",
+      "Zibin Zheng"
+    ],
+    "publication_date": "2024-12-23",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "c612e974ca0ca88fe9d7af5d3a654489bf5a861e",
+    "corpus_id": 274992338,
+    "category": "Computer Science"
+  },
+  "2412-08035": {
+    "title": "Scalable, Validated Code Translation of Entire Projects using Large Language Models",
+    "authors": [
+      "Hanliang Zhang",
+      "Cristina David",
+      "Meng Wang",
+      "Brandon Paulsen",
+      "Daniel Kroening"
+    ],
+    "publication_date": "2024-12-11",
+    "venue": "Proc. ACM Program. Lang.",
+    "semantic_scholar_id": "0f622938eba7878c6b7be12f1577c041f4f9d37a",
+    "corpus_id": 274638869,
+    "category": "Computer Science"
+  },
+  "2409-12186": {
+    "title": "Qwen2.5-Coder Technical Report",
+    "authors": [
+      "Binyuan Hui",
+      "Jian Yang",
+      "Zeyu Cui",
+      "Jiaxi Yang",
+      "Dayiheng Liu",
+      "Lei Zhang",
+      "Tianyu Liu",
+      "Jiajun Zhang",
+      "Bowen Yu",
+      "Kai Dang",
+      "An Yang",
+      "Rui Men",
+      "Fei Huang",
+      "Shanghaoran Quan",
+      "Xingzhang Ren",
+      "Xuancheng Ren",
+      "Jingren Zhou",
+      "Junyang Lin"
+    ],
+    "publication_date": "2024-09-18",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "11dd2fc88747d20629f5aafab72ba649d93e969c",
+    "corpus_id": 272707390,
+    "category": "Computer Science"
+  },
+  "2404-14646": {
+    "title": "Exploring and Unleashing the Power of Large Language Models in Automated Code Translation",
+    "authors": [
+      "Zhen Yang",
+      "Fang Liu",
+      "Zhongxing Yu",
+      "J. Keung",
+      "Jia Li",
+      "Shuo Liu",
+      "Yifan Hong",
+      "Xiaoxue Ma",
+      "Zhi Jin",
+      "Ge Li"
+    ],
+    "publication_date": "2024-04-23",
+    "venue": "Proc. ACM Softw. Eng.",
+    "semantic_scholar_id": "a8a42eaf78d66bd5cdc5e951befbf731ceca59c1",
+    "corpus_id": 269303184,
+    "category": "Computer Science"
+  },
+  "2403-17214": {
+    "title": "Exploring the Impact of the Output Format on the Evaluation of Large Language Models for Code Translation",
+    "authors": [
+      "Marcos Macedo",
+      "Yuan Tian",
+      "F. Côgo",
+      "Bram Adams"
+    ],
+    "publication_date": "2024-03-25",
+    "venue": "2024 IEEE/ACM First International Conference on AI Foundation Models and Software Engineering (Forge) Conference Acronym:",
+    "semantic_scholar_id": "58822c5fdcf114460e7ab858302570bc08b74012",
+    "corpus_id": 268691363,
+    "category": "Computer Science"
+  },
+  "2402-16667": {
+    "title": "RepoAgent: An LLM-Powered Open-Source Framework for Repository-level Code Documentation Generation",
+    "authors": [
+      "Qinyu Luo",
+      "Yining Ye",
+      "Shihao Liang",
+      "Zhong Zhang",
+      "Yujia Qin",
+      "Ya-Ting Lu",
+      "Yesai Wu",
+      "Xin Cong",
+      "Yankai Lin",
+      "Yingli Zhang",
+      "Xiaoyin Che",
+      "Zhiyuan Liu",
+      "Maosong Sun"
+    ],
+    "publication_date": "2024-02-26",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "f1b6c8bc0f5675c6398d56fdb86d574d48b3f91d",
+    "corpus_id": 268032490,
+    "category": "Computer Science"
+  },
+  "2401-06391": {
+    "title": "Teaching Code LLMs to Use Autocompletion Tools in Repository-Level Code Generation",
+    "authors": [
+      "Chong Wang",
+      "Jian Zhang",
+      "Yebo Feng",
+      "Tianlin Li",
+      "Weisong Sun",
+      "Yang Liu",
+      "Xin Peng"
+    ],
+    "publication_date": "2024-01-12",
+    "venue": "ACM Transactions on Software Engineering and Methodology",
+    "semantic_scholar_id": "9b7324a56ecb5600a9701c34028af2e5953d7275",
+    "corpus_id": 266977002,
+    "category": "Computer Science"
+  },
+  "2310-04951": {
+    "title": "CodeTransOcean: A Comprehensive Multilingual Benchmark for Code Translation",
+    "authors": [
+      "Weixiang Yan",
+      "Yuchen Tian",
+      "Yunzhe Li",
+      "Qian Chen",
+      "Wen Wang"
+    ],
+    "publication_date": "2023-10-08",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "6346dd1e2426e51d2ab8b7eef017714d2d60ed22",
+    "corpus_id": 263829517,
+    "category": "Computer Science"
+  },
+  "2308-08961": {
+    "title": "On the Evaluation of Neural Code Translation: Taxonomy and Benchmark",
+    "authors": [
+      "Mingsheng Jiao",
+      "Tingrui Yu",
+      "Xuan Li",
+      "Guanjie Qiu",
+      "Xiaodong Gu",
+      "Beijun Shen"
+    ],
+    "publication_date": "2023-08-17",
+    "venue": "International Conference on Automated Software Engineering",
+    "semantic_scholar_id": "20d94650a47e00e395db9fc48b6f7e9b4470d370",
+    "corpus_id": 261030272,
+    "category": "Computer Science"
+  },
+  "2307-14991": {
+    "title": "Multilingual Code Co-evolution using Large Language Models",
+    "authors": [
+      "Jiyang Zhang",
+      "Pengyu Nie",
+      "Junyi Jessy Li",
+      "Miloš Gligorić"
+    ],
+    "publication_date": "2023-07-27",
+    "venue": "ESEC/SIGSOFT FSE",
+    "semantic_scholar_id": "aef0e3460a0f5c6840891131aeb2036b9f771da5",
+    "corpus_id": 260203327,
+    "category": "Computer Science"
+  },
+  "2307-08177": {
+    "title": "Using an LLM to Help with Code Understanding",
+    "authors": [
+      "Daye Nam",
+      "A. Macvean",
+      "Vincent J. Hellendoorn",
+      "Bogdan Vasilescu",
+      "B. Myers"
+    ],
+    "publication_date": "2023-07-17",
+    "venue": "International Conference on Software Engineering",
+    "semantic_scholar_id": "f5ea85f67fc5ea9cce2c5345ed92740f7377cb2e",
+    "corpus_id": 259937834,
+    "category": "Computer Science"
+  },
+  "2306-06755": {
+    "title": "CoTran: An LLM-Based Code Translator Using Reinforcement Learning with Feedback from Compiler and Symbolic Execution",
+    "authors": [
+      "Prithwish Jana",
+      "Piyush Jha",
+      "Haoyang Ju",
+      "Gautham Kishore",
+      "Aryan Mahajan",
+      "Vijay Ganesh"
+    ],
+    "publication_date": "2023-06-11",
+    "venue": "European Conference on Artificial Intelligence",
+    "semantic_scholar_id": "af8b27589fe82035c1bf705177c6e06e78a181aa",
+    "corpus_id": 259138621,
+    "category": "Computer Science"
+  },
+  "2303-03004": {
+    "title": "XCodeEval: An Execution-based Large Scale Multilingual Multitask Benchmark for Code Understanding, Generation, Translation and Retrieval",
+    "authors": [
+      "Mohammad Abdullah Matin Khan",
+      "M Saiful Bari",
+      "Xuan Long Do",
+      "Weishi Wang",
+      "Md. Rizwan Parvez",
+      "Shafiq R. Joty"
+    ],
+    "publication_date": "2023-03-06",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "fcda3c77c737efc84a24fa6706d262cde3355e0e",
+    "corpus_id": 260546394,
+    "category": "Computer Science"
+  },
+  "2206-08474": {
+    "title": "XLCoST: A Benchmark Dataset for Cross-lingual Code Intelligence",
+    "authors": [
+      "Ming Zhu",
+      "Aneesh Jain",
+      "Karthik Suresh",
+      "Roshan Ravindran",
+      "Sindhu Tipirneni",
+      "Chandan K. Reddy"
+    ],
+    "publication_date": "2022-06-16",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "660fde2f51e025638b8c937bf228ecaa5c5b649c",
+    "corpus_id": 249848115,
+    "category": "Computer Science"
+  },
+  "2107-03374": {
+    "title": "Evaluating Large Language Models Trained on Code",
+    "authors": [
+      "Mark Chen",
+      "Jerry Tworek",
+      "Heewoo Jun",
+      "Qiming Yuan",
+      "Henrique Pondé",
+      "Jared Kaplan",
+      "Harrison Edwards",
+      "Yura Burda",
+      "Nicholas Joseph",
+      "Greg Brockman",
+      "Alex Ray",
+      "Raul Puri",
+      "Gretchen Krueger",
+      "Michael Petrov",
+      "Heidy Khlaaf",
+      "Girish Sastry",
+      "Pamela Mishkin",
+      "Brooke Chan",
+      "Scott Gray",
+      "Nick Ryder",
+      "Mikhail Pavlov",
+      "Alethea Power",
+      "Lukasz Kaiser",
+      "Mo Bavarian",
+      "Clemens Winter",
+      "P. Tillet",
+      "F. Such",
+      "D. Cummings",
+      "Matthias Plappert",
+      "Fotios Chantzis",
+      "Elizabeth Barnes",
+      "Ariel Herbert-Voss",
+      "William H. Guss",
+      "Alex Nichol",
+      "Igor Babuschkin",
+      "S. Balaji",
+      "Shantanu Jain",
+      "A. Carr",
+      "Jan Leike",
+      "Josh Achiam",
+      "Vedant Misra",
+      "Evan Morikawa",
+      "Alec Radford",
+      "M. Knight",
+      "Miles Brundage",
+      "Mira Murati",
+      "Katie Mayer",
+      "Peter Welinder",
+      "Bob McGrew",
+      "Dario Amodei",
+      "Sam McCandlish",
+      "I. Sutskever",
+      "Wojciech Zaremba"
+    ],
+    "publication_date": "2021-07-07",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269",
+    "corpus_id": 235755472,
+    "category": "Computer Science"
+  },
+  "2105-12655": {
+    "title": "CodeNet: A Large-Scale AI for Code Dataset for Learning a Diversity of Coding Tasks",
+    "authors": [
+      "Ruchi Puri",
+      "David S. Kung",
+      "G. Janssen",
+      "Wei Zhang",
+      "Giacomo Domeniconi",
+      "Vladmir A. Zolotov",
+      "Julian Dolby",
+      "Jie Chen",
+      "M. Choudhury",
+      "Lindsey Decker",
+      "Veronika Thost",
+      "Luca Buratti",
+      "Saurabh Pujar",
+      "Ulrich Finkler"
+    ],
+    "publication_date": "2021-05-25",
+    "venue": "NeurIPS Datasets and Benchmarks",
+    "semantic_scholar_id": "7547680408358916e66917d03436fca7540a7528",
+    "corpus_id": 235195915,
+    "category": "Computer Science"
+  },
+  "2103-09728": {
+    "title": "Learning migration models for supporting incremental language migrations of software applications",
+    "authors": [
+      "Bruno Gois Mateus",
+      "Matias Martinez",
+      "C. Kolski"
+    ],
+    "publication_date": "2021-03-17",
+    "venue": "Information and Software Technology",
+    "semantic_scholar_id": "7b4c251ea81109aeaac17dfbc5690bf5992d6289",
+    "corpus_id": 252523875,
+    "category": "Computer Science"
+  },
+  "2102-04664": {
+    "title": "CodeXGLUE: A Machine Learning Benchmark Dataset for Code Understanding and Generation",
+    "authors": [
+      "Shuai Lu",
+      "Daya Guo",
+      "Shuo Ren",
+      "Junjie Huang",
+      "Alexey Svyatkovskiy",
+      "Ambrosio Blanco",
+      "Colin B. Clement",
+      "Dawn Drain",
+      "Daxin Jiang",
+      "Duyu Tang",
+      "Ge Li",
+      "Lidong Zhou",
+      "Linjun Shou",
+      "Long Zhou",
+      "Michele Tufano",
+      "Ming Gong",
+      "Ming Zhou",
+      "Nan Duan",
+      "Neel Sundaresan",
+      "Shao Kun Deng",
+      "Shengyu Fu",
+      "Shujie Liu"
+    ],
+    "publication_date": "2021-02-09",
+    "venue": "NeurIPS Datasets and Benchmarks",
+    "semantic_scholar_id": "870ff1dde0c103c3d90be51880f984628e77a8d6",
+    "corpus_id": 231855531,
+    "category": "Computer Science"
+  },
+  "2006-03511": {
+    "title": "Unsupervised Translation of Programming Languages",
+    "authors": [
+      "M. Lachaux",
+      "Baptiste Rozière",
+      "L. Chanussot",
+      "Guillaume Lample"
+    ],
+    "publication_date": "2020-06-05",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "df56748cd4f52a58973b4ac52c0bf9156c5f52f0",
+    "corpus_id": 219401607,
+    "category": "Computer Science"
+  },
+  "1810-02720": {
+    "title": "TRANX: A Transition-based Neural Abstract Syntax Parser for Semantic Parsing and Code Generation",
+    "authors": [
+      "Pengcheng Yin",
+      "Graham Neubig"
+    ],
+    "publication_date": "2018-10-05",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "649c1148439a4e875dab414ba67bf8c80350af4a",
+    "corpus_id": 52926380,
+    "category": "Computer Science"
+  },
+  "1802-03691": {
+    "title": "Tree-to-tree Neural Networks for Program Translation",
+    "authors": [
+      "Xinyun Chen",
+      "Chang Liu",
+      "D. Song"
+    ],
+    "publication_date": "2018-02-11",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "6c6170ffb39cdc8cfffbeda9c7a2259eda5875f2",
+    "corpus_id": 600040,
+    "category": "Computer Science"
+  },
+  "1601-01280": {
+    "title": "Language to Logical Form with Neural Attention",
+    "authors": [
+      "Li Dong",
+      "Mirella Lapata"
+    ],
+    "publication_date": "2016-01-06",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "558ac446dc26bee9789d660a251b75728cb6eeb2",
+    "corpus_id": 15412473,
+    "category": "Computer Science"
+  },
+  "1503-05432": {
+    "title": "Discrete Signal Processing on Graphs: Sampling Theory",
+    "authors": [
+      "Siheng Chen",
+      "R. Varma",
+      "A. Sandryhaila",
+      "J. Kovacevic"
+    ],
+    "publication_date": "2015-03-03",
+    "venue": "IEEE Transactions on Signal Processing",
+    "semantic_scholar_id": "fd6432fa2b032dd5f246d26460bf3353c43c257a",
+    "corpus_id": 5559892,
+    "category": "Mathematics, Computer Science"
+  }
+}

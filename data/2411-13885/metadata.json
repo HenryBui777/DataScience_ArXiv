@@ -1,0 +1,17 @@
+{
+  "title": "Trajectory Tracking Using Frenet Coordinates with Deep Deterministic Policy Gradient",
+  "authors": [
+    "Tongzhou Jiang",
+    "Lipeng Liu",
+    "Junyue Jiang",
+    "Tianyao Zheng",
+    "Yuhui Jin",
+    "Kunpeng Xu"
+  ],
+  "summary": "This paper studies the application of the DDPG algorithm in trajectory-tracking tasks and proposes a trajectorytracking control method combined with Frenet coordinate system. By converting the vehicle's position and velocity information from the Cartesian coordinate system to Frenet coordinate system, this method can more accurately describe the vehicle's deviation and travel distance relative to the center line of the road. The DDPG algorithm adopts the Actor-Critic framework, uses deep neural networks for strategy and value evaluation, and combines the experience replay mechanism and target network to improve the algorithm's stability and data utilization efficiency. Experimental results show that the DDPG algorithm based on Frenet coordinate system performs well in trajectory-tracking tasks in complex environments, achieves high-precision and stable path tracking, and demonstrates its application potential in autonomous driving and intelligent transportation systems. Keywords- DDPG; path tracking; robot navigation",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

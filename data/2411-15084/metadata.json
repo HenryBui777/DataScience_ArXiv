@@ -1,0 +1,18 @@
+{
+  "title": "Leapfrog Latent Consistency Model (LLCM) for Medical Images Generation",
+  "authors": [
+    "Lakshmikar R. Polamreddy",
+    "Kalyan Roy",
+    "Sheng-Han Yueh",
+    "Deepshikha Mahato",
+    "Shilpa Kuppili",
+    "Jialu Li",
+    "Youshan Zhang"
+  ],
+  "summary": "The scarcity of accessible medical image data poses a significant obstacle in effectively training deep learning models for medical diagnosis, as hospitals refrain from sharing their data due to privacy concerns. In response, we gathered a diverse dataset named MedImgs, which comprises over 250,127 images spanning 61 disease types and 159 classes of both humans and animals from open-source repositories. We propose a Leapfrog Latent Consistency Model (LLCM) that is distilled from a retrained diffusion model based on the collected MedImgs dataset, which enables our model to generate real-time high-resolution images. We formulate the reverse diffusion process as a probability flow ordinary differential equation (PF-ODE) and solve it in latent space using the Leapfrog algorithm. This formulation enables rapid sampling without necessitating additional iterations. Our model demonstrates state-of-the-art performance in generating medical images. Furthermore, our model can be fine-tuned with any custom medical image datasets, facilitating the generation of a vast array of images. Our experimental results outperform those of existing models on unseen dog cardiac X-ray images. Source code is available at https://github.com/lskdsjy/LeapfrogLCM.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.CV, cs.LG"
+}

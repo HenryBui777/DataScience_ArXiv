@@ -1,0 +1,15 @@
+{
+  "title": "An Efficient Multicast Addressing Encoding Scheme for Multi-Core Neuromorphic Processors",
+  "authors": [
+    "Zhe Su",
+    "Aron Bencsik",
+    "Giacomo Indiveri",
+    "Davide Bertozzi"
+  ],
+  "summary": "Multi-core neuromorphic processors are becoming increasingly significant due to their energy-efficient local computing and scalable modular architecture, particularly for event-based processing applications. However, minimizing the cost of inter-core communication, which accounts for the majority of energy usage, remains a challenging issue. Beyond optimizing circuit design at lower abstraction levels, an efficient multicast addressing scheme is crucial. We propose a hierarchical bit string encoding scheme that largely expands the addressing capability of state-of-the-art symbol-based schemes for the same number of routing bits. When put at work with a real neuromorphic task, this hierarchical bit string encoding achieves a reduction in area cost by approximately 29% and decreases energy consumption by about 50%.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AR, cs.NE"
+}

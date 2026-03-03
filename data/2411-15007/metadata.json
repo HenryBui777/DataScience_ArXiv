@@ -1,0 +1,14 @@
+{
+  "title": "FTA generation using GenAI with an Autonomy sensor Usecase",
+  "authors": [
+    "Sneha Sudhir Shetiya",
+    "Divya Garikapati",
+    "Veeraja Sohoni"
+  ],
+  "summary": "Functional safety forms an important aspect in the design of systems. Its emphasis on the automotive industry has evolved significantly over the years. Till date many methods have been developed to get appropriate FTA(Fault Tree analysis) for various scenarios and features pertaining to Autonomous Driving. This paper is an attempt to explore the scope of using Generative Artificial Intelligence(GenAI) in order to develop Fault Tree Analysis(FTA) with the use case of malfunction for the Lidar sensor in mind. We explore various available open source Large Language Models(LLM) models and then dive deep into one of them to study its responses and provide our analysis. This paper successfully shows the possibility to train existing Large Language models through Prompt Engineering for fault tree analysis for any Autonomy usecase aided with PlantUML tool.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY, cs.AI, cs.CR, cs.LG"
+}

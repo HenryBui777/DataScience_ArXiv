@@ -1,0 +1,524 @@
+{
+  "2303-12233": {
+    "title": "Loki: Large-scale Data Reconstruction Attack against Federated Learning through Model Manipulation",
+    "authors": [
+      "Joshua C. Zhao",
+      "Atul Sharma",
+      "A. Elkordy",
+      "Yahya H. Ezzeldin",
+      "A. Avestimehr",
+      "S. Bagchi"
+    ],
+    "publication_date": "2023-03-21",
+    "venue": "IEEE Symposium on Security and Privacy",
+    "semantic_scholar_id": "1c141cccc2d6232486754796b55b6effab25ddac",
+    "corpus_id": 257663882,
+    "category": "Computer Science"
+  },
+  "2302-12685": {
+    "title": "Active Membership Inference Attack under Local Differential Privacy in Federated Learning",
+    "authors": [
+      "Truc Nguyen",
+      "Phung Lai",
+      "K. Tran",
+      "Nhathai Phan",
+      "M. Thai"
+    ],
+    "publication_date": "2023-02-24",
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "semantic_scholar_id": "65656158b9ae07066560d7281ef5e44f93f9aeab",
+    "corpus_id": 257205978,
+    "category": "Computer Science"
+  },
+  "2202-00580": {
+    "title": "Fishing for User Data in Large-Batch Federated Learning via Gradient Magnification",
+    "authors": [
+      "Yuxin Wen",
+      "Jonas Geiping",
+      "Liam H. Fowl",
+      "Micah Goldblum",
+      "T. Goldstein"
+    ],
+    "publication_date": "2022-02-01",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "15f02cbec831f34d22fba7038a14802baf0d043d",
+    "corpus_id": 246441809,
+    "category": "Computer Science"
+  },
+  "2112-13416": {
+    "title": "Attribute Inference Attack of Speech Emotion Recognition in Federated Learning Settings",
+    "authors": [
+      "Tiantian Feng",
+      "H. Hashemi",
+      "Rajat Hebbar",
+      "M. Annavaram",
+      "Shrikanth S. Narayanan"
+    ],
+    "publication_date": "2021-12-26",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "5cb3d28958c5c0cb9e17ae28b4904fbbd8529588",
+    "corpus_id": 245502347,
+    "category": "Computer Science"
+  },
+  "2110-13057": {
+    "title": "Robbing the Fed: Directly Obtaining Private Data in Federated Learning with Modified Models",
+    "authors": [
+      "Liam H. Fowl",
+      "Jonas Geiping",
+      "W. Czaja",
+      "Micah Goldblum",
+      "T. Goldstein"
+    ],
+    "publication_date": "2021-10-25",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "1a9004ca6d1d5f18e3f2925c4ab1fbea5fb2fd68",
+    "corpus_id": 239769161,
+    "category": "Computer Science"
+  },
+  "2109-12298": {
+    "title": "Opacus: User-Friendly Differential Privacy Library in PyTorch",
+    "authors": [
+      "Ashkan Yousefpour",
+      "I. Shilov",
+      "Alexandre Sablayrolles",
+      "Davide Testuggine",
+      "Karthik Prasad",
+      "Mani Malek",
+      "John Nguyen",
+      "Sayan Gosh",
+      "Akash Bharadwaj",
+      "Jessica Zhao",
+      "Graham Cormode",
+      "Ilya Mironov"
+    ],
+    "publication_date": "2021-09-25",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "bea1187a1f8a68f1a93f0c2fa10d31f93a30f84e",
+    "corpus_id": 237940511,
+    "category": "Computer Science"
+  },
+  "2108-06910": {
+    "title": "A Novel Attribute Reconstruction Attack in Federated Learning",
+    "authors": [
+      "L. Lyu",
+      "Chen Chen"
+    ],
+    "publication_date": "2021-08-16",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "1228dd076998d3f609a1087d738139118a49146b",
+    "corpus_id": 237091749,
+    "category": "Computer Science"
+  },
+  "2108-04884": {
+    "title": "Retiring Adult: New Datasets for Fair Machine Learning",
+    "authors": [
+      "Frances Ding",
+      "Moritz Hardt",
+      "John Miller",
+      "Ludwig Schmidt"
+    ],
+    "publication_date": "2021-08-10",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "0b40b4c631e3bfe8211c1529168029df7ad2e8e8",
+    "corpus_id": 236975962,
+    "category": "Computer Science, Mathematics"
+  },
+  "2104-07586": {
+    "title": "See through Gradients: Image Batch Recovery via GradInversion",
+    "authors": [
+      "Hongxu Yin",
+      "Arun Mallya",
+      "Arash Vahdat",
+      "J. Álvarez",
+      "Jan Kautz",
+      "Pavlo Molchanov"
+    ],
+    "publication_date": "2021-04-15",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "0fd50e1483f761ba2bae44de54c5e8db6e35de5a",
+    "corpus_id": 233241017,
+    "category": "Computer Science"
+  },
+  "2012-06337": {
+    "title": "Privacy and Robustness in Federated Learning: Attacks and Defenses",
+    "authors": [
+      "L. Lyu",
+      "Han Yu",
+      "Xingjun Ma",
+      "Lichao Sun",
+      "Jun Zhao",
+      "Qiang Yang",
+      "Philip S. Yu"
+    ],
+    "publication_date": "2020-12-07",
+    "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+    "semantic_scholar_id": "8448010d9adad18bf36070c012770a10ecb21c76",
+    "corpus_id": 228373690,
+    "category": "Computer Science, Medicine"
+  },
+  "2101-08204": {
+    "title": "secureTF: A Secure TensorFlow Framework",
+    "authors": [
+      "D. Quoc",
+      "Franz Gregor",
+      "Sergei Arnautov",
+      "Roland Kunkel",
+      "Pramod Bhatotia",
+      "C. Fetzer"
+    ],
+    "publication_date": "2020-12-07",
+    "venue": "International Middleware Conference",
+    "semantic_scholar_id": "9569ac1e7ebbc8f0db9baacdbb84aeb90b0929c1",
+    "corpus_id": 228086022,
+    "category": "Computer Science"
+  },
+  "2011-03731": {
+    "title": "On the Privacy Risks of Algorithmic Fairness",
+    "authors": [
+      "Hong Chang",
+      "R. Shokri"
+    ],
+    "publication_date": "2020-11-07",
+    "venue": "European Symposium on Security and Privacy",
+    "semantic_scholar_id": "89f279f412f8ccde532e4160ece07766d3f301a8",
+    "corpus_id": 226282157,
+    "category": "Computer Science, Mathematics"
+  },
+  "2010-13723": {
+    "title": "Optimal Client Sampling for Federated Learning",
+    "authors": [
+      "Wenlin Chen",
+      "Samuel Horváth",
+      "Peter Richtárik"
+    ],
+    "publication_date": "2020-10-26",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "238c5ae6a6c45c7a1ffdba24f752640d82190b34",
+    "corpus_id": 225068165,
+    "category": "Computer Science"
+  },
+  "2010-05627": {
+    "title": "Towards Theoretically Understanding Why SGD Generalizes Better Than ADAM in Deep Learning",
+    "authors": [
+      "Pan Zhou",
+      "Jiashi Feng",
+      "Chao Ma",
+      "Caiming Xiong",
+      "S. Hoi",
+      "E. Weinan"
+    ],
+    "publication_date": "2020-10-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "b38491eee785b6312e386b2fb2090805e4d7ff0f",
+    "corpus_id": 222291751,
+    "category": "Computer Science, Mathematics"
+  },
+  "2009-11248": {
+    "title": "FastSecAgg: Scalable Secure Aggregation for Privacy-Preserving Federated Learning",
+    "authors": [
+      "S. Kadhe",
+      "Nived Rajaraman",
+      "O. O. Koyluoglu",
+      "K. Ramchandran"
+    ],
+    "publication_date": "2020-09-23",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "c5b17ec5a687c5ae4ba9561c94883793ceee9d8a",
+    "corpus_id": 221857240,
+    "category": "Computer Science, Mathematics"
+  },
+  "2007-14294": {
+    "title": "A High Probability Analysis of Adaptive SGD with Momentum",
+    "authors": [
+      "Xiaoyun Li",
+      "Francesco Orabona"
+    ],
+    "publication_date": "2020-07-28",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "7d33757b7aacd2a765867c6d9d7deda30b88f0d4",
+    "corpus_id": 220830717,
+    "category": "Mathematics, Computer Science"
+  },
+  "2003-14053": {
+    "title": "Inverting Gradients - How easy is it to break privacy in federated learning?",
+    "authors": [
+      "Jonas Geiping",
+      "Hartmut Bauermeister",
+      "Hannah Dröge",
+      "Michael Moeller"
+    ],
+    "publication_date": "2020-03-31",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "698ab1cc02a79596a87f92d5a0882ab1a7aee266",
+    "corpus_id": 214728347,
+    "category": "Computer Science"
+  },
+  "1912-04977": {
+    "title": "Advances and Open Problems in Federated Learning",
+    "authors": [
+      "P. Kairouz",
+      "H. B. McMahan",
+      "Brendan Avent",
+      "A. Bellet",
+      "M. Bennis",
+      "A. Bhagoji",
+      "Keith Bonawitz",
+      "Zachary B. Charles",
+      "Graham Cormode",
+      "Rachel Cummings",
+      "Rafael G. L. D'Oliveira",
+      "S. E. Rouayheb",
+      "David Evans",
+      "Josh Gardner",
+      "Zachary Garrett",
+      "Adrià Gascón",
+      "Badih Ghazi",
+      "Phillip B. Gibbons",
+      "M. Gruteser",
+      "Zaïd Harchaoui",
+      "Chaoyang He",
+      "Lie He",
+      "Zhouyuan Huo",
+      "Ben Hutchinson",
+      "Justin Hsu",
+      "Martin Jaggi",
+      "T. Javidi",
+      "Gauri Joshi",
+      "M. Khodak",
+      "Jakub Konecný",
+      "A. Korolova",
+      "F. Koushanfar",
+      "Oluwasanmi Koyejo",
+      "Tancrède Lepoint",
+      "Yang Liu",
+      "Prateek Mittal",
+      "M. Mohri",
+      "R. Nock",
+      "A. Özgür",
+      "R. Pagh",
+      "Mariana Raykova",
+      "Hang Qi",
+      "Daniel Ramage",
+      "R. Raskar",
+      "D. Song",
+      "Weikang Song",
+      "Sebastian U. Stich",
+      "Ziteng Sun",
+      "A. Suresh",
+      "Florian Tramèr",
+      "Praneeth Vepakomma",
+      "Jianyu Wang",
+      "Li Xiong",
+      "Zheng Xu",
+      "Qiang Yang",
+      "Felix X. Yu",
+      "Han Yu",
+      "Sen Zhao"
+    ],
+    "publication_date": "2019-12-10",
+    "venue": "Found. Trends Mach. Learn.",
+    "semantic_scholar_id": "07912741c6c96e6ad5b2c2d6c6c3b2de5c8a271b",
+    "corpus_id": 209202606,
+    "category": "Computer Science, Mathematics"
+  },
+  "1910-02578": {
+    "title": "Differential Privacy-enabled Federated Learning for Sensitive Health Data",
+    "authors": [
+      "Olivia Choudhury",
+      "A. Gkoulalas-Divanis",
+      "Theodoros Salonidis",
+      "I. Sylla",
+      "Yoonyoung Park",
+      "Grace Hsu",
+      "Amar K. Das"
+    ],
+    "publication_date": "2019-10-07",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "ca8d34bc72e65364016034a8f105ba1cca601a69",
+    "corpus_id": 203836975,
+    "category": "Computer Science"
+  },
+  "1907-10902": {
+    "title": "Optuna: A Next-generation Hyperparameter Optimization Framework",
+    "authors": [
+      "Takuya Akiba",
+      "Shotaro Sano",
+      "Toshihiko Yanase",
+      "Takeru Ohta",
+      "Masanori Koyama"
+    ],
+    "publication_date": "2019-07-25",
+    "venue": "Knowledge Discovery and Data Mining",
+    "semantic_scholar_id": "4cdf2fad22afc865999747336c7399fe422e6e8e",
+    "corpus_id": 196194314,
+    "category": "Computer Science, Mathematics"
+  },
+  "1907-01848": {
+    "title": "Distributed Learning in Non-Convex Environments—Part I: Agreement at a Linear Rate",
+    "authors": [
+      "Stefan Vlaski",
+      "A. H. Sayed"
+    ],
+    "publication_date": "2019-07-03",
+    "venue": "IEEE Transactions on Signal Processing",
+    "semantic_scholar_id": "a669b0cd4a3df00d6e5a7c65bb01ea5418553e15",
+    "corpus_id": 195791765,
+    "category": "Computer Science, Mathematics, Engineering"
+  },
+  "1812-06127": {
+    "title": "Federated Optimization in Heterogeneous Networks",
+    "authors": [
+      "Anit Kumar Sahu",
+      "Tian Li",
+      "Maziar Sanjabi",
+      "M. Zaheer",
+      "Ameet Talwalkar",
+      "Virginia Smith"
+    ],
+    "publication_date": "2018-12-14",
+    "venue": "Conference on Machine Learning and Systems",
+    "semantic_scholar_id": "1284ed4bf6a043ecf8cebca09e4811f1e3b83b65",
+    "corpus_id": 59316566,
+    "category": "Computer Science, Mathematics"
+  },
+  "1808-05671": {
+    "title": "On the Convergence of Adaptive Gradient Methods for Nonconvex Optimization",
+    "authors": [
+      "Dongruo Zhou",
+      "Yiqi Tang",
+      "Ziyan Yang",
+      "Yuan Cao",
+      "Quanquan Gu"
+    ],
+    "publication_date": "2018-08-16",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "551505614e025831a80c2d67bd854b1441eac03c",
+    "corpus_id": 52040763,
+    "category": "Computer Science, Mathematics"
+  },
+  "1805-04049": {
+    "title": "Exploiting Unintended Feature Leakage in Collaborative Learning",
+    "authors": [
+      "Luca Melis",
+      "Congzheng Song",
+      "Emiliano De Cristofaro",
+      "Vitaly Shmatikov"
+    ],
+    "publication_date": "2018-05-10",
+    "venue": "IEEE Symposium on Security and Privacy",
+    "semantic_scholar_id": "30e0ffeb519a4df2d4a2067e899c5fb5c5e85e70",
+    "corpus_id": 53099247,
+    "category": "Computer Science"
+  },
+  "1804-08333": {
+    "title": "Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge",
+    "authors": [
+      "T. Nishio",
+      "Ryo Yonetani"
+    ],
+    "publication_date": "2018-04-23",
+    "venue": "ICC 2019 - 2019 IEEE International Conference on Communications (ICC)",
+    "semantic_scholar_id": "e6b9fc7aa2996e7afc91c7f223460f9ded85e2da",
+    "corpus_id": 5062760,
+    "category": "Computer Science"
+  },
+  "1803-01498": {
+    "title": "Byzantine-Robust Distributed Learning: Towards Optimal Statistical Rates",
+    "authors": [
+      "Dong Yin",
+      "Yudong Chen",
+      "K. Ramchandran",
+      "P. Bartlett"
+    ],
+    "publication_date": "2018-03-05",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "5ad1cfdc40f58c5ee078496312798f784fc80801",
+    "corpus_id": 3708326,
+    "category": "Computer Science, Mathematics"
+  },
+  "1710-09412": {
+    "title": "mixup: Beyond Empirical Risk Minimization",
+    "authors": [
+      "Hongyi Zhang",
+      "Moustapha Cissé",
+      "Yann Dauphin",
+      "David Lopez-Paz"
+    ],
+    "publication_date": "2017-10-25",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "4feef0fd284feb1233399b400eb897f59ec92755",
+    "corpus_id": 3162051,
+    "category": "Mathematics, Computer Science"
+  },
+  "1705-09056": {
+    "title": "Can Decentralized Algorithms Outperform Centralized Algorithms? A Case Study for Decentralized Parallel Stochastic Gradient Descent",
+    "authors": [
+      "Xiangru Lian",
+      "Ce Zhang",
+      "Huan Zhang",
+      "Cho-Jui Hsieh",
+      "Wei Zhang",
+      "Ji Liu"
+    ],
+    "publication_date": "2017-05-25",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "3f1ab8b484f7881a68c8562ff908390742e4ba90",
+    "corpus_id": 1467846,
+    "category": "Computer Science, Mathematics"
+  },
+  "1703-00887": {
+    "title": "How to Escape Saddle Points Efficiently",
+    "authors": [
+      "Chi Jin",
+      "Rong Ge",
+      "Praneeth Netrapalli",
+      "S. Kakade",
+      "Michael I. Jordan"
+    ],
+    "publication_date": "2017-03-02",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "eacded78298ede0956a1a130a52572aedaaa540d",
+    "corpus_id": 14198632,
+    "category": "Mathematics, Computer Science"
+  },
+  "1602-05629": {
+    "title": "Communication-Efficient Learning of Deep Networks from Decentralized Data",
+    "authors": [
+      "H. B. McMahan",
+      "Eider Moore",
+      "Daniel Ramage",
+      "S. Hampson",
+      "B. A. Y. Arcas"
+    ],
+    "publication_date": "2016-02-17",
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "semantic_scholar_id": "d1dbf643447405984eeef098b1b320dee0b3b8a7",
+    "corpus_id": 14955348,
+    "category": "Computer Science"
+  },
+  "1412-6980": {
+    "title": "Adam: A Method for Stochastic Optimization",
+    "authors": [
+      "Diederik P. Kingma",
+      "Jimmy Ba"
+    ],
+    "publication_date": "2014-12-22",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "a6cb366736791bcccc5c8639de5a8f9636bf87e8",
+    "corpus_id": 6628106,
+    "category": "Mathematics, Computer Science"
+  },
+  "1210-2381": {
+    "title": "The Power of Linear Reconstruction Attacks",
+    "authors": [
+      "S. Kasiviswanathan",
+      "M. Rudelson",
+      "Adam D. Smith"
+    ],
+    "publication_date": "2012-10-08",
+    "venue": "ACM-SIAM Symposium on Discrete Algorithms",
+    "semantic_scholar_id": "a77baa2b1cbeca83ca5b4a194a605a959496e4d7",
+    "corpus_id": 6947561,
+    "category": "Computer Science, Mathematics"
+  }
+}

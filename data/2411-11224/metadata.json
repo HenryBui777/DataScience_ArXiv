@@ -1,0 +1,15 @@
+{
+  "title": "Don't Be So Positive: Negative Step Sizes in Second-Order Methods",
+  "authors": [
+    "Betty Shea",
+    "Mark Schmidt"
+  ],
+  "summary": "The value of second-order methods lies in the use of curvature information. Yet, this information is costly to extract and once obtained, valuable negative curvature information is often discarded so that the method is globally convergent. This limits the effectiveness of second-order methods in modern machine learning. In this paper, we show that second-order and second-order-like methods are promising optimizers for neural networks provided that we add one ingredient: negative step sizes. We show that under very general conditions, methods that produce ascent directions are globally convergent when combined with a Wolfe line search that allows both positive and negative step sizes. We experimentally demonstrate that using negative step sizes is often more effective than common Hessian modification methods.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-12-05"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, math.OC, stat.ML"
+}

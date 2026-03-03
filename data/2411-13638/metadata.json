@@ -1,0 +1,20 @@
+{
+  "title": "Variational approach to the dynamics of dissipative quantum impurity models",
+  "authors": [
+    "Yi-Fan Qu",
+    "Martino Stefanini",
+    "Tao Shi",
+    "Tilman Esslinger",
+    "Sarang Gopalakrishnan",
+    "Jamir Marino",
+    "Eugene Demler"
+  ],
+  "summary": "Recent experiments with quantum simulators using ultracold atoms and superconducting qubits have demonstrated the potential of controlled dissipation as a versatile tool for realizing correlated many-body states. However, determining the dynamics of dissipative quantum many-body systems remains a significant analytical and numerical challenge. In this work, we focus on a dissipative impurity problem as a testbed for new methodological developments. We introduce an efficient non-perturbative framework that combines the superposition of Gaussian states (SGS) variational ansatz with the quantum trajectory approach to simulate open systems featuring a dissipative impurity. Applying this method to a spinful impurity subject to two-body losses and embedded in a bath of noninteracting fermions, we explore the full crossover from weak to strong dissipation regimes. The non-perturbative nature of the SGS ansatz allows us to thoroughly examine this crossover, providing comprehensive insights into the system's behavior. In the strong dissipation regime, our approach reproduces the finding that localized two-body losses can induce the Kondo effect [arXiv:2406.03527], characterized by a slowdown of spin relaxation and an enhancement of charge conductance. Furthermore, we reveal an exotic ``negative conductance\" phenomenon at zero potential bias -- a counter-intuitive single-body effect resulting from intermediate dissipation and finite bandwidth. Finally, we investigate the formation of ferromagnetic domains and propose an extension to realize a higher-spin Kondo model using localized dissipation.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-07-03"
+  ],
+  "publication_venue": "Phys. Rev. B 111, 155113 (2025)",
+  "pdf_url": null,
+  "category": "cond-mat.quant-gas, cond-mat.str-el"
+}

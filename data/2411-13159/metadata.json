@@ -1,0 +1,20 @@
+{
+  "title": "Hard-Synth: Synthesizing Diverse Hard Samples for ASR using Zero-Shot TTS and LLM",
+  "authors": [
+    "Jiawei Yu",
+    "Yuang Li",
+    "Xiaosong Qiao",
+    "Huan Zhao",
+    "Xiaofeng Zhao",
+    "Wei Tang",
+    "Min Zhang",
+    "Hao Yang",
+    "Jinsong Su"
+  ],
+  "summary": "Text-to-speech (TTS) models have been widely adopted to enhance automatic speech recognition (ASR) systems using text-only corpora, thereby reducing the cost of labeling real speech data. Existing research primarily utilizes additional text data and predefined speech styles supported by TTS models. In this paper, we propose Hard-Synth, a novel ASR data augmentation method that leverages large language models (LLMs) and advanced zero-shot TTS. Our approach employs LLMs to generate diverse in-domain text through rewriting, without relying on additional text data. Rather than using predefined speech styles, we introduce a hard prompt selection method with zero-shot TTS to clone speech styles that the ASR model finds challenging to recognize. Experiments demonstrate that Hard-Synth significantly enhances the Conformer model, achieving relative word error rate (WER) reductions of 6.5\\%/4.4\\% on LibriSpeech dev/test-other subsets. Additionally, we show that Hard-Synth is data-efficient and capable of reducing bias in ASR.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.SD, eess.AS"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Approximate predictive control barrier function for discrete-time systems",
+  "authors": [
+    "Alexandre Didier",
+    "Melanie N. Zeilinger"
+  ],
+  "summary": "We propose integrating an approximation of a predictive control barrier function (PCBF) in a safety filter framework, resulting in a prediction horizon independent formulation. The PCBF is defined through the value function of an optimal control problem and ensures invariance as well as stability of a safe set within a larger domain of attraction. We provide a theoretical analysis of the proposed algorithm, establishing input-to-state stability of the safe set with respect to approximation errors as well as exogenous disturbances. Furthermore, we propose a continuous extension of the PCBF within the safe set, reducing the impact of learning errors on filter interventions. We demonstrate the stability properties and computational advantages of the proposed algorithm on a linear system example and its application as a safety filter for miniature race cars in simulation.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-08-25"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY, math.OC"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "RTSR: A Real-Time Super-Resolution Model for AV1 Compressed Content",
+  "authors": [
+    "Yuxuan Jiang",
+    "Jakub Nawała",
+    "Chen Feng",
+    "Fan Zhang",
+    "Xiaoqing Zhu",
+    "Joel Sole",
+    "David Bull"
+  ],
+  "summary": "Super-resolution (SR) is a key technique for improving the visual quality of video content by increasing its spatial resolution while reconstructing fine details. SR has been employed in many applications including video streaming, where compressed low-resolution content is typically transmitted to end users and then reconstructed with a higher resolution and enhanced quality. To support real-time playback, it is important to implement fast SR models while preserving reconstruction quality; however most existing solutions, in particular those based on complex deep neural networks, fail to do so. To address this issue, this paper proposes a low-complexity SR method, RTSR, designed to enhance the visual quality of compressed video content, focusing on resolution up-scaling from a) 360p to 1080p and from b) 540p to 4K. The proposed approach utilizes a CNN-based network architecture, which was optimized for AV1 (SVT)-encoded content at various quantization levels based on a dual-teacher knowledge distillation method. This method was submitted to the AIM 2024 Video Super-Resolution Challenge, specifically targeting the Efficient/Mobile Real-Time Video Super-Resolution competition. It achieved the best trade-off between complexity and coding performance (measured in PSNR, SSIM and VMAF) among all six submissions. The code will be available soon.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.CV"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Goodness-of-fit tests for generalized Poisson distributions",
+  "authors": [
+    "A. Batsidis",
+    "B. Milošević",
+    "M. D. Jiménez-Gamero"
+  ],
+  "summary": "This paper presents and examines computationally convenient goodness-of-fit tests for the family of generalized Poisson distributions, which encompasses notable distributions such as the Compound Poisson and the Katz distributions. The tests are consistent against fixed alternatives and their null distribution can be consistently approximated by a parametric bootstrap. The goodness of the bootstrap estimator and the power for finite sample sizes are numerically assessed through an extensive simulation experiment, including comparisons with other tests. In many cases, the novel tests either outperform or match the performance of existing ones. Real data applications are considered for illustrative purposes.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME"
+}

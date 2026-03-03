@@ -1,0 +1,14 @@
+{
+  "title": "A Comparison of Zero-Inflated Models for Modern Biomedical Data",
+  "authors": [
+    "Max Beveridge",
+    "Zach Goldstein",
+    "Hee Cheol Chung"
+  ],
+  "summary": "Many data sets cannot be accurately described by standard probability distributions due to the excess number of zero values present. For example, zero-inflation is prevalent in microbiome data and single-cell RNA sequencing data, which serve as our real data examples. Several models have been proposed to address zero-inflated datasets including the zero-inflated negative binomial, hurdle negative binomial model, and the truncated latent Gaussian copula model. This study aims to compare various models and determine which one performs optimally under different conditions using both simulation studies and real data analyses. We are particularly interested in investigating how dependence among the variables, level of zero-inflation or deflation, and variance of the data affects model selection.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME, stat.AP"
+}

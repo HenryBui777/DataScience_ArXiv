@@ -1,0 +1,14 @@
+{
+  "title": "Flow methods for cooperative games with generalized coalition configuration",
+  "authors": [
+    "Encarnacion Algaba",
+    "Eric Remila",
+    "Philippe Solal"
+  ],
+  "summary": "This paper introduces the class of cooperative games with generalized coalition configuration. This new class of games corresponds to cooperative games with coalition configuration and restricted cooperation. A coalition configuration is a collection of coalitions covering the agent set. The restriction of cooperation between agents is represented by a set system on each element of the coalition configuration. A coalition profile is a list of feasible coalitions, one for each element of the coalition configuration. A coalition profile function associates a worth with each coalition profile. Based on this framework, we define and axiomatically characterize marginal values whose coefficients induce a unitary flow on the product digraph obtained from these set systems. Next, we propose a two-step procedure, inspired by Owen's procedure, to construct flow methods as above. Then, we show that the associated flow is decomposable into two flows. Finally, we use two axioms to characterize the flows that can be decomposed in this way, and hence the flow methods constructed using our procedure.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "econ.TH"
+}

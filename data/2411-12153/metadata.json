@@ -1,0 +1,13 @@
+{
+  "title": "Wavelet s-Wasserstein distances for 0 < s <= 1",
+  "authors": [
+    "Katy Craig",
+    "Haoqing Yu"
+  ],
+  "summary": "Motivated by classical harmonic analysis results characterizing Hölder spaces in terms of the decay of their wavelet coefficients, we consider wavelet methods for computing s-Wasserstein type distances. Previous work by Sheory (né Shirdhonkar) and Jacobs showed that, for 0 < s <= 1, the s-Wasserstein distance W_s between certain probability measures on Euclidean space is equivalent to a weighted l_1 difference of their wavelet coefficients. We demonstrate that the original statement of this equivalence is incorrect in a few aspects and, furthermore, fails to capture key properties of the W_s distance, such as its behavior under translations of probability measures. Inspired by this, we consider a variant of the previous wavelet distance formula for which equivalence (up to an arbitrarily small error) does hold for 0 < s < 1. We analyze the properties of this distance, one of which is that it provides a natural embedding of the s-Wasserstein space into a linear space. We conclude with several numerical simulations. Even though our theoretical result merely ensures that the new wavelet s-Wasserstein distance is equivalent to the classical W_s distance (up to an error), our numerical simulations show that the new wavelet distance succeeds in capturing the behavior of the exact W_s distance under translations and dilations of probability measures.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA, math.OC"
+}

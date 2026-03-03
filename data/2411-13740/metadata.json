@@ -1,0 +1,17 @@
+{
+  "title": "Federated Continual Learning for Edge-AI: A Comprehensive Survey",
+  "authors": [
+    "Zi Wang",
+    "Fei Wu",
+    "Feng Yu",
+    "Yurui Zhou",
+    "Jia Hu",
+    "Geyong Min"
+  ],
+  "summary": "Edge-AI, the convergence of edge computing and artificial intelligence (AI), has become a promising paradigm that enables the deployment of advanced AI models at the network edge, close to users. In Edge-AI, federated continual learning (FCL) has emerged as an imperative framework, which fuses knowledge from different clients while preserving data privacy and retaining knowledge from previous tasks as it learns new ones. By so doing, FCL aims to ensure stable and reliable performance of learning models in dynamic and distributed environments. In this survey, we thoroughly review the state-of-the-art research and present the first comprehensive survey of FCL for Edge-AI. We categorize FCL methods based on three task characteristics: federated class continual learning, federated domain continual learning, and federated task continual learning. For each category, an in-depth investigation and review of the representative methods are provided, covering background, challenges, problem formalisation, solutions, and limitations. Besides, existing real-world applications empowered by FCL are reviewed, indicating the current progress and potential of FCL in diverse application domains. Furthermore, we discuss and highlight several prospective research directions of FCL such as algorithm-hardware co-design for FCL and FCL with foundation models, which could provide insights into the future development and practical deployment of FCL in the era of Edge-AI.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI, cs.DC, cs.NI"
+}

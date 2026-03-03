@@ -1,0 +1,13 @@
+{
+  "title": "An Attention-based Framework for Fair Contrastive Learning",
+  "authors": [
+    "Stefan K. Nielsen",
+    "Tan M. Nguyen"
+  ],
+  "summary": "Contrastive learning has proven instrumental in learning unbiased representations of data, especially in complex environments characterized by high-cardinality and high-dimensional sensitive information. However, existing approaches within this setting require predefined modelling assumptions of bias-causing interactions that limit the model's ability to learn debiased representations. In this work, we propose a new method for fair contrastive learning that employs an attention mechanism to model bias-causing interactions, enabling the learning of a fairer and semantically richer embedding space. In particular, our attention mechanism avoids bias-causing samples that confound the model and focuses on bias-reducing samples that help learn semantically meaningful representations. We verify the advantages of our method against existing baselines in fair contrastive learning and show that our approach can significantly boost bias removal from learned representations without compromising downstream accuracy.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

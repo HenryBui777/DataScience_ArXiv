@@ -1,0 +1,25 @@
+{
+  "title": "Stereo Anything: Unifying Zero-shot Stereo Matching with Large-Scale Mixed Data",
+  "authors": [
+    "Xianda Guo",
+    "Chenming Zhang",
+    "Youmin Zhang",
+    "Ruilin Wang",
+    "Dujun Nie",
+    "Wenzhao Zheng",
+    "Matteo Poggi",
+    "Hao Zhao",
+    "Mang Ye",
+    "Qin Zou",
+    "Long Chen"
+  ],
+  "summary": "Stereo matching serves as a cornerstone in 3D vision, aiming to establish pixel-wise correspondences between stereo image pairs for depth recovery. Despite remarkable progress driven by deep neural architectures, current models often exhibit severe performance degradation when deployed in unseen domains, primarily due to the limited diversity of training data. In this work, we introduce StereoAnything, a data-centric framework that substantially enhances the zero-shot generalization capability of existing stereo models. Rather than devising yet another specialized architecture, we scale stereo training to an unprecedented level by systematically unifying heterogeneous stereo sources: (1) curated labeled datasets covering diverse environments, and (2) large-scale synthetic stereo pairs generated from unlabeled monocular images. Our mixed-data strategy delivers consistent and robust learning signals across domains, effectively mitigating dataset bias. Extensive zero-shot evaluations on four public benchmarks demonstrate that Stereo Anything achieves state-of-the-art generalization. This work paves the way towards truly universal stereo matching, offering a scalable data paradigm applicable to any stereo image pair. We extensively evaluate the zero-shot capabilities of our model on four public datasets, showcasing its impressive ability to generalize to any stereo image pair. Code is available at https://github.com/XiandaGuo/OpenStereo.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-12-11",
+    "2025-09-17"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

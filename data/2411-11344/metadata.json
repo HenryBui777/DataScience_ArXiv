@@ -1,0 +1,20 @@
+{
+  "title": "Mitigating Knowledge Conflicts in Language Model-Driven Question Answering",
+  "authors": [
+    "Han Cao",
+    "Zhaoyang Zhang",
+    "Xiangtian Li",
+    "Chufan Wu",
+    "Hansong Zhang",
+    "Wenqing Zhang"
+  ],
+  "summary": "In the context of knowledge-driven seq-to-seq generation tasks, such as document-based question answering and document summarization systems, two fundamental knowledge sources play crucial roles: the inherent knowledge embedded within model parameters and the external knowledge obtained through context. Recent studies revealed a significant challenge: when there exists a misalignment between the model's inherent knowledge and the ground truth answers in training data, the system may exhibit problematic behaviors during inference, such as ignoring input context, or generating unfaithful content. Our investigation proposes a strategy to minimize hallucination by building explicit connection between source inputs and generated outputs. We specifically target a common hallucination pattern in question answering, examining how the correspondence between entities and their contexts during model training influences the system's performance at inference time.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-01-04",
+    "2025-01-15"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.AI"
+}

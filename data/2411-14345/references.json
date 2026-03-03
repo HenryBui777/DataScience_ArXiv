@@ -1,0 +1,811 @@
+{
+  "2405-20876": {
+    "title": "Investigating Calibration and Corruption Robustness of Post-hoc Pruned Perception CNNs: An Image Classification Benchmark Study",
+    "authors": [
+      "Pallavi Mitra",
+      "Gesina Schwalbe",
+      "Nadja Klein"
+    ],
+    "publication_date": "2024-05-31",
+    "venue": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "semantic_scholar_id": "466386f9a8db8aebcbbf9df3174c793344dbeebf",
+    "corpus_id": 270199875,
+    "category": "Computer Science"
+  },
+  "2405-17081": {
+    "title": "Effective Layer Pruning Through Similarity Metric Perspective",
+    "authors": [
+      "Ian Pons",
+      "Bruno Yamamoto",
+      "A. H. R. Costa",
+      "Artur Jordao"
+    ],
+    "publication_date": "2024-05-27",
+    "venue": "International Conference on Pattern Recognition",
+    "semantic_scholar_id": "c2f8a3d5ad6aa4d3395371ae18f15fd113d51490",
+    "corpus_id": 270063754,
+    "category": "Computer Science"
+  },
+  "2403-19490": {
+    "title": "Jointly Training and Pruning CNNs via Learnable Agent Guidance and Alignment",
+    "authors": [
+      "Alireza Ganjdanesh",
+      "Shangqian Gao",
+      "Heng Huang"
+    ],
+    "publication_date": "2024-03-28",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "09cf2353021f7275959f27d9d57db16cc84aabbe",
+    "corpus_id": 268733096,
+    "category": "Computer Science"
+  },
+  "2403-14729": {
+    "title": "Auto- Train-Once: Controller Network Guided Automatic Network Pruning from Scratch",
+    "authors": [
+      "Xidong Wu",
+      "Shangqian Gao",
+      "Zeyu Zhang",
+      "Zhenzhen Li",
+      "Runxue Bao",
+      "Yanfu Zhang",
+      "Xiaoqian Wang",
+      "Heng Huang"
+    ],
+    "publication_date": "2024-03-21",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "a2bc3451d0e09a3be77b0419cfe5a0e1282006b5",
+    "corpus_id": 268667388,
+    "category": "Computer Science"
+  },
+  "2402-02834": {
+    "title": "Shortened LLaMA: A Simple Depth Pruning for Large Language Models",
+    "authors": [
+      "Bo-Kyeong Kim",
+      "Geonmin Kim",
+      "Tae-Ho Kim",
+      "Thibault Castells",
+      "Shinkook Choi",
+      "Junho Shin",
+      "Hyoung-Kyu Song"
+    ],
+    "publication_date": "2024-02-05",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "87667fd50710183951fd2206a929a25b4b970276",
+    "corpus_id": 267413136,
+    "category": "Computer Science"
+  },
+  "2401-06426": {
+    "title": "UPDP: A Unified Progressive Depth Pruner for CNN and Vision Transformer",
+    "authors": [
+      "Ji Liu",
+      "Dehua Tang",
+      "Yuanxian Huang",
+      "Li Zhang",
+      "Xiaocheng Zeng",
+      "Dong Li",
+      "Mingjie Lu",
+      "Jinzhang Peng",
+      "Yu Wang",
+      "Fan Jiang",
+      "Lu Tian",
+      "Ashish Sirasao"
+    ],
+    "publication_date": "2024-01-12",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "b2e90c65a948100bb29db8cac5e72a9ba835e0c6",
+    "corpus_id": 266977311,
+    "category": "Computer Science"
+  },
+  "2310-16228": {
+    "title": "On the Foundations of Shortcut Learning",
+    "authors": [
+      "Katherine Hermann",
+      "Hossein Mobahi",
+      "Thomas Fel",
+      "M. C. Mozer"
+    ],
+    "publication_date": "2023-10-24",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "e659a4ee6c13c60e21f66326df9d998735a30b7d",
+    "corpus_id": 264487387,
+    "category": "Computer Science"
+  },
+  "2310-06694": {
+    "title": "Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning",
+    "authors": [
+      "Mengzhou Xia",
+      "Tianyu Gao",
+      "Zhiyuan Zeng",
+      "Danqi Chen"
+    ],
+    "publication_date": "2023-10-10",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "abdb0f9d1486dbb024c4bc9f8f9dc40464c58715",
+    "corpus_id": 263830786,
+    "category": "Computer Science"
+  },
+  "2310-01755": {
+    "title": "ImageNet-OOD: Deciphering Modern Out-of-Distribution Detection Algorithms",
+    "authors": [
+      "William Yang",
+      "Byron Zhang",
+      "Olga Russakovsky"
+    ],
+    "publication_date": "2023-10-03",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "69c2808097e7dfd357856f1ae82dcb6ce1bf64df",
+    "corpus_id": 263608283,
+    "category": "Computer Science"
+  },
+  "2309-14393": {
+    "title": "LLMCarbon: Modeling the end-to-end Carbon Footprint of Large Language Models",
+    "authors": [
+      "Ahmad Faiz",
+      "S. Kaneda",
+      "Ruhan Wang",
+      "Rita Osi",
+      "Parteek Sharma",
+      "Fan Chen",
+      "Lei Jiang"
+    ],
+    "publication_date": "2023-09-25",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "32479758dc9ff9820828a12aa7f3d066f187dc1c",
+    "corpus_id": 262825233,
+    "category": "Computer Science"
+  },
+  "2308-06767": {
+    "title": "A Survey on Deep Neural Network Pruning: Taxonomy, Comparison, Analysis, and Recommendations",
+    "authors": [
+      "Hongrong Cheng",
+      "Miao Zhang",
+      "Javen Qinfeng Shi"
+    ],
+    "publication_date": "2023-08-13",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "67ee27880d8c9b1c220792513e5d33b40434b07c",
+    "corpus_id": 260887757,
+    "category": "Computer Science, Medicine"
+  },
+  "2306-14306": {
+    "title": "Adaptive Sharpness-Aware Pruning for Robust Sparse Networks",
+    "authors": [
+      "Anna Bair",
+      "Hongxu Yin",
+      "Maying Shen",
+      "Pavlo Molchanov",
+      "J. Álvarez"
+    ],
+    "publication_date": "2023-06-25",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "8fdebbdb582f954d1eb5d4fb20325882f166c515",
+    "corpus_id": 259251730,
+    "category": "Computer Science"
+  },
+  "2306-11695": {
+    "title": "A Simple and Effective Pruning Approach for Large Language Models",
+    "authors": [
+      "Mingjie Sun",
+      "Zhuang Liu",
+      "Anna Bair",
+      "J. Z. Kolter"
+    ],
+    "publication_date": "2023-06-20",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "7d22ad3573101337bca2091fb0114b377c4f3db6",
+    "corpus_id": 259203115,
+    "category": "Computer Science"
+  },
+  "2305-19753": {
+    "title": "The Tunnel Effect: Building Data Representations in Deep Neural Networks",
+    "authors": [
+      "Wojciech Masarczyk",
+      "M. Ostaszewski",
+      "Ehsan Imani",
+      "Razvan Pascanu",
+      "Piotr Milo's",
+      "Tomasz Trzci'nski"
+    ],
+    "publication_date": "2023-05-31",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "f574f4e4f94c0268014d8c10dd85d5df34a46561",
+    "corpus_id": 258987284,
+    "category": "Computer Science"
+  },
+  "2305-11627": {
+    "title": "LLM-Pruner: On the Structural Pruning of Large Language Models",
+    "authors": [
+      "Xinyin Ma",
+      "Gongfan Fang",
+      "Xinchao Wang"
+    ],
+    "publication_date": "2023-05-19",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "017010b941d902a467f6d329ae5e74fd67e67912",
+    "corpus_id": 258823276,
+    "category": "Computer Science"
+  },
+  "2303-00566": {
+    "title": "Structured Pruning for Deep Convolutional Neural Networks: A Survey",
+    "authors": [
+      "Yang He",
+      "Lingao Xiao"
+    ],
+    "publication_date": "2023-03-01",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "79dcd3843796fd552844cea6a0f244d5852fb9fb",
+    "corpus_id": 257255597,
+    "category": "Computer Science, Medicine"
+  },
+  "2302-13971": {
+    "title": "LLaMA: Open and Efficient Foundation Language Models",
+    "authors": [
+      "Hugo Touvron",
+      "Thibaut Lavril",
+      "Gautier Izacard",
+      "Xavier Martinet",
+      "M. Lachaux",
+      "Timothée Lacroix",
+      "Baptiste Rozière",
+      "Naman Goyal",
+      "Eric Hambro",
+      "Faisal Azhar",
+      "Aur'elien Rodriguez",
+      "Armand Joulin",
+      "Edouard Grave",
+      "Guillaume Lample"
+    ],
+    "publication_date": "2023-02-27",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "57e849d0de13ed5f91d086936296721d4ff75a75",
+    "corpus_id": 257219404,
+    "category": "Computer Science"
+  },
+  "2301-10835": {
+    "title": "When Layers Play the Lottery, all Tickets Win at Initialization",
+    "authors": [
+      "Artur Jordão",
+      "George Correa de Araujo",
+      "H. Maia",
+      "Hélio Pedrini"
+    ],
+    "publication_date": "2023-01-25",
+    "venue": "2023 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)",
+    "semantic_scholar_id": "c714f39c410eb934565b398a829edac0b6058728",
+    "corpus_id": 256274507,
+    "category": "Computer Science"
+  },
+  "2301-00774": {
+    "title": "SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot",
+    "authors": [
+      "Elias Frantar",
+      "Dan Alistarh"
+    ],
+    "publication_date": "2023-01-02",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "909ad57ce8caa6b390a65ae09db352d27d8f3996",
+    "corpus_id": 255372747,
+    "category": "Computer Science"
+  },
+  "2212-01957": {
+    "title": "CSTAR: Towards Compact and STructured Deep Neural Networks with Adversarial Robustness",
+    "authors": [
+      "Huy Phan",
+      "Miao Yin",
+      "Yang Sui",
+      "Bo Yuan",
+      "S. Zonouz"
+    ],
+    "publication_date": "2022-12-04",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "29bb2597be1a499d30d23844bf19d5c43f6afc12",
+    "corpus_id": 254246536,
+    "category": "Computer Science"
+  },
+  "2211-11665": {
+    "title": "Representational dissimilarity metric spaces for stochastic neural networks",
+    "authors": [
+      "Lyndon Duong",
+      "Jingyang Zhou",
+      "Josue Nassar",
+      "Jules Berman",
+      "Jeroen Olieslagers",
+      "Alex H. Williams"
+    ],
+    "publication_date": "2022-11-21",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "6d2b13928cf9db71a0c245bbbdbdb7a07bd9247d",
+    "corpus_id": 253735268,
+    "category": "Computer Science, Biology"
+  },
+  "2210-06659": {
+    "title": "Structural Pruning via Latency-Saliency Knapsack",
+    "authors": [
+      "Maying Shen",
+      "Hongxu Yin",
+      "Pavlo Molchanov",
+      "Lei Mao",
+      "Jianna Liu",
+      "J. Álvarez"
+    ],
+    "publication_date": "2022-10-13",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "0bcedac1643e22b39df3c820c4f9b767a910877c",
+    "corpus_id": 252873091,
+    "category": "Computer Science"
+  },
+  "2206-07311": {
+    "title": "Can pruning improve certified robustness of neural networks?",
+    "authors": [
+      "Zhangheng Li",
+      "Tianlong Chen",
+      "Linyi Li",
+      "Bo Li",
+      "Zhangyang Wang"
+    ],
+    "publication_date": "2022-06-15",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "6f0b89a3ce7c835dc42afe798b9424471f4ca585",
+    "corpus_id": 249674658,
+    "category": "Computer Science"
+  },
+  "2206-04040": {
+    "title": "MobileOne: An Improved One millisecond Mobile Backbone",
+    "authors": [
+      "Pavan Kumar Anasosalu Vasu",
+      "J. Gabriel",
+      "Jeff J. Zhu",
+      "Oncel Tuzel",
+      "Anurag Ranjan"
+    ],
+    "publication_date": "2022-06-09",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "d83105503f3b7c6403e812cc1d354b270ab4c048",
+    "corpus_id": 257805169,
+    "category": "Computer Science"
+  },
+  "2206-00843": {
+    "title": "DepthShrinker: A New Compression Paradigm Towards Boosting Real-Hardware Efficiency of Compact Neural Networks",
+    "authors": [
+      "Y. Fu",
+      "Haichuan Yang",
+      "Jiayi Yuan",
+      "Meng Li",
+      "Cheng Wan",
+      "Raghuraman Krishnamoorthi",
+      "Vikas Chandra",
+      "Yingyan Lin"
+    ],
+    "publication_date": "2022-06-02",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "e58f79436b404c2af4ca786b54b32491ffcb985b",
+    "corpus_id": 249282255,
+    "category": "Computer Science"
+  },
+  "2204-02937": {
+    "title": "Last Layer Re-Training is Sufficient for Robustness to Spurious Correlations",
+    "authors": [
+      "P. Kirichenko",
+      "Pavel Izmailov",
+      "A. Wilson"
+    ],
+    "publication_date": "2022-04-06",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "14a3aae8060338e3fbefc2af694890b019874d4f",
+    "corpus_id": 247996741,
+    "category": "Computer Science, Mathematics"
+  },
+  "2204-09656": {
+    "title": "A Fast Post-Training Pruning Framework for Transformers",
+    "authors": [
+      "Woosuk Kwon",
+      "Sehoon Kim",
+      "Michael W. Mahoney",
+      "Joseph Hassoun",
+      "K. Keutzer",
+      "A. Gholami"
+    ],
+    "publication_date": "2022-03-29",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "fb145e1e49d3269d8223c7710e22b45438613ff0",
+    "corpus_id": 248266822,
+    "category": "Computer Science"
+  },
+  "2202-07190": {
+    "title": "Pruning Networks With Cross-Layer Ranking & k-Reciprocal Nearest Filters",
+    "authors": [
+      "Mingbao Lin",
+      "Liujuan Cao",
+      "Yu-xin Zhang",
+      "Ling Shao",
+      "Chia-Wen Lin",
+      "Rongrong Ji"
+    ],
+    "publication_date": "2022-02-15",
+    "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+    "semantic_scholar_id": "a9fe95263c98287c5e97e62bebc1845420babad6",
+    "corpus_id": 246863717,
+    "category": "Computer Science, Medicine"
+  },
+  "2201-03529": {
+    "title": "Head2Toe: Utilizing Intermediate Representations for Better Transfer Learning",
+    "authors": [
+      "Utku Evci",
+      "Vincent Dumoulin",
+      "H. Larochelle",
+      "M. Mozer"
+    ],
+    "publication_date": "2022-01-10",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "08e6b161480249514fab4d6154bea3f5d6ddd4c6",
+    "corpus_id": 245837741,
+    "category": "Computer Science"
+  },
+  "2112-05135": {
+    "title": "PixMix: Dreamlike Pictures Comprehensively Improve Safety Measures",
+    "authors": [
+      "Dan Hendrycks",
+      "Andy Zou",
+      "Mantas Mazeika",
+      "Leonard Tang",
+      "Bo Li",
+      "D. Song",
+      "J. Steinhardt"
+    ],
+    "publication_date": "2021-12-09",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "fe34bca61e451a532f45c680c232cb78bdc558cf",
+    "corpus_id": 245005966,
+    "category": "Computer Science"
+  },
+  "2110-14739": {
+    "title": "Generalized Shape Metrics on Neural Representations",
+    "authors": [
+      "Alex H. Williams",
+      "Erin M. Kunz",
+      "Simon Kornblith",
+      "Scott W. Linderman"
+    ],
+    "publication_date": "2021-10-27",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "325100e605264947276cab315a6a97ea6fb6a097",
+    "corpus_id": 240070426,
+    "category": "Computer Science, Mathematics, Medicine"
+  },
+  "2110-12894": {
+    "title": "The Efficiency Misnomer",
+    "authors": [
+      "Mostafa Dehghani",
+      "Anurag Arnab",
+      "Lucas Beyer",
+      "Ashish Vaswani",
+      "Yi Tay"
+    ],
+    "publication_date": "2021-10-25",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "66d735987a31d666a6459566ae026c40ab9a1c3a",
+    "corpus_id": 239768818,
+    "category": "Computer Science, Mathematics"
+  },
+  "2110-11395": {
+    "title": "SOSP: Efficiently Capturing Global Correlations by Second-Order Structured Pruning",
+    "authors": [
+      "Manuel Nonnenmacher",
+      "Thomas Pfeil",
+      "Ingo Steinwart",
+      "D. Reeb"
+    ],
+    "publication_date": "2021-10-19",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "7ba86f4a666cb0ba04a4c5c11e0c751cc1fbc204",
+    "corpus_id": 239616317,
+    "category": "Computer Science, Mathematics"
+  },
+  "2108-04890": {
+    "title": "On the Effect of Pruning on Adversarial Robustness",
+    "authors": [
+      "Artur Jordão",
+      "H. Pedrini"
+    ],
+    "publication_date": "2021-08-10",
+    "venue": "2021 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)",
+    "semantic_scholar_id": "dea61556322e8aa45941f45b27da491994d4e1e3",
+    "corpus_id": 236976201,
+    "category": "Computer Science"
+  },
+  "2107-05033": {
+    "title": "Blending Pruning Criteria for Convolutional Neural Networks",
+    "authors": [
+      "Wei He",
+      "Zhongzhan Huang",
+      "Mingfu Liang",
+      "Senwei Liang",
+      "Haizhao Yang"
+    ],
+    "publication_date": "2021-07-11",
+    "venue": "International Conference on Artificial Neural Networks",
+    "semantic_scholar_id": "9a8522b83609fb593222af254f6ebabf4a32da9c",
+    "corpus_id": 235795425,
+    "category": "Computer Science"
+  },
+  "2106-09309": {
+    "title": "Layer Folding: Neural Network Depth Reduction using Activation Linearization",
+    "authors": [
+      "Amir Ben Dror",
+      "Niv Zehngut",
+      "Avraham Raviv",
+      "E. Artyomov",
+      "Ran Vitek",
+      "R. Jevnisek"
+    ],
+    "publication_date": "2021-06-17",
+    "venue": "British Machine Vision Conference",
+    "semantic_scholar_id": "65a9cf81d206ab7fb4567f6eab0f358f30675c8e",
+    "corpus_id": 235458222,
+    "category": "Computer Science"
+  },
+  "2106-06091": {
+    "title": "DECORE: Deep Compression with Reinforcement Learning",
+    "authors": [
+      "Manoj Alwani",
+      "Vashisht Madhavan",
+      "Yang Wang"
+    ],
+    "publication_date": "2021-06-11",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "49a2c9c12a2ff95cf65a3630317fe745ed593cc2",
+    "corpus_id": 235417291,
+    "category": "Computer Science"
+  },
+  "2104-11883": {
+    "title": "Carrying Out CNN Channel Pruning in a White Box",
+    "authors": [
+      "Yu-xin Zhang",
+      "Mingbao Lin",
+      "Chia-Wen Lin",
+      "Jie Chen",
+      "Feiyue Huang",
+      "Yongjian Wu",
+      "Yonghong Tian",
+      "R. Ji"
+    ],
+    "publication_date": "2021-04-24",
+    "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+    "semantic_scholar_id": "42b61ce5ae3d6ed1aa994ba9c57de66f0531ed1f",
+    "corpus_id": 233394250,
+    "category": "Computer Science, Medicine"
+  },
+  "2103-06460": {
+    "title": "Recent Advances on Neural Network Pruning at Initialization",
+    "authors": [
+      "Huan Wang",
+      "Can Qin",
+      "Yue Bai",
+      "Yulun Zhang",
+      "Yun Fu"
+    ],
+    "publication_date": "2021-03-11",
+    "venue": "International Joint Conference on Artificial Intelligence",
+    "semantic_scholar_id": "fa3bc410e0dd057642ecc484645acdbacfbe7d2e",
+    "corpus_id": 247012121,
+    "category": "Computer Science"
+  },
+  "2103-03404": {
+    "title": "Attention is Not All You Need: Pure Attention Loses Rank Doubly Exponentially with Depth",
+    "authors": [
+      "Yihe Dong",
+      "Jean-Baptiste Cordonnier",
+      "Andreas Loukas"
+    ],
+    "publication_date": "2021-03-05",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "dfb37e6216e792bf6bd5a30c0fc7ad55df1cb71e",
+    "corpus_id": 232134936,
+    "category": "Computer Science"
+  },
+  "2102-04010": {
+    "title": "Learning N: M Fine-grained Structured Sparse Neural Networks From Scratch",
+    "authors": [
+      "Aojun Zhou",
+      "Yukun Ma",
+      "Junnan Zhu",
+      "Jianbo Liu",
+      "Zhijie Zhang",
+      "Kun Yuan",
+      "Wenxiu Sun",
+      "Hongsheng Li"
+    ],
+    "publication_date": "2021-02-08",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "5e38dc1ccf33ac1df09b8eb6476f110cb3d1966f",
+    "corpus_id": 231847094,
+    "category": "Computer Science"
+  },
+  "2102-03214": {
+    "title": "Topology-Aware Network Pruning using Multi-stage Graph Embedding and Reinforcement Learning",
+    "authors": [
+      "Sixing Yu",
+      "Arya Mazaheri",
+      "Ali Jannesari"
+    ],
+    "publication_date": "2021-02-05",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "11420a371320b2d0dfb58db30df14dfdb9d9072a",
+    "corpus_id": 250243590,
+    "category": "Computer Science"
+  },
+  "2011-12641": {
+    "title": "Auto Graph Encoder-Decoder for Neural Network Pruning",
+    "authors": [
+      "Sixing Yu",
+      "Arya Mazaheri",
+      "Ali Jannesari"
+    ],
+    "publication_date": "2020-11-25",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "d9a5f49ef089d988993a0f611f90518762b0224b",
+    "corpus_id": 243844116,
+    "category": "Computer Science"
+  },
+  "2011-02166": {
+    "title": "DAIS: Automatic Channel Pruning via Differentiable Annealing Indicator Search",
+    "authors": [
+      "Yushuo Guan",
+      "Ning Liu",
+      "Pengyu Zhao",
+      "Zhengping Che",
+      "Kaigui Bian",
+      "Yanzhi Wang",
+      "Jian Tang"
+    ],
+    "publication_date": "2020-11-04",
+    "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+    "semantic_scholar_id": "d0bef93ba55562b05adb80f04106c00a66e8d0e7",
+    "corpus_id": 226246192,
+    "category": "Medicine, Computer Science"
+  },
+  "2004-11627": {
+    "title": "Rethinking the Pruning Criteria for Convolutional Neural Network",
+    "authors": [
+      "Zhongzhan Huang",
+      "Wenqi Shao",
+      "Xinjiang Wang",
+      "Liang Lin",
+      "Ping Luo"
+    ],
+    "publication_date": "2020-04-24",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "241693f698cea37a3907c2529f16d07e5d29fcd0",
+    "corpus_id": 239769355,
+    "category": "Computer Science, Mathematics"
+  },
+  "2004-07780": {
+    "title": "Shortcut learning in deep neural networks",
+    "authors": [
+      "Robert Geirhos",
+      "J. Jacobsen",
+      "Claudio Michaelis",
+      "R. Zemel",
+      "Wieland Brendel",
+      "M. Bethge",
+      "Felix Wichmann"
+    ],
+    "publication_date": "2020-04-16",
+    "venue": "Nature Machine Intelligence",
+    "semantic_scholar_id": "1b04936c2599e59b120f743fbb30df2eed3fd782",
+    "corpus_id": 215786368,
+    "category": "Computer Science, Biology"
+  },
+  "2002-10179": {
+    "title": "HRank: Filter Pruning Using High-Rank Feature Map",
+    "authors": [
+      "Mingbao Lin",
+      "Rongrong Ji",
+      "Yan Wang",
+      "Yichen Zhang",
+      "Baochang Zhang",
+      "Yonghong Tian",
+      "Ling Shao"
+    ],
+    "publication_date": "2020-02-24",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "ad4fb74f6a9f110fc3c9037c379da939e6f1ecad",
+    "corpus_id": 211258761,
+    "category": "Computer Science"
+  },
+  "1910-09700": {
+    "title": "Quantifying the Carbon Emissions of Machine Learning",
+    "authors": [
+      "Alexandre Lacoste",
+      "A. Luccioni",
+      "Victor Schmidt",
+      "Thomas Dandres"
+    ],
+    "publication_date": "2019-10-21",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "b3ea2d9c8e5ea3b87ace121f0bece71565abc187",
+    "corpus_id": 204823751,
+    "category": "Computer Science"
+  },
+  "1907-10597": {
+    "title": "Green AI",
+    "authors": [
+      "Roy Schwartz",
+      "Jesse Dodge",
+      "Noah A. Smith",
+      "Oren Etzioni"
+    ],
+    "publication_date": "2019-07-22",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "3c5f1ab37f70db503636075e15b3173f86eea00b",
+    "corpus_id": 198229505,
+    "category": "Computer Science, Mathematics"
+  },
+  "1906-03728": {
+    "title": "The Generalization-Stability Tradeoff in Neural Network Pruning",
+    "authors": [
+      "Brian R. Bartoldson",
+      "Ari S. Morcos",
+      "Adrian Barbu",
+      "G. Erlebacher"
+    ],
+    "publication_date": "2019-06-09",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "2e4fde9218f5214b9da20411e1bc793cee0f3f9a",
+    "corpus_id": 182952955,
+    "category": "Computer Science, Mathematics"
+  },
+  "1906-02243": {
+    "title": "Energy and Policy Considerations for Deep Learning in NLP",
+    "authors": [
+      "Emma Strubell",
+      "Ananya Ganesh",
+      "A. McCallum"
+    ],
+    "publication_date": "2019-06-05",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "d6a083dad7114f3a39adc65c09bfbb6cf3fee9ea",
+    "corpus_id": 174802812,
+    "category": "Computer Science"
+  },
+  "1903-12261": {
+    "title": "Benchmarking Neural Network Robustness to Common Corruptions and Perturbations",
+    "authors": [
+      "Dan Hendrycks",
+      "Thomas G. Dietterich"
+    ],
+    "publication_date": "2019-03-28",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "49b64383fe36268410c430352637ed23b16820c5",
+    "corpus_id": 56657912,
+    "category": "Computer Science, Mathematics"
+  },
+  "1902-01996": {
+    "title": "Are All Layers Created Equal?",
+    "authors": [
+      "Chiyuan Zhang",
+      "Samy Bengio",
+      "Y. Singer"
+    ],
+    "publication_date": "2019-02-06",
+    "venue": "Journal of machine learning research",
+    "semantic_scholar_id": "4ac62731b802c727f916e8deefda1a992991505d",
+    "corpus_id": 59606288,
+    "category": "Computer Science, Mathematics"
+  },
+  "1603-09382": {
+    "title": "Deep Networks with Stochastic Depth",
+    "authors": [
+      "Gao Huang",
+      "Yu Sun",
+      "Zhuang Liu",
+      "Daniel Sedra",
+      "Kilian Q. Weinberger"
+    ],
+    "publication_date": "2016-03-30",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "51db1f3c8dfc7d4077da39c96bb90a6358128111",
+    "corpus_id": 6773885,
+    "category": "Computer Science"
+  }
+}

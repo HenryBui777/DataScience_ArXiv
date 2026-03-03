@@ -1,0 +1,16 @@
+{
+  "title": "Renormalization of States and Quasiparticles in Many-body Downfolding",
+  "authors": [
+    "Annabelle Canestraight",
+    "Zhen Huang",
+    "Vojtech Vlcek"
+  ],
+  "summary": "We explore the principles of many-body Hamiltonian complexity reduction via downfolding on an effective low-dimensional representation. We present a unique measure of fidelity between the effective (reduced-rank) description and the full many-body treatment for arbitrary (i.e., ground and excited) states. When the entire problem is mapped on a system of interacting quasiparticles [npj Computational Materials 9 (1), 126, 2023], the effective Hamiltonians can faithfully reproduce the physics only when a clear energy scale separation exists between the subsystems and its environment. We also demonstrate that it is necessary to include quasiparticle renormalization at distinct energy scales, capturing the distinct interaction between subsystems and their surrounding environments. Numerical results from simple, exactly solvable models highlight the limitations and strengths of this approach, particularly for ground and low-lying excited states. This work lays the groundwork for applying dynamical downfolding techniques to problems concerned with (quantum) interfaces.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-24"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.comp-ph, cond-mat.mtrl-sci"
+}

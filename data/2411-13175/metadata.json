@@ -1,0 +1,15 @@
+{
+  "title": "High Order Finite Difference Schemes for the Transparent Boundary Conditions and Their Applications in the 1D Schrödinger-Poisson Problem",
+  "authors": [
+    "Meili Guo",
+    "Haiyan Jiang",
+    "Tiao Lu",
+    "Wenqi Yao"
+  ],
+  "summary": "The 1D Schrödinger equation closed with the transparent boundary conditions(TBCs) is known as a successful model for describing quantum effects, and is usually considered with a self-consistent Poisson equation in simulating quantum devices. We introduce discrete fourth order transparent boundary conditions(D4TBCs), which have been proven to be essentially non-oscillating when the potential vanishes, and to share the same accuracy order with the finite difference scheme used to discretize the 1D Schrödinger equation. Furthermore, a framework of analytic discretization of TBCs(aDTBCs) is proposed, which does not introduce any discretization error, thus is accurate. With the accurate discretizations, one is able to improve the accuracy of the discretization for the 1D Schrödinger problem to arbitrarily high levels. As numerical tools, two globally fourth order compact finite difference schemes are proposed for the 1D Schrödinger-Poisson problem, involving either of the D4TBCs or the aDTBCs, respectively, and the uniqueness of solutions of both discrete Schrödinger problems are rigorously proved. Numerical experiments, including simulations of a resistor and two nanoscale resonant tunneling diodes, verify the accuracy order of the discretization schemes and show potential of the numerical algorithm introduced for the 1D Schrödinger-Poisson problem in simulating various quantum devices.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

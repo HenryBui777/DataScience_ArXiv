@@ -1,0 +1,18 @@
+{
+  "title": "Data Driven Automatic Electrical Machine Preliminary Design with Artificial Intelligence Expert Guidance",
+  "authors": [
+    "Yiwei Wang",
+    "Tao Yang",
+    "Hailin Huang",
+    "Tianjie Zou",
+    "Jincai Li",
+    "Nuo Chen",
+    "Zhuoran Zhang"
+  ],
+  "summary": "This paper presents a data-driven electrical machine design (EMD) framework using wound-rotor synchronous generator (WRSG) as a design example. Unlike traditional preliminary EMD processes that heavily rely on expertise, this framework leverages an artificial-intelligence based expert database, to provide preliminary designs directly from user specifications. Initial data is generated using 2D finite element (FE) machine models by sweeping fundamental design variables including machine length and diameter, enabling scalable machine geometry with machine performance for each design is recorded. This data trains a Metamodel of Optimal Prognosis (MOP)-based surrogate model, which maps design variables to key performance indicators (KPIs). Once trained, guided by metaheuristic algorithms, the surrogate model can generate thousands of geometric scalable designs, covering a wide power range, forming an AI expert database to guide future preliminary design. The framework is validated with a 30kVA WRSG design case. A prebuilt WRSG database, covering power from 10 to 60kVA, is validated by FE simulation. Design No.1138 is selected from database and compared with conventional design. Results show No.1138 achieves a higher power density of 2.21 kVA/kg in just 5 seconds, compared to 2.02 kVA/kg obtained using traditional method, which take several days. The developed AI expert database also serves as a high-quality data source for further developing AI models for automatic electrical machine design.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY, cs.LG"
+}

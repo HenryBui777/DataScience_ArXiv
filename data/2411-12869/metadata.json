@@ -1,0 +1,19 @@
+{
+  "title": "Omnidirectional Wireless Power Transfer for Millimetric Magnetoelectric Biomedical Implants",
+  "authors": [
+    "Wei Wang",
+    "Zhanghao Yu",
+    "Yiwei Zou",
+    "Joshua E Woods",
+    "Prahalad Chari",
+    "Yumin Su",
+    "Jacob T Robinson",
+    "Kaiyuan Yang"
+  ],
+  "summary": "Miniature bioelectronic implants promise revolutionary therapies for cardiovascular and neurological disorders. Wireless power transfer (WPT) is a significant method for miniaturization, eliminating the need for bulky batteries in devices. Despite successful demonstrations of millimetric battery free implants in animal models, the robustness and efficiency of WPT are known to degrade significantly under misalignment incurred by body movements, respiration, heart beating, and limited control of implant orientation during surgery. This article presents an omnidirectional WPT platform for millimetric bioelectronic implants, employing the emerging magnetoelectric (ME) WPT modality, and magnetic field steering technique based on multiple transmitter (TX) coils. To accurately sense the weak coupling in a miniature implant and adaptively control the multicoil TX array in a closed loop, we develop an active echo (AE) scheme using a tiny coil on the implant. Our prototype comprises a fully integrated 14.2 mm3 implantable stimulator embedding a custom low power system on chip (SoC) powered by an ME film, a TX with a custom three channel AE RX chip, and a multicoil TX array with mutual inductance cancellation. The AE RX achieves negative 161 dBm per Hz input referred noise with 64 dB gain tuning range to reliably sense the AE signal, and offers fast polarity detection for driver control. AE simultaneously enhances the robustness, efficiency, and charging range of ME WPT. Under 90 degree rotation from the ideal position, our omnidirectional WPT system achieves 6.8x higher power transfer efficiency (PTE) than a single coil baseline. The tracking error of AE negligibly degrades the PTE by less than 2 percent from using ideal control.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "IEEE Journal of Solid-State Circuits, Volume: 59, Issue: 11, Page(s): 3599 - 3611, November 2024",
+  "pdf_url": null,
+  "category": "eess.SY, physics.med-ph"
+}

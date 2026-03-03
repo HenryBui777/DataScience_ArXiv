@@ -1,0 +1,16 @@
+{
+  "title": "Experimental comparison of graph-based approximate nearest neighbor search algorithms on edge devices",
+  "authors": [
+    "Ali Ganbarov",
+    "Jicheng Yuan",
+    "Anh Le-Tuan",
+    "Manfred Hauswirth",
+    "Danh Le-Phuoc"
+  ],
+  "summary": "In this paper, we present an experimental comparison of various graph-based approximate nearest neighbor (ANN) search algorithms deployed on edge devices for real-time nearest neighbor search applications, such as smart city infrastructure and autonomous vehicles. To the best of our knowledge, this specific comparative analysis has not been previously conducted. While existing research has explored graph-based ANN algorithms, it has often been limited to single-threaded implementations on standard commodity hardware. Our study leverages the full computational and storage capabilities of edge devices, incorporating additional metrics such as insertion and deletion latency of new vectors and power consumption. This comprehensive evaluation aims to provide valuable insights into the performance and suitability of these algorithms for edge-based real-time tracking systems enhanced by nearest-neighbor search algorithms.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DS, cs.AR, cs.CV, cs.DC, cs.PF"
+}

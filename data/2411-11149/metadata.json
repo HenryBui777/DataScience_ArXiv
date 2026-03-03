@@ -1,0 +1,13 @@
+{
+  "title": "From Primes to Paths: Enabling Fast Multi-Relational Graph Analysis",
+  "authors": [
+    "Konstantinos Bougiatiotis",
+    "Georgios Paliouras"
+  ],
+  "summary": "Multi-relational networks capture intricate relationships in data and have diverse applications across fields such as biomedical, financial, and social sciences. As networks derived from increasingly large datasets become more common, identifying efficient methods for representing and analyzing them becomes crucial. This work extends the Prime Adjacency Matrices (PAMs) framework, which employs prime numbers to represent distinct relations within a network uniquely. This enables a compact representation of a complete multi-relational graph using a single adjacency matrix, which, in turn, facilitates quick computation of multi-hop adjacency matrices. In this work, we enhance the framework by introducing a lossless algorithm for calculating the multi-hop matrices and propose the Bag of Paths (BoP) representation, a versatile feature extraction methodology for various graph analytics tasks, at the node, edge, and graph level. We demonstrate the efficiency of the framework across various tasks and datasets, showing that simple BoP-based models perform comparably to or better than commonly used neural models while offering improved speed and interpretability.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.SI"
+}

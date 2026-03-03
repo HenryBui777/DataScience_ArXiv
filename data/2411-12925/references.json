@@ -1,0 +1,809 @@
+{
+  "2410-11820": {
+    "title": "Adaptive Data Optimization: Dynamic Sample Selection with Scaling Laws",
+    "authors": [
+      "Yiding Jiang",
+      "Allan Zhou",
+      "Zhili Feng",
+      "Sadhika Malladi",
+      "J. Kolter"
+    ],
+    "publication_date": "2024-10-15",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "b83bdc85bd041690f13cd3823269b63f3b771306",
+    "corpus_id": 273350576,
+    "category": "Computer Science"
+  },
+  "2409-17858": {
+    "title": "How feature learning can improve neural scaling laws",
+    "authors": [
+      "Blake Bordelon",
+      "Alexander Atanasov",
+      "Cengiz Pehlevan"
+    ],
+    "publication_date": "2024-09-26",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "32f093befd60773036f52d5bd6ef420faefe7afc",
+    "corpus_id": 272910876,
+    "category": "Physics, Computer Science, Mathematics"
+  },
+  "2407-07972": {
+    "title": "Deconstructing What Makes a Good Optimizer for Language Models",
+    "authors": [
+      "Rosie Zhao",
+      "Depen Morwani",
+      "David Brandfonbrener",
+      "Nikhil Vyas",
+      "S. Kakade"
+    ],
+    "publication_date": "2024-07-10",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "868119b5610b895acea98e36bdf4cbb6d3e6e9ef",
+    "corpus_id": 271097803,
+    "category": "Computer Science"
+  },
+  "2406-19146": {
+    "title": "Resolving Discrepancies in Compute-Optimal Scaling of Language Models",
+    "authors": [
+      "Tomer Porian",
+      "Mitchell Wortsman",
+      "J. Jitsev",
+      "Ludwig Schmidt",
+      "Y. Carmon"
+    ],
+    "publication_date": "2024-06-27",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "5585191b1b479346ecf173be3b35c8313b77d457",
+    "corpus_id": 270764838,
+    "category": "Computer Science"
+  },
+  "2406-17557": {
+    "title": "The FineWeb Datasets: Decanting the Web for the Finest Text Data at Scale",
+    "authors": [
+      "Guilherme Penedo",
+      "Hynek Kydlícek",
+      "Loubna Ben Allal",
+      "Anton Lozhkov",
+      "Margaret Mitchell",
+      "Colin Raffel",
+      "L. V. Werra",
+      "Thomas Wolf"
+    ],
+    "publication_date": "2024-06-25",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "b83a9e35c3aeeb37708e362473c7617d59b815b5",
+    "corpus_id": 270711474,
+    "category": "Computer Science"
+  },
+  "2406-10229": {
+    "title": "Quantifying Variance in Evaluation Benchmarks",
+    "authors": [
+      "Lovish Madaan",
+      "Aaditya K. Singh",
+      "Rylan Schaeffer",
+      "Andrew Poulton",
+      "Oluwasanmi Koyejo",
+      "Pontus Stenetorp",
+      "Sharan Narang",
+      "Dieuwke Hupkes"
+    ],
+    "publication_date": "2024-06-14",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "d049c0eb7aca40103b7bea484e7421892956b46e",
+    "corpus_id": 270521534,
+    "category": "Computer Science"
+  },
+  "2406-04391": {
+    "title": "Why Has Predicting Downstream Capabilities of Frontier AI Models with Scale Remained Elusive?",
+    "authors": [
+      "Rylan Schaeffer",
+      "Hailey Schoelkopf",
+      "Brando Miranda",
+      "Gabriel Mukobi",
+      "Varun Madan",
+      "Adam Ibrahim",
+      "Herbie Bradley",
+      "Stella Biderman",
+      "Sanmi Koyejo"
+    ],
+    "publication_date": "2024-06-06",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "34c95589cdad119f5309b12a55c5cca8c778ff0c",
+    "corpus_id": 270357828,
+    "category": "Computer Science"
+  },
+  "2405-15074": {
+    "title": "4+3 Phases of Compute-Optimal Neural Scaling Laws",
+    "authors": [
+      "Elliot Paquette",
+      "Courtney Paquette",
+      "Lechao Xiao",
+      "Jeffrey Pennington"
+    ],
+    "publication_date": "2024-05-23",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "2286f32d98211caac715ee9087a9192d9c3241a0",
+    "corpus_id": 270045830,
+    "category": "Mathematics, Computer Science"
+  },
+  "2405-00592": {
+    "title": "Scaling and renormalization in high-dimensional regression",
+    "authors": [
+      "Alexander Atanasov",
+      "Jacob A. Zavatone-Veth",
+      "Cengiz Pehlevan"
+    ],
+    "publication_date": "2024-05-01",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "9c9eac9dbd953f257c0d94a5fc8b0a20d8d2fe17",
+    "corpus_id": 269484262,
+    "category": "Computer Science, Mathematics, Physics"
+  },
+  "2404-10102": {
+    "title": "Chinchilla Scaling: A replication attempt",
+    "authors": [
+      "T. Besiroglu",
+      "Ege Erdil",
+      "Matthew Barnett",
+      "Josh You"
+    ],
+    "publication_date": "2024-04-15",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "2cfe76f2fcb272fd0dde67b5468cdc462416fd38",
+    "corpus_id": 269156968,
+    "category": "Computer Science"
+  },
+  "2403-16952": {
+    "title": "Data Mixing Laws: Optimizing Data Mixtures by Predicting Language Modeling Performance",
+    "authors": [
+      "Jiasheng Ye",
+      "Peiju Liu",
+      "Tianxiang Sun",
+      "Yunhua Zhou",
+      "Jun Zhan",
+      "Xipeng Qiu"
+    ],
+    "publication_date": "2024-03-25",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "c231dcc7f85e52c2a0e225022a4b755d472b65bb",
+    "corpus_id": 268681464,
+    "category": "Computer Science"
+  },
+  "2403-15796": {
+    "title": "Understanding Emergent Abilities of Language Models from the Loss Perspective",
+    "authors": [
+      "Zhengxiao Du",
+      "Aohan Zeng",
+      "Yuxiao Dong",
+      "Jie Tang"
+    ],
+    "publication_date": "2024-03-23",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "e61fde1309a9f5aab2060ace6f709711823c9ca5",
+    "corpus_id": 268681827,
+    "category": "Computer Science"
+  },
+  "2403-08540": {
+    "title": "Language models scale reliably with over-training and on downstream tasks",
+    "authors": [
+      "S. Gadre",
+      "G. Smyrnis",
+      "Vaishaal Shankar",
+      "Suchin Gururangan",
+      "Mitchell Wortsman",
+      "Rulin Shao",
+      "Jean-Pierre Mercat",
+      "Alex Fang",
+      "Jeffrey Li",
+      "Sedrick Scott Keh",
+      "Rui Xin",
+      "Marianna Nezhurina",
+      "Igor Vasiljevic",
+      "J. Jitsev",
+      "Alexandros G. Dimakis",
+      "Gabriel Ilharco",
+      "Shuran Song",
+      "Thomas Kollar",
+      "Y. Carmon",
+      "Achal Dave",
+      "Reinhard Heckel",
+      "Niklas Muennighoff",
+      "Ludwig Schmidt"
+    ],
+    "publication_date": "2024-03-13",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "98755a7ca75afbb29a19f8129b9f25796ad0e0b7",
+    "corpus_id": 268379614,
+    "category": "Computer Science"
+  },
+  "2402-07043": {
+    "title": "A Tale of Tails: Model Collapse as a Change of Scaling Laws",
+    "authors": [
+      "Elvis Dohmatob",
+      "Yunzhen Feng",
+      "Pu Yang",
+      "François Charton",
+      "Julia Kempe"
+    ],
+    "publication_date": "2024-02-10",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "837b55eefbeee72e580e97a7b3c7136e714134b4",
+    "corpus_id": 267628004,
+    "category": "Computer Science"
+  },
+  "2402-04376": {
+    "title": "Scaling laws for learning with real and surrogate data",
+    "authors": [
+      "Ayush Jain",
+      "Andrea Montanari",
+      "Eren Sasoglu"
+    ],
+    "publication_date": "2024-02-06",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "1982b1254e30219589f383a875bce8aedeade9d5",
+    "corpus_id": 267522769,
+    "category": "Computer Science, Mathematics"
+  },
+  "2402-01092": {
+    "title": "A Dynamical Model of Neural Scaling Laws",
+    "authors": [
+      "Blake Bordelon",
+      "Alexander Atanasov",
+      "Cengiz Pehlevan"
+    ],
+    "publication_date": "2024-02-02",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "ad9bac9b786f65f0a832b11ba7e83639c90da415",
+    "corpus_id": 267406160,
+    "category": "Computer Science, Mathematics, Physics"
+  },
+  "2402-00838": {
+    "title": "OLMo: Accelerating the Science of Language Models",
+    "authors": [
+      "Dirk Groeneveld",
+      "Iz Beltagy",
+      "Pete Walsh",
+      "Akshita Bhagia",
+      "Rodney Kinney",
+      "Oyvind Tafjord",
+      "A. Jha",
+      "Hamish Ivison",
+      "Ian Magnusson",
+      "Yizhong Wang",
+      "Shane Arora",
+      "David Atkinson",
+      "Russell Authur",
+      "Khyathi Raghavi Chandu",
+      "Arman Cohan",
+      "Jennifer Dumas",
+      "Yanai Elazar",
+      "Yuling Gu",
+      "Jack Hessel",
+      "Tushar Khot",
+      "William Merrill",
+      "Jacob Daniel Morrison",
+      "Niklas Muennighoff",
+      "Aakanksha Naik",
+      "Crystal Nam",
+      "Matthew E. Peters",
+      "Valentina Pyatkin",
+      "Abhilasha Ravichander",
+      "Dustin Schwenk",
+      "Saurabh Shah",
+      "Will Smith",
+      "Emma Strubell",
+      "Nishant Subramani",
+      "Mitchell Wortsman",
+      "Pradeep Dasigi",
+      "Nathan Lambert",
+      "Kyle Richardson",
+      "Luke S. Zettlemoyer",
+      "Jesse Dodge",
+      "Kyle Lo",
+      "Luca Soldaini",
+      "Noah A. Smith",
+      "Hanna Hajishirzi"
+    ],
+    "publication_date": "2024-02-01",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "ac45bbf9940512d9d686cf8cd3a95969bc313570",
+    "corpus_id": 267365485,
+    "category": "Computer Science"
+  },
+  "2401-12926": {
+    "title": "DsDm: Model-Aware Dataset Selection with Datamodels",
+    "authors": [
+      "Logan Engstrom",
+      "Axel Feldmann",
+      "A. Ma̧dry"
+    ],
+    "publication_date": "2024-01-23",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "d6a546b23c3b67aa2dc2d03ef3e7692f031ebd2d",
+    "corpus_id": 267094971,
+    "category": "Computer Science, Mathematics"
+  },
+  "2309-14322": {
+    "title": "Small-scale proxies for large-scale Transformer training instabilities",
+    "authors": [
+      "Mitchell Wortsman",
+      "Peter J. Liu",
+      "Lechao Xiao",
+      "Katie Everett",
+      "A. Alemi",
+      "Ben Adlam",
+      "John D. Co-Reyes",
+      "Izzeddin Gur",
+      "Abhishek Kumar",
+      "Roman Novak",
+      "Jeffrey Pennington",
+      "Jascha Narain Sohl-Dickstein",
+      "Kelvin Xu",
+      "Jaehoon Lee",
+      "Justin Gilmer",
+      "Simon Kornblith"
+    ],
+    "publication_date": "2023-09-25",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "f5789596531fad358c3166fdb5bd72d8e661c32c",
+    "corpus_id": 262824542,
+    "category": "Computer Science"
+  },
+  "2305-06161": {
+    "title": "StarCoder: may the source be with you!",
+    "authors": [
+      "Raymond Li",
+      "Loubna Ben Allal",
+      "Yangtian Zi",
+      "Niklas Muennighoff",
+      "Denis Kocetkov",
+      "Chenghao Mou",
+      "Marc Marone",
+      "Christopher Akiki",
+      "Jia Li",
+      "Jenny Chim",
+      "Qian Liu",
+      "Evgenii Zheltonozhskii",
+      "Terry Yue Zhuo",
+      "Thomas Wang",
+      "Olivier Dehaene",
+      "Mishig Davaadorj",
+      "J. Lamy-Poirier",
+      "João Monteiro",
+      "Oleh Shliazhko",
+      "Nicolas Gontier",
+      "Nicholas Meade",
+      "A. Zebaze",
+      "Ming-Ho Yee",
+      "Logesh Kumar Umapathi",
+      "Jian Zhu",
+      "Benjamin Lipkin",
+      "Muhtasham Oblokulov",
+      "Zhiruo Wang",
+      "Rudra Murthy",
+      "J. Stillerman",
+      "Siva Sankalp Patel",
+      "Dmitry Abulkhanov",
+      "Marco Zocca",
+      "Manan Dey",
+      "Zhihan Zhang",
+      "N. Fahmy",
+      "Urvashi Bhattacharyya",
+      "W. Yu",
+      "Swayam Singh",
+      "Sasha Luccioni",
+      "Paulo Villegas",
+      "M. Kunakov",
+      "Fedor Zhdanov",
+      "Manuel Romero",
+      "Tony Lee",
+      "Nadav Timor",
+      "Jennifer Ding",
+      "Claire Schlesinger",
+      "Hailey Schoelkopf",
+      "Jana Ebert",
+      "Tri Dao",
+      "Mayank Mishra",
+      "A. Gu",
+      "Jennifer Robinson",
+      "Carolyn Jane Anderson",
+      "Brendan Dolan-Gavitt",
+      "Danish Contractor",
+      "Siva Reddy",
+      "Daniel Fried",
+      "Dzmitry Bahdanau",
+      "Yacine Jernite",
+      "Carlos Muñoz Ferrandis",
+      "Sean M. Hughes",
+      "Thomas Wolf",
+      "Arjun Guha",
+      "L. V. Werra",
+      "H. D. Vries"
+    ],
+    "publication_date": "2023-05-09",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "3e4085e5869f1b7959707a1e1d7d273b6057eb4e",
+    "corpus_id": 258588247,
+    "category": "Computer Science"
+  },
+  "2303-14582": {
+    "title": "Identification of Negative Transfers in Multitask Learning Using Surrogate Models",
+    "authors": [
+      "Dongyue Li",
+      "Huy L. Nguyen",
+      "Hongyang Zhang"
+    ],
+    "publication_date": "2023-03-25",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "535dfd1a3472136ca032be7d34a8d6ed71a24503",
+    "corpus_id": 257767172,
+    "category": "Computer Science, Mathematics"
+  },
+  "2303-13506": {
+    "title": "The Quantization Model of Neural Scaling",
+    "authors": [
+      "Eric J. Michaud",
+      "Ziming Liu",
+      "Uzay Girit",
+      "Max Tegmark"
+    ],
+    "publication_date": "2023-03-23",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "9e4980cb927b803d375c5796f4a2eb3a7fe0555d",
+    "corpus_id": 257687665,
+    "category": "Computer Science, Physics"
+  },
+  "2210-16859": {
+    "title": "A Solvable Model of Neural Scaling Laws",
+    "authors": [
+      "A. Maloney",
+      "Daniel A. Roberts",
+      "J. Sully"
+    ],
+    "publication_date": "2022-10-30",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "f5b3cb14e0947c62b470d2072483481f14258738",
+    "corpus_id": 253237527,
+    "category": "Computer Science, Physics, Mathematics"
+  },
+  "2210-12517": {
+    "title": "Exploring The Landscape of Distributional Robustness for Question Answering Models",
+    "authors": [
+      "Anas Awadalla",
+      "Mitchell Wortsman",
+      "Gabriel Ilharco",
+      "Sewon Min",
+      "Ian Magnusson",
+      "Hannaneh Hajishirzi",
+      "Ludwig Schmidt"
+    ],
+    "publication_date": "2022-10-22",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "7cf4f8cb8b4a373d869e785b79160dda7a49a250",
+    "corpus_id": 253098080,
+    "category": "Computer Science"
+  },
+  "2203-15556": {
+    "title": "Training Compute-Optimal Large Language Models",
+    "authors": [
+      "Jordan Hoffmann",
+      "Sebastian Borgeaud",
+      "A. Mensch",
+      "Elena Buchatskaya",
+      "Trevor Cai",
+      "Eliza Rutherford",
+      "Diego de Las Casas",
+      "Lisa Anne Hendricks",
+      "Johannes Welbl",
+      "Aidan Clark",
+      "Tom Hennigan",
+      "Eric Noland",
+      "Katie Millican",
+      "George van den Driessche",
+      "Bogdan Damoc",
+      "Aurelia Guy",
+      "Simon Osindero",
+      "K. Simonyan",
+      "Erich Elsen",
+      "Jack W. Rae",
+      "O. Vinyals",
+      "L. Sifre"
+    ],
+    "publication_date": "2022-03-29",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "8342b592fe238f3d230e4959b06fd10153c45db1",
+    "corpus_id": 247778764,
+    "category": "Computer Science"
+  },
+  "2203-06176": {
+    "title": "More Than a Toy: Random Matrix Models Predict How Real-World Neural Representations Generalize",
+    "authors": [
+      "Alexander Wei",
+      "Wei Hu",
+      "J. Steinhardt"
+    ],
+    "publication_date": "2022-03-11",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "ad9effaa6c12330f24e34bd3fa5d1496acc113af",
+    "corpus_id": 247410980,
+    "category": "Computer Science, Mathematics"
+  },
+  "2202-00622": {
+    "title": "Datamodels: Predicting Predictions from Training Data",
+    "authors": [
+      "Andrew Ilyas",
+      "Sung Min Park",
+      "Logan Engstrom",
+      "Guillaume Leclerc",
+      "A. Ma̧dry"
+    ],
+    "publication_date": "2022-02-01",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "2a7a6648563e6a09e6fea6dd96e68e0563216dcb",
+    "corpus_id": 246442081,
+    "category": "Mathematics, Computer Science"
+  },
+  "2111-08234": {
+    "title": "Covariate Shift in High-Dimensional Random Feature Regression",
+    "authors": [
+      "Nilesh Tripuraneni",
+      "Ben Adlam",
+      "Jeffrey Pennington"
+    ],
+    "publication_date": "2021-11-16",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "3a14a754b5802de458e1485184bc24edc59d1ca0",
+    "corpus_id": 244130334,
+    "category": "Computer Science, Mathematics"
+  },
+  "2110-02095": {
+    "title": "Exploring the Limits of Large Scale Pre-training",
+    "authors": [
+      "Samira Abnar",
+      "Mostafa Dehghani",
+      "Behnam Neyshabur",
+      "Hanie Sedghi"
+    ],
+    "publication_date": "2021-10-05",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "c206a6e7f51f5e1b6bfc479a174b66ad88ada2db",
+    "corpus_id": 238354065,
+    "category": "Computer Science, Mathematics"
+  },
+  "2107-04649": {
+    "title": "Accuracy on the Line: on the Strong Correlation Between Out-of-Distribution and In-Distribution Generalization",
+    "authors": [
+      "John Miller",
+      "Rohan Taori",
+      "Aditi Raghunathan",
+      "Shiori Sagawa",
+      "Pang Wei Koh",
+      "Vaishaal Shankar",
+      "Percy Liang",
+      "Y. Carmon",
+      "Ludwig Schmidt"
+    ],
+    "publication_date": "2021-07-09",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "106cc848e51ad0938e73c1b3b2ebb90d4bdea143",
+    "corpus_id": 235795331,
+    "category": "Computer Science, Mathematics"
+  },
+  "2105-15004": {
+    "title": "Generalization error rates in kernel regression: the crossover from the noiseless to noisy regime",
+    "authors": [
+      "Hugo Cui",
+      "Bruno Loureiro",
+      "Florent Krzakala",
+      "Lenka Zdeborov'a"
+    ],
+    "publication_date": "2021-05-31",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "a55b6aade106ac881150b52ee070889f3849fbff",
+    "corpus_id": 235254538,
+    "category": "Computer Science, Mathematics, Physics"
+  },
+  "2102-06701": {
+    "title": "Explaining neural scaling laws",
+    "authors": [
+      "Yasaman Bahri",
+      "Ethan Dyer",
+      "J. Kaplan",
+      "Jaehoon Lee",
+      "Utkarsh Sharma"
+    ],
+    "publication_date": "2021-02-12",
+    "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+    "semantic_scholar_id": "6b2b5d3d9a2ca4bc4fbd81551a62370be2fbff1b",
+    "corpus_id": 231918701,
+    "category": "Computer Science, Physics, Mathematics, Medicine"
+  },
+  "2102-04074": {
+    "title": "Learning Curve Theory",
+    "authors": [
+      "Marcus Hutter"
+    ],
+    "publication_date": "2021-02-08",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "07e420f5b350269aab6694cb19a49799874dadb3",
+    "corpus_id": 231847032,
+    "category": "Computer Science, Mathematics"
+  },
+  "2102-01293": {
+    "title": "Scaling Laws for Transfer",
+    "authors": [
+      "Danny Hernandez",
+      "J. Kaplan",
+      "T. Henighan",
+      "Sam McCandlish"
+    ],
+    "publication_date": "2021-02-02",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "4383a975c09b72ba2f1a77cd779bb6965dbfb2fb",
+    "corpus_id": 231749962,
+    "category": "Computer Science"
+  },
+  "2009-03300": {
+    "title": "Measuring Massive Multitask Language Understanding",
+    "authors": [
+      "Dan Hendrycks",
+      "Collin Burns",
+      "Steven Basart",
+      "Andy Zou",
+      "Mantas Mazeika",
+      "D. Song",
+      "J. Steinhardt"
+    ],
+    "publication_date": "2020-09-07",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "814a4f680b9ba6baba23b93499f4b48af1a27678",
+    "corpus_id": 221516475,
+    "category": "Computer Science"
+  },
+  "2006-13198": {
+    "title": "Spectral bias and task-model alignment explain generalization in kernel regression and infinitely wide neural networks",
+    "authors": [
+      "Abdulkadir Canatar",
+      "Blake Bordelon",
+      "Cengiz Pehlevan"
+    ],
+    "publication_date": "2020-06-23",
+    "venue": "Nature Communications",
+    "semantic_scholar_id": "0ece9e13768dd818c677254d1185775c70eaa6cc",
+    "corpus_id": 226227332,
+    "category": "Medicine, Mathematics, Physics, Computer Science"
+  },
+  "2002-02561": {
+    "title": "Spectrum Dependent Learning Curves in Kernel Regression and Wide Neural Networks",
+    "authors": [
+      "Blake Bordelon",
+      "Abdulkadir Canatar",
+      "Cengiz Pehlevan"
+    ],
+    "publication_date": "2020-02-07",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "77a65e190f0815a6ca4755c1f7bc0d71bf4ebfe2",
+    "corpus_id": 211066351,
+    "category": "Computer Science, Mathematics"
+  },
+  "2001-08361": {
+    "title": "Scaling Laws for Neural Language Models",
+    "authors": [
+      "J. Kaplan",
+      "Sam McCandlish",
+      "T. Henighan",
+      "Tom B. Brown",
+      "Benjamin Chess",
+      "R. Child",
+      "Scott Gray",
+      "Alec Radford",
+      "Jeff Wu",
+      "Dario Amodei"
+    ],
+    "publication_date": "2020-01-23",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "e6c561d02500b2596a230b341a8eb8b921ca5bf2",
+    "corpus_id": 210861095,
+    "category": "Computer Science, Mathematics"
+  },
+  "1911-11641": {
+    "title": "PIQA: Reasoning about Physical Commonsense in Natural Language",
+    "authors": [
+      "Yonatan Bisk",
+      "Rowan Zellers",
+      "Ronan Le Bras",
+      "Jianfeng Gao",
+      "Yejin Choi"
+    ],
+    "publication_date": "2019-11-26",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "04f4e55e14150b7c48b0287ba77c7443df76ed45",
+    "corpus_id": 208290939,
+    "category": "Computer Science"
+  },
+  "1905-10843": {
+    "title": "Asymptotic learning curves of kernel methods: empirical data v.s. Teacher-Student paradigm",
+    "authors": [
+      "S. Spigler",
+      "M. Geiger",
+      "M. Wyart"
+    ],
+    "publication_date": "2019-05-26",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "ab73c20a7240208fba1cea046d0979ff002846ec",
+    "corpus_id": 166228398,
+    "category": "Mathematics, Physics, Computer Science"
+  },
+  "1905-07830": {
+    "title": "HellaSwag: Can a Machine Really Finish Your Sentence?",
+    "authors": [
+      "Rowan Zellers",
+      "Ari Holtzman",
+      "Yonatan Bisk",
+      "Ali Farhadi",
+      "Yejin Choi"
+    ],
+    "publication_date": "2019-05-01",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "8b0f27bb594b1eaaf493eaf1e2ee723a2b0a19ad",
+    "corpus_id": 159041722,
+    "category": "Computer Science"
+  },
+  "1809-02789": {
+    "title": "Can a Suit of Armor Conduct Electricity? A New Dataset for Open Book Question Answering",
+    "authors": [
+      "Todor Mihaylov",
+      "Peter Clark",
+      "Tushar Khot",
+      "Ashish Sabharwal"
+    ],
+    "publication_date": "2018-08-13",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "1536e8958697c5364f68b2e2448905dbbeb3a0ca",
+    "corpus_id": 52183757,
+    "category": "Computer Science"
+  },
+  "1803-05457": {
+    "title": "Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge",
+    "authors": [
+      "Peter Clark",
+      "Isaac Cowhey",
+      "Oren Etzioni",
+      "Tushar Khot",
+      "Ashish Sabharwal",
+      "Carissa Schoenick",
+      "Oyvind Tafjord"
+    ],
+    "publication_date": "2018-03-14",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "88bb0a28bb58d847183ec505dda89b63771bb495",
+    "corpus_id": 3922816,
+    "category": "Computer Science"
+  },
+  "1707-06209": {
+    "title": "Crowdsourcing Multiple Choice Science Questions",
+    "authors": [
+      "Johannes Welbl",
+      "Nelson F. Liu",
+      "Matt Gardner"
+    ],
+    "publication_date": "2017-07-19",
+    "venue": "NUT@EMNLP",
+    "semantic_scholar_id": "932a5de79d8a8ebb75ea0c43493450fd9922e738",
+    "corpus_id": 1553193,
+    "category": "Computer Science, Mathematics"
+  },
+  "2304-15004": {
+    "title": "Are Emergent Abilities of Large Language Models a Mirage?",
+    "authors": [
+      "Rylan Schaeffer",
+      "B. Miranda",
+      "Oluwasanmi Koyejo"
+    ],
+    "publication_date": "",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "29c7f009df21d0112c48dec254ff80cc45fac3af",
+    "corpus_id": 258418299,
+    "category": "Computer Science"
+  }
+}

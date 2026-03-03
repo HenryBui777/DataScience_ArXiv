@@ -1,0 +1,18 @@
+{
+  "title": "Measurement-free code-switching for low overhead quantum computation using permutation invariant codes",
+  "authors": [
+    "Yingkai Ouyang",
+    "Yumang Jing",
+    "Gavin K. Brennen"
+  ],
+  "summary": "Transversal gates on quantum error correction codes have been a promising approach for fault-tolerant quantum computing, but are limited by the Eastin-Knill no-go theorem. Existing solutions like gate teleportation and magic state distillation are resource-intensive. We present a measurement-free code-switching protocol for universal quantum computation, switching between a stabiliser code for transversal Cliffords and a permutation-invariant (PI) code for transversal non-Cliffords that are logical $Z$ rotations for any rational multiple of $π$. The novel non-Clifford gates enabled by this code-switching protocol provide for a lower gate count implementation of a universal gate set relative to the Clifford$+T$ gate set. To achieve this, we present a protocol for performing controlled-NOTs between the codes using near-term quantum control operations that employ a catalytic bosonic mode. We also present a new class of PI codes with tunable code distance, supporting transversal non-Clifford gates, and demonstrate their reduced gate count overhead relative to a comparable stabilizer code to stabilizer code switching scheme.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-12-09",
+    "2025-06-10",
+    "2025-09-16"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

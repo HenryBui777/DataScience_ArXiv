@@ -1,0 +1,14 @@
+{
+  "title": "An Investigation of Reprogramming for Cross-Language Adaptation in Speaker Verification Systems",
+  "authors": [
+    "Jingyu Li",
+    "Aemon Yat Fei Chiu",
+    "Tan Lee"
+  ],
+  "summary": "Language mismatch is among the most common and challenging domain mismatches in deploying speaker verification (SV) systems. Adversarial reprogramming has shown promising results in cross-language adaptation for SV. The reprogramming is implemented by padding learnable parameters on the two sides of input speech signals. In this paper, we investigate the relationship between the number of padded parameters and the performance of the reprogrammed models. Sufficient experiments are conducted with different scales of SV models and datasets. The results demonstrate that reprogramming consistently improves the performance of cross-language SV, while the improvement is saturated or even degraded when using larger padding lengths. The performance is mainly determined by the capacity of the original SV models instead of the number of padded parameters. The SV models with larger scales have higher upper bounds in performance and can endure longer padding without performance degradation.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "2024 IEEE 14th International Symposium on Chinese Spoken Language Processing (ISCSLP), Beijing, China, 2024, pp. 388-392",
+  "pdf_url": null,
+  "category": "eess.AS, cs.SD"
+}

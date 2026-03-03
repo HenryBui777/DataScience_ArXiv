@@ -1,0 +1,18 @@
+{
+  "title": "Spikes in Poissonian quantum trajectories",
+  "authors": [
+    "Alan Sherry",
+    "Cedric Bernardin",
+    "Abhishek Dhar",
+    "Aritra Kundu",
+    "Raphael Chetrite"
+  ],
+  "summary": "We consider the dynamics of a continuously monitored qubit in the limit of strong measurement rate where the quantum trajectory is described by a stochastic master equation with Poisson noise. Such limits are expected to give rise to quantum jumps between the pointer states associated with the non-demolition measurement. A surprising discovery in earlier work [Tilloy et al., Phys. Rev. A 92, 052111 (2015)] on quantum trajectories with Brownian noise was the phenomena of spikes observed in between the quantum jumps. Here, we show that spikes are observed also for Poisson noise. We consider three cases where the non-demolition is broken by adding, to the basic strong measurement dynamics, either unitary evolution or thermal noise or additional measurements. We present a complete analysis of the spike and jump statistics for all three cases using the fact that the dynamics effectively corresponds to that of stochastic resetting. We provide numerical results to support our analytic results.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-04-11"
+  ],
+  "publication_venue": "Phys. Rev. A 111, 042215 (2025)",
+  "pdf_url": null,
+  "category": "quant-ph, cond-mat.stat-mech, math-ph"
+}

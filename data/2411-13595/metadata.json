@@ -1,0 +1,15 @@
+{
+  "title": "Towards Accessible Learning: Deep Learning-Based Potential Dysgraphia Detection and OCR for Potentially Dysgraphic Handwriting",
+  "authors": [
+    "Vydeki D",
+    "Divyansh Bhandari",
+    "Pranav Pratap Patil",
+    "Aarush Anand Kulkarni"
+  ],
+  "summary": "Dysgraphia is a learning disorder that affects handwriting abilities, making it challenging for children to write legibly and consistently. Early detection and monitoring are crucial for providing timely support and interventions. This study applies deep learning techniques to address the dual tasks of dysgraphia detection and optical character recognition (OCR) on handwriting samples from children with potential dysgraphic symptoms. Using a dataset of handwritten samples from Malaysian schoolchildren, we developed a custom Convolutional Neural Network (CNN) model, alongside VGG16 and ResNet50, to classify handwriting as dysgraphic or non-dysgraphic. The custom CNN model outperformed the pre-trained models, achieving a test accuracy of 91.8% with high precision, recall, and AUC, demonstrating its robustness in identifying dysgraphic handwriting features. Additionally, an OCR pipeline was created to segment and recognize individual characters in dysgraphic handwriting, achieving a character recognition accuracy of approximately 43.5%. This research highlights the potential of deep learning in supporting dysgraphia assessment, laying a foundation for tools that could assist educators and clinicians in identifying dysgraphia and tracking handwriting progress over time. The findings contribute to advancements in assistive technologies for learning disabilities, offering hope for more accessible and accurate diagnostic tools in educational and clinical settings.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.LG"
+}

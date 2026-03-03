@@ -1,0 +1,15 @@
+{
+  "title": "Polynomial Freiman-Ruzsa, Reed-Muller codes and Shannon capacity",
+  "authors": [
+    "Emmanuel Abbe",
+    "Colin Sandon",
+    "Vladyslav Shashkov",
+    "Maryna Viazovska"
+  ],
+  "summary": "In 1948, Shannon used a probabilistic argument to show the existence of codes achieving a maximal rate defined by the channel capacity. In 1954, Muller and Reed introduced a simple deterministic code construction, based on polynomial evaluations, conjectured shortly after to achieve capacity. The conjecture led to decades of activity involving various areas of mathematics and the recent settlement by [AS23] using flower set boosting. In this paper, we provide an alternative proof of the weak form of the capacity result, i.e., that RM codes have a vanishing local error at any rate below capacity. Our proof relies on the recent Polynomial Freiman-Ruzsa conjecture's proof [GGMT23] and an entropy extraction approach similar to [AY19]. Further, a new additive combinatorics conjecture is put forward which would imply the stronger result with vanishing global error. We expect the latter conjecture to be more directly relevant to coding applications.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IT, math.CO, math.NT"
+}

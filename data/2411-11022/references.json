@@ -1,0 +1,161 @@
+{
+  "2408-16246": {
+    "title": "PACiM: A Sparsity-Centric Hybrid Compute-in-Memory Architecture via Probabilistic Approximation",
+    "authors": [
+      "Wenlun Zhang",
+      "Shimpei Ando",
+      "Yung-Chin Chen",
+      "Satomi Miyagi",
+      "Shinya Takamaeda-Yamazaki",
+      "Kentaro Yoshioka"
+    ],
+    "publication_date": "2024-08-29",
+    "venue": "International Conference on Computer Aided Design",
+    "semantic_scholar_id": "64800c5c36792ffc61a2ef438965f582436916a1",
+    "corpus_id": 272146188,
+    "category": "Computer Science"
+  },
+  "2407-12829": {
+    "title": "PICO-RAM: A PVT-Insensitive Analog Compute-In-Memory SRAM Macro With In Situ Multi-Bit Charge Computing and 6T Thin-Cell-Compatible Layout",
+    "authors": [
+      "Zhiyu Chen",
+      "Ziyuan Wen",
+      "Weier Wan",
+      "Akhil Reddy Pakala",
+      "Yiwei Zou",
+      "Wei-Chen Wei",
+      "Zengyi Li",
+      "Yubei Chen",
+      "Kaiyuan Yang"
+    ],
+    "publication_date": "2024-07-03",
+    "venue": "IEEE Journal of Solid-State Circuits",
+    "semantic_scholar_id": "cbe6363e40353053fb73b316b5bd1a38d57bf16c",
+    "corpus_id": 271270778,
+    "category": "Computer Science"
+  },
+  "2402-18089": {
+    "title": "PIMSIM-NN: An ISA-based Simulation Framework for Processing-in-Memory Accelerators",
+    "authors": [
+      "Xinyu Wang",
+      "Xiaotian Sun",
+      "Yinhe Han",
+      "Xiaoming Chen"
+    ],
+    "publication_date": "2024-02-28",
+    "venue": "Design, Automation and Test in Europe",
+    "semantic_scholar_id": "f11f23f221feea531ea4837e291defb58d3967e9",
+    "corpus_id": 268041281,
+    "category": "Computer Science"
+  },
+  "2405-14978": {
+    "title": "Analog or Digital In-Memory Computing? Benchmarking Through Quantitative Modeling",
+    "authors": [
+      "Jiacong Sun",
+      "Pouya Houshmand",
+      "Marian Verhelst"
+    ],
+    "publication_date": "2023-10-28",
+    "venue": "2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD)",
+    "semantic_scholar_id": "25f613e58a5ea82b701d7598e5a09fcde8f89d83",
+    "corpus_id": 265526556,
+    "category": "Engineering, Computer Science"
+  },
+  "2308-15040": {
+    "title": "OSA-HCIM: On-The-Fly Saliency-Aware Hybrid SRAM CIM with Dynamic Precision Configuration",
+    "authors": [
+      "Yung-Chin Chen",
+      "Shimpei Ando",
+      "Daichi Fujiki",
+      "Shinya Takamaeda-Yamazaki",
+      "Kentaro Yoshioka"
+    ],
+    "publication_date": "2023-08-29",
+    "venue": "Asia and South Pacific Design Automation Conference",
+    "semantic_scholar_id": "1c608db2d2313f97a9540e59f14190b315d2377b",
+    "corpus_id": 261276311,
+    "category": "Computer Science"
+  },
+  "2109-12948": {
+    "title": "Understanding and Overcoming the Challenges of Efficient Transformer Quantization",
+    "authors": [
+      "Yelysei Bondarenko",
+      "Markus Nagel",
+      "Tijmen Blankevoort"
+    ],
+    "publication_date": "2021-09-27",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "73bcf4577284fa116ee73487b7cbb85c8266eaa0",
+    "corpus_id": 237940329,
+    "category": "Computer Science"
+  },
+  "2106-08295": {
+    "title": "A White Paper on Neural Network Quantization",
+    "authors": [
+      "Markus Nagel",
+      "Marios Fournarakis",
+      "Rana Ali Amjad",
+      "Yelysei Bondarenko",
+      "M. V. Baalen",
+      "Tijmen Blankevoort"
+    ],
+    "publication_date": "2021-06-15",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "8a0a7170977cf5c94d9079b351562077b78df87a",
+    "corpus_id": 235435934,
+    "category": "Computer Science"
+  },
+  "2104-02184": {
+    "title": "A Flexible and Fast PyTorch Toolkit for Simulating Training and Inference on Analog Crossbar Arrays",
+    "authors": [
+      "M. Rasch",
+      "Diego Moreda",
+      "T. Gokmen",
+      "M. L. Gallo",
+      "F. Carta",
+      "Cindy Goldberg",
+      "K. E. Maghraoui",
+      "A. Sebastian",
+      "V. Narayanan"
+    ],
+    "publication_date": "2021-04-05",
+    "venue": "International Conference on Artificial Intelligence Circuits and Systems",
+    "semantic_scholar_id": "155344ff063e0086a67fdabf30c023cb1f1a6469",
+    "corpus_id": 233033894,
+    "category": "Computer Science"
+  },
+  "2004-10971": {
+    "title": "MemTorch: An Open-source Simulation Framework for Memristive Deep Learning Systems",
+    "authors": [
+      "C. Lammie",
+      "Wei Xiang",
+      "B. Linares-Barranco",
+      "M. Azghadi"
+    ],
+    "publication_date": "2020-04-23",
+    "venue": "Neurocomputing",
+    "semantic_scholar_id": "0dd83fb6cb1cdd1f3e95ccefe3ed12b661f6af6a",
+    "corpus_id": 216080418,
+    "category": "Computer Science"
+  },
+  "2001-08361": {
+    "title": "Scaling Laws for Neural Language Models",
+    "authors": [
+      "J. Kaplan",
+      "Sam McCandlish",
+      "T. Henighan",
+      "Tom B. Brown",
+      "Benjamin Chess",
+      "R. Child",
+      "Scott Gray",
+      "Alec Radford",
+      "Jeff Wu",
+      "Dario Amodei"
+    ],
+    "publication_date": "2020-01-23",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "e6c561d02500b2596a230b341a8eb8b921ca5bf2",
+    "corpus_id": 210861095,
+    "category": "Computer Science, Mathematics"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "title": "Exploiting epitaxial strained germanium for scaling low noise spin qubits at the micron-scale",
+  "authors": [
+    "Lucas E. A. Stehouwer",
+    "Cécile X. Yu",
+    "Barnaby van Straaten",
+    "Alberto Tosato",
+    "Valentin John",
+    "Davide Degli Esposti",
+    "Asser Elsayed",
+    "Davide Costa",
+    "Stefan D. Oosterhout",
+    "Nico W. Hendrickx",
+    "Menno Veldhorst",
+    "Francesco Borsoi",
+    "Giordano Scappucci"
+  ],
+  "summary": "Disorder in the heterogeneous material stack of semiconductor spin qubit systems introduces noise that compromises quantum information processing, posing a challenge to coherently control large-scale quantum devices. Here, we exploit low-disorder epitaxial strained quantum wells in Ge/SiGe heterostructures grown on Ge wafers to comprehensively probe the noise properties of complex micron-scale devices comprising of up to ten quantum dots and four rf-charge sensors arranged in a two-dimensional array. We demonstrate an average charge noise of $\\sqrt{S_{0}}=0.3(1)$ $μ\\mathrm{eV}/\\sqrt{\\mathrm{Hz}}$ at 1 Hz across different locations on the wafer, providing a benchmark for quantum confined holes. We then establish hole-spin qubit control in these heterostructures and extend our investigation from electrical to magnetic noise through spin echo measurements. Exploiting dynamical decoupling sequences, we quantify the power spectral density components arising from the hyperfine interaction with $^{73}$Ge spinful isotopes and identify coherence modulations associated with the interaction with the $^{29}$Si nuclear spin bath near the Ge quantum well. We estimate an integrated hyperfine noise amplitude $σ_f$ of 180(8) kHz from $^{73}$Ge and of 47(5) kHz from $^{29}$Si, underscoring the need for full isotopic purification of the qubit host environment.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-02-17"
+  ],
+  "publication_venue": "Nature Materials 2025",
+  "pdf_url": null,
+  "category": "cond-mat.mes-hall"
+}

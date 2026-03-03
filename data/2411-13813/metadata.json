@@ -1,0 +1,16 @@
+{
+  "title": "The Value of Information from Sell-side Analysts",
+  "authors": [
+    "Linying Lv"
+  ],
+  "summary": "I examine the value of information from sell-side analysts by analyzing a large corpus of their written reports. Using embeddings from state-of-the-art large language models, I show that qualitative information in analyst reports explains above 10% of contemporaneous stock returns out-of-sample, a value that is more economically significant than quantitative forecasts. I then perform a Shapley value decomposition to assess how much each topic within the reports contributes to explaining stock returns. The results show that analysts' income statement analyses account for more than half of the reports' explanatory power. Expressing these findings in economic terms, I estimate that early acquisition of analyst reports can yield significant profits. Analyst information value peaks in the first week following earnings announcements, highlighting their vital role in interpreting new financial data.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-12-12",
+    "2024-12-29",
+    "2025-06-17"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-fin.GN"
+}

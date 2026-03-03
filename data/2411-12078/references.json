@@ -1,0 +1,386 @@
+{
+  "2310-10773": {
+    "title": "Gotta be SAFE: A New Framework for Molecular Design",
+    "authors": [
+      "Emmanuel Noutahi",
+      "Cristian Gabellini",
+      "Michael Craig",
+      "Jonathan S.C Lim",
+      "Prudencio Tossou"
+    ],
+    "publication_date": "2023-10-16",
+    "venue": "Digital Discovery",
+    "semantic_scholar_id": "8a470adf00e6cc5b870c1206b6ee6c7c7ffc6f43",
+    "corpus_id": 264172268,
+    "category": "Computer Science, Biology"
+  },
+  "2310-09267": {
+    "title": "Genetic algorithms are strong baselines for molecule generation",
+    "authors": [
+      "Austin Tripp",
+      "Jos'e Miguel Hern'andez-Lobato"
+    ],
+    "publication_date": "2023-10-13",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "c52459c61951a01a62a279af5b6f51242bec784e",
+    "corpus_id": 264127839,
+    "category": "Computer Science, Biology"
+  },
+  "2310-00841": {
+    "title": "Drug Discovery with Dynamic Goal-aware Fragments",
+    "authors": [
+      "Seul Lee",
+      "Seanie Lee",
+      "Sung Ju Hwang"
+    ],
+    "publication_date": "2023-10-02",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "09a0f9d84ff6102f924782b5286c4fbe91d7a7a0",
+    "corpus_id": 263605872,
+    "category": "Computer Science"
+  },
+  "2302-01129": {
+    "title": "De Novo Molecular Generation via Connection-aware Motif Mining",
+    "authors": [
+      "Zijie Geng",
+      "Shufang Xie",
+      "Yingce Xia",
+      "Lijun Wu",
+      "Tao Qin",
+      "Jie Wang",
+      "Yongdong Zhang",
+      "Feng Wu",
+      "Tie-Yan Liu"
+    ],
+    "publication_date": "2023-02-02",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "26ed17bb45e9fcad97482f0a112f4067785fd301",
+    "corpus_id": 256503890,
+    "category": "Computer Science"
+  },
+  "2302-00083": {
+    "title": "In-Context Retrieval-Augmented Language Models",
+    "authors": [
+      "Ori Ram",
+      "Yoav Levine",
+      "Itay Dalmedigos",
+      "Dor Muhlgay",
+      "A. Shashua",
+      "Kevin Leyton-Brown",
+      "Y. Shoham"
+    ],
+    "publication_date": "2023-01-31",
+    "venue": "Transactions of the Association for Computational Linguistics",
+    "semantic_scholar_id": "465471bb5bf1a945549d6291c2d23367966b4957",
+    "corpus_id": 256459451,
+    "category": "Computer Science"
+  },
+  "2208-11126": {
+    "title": "Retrieval-based Controllable Molecule Generation",
+    "authors": [
+      "Zichao Wang",
+      "Weili Nie",
+      "Zhuoran Qiao",
+      "Chaowei Xiao",
+      "Richard Baraniuk",
+      "Anima Anandkumar"
+    ],
+    "publication_date": "2022-08-23",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "ea4ff70180e4563fe12b51dfce0f57b36639aacf",
+    "corpus_id": 251765079,
+    "category": "Biology, Computer Science"
+  },
+  "2206-12411": {
+    "title": "Sample Efficiency Matters: A Benchmark for Practical Molecular Optimization",
+    "authors": [
+      "Wenhao Gao",
+      "Tianfan Fu",
+      "Jimeng Sun",
+      "Connor W. Coley"
+    ],
+    "publication_date": "2022-06-22",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "e318c18e6f3faa5c514e6b85270b2211603fc419",
+    "corpus_id": 250072218,
+    "category": "Computer Science, Biology"
+  },
+  "2206-07632": {
+    "title": "Exploring Chemical Space with Score-based Out-of-distribution Generation",
+    "authors": [
+      "Seul Lee",
+      "Jaehyeong Jo",
+      "S. Hwang"
+    ],
+    "publication_date": "2022-06-06",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "425e568c1b4e42f79734cbb0b1444097db857246",
+    "corpus_id": 249674702,
+    "category": "Biology, Computer Science, Physics"
+  },
+  "2112-04426": {
+    "title": "Improving language models by retrieving from trillions of tokens",
+    "authors": [
+      "Sebastian Borgeaud",
+      "A. Mensch",
+      "Jordan Hoffmann",
+      "Trevor Cai",
+      "Eliza Rutherford",
+      "Katie Millican",
+      "George van den Driessche",
+      "Jean-Baptiste Lespiau",
+      "Bogdan Damoc",
+      "Aidan Clark",
+      "Diego de Las Casas",
+      "Aurelia Guy",
+      "Jacob Menick",
+      "Roman Ring",
+      "T. Hennigan",
+      "Saffron Huang",
+      "Lorenzo Maggiore",
+      "Chris Jones",
+      "Albin Cassirer",
+      "Andy Brock",
+      "Michela Paganini",
+      "G. Irving",
+      "O. Vinyals",
+      "Simon Osindero",
+      "K. Simonyan",
+      "Jack W. Rae",
+      "Erich Elsen",
+      "L. Sifre"
+    ],
+    "publication_date": "2021-12-08",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "002c256d30d6be4b23d365a8de8ae0e67e4c9641",
+    "corpus_id": 244954723,
+    "category": "Computer Science"
+  },
+  "2110-01219": {
+    "title": "Hit and Lead Discovery with Explorative RL and Fragment-based Molecule Generation",
+    "authors": [
+      "Soojung Yang",
+      "Doyeong Hwang",
+      "Seul Lee",
+      "Seongok Ryu",
+      "Sung Ju Hwang"
+    ],
+    "publication_date": "2021-10-04",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "40a8e10cbc470287a15c92af3c25ff405786ea1d",
+    "corpus_id": 238259506,
+    "category": "Biology, Computer Science"
+  },
+  "2106-15098": {
+    "title": "Molecule Generation by Principal Subgraph Mining and Assembling",
+    "authors": [
+      "Xiangzhe Kong",
+      "Wenbing Huang",
+      "Zhixing Tan",
+      "Yang Liu"
+    ],
+    "publication_date": "2021-06-29",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "693a8e68f82e94d0a919497d22786ad32cf6577b",
+    "corpus_id": 252683437,
+    "category": "Computer Science, Biology"
+  },
+  "2103-10432": {
+    "title": "MARS: Markov Molecular Sampling for Multi-objective Drug Discovery",
+    "authors": [
+      "Yutong Xie",
+      "Chence Shi",
+      "Hao Zhou",
+      "Yuwei Yang",
+      "Weinan Zhang",
+      "Yong Yu",
+      "Lei Li"
+    ],
+    "publication_date": "2021-03-18",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "73bc1497aca1a3cd0aa9c48e4d35be5cf40d2a9c",
+    "corpus_id": 232290577,
+    "category": "Computer Science, Biology"
+  },
+  "2103-03864": {
+    "title": "Learning to Extend Molecular Scaffolds with Structural Motifs",
+    "authors": [
+      "Krzysztof Maziarz",
+      "Henry Jackson-Flux",
+      "Pashmina Cameron",
+      "F. Sirockin",
+      "Nadine Schneider",
+      "N. Stiefl",
+      "Marc Brockschmidt"
+    ],
+    "publication_date": "2021-03-05",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "faa6d14ee02cb7096a4ef5d7444742d065656a02",
+    "corpus_id": 232135245,
+    "category": "Computer Science, Biology"
+  },
+  "2102-09548": {
+    "title": "Therapeutics Data Commons: Machine Learning Datasets and Tasks for Drug Discovery and Development",
+    "authors": [
+      "Kexin Huang",
+      "Tianfan Fu",
+      "Wenhao Gao",
+      "Yue Zhao",
+      "Yusuf H. Roohani",
+      "J. Leskovec",
+      "Connor W. Coley",
+      "Cao Xiao",
+      "Jimeng Sun",
+      "M. Zitnik"
+    ],
+    "publication_date": "2021-02-18",
+    "venue": "NeurIPS Datasets and Benchmarks",
+    "semantic_scholar_id": "54ca116f1e9a45768a3a2c47a4608ff34adefa0c",
+    "corpus_id": 237264044,
+    "category": "Computer Science, Biology"
+  },
+  "2007-04897": {
+    "title": "Guiding Deep Molecular Optimization with Genetic Exploration",
+    "authors": [
+      "Sungsoo Ahn",
+      "Junsup Kim",
+      "Hankook Lee",
+      "Jinwoo Shin"
+    ],
+    "publication_date": "2020-07-04",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "188557d0d9235680c5abb3b8ab5015e419c44591",
+    "corpus_id": 220425577,
+    "category": "Computer Science, Biology, Mathematics"
+  },
+  "2005-11401": {
+    "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+    "authors": [
+      "Patrick Lewis",
+      "Ethan Perez",
+      "Aleksandara Piktus",
+      "F. Petroni",
+      "Vladimir Karpukhin",
+      "Naman Goyal",
+      "Heinrich Kuttler",
+      "M. Lewis",
+      "Wen-tau Yih",
+      "Tim Rocktäschel",
+      "Sebastian Riedel",
+      "Douwe Kiela"
+    ],
+    "publication_date": "2020-05-22",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "659bf9ce7175e1ec266ff54359e2bd76e0b7ff31",
+    "corpus_id": 218869575,
+    "category": "Computer Science"
+  },
+  "2002-07007": {
+    "title": "The Synthesizability of Molecules Proposed by Generative Models",
+    "authors": [
+      "Wenhao Gao",
+      "Connor W. Coley"
+    ],
+    "publication_date": "2020-02-17",
+    "venue": "Journal of Chemical Information and Modeling",
+    "semantic_scholar_id": "555c0d308a1c9faa089430133566bf0dd6e4613d",
+    "corpus_id": 211132437,
+    "category": "Computer Science, Medicine, Biology, Mathematics"
+  },
+  "2002-03230": {
+    "title": "Hierarchical Generation of Molecular Graphs using Structural Motifs",
+    "authors": [
+      "Wengong Jin",
+      "R. Barzilay",
+      "T. Jaakkola"
+    ],
+    "publication_date": "2020-02-08",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "dc7307f6e49f0ad2432be4eea92ae7f854c3cebb",
+    "corpus_id": 211069114,
+    "category": "Computer Science, Mathematics"
+  },
+  "1909-11655": {
+    "title": "Augmenting Genetic Algorithms with Deep Neural Networks for Exploring the Chemical Space",
+    "authors": [
+      "AkshatKumar Nigam",
+      "Pascal Friederich",
+      "Mario Krenn",
+      "Alán Aspuru-Guzik"
+    ],
+    "publication_date": "2019-09-25",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "cbe6238afd650965a69eb77bc6eb07c183a10351",
+    "corpus_id": 202749920,
+    "category": "Computer Science, Physics"
+  },
+  "1811-09621": {
+    "title": "GuacaMol: Benchmarking Models for De Novo Molecular Design",
+    "authors": [
+      "Nathan Brown",
+      "Marco Fiscato",
+      "Marwin H. S. Segler",
+      "Alain C. Vaucher"
+    ],
+    "publication_date": "2018-11-22",
+    "venue": "Journal of Chemical Information and Modeling",
+    "semantic_scholar_id": "5bfeb6901db481c08874cfe0ae807d8564513765",
+    "corpus_id": 53787096,
+    "category": "Computer Science, Medicine, Biology, Physics, Chemistry"
+  },
+  "1804-02134": {
+    "title": "Population-based de novo molecule generation, using grammatical evolution",
+    "authors": [
+      "N. Yoshikawa",
+      "Kei Terayama",
+      "T. Honma",
+      "Kenta Oono",
+      "Koji Tsuda"
+    ],
+    "publication_date": "2018-04-06",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "b26665c108004bf87d4f65b21adf2b6dc2913e2c",
+    "corpus_id": 4687857,
+    "category": "Computer Science, Chemistry, Physics, Biology"
+  },
+  "1802-04364": {
+    "title": "Junction Tree Variational Autoencoder for Molecular Graph Generation",
+    "authors": [
+      "Wengong Jin",
+      "R. Barzilay",
+      "T. Jaakkola"
+    ],
+    "publication_date": "2018-02-12",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "fd17bd9a5dc24a081ad9743570f50dd6750f54b2",
+    "corpus_id": 3364940,
+    "category": "Computer Science, Mathematics"
+  },
+  "1704-07555": {
+    "title": "Molecular de-novo design through deep reinforcement learning",
+    "authors": [
+      "Marcus Olivecrona",
+      "T. Blaschke",
+      "O. Engkvist",
+      "Hongming Chen"
+    ],
+    "publication_date": "2017-04-25",
+    "venue": "Journal of Cheminformatics",
+    "semantic_scholar_id": "d77bc27d16a362e5e1b727904c3789355dda6062",
+    "corpus_id": 2978311,
+    "category": "Computer Science, Medicine"
+  },
+  "1703-01925": {
+    "title": "Grammar Variational Autoencoder",
+    "authors": [
+      "Matt J. Kusner",
+      "Brooks Paige",
+      "José Miguel Hernández-Lobato"
+    ],
+    "publication_date": "2017-03-06",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "222928303a72d1389b0add8032a31abccbba41b3",
+    "corpus_id": 7648414,
+    "category": "Computer Science, Mathematics"
+  }
+}

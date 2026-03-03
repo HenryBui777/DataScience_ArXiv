@@ -1,0 +1,15 @@
+{
+  "title": "Large corpora and large language models: a replicable method for automating grammatical annotation",
+  "authors": [
+    "Cameron Morin",
+    "Matti Marttinen Larsson"
+  ],
+  "summary": "Much linguistic research relies on annotated datasets of features extracted from text corpora, but the rapid quantitative growth of these corpora has created practical difficulties for linguists to manually annotate large data samples. In this paper, we present a replicable, supervised method that leverages large language models for assisting the linguist in grammatical annotation through prompt engineering, training, and evaluation. We introduce a methodological pipeline applied to the case study of formal variation in the English evaluative verb construction 'consider X (as) (to be) Y', based on the large language model Claude 3.5 Sonnet and corpus data from Davies' NOW and EnTenTen21 (SketchEngine). Overall, we reach a model accuracy of over 90% on our held-out test samples with only a small amount of training data, validating the method for the annotation of very large quantities of tokens of the construction in the future. We discuss the generalisability of our results for a wider range of case studies of grammatical constructions and grammatical variation and change, underlining the value of AI copilots as tools for future linguistic research, notwithstanding some important caveats.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-04-10"
+  ],
+  "publication_venue": "Linguistics Vanguard, 1-10 (2025)",
+  "pdf_url": null,
+  "category": "cs.CL"
+}

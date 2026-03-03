@@ -1,0 +1,13 @@
+{
+  "title": "A general modeling and simulation framework for dynamic vehicle routing",
+  "authors": [
+    "Markó Horváth",
+    "Tímea Tamási"
+  ],
+  "summary": "In dynamic vehicle routing problems (DVRPs), some part of the information is revealed or changed on the fly, and the decision maker has the opportunity to re-plan the vehicle routes during their execution, reflecting on the changes. Accordingly, the solution to a DVRP is a flexible policy rather than a set of fixed routes. A policy is basically a problem-specific algorithm that is invoked at various decision points in the planning horizon and returns a decision according to the current state. Since DVRPs involve dynamic decision making, a simulator is an essential tool for dynamically testing and evaluating the policies. Despite this, there are few tools available that are specifically designed for this purpose. To fill this gap, we have developed a simulation framework that is suitable for a wide range of dynamic vehicle routing problems and allows to dynamically test different policies for the given problem. In this paper, we present the background of this simulation tool, for which we proposed a general modeling framework suitable for formalizing DVRPs independently of simulation purposes. Our open source simulation tool is already available, easy to use, and easily customizable, making it a useful tool for the research community.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC"
+}

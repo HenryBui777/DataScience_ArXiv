@@ -1,0 +1,21 @@
+{
+  "title": "DMQR-RAG: Diverse Multi-Query Rewriting for RAG",
+  "authors": [
+    "Zhicong Li",
+    "Jiahao Wang",
+    "Zhishu Jiang",
+    "Hangyu Mao",
+    "Zhongxia Chen",
+    "Jiazhen Du",
+    "Yuanxing Zhang",
+    "Fuzheng Zhang",
+    "Di Zhang",
+    "Yong Liu"
+  ],
+  "summary": "Large language models often encounter challenges with static knowledge and hallucinations, which undermine their reliability. Retrieval-augmented generation (RAG) mitigates these issues by incorporating external information. However, user queries frequently contain noise and intent deviations, necessitating query rewriting to improve the relevance of retrieved documents. In this paper, we introduce DMQR-RAG, a Diverse Multi-Query Rewriting framework designed to improve the performance of both document retrieval and final responses in RAG. Specifically, we investigate how queries with varying information quantities can retrieve a diverse array of documents, presenting four rewriting strategies that operate at different levels of information to enhance the performance of baseline approaches. Additionally, we propose an adaptive strategy selection method that minimizes the number of rewrites while optimizing overall performance. Our methods have been rigorously validated through extensive experiments conducted in both academic and industry settings.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IR, cs.AI"
+}

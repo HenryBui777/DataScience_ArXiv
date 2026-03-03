@@ -1,0 +1,13 @@
+{
+  "title": "Double hysteresis loop in synchronization transitions of multiplex networks: the role of frequency arrangements and frustration",
+  "authors": [
+    "Ali Seif",
+    "Mina Zarei"
+  ],
+  "summary": "This study explores the dynamics of two-layer multiplex networks, focusing on how frequency distributions among mirror nodes influence phase transitions and synchronization across layers. We present a Regular frequency assignment model for duplex networks, where the layers are fully connected and share identical sets of natural frequencies. By adjusting the sizes of sections where nodes exhibit positive, zero, or negative frequency differences relative to their mirrored equivalents in another layer, we can effectively control the average frequency discrepancy between the layers. We compared the dynamics of this structured model to those with randomly distributed frequencies, keeping a constant average frequency difference between the layers and introducing a phase lag in the interlayer interaction terms. This comparison highlighted distinct behaviors, including double hysteresis loops in the synchronization phase transition and standing waves for intralayer coupling at the locations of the hysteresis loops, where the waves are composed of different interacting frequencies.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "nlin.AO"
+}

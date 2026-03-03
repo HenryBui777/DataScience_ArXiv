@@ -1,0 +1,1386 @@
+{
+  "2410-06735": {
+    "title": "Which Programming Language and What Features at Pre-training Stage Affect Downstream Logical Inference Performance?",
+    "authors": [
+      "Fumiya Uchiyama",
+      "Takeshi Kojima",
+      "Andrew Gambardella",
+      "Qi Cao",
+      "Yusuke Iwasawa",
+      "Yutaka Matsuo"
+    ],
+    "publication_date": "2024-10-09",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "0c1782b5cb2898d2e226c66bc7146bce802051bd",
+    "corpus_id": 273229463,
+    "category": "Computer Science"
+  },
+  "2409-12929": {
+    "title": "LogicPro: Improving Complex Logical Reasoning via Program-Guided Learning",
+    "authors": [
+      "Jin Jiang",
+      "Yuchen Yan",
+      "Yang Liu",
+      "Yonggang Jin",
+      "Shuai Peng",
+      "Mengdi Zhang",
+      "Xunliang Cai",
+      "Yixin Cao",
+      "Liangcai Gao",
+      "Zhi Tang"
+    ],
+    "publication_date": "2024-09-19",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "343ce0e86d3047520e7d3945c5dfa4e67a42a728",
+    "corpus_id": 272753174,
+    "category": "Computer Science"
+  },
+  "2409-05197": {
+    "title": "Seemingly Plausible Distractors in Multi-Hop Reasoning: Are Large Language Models Attentive Readers?",
+    "authors": [
+      "Neeladri Bhuiya",
+      "Viktor Schlegel",
+      "Stefan Winkler"
+    ],
+    "publication_date": "2024-09-08",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "636b9e5bc46d2f249a5655e374aafe61a55412a7",
+    "corpus_id": 272524974,
+    "category": "Computer Science"
+  },
+  "2408-04403": {
+    "title": "Exploring Reasoning Biases in Large Language Models Through Syllogism: Insights from the NeuBAROCO Dataset",
+    "authors": [
+      "Kentaro Ozeki",
+      "Risako Ando",
+      "Takanobu Morishita",
+      "Hirohiko Abe",
+      "K. Mineshima",
+      "Mitsuhiro Okada"
+    ],
+    "publication_date": "2024-08-08",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "ac13ca1957cd566eddc45112cd9386fd7ba76499",
+    "corpus_id": 271768744,
+    "category": "Computer Science"
+  },
+  "2406-16078": {
+    "title": "First Heuristic Then Rational: Dynamic Use of Heuristics in Language Model Reasoning",
+    "authors": [
+      "Yoichi Aoki",
+      "Keito Kudo",
+      "Tatsuki Kuribayashi",
+      "Shusaku Sone",
+      "Masaya Taniguchi",
+      "Keisuke Sakaguchi",
+      "Kentaro Inui"
+    ],
+    "publication_date": "2024-06-23",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "9289bc1f0c4578c1b819f95edd91161d5169e893",
+    "corpus_id": 270702477,
+    "category": "Computer Science"
+  },
+  "2406-12546": {
+    "title": "Liar, Liar, Logical Mire: A Benchmark for Suppositional Reasoning in Large Language Models",
+    "authors": [
+      "Philipp Mondorf",
+      "Barbara Plank"
+    ],
+    "publication_date": "2024-06-18",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "a33815829ea243b226e17986fa1ffda97adecb76",
+    "corpus_id": 270562070,
+    "category": "Computer Science"
+  },
+  "2406-11341": {
+    "title": "A Systematic Analysis of Large Language Models as Soft Reasoners: The Case of Syllogistic Inferences",
+    "authors": [
+      "Leonardo Bertolazzi",
+      "Albert Gatt",
+      "Raffaella Bernardi"
+    ],
+    "publication_date": "2024-06-17",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "6dd9a63109f1b5722c9e7c8a2458b4c64731b475",
+    "corpus_id": 270559782,
+    "category": "Computer Science"
+  },
+  "2406-11050": {
+    "title": "A Peek into Token Bias: Large Language Models Are Not Yet Genuine Reasoners",
+    "authors": [
+      "Bowen Jiang",
+      "Yangxinyu Xie",
+      "Zhuoqun Hao",
+      "Xiaomeng Wang",
+      "Tanwi Mallick",
+      "Weijie J. Su",
+      "C. J. Taylor",
+      "Dan Roth"
+    ],
+    "publication_date": "2024-06-16",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "00e88a0c006296e53bb7d4cfc90a134883ad34fd",
+    "corpus_id": 270559271,
+    "category": "Computer Science"
+  },
+  "2406-11035": {
+    "title": "Scaling Synthetic Logical Reasoning Datasets with Context-Sensitive Declarative Grammars",
+    "authors": [
+      "Damien Sileo"
+    ],
+    "publication_date": "2024-06-16",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "c80457a0579a0dcab914d01ae343c346210cf4e1",
+    "corpus_id": 270560130,
+    "category": "Computer Science"
+  },
+  "2406-07393": {
+    "title": "Large Language Models are Limited in Out-of-Context Knowledge Reasoning",
+    "authors": [
+      "Peng Hu",
+      "Changjiang Gao",
+      "Ruiqi Gao",
+      "Jiajun Chen",
+      "Shujian Huang"
+    ],
+    "publication_date": "2024-06-11",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "882a212dc979795065593b76d8da287b622f874a",
+    "corpus_id": 270380360,
+    "category": "Computer Science"
+  },
+  "2406-01574": {
+    "title": "MMLU-Pro: A More Robust and Challenging Multi-Task Language Understanding Benchmark",
+    "authors": [
+      "Yubo Wang",
+      "Xueguang Ma",
+      "Ge Zhang",
+      "Yuansheng Ni",
+      "Abhranil Chandra",
+      "Shiguang Guo",
+      "Weiming Ren",
+      "Aaran Arulraj",
+      "Xuan He",
+      "Ziyan Jiang",
+      "Tianle Li",
+      "Max W.F. Ku",
+      "Kai Wang",
+      "Alex Zhuang",
+      "Rongqi \"Richard\" Fan",
+      "Xiang Yue",
+      "Wenhu Chen"
+    ],
+    "publication_date": "2024-06-03",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "1406bb4cb6801bc4767b661308118c888a9b09da",
+    "corpus_id": 270210486,
+    "category": "Computer Science"
+  },
+  "2405-00332": {
+    "title": "A Careful Examination of Large Language Model Performance on Grade School Arithmetic",
+    "authors": [
+      "Hugh Zhang",
+      "Jeff Da",
+      "Dean Lee",
+      "Vaughn Robinson",
+      "Catherine Wu",
+      "Will Song",
+      "Tiffany Zhao",
+      "P. Raja",
+      "Dylan Slack",
+      "Qin Lyu",
+      "Sean M. Hendryx",
+      "Russell Kaplan",
+      "Michele Lunati",
+      "Summer Yue"
+    ],
+    "publication_date": "2024-05-01",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "ef62f95c16f668f031d649799cbd79081c6d2b0f",
+    "corpus_id": 269484687,
+    "category": "Computer Science"
+  },
+  "2403-18120": {
+    "title": "Don't Trust: Verify - Grounding LLM Quantitative Reasoning with Autoformalization",
+    "authors": [
+      "Jin Peng Zhou",
+      "Charles Staats",
+      "Wenda Li",
+      "Christian Szegedy",
+      "Kilian Q. Weinberger",
+      "Yuhuai Wu"
+    ],
+    "publication_date": "2024-03-26",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "8e68b5d1808349fd53c372c0d952b6ebea9d7b9e",
+    "corpus_id": 268724184,
+    "category": "Computer Science"
+  },
+  "2402-16352": {
+    "title": "MathGenie: Generating Synthetic Data with Question Back-translation for Enhancing Mathematical Reasoning of LLMs",
+    "authors": [
+      "Zimu Lu",
+      "Aojun Zhou",
+      "Houxing Ren",
+      "Ke Wang",
+      "Weikang Shi",
+      "Junting Pan",
+      "Mingjie Zhan",
+      "Hongsheng Li"
+    ],
+    "publication_date": "2024-02-26",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "135da052891fdcf3842901b6b7585ca8c258f1c2",
+    "corpus_id": 268032255,
+    "category": "Computer Science"
+  },
+  "2402-11442": {
+    "title": "Can LLMs Reason with Rules? Logic Scaffolding for Stress-Testing and Improving LLMs",
+    "authors": [
+      "Siyuan Wang",
+      "Zhongyu Wei",
+      "Yejin Choi",
+      "Xiang Ren"
+    ],
+    "publication_date": "2024-02-18",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "49ed697a1e5cc5be831e33f2efb7dc61c77d28e7",
+    "corpus_id": 267750908,
+    "category": "Computer Science"
+  },
+  "2311-12022": {
+    "title": "GPQA: A Graduate-Level Google-Proof Q&A Benchmark",
+    "authors": [
+      "David Rein",
+      "Betty Li Hou",
+      "Asa Cooper Stickland",
+      "Jackson Petty",
+      "Richard Yuanzhe Pang",
+      "Julien Dirani",
+      "Julian Michael",
+      "Samuel R. Bowman"
+    ],
+    "publication_date": "2023-11-20",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "210b0a3d76e93079cc51b03c4115fde545eea966",
+    "corpus_id": 265295009,
+    "category": "Computer Science"
+  },
+  "2311-09603": {
+    "title": "Self-contradictory reasoning evaluation and detection",
+    "authors": [
+      "Ziyi Liu",
+      "Isabelle G. Lee",
+      "Yongkang Du",
+      "Soumya Sanyal",
+      "Jieyu Zhao"
+    ],
+    "publication_date": "2023-11-16",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "aafc487e8a71c32daa151ce56f9c656a86631cab",
+    "corpus_id": 265221427,
+    "category": "Computer Science"
+  },
+  "2311-08469": {
+    "title": "UNcommonsense Reasoning: Abductive Reasoning about Uncommon Situations",
+    "authors": [
+      "Wenting Zhao",
+      "Justin T. Chiu",
+      "Jena D. Hwang",
+      "Faeze Brahman",
+      "Jack Hessel",
+      "Sanjiban Choudhury",
+      "Yejin Choi",
+      "Xiang Lorraine Li",
+      "Alane Suhr"
+    ],
+    "publication_date": "2023-11-14",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "8b9e777a8d5cdbf4f8593415492f91dc0d0031e5",
+    "corpus_id": 265213087,
+    "category": "Computer Science"
+  },
+  "2311-07954": {
+    "title": "A Closer Look at the Self-Verification Abilities of Large Language Models in Logical Reasoning",
+    "authors": [
+      "Ruixin Hong",
+      "Hongming Zhang",
+      "Xinyu Pang",
+      "Dong Yu",
+      "Changshui Zhang"
+    ],
+    "publication_date": "2023-11-14",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "6233b5863f9a0e8bacce47ce21bc3e81c09497bd",
+    "corpus_id": 265157446,
+    "category": "Computer Science"
+  },
+  "2310-16049": {
+    "title": "MuSR: Testing the Limits of Chain-of-thought with Multistep Soft Reasoning",
+    "authors": [
+      "Zayne Sprague",
+      "Xi Ye",
+      "Kaj Bostrom",
+      "Swarat Chaudhuri",
+      "Greg Durrett"
+    ],
+    "publication_date": "2023-10-24",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "743ef29a9406c44c835684c7755d423d6ca0b663",
+    "corpus_id": 264439655,
+    "category": "Computer Science"
+  },
+  "2310-01798": {
+    "title": "Large Language Models Cannot Self-Correct Reasoning Yet",
+    "authors": [
+      "Jie Huang",
+      "Xinyun Chen",
+      "Swaroop Mishra",
+      "Huaixiu Steven Zheng",
+      "Adams Wei Yu",
+      "Xinying Song",
+      "Denny Zhou"
+    ],
+    "publication_date": "2023-10-03",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "6d4bacb69923e1e94fb4de468b939ce6db32fb51",
+    "corpus_id": 263609132,
+    "category": "Computer Science"
+  },
+  "2309-17167": {
+    "title": "DyVal: Dynamic Evaluation of Large Language Models for Reasoning Tasks",
+    "authors": [
+      "Kaijie Zhu",
+      "Jiaao Chen",
+      "Jindong Wang",
+      "Neil Zhenqiang Gong",
+      "Diyi Yang",
+      "Xing Xie"
+    ],
+    "publication_date": "2023-09-29",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "1d7f414983eb847c4618489baa44e99b01162f98",
+    "corpus_id": 263310319,
+    "category": "Computer Science"
+  },
+  "2309-16298": {
+    "title": "At Which Training Stage Does Code Data Help LLMs Reasoning?",
+    "authors": [
+      "Yingwei Ma",
+      "Yue Liu",
+      "Yue Yu",
+      "Yuanliang Zhang",
+      "Yu Jiang",
+      "Changjian Wang",
+      "Shanshan Li"
+    ],
+    "publication_date": "2023-09-28",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "1e0caa706e9d9fdad82d6713fa20b52975a1703b",
+    "corpus_id": 263134628,
+    "category": "Computer Science"
+  },
+  "2309-03882": {
+    "title": "Large Language Models Are Not Robust Multiple Choice Selectors",
+    "authors": [
+      "Chujie Zheng",
+      "Hao Zhou",
+      "Fandong Meng",
+      "Jie Zhou",
+      "Minlie Huang"
+    ],
+    "publication_date": "2023-09-07",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "570e4fec8c8f1c96b76accbb07d40e0528aafb4a",
+    "corpus_id": 261582594,
+    "category": "Computer Science"
+  },
+  "2308-07336": {
+    "title": "Learning Deductive Reasoning from Synthetic Corpus based on Formal Logic",
+    "authors": [
+      "Terufumi Morishita",
+      "Gaku Morio",
+      "Atsuki Yamaguchi",
+      "Yasuhiro Sogawa"
+    ],
+    "publication_date": "2023-08-11",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "aa9ad5cd399434bd7e7d6fcd1ddb8f4b58b953a3",
+    "corpus_id": 260846474,
+    "category": "Computer Science"
+  },
+  "2307-13702": {
+    "title": "Measuring Faithfulness in Chain-of-Thought Reasoning",
+    "authors": [
+      "Tamera Lanham",
+      "Anna Chen",
+      "Ansh Radhakrishnan",
+      "Benoit Steiner",
+      "Carson E. Denison",
+      "Danny Hernandez",
+      "Dustin Li",
+      "Esin Durmus",
+      "Evan Hubinger",
+      "John Kernion",
+      "Kamil.e Lukovsiut.e",
+      "Karina Nguyen",
+      "Newton Cheng",
+      "Nicholas Joseph",
+      "Nicholas Schiefer",
+      "Oliver Rausch",
+      "Robin Larson",
+      "Sam McCandlish",
+      "Sandipan Kundu",
+      "Saurav Kadavath",
+      "Shannon Yang",
+      "T. Henighan",
+      "Timothy D. Maxwell",
+      "Timothy Telleen-Lawton",
+      "Tristan Hume",
+      "Zac Hatfield-Dodds",
+      "Jared Kaplan",
+      "J. Brauner",
+      "Sam Bowman",
+      "Ethan Perez"
+    ],
+    "publication_date": "2023-07-17",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "827afa7dd36e4afbb1a49c735bfbb2c69749756e",
+    "corpus_id": 259953372,
+    "category": "Computer Science"
+  },
+  "2307-02477": {
+    "title": "Reasoning or Reciting? Exploring the Capabilities and Limitations of Language Models Through Counterfactual Tasks",
+    "authors": [
+      "Zhaofeng Wu",
+      "Linlu Qiu",
+      "Alexis Ross",
+      "Ekin Akyürek",
+      "Boyuan Chen",
+      "Bailin Wang",
+      "Najoung Kim",
+      "Jacob Andreas",
+      "Yoon Kim"
+    ],
+    "publication_date": "2023-07-05",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "f8e99be4f9a01761fab74bade2c3c18de9fc686b",
+    "corpus_id": 259341893,
+    "category": "Computer Science"
+  },
+  "2306-14050": {
+    "title": "Symbolic Chain-of-Thought Distillation: Small Models Can Also “Think” Step-by-Step",
+    "authors": [
+      "Liunian Harold Li",
+      "Jack Hessel",
+      "Youngjae Yu",
+      "Xiang Ren",
+      "Kai-Wei Chang",
+      "Yejin Choi"
+    ],
+    "publication_date": "2023-06-24",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "7a6a298efb965ce9a351a3212f6f536e94dbbb03",
+    "corpus_id": 259251773,
+    "category": "Computer Science"
+  },
+  "2306-12567": {
+    "title": "Evaluating Large Language Models with NeuBAROCO: Syllogistic Reasoning Ability and Human-like Biases",
+    "authors": [
+      "Risako Ando",
+      "Takanobu Morishita",
+      "Hirohiko Abe",
+      "K. Mineshima",
+      "M. Okada"
+    ],
+    "publication_date": "2023-06-21",
+    "venue": "NALOMA",
+    "semantic_scholar_id": "8ac0a5d4ee77fcb420aa4fbb999d26bae2d0b130",
+    "corpus_id": 259224503,
+    "category": "Computer Science"
+  },
+  "2305-18654": {
+    "title": "Faith and Fate: Limits of Transformers on Compositionality",
+    "authors": [
+      "Nouha Dziri",
+      "Ximing Lu",
+      "Melanie Sclar",
+      "Xiang Lorraine Li",
+      "Liwei Jian",
+      "Bill Yuchen Lin",
+      "Peter West",
+      "Chandra Bhagavatula",
+      "Ronan Le Bras",
+      "Jena D. Hwang",
+      "Soumya Sanyal",
+      "S. Welleck",
+      "Xiang Ren",
+      "Allyson Ettinger",
+      "Zaïd Harchaoui",
+      "Yejin Choi"
+    ],
+    "publication_date": "2023-05-29",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "7d97c17a75beb89f938eaac1d3ca60ac2245fb2e",
+    "corpus_id": 258967391,
+    "category": "Computer Science"
+  },
+  "2305-13179": {
+    "title": "Teaching Probabilistic Logical Reasoning to Transformers",
+    "authors": [
+      "Aliakbar Nafar",
+      "K. Venable",
+      "Parisa Kordjamshidi"
+    ],
+    "publication_date": "2023-05-22",
+    "venue": "Findings",
+    "semantic_scholar_id": "e3ad89dfed46df4bbaa8fb5a4837cc2a07c9eaab",
+    "corpus_id": 258833020,
+    "category": "Computer Science"
+  },
+  "2305-04388": {
+    "title": "Language Models Don't Always Say What They Think: Unfaithful Explanations in Chain-of-Thought Prompting",
+    "authors": [
+      "Miles Turpin",
+      "Julian Michael",
+      "Ethan Perez",
+      "Sam Bowman"
+    ],
+    "publication_date": "2023-05-07",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "7dc928f41e15f65f1267bd87b0fcfcc7e715cb56",
+    "corpus_id": 258556812,
+    "category": "Computer Science"
+  },
+  "2305-01879": {
+    "title": "SCOTT: Self-Consistent Chain-of-Thought Distillation",
+    "authors": [
+      "Peifeng Wang",
+      "Zhengyang Wang",
+      "Zheng Li",
+      "Yifan Gao",
+      "Bing Yin",
+      "Xiang Ren"
+    ],
+    "publication_date": "2023-05-03",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "56fa65d8dc41708082f9b2ef7752c49cee9ebe01",
+    "corpus_id": 258461058,
+    "category": "Computer Science"
+  },
+  "2305-01210": {
+    "title": "Is Your Code Generated by ChatGPT Really Correct? Rigorous Evaluation of Large Language Models for Code Generation",
+    "authors": [
+      "Jiawei Liu",
+      "Chun Xia",
+      "Yuyao Wang",
+      "Lingming Zhang"
+    ],
+    "publication_date": "2023-05-02",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "b45ec1cb2ba6b2d1ac24723fa836aee06a3db97a",
+    "corpus_id": 258437095,
+    "category": "Computer Science"
+  },
+  "2304-03439": {
+    "title": "Evaluating the Logical Reasoning Ability of ChatGPT and GPT-4",
+    "authors": [
+      "Hanmeng Liu",
+      "Ruoxi Ning",
+      "Zhiyang Teng",
+      "Jian Liu",
+      "Qiji Zhou",
+      "Yuexin Zhang"
+    ],
+    "publication_date": "2023-04-07",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "85cc48276c69924d3e92ddb38facb7d92be9a4a6",
+    "corpus_id": 258041354,
+    "category": "Computer Science"
+  },
+  "2212-10071": {
+    "title": "Large Language Models Are Reasoning Teachers",
+    "authors": [
+      "Namgyu Ho",
+      "Laura Schmid",
+      "Se-Young Yun"
+    ],
+    "publication_date": "2022-12-20",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "a9e3e5dd7b30890553b7ae1c41f932e99192bb44",
+    "corpus_id": 254877399,
+    "category": "Computer Science"
+  },
+  "2212-08410": {
+    "title": "Teaching Small Language Models to Reason",
+    "authors": [
+      "Lucie Charlotte Magister",
+      "Jonathan Mallinson",
+      "Jakub Adamek",
+      "Eric Malmi",
+      "A. Severyn"
+    ],
+    "publication_date": "2022-12-16",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "126a4776ff8315fd506766cb8f3c722cf746ad9e",
+    "corpus_id": 254823156,
+    "category": "Computer Science"
+  },
+  "2212-00193": {
+    "title": "Distilling Reasoning Capabilities into Smaller Language Models",
+    "authors": [
+      "Kumar Shridhar",
+      "Alessandro Stolfo",
+      "Mrinmaya Sachan"
+    ],
+    "publication_date": "2022-12-01",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "8fd462f6248d5e3f1b6602697c09489086b5655f",
+    "corpus_id": 258762841,
+    "category": "Computer Science"
+  },
+  "2210-12353": {
+    "title": "Leveraging Large Language Models for Multiple Choice Question Answering",
+    "authors": [
+      "Joshua Robinson",
+      "Christopher Rytting",
+      "D. Wingate"
+    ],
+    "publication_date": "2022-10-22",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "ed38c6b157c11476939c426ec6871c926f2f3524",
+    "corpus_id": 253098700,
+    "category": "Computer Science"
+  },
+  "2210-09261": {
+    "title": "Challenging BIG-Bench Tasks and Whether Chain-of-Thought Can Solve Them",
+    "authors": [
+      "Mirac Suzgun",
+      "Nathan Scales",
+      "Nathanael Scharli",
+      "Sebastian Gehrmann",
+      "Yi Tay",
+      "Hyung Won Chung",
+      "A. Chowdhery",
+      "Quoc V. Le",
+      "Ed H. Chi",
+      "Denny Zhou",
+      "Jason Wei"
+    ],
+    "publication_date": "2022-10-17",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "663a41c866d49ce052801fbc88947d39764cad29",
+    "corpus_id": 252917648,
+    "category": "Computer Science"
+  },
+  "2210-06442": {
+    "title": "Can Pretrained Language Models (Yet) Reason Deductively?",
+    "authors": [
+      "Moy Yuan",
+      "Songbo Hu",
+      "Ivan Vulic",
+      "A. Korhonen",
+      "Zaiqiao Meng"
+    ],
+    "publication_date": "2022-10-12",
+    "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "66f333c51e2bfa25380069f66500b491218da9c3",
+    "corpus_id": 252846183,
+    "category": "Computer Science"
+  },
+  "2207-14000": {
+    "title": "Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation",
+    "authors": [
+      "Qiming Bao",
+      "A. Peng",
+      "Tim Hartill",
+      "N. Tan",
+      "Zhenyun Deng",
+      "M. Witbrock",
+      "Jiamou Liu"
+    ],
+    "publication_date": "2022-07-28",
+    "venue": "International Workshop on Neural-Symbolic Learning and Reasoning",
+    "semantic_scholar_id": "4a52399e66da3fb1406132ecedf274925b5f7972",
+    "corpus_id": 251135345,
+    "category": "Computer Science"
+  },
+  "2205-11502": {
+    "title": "On the Paradox of Learning to Reason from Data",
+    "authors": [
+      "Honghua Zhang",
+      "Liunian Harold Li",
+      "Tao Meng",
+      "Kai-Wei Chang",
+      "Guy Van den Broeck"
+    ],
+    "publication_date": "2022-05-23",
+    "venue": "International Joint Conference on Artificial Intelligence",
+    "semantic_scholar_id": "5e3a7235c730b512f0bb3004a6deb0c88ec9fc8e",
+    "corpus_id": 248986434,
+    "category": "Computer Science"
+  },
+  "2203-12186": {
+    "title": "AbductionRules: Training Transformers to Explain Unexpected Inputs",
+    "authors": [
+      "Nathan Young",
+      "Qiming Bao",
+      "Joshua Bensemann",
+      "Michael Witbrock"
+    ],
+    "publication_date": "2022-03-23",
+    "venue": "Findings",
+    "semantic_scholar_id": "e0c8cb10d64d613bb2202767b018bc29ac3e5276",
+    "corpus_id": 247619052,
+    "category": "Computer Science"
+  },
+  "2203-10261": {
+    "title": "FaiRR: Faithful and Robust Deductive Reasoning over Natural Language",
+    "authors": [
+      "Soumya Sanyal",
+      "Harman Singh",
+      "Xiang Ren"
+    ],
+    "publication_date": "2022-03-19",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "9b2339cfe4640841078073dfa1c1c60e84eeeaa2",
+    "corpus_id": 247594506,
+    "category": "Computer Science"
+  },
+  "2112-11446": {
+    "title": "Scaling Language Models: Methods, Analysis & Insights from Training Gopher",
+    "authors": [
+      "Jack W. Rae",
+      "Sebastian Borgeaud",
+      "Trevor Cai",
+      "Katie Millican",
+      "Jordan Hoffmann",
+      "Francis Song",
+      "John Aslanides",
+      "Sarah Henderson",
+      "Roman Ring",
+      "Susannah Young",
+      "Eliza Rutherford",
+      "Tom Hennigan",
+      "Jacob Menick",
+      "Albin Cassirer",
+      "Richard Powell",
+      "George van den Driessche",
+      "Lisa Anne Hendricks",
+      "Maribeth Rauh",
+      "Po-Sen Huang",
+      "Amelia Glaese",
+      "Johannes Welbl",
+      "Sumanth Dathathri",
+      "Saffron Huang",
+      "Jonathan Uesato",
+      "John F. J. Mellor",
+      "I. Higgins",
+      "Antonia Creswell",
+      "Nat McAleese",
+      "Amy Wu",
+      "Erich Elsen",
+      "Siddhant M. Jayakumar",
+      "Elena Buchatskaya",
+      "D. Budden",
+      "Esme Sutherland",
+      "K. Simonyan",
+      "Michela Paganini",
+      "L. Sifre",
+      "Lena Martens",
+      "Xiang Lorraine Li",
+      "A. Kuncoro",
+      "Aida Nematzadeh",
+      "E. Gribovskaya",
+      "Domenic Donato",
+      "Angeliki Lazaridou",
+      "A. Mensch",
+      "Jean-Baptiste Lespiau",
+      "M. Tsimpoukelli",
+      "N. Grigorev",
+      "Doug Fritz",
+      "Thibault Sottiaux",
+      "Mantas Pajarskas",
+      "Tobias Pohlen",
+      "Z. Gong",
+      "Daniel Toyama",
+      "Cyprien de Masson d'Autume",
+      "Yujia Li",
+      "Tayfun Terzi",
+      "Vladimir Mikulik",
+      "Igor Babuschkin",
+      "Aidan Clark",
+      "Diego de Las Casas",
+      "Aurelia Guy",
+      "Chris Jones",
+      "James Bradbury",
+      "Matthew G. Johnson",
+      "Blake A. Hechtman",
+      "Laura Weidinger",
+      "Iason Gabriel",
+      "William S. Isaac",
+      "Edward Lockhart",
+      "Simon Osindero",
+      "Laura Rimell",
+      "Chris Dyer",
+      "O. Vinyals",
+      "Kareem W. Ayoub",
+      "J. Stanway",
+      "L. Bennett",
+      "D. Hassabis",
+      "K. Kavukcuoglu",
+      "G. Irving"
+    ],
+    "publication_date": "2021-12-08",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "68f141724814839d556a989646194be88641b143",
+    "corpus_id": 245353475,
+    "category": "Computer Science"
+  },
+  "2110-14168": {
+    "title": "Training Verifiers to Solve Math Word Problems",
+    "authors": [
+      "K. Cobbe",
+      "Vineet Kosaraju",
+      "Mo Bavarian",
+      "Mark Chen",
+      "Heewoo Jun",
+      "Lukasz Kaiser",
+      "Matthias Plappert",
+      "Jerry Tworek",
+      "Jacob Hilton",
+      "Reiichiro Nakano",
+      "Christopher Hesse",
+      "John Schulman"
+    ],
+    "publication_date": "2021-10-27",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "d6045d2ccc9c09ca1671348de86d07da6bc28eea",
+    "corpus_id": 239998651,
+    "category": "Computer Science"
+  },
+  "2109-13006": {
+    "title": "RuleBERT: Teaching Soft Rules to Pre-Trained Language Models",
+    "authors": [
+      "Mohammed Saeed",
+      "N. Ahmadi",
+      "Preslav Nakov",
+      "Paolo Papotti"
+    ],
+    "publication_date": "2021-09-24",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "e55391a9406245584b3e5b3225dad2e171b9a06b",
+    "corpus_id": 237940562,
+    "category": "Computer Science"
+  },
+  "2108-07732": {
+    "title": "Program Synthesis with Large Language Models",
+    "authors": [
+      "Jacob Austin",
+      "Augustus Odena",
+      "Maxwell Nye",
+      "Maarten Bosma",
+      "H. Michalewski",
+      "David Dohan",
+      "Ellen Jiang",
+      "Carrie J. Cai",
+      "Michael Terry",
+      "Quoc V. Le",
+      "Charles Sutton"
+    ],
+    "publication_date": "2021-08-16",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "a38e0f993e4805ba8a9beae4c275c91ffcec01df",
+    "corpus_id": 237142385,
+    "category": "Computer Science"
+  },
+  "2107-03374": {
+    "title": "Evaluating Large Language Models Trained on Code",
+    "authors": [
+      "Mark Chen",
+      "Jerry Tworek",
+      "Heewoo Jun",
+      "Qiming Yuan",
+      "Henrique Pondé",
+      "Jared Kaplan",
+      "Harrison Edwards",
+      "Yura Burda",
+      "Nicholas Joseph",
+      "Greg Brockman",
+      "Alex Ray",
+      "Raul Puri",
+      "Gretchen Krueger",
+      "Michael Petrov",
+      "Heidy Khlaaf",
+      "Girish Sastry",
+      "Pamela Mishkin",
+      "Brooke Chan",
+      "Scott Gray",
+      "Nick Ryder",
+      "Mikhail Pavlov",
+      "Alethea Power",
+      "Lukasz Kaiser",
+      "Mo Bavarian",
+      "Clemens Winter",
+      "P. Tillet",
+      "F. Such",
+      "D. Cummings",
+      "Matthias Plappert",
+      "Fotios Chantzis",
+      "Elizabeth Barnes",
+      "Ariel Herbert-Voss",
+      "William H. Guss",
+      "Alex Nichol",
+      "Igor Babuschkin",
+      "S. Balaji",
+      "Shantanu Jain",
+      "A. Carr",
+      "Jan Leike",
+      "Josh Achiam",
+      "Vedant Misra",
+      "Evan Morikawa",
+      "Alec Radford",
+      "M. Knight",
+      "Miles Brundage",
+      "Mira Murati",
+      "Katie Mayer",
+      "Peter Welinder",
+      "Bob McGrew",
+      "Dario Amodei",
+      "Sam McCandlish",
+      "I. Sutskever",
+      "Wojciech Zaremba"
+    ],
+    "publication_date": "2021-07-07",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "acbdbf49f9bc3f151b93d9ca9a06009f4f6eb269",
+    "corpus_id": 235755472,
+    "category": "Computer Science"
+  },
+  "2104-08825": {
+    "title": "Flexible Generation of Natural Language Deductions",
+    "authors": [
+      "Kaj Bostrom",
+      "Xinyu Zhao",
+      "Swarat Chaudhuri",
+      "Greg Durrett"
+    ],
+    "publication_date": "2021-04-18",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "911b7539e964782670e555930b291de16fa971c5",
+    "corpus_id": 237450610,
+    "category": "Computer Science"
+  },
+  "2104-08661": {
+    "title": "Explaining Answers with Entailment Trees",
+    "authors": [
+      "Bhavana Dalvi",
+      "Peter Alexander Jansen",
+      "Oyvind Tafjord",
+      "Zhengnan Xie",
+      "Hannah Smith",
+      "Leighanna Pipatanangkura",
+      "Peter Clark"
+    ],
+    "publication_date": "2021-04-17",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "4a56f72b9c529810ba4ecfe9eac522d87f6db81d",
+    "corpus_id": 233297051,
+    "category": "Computer Science"
+  },
+  "2104-06598": {
+    "title": "AR-LSAT: Investigating Analytical Reasoning of Text",
+    "authors": [
+      "Wanjun Zhong",
+      "Siyuan Wang",
+      "Duyu Tang",
+      "Zenan Xu",
+      "Daya Guo",
+      "Jiahai Wang",
+      "Jian Yin",
+      "Ming Zhou",
+      "Nan Duan"
+    ],
+    "publication_date": "2021-04-14",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "c5943bc4b22a63f595cb1c2823a449e03aad4787",
+    "corpus_id": 233231436,
+    "category": "Computer Science"
+  },
+  "2103-03874": {
+    "title": "Measuring Mathematical Problem Solving With the MATH Dataset",
+    "authors": [
+      "Dan Hendrycks",
+      "Collin Burns",
+      "Saurav Kadavath",
+      "Akul Arora",
+      "Steven Basart",
+      "Eric Tang",
+      "D. Song",
+      "J. Steinhardt"
+    ],
+    "publication_date": "2021-03-05",
+    "venue": "NeurIPS Datasets and Benchmarks",
+    "semantic_scholar_id": "57d1e7ac339e783898f2c3b1af55737cbeee9fc5",
+    "corpus_id": 232134851,
+    "category": "Computer Science"
+  },
+  "2012-13048": {
+    "title": "ProofWriter: Generating Implications, Proofs, and Abductive Statements over Natural Language",
+    "authors": [
+      "Oyvind Tafjord",
+      "Bhavana Dalvi",
+      "Peter Clark"
+    ],
+    "publication_date": "2020-12-24",
+    "venue": "Findings",
+    "semantic_scholar_id": "87c45a908537ffe1d2ab71a5d609bd7b4efa4fe1",
+    "corpus_id": 229371222,
+    "category": "Computer Science"
+  },
+  "2010-02830": {
+    "title": "PRover: Proof Generation for Interpretable Reasoning over Rules",
+    "authors": [
+      "Swarnadeep Saha",
+      "Sayan Ghosh",
+      "Shashank Srivastava",
+      "Mohit Bansal"
+    ],
+    "publication_date": "2020-10-06",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "b4013141cceb937c46ea5f84f8c06f6bf1215106",
+    "corpus_id": 222141025,
+    "category": "Computer Science"
+  },
+  "2009-14786": {
+    "title": "Measuring Systematic Generalization in Neural Proof Generation with Transformers",
+    "authors": [
+      "Nicolas Gontier",
+      "Koustuv Sinha",
+      "Siva Reddy",
+      "C. Pal"
+    ],
+    "publication_date": "2020-09-30",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "89cb62dc83c1b1895267bd28639fbf5bb7ed21a4",
+    "corpus_id": 222067015,
+    "category": "Computer Science, Mathematics"
+  },
+  "2009-07185": {
+    "title": "Critical Thinking for Language Models",
+    "authors": [
+      "Gregor Betz",
+      "Kyle Richardson"
+    ],
+    "publication_date": "2020-09-15",
+    "venue": "International Conference on Computational Semantics",
+    "semantic_scholar_id": "4d766ae60fbbaea4f6c4ca8ad7f14569ec3189d1",
+    "corpus_id": 221702898,
+    "category": "Computer Science"
+  },
+  "2010-15875": {
+    "title": "Retrieve, Program, Repeat: Complex Knowledge Base Question Answering via Alternate Meta-learning",
+    "authors": [
+      "Jian Liu",
+      "Leyang Cui",
+      "Hanmeng Liu",
+      "Dandan Huang",
+      "Yile Wang",
+      "Yue Zhang"
+    ],
+    "publication_date": "2020-07-01",
+    "venue": "International Joint Conference on Artificial Intelligence",
+    "semantic_scholar_id": "a942cc84412d6a52adab325909b52296c017df48",
+    "corpus_id": 220483148,
+    "category": "Computer Science"
+  },
+  "2004-12651": {
+    "title": "Recall and Learn: Fine-tuning Deep Pretrained Language Models with Less Forgetting",
+    "authors": [
+      "Sanyuan Chen",
+      "Yutai Hou",
+      "Yiming Cui",
+      "Wanxiang Che",
+      "Ting Liu",
+      "Xiangzhan Yu"
+    ],
+    "publication_date": "2020-04-27",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "f2f3c83db919a2429c4fcad2d0a0ed4e5294354a",
+    "corpus_id": 216553067,
+    "category": "Computer Science"
+  },
+  "2002-05867": {
+    "title": "Transformers as Soft Reasoners over Language",
+    "authors": [
+      "Peter Clark",
+      "Oyvind Tafjord",
+      "Kyle Richardson"
+    ],
+    "publication_date": "2020-02-14",
+    "venue": "International Joint Conference on Artificial Intelligence",
+    "semantic_scholar_id": "9e12539d92088001e08b1e903c490127c479de4c",
+    "corpus_id": 211126663,
+    "category": "Computer Science"
+  },
+  "2002-04326": {
+    "title": "ReClor: A Reading Comprehension Dataset Requiring Logical Reasoning",
+    "authors": [
+      "Weihao Yu",
+      "Zihang Jiang",
+      "Yanfei Dong",
+      "Jiashi Feng"
+    ],
+    "publication_date": "2020-02-11",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "65723a96ff5b15f124bf3b534503950b537b4792",
+    "corpus_id": 209485573,
+    "category": "Computer Science"
+  },
+  "1908-05739": {
+    "title": "Abductive Commonsense Reasoning",
+    "authors": [
+      "Chandra Bhagavatula",
+      "Ronan Le Bras",
+      "Chaitanya Malaviya",
+      "Keisuke Sakaguchi",
+      "Ari Holtzman",
+      "Hannah Rashkin",
+      "Doug Downey",
+      "S. Yih",
+      "Yejin Choi"
+    ],
+    "publication_date": "2019-08-15",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "a550f576ff20b8cce98f3ddad0043d3783fbc9b4",
+    "corpus_id": 201058651,
+    "category": "Computer Science"
+  },
+  "1907-11692": {
+    "title": "RoBERTa: A Robustly Optimized BERT Pretraining Approach",
+    "authors": [
+      "Yinhan Liu",
+      "Myle Ott",
+      "Naman Goyal",
+      "Jingfei Du",
+      "Mandar Joshi",
+      "Danqi Chen",
+      "Omer Levy",
+      "M. Lewis",
+      "Luke Zettlemoyer",
+      "Veselin Stoyanov"
+    ],
+    "publication_date": "2019-07-26",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "077f8329a7b6fa3b7c877a57b81eb6c18b5f87de",
+    "corpus_id": 198953378,
+    "category": "Computer Science"
+  },
+  "1905-13319": {
+    "title": "MathQA: Towards Interpretable Math Word Problem Solving with Operation-Based Formalisms",
+    "authors": [
+      "Aida Amini",
+      "Saadia Gabriel",
+      "Shanchuan Lin",
+      "Rik Koncel-Kedziorski",
+      "Yejin Choi",
+      "Hannaneh Hajishirzi"
+    ],
+    "publication_date": "2019-05-30",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "eef7cfe8267954adbb4675576072a1d80ca7a3a8",
+    "corpus_id": 173188048,
+    "category": "Computer Science"
+  },
+  "1905-07830": {
+    "title": "HellaSwag: Can a Machine Really Finish Your Sentence?",
+    "authors": [
+      "Rowan Zellers",
+      "Ari Holtzman",
+      "Yonatan Bisk",
+      "Ali Farhadi",
+      "Yejin Choi"
+    ],
+    "publication_date": "2019-05-01",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "8b0f27bb594b1eaaf493eaf1e2ee723a2b0a19ad",
+    "corpus_id": 159041722,
+    "category": "Computer Science"
+  },
+  "1904-12166": {
+    "title": "HELP: A Dataset for Identifying Shortcomings of Neural Models in Monotonicity Reasoning",
+    "authors": [
+      "Hitomi Yanaka",
+      "K. Mineshima",
+      "D. Bekki",
+      "Kentaro Inui",
+      "S. Sekine",
+      "Lasha Abzianidze",
+      "Johan Bos"
+    ],
+    "publication_date": "2019-04-27",
+    "venue": "International Workshop on Semantic Evaluation",
+    "semantic_scholar_id": "392b0c87a40ba12fe6182d042005ff0ab9582df9",
+    "corpus_id": 139105363,
+    "category": "Computer Science"
+  },
+  "1809-02789": {
+    "title": "Can a Suit of Armor Conduct Electricity? A New Dataset for Open Book Question Answering",
+    "authors": [
+      "Todor Mihaylov",
+      "Peter Clark",
+      "Tushar Khot",
+      "Ashish Sabharwal"
+    ],
+    "publication_date": "2018-08-13",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "1536e8958697c5364f68b2e2448905dbbeb3a0ca",
+    "corpus_id": 52183757,
+    "category": "Computer Science"
+  },
+  "1806-03822": {
+    "title": "Know What You Don’t Know: Unanswerable Questions for SQuAD",
+    "authors": [
+      "Pranav Rajpurkar",
+      "Robin Jia",
+      "Percy Liang"
+    ],
+    "publication_date": "2018-06-11",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "4d1c856275744c0284312a3a50efb6ca9dc4cd4c",
+    "corpus_id": 47018994,
+    "category": "Computer Science"
+  },
+  "1803-05457": {
+    "title": "Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge",
+    "authors": [
+      "Peter Clark",
+      "Isaac Cowhey",
+      "Oren Etzioni",
+      "Tushar Khot",
+      "Ashish Sabharwal",
+      "Carissa Schoenick",
+      "Oyvind Tafjord"
+    ],
+    "publication_date": "2018-03-14",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "88bb0a28bb58d847183ec505dda89b63771bb495",
+    "corpus_id": 3922816,
+    "category": "Computer Science"
+  },
+  "1708-01425": {
+    "title": "The Argument Reasoning Comprehension Task: Identification and Reconstruction of Implicit Warrants",
+    "authors": [
+      "Ivan Habernal",
+      "Henning Wachsmuth",
+      "Iryna Gurevych",
+      "Benno Stein"
+    ],
+    "publication_date": "2017-08-04",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "ece56ab633f11d1592a3d4f9386412d3f48fcf95",
+    "corpus_id": 3555187,
+    "category": "Computer Science"
+  },
+  "1707-06209": {
+    "title": "Crowdsourcing Multiple Choice Science Questions",
+    "authors": [
+      "Johannes Welbl",
+      "Nelson F. Liu",
+      "Matt Gardner"
+    ],
+    "publication_date": "2017-07-19",
+    "venue": "NUT@EMNLP",
+    "semantic_scholar_id": "932a5de79d8a8ebb75ea0c43493450fd9922e738",
+    "corpus_id": 1553193,
+    "category": "Computer Science, Mathematics"
+  },
+  "1706-03762": {
+    "title": "Attention is All you Need",
+    "authors": [
+      "Ashish Vaswani",
+      "Noam M. Shazeer",
+      "Niki Parmar",
+      "Jakob Uszkoreit",
+      "Llion Jones",
+      "Aidan N. Gomez",
+      "Lukasz Kaiser",
+      "I. Polosukhin"
+    ],
+    "publication_date": "2017-06-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+    "corpus_id": 13756489,
+    "category": "Computer Science"
+  },
+  "1704-05426": {
+    "title": "A Broad-Coverage Challenge Corpus for Sentence Understanding through Inference",
+    "authors": [
+      "Adina Williams",
+      "Nikita Nangia",
+      "Samuel R. Bowman"
+    ],
+    "publication_date": "2017-04-18",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "5ded2b8c64491b4a67f6d39ce473d4b9347a672e",
+    "corpus_id": 3432876,
+    "category": "Computer Science"
+  },
+  "1702-01119": {
+    "title": "Anyone Can Become a Troll: Causes of Trolling Behavior in Online Discussions",
+    "authors": [
+      "Justin Cheng",
+      "Michael S. Bernstein",
+      "Cristian Danescu-Niculescu-Mizil",
+      "J. Leskovec"
+    ],
+    "publication_date": "2017-02-03",
+    "venue": "Conference on Computer Supported Cooperative Work",
+    "semantic_scholar_id": "f41629d5f8d0767e6c3abe5f50cfba15dbaa554c",
+    "corpus_id": 8150999,
+    "category": "Psychology, Physics, Computer Science, Medicine, Mathematics"
+  },
+  "1508-05326": {
+    "title": "A large annotated corpus for learning natural language inference",
+    "authors": [
+      "Samuel R. Bowman",
+      "Gabor Angeli",
+      "Christopher Potts",
+      "Christopher D. Manning"
+    ],
+    "publication_date": "2015-08-21",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "f04df4e20a18358ea2f689b4c129781628ef7fc1",
+    "corpus_id": 14604520,
+    "category": "Computer Science"
+  },
+  "1502-05698": {
+    "title": "Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks",
+    "authors": [
+      "J. Weston",
+      "Antoine Bordes",
+      "S. Chopra",
+      "Tomas Mikolov"
+    ],
+    "publication_date": "2015-02-19",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "abb33d75dc297993fcc3fb75e0f4498f413eb4f6",
+    "corpus_id": 3178759,
+    "category": "Computer Science, Mathematics"
+  },
+  "1811-00937": {
+    "title": "CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge",
+    "authors": [
+      "Alon Talmor",
+      "Jonathan Herzig",
+      "Nicholas Lourie",
+      "Jonathan Berant"
+    ],
+    "publication_date": "",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "c21a4d70d83e0f6eb2a9e1c41d034842dd561e47",
+    "corpus_id": 53296520,
+    "category": "Computer Science"
+  }
+}

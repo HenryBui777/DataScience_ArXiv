@@ -1,0 +1,16 @@
+{
+  "title": "Purrfessor: A Fine-tuned Multimodal LLaVA Diet Health Chatbot",
+  "authors": [
+    "Linqi Lu",
+    "Yifan Deng",
+    "Chuan Tian",
+    "Sijia Yang",
+    "Dhavan Shah"
+  ],
+  "summary": "This study introduces Purrfessor, an innovative AI chatbot designed to provide personalized dietary guidance through interactive, multimodal engagement. Leveraging the Large Language-and-Vision Assistant (LLaVA) model fine-tuned with food and nutrition data and a human-in-the-loop approach, Purrfessor integrates visual meal analysis with contextual advice to enhance user experience and engagement. We conducted two studies to evaluate the chatbot's performance and user experience: (a) simulation assessments and human validation were conducted to examine the performance of the fine-tuned model; (b) a 2 (Profile: Bot vs. Pet) by 3 (Model: GPT-4 vs. LLaVA vs. Fine-tuned LLaVA) experiment revealed that Purrfessor significantly enhanced users' perceptions of care ($β= 1.59$, $p = 0.04$) and interest ($β= 2.26$, $p = 0.01$) compared to the GPT-4 bot. Additionally, user interviews highlighted the importance of interaction design details, emphasizing the need for responsiveness, personalization, and guidance to improve user engagement.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.HC, cs.AI"
+}

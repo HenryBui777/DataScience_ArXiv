@@ -1,0 +1,25 @@
+{
+  "title": "Joint-repositionable Inner-wireless Planar Snake Robot",
+  "authors": [
+    "Ayato Kanada",
+    "Ryo Takahashi",
+    "Keito Hayashi",
+    "Ryusuke Hosaka",
+    "Wakako Yukita",
+    "Yasutaka Nakashima",
+    "Tomoyuki Yokota",
+    "Takao Someya",
+    "Mitsuhiro Kamezaki",
+    "Yoshihiro Kawahara",
+    "Motoji Yamamoto"
+  ],
+  "summary": "Bio-inspired multi-joint snake robots offer the advantages of terrain adaptability due to their limbless structure and high flexibility. However, a series of dozens of motor units in typical multiple-joint snake robots results in a heavy body structure and hundreds of watts of high power consumption. This paper presents a joint-repositionable, inner-wireless snake robot that enables multi-joint-like locomotion using a low-powered underactuated mechanism. The snake robot, consisting of a series of flexible passive links, can dynamically change its joint coupling configuration by repositioning motor-driven joint units along rack gears inside the robot. Additionally, a soft robot skin wirelessly powers the internal joint units, avoiding the risk of wire tangling and disconnection caused by the movable joint units. The combination of the joint-repositionable mechanism and the wireless-charging-enabled soft skin achieves a high degree of bending, along with a lightweight structure of 1.3 kg and energy-efficient wireless power transmission of 7.6 watts.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-03-05",
+    "2025-03-06"
+  ],
+  "publication_venue": "IEEE RA-L (2025)",
+  "pdf_url": null,
+  "category": "cs.RO, eess.SY"
+}

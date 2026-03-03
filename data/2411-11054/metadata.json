@@ -1,0 +1,13 @@
+{
+  "title": "Connectivity Certificate against Bounded-Degree Faults: Simpler, Better and Supporting Vertex Faults",
+  "authors": [
+    "Merav Parter",
+    "Elad Tzalik"
+  ],
+  "summary": "An $f$-edge (or vertex) connectivity certificate is a sparse subgraph that maintains connectivity under the failure of at most $f$ edges (or vertices). It is well known that any $n$-vertex graph admits an $f$-edge (or vertex) connectivity certificate with $Θ(f n)$ edges (Nagamochi and Ibaraki, Algorithmica 1992). A recent work by (Bodwin, Haeupler and Parter, SODA 2024) introduced a new and considerably stronger variant of connectivity certificates that can preserve connectivity under any failing set of edges with bounded degree. For every $n$-vertex graph $G=(V,E)$ and a degree threshold $f$, an $f$-Edge-Faulty-Degree (EFD) certificate is a subgraph $H \\subseteq G$ with the following guarantee: For any subset $F \\subseteq E$ with $deg(F)\\leq f$ and every pair $u,v \\in V$, $u$ and $v$ are connected in $H - F$ iff they are connected in $G - F$. For example, a $1$-EFD certificate preserves connectivity under the failing of any matching edge set $F$ (hence, possibly $|F|=Θ(n)$). In their work, [BHP'24] presented an expander-based approach (e.g., using the tools of expander decomposition and expander routing) for computing $f$-EFD certificates with $O(f n \\cdot poly(\\log n))$ edges. They also provided a lower bound of $Ω(f n\\cdot \\log_f n)$, hence $Ω(n\\log n)$ for $f=O(1)$. In this work, we settle the optimal existential size bounds for $f$-EFD certificates (up to constant factors), and also extend it to support vertex failures with bounded degrees (where each vertex is incident to at most $f$ faulty vertices). Specifically, we show that for every $n>f/2$, any $n$-vertex graph admits an $f$-EFD (and $f$-VFD) certificates with $O(f n \\cdot \\log(n/f))$ edges and that this bound is tight. Our upper bound arguments are considerably simpler compared to prior work, do not use expanders, and only exploit the basic structure of bounded degree edge and vertex cuts.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DS"
+}

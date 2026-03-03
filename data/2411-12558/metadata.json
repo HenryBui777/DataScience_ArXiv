@@ -1,0 +1,16 @@
+{
+  "title": "Recall and Refine: A Simple but Effective Source-free Open-set Domain Adaptation Framework",
+  "authors": [
+    "Ismail Nejjar",
+    "Hao Dong",
+    "Olga Fink"
+  ],
+  "summary": "Open-set Domain Adaptation (OSDA) aims to adapt a model from a labeled source domain to an unlabeled target domain, where novel classes - also referred to as target-private unknown classes - are present. Source-free Open-set Domain Adaptation (SF-OSDA) methods address OSDA without accessing labeled source data, making them particularly relevant under privacy constraints. However, SF-OSDA presents significant challenges due to distribution shifts and the introduction of novel classes. Existing SF-OSDA methods typically rely on thresholding the prediction entropy of a sample to identify it as either a known or unknown class, but fail to explicitly learn discriminative features for the target-private unknown classes. We propose Recall and Refine (RRDA), a novel SF-OSDA framework designed to address these limitations by explicitly learning features for target-private unknown classes. RRDA employs a two-stage process. First, we enhance the model's capacity to recognize unknown classes by training a target classifier with an additional decision boundary,guided by synthetic samples generated from target domain features. This enables the classifier to effectively separate known and unknown classes. Second, we adapt the entire model to the target domain, addressing both domain shifts and distinguishability to unknown classes. Any off-the-shelf source-free domain adaptation method (e.g. SHOT, AaD) can be seamlessly integrated into our framework at this stage. Extensive experiments on three benchmark datasets demonstrate that RRDA significantly outperforms existing SF-OSDA and OSDA methods.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-06-26"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI"
+}

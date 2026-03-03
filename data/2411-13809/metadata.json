@@ -1,0 +1,16 @@
+{
+  "title": "DCSim: Computing and Networking Integration based Container Scheduling Simulator for Data Centers",
+  "authors": [
+    "Jinlong Hu",
+    "Zhizhe Rao",
+    "Xingchen Liu",
+    "Lihao Deng",
+    "Shoubin Dong"
+  ],
+  "summary": "The increasing prevalence of cloud-native technologies, particularly containers, has led to the widespread adoption of containerized deployments in data centers. The advancement of deep neural network models has increased the demand for container-based distributed model training and inference, where frequent data transmission among nodes has emerged as a significant performance bottleneck. However, traditional container scheduling simulators often overlook the influence of network modeling on the efficiency of container scheduling, primarily concentrating on modeling computational resources. In this paper, we focus on a container scheduling simulator based on collaboration between computing and networking within data centers. We propose a new container scheduling simulator for data centers, named DCSim. The simulator consists of several modules: a data center module, a network simulation module, a container scheduling module, a discrete event-driven module, and a data collection and analysis module. Together, these modules provide heterogeneous computing power modeling and dynamic network simulation capabilities. We design a discrete event model using SimPy to represent various aspects of container processing, including container requests, scheduling, execution, pauses, communication, migration, and termination within data centers. Among these, lightweight virtualization technology based on Mininet is employed to construct a software-defined network. An experimental environment for container scheduling simulation was established, and functional and performance tests were conducted on the simulator to validate its scheduling simulation capabilities.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DC"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Agent-Based Modeling for Multimodal Transportation of $CO_2$ for Carbon Capture, Utilization, and Storage: CCUS-Agent",
+  "authors": [
+    "Majbah Uddin",
+    "Robin Clark",
+    "Michael Hilliard",
+    "Joshua Thompson",
+    "Matthew Langholtz",
+    "Erin Webb"
+  ],
+  "summary": "To understand the system-level interactions between the entities in Carbon Capture, Utilization, and Storage (CCUS), an agent-based foundational modeling tool, CCUS-Agent, is developed for a large-scale study of transportation flows and infrastructure in the United States. Key features of the tool include (i) modular design, (ii) multiple transportation modes, (iii) capabilities for extension, and (iv) testing against various system components and networks of small and large sizes. Five matching algorithms for CO2 supply agents (e.g., powerplants and industrial facilities) and demand agents (e.g., storage and utilization sites) are explored: Most Profitable First Year (MPFY), Most Profitable All Years (MPAY), Shortest Total Distance First Year (SDFY), Shortest Total Distance All Years (SDAY), and Shortest distance to long-haul transport All Years (ACAY). Before matching, the supply agent, demand agent, and route must be available, and the connection must be profitable. A profitable connection means the supply agent portion of revenue from the 45Q tax credit must cover the supply agent costs and all transportation costs, while the demand agent revenue portion must cover all demand agent costs. A case study employing over 5,500 supply and demand agents and multimodal CCUS transportation infrastructure in the contiguous United States is conducted. The results suggest that it is possible to capture over 9 billion tonnes (GT) of CO2 from 2025 to 2043, which will increase significantly to 22 GT if the capture costs are reduced by 40%. The MPFY and SDFY algorithms capture more CO2 earlier in the time horizon, while the MPAY and SDAY algorithms capture more later in the time horizon.",
+  "submission_date": "2024-11-04",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.MA"
+}

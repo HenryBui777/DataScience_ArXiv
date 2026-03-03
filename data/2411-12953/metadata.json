@@ -1,0 +1,13 @@
+{
+  "title": "Understanding the UV/Optical Variability of AGNs through Quasi-Periodic Large-scale Magnetic Dynamos",
+  "authors": [
+    "Hongzhe Zhou",
+    "Dong Lai"
+  ],
+  "summary": "The UV/optical light curves observed in active galactic nuclei (AGNs) are well-characterized by damped random walk (DRW) process, with the damping time $τ_d$ exhibiting correlations with both the black hole mass ($M_{BH}$) and the photon wavelength ($λ$). However, the underlying physical origins for the DRW process and the scaling laws remain unclear. We aim to understand the AGN variability induced by a quasi-periodic large-scale dynamo in an accretion disk, and examine whether it reproduces the observed variability features in AGN UV/optical light curves. Using a one-dimensional, optically thick, geometrically thin disk model, we introduce variability into the viscosity parameter $α$ by incorporating quasi-periodic large-scale magnetic fields. With reasonable dynamo parameters, our model successfully reproduces both the linear relation between the root-mean-square and the mean values of the radiation flux, and the log-normal distribution of the flux variability. The PSDs of accretion rates and radiation fluxes align well with DRW models, and yield consistent values of $τ_d$ with AGN observations. Analytical arguments, supported by numerical evidence, suggest that the flattening of flux PSDs at low frequencies is governed by the timescale at the inner boundary of the emission region for a given wavelength. For $M_{BH} \\gtrsim 10^6 M_\\odot$, variations in the Eddington ratio flatten the $τ_d$-$M_{BH}$ scaling, resulting in $τ_d \\propto M_{BH}^{0.5-1}$. For $M_{BH} \\lesssim 10^6 M_\\odot$, we find a steeper scaling, $τ_d \\propto M_{BH}$. Including further refinements, such as the dependence of dynamo properties on $M_{BH}$ and AGN luminosity, and accounting for X-ray reprocessing, would further enhance the accuracy of the model compared to observations.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.GA"
+}

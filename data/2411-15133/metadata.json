@@ -1,0 +1,15 @@
+{
+  "title": "On Approximability of Satisfiable $k$-CSPs: VI",
+  "authors": [
+    "Amey Bhangale",
+    "Subhash Khot",
+    "Yang P. Liu",
+    "Dor Minzer"
+  ],
+  "summary": "We prove local and global inverse theorems for general $3$-wise correlations over pairwise-connected distributions. Let $μ$ be a distribution over $Σ\\times Γ\\times Φ$ such that the supports of $μ_{xy}$, $μ_{xz}$, and $μ_{yz}$ are all connected, and let $f: Σ^n \\to \\mathbb{C}$, $g: Γ^n \\to \\mathbb{C}$, $h: Φ^n \\to \\mathbb{C}$ be $1$-bounded functions satisfying \\[ \\left|\\mathbb{E}_{(x,y,z) \\sim μ^{\\otimes n}}[f(x)g(y)h(z)]\\right| \\geq \\varepsilon. \\] In this setting, our local inverse theorem asserts that there is $δ:=\\textsf{exp}(-\\varepsilon^{-O_μ(1)})$ such that with probability at least $δ$, a random restriction of $f$ down to $δn$ coordinates $δ$-correlates to a product function. To get a global inverse theorem, we prove a restriction inverse theorem for general product functions, stating that if a random restriction of $f$ down to $δn$ coordinates is $δ$-correlated with a product function with probability at least $δ$, then $f$ is $2^{-\\textsf{poly}(\\log(1/δ))}$-correlated with a function of the form $L\\cdot P$, where $L$ is a function of degree $\\textsf{poly}(1/δ)$, $\\|L\\|_2\\leq 1$, and $P$ is a product function.\n  We show applications to property testing and to additive combinatorics. In particular, we show the following result via a density increment argument. Let $Σ$ be a finite set and $S \\subseteq Σ\\times Σ\\times Σ$ such that: (1) $(x, x, x) \\in S$ for all $x \\in S$, and (2) the supports of $S_{xy}$, $S_{xz}$, and $S_{yz}$ are all connected. Then, any set $A \\subseteq Σ^n$ with $|Σ|^{-n}|A| \\geq Ω((\\log \\log \\log n)^{-c})$ contains $x, y, z \\in A$, not all equal, such that $(x_i,y_i,z_i) \\in S$ for all $i$. This gives the first reasonable bounds for the restricted 3-AP problem over finite fields.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CC, math.CO"
+}

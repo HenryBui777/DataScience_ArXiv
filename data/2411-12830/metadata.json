@@ -1,0 +1,15 @@
+{
+  "title": "Class-Incremental Learning for Sound Event Localization and Detection",
+  "authors": [
+    "Ruchi Pandey",
+    "Manjunath Mulimani",
+    "Archontis Politis",
+    "Annamaria Mesaros"
+  ],
+  "summary": "This paper investigates the feasibility of class-incremental learning (CIL) for Sound Event Localization and Detection (SELD) tasks. The method features an incremental learner that can learn new sound classes independently while preserving knowledge of old classes. The continual learning is achieved through a mean square error-based distillation loss to minimize output discrepancies between subsequent learners. The experiments are conducted on the TAU-NIGENS Spatial Sound Events 2021 dataset, which includes 12 different sound classes and demonstrate the efficacy of proposed method. We begin by learning 8 classes and introduce the 4 new classes at next stage. After the incremental phase, the system is evaluated on the full set of learned classes. Results show that, for this realistic dataset, our proposed method successfully maintains baseline performance across all metrics.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.AS"
+}

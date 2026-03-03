@@ -1,0 +1,17 @@
+{
+  "title": "Sparser Training for On-Device Recommendation Systems",
+  "authors": [
+    "Yunke Qu",
+    "Liang Qu",
+    "Tong Chen",
+    "Xiangyu Zhao",
+    "Jianxin Li",
+    "Hongzhi Yin"
+  ],
+  "summary": "Recommender systems often rely on large embedding tables that map users and items to dense vectors of uniform size, leading to substantial memory consumption and inefficiencies. This is particularly problematic in memory-constrained environments like mobile and Web of Things (WoT) applications, where scalability and real-time performance are critical. Various research efforts have sought to address these issues. Although embedding pruning methods utilizing Dynamic Sparse Training (DST) stand out due to their low training and inference costs, consistent sparsity, and end-to-end differentiability, they face key challenges. Firstly, they typically initializes the mask matrix, which is used to prune redundant parameters, with random uniform sparse initialization. This strategy often results in suboptimal performance as it creates unstructured and inefficient connections. Secondly, they tend to favor the users/items sampled in the single batch immediately before weight exploration when they reactivate pruned parameters with large gradient magnitudes, which does not necessarily improve the overall performance. Thirdly, while they use sparse weights during forward passes, they still need to compute dense gradients during backward passes. In this paper, we propose SparseRec, an lightweight embedding method based on DST, to address these issues. Specifically, SparseRec initializes the mask matrix using Nonnegative Matrix Factorization. It accumulates gradients to identify the inactive parameters that can better improve the model performance after activation. Furthermore, it avoids dense gradients during backpropagation by sampling a subset of important vectors. Gradients are calculated only for parameters in this subset, thus maintaining sparsity during training in both forward and backward passes.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IR"
+}

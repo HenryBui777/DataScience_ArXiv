@@ -1,0 +1,15 @@
+{
+  "title": "An Economical Approach to Design Posterior Analyses",
+  "authors": [
+    "Luke Hagar",
+    "Nathaniel T. Stevens"
+  ],
+  "summary": "To design Bayesian studies, criteria for the operating characteristics of posterior analyses - such as power and the type I error rate - are often assessed by estimating sampling distributions of posterior probabilities via simulation. In this paper, we propose an economical method to determine optimal sample sizes and decision criteria for such studies. Using our theoretical results that model posterior probabilities as a function of the sample size, we assess operating characteristics throughout the sample size space given simulations conducted at only two sample sizes. These theoretical results are used to construct bootstrap confidence intervals for the optimal sample sizes and decision criteria that reflect the stochastic nature of simulation-based design. We also repurpose the simulations conducted in our approach to efficiently investigate various sample sizes and decision criteria using contour plots. The broad applicability and wide impact of our methodology is illustrated using two clinical examples.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-03-13"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME"
+}

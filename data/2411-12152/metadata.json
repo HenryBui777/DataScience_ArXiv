@@ -1,0 +1,18 @@
+{
+  "title": "Development of a Comprehensive Physics-Based Battery Model and Its Multidimensional Comparison with an Equivalent-Circuit Model: Accuracy, Complexity, and Real-World Performance under Varying Conditions",
+  "authors": [
+    "Guodong Fan",
+    "Boru Zhou",
+    "Chengwen Meng",
+    "Tengwei Pang",
+    "Xi Zhang",
+    "Mingshu Du",
+    "Wei Zhao"
+  ],
+  "summary": "This paper develops a comprehensive physics-based model (PBM) that spans a wide operational range, including varying temperatures, charge/discharge conditions, and real-world field data cycles. The PBM incorporates key factors such as hysteresis effects, concentration-dependent diffusivity, and the Arrhenius law to provide a realistic depiction of battery behavior. Additionally, the paper presents an in-depth analysis comparing the PBM with an equivalent-circuit model (ECM) for accurately capturing the dynamics of lithium-ion batteries under diverse operating conditions. To ensure a fair comparison, both the PBM and ECM are rigorously calibrated and validated through parameter identification and testing across 55 different operating conditions. To the best of the authors' knowledge, this represents the most comprehensive model calibration and validation effort for PBM and ECM in the literature to date, encompassing large temperature variations (-20 to 40°C), various charging/discharging C-rates, and real-world driving cycles. Comparative analysis between the PBM and ECM highlights key differences in accuracy, computational complexity, parameterization requirements, and performance under varying temperature conditions. appropriate models for battery management applications.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Generative Fuzzy System for Sequence Generation",
+  "authors": [
+    "Hailong Yang",
+    "Zhaohong Deng",
+    "Wei Zhang",
+    "Zhuangzhuang Zhao",
+    "Guanjin Wang",
+    "Kup-sze Choi"
+  ],
+  "summary": "Generative Models (GMs), particularly Large Language Models (LLMs), have garnered significant attention in machine learning and artificial intelligence for their ability to generate new data by learning the statistical properties of training data and creating data that resemble the original. This capability offers a wide range of applications across various domains. However, the complex structures and numerous model parameters of GMs make the input-output processes opaque, complicating the understanding and control of outputs. Moreover, the purely data-driven learning mechanism limits GM's ability to acquire broader knowledge. There remains substantial potential for enhancing the robustness and generalization capabilities of GMs. In this work, we introduce the fuzzy system, a classical modeling method that combines data and knowledge-driven mechanisms, to generative tasks. We propose a novel Generative Fuzzy System framework, named GenFS, which integrates the deep learning capabilities of GM with the interpretability and dual-driven mechanisms of fuzzy systems. Specifically, we propose an end-to-end GenFS-based model for sequence generation, called FuzzyS2S. A series of experimental studies were conducted on 12 datasets, covering three distinct categories of generative tasks: machine translation, code generation, and summary generation. The results demonstrate that FuzzyS2S outperforms the Transformer in terms of accuracy and fluency. Furthermore, it exhibits better performance on some datasets compared to state-of-the-art models T5 and CodeT5.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AI, cs.LG"
+}

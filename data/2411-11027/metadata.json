@@ -1,0 +1,24 @@
+{
+  "title": "BianCang: A Traditional Chinese Medicine Large Language Model",
+  "authors": [
+    "Sibo Wei",
+    "Xueping Peng",
+    "Yi-Fei Wang",
+    "Tao Shen",
+    "Jiasheng Si",
+    "Weiyu Zhang",
+    "Fa Zhu",
+    "Athanasios V. Vasilakos",
+    "Wenpeng Lu",
+    "Xiaoming Wu",
+    "Yinglong Wang"
+  ],
+  "summary": "The surge of large language models (LLMs) has driven significant progress in medical applications, including traditional Chinese medicine (TCM). However, current medical LLMs struggle with TCM diagnosis and syndrome differentiation due to substantial differences between TCM and modern medical theory, and the scarcity of specialized, high-quality corpora. To this end, in this paper we propose BianCang, a TCM-specific LLM, using a two-stage training process that first injects domain-specific knowledge and then aligns it through targeted stimulation to enhance diagnostic and differentiation capabilities. Specifically, we constructed pre-training corpora, instruction-aligned datasets based on real hospital records, and the ChP-TCM dataset derived from the Pharmacopoeia of the People's Republic of China. We compiled extensive TCM and medical corpora for continual pre-training and supervised fine-tuning, building a comprehensive dataset to refine the model's understanding of TCM. Evaluations across 11 test sets involving 31 models and 4 tasks demonstrate the effectiveness of BianCang, offering valuable insights for future research. Code, datasets, and models are available on https://github.com/QLU-NLP/BianCang.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [
+    "2025-09-30"
+  ],
+  "publication_venue": "IEEE Journal of Biomedical and Health Informatics (Early Access), 2025, 1-12",
+  "pdf_url": null,
+  "category": "cs.CL, cs.AI"
+}

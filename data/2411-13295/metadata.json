@@ -1,0 +1,15 @@
+{
+  "title": "Efficient Localization with Base Station-Integrated Beyond Diagonal RIS",
+  "authors": [
+    "Mahmoud Raeisi",
+    "Hui Chen",
+    "Henk Wymeersch",
+    "Ertugrul Basar"
+  ],
+  "summary": "This paper introduces a novel approach to efficient localization in next-generation communication systems through a base station (BS)-enabled passive beamforming utilizing beyond diagonal reconfigurable intelligent surfaces (BD-RISs). Unlike conventional diagonal RISs (D-RISs), which suffer from limited beamforming capability, a BD-RIS provides enhanced control over both phase and amplitude, significantly improving localization accuracy. By conducting a comprehensive Cramér-Rao lower bound (CRLB) analysis across various system parameters in both near-field and far-field scenarios, we establish the BD-RIS structure as a competitive alternative to traditional active antenna arrays. Our results reveal that BD-RISs achieve near active antenna arrays performance in localization precision, overcoming the limitations of D-RISs and underscoring its potential for high-accuracy positioning in future communication networks. This work envisions the use of BD-RIS for enabling passive beamforming-based localization, setting the stage for more efficient and scalable localization strategies in sixth-generation networks and beyond.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP"
+}

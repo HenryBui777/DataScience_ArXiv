@@ -1,0 +1,19 @@
+{
+  "title": "FedMLLM: Federated Fine-tuning MLLM on Multimodal Heterogeneity Data",
+  "authors": [
+    "Binqian Xu",
+    "Xiangbo Shu",
+    "Haiyang Mei",
+    "Guosen Xie",
+    "Basura Fernando",
+    "Jinhui Tang"
+  ],
+  "summary": "Multimodal Large Language Models (MLLMs) have made significant advancements, demonstrating powerful capabilities in processing and understanding multimodal data. Fine-tuning MLLMs with Federated Learning (FL) allows for expanding the training data scope by including private data sources, thereby enhancing their practical applicability in privacy-sensitive domains. However, current research remains in the early stage, particularly in addressing the \\textbf{multimodal heterogeneities} in real-world applications. In this paper, we introduce a benchmark to evaluate the performance of federated fine-tuning of MLLMs across various multimodal heterogeneous scenarios, laying the groundwork for future research in the field. Our benchmark includes two lightweight MLLMs, two downstream tasks, three evaluation metrics, and five datasets across three domains, along with six comparison baselines, covering over ten types of modality heterogeneities across four multimodal scenarios. To address the challenges posed by multimodal heterogeneity, we develop a general FedMLLM framework that integrates classic FL methods alongside two modality-agnostic strategies. Extensive experimental results show that our proposed FL paradigm improves the performance of MLLMs by broadening the range of training data and mitigating multimodal heterogeneity. Code is available in supplementary materials.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-03-08"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.CL, cs.CV"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "A note on numerical evaluation of conditional Akaike information for nonlinear mixed-effects models",
+  "authors": [
+    "Nan Zheng",
+    "Noel Cadigan",
+    "James T. Thorson"
+  ],
+  "summary": "We propose two methods to evaluate the conditional Akaike information (cAI) for nonlinear mixed-effects models with no restriction on cluster size. Method 1 is designed for continuous data and includes formulae for the derivatives of fixed and random effects estimators with respect to observations. Method 2, compatible with any type of observation, requires modeling the marginal (or prior) distribution of random effects as a multivariate normal distribution. Simulations show that Method 1 performs well with Gaussian data but struggles with skewed continuous distributions, whereas Method 2 consistently performs well across various distributions, including normal, gamma, negative binomial, and Tweedie, with flexible link functions. Based on our findings, we recommend Method 2 as a distributionally robust cAI criterion for model selection in nonlinear mixed-effects models.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME, math.ST"
+}

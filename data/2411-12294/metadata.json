@@ -1,0 +1,13 @@
+{
+  "title": "Adaptive Forward Stepwise Regression",
+  "authors": [
+    "Ivy Zhang",
+    "Robert Tibshirani"
+  ],
+  "summary": "This paper proposes a sparse regression method that continuously interpolates between Forward Stepwise selection (FS) and the LASSO. When tuned appropriately, our solutions are much sparser than typical LASSO fits but, unlike FS fits, benefit from the stabilizing effect of shrinkage. Our method, Adaptive Forward Stepwise Regression (AFS) addresses this need for sparser models with shrinkage. We show its connection with boosting via a soft-thresholding viewpoint and demonstrate the ease of adapting the method to classification tasks. In both simulations and real data, our method has lower mean squared error and fewer selected features across multiple settings compared to popular sparse modeling procedures.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME"
+}

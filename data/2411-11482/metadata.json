@@ -1,0 +1,14 @@
+{
+  "title": "Longest subsequence for certain repeated up/down patterns in random permutations avoiding a pattern of length three",
+  "authors": [
+    "Ross G. Pinsky"
+  ],
+  "summary": "Let $S_n$ denote the set of permutations of $[n]$ and let $σ=σ_1\\cdotsσ_n\\in S_n$. For a subsequence $\\{σ_{i_j}\\}_{j=1}^k$ of $\\{σ_i\\}_{i=1}^n$ of length $k\\ge2$, construct\n  the ``up/down'' sequence $V_1\\cdots V_{k-1}$ defined by $$ V_j=\\begin{cases} U,\\ \\text{if}\\ σ_{i_j+1}-σ_{i_j}>0;\\\\ D,\\ \\text{if}\\ σ_{i_j+1}-σ_{i_j}<0.\\end{cases} $$ Consider now a fixed up/down pattern: $V_1\\cdots V_l$, where $l\\in\\mathbb{N}$ and $V_j\\in\\{U, D\\},\\ j\\in[l]$. Given a permutation $σ\\in S_n$, consider the length of the longest subsequence of $σ$ that repeats this pattern.\n  For example, consider $l=3$ and $V_1V_2V_3=UUD$. Then for the permutation $342617985\\in S_9$, the length of the longest subsequence that repeats the pattern $UUD$ is 7; it is obtained by 3461798 and 3461785.\n  The above framework includes two well-known cases. The pattern $U$ is the celebrated case of the longest increasing subsequence. The pattern $UD$ (or $DU$) is the case of the longest alternating subsequence. These have been studied both under the uniform distribution on $S_n$ as well as under the uniform distribution on those permutations in $S_n$ which avoid a particular pattern of length three.\n  In this paper, we consider the patterns $UUD$ and $UUUD$ under the uniform distribution on those permutations in $S_n$ which avoid the pattern $132$. We prove that the expected value of the longest increasing subsequence following the pattern $UUD$ is asymptotic to $\\frac37n$ and the expected value of the longest increasing subsequence following the pattern $UUUD$ is asymptotic to $\\frac4{11}n$. (For $UD$ (alternating subsequences) it is known to be $\\frac12n$.) This leads directly to appropriate corresponding results for permutations avoiding any particular pattern of length three.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-12-04"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.CO, math.PR"
+}

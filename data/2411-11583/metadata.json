@@ -1,0 +1,16 @@
+{
+  "title": "Convergence and long-time behavior of finite volumes for a generalized Poisson-Nernst-Planck system with cross-diffusion and size exclusion",
+  "authors": [
+    "Clément Cancès",
+    "Maxime Herda",
+    "Annamaria Massimini"
+  ],
+  "summary": "We present a finite volume scheme for modeling the diffusion of charged particles, specifically ions, in constrained geometries using a degenerate Poisson-Nernst-Planck system with size exclusion yielding cross-diffusion. Our method utilizes a two-point flux approximation and is part of the exponentially fitted scheme framework. The scheme is shown to be thermodynamically consistent, as it ensures the decay of some discrete version of the free energy. Classical numerical analysis results -- existence of discrete solution, convergence of the scheme as the grid size and the time step go to $0$ -- follow. We also investigate the long-time behavior of the scheme, both from a theoretical and numerical point of view. Numerical simulations confirm our findings, but also point out some possibly very slow convergence towards equilibrium of the system under consideration.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-08-29"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

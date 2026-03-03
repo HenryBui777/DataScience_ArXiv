@@ -1,0 +1,648 @@
+{
+  "2502-07611": {
+    "title": "Optimizing Datasets for Code Summarization: Is Code-Comment Coherence Enough?",
+    "authors": [
+      "Antonio Vitale",
+      "A. Mastropaolo",
+      "Rocco Oliveto",
+      "M. D. Penta",
+      "Simone Scalabrino"
+    ],
+    "publication_date": "2025-02-11",
+    "venue": "IEEE International Conference on Program Comprehension",
+    "semantic_scholar_id": "43a547439b9b5dbec0a3d7afb528f4adbc6798bb",
+    "corpus_id": 276259087,
+    "category": "Computer Science"
+  },
+  "2407-00957": {
+    "title": "Expressivity of Neural Networks with Random Weights and Learned Biases",
+    "authors": [
+      "Ezekiel Williams",
+      "Avery Hee-Woon Ryoo",
+      "Thomas Jiralerspong",
+      "Alexandre Payeur",
+      "M. Perich",
+      "Luca Mazzucato",
+      "Guillaume Lajoie"
+    ],
+    "publication_date": "2024-07-01",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "00f9f7db7e2092e4a93ae331c07f3de4286b61a9",
+    "corpus_id": 270869772,
+    "category": "Computer Science, Medicine, Biology, Mathematics"
+  },
+  "2404-11595": {
+    "title": "A Deep Dive into Large Language Models for Automated Bug Localization and Repair",
+    "authors": [
+      "Soneya Binta Hossain",
+      "Nan Jiang",
+      "Qiang Zhou",
+      "Xiaopeng Li",
+      "Wen-Hao Chiang",
+      "Yingjun Lyu",
+      "Hoan Nguyen",
+      "Omer Tripp"
+    ],
+    "publication_date": "2024-04-17",
+    "venue": "Proc. ACM Softw. Eng.",
+    "semantic_scholar_id": "029f007ef1b2c71c2873f37ab19ab542881c3627",
+    "corpus_id": 269187997,
+    "category": "Computer Science"
+  },
+  "2403-18624": {
+    "title": "Vulnerability Detection with Code Language Models: How Far are We?",
+    "authors": [
+      "Yangruibo Ding",
+      "Yanjun Fu",
+      "Omniyyah Ibrahim",
+      "Chawin Sitawarin",
+      "Xinyun Chen",
+      "Basel Alomair",
+      "David A. Wagner",
+      "Baishakhi Ray",
+      "Yizheng Chen"
+    ],
+    "publication_date": "2024-03-27",
+    "venue": "International Conference on Software Engineering",
+    "semantic_scholar_id": "8d064f58dd2374f9b702716f75d7ab58485f8eef",
+    "corpus_id": 268724273,
+    "category": "Computer Science"
+  },
+  "2402-04575": {
+    "title": "Can We Identify Stack Overflow Questions Requiring Code Snippets? Investigating the Cause & Effect of Missing Code Snippets",
+    "authors": [
+      "Saikat Mondal",
+      "M. M. Rahman",
+      "C. Roy"
+    ],
+    "publication_date": "2024-02-07",
+    "venue": "IEEE International Conference on Software Analysis, Evolution, and Reengineering",
+    "semantic_scholar_id": "615af8f213eab82a9704b0eb31918c007961c288",
+    "corpus_id": 267523025,
+    "category": "Computer Science"
+  },
+  "2401-14617": {
+    "title": "A Systematic Literature Review on Explainability for Machine/Deep Learning-based Software Engineering Research",
+    "authors": [
+      "Sicong Cao",
+      "Xiaobing Sun",
+      "Ratnadira Widyasari",
+      "David Lo",
+      "Xiaoxue Wu",
+      "Lili Bo",
+      "Jiale Zhang",
+      "Bin Li",
+      "Wei Liu",
+      "Di Wu",
+      "Yixin Chen"
+    ],
+    "publication_date": "2024-01-26",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "f12370f8a13c7df5dcfde85c29c68f347a28e71d",
+    "corpus_id": 267301213,
+    "category": "Computer Science"
+  },
+  "2401-07930": {
+    "title": "On Inter-Dataset Code Duplication and Data Leakage in Large Language Models",
+    "authors": [
+      "José Antonio Hernández López",
+      "Boqi Chen",
+      "M. Saad",
+      "Tushar Sharma",
+      "D'aniel Varr'o"
+    ],
+    "publication_date": "2024-01-15",
+    "venue": "IEEE Transactions on Software Engineering",
+    "semantic_scholar_id": "a834dccd33856f47e0e6057d01f37eed07bc7017",
+    "corpus_id": 266999336,
+    "category": "Computer Science"
+  },
+  "2401-03069": {
+    "title": "Towards enhancing the reproducibility of deep learning bugs: an empirical study",
+    "authors": [
+      "Mehil B. Shah",
+      "Mohammad Masudur Rahman",
+      "Foutse Khomh"
+    ],
+    "publication_date": "2024-01-05",
+    "venue": "Empirical Software Engineering",
+    "semantic_scholar_id": "aaf3c8d6df4529c9a0ca6bb385a1507fe3a4427b",
+    "corpus_id": 266844571,
+    "category": "Computer Science"
+  },
+  "2310-01765": {
+    "title": "Data cleaning and machine learning: a systematic literature review",
+    "authors": [
+      "Pierre-Olivier Côté",
+      "Amin Nikanjam",
+      "Nafisa Ahmed",
+      "D. Humeniuk",
+      "Foutse Khomh"
+    ],
+    "publication_date": "2023-10-03",
+    "venue": "International Conference on Automated Software Engineering",
+    "semantic_scholar_id": "1f5c71bce46a9e02378db1be13da3854b9e37c35",
+    "corpus_id": 263608557,
+    "category": "Computer Science"
+  },
+  "2309-02317": {
+    "title": "A study on the impact of pre-trained model on Just-In-Time defect prediction",
+    "authors": [
+      "Yuxiang Guo",
+      "Xiaopeng Gao",
+      "Zhenyu Zhang",
+      "W. Chan",
+      "Bo Jiang"
+    ],
+    "publication_date": "2023-09-05",
+    "venue": "International Conference on Software Quality, Reliability and Security",
+    "semantic_scholar_id": "daa7b3f8d5610cd2dd1badde8c3a3e6f58726aa3",
+    "corpus_id": 261557143,
+    "category": "Computer Science"
+  },
+  "2307-08990": {
+    "title": "An Empirical Study on Noisy Label Learning for Program Understanding",
+    "authors": [
+      "Wenhan Wang",
+      "Yanzhou Li",
+      "Anran Li",
+      "Jian Zhang",
+      "Wei Ma",
+      "Yang Liu"
+    ],
+    "publication_date": "2023-07-18",
+    "venue": "International Conference on Software Engineering",
+    "semantic_scholar_id": "601aadf986aca839e84d2fc75e99865a061201fc",
+    "corpus_id": 259950714,
+    "category": "Computer Science"
+  },
+  "2304-07575": {
+    "title": "What Makes Good In-Context Demonstrations for Code Intelligence Tasks with LLMs?",
+    "authors": [
+      "Shuzheng Gao",
+      "Xinjie Wen",
+      "Cuiyun Gao",
+      "Wenxuan Wang",
+      "Michael R. Lyu"
+    ],
+    "publication_date": "2023-04-15",
+    "venue": "International Conference on Automated Software Engineering",
+    "semantic_scholar_id": "9a31b2ce43fe198ab1fd046ca4ec70fded154aee",
+    "corpus_id": 258180059,
+    "category": "Computer Science"
+  },
+  "2303-04738": {
+    "title": "Defectors: A Large, Diverse Python Dataset for Defect Prediction",
+    "authors": [
+      "Parvez Mahbub",
+      "Ohiduzzaman Shuvo",
+      "M. M. Rahman"
+    ],
+    "publication_date": "2023-03-08",
+    "venue": "IEEE Working Conference on Mining Software Repositories",
+    "semantic_scholar_id": "969c3923bdaea7b6f2a42076b908e1d2adcce06f",
+    "corpus_id": 257405078,
+    "category": "Computer Science"
+  },
+  "2302-07055": {
+    "title": "Developer-Intent Driven Code Comment Generation",
+    "authors": [
+      "Fangwen Mu",
+      "Xiao Chen",
+      "Lin Shi",
+      "Song Wang",
+      "Qing Wang"
+    ],
+    "publication_date": "2023-02-14",
+    "venue": "International Conference on Software Engineering",
+    "semantic_scholar_id": "7a771d84301d12049cf72a017f9e62c3d1b6222d",
+    "corpus_id": 256846769,
+    "category": "Computer Science"
+  },
+  "2301-05456": {
+    "title": "Data Quality for Software Vulnerability Datasets",
+    "authors": [
+      "Roland Croft",
+      "M. A. Babar",
+      "M. M. Kholoosi"
+    ],
+    "publication_date": "2023-01-13",
+    "venue": "International Conference on Software Engineering",
+    "semantic_scholar_id": "c7b2eb27e4e1c82a36ae518a42073ea736ee5e5f",
+    "corpus_id": 255825779,
+    "category": "Computer Science"
+  },
+  "2212-10017": {
+    "title": "Unveiling Code Pre-Trained Models: Investigating Syntax and Semantics Capacities",
+    "authors": [
+      "Wei Ma",
+      "Mengjie Zhao",
+      "Xiaofei Xie",
+      "Q. Hu",
+      "Shangqing Liu",
+      "Jie Zhang",
+      "Wenhan Wang",
+      "Yang Liu"
+    ],
+    "publication_date": "2022-12-20",
+    "venue": "ACM Transactions on Software Engineering and Methodology",
+    "semantic_scholar_id": "221d84cc186871c989f8d631ef5759682d8a951d",
+    "corpus_id": 258556996,
+    "category": "Computer Science"
+  },
+  "2212-00548": {
+    "title": "Duplicate Bug Report Detection: How Far Are We?",
+    "authors": [
+      "Ting Zhang",
+      "Donggyun Han",
+      "Venkatesh Vinayakarao",
+      "I. Irsan",
+      "Bowen Xu",
+      "Ferdian Thung",
+      "David Lo",
+      "Lingxiao Jiang"
+    ],
+    "publication_date": "2022-12-01",
+    "venue": "ACM Transactions on Software Engineering and Methodology",
+    "semantic_scholar_id": "6f5ea2b9143ff67bb6288ab084ceecbbf16318d2",
+    "corpus_id": 254125658,
+    "category": "Computer Science"
+  },
+  "2210-02236": {
+    "title": "On the Use of Deep Learning in Software Defect Prediction",
+    "authors": [
+      "G. Giray",
+      "K. Bennin",
+      "Ö. Köksal",
+      "Önder Babur",
+      "B. Tekinerdogan"
+    ],
+    "publication_date": "2022-10-01",
+    "venue": "Journal of Systems and Software",
+    "semantic_scholar_id": "8fa4e81e6d53fa04ca81597797caa3361584316e",
+    "corpus_id": 252715886,
+    "category": "Computer Science"
+  },
+  "2207-05579": {
+    "title": "Are we building on the rock? on the importance of data preprocessing for code summarization",
+    "authors": [
+      "Lin Shi",
+      "Fangwen Mu",
+      "Xiao Chen",
+      "Song Wang",
+      "Junjie Wang",
+      "Ye Yang",
+      "Gelin Li",
+      "Xin Xia",
+      "Qing Wang"
+    ],
+    "publication_date": "2022-07-12",
+    "venue": "ESEC/SIGSOFT FSE",
+    "semantic_scholar_id": "4b0544ac7b713367db6249fdd57c1fab5b14903b",
+    "corpus_id": 250451564,
+    "category": "Computer Science"
+  },
+  "2203-00101": {
+    "title": "ApacheJIT: A Large Dataset for Just-In-Time Defect Prediction",
+    "authors": [
+      "Hossein Keshavarz",
+      "M. Nagappan"
+    ],
+    "publication_date": "2022-02-28",
+    "venue": "IEEE Working Conference on Mining Software Repositories",
+    "semantic_scholar_id": "b1441b34abe1642321184fc4534b165e606b6241",
+    "corpus_id": 247187821,
+    "category": "Computer Science"
+  },
+  "2201-06850": {
+    "title": "Using Pre-Trained Models to Boost Code Review Automation",
+    "authors": [
+      "Rosalia Tufano",
+      "Simone Masiero",
+      "A. Mastropaolo",
+      "L. Pascarella",
+      "D. Poshyvanyk",
+      "G. Bavota"
+    ],
+    "publication_date": "2022-01-18",
+    "venue": "International Conference on Software Engineering",
+    "semantic_scholar_id": "c7cbbbdba2c942180675c2a69035e506d9378679",
+    "corpus_id": 246035813,
+    "category": "Computer Science"
+  },
+  "2109-05740": {
+    "title": "Data Preparation for Software Vulnerability Prediction: A Systematic Literature Review",
+    "authors": [
+      "Roland Croft",
+      "Yongzhen Xie",
+      "M. A. Babar"
+    ],
+    "publication_date": "2021-09-13",
+    "venue": "IEEE Transactions on Software Engineering",
+    "semantic_scholar_id": "d0625a9def895ab64a70257626d6291748739175",
+    "corpus_id": 237491000,
+    "category": "Computer Science"
+  },
+  "2011-14597": {
+    "title": "A Survey on Deep Learning for Software Engineering",
+    "authors": [
+      "Yanming Yang",
+      "Xin Xia",
+      "David Lo",
+      "J. Grundy"
+    ],
+    "publication_date": "2020-11-30",
+    "venue": "ACM Computing Surveys",
+    "semantic_scholar_id": "bea6af010fc02f5ac29edfc17096be6078edab46",
+    "corpus_id": 227227792,
+    "category": "Computer Science"
+  },
+  "2010-01410": {
+    "title": "Code to Comment “Translation”: Data, Metrics, Baselining & Evaluation",
+    "authors": [
+      "David Gros",
+      "Hariharan Sezhiyan",
+      "Prem Devanbu",
+      "Zhou Yu"
+    ],
+    "publication_date": "2020-09-01",
+    "venue": "International Conference on Automated Software Engineering",
+    "semantic_scholar_id": "d944bf7942297f5670192c5cd33191c26a87973e",
+    "corpus_id": 222133270,
+    "category": "Computer Science"
+  },
+  "2008-02944": {
+    "title": "Evaluating Representation Learning of Code Changes for Predicting Patch Correctness in Program Repair",
+    "authors": [
+      "Haoye Tian",
+      "Kui Liu",
+      "A. Kaboré",
+      "Anil Koyuncu",
+      "Li Li",
+      "Jacques Klein",
+      "Tégawendé F. Bissyandé"
+    ],
+    "publication_date": "2020-08-07",
+    "venue": "International Conference on Automated Software Engineering",
+    "semantic_scholar_id": "521b813aeb71162fe74ad09da4a2bbbcd9919b70",
+    "corpus_id": 225403441,
+    "category": "Computer Science"
+  },
+  "2004-08249": {
+    "title": "Understanding the Difficulty of Training Transformers",
+    "authors": [
+      "Liyuan Liu",
+      "Xiaodong Liu",
+      "Jianfeng Gao",
+      "Weizhu Chen",
+      "Jiawei Han"
+    ],
+    "publication_date": "2020-04-17",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "8d908042f139575d6688c745e94156c9df6eae07",
+    "corpus_id": 215814515,
+    "category": "Computer Science, Mathematics"
+  },
+  "1911-00068": {
+    "title": "Confident Learning: Estimating Uncertainty in Dataset Labels",
+    "authors": [
+      "Curtis G. Northcutt",
+      "Lu Jiang",
+      "Isaac L. Chuang"
+    ],
+    "publication_date": "2019-10-31",
+    "venue": "Journal of Artificial Intelligence Research",
+    "semantic_scholar_id": "cbaaa1154c491f9da2f050d3c22970e15bb7b52b",
+    "corpus_id": 207870256,
+    "category": "Computer Science, Mathematics"
+  },
+  "1910-11015": {
+    "title": "Taxonomy of Real Faults in Deep Learning Systems",
+    "authors": [
+      "Nargiz Humbatova",
+      "Gunel Jahangirova",
+      "G. Bavota",
+      "Vincenzo Riccio",
+      "Andrea Stocco",
+      "P. Tonella"
+    ],
+    "publication_date": "2019-10-24",
+    "venue": "International Conference on Software Engineering",
+    "semantic_scholar_id": "b217efca950461ddfaf2edcebb0f1962eaaa4782",
+    "corpus_id": 204851885,
+    "category": "Computer Science"
+  },
+  "1910-07738": {
+    "title": "A survey of deep learning techniques for autonomous driving",
+    "authors": [
+      "S. Grigorescu",
+      "Bogdan Trasnea",
+      "Tiberiu T. Cocias",
+      "G. Macesanu"
+    ],
+    "publication_date": "2019-10-17",
+    "venue": "J. Field Robotics",
+    "semantic_scholar_id": "a595767fa35bcc84362f629fbc4d2d9b05d7342a",
+    "corpus_id": 204744017,
+    "category": "Computer Science"
+  },
+  "1909-03496": {
+    "title": "Devign: Effective Vulnerability Identification by Learning Comprehensive Program Semantics via Graph Neural Networks",
+    "authors": [
+      "Yaqin Zhou",
+      "Shangqing Liu",
+      "J. Siow",
+      "Xiaoning Du",
+      "Yang Liu"
+    ],
+    "publication_date": "2019-09-01",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "00549af4bc3270e0f688acbf694f912d7ee39cad",
+    "corpus_id": 202539112,
+    "category": "Computer Science, Mathematics"
+  },
+  "1906-01388": {
+    "title": "A comprehensive study on deep learning bug characteristics",
+    "authors": [
+      "Md Johirul Islam",
+      "Giang Nguyen",
+      "Rangeet Pan",
+      "Hridesh Rajan"
+    ],
+    "publication_date": "2019-06-03",
+    "venue": "ESEC/SIGSOFT FSE",
+    "semantic_scholar_id": "17750e76d4d3a33b1eada72f39238acd0246bd37",
+    "corpus_id": 174797734,
+    "category": "Computer Science"
+  },
+  "1810-08591": {
+    "title": "A Modern Take on the Bias-Variance Tradeoff in Neural Networks",
+    "authors": [
+      "Brady Neal",
+      "Sarthak Mittal",
+      "A. Baratin",
+      "Vinayak Tantia",
+      "Matthew Scicluna",
+      "Simon Lacoste-Julien",
+      "Ioannis Mitliagkas"
+    ],
+    "publication_date": "2018-09-27",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "463a1779585aab66a6ef3fdc1b19e8c5d34d8070",
+    "corpus_id": 53043125,
+    "category": "Computer Science, Mathematics"
+  },
+  "1810-12034": {
+    "title": "Software Engineering Challenges of Deep Learning",
+    "authors": [
+      "Anders Arpteg",
+      "B. Brinne",
+      "L. Crnkovic-Friis",
+      "J. Bosch"
+    ],
+    "publication_date": "2018-08-01",
+    "venue": "EUROMICRO Conference on Software Engineering and Advanced Applications",
+    "semantic_scholar_id": "b8d38c29fb33440b41caa9a1a3baa0d8815d3042",
+    "corpus_id": 53030991,
+    "category": "Computer Science"
+  },
+  "1708-00631": {
+    "title": "On the Importance of Consistency in Training Deep Neural Networks",
+    "authors": [
+      "Chengxi Ye",
+      "Yezhou Yang",
+      "C. Fermüller",
+      "Y. Aloimonos"
+    ],
+    "publication_date": "2017-08-02",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "4601e490d370a6fa531442075bb0e933a7034eac",
+    "corpus_id": 19610042,
+    "category": "Computer Science, Mathematics"
+  },
+  "1706-03762": {
+    "title": "Attention is All you Need",
+    "authors": [
+      "Ashish Vaswani",
+      "Noam M. Shazeer",
+      "Niki Parmar",
+      "Jakob Uszkoreit",
+      "Llion Jones",
+      "Aidan N. Gomez",
+      "Lukasz Kaiser",
+      "I. Polosukhin"
+    ],
+    "publication_date": "2017-06-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+    "corpus_id": 13756489,
+    "category": "Computer Science"
+  },
+  "1703-04730": {
+    "title": "Understanding Black-box Predictions via Influence Functions",
+    "authors": [
+      "Pang Wei Koh",
+      "Percy Liang"
+    ],
+    "publication_date": "2017-03-14",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "08ad8fad21f6ec4cda4d56be1ca5e146b7c913a1",
+    "corpus_id": 13193974,
+    "category": "Computer Science, Mathematics"
+  },
+  "1610-02391": {
+    "title": "Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization",
+    "authors": [
+      "Ramprasaath R. Selvaraju",
+      "Abhishek Das",
+      "Ramakrishna Vedantam",
+      "Michael Cogswell",
+      "Devi Parikh",
+      "Dhruv Batra"
+    ],
+    "publication_date": "2016-10-07",
+    "venue": "International Journal of Computer Vision",
+    "semantic_scholar_id": "5582bebed97947a41e3ddd9bd1f284b73f1648c2",
+    "corpus_id": 15019293,
+    "category": "Computer Science"
+  },
+  "1609-00489": {
+    "title": "A Deep Learning Model for Estimating Story Points",
+    "authors": [
+      "Morakot Choetkiertikul",
+      "H. Dam",
+      "T. Tran",
+      "Trang Pham",
+      "A. Ghose",
+      "T. Menzies"
+    ],
+    "publication_date": "2016-09-02",
+    "venue": "IEEE Transactions on Software Engineering",
+    "semantic_scholar_id": "59772804b59747aff4e79f75d706378c4271cdc6",
+    "corpus_id": 15300052,
+    "category": "Computer Science, Mathematics"
+  },
+  "1512-02595": {
+    "title": "Deep Speech 2 : End-to-End Speech Recognition in English and Mandarin",
+    "authors": [
+      "Dario Amodei",
+      "S. Ananthanarayanan",
+      "Rishita Anubhai",
+      "Jin Bai",
+      "Eric Battenberg",
+      "Carl Case",
+      "J. Casper",
+      "Bryan Catanzaro",
+      "Jingdong Chen",
+      "Mike Chrzanowski",
+      "Adam Coates",
+      "G. Diamos",
+      "Erich Elsen",
+      "Jesse Engel",
+      "Linxi (Jim) Fan",
+      "Christopher Fougner",
+      "Awni Y. Hannun",
+      "Billy Jun",
+      "T. Han",
+      "P. LeGresley",
+      "Xiangang Li",
+      "Libby Lin",
+      "Sharan Narang",
+      "A. Ng",
+      "Sherjil Ozair",
+      "R. Prenger",
+      "Sheng Qian",
+      "Jonathan Raiman",
+      "S. Satheesh",
+      "David Seetapun",
+      "Shubho Sengupta",
+      "Anuroop Sriram",
+      "Chong-Jun Wang",
+      "Yi Wang",
+      "Zhiqian Wang",
+      "Bo Xiao",
+      "Yan Xie",
+      "Dani Yogatama",
+      "J. Zhan",
+      "Zhenyao Zhu"
+    ],
+    "publication_date": "2015-12-08",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "13497bd108d4412d02050e646235f456568cf822",
+    "corpus_id": 11590585,
+    "category": "Computer Science"
+  },
+  "1211-5063": {
+    "title": "On the difficulty of training recurrent neural networks",
+    "authors": [
+      "Razvan Pascanu",
+      "Tomas Mikolov",
+      "Yoshua Bengio"
+    ],
+    "publication_date": "2012-11-21",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "84069287da0a6b488b8c933f3cb5be759cb6237e",
+    "corpus_id": 14650762,
+    "category": "Computer Science, Mathematics"
+  }
+}

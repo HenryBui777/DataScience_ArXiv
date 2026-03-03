@@ -1,0 +1,14 @@
+{
+  "title": "Conservation Laws with Discontinuous Gradient-Dependent Flux: the Unstable Case",
+  "authors": [
+    "Debora Amadori",
+    "Alberto Bressan",
+    "Wen Shen"
+  ],
+  "summary": "The paper is concerned with a scalar conservation law with discontinuous gradient-dependent flux. Namely, the flux is described by two different functions $f(u)$ or $g(u)$, when the gradient $u_x$ of the solution is positive or negative, respectively. We study here the unstable case where $f(u)>g(u)$ for all $u\\in {\\mathbb R}$. Assuming that both $f$ and $g$ are strictly convex, solutions to the Riemann problem are constructed. Even for smooth initial data, examples show that infinitely many solutions can occur.\n  For an initial data which is piecewise monotone, i.e., increasing or decreasing on a finite number of intervals, a global solution of the Cauchy problem is obtained. It is proved that such solution is unique under the additional requirement that the number of interfaces, where the flux switches between $f$ and $g$, remains as small as possible.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AP"
+}

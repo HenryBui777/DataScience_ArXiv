@@ -1,0 +1,15 @@
+{
+  "title": "Metric Oja Depth, New Statistical Tool for Estimating the Most Central Objects",
+  "authors": [
+    "Vida Zamanifarizhandi",
+    "Joni Virta"
+  ],
+  "summary": "The Oja depth (simplicial volume depth) is one of the classical statistical techniques for measuring the central tendency of data in multivariate space. Despite the widespread emergence of object data like images, texts, matrices or graphs, a well-developed and suitable version of Oja depth for object data is lacking. To address this shortcoming, a novel measure of statistical depth, the metric Oja depth applicable to any object data, is proposed. Two competing strategies are used for optimizing metric depth functions, i.e., finding the deepest objects with respect to them. The performance of the metric Oja depth is compared with three other depth functions (half-space, lens, and spatial) in diverse data scenarios.\n  Keywords: Object Data, Metric Oja depth, Statistical depth, Optimization, Metric statistics",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-08-31"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME, stat.CO"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Search, Verify and Feedback: Towards Next Generation Post-training Paradigm of Foundation Models via Verifier Engineering",
+  "authors": [
+    "Xinyan Guan",
+    "Yanjiang Liu",
+    "Xinyu Lu",
+    "Boxi Cao",
+    "Ben He",
+    "Xianpei Han",
+    "Le Sun",
+    "Jie Lou",
+    "Bowen Yu",
+    "Yaojie Lu",
+    "Hongyu Lin"
+  ],
+  "summary": "The evolution of machine learning has increasingly prioritized the development of powerful models and more scalable supervision signals. However, the emergence of foundation models presents significant challenges in providing effective supervision signals necessary for further enhancing their capabilities. Consequently, there is an urgent need to explore novel supervision signals and technical approaches. In this paper, we propose verifier engineering, a novel post-training paradigm specifically designed for the era of foundation models. The core of verifier engineering involves leveraging a suite of automated verifiers to perform verification tasks and deliver meaningful feedback to foundation models. We systematically categorize the verifier engineering process into three essential stages: search, verify, and feedback, and provide a comprehensive review of state-of-the-art research developments within each stage. We believe that verifier engineering constitutes a fundamental pathway toward achieving Artificial General Intelligence.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AI, cs.CL, stat.ML"
+}

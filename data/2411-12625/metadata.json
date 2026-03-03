@@ -1,0 +1,15 @@
+{
+  "title": "Quantum ergodicity and scrambling in quantum annealers",
+  "authors": [
+    "Manuel H. Muñoz-Arias",
+    "Pablo M. Poggi"
+  ],
+  "summary": "Quantum annealers play a major role in the ongoing development of quantum information processing and in the advent of quantum technologies. Their functioning is underpinned by the many-body adiabatic evolution connecting the ground state of a simple system to that of an interacting classical Hamiltonian which encodes the solution to an optimization problem. Here we explore more general properties of the dynamics of quantum annealers, going beyond the low-energy regime. We show that the unitary evolution operator describing the complete dynamics is typically highly quantum chaotic. As a result, the annealing dynamics naturally leads to volume-law entangled random-like states when the initial configuration is rotated away from the low-energy subspace. Furthermore, we observe that the Heisenberg dynamics of a quantum annealer leads to extensive operator spreading, a hallmark of quantum information scrambling. In contrast, we find that when the annealing schedule is returned to the initial configuration (i.e. via a cyclic ramp), a subtle interplay between chaos and adiabaticity emerges, and the dynamics shows strong deviations from full ergodicity.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-10-01"
+  ],
+  "publication_venue": "Quantum Sci. Technol. 10 045027 (2025)",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

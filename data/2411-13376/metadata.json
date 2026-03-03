@@ -1,0 +1,16 @@
+{
+  "title": "ODTE -- An ensemble of multi-class SVM-based oblique decision trees",
+  "authors": [
+    "Ricardo Montañana",
+    "José A. Gámez",
+    "José M. Puerta"
+  ],
+  "summary": "We propose ODTE, a new ensemble that uses oblique decision trees as base classifiers. Additionally, we introduce STree, the base algorithm for growing oblique decision trees, which leverages support vector machines to define hyperplanes within the decision nodes. We embed a multiclass strategy -- one-vs-one or one-vs-rest -- at the decision nodes, allowing the model to directly handle non-binary classification tasks without the need to cluster instances into two groups, as is common in other approaches from the literature. In each decision node, only the best-performing model SVM -- the one that minimizes an impurity measure for the n-ary classification -- is retained, even if the learned SVM addresses a binary classification subtask. An extensive experimental study involving 49 datasets and various state-of-the-art algorithms for oblique decision tree ensembles has been conducted. Our results show that ODTE ranks consistently above its competitors, achieving significant performance gains when hyperparameters are carefully tuned. Moreover, the oblique decision trees learned through STree are more compact than those produced by other algorithms evaluated in our experiments.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-03-16"
+  ],
+  "publication_venue": "Ricardo Montañana, José A. Gámez, José M. Puerta(2025). ODTE-An ensemble of multi-class SVM-based oblique decision trees. Expert Systems with Applications 273:126833",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

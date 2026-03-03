@@ -1,0 +1,12 @@
+{
+  "title": "Financial News-Driven LLM Reinforcement Learning for Portfolio Management",
+  "authors": [
+    "Ananya Unnikrishnan"
+  ],
+  "summary": "Reinforcement learning (RL) has emerged as a transformative approach for financial trading, enabling dynamic strategy optimization in complex markets. This study explores the integration of sentiment analysis, derived from large language models (LLMs), into RL frameworks to enhance trading performance. Experiments were conducted on single-stock trading with Apple Inc. (AAPL) and portfolio trading with the ING Corporate Leaders Trust Series B (LEXCX). The sentiment-enhanced RL models demonstrated superior net worth and cumulative profit compared to RL models without sentiment and, in the portfolio experiment, outperformed the actual LEXCX portfolio's buy-and-hold strategy. These results highlight the potential of incorporating qualitative market signals to improve decision-making, bridging the gap between quantitative and qualitative approaches in financial trading.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-fin.CP"
+}

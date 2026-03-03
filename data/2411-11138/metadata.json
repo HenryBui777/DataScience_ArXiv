@@ -1,0 +1,16 @@
+{
+  "title": "Exploring the effects of diameter and volume fraction of quantum dots on photocarrier generation rate in solar cells",
+  "authors": [
+    "F. Hafiz",
+    "M. R. I. Rafi",
+    "M. Tasfia",
+    "M. M. Rahman",
+    "M. M. Chowdhury"
+  ],
+  "summary": "This paper extends a previous model for p-i-n GaAs quantum dot solar cells (QDSC) by revising the equation of photocarrier generation rate in quantum dots (QDs) inside the intrinsic region. In our model, we address a notable discrepancy that arose from the previous model where they did not consider the volume of QDs within the intrinsic region, leading to an overestimation of the photocarrier generation rate. Our present model rectifies this by incorporating the volume of quantum dots, resulting in adjustments to the photocarrier generation rate. Additionally, we determine the absorption coefficient of the QDs based on Mie theory for different diameter sizes considering the constant volume fraction of the total number of QDs in the intrinsic region. We observe in our analysis that the absorption spectra of the QDs and host material may overlap in certain cases, although the previous model assumed no overlap. This finding suggests the need for caution when evaluating spectral overlap: if the spectra do not overlap, both the previous and current modified models can be reliably applied. However, in cases of overlap, careful consideration is required to ensure accurate predictions of photocarrier generation. Furthermore, investigating the effect of QD diameter size on the photocarrier generation rate in the intrinsic region, we find that smaller QD sizes result in a higher absorption coefficient as well as a higher generation rate for a constant volume of QDs in the region. Moreover, we establish the optimization of the QDs array size by varying the size and the total volume of QDs to improve the generation rate. Our analysis reveals that a higher volume of QDs and a smaller size of QDs result in the maximum generation rate. From an experimental perspective, we propose that the optimal arrangement of QDs in such solar cells is a 0.5 volume fraction with a QD diameter of 2 nm.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.app-ph"
+}

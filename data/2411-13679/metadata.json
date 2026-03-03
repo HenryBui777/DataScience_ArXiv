@@ -1,0 +1,14 @@
+{
+  "title": "Characterising exchange of stability in scalar reaction-diffusion equations via geometric blow-up",
+  "authors": [
+    "Samuel Jelbart",
+    "Christian Kuehn",
+    "Alejandro Martínez Sánchez"
+  ],
+  "summary": "We study the exchange of stability in scalar reaction-diffusion equations which feature a slow passage through transcritical and pitchfork type singularities in the reaction term, using a novel adaptation of the geometric blow-up method. Our results are consistent with known results on bounded spatial domains which were obtained by Butuzov, Nefedov & Schneider using comparison principles like upper and lower solutions in [7], however, from a methodological point of view, the approach is motivated by the analysis of closely related ODE problems using geometric blow-up presented by Krupa & Szmolyan in [34]. After applying the blow-up transformation, we obtain a system of PDEs which can be studied in local coordinate charts. Importantly, the blow-up procedure resolves a spectral degeneracy in which continuous spectrum along the entire negative real axis is 'pushed back' so as to create a spectral gap in the linearisation about particular steady states which arise within the so-called entry and exit charts. This makes it possible to extend slow-type invariant manifolds into and out of a neighbourhood of the singular point using center manifold theory, in a manner which is conceptually analogous to the established approach in the ODE setting. We expect that the approach can be adapted and applied to the study of dynamic bifurcations in PDEs in a wide variety of different contexts.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.DS, math.AP"
+}

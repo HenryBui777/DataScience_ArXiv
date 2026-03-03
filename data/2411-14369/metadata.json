@@ -1,0 +1,16 @@
+{
+  "title": "Model Checking and Verification of Synchronisation Properties of Cobot Welding",
+  "authors": [
+    "Yvonne Murray",
+    "Henrik Nordlie",
+    "David A. Anisi",
+    "Pedro Ribeiro",
+    "Ana Cavalcanti"
+  ],
+  "summary": "This paper describes use of model checking to verify synchronisation properties of an industrial welding system consisting of a cobot arm and an external turntable. The robots must move synchronously, but sometimes get out of synchronisation, giving rise to unsatisfactory weld qualities in problem areas, such as around corners. These mistakes are costly, since time is lost both in the robotic welding and in manual repairs needed to improve the weld. Verification of the synchronisation properties has shown that they are fulfilled as long as assumptions of correctness made about parts outside the scope of the model hold, indicating limitations in the hardware. These results have indicated the source of the problem, and motivated a re-calibration of the real-life system. This has drastically improved the welding results, and is a demonstration of how formal methods can be useful in an industrial setting.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "EPTCS 411, 2024, pp. 91-108",
+  "pdf_url": null,
+  "category": "cs.RO, cs.MA, cs.SE"
+}

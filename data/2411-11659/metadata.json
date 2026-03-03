@@ -1,0 +1,16 @@
+{
+  "title": "Improving Data Curation of Software Vulnerability Patches through Uncertainty Quantification",
+  "authors": [
+    "Hui Chen",
+    "Yunhua Zhao",
+    "Kostadin Damevski"
+  ],
+  "summary": "The changesets (or patches) that fix open source software vulnerabilities form critical datasets for various machine learning security-enhancing applications, such as automated vulnerability patching and silent fix detection. These patch datasets are derived from extensive collections of historical vulnerability fixes, maintained in databases like the Common Vulnerabilities and Exposures list and the National Vulnerability Database. However, since these databases focus on rapid notification to the security community, they contain significant inaccuracies and omissions that have a negative impact on downstream software security quality assurance tasks.\n  In this paper, we propose an approach employing Uncertainty Quantification (UQ) to curate datasets of publicly-available software vulnerability patches. Our methodology leverages machine learning models that incorporate UQ to differentiate between patches based on their potential utility. We begin by evaluating a number of popular UQ techniques, including Vanilla, Monte Carlo Dropout, and Model Ensemble, as well as homoscedastic and heteroscedastic models of noise. Our findings indicate that Model Ensemble and heteroscedastic models are the best choices for vulnerability patch datasets. Based on these UQ modeling choices, we propose a heuristic that uses UQ to filter out lower quality instances and select instances with high utility value from the vulnerability dataset. Using our approach, we observe an improvement in predictive performance and a significant reduction of model training time (i.e., energy consumption) for a state-of-the-art vulnerability prediction model.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-09-19"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SE"
+}

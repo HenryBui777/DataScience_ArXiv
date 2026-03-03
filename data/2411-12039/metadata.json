@@ -1,0 +1,18 @@
+{
+  "title": "Fast and Automated Optical Polarization Compensation of Fiber Unitaries",
+  "authors": [
+    "Niklas Braband",
+    "Arman Mansouri",
+    "Riza Fazili",
+    "Stefanie Czischek",
+    "Jeff S. Lundeen"
+  ],
+  "summary": "The polarization of light is critical in various applications, including quantum communication, where the photon polarization encoding a qubit can undergo uncontrolled changes when transmitted through optical fibers. Bends in the fiber, internal and external stresses, and environmental factors cause these polarization changes, which lead to errors and therein limit the range of quantum communication. To prevent this, we present a fast and automated method for polarization compensation using liquid crystals. This approach combines polarimetry based on a rotating quarter-waveplate with high-speed control of the liquid-crystal cell, offering high-fidelity compensation suitable for diverse applications. Our method directly solves for compensation parameters, avoiding reliance on stochastic approaches or cryptographic metrics. Experimental results demonstrate that our method achieves over 99% fidelity within an average of fewer than six iterations, with further fine-tuning to reach above 99.5% fidelity, providing a robust solution for maintaining precise polarization states in optical systems.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-05-15"
+  ],
+  "publication_venue": "Rev. Sci. Instrum. 96, 063101 (2025)",
+  "pdf_url": null,
+  "category": "quant-ph, physics.optics"
+}

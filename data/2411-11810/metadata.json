@@ -1,0 +1,12 @@
+{
+  "title": "Projection onto the core: An optimal reallocation to correct market failure",
+  "authors": [
+    "Dylan Laplace Mermoud"
+  ],
+  "summary": "This paper provides formulae and algorithms to compute the projection onto the core of a preimputation outside it. The core of a game is described using an exponential number of linear constraints, and we cannot know beforehand which are redundant or defining the polytope. We apply these new results to market games, a class of games in which every game has a nonempty core. Given an initial state of the game represented by a preimputation, it is not guaranteed that the state of the game evolves toward the core following the dynamics induced by the domination relations. Our results identify and compute the most efficient side payment that acts on a given state of the game and yields its closest core allocation. Using this side payment, we propose a way to evaluate the failure of a market to reach a state of the economy belonging to the core, and we propose a new solution concept consisting of preimputations that minimizes this failure.",
+  "submission_date": "2024-11-05",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.MG, econ.TH"
+}

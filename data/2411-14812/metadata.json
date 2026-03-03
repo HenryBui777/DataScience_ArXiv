@@ -1,0 +1,17 @@
+{
+  "title": "Lattice gradient flows (de-)stabilizing topological sectors",
+  "authors": [
+    "Yuya Tanizaki",
+    "Akio Tomiya",
+    "Hiromasa Watanabe"
+  ],
+  "summary": "We investigate the stability of topological charge under gradient flow taking the admissibility condition into account. For the $SU(2)$ Wilson gauge theory with $β=2.45$ and $L^4=12^4$, we numerically show that the gradient flows with the Iwasaki and DBW2 gauge actions stabilize the topological sectors significantly, and they have qualitatively different behaviors compared with the Wilson and tree-level Symanzik flows. By considering the classical continuum limit of the flow actions, we discuss that the coefficient of dimension-$6$ operators has to be positive for stabilizing the one-instanton configuration, and the Iwasaki and DBW2 actions satisfy this criterion while the Wilson and Symanzik actions do not. Moreover, we observe that the DBW2 flow stabilizes the topological sectors at the very early stage of the flow ($\\hat{t}\\approx 0.5$--$1$), suggesting that a further systematic investigation of the DBW2 flow is warranted to confirm its computational efficiency in determining the gauge topology.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-12-09",
+    "2025-03-20"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "hep-lat, hep-th, nucl-th"
+}

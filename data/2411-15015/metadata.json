@@ -1,0 +1,16 @@
+{
+  "title": "A Constant Measurement Quantum Algorithm for Graph Connectivity",
+  "authors": [
+    "Maximilian Balthasar Mansky",
+    "Chonfai Kam",
+    "Claudia Linnhoff-Popien"
+  ],
+  "summary": "We introduce a novel quantum algorithm for determining graph connectedness using a constant number of measurements. The algorithm can be extended to find connected components with a linear number of measurements. It relies on non-unitary abelian gates taken from ZX calculus. Due to the fusion rule, the two-qubit gates correspond to a large single action on the qubits. The algorithm is general and can handle any undirected graph, including those with repeated edges and self-loops. The depth of the algorithm is variable, depending on the graph, and we derive upper and lower bounds. The algorithm exhibits a state decay that can be remedied with ancilla qubits. We provide a numerical simulation of the algorithm.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-12-04"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

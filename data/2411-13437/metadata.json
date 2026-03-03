@@ -1,0 +1,19 @@
+{
+  "title": "Improved fluxonium readout through dynamic flux pulsing",
+  "authors": [
+    "Taryn V. Stefanski",
+    "Figen Yilmaz",
+    "Eugene Y. Huang",
+    "Martijn F. S. Zwanenburg",
+    "Siddharth Singh",
+    "Siyu Wang",
+    "Lukas J. Splitthoff",
+    "Christian Kraglund Andersen"
+  ],
+  "summary": "The ability to perform rapid, high fidelity readout of a qubit state is an important requirement for quantum algorithms and, in particular, for enabling operations such as mid-circuit measurements and measurement-based feedback for error correction schemes on large quantum processors. The growing interest in fluxonium qubits, due to their long coherence times and high anharmonicity, merits further attention to reducing the readout duration and measurement errors. We find that this can be accomplished by exploiting the flux tunability of fluxonium qubits. In this work, we experimentally demonstrate flux-pulse-assisted readout, as proposed in Phys. Rev. Applied 22, 014079 (https://doi.org/10.1103/PhysRevApplied.22.014079), in a setup without a quantum-limited parametric amplifier. Increasing the dispersive shift magnitude by almost 20% through flux pulsing, we achieve an assignment fidelity of 94.3% with an integration time of 280 ns. The readout performance is limited by state initialization, but we find that the limit imposed only by the signal-to-noise ratio corresponds to an assignment fidelity of 99.9% with a 360 ns integration time. We also verify these results through simple semi-classical simulations. These results constitute the fastest reported readout of a fluxonium qubit, with the prospect of further improvement by incorporation of a parametric amplifier in the readout chain to enhance measurement efficiency.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

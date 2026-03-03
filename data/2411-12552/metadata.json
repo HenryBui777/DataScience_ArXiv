@@ -1,0 +1,16 @@
+{
+  "title": "The corotational stability postulate: positive incremental Cauchy stress moduli for diagonal, homogeneous deformations in isotropic nonlinear elasticity",
+  "authors": [
+    "Patrizio Neff",
+    "Nina J. Husemann",
+    "Aurélien S. Nguetcho Tchakoutio",
+    "Sergey N. Korobeynikov",
+    "Robert J. Martin"
+  ],
+  "summary": "In isotropic nonlinear elasticity the corotational stability postulate (CSP) is the requirement that \\begin{equation*}\n  \\langle\\frac{\\mathrm{D}^{\\circ}}{\\mathrm{D} t}[σ] , D \\rangle > 0 \\quad \\forall \\ D \\in \\text{Sym}(3)\\setminus \\{0\\} \\, , \\end{equation*} where $\\frac{\\mathrm{D}^{\\circ}}{\\mathrm{D} t}$ is any corotational stress rate, $σ$ is the Cauchy stress and $D = \\text{Sym} \\, L$, condition $L= \\dot{F} \\, F^{-1}$ is the deformation rate tensor. For $\\widehatσ(\\log V) := σ(V)$ it is equivalent to the monotonicity (TSTS-M$^+$) \\begin{equation*}\n  \\langle \\widehatσ (\\log V_1) - \\widehatσ (\\log V_2) , \\log V_1 - \\log V_2 \\rangle > 0 \\quad \\forall \\ V_1, V_2 \\in \\text{Sym}^{++}(3), \\ V_1 \\neq V_2 \\, . \\end{equation*} For hyperelasticity, (CSP) is in general independent of convexity of the mapping $F \\mapsto \\mathrm{W}(F)$ or $U \\mapsto \\widehat{\\mathrm{W}}(U)$. Considering a family of diagonal, homogeneous deformations $t \\mapsto F(t)$ one can, nevertheless, show that (CSP) implies positive incremental Cauchy stress moduli for this deformation family, including the incremental Young's modulus, the incremental equibiaxial modulus, the incremental planar tension modulus and the incremental bulk modulus. Aside, (CSP) is sufficient for the Baker-Ericksen and tension-extension inequality. Moreover, it implies local invertibility of the Cauchy stress-stretch relation. Together, this shows that (CSP) is a reasonable constitutive stability postulate in nonlinear elasticity, complementing local material stability viz. LH-ellipticity.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AP"
+}

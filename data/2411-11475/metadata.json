@@ -1,0 +1,16 @@
+{
+  "title": "MVLight: Relightable Text-to-3D Generation via Light-conditioned Multi-View Diffusion",
+  "authors": [
+    "Dongseok Shim",
+    "Yichun Shi",
+    "Kejie Li",
+    "H. Jin Kim",
+    "Peng Wang"
+  ],
+  "summary": "Recent advancements in text-to-3D generation, building on the success of high-performance text-to-image generative models, have made it possible to create imaginative and richly textured 3D objects from textual descriptions. However, a key challenge remains in effectively decoupling light-independent and lighting-dependent components to enhance the quality of generated 3D models and their relighting performance. In this paper, we present MVLight, a novel light-conditioned multi-view diffusion model that explicitly integrates lighting conditions directly into the generation process. This enables the model to synthesize high-quality images that faithfully reflect the specified lighting environment across multiple camera views. By leveraging this capability to Score Distillation Sampling (SDS), we can effectively synthesize 3D models with improved geometric precision and relighting capabilities. We validate the effectiveness of MVLight through extensive experiments and a user study.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

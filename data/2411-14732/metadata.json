@@ -1,0 +1,15 @@
+{
+  "title": "Constant-Potential Machine Learning Molecular Dynamics Simulations Reveal Potential-Regulated Cu Cluster Formation on MoS$_{2}$",
+  "authors": [
+    "Jingwen Zhou",
+    "Yunsong Fu",
+    "Ling Liu",
+    "Chungen Liu"
+  ],
+  "summary": "Electrochemical processes play a crucial role in energy storage and conversion systems, yet their computational modeling remains a significant challenge. Accurately incorporating the effects of electric potential has been a central focus in theoretical electrochemistry. Although constant-potential ab initio molecular dynamics (CP-AIMD) has provided valuable insights, it is limited by its substantial computational demands. Here, we introduce the Explicit Electric Potential Machine Learning Force Field (EEP-MLFF) model. Our model integrates the electric potential as an explicit input parameter along with the atom-centered descriptors in the atomic neural network. This approach enables the evaluation of nuclear forces under arbitrary electric potentials, thus facilitating molecular dynamics simulations at a specific potential. By applying the proposed machine learning method to the Cu/1T$^{\\prime}$-MoS$_{2}$ system, molecular dynamics simulations reveal that the potential-modulated Cu atom migration and aggregation lead to the formation of small steric Cu clusters (Single Clusters, SCs) at potentials below -0.1 V. The morphological transformations of adsorbed Cu atoms are elucidated through electronic structure analyses, which demonstrates that both Cu-S and Cu-Cu bonding can be effectively tuned by the applied electric potential. Our findings present an opportunity for the convenient manufacture of single metal cluster catalysts through potential modulation. Moreover, this theoretical framework facilitates the exploration of potential-regulated processes and helps investigate the mechanisms of electrochemical reactions.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.chem-ph, cond-mat.mtrl-sci"
+}

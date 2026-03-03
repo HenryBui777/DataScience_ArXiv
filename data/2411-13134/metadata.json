@@ -1,0 +1,15 @@
+{
+  "title": "Approximating Spatial Distance Through Confront Networks: Application to the Segmentation of Medieval Avignon",
+  "authors": [
+    "Margot Ferrand",
+    "Vincent Labatut"
+  ],
+  "summary": "In historical studies, the older the sources, the more common it is to have access to data that are only partial, and/or unreliable or imprecise. This can make it difficult, or even impossible, to perform certain tasks of interest, such as the segmentation of some urban space based on the location of its constituting elements. Indeed, traditional approaches to tackle this specific task require knowing the position of all these elements before clustering them. Yet, alternative information is sometimes available, which can be leveraged to address this challenge. For instance, in the Middle Ages, land registries typically do not provide exact addresses, but rather locate spatial objects relative to each other, e.g. x being to the North of y. Spatial graphs are particularly adapted to model such spatial relationships, called confronts, which is why we propose their use over standard tabular databases. However, historical data are rich and allow extracting confront networks in many ways, making the process non-trivial. In this article, we propose several extraction methods and compare them to identify the most appropriate. We postulate that the best candidate must constitute an optimal trade-off between covering as much of the original data as possible, and providing the best graph-based approximation of spatial distance. Leveraging a dataset that describes Avignon during its papal period, we show empirically that the best results require ignoring some of the information present in the original historical sources, and that including additional information from secondary sources significantly improves the confront network. We illustrate the relevance of our method by partitioning the best graph that we extracted, and discussing its community structure in terms of urban space organization, from a historical perspective. Our data and source code are both publicly available online.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-01-01"
+  ],
+  "publication_venue": "Journal of Complex Networks, 13(1):cnae046, 2025",
+  "pdf_url": null,
+  "category": "cs.SI"
+}

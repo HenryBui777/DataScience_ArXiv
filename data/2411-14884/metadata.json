@@ -1,0 +1,16 @@
+{
+  "title": "Uncertain standard quadratic optimization under distributional assumptions: a chance-constrained epigraphic approach",
+  "authors": [
+    "Immanuel M. Bomze",
+    "Daniel de Vicente"
+  ],
+  "summary": "The standard quadratic optimization problem (StQP) consists of minimizing a quadratic form over the standard simplex. Without convexity or concavity of the quadratic form, the StQP is NP-hard. This problem has many relevant real-life applications ranging portfolio optimization to pairwise clustering and replicator dynamics. Sometimes, the data matrix is uncertain. We investigate models where the distribution of the data matrix is known but where both the StQP after realization of the data matrix and the here-and-now problem are indefinite. We test the performance of a chance-constrained epigraphic StQP to the uncertain StQP.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-11-27",
+    "2025-04-09"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC"
+}

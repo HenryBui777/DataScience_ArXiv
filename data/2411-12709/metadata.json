@@ -1,0 +1,17 @@
+{
+  "title": "Dimensions of Generative AI Evaluation Design",
+  "authors": [
+    "P. Alex Dow",
+    "Jennifer Wortman Vaughan",
+    "Solon Barocas",
+    "Chad Atalla",
+    "Alexandra Chouldechova",
+    "Hanna Wallach"
+  ],
+  "summary": "There are few principles or guidelines to ensure evaluations of generative AI (GenAI) models and systems are effective. To help address this gap, we propose a set of general dimensions that capture critical choices involved in GenAI evaluation design. These dimensions include the evaluation setting, the task type, the input source, the interaction style, the duration, the metric type, and the scoring method. By situating GenAI evaluations within these dimensions, we aim to guide decision-making during GenAI evaluation design and provide a structure for comparing different evaluations. We illustrate the utility of the proposed set of general dimensions using two examples: a hypothetical evaluation of the fairness of a GenAI system and three real-world GenAI evaluations of biological threats.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CY"
+}

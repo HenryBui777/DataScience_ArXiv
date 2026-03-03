@@ -1,0 +1,14 @@
+{
+  "title": "MOANA: Multi-Objective Ant Nesting Algorithm for Optimization Problems",
+  "authors": [
+    "Noor A. Rashed",
+    "Yossra H. Ali Tarik A. Rashid",
+    "Seyedali Mirjalili"
+  ],
+  "summary": "This paper presents the Multi-Objective Ant Nesting Algorithm (MOANA), a novel extension of the Ant Nesting Algorithm (ANA), specifically designed to address multi-objective optimization problems (MOPs). MOANA incorporates adaptive mechanisms, such as deposition weight parameters, to balance exploration and exploitation, while a polynomial mutation strategy ensures diverse and high-quality solutions. The algorithm is evaluated on standard benchmark datasets, including ZDT functions and the IEEE Congress on Evolutionary Computation (CEC) 2019 multi-modal benchmarks. Comparative analysis against state-of-the-art algorithms like MOPSO, MOFDO, MODA, and NSGA-III demonstrates MOANA's superior performance in terms of convergence speed and Pareto front coverage. Furthermore, MOANA's applicability to real-world engineering optimization, such as welded beam design, showcases its ability to generate a broad range of optimal solutions, making it a practical tool for decision-makers. MOANA addresses key limitations of traditional evolutionary algorithms by improving scalability and diversity in multi-objective scenarios, positioning it as a robust solution for complex optimization tasks.",
+  "submission_date": "2024-11-08",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.NE"
+}

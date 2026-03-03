@@ -1,0 +1,15 @@
+{
+  "title": "Generative Spatio-temporal GraphNet for Transonic Wing Pressure Distribution Forecasting",
+  "authors": [
+    "Gabriele Immordino",
+    "Andrea Vaiuso",
+    "Andrea Da Ronch",
+    "Marcello Righi"
+  ],
+  "summary": "This study presents a framework for predicting unsteady transonic wing pressure distributions, integrating an autoencoder architecture with graph convolutional networks and graph-based temporal layers to model time dependencies. The framework compresses high-dimensional pressure distribution data into a lower-dimensional latent space using an autoencoder, ensuring efficient data representation while preserving essential features. Within this latent space, graph-based temporal layers are employed to predict future wing pressures based on past data, effectively capturing temporal dependencies and improving predictive accuracy. This combined approach leverages the strengths of autoencoders for dimensionality reduction, graph convolutional networks for handling unstructured grid data, and temporal layers for modeling time-based sequences. The effectiveness of the proposed framework is validated through its application to the Benchmark Super Critical Wing test case, achieving accuracy comparable to computational fluid dynamics, while significantly reducing prediction time. This framework offers a scalable, computationally efficient solution for the aerodynamic analysis of unsteady phenomena.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.CE"
+}

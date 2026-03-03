@@ -1,0 +1,20 @@
+{
+  "title": "TSINR: Capturing Temporal Continuity via Implicit Neural Representations for Time Series Anomaly Detection",
+  "authors": [
+    "Mengxuan Li",
+    "Ke Liu",
+    "Hongyang Chen",
+    "Jiajun Bu",
+    "Hongwei Wang",
+    "Haishuai Wang"
+  ],
+  "summary": "Time series anomaly detection aims to identify unusual patterns in data or deviations from systems' expected behavior. The reconstruction-based methods are the mainstream in this task, which learn point-wise representation via unsupervised learning. However, the unlabeled anomaly points in training data may cause these reconstruction-based methods to learn and reconstruct anomalous data, resulting in the challenge of capturing normal patterns. In this paper, we propose a time series anomaly detection method based on implicit neural representation (INR) reconstruction, named TSINR, to address this challenge. Due to the property of spectral bias, TSINR enables prioritizing low-frequency signals and exhibiting poorer performance on high-frequency abnormal data. Specifically, we adopt INR to parameterize time series data as a continuous function and employ a transformer-based architecture to predict the INR of given data. As a result, the proposed TSINR method achieves the advantage of capturing the temporal continuity and thus is more sensitive to discontinuous anomaly data. In addition, we further design a novel form of INR continuous function to learn inter- and intra-channel information, and leverage a pre-trained large language model to amplify the intense fluctuations in anomalies. Extensive experiments demonstrate that TSINR achieves superior overall performance on both univariate and multivariate time series anomaly detection benchmarks compared to other state-of-the-art reconstruction-based methods. Our codes are available.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-20",
+    "2025-05-15"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI"
+}

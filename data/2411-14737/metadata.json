@@ -1,0 +1,13 @@
+{
+  "title": "AI Tailoring: Evaluating Influence of Image Features on Fashion Product Popularity",
+  "authors": [
+    "Xiaomin Li",
+    "Junyi Sha"
+  ],
+  "summary": "Identifying key product features that influence consumer preferences is essential in the fashion industry. In this study, we introduce a robust methodology to ascertain the most impactful features in fashion product images, utilizing past market sales data. First, we propose the metric called \"influence score\" to quantitatively assess the importance of product features. Then we develop a forecasting model, the Fashion Demand Predictor (FDP), which integrates Transformer-based models and Random Forest to predict market popularity based on product images. We employ image-editing diffusion models to modify these images and perform an ablation study, which validates the impact of the highest and lowest-scoring features on the model's popularity predictions. Additionally, we further validate these results through surveys that gather human rankings of preferences, confirming the accuracy of the FDP model's predictions and the efficacy of our method in identifying influential features. Notably, products enhanced with \"good\" features show marked improvements in predicted popularity over their modified counterparts. Our approach develops a fully automated and systematic framework for fashion image analysis that provides valuable guidance for downstream tasks such as fashion product design and marketing strategy development.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.LG"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Topology optimization of periodic lattice structures for specified mechanical properties using machine learning considering member connectivity",
+  "authors": [
+    "Tomoya Matsuoka",
+    "Makoto Ohsaki",
+    "Kazuki Hayashi"
+  ],
+  "summary": "This study proposes a methodology to utilize machine learning (ML) for topology optimization of periodic lattice structures. In particular, we investigate data representation of lattice structures used as input data for ML models to improve the performance of the models, focusing on the filtering process and feature selection. We use the filtering technique to explicitly consider the connectivity of lattice members and perform feature selection to reduce the input data size. In addition, we propose a convolution approach to apply pre-trained models for small structures to structures of larger sizes. The computational cost for obtaining optimal topologies by a heuristic method is reduced by incorporating the prediction of the trained ML model into the optimization process. In the numerical examples, a response prediction model is constructed for a lattice structure of 4x4 units, and topology optimization of 4x4-unit and 8x8-unit structures is performed by simulated annealing assisted by the trained ML model. The example demonstrates that ML models perform higher accuracy by using the filtered data as input than by solely using the data representing the existence of each member. It is also demonstrated that a small-scale prediction model can be constructed with sufficient accuracy by feature selection. Additionally, the proposed method can find the optimal structure in less computation time than the pure simulated annealing.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC, cs.LG"
+}

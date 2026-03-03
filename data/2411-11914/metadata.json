@@ -1,0 +1,16 @@
+{
+  "title": "Stack-Sorting with Dotted-Pattern-Avoiding Stacks",
+  "authors": [
+    "Hansen Shieh",
+    "Michael Yang",
+    "Ashley Yu"
+  ],
+  "summary": "In this paper, we introduce the dotted pattern-avoiding map $s_{\\dotτ}$, which avoids the dotted pattern $\\dotτ$ instead of descents as West's stack-sorting map $s$ does. We also extend the pattern-avoiding machine, which is composed of a $σ$ avoiding map and West's stack-sorting map $s$, to the dotted pattern-avoiding machine. In this paper, we prove the analogs of the classical results on West's stack sorting map for the length $2$ dotted pattern-avoiding maps. We end with several conjectures.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-06-23"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.CO"
+}

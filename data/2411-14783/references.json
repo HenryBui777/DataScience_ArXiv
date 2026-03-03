@@ -1,0 +1,300 @@
+{
+  "2310-05672": {
+    "title": "Multi-timestep models for Model-based Reinforcement Learning",
+    "authors": [
+      "Abdelhakim Benechehab",
+      "Giuseppe Paolo",
+      "Albert Thomas",
+      "Maurizio Filippone",
+      "Bal'azs K'egl"
+    ],
+    "publication_date": "2023-10-09",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "182c8e48d08b8ff29f0854fe903b3bae8e0c999d",
+    "corpus_id": 263829939,
+    "category": "Computer Science, Mathematics"
+  },
+  "2111-00206": {
+    "title": "One Step at a Time: Pros and Cons of Multi-Step Meta-Gradient Reinforcement Learning",
+    "authors": [
+      "Clément Bonnet",
+      "Paul Caron",
+      "Thomas D. Barrett",
+      "Ian Davies",
+      "Alexandre Laterre"
+    ],
+    "publication_date": "2021-10-30",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "00e9ab769b04ee1cf3a908e09c790742c2947299",
+    "corpus_id": 240354781,
+    "category": "Computer Science"
+  },
+  "2009-09593": {
+    "title": "Dynamic Horizon Value Estimation for Model-based Reinforcement Learning",
+    "authors": [
+      "Junjie Wang",
+      "Qichao Zhang",
+      "Dongbin Zhao",
+      "Mengchen Zhao",
+      "Jianye Hao"
+    ],
+    "publication_date": "2020-09-21",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "f18cd315123f59f6d168188019071b582bf409b6",
+    "corpus_id": 221818736,
+    "category": "Computer Science"
+  },
+  "2008-10040": {
+    "title": "Adaptive and Multiple Time-scale Eligibility Traces for Online Deep Reinforcement Learning",
+    "authors": [
+      "Taisuke Kobayashi"
+    ],
+    "publication_date": "2020-08-23",
+    "venue": "Robotics Auton. Syst.",
+    "semantic_scholar_id": "f255c12b60b0a77125fd4574c78eff1a6554743d",
+    "corpus_id": 221266024,
+    "category": "Computer Science"
+  },
+  "2007-02040": {
+    "title": "Discount Factor as a Regularizer in Reinforcement Learning",
+    "authors": [
+      "Ron Amit",
+      "R. Meir",
+      "K. Ciosek"
+    ],
+    "publication_date": "2020-07-04",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "6942aa5539b0ca8534f1acdf195ac967db01dd30",
+    "corpus_id": 220364104,
+    "category": "Mathematics, Computer Science"
+  },
+  "1912-06680": {
+    "title": "Dota 2 with Large Scale Deep Reinforcement Learning",
+    "authors": [
+      "Christopher Berner",
+      "Greg Brockman",
+      "Brooke Chan",
+      "Vicki Cheung",
+      "Przemyslaw Debiak",
+      "Christy Dennison",
+      "David Farhi",
+      "Quirin Fischer",
+      "Shariq Hashme",
+      "Christopher Hesse",
+      "R. Józefowicz",
+      "Scott Gray",
+      "Catherine Olsson",
+      "J. Pachocki",
+      "Michael Petrov",
+      "Henrique Pondé de Oliveira Pinto",
+      "Jonathan Raiman",
+      "Tim Salimans",
+      "Jeremy Schlatter",
+      "Jonas Schneider",
+      "Szymon Sidor",
+      "I. Sutskever",
+      "Jie Tang",
+      "Filip Wolski",
+      "Susan Zhang"
+    ],
+    "publication_date": "2019-12-13",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "b19729b27a1b4c24b52f87308c907653300afa7f",
+    "corpus_id": 209376771,
+    "category": "Computer Science, Mathematics"
+  },
+  "1902-06865": {
+    "title": "Hyperbolic Discounting and Learning over Multiple Horizons",
+    "authors": [
+      "W. Fedus",
+      "Carles Gelada",
+      "Yoshua Bengio",
+      "Marc G. Bellemare",
+      "H. Larochelle"
+    ],
+    "publication_date": "2019-02-19",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "c3f13bcbd19ed1082f95cb042f8f4dd593b12764",
+    "corpus_id": 67788222,
+    "category": "Computer Science, Mathematics"
+  },
+  "1902-01883": {
+    "title": "Separating value functions across time-scales",
+    "authors": [
+      "Joshua Romoff",
+      "Peter Henderson",
+      "Ahmed Touati",
+      "Y. Ollivier",
+      "E. Brunskill",
+      "Joelle Pineau"
+    ],
+    "publication_date": "2019-02-05",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "5dd064334057eaf1ecf19bb31ade3cd032dc205c",
+    "corpus_id": 59606236,
+    "category": "Computer Science, Mathematics"
+  },
+  "1810-02525": {
+    "title": "Where Did My Optimum Go?: An Empirical Analysis of Gradient Descent Optimization in Policy Gradient Methods",
+    "authors": [
+      "Peter Henderson",
+      "Joshua Romoff",
+      "Joelle Pineau"
+    ],
+    "publication_date": "2018-10-05",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "a02ed13d218b62ae2045ae822db94cde3c5f94a2",
+    "corpus_id": 52928952,
+    "category": "Computer Science, Mathematics"
+  },
+  "1805-09801": {
+    "title": "Meta-Gradient Reinforcement Learning",
+    "authors": [
+      "Zhongwen Xu",
+      "H. V. Hasselt",
+      "David Silver"
+    ],
+    "publication_date": "2018-05-24",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "2a49a71c9d40051a03c4445fe49025bc75d9eeb6",
+    "corpus_id": 43966764,
+    "category": "Computer Science, Mathematics"
+  },
+  "1709-06683": {
+    "title": "OptionGAN: Learning Joint Reward-Policy Options using Generative Adversarial Inverse Reinforcement Learning",
+    "authors": [
+      "Peter Henderson",
+      "Wei-Di Chang",
+      "Pierre-Luc Bacon",
+      "D. Meger",
+      "Joelle Pineau",
+      "Doina Precup"
+    ],
+    "publication_date": "2017-09-01",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "90356d78db11e14645a96d8483268ce585dbb0c3",
+    "corpus_id": 7079525,
+    "category": "Computer Science, Mathematics"
+  },
+  "1707-06347": {
+    "title": "Proximal Policy Optimization Algorithms",
+    "authors": [
+      "John Schulman",
+      "Filip Wolski",
+      "Prafulla Dhariwal",
+      "Alec Radford",
+      "Oleg Klimov"
+    ],
+    "publication_date": "2017-07-20",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "dce6f9d4017b1785979e7520fd0834ef8cf02f4b",
+    "corpus_id": 28695052,
+    "category": "Computer Science"
+  },
+  "1706-04208": {
+    "title": "Hybrid Reward Architecture for Reinforcement Learning",
+    "authors": [
+      "H. V. Seijen",
+      "Mehdi Fatemi",
+      "R. Laroche",
+      "Joshua Romoff",
+      "Tavian Barnes",
+      "Jeffrey Tsang"
+    ],
+    "publication_date": "2017-06-13",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "3c63f8b8263cd6cc4c8c7429d46bb656accddc49",
+    "corpus_id": 2294751,
+    "category": "Mathematics, Computer Science"
+  },
+  "1606-01868": {
+    "title": "Unifying Count-Based Exploration and Intrinsic Motivation",
+    "authors": [
+      "Marc G. Bellemare",
+      "S. Srinivasan",
+      "Georg Ostrovski",
+      "T. Schaul",
+      "D. Saxton",
+      "R. Munos"
+    ],
+    "publication_date": "2016-06-06",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "6e90fd78e8a3b98af3954aae5209703aa966603e",
+    "corpus_id": 8310565,
+    "category": "Computer Science"
+  },
+  "1602-01783": {
+    "title": "Asynchronous Methods for Deep Reinforcement Learning",
+    "authors": [
+      "Volodymyr Mnih",
+      "Adrià Puigdomènech Badia",
+      "Mehdi Mirza",
+      "Alex Graves",
+      "T. Lillicrap",
+      "Tim Harley",
+      "David Silver",
+      "K. Kavukcuoglu"
+    ],
+    "publication_date": "2016-02-04",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "69e76e16740ed69f4dc55361a3d319ac2f1293dd",
+    "corpus_id": 6875312,
+    "category": "Computer Science, Mathematics"
+  },
+  "1512-02011": {
+    "title": "How to Discount Deep Reinforcement Learning: Towards New Dynamic Strategies",
+    "authors": [
+      "Vincent François-Lavet",
+      "R. Fonteneau",
+      "D. Ernst"
+    ],
+    "publication_date": "2015-12-07",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "ad84eaa48d082cc1d41a062007ad996ebc18a6b7",
+    "corpus_id": 56895,
+    "category": "Computer Science"
+  },
+  "1506-02438": {
+    "title": "High-Dimensional Continuous Control Using Generalized Advantage Estimation",
+    "authors": [
+      "John Schulman",
+      "Philipp Moritz",
+      "S. Levine",
+      "Michael I. Jordan",
+      "P. Abbeel"
+    ],
+    "publication_date": "2015-06-08",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "d316c82c12cf4c45f9e85211ef3d1fa62497bff8",
+    "corpus_id": 3075448,
+    "category": "Computer Science, Mathematics"
+  },
+  "1312-5602": {
+    "title": "Playing Atari with Deep Reinforcement Learning",
+    "authors": [
+      "Volodymyr Mnih",
+      "K. Kavukcuoglu",
+      "David Silver",
+      "Alex Graves",
+      "Ioannis Antonoglou",
+      "D. Wierstra",
+      "Martin A. Riedmiller"
+    ],
+    "publication_date": "2013-12-19",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "2319a491378867c7049b3da055c5df60e1671158",
+    "corpus_id": 15238391,
+    "category": "Computer Science"
+  },
+  "cs/9905014": {
+    "title": "Hierarchical Reinforcement Learning with the MAXQ Value Function Decomposition",
+    "authors": [
+      "Thomas G. Dietterich"
+    ],
+    "publication_date": "1999-05-21",
+    "venue": "Journal of Artificial Intelligence Research",
+    "semantic_scholar_id": "4c96ca25d889251e20e33d01f24eec175301ab94",
+    "corpus_id": 57341,
+    "category": "Computer Science"
+  }
+}

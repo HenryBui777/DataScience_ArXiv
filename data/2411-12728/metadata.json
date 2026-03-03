@@ -1,0 +1,13 @@
+{
+  "title": "Information Theory of Meaningful Communication",
+  "authors": [
+    "Doron Sivan",
+    "Misha Tsodyks"
+  ],
+  "summary": "In Shannon's seminal paper, entropy of printed English, treated as a stationary stochastic process, was estimated to be roughly 1 bit per character. However, considered as a means of communication, language differs considerably from its printed form: (i) the units of information are not characters or even words but clauses, i.e. shortest meaningful parts of speech; and (ii) what is transmitted is principally the meaning of what is being said or written, while the precise phrasing that was used to communicate the meaning is typically ignored. In this study, we show that one can leverage recently developed large language models to quantify information communicated in meaningful narratives in terms of bits of meaning per clause.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.IT"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Guiding Word Equation Solving using Graph Neural Networks (Extended Technical Report)",
+  "authors": [
+    "Parosh Aziz Abdulla",
+    "Mohamed Faouzi Atig",
+    "Julie Cailler",
+    "Chencheng Liang",
+    "Philipp Rümmer"
+  ],
+  "summary": "This paper proposes a Graph Neural Network-guided algorithm for solving word equations, based on the well-known Nielsen transformation for splitting equations. The algorithm iteratively rewrites the first terms of each side of an equation, giving rise to a tree-like search space. The choice of path at each split point of the tree significantly impacts solving time, motivating the use of Graph Neural Networks (GNNs) for efficient split decision-making. Split decisions are encoded as multi-classification tasks, and five graph representations of word equations are introduced to encode their structural information for GNNs. The algorithm is implemented as a solver named DragonLi. Experiments are conducted on artificial and real-world benchmarks. The algorithm performs particularly well on satisfiable problems. For single word \\mbox{equations}, DragonLi can solve significantly more problems than well-established string solvers. For the conjunction of multiple word equations, DragonLi is competitive with state-of-the-art string solvers.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI, cs.CL, cs.LO"
+}

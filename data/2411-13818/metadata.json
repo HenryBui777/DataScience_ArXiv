@@ -1,0 +1,16 @@
+{
+  "title": "Proof of Merca's stronger conjecture on truncated Jacobi triple product series",
+  "authors": [
+    "Xiangyu Ding",
+    "Lisa Hui Sun"
+  ],
+  "summary": "In the study of theta series and partition functions, Andrews and Merca, Guo and Zeng independently conjectured that a truncated Jacobi triple product series has nonnegative coefficients. This conjecture was proved analytically by Mao and combinatorially by Yee. In 2021, Merca proposed a stronger version of the conjecture, that is, for positive integers $1\\leq S<R$ with $k\\geq 1$, the coefficient of $q^n$ in\n  the theta series\n  \\[\n  \\frac{(-1)^{k} \\sum_{j=k}^{\\infty}(-1)^j q^{R j(j+1) / 2}\\left(q^{-Sj}-q^{( j+1) S}\\right)}{\\left(q^S, q^{R-S}; q^R\\right)_{\\infty}}\n  \\]\n  is nonnegative. Recently, some very special cases of this conjecture have been proved and studied. For any given $R, S$ and $k$, we take $s=S/(S,R), r=R/(S,R)$ which are coprime, equivalently. In this paper, we confirm Merca's stronger conjecture for sufficiently large $n$. Furthermore, for given $r, s$ and $k$, we provide a systematic method to determine an integer $N(r, s, k)$ such that Merca's stronger conjecture holds for $ n\\geq N(r,s,k) $. More precisely, we decompose the infinite product in the denominator of the above theta series into two parts, one of which can be interpreted as the generating function of partitions with certain restricted parts and the other is a nonmodular infinite product.\n  We derive the general upper and lower bounds for the coefficients of these two parts by using the partition theoretical method and the circle method, respectively. Further multiplying the partition part by the numerator of the theta series and considering the convolution with the nonmodular infinite product, we obtain the constant $N(r,s,k)$ and confirm Merca's stronger conjecture when $n\\geq N(r,s,k)$. Moreover, we also show that when $k$ is sufficiently large, this conjecture holds directly for any $n\\geq 0$.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-03-31",
+    "2025-06-04"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NT, math.CO"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Sampling and Integration of Logconcave Functions by Algorithmic Diffusion",
+  "authors": [
+    "Yunbum Kook",
+    "Santosh S. Vempala"
+  ],
+  "summary": "We study the complexity of sampling, rounding, and integrating arbitrary logconcave functions. Our new approach provides the first complexity improvements in nearly two decades for general logconcave functions for all three problems, and matches the best-known complexities for the special case of uniform distributions on convex bodies. For the sampling problem, our output guarantees are significantly stronger than previously known, and lead to a streamlined analysis of statistical estimation based on dependent random samples.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DS, cs.LG, math.ST, stat.ML"
+}

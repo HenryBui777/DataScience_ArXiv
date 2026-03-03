@@ -1,0 +1,14 @@
+{
+  "title": "Generalization of the Gauss Map: A jump into chaos with universal features",
+  "authors": [
+    "Christian Beck",
+    "Ugur Tirnakli",
+    "Constantino Tsallis"
+  ],
+  "summary": "The Gauss map (or continued fraction map) is an important dissipative one-dimensional discrete-time dynamical system that exhibits chaotic behaviour and which generates a symbolic dynamics consisting of infinitely many different symbols. Here we introduce a generalization of the Gauss map which is given by $x_{t+1}=\\frac{1}{x_t^α} - \\Bigl[\\frac{1}{x_t^α} \\Bigr]$ where $α\\geq 0$ is a parameter and $x_t \\in [0,1]$ ($t=0,1,2,3,\\ldots$). The symbol $[\\dots ]$ denotes the integer part. This map reduces to the ordinary Gauss map for $α=1$. The system exhibits a sudden `jump into chaos' at the critical parameter value $α=α_c \\equiv 0.241485141808811\\dots$ which we analyse in detail in this paper. Several analytical and numerical results are established for this new map as a function of the parameter $α$. In particular, we show that, at the critical point, the invariant density approaches a $q$-Gaussian with $q=2$ (i.e., the Cauchy distribution), which becomes infinitely narrow as $α\\to α_c^+$. Moreover, in the chaotic region for large values of the parameter $α$ we analytically derive approximate formulas for the invariant density, by solving the corresponding Perron-Frobenius equation. For $α\\to \\infty$ the uniform density is approached. We provide arguments that some features of this transition scenario are universal and are relevant for other, more general systems as well.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "Phys. Rev. E 110 (2024) 064213",
+  "pdf_url": null,
+  "category": "cond-mat.stat-mech, nlin.CD"
+}

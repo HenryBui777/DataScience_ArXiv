@@ -1,0 +1,16 @@
+{
+  "title": "Induced even cycles in locally sparse graphs",
+  "authors": [
+    "Laihao Ding",
+    "Jun Gao",
+    "Hong Liu",
+    "Bingyu Luan",
+    "Shumin Sun"
+  ],
+  "summary": "A graph $G$ is $(c,t)$-sparse if for every pair of vertex subsets $A,B\\subset V(G)$ with $|A|,|B|\\geq t$, $e(A,B)\\leq (1-c)|A||B|$. In this paper we prove that for every $c>0$ and integer $\\ell$, there exists $C>1$ such that if an $n$-vertex graph $G$ is $(c,t)$-sparse for some $t$, and has at least $C t^{1-1/\\ell}n^{1+1/\\ell}$ edges, then $G$ contains an induced copy of $C_{2\\ell}$. This resolves a conjecture of Fox, Nenadov and Pham.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.CO"
+}

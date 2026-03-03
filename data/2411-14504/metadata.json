@@ -1,0 +1,17 @@
+{
+  "title": "Night-to-Day Translation via Illumination Degradation Disentanglement",
+  "authors": [
+    "Guanzhou Lan",
+    "Yuqi Yang",
+    "Zhigang Wang",
+    "Dong Wang",
+    "Bin Zhao",
+    "Xuelong Li"
+  ],
+  "summary": "Night-to-Day translation (Night2Day) aims to achieve day-like vision for nighttime scenes. However, processing night images with complex degradations remains a significant challenge under unpaired conditions. Previous methods that uniformly mitigate these degradations have proven inadequate in simultaneously restoring daytime domain information and preserving underlying semantics. In this paper, we propose \\textbf{N2D3} (\\textbf{N}ight-to-\\textbf{D}ay via \\textbf{D}egradation \\textbf{D}isentanglement) to identify different degradation patterns in nighttime images. Specifically, our method comprises a degradation disentanglement module and a degradation-aware contrastive learning module. Firstly, we extract physical priors from a photometric model based on Kubelka-Munk theory. Then, guided by these physical priors, we design a disentanglement module to discriminate among different illumination degradation regions. Finally, we introduce the degradation-aware contrastive learning strategy to preserve semantic consistency across distinct degradation regions. Our method is evaluated on two public datasets, demonstrating a significant improvement in visual quality and considerable potential for benefiting downstream tasks.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

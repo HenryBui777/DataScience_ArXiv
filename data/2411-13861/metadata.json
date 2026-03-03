@@ -1,0 +1,13 @@
+{
+  "title": "Asynchronous Federated Learning Using Outdated Local Updates Over TDMA Channel",
+  "authors": [
+    "Jaeyoung Song",
+    "Jun-Pyo Hong"
+  ],
+  "summary": "In this paper, we consider asynchronous federated learning (FL) over time-division multiple access (TDMA)-based communication networks.\n  Considering TDMA for transmitting local updates can introduce significant delays to conventional synchronous FL, where all devices start local training from a common global model. In the proposed asynchronous FL approach, we partition devices into multiple TDMA groups, enabling simultaneous local computation and communication across different groups. This enhances time efficiency at the expense of staleness of local updates. We derive the relationship between the staleness of local updates and the size of the TDMA group in a training round. Moreover, our convergence analysis shows that although outdated local updates hinder appropriate global model updates, asynchronous FL over the TDMA channel converges even in the presence of data heterogeneity. Notably, the analysis identifies the impact of outdated local updates on convergence rate.\n  Based on observations from our convergence rate, we refine asynchronous FL strategy by introducing an intentional delay in local training.\n  This refinement accelerates the convergence by reducing the staleness of local updates.\n  Our extensive simulation results demonstrate that asynchronous FL with the intentional delay can rapidly reduce global loss by lowering the staleness of local updates in resource-limited wireless communication networks.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DC"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "A Case Study on Numerical Analysis of a Path Computation Algorithm",
+  "authors": [
+    "Grégoire Boussu",
+    "Nikolai Kosmatov",
+    "Franck Védrine"
+  ],
+  "summary": "Lack of numerical precision in control software -- in particular, related to trajectory computation -- can lead to incorrect results with costly or even catastrophic consequences. Various tools have been proposed to analyze the precision of program computations. This paper presents a case study on numerical analysis of an industrial implementation of the fast marching algorithm, a popular path computation algorithm frequently used for trajectory computation. We briefly describe the selected tools, present the applied methodology, highlight some attention points, summarize the results and outline future work directions.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "EPTCS 411, 2024, pp. 126-142",
+  "pdf_url": null,
+  "category": "cs.SE"
+}

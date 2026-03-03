@@ -1,0 +1,16 @@
+{
+  "title": "EfQAT: An Efficient Framework for Quantization-Aware Training",
+  "authors": [
+    "Saleh Ashkboos",
+    "Bram Verhoef",
+    "Torsten Hoefler",
+    "Evangelos Eleftheriou",
+    "Martino Dazzi"
+  ],
+  "summary": "Quantization-aware training (QAT) schemes have been shown to achieve near-full precision accuracy. They accomplish this by training a quantized model for multiple epochs. This is computationally expensive, mainly because of the full precision backward pass. On the other hand, post-training quantization (PTQ) schemes do not involve training and are therefore computationally cheap, but they usually result in a significant accuracy drop. We address these challenges by proposing EfQAT, which generalizes both schemes by optimizing only a subset of the parameters of a quantized model. EfQAT starts by applying a PTQ scheme to a pre-trained model and only updates the most critical network parameters while freezing the rest, accelerating the backward pass. We demonstrate the effectiveness of EfQAT on various CNNs and Transformer-based models using different GPUs. Specifically, we show that EfQAT is significantly more accurate than PTQ with little extra compute. Furthermore, EfQAT can accelerate the QAT backward pass between 1.44-1.64x while retaining most accuracy.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

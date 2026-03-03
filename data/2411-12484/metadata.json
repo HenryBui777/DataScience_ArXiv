@@ -1,0 +1,16 @@
+{
+  "title": "Regular-pattern-sensitive CRFs for Distant Label Interactions",
+  "authors": [
+    "Sean Papay",
+    "Roman Klinger",
+    "Sebastian Pado"
+  ],
+  "summary": "While LLMs have grown popular in sequence labeling, linear-chain conditional random fields (CRFs) remain a popular alternative with the ability to directly model interactions between labels. However, the Markov assumption limits them to % only directly modeling interactions between adjacent labels. Weighted finite-state transducers (FSTs), in contrast, can model distant label--label interactions, but exact label inference is intractable in general. In this work, we present regular-pattern-sensitive CRFs (RPCRFs), a method of enriching standard linear-chain CRFs with the ability to learn long-distance label interactions through user-specified patterns. This approach allows users to write regular-expression label patterns concisely specifying which types of interactions the model should take into account, allowing the model to learn from data whether and in which contexts these patterns occur. The result can be interpreted alternatively as a CRF augmented with additional, non-local potentials, or as a finite-state transducer whose structure is defined by a set of easily-interpretable patterns. Critically, exact training and inference are tractable for many pattern sets. We detail how an RPCRF can be automatically constructed from a set of user-specified patterns, and demonstrate the model's effectiveness on a sequence of three synthetic sequence modeling datasets.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-06-16"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.CL"
+}

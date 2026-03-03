@@ -1,0 +1,17 @@
+{
+  "title": "Robust Convergency Indicator using MIMO-PI Controller in the presence of disturbances",
+  "authors": [
+    "Zimao Sheng",
+    "Hongan Yang",
+    "Jiakang Wang",
+    "Tong Zhang"
+  ],
+  "summary": "The PID controller remains the most widely adopted control architecture, with groundbreaking success across extensive implications. However, optimal parameter tuning for PID controller remains a critical challenge. Existing theories predominantly focus on linear time-invariant systems and Single-Input Single-Output (SISO) scenarios, leaving a research gap in addressing complex PID control problems for Multi-Input Multi-Output (MIMO) nonlinear systems with disturbances. This study enhances controller robustness by leveraging insights into the velocity form of nonlinear systems. It establishes a quantitative metric to evaluate the robustness of MIMO-PI controller, clarifies key theories on how robustness influences exponential error stabilization. Guided by these theories, an optimal robust MIMO-PI controller is developed without oversimplifying assumptions. Experimental results demonstrate that the controller achieves effective exponential stabilization and exhibits exceptional robustness under the guidance of the proposed robust indicator. Notably, the robust convergence indicator can also effectively assess comprehensive performance.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-07-16"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

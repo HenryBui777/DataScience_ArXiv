@@ -1,0 +1,17 @@
+{
+  "title": "Unified Performance Control for Non-Square Nonlinear Systems with Relaxed Controllability",
+  "authors": [
+    "Bing Zhou",
+    "Kai Zhao",
+    "Yongduan Song",
+    "Zhen Chen"
+  ],
+  "summary": "In this paper, we investigate the problem of unified prescribed performance tracking for a class of non-square strict-feedback nonlinear systems under relaxed controllability conditions. By using a skillful matrix decomposition and introducing some feasible auxiliary matrices, a more generalized controllability condition than the current state of the art is constructed, which can be applied to both square and non-square nonlinear systems subject to actuator faults and unknown yet time-varying control gain. Incorporating the relaxed controllability conditions and the uniform performance specifications into the backstepping design procedure, a prescribed performance fault-tolerant controller is developed that can achieve different performance demands without modifying the controller structure, which is more flexible and practical.In addition, the destruction of the system stability by unknown controllability auxiliary matrices and unknown nonlinearities is circumvented by embedding the available core information of the state-dependent uncertainties into the design procedure. Both theoretical analysis and numerical simulation demonstrate the effectiveness and benefits of the proposed method.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-08-14"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

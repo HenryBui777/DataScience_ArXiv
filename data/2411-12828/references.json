@@ -1,0 +1,238 @@
+{
+  "2406-08184": {
+    "title": "MobileAgentBench: An Efficient and User-Friendly Benchmark for Mobile LLM Agents",
+    "authors": [
+      "Luyuan Wang",
+      "Yongyu Deng",
+      "Yiwei Zha",
+      "Guodong Mao",
+      "Qinmin Wang",
+      "Tianchen Min",
+      "Wei Chen",
+      "Shoufa Chen"
+    ],
+    "publication_date": "2024-06-12",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "a0dd514e1f6a8839c636005114d57efad41889d0",
+    "corpus_id": 270391307,
+    "category": "Computer Science"
+  },
+  "2402-19450": {
+    "title": "Functional Benchmarks for Robust Evaluation of Reasoning Performance, and the Reasoning Gap",
+    "authors": [
+      "Saurabh Srivastava",
+      "B. AnnaroseM",
+      "V. AntoP",
+      "Shashank Menon",
+      "Ajay Sukumar",
+      "T. AdwaithSamod",
+      "Alan Philipose",
+      "Stevin Prince",
+      "Sooraj Thomas"
+    ],
+    "publication_date": "2024-02-29",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "3c585441b4607b34f8bf4e352ed6e36753fe21ce",
+    "corpus_id": 268091179,
+    "category": "Computer Science"
+  },
+  "2402-16837": {
+    "title": "Do Large Language Models Latently Perform Multi-Hop Reasoning?",
+    "authors": [
+      "Sohee Yang",
+      "E. Gribovskaya",
+      "Nora Kassner",
+      "Mor Geva",
+      "Sebastian Riedel"
+    ],
+    "publication_date": "2024-02-26",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "c36f638781953f995eb3079f882174846b9ac16a",
+    "corpus_id": 268032051,
+    "category": "Computer Science"
+  },
+  "2312-11671": {
+    "title": "Evaluating Language-Model Agents on Realistic Autonomous Tasks",
+    "authors": [
+      "Megan Kinniment",
+      "L. Sato",
+      "Haoxing Du",
+      "Brian Goodrich",
+      "Max Hasin",
+      "Lawrence Chan",
+      "Luke Harold Miles",
+      "Tao Lin",
+      "H. Wijk",
+      "Joel Burget",
+      "Aaron Ho",
+      "Elizabeth Barnes",
+      "P. Christiano"
+    ],
+    "publication_date": "2023-12-18",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "874200f7c5062f32ccefc5e37796bd8cae6b8972",
+    "corpus_id": 260472392,
+    "category": "Computer Science"
+  },
+  "2311-12983": {
+    "title": "GAIA: a benchmark for General AI Assistants",
+    "authors": [
+      "G. Mialon",
+      "Clémentine Fourrier",
+      "Craig Swift",
+      "Thomas Wolf",
+      "Yann LeCun",
+      "Thomas Scialom"
+    ],
+    "publication_date": "2023-11-21",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "ab8169d6e4dfabfe7c30ebec1bb871bf3e1551cd",
+    "corpus_id": 265351664,
+    "category": "Computer Science"
+  },
+  "2310-03302": {
+    "title": "MLAgentBench: Evaluating Language Agents on Machine Learning Experimentation",
+    "authors": [
+      "Qian Huang",
+      "Jian Vora",
+      "Percy Liang",
+      "J. Leskovec"
+    ],
+    "publication_date": "2023-10-05",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "b8ee0b5322382807e687c95cc87b059d3f348495",
+    "corpus_id": 263671541,
+    "category": "Computer Science"
+  },
+  "2310-01557": {
+    "title": "SmartPlay : A Benchmark for LLMs as Intelligent Agents",
+    "authors": [
+      "Yue Wu",
+      "Xuan Tang",
+      "Tom M. Mitchell",
+      "Yuanzhi Li"
+    ],
+    "publication_date": "2023-10-02",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "0a2c3e734349232781eb95319dc41f8d8fb671a0",
+    "corpus_id": 263608611,
+    "category": "Computer Science"
+  },
+  "2309-07864": {
+    "title": "The Rise and Potential of Large Language Model Based Agents: A Survey",
+    "authors": [
+      "Zhiheng Xi",
+      "Wenxiang Chen",
+      "Xin Guo",
+      "Wei He",
+      "Yiwen Ding",
+      "Boyang Hong",
+      "Ming Zhang",
+      "Junzhe Wang",
+      "Senjie Jin",
+      "Enyu Zhou",
+      "Rui Zheng",
+      "Xiaoran Fan",
+      "Xiao Wang",
+      "Limao Xiong",
+      "Qin Liu",
+      "Yuhao Zhou",
+      "Weiran Wang",
+      "Changhao Jiang",
+      "Yicheng Zou",
+      "Xiangyang Liu",
+      "Zhangyue Yin",
+      "Shihan Dou",
+      "Rongxiang Weng",
+      "Wensen Cheng",
+      "Qi Zhang",
+      "Wenjuan Qin",
+      "Yongyan Zheng",
+      "Xipeng Qiu",
+      "Xuanjing Huan",
+      "Tao Gui"
+    ],
+    "publication_date": "2023-09-14",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "0c72450890a54b68d63baa99376131fda8f06cf9",
+    "corpus_id": 261817592,
+    "category": "Computer Science"
+  },
+  "2307-13854": {
+    "title": "WebArena: A Realistic Web Environment for Building Autonomous Agents",
+    "authors": [
+      "Shuyan Zhou",
+      "Frank F. Xu",
+      "Hao Zhu",
+      "Xuhui Zhou",
+      "Robert Lo",
+      "Abishek Sridhar",
+      "Xianyi Cheng",
+      "Yonatan Bisk",
+      "Daniel Fried",
+      "Uri Alon",
+      "Graham Neubig"
+    ],
+    "publication_date": "2023-07-25",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "e41482f4ee984f17382f6cdd900df094d928be06",
+    "corpus_id": 260164780,
+    "category": "Computer Science"
+  },
+  "2305-07141": {
+    "title": "The ConceptARC Benchmark: Evaluating Understanding and Generalization in the ARC Domain",
+    "authors": [
+      "A. Moskvichev",
+      "Victor Vikram Odouard",
+      "Melanie Mitchell"
+    ],
+    "publication_date": "2023-05-11",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "0febeb46b8216f12337b448ac81ac505c28782c1",
+    "corpus_id": 258676355,
+    "category": "Computer Science"
+  },
+  "2207-01206": {
+    "title": "WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents",
+    "authors": [
+      "Shunyu Yao",
+      "Howard Chen",
+      "John Yang",
+      "Karthik Narasimhan"
+    ],
+    "publication_date": "2022-07-04",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "23525374cfd3af714f3ffb7a203b1ef3253333fe",
+    "corpus_id": 250264533,
+    "category": "Computer Science"
+  },
+  "2205-11916": {
+    "title": "Large Language Models are Zero-Shot Reasoners",
+    "authors": [
+      "Takeshi Kojima",
+      "S. Gu",
+      "Machel Reid",
+      "Yutaka Matsuo",
+      "Yusuke Iwasawa"
+    ],
+    "publication_date": "2022-05-24",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "e7ad08848d5d7c5c47673ffe0da06af443643bda",
+    "corpus_id": 249017743,
+    "category": "Computer Science"
+  },
+  "2011-01060": {
+    "title": "Constructing A Multi-hop QA Dataset for Comprehensive Evaluation of Reasoning Steps",
+    "authors": [
+      "Xanh Ho",
+      "A. Nguyen",
+      "Saku Sugawara",
+      "Akiko Aizawa"
+    ],
+    "publication_date": "2020-11-02",
+    "venue": "International Conference on Computational Linguistics",
+    "semantic_scholar_id": "9001eb3c3d5a96ad3d804410c2437e6f60feade9",
+    "corpus_id": 226236740,
+    "category": "Computer Science"
+  }
+}

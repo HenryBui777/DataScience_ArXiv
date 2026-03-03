@@ -1,0 +1,13 @@
+{
+  "title": "Random Forest-Supervised Manifold Alignment",
+  "authors": [
+    "Jake S. Rhodes",
+    "Adam G. Rustad"
+  ],
+  "summary": "Manifold alignment is a type of data fusion technique that creates a shared low-dimensional representation of data collected from multiple domains, enabling cross-domain learning and improved performance in downstream tasks. This paper presents an approach to manifold alignment using random forests as a foundation for semi-supervised alignment algorithms, leveraging the model's inherent strengths. We focus on enhancing two recently developed alignment graph-based by integrating class labels through geometry-preserving proximities derived from random forests. These proximities serve as a supervised initialization for constructing cross-domain relationships that maintain local neighborhood structures, thereby facilitating alignment. Our approach addresses a common limitation in manifold alignment, where existing methods often fail to generate embeddings that capture sufficient information for downstream classification. By contrast, we find that alignment models that use random forest proximities or class-label information achieve improved accuracy on downstream classification tasks, outperforming single-domain baselines. Experiments across multiple datasets show that our method typically enhances cross-domain feature integration and predictive performance, suggesting that random forest proximities offer a practical solution for tasks requiring multimodal data alignment.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, stat.ML"
+}

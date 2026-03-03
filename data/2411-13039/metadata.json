@@ -1,0 +1,16 @@
+{
+  "title": "TrustMesh: A Blockchain-Enabled Trusted Distributed Computing Framework for Open Heterogeneous IoT Environments",
+  "authors": [
+    "Murtaza Rangwala",
+    "Rajkumar Buyya"
+  ],
+  "summary": "The rapid evolution of Internet of Things (IoT) environments has created an urgent need for secure and trustworthy distributed computing systems, particularly when dealing with heterogeneous devices and applications where centralized trust cannot be assumed. This paper proposes TrustMesh, a novel blockchain-enabled framework that addresses these challenges through a unique three-layer architecture combining permissioned blockchain technology with a novel multi-phase Practical Byzantine Fault Tolerance (PBFT) consensus protocol. The key innovation lies in TrustMesh's ability to support non-deterministic scheduling algorithms while maintaining Byzantine fault tolerance - features traditionally considered mutually exclusive in blockchain systems. The framework supports a sophisticated resource management approach that enables flexible scheduling decisions while preserving the security guarantees of blockchain-based verification. Our experimental evaluation using a real-world cold chain monitoring scenario demonstrates that TrustMesh successfully maintains Byzantine fault tolerance with fault detection latencies under 150 milliseconds, while maintaining consistent framework overhead across varying computational workloads even with network scaling. These results establish TrustMesh's effectiveness in balancing security, performance, and flexibility requirements in trustless IoT environments, advancing the state-of-the-art in secure distributed computing frameworks.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-12-18",
+    "2025-01-17"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DC"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Reflected-light Phase Curves with PICASO: A Kepler-7b Case Study",
+  "authors": [
+    "Colin D. Hamill",
+    "Alexandria V. Johnson",
+    "Natasha Batalha",
+    "Rowan Nag",
+    "Peter Gao",
+    "Danica Adams",
+    "Tiffany Kataria"
+  ],
+  "summary": "Examining reflected light from exoplanets aids in our understanding of the scattering properties of their atmospheres and will be a primary task of future flagship space- and ground-based telescopes. We introduce an enhanced capability of Planetary Intensity Code for Atmospheric Scattering Observations (PICASO), an open-source radiative transfer model used for exoplanet and brown dwarf atmospheres, to produce reflected light phase curves from three-dimensional atmospheric models. Since PICASO is coupled to the cloud code Virga, we produce phase curves for different cloud condensate species and varying sedimentation efficiencies (fsed) and apply this new functionality to Kepler-7b, a hot Jupiter with phase curve measurements dominated by reflected starlight. We model three different cloud scenarios for Kepler-7b: MgSiO3 clouds only, Mg2SiO4 clouds only, and Mg2SiO4, Al2O3, and TiO2 clouds. All our Virga models reproduce the cloudy region west of the substellar point expected from previous studies, as well as clouds at high latitudes and near the eastern limb, which are primarily composed of magnesium silicates. Al2O3 and TiO2 clouds dominate near the substellar point. We then compare our modeled reflected light phase curves to Kepler observations and find that models with all three cloud condensate species and low sedimentation efficiencies (0.03 - 0.1) match best, though our reflected light phase curves show intensities approximately one-third of those observed by Kepler. We conclude that a better understanding of zonal transport, cloud radiative feedback, and particle scattering properties is needed to further explain the differences between the modeled and observed reflected light fluxes.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "Astrophysical Journal, 976, 181 (2024)",
+  "pdf_url": null,
+  "category": "astro-ph.EP"
+}

@@ -1,0 +1,299 @@
+{
+  "partition": "train",
+  "groundtruth": {
+    "shi2024thoroughexaminationdecodingmethods": "2402-06925",
+    "leviathan2023fastinferencetransformersspeculative": "2211-17192",
+    "xia2024unlockingefficiencylargelanguage": "2401-07851",
+    "zhao2024lookaheadinferenceaccelerationframework": "2312-12728",
+    "qian2024bassbatchedattentionoptimizedspeculative": "2404-15778",
+    "zeng2024chimeralosslessdecodingmethod": "2402-15758",
+    "goel2024directalignmentdraftmodel": "2403-00858",
+    "cai2024medusasimplellminference": "2401-10774",
+    "ankner2024hydrasequentiallydependentdraftheads": "2402-05109",
+    "li2024eaglespeculativesamplingrequires": "2401-15077",
+    "huang2024specdecboostingspeculativedecoding": "2405-19715",
+    "zhong2024propddynamictokentree": "2402-13485",
+    "elhoushi2024layerskipenablingearlyexit": "2404-16710",
+    "holtzman2020curiouscaseneuraltext": "1904-09751",
+    "zhang2024learningharmonizedrepresentationsspeculative": "2408-15766",
+    "kim2024exploringimprovingdraftsblockwise": "2404-09221",
+    "jeon2024recursivespeculativedecodingaccelerating": "2402-14160",
+    "li2024eagle2fasterinferencelanguage": "2406-16858",
+    "wang2024opttreespeculativedecodingadaptive": "2406-17276",
+    "chen2024magicdecbreakinglatencythroughputtradeoff": "2408-11049",
+    "nie2024aladdinjointplacementscaling": "2405-06856",
+    "chen2024hardwareawareparallelpromptdecoding": "2405-18628",
+    "lin2024qservew4a8kv4quantizationcodesign": "2405-04532",
+    "svirschevski2024specexecmassivelyparallelspeculative": "2406-02532",
+    "shazeer2019fasttransformerdecodingwritehead": "1911-02150",
+    "stern2018blockwiseparalleldecodingdeep": "1811-03115"
+  },
+  "prediction": {
+    "DBLP:journals/corr/abs-2005-14165": [
+      "2005-14165",
+      "1904-09751",
+      "2408-15766",
+      "2405-06856",
+      "2404-09221"
+    ],
+    "thoppilan2022lamdalanguagemodelsdialog": [
+      "1811-03115",
+      "2005-14165",
+      "1911-02150",
+      "2401-10774",
+      "2312-12728"
+    ],
+    "kaddour2023challengesapplicationslargelanguage": [
+      "1911-02150",
+      "2404-15778",
+      "2408-15766",
+      "1904-09751",
+      "2402-06925"
+    ],
+    "shi2024thoroughexaminationdecodingmethods": [
+      "2402-06925",
+      "2405-04532",
+      "2402-13485",
+      "2408-15766",
+      "2406-17276"
+    ],
+    "leviathan2023fastinferencetransformersspeculative": [
+      "2211-17192",
+      "1911-02150",
+      "2404-16710",
+      "2408-15766",
+      "2404-15778"
+    ],
+    "xia2024unlockingefficiencylargelanguage": [
+      "2401-07851",
+      "2406-17276",
+      "2402-13485",
+      "2402-06925",
+      "2405-04532"
+    ],
+    "zhao2024lookaheadinferenceaccelerationframework": [
+      "2312-12728",
+      "2402-15758",
+      "2405-04532",
+      "2401-10774",
+      "2402-13485"
+    ],
+    "qian2024bassbatchedattentionoptimizedspeculative": [
+      "2404-15778",
+      "2405-04532",
+      "2401-10774",
+      "2406-17276",
+      "2406-16858"
+    ],
+    "zeng2024chimeralosslessdecodingmethod": [
+      "2402-15758",
+      "2402-13485",
+      "2401-07851",
+      "2312-12728",
+      "2403-00858"
+    ],
+    "goel2024directalignmentdraftmodel": [
+      "2403-00858",
+      "2402-14160",
+      "2408-15766",
+      "2402-06925",
+      "2406-17276"
+    ],
+    "cai2024medusasimplellminference": [
+      "2401-10774",
+      "2404-15778",
+      "2402-15758",
+      "2402-05109",
+      "2401-07851"
+    ],
+    "ankner2024hydrasequentiallydependentdraftheads": [
+      "2402-05109",
+      "2405-18628",
+      "2401-10774",
+      "2408-15766",
+      "2402-13485"
+    ],
+    "li2024eaglespeculativesamplingrequires": [
+      "2401-15077",
+      "2406-16858",
+      "2406-17276",
+      "2406-14066",
+      "2406-02532"
+    ],
+    "huang2024specdecboostingspeculativedecoding": [
+      "2405-19715",
+      "2408-15766",
+      "2402-13485",
+      "2406-16858",
+      "2401-15077"
+    ],
+    "zhong2024propddynamictokentree": [
+      "2402-13485",
+      "2402-06925",
+      "2401-07851",
+      "2408-15766",
+      "2405-19715"
+    ],
+    "liu2024speculativedecodingearlyexitingfaster": [
+      "2401-07851",
+      "2402-06925",
+      "2402-13485",
+      "2403-00858",
+      "2402-15758"
+    ],
+    "elhoushi2024layerskipenablingearlyexit": [
+      "2404-16710",
+      "2408-11049",
+      "2406-02532",
+      "2005-14165",
+      "2402-15758"
+    ],
+    "holtzman2020curiouscaseneuraltext": [
+      "1904-09751",
+      "2404-15778",
+      "2211-17192",
+      "2005-14165",
+      "1911-02150"
+    ],
+    "zhang2024learningharmonizedrepresentationsspeculative": [
+      "2408-15766",
+      "2402-13485",
+      "2402-06925",
+      "2406-17276",
+      "2405-19715"
+    ],
+    "fu2024lazyllmdynamictokenpruning": [
+      "2408-11049",
+      "2406-16858",
+      "2402-14160",
+      "2406-17276",
+      "2405-18628"
+    ],
+    "lin-etal-2024-slim": [
+      "2408-15766",
+      "2408-11049",
+      "2406-16858",
+      "2406-14066",
+      "2406-02532"
+    ],
+    "kim2024exploringimprovingdraftsblockwise": [
+      "2404-09221",
+      "2405-18628",
+      "2408-15766",
+      "2406-17276",
+      "2401-15077"
+    ],
+    "gong2024graphstructuredspeculativedecoding": [
+      "2402-13485",
+      "2402-06925",
+      "2401-07851",
+      "2404-15778",
+      "2005-14165"
+    ],
+    "jeon2024recursivespeculativedecodingaccelerating": [
+      "2402-14160",
+      "2403-00858",
+      "2408-15766",
+      "2406-16858",
+      "2406-17276"
+    ],
+    "li2024eagle2fasterinferencelanguage": [
+      "2406-16858",
+      "2401-15077",
+      "2406-17276",
+      "2406-14066",
+      "2406-02532"
+    ],
+    "wang2024opttreespeculativedecodingadaptive": [
+      "2406-17276",
+      "2401-07851",
+      "2402-06925",
+      "2408-15766",
+      "2401-15077"
+    ],
+    "liu2024optimizingspeculativedecodingserving": [
+      "2406-14066",
+      "2402-06925",
+      "2404-15778",
+      "2406-17276",
+      "2401-07851"
+    ],
+    "chen2024magicdecbreakinglatencythroughputtradeoff": [
+      "2408-11049",
+      "2406-02532",
+      "2404-16710",
+      "2402-13485",
+      "2401-07851"
+    ],
+    "sun2024triforcelosslessaccelerationlong": [
+      "2406-02532",
+      "2408-11049",
+      "2404-16710",
+      "2405-19715",
+      "2405-04532"
+    ],
+    "nie2024aladdinjointplacementscaling": [
+      "2405-06856",
+      "2408-15766",
+      "2406-14066",
+      "2405-18628",
+      "2401-15077"
+    ],
+    "ni2024emssdefficientmultisamplespeculative": [
+      "2405-04532",
+      "2401-07851",
+      "2405-19715",
+      "2405-06856",
+      "2402-06925"
+    ],
+    "chen2024hardwareawareparallelpromptdecoding": [
+      "2405-18628",
+      "2406-14066",
+      "2005-14165",
+      "2404-09221",
+      "2406-17276"
+    ],
+    "lin2024qservew4a8kv4quantizationcodesign": [
+      "2405-04532",
+      "2402-06925",
+      "2404-15778",
+      "2401-07851",
+      "2406-02532"
+    ],
+    "svirschevski2024specexecmassivelyparallelspeculative": [
+      "2406-02532",
+      "2408-11049",
+      "2404-16710",
+      "2406-16858",
+      "2401-15077"
+    ],
+    "shazeer2019fasttransformerdecodingwritehead": [
+      "1911-02150",
+      "1811-03115",
+      "2211-17192",
+      "1904-09751",
+      "2405-06856"
+    ],
+    "stern2018blockwiseparalleldecodingdeep": [
+      "1811-03115",
+      "1911-02150",
+      "2211-17192",
+      "2408-15766",
+      "2406-16858"
+    ],
+    "liu2024onlinespeculativedecoding": [
+      "2402-06925",
+      "2406-14066",
+      "2405-19715",
+      "2405-06856",
+      "2404-16710"
+    ],
+    "kavehzadeh2024s2dsortedspeculativedecoding": [
+      "2404-09221",
+      "2402-06925",
+      "2402-13485",
+      "2402-14160",
+      "2405-04532"
+    ]
+  }
+}

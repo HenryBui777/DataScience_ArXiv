@@ -1,0 +1,17 @@
+{
+  "title": "HeartBERT: A Self-Supervised ECG Embedding Model for Efficient and Effective Medical Signal Analysis",
+  "authors": [
+    "Saedeh Tahery",
+    "Fatemeh Hamid Akhlaghi",
+    "Termeh Amirsoleimani"
+  ],
+  "summary": "The HeartBert model is introduced with three primary objectives: reducing the need for labeled data, minimizing computational resources, and simultaneously improving performance in machine learning systems that analyze Electrocardiogram (ECG) signals. Inspired by Bidirectional Encoder Representations from Transformers (BERT) in natural language processing and enhanced with a self-supervised learning approach, the HeartBert model-built on the RoBERTa architecture-generates sophisticated embeddings tailored for ECG-based projects in the medical domain. To demonstrate the versatility, generalizability, and efficiency of the proposed model, two key downstream tasks have been selected: sleep stage detection and heartbeat classification. HeartBERT-based systems, utilizing bidirectional LSTM heads, are designed to address complex challenges. A series of practical experiments have been conducted to demonstrate the superiority and advancements of HeartBERT, particularly in terms of its ability to perform well with smaller training datasets, reduced learning parameters, and effective performance compared to rival models. The code and data are publicly available at https://github.com/ecgResearch/HeartBert.",
+  "submission_date": "2024-11-08",
+  "revised_dates": [
+    "2024-12-18",
+    "2025-04-04"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP, cs.LG"
+}

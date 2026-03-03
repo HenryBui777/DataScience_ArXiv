@@ -1,0 +1,16 @@
+{
+  "title": "InCrowd-VI: A Realistic Visual-Inertial Dataset for Evaluating SLAM in Indoor Pedestrian-Rich Spaces for Human Navigation",
+  "authors": [
+    "Marziyeh Bamdad",
+    "Hans-Peter Hutter",
+    "Alireza Darvishy"
+  ],
+  "summary": "Simultaneous localization and mapping (SLAM) techniques can be used to navigate the visually impaired, but the development of robust SLAM solutions for crowded spaces is limited by the lack of realistic datasets. To address this, we introduce InCrowd-VI, a novel visual-inertial dataset specifically designed for human navigation in indoor pedestrian-rich environments. Recorded using Meta Aria Project glasses, it captures realistic scenarios without environmental control. InCrowd-VI features 58 sequences totaling a 5 km trajectory length and 1.5 hours of recording time, including RGB, stereo images, and IMU measurements. The dataset captures important challenges such as pedestrian occlusions, varying crowd densities, complex layouts, and lighting changes. Ground-truth trajectories, accurate to approximately 2 cm, are provided in the dataset, originating from the Meta Aria project machine perception SLAM service. In addition, a semi-dense 3D point cloud of scenes is provided for each sequence. The evaluation of state-of-the-art visual odometry (VO) and SLAM algorithms on InCrowd-VI revealed severe performance limitations in these realistic scenarios. Under challenging conditions, systems exceeded the required localization accuracy of 0.5 meters and the 1\\% drift threshold, with classical methods showing drift up to 5-10\\%. While deep learning-based approaches maintained high pose estimation coverage (>90\\%), they failed to achieve real-time processing speeds necessary for walking pace navigation. These results demonstrate the need and value of a new dataset to advance SLAM research for visually impaired navigation in complex indoor environments. The dataset and associated tools are publicly available at https://incrowd-vi.cloudlab.zhaw.ch/.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-12-17"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO, cs.CV"
+}

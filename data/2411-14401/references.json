@@ -1,0 +1,645 @@
+{
+  "2410-05160": {
+    "title": "VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks",
+    "authors": [
+      "Ziyan Jiang",
+      "Rui Meng",
+      "Xinyi Yang",
+      "Semih Yavuz",
+      "Yingbo Zhou",
+      "Wenhu Chen"
+    ],
+    "publication_date": "2024-10-07",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "0812f6b841a99b6ffb4fb114c04a090de956de6e",
+    "corpus_id": 273186435,
+    "category": "Computer Science"
+  },
+  "2408-03326": {
+    "title": "LLaVA-OneVision: Easy Visual Task Transfer",
+    "authors": [
+      "Bo Li",
+      "Yuanhan Zhang",
+      "Dong Guo",
+      "Renrui Zhang",
+      "Feng Li",
+      "Hao Zhang",
+      "Kaichen Zhang",
+      "Yanwei Li",
+      "Ziwei Liu",
+      "Chunyuan Li"
+    ],
+    "publication_date": "2024-08-06",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "1a71f7b216b710b936da666027014adb83af8e7a",
+    "corpus_id": 271719914,
+    "category": "Computer Science"
+  },
+  "2407-15841": {
+    "title": "SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language Models",
+    "authors": [
+      "Mingze Xu",
+      "Mingfei Gao",
+      "Zhe Gan",
+      "Hong-You Chen",
+      "Zhengfeng Lai",
+      "Haiming Gang",
+      "Kai Kang",
+      "Afshin Dehghan"
+    ],
+    "publication_date": "2024-07-22",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "9d21874dc08a0b3cef93a0273f0752080a372f4e",
+    "corpus_id": 271329151,
+    "category": "Computer Science"
+  },
+  "2406-08024": {
+    "title": "Fewer Tokens and Fewer Videos: Extending Video Understanding Abilities in Large Vision-Language Models",
+    "authors": [
+      "Shimin Chen",
+      "Yitian Yuan",
+      "Shaoxiang Chen",
+      "Zequn Jie",
+      "Lin Ma"
+    ],
+    "publication_date": "2024-06-12",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "e3df98b0912db370b473136833228b46287e586d",
+    "corpus_id": 270391828,
+    "category": "Computer Science"
+  },
+  "2406-07476": {
+    "title": "VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs",
+    "authors": [
+      "Zesen Cheng",
+      "Sicong Leng",
+      "Hang Zhang",
+      "Yifei Xin",
+      "Xin Li",
+      "Guanzheng Chen",
+      "Yongxin Zhu",
+      "Wenqi Zhang",
+      "Ziyang Luo",
+      "Deli Zhao",
+      "Li Bing"
+    ],
+    "publication_date": "2024-06-11",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "c6dd31c40836d616b50feab17aff569591c4262e",
+    "corpus_id": 270380326,
+    "category": "Computer Science"
+  },
+  "2405-21075": {
+    "title": "Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis",
+    "authors": [
+      "Chaoyou Fu",
+      "Yuhan Dai",
+      "Yondong Luo",
+      "Lei Li",
+      "Shuhuai Ren",
+      "Renrui Zhang",
+      "Zihan Wang",
+      "Chenyu Zhou",
+      "Yunhang Shen",
+      "Mengdan Zhang",
+      "Peixian Chen",
+      "Yanwei Li",
+      "Shaohui Lin",
+      "Sirui Zhao",
+      "Ke Li",
+      "Tong Xu",
+      "Xiawu Zheng",
+      "Enhong Chen",
+      "Rongrong Ji",
+      "Xing Sun"
+    ],
+    "publication_date": "2024-05-31",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "22552dd0e7789f175a302055f06444a12e22b652",
+    "corpus_id": 270199408,
+    "category": "Computer Science"
+  },
+  "2405-09711": {
+    "title": "STAR: A Benchmark for Situated Reasoning in Real-World Videos",
+    "authors": [
+      "Bo Wu",
+      "Shoubin Yu"
+    ],
+    "publication_date": "2024-05-15",
+    "venue": "NeurIPS Datasets and Benchmarks",
+    "semantic_scholar_id": "039c0f0b4142823fe214ddf2470230e211c7b8ee",
+    "corpus_id": 244907062,
+    "category": "Computer Science"
+  },
+  "2405-07798": {
+    "title": "FreeVA: Offline MLLM as Training-Free Video Assistant",
+    "authors": [
+      "Wenhao Wu"
+    ],
+    "publication_date": "2024-05-13",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "51bf2f78cff506f8190aa31d9caf2d6964b95d06",
+    "corpus_id": 269757368,
+    "category": "Computer Science"
+  },
+  "2405-03770": {
+    "title": "Foundation Models for Video Understanding: A Survey",
+    "authors": [
+      "Neelu Madan",
+      "Andreas Møgelmose",
+      "Rajat Modi",
+      "Y. S. Rawat",
+      "T. Moeslund"
+    ],
+    "publication_date": "2024-05-06",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "56c5b5eafd78e316ef1f9f1439ba76b1fdba304c",
+    "corpus_id": 269613897,
+    "category": "Computer Science"
+  },
+  "2404-16994": {
+    "title": "PLLaVA : Parameter-free LLaVA Extension from Images to Videos for Video Dense Captioning",
+    "authors": [
+      "Lin Xu",
+      "Yilin Zhao",
+      "Daquan Zhou",
+      "Zhijie Lin",
+      "See Kiong Ng",
+      "Jiashi Feng"
+    ],
+    "publication_date": "2024-04-25",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "9d29da83aba362c728c36f4dea9dde678ae3e2b2",
+    "corpus_id": 269430328,
+    "category": "Computer Science"
+  },
+  "2404-09387": {
+    "title": "RankCLIP: Ranking-Consistent Language-Image Pretraining",
+    "authors": [
+      "Yiming Zhang",
+      "Zhuokai Zhao",
+      "Zhaorun Chen",
+      "Zhaorun Chen",
+      "Zhili Feng",
+      "Zenghui Ding",
+      "Yining Sun"
+    ],
+    "publication_date": "2024-04-15",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "2c421eef70770c5a6f3ff8bb07967d33bb373c6a",
+    "corpus_id": 269149157,
+    "category": "Computer Science"
+  },
+  "2404-07973": {
+    "title": "Ferret-v2: An Improved Baseline for Referring and Grounding with Large Language Models",
+    "authors": [
+      "Haotian Zhang",
+      "Haoxuan You",
+      "Philipp Dufter",
+      "Bowen Zhang",
+      "Chen Chen",
+      "Hong-You Chen",
+      "Tsu-Jui Fu",
+      "William Yang Wang",
+      "Shih-Fu Chang",
+      "Zhe Gan",
+      "Yinfei Yang"
+    ],
+    "publication_date": "2024-04-11",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "a39ed048aa86296b16f9d2d33011f94e3d5ac402",
+    "corpus_id": 269043094,
+    "category": "Computer Science"
+  },
+  "2403-18406": {
+    "title": "An Image Grid Can Be Worth a Video: Zero-Shot Video Question Answering Using a VLM",
+    "authors": [
+      "Wonkyun Kim",
+      "Changin Choi",
+      "Wonseok Lee",
+      "Wonjong Rhee"
+    ],
+    "publication_date": "2024-03-27",
+    "venue": "IEEE Access",
+    "semantic_scholar_id": "6a2dab08454e94a75d23c68bd1d4b951d44b72db",
+    "corpus_id": 268723836,
+    "category": "Computer Science"
+  },
+  "2403-15377": {
+    "title": "InternVideo2: Scaling Foundation Models for Multimodal Video Understanding",
+    "authors": [
+      "Yi Wang",
+      "Kunchang Li",
+      "Xinhao Li",
+      "Jiashuo Yu",
+      "Yinan He",
+      "Guo Chen",
+      "Baoqi Pei",
+      "Rongkun Zheng",
+      "Zun Wang",
+      "Yansong Shi",
+      "Tianxiang Jiang",
+      "Songze Li",
+      "Jilan Xu",
+      "Hongjie Zhang",
+      "Yifei Huang",
+      "Yu Qiao",
+      "Yali Wang",
+      "Limin Wang"
+    ],
+    "publication_date": "2024-03-22",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "bb47823ccdaca2c69f6a3fa77b6072b829ba001b",
+    "corpus_id": 271432386,
+    "category": "Computer Science"
+  },
+  "2403-09611": {
+    "title": "MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training",
+    "authors": [
+      "Brandon McKinzie",
+      "Zhe Gan",
+      "J. Fauconnier",
+      "Sam Dodge",
+      "Bowen Zhang",
+      "Philipp Dufter",
+      "Dhruti Shah",
+      "Xianzhi Du",
+      "Futang Peng",
+      "Floris Weers",
+      "Anton Belyi",
+      "Haotian Zhang",
+      "Karanjeet Singh",
+      "Doug Kang",
+      "Ankur Jain",
+      "Hongyu Hè",
+      "Max Schwarzer",
+      "Tom Gunter",
+      "Xiang Kong",
+      "Aonan Zhang",
+      "Jianyu Wang",
+      "Chong Wang",
+      "Nan Du",
+      "Tao Lei",
+      "Sam Wiseman",
+      "Guoli Yin",
+      "Mark Lee",
+      "Zirui Wang",
+      "Ruoming Pang",
+      "Peter Grasch",
+      "Alexander Toshev",
+      "Yinfei Yang"
+    ],
+    "publication_date": "2024-03-14",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "6675bcf6dc97c87da7afda223938ec7e51ecc3b2",
+    "corpus_id": 268384865,
+    "category": "Computer Science"
+  },
+  "2403-00425": {
+    "title": "HALC: Object Hallucination Reduction via Adaptive Focal-Contrast Decoding",
+    "authors": [
+      "Zhaorun Chen",
+      "Zhaorun Chen",
+      "Zhuokai Zhao",
+      "Hongyin Luo",
+      "Huaxiu Yao",
+      "Bo Li",
+      "Jiawei Zhou"
+    ],
+    "publication_date": "2024-03-01",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "7751f6cdec0f4473c1733eec91699744a7d5176f",
+    "corpus_id": 268201673,
+    "category": "Computer Science"
+  },
+  "2404-16038": {
+    "title": "A Survey on Generative AI and LLM for Video Generation, Understanding, and Streaming",
+    "authors": [
+      "Pengyuan Zhou",
+      "Lin Wang",
+      "Zhi Liu",
+      "Yanbin Hao",
+      "Pan Hui",
+      "Sasu Tarkoma",
+      "J. Kangasharju"
+    ],
+    "publication_date": "2024-01-30",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "be4d586ca8add316c14f24397f57f8c77e36cb9d",
+    "corpus_id": 269362618,
+    "category": "Computer Science"
+  },
+  "2312-17432": {
+    "title": "Video Understanding with Large Language Models: A Survey",
+    "authors": [
+      "Yunlong Tang",
+      "Jing Bi",
+      "Siting Xu",
+      "Luchuan Song",
+      "Susan Liang",
+      "Teng Wang",
+      "Daoan Zhang",
+      "Jie An",
+      "Jingyang Lin",
+      "Rongyi Zhu",
+      "A. Vosoughi",
+      "Chao Huang",
+      "Zeliang Zhang",
+      "Feng Zheng",
+      "Jianguo Zhang",
+      "Ping Luo",
+      "Jiebo Luo",
+      "Chenliang Xu"
+    ],
+    "publication_date": "2023-12-29",
+    "venue": "IEEE transactions on circuits and systems for video technology (Print)",
+    "semantic_scholar_id": "5f58863dd6474d6f127be995b5871e7c60f2792f",
+    "corpus_id": 266690572,
+    "category": "Computer Science"
+  },
+  "2311-17043": {
+    "title": "LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models",
+    "authors": [
+      "Yanwei Li",
+      "Chengyao Wang",
+      "Jiaya Jia"
+    ],
+    "publication_date": "2023-11-28",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "486c2df78cbb770a90a55f7fa3fe19102fba2c24",
+    "corpus_id": 265466723,
+    "category": "Computer Science"
+  },
+  "2311-10122": {
+    "title": "Video-LLaVA: Learning United Visual Representation by Alignment Before Projection",
+    "authors": [
+      "Bin Lin",
+      "Bin Zhu",
+      "Yang Ye",
+      "Munan Ning",
+      "Peng Jin",
+      "Li Yuan"
+    ],
+    "publication_date": "2023-11-16",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "107fb6eec2febbae12db29bf3e311aaf5680027c",
+    "corpus_id": 265281544,
+    "category": "Computer Science"
+  },
+  "2309-03452": {
+    "title": "Multimodal Guidance Network for Missing- Modality Inference in Content Moderation",
+    "authors": [
+      "Zhuokai Zhao",
+      "Harish Palani",
+      "Tianyi Liu",
+      "L. Evans",
+      "Ruth Toner"
+    ],
+    "publication_date": "2023-09-07",
+    "venue": "2024 IEEE International Conference on Multimedia and Expo Workshops (ICMEW)",
+    "semantic_scholar_id": "3fa6230f8b2f4ecade5f3e863df37439af5b56d4",
+    "corpus_id": 261582360,
+    "category": "Computer Science"
+  },
+  "2308-09126": {
+    "title": "EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding",
+    "authors": [
+      "K. Mangalam",
+      "Raiymbek Akshulakov",
+      "J. Malik"
+    ],
+    "publication_date": "2023-08-17",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "656a6b3c0348d69cf9f98f95cbf68046941a4f29",
+    "corpus_id": 261031047,
+    "category": "Computer Science"
+  },
+  "2307-16449": {
+    "title": "MovieChat: From Dense Token to Sparse Memory for Long Video Understanding",
+    "authors": [
+      "Enxin Song",
+      "Wenhao Chai",
+      "Guanhong Wang",
+      "Yucheng Zhang",
+      "Haoyang Zhou",
+      "Feiyang Wu",
+      "Xun Guo",
+      "Tianbo Ye",
+      "Yang Lu",
+      "Jenq-Neng Hwang",
+      "Gaoang Wang"
+    ],
+    "publication_date": "2023-07-31",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "6f9b7c8cde1be2e62a503c31cac883c6d44c9d0d",
+    "corpus_id": 260333927,
+    "category": "Computer Science"
+  },
+  "2306-05424": {
+    "title": "Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models",
+    "authors": [
+      "Muhammad Maaz",
+      "H. Rasheed",
+      "Salman H. Khan",
+      "F. Khan"
+    ],
+    "publication_date": "2023-06-08",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "bf7025a2e5dbb3c09deae02a1aa98a256ca559e2",
+    "corpus_id": 259108333,
+    "category": "Computer Science"
+  },
+  "2306-02858": {
+    "title": "Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding",
+    "authors": [
+      "Hang Zhang",
+      "Xin Li",
+      "Lidong Bing"
+    ],
+    "publication_date": "2023-06-05",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "5d321194696f1f75cf9da045e6022b2f20ba5b9c",
+    "corpus_id": 259075356,
+    "category": "Computer Science, Engineering"
+  },
+  "2305-06988": {
+    "title": "Self-Chained Image-Language Model for Video Localization and Question Answering",
+    "authors": [
+      "Shoubin Yu",
+      "Jaemin Cho",
+      "Prateek Yadav",
+      "Mohit Bansal"
+    ],
+    "publication_date": "2023-05-11",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "8badb0587fef2ffc078b0cec549eb8ec96ed3ad4",
+    "corpus_id": 258615748,
+    "category": "Computer Science"
+  },
+  "2305-06984": {
+    "title": "Evaluating Open-Domain Question Answering in the Era of Large Language Models",
+    "authors": [
+      "Ehsan Kamalloo",
+      "Nouha Dziri",
+      "C. Clarke",
+      "Davood Rafiei"
+    ],
+    "publication_date": "2023-05-11",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "6bef46eccb4c7f521e4f255a01595ebf9994ae22",
+    "corpus_id": 258615193,
+    "category": "Computer Science"
+  },
+  "2210-09461": {
+    "title": "Token Merging: Your ViT But Faster",
+    "authors": [
+      "Daniel Bolya",
+      "Cheng-Yang Fu",
+      "Xiaoliang Dai",
+      "Peizhao Zhang",
+      "Christoph Feichtenhofer",
+      "Judy Hoffman"
+    ],
+    "publication_date": "2022-10-17",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "1dff6b1b35e2d45d4db57c8b4e4395486c3e365f",
+    "corpus_id": 252968113,
+    "category": "Computer Science"
+  },
+  "2201-04676": {
+    "title": "UniFormer: Unified Transformer for Efficient Spatiotemporal Representation Learning",
+    "authors": [
+      "Kunchang Li",
+      "Yali Wang",
+      "Peng Gao",
+      "Guanglu Song",
+      "Yu Liu",
+      "Hongsheng Li",
+      "Y. Qiao"
+    ],
+    "publication_date": "2022-01-12",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "c8831d0629f0eaf7f723317d71bbd60b8eb3c39f",
+    "corpus_id": 245906266,
+    "category": "Computer Science"
+  },
+  "2106-13230": {
+    "title": "Video Swin Transformer",
+    "authors": [
+      "Ze Liu",
+      "Jia Ning",
+      "Yue Cao",
+      "Yixuan Wei",
+      "Zheng Zhang",
+      "Stephen Lin",
+      "Han Hu"
+    ],
+    "publication_date": "2021-06-24",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "94eae578e6af3382f6449506965639f18aab3fa0",
+    "corpus_id": 235624247,
+    "category": "Computer Science"
+  },
+  "2105-14217": {
+    "title": "Less is More: Pay Less Attention in Vision Transformers",
+    "authors": [
+      "Zizheng Pan",
+      "Bohan Zhuang",
+      "Haoyu He",
+      "Jing Liu",
+      "Jianfei Cai"
+    ],
+    "publication_date": "2021-05-29",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "a0964686d80e173529efca6377f47e6a1b2fe69a",
+    "corpus_id": 235254310,
+    "category": "Computer Science"
+  },
+  "2105-08276": {
+    "title": "NExT-QA: Next Phase of Question-Answering to Explaining Temporal Actions",
+    "authors": [
+      "Junbin Xiao",
+      "Xindi Shang",
+      "Angela Yao",
+      "Tat-seng Chua"
+    ],
+    "publication_date": "2021-05-18",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "1b937ff4b05e2b56c2c2fcdfa5baa3085cd5a08c",
+    "corpus_id": 234763093,
+    "category": "Computer Science"
+  },
+  "2102-05095": {
+    "title": "Is Space-Time Attention All You Need for Video Understanding?",
+    "authors": [
+      "Gedas Bertasius",
+      "Heng Wang",
+      "L. Torresani"
+    ],
+    "publication_date": "2021-02-09",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "fa08b41ccdfc5d8771adfbc34c176fa237d4646c",
+    "corpus_id": 231861462,
+    "category": "Computer Science"
+  },
+  "1906-02467": {
+    "title": "ActivityNet-QA: A Dataset for Understanding Complex Web Videos via Question Answering",
+    "authors": [
+      "Zhou Yu",
+      "D. Xu",
+      "Jun Yu",
+      "Ting Yu",
+      "Zhou Zhao",
+      "Yueting Zhuang",
+      "D. Tao"
+    ],
+    "publication_date": "2019-06-06",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "4f2c1af57c056102806a184517313804f66e7447",
+    "corpus_id": 69645185,
+    "category": "Computer Science"
+  },
+  "1902-11266": {
+    "title": "Efficient Parameter-Free Clustering Using First Neighbor Relations",
+    "authors": [
+      "Saquib Sarfraz",
+      "Vivek Sharma",
+      "R. Stiefelhagen"
+    ],
+    "publication_date": "2019-02-28",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "ed2da6d192ec8aedf8cf736ad58cfdf923d8381c",
+    "corpus_id": 67856748,
+    "category": "Computer Science"
+  },
+  "1811-08383": {
+    "title": "TSM: Temporal Shift Module for Efficient Video Understanding",
+    "authors": [
+      "Ji Lin",
+      "Chuang Gan",
+      "Song Han"
+    ],
+    "publication_date": "2018-11-20",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "4bbfd46721c145852e443ae4aad35148b814bf91",
+    "corpus_id": 85542740,
+    "category": "Computer Science"
+  },
+  "1604-02748": {
+    "title": "TGIF: A New Dataset and Benchmark on Animated GIF Description",
+    "authors": [
+      "Yuncheng Li",
+      "Yale Song",
+      "Liangliang Cao",
+      "Joel R. Tetreault",
+      "Larry Goldberg",
+      "A. Jaimes",
+      "Jiebo Luo"
+    ],
+    "publication_date": "2016-04-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "05f3f8f6f97db00bafa2efd2ac9aac570603c0c6",
+    "corpus_id": 6262415,
+    "category": "Computer Science"
+  }
+}

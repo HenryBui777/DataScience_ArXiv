@@ -1,0 +1,15 @@
+{
+  "title": "Evolving the Euler rotation axis as a dynamical system, using the Euler vector and generalizations",
+  "authors": [
+    "John H. Elton",
+    "John R. Elton"
+  ],
+  "summary": "Differential equations are derived which show how generalized Euler vector representations of the Euler rotation axis and angle for a rigid body evolve in time; the Euler vector is also known as a rotation vector or axis-angle vector. The solutions can exhibit interesting rotational features in this non-abstract, visualizable setting, including spinor-like behavior and quasiperiodicity. The equations are well-behaved at zero, reducing to the simple infinitesimal case there. One of them is equivalent to a known quaternion differential equation. The simple geometric derivation does not depend on Euler's rotation theorem, and yields a proof of Euler's theorem using only infinitesimal motions. With mild regularity conditions on the angular velocity function, there is a continuous evolution of the normalized axis and angle for all time. Dynamical systems properties are discussed, and numerical solutions are used to investigate them when the angular velocity is itself rotating, and the Euler vector trajectory traces out a torus-like shape, with a strobe plot that densely fills in a closed curve.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-12-10"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math-ph, math.DS"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "The subgraph eigenvector centrality of graphs",
+  "authors": [
+    "Qingying Zhang",
+    "Lizhu Sun",
+    "Changjiang Bu"
+  ],
+  "summary": "Let $G$ be a connected graph and let $F$ be a connected subgraph of $G$ with a given structure. We consider that the centrality of a vertex $i$ of $G$ is determined by the centrality of other vertices in all subgraphs contain $i$ and isomorphic to $F$. In this paper we propose an $F$-subgraph tensor and an $F$-subgraph eigenvector centrality of $G$. When the graph is $F$-connected, we show that the $F$-subgraph tensor is weakly irreducible, and in this case, the $F$-subgraph eigenvector centrality exists. Specifically, when we choose $F$ to be a path $P_1$ of length $1$(or a complete graph $K_2$), the $F$-eigenvector centrality is eigenvector centrality of $G$. Furthermore, we propose the $(K_2,F)$-subgraph eigenvector centrality of $G$ and prove it always exists when $G$ is connected. Specifically, the $P_2$-subgraph eigenvector centrality and $(K_2,F)$-subgraph eigenvector centrality are studied. Some examples show that the ranking of vertices under them differs from the rankings under several classic centralities. Vertices of a regular graph have the same eigenvector centrality scores. But the $(K_2,K_3)$-subgraph eigenvector centrality can distinguish vertices in a given regular graph.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.CO"
+}

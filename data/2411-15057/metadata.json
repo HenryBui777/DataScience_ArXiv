@@ -1,0 +1,16 @@
+{
+  "title": "Resolution-Adaptive Micro-Doppler Spectrogram for Human Activity Recognition",
+  "authors": [
+    "Do-Hyun Park",
+    "Min-Wook Jeon",
+    "Hyoung-Nam Kim"
+  ],
+  "summary": "The rising demand for remote-sensing systems for detecting hazardous situations has led to increased interest in radar-based human activity recognition (HAR). Conventional radar-based HAR methods predominantly rely on micro-Doppler spectrograms for recognition tasks. However, spectrograms frequently fail to effectively capture micro-Doppler signatures because of their limited linear resolution. To address this limitation, we propose a time--frequency domain representation method that adaptively adjusts the resolution based on activity characteristics. This approach nonlinearly transforms the resolution to focus on the most relevant frequency range for micro-Doppler signatures. We validate the proposed method by training deep-learning-based HAR models on datasets generated using the adaptive representation method. Experimental results demonstrate that the models trained using the proposed method achieve superior recognition accuracy compared with those trained using conventional methods.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-12-07"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP"
+}

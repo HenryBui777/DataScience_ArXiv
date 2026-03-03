@@ -1,0 +1,360 @@
+{
+  "2405-12399": {
+    "title": "Diffusion for World Modeling: Visual Details Matter in Atari",
+    "authors": [
+      "Eloi Alonso",
+      "Adam Jelley",
+      "Vincent Micheli",
+      "A. Kanervisto",
+      "A. Storkey",
+      "Tim Pearce",
+      "Franccois Fleuret"
+    ],
+    "publication_date": "2024-05-20",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "02f4516502bc0d05fb8971687f37c5f319ca2704",
+    "corpus_id": 269930021,
+    "category": "Computer Science"
+  },
+  "2402-02439": {
+    "title": "DiffStitch: Boosting Offline Reinforcement Learning with Diffusion-based Trajectory Stitching",
+    "authors": [
+      "Guanghe Li",
+      "Yixiang Shan",
+      "Zhengbang Zhu",
+      "Ting Long",
+      "Weinan Zhang"
+    ],
+    "publication_date": "2024-02-04",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "8b79b3615eb2f2ee8ce6e988313398b8f42305f4",
+    "corpus_id": 267412662,
+    "category": "Computer Science"
+  },
+  "2401-11237": {
+    "title": "Closing the Gap between TD Learning and Supervised Learning - A Generalisation Point of View",
+    "authors": [
+      "Raj Ghugare",
+      "Matthieu Geist",
+      "Glen Berseth",
+      "Benjamin Eysenbach"
+    ],
+    "publication_date": "2024-01-20",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "9cc6151bad5d027b00ff6931e2ab7012beffa841",
+    "corpus_id": 267068467,
+    "category": "Computer Science"
+  },
+  "2305-16683": {
+    "title": "Future-conditioned Unsupervised Pretraining for Decision Transformer",
+    "authors": [
+      "Zhihui Xie",
+      "Zichuan Lin",
+      "Deheng Ye",
+      "Qiang Fu",
+      "Wei Yang",
+      "Shuai Li"
+    ],
+    "publication_date": "2023-05-26",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "efabf7727dc3212676f03f1384809ce019db109d",
+    "corpus_id": 258947476,
+    "category": "Computer Science"
+  },
+  "2209-03993": {
+    "title": "Q-learning Decision Transformer: Leveraging Dynamic Programming for Conditional Sequence Modelling in Offline RL",
+    "authors": [
+      "Taku Yamagata",
+      "Ahmed Khalil",
+      "Raúl Santos-Rodríguez"
+    ],
+    "publication_date": "2022-09-08",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "fbb15aa7303586d25dc73f84c23f9b5447b0c06b",
+    "corpus_id": 252185261,
+    "category": "Computer Science"
+  },
+  "2206-07989": {
+    "title": "Double Check Your State Before Trusting It: Confidence-Aware Bidirectional Offline Model-Based Imagination",
+    "authors": [
+      "Jiafei Lyu",
+      "Xiu Li",
+      "Zongqing Lu"
+    ],
+    "publication_date": "2022-06-16",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "57899d8ecaec316ce3a3dc46b4c6fe80037664a0",
+    "corpus_id": 249712151,
+    "category": "Computer Science"
+  },
+  "2110-06169": {
+    "title": "Offline Reinforcement Learning with Implicit Q-Learning",
+    "authors": [
+      "Ilya Kostrikov",
+      "Ashvin Nair",
+      "S. Levine"
+    ],
+    "publication_date": "2021-10-12",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "348a855fe01f3f4273bf0ecf851ca688686dbfcc",
+    "corpus_id": 238634325,
+    "category": "Computer Science"
+  },
+  "2110-00188": {
+    "title": "Offline Reinforcement Learning with Reverse Model-based Imagination",
+    "authors": [
+      "Jianhao Wang",
+      "Wenzhe Li",
+      "Haozhe Jiang",
+      "Guangxiang Zhu",
+      "Siyuan Li",
+      "Chongjie Zhang"
+    ],
+    "publication_date": "2021-10-01",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "9e8df3b1fad0e219bd96d254784dee40736057ff",
+    "corpus_id": 238253061,
+    "category": "Computer Science"
+  },
+  "2106-08909": {
+    "title": "Offline RL Without Off-Policy Evaluation",
+    "authors": [
+      "David Brandfonbrener",
+      "William F. Whitney",
+      "R. Ranganath",
+      "Joan Bruna"
+    ],
+    "publication_date": "2021-06-16",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "a3b82f4fc10caf6243afbd77c9c990ce03ae36d1",
+    "corpus_id": 235446964,
+    "category": "Computer Science, Mathematics"
+  },
+  "2106-06860": {
+    "title": "A Minimalist Approach to Offline Reinforcement Learning",
+    "authors": [
+      "Scott Fujimoto",
+      "S. Gu"
+    ],
+    "publication_date": "2021-06-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "c879b25308026d6538e52b27bcf4fd3cb60855f3",
+    "corpus_id": 235422620,
+    "category": "Computer Science, Mathematics"
+  },
+  "2106-02039": {
+    "title": "Offline Reinforcement Learning as One Big Sequence Modeling Problem",
+    "authors": [
+      "Michael Janner",
+      "Qiyang Li",
+      "S. Levine"
+    ],
+    "publication_date": "2021-06-03",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "f864d4d2267abba15eb43db54f58286aef78292b",
+    "corpus_id": 235313679,
+    "category": "Computer Science"
+  },
+  "2106-01345": {
+    "title": "Decision Transformer: Reinforcement Learning via Sequence Modeling",
+    "authors": [
+      "Lili Chen",
+      "Kevin Lu",
+      "A. Rajeswaran",
+      "Kimin Lee",
+      "Aditya Grover",
+      "M. Laskin",
+      "P. Abbeel",
+      "A. Srinivas",
+      "Igor Mordatch"
+    ],
+    "publication_date": "2021-06-02",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "c1ad5f9b32d80f1c65d67894e5b8c2fdf0ae4500",
+    "corpus_id": 235294299,
+    "category": "Computer Science"
+  },
+  "2011-13456": {
+    "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+    "authors": [
+      "Yang Song",
+      "Jascha Narain Sohl-Dickstein",
+      "Diederik P. Kingma",
+      "Abhishek Kumar",
+      "Stefano Ermon",
+      "Ben Poole"
+    ],
+    "publication_date": "2020-11-26",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "633e2fbfc0b21e959a244100937c5853afca4853",
+    "corpus_id": 227209335,
+    "category": "Computer Science, Mathematics"
+  },
+  "2006-15134": {
+    "title": "Critic Regularized Regression",
+    "authors": [
+      "Ziyun Wang",
+      "Alexander Novikov",
+      "Konrad Zolna",
+      "Jost Tobias Springenberg",
+      "Scott E. Reed",
+      "Bobak Shahriari",
+      "Noah Siegel",
+      "J. Merel",
+      "Caglar Gulcehre",
+      "N. Heess",
+      "Nando de Freitas"
+    ],
+    "publication_date": "2020-06-26",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "7acbdb961f67d50fef359066f2a1d7755cf16ee2",
+    "corpus_id": 220127951,
+    "category": "Computer Science, Mathematics"
+  },
+  "2006-04779": {
+    "title": "Conservative Q-Learning for Offline Reinforcement Learning",
+    "authors": [
+      "Aviral Kumar",
+      "Aurick Zhou",
+      "G. Tucker",
+      "S. Levine"
+    ],
+    "publication_date": "2020-06-08",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "28db20a81eec74a50204686c3cf796c42a020d2e",
+    "corpus_id": 219530894,
+    "category": "Computer Science, Mathematics"
+  },
+  "2005-01643": {
+    "title": "Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems",
+    "authors": [
+      "S. Levine",
+      "Aviral Kumar",
+      "G. Tucker",
+      "Justin Fu"
+    ],
+    "publication_date": "2020-05-04",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "5e7bc93622416f14e6948a500278bfbe58cd3890",
+    "corpus_id": 218486979,
+    "category": "Computer Science, Mathematics"
+  },
+  "2004-07219": {
+    "title": "D4RL: Datasets for Deep Data-Driven Reinforcement Learning",
+    "authors": [
+      "Justin Fu",
+      "Aviral Kumar",
+      "Ofir Nachum",
+      "G. Tucker",
+      "S. Levine"
+    ],
+    "publication_date": "2020-04-15",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "a326d9f2d2d351001fece788165dbcbb524da2e4",
+    "corpus_id": 215827910,
+    "category": "Computer Science, Mathematics"
+  },
+  "2002-08396": {
+    "title": "Keep Doing What Worked: Behavioral Modelling Priors for Offline Reinforcement Learning",
+    "authors": [
+      "Noah Siegel",
+      "Jost Tobias Springenberg",
+      "Felix Berkenkamp",
+      "A. Abdolmaleki",
+      "M. Neunert",
+      "Thomas Lampe",
+      "Roland Hafner",
+      "Martin A. Riedmiller"
+    ],
+    "publication_date": "2020-02-19",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "0881655dcdf891f529ebe7ac18301e138a5e265b",
+    "corpus_id": 211204780,
+    "category": "Computer Science, Mathematics"
+  },
+  "1910-12179": {
+    "title": "BAIL: Best-Action Imitation Learning for Batch Deep Reinforcement Learning",
+    "authors": [
+      "Xinyue Chen",
+      "Zijian Zhou",
+      "Z. Wang",
+      "Che Wang",
+      "Yanqiu Wu",
+      "Qing Deng",
+      "K. Ross"
+    ],
+    "publication_date": "2019-09-25",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "b054fc685c3fa56459d5e49e4b42547164f8e024",
+    "corpus_id": 204907199,
+    "category": "Computer Science, Mathematics"
+  },
+  "1911-11361": {
+    "title": "Behavior Regularized Offline Reinforcement Learning",
+    "authors": [
+      "Yifan Wu",
+      "G. Tucker",
+      "Ofir Nachum"
+    ],
+    "publication_date": "2019-09-25",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "9be492858863c8c7c24be1ecb75724de5086bd8e",
+    "corpus_id": 208291277,
+    "category": "Computer Science, Mathematics"
+  },
+  "1906-00949": {
+    "title": "Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction",
+    "authors": [
+      "Aviral Kumar",
+      "Justin Fu",
+      "G. Tucker",
+      "S. Levine"
+    ],
+    "publication_date": "2019-06-03",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "82b4b03a4659d6e04bd7cbf51d6e08fde1348dbd",
+    "corpus_id": 173990380,
+    "category": "Computer Science, Mathematics"
+  },
+  "1812-02900": {
+    "title": "Off-Policy Deep Reinforcement Learning without Exploration",
+    "authors": [
+      "Scott Fujimoto",
+      "D. Meger",
+      "Doina Precup"
+    ],
+    "publication_date": "2018-12-07",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "5285cb8faada5de8a92a47622950f6cfd476ac1d",
+    "corpus_id": 54457299,
+    "category": "Computer Science, Mathematics"
+  },
+  "1801-01290": {
+    "title": "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor",
+    "authors": [
+      "Tuomas Haarnoja",
+      "Aurick Zhou",
+      "P. Abbeel",
+      "S. Levine"
+    ],
+    "publication_date": "2018-01-04",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "811df72e210e20de99719539505da54762a11c6d",
+    "corpus_id": 28202810,
+    "category": "Computer Science, Mathematics"
+  },
+  "1503-03585": {
+    "title": "Deep Unsupervised Learning using Nonequilibrium Thermodynamics",
+    "authors": [
+      "Jascha Narain Sohl-Dickstein",
+      "Eric A. Weiss",
+      "Niru Maheswaranathan",
+      "S. Ganguli"
+    ],
+    "publication_date": "2015-03-11",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "2dcef55a07f8607a819c21fe84131ea269cc2e3c",
+    "corpus_id": 14888175,
+    "category": "Computer Science, Mathematics"
+  }
+}

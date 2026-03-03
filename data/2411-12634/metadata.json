@@ -1,0 +1,13 @@
+{
+  "title": "Quadratic projectable Runge-Kutta methods",
+  "authors": [
+    "Ari Stern",
+    "Milo Viviani"
+  ],
+  "summary": "Runge-Kutta methods are affine equivariant: applying a method before or after an affine change of variables yields the same numerical trajectory. However, for some applications, one would like to perform numerical integration after a quadratic change of variables. For example, in Lie-Poisson reduction, a quadratic transformation reduces the number of variables in a Hamiltonian system, yielding a more efficient representation of the dynamics. Unfortunately, directly applying a symplectic Runge-Kutta method to the reduced system generally does not preserve its Hamiltonian structure, so many proposed techniques require computing numerical trajectories of the original, unreduced system.\n  In this paper, we study when a Runge-Kutta method in the original variables descends to a numerical integrator expressible entirely in terms of the quadratically transformed variables. In particular, we show that symplectic diagonally implicit Runge-Kutta (SyDIRK) methods, applied to a quadratic projectable vector field, are precisely the Runge-Kutta methods that descend to a method (generally not of Runge-Kutta type) in the projected variables. We illustrate our results with several examples in both conservative and non-conservative dynamics.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

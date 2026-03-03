@@ -1,0 +1,20 @@
+{
+  "title": "Longitudinal Wrist PPG Analysis for Reliable Hypertension Risk Screening Using Deep Learning",
+  "authors": [
+    "Hui Lin",
+    "Jiyang Li",
+    "Ramy Hussein",
+    "Xin Sui",
+    "Xiaoyu Li",
+    "Guangpu Zhu",
+    "Aggelos K. Katsaggelos",
+    "Zijing Zeng",
+    "Yelei Li"
+  ],
+  "summary": "Hypertension is a leading risk factor for cardiovascular diseases. Traditional blood pressure monitoring methods are cumbersome and inadequate for continuous tracking, prompting the development of PPG-based cuffless blood pressure monitoring wearables. This study leverages deep learning models, including ResNet and Transformer, to analyze wrist PPG data collected with a smartwatch for efficient hypertension risk screening, eliminating the need for handcrafted PPG features. Using the Home Blood Pressure Monitoring (HBPM) longitudinal dataset of 448 subjects and five-fold cross-validation, our model was trained on over 68k spot-check instances from 358 subjects and tested on real-world continuous recordings of 90 subjects. The compact ResNet model with 0.124M parameters performed significantly better than traditional machine learning methods, demonstrating its effectiveness in distinguishing between healthy and abnormal cases in real-world scenarios.",
+  "submission_date": "2024-11-02",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP, cs.LG"
+}

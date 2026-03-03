@@ -1,0 +1,16 @@
+{
+  "title": "Deriving Activation Functions Using Integration",
+  "authors": [
+    "Allen Hao Huang",
+    "Imanol Schlag"
+  ],
+  "summary": "Our work proposes a novel approach to designing activation functions by focusing on their gradients and deriving the corresponding activation functions using integration. We introduce the Expanded Integral of the Exponential Linear Unit (xIELU), a trainable piecewise activation function derived by integrating trainable affine transformations applied to the Exponential Linear Unit (ELU). xIELU combines two key properties for the gradient: (1) a trainable and linearly increasing gradient for positive inputs, similar to Squared ReLU (ReLU$^2$), and (2) a trainable gradient that can take negative values for negative inputs, inspired by Expanded SiLU (xSiLU). Conceptually, xIELU can be viewed as an extension of ReLU$^2$ to handle negative inputs. The trainable parameters in xIELU allow it to adaptively reduce its nonlinearity for higher-level representations deeper in the network. In experiments with 1.1B and 3B parameter Llama models trained on 125B tokens of FineWeb Edu, xIELU achieves lower perplexity compared to popular activation functions like ReLU$^2$ and SwiGLU when matched for the same compute cost and parameter count. A reference implementation is available at https://github.com/Anonymous5823/xielu.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-21",
+    "2025-01-31"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.NE"
+}

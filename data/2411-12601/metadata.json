@@ -1,0 +1,15 @@
+{
+  "title": "Hypergraph $p$-Laplacian equations for data interpolation and semi-supervised learning",
+  "authors": [
+    "Kehan Shi",
+    "Martin Burger"
+  ],
+  "summary": "Hypergraph learning with $p$-Laplacian regularization has attracted a lot of attention due to its flexibility in modeling higher-order relationships in data. This paper focuses on its fast numerical implementation, which is challenging due to the non-differentiability of the objective function and the non-uniqueness of the minimizer. We derive a hypergraph $p$-Laplacian equation from the subdifferential of the $p$-Laplacian regularization. A simplified equation that is mathematically well-posed and computationally efficient is proposed as an alternative. Numerical experiments verify that the simplified $p$-Laplacian equation suppresses spiky solutions in data interpolation and improves classification accuracy in semi-supervised learning. The remarkably low computational cost enables further applications.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-04-07"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA, cs.LG"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "GeMID: Generalizable Models for IoT Device Identification",
+  "authors": [
+    "Kahraman Kostas",
+    "Rabia Yasa Kostas",
+    "Mike Just",
+    "Michael A. Lones"
+  ],
+  "summary": "With the proliferation of devices on the Internet of Things (IoT), ensuring their security has become paramount. Device identification (DI), which distinguishes IoT devices based on their traffic patterns, plays a crucial role in both differentiating devices and identifying vulnerable ones, closing a serious security gap. However, existing approaches to DI that build machine learning models often overlook the challenge of model generalizability across diverse network environments. In this study, we propose a novel framework to address this limitation and to evaluate the generalizability of DI models across data sets collected within different network environments. Our approach involves a two-step process: first, we develop a feature and model selection method that is more robust to generalization issues by using a genetic algorithm with external feedback and datasets from distinct environments to refine the selections. Second, the resulting DI models are then tested on further independent datasets to robustly assess their generalizability. We demonstrate the effectiveness of our method by empirically comparing it to alternatives, highlighting how fundamental limitations of commonly employed techniques such as sliding window and flow statistics limit their generalizability. Moreover, we show that statistical methods, widely used in the literature, are unreliable for device identification due to their dependence on network-specific characteristics rather than device-intrinsic properties, challenging the validity of a significant portion of existing research. Our findings advance research in IoT security and device identification, offering insight into improving model effectiveness and mitigating risks in IoT networks.",
+  "submission_date": "2024-11-05",
+  "revised_dates": [
+    "2025-07-02",
+    "2025-11-11"
+  ],
+  "publication_venue": "Internet of Things 34 (2025) 101806",
+  "pdf_url": null,
+  "category": "cs.CR, cs.AI, cs.NI"
+}

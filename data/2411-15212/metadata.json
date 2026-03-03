@@ -1,0 +1,15 @@
+{
+  "title": "Effective Analog ICs Floorplanning with Relational Graph Neural Networks and Reinforcement Learning",
+  "authors": [
+    "Davide Basso",
+    "Luca Bortolussi",
+    "Mirjana Videnovic-Misic",
+    "Husni Habal"
+  ],
+  "summary": "Analog integrated circuit (IC) floorplanning is typically a manual process with the placement of components (devices and modules) planned by a layout engineer. This process is further complicated by the interdependence of floorplanning and routing steps, numerous electric and layout-dependent constraints, as well as the high level of customization expected in analog design. This paper presents a novel automatic floorplanning algorithm based on reinforcement learning. It is augmented by a relational graph convolutional neural network model for encoding circuit features and positional constraints. The combination of these two machine learning methods enables knowledge transfer across different circuit designs with distinct topologies and constraints, increasing the \\emph{generalization ability} of the solution. Applied to $6$ industrial circuits, our approach surpassed established floorplanning techniques in terms of speed, area and half-perimeter wire length. When integrated into a \\emph{procedural generator} for layout completion, overall layout time was reduced by $67.3\\%$ with a $8.3\\%$ mean area reduction compared to manual layout.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI, eess.SY"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "A Comparative Study of Text Retrieval Models on DaReCzech",
+  "authors": [
+    "Jakub Stetina",
+    "Martin Fajcik",
+    "Michal Stefanik",
+    "Michal Hradis"
+  ],
+  "summary": "This article presents a comprehensive evaluation of 7 off-the-shelf document retrieval models: Splade, Plaid, Plaid-X, SimCSE, Contriever, OpenAI ADA and Gemma2 chosen to determine their performance on the Czech retrieval dataset DaReCzech. The primary objective of our experiments is to estimate the quality of modern retrieval approaches in the Czech language. Our analyses include retrieval quality, speed, and memory footprint. Secondly, we analyze whether it is better to use the model directly in Czech text, or to use machine translation into English, followed by retrieval in English. Our experiments identify the most effective option for Czech information retrieval. The findings revealed notable performance differences among the models, with Gemma22 achieving the highest precision and recall, while Contriever performing poorly. Conclusively, SPLADE and PLAID models offered a balance of efficiency and performance.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-12-20"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IR, cs.AI"
+}

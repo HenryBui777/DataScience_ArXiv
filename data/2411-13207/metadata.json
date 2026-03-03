@@ -1,0 +1,17 @@
+{
+  "title": "The Information Security Awareness of Large Language Models",
+  "authors": [
+    "Ofir Cohen",
+    "Gil Ari Agmon",
+    "Asaf Shabtai",
+    "Rami Puzis"
+  ],
+  "summary": "The popularity of large language models (LLMs) continues to grow, and LLM-based assistants have become ubiquitous. Information security awareness (ISA) is an important yet underexplored safety aspect of LLMs. ISA encompasses LLMs' security knowledge, which has been explored in the past, as well as attitudes and behaviors, which are crucial to LLMs' ability to understand implicit security context and reject unsafe requests that may cause the LLM to fail the user. We present an automated method for measuring the ISA of LLMs, which covers all 30 security topics in a mobile ISA taxonomy, using realistic scenarios that create tension between implicit security implications and user satisfaction. Applying this method to leading LLMs, we find that most of the popular models exhibit only medium to low levels of ISA, exposing their users to cybersecurity threats. Smaller variants of the same model family are significantly riskier, while newer versions show no consistent ISA improvement, suggesting that providers are not actively working toward mitigating this issue. These results reveal a widespread vulnerability affecting current LLM deployments: the majority of popular models, and particularly their smaller variants, may systematically endanger users. We propose a practical mitigation: incorporating our security awareness instruction into model system prompts to help LLMs better detect and reject unsafe requests.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-09-05"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR, cs.AI, cs.LG"
+}

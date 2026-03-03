@@ -1,0 +1,16 @@
+{
+  "title": "Predicting User Intents and Musical Attributes from Music Discovery Conversations",
+  "authors": [
+    "Daeyong Kwon",
+    "SeungHeon Doh",
+    "Juhan Nam"
+  ],
+  "summary": "Intent classification is a text understanding task that identifies user needs from input text queries. While intent classification has been extensively studied in various domains, it has not received much attention in the music domain. In this paper, we investigate intent classification models for music discovery conversation, focusing on pre-trained language models. Rather than only predicting functional needs: intent classification, we also include a task for classifying musical needs: musical attribute classification. Additionally, we propose a method of concatenating previous chat history with just single-turn user queries in the input text, allowing the model to understand the overall conversation context better. Our proposed model significantly improves the F1 score for both user intent and musical attribute classification, and surpasses the zero-shot and few-shot performance of the pretrained Llama 3 model.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-20"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.LG, cs.SD, eess.AS"
+}

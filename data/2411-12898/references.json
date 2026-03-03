@@ -1,0 +1,473 @@
+{
+  "2305-12568": {
+    "title": "Det-CGD: Compressed Gradient Descent with Matrix Stepsizes for Non-Convex Optimization",
+    "authors": [
+      "Hanmin Li",
+      "Avetik G. Karagulyan",
+      "Peter Richtárik"
+    ],
+    "publication_date": "2023-05-21",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "601b955e8ffdb6dcd6c279e7bd14a0b015e956e0",
+    "corpus_id": 258833680,
+    "category": "Computer Science, Mathematics"
+  },
+  "2206-09888": {
+    "title": "SoteriaFL: A Unified Framework for Private Federated Learning with Communication Compression",
+    "authors": [
+      "Zhize Li",
+      "Haoyu Zhao",
+      "Boyue Li",
+      "Yuejie Chi"
+    ],
+    "publication_date": "2022-06-20",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "11460f944d740129ac9c7044869b6adb2decbe24",
+    "corpus_id": 249888977,
+    "category": "Computer Science, Mathematics"
+  },
+  "2206-03665": {
+    "title": "Lower Bounds and Nearly Optimal Algorithms in Distributed Learning with Communication Compression",
+    "authors": [
+      "Xinmeng Huang",
+      "Yiming Chen",
+      "W. Yin",
+      "K. Yuan"
+    ],
+    "publication_date": "2022-06-08",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "10044d70ffefdfc57ebc69ae6d52e1f5178bb775",
+    "corpus_id": 249461567,
+    "category": "Computer Science, Mathematics"
+  },
+  "2205-04180": {
+    "title": "EF-BV: A Unified Theory of Error Feedback and Variance Reduction Mechanisms for Biased and Unbiased Compression in Distributed Optimization",
+    "authors": [
+      "Laurent Condat",
+      "Kai Yi",
+      "Peter Richt'arik"
+    ],
+    "publication_date": "2022-05-09",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "0e9f854529a2122fd5c2f375755e654ef92302e7",
+    "corpus_id": 248571916,
+    "category": "Computer Science, Mathematics"
+  },
+  "2201-13320": {
+    "title": "BEER: Fast O(1/T) Rate for Decentralized Nonconvex Optimization with Communication Compression",
+    "authors": [
+      "Haoyu Zhao",
+      "Boyue Li",
+      "Zhize Li",
+      "Peter Richt'arik",
+      "Yuejie Chi"
+    ],
+    "publication_date": "2022-01-31",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "f0a69aea334b0ad41bf85ddb9d200a48d3c88842",
+    "corpus_id": 246430634,
+    "category": "Computer Science, Mathematics"
+  },
+  "2106-03524": {
+    "title": "Theoretically Better and Numerically Faster Distributed Optimization with Smoothness-Aware Quantization Techniques",
+    "authors": [
+      "Bokun Wang",
+      "Mher Safaryan",
+      "Peter Richt'arik"
+    ],
+    "publication_date": "2021-06-07",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "5878f9e1d064c9d805efebf2dc56f48da4a8ff1f",
+    "corpus_id": 252873684,
+    "category": "Computer Science, Mathematics"
+  },
+  "2104-11125": {
+    "title": "ScaleCom: Scalable Sparsified Gradient Compression for Communication-Efficient Distributed Training",
+    "authors": [
+      "Chia-Yu Chen",
+      "Jiamin Ni",
+      "Songtao Lu",
+      "Xiaodong Cui",
+      "Pin-Yu Chen",
+      "Xiao Sun",
+      "Naigang Wang",
+      "Swagath Venkataramani",
+      "Vijayalakshmi Srinivasan",
+      "Wei Zhang",
+      "K. Gopalakrishnan"
+    ],
+    "publication_date": "2021-04-21",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "181198db16562aec7d0409871345027b406242a9",
+    "corpus_id": 227276415,
+    "category": "Computer Science"
+  },
+  "2102-12092": {
+    "title": "Zero-Shot Text-to-Image Generation",
+    "authors": [
+      "A. Ramesh",
+      "Mikhail Pavlov",
+      "Gabriel Goh",
+      "Scott Gray",
+      "Chelsea Voss",
+      "Alec Radford",
+      "Mark Chen",
+      "I. Sutskever"
+    ],
+    "publication_date": "2021-02-24",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "2cd605106b88c85d7d8b865b1ef0f8c8293debf1",
+    "corpus_id": 232035663,
+    "category": "Computer Science"
+  },
+  "2102-07245": {
+    "title": "Smoothness Matrices Beat Smoothness Constants: Better Communication Compression Techniques for Distributed Optimization",
+    "authors": [
+      "Mher Safaryan",
+      "Filip Hanzely",
+      "Peter Richtárik"
+    ],
+    "publication_date": "2021-02-14",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "88d90345b6b7e7b1ace2cc835f0a508650cf2dc5",
+    "corpus_id": 231924896,
+    "category": "Computer Science, Mathematics"
+  },
+  "2102-02888": {
+    "title": "1-bit Adam: Communication Efficient Large-Scale Training with Adam's Convergence Speed",
+    "authors": [
+      "Hanlin Tang",
+      "Shaoduo Gan",
+      "A. A. Awan",
+      "Samyam Rajbhandari",
+      "Conglong Li",
+      "Xiangru Lian",
+      "Ji Liu",
+      "Ce Zhang",
+      "Yuxiong He"
+    ],
+    "publication_date": "2021-02-04",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "4066d78b637c2b8e57de5ffd53950134a551de85",
+    "corpus_id": 231839831,
+    "category": "Computer Science"
+  },
+  "2010-10458": {
+    "title": "Towards Scalable Distributed Training of Deep Learning on Public Cloud Clusters",
+    "authors": [
+      "S. Shi",
+      "Xianhao Zhou",
+      "Shutao Song",
+      "Xingyao Wang",
+      "Zilin Zhu",
+      "Xuelin Huang",
+      "Xinan Jiang",
+      "Feihu Zhou",
+      "Zhenyu Guo",
+      "Liqiang Xie",
+      "Rui Lan",
+      "Xianbin Ouyang",
+      "Yan Zhang",
+      "Jieqian Wei",
+      "Jing Gong",
+      "Weiliang Lin",
+      "Ping Gao",
+      "Peng Meng",
+      "Xiaomin Xu",
+      "Chenyang Guo",
+      "Bo Yang",
+      "Zhibo Chen",
+      "Yongjian Wu",
+      "X. Chu"
+    ],
+    "publication_date": "2020-10-20",
+    "venue": "Conference on Machine Learning and Systems",
+    "semantic_scholar_id": "f57db358459390590bc838663025dae0f8d51ebf",
+    "corpus_id": 224803615,
+    "category": "Computer Science"
+  },
+  "2010-08222": {
+    "title": "Towards Tight Communication Lower Bounds for Distributed Optimisation",
+    "authors": [
+      "Janne H. Korhonen",
+      "Dan Alistarh"
+    ],
+    "publication_date": "2020-10-16",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "bc2faa099c6f3a17e1d40419cf3615057e30e7d4",
+    "corpus_id": 235699566,
+    "category": "Computer Science, Mathematics"
+  },
+  "2010-03246": {
+    "title": "Optimal Gradient Compression for Distributed and Federated Learning",
+    "authors": [
+      "Alyazeed Albasyoni",
+      "Mher Safaryan",
+      "Laurent Condat",
+      "Peter Richtárik"
+    ],
+    "publication_date": "2020-10-07",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "cd6b92ba6c4f67775a7e1a9828db82f9bc1dae13",
+    "corpus_id": 222177196,
+    "category": "Computer Science, Mathematics"
+  },
+  "2009-02388": {
+    "title": "On Communication Compression for Distributed Optimization on Heterogeneous Data",
+    "authors": [
+      "Sebastian U. Stich"
+    ],
+    "publication_date": "2020-09-04",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "4113fb00b5c2d3b2d82125a0ef4ed733a10f7cc9",
+    "corpus_id": 221516314,
+    "category": "Computer Science, Mathematics"
+  },
+  "2008-01425": {
+    "title": "PowerGossip: Practical Low-Rank Communication Compression in Decentralized Deep Learning",
+    "authors": [
+      "Thijs Vogels",
+      "Sai Praneeth Karimireddy",
+      "Martin Jaggi"
+    ],
+    "publication_date": "2020-08-04",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "8e758b7da5e1ab0143ee4ad77fcaec8bf50a4d88",
+    "corpus_id": 220962352,
+    "category": "Computer Science, Mathematics"
+  },
+  "2007-07682": {
+    "title": "FetchSGD: Communication-Efficient Federated Learning with Sketching",
+    "authors": [
+      "D. Rothchild",
+      "Ashwinee Panda",
+      "Enayat Ullah",
+      "Nikita Ivkin",
+      "Ion Stoica",
+      "Vladimir Braverman",
+      "Joseph Gonzalez",
+      "Raman Arora"
+    ],
+    "publication_date": "2020-07-12",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "2dbdd9a64ed5dda1c5e5dedd9f5b55ccbb53900b",
+    "corpus_id": 220525597,
+    "category": "Computer Science, Mathematics"
+  },
+  "2002-12410": {
+    "title": "On Biased Compression for Distributed Learning",
+    "authors": [
+      "Aleksandr Beznosikov",
+      "Samuel Horvath",
+      "Peter Richtárik",
+      "Mher Safaryan"
+    ],
+    "publication_date": "2020-02-27",
+    "venue": "Journal of machine learning research",
+    "semantic_scholar_id": "1525eef1598d88dfa3765687eae089ddb30a1575",
+    "corpus_id": 211572640,
+    "category": "Computer Science, Mathematics"
+  },
+  "1905-10988": {
+    "title": "Natural Compression for Distributed Deep Learning",
+    "authors": [
+      "Samuel Horváth",
+      "Chen-Yu Ho",
+      "L. Horvath",
+      "Atal Narayan Sahu",
+      "Marco Canini",
+      "Peter Richtárik"
+    ],
+    "publication_date": "2019-05-27",
+    "venue": "Mathematical and Scientific Machine Learning",
+    "semantic_scholar_id": "8dbd03d92fb9556a14cb1eed0ee85951bab0c06b",
+    "corpus_id": 166227974,
+    "category": "Computer Science, Mathematics"
+  },
+  "1905-13727": {
+    "title": "PowerSGD: Practical Low-Rank Gradient Compression for Distributed Optimization",
+    "authors": [
+      "Thijs Vogels",
+      "Sai Praneeth Karimireddy",
+      "Martin Jaggi"
+    ],
+    "publication_date": "2019-05-01",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "b4a632a7097e7d0631250884dfc6e1f76b376996",
+    "corpus_id": 173188890,
+    "category": "Computer Science, Mathematics"
+  },
+  "1903-04488": {
+    "title": "Communication-efficient distributed SGD with Sketching",
+    "authors": [
+      "Nikita Ivkin",
+      "D. Rothchild",
+      "Enayat Ullah",
+      "V. Braverman",
+      "Ion Stoica",
+      "R. Arora"
+    ],
+    "publication_date": "2019-03-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "73b72bf922fd1f5b97fd5b7aa32ce748cad168ac",
+    "corpus_id": 75135063,
+    "category": "Computer Science, Mathematics"
+  },
+  "1901-09847": {
+    "title": "Error Feedback Fixes SignSGD and other Gradient Compression Schemes",
+    "authors": [
+      "Sai Praneeth Karimireddy",
+      "Quentin Rebjock",
+      "Sebastian U. Stich",
+      "Martin Jaggi"
+    ],
+    "publication_date": "2019-01-28",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "7c22a6a07e89461178b794681c675b209332ee15",
+    "corpus_id": 59316785,
+    "category": "Computer Science, Mathematics"
+  },
+  "1809-07599": {
+    "title": "Sparsified SGD with Memory",
+    "authors": [
+      "Sebastian U. Stich",
+      "Jean-Baptiste Cordonnier",
+      "Martin Jaggi"
+    ],
+    "publication_date": "2018-09-20",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "38f1ef8ab96e5e0195abcd197bf6df47eb308e8a",
+    "corpus_id": 52307874,
+    "category": "Computer Science, Mathematics"
+  },
+  "1806-06573": {
+    "title": "Distributed learning with compressed gradients",
+    "authors": [
+      "Sarit Khirirat",
+      "Hamid Reza Feyzmahdavian",
+      "M. Johansson"
+    ],
+    "publication_date": "2018-06-18",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "cb9dce40c3472dbf5632d36c485b77d1e411c6cf",
+    "corpus_id": 88516882,
+    "category": "Mathematics"
+  },
+  "1805-10559": {
+    "title": "cpSGD: Communication-efficient and differentially-private distributed SGD",
+    "authors": [
+      "Naman Agarwal",
+      "A. Suresh",
+      "Felix X. Yu",
+      "Sanjiv Kumar",
+      "H. B. McMahan"
+    ],
+    "publication_date": "2018-05-27",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "90d1be1c16e0df7d7a0e8839ec34171c13265678",
+    "corpus_id": 44113205,
+    "category": "Mathematics, Computer Science"
+  },
+  "1710-09854": {
+    "title": "Gradient Sparsification for Communication-Efficient Distributed Optimization",
+    "authors": [
+      "Jianqiao Wangni",
+      "Jialei Wang",
+      "Ji Liu",
+      "Tong Zhang"
+    ],
+    "publication_date": "2017-10-26",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "1caff87770b1cbddcf94edc0a9b1bce029324765",
+    "corpus_id": 13070099,
+    "category": "Mathematics, Computer Science"
+  },
+  "1705-07878": {
+    "title": "TernGrad: Ternary Gradients to Reduce Communication in Distributed Deep Learning",
+    "authors": [
+      "W. Wen",
+      "Cong Xu",
+      "Feng Yan",
+      "Chunpeng Wu",
+      "Yandan Wang",
+      "Yiran Chen",
+      "Hai Helen Li"
+    ],
+    "publication_date": "2017-05-22",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "4bdb91a6e47385292ab7a18e8901a6a25f50cc6b",
+    "corpus_id": 3747520,
+    "category": "Computer Science, Mathematics"
+  },
+  "1512-03385": {
+    "title": "Deep Residual Learning for Image Recognition",
+    "authors": [
+      "Kaiming He",
+      "X. Zhang",
+      "Shaoqing Ren",
+      "Jian Sun"
+    ],
+    "publication_date": "2015-12-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+    "corpus_id": 206594692,
+    "category": "Computer Science"
+  },
+  "1503-07236": {
+    "title": "Isotropically random orthogonal matrices: Performance of LASSO and minimum conic singular values",
+    "authors": [
+      "Christos Thrampoulidis",
+      "B. Hassibi"
+    ],
+    "publication_date": "2015-03-24",
+    "venue": "International Symposium on Information Theory",
+    "semantic_scholar_id": "62df41f3c3a43edf92965de28e9caaccd7e4b15d",
+    "corpus_id": 5872938,
+    "category": "Mathematics, Computer Science"
+  },
+  "1409-0575": {
+    "title": "ImageNet Large Scale Visual Recognition Challenge",
+    "authors": [
+      "Olga Russakovsky",
+      "Jia Deng",
+      "Hao Su",
+      "J. Krause",
+      "S. Satheesh",
+      "Sean Ma",
+      "Zhiheng Huang",
+      "A. Karpathy",
+      "A. Khosla",
+      "Michael S. Bernstein",
+      "A. Berg",
+      "Li Fei-Fei"
+    ],
+    "publication_date": "2014-09-01",
+    "venue": "International Journal of Computer Vision",
+    "semantic_scholar_id": "e74f9b7f8eec6ba4704c206b93bc8079af3da4bd",
+    "corpus_id": 2930547,
+    "category": "Computer Science"
+  },
+  "1309-5549": {
+    "title": "Stochastic First- and Zeroth-Order Methods for Nonconvex Stochastic Programming",
+    "authors": [
+      "Saeed Ghadimi",
+      "Guanghui Lan"
+    ],
+    "publication_date": "2013-09-22",
+    "venue": "SIAM Journal on Optimization",
+    "semantic_scholar_id": "8424a9e5a4456a2c45a42e392b9c01cd0c5c9467",
+    "corpus_id": 14112046,
+    "category": "Mathematics, Computer Science"
+  },
+  "math-ph/0609050": {
+    "title": "How to generate random matrices from the classical compact groups",
+    "authors": [
+      "F. Mezzadri"
+    ],
+    "publication_date": "2006-09-18",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "4a0614ae3dd74838995a38546e78a4bdadd8aee1",
+    "corpus_id": 6036276,
+    "category": "Mathematics, Physics"
+  }
+}

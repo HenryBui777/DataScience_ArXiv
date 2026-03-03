@@ -1,0 +1,14 @@
+{
+  "title": "Quantum CORDIC -- Arcsin on a Budget",
+  "authors": [
+    "Iain Burge",
+    "Michel Barbeau",
+    "Joaquin Garcia-Alfaro"
+  ],
+  "summary": "This work introduces a quantum algorithm for computing the arcsine function to an arbitrary accuracy. We leverage a technique from embedded computing and field-programmable gate array (FPGA), called COordinate Rotation DIgital Computer (CORDIC). CORDIC is a family of iterative algorithms that, in a classical context, can approximate various trigonometric, hyperbolic, and elementary functions using only bit shifts and additions. Adapting CORDIC to the quantum context is non-trivial, as the algorithm traditionally uses several non-reversible operations. We detail a method for CORDIC which avoids such non-reversible operations. We propose multiple approaches to calculate the arcsine function reversibly with CORDIC. For n bits of precision, our method has space complexity of order n qubits, a layer count in the order of n times log n, and a CNOT count in the order of n squared. This primitive function is a required step for the Harrow-Hassidim-Lloyd (HHL) algorithm, is necessary for quantum digital-to-analog conversion, can simplify a quantum speed-up for Monte-Carlo methods, and has direct applications in the quantum estimation of Shapley values.",
+  "submission_date": "2024-11-02",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, cs.CR"
+}

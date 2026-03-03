@@ -1,0 +1,17 @@
+{
+  "title": "Solution for the finite space-bandwidth limitation in digital holography",
+  "authors": [
+    "Byung Gyu Chae"
+  ],
+  "summary": "A lensless digital holography enables wide-field microscopic imaging without the limitations imposed by optical lens performance. However, conventional holographic imaging often relies on magnifying optical systems to compensate for the low resolution of holograms captured by image sensors. The spatial resolution of the reconstructed image is fundamentally constrained by the space-bandwidth of the hologram due to aliasing errors at insufficient sampling rates. This study analyzes the spatial distribution of the angular spectrum in undersampled holograms using angle modulation techniques. Aliased replica functions are identified as phase-modulated functions by multiples of the sampling frequency, with the spatial frequency components continuously extending into the replica regions. Optical imaging simulations demonstrate that image reconstruction beyond the space-bandwidth limitation of digital holograms is feasible. In particular, high-order diffraction fields, characterized by orthogonality, can be effectively eliminated through an upsampling process. By sequentially removing high-order terms and applying a learning-based denoising algorithm, wide-field high-resolution optical imaging is achieved. This approach demonstrates that only a captured low-resolution hologram can reconstruct a high-resolution image, thereby overcoming the limitations imposed by the finite space-bandwidth of digital holography.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-12-04",
+    "2024-12-30",
+    "2025-01-12",
+    "2025-06-22"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.optics"
+}

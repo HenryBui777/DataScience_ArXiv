@@ -1,0 +1,14 @@
+{
+  "title": "Graph as a feature: improving node classification with non-neural graph-aware logistic regression",
+  "authors": [
+    "Simon Delarue",
+    "Thomas Bonald",
+    "Tiphaine Viard"
+  ],
+  "summary": "Graph Neural Networks (GNNs) and their message passing framework that leverages both structural and feature information, have become a standard method for solving graph-based machine learning problems. However, these approaches still struggle to generalise well beyond datasets that exhibit strong homophily, where nodes of the same class tend to connect. This limitation has led to the development of complex neural architectures that pose challenges in terms of efficiency and scalability. In response to these limitations, we focus on simpler and more scalable approaches and introduce Graph-aware Logistic Regression (GLR), a non-neural model designed for node classification tasks. Unlike traditional graph algorithms that use only a fraction of the information accessible to GNNs, our proposed model simultaneously leverages both node features and the relationships between entities. However instead of relying on message passing, our approach encodes each node's relationships as an additional feature vector, which is then combined with the node's self attributes. Extensive experimental results, conducted within a rigorous evaluation framework, show that our proposed GLR approach outperforms both foundational and sophisticated state-of-the-art GNN models in node classification tasks. Going beyond the traditional limited benchmarks, our experiments indicate that GLR increases generalisation ability while reaching performance gains in computation time up to two orders of magnitude compared to it best neural competitor.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

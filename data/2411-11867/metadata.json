@@ -1,0 +1,18 @@
+{
+  "title": "Stability in Reaction Network Models via an Extension of the Next Generation Matrix Method",
+  "authors": [
+    "Florin Avram",
+    "Rim Adenane",
+    "Andrei D. Halanay",
+    "Matthew D. Johnston"
+  ],
+  "summary": "In this essay, we investigate some relations between Chemical Reaction Networks (CRN) and Mathematical Epidemiology (ME) and report on several pleasant surprises which we had simply by putting these two topics together.\n  Firstly, we propose a definition of ME models as a subset of CRN models.\n  Secondly, we review a fundamental stability result for boundary points, known in ME as the NGM method since it replaces the investigation of the Jacobian by that of a matrix whose origins lie in probability (the theory of branching processes). This important result seems to be little known outside of ME; even in ME, it has not been made clear before that the method gets sometimes the right answer, even though the conditions of the NGM theorem are not all satisfied. Thus, beyond the theorem, there is a heuristic approach, the validity conditions for which are not sufficiently understood.\n  Thirdly, we show that some simple CRN models with absolute concentration robustness (ACR), are close qualitatively to simple ME models, in the sense that they have an unique disease free equilibrium, and a unique interior fixed point, and the latter enters the positive domain and becomes stable precisely when $R_0:=s_{dfe} \\mathcal{R}=\\frac{s_{dfe}}{s_e}>1.$\n  (where $s$ denotes the \"ACR species\"). Thus, for these \"ME type models\", a \"relay phenomena\" takes place: precisely when the DFE loses stability, a new fixed point enters the domain, and takes over.\n  Last but not least, we offer in the associated GitHub repository https://github.com/adhalanay/epidemiology_crns a Mathematica package, Epid-CRN, which is addressed to researchers of both disciplines, and provide illustrative notebooks, which in particular solve a few minor open ME and CRN problems. Our package may also be used to study easy cases of analogue continuous time Markov chain (CTMC) ME and CRN models.",
+  "submission_date": "2024-11-03",
+  "revised_dates": [
+    "2025-05-19",
+    "2025-05-21"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-bio.MN"
+}

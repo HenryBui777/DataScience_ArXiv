@@ -1,0 +1,15 @@
+{
+  "title": "Temporal and Spatial Reservoir Ensembling Techniques for Liquid State Machines",
+  "authors": [
+    "Anmol Biswas",
+    "Sharvari Ashok Medhe",
+    "Raghav Singhal",
+    "Udayan Ganguly"
+  ],
+  "summary": "Reservoir computing (RC), is a class of computational methods such as Echo State Networks (ESN) and Liquid State Machines (LSM) describe a generic method to perform pattern recognition and temporal analysis with any non-linear system. This is enabled by Reservoir Computing being a shallow network model with only Input, Reservoir, and Readout layers where input and reservoir weights are not learned (only the readout layer is trained). LSM is a special case of Reservoir computing inspired by the organization of neurons in the brain and generally refers to spike-based Reservoir computing approaches. LSMs have been successfully used to showcase decent performance on some neuromorphic vision and speech datasets but a common problem associated with LSMs is that since the model is more-or-less fixed, the main way to improve the performance is by scaling up the Reservoir size, but that only gives diminishing rewards despite a tremendous increase in model size and computation. In this paper, we propose two approaches for effectively ensembling LSM models - Multi-Length Scale Reservoir Ensemble (MuLRE) and Temporal Excitation Partitioned Reservoir Ensemble (TEPRE) and benchmark them on Neuromorphic-MNIST (N-MNIST), Spiking Heidelberg Digits (SHD), and DVSGesture datasets, which are standard neuromorphic benchmarks. We achieve 98.1% test accuracy on N-MNIST with a 3600-neuron LSM model which is higher than any prior LSM-based approach and 77.8% test accuracy on the SHD dataset which is on par with a standard Recurrent Spiking Neural Network trained by Backprop Through Time (BPTT). We also propose receptive field-based input weights to the Reservoir to work alongside the Multi-Length Scale Reservoir ensemble model for vision tasks. Thus, we introduce effective means of scaling up the performance of LSM models and evaluate them against relevant neuromorphic benchmarks",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.NE"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Diffusion-Inspired Cold Start with Sufficient Prior in Computerized Adaptive Testing",
+  "authors": [
+    "Haiping Ma",
+    "Aoqing Xia",
+    "Changqian Wang",
+    "Hai Wang",
+    "Xingyi Zhang"
+  ],
+  "summary": "Computerized Adaptive Testing (CAT) aims to select the most appropriate questions based on the examinee's ability and is widely used in online education. However, existing CAT systems often lack initial understanding of the examinee's ability, requiring random probing questions. This can lead to poorly matched questions, extending the test duration and negatively impacting the examinee's mindset, a phenomenon referred to as the Cold Start with Insufficient Prior (CSIP) task. This issue occurs because CAT systems do not effectively utilize the abundant prior information about the examinee available from other courses on online platforms. These response records, due to the commonality of cognitive states across different knowledge domains, can provide valuable prior information for the target domain. However, no prior work has explored solutions for the CSIP task. In response to this gap, we propose Diffusion Cognitive States TransfeR Framework (DCSR), a novel domain transfer framework based on Diffusion Models (DMs) to address the CSIP task. Specifically, we construct a cognitive state transition bridge between domains, guided by the common cognitive states of examinees, encouraging the model to reconstruct the initial ability state in the target domain. To enrich the expressive power of the generated data, we analyze the causal relationships in the generation process from a causal perspective. Redundant and extraneous cognitive states can lead to limited transfer and negative transfer effects. Our DCSR can seamlessly apply the generated initial ability states in the target domain to existing question selection algorithms, thus improving the cold start performance of the CAT system. Extensive experiments conducted on five real-world datasets demonstrate that DCSR significantly outperforms existing baseline methods in addressing the CSIP task.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI, cs.CY"
+}

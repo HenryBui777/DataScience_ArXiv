@@ -1,0 +1,15 @@
+{
+  "title": "Near-Optimal Time-Sparsity Trade-Offs for Solving Noisy Linear Equations",
+  "authors": [
+    "Kiril Bangachev",
+    "Guy Bresler",
+    "Stefan Tiegel",
+    "Vinod Vaikuntanathan"
+  ],
+  "summary": "We present a polynomial-time reduction from solving noisy linear equations over $\\mathbb{Z}/q\\mathbb{Z}$ in dimension $Θ(k\\log n/\\mathsf{poly}(\\log k,\\log q,\\log\\log n))$ with a uniformly random coefficient matrix to noisy linear equations over $\\mathbb{Z}/q\\mathbb{Z}$ in dimension $n$ where each row of the coefficient matrix has uniformly random support of size $k$. This allows us to deduce the hardness of sparse problems from their dense counterparts. In particular, we derive hardness results in the following canonical settings. 1) Assuming the $\\ell$-dimensional (dense) LWE over a polynomial-size field takes time $2^{Ω(\\ell)}$, $k$-sparse LWE in dimension $n$ takes time $n^{Ω({k}/{(\\log k \\cdot (\\log k + \\log \\log n))})}.$ 2) Assuming the $\\ell$-dimensional (dense) LPN over $\\mathbb{F}_2$ takes time $2^{Ω(\\ell/\\log \\ell)}$, $k$-sparse LPN in dimension $n$ takes time $n^{Ω(k/(\\log k \\cdot (\\log k + \\log \\log n)^2))}~.$ These running time lower bounds are nearly tight as both sparse problems can be solved in time $n^{O(k)},$ given sufficiently many samples. We further give a reduction from $k$-sparse LWE to noisy tensor completion. Concretely, composing the two reductions implies that order-$k$ rank-$2^{k-1}$ noisy tensor completion in $\\mathbb{R}^{n^{\\otimes k}}$ takes time $n^{Ω(k/ \\log k \\cdot (\\log k + \\log \\log n))}$, assuming the exponential hardness of standard worst-case lattice problems.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CC, cs.CR, cs.DM, math.ST"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Experimental Measurement-Device-Independent Quantum Cryptographic Conferencing",
+  "authors": [
+    "Yifeng Du",
+    "Yufeng Liu",
+    "Chengdong Yang",
+    "Xiaodong Zheng",
+    "Shining Zhu",
+    "Xiao-song Ma"
+  ],
+  "summary": "Quantum cryptographic conferencing (QCC) allows sharing secret keys among multiple distant users and plays a crucial role in quantum networks. Because of the fragility and low generation rate of genuine multipartite entangled states required in QCC, realizing and extending QCC with the entanglement-based protocol is challenging. Measurement-device-independent (MDI) QCC, which removes all detector side channels, is a feasible long-distance quantum communication scheme to practically generate multipartite correlation with multiphoton projection measurement. Here we experimentally realize the three-user MDIQCC protocol with four-intensity decoy-state method, in which we employ the polarization encoding and the Greenberger-Horne-Zeilinger state projection measurement. Our work demonstrates the experimental feasibility of the MDI QCC, which lays the foundation for the future realization of quantum networks with multipartite communication tasks.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-02-03"
+  ],
+  "publication_venue": "Phys. Rev. Lett. 134, 040802 (2025)",
+  "pdf_url": null,
+  "category": "quant-ph, physics.optics"
+}

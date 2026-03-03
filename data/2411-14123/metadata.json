@@ -1,0 +1,14 @@
+{
+  "title": "Multi-terminal Strong Coordination subject to Secrecy Constraints",
+  "authors": [
+    "Viswanathan Ramachandran",
+    "Tobias J. Oechtering",
+    "Mikael Skoglund"
+  ],
+  "summary": "A fundamental problem in decentralized networked systems is to coordinate actions of different agents so that they reach a state of agreement. In such applications, it is additionally desirable that the actions at various nodes may not be anticipated by malicious eavesdroppers. Motivated by this, we investigate the problem of secure multi-terminal strong coordination aided by a multiple-access wiretap channel. In this setup, independent and identically distributed copies of correlated sources are observed by two transmitters who encode the channel inputs to the MAC-WT. The legitimate receiver observing the channel output and side information correlated with the sources must produce approximately i.i.d. copies of an output variable jointly distributed with the sources. Furthermore, we demand that an external eavesdropper learns essentially nothin g about the sources and the simulated output sequence by observing its own MAC-WT output. This setting is aided by the presence of independent pairwise shared randomness between each encoder and the legitimate decoder, that is unavailable to the eavesdropper. We derive an achievable rate region based on a combination of coordination coding and wiretap coding, along with an outer bound. The inner bound is shown to be tight and a complete characterization is derived for the special case when the sources are conditionally independent given the decoder side information and the legitimate channel is composed of deterministic links. Further, we also analyze a more general scenario with possible encoder cooperation, where one of the encoders can non-causally crib from the other encoders input, for which an achievable rate region is proposed. We then explicitly compute the rate regions for an example both with and without cribbing between the encoders, and demonstrate that cribbing strictly improves upon the achievable rate region.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IT"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Encoding of Probability Distributions for Quantum Monte Carlo Using Tensor Networks",
+  "authors": [
+    "Antonio Pereira",
+    "Alba Villarino",
+    "Aser Cortines",
+    "Samuel Mugel",
+    "Roman Orus",
+    "Victor Leme Beltran",
+    "J. V. S. Scursulim",
+    "Samurai Brito"
+  ],
+  "summary": "The application of Tensor Networks (TN) in quantum computing has shown promise, particularly for data loading. However, the assumption that data is readily available often renders the integration of TN techniques into Quantum Monte Carlo (QMC) inefficient, as complete probability distributions would have to be calculated classically. In this paper the tensor-train cross approximation (TT-cross) algorithm is evaluated as a means to address the probability loading problem. We demonstrate the effectiveness of this method on financial distributions, showcasing the TT-cross approach's scalability and accuracy. Our results indicate that the TT-cross method significantly improves circuit depth scalability compared to traditional methods, offering a more efficient pathway for implementing QMC on near-term quantum hardware. The approach also shows high accuracy and scalability in handling high-dimensional financial data, making it a promising solution for quantum finance applications.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

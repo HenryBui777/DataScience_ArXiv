@@ -1,0 +1,987 @@
+{
+  "2412-00578": {
+    "title": "Speedy-Splat: Fast 3D Gaussian Splatting with Sparse Pixels and Sparse Primitives",
+    "authors": [
+      "Alex Hanson",
+      "Allen Tu",
+      "Geng Lin",
+      "Vasu Singla",
+      "Matthias Zwicker",
+      "Tom Goldstein"
+    ],
+    "publication_date": "2024-11-30",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "941ada3e24e6f54bb49cfaeff998f4f5cbac5a38",
+    "corpus_id": 274436703,
+    "category": "Computer Science"
+  },
+  "2411-06344": {
+    "title": "CityGuessr: City-Level Video Geo-Localization on a Global Scale",
+    "authors": [
+      "P. Kulkarni",
+      "Gaurav Kumar Nayak",
+      "Mubarak Shah"
+    ],
+    "publication_date": "2024-11-10",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "7a2cf76f43a61580cb80d44aabd27f4c1963e12d",
+    "corpus_id": 272647973,
+    "category": "Computer Science"
+  },
+  "2409-19439": {
+    "title": "Contrastive ground-level image and remote sensing pre-training improves representation learning for natural world imagery",
+    "authors": [
+      "Andy V. Huynh",
+      "Lauren E Gillespie",
+      "Jael Lopez-Saucedo",
+      "Claire Tang",
+      "Rohan Sikand",
+      "Mois'es Exp'osito-Alonso"
+    ],
+    "publication_date": "2024-09-28",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "4817bdd75c85329ca33459cdfced8b6391ef76bf",
+    "corpus_id": 272987243,
+    "category": "Computer Science"
+  },
+  "2408-05475": {
+    "title": "Cross-view image geo-localization with Panorama-BEV Co-Retrieval Network",
+    "authors": [
+      "Junyan Ye",
+      "Zhutao Lv",
+      "Weijia Li",
+      "Jinhua Yu",
+      "Haote Yang",
+      "Huaping Zhong",
+      "Conghui He"
+    ],
+    "publication_date": "2024-08-10",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "a2493f457ba2a8200504ca2221481a1f2e966bea",
+    "corpus_id": 271855115,
+    "category": "Computer Science"
+  },
+  "2407-14108": {
+    "title": "GaussianBeV: 3D Gaussian Representation meets Perception Models for BeV Segmentation",
+    "authors": [
+      "Florian Chabot",
+      "Nicolas Granger",
+      "Guillaume Lapouge"
+    ],
+    "publication_date": "2024-07-19",
+    "venue": "IEEE Workshop/Winter Conference on Applications of Computer Vision",
+    "semantic_scholar_id": "47150310f8c9539bc5ee19a323bb57929b31eed4",
+    "corpus_id": 271309943,
+    "category": "Computer Science"
+  },
+  "2405-11905": {
+    "title": "CSTA: CNN-based Spatiotemporal Attention for Video Summarization",
+    "authors": [
+      "Jaewon Son",
+      "Jaehun Park",
+      "Kwangsu Kim"
+    ],
+    "publication_date": "2024-05-20",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "a9154cb64dd13309ae8d16d8be14336d0d28df2b",
+    "corpus_id": 269922178,
+    "category": "Computer Science"
+  },
+  "2404-06395": {
+    "title": "MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies",
+    "authors": [
+      "Shengding Hu",
+      "Yuge Tu",
+      "Xu Han",
+      "Chaoqun He",
+      "Ganqu Cui",
+      "Xiang Long",
+      "Zhi Zheng",
+      "Yewei Fang",
+      "Yuxiang Huang",
+      "Weilin Zhao",
+      "Xinrong Zhang",
+      "Z. Thai",
+      "Kaihuo Zhang",
+      "Chongyi Wang",
+      "Yuan Yao",
+      "Chenyang Zhao",
+      "Jie Zhou",
+      "Jie Cai",
+      "Zhongwu Zhai",
+      "Ning Ding",
+      "Chaochao Jia",
+      "Guoyang Zeng",
+      "Dahai Li",
+      "Zhiyuan Liu",
+      "Maosong Sun"
+    ],
+    "publication_date": "2024-04-09",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "49873ee415619efd9e1e4c16f73ee066ff008c1f",
+    "corpus_id": 269009975,
+    "category": "Computer Science"
+  },
+  "2403-14198": {
+    "title": "Unleashing Unlabeled Data: A Paradigm for Cross-View Geo-Localization",
+    "authors": [
+      "Guopeng Li",
+      "Ming Qian",
+      "Gui-Song Xia"
+    ],
+    "publication_date": "2024-03-21",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "86ff9fdd460069041023c317cd04bf4dea71a373",
+    "corpus_id": 268554202,
+    "category": "Computer Science"
+  },
+  "2403-13965": {
+    "title": "ConGeo: Robust Cross-view Geo-localization across Ground View Variations",
+    "authors": [
+      "Li Mi",
+      "Chang Xu",
+      "J. Castillo-Navarro",
+      "Syrielle Montariol",
+      "Wen Yang",
+      "Antoine Bosselut",
+      "D. Tuia"
+    ],
+    "publication_date": "2024-03-20",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "7f3b60e6e9961861417ae84a8e505ec0c6ce3a35",
+    "corpus_id": 268553853,
+    "category": "Computer Science"
+  },
+  "2403-12702": {
+    "title": "Learning Cross-View Visual Geo-Localization Without Ground Truth",
+    "authors": [
+      "Haoyuan Li",
+      "Chang Xu",
+      "Wen Yang",
+      "Huai Yu",
+      "Gui-Song Xia"
+    ],
+    "publication_date": "2024-03-19",
+    "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+    "semantic_scholar_id": "15046213b0042422861b197254f594af625cd8bc",
+    "corpus_id": 268531321,
+    "category": "Computer Science"
+  },
+  "2403-03037": {
+    "title": "A Backpack Full of Skills: Egocentric Video Understanding with Diverse Task Perspectives",
+    "authors": [
+      "Simone Alberto Peirone",
+      "Francesca Pistilli",
+      "A. Alliegro",
+      "Giuseppe Averta"
+    ],
+    "publication_date": "2024-03-05",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "7c18ce4a30203bf2920d9ded7ecc01ad7e1080da",
+    "corpus_id": 268247481,
+    "category": "Computer Science"
+  },
+  "2312-17432": {
+    "title": "Video Understanding with Large Language Models: A Survey",
+    "authors": [
+      "Yunlong Tang",
+      "Jing Bi",
+      "Siting Xu",
+      "Luchuan Song",
+      "Susan Liang",
+      "Teng Wang",
+      "Daoan Zhang",
+      "Jie An",
+      "Jingyang Lin",
+      "Rongyi Zhu",
+      "A. Vosoughi",
+      "Chao Huang",
+      "Zeliang Zhang",
+      "Feng Zheng",
+      "Jianguo Zhang",
+      "Ping Luo",
+      "Jiebo Luo",
+      "Chenliang Xu"
+    ],
+    "publication_date": "2023-12-29",
+    "venue": "IEEE transactions on circuits and systems for video technology (Print)",
+    "semantic_scholar_id": "5f58863dd6474d6f127be995b5871e7c60f2792f",
+    "corpus_id": 266690572,
+    "category": "Computer Science"
+  },
+  "2312-04548": {
+    "title": "Multiview Aerial Visual Recognition (MAVREC): Can Multi-View Improve Aerial Visual Perception?",
+    "authors": [
+      "Aritra Dutta",
+      "Srijan Das",
+      "Jacob Nielsen",
+      "Rajatsubhra Chakraborty",
+      "Mubarak Shah"
+    ],
+    "publication_date": "2023-12-07",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "0d04360ef9feba8230026468c4c7c03d075bec3b",
+    "corpus_id": 266055129,
+    "category": "Computer Science"
+  },
+  "2312-02548": {
+    "title": "GeNIe: Generative Hard Negative Images Through Diffusion",
+    "authors": [
+      "Soroush Abbasi Koohpayegani",
+      "Anuj Singh",
+      "K. Navaneet",
+      "Hadi Jamali Rad",
+      "Hamed Pirsiavash"
+    ],
+    "publication_date": "2023-12-05",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "7f0e374f1920d962359d7e9ccb7a7d7e2d18e6f4",
+    "corpus_id": 265658837,
+    "category": "Computer Science"
+  },
+  "2311-12751": {
+    "title": "Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatial Relation Matching",
+    "authors": [
+      "Meng Chu",
+      "Zhedong Zheng",
+      "Wei Ji",
+      "Tingyu Wang",
+      "Tat-Seng Chua"
+    ],
+    "publication_date": "2023-11-21",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "65b63322cac4f4fd1b2dbc7155be69aed5f95b68",
+    "corpus_id": 268384684,
+    "category": "Computer Science"
+  },
+  "2309-16588": {
+    "title": "Vision Transformers Need Registers",
+    "authors": [
+      "Timothée Darcet",
+      "Maxime Oquab",
+      "J. Mairal",
+      "Piotr Bojanowski"
+    ],
+    "publication_date": "2023-09-28",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "10bd38673951f5d7729568284093cbd80482ab16",
+    "corpus_id": 263134283,
+    "category": "Computer Science"
+  },
+  "2308-16906": {
+    "title": "Fine-Grained Cross-View Geo-Localization Using a Correlation-Aware Homography Estimator",
+    "authors": [
+      "Xiaolong Wang",
+      "Runsen Xu",
+      "Zuofan Cui",
+      "Zeyu Wan",
+      "Yu Zhang"
+    ],
+    "publication_date": "2023-08-31",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "42518af29f4430908353d21d731a7eb458daa8ce",
+    "corpus_id": 261394492,
+    "category": "Computer Science"
+  },
+  "2308-09624": {
+    "title": "GeoDTR+: Toward Generic Cross-View Geolocalization via Geometric Disentanglement",
+    "authors": [
+      "Xiaohan Zhang",
+      "Xingyu Li",
+      "Waqas Sultani",
+      "Chen Chen",
+      "S. Wshah"
+    ],
+    "publication_date": "2023-08-18",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "8efd67df21d9ec00cfe2f92d05c666042e07f2db",
+    "corpus_id": 261030838,
+    "category": "Medicine, Computer Science"
+  },
+  "2308-04079": {
+    "title": "3D Gaussian Splatting for Real-Time Radiance Field Rendering",
+    "authors": [
+      "Bernhard Kerbl",
+      "Georgios Kopanas",
+      "Thomas Leimkuehler",
+      "G. Drettakis"
+    ],
+    "publication_date": "2023-07-26",
+    "venue": "ACM Transactions on Graphics",
+    "semantic_scholar_id": "2cc1d857e86d5152ba7fe6a8355c2a0150cc280a",
+    "corpus_id": 259267917,
+    "category": "Computer Science"
+  },
+  "2303-11851": {
+    "title": "Sample4Geo: Hard Negative Sampling For Cross-View Geo-Localisation",
+    "authors": [
+      "Fabian Deuser",
+      "Konrad Habel",
+      "Norbert Oswald"
+    ],
+    "publication_date": "2023-03-21",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "d4ad1276c8eae382af8f9eaf7aeca86c74d5dbd4",
+    "corpus_id": 257636648,
+    "category": "Computer Science"
+  },
+  "2212-12857": {
+    "title": "StepNet: Spatial-temporal Part-aware Network for Isolated Sign Language Recognition",
+    "authors": [
+      "Xi Shen",
+      "Zhedong Zheng",
+      "Yi Yang"
+    ],
+    "publication_date": "2022-12-25",
+    "venue": "ACM Trans. Multim. Comput. Commun. Appl.",
+    "semantic_scholar_id": "67c7cc453fece3ed8069842bc026c1a75a7f6fc8",
+    "corpus_id": 255125163,
+    "category": "Computer Science"
+  },
+  "2212-04074": {
+    "title": "Cross-view Geo-localization via Learning Disentangled Geometric Layout Correspondence",
+    "authors": [
+      "Xiaohan Zhang",
+      "Xingyu Li",
+      "Waqas Sultani",
+      "Yi Zhou",
+      "S. Wshah"
+    ],
+    "publication_date": "2022-12-08",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "ae6bbeb670a0211bc2426b9afd867f8afb72e751",
+    "corpus_id": 254408599,
+    "category": "Computer Science"
+  },
+  "2211-05296": {
+    "title": "Learning Cross-View Geo-Localization Embeddings via Dynamic Weighted Decorrelation Regularization",
+    "authors": [
+      "Ting Wang",
+      "Zhedong Zheng",
+      "Zunjie Zhu",
+      "Yuhan Gao",
+      "Yi Yang",
+      "Chenggang Yan"
+    ],
+    "publication_date": "2022-11-10",
+    "venue": "IEEE Transactions on Geoscience and Remote Sensing",
+    "semantic_scholar_id": "b7491f31c209c560bc20220334a551bfe2dd4837",
+    "corpus_id": 253446880,
+    "category": "Computer Science"
+  },
+  "2207-02431": {
+    "title": "GAMa: Cross-view Video Geo-localization",
+    "authors": [
+      "Shruti Vyas",
+      "Chen Chen",
+      "M. Shah"
+    ],
+    "publication_date": "2022-07-06",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "02fa20be28ed742d7fcb1b5e0d16f227d1a23b05",
+    "corpus_id": 250311650,
+    "category": "Computer Science"
+  },
+  "2205-10878": {
+    "title": "Geo-Localization via Ground-to-Satellite Cross-View Image Retrieval",
+    "authors": [
+      "Zelong Zeng",
+      "Z. Wang",
+      "F. Yang",
+      "Shin’ichi Satoh"
+    ],
+    "publication_date": "2022-05-22",
+    "venue": "IEEE transactions on multimedia",
+    "semantic_scholar_id": "1705dee595b575d5a3c987e9b3f4898c07d43715",
+    "corpus_id": 248987217,
+    "category": "Computer Science"
+  },
+  "2204-10704": {
+    "title": "SUES-200: A Multi-Height Multi-Scene Cross-View Image Benchmark Across Drone and Satellite",
+    "authors": [
+      "Runzhe Zhu",
+      "Ling Yin",
+      "Mingze Yang",
+      "Fei Wu",
+      "Yunchen Yang",
+      "Wenbo Hu"
+    ],
+    "publication_date": "2022-04-22",
+    "venue": "IEEE transactions on circuits and systems for video technology (Print)",
+    "semantic_scholar_id": "b4d8f28678d6b2ba99b7c92f478de792398c201d",
+    "corpus_id": 248366512,
+    "category": "Computer Science, Engineering"
+  },
+  "2204-08381": {
+    "title": "Multiple-environment Self-adaptive Network for Aerial-view Geo-localization",
+    "authors": [
+      "T. Wang",
+      "Zhedong Zheng",
+      "Yaoqi Sun",
+      "Tat-Seng Chua",
+      "Yi Yang",
+      "C. Yan"
+    ],
+    "publication_date": "2022-04-18",
+    "venue": "Pattern Recognition",
+    "semantic_scholar_id": "5cd94450270f07996111d5f2f6063c32fc96fe37",
+    "corpus_id": 248227688,
+    "category": "Computer Science"
+  },
+  "2204-00097": {
+    "title": "TransGeo: Transformer Is All You Need for Cross-view Image Geo-localization",
+    "authors": [
+      "Sijie Zhu",
+      "M. Shah",
+      "Chen Chen"
+    ],
+    "publication_date": "2022-03-31",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "360daf6da2d042e24f14a2aa53257591d851d305",
+    "corpus_id": 247802213,
+    "category": "Computer Science"
+  },
+  "2203-12602": {
+    "title": "VideoMAE: Masked Autoencoders are Data-Efficient Learners for Self-Supervised Video Pre-Training",
+    "authors": [
+      "Zhan Tong",
+      "Yibing Song",
+      "Jue Wang",
+      "Limin Wang"
+    ],
+    "publication_date": "2022-03-23",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "4990f7542f0600e0501a7e7a931b32eb7cb804d5",
+    "corpus_id": 247619234,
+    "category": "Computer Science"
+  },
+  "2202-01821": {
+    "title": "Danish Airs and Grounds: A Dataset for Aerial-to-Street-Level Place Recognition and Localization",
+    "authors": [
+      "Andrea Vallone",
+      "Frederik Warburg",
+      "Hans Hansen",
+      "Søren Hauberg",
+      "Javier Civera"
+    ],
+    "publication_date": "2022-02-03",
+    "venue": "IEEE Robotics and Automation Letters",
+    "semantic_scholar_id": "165a19693131f9004eafcbc13df9515aaa3713d0",
+    "corpus_id": 246607896,
+    "category": "Computer Science"
+  },
+  "2201-12086": {
+    "title": "BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation",
+    "authors": [
+      "Junnan Li",
+      "Dongxu Li",
+      "Caiming Xiong",
+      "S. Hoi"
+    ],
+    "publication_date": "2022-01-28",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "a3b42a83669998f65df60d7c065a70d07ca95e99",
+    "corpus_id": 246411402,
+    "category": "Computer Science"
+  },
+  "2201-09206": {
+    "title": "A Transformer-Based Feature Segmentation and Region Alignment Method for UAV-View Geo-Localization",
+    "authors": [
+      "Ming Dai",
+      "Jian Hu",
+      "Jiedong Zhuang",
+      "E. Zheng"
+    ],
+    "publication_date": "2022-01-23",
+    "venue": "IEEE transactions on circuits and systems for video technology (Print)",
+    "semantic_scholar_id": "3048d5fb7702527cf965b00bd781778d05c3a86a",
+    "corpus_id": 245210887,
+    "category": "Computer Science"
+  },
+  "2112-10752": {
+    "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+    "authors": [
+      "Robin Rombach",
+      "A. Blattmann",
+      "Dominik Lorenz",
+      "Patrick Esser",
+      "B. Ommer"
+    ],
+    "publication_date": "2021-12-20",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "c10075b3746a9f3dd5811970e93c8ca3ad39b39d",
+    "corpus_id": 245335280,
+    "category": "Computer Science"
+  },
+  "2111-08276": {
+    "title": "Multi-Grained Vision Language Pre-Training: Aligning Texts with Visual Concepts",
+    "authors": [
+      "Yan Zeng",
+      "Xinsong Zhang",
+      "Hang Li"
+    ],
+    "publication_date": "2021-11-16",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "ec8afc75ec219f2a5f9ed9d7c9dde0720f69b5a2",
+    "corpus_id": 244129883,
+    "category": "Computer Science"
+  },
+  "2111-06377": {
+    "title": "Masked Autoencoders Are Scalable Vision Learners",
+    "authors": [
+      "Kaiming He",
+      "Xinlei Chen",
+      "Saining Xie",
+      "Yanghao Li",
+      "Piotr Doll'ar",
+      "Ross B. Girshick"
+    ],
+    "publication_date": "2021-11-11",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "6351ebb4a3287f5f3e1273464b3b91e5df5a16d7",
+    "corpus_id": 243985980,
+    "category": "Computer Science"
+  },
+  "2107-07651": {
+    "title": "Align before Fuse: Vision and Language Representation Learning with Momentum Distillation",
+    "authors": [
+      "Junnan Li",
+      "Ramprasaath R. Selvaraju",
+      "Akhilesh Deepak Gotmare",
+      "Shafiq R. Joty",
+      "Caiming Xiong",
+      "S. Hoi"
+    ],
+    "publication_date": "2021-07-16",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "b82c5f9efdb2ae56baa084ca41aeddd8a665c1d1",
+    "corpus_id": 236034189,
+    "category": "Computer Science"
+  },
+  "2106-13230": {
+    "title": "Video Swin Transformer",
+    "authors": [
+      "Ze Liu",
+      "Jia Ning",
+      "Yue Cao",
+      "Yixuan Wei",
+      "Zheng Zhang",
+      "Stephen Lin",
+      "Han Hu"
+    ],
+    "publication_date": "2021-06-24",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "94eae578e6af3382f6449506965639f18aab3fa0",
+    "corpus_id": 235624247,
+    "category": "Computer Science"
+  },
+  "2106-09685": {
+    "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+    "authors": [
+      "J. E. Hu",
+      "Yelong Shen",
+      "Phillip Wallis",
+      "Zeyuan Allen-Zhu",
+      "Yuanzhi Li",
+      "Shean Wang",
+      "Weizhu Chen"
+    ],
+    "publication_date": "2021-06-17",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "a8ca46b171467ceb2d7652fbfb67fe701ad86092",
+    "corpus_id": 235458009,
+    "category": "Computer Science"
+  },
+  "2104-10972": {
+    "title": "ImageNet-21K Pretraining for the Masses",
+    "authors": [
+      "T. Ridnik",
+      "Emanuel Ben-Baruch",
+      "Asaf Noy",
+      "Lihi Zelnik-Manor"
+    ],
+    "publication_date": "2021-04-22",
+    "venue": "NeurIPS Datasets and Benchmarks",
+    "semantic_scholar_id": "0d5406775fab3e71848908327fb5504df5f60f92",
+    "corpus_id": 233347018,
+    "category": "Computer Science"
+  },
+  "2103-15691": {
+    "title": "ViViT: A Video Vision Transformer",
+    "authors": [
+      "Anurag Arnab",
+      "Mostafa Dehghani",
+      "G. Heigold",
+      "Chen Sun",
+      "Mario Lucic",
+      "C. Schmid"
+    ],
+    "publication_date": "2021-03-29",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "b6382a7351c0c595f91472ac71d3b2d87b3c4844",
+    "corpus_id": 232417054,
+    "category": "Computer Science"
+  },
+  "2103-00020": {
+    "title": "Learning Transferable Visual Models From Natural Language Supervision",
+    "authors": [
+      "Alec Radford",
+      "Jong Wook Kim",
+      "Chris Hallacy",
+      "A. Ramesh",
+      "Gabriel Goh",
+      "Sandhini Agarwal",
+      "Girish Sastry",
+      "Amanda Askell",
+      "Pamela Mishkin",
+      "Jack Clark",
+      "Gretchen Krueger",
+      "I. Sutskever"
+    ],
+    "publication_date": "2021-02-26",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4",
+    "corpus_id": 231591445,
+    "category": "Computer Science"
+  },
+  "2102-12219": {
+    "title": "Object Detection in Aerial Images: A Large-Scale Benchmark and Challenges",
+    "authors": [
+      "Jian Ding",
+      "Nan Xue",
+      "Guisong Xia",
+      "X. Bai",
+      "Wen Yang",
+      "Micheal Ying Yang",
+      "Serge J. Belongie",
+      "Jiebo Luo",
+      "M. Datcu",
+      "M. Pelillo",
+      "L. Zhang"
+    ],
+    "publication_date": "2021-02-24",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "2e7fc1774dacd80496edbe6957ddea9ada98dad1",
+    "corpus_id": 232035895,
+    "category": "Computer Science, Medicine"
+  },
+  "2012-12556": {
+    "title": "A Survey on Vision Transformer",
+    "authors": [
+      "Kai Han",
+      "Yunhe Wang",
+      "Hanting Chen",
+      "Xinghao Chen",
+      "Jianyuan Guo",
+      "Zhenhua Liu",
+      "Yehui Tang",
+      "An Xiao",
+      "Chunjing Xu",
+      "Yixing Xu",
+      "Zhaohui Yang",
+      "Yiman Zhang",
+      "D. Tao"
+    ],
+    "publication_date": "2020-12-23",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "d40c77c010c8dbef6142903a02f2a73a85012d5d",
+    "corpus_id": 236986986,
+    "category": "Medicine, Computer Science"
+  },
+  "2011-12172": {
+    "title": "VIGOR: Cross-View Image Geo-localization beyond One-to-one Retrieval",
+    "authors": [
+      "Sijie Zhu",
+      "Taojiannan Yang",
+      "Chen Chen"
+    ],
+    "publication_date": "2020-11-24",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "7d2fe9c407a8e074964b23f42501fbd1991fa55b",
+    "corpus_id": 227151840,
+    "category": "Computer Science"
+  },
+  "2010-11929": {
+    "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+    "authors": [
+      "Alexey Dosovitskiy",
+      "Lucas Beyer",
+      "Alexander Kolesnikov",
+      "Dirk Weissenborn",
+      "Xiaohua Zhai",
+      "Thomas Unterthiner",
+      "Mostafa Dehghani",
+      "M. Minderer",
+      "G. Heigold",
+      "S. Gelly",
+      "Jakob Uszkoreit",
+      "N. Houlsby"
+    ],
+    "publication_date": "2020-10-22",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "268d347e8a55b5eb82fb5e7d2f800e33c75ab18a",
+    "corpus_id": 225039882,
+    "category": "Computer Science"
+  },
+  "2008-11646": {
+    "title": "Each Part Matters: Local Patterns Facilitate Cross-View Geo-Localization",
+    "authors": [
+      "Tingyu Wang",
+      "Zhedong Zheng",
+      "C. Yan",
+      "Jiyong Zhang",
+      "Yaoqi Sun",
+      "Bolun Zheng",
+      "Yi Yang"
+    ],
+    "publication_date": "2020-08-26",
+    "venue": "IEEE transactions on circuits and systems for video technology (Print)",
+    "semantic_scholar_id": "ef135033df53bade04b6023b3529999fae9c7c30",
+    "corpus_id": 221319527,
+    "category": "Computer Science"
+  },
+  "2005-03860": {
+    "title": "Where Am I Looking At? Joint Location and Orientation Estimation by Cross-View Matching",
+    "authors": [
+      "Yujiao Shi",
+      "Xin Yu",
+      "Dylan Campbell",
+      "Hongdong Li"
+    ],
+    "publication_date": "2020-05-08",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "430f7ac05af90c1ea971596de897e8ac57ab22f9",
+    "corpus_id": 218571186,
+    "category": "Computer Science"
+  },
+  "2002-12186": {
+    "title": "University-1652: A Multi-view Multi-source Benchmark for Drone-based Geo-localization",
+    "authors": [
+      "Zhedong Zheng",
+      "Yunchao Wei",
+      "Yi Yang"
+    ],
+    "publication_date": "2020-02-27",
+    "venue": "ACM Multimedia",
+    "semantic_scholar_id": "e175eae99ab9953ce21285cb4dd6db54bf306c46",
+    "corpus_id": 211532661,
+    "category": "Computer Science"
+  },
+  "2001-06303": {
+    "title": "Detection and Tracking Meet Drones Challenge",
+    "authors": [
+      "Pengfei Zhu",
+      "Longyin Wen",
+      "Dawei Du",
+      "Xiao Bian",
+      "Heng Fan",
+      "Q. Hu",
+      "Haibin Ling"
+    ],
+    "publication_date": "2020-01-16",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "424c0206424372ae502198bec7a49ca18c0aa636",
+    "corpus_id": 238259345,
+    "category": "Medicine, Computer Science"
+  },
+  "1907-05021": {
+    "title": "Optimal Feature Transport for Cross-View Image Geo-Localization",
+    "authors": [
+      "Yujiao Shi",
+      "Xin Yu",
+      "Liu Liu",
+      "Tong Zhang",
+      "Hongdong Li"
+    ],
+    "publication_date": "2019-07-11",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "effbbbd51dc93be8cada96a612937031a0b35a7f",
+    "corpus_id": 195886103,
+    "category": "Computer Science"
+  },
+  "1904-11045": {
+    "title": "Bridging the Domain Gap for Ground-to-Aerial Image Matching",
+    "authors": [
+      "Krishna Regmi",
+      "M. Shah"
+    ],
+    "publication_date": "2019-04-24",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "dc9eb995ba103b41dc631e9c8e38db4f70f5cbac",
+    "corpus_id": 131776514,
+    "category": "Computer Science"
+  },
+  "1904-07223": {
+    "title": "Joint Discriminative and Generative Learning for Person Re-Identification",
+    "authors": [
+      "Zhedong Zheng",
+      "Xiaodong Yang",
+      "Zhiding Yu",
+      "Liang Zheng",
+      "Yi Yang",
+      "Jan Kautz"
+    ],
+    "publication_date": "2019-04-15",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "ec721b4b280ce593428499d013bc01ca19dbcac3",
+    "corpus_id": 119285380,
+    "category": "Computer Science"
+  },
+  "1903-12351": {
+    "title": "Lending Orientation to Neural Networks for Cross-View Geo-Localization",
+    "authors": [
+      "Liu Liu",
+      "Hongdong Li"
+    ],
+    "publication_date": "2019-03-29",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "e6fcd35992e63620600357883b92518884a6c6f1",
+    "corpus_id": 88524235,
+    "category": "Computer Science"
+  },
+  "1812-03982": {
+    "title": "SlowFast Networks for Video Recognition",
+    "authors": [
+      "Christoph Feichtenhofer",
+      "Haoqi Fan",
+      "Jitendra Malik",
+      "Kaiming He"
+    ],
+    "publication_date": "2018-12-10",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "8b47b9c3c35b2b2a78bff7822605b3040f87d699",
+    "corpus_id": 54463801,
+    "category": "Computer Science"
+  },
+  "1711-05535": {
+    "title": "Dual-path Convolutional Image-Text Embeddings with Instance Loss",
+    "authors": [
+      "Zhedong Zheng",
+      "Liang Zheng",
+      "Michael Garrett",
+      "Yi Yang",
+      "Mingliang Xu",
+      "Yi-Dong Shen"
+    ],
+    "publication_date": "2017-11-15",
+    "venue": "ACM Trans. Multim. Comput. Commun. Appl.",
+    "semantic_scholar_id": "58555c7d168d1f50422ed9435d31ecd28d66eaa8",
+    "corpus_id": 49867191,
+    "category": "Computer Science"
+  },
+  "1706-03762": {
+    "title": "Attention is All you Need",
+    "authors": [
+      "Ashish Vaswani",
+      "Noam M. Shazeer",
+      "Niki Parmar",
+      "Jakob Uszkoreit",
+      "Llion Jones",
+      "Aidan N. Gomez",
+      "Lukasz Kaiser",
+      "I. Polosukhin"
+    ],
+    "publication_date": "2017-06-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+    "corpus_id": 13756489,
+    "category": "Computer Science"
+  },
+  "1705-07750": {
+    "title": "Quo Vadis, Action Recognition? A New Model and the Kinetics Dataset",
+    "authors": [
+      "João Carreira",
+      "Andrew Zisserman"
+    ],
+    "publication_date": "2017-05-22",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "b61a3f8b80bbd44f24544dc915f52fd30bbdf485",
+    "corpus_id": 206596127,
+    "category": "Computer Science"
+  },
+  "1703-07815": {
+    "title": "Cross-View Image Matching for Geo-Localization in Urban Environments",
+    "authors": [
+      "Yicong Tian",
+      "Chen Chen",
+      "M. Shah"
+    ],
+    "publication_date": "2017-03-22",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "180316877d12050bb658cb0f3d9550edb7ea3dba",
+    "corpus_id": 7443404,
+    "category": "Computer Science"
+  },
+  "1701-07717": {
+    "title": "Unlabeled Samples Generated by GAN Improve the Person Re-identification Baseline in Vitro",
+    "authors": [
+      "Zhedong Zheng",
+      "Liang Zheng",
+      "Yi Yang"
+    ],
+    "publication_date": "2017-01-26",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "f9b7783448f65205e085bd4e6fdfa2c8bfa9a4df",
+    "corpus_id": 2683207,
+    "category": "Computer Science"
+  },
+  "1612-07828": {
+    "title": "Learning from Simulated and Unsupervised Images through Adversarial Training",
+    "authors": [
+      "A. Shrivastava",
+      "Tomas Pfister",
+      "Oncel Tuzel",
+      "J. Susskind",
+      "Wenda Wang",
+      "Russ Webb"
+    ],
+    "publication_date": "2016-12-22",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "68cb9fce1e6af2740377494350b650533c9a29e1",
+    "corpus_id": 8229065,
+    "category": "Computer Science"
+  },
+  "1608-00161": {
+    "title": "Localizing and Orienting Street Views Using Overhead Imagery",
+    "authors": [
+      "Nam N. Vo",
+      "James Hays"
+    ],
+    "publication_date": "2016-07-30",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "a36e496f855399b62d1c0f5be675561c6a404048",
+    "corpus_id": 10680224,
+    "category": "Computer Science"
+  },
+  "1510-03743": {
+    "title": "Wide-Area Image Geolocalization with Aerial Reference Imagery",
+    "authors": [
+      "Scott Workman",
+      "Richard Souvenir",
+      "Nathan Jacobs"
+    ],
+    "publication_date": "2015-10-13",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "b19077f8792f4ab7e390a8344e8b32accb94bc0f",
+    "corpus_id": 12339720,
+    "category": "Computer Science"
+  },
+  "2103-14030": {
+    "title": "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows",
+    "authors": [
+      "Ze Liu",
+      "Yutong Lin",
+      "Yue Cao",
+      "Han Hu",
+      "Yixuan Wei",
+      "Zheng Zhang",
+      "Stephen Lin",
+      "B. Guo"
+    ],
+    "publication_date": "",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "c8b25fab5608c3e033d34b4483ec47e68ba109b7",
+    "corpus_id": 232352874,
+    "category": "Computer Science"
+  }
+}

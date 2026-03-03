@@ -1,0 +1,16 @@
+{
+  "title": "Phase transition analogs in laser collisions with a dark-field setup",
+  "authors": [
+    "Holger Gies",
+    "Felix Karbstein",
+    "Lars Maiwald"
+  ],
+  "summary": "Laser pulse collisions are a promising tool for the investigation of light-by-light scattering phenomena induced by quantum vacuum fluctuations. Using the numerical code based on the vacuum emission picture and put forward in Blinne et al. (2019), we observe a strong dependence of the signal features on the transverse profiles of the colliding laser pulses in the interaction region. For a probe beam tailored such as to feature an annular far-field profile and a pronounced on-axis focus peak counterpropagating a pump beam at zero impact parameter, the signal's main emission direction can undergo the analog of a phase transition with the beam-waist ratio of the pulses serving as a control parameter. Depending on the pump's beam profile, this phase transition can be first order (e.g., for a pump with a flat-top far-field profile) or second order (e.g., for a Gaussian pump). From the simulation data, we determine the critical point and extract the corresponding critical exponent for the second-order transition of the main emission direction of the signal in the far field. For this, we improve the performance of the above numerical code, using the phase transition analogs as an example to illustrate the capabilities and limitations of the code and current workflows.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-03-26"
+  ],
+  "publication_venue": "Phys. Rev. D 111, 016027 (2025)",
+  "pdf_url": null,
+  "category": "hep-ph, quant-ph"
+}

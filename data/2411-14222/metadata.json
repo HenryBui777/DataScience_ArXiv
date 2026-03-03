@@ -1,0 +1,16 @@
+{
+  "title": "Generative AI-enabled Digital Twins for 6G-enhanced Smart Cities",
+  "authors": [
+    "Kubra Duran",
+    "Lal Verda Cakir",
+    "Mehmet Ozdem",
+    "Kerem Gursu",
+    "Berk Canberk"
+  ],
+  "summary": "6G networks are envisioned to enable a wide range of applications, such as autonomous vehicles and smart cities. However, this rapid expansion of network topologies makes the management of 6G wireless networks more complex and leads to performance degradation. Even though state-of-the-art applications on network services are providing promising results, they also risk disrupting the network's performance. To overcome this, the services have to leverage what-if implementations covering a variety of scenarios. At this point, traditional simulations fall short of encompassing the dynamism and complexity of a physical network. To overcome these challenges, we propose the Generative AI-based Digital Twins. For this, we derive an optimization formula to differentiate different network scenarios by considering the specific key performance indicators (KPIs) for wireless networks. Then, we fed this formula to the generative AI with the historical twins and real-time twins to start generating the desired topologies. To evaluate the performance, we implement network and smart-city-oriented services, namely massive connectivity, tiny instant communication, right-time synchronization, and truck path routes. The simulation results reveal that our approach can achieve 38% more stable network throughput in high device density scenarios. Furthermore, the generated scenario accuracy is able to reach up to 98% level, surpassing the baselines.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.NI"
+}

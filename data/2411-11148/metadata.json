@@ -1,0 +1,20 @@
+{
+  "title": "TabDeco: A Comprehensive Contrastive Framework for Decoupled Representations in Tabular Data",
+  "authors": [
+    "Suiyao Chen",
+    "Jing Wu",
+    "Yunxiao Wang",
+    "Cheng Ji",
+    "Tianpei Xie",
+    "Daniel Cociorva",
+    "Michael Sharps",
+    "Cecile Levasseur",
+    "Hakan Brunzell"
+  ],
+  "summary": "Representation learning is a fundamental aspect of modern artificial intelligence, driving substantial improvements across diverse applications. While selfsupervised contrastive learning has led to significant advancements in fields like computer vision and natural language processing, its adaptation to tabular data presents unique challenges. Traditional approaches often prioritize optimizing model architecture and loss functions but may overlook the crucial task of constructing meaningful positive and negative sample pairs from various perspectives like feature interactions, instance-level patterns and batch-specific contexts. To address these challenges, we introduce TabDeco, a novel method that leverages attention-based encoding strategies across both rows and columns and employs contrastive learning framework to effectively disentangle feature representations at multiple levels, including features, instances and data batches. With the innovative feature decoupling hierarchies, TabDeco consistently surpasses existing deep learning methods and leading gradient boosting algorithms, including XG-Boost, CatBoost, and LightGBM, across various benchmark tasks, underscoring its effectiveness in advancing tabular data representation learning.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI"
+}

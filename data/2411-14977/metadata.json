@@ -1,0 +1,15 @@
+{
+  "title": "A p-Multigrid Accelerated Nodal Spectral Element Method for Free-Surface Incompressible Navier-Stokes Model of Nonlinear Water Waves",
+  "authors": [
+    "Anders Melander",
+    "Wojciech Laskowski",
+    "Spencer J. Sherwin",
+    "Allan P. Engsig-Karup"
+  ],
+  "summary": "We present a spectral element model for general-purpose simulation of non-overturning nonlinear water waves using the incompressible Navier-Stokes equations (INSE) with a free surface. The numerical implementation of the spectral element method is inspired by the related work by Engsig-Karup et al. (2016) and is based on nodal Lagrange basis functions, mass matrix-based integration and gradient recovery using global $L^2$ projections. The resulting model leverages the high-order accurate -- possibly exponential -- error convergence and has support for geometric flexibility allowing for computationally efficient simulations of nonlinear wave propagation. An explicit fourth-order accurate Runge-Kutta scheme is employed for the temporal integration, and a mixed-stage numerical discretization is the basis for a pressure-velocity coupling that makes it possible to maintain high-order accuracy in both the temporal and spatial discretizations while preserving mass conservation. Furthermore, the numerical scheme is accelerated by solving the discrete Poisson problem using an iterative solver strategy based on a geometric $p$-multigrid method. This problem constitutes the main computational bottleneck in INSE models. It is shown through numerical experiments, that the model achieves spectral convergence in the velocity fields for highly nonlinear waves, and there is excellent agreement with experimental data for the simulation of the classical benchmark of harmonic wave generation over a submerged bar. The geometric $p$-multigrid solver demonstrates $O(n)$ computational scalability simulations, making it a suitable efficient solver strategy as a candidate for extensions to more complex, real-world scenarios.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA, physics.flu-dyn"
+}

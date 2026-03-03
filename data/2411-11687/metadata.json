@@ -1,0 +1,17 @@
+{
+  "title": "Coevolution of Opinion Dynamics and Recommendation System: Modeling, Analysis and Reinforcement Learning Based Manipulation",
+  "authors": [
+    "Yuhong Chen",
+    "Xiaobing Dai",
+    "Martin Buss",
+    "Fangzhou Liu"
+  ],
+  "summary": "In this work, we develop an analytical framework that integrates opinion dynamics with a recommendation system. By incorporating elements such as collaborative filtering, we provide a precise characterization of how recommendation systems shape interpersonal interactions and influence opinion formation. Moreover, the property of the coevolution of both opinion dynamics and recommendation systems is also shown. Specifically, the convergence of this coevolutionary system is theoretically proved, and the mechanisms behind filter bubble formation are elucidated. Our analysis of the maximum number of opinion clusters shows how recommendation system parameters affect opinion grouping and polarization. Additionally, we incorporate the influence of propagators into our model and propose a reinforcement learning-based solution. The analysis and the propagation solution are demonstrated in simulations using the Yelp data set.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-08-28"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

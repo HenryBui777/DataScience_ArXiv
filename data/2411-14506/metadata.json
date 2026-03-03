@@ -1,0 +1,14 @@
+{
+  "title": "Lithium-ion battery modelling for nonisothermal conditions",
+  "authors": [
+    "Felix Schloms",
+    "Øystein Gullbrekken",
+    "Signe Kjelstrup"
+  ],
+  "summary": "A nonequilibrium thermodynamic model is presented for the nonisothermal lithium-ion battery cell. Coupling coefficients, all significant for transport of heat, mass, charge and chemical reaction, were used to model profiles of temperature, concentration and electric potential for each layer of the cell. Electrode surfaces were modelled with excess properties. Extending earlier works, we included lithium diffusion in the electrodes, and explained the cell's thermal signature due to Peltier and Soret effects.\n  We showed that the model is consistent with the second law of thermodynamics, meaning that the entropy production computed at steady state from entropy fluxes is equal to the integral over the sum of flux-force products. The procedure is beneficial in electrochemical cell modelling as it reveals inconsistencies.\n  The model was solved for typical lithium-ion battery materials. The coupling coefficients for transport of salts and solvents lead to significant concentration polarization. Thermal polarization is then negligible. We show that a zero-valued heat flux is not necessarily synonymous with a zero temperature gradient. Results are important for efforts that aim to avoid local hot spots. A program code is made available for testing and applications. The program is designed to solve dynamic boundary value problems posed by the electrode surfaces.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.chem-ph"
+}

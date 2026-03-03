@@ -1,0 +1,27 @@
+{
+  "title": "A Collaborative Ensemble Framework for CTR Prediction",
+  "authors": [
+    "Xiaolong Liu",
+    "Zhichen Zeng",
+    "Xiaoyi Liu",
+    "Siyang Yuan",
+    "Weinan Song",
+    "Mengyue Hang",
+    "Yiqun Liu",
+    "Chaofei Yang",
+    "Donghyun Kim",
+    "Wen-Yen Chen",
+    "Jiyan Yang",
+    "Yiping Han",
+    "Rong Jin",
+    "Bo Long",
+    "Hanghang Tong",
+    "Philip S. Yu"
+  ],
+  "summary": "Recent advances in foundation models have established scaling laws that enable the development of larger models to achieve enhanced performance, motivating extensive research into large-scale recommendation models. However, simply increasing the model size in recommendation systems, even with large amounts of data, does not always result in the expected performance improvements. In this paper, we propose a novel framework, Collaborative Ensemble Training Network (CETNet), to leverage multiple distinct models, each with its own embedding table, to capture unique feature interaction patterns. Unlike naive model scaling, our approach emphasizes diversity and collaboration through collaborative learning, where models iteratively refine their predictions. To dynamically balance contributions from each model, we introduce a confidence-based fusion mechanism using general softmax, where model confidence is computed via negation entropy. This design ensures that more confident models have a greater influence on the final prediction while benefiting from the complementary strengths of other models. We validate our framework on three public datasets (AmazonElectronics, TaobaoAds, and KuaiVideo) as well as a large-scale industrial dataset from Meta, demonstrating its superior performance over individual models and state-of-the-art baselines. Additionally, we conduct further experiments on the Criteo and Avazu datasets to compare our method with the multi-embedding paradigm. Our results show that our framework achieves comparable or better performance with smaller embedding sizes, offering a scalable and efficient solution for CTR prediction tasks.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IR, cs.LG"
+}

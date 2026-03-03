@@ -1,0 +1,16 @@
+{
+  "title": "ESTVocoder: An Excitation-Spectral-Transformed Neural Vocoder Conditioned on Mel Spectrogram",
+  "authors": [
+    "Xiao-Hang Jiang",
+    "Hui-Peng Du",
+    "Yang Ai",
+    "Ye-Xin Lu",
+    "Zhen-Hua Ling"
+  ],
+  "summary": "This paper proposes ESTVocoder, a novel excitation-spectral-transformed neural vocoder within the framework of source-filter theory. The ESTVocoder transforms the amplitude and phase spectra of the excitation into the corresponding speech amplitude and phase spectra using a neural filter whose backbone is ConvNeXt v2 blocks. Finally, the speech waveform is reconstructed through the inverse short-time Fourier transform (ISTFT). The excitation is constructed based on the F0: for voiced segments, it contains full harmonic information, while for unvoiced segments, it is represented by noise. The excitation provides the filter with prior knowledge of the amplitude and phase patterns, expecting to reduce the modeling difficulty compared to conventional neural vocoders. To ensure the fidelity of the synthesized speech, an adversarial training strategy is applied to ESTVocoder with multi-scale and multi-resolution discriminators. Analysis-synthesis and text-to-speech experiments both confirm that our proposed ESTVocoder outperforms or is comparable to other baseline neural vocoders, e.g., HiFi-GAN, SiFi-GAN, and Vocos, in terms of synthesized speech quality, with a reasonable model complexity and generation speed. Additional analysis experiments also demonstrate that the introduced excitation effectively accelerates the model's convergence process, thanks to the speech spectral prior information contained in the excitation.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SD, eess.AS"
+}

@@ -1,0 +1,259 @@
+{
+  "2407-18175": {
+    "title": "Quasar-ViT: Hardware-Oriented Quantization-Aware Architecture Search for Vision Transformers",
+    "authors": [
+      "Zhengang Li",
+      "Alec Lu",
+      "Yanyue Xie",
+      "Zhenglun Kong",
+      "Mengshu Sun",
+      "Hao Tang",
+      "Zhong Jia Xue",
+      "Peiyan Dong",
+      "Caiwen Ding",
+      "Yanzhi Wang",
+      "Xue Lin",
+      "Zhenman Fang"
+    ],
+    "publication_date": "2024-05-30",
+    "venue": "International Conference on Supercomputing",
+    "semantic_scholar_id": "ad097a0c03654e11144a248fd1363b7e0159587b",
+    "corpus_id": 270227790,
+    "category": "Computer Science"
+  },
+  "2403-11414": {
+    "title": "Table-Lookup MAC: Scalable Processing of Quantised Neural Networks in FPGA Soft Logic",
+    "authors": [
+      "Daniel Gerlinghoff",
+      "Benjamin Chen Ming Choong",
+      "Rick Siow Mong Goh",
+      "Weng-Fai Wong",
+      "Tao Luo"
+    ],
+    "publication_date": "2024-03-18",
+    "venue": "Symposium on Field Programmable Gate Arrays",
+    "semantic_scholar_id": "23e9f3eac8ff13cf65665583cf53211d930b9aca",
+    "corpus_id": 268513504,
+    "category": "Computer Science"
+  },
+  "2401-03868": {
+    "title": "FlightLLM: Efficient Large Language Model Inference with a Complete Mapping Flow on FPGAs",
+    "authors": [
+      "Shulin Zeng",
+      "Jun Liu",
+      "Guohao Dai",
+      "Xinhao Yang",
+      "Tianyu Fu",
+      "Hongyi Wang",
+      "Wenheng Ma",
+      "Hanbo Sun",
+      "Shiyao Li",
+      "Zixiao Huang",
+      "Yadong Dai",
+      "Jintao Li",
+      "Zehao Wang",
+      "Ruoyu Zhang",
+      "Kairui Wen",
+      "Xuefei Ning",
+      "Yu Wang"
+    ],
+    "publication_date": "2024-01-08",
+    "venue": "Symposium on Field Programmable Gate Arrays",
+    "semantic_scholar_id": "3695739b3a8b0e92b8ae90081124d098ae33b15c",
+    "corpus_id": 266844224,
+    "category": "Computer Science"
+  },
+  "2312-15159": {
+    "title": "Understanding the Potential of FPGA-based Spatial Acceleration for Large Language Model Inference",
+    "authors": [
+      "Hongzheng Chen",
+      "Jiahao Zhang",
+      "Yixiao Du",
+      "Shaojie Xiang",
+      "Zichao Yue",
+      "Niansong Zhang",
+      "Yaohui Cai",
+      "Zhiru Zhang"
+    ],
+    "publication_date": "2023-12-23",
+    "venue": "ACM Transactions on Reconfigurable Technology and Systems",
+    "semantic_scholar_id": "47beae741f6a4470dbd286d4f3f05ba2031c52d2",
+    "corpus_id": 266551359,
+    "category": "Computer Science"
+  },
+  "2309-02334": {
+    "title": "PolyLUT: Learning Piecewise Polynomials for Ultra-Low Latency FPGA LUT-based Inference",
+    "authors": [
+      "Marta Andronic",
+      "G. Constantinides"
+    ],
+    "publication_date": "2023-09-05",
+    "venue": "International Conference on Field-Programmable Technology",
+    "semantic_scholar_id": "7d1194ce87ef375f7dca3850f9510e035ab4404c",
+    "corpus_id": 261557427,
+    "category": "Computer Science, Mathematics"
+  },
+  "2208-05163": {
+    "title": "Auto-ViT-Acc: An FPGA-Aware Automatic Acceleration Framework for Vision Transformer with Mixed-Scheme Quantization",
+    "authors": [
+      "Z. Li",
+      "Mengshu Sun",
+      "Alec Lu",
+      "Haoyu Ma",
+      "Geng Yuan",
+      "Yanyue Xie",
+      "Hao Tang",
+      "Yanyu Li",
+      "M. Leeser",
+      "Zhangyang Wang",
+      "Xue Lin",
+      "Zhenman Fang"
+    ],
+    "publication_date": "2022-08-01",
+    "venue": "International Conference on Field-Programmable Logic and Applications",
+    "semantic_scholar_id": "f27c847e2909f30745f4a3528b574f5acfd76ea7",
+    "corpus_id": 251467937,
+    "category": "Computer Science, Engineering"
+  },
+  "2012-04240": {
+    "title": "Mix and Match: A Novel FPGA-Centric Deep Neural Network Quantization Framework",
+    "authors": [
+      "Sung-En Chang",
+      "Yanyu Li",
+      "Mengshu Sun",
+      "Runbin Shi",
+      "Hayden Kwok-Hay So",
+      "Xuehai Qian",
+      "Yanzhi Wang",
+      "Xue Lin"
+    ],
+    "publication_date": "2020-12-08",
+    "venue": "International Symposium on High-Performance Computer Architecture",
+    "semantic_scholar_id": "0c7701fc6129ddc86b2dcce65d5188332eb84d1f",
+    "corpus_id": 227744972,
+    "category": "Computer Science"
+  },
+  "2007-08563": {
+    "title": "FTRANS: energy-efficient acceleration of transformers using FPGA",
+    "authors": [
+      "Bingbing Li",
+      "Santosh Pandey",
+      "Haowen Fang",
+      "Yanjun Lyv",
+      "Ji Li",
+      "Jieyang Chen",
+      "Mimi Xie",
+      "Lipeng Wan",
+      "Hang Liu",
+      "Caiwen Ding"
+    ],
+    "publication_date": "2020-07-16",
+    "venue": "International Symposium on Low Power Electronics and Design",
+    "semantic_scholar_id": "7c6c31412c5dad22543bb71e31620e8868d644a3",
+    "corpus_id": 220633179,
+    "category": "Computer Science"
+  },
+  "2007-02017": {
+    "title": "FracBits: Mixed Precision Quantization via Fractional Bit-Widths",
+    "authors": [
+      "Linjie Yang",
+      "Qing Jin"
+    ],
+    "publication_date": "2020-07-04",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "5bbb9dfc449f77a8c95de0bdd4a70fd96953308e",
+    "corpus_id": 220363587,
+    "category": "Computer Science, Engineering"
+  },
+  "2004-03021": {
+    "title": "LogicNets: Co-Designed Neural Networks and Circuits for Extreme-Throughput Applications",
+    "authors": [
+      "Yaman Umuroglu",
+      "Yash Akhauri",
+      "Nicholas J. Fraser",
+      "Michaela Blott"
+    ],
+    "publication_date": "2020-04-06",
+    "venue": "International Conference on Field-Programmable Logic and Applications",
+    "semantic_scholar_id": "8f407875eb303bbb6037e57efa57c0fffd4b6e00",
+    "corpus_id": 215238782,
+    "category": "Computer Science, Engineering"
+  },
+  "1912-09666": {
+    "title": "AdaBits: Neural Network Quantization With Adaptive Bit-Widths",
+    "authors": [
+      "Qing Jin",
+      "Linjie Yang",
+      "Zhenyu A. Liao"
+    ],
+    "publication_date": "2019-12-20",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "f0c1b84ffd4f3b14cd16a1c8152670724c807254",
+    "corpus_id": 209439896,
+    "category": "Computer Science"
+  },
+  "1904-00938": {
+    "title": "LUTNet: Rethinking Inference in FPGA Soft Logic",
+    "authors": [
+      "Erwei Wang",
+      "James J. Davis",
+      "P. Cheung",
+      "G. Constantinides"
+    ],
+    "publication_date": "2019-04-01",
+    "venue": "IEEE Symposium on Field-Programmable Custom Computing Machines",
+    "semantic_scholar_id": "91cf554a128fe38f3bed63c6c3c3120a991645de",
+    "corpus_id": 90248878,
+    "category": "Computer Science, Mathematics"
+  },
+  "1809-04570": {
+    "title": "FINN-R",
+    "authors": [
+      "Michaela Blott",
+      "Thomas B. Preußer",
+      "Nicholas J. Fraser",
+      "Giulio Gambardella",
+      "Kenneth O'Brien",
+      "Yaman Umuroglu",
+      "Miriam Leeser",
+      "K. Vissers"
+    ],
+    "publication_date": "2018-09-12",
+    "venue": "ACM Transactions on Reconfigurable Technology and Systems",
+    "semantic_scholar_id": "8daa392b62968206885f3e84c3d96cf04d48a5b4",
+    "corpus_id": 219886219,
+    "category": "Computer Science"
+  },
+  "1801-04381": {
+    "title": "MobileNetV2: Inverted Residuals and Linear Bottlenecks",
+    "authors": [
+      "M. Sandler",
+      "Andrew G. Howard",
+      "Menglong Zhu",
+      "A. Zhmoginov",
+      "Liang-Chieh Chen"
+    ],
+    "publication_date": "2018-01-13",
+    "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "dd9cfe7124c734f5a6fc90227d541d3dbcd72ba4",
+    "corpus_id": 4555207,
+    "category": "Computer Science"
+  },
+  "1612-07119": {
+    "title": "FINN: A Framework for Fast, Scalable Binarized Neural Network Inference",
+    "authors": [
+      "Yaman Umuroglu",
+      "Nicholas J. Fraser",
+      "Giulio Gambardella",
+      "Michaela Blott",
+      "P. Leong",
+      "Magnus Jahre",
+      "K. Vissers"
+    ],
+    "publication_date": "2016-12-01",
+    "venue": "Symposium on Field Programmable Gate Arrays",
+    "semantic_scholar_id": "3b2491ddeeaa7beae4d311b217c292a9e16112cf",
+    "corpus_id": 10530917,
+    "category": "Computer Science"
+  }
+}

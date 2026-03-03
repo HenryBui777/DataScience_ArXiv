@@ -1,0 +1,19 @@
+{
+  "title": "Fast High-Quality Enhanced Imaging Algorithm for Layered Dielectric Targets Based on MMW MIMO-SAR System",
+  "authors": [
+    "Xu Chen",
+    "Guangsheng Yu",
+    "Zhian Yuan",
+    "Hao Wu",
+    "Yilin Jiang",
+    "Ying Wang",
+    "Bin Deng",
+    "Limin Guo"
+  ],
+  "summary": "Millimeter-wave (MMW) multiple-input multiple-output synthetic aperture radar (MIMO-SAR) system is a technology that can achieve high resolution, high frame rate, and all-weather imaging and has received extensive attention in the non-destructive testing and internal imaging applications of layered dielectric targets. However, the non-ideal scattering effect caused by dielectric materials can significantly deteriorate the imaging quality when using the existing MIMO-SAR fast algorithms. This paper proposes a rapid, high-quality dielectric target-enhanced imaging algorithm for a new universal non-uniform MIMO-SAR system. The algorithm builds on the existing non-uniform MIMO-SAR dielectric target frequency-domain algorithm (DT-FDA) by constructing a forward sensing operator and incorporating it into the alternating direction method of multipliers (ADMM) framework. This approach avoids large matrix operations while maintaining computational efficiency. By integrating an optimal regularization parameter search, the algorithm enhances the image reconstruction quality of dielectric internal structures or defects. Experimental results show the proposed algorithm outperforms IBP and DT-FDA, achieving better focusing, sidelobe suppression, and 3D imaging accuracy. It yields the lowest image entropy (8.864) and significantly improves efficiency (imaging time: 15.29 s vs. 23295.3 s for IBP).",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP"
+}

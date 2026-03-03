@@ -1,0 +1,17 @@
+{
+  "title": "Towards Smart Fronthauling Management: Experimental Insights from a 5G Testbed",
+  "authors": [
+    "Marcello Morini",
+    "Eugenio Moro",
+    "Ilario Filippini",
+    "Danilo De Donno",
+    "Salvatore Moscato",
+    "Antonio Capone"
+  ],
+  "summary": "The fronthaul connection is a key component of Centralized RAN (C-RAN) architectures, consistently required to handle high capacity demands. However, this critical feature is at risk when the transport link relies on wireless technology. Fortunately, solutions exist to enhance the reliability of wireless links. In this paper, we recall the theoretical fronthaul model, present a dynamic reconfiguration strategy and perform a conclusive experiment. Specifically, we showcase the setup of a wireless fronthaul testbed and discuss the resulting measurements. For this task, we leveraged the commercial hardware provided by the High-Frequency Campus Lab (HFCL), a private 5G network with millimeter wave (mmWave) radio access interface. Our experiments provide original data on the fronthaul utilization in this real deployment, demonstrating both a good accordance with the theoretical model discussed in [1] and the viability of one stabilizing solution.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.NI"
+}

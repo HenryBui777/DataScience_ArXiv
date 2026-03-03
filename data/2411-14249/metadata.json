@@ -1,0 +1,17 @@
+{
+  "title": "Towards a Physics Engine to Simulate Robotic Laser Surgery: Finite Element Modeling of Thermal Laser-Tissue Interactions",
+  "authors": [
+    "Nicholas E. Pacheco",
+    "Kang Zhang",
+    "Ashley S. Reyes",
+    "Christopher J. Pacheco",
+    "Lucas Burstein",
+    "Loris Fichera"
+  ],
+  "summary": "This paper presents a computational model, based on the Finite Element Method (FEM), that simulates the thermal response of laser-irradiated tissue. This model addresses a gap in the current ecosystem of surgical robot simulators, which generally lack support for lasers and other energy-based end effectors. In the proposed model, the thermal dynamics of the tissue are calculated as the solution to a heat conduction problem with appropriate boundary conditions. The FEM formulation allows the model to capture complex phenomena, such as convection, which is crucial for creating realistic simulations. The accuracy of the model was verified via benchtop laser-tissue interaction experiments using agar tissue phantoms and ex-vivo chicken muscle. The results revealed an average root-mean-square error (RMSE) of less than 2 degrees Celsius across most experimental conditions.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

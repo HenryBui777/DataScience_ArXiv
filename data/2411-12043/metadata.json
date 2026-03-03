@@ -1,0 +1,18 @@
+{
+  "title": "A comparative analysis for different finite element types in strain-gradient elasticity simulations performed on Firedrake and FEniCS",
+  "authors": [
+    "B. Cagri Sarar",
+    "M. Erden Yildizdag",
+    "Francesco Fabbrocino",
+    "B. Emek Abali"
+  ],
+  "summary": "The layer-upon-layer approach in additive manufacturing, open or closed cells in polymeric or metallic foams involve an intrinsic microstructure tailored to the underlying applications. Homogenization of such architectured materials creates metamaterials modeled by higher-gradient models, specifically when the microstructure's characteristic length is comparable to the length scale of the structure. In this study, we conduct a comparative analysis of various finite elements methods for solving problems in strain-gradient elasticity. We employ open-source packages from Firedrake and FEniCS. Different finite element formulations are tested: we implement Lagrange, Argyris, Hermite elements, a Hu--Washizu type (mixed) formulation, as well as isogeometric analysis with Non-Uniform Rational B-Splines (NURBS). For the numerical study, we investigate one- and two-dimensional problems discussed in the literature of strain-gradient modeling. All developed codes are open-access to encourage research in Finite Element Method (FEM) based computation of generalized continua.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-06-16",
+    "2025-09-19"
+  ],
+  "publication_venue": "Math. Mech. Compl. Sys. 13 (2025) 237-252",
+  "pdf_url": null,
+  "category": "cs.CE, math-ph, math.NA"
+}

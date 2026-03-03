@@ -1,0 +1,15 @@
+{
+  "title": "Heuristically Adaptive Diffusion-Model Evolutionary Strategy",
+  "authors": [
+    "Benedikt Hartl",
+    "Yanbo Zhang",
+    "Hananel Hazan",
+    "Michael Levin"
+  ],
+  "summary": "Diffusion Models represent a significant advancement in generative modeling, employing a dual-phase process that first degrades domain-specific information via Gaussian noise and restores it through a trainable model. This framework enables pure noise-to-data generation and modular reconstruction of, images or videos. Concurrently, evolutionary algorithms employ optimization methods inspired by biological principles to refine sets of numerical parameters encoding potential solutions to rugged objective functions. Our research reveals a fundamental connection between diffusion models and evolutionary algorithms through their shared underlying generative mechanisms: both methods generate high-quality samples via iterative refinement on random initial distributions. By employing deep learning-based diffusion models as generative models across diverse evolutionary tasks and iteratively refining diffusion models with heuristically acquired databases, we can iteratively sample potentially better-adapted offspring parameters, integrating them into successive generations of the diffusion model. This approach achieves efficient convergence toward high-fitness parameters while maintaining explorative diversity. Diffusion models introduce enhanced memory capabilities into evolutionary algorithms, retaining historical information across generations and leveraging subtle data correlations to generate refined samples. We elevate evolutionary algorithms from procedures with shallow heuristics to frameworks with deep memory. By deploying classifier-free guidance for conditional sampling at the parameter level, we achieve precise control over evolutionary search dynamics to further specific genotypical, phenotypical, or population-wide traits. Our framework marks a major heuristic and algorithmic transition, offering increased flexibility, precision, and control in evolutionary optimization processes.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.NE, cs.AI, cs.LG"
+}

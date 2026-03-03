@@ -1,0 +1,13 @@
+{
+  "title": "Multi LoRA Meets Vision: Merging multiple adapters to create a multi task model",
+  "authors": [
+    "Ege Kesim",
+    "Selahattin Serdar Helli"
+  ],
+  "summary": "Parameter efficient finetuning (PEFT) methods are widely used in LLMs and generative models in computer vision. Especially one can use multiple of these during inference to change the behavior of the base model. In this paper we investigated whether multiple LoRA adapters trained on computer vision tasks can be merged together and used during inference without loss in performance. By achieving this, multitask models can be created just by merging different LoRAs. Merging these will reduce inference time and it will not require any additional retraining. We have trained adapters on six different tasks and evaluated their performance when they are merged together. For comparison we used a model with a frozen backbone and finetuned its head. Our results show that even with simple merging techniques creating a multitask model by merging adapters is achievable by slightly loosing performance in some cases. In our experiments we merged up to three adapters together. Depending on the task and the similarity of the data adapters were trained on, merges can outperform head finetuning. We have observed that LoRAs trained with dissimilar datasets tend to perform better compared to model trained on similar datasets.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI"
+}

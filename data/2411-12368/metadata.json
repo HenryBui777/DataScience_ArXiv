@@ -1,0 +1,14 @@
+{
+  "title": "Transition-path sampling for Run-and-Tumble particles",
+  "authors": [
+    "Thomas Kiechl",
+    "Thomas Franosch",
+    "Michele Caraglio"
+  ],
+  "summary": "We elaborate and validate a generalization of the renowned transition-path-sampling algorithm for a paradigmatic model of active particles, namely the Run-and-Tumble particles. Notwithstanding the non-equilibrium character of these particles, we show how the consequent lack of the microscopical reversibility property, which is usually required by transition-path sampling, can be circumvented by identifying reasonable backward dynamics with a well-defined path-probability density. Our method is then applied to characterize the structure and kinetics of rare transition pathways undergone by Run-and-Tumble particles having to cross a potential barrier in order to find a target.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "Physical Review E 110, 054121 (2024)",
+  "pdf_url": null,
+  "category": "cond-mat.soft, cond-mat.stat-mech, physics.comp-ph"
+}

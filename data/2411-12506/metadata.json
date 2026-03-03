@@ -1,0 +1,13 @@
+{
+  "title": "The synchronization of convective lifecycles in an idealized microscopic model",
+  "authors": [
+    "Hao Fu",
+    "Da Yang"
+  ],
+  "summary": "How a cloud ensemble responds to external forcing is a puzzle in tropical convection research. Convectively coupled gravity waves (CCGWs) in a finite domain have controllable wavelengths, providing a convenient simulation setup for studying the cloud ensemble. A multiscale analysis shows that the growth of CCGWs in a finite-domain involves not only the amplitude growth of individual clouds but also the synchronization of convective lifecycles. To understand the synchronization mechanism, we build a microscopic model with many clouds. For each cloud, the microscopic model simulates the evolution of equivalent potential temperature $θ_e$ in the boundary layer, which is reduced by convective transport and radiative cooling and increased by surface heating. At the shallow convection stage, the $θ_e$ grows until reaching an upper threshold where the convective inhibition energy is eliminated, and the system transitions to the deep convection stage. At the deep convection stage, the $θ_e$ drops until reaching a lower threshold where the convective available potential energy is exhausted, and the system transitions to the shallow convection stage. The wave influences $θ_e$ with the boundary layer convergent flow and adjusts the phase of the convective lifecycle. Numerical simulations of the microscopic model show that when the period of convection and wave equals, the wave gradually synchronizes convection. Theoretical analysis shows that the microscopic synchronization appears as the macroscopic resonant growth of the cloud ensemble. In the resonant state, the averaged $θ_e$ and vertical velocity in the boundary layer are in phase, agreeing with the cloud-permitting simulation.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.ao-ph, physics.flu-dyn"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "GhostRNN: Reducing State Redundancy in RNN with Cheap Operations",
+  "authors": [
+    "Hang Zhou",
+    "Xiaoxu Zheng",
+    "Yunhe Wang",
+    "Michael Bi Mi",
+    "Deyi Xiong",
+    "Kai Han"
+  ],
+  "summary": "Recurrent neural network (RNNs) that are capable of modeling long-distance dependencies are widely used in various speech tasks, eg., keyword spotting (KWS) and speech enhancement (SE). Due to the limitation of power and memory in low-resource devices, efficient RNN models are urgently required for real-world applications. In this paper, we propose an efficient RNN architecture, GhostRNN, which reduces hidden state redundancy with cheap operations. In particular, we observe that partial dimensions of hidden states are similar to the others in trained RNN models, suggesting that redundancy exists in specific RNNs. To reduce the redundancy and hence computational cost, we propose to first generate a few intrinsic states, and then apply cheap operations to produce ghost states based on the intrinsic states. Experiments on KWS and SE tasks demonstrate that the proposed GhostRNN significantly reduces the memory usage (~40%) and computation cost while keeping performance similar.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "Proc. INTERSPEECH 2023, 226-230",
+  "pdf_url": null,
+  "category": "cs.CL, cs.AI, cs.SD, eess.AS"
+}

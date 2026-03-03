@@ -1,0 +1,14 @@
+{
+  "title": "Sampling Observability for Heat Equations with Memory",
+  "authors": [
+    "Lingying Ma",
+    "Gengsheng Wang",
+    "Yubiao Zhang"
+  ],
+  "summary": "This paper studies the sampling observability for the heat equations with memory in the lower-order term, where the observation is conducted at a finite number of time instants and on a small open subset at each time instant. We present a two-sided sampling observability inequality and give a sharp sufficient condition to ensure the aforementioned inequality. We also provide a method to select the time instants and then to design the observation regions, based on a given memory kernel, such that the above-mentioned inequality holds for these time instants and observation regions. Additionally, we demonstrate that the positions of these time instants depend significantly on the memory kernel.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC, math.AP"
+}

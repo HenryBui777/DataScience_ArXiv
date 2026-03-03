@@ -1,0 +1,15 @@
+{
+  "title": "Causal Effect of Group Diversity on Redundancy and Coverage in Peer-Reviewing",
+  "authors": [
+    "Navita Goyal",
+    "Ivan Stelmakh",
+    "Nihar Shah",
+    "Hal Daumé"
+  ],
+  "summary": "A large host of scientific journals and conferences solicit peer reviews from multiple reviewers for the same submission, aiming to gather a broader range of perspectives and mitigate individual biases. In this work, we reflect on the role of diversity in the slate of reviewers assigned to evaluate a submitted paper as a factor in diversifying perspectives and improving the utility of the peer-review process. We propose two measures for assessing review utility: review coverage -- reviews should cover most contents of the paper -- and review redundancy -- reviews should add information not already present in other reviews. We hypothesize that reviews from diverse reviewers will exhibit high coverage and low redundancy. We conduct a causal study of different measures of reviewer diversity on review coverage and redundancy using observational data from a peer-reviewed conference with approximately 5,000 submitted papers. Our study reveals disparate effects of different diversity measures on review coverage and redundancy. Our study finds that assigning a group of reviewers that are topically diverse, have different seniority levels, or have distinct publication networks leads to broader coverage of the paper or review criteria, but we find no evidence of an increase in coverage for reviewer slates with reviewers from diverse organizations or geographical locations. Reviewers from different organizations, seniority levels, topics, or publications networks (all except geographical diversity) lead to a decrease in redundancy in reviews. Furthermore, publication network-based diversity alone also helps bring in varying perspectives (that is, low redundancy), even within specific review criteria. Our study adopts a group decision-making perspective for reviewer assignments in peer review and suggests dimensions of diversity that can help guide the reviewer assignment process.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DL, cs.CL, stat.AP"
+}

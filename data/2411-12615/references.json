@@ -1,0 +1,546 @@
+{
+  "2212-09506": {
+    "title": "CLIP is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation",
+    "authors": [
+      "Yuqi Lin",
+      "Minghao Chen",
+      "Wenxiao Wang",
+      "Boxi Wu",
+      "Ke Li",
+      "Binbin Lin",
+      "Haifeng Liu",
+      "Xiaofei He"
+    ],
+    "publication_date": "2022-12-16",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "3a27dfb4b87f74c3c663cc42cec83ccd58f72f23",
+    "corpus_id": 254854232,
+    "category": "Computer Science"
+  },
+  "2210-10163": {
+    "title": "MedCLIP: Contrastive Learning from Unpaired Medical Images and Text",
+    "authors": [
+      "Zifeng Wang",
+      "Zhenbang Wu",
+      "Dinesh Agarwal",
+      "Jimeng Sun"
+    ],
+    "publication_date": "2022-10-18",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "cdd9c1d23f9e89d5113f3e31821bb174c6a6afed",
+    "corpus_id": 252992913,
+    "category": "Computer Science, Medicine"
+  },
+  "2206-06665": {
+    "title": "Online Easy Example Mining for Weakly-supervised Gland Segmentation from Histology Images",
+    "authors": [
+      "Yi Li",
+      "Yi-Zhou Yu",
+      "Yi-Xuan Zou",
+      "Tianqi Xiang",
+      "Xiaomeng Li"
+    ],
+    "publication_date": "2022-06-14",
+    "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+    "semantic_scholar_id": "ece065999d797dd451f37023065968ecc0bbd254",
+    "corpus_id": 249642594,
+    "category": "Computer Science"
+  },
+  "2203-02664": {
+    "title": "Learning Affinity from Attention: End-to-End Weakly-Supervised Semantic Segmentation with Transformers",
+    "authors": [
+      "Lixiang Ru",
+      "Yibing Zhan",
+      "Baosheng Yu",
+      "Bo Du"
+    ],
+    "publication_date": "2022-03-05",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "1da81334febeff16d13f618b02c855a51fd751a7",
+    "corpus_id": 247292515,
+    "category": "Computer Science"
+  },
+  "2203-02668": {
+    "title": "CLIMS: Cross Language Image Matching for Weakly Supervised Semantic Segmentation",
+    "authors": [
+      "Jinheng Xie",
+      "Xianxu Hou",
+      "Kai Ye",
+      "Linlin Shen"
+    ],
+    "publication_date": "2022-03-05",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "090d128d95c170c4181b4fc3b744ef1df2c98d97",
+    "corpus_id": 250520634,
+    "category": "Computer Science"
+  },
+  "2203-02106": {
+    "title": "Scribble-Supervised Medical Image Segmentation via Dual-Branch Network and Dynamically Mixed Pseudo Labels Supervision",
+    "authors": [
+      "Xiangde Luo",
+      "Minhao Hu",
+      "Wenjun Liao",
+      "Shuwei Zhai",
+      "Tao Song",
+      "Guotai Wang",
+      "Shaoting Zhang"
+    ],
+    "publication_date": "2022-03-04",
+    "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+    "semantic_scholar_id": "abd8a22e8593864932ca1187efb6ca3a22e2b6c8",
+    "corpus_id": 247244927,
+    "category": "Computer Science, Engineering"
+  },
+  "2203-00962": {
+    "title": "Class Re-Activation Maps for Weakly-Supervised Semantic Segmentation",
+    "authors": [
+      "Zhaozheng Chen",
+      "Tan Wang",
+      "Xiongwei Wu",
+      "Xiansheng Hua",
+      "Hanwang Zhang",
+      "Qianru Sun"
+    ],
+    "publication_date": "2022-03-02",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "357c7fb7c135cba681fd0d195c7bacae7abc9383",
+    "corpus_id": 247218629,
+    "category": "Computer Science"
+  },
+  "2201-12086": {
+    "title": "BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation",
+    "authors": [
+      "Junnan Li",
+      "Dongxu Li",
+      "Caiming Xiong",
+      "S. Hoi"
+    ],
+    "publication_date": "2022-01-28",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "a3b42a83669998f65df60d7c065a70d07ca95e99",
+    "corpus_id": 246411402,
+    "category": "Computer Science"
+  },
+  "2108-11900": {
+    "title": "Self-supervised Multi-scale Consistency for Weakly Supervised Segmentation Learning",
+    "authors": [
+      "Gabriele Valvano",
+      "Andrea Leo",
+      "S. Tsaftaris"
+    ],
+    "publication_date": "2021-08-26",
+    "venue": "DART/FAIR@MICCAI",
+    "semantic_scholar_id": "184ba738fd28963a192461cd64db9fced22964ea",
+    "corpus_id": 237304069,
+    "category": "Computer Science"
+  },
+  "2105-08965": {
+    "title": "Railroad is not a Train: Saliency as Pseudo-pixel Supervision for Weakly Supervised Semantic Segmentation",
+    "authors": [
+      "Seungho Lee",
+      "Minhyun Lee",
+      "Jongwuk Lee",
+      "Hyunjung Shim"
+    ],
+    "publication_date": "2021-05-19",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "40bd7b09a6d893b5d1c5d4615614cf65a79ad769",
+    "corpus_id": 234777940,
+    "category": "Computer Science"
+  },
+  "2104-02488": {
+    "title": "Weakly supervised segmentation with cross-modality equivariant constraints",
+    "authors": [
+      "Gaurav Patel",
+      "J. Dolz"
+    ],
+    "publication_date": "2021-04-06",
+    "venue": "Medical Image Anal.",
+    "semantic_scholar_id": "136a789e2fd655e97294350f18a8da4d6b3a067c",
+    "corpus_id": 233033572,
+    "category": "Computer Science, Medicine"
+  },
+  "2104-00905": {
+    "title": "Background-Aware Pooling and Noise-Aware Loss for Weakly-Supervised Semantic Segmentation",
+    "authors": [
+      "Youngmin Oh",
+      "Beomjun Kim",
+      "Bumsub Ham"
+    ],
+    "publication_date": "2021-04-02",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "abb106037923df747076f0d15795e637bab923a4",
+    "corpus_id": 233004707,
+    "category": "Computer Science"
+  },
+  "2103-07246": {
+    "title": "Discriminative Region Suppression for Weakly-Supervised Semantic Segmentation",
+    "authors": [
+      "Beomyoung Kim",
+      "Sangeun Han",
+      "Junmo Kim"
+    ],
+    "publication_date": "2021-03-12",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "8cb57f85d52f956f7ed820b0eea925110d5ed3d8",
+    "corpus_id": 232222429,
+    "category": "Computer Science"
+  },
+  "2103-00020": {
+    "title": "Learning Transferable Visual Models From Natural Language Supervision",
+    "authors": [
+      "Alec Radford",
+      "Jong Wook Kim",
+      "Chris Hallacy",
+      "A. Ramesh",
+      "Gabriel Goh",
+      "Sandhini Agarwal",
+      "Girish Sastry",
+      "Amanda Askell",
+      "Pamela Mishkin",
+      "Jack Clark",
+      "Gretchen Krueger",
+      "I. Sutskever"
+    ],
+    "publication_date": "2021-02-26",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4",
+    "corpus_id": 231591445,
+    "category": "Computer Science"
+  },
+  "2102-04799": {
+    "title": "Multi-scale GCN-assisted two-stage network for joint segmentation of retinal layers and discs in peripapillary OCT images.",
+    "authors": [
+      "Jiaxuan Li",
+      "Peiyao Jin",
+      "Jianfeng Zhu",
+      "H. Zou",
+      "Xun Xu",
+      "M. Tang",
+      "Minwen Zhou",
+      "Yu Gan",
+      "Jiangnan He",
+      "Yuye Ling",
+      "Yikai Su"
+    ],
+    "publication_date": "2021-02-09",
+    "venue": "Biomedical Optics Express",
+    "semantic_scholar_id": "7bcb2692d9cee738eea07546a708115a8fe00788",
+    "corpus_id": 231855623,
+    "category": "Engineering, Medicine, Computer Science"
+  },
+  "2101-11253": {
+    "title": "Puzzle-CAM: Improved Localization Via Matching Partial And Full Features",
+    "authors": [
+      "Sanghyun Jo",
+      "In-Jae Yu"
+    ],
+    "publication_date": "2021-01-27",
+    "venue": "International Conference on Information Photonics",
+    "semantic_scholar_id": "ab853ab4a360a4117a0e30c7dea5a2f8b4daa702",
+    "corpus_id": 231718836,
+    "category": "Computer Science"
+  },
+  "2011-07221": {
+    "title": "Deep Interpretable Classification and Weakly-Supervised Segmentation of Histology Images via Max-Min Uncertainty",
+    "authors": [
+      "Soufiane Belharbi",
+      "Jérôme Rony",
+      "J. Dolz",
+      "Ismail Ben Ayed",
+      "Luke McCaffrey",
+      "Eric Granger"
+    ],
+    "publication_date": "2020-11-14",
+    "venue": "IEEE Transactions on Medical Imaging",
+    "semantic_scholar_id": "a18c68dec9943d6aad2ad7a1f8d81ae2f80b8af8",
+    "corpus_id": 226965661,
+    "category": "Computer Science, Medicine"
+  },
+  "2010-08644": {
+    "title": "Zoom-CAM: Generating Fine-grained Pixel Annotations from Image Labels",
+    "authors": [
+      "Xiangwei Shi",
+      "Seyran Khademi",
+      "Yun-qiang Li",
+      "J. V. Gemert"
+    ],
+    "publication_date": "2020-10-16",
+    "venue": "International Conference on Pattern Recognition",
+    "semantic_scholar_id": "5d450f0c9b7680d8e5eb173494b6241bdab721b4",
+    "corpus_id": 224724344,
+    "category": "Computer Science"
+  },
+  "2009-11988": {
+    "title": "Going to Extremes: Weakly Supervised Medical Image Segmentation",
+    "authors": [
+      "H. Roth",
+      "D. Yang",
+      "Ziyue Xu",
+      "Xiaosong Wang",
+      "Daguang Xu"
+    ],
+    "publication_date": "2020-09-25",
+    "venue": "Machine Learning and Knowledge Extraction",
+    "semantic_scholar_id": "2371e504d1a0fb0516137a2aafdeae0444014890",
+    "corpus_id": 221948986,
+    "category": "Computer Science"
+  },
+  "2008-03632": {
+    "title": "Encoding Structure-Texture Relation with P-Net for Anomaly Detection in Retinal Images",
+    "authors": [
+      "Kang Zhou",
+      "Yuting Xiao",
+      "Jianlong Yang",
+      "Jun Cheng",
+      "Wen Liu",
+      "Weixin Luo",
+      "Zaiwang Gu",
+      "Jiang Liu",
+      "Shenghua Gao"
+    ],
+    "publication_date": "2020-08-09",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "c395229b53ed2f6c9ae96f267052df722a08d425",
+    "corpus_id": 221141550,
+    "category": "Engineering, Computer Science, Physics"
+  },
+  "2007-00748": {
+    "title": "Weakly-Supervised Segmentation for Disease Localization in Chest X-Ray Images",
+    "authors": [
+      "Ostap Viniavskyi",
+      "Mariia Dobko",
+      "Oles Dobosevych"
+    ],
+    "publication_date": "2020-07-01",
+    "venue": "Conference on Artificial Intelligence in Medicine in Europe",
+    "semantic_scholar_id": "af0023bd536dc76877158e17bc1af8b109689b6d",
+    "corpus_id": 220302175,
+    "category": "Computer Science"
+  },
+  "2004-04581": {
+    "title": "Self-Supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation",
+    "authors": [
+      "Yude Wang",
+      "Jie Zhang",
+      "Meina Kan",
+      "S. Shan",
+      "Xilin Chen"
+    ],
+    "publication_date": "2020-04-09",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "90d668b9ff44af25fbe84f888e3c29ec7d86d95a",
+    "corpus_id": 215548217,
+    "category": "Computer Science"
+  },
+  "1910-01279": {
+    "title": "Score-CAM: Score-Weighted Visual Explanations for Convolutional Neural Networks",
+    "authors": [
+      "Haofan Wang",
+      "Zifan Wang",
+      "Mengnan Du",
+      "Fan Yang",
+      "Zijian Zhang",
+      "Sirui Ding",
+      "Piotr (Peter) Mardziel",
+      "Xia Hu"
+    ],
+    "publication_date": "2019-10-03",
+    "venue": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "semantic_scholar_id": "2e257b5f0a0148076e9161202880b022e521ac59",
+    "corpus_id": 215745726,
+    "category": "Computer Science"
+  },
+  "1908-10084": {
+    "title": "Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks",
+    "authors": [
+      "Nils Reimers",
+      "Iryna Gurevych"
+    ],
+    "publication_date": "2019-08-14",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "93d63ec754f29fa22572615320afe0521f7ec66d",
+    "corpus_id": 201646309,
+    "category": "Computer Science"
+  },
+  "1904-05044": {
+    "title": "Weakly Supervised Learning of Instance Segmentation With Inter-Pixel Relations",
+    "authors": [
+      "Jiwoon Ahn",
+      "Sunghyun Cho",
+      "Suha Kwak"
+    ],
+    "publication_date": "2019-04-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "97484a4f67958433ecd73653918ee1b8a16b5b2d",
+    "corpus_id": 131774104,
+    "category": "Computer Science"
+  },
+  "1805-04628": {
+    "title": "Constrained‐CNN losses for weakly supervised segmentation☆",
+    "authors": [
+      "H. Kervadec",
+      "J. Dolz",
+      "Meng Tang",
+      "Eric Granger",
+      "Yuri Boykov",
+      "Ismail Ben Ayed"
+    ],
+    "publication_date": "2018-05-12",
+    "venue": "Medical Image Anal.",
+    "semantic_scholar_id": "d595d0447e24f99d0a413135faa70cc768c789eb",
+    "corpus_id": 44093271,
+    "category": "Computer Science, Medicine"
+  },
+  "1803-10464": {
+    "title": "Learning Pixel-Level Semantic Affinity with Image-Level Supervision for Weakly Supervised Semantic Segmentation",
+    "authors": [
+      "Jiwoon Ahn",
+      "Suha Kwak"
+    ],
+    "publication_date": "2018-03-28",
+    "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "e644867bc141453d1f0387c76ff5e7f7863c5f4f",
+    "corpus_id": 4702470,
+    "category": "Computer Science"
+  },
+  "1802-02611": {
+    "title": "Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation",
+    "authors": [
+      "Liang-Chieh Chen",
+      "Yukun Zhu",
+      "G. Papandreou",
+      "Florian Schroff",
+      "Hartwig Adam"
+    ],
+    "publication_date": "2018-02-07",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "9217e28b2273eb3b26e4e9b7b498b4661e6e09f5",
+    "corpus_id": 3638670,
+    "category": "Computer Science"
+  },
+  "1802-00470": {
+    "title": "Learning Random-Walk Label Propagation for Weakly-Supervised Semantic Segmentation",
+    "authors": [
+      "Paul Vernaza",
+      "Manmohan Chandraker"
+    ],
+    "publication_date": "2017-07-01",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "a3940bda5fda2f11ffc3d4a760728810ab34c604",
+    "corpus_id": 3641656,
+    "category": "Computer Science"
+  },
+  "1706-05587": {
+    "title": "Rethinking Atrous Convolution for Semantic Image Segmentation",
+    "authors": [
+      "Liang-Chieh Chen",
+      "G. Papandreou",
+      "Florian Schroff",
+      "Hartwig Adam"
+    ],
+    "publication_date": "2017-06-17",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "ee4a012a4b12d11d7ab8c0e79c61e807927a163c",
+    "corpus_id": 22655199,
+    "category": "Computer Science"
+  },
+  "1610-02391": {
+    "title": "Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization",
+    "authors": [
+      "Ramprasaath R. Selvaraju",
+      "Abhishek Das",
+      "Ramakrishna Vedantam",
+      "Michael Cogswell",
+      "Devi Parikh",
+      "Dhruv Batra"
+    ],
+    "publication_date": "2016-10-07",
+    "venue": "International Journal of Computer Vision",
+    "semantic_scholar_id": "5582bebed97947a41e3ddd9bd1f284b73f1648c2",
+    "corpus_id": 15019293,
+    "category": "Computer Science"
+  },
+  "1606-00915": {
+    "title": "DeepLab: Semantic Image Segmentation with Deep Convolutional Nets, Atrous Convolution, and Fully Connected CRFs",
+    "authors": [
+      "Liang-Chieh Chen",
+      "G. Papandreou",
+      "Iasonas Kokkinos",
+      "K. Murphy",
+      "A. Yuille"
+    ],
+    "publication_date": "2016-06-02",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "cab372bc3824780cce20d9dd1c22d4df39ed081a",
+    "corpus_id": 3429309,
+    "category": "Computer Science, Medicine"
+  },
+  "1604-05144": {
+    "title": "ScribbleSup: Scribble-Supervised Convolutional Networks for Semantic Segmentation",
+    "authors": [
+      "Di Lin",
+      "Jifeng Dai",
+      "Jiaya Jia",
+      "Kaiming He",
+      "Jian Sun"
+    ],
+    "publication_date": "2016-04-18",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "3d1e82b69663758a1db87fbebed6525d23090146",
+    "corpus_id": 3121011,
+    "category": "Computer Science"
+  },
+  "1603-06098": {
+    "title": "Seed, Expand and Constrain: Three Principles for Weakly-Supervised Image Segmentation",
+    "authors": [
+      "Alexander Kolesnikov",
+      "Christoph H. Lampert"
+    ],
+    "publication_date": "2016-03-19",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "50002d139c1c94c896257f876ef567356b37a5f0",
+    "corpus_id": 333277,
+    "category": "Computer Science"
+  },
+  "1512-04150": {
+    "title": "Learning Deep Features for Discriminative Localization",
+    "authors": [
+      "Bolei Zhou",
+      "A. Khosla",
+      "Àgata Lapedriza",
+      "A. Oliva",
+      "A. Torralba"
+    ],
+    "publication_date": "2015-12-14",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "31f9eb39d840821979e5df9f34a6e92dd9c879f2",
+    "corpus_id": 6789015,
+    "category": "Computer Science"
+  },
+  "1503-01640": {
+    "title": "BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation",
+    "authors": [
+      "Jifeng Dai",
+      "Kaiming He",
+      "Jian Sun"
+    ],
+    "publication_date": "2015-03-05",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "f084f0126d48a0793cf7e60830089b93ef09c844",
+    "corpus_id": 1613420,
+    "category": "Computer Science"
+  },
+  "1411-6228": {
+    "title": "Weakly Supervised Semantic Segmentation with Convolutional Networks",
+    "authors": [
+      "Pedro H. O. Pinheiro",
+      "R. Collobert"
+    ],
+    "publication_date": "2014-11-23",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "34cfd9ef5508f0deb52ec1352153f06d57171873",
+    "corpus_id": 42028786,
+    "category": "Computer Science"
+  }
+}

@@ -1,0 +1,449 @@
+{
+  "2405-13136": {
+    "title": "Towards Principled, Practical Policy Gradient for Bandits and Tabular MDPs",
+    "authors": [
+      "Michael Lu",
+      "Matin Aghaei",
+      "Anant Raj",
+      "Sharan Vaswani"
+    ],
+    "publication_date": "2024-05-21",
+    "venue": "RLJ",
+    "semantic_scholar_id": "8c41dfdd4ceb493e82cf2fc129a8732693428a32",
+    "corpus_id": 269982828,
+    "category": "Computer Science"
+  },
+  "2404-03372": {
+    "title": "Elementary Analysis of Policy Gradient Methods",
+    "authors": [
+      "Jiacai Liu",
+      "Wenye Li",
+      "Ke Wei"
+    ],
+    "publication_date": "2024-04-04",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "4a6b40a9bbf562a078741f862f544727504062c0",
+    "corpus_id": 268889864,
+    "category": "Computer Science, Mathematics"
+  },
+  "2310-11897": {
+    "title": "Accelerated Policy Gradient: On the Convergence Rates of the Nesterov Momentum for Reinforcement Learning",
+    "authors": [
+      "Yen-Ju Chen",
+      "Nai-Chieh Huang",
+      "Ching-pei Lee",
+      "Ping-Chun Hsieh"
+    ],
+    "publication_date": "2023-10-18",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "3f5e2880578896f067ff86e3a1b1b5bc277a1c41",
+    "corpus_id": 270285445,
+    "category": "Computer Science"
+  },
+  "2305-15249": {
+    "title": "Decision-Aware Actor-Critic with Function Approximation and Theoretical Guarantees",
+    "authors": [
+      "Sharan Vaswani",
+      "A. Kazemi",
+      "Reza Babanezhad",
+      "Nicolas Le Roux"
+    ],
+    "publication_date": "2023-05-24",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "fe6be96be8d023a026f7754c8421fb3c3c6a72eb",
+    "corpus_id": 258865806,
+    "category": "Computer Science, Mathematics"
+  },
+  "2305-08841": {
+    "title": "A Theoretical Analysis of Optimistic Proximal Policy Optimization in Linear Markov Decision Processes",
+    "authors": [
+      "Han Zhong",
+      "T. Zhang"
+    ],
+    "publication_date": "2023-05-15",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "bfce86bcdce722c175cd07c8cb0203a7bb0b5711",
+    "corpus_id": 258686569,
+    "category": "Computer Science, Mathematics"
+  },
+  "2302-11381": {
+    "title": "Optimal Convergence Rate for Exact Policy Mirror Descent in Discounted Markov Decision Processes",
+    "authors": [
+      "Emmeran Johnson",
+      "Ciara Pike-Burke",
+      "Patrick Rebeschini"
+    ],
+    "publication_date": "2023-02-22",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "bf2c42468e601540553520921f772008bddc90df",
+    "corpus_id": 257078633,
+    "category": "Mathematics, Computer Science"
+  },
+  "2302-02607": {
+    "title": "Target-based Surrogates for Stochastic Optimization",
+    "authors": [
+      "J. Lavington",
+      "Sharan Vaswani",
+      "Reza Babanezhad",
+      "Mark W. Schmidt",
+      "Nicolas Le Roux"
+    ],
+    "publication_date": "2023-02-06",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "e5a1aa03a20535e63653d65685616f7b1ce2629e",
+    "corpus_id": 254223453,
+    "category": "Computer Science, Mathematics"
+  },
+  "2210-01400": {
+    "title": "Linear Convergence of Natural Policy Gradient Methods with Log-Linear Policies",
+    "authors": [
+      "Rui Yuan",
+      "S. Du",
+      "Robert Mansel Gower",
+      "A. Lazaric",
+      "Lin Xiao"
+    ],
+    "publication_date": "2022-10-04",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "f7e93c8adec97784ec0e18d4fd56d982a8922e0d",
+    "corpus_id": 252693021,
+    "category": "Computer Science, Mathematics"
+  },
+  "2209-15382": {
+    "title": "Linear Convergence for Natural Policy Gradient with Log-linear Policy Parametrization",
+    "authors": [
+      "Carlo Alfano",
+      "Patrick Rebeschini"
+    ],
+    "publication_date": "2022-09-30",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "2ecf4ec090d2d03b7a5118a4ca9273d988e88fa2",
+    "corpus_id": 252668548,
+    "category": "Computer Science, Mathematics"
+  },
+  "2204-12446": {
+    "title": "Beyond Lipschitz: Sharp Generalization and Excess Risk Bounds for Full-Batch GD",
+    "authors": [
+      "Konstantinos E. Nikolakakis",
+      "Farzin Haddadpour",
+      "Amin Karbasi",
+      "Dionysios S. Kalogerias"
+    ],
+    "publication_date": "2022-04-26",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "f3d4ce6fc9c1acb93846768f6a76c0d54fa9a9fd",
+    "corpus_id": 248392030,
+    "category": "Mathematics, Computer Science"
+  },
+  "2201-07443": {
+    "title": "On the Convergence Rates of Policy Gradient Methods",
+    "authors": [
+      "Lin Xiao"
+    ],
+    "publication_date": "2022-01-19",
+    "venue": "Journal of machine learning research",
+    "semantic_scholar_id": "83245afa59b9030f6149a954408660872b738fc6",
+    "corpus_id": 246035707,
+    "category": "Computer Science, Mathematics"
+  },
+  "2201-02373": {
+    "title": "Mirror Learning: A Unifying Framework of Policy Optimisation",
+    "authors": [
+      "J. Kuba",
+      "C. S. D. Witt",
+      "J. Foerster"
+    ],
+    "publication_date": "2022-01-07",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "992f9b256fde9b5f0b24c39cfb2da656c913c2c5",
+    "corpus_id": 245827807,
+    "category": "Computer Science"
+  },
+  "2110-15572": {
+    "title": "Understanding the Effect of Stochasticity in Policy Optimization",
+    "authors": [
+      "Jincheng Mei",
+      "Bo Dai",
+      "Chenjun Xiao",
+      "Csaba Szepesvari",
+      "D. Schuurmans"
+    ],
+    "publication_date": "2021-10-29",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "541f5a1a49af7218a5a2f978144146610e51330d",
+    "corpus_id": 240288627,
+    "category": "Computer Science"
+  },
+  "2108-05828": {
+    "title": "A general class of surrogate functions for stable and efficient reinforcement learning",
+    "authors": [
+      "Sharan Vaswani",
+      "Olivier Bachem",
+      "Simone Totaro",
+      "Robert Müller",
+      "Shivam Garg",
+      "M. Geist",
+      "Marlos C. Machado",
+      "P. S. Castro",
+      "Nicolas Le Roux"
+    ],
+    "publication_date": "2021-08-12",
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "semantic_scholar_id": "c80015b495382cbcf396911c9732f2da36fde341",
+    "corpus_id": 245853534,
+    "category": "Computer Science, Mathematics"
+  },
+  "2105-06072": {
+    "title": "Leveraging Non-uniformity in First-order Non-convex Optimization",
+    "authors": [
+      "Jincheng Mei",
+      "Yue Gao",
+      "Bo Dai",
+      "Csaba Szepesvari",
+      "D. Schuurmans"
+    ],
+    "publication_date": "2021-05-13",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "7f00becf032bc0860410bf673f631a0ae2f09d48",
+    "corpus_id": 234482476,
+    "category": "Computer Science"
+  },
+  "2105-01424": {
+    "title": "On the Linear Convergence of Natural Policy Gradient Algorithm",
+    "authors": [
+      "S. Khodadadian",
+      "P. Jhunjhunwala",
+      "Sushil Mahavir Varma",
+      "Siva Theja Maguluri"
+    ],
+    "publication_date": "2021-05-04",
+    "venue": "IEEE Conference on Decision and Control",
+    "semantic_scholar_id": "cdab74596700b9cfbd92d2801290d317a08ebc36",
+    "corpus_id": 233714662,
+    "category": "Computer Science"
+  },
+  "2102-11270": {
+    "title": "Softmax policy gradient methods can take exponential time to converge",
+    "authors": [
+      "Gen Li",
+      "Yuting Wei",
+      "Yuejie Chi",
+      "Yuantao Gu",
+      "Yuxin Chen"
+    ],
+    "publication_date": "2021-02-22",
+    "venue": "Mathematical programming",
+    "semantic_scholar_id": "2ef267d7f163b28ce9e56b5136f55486d83caa04",
+    "corpus_id": 232014131,
+    "category": "Computer Science, Engineering, Mathematics"
+  },
+  "2102-06234": {
+    "title": "Optimization Issues in KL-Constrained Approximate Policy Iteration",
+    "authors": [
+      "N. Lazic",
+      "Botao Hao",
+      "Yasin Abbasi-Yadkori",
+      "D. Schuurmans",
+      "Csaba Szepesvari"
+    ],
+    "publication_date": "2021-02-11",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "71e7fb9998b7308fb055166cf78a1fe5bda0aef7",
+    "corpus_id": 231918662,
+    "category": "Computer Science, Mathematics"
+  },
+  "2102-00135": {
+    "title": "Policy mirror descent for reinforcement learning: linear convergence, new sampling complexity, and generalized problem classes",
+    "authors": [
+      "Guanghui Lan"
+    ],
+    "publication_date": "2021-01-30",
+    "venue": "Mathematical programming",
+    "semantic_scholar_id": "49de7e3d0aa22b083aed7a2c15a7f7db43b8dfe5",
+    "corpus_id": 231740467,
+    "category": "Computer Science, Mathematics"
+  },
+  "2007-11120": {
+    "title": "On the Linear Convergence of Policy Gradient Methods for Finite MDPs",
+    "authors": [
+      "Jalaj Bhandari",
+      "Daniel Russo"
+    ],
+    "publication_date": "2020-07-21",
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "semantic_scholar_id": "8d89d47abe2978896e20c4681c41302146c8a1d8",
+    "corpus_id": 233237314,
+    "category": "Computer Science, Mathematics"
+  },
+  "2005-09814": {
+    "title": "Mirror Descent Policy Optimization",
+    "authors": [
+      "Manan Tomar",
+      "Lior Shani",
+      "Yonathan Efroni",
+      "M. Ghavamzadeh"
+    ],
+    "publication_date": "2020-05-20",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "08eb40da621640e14ffac36c5e2595d7c0250541",
+    "corpus_id": 218720006,
+    "category": "Computer Science, Mathematics"
+  },
+  "2005-06392": {
+    "title": "On the Global Convergence Rates of Softmax Policy Gradient Methods",
+    "authors": [
+      "Jincheng Mei",
+      "Chenjun Xiao",
+      "Csaba Szepesvari",
+      "D. Schuurmans"
+    ],
+    "publication_date": "2020-05-13",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "b76ee983dd28a388ee95a2ab4cf70e7b6f169e12",
+    "corpus_id": 218613983,
+    "category": "Mathematics, Computer Science"
+  },
+  "2003-00307": {
+    "title": "Loss landscapes and optimization in over-parameterized non-linear systems and neural networks",
+    "authors": [
+      "Chaoyue Liu",
+      "Libin Zhu",
+      "M. Belkin"
+    ],
+    "publication_date": "2020-02-29",
+    "venue": "Applied and Computational Harmonic Analysis",
+    "semantic_scholar_id": "8da3ed272c07733ca46eab023b03c7411dfcfc42",
+    "corpus_id": 235239754,
+    "category": "Computer Science, Mathematics"
+  },
+  "1909-02769": {
+    "title": "Adaptive Trust Region Policy Optimization: Global Convergence and Faster Rates for Regularized MDPs",
+    "authors": [
+      "Lior Shani",
+      "Yonathan Efroni",
+      "Shie Mannor"
+    ],
+    "publication_date": "2019-09-06",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "a2ea78ea760e056eb5c7d4bc27e31ad066736c18",
+    "corpus_id": 202235132,
+    "category": "Computer Science, Mathematics"
+  },
+  "1906-10306": {
+    "title": "Neural Proximal/Trust Region Policy Optimization Attains Globally Optimal Policy",
+    "authors": [
+      "Boyi Liu",
+      "Qi Cai",
+      "Zhuoran Yang",
+      "Zhaoran Wang"
+    ],
+    "publication_date": "2019-06-25",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "34c65ff9691581ef251faeb35d4b48d37ce76a4c",
+    "corpus_id": 195584005,
+    "category": "Computer Science, Mathematics"
+  },
+  "1707-06347": {
+    "title": "Proximal Policy Optimization Algorithms",
+    "authors": [
+      "John Schulman",
+      "Filip Wolski",
+      "Prafulla Dhariwal",
+      "Alec Radford",
+      "Oleg Klimov"
+    ],
+    "publication_date": "2017-07-20",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "dce6f9d4017b1785979e7520fd0834ef8cf02f4b",
+    "corpus_id": 28695052,
+    "category": "Computer Science"
+  },
+  "1702-08165": {
+    "title": "Reinforcement Learning with Deep Energy-Based Policies",
+    "authors": [
+      "Tuomas Haarnoja",
+      "Haoran Tang",
+      "P. Abbeel",
+      "S. Levine"
+    ],
+    "publication_date": "2017-02-27",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "9172cd6c253edf7c3a1568e03577db20648ad0c4",
+    "corpus_id": 11227891,
+    "category": "Computer Science"
+  },
+  "1606-01540": {
+    "title": "OpenAI Gym",
+    "authors": [
+      "Greg Brockman",
+      "Vicki Cheung",
+      "Ludwig Pettersson",
+      "Jonas Schneider",
+      "John Schulman",
+      "Jie Tang",
+      "Wojciech Zaremba"
+    ],
+    "publication_date": "2016-06-05",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "2b10281297ee001a9f3f4ea1aa9bea6b638c27df",
+    "corpus_id": 16099293,
+    "category": "Computer Science"
+  },
+  "1506-02438": {
+    "title": "High-Dimensional Continuous Control Using Generalized Advantage Estimation",
+    "authors": [
+      "John Schulman",
+      "Philipp Moritz",
+      "S. Levine",
+      "Michael I. Jordan",
+      "P. Abbeel"
+    ],
+    "publication_date": "2015-06-08",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "d316c82c12cf4c45f9e85211ef3d1fa62497bff8",
+    "corpus_id": 3075448,
+    "category": "Computer Science, Mathematics"
+  },
+  "1502-05477": {
+    "title": "Trust Region Policy Optimization",
+    "authors": [
+      "John Schulman",
+      "S. Levine",
+      "P. Abbeel",
+      "Michael I. Jordan",
+      "Philipp Moritz"
+    ],
+    "publication_date": "2015-02-19",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "449532187c94af3dd3aa55e16d2c50f7854d2199",
+    "corpus_id": 16046818,
+    "category": "Computer Science, Mathematics"
+  },
+  "1207-4708": {
+    "title": "The Arcade Learning Environment: An Evaluation Platform for General Agents",
+    "authors": [
+      "Marc G. Bellemare",
+      "Yavar Naddaf",
+      "J. Veness",
+      "Michael Bowling"
+    ],
+    "publication_date": "2012-07-19",
+    "venue": "Journal of Artificial Intelligence Research",
+    "semantic_scholar_id": "f82e4ff4f003581330338aaae71f60316e58dd26",
+    "corpus_id": 1552061,
+    "category": "Computer Science"
+  },
+  "math/0602629": {
+    "title": "Improved second-order bounds for prediction with expert advice",
+    "authors": [
+      "N. Cesa-Bianchi",
+      "Y. Mansour",
+      "Gilles Stoltz"
+    ],
+    "publication_date": "2005-06-27",
+    "venue": "Machine-mediated learning",
+    "semantic_scholar_id": "5099e84e42ae78ca9f5726217eefc54b19647045",
+    "corpus_id": 3248698,
+    "category": "Mathematics, Computer Science"
+  }
+}

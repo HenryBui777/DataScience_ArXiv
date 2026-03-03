@@ -1,0 +1,15 @@
+{
+  "title": "A Full-History Network Dataset for BTC Asset Decentralization Profiling",
+  "authors": [
+    "Ling Cheng",
+    "Qian Shao",
+    "Fengzhu Zeng",
+    "Feida Zhu"
+  ],
+  "summary": "Since its advent in 2009, Bitcoin (BTC) has garnered increasing attention from both academia and industry. However, due to the massive transaction volume, no systematic study has quantitatively measured the asset decentralization degree specifically from a network perspective.\n  In this paper, by conducting a thorough analysis of the BTC transaction network, we first address the significant gap in the availability of full-history BTC graph and network property dataset, which spans over 15 years from the genesis block (1st March, 2009) to the 845651-th block (29, May 2024). We then present the first systematic investigation to profile BTC's asset decentralization and design several decentralization degrees for quantification. Through extensive experiments, we emphasize the significant role of network properties and our network-based decentralization degree in enhancing Bitcoin analysis. Our findings demonstrate the importance of our comprehensive dataset and analysis in advancing research on Bitcoin's transaction dynamics and decentralization, providing valuable insights into the network's structure and its implications.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-fin.ST, cs.SI"
+}

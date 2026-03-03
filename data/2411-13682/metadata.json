@@ -1,0 +1,16 @@
+{
+  "title": "Differentially Private Learning Beyond the Classical Dimensionality Regime",
+  "authors": [
+    "Cynthia Dwork",
+    "Pranay Tankala",
+    "Linjun Zhang"
+  ],
+  "summary": "We initiate the study of differentially private learning in the proportional dimensionality regime, in which the number of data samples $n$ and problem dimension $d$ approach infinity at rates proportional to one another, meaning that $d/n\\toδ$ as $n\\to\\infty$ for an arbitrary, given constant $δ\\in(0,\\infty)$. This setting is significantly more challenging than that of all prior theoretical work in high-dimensional differentially private learning, which, despite the name, has assumed that $δ= 0$ or is sufficiently small for problems of sample complexity $O(d)$, a regime typically considered \"low-dimensional\" or \"classical\" by modern standards in high-dimensional statistics. We provide sharp theoretical estimates of the error of several well-studied differentially private algorithms for robust linear regression and logistic regression, including output perturbation, objective perturbation, and noisy stochastic gradient descent, in the proportional dimensionality regime. The $1+o(1)$ factor precision of our error estimates enables a far more nuanced understanding of the price of privacy of these algorithms than that afforded by existing, coarser analyses, which are essentially vacuous in the regime we consider. Using our estimates, we discover a previously unobserved \"double descent\"-like phenomenon in the training error of objective perturbation for robust linear regression. We also identify settings in which output perturbation outperforms objective perturbation on average, and vice versa, demonstrating that the relative performance of these algorithms is less clear-cut than suggested by prior work. To prove our main theorems, we introduce several probabilistic tools that have not previously been used to analyze differentially private learning algorithms, such as a modern Gaussian comparison inequality and recent universality laws with origins in statistical physics.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-02-19"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.CR, cs.DS"
+}

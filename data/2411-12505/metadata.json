@@ -1,0 +1,12 @@
+{
+  "title": "On a modified Cahn-Hilliard-Brinkman model with chemotaxis and nonlinear sensitivity",
+  "authors": [
+    "Giulio Schimperna"
+  ],
+  "summary": "We consider an evolutionary PDE system coupling the Cahn-Hilliard equation with singular potential, mass source and transport effects, to a Brinkman-type relation for the macroscopic velocity field and to a further equation describing the evolution of the concentration of a chemical substance affecting the phase separation process. The main application we have in mind refers to tumor growth models: in particular, the equation for the chemical prescribes that such a substance tends to migrate towards the regions where the tumor cells are more dense and consume it more actively. The cross-diffusion effects characterizing the system are similar to those occurring in the Keller-Segel model for chemotaxis. There is, however, a profound difference between the two settings: actually, the Cahn-Hilliard system prescribes a fourth-order dynamics with respect to space variables, whereas most models for chemotaxis are of the second order in space. This fact has a number of specific consequences regarding regularity properties of solutions and conditions ensuring existence. Our main results are devoted to proving existence of weak solutions in the case when the chemotactic sensitivity function depends nonlinearly on the chemical species concentration, and, more precisely, has a slow growth at infinity so to avoid finite-time blowup. We also analyze the asymptotic problem obtained by letting the viscosity go to zero so to get a Darcy flow regime in the limit.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AP"
+}

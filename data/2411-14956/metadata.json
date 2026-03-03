@@ -1,0 +1,15 @@
+{
+  "title": "A celestial reference frame derived from observations with the Very Long Baseline Interferometry Global Observing System",
+  "authors": [
+    "Hana Krasna",
+    "Christopher S. Jacobs",
+    "Matthias Schartner",
+    "Patrick Charlot"
+  ],
+  "summary": "Aims: We computed a celestial reference frame (CRF) from Very Long Baseline Interferometry (VLBI) Global Observing System (VGOS) data after five years of regular observations (155 multi-baseline 24-hour VGOS sessions until 2024.0). In this paper we document the source selection and scheduling strategies for the individual sessions, and investigate the effect of using this new VGOS CRF in the analysis of individual geodetic VLBI sessions. We carried out several comparisons with ICRF3-SX, and with VIE2023sx CRF which includes VLBI S/X data until 2024.0. Furthermore, we studied the effect of more frequent estimations of tropospheric parameters on the estimated CRF in the current VGOS network. We evaluated the VIE2023-VG CRF in the geodetic analysis of VGOS sessions where the source positions were fixed to either the VIE2023-VG CRF or to ICRF3-SX.\n  Results: The current VIE2023-VG CRF is built with 1.39 million VGOS group delays and includes 418 radio sources, where 172 sources (41%) are introduced in only four research and development sessions alone. We show that the VIE2023-VG CRF has excellent source position precision. The median formal error from the least-squares adjustment is 30 microas for right ascension (scaled by cosine of declination) and 47 microas for declination. In terms of systematic distortions versus ICRF3-SX, the largest terms in the vector spherical harmonics up to the degree and order two, reach in absolute values around 60 microas, caused by correlations between the individual terms. Because of the lack of observations in the southern hemisphere, a constraint for a zero slope in declination difference with respect to ICRF3-SX is imposed in the global adjustment. Therefore, VGOS should prioritize the development of southern stations in order to limit the need for such constraints on the frame.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.IM"
+}

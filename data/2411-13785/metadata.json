@@ -1,0 +1,18 @@
+{
+  "title": "Throughput Maximization for Movable Antenna Systems with Movement Delay Consideration",
+  "authors": [
+    "Honghao Wang",
+    "Qingqing Wu",
+    "Ying Gao",
+    "Wen Chen",
+    "Weidong Mei",
+    "Guojie Hu",
+    "Lexi Xu"
+  ],
+  "summary": "In this paper, we model the minimum achievable throughput within a transmission block of restricted duration and aim to maximize it in movable antenna (MA)-enabled multiuser downlink communications. Particularly, we account for the antenna moving delay caused by mechanical movement, which has not been fully considered in previous studies, and reveal the trade-off between the delay and signal-to-interference-plus-noise ratio at users. To this end, we first consider a single-user setup to analyze the necessity of antenna movement. By quantizing the virtual angles of arrival, we derive the requisite region size for antenna moving, design the initial MA position, and elucidate the relationship between quantization resolution and moving region size. Furthermore, an efficient algorithm is developed to optimize MA position via successive convex approximation, which is subsequently extended to the general multiuser setup. Numerical results demonstrate that the proposed algorithms outperform fixed-position antenna schemes and existing ones without consideration of movement delay. Additionally, our algorithms exhibit excellent adaptability and stability across various transmission block durations and moving region sizes, and are robust to different antenna moving speeds. This allows the hardware cost of MA-aided systems to be reduced by employing low rotational speed motors.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IT, eess.SP"
+}

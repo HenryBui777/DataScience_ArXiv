@@ -1,0 +1,16 @@
+{
+  "title": "Creating a Formally Verified Neural Network for Autonomous Navigation: An Experience Report",
+  "authors": [
+    "Syed Ali Asadullah Bukhari",
+    "Thomas Flinkow",
+    "Medet Inkarbekov",
+    "Barak A. Pearlmutter",
+    "Rosemary Monahan"
+  ],
+  "summary": "The increased reliance of self-driving vehicles on neural networks opens up the challenge of their verification.  In this paper we present an experience report, describing a case study which we undertook to explore the design and training of a neural network on a custom dataset for vision-based autonomous navigation. We are particularly interested in the use of machine learning with differentiable logics to obtain networks satisfying basic safety properties by design, guaranteeing the behaviour of the neural network after training. We motivate the choice of a suitable neural network verifier for our purposes and report our observations on the use of neural network verifiers for self-driving systems.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "EPTCS 411, 2024, pp. 178-190",
+  "pdf_url": null,
+  "category": "cs.LO, cs.CV, cs.LG"
+}

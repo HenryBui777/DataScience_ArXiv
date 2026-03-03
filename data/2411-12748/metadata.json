@@ -1,0 +1,15 @@
+{
+  "title": "FinBERT-BiLSTM: A Deep Learning Model for Predicting Volatile Cryptocurrency Market Prices Using Market Sentiment Dynamics",
+  "authors": [
+    "Mabsur Fatin Bin Hossain",
+    "Lubna Zahan Lamia",
+    "Md Mahmudur Rahman",
+    "Md Mosaddek Khan"
+  ],
+  "summary": "Time series forecasting is a key tool in financial markets, helping to predict asset prices and guide investment decisions. In highly volatile markets, such as cryptocurrencies like Bitcoin (BTC) and Ethereum (ETH), forecasting becomes more difficult due to extreme price fluctuations driven by market sentiment, technological changes, and regulatory shifts. Traditionally, forecasting relied on statistical methods, but as markets became more complex, deep learning models like LSTM, Bi-LSTM, and the newer FinBERT-LSTM emerged to capture intricate patterns. Building upon recent advancements and addressing the volatility inherent in cryptocurrency markets, we propose a hybrid model that combines Bidirectional Long Short-Term Memory (Bi-LSTM) networks with FinBERT to enhance forecasting accuracy for these assets. This approach fills a key gap in forecasting volatile financial markets by blending advanced time series models with sentiment analysis, offering valuable insights for investors and analysts navigating unpredictable markets.",
+  "submission_date": "2024-11-02",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-fin.TR, cs.LG"
+}

@@ -1,0 +1,194 @@
+{
+  "2406-01304": {
+    "title": "CodeR: Issue Resolving with Multi-Agent and Task Graphs",
+    "authors": [
+      "Dong Chen",
+      "Shaoxin Lin",
+      "Muhan Zeng",
+      "Daoguang Zan",
+      "Jian-Gang Wang",
+      "Anton Cheshkov",
+      "Jun Sun",
+      "Hao Yu",
+      "Guoliang Dong",
+      "Artem Aliev",
+      "Jie Wang",
+      "Xiao Cheng",
+      "Guangtai Liang",
+      "Yuchi Ma",
+      "Pan Bian",
+      "Tao Xie",
+      "Qianxiang Wang"
+    ],
+    "publication_date": "2024-06-03",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "81a953de95f4932b6342fa55b2040926b2590e9c",
+    "corpus_id": 270214751,
+    "category": "Computer Science"
+  },
+  "2404-01554": {
+    "title": "FT2Ra: A Fine-Tuning-Inspired Approach to Retrieval-Augmented Code Completion",
+    "authors": [
+      "Qi Guo",
+      "Xiaohong Li",
+      "Xiaofei Xie",
+      "Shangqing Liu",
+      "Ze Tang",
+      "Ruitao Feng",
+      "Junjie Wang",
+      "Jidong Ge",
+      "Lei Bu"
+    ],
+    "publication_date": "2024-04-02",
+    "venue": "International Symposium on Software Testing and Analysis",
+    "semantic_scholar_id": "16b5ccdd6e5c10e4379000162e4608bea2274a5b",
+    "corpus_id": 268856642,
+    "category": "Computer Science"
+  },
+  "2402-11702": {
+    "title": "Can ChatGPT Support Developers? An Empirical Evaluation of Large Language Models for Code Generation",
+    "authors": [
+      "Kailun Jin",
+      "Chung-Yu Wang",
+      "Hung Viet Pham",
+      "Hadi Hemmati"
+    ],
+    "publication_date": "2024-02-18",
+    "venue": "IEEE Working Conference on Mining Software Repositories",
+    "semantic_scholar_id": "920a29bc30a041d2531763f19c7fd212d0edb822",
+    "corpus_id": 267750154,
+    "category": "Computer Science"
+  },
+  "2310-09342": {
+    "title": "Ranking LLM-Generated Loop Invariants for Program Verification",
+    "authors": [
+      "Saikat Chakraborty",
+      "Shuvendu K. Lahiri",
+      "Sarah Fakhoury",
+      "Madanlal Musuvathi",
+      "Akash Lal",
+      "Aseem Rastogi",
+      "Aditya Senthilnathan",
+      "Rahul Sharma",
+      "Nikhil Swamy"
+    ],
+    "publication_date": "2023-10-13",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "6fff70b746ff857486dc9cf0555f3e6654d2ee24",
+    "corpus_id": 264146125,
+    "category": "Computer Science"
+  },
+  "2306-01394": {
+    "title": "Domain Knowledge Matters: Improving Prompts with Fix Templates for Repairing Python Type Errors",
+    "authors": [
+      "Yun Peng",
+      "Shuzheng Gao",
+      "Cuiyun Gao",
+      "Yintong Huo",
+      "Michael R. Lyu"
+    ],
+    "publication_date": "2023-06-02",
+    "venue": "International Conference on Software Engineering",
+    "semantic_scholar_id": "f777a82c576e52928044225ce6a2733ccd2b8123",
+    "corpus_id": 259064177,
+    "category": "Computer Science"
+  },
+  "2210-03629": {
+    "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+    "authors": [
+      "Shunyu Yao",
+      "Jeffrey Zhao",
+      "Dian Yu",
+      "Nan Du",
+      "Izhak Shafran",
+      "Karthik Narasimhan",
+      "Yuan Cao"
+    ],
+    "publication_date": "2022-10-06",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "99832586d55f540f603637e458a292406a0ed75d",
+    "corpus_id": 252762395,
+    "category": "Computer Science"
+  },
+  "2203-11343": {
+    "title": "Using Evolutionary Coupling to Establish Relevance Links Between Tests and Code Units. A case study on fault localization",
+    "authors": [
+      "Jeongju Sohn",
+      "Mike Papadakis"
+    ],
+    "publication_date": "2022-03-21",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "a28e4fe3f4abd1c3646aacbbb5ccce80d034cf7b",
+    "corpus_id": 247597125,
+    "category": "Computer Science"
+  },
+  "2103-00073": {
+    "title": "CURE: Code-Aware Neural Machine Translation for Automatic Program Repair",
+    "authors": [
+      "Nan Jiang",
+      "Thibaud Lutellier",
+      "Lin Tan"
+    ],
+    "publication_date": "2021-02-26",
+    "venue": "International Conference on Software Engineering",
+    "semantic_scholar_id": "eed70db53a05fba20a30a27aac9d9a9984c436c4",
+    "corpus_id": 232076119,
+    "category": "Computer Science"
+  },
+  "2010-10805": {
+    "title": "SeqTrans: Automatic Vulnerability Fix Via Sequence to Sequence Learning",
+    "authors": [
+      "Jianlei Chi",
+      "YunHuan Qu",
+      "Ting Liu",
+      "Q. Zheng",
+      "Heng Yin"
+    ],
+    "publication_date": "2020-10-21",
+    "venue": "IEEE Transactions on Software Engineering",
+    "semantic_scholar_id": "c74242e97212867b2ed00cd0d6ac90652c2dc604",
+    "corpus_id": 224814157,
+    "category": "Computer Science"
+  },
+  "2009-10297": {
+    "title": "CodeBLEU: a Method for Automatic Evaluation of Code Synthesis",
+    "authors": [
+      "Shuo Ren",
+      "Daya Guo",
+      "Shuai Lu",
+      "Long Zhou",
+      "Shujie Liu",
+      "Duyu Tang",
+      "M. Zhou",
+      "Ambrosio Blanco",
+      "Shuai Ma"
+    ],
+    "publication_date": "2020-09-22",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "f23a0e443fe931aa2fed932421bf47c1a4fcf619",
+    "corpus_id": 221836101,
+    "category": "Computer Science"
+  },
+  "2005-11401": {
+    "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+    "authors": [
+      "Patrick Lewis",
+      "Ethan Perez",
+      "Aleksandara Piktus",
+      "F. Petroni",
+      "Vladimir Karpukhin",
+      "Naman Goyal",
+      "Heinrich Kuttler",
+      "M. Lewis",
+      "Wen-tau Yih",
+      "Tim Rocktäschel",
+      "Sebastian Riedel",
+      "Douwe Kiela"
+    ],
+    "publication_date": "2020-05-22",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "659bf9ce7175e1ec266ff54359e2bd76e0b7ff31",
+    "corpus_id": 218869575,
+    "category": "Computer Science"
+  }
+}

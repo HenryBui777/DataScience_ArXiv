@@ -1,0 +1,21 @@
+{
+  "title": "Guided MRI Reconstruction via Schrödinger Bridge",
+  "authors": [
+    "Yue Wang",
+    "Yuanbiao Yang",
+    "Zhuo-xu Cui",
+    "Tian Zhou",
+    "Bingsheng Huang",
+    "Hairong Zheng",
+    "Dong Liang",
+    "Yanjie Zhu"
+  ],
+  "summary": "Magnetic Resonance Imaging (MRI) is an inherently multi-contrast modality, where cross-contrast priors can be exploited to improve image reconstruction from undersampled data. Recently, diffusion models have shown remarkable performance in MRI reconstruction. However, they still struggle to effectively utilize such priors, mainly because existing methods rely on feature-level fusion in image or latent spaces, which lacks explicit structural correspondence and thus leads to suboptimal performance. To address this issue, we propose $\\mathbf{I}^2$SB-Inversion, a multi-contrast guided reconstruction framework based on the Schrödinger Bridge (SB). The proposed method performs pixel-wise translation between paired contrasts, providing explicit structural constraints between the guidance and target images. Furthermore, an Inversion strategy is introduced to correct inter-modality misalignment, which often occurs in guided reconstruction, thereby mitigating artifacts and improving reconstruction accuracy. Experiments on paired T1- and T2-weighted datasets demonstrate that $\\mathbf{I}^2$SB-Inversion achieves a high acceleration factor of up to 14.4 and consistently outperforms existing methods in both quantitative and qualitative evaluations.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-10-24"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.CV, eess.SP"
+}

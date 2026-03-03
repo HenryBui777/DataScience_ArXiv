@@ -1,0 +1,18 @@
+{
+  "title": "Pulsed Dual-axis Alkali-metal-noble-gas Comagnetometer",
+  "authors": [
+    "Jingyao Wang",
+    "Junyi Lee",
+    "Hudson Loughlin",
+    "Morgan Hedges",
+    "Michael V. Romalis"
+  ],
+  "summary": "Alkali-metal-noble-gas comagnetometers are precision probes well-suited for tests of fundamental physics and inertial rotation sensing, combining high sensitivity of the spin-exchange-relaxation free (SERF) magnetometers with inherent suppression of magnetic field noise. Past versions of the device utilizing continuous-wave optical pumping are sensitive to a single axis perpendicular to the plane spanned by the orthogonal pump and probe laser beams. These devices are susceptible to light shifts in the alkali atoms, and to power and beam pointing fluctuations of both the probe and pump lasers, the latter of which is a dominant source of $1/f$ noise. In this work, we model and implement an approach to alkali-metal-noble-gas comagnetometers using pulsed optical pumping. After each pump laser pulse, an off-resonance probe beam measures the precession of noble-gas-spins-coupled alkali spins via optical rotation in the dark, thus eliminating effects from pump laser light shift and power fluctuations. Performing non-linear fitting on the sinusoidal transient signal with a proper phase enables separate and simultaneous measurement of signals along two orthogonal axes in the plane perpendicular to the pump beam. Effects from beam pointing fluctuations of the probe beam in the pump-probe plane is fundamentally eliminated, and signal response to pump beam pointing fluctuations is suppressed by compensation from noble-gas nuclear spins.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-04-18"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.atom-ph"
+}

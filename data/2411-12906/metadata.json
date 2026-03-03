@@ -1,0 +1,16 @@
+{
+  "title": "Experimental Study of Underwater Acoustic Reconfigurable Intelligent Surfaces with Synthetic Reflection",
+  "authors": [
+    "Yu Luo",
+    "Lina Pu",
+    "Aijun Song"
+  ],
+  "summary": "This paper presents an underwater acoustic reconfigurable intelligent surfaces (UA-RIS) designed for long-range, high-speed, and environmentally friendly communication in oceanic environments. The proposed UA-RIS comprises multiple pairs of acoustic reflectors that utilize a synthetic reflection scheme to flexibly control the amplitude and phase of reflected waves. This capability enables precise beam steering to enhance or attenuate sound levels in specific directions. A prototype UA-RIS with 4*6 acoustic reflection units is constructed and tested in both tank and lake environments to evaluate performance. Experimental results using a continuous wave (CW) as the source signal demonstrate that the prototype is capable of effectively pointing reflected waves to targeted directions while minimizing side lobes through synthetic reflection. Field tests reveal that deploying the UA-RIS on the sender side considerably extends communication ranges by 28% in deep water and 46% in shallow waters. Furthermore, with a fixed communication distance, positioning the UA-RIS at the transmitter side substantially boosts data rates, with an average increase of 63.8% and peaks up to 96%. When positioned on the receiver side, the UA-RIS can expand the communication range in shallow and deep water environments by 40.6% and 66%, respectively. Moreover, placing the UA-RIS close to the receiver enhances data rates by an average of 80.3%, reaching up to 163% under certain circumstances.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-07-06"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

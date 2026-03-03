@@ -1,0 +1,20 @@
+{
+  "title": "LiDAR-based End-to-end Temporal Perception for Vehicle-Infrastructure Cooperation",
+  "authors": [
+    "Zhenwei Yang",
+    "Jilei Mao",
+    "Wenxian Yang",
+    "Yibo Ai",
+    "Yu Kong",
+    "Haibao Yu",
+    "Weidong Zhang"
+  ],
+  "summary": "Temporal perception, defined as the capability to detect and track objects across temporal sequences, serves as a fundamental component in autonomous driving systems. While single-vehicle perception systems encounter limitations, stemming from incomplete perception due to object occlusion and inherent blind spots, cooperative perception systems present their own challenges in terms of sensor calibration precision and positioning accuracy. To address these issues, we introduce LET-VIC, a LiDAR-based End-to-End Tracking framework for Vehicle-Infrastructure Cooperation (VIC). First, we employ Temporal Self-Attention and VIC Cross-Attention modules to effectively integrate temporal and spatial information from both vehicle and infrastructure perspectives. Then, we develop a novel Calibration Error Compensation (CEC) module to mitigate sensor misalignment issues and facilitate accurate feature alignment. Experiments on the V2X-Seq-SPD dataset demonstrate that LET-VIC significantly outperforms baseline models. Compared to LET-V, LET-VIC achieves +15.0% improvement in mAP and a +17.3% improvement in AMOTA. Furthermore, LET-VIC surpasses representative Tracking by Detection models, including V2VNet, FFNet, and PointPillars, with at least a +13.7% improvement in mAP and a +13.1% improvement in AMOTA without considering communication delays, showcasing its robust detection and tracking performance. The experiments demonstrate that the integration of multi-view perspectives, temporal sequences, or CEC in end-to-end training significantly improves both detection and tracking performance. All code will be open-sourced.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-04-05"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI, cs.LG, cs.RO"
+}

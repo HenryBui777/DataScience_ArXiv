@@ -1,0 +1,13 @@
+{
+  "title": "Exploring Large Language Models for Climate Forecasting",
+  "authors": [
+    "Yang Wang",
+    "Hassan A. Karimi"
+  ],
+  "summary": "With the increasing impacts of climate change, there is a growing demand for accessible tools that can provide reliable future climate information to support planning, finance, and other decision-making applications. Large language models (LLMs), such as GPT-4, present a promising approach to bridging the gap between complex climate data and the general public, offering a way for non-specialist users to obtain essential climate insights through natural language interaction. However, an essential challenge remains under-explored: evaluating the ability of LLMs to provide accurate and reliable future climate predictions, which is crucial for applications that rely on anticipating climate trends. In this study, we investigate the capability of GPT-4 in predicting rainfall at short-term (15-day) and long-term (12-month) scales. We designed a series of experiments to assess GPT's performance under different conditions, including scenarios with and without expert data inputs. Our results indicate that GPT, when operating independently, tends to generate conservative forecasts, often reverting to historical averages in the absence of clear trend signals. This study highlights both the potential and challenges of applying LLMs for future climate predictions, providing insights into their integration with climate-related applications and suggesting directions for enhancing their predictive capabilities in the field.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI"
+}

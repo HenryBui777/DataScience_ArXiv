@@ -1,0 +1,19 @@
+{
+  "title": "Un-mixing Test-time Adaptation under Heterogeneous Data Streams",
+  "authors": [
+    "Zixian Su",
+    "Jingwei Guo",
+    "Xi Yang",
+    "Qiufeng Wang",
+    "Kaizhu Huang"
+  ],
+  "summary": "Deploying deep models in real-world scenarios remains challenging due to significant performance drops under distribution shifts between training and deployment environments. Test-Time Adaptation (TTA) has recently emerged as a promising solution, enabling on-the-fly model adaptation without access to source data. However, its effectiveness degrades significantly in the presence of complex, mixed distribution shifts - common in practical settings - where multiple latent domains coexist. Adapting under such intrinsic heterogeneity, especially in unlabeled and online conditions, remains an open and underexplored challenge. In this paper, we study TTA under mixed distribution shifts and move beyond conventional homogeneous adaptation paradigms. By revisiting TTA from a frequency-domain perspective, we observe that distribution heterogeneity often manifests in Fourier space - for instance, high-frequency components tend to carry domain-specific variations. This motivates us to perform domain-aware separation using high-frequency texture cues, making diverse shift patterns more tractable. To this end, we propose FreDA, a novel Frequency-based Decentralized Adaptation framework that decomposes globally heterogeneous data into locally homogeneous components in the frequency domain. It further employs decentralized learning and augmentation strategies to robustly adapt under complex, evolving shifts. Extensive experiments across various environments (corrupted, natural, and medical) demonstrate the superiority of our proposed framework over the state-of-the-arts.",
+  "submission_date": "2024-11-16",
+  "revised_dates": [
+    "2025-08-01",
+    "2025-08-17"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI"
+}

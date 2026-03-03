@@ -1,0 +1,14 @@
+{
+  "title": "Identifying Core-Periphery Structures in Networks via Artificial Ants",
+  "authors": [
+    "Imran Ansari",
+    "Qazi J Azhad",
+    "Niteesh Sahni"
+  ],
+  "summary": "Core periphery structure represents a meso-scale structure in networks, characterized by a dense interconnection of core nodes and sparse connections among peripheral nodes. In this paper, we introduce an innovative approach for detecting core periphery structure, leveraging Artificial Ants. Core-periphery structures play a crucial role in elucidating network organization across various domains. The proposed approach, inspired by the foraging behavior of ants, employs artificial pheromone trails to iteratively construct and refine solutions, thereby eliminating the need for arbitrary partitions that often constrain traditional methods. Our method is applied to a diverse selection of real world networks including historical, literary, linguistic, sports, and animal social networks highlighting its adaptability and robustness. We systematically compare the performance of our approach against established core-periphery detection techniques, emphasizing differences in node classification between the core and periphery. Experimental results show that our method achieves superior flexibility and precision, offering marked improvements in the accuracy of core periphery structure detection.",
+  "submission_date": "2024-11-14",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.soc-ph, cs.SI"
+}

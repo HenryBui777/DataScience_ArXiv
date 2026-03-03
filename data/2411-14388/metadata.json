@@ -1,0 +1,16 @@
+{
+  "title": "Efficient calculation of reactor noise via Ito-Langevin Process for correlated fluctuations",
+  "authors": [
+    "Guy Gabrieli",
+    "Yair Shokef",
+    "Izhar Neder"
+  ],
+  "summary": "We derive an Ito-Langevin stochastic process that captures the time-dependent deviation from Poisson behavior of the noise detected from a general heterogeneous sub-critical neutron system. Using the probability generating function for the actual physical process, we deduce the super-Poisson deviation of the covariance matrix of counts at the detector due to neutron multiplication upon fission. This leads to a general form that coincides with the second moment of an Ito process. This comparison facilitates the formulation of a corresponding effective Langevin equation, which potentially enables simulations that significantly reduce the computational resources required compared to direct simulation of the system's actual noise. This method could assist in designing sub-critical noise experiments for licensing new research reactors, for improving cross-section libraries and for non-destructive assays of spent fuel.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-05-25"
+  ],
+  "publication_venue": "Progress in Nuclear Energy 187, 105822 (2025)",
+  "pdf_url": null,
+  "category": "cond-mat.stat-mech"
+}

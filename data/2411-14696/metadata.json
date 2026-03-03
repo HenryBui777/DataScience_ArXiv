@@ -1,0 +1,18 @@
+{
+  "title": "Quantum Hamiltonian Descent for Graph Partition",
+  "authors": [
+    "Jinglei Cheng",
+    "Ruilin Zhou",
+    "Yuhang Gan",
+    "Chen Qian",
+    "Junyu Liu"
+  ],
+  "summary": "We introduce Quantum Hamiltonian Descent as a novel approach to solve the graph partition problem. By reformulating graph partition as a Quadratic Unconstrained Binary Optimization (QUBO) problem, we leverage QHD's quantum-inspired dynamics to identify optimal community structures. Our method implements a multi-level refinement strategy that alternates between QUBO formulation and QHD optimization to iteratively improve partition quality. Experimental results demonstrate that our QHD-based approach achieves superior modularity scores (up to 5.49\\%) improvement with reduced computational overhead compared to traditional optimization methods. This work establishes QHD as an effective quantum-inspired framework for tackling graph partition challenges in large-scale networks.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-02-17"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, cs.AI, cs.LG"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Ergodicity of Langevin Dynamics and its Discretizations for Non-smooth Potentials",
+  "authors": [
+    "Lorenz Fruehwirth",
+    "Andreas Habring"
+  ],
+  "summary": "This article is concerned with sampling from Gibbs distributions $π(x)\\propto e^{-U(x)}$ using Markov chain Monte Carlo methods. In particular, we investigate Langevin dynamics in the continuous- and the discrete-time setting for such distributions with potentials $U(x)$ which are strongly-convex but possibly non-differentiable. We show that the corresponding subgradient Langevin dynamics are exponentially ergodic to the target density $π$ in the continuous setting and that certain explicit as well as semi-implicit discretizations are geometrically ergodic and approximate $π$ for vanishing discretization step size. Moreover, we prove that the discrete schemes satisfy the law of large numbers allowing to use consecutive iterates of a Markov chain in order to compute statistics of the stationary distribution posing a significant reduction of computational complexity in practice. Numerical experiments are provided confirming the theoretical findings and showcasing the practical relevance of the proposed methods in imaging applications.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA, math.OC"
+}

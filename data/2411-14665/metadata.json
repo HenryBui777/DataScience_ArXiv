@@ -1,0 +1,13 @@
+{
+  "title": "Double Machine Learning for Adaptive Causal Representation in High-Dimensional Data",
+  "authors": [
+    "Lynda Aouar",
+    "Han Yu"
+  ],
+  "summary": "Adaptive causal representation learning from observational data is presented, integrated with an efficient sample splitting technique within the semiparametric estimating equation framework. The support points sample splitting (SPSS), a subsampling method based on energy distance, is employed for efficient double machine learning (DML) in causal inference. The support points are selected and split as optimal representative points of the full raw data in a random sample, in contrast to the traditional random splitting, and providing an optimal sub-representation of the underlying data generating distribution. They offer the best representation of a full big dataset, whereas the unit structural information of the underlying distribution via the traditional random data splitting is most likely not preserved. Three machine learning estimators were adopted for causal inference, support vector machine (SVM), deep learning (DL), and a hybrid super learner (SL) with deep learning (SDL), using SPSS. A comparative study is conducted between the proposed SVM, DL, and SDL representations using SPSS, and the benchmark results from Chernozhukov et al. (2018), which employed random forest, neural network, and regression trees with a random k-fold cross-fitting technique on the 401(k)-pension plan real data. The simulations show that DL with SPSS and the hybrid methods of DL and SL with SPSS outperform SVM with SPSS in terms of computational efficiency and the estimation quality, respectively.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ML, cs.LG, stat.AP, stat.CO"
+}

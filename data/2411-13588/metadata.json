@@ -1,0 +1,15 @@
+{
+  "title": "Unveiling Redundancy in Diffusion Transformers (DiTs): A Systematic Study",
+  "authors": [
+    "Xibo Sun",
+    "Jiarui Fang",
+    "Aoyu Li",
+    "Jinzhe Pan"
+  ],
+  "summary": "The increased model capacity of Diffusion Transformers (DiTs) and the demand for generating higher resolutions of images and videos have led to a significant rise in inference latency, impacting real-time performance adversely. While prior research has highlighted the presence of high similarity in activation values between adjacent diffusion steps (referred to as redundancy) and proposed various caching mechanisms to mitigate computational overhead, the exploration of redundancy in existing literature remains limited, with findings often not generalizable across different DiT models. This study aims to address this gap by conducting a comprehensive investigation into redundancy across a broad spectrum of mainstream DiT models. Our experimental analysis reveals substantial variations in the distribution of redundancy across diffusion steps among different DiT models. Interestingly, within a single model, the redundancy distribution remains stable regardless of variations in input prompts, step counts, or scheduling strategies. Given the lack of a consistent pattern across diverse models, caching strategies designed for a specific group of models may not easily transfer to others. To overcome this challenge, we introduce a tool for analyzing the redundancy of individual models, enabling subsequent research to develop tailored caching strategies for specific model architectures. The project is publicly available at https://github.com/xdit-project/DiTCacheAnalysis.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI"
+}

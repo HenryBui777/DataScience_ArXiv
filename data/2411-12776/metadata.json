@@ -1,0 +1,20 @@
+{
+  "title": "Cross-Layer Encrypted Semantic Communication Framework for Panoramic Video Transmission",
+  "authors": [
+    "Haixiao Gao",
+    "Mengying Sun",
+    "Xiaodong Xu",
+    "Bingxuan Xu",
+    "Shujun Han",
+    "Bizhu Wang",
+    "Sheng Jiang",
+    "Chen Dong",
+    "Ping Zhang"
+  ],
+  "summary": "In this paper, we propose a cross-layer encrypted semantic communication (CLESC) framework for panoramic video transmission, incorporating feature extraction, encoding, encryption, cyclic redundancy check (CRC), and retransmission processes to achieve compatibility between semantic communication and traditional communication systems. Additionally, we propose an adaptive cross-layer transmission mechanism that dynamically adjusts CRC, channel coding, and retransmission schemes based on the importance of semantic information. This ensures that important information is prioritized under poor transmission conditions. To verify the aforementioned framework, we also design an end-to-end adaptive panoramic video semantic transmission (APVST) network that leverages a deep joint source-channel coding (Deep JSCC) structure and attention mechanism, integrated with a latitude adaptive module that facilitates adaptive semantic feature extraction and variable-length encoding of panoramic videos. The proposed CLESC is also applicable to the transmission of other modal data. Simulation results demonstrate that the proposed CLESC effectively achieves compatibility and adaptation between semantic communication and traditional communication systems, improving both transmission efficiency and channel adaptability. Compared to traditional cross-layer transmission schemes, the CLESC framework can reduce bandwidth consumption by 85% while showing significant advantages under low signal-to-noise ratio (SNR) conditions.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.CR, cs.MM"
+}

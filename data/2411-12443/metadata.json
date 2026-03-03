@@ -1,0 +1,15 @@
+{
+  "title": "Local interaction simulation approach for the acoustic wave equation with perfectly matched layer",
+  "authors": [
+    "Tao Yu",
+    "Tailong Jin",
+    "Yanfeng Shen",
+    "Lei Zhang"
+  ],
+  "summary": "Simulation of the acoustic wave equation plays an important role in various applications, including audio engineering, medical imaging, and fluid dynamics. However, the complexity of the propagation medium can pose challenges, such as the infinite computing region and the interface conditions between different media. In this paper, we construct a method for simulating acoustic wave propagation based on the local interaction simulation approach (LISA) and the perfectly matched layer (PML). This method can simulate wave propagation in a finite computing region and overcome the smoothing process at the interface between different media. Numerical examples demonstrate the effectiveness of this approach.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

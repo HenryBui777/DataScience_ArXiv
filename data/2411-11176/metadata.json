@@ -1,0 +1,17 @@
+{
+  "title": "Infinite Width Limits of Self Supervised Neural Networks",
+  "authors": [
+    "Maximilian Fleissner",
+    "Gautham Govind Anil",
+    "Debarghya Ghoshdastidar"
+  ],
+  "summary": "The NTK is a widely used tool in the theoretical analysis of deep learning, allowing us to look at supervised deep neural networks through the lenses of kernel regression. Recently, several works have investigated kernel models for self-supervised learning, hypothesizing that these also shed light on the behavior of wide neural networks by virtue of the NTK. However, it remains an open question to what extent this connection is mathematically sound -- it is a commonly encountered misbelief that the kernel behavior of wide neural networks emerges irrespective of the loss function it is trained on. In this paper, we bridge the gap between the NTK and self-supervised learning, focusing on two-layer neural networks trained under the Barlow Twins loss. We prove that the NTK of Barlow Twins indeed becomes constant as the width of the network approaches infinity. Our analysis technique is a bit different from previous works on the NTK and may be of independent interest. Overall, our work provides a first justification for the use of classic kernel theory to understand self-supervised learning of wide neural networks. Building on this result, we derive generalization error bounds for kernelized Barlow Twins and connect them to neural networks of finite width.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [
+    "2025-02-19",
+    "2025-05-03"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

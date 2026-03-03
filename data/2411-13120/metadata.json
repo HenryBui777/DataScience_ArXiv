@@ -1,0 +1,19 @@
+{
+  "title": "Virtual Staining of Label-Free Tissue in Imaging Mass Spectrometry",
+  "authors": [
+    "Yijie Zhang",
+    "Luzhe Huang",
+    "Nir Pillar",
+    "Yuzhu Li",
+    "Lukasz G. Migas",
+    "Raf Van de Plas",
+    "Jeffrey M. Spraggins",
+    "Aydogan Ozcan"
+  ],
+  "summary": "Imaging mass spectrometry (IMS) is a powerful tool for untargeted, highly multiplexed molecular mapping of tissue in biomedical research. IMS offers a means of mapping the spatial distributions of molecular species in biological tissue with unparalleled chemical specificity and sensitivity. However, most IMS platforms are not able to achieve microscopy-level spatial resolution and lack cellular morphological contrast, necessitating subsequent histochemical staining, microscopic imaging and advanced image registration steps to enable molecular distributions to be linked to specific tissue features and cell types. Here, we present a virtual histological staining approach that enhances spatial resolution and digitally introduces cellular morphological contrast into mass spectrometry images of label-free human tissue using a diffusion model. Blind testing on human kidney tissue demonstrated that the virtually stained images of label-free samples closely match their histochemically stained counterparts (with Periodic Acid-Schiff staining), showing high concordance in identifying key renal pathology structures despite utilizing IMS data with 10-fold larger pixel size. Additionally, our approach employs an optimized noise sampling technique during the diffusion model's inference process to reduce variance in the generated images, yielding reliable and repeatable virtual staining. We believe this virtual staining method will significantly expand the applicability of IMS in life sciences and open new avenues for mass spectrometry-based biomedical research.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "Science Advances (2025)",
+  "pdf_url": null,
+  "category": "cs.CV, cs.LG, physics.med-ph, physics.optics"
+}

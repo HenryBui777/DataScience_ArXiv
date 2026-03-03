@@ -1,0 +1,15 @@
+{
+  "title": "Pairwise Markov Chains for Volatility Forecasting",
+  "authors": [
+    "Elie Azeraf"
+  ],
+  "summary": "The Pairwise Markov Chain (PMC) is a probabilistic graphical model extending the well-known Hidden Markov Model. This model, although highly effective for many tasks, has been scarcely utilized for continuous value prediction. This is mainly due to the issue of modeling observations inherent in generative probabilistic models. In this paper, we introduce a new algorithm for prediction with the PMC. On the one hand, this algorithm allows circumventing the feature problem, thus fully exploiting the capabilities of the PMC. On the other hand, it enables the PMC to extend any predictive model by introducing hidden states, updated at each time step, and allowing the introduction of non-stationarity for any model. We apply the PMC with its new algorithm for volatility forecasting, which we compare to the highly popular GARCH(1,1) and feedforward neural models across numerous pairs. This is particularly relevant given the regime changes that we can observe in volatility. For each scenario, our algorithm enhances the performance of the extended model, demonstrating the value of our approach.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-05-08",
+    "2025-08-10"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ML, cs.LG"
+}

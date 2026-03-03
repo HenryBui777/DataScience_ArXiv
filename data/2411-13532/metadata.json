@@ -1,0 +1,15 @@
+{
+  "title": "A Distributed-memory Tridiagonal Solver Based on a Specialised Data Structure Optimised for CPU and GPU Architectures",
+  "authors": [
+    "Semih Akkurt",
+    "Sébastien Lemaire",
+    "Paul Bartholomew",
+    "Sylvain Laizet"
+  ],
+  "summary": "Various numerical methods used for solving partial differential equations (PDE) result in tridiagonal systems. Solving tridiagonal systems on distributed-memory environments is not straightforward, and often requires significant amount of communication. In this article, we present a novel distributed-memory tridiagonal solver algorithm, DistD2-TDS, based on a specialised data structure. DistD2-TDS algorithm takes advantage of the diagonal dominance in tridiagonal systems to reduce the communications in distributed-memory environments. The underlying data structure plays a crucial role for the performance of the algorithm. First, the data structure improves data localities and makes it possible to minimise data movements via cache blocking and kernel fusion strategies. Second, data continuity enables a contiguous data access pattern and results in efficient utilisation of the available memory bandwidth. Finally, the data layout supports vectorisation on CPUs and thread level parallelisation on GPUs for improved performance. In order to demonstrate the robustness of the algorithm, we implemented and benchmarked the algorithm on CPUs and GPUs. We investigated the single rank performance and compared against existing algorithms. Furthermore, we analysed the strong scaling of the implementation up to 384 NVIDIA H100 GPUs and up to 8192 AMD EPYC 7742 CPUs. Finally, we demonstrated a practical use case of the algorithm by using compact finite difference schemes to solve a 3D non-linear PDE. The results demonstrate that DistD2 algorithm can sustain around 66% of the theoretical peak bandwidth at scale on CPU and GPU based supercomputers.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DC, physics.comp-ph"
+}

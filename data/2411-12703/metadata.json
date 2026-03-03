@@ -1,0 +1,17 @@
+{
+  "title": "Strengthening False Information Propagation Detection: Leveraging SVM and Sophisticated Text Vectorization Techniques in comparison to BERT",
+  "authors": [
+    "Ahmed Akib Jawad Karim",
+    "Kazi Hafiz Md Asad",
+    "Aznur Azam"
+  ],
+  "summary": "The rapid spread of misinformation, particularly through online platforms, underscores the urgent need for reliable detection systems. This study explores the utilization of machine learning and natural language processing, specifically Support Vector Machines (SVM) and BERT, to detect fake news. We employ three distinct text vectorization methods for SVM: Term Frequency Inverse Document Frequency (TF-IDF), Word2Vec, and Bag of Words (BoW), evaluating their effectiveness in distinguishing between genuine and fake news. Additionally, we compare these methods against the transformer large language model, BERT. Our comprehensive approach includes detailed preprocessing steps, rigorous model implementation, and thorough evaluation to determine the most effective techniques. The results demonstrate that while BERT achieves superior accuracy with 99.98% and an F1-score of 0.9998, the SVM model with a linear kernel and BoW vectorization also performs exceptionally well, achieving 99.81% accuracy and an F1-score of 0.9980. These findings highlight that, despite BERT's superior performance, SVM models with BoW and TF-IDF vectorization methods come remarkably close, offering highly competitive performance with the advantage of lower computational requirements.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-06-27",
+    "2025-08-09"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL"
+}

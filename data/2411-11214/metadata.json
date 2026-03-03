@@ -1,0 +1,15 @@
+{
+  "title": "DeforHMR: Vision Transformer with Deformable Cross-Attention for 3D Human Mesh Recovery",
+  "authors": [
+    "Jaewoo Heo",
+    "George Hu",
+    "Zeyu Wang",
+    "Serena Yeung-Levy"
+  ],
+  "summary": "Human Mesh Recovery (HMR) is an important yet challenging problem with applications across various domains including motion capture, augmented reality, and biomechanics. Accurately predicting human pose parameters from a single image remains a challenging 3D computer vision task. In this work, we introduce DeforHMR, a novel regression-based monocular HMR framework designed to enhance the prediction of human pose parameters using deformable attention transformers. DeforHMR leverages a novel query-agnostic deformable cross-attention mechanism within the transformer decoder to effectively regress the visual features extracted from a frozen pretrained vision transformer (ViT) encoder. The proposed deformable cross-attention mechanism allows the model to attend to relevant spatial features more flexibly and in a data-dependent manner. Equipped with a transformer decoder capable of spatially-nuanced attention, DeforHMR achieves state-of-the-art performance for single-frame regression-based methods on the widely used 3D HMR benchmarks 3DPW and RICH. By pushing the boundary on the field of 3D human mesh recovery through deformable attention, we introduce an new, effective paradigm for decoding local spatial information from large pretrained vision encoders in computer vision.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

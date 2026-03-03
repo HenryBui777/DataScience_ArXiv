@@ -1,0 +1,13 @@
+{
+  "title": "Quantum Algorithm for the Multiple String Matching Problem",
+  "authors": [
+    "Kamil Khadiev",
+    "Danil Serov"
+  ],
+  "summary": "Let us consider the Multiple String Matching Problem. In this problem, we consider a long string, denoted by $t$, of length $n$. This string is referred to as a text. We also consider a sequence of $m$ strings, denoted by $S$, which we refer to as a dictionary. The total length of all strings from the dictionary is represented by the variable L. The objective is to identify all instances of strings from the dictionary within the text. The standard classical solution to this problem is Aho-Corasick Algorithm that has $O(n+L)$ query and time complexity. At the same time, the classical lower bound for the problem is the same $Ω(n+L)$. We propose a quantum algorithm with $O(n+\\sqrt{mL\\log n}+m\\log n)$ query complexity and $O(n+\\sqrt{mL\\log n}\\log b+m\\log n)=O^*(n+\\sqrt{mL})$ time complexity, where $b$ is the maximal length of strings from the dictionary. This improvement is particularly significant in the case of dictionaries comprising long words. Our algorithm's complexity is equal to the quantum lower bound $O(n + \\sqrt{mL})$, up to a log factor. In some sense, our algorithm can be viewed as a quantum analogue of the Aho-Corasick algorithm.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, cs.DS"
+}

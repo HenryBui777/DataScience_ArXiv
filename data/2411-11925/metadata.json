@@ -1,0 +1,19 @@
+{
+  "title": "Continuous Speculative Decoding for Autoregressive Image Generation",
+  "authors": [
+    "Zili Wang",
+    "Robert Zhang",
+    "Kun Ding",
+    "Qi Yang",
+    "Fei Li",
+    "Shiming Xiang"
+  ],
+  "summary": "Continuous visual autoregressive (AR) models have demonstrated promising performance in image generation. However, the heavy autoregressive inference burden imposes significant overhead. In Large Language Models (LLMs), speculative decoding has effectively accelerated discrete autoregressive inference. However, the absence of an analogous theory for continuous distributions precludes its use in accelerating continuous AR models. To fill this gap, this work presents continuous speculative decoding, and addresses challenges from: 1) low acceptance rate, caused by inconsistent output distribution between target and draft models, and 2) modified distribution without analytic expression, caused by complex integral. To address challenge 1), we propose denoising trajectory alignment and token pre-filling strategies. To address challenge 2), we introduce acceptance-rejection sampling algorithm with an appropriate upper bound, thereby avoiding explicitly calculating the integral. Furthermore, our denoising trajectory alignment is also reused in acceptance-rejection sampling, effectively avoiding repetitive diffusion model inference. Extensive experiments demonstrate that our proposed continuous speculative decoding achieves over $2\\times$ speedup on off-the-shelf models, while maintaining the original generation quality. Codes is available at: https://github.com/MarkXCloud/CSpD",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-09-28"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

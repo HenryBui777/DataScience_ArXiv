@@ -1,0 +1,12 @@
+{
+  "title": "Dynamics of micro and nanoscale systems in the weak-memory regime: A mathematical framework beyond the Markov approximation",
+  "authors": [
+    "Kay Brandner"
+  ],
+  "summary": "The visible dynamics of small-scale systems are strongly affected by unobservable degrees of freedom, which can belong either to external environments or internal subsystems and almost inevitably induce memory effects. Formally, such inaccessible degrees of freedom can be systematically eliminated from essentially any microscopic model through projection operator techniques, which result in non-local time evolution equations. This article investigates how and under what conditions locality in time can be rigorously restored beyond the standard Markov approximation, which generally requires the characteristic time scales of accessible and inaccessible degrees of freedom to be sharply separated. Specifically, we consider non-local time evolution equations that are autonomous and linear in the variables of interest. For this class of models, we prove a mathematical theorem that establishes a well-defined weak-memory regime, where faithful local approximations exists, even if the relevant time scales are of comparable order of magnitude. The generators of these local approximations, which become exact in the long-time limit, are time independent and can be determined to arbitrary accuracy through a convergent perturbation theory in the memory strength, where the Markov generator is recovered in first order. For illustration, we work out three simple, yet instructive, examples covering coarse grained Markov jump networks, semi-Markov jump processes and generalized Langevin equations.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "Phys. Rev. E 111, 014137 (2025)",
+  "pdf_url": null,
+  "category": "cond-mat.stat-mech, cond-mat.mes-hall"
+}

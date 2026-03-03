@@ -1,0 +1,18 @@
+{
+  "title": "Hypothesis testing of symmetry in quantum dynamics",
+  "authors": [
+    "Yu-Ao Chen",
+    "Chenghong Zhu",
+    "Keming He",
+    "Yingjian Liu",
+    "Xin Wang"
+  ],
+  "summary": "Symmetry plays a crucial role in quantum physics, dictating the behavior and dynamics of physical systems. In this paper, we develop a hypothesis-testing framework for quantum dynamics symmetry using a limited number of queries to the unknown unitary operation and establish the quantum max-relative entropy lower bound for the type-II error. We construct optimal ancilla-free protocols that achieve optimal type-II error probability for testing time-reversal symmetry (T-symmetry) and diagonal symmetry (Z-symmetry) with limited queries. Contrasting with the advantages of indefinite causal order strategies in various quantum information processing tasks, we show that parallel, adaptive, and indefinite causal order strategies have equal power for our tasks. We establish optimal protocols for T-symmetry testing and Z-symmetry testing for 6 and 5 queries, respectively, from which we infer that the type-II error exhibits a decay rate of $\\mathcal{O}(m^{-2})$ with respect to the number of queries $m$. This represents a significant improvement over the basic repetition protocols without using global entanglement, where the error decays at a slower rate of $\\mathcal{O}(m^{-1})$.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-03-31"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, cs.IT"
+}

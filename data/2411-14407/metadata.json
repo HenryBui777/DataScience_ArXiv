@@ -1,0 +1,19 @@
+{
+  "title": "Exploring Methods for Integrating and Augmenting Multimodal Data to Improve Prognostic Accuracy in Imbalanced Datasets for Intraoperative Aneurysm Occlusion",
+  "authors": [
+    "Parisa Naghdi",
+    "Mohammad Mahdi Shiraz Bhurwani",
+    "Ahmad Rahmatpour",
+    "Parmita Mondal",
+    "Michael Udin",
+    "Kyle A Williams",
+    "Swetadri Vasan Setlur Nagesh",
+    "Ciprian N Ionita"
+  ],
+  "summary": "This study evaluates a multimodal machine learning framework for predicting treatment outcomes in intracranial aneurysms (IAs). Combining angiographic parametric imaging (API), patient biomarkers, and disease morphology, the framework aims to enhance prognostic accuracy. Data from 340 patients were analyzed, with separate deep neural networks processing quantitative and categorical data. These networks' pre decision layers were concatenated and inputted into a final predictive network. Various data augmentation strategies, including Synthetic Minority Oversampling Technique for Nominal and Continuous data (SMOTE NC), addressed dataset imbalances. Performance metrics, evaluated through Monte Carlo cross validation, showed significant improvements with augmentation, particularly in intermediate fusion models. This study validates the framework's efficacy in accurately predicting IA treatment outcomes, demonstrating that data augmentation techniques can substantially enhance model performance.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.med-ph"
+}

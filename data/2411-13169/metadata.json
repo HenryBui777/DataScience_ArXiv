@@ -1,0 +1,17 @@
+{
+  "title": "A Unified Analysis for Finite Weight Averaging",
+  "authors": [
+    "Peng Wang",
+    "Li Shen",
+    "Zerui Tao",
+    "Yan Sun",
+    "Guodong Zheng",
+    "Dacheng Tao"
+  ],
+  "summary": "Averaging iterations of Stochastic Gradient Descent (SGD) have achieved empirical success in training deep learning models, such as Stochastic Weight Averaging (SWA), Exponential Moving Average (EMA), and LAtest Weight Averaging (LAWA). Especially, with a finite weight averaging method, LAWA can attain faster convergence and better generalization. However, its theoretical explanation is still less explored since there are fundamental differences between finite and infinite settings. In this work, we first generalize SGD and LAWA as Finite Weight Averaging (FWA) and explain their advantages compared to SGD from the perspective of optimization and generalization. A key challenge is the inapplicability of traditional methods in the sense of expectation or optimal values for infinite-dimensional settings in analyzing FWA's convergence. Second, the cumulative gradients introduced by FWA introduce additional confusion to the generalization analysis, especially making it more difficult to discuss them under different assumptions. Extending the final iteration convergence analysis to the FWA, this paper, under a convexity assumption, establishes a convergence bound $\\mathcal{O}(\\log\\left(\\frac{T}{k}\\right)/\\sqrt{T})$, where $k\\in[1, T/2]$ is a constant representing the last $k$ iterations. Compared to SGD with $\\mathcal{O}(\\log(T)/\\sqrt{T})$, we prove theoretically that FWA has a faster convergence rate and explain the effect of the number of average points. In the generalization analysis, we find a recursive representation for bounding the cumulative gradient using mathematical induction. We provide bounds for constant and decay learning rates and the convex and non-convex cases to show the good generalization performance of FWA. Finally, experimental results on several benchmarks verify our theoretical results.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, math.OC, stat.ML"
+}

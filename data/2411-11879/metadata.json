@@ -1,0 +1,16 @@
+{
+  "title": "CSP-Net: Common Spatial Pattern Empowered Neural Networks for EEG-Based Motor Imagery Classification",
+  "authors": [
+    "Xue Jiang",
+    "Lubin Meng",
+    "Xinru Chen",
+    "Yifan Xu",
+    "Dongrui Wu"
+  ],
+  "summary": "Electroencephalogram-based motor imagery (MI) classification is an important paradigm of non-invasive brain-computer interfaces. Common spatial pattern (CSP), which exploits different energy distributions on the scalp while performing different MI tasks, is very popular in MI classification. Convolutional neural networks (CNNs) have also achieved great success, due to their powerful learning capabilities. This paper proposes two CSP-empowered neural networks (CSP-Nets), which integrate knowledge-driven CSP filters with data-driven CNNs to enhance the performance in MI classification. CSP-Net-1 directly adds a CSP layer before a CNN to improve the input discriminability. CSP-Net-2 replaces a convolutional layer in CNN with a CSP layer. The CSP layer parameters in both CSP-Nets are initialized with CSP filters designed from the training data. During training, they can either be kept fixed or optimized using gradient descent. Experiments on four public MI datasets demonstrated that the two CSP-Nets consistently improved over their CNN backbones, in both within-subject and cross-subject classifications. They are particularly useful when the number of training samples is very small. Our work demonstrates the advantage of integrating knowledge-driven traditional machine learning with data-driven deep learning in EEG-based brain-computer interfaces.",
+  "submission_date": "2024-11-04",
+  "revised_dates": [],
+  "publication_venue": "Knowledge Based Systems, 305:112668, 2024",
+  "pdf_url": null,
+  "category": "eess.SP, cs.AI, cs.HC, cs.LG"
+}

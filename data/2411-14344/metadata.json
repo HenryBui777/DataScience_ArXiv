@@ -1,0 +1,16 @@
+{
+  "title": "Overcomplete Tensor Decomposition via Koszul-Young Flattenings",
+  "authors": [
+    "Pravesh K. Kothari",
+    "Ankur Moitra",
+    "Alexander S. Wein"
+  ],
+  "summary": "Motivated by connections between algebraic complexity lower bounds and tensor decompositions, we investigate Koszul-Young flattenings, which are the main ingredient in recent lower bounds for matrix multiplication. Based on this tool we give a new algorithm for decomposing an $n_1 \\times n_2 \\times n_3$ tensor as the sum of a minimal number of rank-1 terms, and certifying uniqueness of this decomposition. For $n_1 \\le n_2 \\le n_3$ with $n_1 \\to \\infty$ and $n_3/n_2 = O(1)$, our algorithm is guaranteed to succeed when the tensor rank is bounded by $r \\le (1-ε)(n_2 + n_3)$ for an arbitrary $ε> 0$, provided the tensor components are generically chosen. For any fixed $ε$, the runtime is polynomial in $n_3$. When $n_2 = n_3 = n$, our condition on the rank gives a factor-of-2 improvement over the classical simultaneous diagonalization algorithm, which requires $r \\le n$, and also improves on the recent algorithm of Koiran (2024) which requires $r \\le 4n/3$. It also improves on the PhD thesis of Persu (2018) which solves rank detection for $r \\leq 3n/2$.\n  We complement our upper bounds by showing limitations, in particular that no flattening of the style we consider can surpass rank $n_2 + n_3$. Furthermore, for $n \\times n \\times n$ tensors, we show that an even more general class of degree-$d$ polynomial flattenings cannot surpass rank $Cn$ for a constant $C = C(d)$. This suggests that for tensor decompositions, the case of generic components may be fundamentally harder than that of random components, where efficient decomposition is possible even in highly overcomplete settings.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-10-23"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DS, cs.LG"
+}

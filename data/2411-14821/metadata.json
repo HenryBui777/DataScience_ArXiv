@@ -1,0 +1,14 @@
+{
+  "title": "Ex-post Stability under Two-Sided Matching: Complexity and Characterization",
+  "authors": [
+    "Haris Aziz",
+    "Gergely Csáji",
+    "Péter Biró"
+  ],
+  "summary": "A probabilistic approach to the stable matching problem has been identified as an important research area with several important open problems. When considering random matchings, ex-post stability is a fundamental stability concept. A prominent open problem is characterizing ex-post stability and establishing its computational complexity. We investigate the computational complexity of testing ex-post stability. Our central result is that when either side has ties in the preferences/priorities, testing ex-post stability is NP-complete. The result even holds if both sides have dichotomous preferences. On the positive side, we give an algorithm using an integer programming approach, that can determine a decomposition with a maximum probability of being weakly stable. We also consider stronger versions of ex-post stability (in particular robust ex-post stability and ex-post strong stability) and prove that they can be tested in polynomial time.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.GT, cs.CC"
+}

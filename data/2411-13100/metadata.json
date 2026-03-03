@@ -1,0 +1,19 @@
+{
+  "title": "Song Form-aware Full-Song Text-to-Lyrics Generation with Multi-Level Granularity Syllable Count Control",
+  "authors": [
+    "Yunkee Chae",
+    "Eunsik Shin",
+    "Suntae Hwang",
+    "Seungryeol Paik",
+    "Kyogu Lee"
+  ],
+  "summary": "Lyrics generation presents unique challenges, particularly in achieving precise syllable control while adhering to song form structures such as verses and choruses. Conventional line-by-line approaches often lead to unnatural phrasing, underscoring the need for more granular syllable management. We propose a framework for lyrics generation that enables multi-level syllable control at the word, phrase, line, and paragraph levels, aware of song form. Our approach generates complete lyrics conditioned on input text and song form, ensuring alignment with specified syllable constraints. Generated lyrics samples are available at: https://tinyurl.com/lyrics9999",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-06-19",
+    "2025-06-23"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.AI"
+}

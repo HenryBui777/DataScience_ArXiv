@@ -1,0 +1,15 @@
+{
+  "title": "Towards Adaptive Asynchronous Federated Learning for Human Activity Recognition",
+  "authors": [
+    "Rastko Gajanin",
+    "Anastasiya Danilenka",
+    "Andrea Morichetta",
+    "Stefan Nastic"
+  ],
+  "summary": "In this work, we tackle the problem of performing multi-label classification in the case of extremely heterogeneous data and with decentralized Machine Learning. Solving this issue is very important in IoT scenarios, where data coming from various sources, collected by heterogeneous devices, serve the learning of a distributed ML model through Federated Learning (FL). Specifically, we focus on the combination of FL applied to Human Activity Recognition HAR), where the task is to detect which kind of movements or actions individuals perform. In this case, transitioning from centralized learning (CL) to federated learning is non-trivial as HAR displays heterogeneity in action and devices, leading to significant skews in label and feature distributions. We address this scenario by presenting concrete solutions and tools for transitioning from centralized to FL for non-IID scenarios, outlining the main design decisions that need to be taken. Leveraging an open-sourced HAR dataset, we experimentally evaluate the effects that data augmentation, scaling, optimizer, learning rate, and batch size choices have on the performance of resulting machine learning models. Some of our main findings include using SGD-m as an optimizer, global feature scaling across clients, and persistent feature skew in the presence of heterogeneous HAR data. Finally, we provide an open-source extension of the Flower framework that enables asynchronous FL.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DC"
+}

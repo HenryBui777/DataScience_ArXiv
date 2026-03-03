@@ -1,0 +1,18 @@
+{
+  "title": "Starkiller: subtracting stars and other sources from IFU spectroscopic data through forward modeling",
+  "authors": [
+    "Ryan Ridden-Harper",
+    "Michele T. Bannister",
+    "Sophie E. Deam",
+    "Thomas Nordlander"
+  ],
+  "summary": "We present starkiller, an open-source Python package for forward-modeling flux retrieval from integral field unit spectrograph (IFU) datacubes. Starkiller simultaneously provides stellar spectral classification, relative velocity, and line-of-sight extinction for all sources in a catalog, alongside a source-subtracted datacube. It performs synthetic difference imaging by simulating all catalog sources in the field of view, using the catalog for positions and fluxes to scale stellar models, independent of the datacube. This differencing method is particularly powerful for subtracting both point-sources and trailed or even streaked sources from extended astronomical objects. We demonstrate starkiller's effectiveness in improving observations of extended sources in dense stellar fields for VLT/MUSE observations of comets, asteroids and nebulae. We also show that starkiller can treat satellite-impacted VLT/MUSE observations. The package could be applied to tasks as varied as dust extinction in clusters and stellar variability; the stellar modeling using Gaia fluxes is provided as a standalone function. The techniques can be expanded to imagers and to other IFUs.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-12-13",
+    "2025-07-31"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.IM, astro-ph.EP, astro-ph.SR"
+}

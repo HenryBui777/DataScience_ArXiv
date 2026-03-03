@@ -1,0 +1,15 @@
+{
+  "title": "GraphTheft: Quantifying Privacy Risks in Graph Prompt Learning",
+  "authors": [
+    "Jiani Zhu",
+    "Xi Lin",
+    "Yuxin Qi",
+    "Qinghua Mao"
+  ],
+  "summary": "Graph Prompt Learning (GPL) represents an innovative approach in graph representation learning, enabling task-specific adaptations by fine-tuning prompts without altering the underlying pre-trained model. Despite its growing prominence, the privacy risks inherent in GPL remain unexplored. In this study, we provide the first evaluation of privacy leakage in GPL across three attacker capabilities: black-box attacks when GPL as a service, and scenarios where node embeddings and prompt representations are accessible to third parties. We assess GPL's privacy vulnerabilities through Attribute Inference Attacks (AIAs) and Link Inference Attacks (LIAs), finding that under any capability, attackers can effectively infer the properties and relationships of sensitive nodes, and the success rate of inference on some data sets is as high as 98%. Importantly, while targeted inference attacks on specific prompts (e.g., GPF-plus) maintain high success rates, our analysis suggests that the prompt-tuning in GPL does not significantly elevate privacy risks compared to traditional GNNs. To mitigate these risks, we explored defense mechanisms, identifying that Laplacian noise perturbation can substantially reduce inference success, though balancing privacy protection with model performance remains challenging. This work highlights critical privacy risks in GPL, offering new insights and foundational directions for future privacy-preserving strategies in graph learning.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR"
+}

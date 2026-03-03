@@ -1,0 +1,15 @@
+{
+  "title": "A fast approach for analyzing spatio-temporal patterns in ischemic heart disease mortality across US counties (1999-2021)",
+  "authors": [
+    "A. Urdangarin",
+    "T. Goicoa",
+    "P. Congdon",
+    "MD. Ugarte"
+  ],
+  "summary": "Ischaemic heart disease (IHD) remains the primary cause of mortality in the US. This study focuses on using spatio-temporal disease mapping models to explore the temporal trends of IHD at the county level from 1999 to 2021. To manage the computational burden arising from the high-dimensional data, we employ scalable Bayesian models using a \"divide and conquer\" strategy. This approach allows for fast model fitting and serves as an efficient procedure for screening spatio-temporal patterns.\n  Additionally, we analyze trends in four regional subdivisions, West, Midwest, South and Northeast, and in urban and rural areas. The dataset on IHD contains missing data, and we propose a procedure to impute the omitted information. The results show a slowdown in the decrease of IHD mortality in the US after 2014 with a slight increase noted after 2019. However, differences exists among the counties, the four big geographical regions, and rural and urban areas.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "Spatial and Spatio-temporal Epidemiology, Volume 52, February 2025, 100700",
+  "pdf_url": null,
+  "category": "stat.AP"
+}

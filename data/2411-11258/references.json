@@ -1,0 +1,808 @@
+{
+  "2402-10533": {
+    "title": "APCodec: A Neural Audio Codec With Parallel Amplitude and Phase Spectrum Encoding and Decoding",
+    "authors": [
+      "Yang Ai",
+      "Xiao-Hang Jiang",
+      "Ye-Xin Lu",
+      "Hui-Peng Du",
+      "Zhenhua Ling"
+    ],
+    "publication_date": "2024-02-16",
+    "venue": "IEEE/ACM Transactions on Audio Speech and Language Processing",
+    "semantic_scholar_id": "1e88ef9ca616aa908511987f26d781027bc44f2f",
+    "corpus_id": 267740314,
+    "category": "Computer Science, Engineering"
+  },
+  "2311-11545": {
+    "title": "APNet2: High-quality and High-efficiency Neural Vocoder with Direct Prediction of Amplitude and Phase Spectra",
+    "authors": [
+      "Hui-Peng Du",
+      "Ye-Xin Lu",
+      "Yang Ai",
+      "Zhenhua Ling"
+    ],
+    "publication_date": "2023-11-20",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "bdbcb4f411bf2f52e1e3dc08d73fc67679b6a420",
+    "corpus_id": 265294935,
+    "category": "Engineering"
+  },
+  "2309-15505": {
+    "title": "Finite Scalar Quantization: VQ-VAE Made Simple",
+    "authors": [
+      "Fabian Mentzer",
+      "David C. Minnen",
+      "E. Agustsson",
+      "Michael Tschannen"
+    ],
+    "publication_date": "2023-09-27",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "eb76781932d4cdc241f1d739f7a6e3d34a4eec87",
+    "corpus_id": 263153393,
+    "category": "Computer Science"
+  },
+  "2310-00014": {
+    "title": "Fewer-Token Neural Speech Codec with Time-Invariant Codes",
+    "authors": [
+      "Yong Ren",
+      "Tao Wang",
+      "Jiangyan Yi",
+      "Le Xu",
+      "Jianhua Tao",
+      "Chuyuan Zhang",
+      "Jun Zhou"
+    ],
+    "publication_date": "2023-09-15",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "c57c2b454747021eb11412bfbac6f2d668c9a644",
+    "corpus_id": 263334107,
+    "category": "Computer Science, Engineering"
+  },
+  "2309-00169": {
+    "title": "RepCodec: A Speech Representation Codec for Speech Tokenization",
+    "authors": [
+      "Zhichao Huang",
+      "Chutong Meng",
+      "Tom Ko"
+    ],
+    "publication_date": "2023-08-31",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "8b6c00246a0ae34f097aa64af7d9cb35b2b43a30",
+    "corpus_id": 261494001,
+    "category": "Engineering, Computer Science"
+  },
+  "2308-08850": {
+    "title": "Long-Frame-Shift Neural Speech Phase Prediction With Spectral Continuity Enhancement and Interpolation Error Compensation",
+    "authors": [
+      "Yang Ai",
+      "Ye-Xin Lu",
+      "Zhenhua Ling"
+    ],
+    "publication_date": "2023-08-17",
+    "venue": "IEEE Signal Processing Letters",
+    "semantic_scholar_id": "a6c4d097269dd003ee434d449a194103245485fa",
+    "corpus_id": 260989419,
+    "category": "Computer Science, Engineering"
+  },
+  "2308-05725": {
+    "title": "EXPRESSO: A Benchmark and Analysis of Discrete Expressive Speech Resynthesis",
+    "authors": [
+      "Tu Nguyen",
+      "Wei-Ning Hsu",
+      "Antony D'Avirro",
+      "Bowen Shi",
+      "Itai Gat",
+      "Maryam Fazel-Zarani",
+      "Tal Remez",
+      "Jade Copet",
+      "Gabriel Synnaeve",
+      "Michael Hassid",
+      "F. Kreuk",
+      "Yossi Adi",
+      "Emmanuel Dupoux"
+    ],
+    "publication_date": "2023-08-10",
+    "venue": "Interspeech",
+    "semantic_scholar_id": "b3193d1a48a0c9035c1e562643f44472575bcf44",
+    "corpus_id": 260775645,
+    "category": "Computer Science, Engineering"
+  },
+  "2306-00814": {
+    "title": "Vocos: Closing the gap between time-domain and Fourier-based neural vocoders for high-quality audio synthesis",
+    "authors": [
+      "Hubert Siuzdak"
+    ],
+    "publication_date": "2023-06-01",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "9dfd2248d66f7227eb8a2b5d29064acf66174c9a",
+    "corpus_id": 258999478,
+    "category": "Computer Science, Engineering"
+  },
+  "2305-16608": {
+    "title": "Audiodec: An Open-Source Streaming High-Fidelity Neural Audio Codec",
+    "authors": [
+      "Yi-Chiao Wu",
+      "I. D. Gebru",
+      "Dejan Markovic",
+      "Alexander Richard"
+    ],
+    "publication_date": "2023-05-26",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "900509527851a4b694ecb873e96b44712a012931",
+    "corpus_id": 258532137,
+    "category": "Computer Science, Engineering"
+  },
+  "2305-13686": {
+    "title": "MP-SENet: A Speech Enhancement Model with Parallel Denoising of Magnitude and Phase Spectra",
+    "authors": [
+      "Ye-Xin Lu",
+      "Yang Ai",
+      "Zhenhua Ling"
+    ],
+    "publication_date": "2023-05-23",
+    "venue": "Interspeech",
+    "semantic_scholar_id": "85e4a0b4b33c6c78cf1eaec61613136c0a1146ac",
+    "corpus_id": 258841685,
+    "category": "Engineering, Computer Science"
+  },
+  "2305-07952": {
+    "title": "APNet: An All-Frame-Level Neural Vocoder Incorporating Direct Prediction of Amplitude and Phase Spectra",
+    "authors": [
+      "Yang Ai",
+      "Zhenhua Ling"
+    ],
+    "publication_date": "2023-05-13",
+    "venue": "IEEE/ACM Transactions on Audio Speech and Language Processing",
+    "semantic_scholar_id": "7c1432f9bcd97c16cdac6450d4a963bf46cc81e6",
+    "corpus_id": 258685524,
+    "category": "Computer Science, Engineering"
+  },
+  "2305-02765": {
+    "title": "HiFi-Codec: Group-residual Vector quantization for High Fidelity Audio Codec",
+    "authors": [
+      "Dongchao Yang",
+      "Songxiang Liu",
+      "Rongjie Huang",
+      "Jinchuan Tian",
+      "Chao Weng",
+      "Yuexian Zou"
+    ],
+    "publication_date": "2023-05-04",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "90831247f414c50820067ae8c2d4acdbc6c68746",
+    "corpus_id": 258479750,
+    "category": "Computer Science, Engineering"
+  },
+  "2304-13270": {
+    "title": "Source-Filter-Based Generative Adversarial Neural Vocoder for High Fidelity Speech Synthesis",
+    "authors": [
+      "Ye-Xin Lu",
+      "Yang Ai",
+      "Zhenhua Ling"
+    ],
+    "publication_date": "2023-04-26",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "b82681b26b8258be56c54378e64921db4860cb30",
+    "corpus_id": 258332099,
+    "category": "Computer Science, Engineering"
+  },
+  "2301-02111": {
+    "title": "Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers",
+    "authors": [
+      "Chengyi Wang",
+      "Sanyuan Chen",
+      "Yu Wu",
+      "Zi-Hua Zhang",
+      "Long Zhou",
+      "Shujie Liu",
+      "Zhuo Chen",
+      "Yanqing Liu",
+      "Huaming Wang",
+      "Jinyu Li",
+      "Lei He",
+      "Sheng Zhao",
+      "Furu Wei"
+    ],
+    "publication_date": "2023-01-05",
+    "venue": "IEEE Transactions on Audio, Speech, and Language Processing",
+    "semantic_scholar_id": "c2f91f35df893714418cc29096083dce0b441229",
+    "corpus_id": 255440307,
+    "category": "Computer Science, Engineering"
+  },
+  "2301-00808": {
+    "title": "ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders",
+    "authors": [
+      "Sanghyun Woo",
+      "Shoubhik Debnath",
+      "Ronghang Hu",
+      "Xinlei Chen",
+      "Zhuang Liu",
+      "In-So Kweon",
+      "Saining Xie"
+    ],
+    "publication_date": "2023-01-02",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2218f1713d7f721ab76801063416ec9b11c7646f",
+    "corpus_id": 255372693,
+    "category": "Computer Science"
+  },
+  "2211-15974": {
+    "title": "Neural Speech Phase Prediction Based on Parallel Estimation Architecture and Anti-Wrapping Losses",
+    "authors": [
+      "Yang Ai",
+      "Zhenhua Ling"
+    ],
+    "publication_date": "2022-11-29",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "36079897ce8c6c9ba612be5ccaa38a912e684957",
+    "corpus_id": 254069751,
+    "category": "Computer Science, Engineering"
+  },
+  "2211-04610": {
+    "title": "PhaseAug: A Differentiable Augmentation for Speech Synthesis to Simulate One-to-Many Mapping",
+    "authors": [
+      "Junhyeok Lee",
+      "Seungu Han",
+      "Hyunjae Cho",
+      "Wonbin Jung"
+    ],
+    "publication_date": "2022-11-08",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "e4fb902b43016e8dbabba97a92b62c151d3a3a03",
+    "corpus_id": 253420299,
+    "category": "Engineering, Computer Science"
+  },
+  "2210-15533": {
+    "title": "Source-Filter HiFi-GAN: Fast and Pitch Controllable High-Fidelity Neural Vocoder",
+    "authors": [
+      "Reo Yoneyama",
+      "Yi-Chiao Wu",
+      "T. Toda"
+    ],
+    "publication_date": "2022-10-27",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "38c2d28c69f301a60bfc0ec5b98107c69853c929",
+    "corpus_id": 253157848,
+    "category": "Computer Science, Engineering"
+  },
+  "2210-13438": {
+    "title": "High Fidelity Neural Audio Compression",
+    "authors": [
+      "Alexandre D'efossez",
+      "Jade Copet",
+      "Gabriel Synnaeve",
+      "Yossi Adi"
+    ],
+    "publication_date": "2022-10-24",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "cdcfeb447fa8554c131c0a13a7ffcba30c0381e1",
+    "corpus_id": 253097788,
+    "category": "Engineering, Computer Science, Mathematics"
+  },
+  "2209-10887": {
+    "title": "A Multi-Stage Multi-Codebook VQ-VAE Approach to High-Performance Neural TTS",
+    "authors": [
+      "Haohan Guo",
+      "Fenglong Xie",
+      "F. Soong",
+      "Xixin Wu",
+      "Helen M. Meng"
+    ],
+    "publication_date": "2022-09-18",
+    "venue": "Interspeech",
+    "semantic_scholar_id": "d0f8f93bd75c7b4b1536e0747f70681639b1746f",
+    "corpus_id": 252350405,
+    "category": "Computer Science, Engineering"
+  },
+  "2209-03143": {
+    "title": "AudioLM: A Language Modeling Approach to Audio Generation",
+    "authors": [
+      "Zalán Borsos",
+      "Raphaël Marinier",
+      "Damien Vincent",
+      "E. Kharitonov",
+      "O. Pietquin",
+      "Matthew Sharifi",
+      "Dominik Roblek",
+      "O. Teboul",
+      "David Grangier",
+      "M. Tagliasacchi",
+      "Neil Zeghidour"
+    ],
+    "publication_date": "2022-09-07",
+    "venue": "IEEE/ACM Transactions on Audio Speech and Language Processing",
+    "semantic_scholar_id": "8c870bef01a4fbb20f60722ffc2f6bee3870b18b",
+    "corpus_id": 252111134,
+    "category": "Computer Science, Engineering"
+  },
+  "2204-02152": {
+    "title": "UTMOS: UTokyo-SaruLab System for VoiceMOS Challenge 2022",
+    "authors": [
+      "Takaaki Saeki",
+      "Detai Xin",
+      "Wataru Nakata",
+      "Tomoki Koriyama",
+      "Shinnosuke Takamichi",
+      "H. Saruwatari"
+    ],
+    "publication_date": "2022-04-05",
+    "venue": "Interspeech",
+    "semantic_scholar_id": "3021fa7790631e11e888315d387c0a442ef82ab6",
+    "corpus_id": 247957899,
+    "category": "Computer Science, Engineering"
+  },
+  "2204-00768": {
+    "title": "VQTTS: High-Fidelity Text-to-Speech Synthesis with Self-Supervised VQ Acoustic Feature",
+    "authors": [
+      "Chenpeng Du",
+      "Yiwei Guo",
+      "Xie Chen",
+      "K. Yu"
+    ],
+    "publication_date": "2022-04-02",
+    "venue": "Interspeech",
+    "semantic_scholar_id": "a1915709887f8a7b070bb0131c573c2371152870",
+    "corpus_id": 247939783,
+    "category": "Engineering, Computer Science"
+  },
+  "2203-02395": {
+    "title": "ISTFTNET: Fast and Lightweight Mel-Spectrogram Vocoder Incorporating Inverse Short-Time Fourier Transform",
+    "authors": [
+      "Takuhiro Kaneko",
+      "Kou Tanaka",
+      "H. Kameoka",
+      "Shogo Seki"
+    ],
+    "publication_date": "2022-03-04",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "1b4a534294270d5f60b09aa959225f6b16d43414",
+    "corpus_id": 247244708,
+    "category": "Computer Science, Engineering, Mathematics"
+  },
+  "2201-11972": {
+    "title": "DiffGAN-TTS: High-Fidelity and Efficient Text-to-Speech with Denoising Diffusion GANs",
+    "authors": [
+      "Songxiang Liu",
+      "Dan Su",
+      "Dong Yu"
+    ],
+    "publication_date": "2022-01-28",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "098bbff093da93e7838c9faf5936ccb6562cf2a1",
+    "corpus_id": 246411236,
+    "category": "Engineering, Computer Science"
+  },
+  "2201-03545": {
+    "title": "A ConvNet for the 2020s",
+    "authors": [
+      "Zhuang Liu",
+      "Hanzi Mao",
+      "Chaozheng Wu",
+      "Christoph Feichtenhofer",
+      "Trevor Darrell",
+      "Saining Xie"
+    ],
+    "publication_date": "2022-01-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "177e957f5cd93229c9794ea652c646d2557b4a69",
+    "corpus_id": 245837420,
+    "category": "Computer Science"
+  },
+  "2107-03312": {
+    "title": "SoundStream: An End-to-End Neural Audio Codec",
+    "authors": [
+      "Neil Zeghidour",
+      "Alejandro Luebs",
+      "Ahmed Omran",
+      "J. Skoglund",
+      "M. Tagliasacchi"
+    ],
+    "publication_date": "2021-07-07",
+    "venue": "IEEE/ACM Transactions on Audio Speech and Language Processing",
+    "semantic_scholar_id": "59a0ef2d3bccebb544a2df4ad0453d49cc8e731f",
+    "corpus_id": 236149944,
+    "category": "Computer Science, Engineering"
+  },
+  "2106-07889": {
+    "title": "UnivNet: A Neural Vocoder with Multi-Resolution Spectrogram Discriminators for High-Fidelity Waveform Generation",
+    "authors": [
+      "Won Jang",
+      "D. Lim",
+      "Jaesam Yoon",
+      "Bongwan Kim",
+      "Juntae Kim"
+    ],
+    "publication_date": "2021-06-15",
+    "venue": "Interspeech",
+    "semantic_scholar_id": "fca7957c0b503f4319d6a830a24417239e0c5f09",
+    "corpus_id": 235435945,
+    "category": "Engineering, Computer Science"
+  },
+  "2106-07447": {
+    "title": "HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units",
+    "authors": [
+      "Wei-Ning Hsu",
+      "Benjamin Bolte",
+      "Yao-Hung Hubert Tsai",
+      "Kushal Lakhotia",
+      "R. Salakhutdinov",
+      "Abdel-rahman Mohamed"
+    ],
+    "publication_date": "2021-06-14",
+    "venue": "IEEE/ACM Transactions on Audio Speech and Language Processing",
+    "semantic_scholar_id": "4fffa5245d3972077c83614c2a08a47cb578631e",
+    "corpus_id": 235421619,
+    "category": "Computer Science, Engineering"
+  },
+  "2010-05646": {
+    "title": "HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis",
+    "authors": [
+      "Jungil Kong",
+      "Jaehyeon Kim",
+      "Jaekyoung Bae"
+    ],
+    "publication_date": "2020-10-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "4e468d3da1797d791db8d514d695b183acb027ee",
+    "corpus_id": 222291664,
+    "category": "Computer Science, Engineering"
+  },
+  "2008-01160": {
+    "title": "A Spectral Energy Distance for Parallel Speech Synthesis",
+    "authors": [
+      "A. Gritsenko",
+      "Tim Salimans",
+      "Rianne van den Berg",
+      "Jasper Snoek",
+      "Nal Kalchbrenner"
+    ],
+    "publication_date": "2020-08-03",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "66c9cb1c5ad449142ceec2f8cbb8a98a657e5c21",
+    "corpus_id": 220962271,
+    "category": "Computer Science, Engineering, Mathematics"
+  },
+  "2006-04558": {
+    "title": "FastSpeech 2: Fast and High-Quality End-to-End Text to Speech",
+    "authors": [
+      "Yi Ren",
+      "Chenxu Hu",
+      "Xu Tan",
+      "Tao Qin",
+      "Sheng Zhao",
+      "Zhou Zhao",
+      "Tie-Yan Liu"
+    ],
+    "publication_date": "2020-06-08",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "1623d6ffb6efd94d21537db2b96b91a196842aef",
+    "corpus_id": 219531522,
+    "category": "Computer Science, Engineering"
+  },
+  "2004-09584": {
+    "title": "ViSQOL v3: An Open Source Production Ready Objective Speech and Audio Metric",
+    "authors": [
+      "Michael Chinen",
+      "Felicia S. C. Lim",
+      "J. Skoglund",
+      "Nikita Gureev",
+      "F. O'Gorman",
+      "Andrew Hines"
+    ],
+    "publication_date": "2020-04-20",
+    "venue": "International Workshop on Quality of Multimedia Experience",
+    "semantic_scholar_id": "a343164fa01f95c2388ea74dfed3761d4409e105",
+    "corpus_id": 216036054,
+    "category": "Engineering, Computer Science"
+  },
+  "1912-01219": {
+    "title": "WaveFlow: A Compact Flow-based Model for Raw Audio",
+    "authors": [
+      "Wei Ping",
+      "Kainan Peng",
+      "Kexin Zhao",
+      "Z. Song"
+    ],
+    "publication_date": "2019-12-03",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "39b11c504dd62f8c57f492f54d5b2e219f955d12",
+    "corpus_id": 208548401,
+    "category": "Computer Science, Engineering"
+  },
+  "1910-05453": {
+    "title": "vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations",
+    "authors": [
+      "Alexei Baevski",
+      "Steffen Schneider",
+      "Michael Auli"
+    ],
+    "publication_date": "2019-10-12",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "84913d6f08942ddf8dd51418820537abfaa5ae19",
+    "corpus_id": 204512445,
+    "category": "Computer Science"
+  },
+  "1910-06711": {
+    "title": "MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis",
+    "authors": [
+      "Kundan Kumar",
+      "Rithesh Kumar",
+      "T. Boissiere",
+      "L. Gestin",
+      "Wei Zhen Teoh",
+      "Jose M. R. Sotelo",
+      "A. D. Brébisson",
+      "Yoshua Bengio",
+      "Aaron C. Courville"
+    ],
+    "publication_date": "2019-10-08",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "37e52ff4714c7a08900b518127e438a195b84611",
+    "corpus_id": 202777813,
+    "category": "Computer Science, Engineering"
+  },
+  "1906-09573": {
+    "title": "A Neural Vocoder With Hierarchical Generation of Amplitude and Phase Spectra for Statistical Parametric Speech Synthesis",
+    "authors": [
+      "Yang Ai",
+      "Zhenhua Ling"
+    ],
+    "publication_date": "2019-06-23",
+    "venue": "IEEE/ACM Transactions on Audio Speech and Language Processing",
+    "semantic_scholar_id": "4a39b6deb4c0263d13c8ee00c3b1e0a0928f895b",
+    "corpus_id": 195344902,
+    "category": "Computer Science, Engineering"
+  },
+  "1904-07944": {
+    "title": "Expediting TTS Synthesis with Adversarial Vocoding",
+    "authors": [
+      "Paarth Neekhara",
+      "Chris Donahue",
+      "M. Puckette",
+      "S. Dubnov",
+      "Julian McAuley"
+    ],
+    "publication_date": "2019-04-16",
+    "venue": "Interspeech",
+    "semantic_scholar_id": "3b978703968c2e3f8a41b0d34f870bfc2228677f",
+    "corpus_id": 118705627,
+    "category": "Computer Science, Engineering"
+  },
+  "1811-00002": {
+    "title": "Waveglow: A Flow-based Generative Network for Speech Synthesis",
+    "authors": [
+      "R. Prenger",
+      "Rafael Valle",
+      "Bryan Catanzaro"
+    ],
+    "publication_date": "2018-10-31",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "220d47d9b2872f0f0c33084fb4425424d91fa0ac",
+    "corpus_id": 53145796,
+    "category": "Computer Science, Engineering, Mathematics"
+  },
+  "1810-11946": {
+    "title": "Neural Source-filter-based Waveform Model for Statistical Parametric Speech Synthesis",
+    "authors": [
+      "Xin Wang",
+      "Shinji Takaki",
+      "J. Yamagishi"
+    ],
+    "publication_date": "2018-10-29",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "dc16094d371efc11039952237750331cb622ba4d",
+    "corpus_id": 53097152,
+    "category": "Computer Science, Engineering, Mathematics"
+  },
+  "1810-11846": {
+    "title": "LPCNET: Improving Neural Speech Synthesis through Linear Prediction",
+    "authors": [
+      "J. Valin",
+      "J. Skoglund"
+    ],
+    "publication_date": "2018-10-28",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "da7329db3e14cb7301e9ce95a131136bd85e24ba",
+    "corpus_id": 53099380,
+    "category": "Computer Science, Engineering"
+  },
+  "1807-07281": {
+    "title": "ClariNet: Parallel Wave Generation in End-to-End Text-to-Speech",
+    "authors": [
+      "Wei Ping",
+      "Kainan Peng",
+      "Jitong Chen"
+    ],
+    "publication_date": "2018-07-19",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "5e3a59695261f03aa3f09a8a5ac6166fb63e0a2e",
+    "corpus_id": 49882757,
+    "category": "Computer Science, Engineering"
+  },
+  "1804-02181": {
+    "title": "Generative adversarial network-based approach to signal reconstruction from magnitude spectrogram",
+    "authors": [
+      "Keisuke Oyamada",
+      "H. Kameoka",
+      "Takuhiro Kaneko",
+      "Kou Tanaka",
+      "Nobukatsu Hojo",
+      "Hiroyasu Ando"
+    ],
+    "publication_date": "2018-04-06",
+    "venue": "European Signal Processing Conference",
+    "semantic_scholar_id": "e9aba538850d69dc5f0bd434f297063765c6b0c9",
+    "corpus_id": 4696365,
+    "category": "Engineering, Computer Science, Mathematics"
+  },
+  "1802-04208": {
+    "title": "Adversarial Audio Synthesis",
+    "authors": [
+      "Chris Donahue",
+      "Julian McAuley",
+      "M. Puckette"
+    ],
+    "publication_date": "2018-02-12",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "0d3bbe47fe67e5a125a2547913ac0e4a30f18c8d",
+    "corpus_id": 52890982,
+    "category": "Computer Science"
+  },
+  "1712-05884": {
+    "title": "Natural TTS Synthesis by Conditioning Wavenet on MEL Spectrogram Predictions",
+    "authors": [
+      "Jonathan Shen",
+      "Ruoming Pang",
+      "Ron J. Weiss",
+      "M. Schuster",
+      "N. Jaitly",
+      "Zongheng Yang",
+      "Z. Chen",
+      "Yu Zhang",
+      "Yuxuan Wang",
+      "R. Skerry-Ryan",
+      "R. Saurous",
+      "Yannis Agiomyrgiannakis",
+      "Yonghui Wu"
+    ],
+    "publication_date": "2017-12-16",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "1a2599e467e855f845dcbf9282f8bdbd97b85708",
+    "corpus_id": 206742911,
+    "category": "Computer Science"
+  },
+  "1711-10433": {
+    "title": "Parallel WaveNet: Fast High-Fidelity Speech Synthesis",
+    "authors": [
+      "Aäron van den Oord",
+      "Yazhe Li",
+      "Igor Babuschkin",
+      "K. Simonyan",
+      "O. Vinyals",
+      "K. Kavukcuoglu",
+      "George van den Driessche",
+      "Edward Lockhart",
+      "Luis C. Cobo",
+      "Florian Stimberg",
+      "Norman Casagrande",
+      "Dominik Grewe",
+      "Seb Noury",
+      "S. Dieleman",
+      "Erich Elsen",
+      "Nal Kalchbrenner",
+      "H. Zen",
+      "Alex Graves",
+      "Helen King",
+      "T. Walters",
+      "Dan Belov",
+      "D. Hassabis"
+    ],
+    "publication_date": "2017-11-28",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "f6cbf83e1ce3b099d656d2346b261d5ef7f2b62e",
+    "corpus_id": 27706557,
+    "category": "Mathematics, Computer Science"
+  },
+  "1703-10135": {
+    "title": "Tacotron: Towards End-to-End Speech Synthesis",
+    "authors": [
+      "Yuxuan Wang",
+      "R. Skerry-Ryan",
+      "Daisy Stanton",
+      "Yonghui Wu",
+      "Ron J. Weiss",
+      "N. Jaitly",
+      "Zongheng Yang",
+      "Y. Xiao",
+      "Z. Chen",
+      "Samy Bengio",
+      "Quoc V. Le",
+      "Yannis Agiomyrgiannakis",
+      "R. Clark",
+      "R. Saurous"
+    ],
+    "publication_date": "2017-03-29",
+    "venue": "Interspeech",
+    "semantic_scholar_id": "a072c2a400f62f720b68dc54a662fb1ae115bf06",
+    "corpus_id": 4689304,
+    "category": "Computer Science"
+  },
+  "1612-07837": {
+    "title": "SampleRNN: An Unconditional End-to-End Neural Audio Generation Model",
+    "authors": [
+      "Soroush Mehri",
+      "Kundan Kumar",
+      "Ishaan Gulrajani",
+      "Rithesh Kumar",
+      "Shubham Jain",
+      "Jose M. R. Sotelo",
+      "Aaron C. Courville",
+      "Yoshua Bengio"
+    ],
+    "publication_date": "2016-11-04",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "e221e2c2ca8bd74a7b818406c8a2a342760e7d65",
+    "corpus_id": 14254027,
+    "category": "Computer Science"
+  },
+  "1609-03499": {
+    "title": "WaveNet: A Generative Model for Raw Audio",
+    "authors": [
+      "Aäron van den Oord",
+      "S. Dieleman",
+      "H. Zen",
+      "K. Simonyan",
+      "O. Vinyals",
+      "Alex Graves",
+      "Nal Kalchbrenner",
+      "A. Senior",
+      "K. Kavukcuoglu"
+    ],
+    "publication_date": "2016-09-12",
+    "venue": "Speech Synthesis Workshop",
+    "semantic_scholar_id": "df0402517a7338ae28bc54acaac400de6b456a46",
+    "corpus_id": 6254678,
+    "category": "Computer Science"
+  },
+  "1606-08415": {
+    "title": "Gaussian Error Linear Units (GELUs)",
+    "authors": [
+      "Dan Hendrycks",
+      "Kevin Gimpel"
+    ],
+    "publication_date": "2016-06-27",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "de5e7320729f5d3cbb6709eb6329ec41ace8c95d",
+    "corpus_id": 125617073,
+    "category": "Computer Science"
+  },
+  "1512-03385": {
+    "title": "Deep Residual Learning for Image Recognition",
+    "authors": [
+      "Kaiming He",
+      "X. Zhang",
+      "Shaoqing Ren",
+      "Jian Sun"
+    ],
+    "publication_date": "2015-12-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+    "corpus_id": 206594692,
+    "category": "Computer Science"
+  },
+  "1602-04845": {
+    "title": "High-Quality, Low-Delay Music Coding in the Opus Codec",
+    "authors": [
+      "J. Valin",
+      "Gregory Maxwell",
+      "Timothy B. Terriberry",
+      "Koen Vos"
+    ],
+    "publication_date": "2013-10-16",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "5ade560bf9199999167d80ab34d56e00c7bdc6f7",
+    "corpus_id": 1382128,
+    "category": "Computer Science"
+  }
+}

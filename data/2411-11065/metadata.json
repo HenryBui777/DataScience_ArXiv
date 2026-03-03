@@ -1,0 +1,13 @@
+{
+  "title": "Density properties of fractions with Euler's totient function",
+  "authors": [
+    "Karin Halupczok",
+    "Marvin Ohst"
+  ],
+  "summary": "We prove that for all constants $a\\in\\N$, $b\\in\\Z$, $c,d\\in\\R$, $c\\neq 0$, the fractions $φ(an+b)/(cn+d)$ lie dense in the interval $]0,D]$ (respectively $[D,0[$ if $c<0$), where $D=aφ(\\gcd(a,b))/(c\\gcd(a,b))$. This interval is the largest possible, since it may happen that isolated fractions lie outside of the interval: we prove a complete determination of the case where this happens, which yields an algorithm that calculates the amount of $n$ such that $\\rad(an+b)|g$ for coprime $a,b$ and any $g$. Furthermore, this leads to an interesting open question which is a generalization of a famous problem raised by V.~Arnold. For the fractions $φ(an+b)/φ(cn+d)$ with constants $a,c\\in\\N,b,d\\in\\Z$, we prove that they lie dense in $]0,\\infty[$ exactly if $ad\\neq bc$.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NT"
+}

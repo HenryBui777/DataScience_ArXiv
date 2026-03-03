@@ -1,0 +1,18 @@
+{
+  "title": "QMA vs. QCMA and Pseudorandomness",
+  "authors": [
+    "Jiahui Liu",
+    "Saachi Mutreja",
+    "Henry Yuen"
+  ],
+  "summary": "We study a longstanding question of Aaronson and Kuperberg on whether there exists a classical oracle separating $\\mathsf{QMA}$ from $\\mathsf{QCMA}$. Settling this question in either direction would yield insight into the power of quantum proofs over classical proofs. We show that such an oracle exists if a certain quantum pseudorandomness conjecture holds. Roughly speaking, the conjecture posits that quantum algorithms cannot, by making few queries, distinguish between the uniform distribution over permutations versus permutations drawn from so-called \"dense\" distributions.\n  Our result can be viewed as establishing a \"win-win\" scenario: either there is a classical oracle separation of $\\mathsf{QMA}$ from $\\mathsf{QCMA}$, or there is quantum advantage in distinguishing pseudorandom distributions on permutations.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-22",
+    "2024-11-26",
+    "2025-01-07"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, cs.CC"
+}

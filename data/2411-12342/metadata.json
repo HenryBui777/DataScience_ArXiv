@@ -1,0 +1,16 @@
+{
+  "title": "Temperature-Aware Phase-shift Design of LC-RIS for Secure Communication",
+  "authors": [
+    "Mohamadreza Delbari",
+    "Bowu Wang",
+    "Nairy Moghadas Gholian",
+    "Arash Asadi",
+    "Vahid Jamali"
+  ],
+  "summary": "Liquid crystal (LC) technology enables low-power and cost-effective solutions for implementing the reconfigurable intelligent surface (RIS). However, the phase-shift response of LC-RISs is temperature-dependent, which, if unaddressed, can degrade the performance. This issue is particularly critical in applications such as secure communications, where variations in phase-shift response may lead to significant information leakage. In this paper, we consider secure communication through an LC-RIS and developed a temperature-aware algorithm adapting the RIS phase shifts to thermal conditions. Our simulation results demonstrate that the proposed algorithm significantly improves the secure data rate compared to scenarios where temperature variations are not accounted for.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP"
+}

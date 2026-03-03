@@ -1,0 +1,20 @@
+{
+  "title": "Disco Intelligent Omni-Surfaces: 360-degree Fully-Passive Jamming Attacks",
+  "authors": [
+    "Huan Huang",
+    "Hongliang Zhang",
+    "Jide Yuan",
+    "Luyao Sun",
+    "Yitian Wang",
+    "Weidong Mei",
+    "Boya Di",
+    "Yi Cai",
+    "Zhu Han"
+  ],
+  "summary": "Intelligent omni-surfaces (IOSs) with 360-degree electromagnetic radiation significantly improves the performance of wireless systems, while an adversarial IOS also poses a significant potential risk for physical layer security. In this paper, we propose a \"DISCO\" IOS (DIOS) based fully-passive jammer (FPJ) that can launch omnidirectional fully-passive jamming attacks. In the proposed DIOS-based FPJ, the interrelated refractive and reflective (R&R) coefficients of the adversarial IOS are randomly generated, acting like a \"DISCO\" that distributes wireless energy radiated by the base station. By introducing active channel aging (ACA) during channel coherence time, the DIOS-based FPJ can perform omnidirectional fully-passive jamming without neither jamming power nor channel knowledge of legitimate users (LUs). To characterize the impact of the DIOS-based PFJ, we derive the statistical characteristics of DIOS-jammed channels based on two widely-used IOS models, i.e., the constant-amplitude model and the variable-amplitude model. Consequently, the asymptotic analysis of the ergodic achievable sum rates under the DIOS-based omnidirectional fully-passive jamming is given based on the derived stochastic characteristics for both the two IOS models. Based on the derived analysis, the omnidirectional jamming impact of the proposed DIOS-based FPJ implemented by a constant-amplitude IOS does not depend on either the quantization number or the stochastic distribution of the DIOS coefficients, while the conclusion does not hold on when a variable-amplitude IOS is used. Numerical results based on one-bit quantization of the IOS phase shifts are provided to verify the effectiveness of the derived theoretical analysis. The proposed DIOS-based FPJ can not only launch omnidirectional fully-passive jamming, but also improve the jamming impact by about 55% at 10 dBm transmit power per LU.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP"
+}

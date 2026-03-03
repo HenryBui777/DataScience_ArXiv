@@ -1,0 +1,12 @@
+{
+  "title": "Depth-first search for tensor rank and border rank over finite fields",
+  "authors": [
+    "Jason Yang"
+  ],
+  "summary": "We present an $O^*\\left(|\\mathbb{F}|^{(R-n_*)\\left(\\sum_d n_d\\right)+n_*}\\right)$-time algorithm for determining whether a tensor of shape $n_0\\times\\dots\\times n_{D-1}$ over a finite field $\\mathbb{F}$ has rank $\\le R$, where $n_*:=\\max_d n_d$; we assume without loss of generality that $\\forall d:n_d\\le R$. We also extend this problem to its border rank analog, i.e., determining tensor rank over rings of the form $\\mathbb{F}[x]/(x^H)$, and give an $O^*\\left(|\\mathbb{F}|^{H\\sum_{1\\le r\\le R} \\sum_d \\min(r,n_d)}\\right)$-time algorithm. Both of our algorithms use polynomial space.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CC"
+}

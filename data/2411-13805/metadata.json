@@ -1,0 +1,21 @@
+{
+  "title": "On Representing Convex Quadratically Constrained Quadratic Programs via Graph Neural Networks",
+  "authors": [
+    "Chenyang Wu",
+    "Qian Chen",
+    "Akang Wang",
+    "Tian Ding",
+    "Ruoyu Sun",
+    "Wenguo Yang",
+    "Qingjiang Shi"
+  ],
+  "summary": "Convex quadratically constrained quadratic programs (QCQPs) involve finding a solution within a convex feasible region defined by quadratic constraints while minimizing a convex quadratic objective function. These problems arise in various industrial applications, including power systems and signal processing. Traditional methods for solving convex QCQPs primarily rely on matrix factorization, which quickly becomes computationally prohibitive as the problem size increases. Recently, graph neural networks (GNNs) have gained attention for their potential in representing and solving various optimization problems such as linear programs and linearly constrained quadratic programs. In this work, we investigate the representation power of GNNs in the context of QCQP tasks. Specifically, we propose a new tripartite graph representation for general convex QCQPs and properly associate it with message-passing GNNs. We demonstrate that there exist GNNs capable of reliably representing key properties of convex QCQPs, including feasibility, optimal value, and optimal solution. Our result deepens the understanding of the connection between QCQPs and GNNs, paving the way for future machine learning approaches to efficiently solve QCQPs.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-01-04",
+    "2025-01-07"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC"
+}

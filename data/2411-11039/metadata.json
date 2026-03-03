@@ -1,0 +1,14 @@
+{
+  "title": "FedUHB: Accelerating Federated Unlearning via Polyak Heavy Ball Method",
+  "authors": [
+    "Yu Jiang",
+    "Chee Wei Tan",
+    "Kwok-Yan Lam"
+  ],
+  "summary": "Federated learning facilitates collaborative machine learning, enabling multiple participants to collectively develop a shared model while preserving the privacy of individual data. The growing importance of the \"right to be forgotten\" calls for effective mechanisms to facilitate data removal upon request. In response, federated unlearning (FU) has been developed to efficiently eliminate the influence of specific data from the model. Current FU methods primarily rely on approximate unlearning strategies, which seek to balance data removal efficacy with computational and communication costs, but often fail to completely erase data influence. To address these limitations, we propose FedUHB, a novel exact unlearning approach that leverages the Polyak heavy ball optimization technique, a first-order method, to achieve rapid retraining. In addition, we introduce a dynamic stopping mechanism to optimize the termination of the unlearning process. Our extensive experiments show that FedUHB not only enhances unlearning efficiency but also preserves robust model performance after unlearning. Furthermore, the dynamic stopping mechanism effectively reduces the number of unlearning iterations, conserving both computational and communication resources. FedUHB can be proved as an effective and efficient solution for exact data removal in federated learning settings.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.DC"
+}

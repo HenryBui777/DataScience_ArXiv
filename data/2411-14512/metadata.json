@@ -1,0 +1,15 @@
+{
+  "title": "Detecting Distributed Denial of Service Attacks Using Logistic Regression and SVM Methods",
+  "authors": [
+    "Mohammad Arafat Ullah",
+    "Arthy Anjum",
+    "Rashedul Amin Tuhin",
+    "Shamim Akhter"
+  ],
+  "summary": "A distributed denial-of-service (DDoS) attack is an attempt to produce humongous traffic within a network by overwhelming a targeted server or its neighboring infrastructure with a flood of service requests ceaselessly coming from multiple remotely controlled malware-infected computers or network-connected devices. Thus, exploring DDoS attacks by recognizing their functionalities and differentiating them from normal traffic services are the primary concerns of network security issues particularly for online businesses. In modern networks, most DDoS attacks occur in the network and application layer including HTTP flood, UDP flood, SIDDOS, SMURF, SNMP flood, IP NULL, etc. The goal of this paper is to detect DDoS attacks from all service requests and classify them according to DDoS classes. In this regard, a standard dataset is collected from the internet which contains several network-related attributes and their corresponding DDoS attack class name. Two(2) different machine learning approaches, SVM and Logistic Regression, are implemented in the dataset for detecting and classifying DDoS attacks, and a comparative study is accomplished among them in terms of accuracy, precision, and recall rates. Logistic Regression and SVM both achieve 98.65% classification accuracy which is the highest achieved accuracy among other previous experiments with the same dataset.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR, cs.LG"
+}

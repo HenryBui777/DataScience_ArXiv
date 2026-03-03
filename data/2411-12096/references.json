@@ -1,0 +1,903 @@
+{
+  "2405-04967": {
+    "title": "MatterSim: A Deep Learning Atomistic Model Across Elements, Temperatures and Pressures",
+    "authors": [
+      "Han Yang",
+      "Chenxi Hu",
+      "Yichi Zhou",
+      "Xixian Liu",
+      "Yu Shi",
+      "Jielan Li",
+      "Guanzhi Li",
+      "Zekun Chen",
+      "Shuizhou Chen",
+      "Claudio Zeni",
+      "Matthew Horton",
+      "Robert Pinsler",
+      "Andrew Fowler",
+      "Daniel Zugner",
+      "Tianyidan Xie",
+      "Jake Smith",
+      "Lixin Sun",
+      "Qian Wang",
+      "Lingyu Kong",
+      "Chang Liu",
+      "Hongxia Hao",
+      "Ziheng Lu"
+    ],
+    "publication_date": "2024-05-08",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "f3a6faf40543724b27399da31c7777a89051f3ad",
+    "corpus_id": 269626676,
+    "category": "Physics"
+  },
+  "2405-02461": {
+    "title": "Uncertainty quantification and propagation in atomistic machine learning",
+    "authors": [
+      "Jin Dai",
+      "Santosh Adhikari",
+      "Mingjian Wen"
+    ],
+    "publication_date": "2024-05-03",
+    "venue": "Reviews in chemical engineering",
+    "semantic_scholar_id": "362f043306942684a825aa8b606069d8f4c468b3",
+    "corpus_id": 269605703,
+    "category": "Physics"
+  },
+  "2402-19327": {
+    "title": "GPTFF: A high-accuracy out-of-the-box universal AI force field for arbitrary inorganic materials.",
+    "authors": [
+      "Fankai Xie",
+      "Tenglong Lu",
+      "Sheng Meng",
+      "Miao Liu"
+    ],
+    "publication_date": "2024-02-29",
+    "venue": "Science Bulletin",
+    "semantic_scholar_id": "653b74e2dae2075ac2c78bca4dd02171e6ed6eef",
+    "corpus_id": 268091316,
+    "category": "Medicine, Physics"
+  },
+  "2402-07472": {
+    "title": "Cartesian atomic cluster expansion for machine learning interatomic potentials",
+    "authors": [
+      "Bingqing Cheng"
+    ],
+    "publication_date": "2024-02-12",
+    "venue": "npj Computational Materials",
+    "semantic_scholar_id": "f9a02237666aa6518c9bb966d7f682a3027c833b",
+    "corpus_id": 267627948,
+    "category": "Computer Science, Physics"
+  },
+  "2402-00853": {
+    "title": "LTAU-FF: Loss Trajectory Analysis for Uncertainty in atomistic Force Fields",
+    "authors": [
+      "Joshua A Vita",
+      "A. Samanta",
+      "Fei Zhou",
+      "Vincenzo Lordi"
+    ],
+    "publication_date": "2024-02-01",
+    "venue": "Machine Learning: Science and Technology",
+    "semantic_scholar_id": "c2ca420af2af2f491eb2b5fc688a83663fd61e0e",
+    "corpus_id": 267365392,
+    "category": "Computer Science, Physics"
+  },
+  "2401-00096": {
+    "title": "A foundation model for atomistic materials chemistry",
+    "authors": [
+      "Ilyes Batatia",
+      "Philipp Benner",
+      "Chiang Yuan",
+      "A. Elena",
+      "D. Kov'acs",
+      "Janosh Riebesell",
+      "Xavier R Advincula",
+      "M. Asta",
+      "William J. Baldwin",
+      "Noam Bernstein",
+      "Arghya Bhowmik",
+      "Samuel M. Blau",
+      "Vlad Cuarare",
+      "James P Darby",
+      "Sandip De",
+      "Flaviano Della Pia",
+      "Volker L. Deringer",
+      "Rokas Elijovsius",
+      "Zakariya El-Machachi",
+      "Edvin Fako",
+      "Andrea C. Ferrari",
+      "A. Genreith‐Schriever",
+      "Janine George",
+      "Rhys E. A. Goodall",
+      "Clare P. Grey",
+      "Shuang Han",
+      "Will Handley",
+      "H. H. Heenen",
+      "K. Hermansson",
+      "Christian Holm",
+      "Jad Jaafar",
+      "Stephan Hofmann",
+      "Konstantin S. Jakob",
+      "Hyunwook Jung",
+      "V. Kapil",
+      "Aaron D. Kaplan",
+      "Nima Karimitari",
+      "Namu Kroupa",
+      "J. Kullgren",
+      "Matthew C Kuner",
+      "Domantas Kuryla",
+      "Guoda Liepuoniute",
+      "Johannes T. Margraf",
+      "Ioan B Magduau",
+      "A. Michaelides",
+      "J. H. Moore",
+      "A. Naik",
+      "Samuel P Niblett",
+      "Sam Walton Norwood",
+      "Niamh O'Neill",
+      "Christoph Ortner",
+      "Kristin A. Persson",
+      "K. Reuter",
+      "Andrew S. Rosen",
+      "Lars L. Schaaf",
+      "Christoph Schran",
+      "Eric Sivonxay",
+      "Tamás K Stenczel",
+      "Viktor Svahn",
+      "Christopher Sutton",
+      "Cas van der Oord",
+      "Eszter Varga-Umbrich",
+      "T. Vegge",
+      "Martin Vondr'ak",
+      "Yangshuai Wang",
+      "William C. Witt",
+      "Fabian Zills",
+      "G'abor Cs'anyi"
+    ],
+    "publication_date": "2023-12-29",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "049a38af414db7c733a343b8d7fbf91707906d4c",
+    "corpus_id": 266693920,
+    "category": "Physics"
+  },
+  "2312-15492": {
+    "title": "DPA-2: a large atomic model as a multi-task learner",
+    "authors": [
+      "Duoduo Zhang",
+      "Xinzijian Liu",
+      "Xiangyu Zhang",
+      "Chengqian Zhang",
+      "Chun Cai",
+      "Hangrui Bi",
+      "Yiming Du",
+      "Xuejian Qin",
+      "Jiameng Huang",
+      "Bowen Li",
+      "Yifan Shan",
+      "Jinzhe Zeng",
+      "Yuzhi Zhang",
+      "Siyuan Liu",
+      "Yifan Li",
+      "Junhan Chang",
+      "Xinyan Wang",
+      "Shuo Zhou",
+      "Jianchuan Liu",
+      "Xiaoshan Luo",
+      "Zhenyu Wang",
+      "Wanrun Jiang",
+      "Jing Wu",
+      "Yudi Yang",
+      "Jiyuan Yang",
+      "Manyi Yang",
+      "Fu-Qiang Gong",
+      "Linshuang Zhang",
+      "Meng Shi",
+      "Fu-Zhi Dai",
+      "D. York",
+      "Shi Liu",
+      "Tong Zhu",
+      "Zhicheng Zhong",
+      "Jian Lv",
+      "Jun Cheng",
+      "Weile Jia",
+      "Mohan Chen",
+      "Guolin Ke",
+      "E. Weinan",
+      "Linfeng Zhang",
+      "Han Wang"
+    ],
+    "publication_date": "2023-12-24",
+    "venue": "npj Computational Materials",
+    "semantic_scholar_id": "4f0e03d296adddf0a6d4ca56f8a0cdf7fa9c1d90",
+    "corpus_id": 266551271,
+    "category": "Physics, Medicine"
+  },
+  "2307-15242": {
+    "title": "An Equivariant Graph Neural Network for the Elasticity Tensors of All Seven Crystal Systems",
+    "authors": [
+      "Mingjian Wen",
+      "Matthew K. Horton",
+      "Jason M. Munro",
+      "P. Huck",
+      "K. Persson"
+    ],
+    "publication_date": "2023-07-28",
+    "venue": "Digital Discovery",
+    "semantic_scholar_id": "8031fec62fefbbc97dd3a954fd4e31300efd87e0",
+    "corpus_id": 260316228,
+    "category": "Physics"
+  },
+  "2306-06482": {
+    "title": "TensorNet: Cartesian Tensor Representations for Efficient Learning of Molecular Potentials",
+    "authors": [
+      "Guillem Simeon",
+      "G. D. Fabritiis"
+    ],
+    "publication_date": "2023-06-10",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "0e067d857a38b0c9cb948fa8da4a82eab383a5bb",
+    "corpus_id": 259137516,
+    "category": "Computer Science, Physics"
+  },
+  "2305-01754": {
+    "title": "Single-model uncertainty quantification in neural network potentials does not consistently outperform model ensembles",
+    "authors": [
+      "Aik Rui Tan",
+      "S. Urata",
+      "Samuel Goldman",
+      "Johannes C. B. Dietschreit",
+      "Rafael G'omez-Bombarelli"
+    ],
+    "publication_date": "2023-05-02",
+    "venue": "npj Computational Materials",
+    "semantic_scholar_id": "597796b36ed0874ab4a2477e4ccf84cfbfb89a93",
+    "corpus_id": 258460976,
+    "category": "Computer Science, Physics"
+  },
+  "2302-03655": {
+    "title": "Reducing SO(3) Convolutions to SO(2) for Efficient Equivariant GNNs",
+    "authors": [
+      "Saro Passaro",
+      "C. L. Zitnick"
+    ],
+    "publication_date": "2023-02-07",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "fcb56c249d6a260ed360d4bc2fb19df7a76f674c",
+    "corpus_id": 256627635,
+    "category": "Computer Science, Physics"
+  },
+  "2211-09866": {
+    "title": "Fast Uncertainty Estimates in Deep Learning Interatomic Potentials",
+    "authors": [
+      "Albert J. W. Zhu",
+      "Simon L. Batzner",
+      "Albert Musaelian",
+      "B. Kozinsky"
+    ],
+    "publication_date": "2022-11-17",
+    "venue": "Journal of Chemical Physics",
+    "semantic_scholar_id": "2789388462a66917618f9f32dc78a80f51e29339",
+    "corpus_id": 253708211,
+    "category": "Medicine, Physics, Computer Science"
+  },
+  "2210-07237": {
+    "title": "Forces are not Enough: Benchmark and Critical Evaluation for Machine Learning Force Fields with Molecular Simulations",
+    "authors": [
+      "Xiang Fu",
+      "Zhenghao Wu",
+      "Wujie Wang",
+      "T. Xie",
+      "S. Keten",
+      "Rafael Gómez‐Bombarelli",
+      "T. Jaakkola"
+    ],
+    "publication_date": "2022-10-13",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "08a82b3865ba09c457ad525449eb0c7691479574",
+    "corpus_id": 252872946,
+    "category": "Computer Science, Physics"
+  },
+  "2206-07697": {
+    "title": "MACE: Higher Order Equivariant Message Passing Neural Networks for Fast and Accurate Force Fields",
+    "authors": [
+      "Ilyes Batatia",
+      "D. Kov'acs",
+      "G. Simm",
+      "C. Ortner",
+      "Gábor Csányi"
+    ],
+    "publication_date": "2022-06-15",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "036aef17a8c2c03202170aa85fd7be1dba974202",
+    "corpus_id": 249674746,
+    "category": "Mathematics, Physics, Computer Science"
+  },
+  "2204-05249": {
+    "title": "Learning local equivariant representations for large-scale atomistic dynamics",
+    "authors": [
+      "Albert Musaelian",
+      "Simon L. Batzner",
+      "A. Johansson",
+      "Lixin Sun",
+      "Cameron J. Owen",
+      "M. Kornbluth",
+      "B. Kozinsky"
+    ],
+    "publication_date": "2022-04-11",
+    "venue": "Nature Communications",
+    "semantic_scholar_id": "aeb87738cf0058e1c85cad38d5cda241d420a455",
+    "corpus_id": 248085837,
+    "category": "Computer Science, Medicine, Physics"
+  },
+  "2202-02450": {
+    "title": "A universal graph deep learning interatomic potential for the periodic table",
+    "authors": [
+      "Chi Chen",
+      "S. Ong"
+    ],
+    "publication_date": "2022-02-05",
+    "venue": "Nature Computational Science",
+    "semantic_scholar_id": "450bb2530e4fb48e828161d3e7741c5b4081c9a2",
+    "corpus_id": 246634877,
+    "category": "Computer Science, Medicine, Physics"
+  },
+  "2111-04718": {
+    "title": "Directional Message Passing on Molecular Graphs via Synthetic Coordinates",
+    "authors": [
+      "Johannes Klicpera",
+      "Chandan Yeshwanth",
+      "Stephan Günnemann"
+    ],
+    "publication_date": "2021-11-08",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "558d4968bda04022729f18d746fd666e44b3371f",
+    "corpus_id": 243847721,
+    "category": "Computer Science, Physics, Biology"
+  },
+  "2108-03523": {
+    "title": "KLIFF: A framework to develop physics-based and machine learning interatomic potentials",
+    "authors": [
+      "Mingjian Wen",
+      "Yaser Afshar",
+      "R. Elliott",
+      "E. Tadmor"
+    ],
+    "publication_date": "2021-08-07",
+    "venue": "Computer Physics Communications",
+    "semantic_scholar_id": "7e915c453c27024fc5e57db27f940565d5c3691e",
+    "corpus_id": 238259734,
+    "category": "Computer Science, Physics"
+  },
+  "2108-02913": {
+    "title": "NewtonNet: a Newtonian message passing network for deep learning of interatomic potentials and forces",
+    "authors": [
+      "Mojtaba Haghighatlari",
+      "Jie Li",
+      "Xingyi Guan",
+      "Oufan Zhang",
+      "A. Das",
+      "C. Stein",
+      "Farnaz Heidar-Zadeh",
+      "Meili Liu",
+      "M. Head‐Gordon",
+      "Luke W. Bertels",
+      "Hongxia Hao",
+      "I. Leven",
+      "T. Head‐Gordon"
+    ],
+    "publication_date": "2021-08-06",
+    "venue": "Digital Discovery",
+    "semantic_scholar_id": "310442928e1904b9c7a7a8f11a4fada183588529",
+    "corpus_id": 236950551,
+    "category": "Physics, Medicine"
+  },
+  "2106-14583": {
+    "title": "Towards universal neural network potential for material discovery applicable to arbitrary combination of 45 elements",
+    "authors": [
+      "So Takamoto",
+      "Chikashi Shinagawa",
+      "Daisuke Motoki",
+      "Kosuke Nakago",
+      "Wenwen Li",
+      "I. Kurata",
+      "Taku Watanabe",
+      "Yoshihiro Yayama",
+      "H. Iriguchi",
+      "Yusuke Asano",
+      "Tasuku Onodera",
+      "Takafumi Ishii",
+      "T. Kudo",
+      "H. Ono",
+      "R. Sawada",
+      "R. Ishitani",
+      "M. Ong",
+      "Taiki Yamaguchi",
+      "Toshiki Kataoka",
+      "Akihide Hayashi",
+      "Nontawat Charoenphakdee",
+      "Takeshi Ibuka"
+    ],
+    "publication_date": "2021-06-28",
+    "venue": "Nature Communications",
+    "semantic_scholar_id": "cc33ddc931cb3f709f7f6e9d4165cf8d98874f67",
+    "corpus_id": 247922845,
+    "category": "Medicine, Physics"
+  },
+  "2106-08245": {
+    "title": "Physically Motivated Recursively Embedded Atom Neural Networks: Incorporating Local Completeness and Nonlocality.",
+    "authors": [
+      "Yaolong Zhang",
+      "Jun Xia",
+      "B. Jiang"
+    ],
+    "publication_date": "2021-06-15",
+    "venue": "Physical Review Letters",
+    "semantic_scholar_id": "eba9fbaa8fdc30aa6b23b5e28a0e8048f99597b5",
+    "corpus_id": 235435643,
+    "category": "Medicine, Physics"
+  },
+  "2106-08903": {
+    "title": "GemNet: Universal Directional Graph Neural Networks for Molecules",
+    "authors": [
+      "Johannes Klicpera",
+      "Florian Becker",
+      "Stephan Gunnemann"
+    ],
+    "publication_date": "2021-06-02",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "5542d0ff99767f75f8c8a329fc3d88d73ff470c3",
+    "corpus_id": 235446323,
+    "category": "Physics, Computer Science, Mathematics"
+  },
+  "2105-00304": {
+    "title": "SpookyNet: Learning force fields with electronic degrees of freedom and nonlocal effects",
+    "authors": [
+      "Oliver T. Unke",
+      "Stefan Chmiela",
+      "M. Gastegger",
+      "Kristof T. Schütt",
+      "H. Sauceda",
+      "K. Müller"
+    ],
+    "publication_date": "2021-05-01",
+    "venue": "Nature Communications",
+    "semantic_scholar_id": "13000da677d64afb1cf4639ab8b4e338ba73823a",
+    "corpus_id": 233481515,
+    "category": "Computer Science, Medicine, Physics"
+  },
+  "2103-01436": {
+    "title": "ForceNet: A Graph Neural Network for Large-Scale Quantum Calculations",
+    "authors": [
+      "Weihua Hu",
+      "Muhammed Shuaibi",
+      "Abhishek Das",
+      "Siddharth Goyal",
+      "Anuroop Sriram",
+      "J. Leskovec",
+      "Devi Parikh",
+      "C. L. Zitnick"
+    ],
+    "publication_date": "2021-03-02",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "b77b20880d73fd54204b1987a889187113121dc0",
+    "corpus_id": 232092470,
+    "category": "Computer Science"
+  },
+  "2102-05013": {
+    "title": "Spherical Message Passing for 3D Molecular Graphs",
+    "authors": [
+      "Yi Liu",
+      "Limei Wang",
+      "Meng Liu",
+      "Xuan Zhang",
+      "Bora Oztekin",
+      "Shuiwang Ji"
+    ],
+    "publication_date": "2021-02-09",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "f8079b38314b9a78e2558d26126ed649e9c3d2dc",
+    "corpus_id": 231855369,
+    "category": "Computer Science"
+  },
+  "2102-03150": {
+    "title": "Equivariant message passing for the prediction of tensorial properties and molecular spectra",
+    "authors": [
+      "Kristof T. Schütt",
+      "Oliver T. Unke",
+      "M. Gastegger"
+    ],
+    "publication_date": "2021-02-05",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "00f39c314542902cd1b03842069e5d3ed441a5c3",
+    "corpus_id": 231839844,
+    "category": "Computer Science, Physics"
+  },
+  "2101-03164": {
+    "title": "E(3)-equivariant graph neural networks for data-efficient and accurate interatomic potentials",
+    "authors": [
+      "Simon L. Batzner",
+      "Albert Musaelian",
+      "Lixin Sun",
+      "M. Geiger",
+      "J. Mailoa",
+      "M. Kornbluth",
+      "N. Molinari",
+      "T. Smidt",
+      "B. Kozinsky"
+    ],
+    "publication_date": "2021-01-08",
+    "venue": "Nature Communications",
+    "semantic_scholar_id": "7456dea3a3646f2df6392773a196a5abd0d53b11",
+    "corpus_id": 231418897,
+    "category": "Physics, Computer Science, Medicine"
+  },
+  "2012-07502": {
+    "title": "Ab Initio Machine Learning in Chemical Compound Space",
+    "authors": [
+      "B. Huang",
+      "O. A. von Lilienfeld"
+    ],
+    "publication_date": "2020-12-14",
+    "venue": "Chemical Reviews",
+    "semantic_scholar_id": "7143f5f9dcf87c9f36c35a79eee9d3ad229c48a1",
+    "corpus_id": 229340720,
+    "category": "Medicine, Physics"
+  },
+  "2010-07067": {
+    "title": "Machine Learning Force Fields",
+    "authors": [
+      "Oliver T. Unke",
+      "Stefan Chmiela",
+      "H. Sauceda",
+      "M. Gastegger",
+      "I. Poltavsky",
+      "Kristof T. Schütt",
+      "A. Tkatchenko",
+      "K. Müller"
+    ],
+    "publication_date": "2020-10-14",
+    "venue": "Chemical Reviews",
+    "semantic_scholar_id": "a1f57b760b7d4c44490f0bb86ee5462c3e7c7272",
+    "corpus_id": 222341615,
+    "category": "Physics, Mathematics, Medicine, Computer Science"
+  },
+  "2009-06484": {
+    "title": "A fourth-generation high-dimensional neural network potential with accurate electrostatics including non-local charge transfer",
+    "authors": [
+      "Tsz Wai Ko",
+      "Jonas A. Finkler",
+      "S. Goedecker",
+      "J. Behler"
+    ],
+    "publication_date": "2020-09-14",
+    "venue": "Nature Communications",
+    "semantic_scholar_id": "46245483db7a501dc4a6c38c24c51169927292d7",
+    "corpus_id": 221655286,
+    "category": "Physics, Medicine, Materials Science"
+  },
+  "2007-09593": {
+    "title": "On the role of gradients for machine learning of molecular energies and forces",
+    "authors": [
+      "Anders S. Christensen",
+      "A. V. Lilienfeld"
+    ],
+    "publication_date": "2020-07-19",
+    "venue": "Machine Learning: Science and Technology",
+    "semantic_scholar_id": "bc81b43b30a92256ec8b6aed82533955f748e2cf",
+    "corpus_id": 220646826,
+    "category": "Physics, Computer Science"
+  },
+  "2007-08555": {
+    "title": "The MLIP package: moment tensor potentials with MPI and active learning",
+    "authors": [
+      "I. Novikov",
+      "Konstantin Gubaev",
+      "E. Podryabinkin",
+      "A. Shapeev"
+    ],
+    "publication_date": "2020-07-16",
+    "venue": "Machine Learning: Science and Technology",
+    "semantic_scholar_id": "d7009d10dd80d556ac28becad1e035c7cc2cde90",
+    "corpus_id": 220633602,
+    "category": "Physics, Computer Science"
+  },
+  "2003-03123": {
+    "title": "Directional Message Passing for Molecular Graphs",
+    "authors": [
+      "Johannes Klicpera",
+      "Janek Groß",
+      "Stephan Günnemann"
+    ],
+    "publication_date": "2020-03-06",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "6bc4004347cdf76d84597210796f38fcf7a01a80",
+    "corpus_id": 211842237,
+    "category": "Computer Science, Physics, Mathematics"
+  },
+  "1912-01703": {
+    "title": "PyTorch: An Imperative Style, High-Performance Deep Learning Library",
+    "authors": [
+      "Adam Paszke",
+      "Sam Gross",
+      "Francisco Massa",
+      "Adam Lerer",
+      "James Bradbury",
+      "Gregory Chanan",
+      "Trevor Killeen",
+      "Zeming Lin",
+      "N. Gimelshein",
+      "L. Antiga",
+      "Alban Desmaison",
+      "Andreas Köpf",
+      "E. Yang",
+      "Zachary DeVito",
+      "Martin Raison",
+      "Alykhan Tejani",
+      "Sasank Chilamkurthy",
+      "Benoit Steiner",
+      "Lu Fang",
+      "Junjie Bai",
+      "Soumith Chintala"
+    ],
+    "publication_date": "2019-12-03",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "3c8a456509e6c0805354bd40a35e3f2dbf8069b1",
+    "corpus_id": 202786778,
+    "category": "Computer Science, Mathematics"
+  },
+  "1912-01398": {
+    "title": "TeaNet: universal neural network interatomic potential inspired by iterative electronic relaxations",
+    "authors": [
+      "So Takamoto",
+      "S. Izumi",
+      "Ju Li"
+    ],
+    "publication_date": "2019-12-02",
+    "venue": "Computational materials science",
+    "semantic_scholar_id": "a67df582f8a295254b23cb8a75872f611daebe89",
+    "corpus_id": 208548506,
+    "category": "Physics, Computer Science, Mathematics"
+  },
+  "1911-03550": {
+    "title": "Atomic cluster expansion: Completeness, efficiency and stability",
+    "authors": [
+      "G. Dusson",
+      "M. Bachmayr",
+      "Gábor Csányi",
+      "R. Drautz",
+      "S. Etter",
+      "Cas van der Oord",
+      "C. Ortner"
+    ],
+    "publication_date": "2019-11-08",
+    "venue": "Journal of Computational Physics",
+    "semantic_scholar_id": "0cb6f36fc7964dbb377826dbd6043366ad5377db",
+    "corpus_id": 220768565,
+    "category": "Computer Science, Mathematics"
+  },
+  "1909-10134": {
+    "title": "Hybrid neural network potential for multilayer graphene",
+    "authors": [
+      "Mingjian Wen",
+      "E. Tadmor"
+    ],
+    "publication_date": "2019-09-23",
+    "venue": "Physical review B",
+    "semantic_scholar_id": "38a7e919070b7b00cf270c90a769139e4cc445cb",
+    "corpus_id": 202719266,
+    "category": "Physics, Materials Science"
+  },
+  "1811-08630": {
+    "title": "Ab initio thermodynamics of liquid and solid water",
+    "authors": [
+      "Bingqing Cheng",
+      "Edgar A. Engel",
+      "J. Behler",
+      "C. Dellago",
+      "Michele Ceriotti"
+    ],
+    "publication_date": "2018-11-21",
+    "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+    "semantic_scholar_id": "1ca5a5c9903bb5326b32683009606948c843c726",
+    "corpus_id": 54077466,
+    "category": "Medicine, Materials Science, Physics"
+  },
+  "1808-04485": {
+    "title": "Dihedral-angle-corrected registry-dependent interlayer potential for multilayer graphene structures",
+    "authors": [
+      "Mingjian Wen",
+      "S. Carr",
+      "S. Fang",
+      "E. Kaxiras",
+      "E. Tadmor"
+    ],
+    "publication_date": "2018-08-14",
+    "venue": "Physical review B",
+    "semantic_scholar_id": "b81dd61afad8f4f99a4e75abcdab91af050fb837",
+    "corpus_id": 119399302,
+    "category": "Physics, Materials Science"
+  },
+  "1805-09003": {
+    "title": "End-to-end Symmetry Preserving Inter-atomic Potential Energy Model for Finite and Extended Systems",
+    "authors": [
+      "Linfeng Zhang",
+      "Jiequn Han",
+      "Han Wang",
+      "W. Saidi",
+      "R. Car",
+      "E. Weinan"
+    ],
+    "publication_date": "2018-05-23",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "2a7e9736b5632cb5332ff21c1fbf9bcfeafd50db",
+    "corpus_id": 50809569,
+    "category": "Mathematics, Physics, Computer Science"
+  },
+  "1712-08417": {
+    "title": "Alchemical and structural distribution based representation for universal quantum machine learning.",
+    "authors": [
+      "Felix A Faber",
+      "Anders S. Christensen",
+      "B. Huang",
+      "O. A. von Lilienfeld"
+    ],
+    "publication_date": "2017-12-22",
+    "venue": "Journal of Chemical Physics",
+    "semantic_scholar_id": "452394b52baffcc1f71c416d2a57653ac8f7d1a1",
+    "corpus_id": 49649187,
+    "category": "Medicine, Computer Science, Physics, Chemistry"
+  },
+  "1712-06113": {
+    "title": "SchNet - A deep learning architecture for molecules and materials.",
+    "authors": [
+      "Kristof T. Schütt",
+      "H. Sauceda",
+      "P. Kindermans",
+      "A. Tkatchenko",
+      "K. Müller"
+    ],
+    "publication_date": "2017-12-17",
+    "venue": "Journal of Chemical Physics",
+    "semantic_scholar_id": "e9126a98de0c39dcffe4c4f5158e037460196724",
+    "corpus_id": 4897444,
+    "category": "Physics, Computer Science, Chemistry, Medicine"
+  },
+  "1707-09571": {
+    "title": "Deep Potential Molecular Dynamics: a scalable model with the accuracy of quantum mechanics",
+    "authors": [
+      "Linfeng Zhang",
+      "Jiequn Han",
+      "Han Wang",
+      "R. Car",
+      "E. Weinan"
+    ],
+    "publication_date": "2017-07-30",
+    "venue": "Physical Review Letters",
+    "semantic_scholar_id": "383f8912e698dbefd379f1b9ce50040d7f97189a",
+    "corpus_id": 19098240,
+    "category": "Physics, Computer Science, Medicine"
+  },
+  "1704-01212": {
+    "title": "Neural Message Passing for Quantum Chemistry",
+    "authors": [
+      "J. Gilmer",
+      "S. Schoenholz",
+      "Patrick F. Riley",
+      "O. Vinyals",
+      "George E. Dahl"
+    ],
+    "publication_date": "2017-04-04",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "e24cdf73b3e7e590c2fe5ecac9ae8aa983801367",
+    "corpus_id": 9665943,
+    "category": "Computer Science"
+  },
+  "1702-07797": {
+    "title": "Quantum Dynamics and Spectroscopy of Ab Initio Liquid Water: The Interplay of Nuclear and Electronic Quantum Effects.",
+    "authors": [
+      "O. Marsalek",
+      "T. Markland"
+    ],
+    "publication_date": "2017-02-24",
+    "venue": "Journal of Physical Chemistry Letters",
+    "semantic_scholar_id": "26b498dec41cc7197a2017c450351380c37e1657",
+    "corpus_id": 46857263,
+    "category": "Materials Science, Chemistry, Medicine, Physics"
+  },
+  "1611-04678": {
+    "title": "Machine learning of accurate energy-conserving molecular force fields",
+    "authors": [
+      "Stefan Chmiela",
+      "A. Tkatchenko",
+      "H. Sauceda",
+      "I. Poltavsky",
+      "Kristof T. Schütt",
+      "K. Müller"
+    ],
+    "publication_date": "2016-11-15",
+    "venue": "Science Advances",
+    "semantic_scholar_id": "33d9d4593d44792e17a045e5f3407f0fe7a40dd1",
+    "corpus_id": 24630793,
+    "category": "Physics, Medicine, Computer Science"
+  },
+  "1610-08935": {
+    "title": "ANI-1: an extensible neural network potential with DFT accuracy at force field computational cost",
+    "authors": [
+      "Justin S. Smith",
+      "O. Isayev",
+      "A. Roitberg"
+    ],
+    "publication_date": "2016-10-27",
+    "venue": "Chemical Science",
+    "semantic_scholar_id": "eac3e315d1137e3999e4fc355e32b9f2e373cbba",
+    "corpus_id": 24604537,
+    "category": "Medicine, Computer Science, Physics"
+  },
+  "1512-06054": {
+    "title": "Moment Tensor Potentials: A Class of Systematically Improvable Interatomic Potentials",
+    "authors": [
+      "A. Shapeev"
+    ],
+    "publication_date": "2015-12-18",
+    "venue": "Multiscale Modeling & simulation",
+    "semantic_scholar_id": "9762e64ba47270a97d5bd19d88cb1e3723bd52fd",
+    "corpus_id": 28970251,
+    "category": "Mathematics, Computer Science, Physics"
+  },
+  "1512-03385": {
+    "title": "Deep Residual Learning for Image Recognition",
+    "authors": [
+      "Kaiming He",
+      "X. Zhang",
+      "Shaoqing Ren",
+      "Jian Sun"
+    ],
+    "publication_date": "2015-12-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+    "corpus_id": 206594692,
+    "category": "Computer Science"
+  },
+  "1409-3880": {
+    "title": "Spectral neighbor analysis method for automated generation of quantum-accurate interatomic potentials",
+    "authors": [
+      "A. Thompson",
+      "L. Swiler",
+      "C. Trott",
+      "S. Foiles",
+      "G. Tucker"
+    ],
+    "publication_date": "2014-09-12",
+    "venue": "Journal of Computational Physics",
+    "semantic_scholar_id": "32228376c03f3e8feabc8b3349b2fd1e45527e15",
+    "corpus_id": 34412962,
+    "category": "Physics, Computer Science"
+  },
+  "1307-6718": {
+    "title": "Van der Waals heterostructures",
+    "authors": [
+      "A.K. Geim",
+      "I. V. Grigorieva"
+    ],
+    "publication_date": "2013-07-24",
+    "venue": "Nature",
+    "semantic_scholar_id": "7da5e9d4e987eb5a8b7113353edd9dceb7295039",
+    "corpus_id": 205234832,
+    "category": "Medicine, Physics, Chemistry"
+  },
+  "0910-1019": {
+    "title": "Gaussian approximation potentials: the accuracy of quantum mechanics, without the electrons.",
+    "authors": [
+      "A. Bartók",
+      "M. Payne",
+      "R. Kondor",
+      "Gábor Csányi"
+    ],
+    "publication_date": "2009-10-06",
+    "venue": "Physical Review Letters",
+    "semantic_scholar_id": "b587740a3051a4503b3edbb568d2333ab786e056",
+    "corpus_id": 15918457,
+    "category": "Physics, Medicine"
+  }
+}

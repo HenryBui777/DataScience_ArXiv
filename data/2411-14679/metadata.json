@@ -1,0 +1,20 @@
+{
+  "title": "Recursive Gaussian Process State Space Model",
+  "authors": [
+    "Tengjie Zheng",
+    "Haipeng Chen",
+    "Lin Cheng",
+    "Shengping Gong",
+    "Xu Huang"
+  ],
+  "summary": "Learning dynamical models from data is not only fundamental but also holds great promise for advancing principle discovery, time-series prediction, and controller design. Among various approaches, Gaussian Process State-Space Models (GPSSMs) have recently gained significant attention due to their combination of flexibility and interpretability. However, for online learning, the field lacks an efficient method suitable for scenarios where prior information regarding data distribution and model function is limited. To address this issue, this paper proposes a recursive GPSSM method with adaptive capabilities for both operating domains and Gaussian process (GP) hyperparameters. Specifically, we first utilize first-order linearization to derive a Bayesian update equation for the joint distribution between the system state and the GP model, enabling closed-form and domain-independent learning. Second, an online selection algorithm for inducing points is developed based on informative criteria to achieve lightweight learning. Third, to support online hyperparameter optimization, we recover historical measurement information from the current filtering distribution. Comprehensive evaluations on both synthetic and real-world datasets demonstrate the superior accuracy, computational efficiency, and adaptability of our method compared to state-of-the-art online GPSSM techniques.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-06-21",
+    "2025-09-03",
+    "2025-10-17"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, eess.SY, stat.ML"
+}

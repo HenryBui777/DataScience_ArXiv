@@ -1,0 +1,15 @@
+{
+  "title": "ChemSICal: Evaluating a Stochastic Chemical Reaction Network for Molecular Multiple Access",
+  "authors": [
+    "Alexander Wietfeld",
+    "Marina Wendrich",
+    "Sebastian Schmidt",
+    "Wolfgang Kellerer"
+  ],
+  "summary": "Proposals for molecular communication networks as part of a future internet of bio-nano-things have become more intricate and the question of practical implementation is gaining more importance. One option is to apply detailed chemical modeling to capture more realistic effects of computing processes in biological systems. In this paper, we present ChemSICal, a detailed model for implementing the successive interference cancellation (SIC) algorithm for molecular multiple access in diffusion-based molecular communication networks as a chemical reaction network (CRN). We describe the structure of the model as a number of smaller reaction blocks, their speed controlled by reaction rate constants (RRCs). Deterministic and stochastic methods are utilized to first iteratively improve the choice of RRCs and subsequently investigate the performance of the model in terms of an error probability. We analyze the model's sensitivity to parameter changes and find that the analytically optimal values for the non-chemical model do not necessarily translate to the chemical domain. This necessitates careful optimization, especially of the RRCs, which are crucial for the successful operation of the ChemSICal system.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.ET"
+}

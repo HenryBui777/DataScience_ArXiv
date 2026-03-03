@@ -1,0 +1,14 @@
+{
+  "title": "Mathematical modeling and analysis for the chemotactic diffusion in porous media with incompressible Navier-Stokes equations over bounded domain",
+  "authors": [
+    "Fugui Ma",
+    "Wenyi Tian",
+    "Weihua Deng"
+  ],
+  "summary": "Myxobacteria aggregate and generate fruiting bodies in the soil to survive under starvation conditions. Considering soil as a porous medium, the biological mechanism and dynamic behavior of myxobacteria and slime (chemoattractants) affected by favorable environments in the soil can not be well characterized by the classical full parabolic Keller-Segel system combined with the incompressible Navier-Stokes equations. In this work, we employ the continuous time random walk (CTRW) approach to characterize the diffusion behavior of myxobacteria and slime in porous media at the microscale, and develop a new macroscopic model named as the time-fractional Keller-Segel system. Then it is coupled with the incompressible Navier-Stokes equations through transport and buoyancy, resulting in the TF-KSNS system, which reveals the biological mechanism from micro to macro and then appropriately describes the dynamic behavior of the chemotactic diffusion of myxobacteria and slime in the soil. In addition, we demonstrate that the TF-KSNS system associated with initial and no-flux/no-flux/Dirichlet boundary conditions over smoothly bounded domain in $\\mathbb{R}^{d}$ ($d\\geq2$) admits a local well-posed mild solution, which continuously depends on the initial data with proper regularity under a small initial condition. Moreover, the blow-up of the mild solution is rigorously investigated.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "Journal of Differential Equations, 436, 113305 (2025)",
+  "pdf_url": null,
+  "category": "math.AP"
+}

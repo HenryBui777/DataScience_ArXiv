@@ -1,0 +1,16 @@
+{
+  "title": "Omnipredicting Single-Index Models with Multi-Index Models",
+  "authors": [
+    "Lunjia Hu",
+    "Kevin Tian",
+    "Chutong Yang"
+  ],
+  "summary": "Recent work on supervised learning [GKR+22] defined the notion of omnipredictors, i.e., predictor functions $p$ over features that are simultaneously competitive for minimizing a family of loss functions $\\mathcal{L}$ against a comparator class $\\mathcal{C}$. Omniprediction requires approximating the Bayes-optimal predictor beyond the loss minimization paradigm, and has generated significant interest in the learning theory community. However, even for basic settings such as agnostically learning single-index models (SIMs), existing omnipredictor constructions require impractically-large sample complexities and runtimes, and output complex, highly-improper hypotheses.\n  Our main contribution is a new, simple construction of omnipredictors for SIMs. We give a learner outputting an omnipredictor that is $\\varepsilon$-competitive on any matching loss induced by a monotone, Lipschitz link function, when the comparator class is bounded linear predictors. Our algorithm requires $\\approx \\varepsilon^{-4}$ samples and runs in nearly-linear time, and its sample complexity improves to $\\approx \\varepsilon^{-2}$ if link functions are bi-Lipschitz. This significantly improves upon the only prior known construction, due to [HJKRR18, GHK+23], which used $\\gtrsim \\varepsilon^{-10}$ samples.\n  We achieve our construction via a new, sharp analysis of the classical Isotron algorithm [KS09, KKKS11] in the challenging agnostic learning setting, of potential independent interest. Previously, Isotron was known to properly learn SIMs in the realizable setting, as well as constant-factor competitive hypotheses under the squared loss [ZWDD24]. As they are based on Isotron, our omnipredictors are multi-index models with $\\approx \\varepsilon^{-2}$ prediction heads, bringing us closer to the tantalizing goal of proper omniprediction for general loss families and comparators.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-01-22"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.DS, math.OC, stat.ML"
+}

@@ -1,0 +1,970 @@
+{
+  "2501-12948": {
+    "title": "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning",
+    "authors": [
+      "DeepSeek-AI",
+      "Daya Guo",
+      "Dejian Yang",
+      "Haowei Zhang",
+      "Jun-Mei Song",
+      "Ruoyu Zhang",
+      "R. Xu",
+      "Qihao Zhu",
+      "Shirong Ma",
+      "Peiyi Wang",
+      "Xiaoling Bi",
+      "Xiaokang Zhang",
+      "Xingkai Yu",
+      "Yu Wu",
+      "Z. F. Wu",
+      "Zhibin Gou",
+      "Zhihong Shao",
+      "Zhuoshu Li",
+      "Ziyi Gao",
+      "A. Liu",
+      "Bing Xue",
+      "Bing-Li Wang",
+      "Bochao Wu",
+      "Bei Feng",
+      "Chengda Lu",
+      "Chenggang Zhao",
+      "C. Deng",
+      "Chenyu Zhang",
+      "C. Ruan",
+      "Damai Dai",
+      "Deli Chen",
+      "Dong-Li Ji",
+      "Erhang Li",
+      "Fangyun Lin",
+      "Fucong Dai",
+      "Fuli Luo",
+      "Guangbo Hao",
+      "Guanting Chen",
+      "Guowei Li",
+      "H. Zhang",
+      "Han Bao",
+      "Hanwei Xu",
+      "Haocheng Wang",
+      "Honghui Ding",
+      "Huajian Xin",
+      "Huazuo Gao",
+      "Hui Qu",
+      "Hui Li",
+      "Jianzhong Guo",
+      "Jiashi Li",
+      "Jiawei Wang",
+      "JingChang Chen",
+      "Jingyang Yuan",
+      "Junjie Qiu",
+      "Junlong Li",
+      "J. Cai",
+      "J. Ni",
+      "Jian Liang",
+      "Jin Chen",
+      "Kai Dong",
+      "Kai Hu",
+      "Kaige Gao",
+      "Kang Guan",
+      "Kexin Huang",
+      "K. Yu",
+      "Lean Wang",
+      "Lecong Zhang",
+      "Liang Zhao",
+      "Litong Wang",
+      "Liyue Zhang",
+      "Lei Xu",
+      "Leyi Xia",
+      "Mingchuan Zhang",
+      "Minghua Zhang",
+      "M. Tang",
+      "Meng Li",
+      "Miaojun Wang",
+      "Mingming Li",
+      "Ning Tian",
+      "Panpan Huang",
+      "Peng Zhang",
+      "Qiancheng Wang",
+      "Qinyu Chen",
+      "Qiushi Du",
+      "Ruiqi Ge",
+      "Ruisong Zhang",
+      "Ruizhe Pan",
+      "Runji Wang",
+      "R. J. Chen",
+      "R. Jin",
+      "Ruyi Chen",
+      "Shanghao Lu",
+      "Shangyan Zhou",
+      "Shanhuang Chen",
+      "Shengfeng Ye",
+      "Shiyu Wang",
+      "Shuiping Yu",
+      "Shunfeng Zhou",
+      "Shuting Pan",
+      "S. S. Li",
+      "Shuang Zhou",
+      "Shao-Kang Wu",
+      "Tao Yun",
+      "Tian Pei",
+      "T. Sun",
+      "T. Wang",
+      "Wangding Zeng",
+      "Wanjia Zhao",
+      "Wen Liu",
+      "W. Liang",
+      "Wenjun Gao",
+      "Wen-Xia Yu",
+      "Wentao Zhang",
+      "W. Xiao",
+      "Wei An",
+      "Xiaodong Liu",
+      "Xiaohan Wang",
+      "Xiaokang Chen",
+      "X. Nie",
+      "Xin Cheng",
+      "Xin Liu",
+      "Xin Xie",
+      "Xingchao Liu",
+      "Xinyu Yang",
+      "Xinyuan Li",
+      "Xuecheng Su",
+      "Xuheng Lin",
+      "X. Q. Li",
+      "Xiangyu Jin",
+      "Xi-Cheng Shen",
+      "Xiaosha Chen",
+      "Xiaowen Sun",
+      "Xiaoxiang Wang",
+      "Xinnan Song",
+      "Xinyi Zhou",
+      "Xianzu Wang",
+      "Xinxia Shan",
+      "Y. K. Li",
+      "Y. Q. Wang",
+      "Y. X. Wei",
+      "Yang Zhang",
+      "Yanhong Xu",
+      "Yao Li",
+      "Yao Zhao",
+      "Yaofeng Sun",
+      "Yaohui Wang",
+      "Yi Yu",
+      "Yichao Zhang",
+      "Yifan Shi",
+      "Yi Xiong",
+      "Ying He",
+      "Yishi Piao",
+      "Yisong Wang",
+      "Yixuan Tan",
+      "Yiyang Ma",
+      "Yiyuan Liu",
+      "Yongqiang Guo",
+      "Y. Ou",
+      "Yuduan Wang",
+      "Yue Gong",
+      "Yu-Jing Zou",
+      "Yujia He",
+      "Yunfan Xiong",
+      "Yu-Wei Luo",
+      "Yu-mei You",
+      "Yuxuan Liu",
+      "Yuyang Zhou",
+      "Y. X. Zhu",
+      "Yanping Huang",
+      "Yao Li",
+      "Yi Zheng",
+      "Yuchen Zhu",
+      "Yunxiang Ma",
+      "Ying Tang",
+      "Y. Zha",
+      "Yuting Yan",
+      "Z. Ren",
+      "Z. Ren",
+      "Zhangli Sha",
+      "Zhe Fu",
+      "Zhean Xu",
+      "Zhenda Xie",
+      "Zhen-guo Zhang",
+      "Zhewen Hao",
+      "Zhicheng Ma",
+      "Zhigang Yan",
+      "Zhiyu Wu",
+      "Zihui Gu",
+      "Zijia Zhu",
+      "Zijun Liu",
+      "Zi-An Li",
+      "Ziwei Xie",
+      "Ziyang Song",
+      "Zizheng Pan",
+      "Zhen Huang",
+      "Zhipeng Xu",
+      "Zhongyu Zhang",
+      "Zhen Zhang"
+    ],
+    "publication_date": "2025-01-22",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "34471a2fa18ea22efad5287cf4aeb18542c98a9b",
+    "corpus_id": 275789950,
+    "category": "Computer Science"
+  },
+  "2410-20814": {
+    "title": "NewTerm: Benchmarking Real-Time New Terms for Large Language Models with Annual Updates",
+    "authors": [
+      "Hexuan Deng",
+      "Wenxiang Jiao",
+      "Xuebo Liu",
+      "Min Zhang",
+      "Zhaopeng Tu"
+    ],
+    "publication_date": "2024-10-28",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "20838de13350d7b51ccf6c75869f73254a77f517",
+    "corpus_id": 273655004,
+    "category": "Computer Science"
+  },
+  "2410-03077": {
+    "title": "CommonIT: Commonality-Aware Instruction Tuning for Large Language Models via Data Partitions",
+    "authors": [
+      "Jun Rao",
+      "Xuebo Liu",
+      "Lian Lian",
+      "Shengjun Cheng",
+      "Yunjie Liao",
+      "Min Zhang"
+    ],
+    "publication_date": "2024-10-04",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "f51b3338c731e11cd2574de5a02cc28d306df2cf",
+    "corpus_id": 273162336,
+    "category": "Computer Science"
+  },
+  "2402-17193": {
+    "title": "When Scaling Meets LLM Finetuning: The Effect of Data, Model and Finetuning Method",
+    "authors": [
+      "Biao Zhang",
+      "Zhongtao Liu",
+      "Colin Cherry",
+      "Orhan Firat"
+    ],
+    "publication_date": "2024-02-27",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "5e71d0e85f65a1c0fb2af7bff281209122c58932",
+    "corpus_id": 268032247,
+    "category": "Computer Science"
+  },
+  "2310-06694": {
+    "title": "Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning",
+    "authors": [
+      "Mengzhou Xia",
+      "Tianyu Gao",
+      "Zhiyuan Zeng",
+      "Danqi Chen"
+    ],
+    "publication_date": "2023-10-10",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "abdb0f9d1486dbb024c4bc9f8f9dc40464c58715",
+    "corpus_id": 263830786,
+    "category": "Computer Science"
+  },
+  "2309-10818": {
+    "title": "SlimPajama-DC: Understanding Data Combinations for LLM Training",
+    "authors": [
+      "Zhiqiang Shen",
+      "Tianhua Tao",
+      "Liqun Ma",
+      "Willie Neiswanger",
+      "Zhengzhong Liu",
+      "Hongyi Wang",
+      "Bowen Tan",
+      "Joel Hestness",
+      "N. Vassilieva",
+      "Daria Soboleva",
+      "Eric P. Xing"
+    ],
+    "publication_date": "2023-09-19",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "39bb5d44735c07b1e1f4341a2d4bc8d5e783f491",
+    "corpus_id": 262054095,
+    "category": "Computer Science"
+  },
+  "2309-09400": {
+    "title": "CulturaX: A Cleaned, Enormous, and Multilingual Dataset for Large Language Models in 167 Languages",
+    "authors": [
+      "Thuat Nguyen",
+      "C. Nguyen",
+      "Viet Dac Lai",
+      "Hieu Man",
+      "Nghia Trung Ngo",
+      "Franck Dernoncourt",
+      "Ryan A. Rossi",
+      "Thien Huu Nguyen"
+    ],
+    "publication_date": "2023-09-17",
+    "venue": "International Conference on Language Resources and Evaluation",
+    "semantic_scholar_id": "1ebcf1884390c28f24b3adaf5a7aba5b9453b48b",
+    "corpus_id": 262044134,
+    "category": "Computer Science"
+  },
+  "2305-17926": {
+    "title": "Large Language Models are not Fair Evaluators",
+    "authors": [
+      "Peiyi Wang",
+      "Lei Li",
+      "Liang Chen",
+      "Dawei Zhu",
+      "Binghuai Lin",
+      "Yunbo Cao",
+      "Qi Liu",
+      "Tianyu Liu",
+      "Zhifang Sui"
+    ],
+    "publication_date": "2023-05-29",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "38d64919ba526868a850a0e5f6239d4c474b7e7e",
+    "corpus_id": 258960339,
+    "category": "Computer Science"
+  },
+  "2304-01373": {
+    "title": "Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling",
+    "authors": [
+      "Stella Biderman",
+      "Hailey Schoelkopf",
+      "Quentin Anthony",
+      "Herbie Bradley",
+      "Kyle O'Brien",
+      "Eric Hallahan",
+      "Mohammad Aflah Khan",
+      "Shivanshu Purohit",
+      "USVSN Sai Prashanth",
+      "Edward Raff",
+      "Aviya Skowron",
+      "Lintang Sutawika",
+      "Oskar van der Wal"
+    ],
+    "publication_date": "2023-04-03",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "be55e8ec4213868db08f2c3168ae666001bea4b8",
+    "corpus_id": 257921893,
+    "category": "Computer Science"
+  },
+  "2301-00774": {
+    "title": "SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot",
+    "authors": [
+      "Elias Frantar",
+      "Dan Alistarh"
+    ],
+    "publication_date": "2023-01-02",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "909ad57ce8caa6b390a65ae09db352d27d8f3996",
+    "corpus_id": 255372747,
+    "category": "Computer Science"
+  },
+  "2212-01188": {
+    "title": "Improving Simultaneous Machine Translation with Monolingual Data",
+    "authors": [
+      "Hexuan Deng",
+      "Liang Ding",
+      "Xuebo Liu",
+      "Meishan Zhang",
+      "Dacheng Tao",
+      "Min Zhang"
+    ],
+    "publication_date": "2022-12-02",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "bf4ccb8446c6f9fa79b799b407852c7a218a3c02",
+    "corpus_id": 254220827,
+    "category": "Computer Science"
+  },
+  "2210-09644": {
+    "title": "Tencent’s Multilingual Machine Translation System for WMT22 Large-Scale African Languages",
+    "authors": [
+      "Wenxiang Jiao",
+      "Zhaopeng Tu",
+      "Jiarui Li",
+      "Wenxuan Wang",
+      "Jen-Tse Huang",
+      "Shuming Shi"
+    ],
+    "publication_date": "2022-10-18",
+    "venue": "Conference on Machine Translation",
+    "semantic_scholar_id": "0e37e841da990e838a2cbb91693af92f0d9529fe",
+    "corpus_id": 252967706,
+    "category": "Computer Science"
+  },
+  "2205-15308": {
+    "title": "Parameter-Efficient and Student-Friendly Knowledge Distillation",
+    "authors": [
+      "Jun Rao",
+      "Xv Meng",
+      "Liang Ding",
+      "Shuhan Qi",
+      "Dacheng Tao"
+    ],
+    "publication_date": "2022-05-28",
+    "venue": "IEEE transactions on multimedia",
+    "semantic_scholar_id": "eba256e78d52d350a0ff09e8e0bb7523102f4fb2",
+    "corpus_id": 249209818,
+    "category": "Computer Science"
+  },
+  "2205-14135": {
+    "title": "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness",
+    "authors": [
+      "Tri Dao",
+      "Daniel Y. Fu",
+      "Stefano Ermon",
+      "A. Rudra",
+      "Christopher R'e"
+    ],
+    "publication_date": "2022-05-27",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "87c5b281fa43e6f27191b20a8dd694eda1126336",
+    "corpus_id": 249151871,
+    "category": "Computer Science"
+  },
+  "2204-07580": {
+    "title": "mGPT: Few-Shot Learners Go Multilingual",
+    "authors": [
+      "Oleh Shliazhko",
+      "Alena Fenogenova",
+      "M. Tikhonova",
+      "V. Mikhailov",
+      "A. Kozlova",
+      "Tatiana Shavrina"
+    ],
+    "publication_date": "2022-04-15",
+    "venue": "Transactions of the Association for Computational Linguistics",
+    "semantic_scholar_id": "7a25155364476839b6d1fc0653cd8611327ab9ba",
+    "corpus_id": 248227518,
+    "category": "Computer Science"
+  },
+  "2109-04838": {
+    "title": "Block Pruning For Faster Transformers",
+    "authors": [
+      "François Lagunas",
+      "Ella Charlaix",
+      "Victor Sanh",
+      "Alexander M. Rush"
+    ],
+    "publication_date": "2021-09-10",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "01b1293ddea9bcd6df1185b0b934503de01d6561",
+    "corpus_id": 237485472,
+    "category": "Computer Science"
+  },
+  "2109-04020": {
+    "title": "Distributionally Robust Multilingual Machine Translation",
+    "authors": [
+      "Chunting Zhou",
+      "Daniel Lévy",
+      "Xian Li",
+      "Marjan Ghazvininejad",
+      "Graham Neubig"
+    ],
+    "publication_date": "2021-09-09",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "9b3a071734cfecb2880105d84bde6791b48bf4a3",
+    "corpus_id": 237454532,
+    "category": "Computer Science"
+  },
+  "2109-07958": {
+    "title": "TruthfulQA: Measuring How Models Mimic Human Falsehoods",
+    "authors": [
+      "Stephanie C. Lin",
+      "Jacob Hilton",
+      "Owain Evans"
+    ],
+    "publication_date": "2021-09-08",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "77d956cdab4508d569ae5741549b78e715fd0749",
+    "corpus_id": 237532606,
+    "category": "Computer Science"
+  },
+  "2106-12066": {
+    "title": "It’s All in the Heads: Using Attention Heads as a Baseline for Cross-Lingual Transfer in Commonsense Reasoning",
+    "authors": [
+      "Alexey Tikhonov",
+      "Max Ryabinin"
+    ],
+    "publication_date": "2021-06-22",
+    "venue": "Findings",
+    "semantic_scholar_id": "64902a5077ee68011cd467398dbb66511e8e891a",
+    "corpus_id": 235606305,
+    "category": "Computer Science"
+  },
+  "2106-03193": {
+    "title": "The Flores-101 Evaluation Benchmark for Low-Resource and Multilingual Machine Translation",
+    "authors": [
+      "Naman Goyal",
+      "Cynthia Gao",
+      "Vishrav Chaudhary",
+      "Peng-Jen Chen",
+      "Guillaume Wenzek",
+      "Da Ju",
+      "Sanjan Krishnan",
+      "Marc'Aurelio Ranzato",
+      "Francisco Guzmán",
+      "Angela Fan"
+    ],
+    "publication_date": "2021-06-06",
+    "venue": "Transactions of the Association for Computational Linguistics",
+    "semantic_scholar_id": "789b8487da7188442085983caba3ffaae05531e9",
+    "corpus_id": 235358129,
+    "category": "Computer Science"
+  },
+  "2010-05893": {
+    "title": "Large-Scale Methods for Distributionally Robust Optimization",
+    "authors": [
+      "Daniel Lévy",
+      "Y. Carmon",
+      "John C. Duchi",
+      "Aaron Sidford"
+    ],
+    "publication_date": "2020-10-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "def0bf85248be140f431e5074d7cd2c3c92c2e6e",
+    "corpus_id": 222290920,
+    "category": "Computer Science, Mathematics"
+  },
+  "2009-03300": {
+    "title": "Measuring Massive Multitask Language Understanding",
+    "authors": [
+      "Dan Hendrycks",
+      "Collin Burns",
+      "Steven Basart",
+      "Andy Zou",
+      "Mantas Mazeika",
+      "D. Song",
+      "J. Steinhardt"
+    ],
+    "publication_date": "2020-09-07",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "814a4f680b9ba6baba23b93499f4b48af1a27678",
+    "corpus_id": 221516475,
+    "category": "Computer Science"
+  },
+  "2007-13982": {
+    "title": "Distributionally Robust Losses for Latent Covariate Mixtures",
+    "authors": [
+      "John C. Duchi",
+      "Tatsunori B. Hashimoto",
+      "Hongseok Namkoong"
+    ],
+    "publication_date": "2020-07-28",
+    "venue": "Operational Research",
+    "semantic_scholar_id": "8352a4ec9a0cf24b7556945743c418f84f9ed9fb",
+    "corpus_id": 220830740,
+    "category": "Computer Science, Mathematics"
+  },
+  "2010-15875": {
+    "title": "Retrieve, Program, Repeat: Complex Knowledge Base Question Answering via Alternate Meta-learning",
+    "authors": [
+      "Jian Liu",
+      "Leyang Cui",
+      "Hanmeng Liu",
+      "Dandan Huang",
+      "Yile Wang",
+      "Yue Zhang"
+    ],
+    "publication_date": "2020-07-01",
+    "venue": "International Joint Conference on Artificial Intelligence",
+    "semantic_scholar_id": "a942cc84412d6a52adab325909b52296c017df48",
+    "corpus_id": 220483148,
+    "category": "Computer Science"
+  },
+  "2004-06748": {
+    "title": "Balancing Training for Multilingual Neural Machine Translation",
+    "authors": [
+      "Xinyi Wang",
+      "Yulia Tsvetkov",
+      "Graham Neubig"
+    ],
+    "publication_date": "2020-04-14",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "66b535ef5ee7e0e4bc176f77c31f78d571ea1efe",
+    "corpus_id": 215768769,
+    "category": "Computer Science"
+  },
+  "2002-10957": {
+    "title": "MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers",
+    "authors": [
+      "Wenhui Wang",
+      "Furu Wei",
+      "Li Dong",
+      "Hangbo Bao",
+      "Nan Yang",
+      "Ming Zhou"
+    ],
+    "publication_date": "2020-02-25",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "c6c734e16f66fbfcefac7625cc64599e83292c1e",
+    "corpus_id": 211296536,
+    "category": "Computer Science"
+  },
+  "2002-07376": {
+    "title": "Picking Winning Tickets Before Training by Preserving Gradient Flow",
+    "authors": [
+      "Chaoqi Wang",
+      "Chaoqi Wang",
+      "Guodong Zhang",
+      "R. Grosse"
+    ],
+    "publication_date": "2020-02-18",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "e08557d60dc47af675b48688a3524a7b0a6eac84",
+    "corpus_id": 211146532,
+    "category": "Computer Science, Mathematics"
+  },
+  "2001-08361": {
+    "title": "Scaling Laws for Neural Language Models",
+    "authors": [
+      "J. Kaplan",
+      "Sam McCandlish",
+      "T. Henighan",
+      "Tom B. Brown",
+      "Benjamin Chess",
+      "R. Child",
+      "Scott Gray",
+      "Alec Radford",
+      "Jeff Wu",
+      "Dario Amodei"
+    ],
+    "publication_date": "2020-01-23",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "e6c561d02500b2596a230b341a8eb8b921ca5bf2",
+    "corpus_id": 210861095,
+    "category": "Computer Science, Mathematics"
+  },
+  "1911-11641": {
+    "title": "PIQA: Reasoning about Physical Commonsense in Natural Language",
+    "authors": [
+      "Yonatan Bisk",
+      "Rowan Zellers",
+      "Ronan Le Bras",
+      "Jianfeng Gao",
+      "Yejin Choi"
+    ],
+    "publication_date": "2019-11-26",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "04f4e55e14150b7c48b0287ba77c7443df76ed45",
+    "corpus_id": 208290939,
+    "category": "Computer Science"
+  },
+  "1911-08731": {
+    "title": "Distributionally Robust Neural Networks for Group Shifts: On the Importance of Regularization for Worst-Case Generalization",
+    "authors": [
+      "Shiori Sagawa",
+      "Pang Wei Koh",
+      "Tatsunori B. Hashimoto",
+      "Percy Liang"
+    ],
+    "publication_date": "2019-11-20",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "193092aef465bec868d1089ccfcac0279b914bda",
+    "corpus_id": 208176471,
+    "category": "Computer Science, Mathematics"
+  },
+  "1911-02116": {
+    "title": "Unsupervised Cross-lingual Representation Learning at Scale",
+    "authors": [
+      "Alexis Conneau",
+      "Kartikay Khandelwal",
+      "Naman Goyal",
+      "Vishrav Chaudhary",
+      "Guillaume Wenzek",
+      "Francisco Guzmán",
+      "Edouard Grave",
+      "Myle Ott",
+      "Luke Zettlemoyer",
+      "Veselin Stoyanov"
+    ],
+    "publication_date": "2019-11-05",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "6fec3e579c7cd4f13bdabbee2b6ac2e8ff5941c6",
+    "corpus_id": 207880568,
+    "category": "Computer Science"
+  },
+  "1909-02060": {
+    "title": "Distributionally Robust Language Modeling",
+    "authors": [
+      "Yonatan Oren",
+      "Shiori Sagawa",
+      "Tatsunori B. Hashimoto",
+      "Percy Liang"
+    ],
+    "publication_date": "2019-09-04",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "77568c594470f9aa029f92774e2c12ab0451d9bb",
+    "corpus_id": 202541009,
+    "category": "Computer Science, Mathematics"
+  },
+  "1908-11828": {
+    "title": "PAWS-X: A Cross-lingual Adversarial Dataset for Paraphrase Identification",
+    "authors": [
+      "Yinfei Yang",
+      "Y. Zhang",
+      "C. Tar",
+      "Jason Baldridge"
+    ],
+    "publication_date": "2019-08-01",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "04a7021fe6be6bddcfae476493fcc7571e7c613c",
+    "corpus_id": 201698093,
+    "category": "Computer Science"
+  },
+  "1907-05019": {
+    "title": "Massively Multilingual Neural Machine Translation in the Wild: Findings and Challenges",
+    "authors": [
+      "N. Arivazhagan",
+      "Ankur Bapna",
+      "Orhan Firat",
+      "Dmitry Lepikhin",
+      "Melvin Johnson",
+      "M. Krikun",
+      "M. Chen",
+      "Yuan Cao",
+      "George F. Foster",
+      "Colin Cherry",
+      "Wolfgang Macherey",
+      "Z. Chen",
+      "Yonghui Wu"
+    ],
+    "publication_date": "2019-07-11",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "c17985a669522e7e85ae3d34754c7df49c7187d1",
+    "corpus_id": 195886574,
+    "category": "Computer Science"
+  },
+  "1905-10044": {
+    "title": "BoolQ: Exploring the Surprising Difficulty of Natural Yes/No Questions",
+    "authors": [
+      "Christopher Clark",
+      "Kenton Lee",
+      "Ming-Wei Chang",
+      "T. Kwiatkowski",
+      "Michael Collins",
+      "Kristina Toutanova"
+    ],
+    "publication_date": "2019-05-01",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "9770fff7379a7ab9006b48939462354dda9a2053",
+    "corpus_id": 165163607,
+    "category": "Computer Science"
+  },
+  "1905-07830": {
+    "title": "HellaSwag: Can a Machine Really Finish Your Sentence?",
+    "authors": [
+      "Rowan Zellers",
+      "Ari Holtzman",
+      "Yonatan Bisk",
+      "Ali Farhadi",
+      "Yejin Choi"
+    ],
+    "publication_date": "2019-05-01",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "8b0f27bb594b1eaaf493eaf1e2ee723a2b0a19ad",
+    "corpus_id": 159041722,
+    "category": "Computer Science"
+  },
+  "1809-05053": {
+    "title": "XNLI: Evaluating Cross-lingual Sentence Representations",
+    "authors": [
+      "Alexis Conneau",
+      "Guillaume Lample",
+      "Ruty Rinott",
+      "Adina Williams",
+      "Samuel R. Bowman",
+      "Holger Schwenk",
+      "Veselin Stoyanov"
+    ],
+    "publication_date": "2018-09-13",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "1c3112ef8a346b9817382ed34a8c146c53d5bcf5",
+    "corpus_id": 52271711,
+    "category": "Computer Science"
+  },
+  "1806-08010": {
+    "title": "Fairness Without Demographics in Repeated Loss Minimization",
+    "authors": [
+      "Tatsunori B. Hashimoto",
+      "Megha Srivastava",
+      "Hongseok Namkoong",
+      "Percy Liang"
+    ],
+    "publication_date": "2018-06-20",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "16f0c508aa54e26aa18e3b0f3c91b0c143c6a605",
+    "corpus_id": 49343170,
+    "category": "Mathematics, Computer Science"
+  },
+  "1806-03822": {
+    "title": "Know What You Don’t Know: Unanswerable Questions for SQuAD",
+    "authors": [
+      "Pranav Rajpurkar",
+      "Robin Jia",
+      "Percy Liang"
+    ],
+    "publication_date": "2018-06-11",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "4d1c856275744c0284312a3a50efb6ca9dc4cd4c",
+    "corpus_id": 47018994,
+    "category": "Computer Science"
+  },
+  "1803-05457": {
+    "title": "Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge",
+    "authors": [
+      "Peter Clark",
+      "Isaac Cowhey",
+      "Oren Etzioni",
+      "Tushar Khot",
+      "Ashish Sabharwal",
+      "Carissa Schoenick",
+      "Oyvind Tafjord"
+    ],
+    "publication_date": "2018-03-14",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "88bb0a28bb58d847183ec505dda89b63771bb495",
+    "corpus_id": 3922816,
+    "category": "Computer Science"
+  },
+  "1803-03635": {
+    "title": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks",
+    "authors": [
+      "Jonathan Frankle",
+      "Michael Carbin"
+    ],
+    "publication_date": "2018-03-09",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "21937ecd9d66567184b83eca3d3e09eb4e6fbd60",
+    "corpus_id": 53388625,
+    "category": "Computer Science, Mathematics"
+  },
+  "1712-01312": {
+    "title": "Learning Sparse Neural Networks through L0 Regularization",
+    "authors": [
+      "Christos Louizos",
+      "M. Welling",
+      "Diederik P. Kingma"
+    ],
+    "publication_date": "2017-12-04",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "2ec7156913117949ab933f27f492d0149bc0031f",
+    "corpus_id": 30535508,
+    "category": "Mathematics, Computer Science"
+  },
+  "1708-06519": {
+    "title": "Learning Efficient Convolutional Networks through Network Slimming",
+    "authors": [
+      "Zhuang Liu",
+      "Jianguo Li",
+      "Zhiqiang Shen",
+      "Gao Huang",
+      "Shoumeng Yan",
+      "Changshui Zhang"
+    ],
+    "publication_date": "2017-08-22",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "90a16f34d109b63d95ab4da2d491cbe3a1c8b656",
+    "corpus_id": 5993328,
+    "category": "Computer Science"
+  },
+  "1707-06209": {
+    "title": "Crowdsourcing Multiple Choice Science Questions",
+    "authors": [
+      "Johannes Welbl",
+      "Nelson F. Liu",
+      "Matt Gardner"
+    ],
+    "publication_date": "2017-07-19",
+    "venue": "NUT@EMNLP",
+    "semantic_scholar_id": "932a5de79d8a8ebb75ea0c43493450fd9922e738",
+    "corpus_id": 1553193,
+    "category": "Computer Science, Mathematics"
+  },
+  "1705-03551": {
+    "title": "TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension",
+    "authors": [
+      "Mandar Joshi",
+      "Eunsol Choi",
+      "Daniel S. Weld",
+      "Luke Zettlemoyer"
+    ],
+    "publication_date": "2017-05-01",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "f010affab57b5fcf1cd6be23df79d8ec98c7289c",
+    "corpus_id": 26501419,
+    "category": "Computer Science"
+  },
+  "1608-03665": {
+    "title": "Learning Structured Sparsity in Deep Neural Networks",
+    "authors": [
+      "W. Wen",
+      "Chunpeng Wu",
+      "Yandan Wang",
+      "Yiran Chen",
+      "Hai Helen Li"
+    ],
+    "publication_date": "2016-08-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "7601b995303f953955004db7b9b8b206c0e02ff8",
+    "corpus_id": 2056019,
+    "category": "Computer Science, Mathematics"
+  },
+  "1608-08868": {
+    "title": "Demographic Dialectal Variation in Social Media: A Case Study of African-American English",
+    "authors": [
+      "Su Lin Blodgett",
+      "L. Green",
+      "Brendan T. O'Connor"
+    ],
+    "publication_date": "2016-08-01",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "7a4f3a0cfc0cc2aafa4ed1a2924380e82d5e3e4c",
+    "corpus_id": 1066490,
+    "category": "Computer Science"
+  },
+  "1606-06031": {
+    "title": "The LAMBADA dataset: Word prediction requiring a broad discourse context",
+    "authors": [
+      "Denis Paperno",
+      "Germán Kruszewski",
+      "Angeliki Lazaridou",
+      "Q. N. Pham",
+      "R. Bernardi",
+      "Sandro Pezzelle",
+      "Marco Baroni",
+      "Gemma Boleda",
+      "R. Fernández"
+    ],
+    "publication_date": "2016-06-20",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "5ed791f810da580c78df6a052c6b9f2e258f6b0a",
+    "corpus_id": 2381275,
+    "category": "Computer Science"
+  },
+  "1510-00149": {
+    "title": "Deep Compression: Compressing Deep Neural Network with Pruning, Trained Quantization and Huffman Coding",
+    "authors": [
+      "Song Han",
+      "Huizi Mao",
+      "W. Dally"
+    ],
+    "publication_date": "2015-10-01",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "642d0f49b7826adcf986616f4af77e736229990f",
+    "corpus_id": 2134321,
+    "category": "Computer Science"
+  },
+  "1401-0212": {
+    "title": "Data-driven robust optimization",
+    "authors": [
+      "D. Bertsimas",
+      "Vishal Gupta",
+      "Nathan Kallus"
+    ],
+    "publication_date": "2013-12-31",
+    "venue": "Mathematical programming",
+    "semantic_scholar_id": "50d7ecd6901d6759a6bd9da7f2fc8f346e073577",
+    "corpus_id": 2037462,
+    "category": "Computer Science, Mathematics"
+  }
+}

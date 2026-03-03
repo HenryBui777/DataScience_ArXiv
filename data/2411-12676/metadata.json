@@ -1,0 +1,14 @@
+{
+  "title": "IoT-Based 3D Pose Estimation and Motion Optimization for Athletes: Application of C3D and OpenPose",
+  "authors": [
+    "Fei Ren",
+    "Chao Ren",
+    "Tianyi Lyu"
+  ],
+  "summary": "This study proposes the IoT-Enhanced Pose Optimization Network (IE-PONet) for high-precision 3D pose estimation and motion optimization of track and field athletes. IE-PONet integrates C3D for spatiotemporal feature extraction, OpenPose for real-time keypoint detection, and Bayesian optimization for hyperparameter tuning. Experimental results on NTURGB+D and FineGYM datasets demonstrate superior performance, with AP\\(^p50\\) scores of 90.5 and 91.0, and mAP scores of 74.3 and 74.0, respectively. Ablation studies confirm the essential roles of each module in enhancing model accuracy. IE-PONet provides a robust tool for athletic performance analysis and optimization, offering precise technical insights for training and injury prevention. Future work will focus on further model optimization, multimodal data integration, and developing real-time feedback mechanisms to enhance practical applications.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.LG"
+}

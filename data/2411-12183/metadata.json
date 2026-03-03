@@ -1,0 +1,17 @@
+{
+  "title": "Action-Attentive Deep Reinforcement Learning for Autonomous Alignment of Beamlines",
+  "authors": [
+    "Siyu Wang",
+    "Shengran Dai",
+    "Jianhui Jiang",
+    "Shuang Wu",
+    "Yufei Peng",
+    "Junbin Zhang"
+  ],
+  "summary": "Synchrotron radiation sources play a crucial role in fields such as materials science, biology, and chemistry. The beamline, a key subsystem of the synchrotron, modulates and directs the radiation to the sample for analysis. However, the alignment of beamlines is a complex and time-consuming process, primarily carried out manually by experienced engineers. Even minor misalignments in optical components can significantly affect the beam's properties, leading to suboptimal experimental outcomes. Current automated methods, such as bayesian optimization (BO) and reinforcement learning (RL), although these methods enhance performance, limitations remain. The relationship between the current and target beam properties, crucial for determining the adjustment, is not fully considered. Additionally, the physical characteristics of optical elements are overlooked, such as the need to adjust specific devices to control the output beam's spot size or position. This paper addresses the alignment of beamlines by modeling it as a Markov Decision Process (MDP) and training an intelligent agent using RL. The agent calculates adjustment values based on the current and target beam states, executes actions, and iterates until optimal parameters are achieved. A policy network with action attention is designed to improve decision-making by considering both state differences and the impact of optical components. Experiments on two simulated beamlines demonstrate that our algorithm outperforms existing methods, with ablation studies highlighting the effectiveness of the action attention-based policy network.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY, cs.LG"
+}

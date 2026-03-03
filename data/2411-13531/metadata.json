@@ -1,0 +1,15 @@
+{
+  "title": "Nonlinear space-time model reduction in the frequency domain",
+  "authors": [
+    "Peter Frame",
+    "Aaron Towne"
+  ],
+  "summary": "We propose a space-time reduced-order model (ROM) for nonlinear dynamical systems, building upon previous work on linear systems. Whereas most ROMs are space-only in that they reduce only the spatial dimension of the state, the proposed method leverages an efficient encoding of the entire trajectory of the state on the time interval $[0,T]$, enabling significant additional reduction. Trajectories are encoded using SPOD modes, a spatial basis at each temporal frequency tailored to the structures that appear at that frequency. These modes have a number of properties that make them an ideal choice for space-time model reduction, including separability and near-optimality for long trajectories. We derive a system of algebraic equations involving the SPOD coefficients, forcing, and initial condition by projecting an implicit solution of the governing equations onto the set of SPOD modes in a space-time inner product. We therefore refer to the method as spectral solution operator projection (SSOP). The online phase of SSOP comprises solving this system for the SPOD coefficients, given the initial condition and forcing. We find that SSOP gives two orders of magnitude lower error than POD-Galerkin projection at the same number of modes and CPU time across a suite of tests, including ones that use out-of-sample forcings and affine parameter variation. In fact, the method is substantially more accurate even than the projection of the solution onto the POD modes, which is a lower bound for the error of any method based on a linear space-only encoding of the state.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-10-30"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA, physics.flu-dyn"
+}

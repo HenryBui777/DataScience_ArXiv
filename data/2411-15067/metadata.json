@@ -1,0 +1,15 @@
+{
+  "title": "Linear convergence of proximal descent schemes on the Wasserstein space",
+  "authors": [
+    "Razvan-Andrei Lascu",
+    "Mateusz B. Majka",
+    "David Šiška",
+    "Łukasz Szpruch"
+  ],
+  "summary": "We investigate proximal descent methods, inspired by the minimizing movement scheme introduced by Jordan, Kinderlehrer and Otto, for optimizing entropy-regularized functionals on the Wasserstein space. We establish linear convergence under flat convexity assumptions, thereby relaxing the common reliance on geodesic convexity. Our analysis circumvents the need for discrete-time adaptations of the Evolution Variational Inequality (EVI). Instead, we leverage a uniform logarithmic Sobolev inequality (LSI) and the entropy \"sandwich\" lemma, extending the analysis from arXiv:2201.10469 and arXiv:2202.01009. The major challenge in the proof via LSI is to show that the relative Fisher information $I(\\cdot|π)$ is well-defined at every step of the scheme. Since the relative entropy is not Wasserstein differentiable, we prove that along the scheme the iterates belong to a certain class of Sobolev regularity, and hence the relative entropy $\\operatorname{KL}(\\cdot|π)$ has a unique Wasserstein sub-gradient, and that the relative Fisher information is indeed finite.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC, cs.LG, math.PR"
+}

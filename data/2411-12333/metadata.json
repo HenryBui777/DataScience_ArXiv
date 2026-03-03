@@ -1,0 +1,18 @@
+{
+  "title": "Correspondences between codensity and coupling-based liftings, a practical approach",
+  "authors": [
+    "Samuel Humeau",
+    "Daniela Petrisan",
+    "Jurriaan Rot"
+  ],
+  "summary": "The Kantorovich distance is a widely used metric between probability distributions. The Kantorovich-Rubinstein duality states that it can be defined in two equivalent ways: as a supremum, based on non-expansive functions into [0, 1], and as an infimum, based on probabilistic couplings. Orthogonally, there are categorical generalisations of both presentations proposed in the literature, in the form of codensity liftings and what we refer to as coupling-based liftings. Both lift endofunctors on the category Set of sets and functions to that of pseudometric spaces, and both are parameterised by modalities from coalgebraic modal logic. A generalisation of the Kantorovich-Rubinstein duality has been more nebulous-it is known not to work in some cases. In this paper we propose a compositional approach for obtaining such generalised dualities for a class of functors, which is closed under coproducts and products. Our approach is based on an explicit construction of modalities and also applies to and extends known cases such as that of the powerset functor.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-21",
+    "2024-11-26",
+    "2025-02-04"
+  ],
+  "publication_venue": "33rd EACSL Annual Conference on Computer Science Logic (CSL 2025), Feb 2025, Amsterdam, Netherlands",
+  "pdf_url": null,
+  "category": "math.CT, cs.LO"
+}

@@ -1,0 +1,406 @@
+{
+  "2406-11601": {
+    "title": "Standardizing Structural Causal Models",
+    "authors": [
+      "Weronika Ormaniec",
+      "Scott Sussex",
+      "Lars Lorch",
+      "Bernhard Schölkopf",
+      "Andreas Krause"
+    ],
+    "publication_date": "2024-06-17",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "0ad5a074865cfdcf49ef19958c2dc53cf12d64b0",
+    "corpus_id": 270559065,
+    "category": "Computer Science, Mathematics"
+  },
+  "2405-19985": {
+    "title": "Targeted Sequential Indirect Experiment Design",
+    "authors": [
+      "Elisabeth Ailer",
+      "Niclas Dern",
+      "Jason S. Hartford",
+      "Niki Kilbertus"
+    ],
+    "publication_date": "2024-05-30",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "71bd40447c7b6c73309d978018114316c41f5333",
+    "corpus_id": 270123346,
+    "category": "Mathematics, Computer Science"
+  },
+  "2402-13077": {
+    "title": "Mechanistic Neural Networks for Scientific Machine Learning",
+    "authors": [
+      "Adeel Pervez",
+      "Francesco Locatello",
+      "E. Gavves"
+    ],
+    "publication_date": "2024-02-20",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "4cd3609d94a7eb6cc232794308689ea4784ae9df",
+    "corpus_id": 267759829,
+    "category": "Computer Science"
+  },
+  "2310-14935": {
+    "title": "Causal machine learning for single-cell genomics",
+    "authors": [
+      "Alejandro Tejada-Lapuerta",
+      "Paul Bertin",
+      "Stefan Bauer",
+      "H. Aliee",
+      "Y. Bengio",
+      "Fabian J. Theis"
+    ],
+    "publication_date": "2023-10-23",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "ab7876236250c23376a91855071a7847b11714ef",
+    "corpus_id": 264436424,
+    "category": "Computer Science, Biology"
+  },
+  "2211-14897": {
+    "title": "Characterization and Greedy Learning of Gaussian Structural Causal Models under Unknown Interventions",
+    "authors": [
+      "Juan L. Gamella",
+      "Armeen Taeb",
+      "Christina Heinze-Deml",
+      "Peter Buhlmann"
+    ],
+    "publication_date": "2022-11-27",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "eb896722c5da255a6ca86e85c0122ba45d626afb",
+    "corpus_id": 254044226,
+    "category": "Mathematics"
+  },
+  "2206-14262": {
+    "title": "Supervised Training of Conditional Monge Maps",
+    "authors": [
+      "Charlotte Bunne",
+      "A. Krause",
+      "Marco Cuturi"
+    ],
+    "publication_date": "2022-06-28",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "35ffec60b0df528fd7fb561ca34d207f4665590f",
+    "corpus_id": 250113620,
+    "category": "Computer Science"
+  },
+  "2206-07824": {
+    "title": "Large-Scale Differentiable Causal Discovery of Factor Graphs",
+    "authors": [
+      "Romain Lopez",
+      "Jan-Christian Hutter",
+      "J. Pritchard",
+      "A. Regev"
+    ],
+    "publication_date": "2022-06-15",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "5ba8fb4d16d6a736bd1e0d0a55a2b8e4b012a91c",
+    "corpus_id": 249712138,
+    "category": "Computer Science, Mathematics, Biology"
+  },
+  "2206-02063": {
+    "title": "Active Bayesian Causal Inference",
+    "authors": [
+      "C. Toth",
+      "Lars Lorch",
+      "Christian Knoll",
+      "A. Krause",
+      "F. Pernkopf",
+      "Robert Peharz",
+      "Julius von Kügelgen"
+    ],
+    "publication_date": "2022-06-04",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "f760d3b64d10a0f0ca72240a61f2ef919ec2d744",
+    "corpus_id": 249395481,
+    "category": "Computer Science, Mathematics"
+  },
+  "2206-01665": {
+    "title": "BaCaDI: Bayesian Causal Discovery with Unknown Interventions",
+    "authors": [
+      "Alexander Hägele",
+      "Jonas Rothfuss",
+      "Lars Lorch",
+      "Vignesh Ram Somnath",
+      "B. Scholkopf",
+      "A. Krause"
+    ],
+    "publication_date": "2022-06-03",
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "semantic_scholar_id": "6c3e3488fd96083ca8c1c791b8dbce543fbcecdd",
+    "corpus_id": 249375606,
+    "category": "Computer Science, Mathematics"
+  },
+  "2204-13545": {
+    "title": "Predicting Cellular Responses to Novel Drug Perturbations at a Single-Cell Resolution",
+    "authors": [
+      "Leon Hetzel",
+      "Simon Böhm",
+      "Niki Kilbertus",
+      "Stephan Günnemann",
+      "M. Lotfollahi",
+      "F. Theis"
+    ],
+    "publication_date": "2022-04-28",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "6cab87236aa24a5b487870d090335444ce2806d8",
+    "corpus_id": 255373010,
+    "category": "Computer Science, Biology, Mathematics"
+  },
+  "2201-12324": {
+    "title": "Optimal Transport Tools (OTT): A JAX Toolbox for all things Wasserstein",
+    "authors": [
+      "Marco Cuturi",
+      "Laetitia Meng-Papaxanthos",
+      "Yingtao Tian",
+      "Charlotte Bunne",
+      "Geoff Davis",
+      "O. Teboul"
+    ],
+    "publication_date": "2022-01-28",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "5e660a9af1687603977578ac0538dd2b0e601a54",
+    "corpus_id": 246411679,
+    "category": "Computer Science, Mathematics"
+  },
+  "2105-11839": {
+    "title": "DiBS: Differentiable Bayesian Structure Learning",
+    "authors": [
+      "Lars Lorch",
+      "Jonas Rothfuss",
+      "B. Scholkopf",
+      "A. Krause"
+    ],
+    "publication_date": "2021-05-25",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "2ac7f3e729af4f902d4fa6fe2d0e956679053277",
+    "corpus_id": 235187432,
+    "category": "Computer Science, Mathematics"
+  },
+  "2103-02582": {
+    "title": "D’ya Like DAGs? A Survey on Structure Learning and Causal Discovery",
+    "authors": [
+      "M. Vowels",
+      "N. C. Camgoz",
+      "R. Bowden"
+    ],
+    "publication_date": "2021-03-03",
+    "venue": "ACM Computing Surveys",
+    "semantic_scholar_id": "719b251a5ddc83d4ec35e939c908b0ca3dcae194",
+    "corpus_id": 232104994,
+    "category": "Computer Science, Mathematics"
+  },
+  "2102-13647": {
+    "title": "Beware of the Simulated DAG! Causal Discovery Benchmarks May Be Easy to Game",
+    "authors": [
+      "Alexander G. Reisach",
+      "C. Seiler",
+      "S. Weichwald"
+    ],
+    "publication_date": "2021-02-26",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "a6a5c87972c094af24d079d168e70ccab83f0d9f",
+    "corpus_id": 239998404,
+    "category": "Mathematics, Computer Science"
+  },
+  "2007-01754": {
+    "title": "Differentiable Causal Discovery from Interventional Data",
+    "authors": [
+      "P. Brouillard",
+      "Sébastien Lachapelle",
+      "Alexandre Lacoste",
+      "Simon Lacoste-Julien",
+      "Alexandre Drouin"
+    ],
+    "publication_date": "2020-07-03",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "0da0af5ed59661fe4f901cf330a851e95eac7ea4",
+    "corpus_id": 220347136,
+    "category": "Computer Science, Mathematics"
+  },
+  "1911-10500": {
+    "title": "Causality for Machine Learning",
+    "authors": [
+      "B. Scholkopf"
+    ],
+    "publication_date": "2019-11-24",
+    "venue": "Probabilistic and Causal Inference",
+    "semantic_scholar_id": "b5461f9c5d65e87561e00848921ee797902dae14",
+    "corpus_id": 208267600,
+    "category": "Computer Science, Mathematics"
+  },
+  "1911-00081": {
+    "title": "Scaling structural learning with NO-BEARS to infer causal transcriptome networks",
+    "authors": [
+      "Hao-Chih Lee",
+      "M. Danieletto",
+      "Riccardo Miotto",
+      "S. Cherng",
+      "J. Dudley"
+    ],
+    "publication_date": "2019-10-31",
+    "venue": "Pacific Symposium on Biocomputing",
+    "semantic_scholar_id": "c60cb3d7b0fcfe9da0122ebee6b1072256318ca8",
+    "corpus_id": 207773853,
+    "category": "Medicine, Biology, Computer Science, Mathematics"
+  },
+  "1910-09007": {
+    "title": "Permutation-Based Causal Structure Learning with Unknown Intervention Targets",
+    "authors": [
+      "C. Squires",
+      "Yuhao Wang",
+      "Caroline Uhler"
+    ],
+    "publication_date": "2019-10-20",
+    "venue": "Conference on Uncertainty in Artificial Intelligence",
+    "semantic_scholar_id": "6b9960ec887597f4b38ecca2e1457718b5382008",
+    "corpus_id": 204800855,
+    "category": "Computer Science, Mathematics"
+  },
+  "1902-10347": {
+    "title": "ABCD-Strategy: Budgeted Experimental Design for Targeted Causal Structure Discovery",
+    "authors": [
+      "Raj Agrawal",
+      "C. Squires",
+      "Karren D. Yang",
+      "Karthikeyan Shanmugam",
+      "Caroline Uhler"
+    ],
+    "publication_date": "2019-02-27",
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "semantic_scholar_id": "e2f2160ad089f3e2632d1e2c322cf1fd530820b4",
+    "corpus_id": 88500825,
+    "category": "Computer Science, Mathematics"
+  },
+  "1803-01422": {
+    "title": "DAGs with NO TEARS: Continuous Optimization for Structure Learning",
+    "authors": [
+      "Xun Zheng",
+      "Bryon Aragam",
+      "Pradeep Ravikumar",
+      "E. Xing"
+    ],
+    "publication_date": "2018-03-04",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "8ef09697eca6a3201b1703a5a21722159cf64fcd",
+    "corpus_id": 53217974,
+    "category": "Computer Science, Mathematics"
+  },
+  "1802-06310": {
+    "title": "Characterizing and Learning Equivalence Classes of Causal DAGs under Interventions",
+    "authors": [
+      "Karren D. Yang",
+      "Abigail Katoff",
+      "Caroline Uhler"
+    ],
+    "publication_date": "2018-02-17",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "7c72f04b5fc1dfe8d5eb647dd3dd77997f84d386",
+    "corpus_id": 51882442,
+    "category": "Mathematics, Computer Science"
+  },
+  "1712-00961": {
+    "title": "Learning Independent Causal Mechanisms",
+    "authors": [
+      "Giambattista Parascandolo",
+      "Mateo Rojas-Carulla",
+      "Niki Kilbertus",
+      "B. Scholkopf"
+    ],
+    "publication_date": "2017-12-04",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "d93b0b37ee0e87a0e096ef803667b0798f465528",
+    "corpus_id": 3333755,
+    "category": "Computer Science, Mathematics"
+  },
+  "1705-10220": {
+    "title": "Permutation-based Causal Inference Algorithms with Interventions",
+    "authors": [
+      "Yuhao Wang",
+      "Liam Solus",
+      "Karren D. Yang",
+      "Caroline Uhler"
+    ],
+    "publication_date": "2017-05-29",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "d536c1e6017fa05d6ebe94b4d87fd8d41f3718a4",
+    "corpus_id": 30333474,
+    "category": "Mathematics, Computer Science"
+  },
+  "1611-01144": {
+    "title": "Categorical Reparameterization with Gumbel-Softmax",
+    "authors": [
+      "Eric Jang",
+      "S. Gu",
+      "Ben Poole"
+    ],
+    "publication_date": "2016-11-03",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "29e944711a354c396fad71936f536e83025b6ce0",
+    "corpus_id": 2428314,
+    "category": "Computer Science, Mathematics"
+  },
+  "1611-00712": {
+    "title": "The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables",
+    "authors": [
+      "Chris J. Maddison",
+      "A. Mnih",
+      "Y. Teh"
+    ],
+    "publication_date": "2016-11-02",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "515a21e90117941150923e559729c59f5fdade1c",
+    "corpus_id": 14307651,
+    "category": "Computer Science, Mathematics"
+  },
+  "1506-02494": {
+    "title": "BACKSHIFT: Learning causal cyclic graphs from unknown shift interventions",
+    "authors": [
+      "Dominik Rothenhäusler",
+      "C. Heinze",
+      "J. Peters",
+      "N. Meinshausen"
+    ],
+    "publication_date": "2015-06-08",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "c5630ae77aae2d2d8786ce45e6912adbd1d831de",
+    "corpus_id": 18370444,
+    "category": "Computer Science, Mathematics"
+  },
+  "1306-0895": {
+    "title": "Sinkhorn Distances: Lightspeed Computation of Optimal Transport",
+    "authors": [
+      "Marco Cuturi"
+    ],
+    "publication_date": "2013-06-04",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "0080118b0eb02af581ff32b85a1bb6aed7081f45",
+    "corpus_id": 15966283,
+    "category": "Computer Science, Mathematics"
+  },
+  "1104-2808": {
+    "title": "Characterization and greedy learning of interventional Markov equivalence classes of directed acyclic graphs",
+    "authors": [
+      "Alain Hauser",
+      "P. Bühlmann"
+    ],
+    "publication_date": "2011-04-14",
+    "venue": "Journal of machine learning research",
+    "semantic_scholar_id": "b6ce03429361c47f16d4678efa3217d9eee65b98",
+    "corpus_id": 16393667,
+    "category": "Computer Science, Mathematics"
+  },
+  "1207-1389": {
+    "title": "On the Number of Experiments Sufficient and in the Worst Case Necessary to Identify All Causal Relations Among N Variables",
+    "authors": [
+      "F. Eberhardt",
+      "C. Glymour",
+      "R. Scheines"
+    ],
+    "publication_date": "2005-07-26",
+    "venue": "Conference on Uncertainty in Artificial Intelligence",
+    "semantic_scholar_id": "ae2998fa2105ffae9fa38ee35e1d3b18a3bd0537",
+    "corpus_id": 8258063,
+    "category": "Computer Science, Mathematics"
+  }
+}

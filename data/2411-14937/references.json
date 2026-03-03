@@ -1,0 +1,485 @@
+{
+  "2410-21179": {
+    "title": "Harmless Backdoor-based Client-side Watermarking in Federated Learning",
+    "authors": [
+      "Kaijing Luo",
+      "Ka-Ho Chow"
+    ],
+    "publication_date": "2024-10-28",
+    "venue": "European Symposium on Security and Privacy",
+    "semantic_scholar_id": "54fc2a669726fd759b413d5cd389be60e8ab0951",
+    "corpus_id": 273653934,
+    "category": "Computer Science"
+  },
+  "2405-10376": {
+    "title": "Dealing Doubt: Unveiling Threat Models in Gradient Inversion Attacks under Federated Learning, A Survey and Taxonomy",
+    "authors": [
+      "Yichuan Shi",
+      "O. Kotevska",
+      "Viktor Reshniak",
+      "Abhishek Singh",
+      "Ramesh Raskar"
+    ],
+    "publication_date": "2024-05-16",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "1edf5024db0d652c6e487810bfbd8254c7e3c0d0",
+    "corpus_id": 269899860,
+    "category": "Computer Science"
+  },
+  "2404-09430": {
+    "title": "On the Efficiency of Privacy Attacks in Federated Learning",
+    "authors": [
+      "Nawrin Tabassum",
+      "Ka-Ho Chow",
+      "Xuyu Wang",
+      "Wenbin Zhang",
+      "Yanzhao Wu"
+    ],
+    "publication_date": "2024-04-15",
+    "venue": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "semantic_scholar_id": "9cdb9cd336c99d8220fa04de0a36f0dd7adcf4ca",
+    "corpus_id": 269149315,
+    "category": "Computer Science"
+  },
+  "2402-04013": {
+    "title": "Privacy Leakage on DNNs: A Survey of Model Inversion Attacks and Defenses",
+    "authors": [
+      "Hao Fang",
+      "Yixiang Qiu",
+      "Hongyao Yu",
+      "Wenbo Yu",
+      "Jiawei Kong",
+      "Baoli Chong",
+      "Bin Chen",
+      "Xuan Wang",
+      "Shutao Xia"
+    ],
+    "publication_date": "2024-02-06",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "45967a64fdc7a3e20f47b24297844b93b9f3e3d9",
+    "corpus_id": 267500182,
+    "category": "Computer Science"
+  },
+  "2401-01085": {
+    "title": "Imperio: Language-Guided Backdoor Attacks for Arbitrary Model Control",
+    "authors": [
+      "Ka-Ho Chow",
+      "Wenqi Wei",
+      "Lei Yu"
+    ],
+    "publication_date": "2024-01-02",
+    "venue": "International Joint Conference on Artificial Intelligence",
+    "semantic_scholar_id": "cbc206acb38bd042600d5ad91b0b3273fd3fde7b",
+    "corpus_id": 266725442,
+    "category": "Computer Science"
+  },
+  "2306-03013": {
+    "title": "Hiding in Plain Sight: Disguising Data Stealing Attacks in Federated Learning",
+    "authors": [
+      "Kostadin Garov",
+      "Dimitar I. Dimitrov",
+      "Nikola Jovanovi'c",
+      "Martin T. Vechev"
+    ],
+    "publication_date": "2023-06-05",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "e8a880e64cd07c7010a540ac37613fc271213409",
+    "corpus_id": 259075723,
+    "category": "Computer Science"
+  },
+  "2305-06473": {
+    "title": "Securing Distributed SGD Against Gradient Leakage Threats",
+    "authors": [
+      "Wenqi Wei",
+      "Ling Liu",
+      "Jingya Zhou",
+      "Ka-Ho Chow",
+      "Yanzhao Wu"
+    ],
+    "publication_date": "2023-05-10",
+    "venue": "IEEE Transactions on Parallel and Distributed Systems",
+    "semantic_scholar_id": "e89869bd6cb926f135b07d6574f46064a37c8006",
+    "corpus_id": 258540606,
+    "category": "Computer Science"
+  },
+  "2303-12233": {
+    "title": "Loki: Large-scale Data Reconstruction Attack against Federated Learning through Model Manipulation",
+    "authors": [
+      "Joshua C. Zhao",
+      "Atul Sharma",
+      "A. Elkordy",
+      "Yahya H. Ezzeldin",
+      "A. Avestimehr",
+      "S. Bagchi"
+    ],
+    "publication_date": "2023-03-21",
+    "venue": "IEEE Symposium on Security and Privacy",
+    "semantic_scholar_id": "1c141cccc2d6232486754796b55b6effab25ddac",
+    "corpus_id": 257663882,
+    "category": "Computer Science"
+  },
+  "2301-04017": {
+    "title": "Reconstructing Individual Data Points in Federated Learning Hardened with Differential Privacy and Secure Aggregation",
+    "authors": [
+      "Franziska Boenisch",
+      "Adam Dziedzic",
+      "R. Schuster",
+      "A. Shamsabadi",
+      "Ilia Shumailov",
+      "Nicolas Papernot"
+    ],
+    "publication_date": "2023-01-09",
+    "venue": "European Symposium on Security and Privacy",
+    "semantic_scholar_id": "ec0395f95ae917b2a831d216f2728fdf2b82d2fc",
+    "corpus_id": 258108044,
+    "category": "Computer Science"
+  },
+  "2206-07284": {
+    "title": "A Survey on Gradient Inversion: Attacks, Defenses and Future Directions",
+    "authors": [
+      "Rui Zhang",
+      "Song Guo",
+      "Junxiao Wang",
+      "Xin Xie",
+      "Dacheng Tao"
+    ],
+    "publication_date": "2022-06-15",
+    "venue": "International Joint Conference on Artificial Intelligence",
+    "semantic_scholar_id": "ef10e6a5ef05f4a76012669ca73d278e6df4d709",
+    "corpus_id": 249674534,
+    "category": "Computer Science"
+  },
+  "2203-11894": {
+    "title": "GradViT: Gradient Inversion of Vision Transformers",
+    "authors": [
+      "Ali Hatamizadeh",
+      "Hongxu Yin",
+      "H. Roth",
+      "Wenqi Li",
+      "Jan Kautz",
+      "Daguang Xu",
+      "Pavlo Molchanov"
+    ],
+    "publication_date": "2022-03-22",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "58eb2d747e102932989f2ad1fedda30854e24102",
+    "corpus_id": 247597146,
+    "category": "Computer Science"
+  },
+  "2202-00580": {
+    "title": "Fishing for User Data in Large-Batch Federated Learning via Gradient Magnification",
+    "authors": [
+      "Yuxin Wen",
+      "Jonas Geiping",
+      "Liam H. Fowl",
+      "Micah Goldblum",
+      "T. Goldstein"
+    ],
+    "publication_date": "2022-02-01",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "15f02cbec831f34d22fba7038a14802baf0d043d",
+    "corpus_id": 246441809,
+    "category": "Computer Science"
+  },
+  "2201-12086": {
+    "title": "BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation",
+    "authors": [
+      "Junnan Li",
+      "Dongxu Li",
+      "Caiming Xiong",
+      "S. Hoi"
+    ],
+    "publication_date": "2022-01-28",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "a3b42a83669998f65df60d7c065a70d07ca95e99",
+    "corpus_id": 246411402,
+    "category": "Computer Science"
+  },
+  "2112-02918": {
+    "title": "When the Curious Abandon Honesty: Federated Learning Is Not Private",
+    "authors": [
+      "Franziska Boenisch",
+      "Adam Dziedzic",
+      "R. Schuster",
+      "A. Shamsabadi",
+      "Ilia Shumailov",
+      "Nicolas Papernot"
+    ],
+    "publication_date": "2021-12-06",
+    "venue": "European Symposium on Security and Privacy",
+    "semantic_scholar_id": "580f363e891e3e1bf92c589453247e7d1f5278c7",
+    "corpus_id": 244908187,
+    "category": "Computer Science"
+  },
+  "2112-00059": {
+    "title": "Evaluating Gradient Inversion Attacks and Defenses in Federated Learning",
+    "authors": [
+      "Yangsibo Huang",
+      "Samyak Gupta",
+      "Zhao Song",
+      "Kai Li",
+      "Sanjeev Arora"
+    ],
+    "publication_date": "2021-11-30",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "98dabedfbab42072b2bc62282ab48eb6ff6026dc",
+    "corpus_id": 244773113,
+    "category": "Computer Science"
+  },
+  "2111-07494": {
+    "title": "Federated Learning for Internet of Things: Applications, Challenges, and Opportunities",
+    "authors": [
+      "Tuo Zhang",
+      "Lei Gao",
+      "Chaoyang He",
+      "Mi Zhang",
+      "B. Krishnamachari",
+      "S. Avestimehr"
+    ],
+    "publication_date": "2021-11-15",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "7722695bb364a294c5e93eedddef38769aea5eb9",
+    "corpus_id": 244117699,
+    "category": "Computer Science"
+  },
+  "2110-13057": {
+    "title": "Robbing the Fed: Directly Obtaining Private Data in Federated Learning with Modified Models",
+    "authors": [
+      "Liam H. Fowl",
+      "Jonas Geiping",
+      "W. Czaja",
+      "Micah Goldblum",
+      "T. Goldstein"
+    ],
+    "publication_date": "2021-10-25",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "1a9004ca6d1d5f18e3f2925c4ab1fbea5fb2fd68",
+    "corpus_id": 239769161,
+    "category": "Computer Science"
+  },
+  "2104-07586": {
+    "title": "See through Gradients: Image Batch Recovery via GradInversion",
+    "authors": [
+      "Hongxu Yin",
+      "Arun Mallya",
+      "Arash Vahdat",
+      "J. Álvarez",
+      "Jan Kautz",
+      "Pavlo Molchanov"
+    ],
+    "publication_date": "2021-04-15",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "0fd50e1483f761ba2bae44de54c5e8db6e35de5a",
+    "corpus_id": 233241017,
+    "category": "Computer Science"
+  },
+  "2104-00298": {
+    "title": "EfficientNetV2: Smaller Models and Faster Training",
+    "authors": [
+      "Mingxing Tan",
+      "Quoc V. Le"
+    ],
+    "publication_date": "2021-04-01",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "8f8f73f0f208302546c825ed474432389ed63be4",
+    "corpus_id": 232478903,
+    "category": "Computer Science"
+  },
+  "2103-06030": {
+    "title": "FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space",
+    "authors": [
+      "Quande Liu",
+      "Cheng Chen",
+      "J. Qin",
+      "Q. Dou",
+      "P. Heng"
+    ],
+    "publication_date": "2021-03-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "d6a6d8f56c5db24bfae7c614f21195dc0e89f4a8",
+    "corpus_id": 232170551,
+    "category": "Computer Science"
+  },
+  "2103-00020": {
+    "title": "Learning Transferable Visual Models From Natural Language Supervision",
+    "authors": [
+      "Alec Radford",
+      "Jong Wook Kim",
+      "Chris Hallacy",
+      "A. Ramesh",
+      "Gabriel Goh",
+      "Sandhini Agarwal",
+      "Girish Sastry",
+      "Amanda Askell",
+      "Pamela Mishkin",
+      "Jack Clark",
+      "Gretchen Krueger",
+      "I. Sutskever"
+    ],
+    "publication_date": "2021-02-26",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4",
+    "corpus_id": 231591445,
+    "category": "Computer Science"
+  },
+  "2010-11929": {
+    "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+    "authors": [
+      "Alexey Dosovitskiy",
+      "Lucas Beyer",
+      "Alexander Kolesnikov",
+      "Dirk Weissenborn",
+      "Xiaohua Zhai",
+      "Thomas Unterthiner",
+      "Mostafa Dehghani",
+      "M. Minderer",
+      "G. Heigold",
+      "S. Gelly",
+      "Jakob Uszkoreit",
+      "N. Houlsby"
+    ],
+    "publication_date": "2020-10-22",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "268d347e8a55b5eb82fb5e7d2f800e33c75ab18a",
+    "corpus_id": 225039882,
+    "category": "Computer Science"
+  },
+  "2003-14053": {
+    "title": "Inverting Gradients - How easy is it to break privacy in federated learning?",
+    "authors": [
+      "Jonas Geiping",
+      "Hartmut Bauermeister",
+      "Hannah Dröge",
+      "Michael Moeller"
+    ],
+    "publication_date": "2020-03-31",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "698ab1cc02a79596a87f92d5a0882ab1a7aee266",
+    "corpus_id": 214728347,
+    "category": "Computer Science"
+  },
+  "2001-02610": {
+    "title": "iDLG: Improved Deep Leakage from Gradients",
+    "authors": [
+      "Bo Zhao",
+      "Konda Reddy Mopuri",
+      "Hakan Bilen"
+    ],
+    "publication_date": "2020-01-08",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "0b5f443d9fae1d5cb90994025e0ce21ddc49c21c",
+    "corpus_id": 210064455,
+    "category": "Computer Science, Mathematics"
+  },
+  "1911-00222": {
+    "title": "Federated Learning With Differential Privacy: Algorithms and Performance Analysis",
+    "authors": [
+      "Kang Wei",
+      "Jun Li",
+      "Ming Ding",
+      "Chuan Ma",
+      "H. Yang",
+      "Farokhi Farhad",
+      "Shi Jin",
+      "Tony Q. S. Quek",
+      "H. Poor"
+    ],
+    "publication_date": "2019-11-01",
+    "venue": "IEEE Transactions on Information Forensics and Security",
+    "semantic_scholar_id": "afa778ba0ba6333e25671cfb691a4bdda13b2868",
+    "corpus_id": 207847853,
+    "category": "Computer Science, Mathematics"
+  },
+  "1906-08935": {
+    "title": "Deep Leakage from Gradients",
+    "authors": [
+      "Ligeng Zhu",
+      "Zhijian Liu",
+      "Song Han"
+    ],
+    "publication_date": "2019-06-01",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "5507d267bbf0b4cdb9f893c3c0960a45016f7010",
+    "corpus_id": 195316471,
+    "category": "Computer Science, Materials Science, Mathematics"
+  },
+  "1905-02244": {
+    "title": "Searching for MobileNetV3",
+    "authors": [
+      "Andrew G. Howard",
+      "M. Sandler",
+      "Grace Chu",
+      "Liang-Chieh Chen",
+      "Bo Chen",
+      "Mingxing Tan",
+      "Weijun Wang",
+      "Yukun Zhu",
+      "Ruoming Pang",
+      "Vijay Vasudevan",
+      "Quoc V. Le",
+      "Hartwig Adam"
+    ],
+    "publication_date": "2019-05-06",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "5e19eba1e6644f7c83f607383d256deea71f87ae",
+    "corpus_id": 146808333,
+    "category": "Computer Science"
+  },
+  "1801-03924": {
+    "title": "The Unreasonable Effectiveness of Deep Features as a Perceptual Metric",
+    "authors": [
+      "Richard Zhang",
+      "Phillip Isola",
+      "Alexei A. Efros",
+      "Eli Shechtman",
+      "Oliver Wang"
+    ],
+    "publication_date": "2018-01-11",
+    "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "c468bbde6a22d961829e1970e6ad5795e05418d1",
+    "corpus_id": 4766599,
+    "category": "Computer Science"
+  },
+  "1711-00489": {
+    "title": "Don't Decay the Learning Rate, Increase the Batch Size",
+    "authors": [
+      "Samuel L. Smith",
+      "Pieter-Jan Kindermans",
+      "Quoc V. Le"
+    ],
+    "publication_date": "2017-11-01",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "3299aee7a354877e43339d06abb967af2be8b872",
+    "corpus_id": 3516266,
+    "category": "Computer Science, Mathematics"
+  },
+  "1602-05629": {
+    "title": "Communication-Efficient Learning of Deep Networks from Decentralized Data",
+    "authors": [
+      "H. B. McMahan",
+      "Eider Moore",
+      "Daniel Ramage",
+      "S. Hampson",
+      "B. A. Y. Arcas"
+    ],
+    "publication_date": "2016-02-17",
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "semantic_scholar_id": "d1dbf643447405984eeef098b1b320dee0b3b8a7",
+    "corpus_id": 14955348,
+    "category": "Computer Science"
+  },
+  "1512-03385": {
+    "title": "Deep Residual Learning for Image Recognition",
+    "authors": [
+      "Kaiming He",
+      "X. Zhang",
+      "Shaoqing Ren",
+      "Jian Sun"
+    ],
+    "publication_date": "2015-12-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+    "corpus_id": 206594692,
+    "category": "Computer Science"
+  }
+}

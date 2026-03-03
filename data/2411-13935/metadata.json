@@ -1,0 +1,13 @@
+{
+  "title": "Fast Stochastic MPC using Affine Disturbance Feedback Gains Learned Offline",
+  "authors": [
+    "Hotae Lee",
+    "Francesco Borrelli"
+  ],
+  "summary": "We propose a novel Stochastic Model Predictive Control (MPC) for uncertain linear systems subject to probabilistic constraints. The proposed approach leverages offline learning to extract key features of affine disturbance feedback policies, significantly reducing the computational burden of online optimization. Specifically, we employ offline data-driven sampling to learn feature components of feedback gains and approximate the chance-constrained feasible set with a specified confidence level. By utilizing this learned information, the online MPC problem is simplified to optimization over nominal inputs and a reduced set of learned feedback gains, ensuring computational efficiency. In a numerical example, the proposed MPC approach achieves comparable control performance in terms of Region of Attraction (ROA) and average closed-loop costs to classical MPC optimizing over disturbance feedback policies, while delivering a 10-fold improvement in computational speed.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

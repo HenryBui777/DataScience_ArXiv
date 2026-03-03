@@ -1,0 +1,17 @@
+{
+  "title": "E-STGCN: Extreme Spatiotemporal Graph Convolutional Networks for Air Quality Forecasting",
+  "authors": [
+    "Madhurima Panja",
+    "Tanujit Chakraborty",
+    "Anubhab Biswas",
+    "Soudeep Deb"
+  ],
+  "summary": "Modeling and forecasting air quality is crucial for effective air pollution management and protecting public health. Air quality data, characterized by nonlinearity, nonstationarity, and spatiotemporal correlations, often include extreme pollutant levels in severely polluted cities (e.g., Delhi, the capital of India). This is ignored by various geometric deep learning models, such as Spatiotemporal Graph Convolutional Networks (STGCN), which are otherwise effective for spatiotemporal forecasting. This study develops an extreme value theory (EVT) guided modified STGCN model (E-STGCN) for air pollution data to incorporate extreme behavior across pollutant concentrations. E-STGCN combines graph convolutional networks for spatial modeling and EVT-guided long short-term memory units for temporal sequence learning. Along with spatial and temporal components, it incorporates a generalized Pareto distribution to capture the extreme behavior of different air pollutants and embed this information into the learning process. The proposal is then applied to analyze air pollution data of 37 monitoring stations across Delhi, India. The forecasting performance for different test horizons is compared to benchmark forecasters (both temporal and spatiotemporal). It is found that E-STGCN has consistent performance across all seasons. The robustness of our results has also been evaluated empirically. Moreover, combined with conformal prediction, E-STGCN can produce probabilistic prediction intervals.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-06-25"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.AP, stat.ME"
+}

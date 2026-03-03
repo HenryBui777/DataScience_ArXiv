@@ -1,0 +1,18 @@
+{
+  "title": "Quantum Advantage via Solving Multivariate Quadratics",
+  "authors": [
+    "Pierre Briaud",
+    "Riddhi Ghosal",
+    "Aayush Jain",
+    "Paul Lou",
+    "Amit Sahai"
+  ],
+  "summary": "In this work, we propose a new way to (non-interactively, verifiably) demonstrate Quantum Advantage by solving the average-case $\\mathsf{NP}$ search problem of finding a solution to a system of (underdetermined) multivariate quadratic equations over the finite field $\\mathbb{F}_2$ drawn from a specified distribution. In particular, we design a distribution of degree-2 polynomials $\\{p_i(x_1,\\ldots,x_n)\\}_{i\\in [m]}$ for $m<n$ over $\\mathbb{F}_2$ for which we show that there is a quantum polynomial-time algorithm that simultaneously solves $\\{p_i(x_1,\\ldots,x_n)=y_i\\}_{i\\in [m]}$ for a random vector $(y_1,\\ldots,y_m)$. On the other hand, while a solution exists with high probability, we conjecture that it is classically hard to find one based on classical cryptanalysis that we provide, including a comprehensive review of all known relevant classical algorithms for solving multivariate quadratics. Our approach proceeds by examining the Yamakawa-Zhandry (FOCS 2022) quantum advantage scheme and replacing the role of the random oracle with our multivariate quadratic equations. Our work therefore gives several new perspectives:\n  First, our algorithm gives a counterexample to the conventional belief that generic classically hard multivariate quadratic systems are also quantumly hard.\n  Second, based on cryptanalytic evidence, our work gives an explicit simple replacement for the random oracle from the work of Yamakawa and Zhandry. We show how to instantiate the random oracle with families of just degree two multivariate polynomials over $\\mathbb{F}_2$.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-11-27"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, cs.CR"
+}

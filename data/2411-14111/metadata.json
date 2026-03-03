@@ -1,0 +1,12 @@
+{
+  "title": "Stochastic processes on preferential attachment models",
+  "authors": [
+    "Rounak Ray"
+  ],
+  "summary": "In real life, networks are dynamic in nature; they grow over time and often exhibit power-law degree sequences. To model the evolving structure of the internet, Barabási and Albert introduced a simple dynamic model with a power-law degree distribution. This model has since been generalised, leading to a broad class of affine preferential attachment models, where each new vertex connects to existing vertices with a probability proportional to the current degree of the vertex. While numerous studies have explored the global and local properties of these random graphs, their dynamic nature and the dependencies in edge-connection probabilities have posed significant analytical challenges. The first part of this thesis identifies the local limit of preferential attachment models in considerable generality. The second part focuses on stochastic processes on preferential attachment models, introducing an additional layer of randomness to the random graphs. Examples of such processes include bond and site percolation, random walks, the Ising and Potts models, and Gaussian processes on random graphs. In this thesis, we specifically examine percolation and the Ising model, exploring these processes using the local limit identified earlier.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.PR"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Efficient Brain Imaging Analysis for Alzheimer's and Dementia Detection Using Convolution-Derivative Operations",
+  "authors": [
+    "Yasmine Mustafa",
+    "Mohamed Elmahallawy",
+    "Tie Luo"
+  ],
+  "summary": "Alzheimer's disease (AD) is characterized by progressive neurodegeneration and results in detrimental structural changes in human brains. Detecting these changes is crucial for early diagnosis and timely intervention of disease progression. Jacobian maps, derived from spatial normalization in voxel-based morphometry (VBM), have been instrumental in interpreting volume alterations associated with AD. However, the computational cost of generating Jacobian maps limits its clinical adoption. In this study, we explore alternative methods and propose Sobel kernel angle difference (SKAD) as a computationally efficient alternative. SKAD is a derivative operation that offers an optimized approach to quantifying volumetric alterations through localized analysis of the gradients. By efficiently extracting gradient amplitude changes at critical spatial regions, this derivative operation captures regional volume variations Evaluation of SKAD over various medical datasets demonstrates that it is 6.3x faster than Jacobian maps while still maintaining comparable accuracy. This makes it an efficient and competitive approach in neuroimaging research and clinical practice.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-22"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.CV, cs.NE, cs.PF"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Executable QR codes with Machine Learning for Industrial Applications",
+  "authors": [
+    "Stefano Scanzio",
+    "Francesco Velluto",
+    "Matteo Rosani",
+    "Lukasz Wisniewski",
+    "Gianluca Cena"
+  ],
+  "summary": "Executable QR codes, also known as eQR codes or just sQRy, are a special kind of QR codes that embed programs conceived to run on mobile devices like smartphones. Since the program is directly encoded in binary form within the QR code, it can be executed even when the reading device is not provided with Internet access. The applications of this technology are manifold, and range from smart user guides to advisory systems. The first programming language made available for eQR is QRtree, which enables the implementation of decision trees aimed, for example, at guiding the user in operating/maintaining a complex machinery or for reaching a specific location.\n  In this work, an additional language is proposed, we term QRind, which was specifically devised for Industry. It permits to integrate distinct computational blocks into the QR code, e.g., machine learning models to enable predictive maintenance and algorithms to ease machinery usage. QRind permits the Industry 4.0/5.0 paradigms to be implemented, in part, also in those cases where Internet is unavailable.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "29th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA 2024)",
+  "pdf_url": null,
+  "category": "cs.NI, cs.CL, cs.FL"
+}

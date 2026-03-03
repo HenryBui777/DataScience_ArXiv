@@ -1,0 +1,16 @@
+{
+  "title": "Uncovering the role of semantic and acoustic cues in normal and dichotic listening",
+  "authors": [
+    "Sai Samrat Kankanala",
+    "Akshara Soman",
+    "Sriram Ganapathy"
+  ],
+  "summary": "Speech comprehension is an involuntary task for the healthy human brain, yet the understanding of the mechanisms underlying this brain functionality remains obscure. In this paper, we aim to quantify the role of acoustic and semantic information streams in complex listening conditions. We propose a paradigm to understand the encoding of the speech cues in electroencephalogram (EEG) data, by designing a match-mismatch (MM) classification task. The MM task involves identifying whether the stimulus (speech) and response (EEG) correspond to each other. We build a multimodal deep-learning based sequence model STEM, which is input with acoustic stimulus (speech envelope), semantic stimulus (textual representations of speech), and the neural response (EEG data).\n  We perform extensive experiments on two separate conditions, i) natural passive listening and, ii) a dichotic listening requiring auditory attention. Using the MM task as the analysis framework, we observe that - a) speech perception is fragmented based on word boundaries, b) acoustic and semantic cues offer similar levels of MM task performance in natural listening conditions, and c) semantic cues offer significantly improved MM classification over acoustic cues in dichotic listening task. The comparison of the STEM with previously proposed MM models shows significant performance improvements for the proposed approach. The analysis and understanding from this study allows the quantification of the roles played by acoustic and semantic cues in diverse listening tasks and in providing further evidences of right-ear advantage in dichotic listening.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-07-30"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.AS, eess.SP"
+}

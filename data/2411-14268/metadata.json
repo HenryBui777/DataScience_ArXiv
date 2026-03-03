@@ -1,0 +1,15 @@
+{
+  "title": "Supercritical Tradeoffs for Monotone Circuits",
+  "authors": [
+    "Mika Göös",
+    "Gilbert Maystre",
+    "Kilian Risse",
+    "Dmitry Sokolov"
+  ],
+  "summary": "We exhibit a monotone function computable by a monotone circuit of quasipolynomial size such that any monotone circuit of polynomial depth requires exponential size. This is the first size-depth tradeoff result for monotone circuits in the so-called supercritical regime. Our proof is based on an analogous result in proof complexity: We introduce a new family of unsatisfiable 3-CNF formulas (called bracket formulas) that admit resolution refutations of quasipolynomial size while any refutation of polynomial depth requires exponential size.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CC"
+}

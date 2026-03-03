@@ -1,0 +1,17 @@
+{
+  "title": "Making Quantum Collision Models Exact",
+  "authors": [
+    "Thibaut Lacroix",
+    "Dario Cilluffo",
+    "Susana F. Huelga",
+    "Martin B. Plenio"
+  ],
+  "summary": "Quantum collision describe open quantum systems through repeated interactions with a coarse-grained environment. However, a complete certification of these models is lacking, as no complete error bounds on the simulation of system observables have been established. Here, we show that Markovian and non-Markovian collision models can be recovered analytically from chain mapping techniques starting from a general microscopic Hamiltonian. This derivation reveals a previously unidentified source of error -- induced by an unfaithful sampling of the environment -- in dynamics obtained with collision models that can become dominant for small but finite time-steps. With the complete characterization of this error, all collision models errors are now identified and quantified, which enables the promotion of collision models to the class of numerically exact methods. To confirm the predictions of our equivalence results, we implemented a non-Markovian collision model of the Spin Boson Model, and identified, as predicted, a regime in which the collision model is fundamentally inaccurate.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-28"
+  ],
+  "publication_venue": "Commun Phys 8, 268 (2025)",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

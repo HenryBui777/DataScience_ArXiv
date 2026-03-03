@@ -1,0 +1,533 @@
+{
+  "2305-05424": {
+    "title": "Echo from noise: synthetic ultrasound image generation using diffusion models for real image segmentation",
+    "authors": [
+      "D. Stojanovski",
+      "Uxio Hermida",
+      "P. Lamata",
+      "A. Beqiri",
+      "A. Gómez"
+    ],
+    "publication_date": "2023-05-09",
+    "venue": "ASMUS@MICCAI",
+    "semantic_scholar_id": "1283d0ff6ff1a1fcaf66cabce30703d675bd54d1",
+    "corpus_id": 258564584,
+    "category": "Medicine, Computer Science, Engineering"
+  },
+  "2304-14660": {
+    "title": "Segment Anything Model for Medical Images?",
+    "authors": [
+      "Yuhao Huang",
+      "Xin Yang",
+      "Lian Liu",
+      "Han Zhou",
+      "Ao Chang",
+      "Xinrui Zhou",
+      "Rusi Chen",
+      "Junxuan Yu",
+      "Jiongquan Chen",
+      "Chaoyu Chen",
+      "Haozhe Chi",
+      "Xindi Hu",
+      "Deng-Ping Fan",
+      "Fajin Dong",
+      "Dong Ni"
+    ],
+    "publication_date": "2023-04-28",
+    "venue": "Medical Image Anal.",
+    "semantic_scholar_id": "057ddecf9b9dedd35f824c8b289c30316b4fa22e",
+    "corpus_id": 277918624,
+    "category": "Computer Science, Engineering, Medicine"
+  },
+  "2304-12306": {
+    "title": "Segment anything in medical images",
+    "authors": [
+      "Jun Ma",
+      "Yuting He",
+      "Feifei Li",
+      "Li-Jun Han",
+      "Chenyu You",
+      "Bo Wang"
+    ],
+    "publication_date": "2023-04-24",
+    "venue": "Nature Communications",
+    "semantic_scholar_id": "9c3a827931fbd3cdb0620db3accd498548eb7bb2",
+    "corpus_id": 260431203,
+    "category": "Engineering, Computer Science, Medicine"
+  },
+  "2211-07804": {
+    "title": "Diffusion models in medical imaging: A comprehensive survey",
+    "authors": [
+      "A. Kazerouni",
+      "Ehsan Khodapanah Aghdam",
+      "Moein Heidari",
+      "Reza Azad",
+      "Mohsen Fayyaz",
+      "I. Hacihaliloglu",
+      "D. Merhof"
+    ],
+    "publication_date": "2022-11-14",
+    "venue": "Medical Image Anal.",
+    "semantic_scholar_id": "b57b8b6b8052bf2e7f6fe5c8e91cdcb385b75ab6",
+    "corpus_id": 253523207,
+    "category": "Engineering, Computer Science, Medicine"
+  },
+  "2209-12104": {
+    "title": "Conversion Between CT and MRI Images Using Diffusion and Score-Matching Models",
+    "authors": [
+      "Qing Lyu",
+      "Ge Wang"
+    ],
+    "publication_date": "2022-09-24",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "0a44ac19fdbd06e7c650b3d16a05c14dcde8f775",
+    "corpus_id": 252531992,
+    "category": "Computer Science, Engineering, Physics"
+  },
+  "2209-07162": {
+    "title": "Brain Imaging Generation with Latent Diffusion Models",
+    "authors": [
+      "W. H. Pinaya",
+      "Petru-Daniel Dan Tudosiu",
+      "Jessica Dafflon",
+      "P. F. D. Costa",
+      "Virginia Fernandez",
+      "P. Nachev",
+      "S. Ourselin",
+      "M. Cardoso"
+    ],
+    "publication_date": "2022-09-15",
+    "venue": "DGM4MICCAI@MICCAI",
+    "semantic_scholar_id": "e924a5cc4739f18fb225b7a8b506099042567ffa",
+    "corpus_id": 252280355,
+    "category": "Computer Science, Engineering, Biology"
+  },
+  "2207-13424": {
+    "title": "Efficient Pix2Vox++ for 3D Cardiac Reconstruction from 2D echo views",
+    "authors": [
+      "D. Stojanovski",
+      "Uxio Hermida",
+      "M. Muffoletto",
+      "P. Lamata",
+      "A. Beqiri",
+      "Alberto Gómez"
+    ],
+    "publication_date": "2022-07-27",
+    "venue": "ASMUS@MICCAI",
+    "semantic_scholar_id": "de8223056226b34ef48e4ce57c8403b394f9fa5a",
+    "corpus_id": 251104861,
+    "category": "Engineering, Computer Science, Medicine"
+  },
+  "2207-00050": {
+    "title": "Semantic Image Synthesis via Diffusion Models",
+    "authors": [
+      "Weilun Wang",
+      "Jianmin Bao",
+      "Wen-gang Zhou",
+      "Dongdong Chen",
+      "Dong Chen",
+      "Lu Yuan",
+      "Houqiang Li"
+    ],
+    "publication_date": "2022-06-30",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "e79614372e420f1211ab7afd0676af1a98b3d657",
+    "corpus_id": 250243831,
+    "category": "Computer Science"
+  },
+  "2203-10417": {
+    "title": "Attri-VAE: Attribute-based interpretable representations of medical images with variational autoencoders",
+    "authors": [
+      "Irem Cetin",
+      "Maialen Stephens",
+      "O. Camara",
+      "M. Ballester"
+    ],
+    "publication_date": "2022-03-20",
+    "venue": "Comput. Medical Imaging Graph.",
+    "semantic_scholar_id": "8742c0cbc564dd3cc6b0bd7ce654f5a8737a3683",
+    "corpus_id": 254524805,
+    "category": "Computer Science, Medicine, Engineering"
+  },
+  "2111-05826": {
+    "title": "Palette: Image-to-Image Diffusion Models",
+    "authors": [
+      "Chitwan Saharia",
+      "William Chan",
+      "Huiwen Chang",
+      "Chris A. Lee",
+      "Jonathan Ho",
+      "Tim Salimans",
+      "David J. Fleet",
+      "Mohammad Norouzi"
+    ],
+    "publication_date": "2021-11-10",
+    "venue": "International Conference on Computer Graphics and Interactive Techniques",
+    "semantic_scholar_id": "37c9c4e7648f639c0b36f150fc6c6c90b3682f4a",
+    "corpus_id": 243938678,
+    "category": "Computer Science"
+  },
+  "2106-05735": {
+    "title": "The Medical Segmentation Decathlon",
+    "authors": [
+      "M. Antonelli",
+      "Annika Reinke",
+      "S. Bakas",
+      "K. Farahani",
+      "AnnetteKopp-Schneider",
+      "B. Landman",
+      "G. Litjens",
+      "Bjoern H Menze",
+      "O. Ronneberger",
+      "Ronald M.Summers",
+      "B. Ginneken",
+      "M. Bilello",
+      "Patrick Bilic",
+      "P. Christ",
+      "R. Do",
+      "M. Gollub",
+      "S. Heckers",
+      "H. Huisman",
+      "W. Jarnagin",
+      "M. McHugo",
+      "S. Napel",
+      "Jennifer S. Goli Pernicka",
+      "K. Rhode",
+      "C. Tobon-Gomez",
+      "Eugene Vorontsov",
+      "J. Meakin",
+      "S. Ourselin",
+      "M. Wiesenfarth",
+      "P. Arbeláez",
+      "Byeonguk Bae",
+      "Sihong Chen",
+      "L. Daza",
+      "Jian-Jun Feng",
+      "Baochun He",
+      "Fabian Isensee",
+      "Yuanfeng Ji",
+      "F. Jia",
+      "Namkug Kim",
+      "Ildoo Kim",
+      "D. Merhof",
+      "A. Pai",
+      "Beomhee Park",
+      "Mathias Perslev",
+      "R. Rezaiifar",
+      "Oliver Rippel",
+      "Ignacio Sarasua",
+      "Wei Shen",
+      "Jaemin Son",
+      "C. Wachinger",
+      "Liansheng Wang",
+      "Yan Wang",
+      "Yingda Xia",
+      "Daguang Xu",
+      "Zhanwei Xu",
+      "Yefeng Zheng",
+      "Amber L. Simpson",
+      "L. Maier-Hein",
+      "M. Cardoso"
+    ],
+    "publication_date": "2021-06-10",
+    "venue": "Nature Communications",
+    "semantic_scholar_id": "979a9f247700d00ff2c3f0612d5eb001379f93c8",
+    "corpus_id": 235390655,
+    "category": "Medicine, Computer Science, Engineering"
+  },
+  "2104-07636": {
+    "title": "Image Super-Resolution via Iterative Refinement",
+    "authors": [
+      "Chitwan Saharia",
+      "Jonathan Ho",
+      "William Chan",
+      "Tim Salimans",
+      "David J. Fleet",
+      "Mohammad Norouzi"
+    ],
+    "publication_date": "2021-04-15",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "bc7e6165b00f0c39d40ca2c7a4eb33fcc0e3200d",
+    "corpus_id": 233241040,
+    "category": "Engineering, Computer Science, Medicine"
+  },
+  "2102-02738": {
+    "title": "SIMUS: An open-source simulator for medical ultrasound imaging. Part I: Theory & examples",
+    "authors": [
+      "Damien Garcia"
+    ],
+    "publication_date": "2021-02-04",
+    "venue": "Comput. Methods Programs Biomed.",
+    "semantic_scholar_id": "d16bfa8c7aa409b47f0e0f8a0b96705e5f8950ea",
+    "corpus_id": 247280932,
+    "category": "Computer Science, Medicine, Physics, Engineering"
+  },
+  "2009-02704": {
+    "title": "Deep Learning for Automatic Spleen Length Measurement in Sickle Cell Disease Patients",
+    "authors": [
+      "Z. Yuan",
+      "E. Puyol-Antón",
+      "Haran Jogeesvaran",
+      "C. Reid",
+      "B. Inusa",
+      "A. King"
+    ],
+    "publication_date": "2020-09-06",
+    "venue": "ASMUS/PIPPI@MICCAI",
+    "semantic_scholar_id": "539c30d9c49125f10b7bc162d755940cbc635d7a",
+    "corpus_id": 221516752,
+    "category": "Computer Science, Engineering, Biology, Medicine"
+  },
+  "2006-13811": {
+    "title": "Interpretable Deep Models for Cardiac Resynchronisation Therapy Response Prediction",
+    "authors": [
+      "Esther Puyol-Ant'on",
+      "Chen Chen",
+      "J. Clough",
+      "B. Ruijsink",
+      "B. Sidhu",
+      "J. Gould",
+      "B. Porter",
+      "M. Elliott",
+      "Vishal S. Mehta",
+      "D. Rueckert",
+      "C. Rinaldi",
+      "A. King"
+    ],
+    "publication_date": "2020-06-24",
+    "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+    "semantic_scholar_id": "49ad926220f64567bf2e750c18a980ec49065fd1",
+    "corpus_id": 220042182,
+    "category": "Computer Science, Medicine, Engineering"
+  },
+  "2006-12250": {
+    "title": "Pix2Vox++: Multi-scale Context-aware 3D Object Reconstruction from Single and Multiple Images",
+    "authors": [
+      "Haozhe Xie",
+      "H. Yao",
+      "Shengping Zhang",
+      "Shangchen Zhou",
+      "Wenxiu Sun"
+    ],
+    "publication_date": "2020-06-22",
+    "venue": "International Journal of Computer Vision",
+    "semantic_scholar_id": "38b744afa7aab4e2bc969ea876c9535c7e48500d",
+    "corpus_id": 219966494,
+    "category": "Computer Science"
+  },
+  "2006-11239": {
+    "title": "Denoising Diffusion Probabilistic Models",
+    "authors": [
+      "Jonathan Ho",
+      "Ajay Jain",
+      "P. Abbeel"
+    ],
+    "publication_date": "2020-06-19",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "5c126ae3421f05768d8edd97ecd44b1364e2c99a",
+    "corpus_id": 219955663,
+    "category": "Computer Science, Mathematics"
+  },
+  "2005-00065": {
+    "title": "Generative Adversarial Networks (GANs)",
+    "authors": [
+      "Divya Saxena",
+      "Jiannong Cao"
+    ],
+    "publication_date": "2020-04-30",
+    "venue": "ACM Computing Surveys",
+    "semantic_scholar_id": "05ba96cc8ce02f065fc5bdf74e7907f5e13a9b03",
+    "corpus_id": 218470071,
+    "category": "Computer Science, Engineering, Mathematics"
+  },
+  "1908-04538": {
+    "title": "Assessing the Impact of Blood Pressure on Cardiac Function Using Interpretable Biomarkers and Variational Autoencoders",
+    "authors": [
+      "E. Puyol-Antón",
+      "B. Ruijsink",
+      "J. Clough",
+      "Ilkay Öksüz",
+      "D. Rueckert",
+      "R. Razavi",
+      "A. King"
+    ],
+    "publication_date": "2019-08-13",
+    "venue": "STACOM@MICCAI",
+    "semantic_scholar_id": "f021f287dfec9876635a41a510b9767d3368f767",
+    "corpus_id": 199552062,
+    "category": "Computer Science, Medicine, Engineering, Mathematics"
+  },
+  "1906-06188": {
+    "title": "Global and Local Interpretability for Cardiac MRI Classification",
+    "authors": [
+      "J. Clough",
+      "Ilkay Öksüz",
+      "E. Puyol-Antón",
+      "B. Ruijsink",
+      "A. King",
+      "J. Schnabel"
+    ],
+    "publication_date": "2019-06-14",
+    "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+    "semantic_scholar_id": "17c7b5c66663236cfd97d1234cbf6f3ceb352786",
+    "corpus_id": 189897776,
+    "category": "Engineering, Computer Science"
+  },
+  "1904-05948": {
+    "title": "Variational AutoEncoder For Regression: Application to Brain Aging Analysis",
+    "authors": [
+      "Qingyu Zhao",
+      "E. Adeli",
+      "N. Honnorat",
+      "Tuo Leng",
+      "K. Pohl"
+    ],
+    "publication_date": "2019-04-11",
+    "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+    "semantic_scholar_id": "f423a144fb2a5cf8a43812af76ad09fb3800363c",
+    "corpus_id": 119303448,
+    "category": "Computer Science, Medicine, Mathematics"
+  },
+  "1903-03374": {
+    "title": "Unsupervised Medical Image Translation Using Cycle-MedGAN",
+    "authors": [
+      "Karim Armanious",
+      "Chenming Jiang",
+      "Sherif Abdulatif",
+      "T. Küstner",
+      "S. Gatidis",
+      "Bin Yang"
+    ],
+    "publication_date": "2019-03-08",
+    "venue": "European Signal Processing Conference",
+    "semantic_scholar_id": "d8b25a0d02b323208d408dca197568667009ab7a",
+    "corpus_id": 72940886,
+    "category": "Computer Science"
+  },
+  "1811-04045": {
+    "title": "Splenomegaly Segmentation on Multi-Modal MRI Using Deep Convolutional Networks",
+    "authors": [
+      "Yuankai Huo",
+      "Zhoubing Xu",
+      "Shunxing Bao",
+      "Camilo Bermudez",
+      "Hyeonsoo Moon",
+      "P. Parvathaneni",
+      "T. Moyo",
+      "M. Savona",
+      "A. Assad",
+      "R. Abramson",
+      "B. Landman"
+    ],
+    "publication_date": "2018-11-09",
+    "venue": "IEEE Transactions on Medical Imaging",
+    "semantic_scholar_id": "e6437fe75b4998066844583d59ddd48599535e25",
+    "corpus_id": 53249717,
+    "category": "Computer Science, Medicine"
+  },
+  "1807-06843": {
+    "title": "Learning Interpretable Anatomical Features Through Deep Generative Models: Application to Cardiac Remodeling",
+    "authors": [
+      "C. Biffi",
+      "O. Oktay",
+      "G. Tarroni",
+      "Wenjia Bai",
+      "A. Marvao",
+      "Georgia Doumou",
+      "Martin Rajchl",
+      "R. Bedair",
+      "S. Prasad",
+      "S. Cook",
+      "D. O’Regan",
+      "D. Rueckert"
+    ],
+    "publication_date": "2018-07-18",
+    "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+    "semantic_scholar_id": "cec80995235d38e0bc2af8bdf614f2998d78d2df",
+    "corpus_id": 49862143,
+    "category": "Computer Science"
+  },
+  "1801-04406": {
+    "title": "Which Training Methods for GANs do actually Converge?",
+    "authors": [
+      "L. Mescheder",
+      "Andreas Geiger",
+      "Sebastian Nowozin"
+    ],
+    "publication_date": "2018-01-13",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "6b4ca249b3b28d3fee65f69714440c08d42cee64",
+    "corpus_id": 3345317,
+    "category": "Computer Science"
+  },
+  "1702-03833": {
+    "title": "Estimation of the Volume of the Left Ventricle From MRI Images Using Deep Neural Networks",
+    "authors": [
+      "Fangzhou Liao",
+      "Xi Chen",
+      "Xiaolin Hu",
+      "Sen Song"
+    ],
+    "publication_date": "2017-02-13",
+    "venue": "IEEE Transactions on Cybernetics",
+    "semantic_scholar_id": "c40f6d9a15e45c9321e9bd0ace821d55f21ddd0f",
+    "corpus_id": 6412071,
+    "category": "Medicine, Computer Science"
+  },
+  "1608-06993": {
+    "title": "Densely Connected Convolutional Networks",
+    "authors": [
+      "Gao Huang",
+      "Zhuang Liu",
+      "Kilian Q. Weinberger"
+    ],
+    "publication_date": "2016-08-25",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "5694e46284460a648fe29117cbc55f6c9be3fa3c",
+    "corpus_id": 9433631,
+    "category": "Computer Science"
+  },
+  "1512-03385": {
+    "title": "Deep Residual Learning for Image Recognition",
+    "authors": [
+      "Kaiming He",
+      "X. Zhang",
+      "Shaoqing Ren",
+      "Jian Sun"
+    ],
+    "publication_date": "2015-12-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+    "corpus_id": 206594692,
+    "category": "Computer Science"
+  },
+  "1506-06448": {
+    "title": "DeepOrgan: Multi-level Deep Convolutional Networks for Automated Pancreas Segmentation",
+    "authors": [
+      "H. Roth",
+      "Le Lu",
+      "A. Farag",
+      "Hoo-Chang Shin",
+      "Jiamin Liu",
+      "E. Turkbey",
+      "R. Summers"
+    ],
+    "publication_date": "2015-06-22",
+    "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+    "semantic_scholar_id": "ca29aaab1ecdd80120b80a405ecec530ec4d63a8",
+    "corpus_id": 5776545,
+    "category": "Computer Science"
+  },
+  "1409-1556": {
+    "title": "Very Deep Convolutional Networks for Large-Scale Image Recognition",
+    "authors": [
+      "K. Simonyan",
+      "Andrew Zisserman"
+    ],
+    "publication_date": "2014-09-04",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "eb42cf88027de515750f230b23b1a057dc782108",
+    "corpus_id": 14124313,
+    "category": "Computer Science"
+  }
+}

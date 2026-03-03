@@ -1,0 +1,14 @@
+{
+  "title": "An exploration of the effect of quantisation on energy consumption and inference time of StarCoder2",
+  "authors": [
+    "Pepijn de Reus",
+    "Ana Oprescu",
+    "Jelle Zuidema"
+  ],
+  "summary": "This study examines quantisation and pruning strategies to reduce energy consumption in code Large Language Models (LLMs) inference. Using StarCoder2, we observe increased energy demands with quantization due to lower throughput and some accuracy losses. Conversely, pruning reduces energy usage but impairs performance. The results highlight challenges and trade-offs in LLM model compression. We suggest future work on hardware-optimized quantization to enhance efficiency with minimal loss in accuracy.",
+  "submission_date": "2024-11-15",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.AI, cs.SE"
+}

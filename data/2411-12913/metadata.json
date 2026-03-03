@@ -1,0 +1,17 @@
+{
+  "title": "MLDGG: Meta-Learning for Domain Generalization on Graphs",
+  "authors": [
+    "Qin Tian",
+    "Chen Zhao",
+    "Minglai Shao",
+    "Wenjun Wang",
+    "Yujie Lin",
+    "Dong Li"
+  ],
+  "summary": "Domain generalization on graphs aims to develop models with robust generalization capabilities, ensuring effective performance on the testing set despite disparities between testing and training distributions. However, existing methods often rely on static encoders directly applied to the target domain, constraining its flexible adaptability. In contrast to conventional methodologies, which concentrate on developing specific generalized models, our framework, MLDGG, endeavors to achieve adaptable generalization across diverse domains by integrating cross-multi-domain meta-learning with structure learning and semantic identification. Initially, it introduces a generalized structure learner to mitigate the adverse effects of task-unrelated edges, enhancing the comprehensiveness of representations learned by Graph Neural Networks (GNNs) while capturing shared structural information across domains. Subsequently, a representation learner is designed to disentangle domain-invariant semantic and domain-specific variation information in node embedding by leveraging causal reasoning for semantic identification, further enhancing generalization. In the context of meta-learning, meta-parameters for both learners are optimized to facilitate knowledge transfer and enable effective adaptation to graphs through fine-tuning within the target domains, where target graphs are inaccessible during training. Our empirical results demonstrate that MLDGG surpasses baseline methods, showcasing its effectiveness in three different distribution shift settings.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "An Internet Voting System Fatally Flawed in Creative New Ways",
+  "authors": [
+    "Andrew W. Appel",
+    "Philip B. Stark"
+  ],
+  "summary": "The recently published \"MERGE\" protocol is designed to be used in the prototype CAC-vote system. The voting kiosk and protocol transmit votes over the internet and then transmit voter-verifiable paper ballots through the mail. In the MERGE protocol, the votes transmitted over the internet are used to tabulate the results and determine the winners, but audits and recounts use the paper ballots that arrive in time. The enunciated motivation for the protocol is to allow (electronic) votes from overseas military voters to be included in preliminary results before a (paper) ballot is received from the voter. MERGE contains interesting ideas that are not inherently unsound; but to make the system trustworthy--to apply the MERGE protocol--would require major changes to the laws, practices, and technical and logistical abilities of U.S. election jurisdictions. The gap between theory and practice is large and unbridgeable for the foreseeable future. Promoters of this research project at DARPA, the agency that sponsored the research, should acknowledge that MERGE is internet voting (election results rely on votes transmitted over the internet except in the event of a full hand count) and refrain from claiming that it could be a component of trustworthy elections without sweeping changes to election law and election administration throughout the U.S.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR, cs.CY"
+}

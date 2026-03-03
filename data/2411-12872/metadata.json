@@ -1,0 +1,19 @@
+{
+  "title": "From Text to Pose to Image: Improving Diffusion Model Control and Quality",
+  "authors": [
+    "Clément Bonnet",
+    "Ariel N. Lee",
+    "Franck Wertel",
+    "Antoine Tamano",
+    "Tanguy Cizain",
+    "Pablo Ducru"
+  ],
+  "summary": "In the last two years, text-to-image diffusion models have become extremely popular. As their quality and usage increase, a major concern has been the need for better output control. In addition to prompt engineering, one effective method to improve the controllability of diffusion models has been to condition them on additional modalities such as image style, depth map, or keypoints. This forms the basis of ControlNets or Adapters. When attempting to apply these methods to control human poses in outputs of text-to-image diffusion models, two main challenges have arisen. The first challenge is generating poses following a wide range of semantic text descriptions, for which previous methods involved searching for a pose within a dataset of (caption, pose) pairs. The second challenge is conditioning image generation on a specified pose while keeping both high aesthetic and high pose fidelity. In this article, we fix these two main issues by introducing a text-to-pose (T2P) generative model alongside a new sampling algorithm, and a new pose adapter that incorporates more pose keypoints for higher pose fidelity. Together, these two new state-of-the-art models enable, for the first time, a generative text-to-pose-to-image framework for higher pose control in diffusion models. We release all models and the code used for the experiments at https://github.com/clement-bonnet/text-to-pose.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-22"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI, cs.LG"
+}

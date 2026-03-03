@@ -1,0 +1,17 @@
+{
+  "title": "Regularity for Weak Solutions to First-Order Local Mean Field Games",
+  "authors": [
+    "Abdulrahman Alharbi",
+    "Diogo Gomes",
+    "Giuseppe Di Fazio",
+    "Melih Ucer"
+  ],
+  "summary": "We establish interior regularity results for first-order, stationary, local mean-field game (MFG) systems. Specifically, we study solutions of the coupled system consisting of a Hamilton-Jacobi-Bellman equation $H(x, Du, m) = 0$ and a transport equation $-\\operatorname{div}(m D_pH(x, Du, m)) = 0$ in a domain $Ω\\subset \\mathbb{R}^d$. Under suitable structural assumptions on the Hamiltonian $H$, without requiring monotonicity of the system, convexity of the Hamiltonian, separability in variables, or smoothness beyond basic continuity in $(p,m)$, we introduce a notion of weak solutions that allows the application of techniques from elliptic regularity theory. Our main contribution is to prove that the value function $u$ is locally Hölder continuous in $Ω$. The proof leverages the connection between first-order MFG systems and quasilinear equations in divergence form, adapting classical techniques to handle the specific structure of MFG systems.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [
+    "2025-06-02"
+  ],
+  "publication_venue": "Nonlinear Differential Equations and Applications, 2025",
+  "pdf_url": null,
+  "category": "math.AP"
+}

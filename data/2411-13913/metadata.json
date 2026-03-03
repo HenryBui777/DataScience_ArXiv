@@ -1,0 +1,18 @@
+{
+  "title": "Generalizing subdiffusive Black-Scholes model by variable exponent: Model transformation and numerical approximation",
+  "authors": [
+    "Meihui Zhang",
+    "Yaxue Liu",
+    "Mengmeng Liu",
+    "Wenlin Qiu",
+    "Xiangcheng Zheng"
+  ],
+  "summary": "This work generalizes the subdiffusive Black-Scholes model by introducing the variable exponent in order to provide adequate descriptions for the option pricing, where the variable exponent may account for the variation of the memory property. In addition to standard nonlinear-to-linear transformation, we apply a further spatial-temporal transformation to convert the model to a more tractable form in order to circumvent the difficulties caused by the ``non-positive, non-monotonic'' variable-exponent memory kernel. An interesting phenomenon is that the spatial transformation not only eliminates the advection term but naturally turns the original noncoercive spatial operator into a coercive one due to the specific structure of the Black-Scholes model, which thus avoids imposing constraints on coefficients. Then we perform numerical analysis for both the semi-discrete and fully discrete schemes to support numerical simulation. Numerical experiments are carried out to substantiate the theoretical results.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-10-21"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

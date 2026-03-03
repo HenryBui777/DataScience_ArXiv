@@ -1,0 +1,18 @@
+{
+  "title": "Continuous K-space Recovery Network with Image Guidance for Fast MRI Reconstruction",
+  "authors": [
+    "Yucong Meng",
+    "Zhiwei Yang",
+    "Minghong Duan",
+    "Yonghong Shi",
+    "Zhijian Song"
+  ],
+  "summary": "Magnetic resonance imaging (MRI) is a crucial tool for clinical diagnosis while facing the challenge of long scanning time. To reduce the acquisition time, fast MRI reconstruction aims to restore high-quality images from the undersampled k-space. Existing methods typically train deep learning models to map the undersampled data to artifact-free MRI images. However, these studies often overlook the unique properties of k-space and directly apply general networks designed for image processing to k-space recovery, leaving the precise learning of k-space largely underexplored. In this work, we propose a continuous k-space recovery network from a new perspective of implicit neural representation with image domain guidance, which boosts the performance of MRI reconstruction. Specifically, (1) an implicit neural representation based encoder-decoder structure is customized to continuously query unsampled k-values. (2) an image guidance module is designed to mine the semantic information from the low-quality MRI images to further guide the k-space recovery. (3) a multi-stage training strategy is proposed to recover dense k-space progressively. Extensive experiments conducted on CC359, fastMRI, and IXI datasets demonstrate the effectiveness of our method and its superiority over other competitors.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-03-13"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.AI, cs.CV"
+}

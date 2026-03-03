@@ -1,0 +1,14 @@
+{
+  "title": "Transmission Line Outage Probability Prediction Under Extreme Events Using Peter-Clark Bayesian Structural Learning",
+  "authors": [
+    "Xiaolin Chen",
+    "Qiuhua Huang",
+    "Yuqi Zhou"
+  ],
+  "summary": "Recent years have seen a notable increase in the frequency and intensity of extreme weather events. With a rising number of power outages caused by these events, accurate prediction of power line outages is essential for safe and reliable operation of power grids. The Bayesian network is a probabilistic model that is very effective for predicting line outages under weather-related uncertainties. However, most existing studies in this area offer general risk assessments, but fall short of providing specific outage probabilities. In this work, we introduce a novel approach for predicting transmission line outage probabilities using a Bayesian network combined with Peter-Clark (PC) structural learning. Our approach not only enables precise outage probability calculations, but also demonstrates better scalability and robust performance, even with limited data. Case studies using data from BPA and NOAA show the effectiveness of this approach, while comparisons with several existing methods further highlight its advantages.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, eess.SY"
+}

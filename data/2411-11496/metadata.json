@@ -1,0 +1,22 @@
+{
+  "title": "Safe + Safe = Unsafe? Exploring How Safe Images Can Be Exploited to Jailbreak Large Vision-Language Models",
+  "authors": [
+    "Chenhang Cui",
+    "Gelei Deng",
+    "An Zhang",
+    "Jingnan Zheng",
+    "Yicong Li",
+    "Lianli Gao",
+    "Tianwei Zhang",
+    "Tat-Seng Chua"
+  ],
+  "summary": "Recent advances in Large Vision-Language Models (LVLMs) have showcased strong reasoning abilities across multiple modalities, achieving significant breakthroughs in various real-world applications. Despite this great success, the safety guardrail of LVLMs may not cover the unforeseen domains introduced by the visual modality. Existing studies primarily focus on eliciting LVLMs to generate harmful responses via carefully crafted image-based jailbreaks designed to bypass alignment defenses. In this study, we reveal that a safe image can be exploited to achieve the same jailbreak consequence when combined with additional safe images and prompts. This stems from two fundamental properties of LVLMs: universal reasoning capabilities and safety snowball effect. Building on these insights, we propose Safety Snowball Agent (SSA), a novel agent-based framework leveraging agents' autonomous and tool-using abilities to jailbreak LVLMs. SSA operates through two principal stages: (1) initial response generation, where tools generate or retrieve jailbreak images based on potential harmful intents, and (2) harmful snowballing, where refined subsequent prompts induce progressively harmful outputs. Our experiments demonstrate that \\ours can use nearly any image to induce LVLMs to produce unsafe content, achieving high success jailbreaking rates against the latest LVLMs. Unlike prior works that exploit alignment flaws, \\ours leverages the inherent properties of LVLMs, presenting a profound challenge for enforcing safety in generative multimodal systems. Our code is avaliable at \\url{https://github.com/gzcch/Safety_Snowball_Agent}.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-19",
+    "2024-11-28"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL"
+}

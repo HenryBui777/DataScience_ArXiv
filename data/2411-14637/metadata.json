@@ -1,0 +1,17 @@
+{
+  "title": "Enhancing Clinical Trial Patient Matching through Knowledge Augmentation and Reasoning with Multi-Agent",
+  "authors": [
+    "Hanwen Shi",
+    "Jin Zhang",
+    "Kunpeng Zhang"
+  ],
+  "summary": "Matching patients effectively and efficiently for clinical trials is a significant challenge due to the complexity and variability of patient profiles and trial criteria. This paper introduces \\textbf{Multi-Agent for Knowledge Augmentation and Reasoning (MAKAR)}, a novel multi-agent system that enhances patient-trial matching by integrating criterion augmentation with structured reasoning. MAKAR consistently improves performance by an average of 7\\% across different datasets. Furthermore, it enables privacy-preserving deployment and maintains competitive performance when using smaller open-source models. Overall, MAKAR can contributes to more transparent, accurate, and privacy-conscious AI-driven patient matching.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-02-11",
+    "2025-07-05"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.MA"
+}

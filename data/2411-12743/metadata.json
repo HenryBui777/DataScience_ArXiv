@@ -1,0 +1,13 @@
+{
+  "title": "Elastic Shape Registration of Surfaces in 3D Space with Gradient Descent and Dynamic Programming",
+  "authors": [
+    "Javier Bernal",
+    "Jim Lawrence"
+  ],
+  "summary": "Algorithms based on gradient descent for computing the elastic shape registration of two simple surfaces in 3-dimensional space and therefore the elastic shape distance between them have been proposed by Kurtek, Jermyn, et al., and more recently by Riseth. Their algorithms are designed to minimize a distance function between the surfaces by rotating and reparametrizing one of the surfaces, the minimization for reparametrizing based on a gradient descent approach that may terminate at a local solution. On the other hand, Bernal and Lawrence have proposed a similar algorithm, the minimization for reparametrizing based on dynamic programming thus producing a partial not necessarily optimal elastic shape registration of the surfaces. Accordingly, Bernal and Lawrence have proposed to use the rotation and reparametrization computed with their algorithm as the initial solution to any algorithm based on a gradient descent approach for reparametrizing. Here we present results from doing exactly that. We also describe and justify the gradient descent approach that is used for reparametrizing one of the surfaces.",
+  "submission_date": "2024-10-18",
+  "revised_dates": [],
+  "publication_venue": "2024 NIST Technical Note 2310",
+  "pdf_url": null,
+  "category": "cs.GR"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Finding One's Bearings in the Hyperparameter Landscape of a Wide-Kernel Convolutional Fault Detector",
+  "authors": [
+    "Dan Hudson",
+    "Jurgen van den Hoogen",
+    "Martin Atzmueller"
+  ],
+  "summary": "State-of-the-art algorithms are reported to be almost perfect at distinguishing the vibrations arising from healthy and damaged machine bearings, according to benchmark datasets at least. However, what about their application to new data? In this paper, we confirm that neural networks for bearing fault detection can be crippled by incorrect hyperparameterisation, and also that the correct hyperparameter settings can change when transitioning to new data. The paper combines multiple methods to explain the behaviour of the hyperparameters of a wide-kernel convolutional neural network and how to set them. Since guidance already exists for generic hyperparameters like minibatch size, we focus on how to set architecture-specific hyperparameters such as the width of the convolutional kernels, a topic which might otherwise be obscure. We reflect different data properties by fusing information from seven different benchmark datasets, and our results show that the kernel size in the first layer in particular is sensitive to changes in the data. Looking deeper, we use manipulated copies of one dataset in an attempt to spot why the kernel size sometimes needs to change. The relevance of sampling rate is studied by using different levels of resampling, and spectral content is studied by increasingly filtering out high frequencies. We find that, contrary to speculation in earlier work, high-frequency noise is not the main reason why a wide kernel is preferable to a narrow kernel. Finally, we conclude by stating clear guidance on how to set the hyperparameters of our neural network architecture to work effectively on new data.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-05-16"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI, eess.SP"
+}

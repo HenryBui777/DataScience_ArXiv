@@ -1,0 +1,24 @@
+{
+  "title": "Natural Language Reinforcement Learning",
+  "authors": [
+    "Xidong Feng",
+    "Bo Liu",
+    "Yan Song",
+    "Haotian Fu",
+    "Ziyu Wan",
+    "Girish A. Koushik",
+    "Zhiyuan Hu",
+    "Mengyue Yang",
+    "Ying Wen",
+    "Jun Wang"
+  ],
+  "summary": "Artificial intelligence progresses towards the \"Era of Experience,\" where agents are expected to learn from continuous, grounded interaction. We argue that traditional Reinforcement Learning (RL), which typically represents value as a scalar, can restrict agent's deep understanding of environments and hinders the active, deliberative learning crucial for navigating this new paradigm. To address the issue, we introduce Natural Language Reinforcement Learning (NLRL), a framework that extends RL principles into natural language counterparts. Central to NLRL is the Language Value Function (LVF), which redefines value as an interpretable linguistic narrative articulating the rationale behind an evaluation. NLRL further extends this concept to core RL components, including policy, the Bellman equation, and policy iteration. Leveraging recent advancements in Large Language Models (LLMs), NLRL can be practically implemented to achieve RL-like policy and value training through unsupervised environment interactions. Experiments over 4 multi-step agentic tasks demonstrate NLRL's effectiveness, efficiency, and its potential to foster deeper understanding and more active learning strategies.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-05-15",
+    "2025-05-28"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI, cs.CL"
+}

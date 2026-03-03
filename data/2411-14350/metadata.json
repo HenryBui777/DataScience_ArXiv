@@ -1,0 +1,16 @@
+{
+  "title": "Randomized Geodesic Flow on Hyperbolic Groups",
+  "authors": [
+    "Luzie Kupffer",
+    "Mahan Mj",
+    "Chiranjib Mukherjee"
+  ],
+  "summary": "Motivated by Gromov's geodesic flow problem on hyperbolic groups $G$, we develop in this paper an analog using random walks. This leads to a notion of a harmonic analog $Θ$ of the Bowen-Margulis-Sullivan measure on $\\partial^2 G$. We provide three different but related constructions of $Θ$: 1) by moving the base-point along a quasigeodesic ray 2) by moving the base-point along random walk trajectories 3) directly as a push-forward under the boundary map to $\\partial^2 G$ of a measure inherited from studying all bi-infinite random walk trajectories (with no restriction on base-point) on $G^{\\mathbb{Z}}$.\n  Of these, the third construction is the most involved and needs new techniques. It relies on developing a framework where we can treat bi-infinite random walk trajectories as analogs of bi-infinite geodesics on complete simply connected negatively curved manifolds. Geodesic flow on a hyperbolic group is typically not well-defined due to non-uniqueness of geodesics. We circumvent this problem in the random walk setup by considering \\emph{all} trajectories. We thus get a well-defined \\emph{discrete flow} given by the $\\mathbb{Z}-$shift on bi-infinite random walk trajectories. The $\\mathbb{Z}-$shift is the random analog of the time one map of the geodesic flow. As an analog of ergodicity of the geodesic flow on a closed negatively curved manifold, we establish ergodicity of the $G$-action on $(\\partial^2G, Θ)$.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-12-10"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.PR, math.DS, math.GR, math.GT"
+}

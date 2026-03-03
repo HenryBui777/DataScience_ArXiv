@@ -1,0 +1,13 @@
+{
+  "title": "Feasibility Study for Supporting Static Malware Analysis Using LLM",
+  "authors": [
+    "Shota Fujii",
+    "Rei Yamagishi"
+  ],
+  "summary": "Large language models (LLMs) are becoming more advanced and widespread and have shown their applicability to various domains, including cybersecurity. Static malware analysis is one of the most important tasks in cybersecurity; however, it is time-consuming and requires a high level of expertise. Therefore, we conducted a demonstration experiment focusing on whether an LLM can be used to support static analysis. First, we evaluated the ability of the LLM to explain malware functionality. The results showed that the LLM can generate descriptions that cover functions with an accuracy of up to 90.9\\%. In addition, we asked six static analysts to perform a pseudo static analysis task using LLM explanations to verify that the LLM can be used in practice. Through subsequent questionnaires and interviews with the participants, we also demonstrated the practical applicability of LLMs. Lastly, we summarized the problems and required functions when using an LLM as static analysis support, as well as recommendations for future research opportunities.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Treatment Effect Estimators as Weighted Outcomes",
+  "authors": [
+    "Michael C. Knaus"
+  ],
+  "summary": "Estimators that weight observed outcomes to form effect estimates have a long tradition. Their outcome weights are widely used in established procedures, such as checking covariate balance, characterizing target populations, or detecting and managing extreme weights. This paper introduces a general framework for deriving such outcome weights. It establishes when and how numerical equivalence between an original estimator representation as moment condition and a unique weighted representation can be obtained. The framework is applied to derive novel outcome weights for the six seminal instances of double machine learning and generalized random forests, while recovering existing results for other estimators as special cases. The analysis highlights that implementation choices determine (i) the availability of outcome weights and (ii) their properties. Notably, standard implementations of partially linear regression-based estimators, like causal forests, employ outcome weights that do not sum to (minus) one in the (un)treated group, not fulfilling a property often considered desirable.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-12-12"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "econ.EM"
+}

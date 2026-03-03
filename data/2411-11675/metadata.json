@@ -1,0 +1,15 @@
+{
+  "title": "Nonparametric Bayesian approach for dynamic borrowing of historical control data",
+  "authors": [
+    "Tomohiro Ohigashi",
+    "Kazushi Maruo",
+    "Takashi Sozu",
+    "Masahiko Gosho"
+  ],
+  "summary": "When incorporating historical control data into the analysis of current randomized controlled trial data, it is critical to account for differences between the datasets. When the cause of the difference is an unmeasured factor and adjustment for observed covariates only is insufficient, it is desirable to use a dynamic borrowing method that reduces the impact of heterogeneous historical controls. We propose a nonparametric Bayesian approach for borrowing historical controls that are homogeneous with the current control. Additionally, to emphasize the resolution of conflicts between the historical controls and current control, we introduce a method based on the dependent Dirichlet process mixture. The proposed methods can be implemented using the same procedure, regardless of whether the outcome data comprise aggregated study-level data or individual participant data. We also develop a novel index of similarity between the historical and current control data, based on the posterior distribution of the parameter of interest. We conduct a simulation study and analyze clinical trial examples to evaluate the performance of the proposed methods compared to existing methods. The proposed method based on the dependent Dirichlet process mixture can more accurately borrow from homogeneous historical controls while reducing the impact of heterogeneous historical controls compared to the typical Dirichlet process mixture. The proposed methods outperform existing methods in scenarios with heterogeneous historical controls, in which the meta-analytic approach is ineffective.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME"
+}

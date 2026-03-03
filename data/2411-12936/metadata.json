@@ -1,0 +1,15 @@
+{
+  "title": "Statistical inference for mean-field queueing systems",
+  "authors": [
+    "Ioannis Lambadaris",
+    "Ahmed Sid-Ali",
+    "Wei Sun",
+    "Yiqiang Q. Zhao"
+  ],
+  "summary": "Mean-field limits have been used now as a standard tool in approximations, including for networks with a large number of nodes. Statistical inference on mean-filed models has attracted more attention recently mainly due to the rapid emergence of data-driven systems. However, studies reported in the literature have been mainly limited to continuous models. In this paper, we initiate a study of statistical inference on discrete mean-field models (or jump processes) in terms of a well-known and extensively studied model, known as the power-of-L, or the supermarket model, to demonstrate how to deal with new challenges in discrete models. We focus on system parameter estimation based on the observations of system states at discrete time epochs over a finite period. We show that by harnessing the weak convergence results developed for the supermarket model in the literature, an asymptotic inference scheme based on an approximate least squares estimation can be obtained from the mean-field limiting equation. Also, by leveraging the law of large numbers alongside the central limit theorem, the consistency of the estimator and its asymptotic normality can be established when the number of servers and the number of observations go to infinity. Moreover, numerical results for the power-of-two model are provided to show the efficiency and accuracy of the proposed estimator.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.ST, math.PR"
+}

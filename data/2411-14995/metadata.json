@@ -1,0 +1,17 @@
+{
+  "title": "Learning Lifted STRIPS Models from Action Traces Alone: A Simple, General, and Scalable Solution",
+  "authors": [
+    "Jonas Gösgens",
+    "Niklas Jansen",
+    "Hector Geffner"
+  ],
+  "summary": "Learning STRIPS action models from action traces alone is a challenging problem as it involves learning the domain predicates as well. In this work, a novel approach is introduced which, like the well-known LOCM systems, is scalable, but like SAT approaches, is sound and complete. Furthermore, the approach is general and imposes no restrictions on the hidden domain or the number or arity of the predicates. The new learning method is based on an \\emph{efficient, novel test} that checks whether the assumption that a predicate is affected by a set of action patterns, namely, actions with specific argument positions, is consistent with the traces. The predicates and action patterns that pass the test provide the basis for the learned domain that is then easily completed with preconditions and static predicates. The new method is studied theoretically and experimentally. For the latter, the method is evaluated on traces and graphs obtained from standard classical domains like the 8-puzzle, which involve hundreds of thousands of states and transitions. The learned representations are then verified on larger instances.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-05-02",
+    "2025-07-16"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AI"
+}

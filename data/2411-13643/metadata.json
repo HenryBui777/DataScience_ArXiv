@@ -1,0 +1,18 @@
+{
+  "title": "Emergent disorder and sub-ballistic dynamics in quantum simulations of the Ising model using Rydberg atom arrays",
+  "authors": [
+    "Ceren B. Dag",
+    "Hanzhen Ma",
+    "P. Myles Eugenio",
+    "Fang Fang",
+    "Susanne F. Yelin"
+  ],
+  "summary": "Rydberg atom arrays with Van der Waals interactions provide a controllable path to simulate the locally connected transverse-field Ising model (TFIM), a prototypical model in statistical mechanics. Remotely operating the publicly accessible Aquila Rydberg atom array, we experimentally investigate the physics of TFIM far from equilibrium and uncover significant deviations from the theoretical predictions. Rather than the expected ballistic spread of correlations, the Rydberg simulator exhibits a subballistic spread, along with a logarithmic scaling of entanglement entropy in time - all while the system mostly retains its initial magnetization. By modeling the atom motion, we trace these effects to an emergent disorder in Rydberg atom arrays, which we characterize with a minimal random spin model. We further experimentally explore the different dynamical regimes hosted in the system by varying the lattice spacing and the Rabi frequency. Our findings highlight the crucial role of atom motion in the many-body dynamics of Rydberg atom arrays at the TFIM limit, and propose simple benchmark measurements to test for its presence in future experiments.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-09-03"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, cond-mat.quant-gas, cond-mat.stat-mech"
+}

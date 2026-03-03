@@ -1,0 +1,16 @@
+{
+  "title": "BeautyBank: Encoding Facial Makeup in Latent Space",
+  "authors": [
+    "Qianwen Lu",
+    "Xingchao Yang",
+    "Takafumi Taketomi"
+  ],
+  "summary": "The advancement of makeup transfer, editing, and image encoding has demonstrated their effectiveness and superior quality. However, existing makeup works primarily focus on low-dimensional features such as color distributions and patterns, limiting their versatillity across a wide range of makeup applications. Futhermore, existing high-dimensional latent encoding methods mainly target global features such as structure and style, and are less effective for tasks that require detailed attention to local color and pattern features of makeup. To overcome these limitations, we propose BeautyBank, a novel makeup encoder that disentangles pattern features of bare and makeup faces. Our method encodes makeup features into a high-dimensional space, preserving essential details necessary for makeup reconstruction and broadening the scope of potential makeup research applications. We also propose a Progressive Makeup Tuning (PMT) strategy, specifically designed to enhance the preservation of detailed makeup features while preventing the inclusion of irrelevant attributes. We further explore novel makeup applications, including facial image generation with makeup injection and makeup similarity measure. Extensive empirical experiments validate that our method offers superior task adaptability and holds significant potential for widespread application in various makeup-related fields. Furthermore, to address the lack of large-scale, high-quality paired makeup datasets in the field, we constructed the Bare-Makeup Synthesis Dataset (BMS), comprising 324,000 pairs of 512x512 pixel images of bare and makeup-enhanced faces.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-24"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "An extension of Petek-Šemrl preserver theorems for Jordan embeddings of structural matrix algebras",
+  "authors": [
+    "Ilja Gogić",
+    "Mateo Tomašević"
+  ],
+  "summary": "Let $M_n$ be the algebra of $n \\times n$ complex matrices and $\\mathcal{T}_n \\subseteq M_n$ the corresponding upper-triangular subalgebra. In their influential work, Petek and Šemrl characterize Jordan automorphisms of $M_n$ and $\\mathcal{T}_n$, when $n \\geq 3$, as (injective in the case of $\\mathcal{T}_n$) continuous commutativity and spectrum preserving maps $φ: M_n \\to M_n$ and $φ: \\mathcal{T}_n \\to \\mathcal{T}_n$. Recently, in a joint work with Petek, the authors extended this characterization to the maps $φ: \\mathcal{A} \\to M_n$, where $\\mathcal{A}$ is an arbitrary subalgebra of $M_n$ that contains $\\mathcal{T}_n$. In particular, any such map $φ$ is a Jordan embedding and hence of the form $φ(X)=TXT^{-1}$ or $φ(X)=TX^tT^{-1}$, for some invertible matrix $T\\in M_n$. In this paper we further extend the aforementioned results in the context of structural matrix algebras (SMAs), i.e. subalgebras $\\mathcal{A}$ of $M_n$ that contain all diagonal matrices. More precisely, we provide both a necessary and sufficient condition for an SMA $\\mathcal{A}\\subseteq M_n$ such that any injective continuous commutativity and spectrum preserving map $φ: \\mathcal{A} \\to M_n$ is necessarily a Jordan embedding. In contrast to the previous cases, such maps $φ$ no longer need to be multiplicative/antimultiplicative, nor rank-one preservers.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [
+    "2025-01-26",
+    "2025-03-18"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.RA"
+}

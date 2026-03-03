@@ -1,0 +1,14 @@
+{
+  "title": "Reinforcement Learning, Collusion, and the Folk Theorem",
+  "authors": [
+    "Galit Askenazi-Golan",
+    "Domenico Mergoni Cecchelli",
+    "Edward Plumb"
+  ],
+  "summary": "We explore the behaviour emerging from learning agents repeatedly interacting strategically for a wide range of learning dynamics that includes projected gradient, replicator and log-barrier dynamics. Going beyond the better-understood classes of potential games and zero-sum games, we consider the setting of a general repeated game with finite recall, for different forms of monitoring. We obtain a Folk Theorem-like result and characterise the set of payoff vectors that can be obtained by these dynamics, discovering a wide range of possibilities for the emergence of algorithmic collusion.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.GT, econ.TH, stat.ML"
+}

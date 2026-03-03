@@ -1,0 +1,19 @@
+{
+  "title": "Relational Contrastive Learning and Masked Image Modeling for Scene Text Recognition",
+  "authors": [
+    "Tiancheng Lin",
+    "Jinglei Zhang",
+    "Yi Xu",
+    "Kai Chen",
+    "Rui Zhang",
+    "Chang-Wen Chen"
+  ],
+  "summary": "Context-aware methods have achieved remarkable advancements in supervised scene text recognition by leveraging semantic priors from words. Considering the heterogeneity of text and background in STR, we propose that such contextual priors can be reinterpreted as the relations between textual elements, serving as effective self-supervised labels for representation learning. However, textual relations are restricted to the finite size of the dataset due to lexical dependencies, which causes over-fitting problem, thus compromising the representation quality. To address this, our work introduces a unified framework of Relational Contrastive Learning and Masked Image Modeling for STR (RCMSTR), which explicitly models the enriched textual relations. For the RCL branch, we first introduce the relational rearrangement module to cultivate new relations on the fly. Based on this, we further conduct relational contrastive learning to model the intra- and inter-hierarchical relations for frames, sub-words and words. On the other hand, MIM can naturally boost the context information via masking, where we find that the block masking strategy is more effective for STR. For the effective integration of RCL and MIM, we also introduce a novel decoupling design aimed at mitigating the impact of masked images on contrastive learning. Additionally, to enhance the compatibility of MIM with CNNs, we propose the adoption of sparse convolutions and directly sharing the weights with dense convolutions in training. The proposed RCMSTR demonstrates superior performance in various evaluation protocols for different STR-related downstream tasks, outperforming the existing state-of-the-art self-supervised STR techniques. Ablation studies and qualitative experimental results further validate the effectiveness of our method. The code and pre-trained models will be available at https://github.com/ThunderVVV/RCMSTR .",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-19"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

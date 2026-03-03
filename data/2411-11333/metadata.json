@@ -1,0 +1,13 @@
+{
+  "title": "The blow-up dynamics for the divergence Schrödinger equations with inhomogeneous nonlinearity",
+  "authors": [
+    "Bowen Zheng",
+    "Tohru Ozawa"
+  ],
+  "summary": "This paper is dedicated to the blow-up solution for the divergence Schrödinger equations with inhomogeneous nonlinearity (dINLS for short) \\[i\\partial_tu+\\nabla\\cdot(|x|^b\\nabla u)=-|x|^c|u|^pu,\\quad\\quad u(x,0)=u_0(x),\\] where $2-n<b<2$, $c>b-2$, and $np-2c<(2-b)(p+2)$. First, for radial blow-up solutions in $W_b^{1,2}$, we prove an upper bound on the blow-up rate for the intercritical dNLS. Moreover, an $L^2$-norm concentration in the mass-critical case is also obtained by giving a compact lemma. Next, we turn to the non-radial case. By establishing two types of Gagliardo-Nirenberg inequalities, we show the existence of finite time blow-up solutions in $\\dot{H}^{s_c}\\cap \\dot{W}^{1,2}_b$, where $\\dot{H}^{s_c}=(-Δ)^{-\\frac{s_c}{2}}L^2$, and $\\dot{W}_b^{1,2}=|x|^{-\\frac{b}{2}}(-Δ)^{-\\frac{1}{2}}L^2$. As an application, we obtain a lower bound for this blow-up rate, generalizing the work of Merle and Raphaël [Amer. J. Math. 130(4) (2008), pp. 945-978] for the classical NLS equations to the dINLS setting.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AP"
+}

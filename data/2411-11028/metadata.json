@@ -1,0 +1,19 @@
+{
+  "title": "Rate Splitting Multiple Access for RIS-aided URLLC MIMO Broadcast Channels",
+  "authors": [
+    "Mohammad Soleymani",
+    "Ignacio Santamaria",
+    "Eduard Jorswieck",
+    "Marco Di Renzo",
+    "Robert Schober",
+    "Lajos Hanzo"
+  ],
+  "summary": "The performance of modern wireless communication systems is typically limited by interference. The impact of interference can be even more severe in ultra-reliable and low-latency communication (URLLC) use cases. A powerful tool for managing interference is rate splitting multiple access (RSMA), which encompasses many multiple-access technologies like non-orthogonal multiple access (NOMA), spatial division multiple access (SDMA), and broadcasting. Another effective technology to enhance the performance of URLLC systems and mitigate interference is constituted by reconfigurable intelligent surfaces (RISs). This paper develops RSMA schemes for multi-user multiple-input multiple-output (MIMO) RIS-aided broadcast channels (BCs) based on finite block length (FBL) coding. We show that RSMA and RISs can substantially improve the spectral efficiency (SE) and energy efficiency (EE) of MIMO RIS-aided URLLC systems. Additionally, the gain of employing RSMA and RISs noticeably increases when the reliability and latency constraints are more stringent. Furthermore, RISs impact RSMA differently, depending on the user load. If the system is underloaded, RISs are able to manage the interference sufficiently well, making the gains of RSMA small. However, when the user load is high, RISs and RSMA become synergetic.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [
+    "2025-07-17"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP"
+}

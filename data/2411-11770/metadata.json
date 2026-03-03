@@ -1,0 +1,17 @@
+{
+  "title": "CNMBERT: A Model for Converting Hanyu Pinyin Abbreviations to Chinese Characters",
+  "authors": [
+    "Zishuo Feng",
+    "Feng Cao"
+  ],
+  "summary": "The task of converting Hanyu Pinyin abbreviations to Chinese characters is a significant branch within the domain of Chinese Spelling Correction (CSC). It plays an important role in many downstream applications such as named entity recognition and sentiment analysis. This task typically involves text-length alignment and seems easy to solve; however, due to the limited information content in pinyin abbreviations, achieving accurate conversion is challenging. In this paper, we treat this as a fill-mask task and propose CNMBERT, which stands for zh-CN Pinyin Multi-mask BERT Model, as a solution to this issue. By introducing a multi-mask strategy and Mixture of Experts (MoE) layers, CNMBERT outperforms fine-tuned GPT models and ChatGPT-4o with a 61.53% MRR score and 51.86% accuracy on a 10,373-sample test dataset.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-12-07",
+    "2025-01-06",
+    "2025-01-28"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.AI"
+}

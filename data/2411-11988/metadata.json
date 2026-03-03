@@ -1,0 +1,15 @@
+{
+  "title": "MixPI: Mixed-Time Slicing Path Integral Software for Quantized Molecular Dynamics Simulations",
+  "authors": [
+    "Britta A. Johnson",
+    "Siyu Bu",
+    "Christopher J. Mundy",
+    "Nandini Ananth"
+  ],
+  "summary": "Path Integral Molecular Dynamics (PIMD) is a well established simulation technique to compute exact equilibrium properties for a quantum system using classical trajectories in an extended phase space. Standard PIMD simulations are numerically converged by systematically increasing the number of classical 'beads' or replicas used to represent each particle in the quantum system. Currently available scientific software for PIMD simulations leverage the massively parallel (with respect to number of beads) nature of the classical PIMD Hamiltonian. For particularly high-dimensional systems, contraction schemes designed to reduce the overall number of beads per particle required to achieve numerical convergence are also frequently employed. However, these implementations all rely on using the same number of beads to represent all atoms/particles, and become inefficient in systems with a large number of atoms where only a handful contribute significant quantum effects. Mixed time slicing (mixTS) offers an alternate path to efficient PIMD simulations by providing a framework where numerical convergence can be achieved with different numbers of beads for different types of atoms. Unfortunately, mixTS is not available in existing PIMD software. In this paper, we introduce MixPI for atomistic mixTS-PIMD simulations within the open-source software package CP2K. We demonstrate the use of MixPI in two different benchmark systems: we explore the use of mixTS in computing radial distributions functions for water, and in a more significant demonstration, for a solvated Co2+ ion represented as a classical Co3+ ion in water with an explicit, quantized 1024-bead electron localized on the metal ion.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.chem-ph"
+}

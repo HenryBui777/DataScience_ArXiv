@@ -1,0 +1,18 @@
+{
+  "title": "AssertLLM: Generating Hardware Verification Assertions from Design Specifications via Multi-LLMs",
+  "authors": [
+    "Zhiyuan Yan",
+    "Wenji Fang",
+    "Mengming Li",
+    "Min Li",
+    "Shang Liu",
+    "Zhiyao Xie",
+    "Hongce Zhang"
+  ],
+  "summary": "Assertion-based verification (ABV) is a critical method to ensure logic designs comply with their architectural specifications. ABV requires assertions, which are generally converted from specifications through human interpretation by verification engineers. Existing methods for generating assertions from specification documents are limited to sentences extracted by engineers, discouraging their practical applications. In this work, we present AssertLLM, an automatic assertion generation framework that processes complete specification documents. AssertLLM can generate assertions from both natural language and waveform diagrams in specification files. It first converts unstructured specification sentences and waveforms into structured descriptions using natural language templates. Then, a customized Large Language Model (LLM) generates the final assertions based on these descriptions. Our evaluation demonstrates that AssertLLM can generate more accurate and higher-quality assertions compared to GPT-4o and GPT-3.5.",
+  "submission_date": "2024-11-04",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AR"
+}

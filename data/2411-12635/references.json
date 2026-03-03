@@ -1,0 +1,425 @@
+{
+  "2407-08083": {
+    "title": "MambaVision: A Hybrid Mamba-Transformer Vision Backbone",
+    "authors": [
+      "Ali Hatamizadeh",
+      "Jan Kautz"
+    ],
+    "publication_date": "2024-07-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "e8dceb26166721014b8ecbd11fd212739c18d315",
+    "corpus_id": 271097462,
+    "category": "Computer Science"
+  },
+  "2405-20343": {
+    "title": "Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image",
+    "authors": [
+      "Kailu Wu",
+      "Fangfu Liu",
+      "Zhihan Cai",
+      "Runjie Yan",
+      "Hanyang Wang",
+      "Yating Hu",
+      "Yueqi Duan",
+      "Kaisheng Ma"
+    ],
+    "publication_date": "2024-05-30",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "dac2d86182abcc25ad66ec1a73646ca06087772f",
+    "corpus_id": 270123803,
+    "category": "Computer Science"
+  },
+  "2404-07191": {
+    "title": "InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models",
+    "authors": [
+      "Jiale Xu",
+      "Weihao Cheng",
+      "Yiming Gao",
+      "Xintao Wang",
+      "Shenghua Gao",
+      "Ying Shan"
+    ],
+    "publication_date": "2024-04-10",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "34276d30da30285f4ad348848ec746457730899a",
+    "corpus_id": 269033473,
+    "category": "Computer Science"
+  },
+  "2403-05034": {
+    "title": "CRM: Single Image to 3D Textured Mesh with Convolutional Reconstruction Model",
+    "authors": [
+      "Zhengyi Wang",
+      "Yikai Wang",
+      "Yifei Chen",
+      "Chendong Xiang",
+      "Shuo Chen",
+      "Dajiang Yu",
+      "Chongxuan Li",
+      "Hang Su",
+      "Jun Zhu"
+    ],
+    "publication_date": "2024-03-08",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "2177967931f395f88faa630019e3cd9b1831ffc1",
+    "corpus_id": 268297409,
+    "category": "Computer Science"
+  },
+  "2401-10891": {
+    "title": "Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data",
+    "authors": [
+      "Lihe Yang",
+      "Bingyi Kang",
+      "Zilong Huang",
+      "Xiaogang Xu",
+      "Jiashi Feng",
+      "Hengshuang Zhao"
+    ],
+    "publication_date": "2024-01-19",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "afea54c7f17f4fac0f71bebed6bc782ed69d8bd0",
+    "corpus_id": 267061016,
+    "category": "Computer Science"
+  },
+  "2312-09147": {
+    "title": "Triplane Meets Gaussian Splatting: Fast and Generalizable Single-View 3D Reconstruction with Transformers",
+    "authors": [
+      "Zi-Xin Zou",
+      "Zhipeng Yu",
+      "Yuanchen Guo",
+      "Yangguang Li",
+      "Ding Liang",
+      "Yan-Pei Cao",
+      "Song-Hai Zhang"
+    ],
+    "publication_date": "2023-12-14",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "536dcef9e5f22bb694bb154120050bfed07f8e90",
+    "corpus_id": 266209913,
+    "category": "Computer Science"
+  },
+  "2312-07920": {
+    "title": "DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes",
+    "authors": [
+      "Xiaoyu Zhou",
+      "Zhiwei Lin",
+      "Xiaojun Shan",
+      "Yongtao Wang",
+      "Deqing Sun",
+      "Ming-Hsuan Yang"
+    ],
+    "publication_date": "2023-12-13",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "95d3b6d595e0510edb535a5071c48240d4bb950a",
+    "corpus_id": 266191747,
+    "category": "Computer Science"
+  },
+  "2312-02145": {
+    "title": "Repurposing Diffusion-Based Image Generators for Monocular Depth Estimation",
+    "authors": [
+      "Bingxin Ke",
+      "Anton Obukhov",
+      "Shengyu Huang",
+      "Nando Metzger",
+      "R. C. Daudt",
+      "Konrad Schindler"
+    ],
+    "publication_date": "2023-12-04",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "c896257eea2cb25dc36dfc4d0d1f8812e68c8ce3",
+    "corpus_id": 265609019,
+    "category": "Computer Science"
+  },
+  "2311-00457": {
+    "title": "Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture",
+    "authors": [
+      "Yixin Chen",
+      "Junfeng Ni",
+      "Nan Jiang",
+      "Yaowei Zhang",
+      "Yixin Zhu",
+      "Siyuan Huang"
+    ],
+    "publication_date": "2023-11-01",
+    "venue": "International Conference on 3D Vision",
+    "semantic_scholar_id": "d21f82a1eb94a74ce0447fb3e0d015d05127c273",
+    "corpus_id": 264833593,
+    "category": "Computer Science"
+  },
+  "2310-15008": {
+    "title": "Wonder3D: Single Image to 3D Using Cross-Domain Diffusion",
+    "authors": [
+      "Xiaoxiao Long",
+      "Yuanchen Guo",
+      "Cheng Lin",
+      "Yuan Liu",
+      "Zhiyang Dou",
+      "Lingjie Liu",
+      "Yuexin Ma",
+      "Song-Hai Zhang",
+      "Marc Habermann",
+      "C. Theobalt",
+      "Wenping Wang"
+    ],
+    "publication_date": "2023-10-23",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "d2c5565a039f464b778e0f2263da418ef42e98b0",
+    "corpus_id": 264436465,
+    "category": "Computer Science"
+  },
+  "2207-08656": {
+    "title": "Towards High-Fidelity Single-view Holistic Reconstruction of Indoor Scenes",
+    "authors": [
+      "Haolin Liu",
+      "Yujian Zheng",
+      "Guanying Chen",
+      "Shuguang Cui",
+      "Xiaoguang Han"
+    ],
+    "publication_date": "2022-07-18",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "2d85b29ee105674011ac84d3df99146fff78c436",
+    "corpus_id": 250627520,
+    "category": "Computer Science"
+  },
+  "2110-08861": {
+    "title": "3D-RETR: End-to-End Single and Multi-View 3D Reconstruction with Transformers",
+    "authors": [
+      "Z. Shi",
+      "Zhao Meng",
+      "Yiran Xing",
+      "Yunpu Ma",
+      "R. Wattenhofer"
+    ],
+    "publication_date": "2021-10-17",
+    "venue": "British Machine Vision Conference",
+    "semantic_scholar_id": "c0ee6988c7e03581339d515b83f59b1587b93789",
+    "corpus_id": 239016137,
+    "category": "Computer Science"
+  },
+  "2103-06422": {
+    "title": "Holistic 3D Scene Understanding from a Single Image with Implicit Representation",
+    "authors": [
+      "Cheng Zhang",
+      "Zhaopeng Cui",
+      "Yinda Zhang",
+      "B. Zeng",
+      "M. Pollefeys",
+      "Shuaicheng Liu"
+    ],
+    "publication_date": "2021-03-11",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "fd2ab44a6f8a60507e8c86efc1225353466493c0",
+    "corpus_id": 232185507,
+    "category": "Computer Science"
+  },
+  "2011-09127": {
+    "title": "3D-FRONT: 3D Furnished Rooms with layOuts and semaNTics",
+    "authors": [
+      "Huan Fu",
+      "Bowen Cai",
+      "Lin Gao",
+      "Ling-Xiao Zhang",
+      "Cao Li",
+      "Zengqi Xun",
+      "Chengyue Sun",
+      "Yiyun Fei",
+      "Yu-qiong Zheng",
+      "Ying Li",
+      "Yi Liu",
+      "Peng Liu",
+      "Lin Ma",
+      "Le Weng",
+      "Xiaohang Hu",
+      "Xin Ma",
+      "Qian Qian",
+      "Rongfei Jia",
+      "Binqiang Zhao",
+      "H. Zhang"
+    ],
+    "publication_date": "2020-11-18",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "ffd87206430e4d7657a77d8eff484d335ac4056c",
+    "corpus_id": 227013144,
+    "category": "Computer Science"
+  },
+  "2002-12212": {
+    "title": "Total3DUnderstanding: Joint Layout, Object Pose and Mesh Reconstruction for Indoor Scenes From a Single Image",
+    "authors": [
+      "Y. Nie",
+      "Xiaoguang Han",
+      "Shihui Guo",
+      "Yujian Zheng",
+      "Jian Chang",
+      "Jianjun Zhang"
+    ],
+    "publication_date": "2020-02-27",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "7ce415ae8539305c2839ca42169bf8aba917b33d",
+    "corpus_id": 211532831,
+    "category": "Computer Science"
+  },
+  "1905-03678": {
+    "title": "What Do Single-View 3D Reconstruction Networks Learn?",
+    "authors": [
+      "Maxim Tatarchenko",
+      "Stephan R. Richter",
+      "René Ranftl",
+      "Zhuwen Li",
+      "V. Koltun",
+      "T. Brox"
+    ],
+    "publication_date": "2019-05-09",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "b05fb9a7d5e3b596325dec6795ce49ec3ac14907",
+    "corpus_id": 115147778,
+    "category": "Computer Science"
+  },
+  "1901-05103": {
+    "title": "DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation",
+    "authors": [
+      "Jeong Joon Park",
+      "Peter R. Florence",
+      "Julian Straub",
+      "Richard A. Newcombe",
+      "S. Lovegrove"
+    ],
+    "publication_date": "2019-01-16",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "dd81523b9accdf1c13cd37f76b22ab27d84b7a42",
+    "corpus_id": 58007025,
+    "category": "Computer Science"
+  },
+  "1812-03828": {
+    "title": "Occupancy Networks: Learning 3D Reconstruction in Function Space",
+    "authors": [
+      "L. Mescheder",
+      "Michael Oechsle",
+      "Michael Niemeyer",
+      "Sebastian Nowozin",
+      "Andreas Geiger"
+    ],
+    "publication_date": "2018-12-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2e689bdce24cf3644432505ce2783f03a1445ed2",
+    "corpus_id": 54465161,
+    "category": "Computer Science"
+  },
+  "1812-04072": {
+    "title": "PlaneRCNN: 3D Plane Detection and Reconstruction From a Single Image",
+    "authors": [
+      "Chen Liu",
+      "Kihwan Kim",
+      "Jinwei Gu",
+      "Yasutaka Furukawa",
+      "Jan Kautz"
+    ],
+    "publication_date": "2018-12-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "d6b1c09b98d0c815952c3dbac4b00c419cdbfac9",
+    "corpus_id": 54485907,
+    "category": "Computer Science"
+  },
+  "1804-01654": {
+    "title": "Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images",
+    "authors": [
+      "Nanyang Wang",
+      "Yinda Zhang",
+      "Zhuwen Li",
+      "Yanwei Fu",
+      "W. Liu",
+      "Yu-Gang Jiang"
+    ],
+    "publication_date": "2018-04-05",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "3aa21de1a7c97e0458e10ed5730ce160bb436caa",
+    "corpus_id": 4633214,
+    "category": "Computer Science"
+  },
+  "1711-06396": {
+    "title": "VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection",
+    "authors": [
+      "Yin Zhou",
+      "Oncel Tuzel"
+    ],
+    "publication_date": "2017-11-17",
+    "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "80f5ee8578ee76e2c17824f211762ffec7e029d4",
+    "corpus_id": 42427078,
+    "category": "Computer Science"
+  },
+  "1706-03762": {
+    "title": "Attention is All you Need",
+    "authors": [
+      "Ashish Vaswani",
+      "Noam M. Shazeer",
+      "Niki Parmar",
+      "Jakob Uszkoreit",
+      "Llion Jones",
+      "Aidan N. Gomez",
+      "Lukasz Kaiser",
+      "I. Polosukhin"
+    ],
+    "publication_date": "2017-06-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+    "corpus_id": 13756489,
+    "category": "Computer Science"
+  },
+  "1704-06254": {
+    "title": "Multi-view Supervision for Single-View Reconstruction via Differentiable Ray Consistency",
+    "authors": [
+      "Shubham Tulsiani",
+      "Tinghui Zhou",
+      "Alyosha A. Efros",
+      "Jitendra Malik"
+    ],
+    "publication_date": "2017-04-20",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "ae587a4a8842fbe01b9a043b66f762a89dca5074",
+    "corpus_id": 73431591,
+    "category": "Computer Science"
+  },
+  "1612-00603": {
+    "title": "A Point Set Generation Network for 3D Object Reconstruction from a Single Image",
+    "authors": [
+      "Haoqiang Fan",
+      "Hao Su",
+      "L. Guibas"
+    ],
+    "publication_date": "2016-12-02",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "41d08fb733f3e50ac183490f84d6377dffccf350",
+    "corpus_id": 6746759,
+    "category": "Mathematics, Computer Science"
+  },
+  "1604-03265": {
+    "title": "Volumetric and Multi-view CNNs for Object Classification on 3D Data",
+    "authors": [
+      "C. Qi",
+      "Hao Su",
+      "M. Nießner",
+      "Angela Dai",
+      "Mengyuan Yan",
+      "L. Guibas"
+    ],
+    "publication_date": "2016-04-12",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "4cdcf2ae5e1fafebd9b3613247a7b1962584da34",
+    "corpus_id": 1009127,
+    "category": "Computer Science"
+  },
+  "1512-03385": {
+    "title": "Deep Residual Learning for Image Recognition",
+    "authors": [
+      "Kaiming He",
+      "X. Zhang",
+      "Shaoqing Ren",
+      "Jian Sun"
+    ],
+    "publication_date": "2015-12-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+    "corpus_id": 206594692,
+    "category": "Computer Science"
+  }
+}

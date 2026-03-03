@@ -1,0 +1,17 @@
+{
+  "title": "Integrated Ising Model with global inhibition for decision making",
+  "authors": [
+    "Olga Tapinova",
+    "Tal Finkelman",
+    "Tamar Reitich-Stolero",
+    "Rony Paz",
+    "Assaf Tal",
+    "Nir S. Gov"
+  ],
+  "summary": "Humans and other organisms make decisions choosing between different options, with the aim to maximize the reward and minimize the cost. The main theoretical framework for modeling the decision-making process has been based on the highly successful drift-diffusion model, which is a simple tool for explaining many aspects of this process. However, new observations challenge this model. Recently, it was found that inhibitory tone increases during high cognitive load and situations of uncertainty, but the origin of this phenomenon is not understood. Motivated by this observation, we extend a recently developed model for decision making while animals move towards targets in real space. We introduce an integrated Ising-type model, that includes global inhibition, and use it to explore its role in decision-making. This model can explain how the brain may utilize inhibition to improve its decision-making accuracy. Compared to experimental results, this model suggests that the regime of the brain's decision-making activity is in proximity to a critical transition line between the ordered and disordered. Within the model, the critical region near the transition line has the advantageous property of enabling a significant decrease in error with a small increase in inhibition and also exhibits unique properties with respect to learning and memory decay.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-bio.NC, physics.bio-ph"
+}

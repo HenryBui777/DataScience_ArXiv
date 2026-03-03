@@ -1,0 +1,13 @@
+{
+  "title": "Fast-Decaying Polynomial Reproduction",
+  "authors": [
+    "Stefano De Marchi",
+    "Giacomo Cappellazzo"
+  ],
+  "summary": "Polynomial reproduction plays a relevant role in deriving error estimates for various approximation schemes. Local reproduction in a quasi-uniform setting is a significant factor in the estimation of error and the assessment of stability but for some computationally relevant schemes, such as Rescaled Localized Radial Basis Functions (RL-RBF), it becomes a limitation. To facilitate the study of a greater variety of approximation methods in a unified and efficient manner, this work proposes a framework based on fast decaying polynomial reproduction: we do not restrict to compactly supported basis functions, but we allow the basis function decay to infinity as a function of the separation distance. Implementing fast decaying polynomial reproduction provides stable and convergent methods, that can be smooth when approximating by moving least squares otherwise very efficient in the case of linear programming problems. All the results presented in this paper concerning the rate of convergence, the Lebesgue constant, the smoothness of the approximant, and the compactness of the support have been verified numerically, even in the multivariate setting.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

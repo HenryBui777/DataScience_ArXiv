@@ -1,0 +1,19 @@
+{
+  "title": "ASiM: Modeling and Analyzing Inference Accuracy of SRAM-Based Analog CiM Circuits",
+  "authors": [
+    "Wenlun Zhang",
+    "Shimpei Ando",
+    "Yung-Chin Chen",
+    "Kentaro Yoshioka"
+  ],
+  "summary": "SRAM-based Analog Compute-in-Memory (ACiM) demonstrates promising energy efficiency for deep neural network (DNN) processing. Nevertheless, efforts to optimize efficiency frequently compromise accuracy, and this trade-off remains insufficiently studied due to the difficulty of performing full-system validation. Specifically, existing simulation tools rarely target SRAM-based ACiM and exhibit inconsistent accuracy predictions, highlighting the need for a standardized, SRAM CiM circuit-aware evaluation methodology. This paper presents ASiM, a simulation framework for evaluating inference accuracy in SRAM-based ACiM systems. ASiM captures critical effects in SRAM based analog compute in memory systems, such as ADC quantization, bit parallel encoding, and analog noise, which must be modeled with high fidelity due to their distinct behavior in charge domain architectures compared to other memory technologies. ASiM supports a wide range of modern DNN workloads, including CNN and Transformer-based models such as ViT, and scales to large-scale tasks like ImageNet classification. Our results indicate that bit-parallel encoding can improve energy efficiency with only modest accuracy degradation; however, even 1 LSB of analog noise can significantly impair inference performance, particularly in complex tasks such as ImageNet. To address this, we explore hybrid analog-digital execution and majority voting schemes, both of which enhance robustness without negating energy savings. ASiM bridges the gap between hardware design and inference performance, offering actionable insights for energy-efficient, high-accuracy ACiM deployment.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [
+    "2025-03-24",
+    "2025-08-28",
+    "2025-09-02"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AR"
+}

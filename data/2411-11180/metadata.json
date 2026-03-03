@@ -1,0 +1,13 @@
+{
+  "title": "Robust Defense Against Extreme Grid Events Using Dual-Policy Reinforcement Learning Agents",
+  "authors": [
+    "Benjamin M. Peter",
+    "Mert Korkali"
+  ],
+  "summary": "Reinforcement learning (RL) agents are powerful tools for managing power grids. They use large amounts of data to inform their actions and receive rewards or penalties as feedback to learn favorable responses for the system. Once trained, these agents can efficiently make decisions that would be too computationally complex for a human operator. This ability is especially valuable in decarbonizing power networks, where the demand for RL agents is increasing. These agents are well suited to control grid actions since the action space is constantly growing due to uncertainties in renewable generation, microgrid integration, and cybersecurity threats. To assess the efficacy of RL agents in response to an adverse grid event, we use the Grid2Op platform for agent training. We employ a proximal policy optimization (PPO) algorithm in conjunction with graph neural networks (GNNs). By simulating agents' responses to grid events, we assess their performance in avoiding grid failure for as long as possible. The performance of an agent is expressed concisely through its reward function, which helps the agent learn the most optimal ways to reconfigure a grid's topology amidst certain events. To model multi-actor scenarios that threaten modern power networks, particularly those resulting from cyberattacks, we integrate an opponent that acts iteratively against a given agent. This interplay between the RL agent and opponent is utilized in N-k contingency screening, providing a novel alternative to the traditional security assessment.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY, cs.LG"
+}

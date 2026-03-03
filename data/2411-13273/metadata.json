@@ -1,0 +1,17 @@
+{
+  "title": "Hydrodynamics of particle-hole symmetric systems: a quantum Monte Carlo study",
+  "authors": [
+    "Adrien Reingruber",
+    "Kitinan Pongsangangan",
+    "Fakher Assaad",
+    "Maksim Ulybyshev"
+  ],
+  "summary": "The emergence of hydrodynamic behavior in electronic flow within clean, particle-hole-symmetric systems at half-filling is a non-trivial problem. Navier-Stokes (NS) equations describe the momentum flow, while experimental measurements typically capture the current flow profiles. However, in particle-hole-symmetric systems, electric current and momentum flow are entirely decoupled because electrons and holes move in opposite directions with equal distribution functions. This makes it challenging to link NS equations to observed flow patterns. In this work, we demonstrate that the hydrodynamic behavior of the charge current at half filling can emerge despite the absence of momentum flow. By combining Boltzmann transport theory with numerically exact Quantum Monte Carlo simulations of clean graphene samples, we show that NS-type equations can be derived directly for the charge current, eliminating the need for any additional mechanism coupling the velocity field and charge current in explaining the experimentally observed hydrodynamic flow profiles in graphene at half-filling. We show that a new transport quantity - the current diffusion coefficient - replaces viscosity and expect this description to be valid for any particle-hole symmetric system. Our results provide new insights into the interpretation of experimental data and demonstrate how Quantum Monte Carlo calculations can serve as an alternative to experiments in transport measurements to verify the kinetic theory results.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-04-28"
+  ],
+  "publication_venue": "Phys.Rev. Lett.134 (2025) 206303",
+  "pdf_url": null,
+  "category": "cond-mat.mes-hall, cond-mat.str-el"
+}

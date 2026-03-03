@@ -1,0 +1,18 @@
+{
+  "title": "Preempting Text Sanitization Utility in Resource-Constrained Privacy-Preserving LLM Interactions",
+  "authors": [
+    "Robin Carpentier",
+    "Benjamin Zi Hao Zhao",
+    "Hassan Jameel Asghar",
+    "Dali Kaafar"
+  ],
+  "summary": "Interactions with online Large Language Models raise privacy issues where providers can gather sensitive information about users and their companies from the prompts. While textual prompts can be sanitized using Differential Privacy, we show that it is difficult to anticipate the performance of an LLM on such sanitized prompt. Poor performance has clear monetary consequences for LLM services charging on a pay-per-use model as well as great amount of computing resources wasted. To this end, we propose a middleware architecture leveraging a Small Language Model to predict the utility of a given sanitized prompt before it is sent to the LLM. We experimented on a summarization task and a translation task to show that our architecture helps prevent such resource waste for up to 20% of the prompts. During our study, we also reproduced experiments from one of the most cited paper on text sanitization using DP and show that a potential performance-driven implementation choice dramatically changes the output while not being explicitly acknowledged in the paper.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-03-07",
+    "2025-06-13"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR, cs.LG"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "RestorerID: Towards Tuning-Free Face Restoration with ID Preservation",
+  "authors": [
+    "Jiacheng Ying",
+    "Mushui Liu",
+    "Zhe Wu",
+    "Runming Zhang",
+    "Zhu Yu",
+    "Siming Fu",
+    "Si-Yuan Cao",
+    "Chao Wu",
+    "Yunlong Yu",
+    "Hui-Liang Shen"
+  ],
+  "summary": "Blind face restoration has made great progress in producing high-quality and lifelike images. Yet it remains challenging to preserve the ID information especially when the degradation is heavy. Current reference-guided face restoration approaches either require face alignment or personalized test-tuning, which are unfaithful or time-consuming. In this paper, we propose a tuning-free method named RestorerID that incorporates ID preservation during face restoration. RestorerID is a diffusion model-based method that restores low-quality images with varying levels of degradation by using a single reference image. To achieve this, we propose a unified framework to combine the ID injection with the base blind face restoration model. In addition, we design a novel Face ID Rebalancing Adapter (FIR-Adapter) to tackle the problems of content unconsistency and contours misalignment that are caused by information conflicts between the low-quality input and reference image. Furthermore, by employing an Adaptive ID-Scale Adjusting strategy, RestorerID can produce superior restored images across various levels of degradation. Experimental results on the Celeb-Ref dataset and real-world scenarios demonstrate that RestorerID effectively delivers high-quality face restoration with ID preservation, achieving a superior performance compared to the test-tuning approaches and other reference-guided ones. The code of RestorerID is available at \\url{https://github.com/YingJiacheng/RestorerID}.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

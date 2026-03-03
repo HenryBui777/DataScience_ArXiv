@@ -1,0 +1,15 @@
+{
+  "title": "Magnetoelastic Interactions Reduce Hysteresis in Soft Magnets",
+  "authors": [
+    "Hongyi Guan",
+    "Negar Ahani",
+    "Carlos J. García-Cervera",
+    "Ananya Renuka Balakrishna"
+  ],
+  "summary": "The width of the magnetic hysteresis loop is often correlated with the material's magnetocrystalline anisotropy constant $κ_1$. Traditionally, a common approach to reduce the hysteresis width has been to develop alloys with $κ_1$ as close to zero as possible. However, contrary to this widely accepted view, we present evidence that magnetoelastic interactions governed by magnetostriction constants, elastic stiffness, and applied stresses play an important role in reducing magnetic hysteresis width, despite large $κ_1$ values. We use a nonlinear micromagnetics framework to systematically investigate the interplay between material constants $λ_{100}$, $c_{11}$, $c_{12}$, $κ_1$, applied or residual stresses $σ_{\\mathrm{R}}$, and needle domains to collectively lower the energy barrier for magnetization reversal. A distinguishing feature of our work is that we correlate the energy barrier governing the growth of needle domains with the width of the hysteresis loop. This energy barrier approach enables us to capture the nuanced interplay between anisotropy constant, magnetostriction, and applied stresses, and their combined influence on magnetic hysteresis. We propose a mathematical relationship on the coercivity map: $κ_1 = α(c_{11}-c_{12})(λ_{100}+βσ_{11})^2$ for which magnetic hysteresis can be minimized for a uniaxial residual stress $σ_\\mathrm{R} = σ_{11}\\hat{\\mathbf{e}}_1\\otimes\\hat{\\mathbf{e}}_1$ (and for some constants $α$, $β$). These results serve as quantitative guidelines to design magnetic alloys with small hysteresis, and potentially guide the discovery of a new generation of soft magnets located beyond the $κ_1 \\to 0$ region.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cond-mat.mtrl-sci, physics.comp-ph"
+}

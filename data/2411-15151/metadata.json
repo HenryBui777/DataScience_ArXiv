@@ -1,0 +1,12 @@
+{
+  "title": "Memory-Driven Metaheuristics: Improving Optimization Performance",
+  "authors": [
+    "Salar Farahmand-Tabar"
+  ],
+  "summary": "Metaheuristics are stochastic optimization algorithms that mimic natural processes to find optimal solutions to complex problems. The success of metaheuristics largely depends on the ability to effectively explore and exploit the search space. Memory mechanisms have been introduced in several popular metaheuristic algorithms to enhance their performance. This chapter explores the significance of memory in metaheuristic algorithms and provides insights from well-known algorithms. The chapter begins by introducing the concept of memory, and its role in metaheuristic algorithms. The key factors influencing the effectiveness of memory mechanisms are discussed, such as the size of the memory, the information stored in memory, and the rate of information decay. A comprehensive analysis of how memory mechanisms are incorporated into popular metaheuristic algorithms is presented and concludes by highlighting the importance of memory in metaheuristic performance and providing future research directions for improving memory mechanisms. The key takeaways are that memory mechanisms can significantly enhance the performance of metaheuristics by enabling them to explore and exploit the search space effectively and efficiently, and that the choice of memory mechanism should be tailored to the problem domain and the characteristics of the search space.",
+  "submission_date": "2024-11-07",
+  "revised_dates": [],
+  "publication_venue": "In: Kulkarni, A.J., Gandomi, A.H. (eds) Handbook of Formal Optimization. Springer, 2024",
+  "pdf_url": null,
+  "category": "cs.NE, cs.AI"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Data-efficient Tactile Sensing with Electrical Impedance Tomography",
+  "authors": [
+    "Huazhi Dong",
+    "Ronald B. Liu",
+    "Leo Micklem",
+    "Peisan Sharel E",
+    "Francesco Giorgio-Serchi",
+    "Yunjie Yang"
+  ],
+  "summary": "Electrical Impedance Tomography (EIT)-inspired tactile sensors are gaining attention in robotic tactile sensing due to their cost-effectiveness, safety, and scalability with sparse electrode configurations. This paper presents a data augmentation strategy for learning-based tactile reconstruction that amplifies the original single-frame signal measurement into 32 distinct, effective signal data for training. This approach supplements uncollected conditions of position information, resulting in more accurate and high-resolution tactile reconstructions. Data augmentation for EIT significantly reduces the required EIT measurements and achieves promising performance with even limited samples. Simulation results show that the proposed method improves the correlation coefficient by over 12% and reduces the relative error by over 21% under various noise levels. Furthermore, we demonstrate that a standard deep neural network (DNN) utilizing the proposed data augmentation reduces the required data down to 1/31 while achieving a similar tactile reconstruction quality. Real-world tests further validate the approach's effectiveness on a flexible EIT-based tactile sensor. These results could help address the challenge of training tactile sensing networks with limited available measurements, improving the accuracy and applicability of EIT-based tactile sensing systems.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-03-18"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

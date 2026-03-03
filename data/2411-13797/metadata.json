@@ -1,0 +1,19 @@
+{
+  "title": "Hugging Rain Man: A Novel Facial Action Units Dataset for Analyzing Atypical Facial Expressions in Children with Autism Spectrum Disorder",
+  "authors": [
+    "Yanfeng Ji",
+    "Shutong Wang",
+    "Ruyi Xu",
+    "Jingying Chen",
+    "Xinzhou Jiang",
+    "Zhengyu Deng",
+    "Yuxuan Quan",
+    "Junpeng Liu"
+  ],
+  "summary": "Children with Autism Spectrum Disorder (ASD) often exhibit atypical facial expressions. However, the specific objective facial features that underlie this subjective perception remain unclear. In this paper, we introduce a novel dataset, Hugging Rain Man (HRM), which includes facial action units (AUs) manually annotated by FACS experts for both children with ASD and typical development (TD). The dataset comprises a rich collection of posed and spontaneous facial expressions, totaling approximately 130,000 frames, along with 22 AUs, 10 Action Descriptors (ADs), and atypicality ratings. A statistical analysis of static images from the HRM reveals significant differences between the ASD and TD groups across multiple AUs and ADs when displaying the same emotional expressions, confirming that participants with ASD tend to demonstrate more irregular and diverse expression patterns. Subsequently, a temporal regression method was presented to analyze atypicality of dynamic sequences, thereby bridging the gap between subjective perception and objective facial characteristics. Furthermore, baseline results for AU detection are provided for future research reference. This work not only contributes to our understanding of the unique facial expression characteristics associated with ASD but also provides potential tools for ASD early screening. Portions of the dataset, features, and pretrained models are accessible at: \\url{https://github.com/Jonas-DL/Hugging-Rain-Man}.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

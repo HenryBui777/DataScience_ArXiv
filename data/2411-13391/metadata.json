@@ -1,0 +1,15 @@
+{
+  "title": "Impact of Storm Surge and Power Peaking on Tidal-Fluvial Dynamics in Microtidal Neretva River Estuary",
+  "authors": [
+    "Nino Krvavica",
+    "Marta Marija Gržić",
+    "Silvia Innocenti",
+    "Pascal Matte"
+  ],
+  "summary": "This study investigates the interactions between tides, storm surge, river flow, and power peaking in the microtidal Neretva River estuary, Croatia. Based on the existing NS_Tide tool, the study proposes a new non-stationary harmonic model adapted for microtidal conditions, which incorporates linear storm surge, as well as linear and quadratic river discharge terms. This model enhances the NS_Tide's ability to accurately predict water levels from tide-dominated sections downstream to discharge-dominated areas upstream. River discharge was identified as the dominant factor for predicting stage levels at most stations, while the influence of storm surge, though consistent, decreased upstream. Strong tide-river interactions were observed throughout the study domain, with the stationary tidal component consistently contributing to water level fluctuations at all locations, and minimal influence from the tide-surge interaction component. Simulations using the STREAM numerical model were also used to isolate the variability in water levels caused by power peaking. These simulations demonstrated that high-frequency discharge fluctuations due to hydropower plant operations amplify the $S_1$ constituent in upstream river sections and modulate the amplitudes of other tidal constituents in the estuarine and tidal river sections. The proposed method proved highly effective in the microtidal context of the Neretva River and shows potential for adaptation to mesotidal and macrotidal systems.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.ao-ph"
+}

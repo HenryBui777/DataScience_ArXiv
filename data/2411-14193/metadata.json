@@ -1,0 +1,14 @@
+{
+  "title": "ComfyGI: Automatic Improvement of Image Generation Workflows",
+  "authors": [
+    "Dominik Sobania",
+    "Martin Briesch",
+    "Franz Rothlauf"
+  ],
+  "summary": "Automatic image generation is no longer just of interest to researchers, but also to practitioners. However, current models are sensitive to the settings used and automatic optimization methods often require human involvement. To bridge this gap, we introduce ComfyGI, a novel approach to automatically improve workflows for image generation without the need for human intervention driven by techniques from genetic improvement. This enables image generation with significantly higher quality in terms of the alignment with the given description and the perceived aesthetics. On the performance side, we find that overall, the images generated with an optimized workflow are about 50% better compared to the initial workflow in terms of the median ImageReward score. These already good results are even surpassed in our human evaluation, as the participants preferred the images improved by ComfyGI in around 90% of the cases.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI, cs.LG, cs.NE"
+}

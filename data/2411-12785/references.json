@@ -1,0 +1,791 @@
+{
+  "2411-04420": {
+    "title": "BendVLM: Test-Time Debiasing of Vision-Language Embeddings",
+    "authors": [
+      "Walter Gerych",
+      "Haoran Zhang",
+      "Kimia Hamidieh",
+      "Eileen Pan",
+      "Maanas Sharma",
+      "Tom Hartvigsen",
+      "Marzyeh Ghassemi"
+    ],
+    "publication_date": "2024-11-07",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "b24a6380a364c3df18fd694b143b01ce346401db",
+    "corpus_id": 273877748,
+    "category": "Computer Science"
+  },
+  "2408-10202": {
+    "title": "SANER: Annotation-free Societal Attribute Neutralizer for Debiasing CLIP",
+    "authors": [
+      "Yusuke Hirota",
+      "Min-Hung Chen",
+      "Chien-Yi Wang",
+      "Yuta Nakashima",
+      "Yu-Chiang Frank Wang",
+      "Ryo Hachiuma"
+    ],
+    "publication_date": "2024-08-19",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "016a31f9839a640e676fc68fefe4879cc95084a4",
+    "corpus_id": 271903730,
+    "category": "Computer Science"
+  },
+  "2404-09454": {
+    "title": "Utility-Fairness Trade-Offs and how to Find Them",
+    "authors": [
+      "Sepehr Dehdashtian",
+      "Bashir Sadeghi",
+      "Vishnu Naresh Boddeti"
+    ],
+    "publication_date": "2024-04-15",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "96c3b7d763a91b2b5ca15c3d41ff84571b0b7c54",
+    "corpus_id": 269149166,
+    "category": "Computer Science"
+  },
+  "2404-07983": {
+    "title": "Two Effects, One Trigger: On the Modality Gap, Object Bias, and Information Imbalance in Contrastive Vision-Language Models",
+    "authors": [
+      "Simon Schrodi",
+      "David T. Hoffmann",
+      "Max Argus",
+      "Volker Fischer",
+      "Thomas Brox"
+    ],
+    "publication_date": "2024-04-11",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "ad3daf7e5935b0d7ff576dfff57dd7a14d921d57",
+    "corpus_id": 273233140,
+    "category": "Computer Science"
+  },
+  "2403-15593": {
+    "title": "FairerCLIP: Debiasing CLIP's Zero-Shot Predictions using Functions in RKHSs",
+    "authors": [
+      "Sepehr Dehdashtian",
+      "Lan Wang",
+      "Vishnu Naresh Boddeti"
+    ],
+    "publication_date": "2024-03-22",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "250bd7b891da5278250b2c6646ef7d5e3c1a79e0",
+    "corpus_id": 268680942,
+    "category": "Computer Science"
+  },
+  "2310-18555": {
+    "title": "Group Robust Classification Without Any Group Information",
+    "authors": [
+      "Christos Tsirigotis",
+      "João Monteiro",
+      "Pau Rodríguez",
+      "David Vázquez",
+      "Aaron C. Courville"
+    ],
+    "publication_date": "2023-10-28",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "fd483916871ec8555e86ab51f031e4d5763b9bd8",
+    "corpus_id": 264590407,
+    "category": "Computer Science"
+  },
+  "2309-00035": {
+    "title": "FACET: Fairness in Computer Vision Evaluation Benchmark",
+    "authors": [
+      "Laura Gustafson",
+      "Chloé Rolland",
+      "Nikhila Ravi",
+      "Quentin Duval",
+      "Aaron B. Adcock",
+      "Cheng-Yang Fu",
+      "Melissa Hall",
+      "Candace Ross"
+    ],
+    "publication_date": "2023-08-31",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "7143623c7f1886ba67cc71692cc963741306ae4f",
+    "corpus_id": 261494264,
+    "category": "Computer Science"
+  },
+  "2305-19329": {
+    "title": "Mitigating Test-Time Bias for Fair Image Retrieval",
+    "authors": [
+      "Fanjie Kong",
+      "Shuai Yuan",
+      "Weituo Hao",
+      "Ricardo Henao"
+    ],
+    "publication_date": "2023-05-23",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "67b8d044919dac6139491845c625603f1ff77c0f",
+    "corpus_id": 258987942,
+    "category": "Computer Science"
+  },
+  "2304-02828": {
+    "title": "Uncurated Image-Text Datasets: Shedding Light on Demographic Bias",
+    "authors": [
+      "Noa García",
+      "Yusuke Hirota",
+      "Yankun Wu",
+      "Yuta Nakashima"
+    ],
+    "publication_date": "2023-04-06",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "4aedabc733e033b23eee068311f64366403c98db",
+    "corpus_id": 257985091,
+    "category": "Computer Science"
+  },
+  "2303-10431": {
+    "title": "DeAR: Debiasing Vision-Language Models with Additive Residuals",
+    "authors": [
+      "Ashish Seth",
+      "Mayur Hemani",
+      "Chirag Agarwal"
+    ],
+    "publication_date": "2023-03-18",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "63ed6acd7f2255675247f5e2350a5a32b5d1c413",
+    "corpus_id": 257631557,
+    "category": "Computer Science"
+  },
+  "2302-00070": {
+    "title": "Debiasing Vision-Language Models via Biased Prompts",
+    "authors": [
+      "Ching-Yao Chuang",
+      "Varun Jampani",
+      "Yuanzhen Li",
+      "A. Torralba",
+      "S. Jegelka"
+    ],
+    "publication_date": "2023-01-31",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "850b71c61d9fa4a153eee6e2c912c16ecc459b7a",
+    "corpus_id": 256459508,
+    "category": "Computer Science"
+  },
+  "2301-12429": {
+    "title": "Debiased Fine-Tuning for Vision-language Models by Prompt Regularization",
+    "authors": [
+      "Beier Zhu",
+      "Yulei Niu",
+      "Saeil Lee",
+      "Minhoe Hur",
+      "Hanwang Zhang"
+    ],
+    "publication_date": "2023-01-29",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "e8b73abefd998229f35e810f465854bdea7512f8",
+    "corpus_id": 256389713,
+    "category": "Computer Science"
+  },
+  "2211-12914": {
+    "title": "Open-vocabulary Attribute Detection",
+    "authors": [
+      "M. A. Bravo",
+      "Sudhanshu Mittal",
+      "Simon Ging",
+      "T. Brox"
+    ],
+    "publication_date": "2022-11-23",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "e1c2a926df37107358ac51e460361e2a249c8b26",
+    "corpus_id": 253801820,
+    "category": "Computer Science"
+  },
+  "2207-07180": {
+    "title": "Contrastive Adapters for Foundation Model Group Robustness",
+    "authors": [
+      "Michael Zhang",
+      "Christopher R'e"
+    ],
+    "publication_date": "2022-07-14",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "de4be9e0fa2f660eefb2d4c2a27c146d3e654a85",
+    "corpus_id": 250607488,
+    "category": "Computer Science"
+  },
+  "2205-10764": {
+    "title": "Evidence for Hypodescent in Visual Semantic AI",
+    "authors": [
+      "R. Wolfe",
+      "M. Banaji",
+      "Aylin Caliskan"
+    ],
+    "publication_date": "2022-05-22",
+    "venue": "Conference on Fairness, Accountability and Transparency",
+    "semantic_scholar_id": "3cfea2a4291ea4e5e0061d8a626e414e27ec5ac5",
+    "corpus_id": 248986266,
+    "category": "Computer Science"
+  },
+  "2204-02937": {
+    "title": "Last Layer Re-Training is Sufficient for Robustness to Spurious Correlations",
+    "authors": [
+      "P. Kirichenko",
+      "Pavel Izmailov",
+      "A. Wilson"
+    ],
+    "publication_date": "2022-04-06",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "14a3aae8060338e3fbefc2af694890b019874d4f",
+    "corpus_id": 247996741,
+    "category": "Computer Science, Mathematics"
+  },
+  "2203-15566": {
+    "title": "Core Risk Minimization using Salient ImageNet",
+    "authors": [
+      "Sahil Singla",
+      "Mazda Moayeri",
+      "S. Feizi"
+    ],
+    "publication_date": "2022-03-28",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "71854d12f72a2d62105b2e0f3e24fb6cada55f7c",
+    "corpus_id": 247778575,
+    "category": "Computer Science"
+  },
+  "2203-11933": {
+    "title": "A Prompt Array Keeps the Bias Away: Debiasing Vision-Language Models with Adversarial Learning",
+    "authors": [
+      "Hugo Elias Berg",
+      "S. Hall",
+      "Yash Bhalgat",
+      "Wonsuk Yang",
+      "Hannah Rose Kirk",
+      "Aleksandar Shtedritski",
+      "Max Bain"
+    ],
+    "publication_date": "2022-03-22",
+    "venue": "AACL",
+    "semantic_scholar_id": "efabdd27929796b712cb1b3a3051ea5358dc1200",
+    "corpus_id": 247596835,
+    "category": "Computer Science"
+  },
+  "2201-12086": {
+    "title": "BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation",
+    "authors": [
+      "Junnan Li",
+      "Dongxu Li",
+      "Caiming Xiong",
+      "S. Hoi"
+    ],
+    "publication_date": "2022-01-28",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "a3b42a83669998f65df60d7c065a70d07ca95e99",
+    "corpus_id": 246411402,
+    "category": "Computer Science"
+  },
+  "2110-01963": {
+    "title": "Multimodal datasets: misogyny, pornography, and malignant stereotypes",
+    "authors": [
+      "Abeba Birhane",
+      "Vinay Uday Prabhu",
+      "Emmanuel Kahembwe"
+    ],
+    "publication_date": "2021-10-05",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "267f1de5ff863ab03f8c48c7ac3df1d422de7c3b",
+    "corpus_id": 238354158,
+    "category": "Computer Science"
+  },
+  "2109-05433": {
+    "title": "Are Gender-Neutral Queries Really Gender-Neutral? Mitigating Gender Bias in Image Search",
+    "authors": [
+      "Jialu Wang",
+      "Yang Liu",
+      "X. Wang"
+    ],
+    "publication_date": "2021-09-12",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "60c498956cb5737c4964aaca0b920592bd7f5689",
+    "corpus_id": 237490811,
+    "category": "Computer Science"
+  },
+  "2109-05213": {
+    "title": "Uncovering Main Causalities for Long-tailed Information Extraction",
+    "authors": [
+      "Guoshun Nan",
+      "Jiaqi Zeng",
+      "Rui Qiao",
+      "Zhijiang Guo",
+      "Wei Lu"
+    ],
+    "publication_date": "2021-09-11",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "46125cd229711e6b3b39d521f11c39f911fe1b79",
+    "corpus_id": 237490892,
+    "category": "Computer Science"
+  },
+  "2109-01903": {
+    "title": "Robust fine-tuning of zero-shot models",
+    "authors": [
+      "Mitchell Wortsman",
+      "Gabriel Ilharco",
+      "Mike Li",
+      "Jong Wook Kim",
+      "Hannaneh Hajishirzi",
+      "Ali Farhadi",
+      "Hongseok Namkoong",
+      "Ludwig Schmidt"
+    ],
+    "publication_date": "2021-09-04",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "9289826beb6206eeaf500105f7329d6d5a495d8a",
+    "corpus_id": 237420687,
+    "category": "Computer Science"
+  },
+  "2108-02818": {
+    "title": "Evaluating CLIP: Towards Characterization of Broader Capabilities and Downstream Implications",
+    "authors": [
+      "Sandhini Agarwal",
+      "Gretchen Krueger",
+      "Jack Clark",
+      "Alec Radford",
+      "Jong Wook Kim",
+      "Miles Brundage"
+    ],
+    "publication_date": "2021-08-05",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "1c5d0dad5f4f4db55c7a16162e9ce0ce09150356",
+    "corpus_id": 236950642,
+    "category": "Computer Science"
+  },
+  "2107-09249": {
+    "title": "Self-Supervised Aggregation of Diverse Experts for Test-Agnostic Long-Tailed Recognition",
+    "authors": [
+      "Yifan Zhang",
+      "Bryan Hooi",
+      "Lanqing Hong",
+      "Jiashi Feng"
+    ],
+    "publication_date": "2021-07-20",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "ac8d104db6214ab3c42718064873976160dd626d",
+    "corpus_id": 252684042,
+    "category": "Computer Science"
+  },
+  "2107-09044": {
+    "title": "Just Train Twice: Improving Group Robustness without Training Group Information",
+    "authors": [
+      "E. Liu",
+      "Behzad Haghgoo",
+      "Annie S. Chen",
+      "Aditi Raghunathan",
+      "Pang Wei Koh",
+      "Shiori Sagawa",
+      "Percy Liang",
+      "Chelsea Finn"
+    ],
+    "publication_date": "2021-07-19",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "216d093cb2ad81bf55c21dbce2217f2b9032e67b",
+    "corpus_id": 235825419,
+    "category": "Computer Science, Mathematics"
+  },
+  "2107-07651": {
+    "title": "Align before Fuse: Vision and Language Representation Learning with Momentum Distillation",
+    "authors": [
+      "Junnan Li",
+      "Ramprasaath R. Selvaraju",
+      "Akhilesh Deepak Gotmare",
+      "Shafiq R. Joty",
+      "Caiming Xiong",
+      "S. Hoi"
+    ],
+    "publication_date": "2021-07-16",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "b82c5f9efdb2ae56baa084ca41aeddd8a665c1d1",
+    "corpus_id": 236034189,
+    "category": "Computer Science"
+  },
+  "2106-12674": {
+    "title": "Fairness via Representation Neutralization",
+    "authors": [
+      "Mengnan Du",
+      "Subhabrata Mukherjee",
+      "Guanchu Wang",
+      "Ruixiang Tang",
+      "A. Awadallah",
+      "Xia Hu"
+    ],
+    "publication_date": "2021-06-23",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "4c2e9b401e6fe3b3b81799ae0837048fccaef0a6",
+    "corpus_id": 235623731,
+    "category": "Computer Science, Mathematics"
+  },
+  "2106-06683": {
+    "title": "Assessing Multilingual Fairness in Pre-trained Multimodal Representations",
+    "authors": [
+      "Jialu Wang",
+      "Yang Liu",
+      "X. Wang"
+    ],
+    "publication_date": "2021-06-12",
+    "venue": "Findings",
+    "semantic_scholar_id": "0ff3585e15f8799f191c53daf1cb9ccd330b169a",
+    "corpus_id": 235422358,
+    "category": "Computer Science"
+  },
+  "2103-12579": {
+    "title": "MetaSAug: Meta Semantic Augmentation for Long-Tailed Visual Recognition",
+    "authors": [
+      "Shuang Li",
+      "Kaixiong Gong",
+      "Chi Harold Liu",
+      "Yulin Wang",
+      "Feng Qiao",
+      "Xinjing Cheng"
+    ],
+    "publication_date": "2021-03-23",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "505422c6e07b356969e641cdb0985ab2c85ccae4",
+    "corpus_id": 232320762,
+    "category": "Computer Science"
+  },
+  "2103-06413": {
+    "title": "FairFil: Contrastive Neural Debiasing Method for Pretrained Text Encoders",
+    "authors": [
+      "Pengyu Cheng",
+      "Weituo Hao",
+      "Siyang Yuan",
+      "Shijing Si",
+      "L. Carin"
+    ],
+    "publication_date": "2021-03-11",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "df157cb42b574c3f46b269504c18375bfa5bc5b1",
+    "corpus_id": 232185104,
+    "category": "Computer Science"
+  },
+  "2103-00453": {
+    "title": "Self-Diagnosis and Self-Debiasing: A Proposal for Reducing Corpus-Based Bias in NLP",
+    "authors": [
+      "Timo Schick",
+      "Sahana Udupa",
+      "Hinrich Schütze"
+    ],
+    "publication_date": "2021-02-28",
+    "venue": "Transactions of the Association for Computational Linguistics",
+    "semantic_scholar_id": "ce9ca56036307217ea565644d3d3bd74b879e045",
+    "corpus_id": 232075876,
+    "category": "Computer Science"
+  },
+  "2103-00020": {
+    "title": "Learning Transferable Visual Models From Natural Language Supervision",
+    "authors": [
+      "Alec Radford",
+      "Jong Wook Kim",
+      "Chris Hallacy",
+      "A. Ramesh",
+      "Gabriel Goh",
+      "Sandhini Agarwal",
+      "Girish Sastry",
+      "Amanda Askell",
+      "Pamela Mishkin",
+      "Jack Clark",
+      "Gretchen Krueger",
+      "I. Sutskever"
+    ],
+    "publication_date": "2021-02-26",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4",
+    "corpus_id": 231591445,
+    "category": "Computer Science"
+  },
+  "2010-15052": {
+    "title": "Image Representations Learned With Unsupervised Pre-Training Contain Human-like Biases",
+    "authors": [
+      "Ryan Steed",
+      "Aylin Caliskan"
+    ],
+    "publication_date": "2020-10-28",
+    "venue": "Conference on Fairness, Accountability and Transparency",
+    "semantic_scholar_id": "79e1854115a29fd7bac54d553ce50404969b6275",
+    "corpus_id": 225094318,
+    "category": "Computer Science"
+  },
+  "2010-06032": {
+    "title": "Measuring and Reducing Gendered Correlations in Pre-trained Models",
+    "authors": [
+      "Kellie Webster",
+      "Xuezhi Wang",
+      "Ian Tenney",
+      "Alex Beutel",
+      "Emily Pitler",
+      "Ellie Pavlick",
+      "Jilin Chen",
+      "Slav Petrov"
+    ],
+    "publication_date": "2020-10-12",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "3d864a8bc5a55ccab9993aa66203d8e70b88148c",
+    "corpus_id": 222310622,
+    "category": "Computer Science"
+  },
+  "2010-00133": {
+    "title": "CrowS-Pairs: A Challenge Dataset for Measuring Social Biases in Masked Language Models",
+    "authors": [
+      "Nikita Nangia",
+      "Clara Vania",
+      "Rasika Bhalerao",
+      "Samuel R. Bowman"
+    ],
+    "publication_date": "2020-09-30",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "645bd6eadc247989abc5e0b0aa0be79ec8b11ea6",
+    "corpus_id": 222090785,
+    "category": "Computer Science"
+  },
+  "2007-07314": {
+    "title": "Long-tail learning via logit adjustment",
+    "authors": [
+      "A. Menon",
+      "Sadeep Jayasumana",
+      "A. Rawat",
+      "Himanshu Jain",
+      "Andreas Veit",
+      "Sanjiv Kumar"
+    ],
+    "publication_date": "2020-07-14",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "4f65f604d3bf5fa91634484a3232b426267b71ef",
+    "corpus_id": 220525799,
+    "category": "Computer Science, Mathematics"
+  },
+  "2007-08100": {
+    "title": "Towards Debiasing Sentence Representations",
+    "authors": [
+      "Paul Pu Liang",
+      "Irene Z Li",
+      "Emily Zheng",
+      "Y. Lim",
+      "R. Salakhutdinov",
+      "Louis-philippe Morency"
+    ],
+    "publication_date": "2020-07-01",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "0d965ed237a3b4592ecefdb618c29f63adedff76",
+    "corpus_id": 207996257,
+    "category": "Computer Science"
+  },
+  "2004-09456": {
+    "title": "StereoSet: Measuring stereotypical bias in pretrained language models",
+    "authors": [
+      "Moin Nadeem",
+      "Anna Bethke",
+      "Siva Reddy"
+    ],
+    "publication_date": "2020-04-20",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "babeda48b10a4d638252118f2238d05a06f4ec55",
+    "corpus_id": 215828184,
+    "category": "Computer Science"
+  },
+  "2004-07667": {
+    "title": "Null It Out: Guarding Protected Attributes by Iterative Nullspace Projection",
+    "authors": [
+      "Shauli Ravfogel",
+      "Yanai Elazar",
+      "Hila Gonen",
+      "Michael Twiton",
+      "Yoav Goldberg"
+    ],
+    "publication_date": "2020-04-16",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "e969aa3422a49152c22f3faf734e4561a2a3cf42",
+    "corpus_id": 215786522,
+    "category": "Computer Science"
+  },
+  "1911-05722": {
+    "title": "Momentum Contrast for Unsupervised Visual Representation Learning",
+    "authors": [
+      "Kaiming He",
+      "Haoqi Fan",
+      "Yuxin Wu",
+      "Saining Xie",
+      "Ross B. Girshick"
+    ],
+    "publication_date": "2019-11-13",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "add2f205338d70e10ce5e686df4a690e2851bdfc",
+    "corpus_id": 207930212,
+    "category": "Computer Science"
+  },
+  "1907-07355": {
+    "title": "Probing Neural Network Comprehension of Natural Language Arguments",
+    "authors": [
+      "Timothy Niven",
+      "Hung-Yu kao"
+    ],
+    "publication_date": "2019-07-17",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "f3b89e9a2b8ce1b6058e6984c3556bc2dded0938",
+    "corpus_id": 196181887,
+    "category": "Computer Science"
+  },
+  "1905-01989": {
+    "title": "Fairness-Aware Ranking in Search & Recommendation Systems with Application to LinkedIn Talent Search",
+    "authors": [
+      "S. Geyik",
+      "Stuart Ambler",
+      "K. Kenthapadi"
+    ],
+    "publication_date": "2019-04-30",
+    "venue": "Knowledge Discovery and Data Mining",
+    "semantic_scholar_id": "ef2c54044ab93189884829fa5ef47515e8da93a7",
+    "corpus_id": 146121159,
+    "category": "Computer Science"
+  },
+  "1903-10561": {
+    "title": "On Measuring Social Biases in Sentence Encoders",
+    "authors": [
+      "Chandler May",
+      "Alex Wang",
+      "Shikha Bordia",
+      "Samuel R. Bowman",
+      "Rachel Rudinger"
+    ],
+    "publication_date": "2019-03-25",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "5e9c85235210b59a16bdd84b444a904ae271f7e7",
+    "corpus_id": 85518027,
+    "category": "Computer Science"
+  },
+  "1902-01007": {
+    "title": "Right for the Wrong Reasons: Diagnosing Syntactic Heuristics in Natural Language Inference",
+    "authors": [
+      "R. Thomas McCoy",
+      "Ellie Pavlick",
+      "Tal Linzen"
+    ],
+    "publication_date": "2019-02-04",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "42ed4a9994e6121a9f325f5b901c5b3d7ce104f5",
+    "corpus_id": 59599752,
+    "category": "Computer Science"
+  },
+  "1809-02169": {
+    "title": "Turning a Blind Eye: Explicit Removal of Biases and Variation from Deep Neural Network Embeddings",
+    "authors": [
+      "Mohsan S. Alvi",
+      "Andrew Zisserman",
+      "C. Nellåker"
+    ],
+    "publication_date": "2018-09-06",
+    "venue": "ECCV Workshops",
+    "semantic_scholar_id": "f936a01b01a1ae1e9de85090cf200fbe123799bd",
+    "corpus_id": 52176612,
+    "category": "Computer Science"
+  },
+  "1805-12317": {
+    "title": "Multiaccuracy: Black-Box Post-Processing for Fairness in Classification",
+    "authors": [
+      "Michael P. Kim",
+      "Amirata Ghorbani",
+      "James Y. Zou"
+    ],
+    "publication_date": "2018-05-31",
+    "venue": "AAAI/ACM Conference on AI, Ethics, and Society",
+    "semantic_scholar_id": "641076d8786511559cd31b96fc2c93426120ad47",
+    "corpus_id": 44125328,
+    "category": "Computer Science, Mathematics"
+  },
+  "1702-08423": {
+    "title": "Age Progression/Regression by Conditional Adversarial Autoencoder",
+    "authors": [
+      "Zhifei Zhang",
+      "Yang Song",
+      "H. Qi"
+    ],
+    "publication_date": "2017-02-27",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "7bcebd481bb1161843efdd135e4ba59dfac4b61c",
+    "corpus_id": 810708,
+    "category": "Computer Science, Mathematics"
+  },
+  "1610-02413": {
+    "title": "Equality of Opportunity in Supervised Learning",
+    "authors": [
+      "Moritz Hardt",
+      "Eric Price",
+      "N. Srebro"
+    ],
+    "publication_date": "2016-10-07",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "d42b11ce90c9c69a20ed015b73dc33e0e4100a7b",
+    "corpus_id": 7567061,
+    "category": "Computer Science, Mathematics"
+  },
+  "1608-07187": {
+    "title": "Semantics derived automatically from language corpora contain human-like biases",
+    "authors": [
+      "Aylin Caliskan",
+      "J. Bryson",
+      "Arvind Narayanan"
+    ],
+    "publication_date": "2016-08-25",
+    "venue": "Science",
+    "semantic_scholar_id": "5966d7c7f60898d610812e24c64d4d57855ad86a",
+    "corpus_id": 23163324,
+    "category": "Computer Science, Medicine"
+  },
+  "1607-06520": {
+    "title": "Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings",
+    "authors": [
+      "Tolga Bolukbasi",
+      "Kai-Wei Chang",
+      "James Y. Zou",
+      "Venkatesh Saligrama",
+      "A. Kalai"
+    ],
+    "publication_date": "2016-07-21",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "ccf6a69a7f33bcf052aa7def176d3b9de495beb7",
+    "corpus_id": 1704893,
+    "category": "Computer Science, Mathematics"
+  },
+  "1505-04870": {
+    "title": "Flickr30k Entities: Collecting Region-to-Phrase Correspondences for Richer Image-to-Sentence Models",
+    "authors": [
+      "Bryan A. Plummer",
+      "Liwei Wang",
+      "Christopher M. Cervantes",
+      "Juan C. Caicedo",
+      "J. Hockenmaier",
+      "Svetlana Lazebnik"
+    ],
+    "publication_date": "2015-05-19",
+    "venue": "International Journal of Computer Vision",
+    "semantic_scholar_id": "11c9c31dff70de92ada9160c78ff8bb46b2912d6",
+    "corpus_id": 6941275,
+    "category": "Computer Science"
+  },
+  "1412-3756": {
+    "title": "Certifying and Removing Disparate Impact",
+    "authors": [
+      "Michael Feldman",
+      "Sorelle A. Friedler",
+      "John Moeller",
+      "C. Scheidegger",
+      "S. Venkatasubramanian"
+    ],
+    "publication_date": "2014-12-11",
+    "venue": "Knowledge Discovery and Data Mining",
+    "semantic_scholar_id": "0fee3b6c72f7676b4934651e517d0a328048c600",
+    "corpus_id": 2077168,
+    "category": "Computer Science, Mathematics"
+  },
+  "1810-04805": {
+    "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+    "authors": [
+      "Jacob Devlin",
+      "Ming-Wei Chang",
+      "Kenton Lee",
+      "Kristina Toutanova"
+    ],
+    "publication_date": "",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "df2b0e26d0599ce3e70df8a9da02e51594e0e992",
+    "corpus_id": 52967399,
+    "category": "Computer Science"
+  }
+}

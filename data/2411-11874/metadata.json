@@ -1,0 +1,17 @@
+{
+  "title": "Personalized Continual EEG Decoding: Retaining and Transferring Knowledge",
+  "authors": [
+    "Dan Li",
+    "Hye-Bin Shin",
+    "Kang Yin",
+    "Seong-Whan Lee"
+  ],
+  "summary": "The significant inter-subject variability in electroen-cephalogram (EEG) signals often results in substantial changes to neural network weights as data distributions shift. This variability frequently causes catastrophic forgetting in continual EEG decoding tasks, where previously acquired knowledge is overwritten as new subjects are introduced. While retraining the entire dataset for each new subject can mitigate forgetting, this approach imposes significant computational costs, rendering it impractical for real-world applications. Therefore, an ideal brain-computer interface (BCI) model should incrementally learn new information without requiring complete retraining, thereby reducing computational overhead. Existing EEG decoding meth-ods typically rely on large, centralized source-domain datasets for pre-training to improve model generalization. However, in practical scenarios, data availability is often constrained by privacy concerns. Furthermore, these methods are susceptible to catastrophic forgetting in continual EEG decoding tasks, significantly limiting their utility in long-term learning scenarios. To address these issues, we propose the Personalized Continual EEG Decoding (PCED) framework for continual EEG decoding. The framework uses Euclidean Alignment for fast domain adap-tation, reducing inter-subject variability. To retain knowledge and prevent forgetting, it includes an exemplar replay mechanism that preserves key information from past tasks. A reservoir sampling-based memory management strategy optimizes exemplar storage to handle memory constraints in long-term learning. Experiments on the OpenBMI dataset with 54 subjects show that PCED balances knowledge retention and classification performance, providing an efficient solution for real-world BCI applications.",
+  "submission_date": "2024-11-04",
+  "revised_dates": [
+    "2025-03-25"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP, cs.HC"
+}

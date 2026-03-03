@@ -1,0 +1,20 @@
+{
+  "title": "DSTC: Direct Preference Learning with Only Self-Generated Tests and Code to Improve Code LMs",
+  "authors": [
+    "Zhihan Liu",
+    "Shenao Zhang",
+    "Yongfei Liu",
+    "Boyi Liu",
+    "Yingxiang Yang",
+    "Zhaoran Wang"
+  ],
+  "summary": "Direct preference learning offers a promising and computation-efficient beyond supervised fine-tuning (SFT) for improving code generation in coding large language models (LMs). However, the scarcity of reliable preference data is a bottleneck for the performance of direct preference learning to improve the coding accuracy of code LMs. In this paper, we introduce \\underline{\\textbf{D}}irect Preference Learning with Only \\underline{\\textbf{S}}elf-Generated \\underline{\\textbf{T}}ests and \\underline{\\textbf{C}}ode (DSTC), a framework that leverages only self-generated code snippets and tests to construct reliable preference pairs such that direct preference learning can improve LM coding accuracy without external annotations. DSTC combines a minimax selection process and test-code concatenation to improve preference pair quality, reducing the influence of incorrect self-generated tests and enhancing model performance without the need for costly reward models. When applied with direct preference learning methods such as Direct Preference Optimization (DPO) and Kahneman-Tversky Optimization (KTO), DSTC yields stable improvements in coding accuracy (pass@1 score) across diverse coding benchmarks, including HumanEval, MBPP, and BigCodeBench, demonstrating both its effectiveness and scalability for models of various sizes. This approach autonomously enhances code generation accuracy across LLMs of varying sizes, reducing reliance on expensive annotated coding datasets.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-26",
+    "2024-12-10"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SE, cs.AI"
+}

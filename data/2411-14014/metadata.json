@@ -1,0 +1,15 @@
+{
+  "title": "Trajectory Representation Learning on Road Networks and Grids with Spatio-Temporal Dynamics",
+  "authors": [
+    "Stefan Schestakov",
+    "Simon Gottschalk"
+  ],
+  "summary": "Trajectory representation learning is a fundamental task for applications in fields including smart city, and urban planning, as it facilitates the utilization of trajectory data (e.g., vehicle movements) for various downstream applications, such as trajectory similarity computation or travel time estimation. This is achieved by learning low-dimensional representations from high-dimensional and raw trajectory data. However, existing methods for trajectory representation learning either rely on grid-based or road-based representations, which are inherently different and thus, could lose information contained in the other modality. Moreover, these methods overlook the dynamic nature of urban traffic, relying on static road network features rather than time varying traffic patterns. In this paper, we propose TIGR, a novel model designed to integrate grid and road network modalities while incorporating spatio-temporal dynamics to learn rich, general-purpose representations of trajectories. We evaluate TIGR on two realworld datasets and demonstrate the effectiveness of combining both modalities by substantially outperforming state-of-the-art methods, i.e., up to 43.22% for trajectory similarity, up to 16.65% for travel time estimation, and up to 10.16% for destination prediction.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-01-02"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI"
+}

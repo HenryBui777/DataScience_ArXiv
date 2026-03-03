@@ -1,0 +1,15 @@
+{
+  "title": "HARP: A Large-Scale Higher-Order Ambisonic Room Impulse Response Dataset",
+  "authors": [
+    "Shivam Saini",
+    "Jürgen Peissig"
+  ],
+  "summary": "This contribution introduces a dataset of 7th-order Ambisonic Room Impulse Responses (HOA-RIRs), created using the Image Source Method. By employing higher-order Ambisonics, our dataset enables precise spatial audio reproduction, a critical requirement for realistic immersive audio applications. Leveraging the virtual simulation, we present a unique microphone configuration, based on the superposition principle, designed to optimize sound field coverage while addressing the limitations of traditional microphone arrays. The presented 64-microphone configuration allows us to capture RIRs directly in the Spherical Harmonics domain. The dataset features a wide range of room configurations, encompassing variations in room geometry, acoustic absorption materials, and source-receiver distances. A detailed description of the simulation setup is provided alongside for an accurate reproduction. The dataset serves as a vital resource for researchers working on spatial audio, particularly in applications involving machine learning to improve room acoustics modeling and sound field synthesis. It further provides a very high level of spatial resolution and realism crucial for tasks such as source localization, reverberation prediction, and immersive sound reproduction.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-01-19"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SD, cs.AI, cs.LG, cs.MM, eess.AS"
+}

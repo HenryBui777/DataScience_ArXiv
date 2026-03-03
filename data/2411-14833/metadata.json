@@ -1,0 +1,19 @@
+{
+  "title": "Cell as Point: One-Stage Framework for Efficient Cell Tracking",
+  "authors": [
+    "Yaxuan Song",
+    "Jianan Fan",
+    "Heng Huang",
+    "Mei Chen",
+    "Weidong Cai"
+  ],
+  "summary": "Conventional multi-stage cell tracking approaches rely heavily on detection or segmentation in each frame as a prerequisite, requiring substantial resources for high-quality segmentation masks and increasing the overall prediction time. To address these limitations, we propose CAP, a novel end-to-end one-stage framework that reimagines cell tracking by treating Cell as Point. Unlike traditional methods, CAP eliminates the need for explicit detection or segmentation, instead jointly tracking cells for sequences in one stage by leveraging the inherent correlations among their trajectories. This simplification reduces both labeling requirements and pipeline complexity. However, directly processing the entire sequence in one stage poses challenges related to data imbalance in capturing cell division events and long sequence inference. To solve these challenges, CAP introduces two key innovations: (1) adaptive event-guided (AEG) sampling, which prioritizes cell division events to mitigate the occurrence imbalance of cell events, and (2) the rolling-as-window (RAW) inference strategy, which ensures continuous and stable tracking of newly emerging cells over extended sequences. By removing the dependency on segmentation-based preprocessing while addressing the challenges of imbalanced occurrence of cell events and long-sequence tracking, CAP demonstrates promising cell tracking performance and is 8 to 32 times more efficient than existing methods. The code and model checkpoints will be available soon.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-03-10",
+    "2025-10-12"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.CV, q-bio.QM"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Quantifying Haptic Affection of Car Door through Data-Driven Analysis of Force Profile",
+  "authors": [
+    "Mudassir Ibrahim Awan",
+    "Ahsan Raza",
+    "Waseem Hassan",
+    "Ki-Uk Kyung",
+    "Seokhee Jeon"
+  ],
+  "summary": "Haptic affection plays a crucial role in user experience, particularly in the automotive industry where the tactile quality of components can influence customer satisfaction. This study aims to accurately predict the affective property of a car door by only watching the force or torque profile of it when opening. To this end, a deep learning model is designed to capture the underlying relationships between force profiles and user-defined adjective ratings, providing insights into the door-opening experience. The dataset employed in this research includes force profiles and user adjective ratings collected from six distinct car models, reflecting a diverse set of door-opening characteristics and tactile feedback. The model's performance is assessed using Leave-One-Out Cross-Validation, a method that measures its generalization capability on unseen data. The results demonstrate that the proposed model achieves a high level of prediction accuracy, indicating its potential in various applications related to haptic affection and design optimization in the automotive industry.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-05-02",
+    "2025-05-22"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.HC"
+}

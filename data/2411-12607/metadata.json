@@ -1,0 +1,17 @@
+{
+  "title": "Single-fluid simulation of partially-ionized, non-ideal plasma facilitated by a tabulated equation of state",
+  "authors": [
+    "G. Su",
+    "S. T. Millmore",
+    "X. Zhang",
+    "N. Nikiforakis"
+  ],
+  "summary": "We present a single-fluid approach for the simulation of partially-ionized plasmas (PIPs) which is designed to capture the non-ideal effects introduced by neutrals while remaining close in computational efficiency to single-fluid MHD. This is achieved using a model which treats the entire partially-ionized plasma as a single mixture, which renders internal ionization/recombination source terms unnecessary as both the charged and neutral species are part of the mixture's conservative system. Instead, the effects of ionization and the differing physics of the species are encapsulated as material properties of the mixture. Furthermore, the differing dynamics between the charged and neutral species is captured using a relative-velocity quantity, which impacts the bulk behavior of the mixture in a manner similar to the treatment of the ion-electron relative-velocity as current in MHD. Unlike fully-ionized plasmas, the species composition of a PIP changes rapidly with its thermodynamic state. This is captured through a look-up table referred to as the tabulated equation of state (TabEoS), which is constructed prior to runtime using empirical physicochemical databases and efficiently provides the ionization fraction and other material properties of the PIP specific to the thermodynamic state of each computational cell. Crucially, the use of TabEoS also allows our approach to self-consistently capture the non-linear feedback cycle between the PIP's macroscopic behavior and the microscopic physics of its internal particles, which is neglected in many fluid simulations of plasmas today.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-25"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.plasm-ph, astro-ph.SR, physics.comp-ph, physics.flu-dyn"
+}

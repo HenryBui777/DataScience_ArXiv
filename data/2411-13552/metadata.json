@@ -1,0 +1,22 @@
+{
+  "title": "REDUCIO! Generating 1K Video within 16 Seconds using Extremely Compressed Motion Latents",
+  "authors": [
+    "Rui Tian",
+    "Qi Dai",
+    "Jianmin Bao",
+    "Kai Qiu",
+    "Yifan Yang",
+    "Chong Luo",
+    "Zuxuan Wu",
+    "Yu-Gang Jiang"
+  ],
+  "summary": "Commercial video generation models have exhibited realistic, high-fidelity results but are still restricted to limited access. One crucial obstacle for large-scale applications is the expensive training and inference cost. In this paper, we argue that videos contain significantly more redundant information than images, allowing them to be encoded with very few motion latents. Towards this goal, we design an image-conditioned VAE that projects videos into extremely compressed latent space and decode them based on content images. This magic Reducio charm enables 64x reduction of latents compared to a common 2D VAE, without sacrificing the quality. Building upon Reducio-VAE, we can train diffusion models for high-resolution video generation efficiently. Specifically, we adopt a two-stage generation paradigm, first generating a condition image via text-to-image generation, followed by text-image-to-video generation with the proposed Reducio-DiT. Extensive experiments show that our model achieves strong performance in evaluation. More importantly, our method significantly boosts the training and inference efficiency of video LDMs. Reducio-DiT is trained in just 3.2K A100 GPU hours in total and can generate a 16-frame 1024$\\times$1024 video clip within 15.5 seconds on a single A100 GPU. Code released at https://github.com/microsoft/Reducio-VAE .",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-26",
+    "2025-08-12"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

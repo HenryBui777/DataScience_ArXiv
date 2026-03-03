@@ -1,0 +1,16 @@
+{
+  "title": "Estimate Sonic Mach Number in the Interstellar Medium with Convolutional Neural Network",
+  "authors": [
+    "Tyler Schmaltz",
+    "Yue Hu",
+    "Alex Lazarian"
+  ],
+  "summary": "Understanding the role of turbulence in shaping the interstellar medium (ISM) is crucial for studying star formation, molecular cloud evolution, and cosmic ray propagation. Central to this is the measurement of the sonic Mach number ($M_s$), which quantifies the ratio of turbulent velocity to the sound speed. In this work, we introduce a convolutional neural network (CNN)-based approach for estimating $M_s$ directly from spectroscopic observations. The approach leverages the physical correlation between increasing $M_s$ and the shock-induced small-scale fluctuations that alter the morphological features in intensity, velocity centroid, and velocity channel maps. These maps, derived from 3D magnetohydrodynamic (MHD) turbulence simulations, serve as inputs for the CNN training. By learning the relationship between these structural features and the underlying turbulence properties, CNN can predict $M_s$ under various conditions, including different magnetic fields and levels of observational noise. The median uncertainty of the CNN-predicted $M_s$ ranges from 0.5 to 1.5 depending on the noise level. While intensity maps offer lower uncertainty, channel maps have the advantage of predicting the 3D $M_s$ distribution, which is crucial in estimating 3D magnetic field strength. Our results demonstrate that machine-learning-based tools can effectively characterize complex turbulence properties in the ISM.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [
+    "2025-02-05"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.GA"
+}

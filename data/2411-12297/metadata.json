@@ -1,0 +1,17 @@
+{
+  "title": "Quantum Indistinguishable Obfuscation via Quantum Circuit Equivalence",
+  "authors": [
+    "Yuanjing Zhang",
+    "Tao Shang",
+    "Kun Zhang",
+    "Chenyi Zhang",
+    "Haohua Du",
+    "Xueyi Guo"
+  ],
+  "summary": "Quantum computing solutions are increasingly deployed in commercial environments through delegated computing, especially one of the most critical issues is to guarantee the confidentiality and proprietary of quantum implementations. Since the proposal of general-purpose indistinguishability obfuscation (iO) and functional encryption schemes, iO has emerged as a seemingly versatile cryptography primitive. Existing research on quantum indistinguishable obfuscation (QiO) primarily focuses on task-oriented, lacking solutions to general quantum computing. In this paper, we propose a scheme for constructing QiO via the equivalence of quantum circuits. It introduces the concept of quantum subpath sum equivalence, demonstrating that indistinguishability between two quantum circuits can be achieved by incremental changes in quantum subpaths. The restriction of security loss is solved by reducing the distinguisher to polynomial probability test. The scheme obfuscates the quantum implementation of classical functions in a path-sum specification, ensuring the indistinguishability between different quantum implementations. The results demonstrate the feasibility of indistinguishability obfuscation for general circuits and provide novel insights on intellectual property protection and secure delegated quantum computing.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

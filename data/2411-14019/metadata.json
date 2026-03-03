@@ -1,0 +1,12 @@
+{
+  "title": "Time-Scale Separation in Q-Learning: Extending TD($\\triangle$) for Action-Value Function Decomposition",
+  "authors": [
+    "Mahammad Humayoo"
+  ],
+  "summary": "Q-Learning is a fundamental off-policy reinforcement learning (RL) algorithm that has the objective of approximating action-value functions in order to learn optimal policies. Nonetheless, it has difficulties in reconciling bias with variance, particularly in the context of long-term rewards. This paper introduces Q($Δ$)-Learning, an extension of TD($Δ$) for the Q-Learning framework. TD($Δ$) facilitates efficient learning over several time scales by breaking the Q($Δ$)-function into distinct discount factors. This approach offers improved learning stability and scalability, especially for long-term tasks where discounting bias may impede convergence. Our methodology guarantees that each element of the Q($Δ$)-function is acquired individually, facilitating expedited convergence on shorter time scales and enhancing the learning of extended time scales. We demonstrate through theoretical analysis and practical evaluations on standard benchmarks like Atari that Q($Δ$)-Learning surpasses conventional Q-Learning and TD learning methods in both tabular and deep RL environments.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, stat.ML"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Analytic Design of Flat-Wire Inductors for High-Current and Compact DC-DC Converters",
+  "authors": [
+    "Sajjad Mohammadi",
+    "James L. Kirtley",
+    "Alireza Namadmalan"
+  ],
+  "summary": "This paper presents analytic study and design considerations of flat wire inductors with distributed gaps for high-power and compact DC-DC Converters. The focus is eddy current loss components within the conductors due to fringing and leakage fluxes. A magnetic equivalent circuit (MEC) is proposed in which eddy currents are modeled by MMFs opposing the primary flux as well as frequency dependent reluctances, which finally leads to a frequency dependent inductance describing the behavior of the inductor at high frequencies. Three formulations for DC resistance depending on the required accuracy are developed. Calculations of the AC resistance based on vector potential obtained from FEM are provided. To provide an insight into the optimized design of such inductors, components of the magnetic flux and induced eddy currents along with sensitivity of the main inductor quantities such as DCR, ESR, loss components and inductance values to the design parameters are investigated. Finally, an inductor is prototyped and experimentally tested to verify the design.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-29"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "3D Reconstruction by Looking: Instantaneous Blind Spot Detector for Indoor SLAM through Mixed Reality",
+  "authors": [
+    "Hanbeom Chang",
+    "Jongseong Brad Choi",
+    "Chul Min Yeum"
+  ],
+  "summary": "Indoor SLAM often suffers from issues such as scene drifting, double walls, and blind spots, particularly in confined spaces with objects close to the sensors (e.g. LiDAR and cameras) in reconstruction tasks. Real-time visualization of point cloud registration during data collection may help mitigate these issues, but a significant limitation remains in the inability to in-depth compare the scanned data with actual physical environments. These challenges obstruct the quality of reconstruction products, frequently necessitating revisit and rescan efforts. For this regard, we developed the LiMRSF (LiDAR-MR-RGB Sensor Fusion) system, allowing users to perceive the in-situ point cloud registration by looking through a Mixed-Reality (MR) headset. This tailored framework visualizes point cloud meshes as holograms, seamlessly matching with the real-time scene on see-through glasses, and automatically highlights errors detected while they overlap. Such holographic elements are transmitted via a TCP server to an MR headset, where it is calibrated to align with the world coordinate, the physical location. This allows users to view the localized reconstruction product instantaneously, enabling them to quickly identify blind spots and errors, and take prompt action on-site. Our blind spot detector achieves an error detection precision with an F1 Score of 75.76% with acceptably high fidelity of monitoring through the LiMRSF system (highest SSIM of 0.5619, PSNR of 14.1004, and lowest MSE of 0.0389 in the five different sections of the simplified mesh model which users visualize through the LiMRSF device see-through glasses). This method ensures the creation of detailed, high-quality datasets for 3D models, with potential applications in Building Information Modeling (BIM) but not limited.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.HC, cs.CV, cs.GR"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "DIETS: Diabetic Insulin Management System in Everyday Life",
+  "authors": [
+    "Hanyu Zeng",
+    "Hui Ji",
+    "Pengfei Zhou"
+  ],
+  "summary": "People with diabetes need insulin delivery to effectively manage their blood glucose levels, especially after meals, because their bodies either do not produce enough insulin or cannot fully utilize it. Accurate insulin delivery starts with estimating the nutrients in meals and is followed by developing a detailed, personalized insulin injection strategy. These tasks are particularly challenging in daily life, especially without professional guidance. Existing solutions usually assume the prior knowledge of nutrients in meals and primarily rely on feedback from professional clinicians or simulators to develop Reinforcement Learning-based models for insulin management, leading to extensive consumption of medical resources and difficulties in adapting the models to new patients due to individual differences. In this paper, we propose DIETS, a novel diabetic insulin management framework built on the transformer architecture, to help people with diabetes effectively manage insulin delivery in everyday life. Specifically, DIETS tailors a Large Language Model (LLM) to estimate the nutrients in meals and employs a titration model to generate recommended insulin injection strategies, which are further validated by a glucose prediction model to prevent potential risks of hyperglycemia or hypoglycemia. DIETS has been extensively evaluated on three public datasets, and the results show it achieves superior performance in providing effective insulin delivery recommendation to control blood glucose levels.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "The Aldous$\\unicode{x2013}$Hoover Theorem in Categorical Probability",
+  "authors": [
+    "Leihao Chen",
+    "Tobias Fritz",
+    "Tomáš Gonda",
+    "Andreas Klingler",
+    "Antonio Lorenzin"
+  ],
+  "summary": "The Aldous-Hoover Theorem concerns an infinite matrix of random variables whose distribution is invariant under finite permutations of rows and columns. It states that, up to equality in distribution, each random variable in the matrix can be expressed as a function only depending on four key variables: one common to the entire matrix, one that encodes information about its row, one that encodes information about its column, and a fourth one specific to the matrix entry.\n  We state and prove the theorem within a category-theoretic approach to probability, namely the theory of Markov categories. This makes the proof more transparent and intuitive when compared to measure-theoretic ones. A key role is played by a newly identified categorical property, the Cauchy--Schwarz axiom, which also facilitates a new synthetic de Finetti Theorem.\n  We further provide a variant of our proof using the ordered Markov property and the d-separation criterion, both generalized from Bayesian networks to Markov categories. We expect that this approach will facilitate a systematic development of more complex results in the future, such as categorical approaches to hierarchical exchangeability.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-09-25"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.ST, cs.LO, math.CT, math.PR"
+}

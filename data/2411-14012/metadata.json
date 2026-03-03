@@ -1,0 +1,15 @@
+{
+  "title": "Logic Augmented Generation",
+  "authors": [
+    "Aldo Gangemi",
+    "Andrea Giovanni Nuzzolese"
+  ],
+  "summary": "Semantic Knowledge Graphs (SKG) face challenges with scalability, flexibility, contextual understanding, and handling unstructured or ambiguous information. However, they offer formal and structured knowledge enabling highly interpretable and reliable results by means of reasoning and querying. Large Language Models (LLMs) overcome those limitations making them suitable in open-ended tasks and unstructured environments. Nevertheless, LLMs are neither interpretable nor reliable. To solve the dichotomy between LLMs and SKGs we envision Logic Augmented Generation (LAG) that combines the benefits of the two worlds. LAG uses LLMs as Reactive Continuous Knowledge Graphs that can generate potentially infinite relations and tacit knowledge on-demand. SKGs are key for injecting a discrete heuristic dimension with clear logical and factual boundaries. We exemplify LAG in two tasks of collective intelligence, i.e., medical diagnostics and climate projections. Understanding the properties and limitations of LAG, which are still mostly unknown, is of utmost importance for enabling a variety of tasks involving tacit knowledge in order to provide interpretable and effective results.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-01-14"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AI, cs.CL"
+}

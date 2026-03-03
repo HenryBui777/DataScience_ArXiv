@@ -1,0 +1,17 @@
+{
+  "title": "Sequential Quantum Maximum Confidence Discrimination",
+  "authors": [
+    "Hanwool Lee",
+    "Kieran Flatt",
+    "Joonwoo Bae"
+  ],
+  "summary": "Sequential quantum information processing may lie in the peaceful coexistence of no-go theorems on quantum operations, such as the no-cloning theorem, the monogamy of correlations, and the no-signalling principle. In this work, we investigate a sequential scenario of quantum state discrimination with maximum confidence, called maximum-confidence discrimination, which generalizes other strategies including minimum-error and unambiguous state discrimination. We show that sequential state discrimination with equally high confidence can be realized only when positive-operator-valued measure elements for a maximum-confidence measurement are linearly independent; otherwise, a party will have strictly less confidence in measurement outcomes than the previous one. We establish a tradeoff between the disturbance of states and information gain in sequential state discrimination, namely, that the less a party learn in state discrimination in terms of a guessing probability, the more parties can participate in the sequential scenario.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-20",
+    "2024-11-22"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

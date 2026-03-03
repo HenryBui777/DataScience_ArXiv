@@ -1,0 +1,24 @@
+{
+  "title": "Enhancing Diagnostic Precision in Gastric Bleeding through Automated Lesion Segmentation: A Deep DuS-KFCM Approach",
+  "authors": [
+    "Xian-Xian Liu",
+    "Mingkun Xu",
+    "Yuanyuan Wei",
+    "Huafeng Qin",
+    "Qun Song",
+    "Simon Fong",
+    "Feng Tien",
+    "Wei Luo",
+    "Juntao Gao",
+    "Zhihua Zhang",
+    "Shirley Siu"
+  ],
+  "summary": "Timely and precise classification and segmentation of gastric bleeding in endoscopic imagery are pivotal for the rapid diagnosis and intervention of gastric complications, which is critical in life-saving medical procedures. Traditional methods grapple with the challenge posed by the indistinguishable intensity values of bleeding tissues adjacent to other gastric structures. Our study seeks to revolutionize this domain by introducing a novel deep learning model, the Dual Spatial Kernelized Constrained Fuzzy C-Means (Deep DuS-KFCM) clustering algorithm. This Hybrid Neuro-Fuzzy system synergizes Neural Networks with Fuzzy Logic to offer a highly precise and efficient identification of bleeding regions. Implementing a two-fold coarse-to-fine strategy for segmentation, this model initially employs the Spatial Kernelized Fuzzy C-Means (SKFCM) algorithm enhanced with spatial intensity profiles and subsequently harnesses the state-of-the-art DeepLabv3+ with ResNet50 architecture to refine the segmentation output. Through extensive experiments across mainstream gastric bleeding and red spots datasets, our Deep DuS-KFCM model demonstrated unprecedented accuracy rates of 87.95%, coupled with a specificity of 96.33%, outperforming contemporary segmentation methods. The findings underscore the model's robustness against noise and its outstanding segmentation capabilities, particularly for identifying subtle bleeding symptoms, thereby presenting a significant leap forward in medical image processing.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-25"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.CV"
+}

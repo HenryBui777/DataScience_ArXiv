@@ -1,0 +1,17 @@
+{
+  "title": "Explainable Multi-Agent Reinforcement Learning for Extended Reality Codec Adaptation",
+  "authors": [
+    "Pedro Enrique Iturria-Rivera",
+    "Raimundas Gaigalas",
+    "Medhat Elsayed",
+    "Majid Bavand",
+    "Yigit Ozcan",
+    "Melike Erol-Kantarci"
+  ],
+  "summary": "Extended Reality (XR) services are set to transform applications over 5th and 6th generation wireless networks, delivering immersive experiences. Concurrently, Artificial Intelligence (AI) advancements have expanded their role in wireless networks, however, trust and transparency in AI remain to be strengthened. Thus, providing explanations for AI-enabled systems can enhance trust. We introduce Value Function Factorization (VFF)-based Explainable (X) Multi-Agent Reinforcement Learning (MARL) algorithms, explaining reward design in XR codec adaptation through reward decomposition. We contribute four enhancements to XMARL algorithms. Firstly, we detail architectural modifications to enable reward decomposition in VFF-based MARL algorithms: Value Decomposition Networks (VDN), Mixture of Q-Values (QMIX), and Q-Transformation (Q-TRAN). Secondly, inspired by multi-task learning, we reduce the overhead of vanilla XMARL algorithms. Thirdly, we propose a new explainability metric, Reward Difference Fluctuation Explanation (RDFX), suitable for problems with adjustable parameters. Lastly, we propose adaptive XMARL, leveraging network gradients and reward decomposition for improved action selection. Simulation results indicate that, in XR codec adaptation, the Packet Delivery Ratio reward is the primary contributor to optimal performance compared to the initial composite reward, which included delay and Data Rate Ratio components. Modifications to VFF-based XMARL algorithms, incorporating multi-headed structures and adaptive loss functions, enable the best-performing algorithm, Multi-Headed Adaptive (MHA)-QMIX, to achieve significant average gains over the Adjust Packet Size baseline up to 10.7%, 41.4%, 33.3%, and 67.9% in XR index, jitter, delay, and Packet Loss Ratio (PLR), respectively.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.NI"
+}

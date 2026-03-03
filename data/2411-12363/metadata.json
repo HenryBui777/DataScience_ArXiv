@@ -1,0 +1,22 @@
+{
+  "title": "DGSNA: prompt-based Dynamic Generative Scene-based Noise Addition method",
+  "authors": [
+    "Zihao Chen",
+    "Zhentao Lin",
+    "Bi Zeng",
+    "Linyi Huang",
+    "Zhi Li",
+    "Jia Cai"
+  ],
+  "summary": "To ensure the reliable operation of speech systems across diverse environments, noise addition methods have emerged as the prevailing solution. However, existing methods offer limited coverage of real-world noisy scenes and depend on pre-existing scene-based information and noise. This paper presents prompt-based Dynamic Generative Scene-based Noise Addition (DGSNA), a novel noise addition methodology that integrates Dynamic Generation of Scene-based Information (DGSI) with Scene-based Noise Addition for Speech (SNAS). This integration facilitates automated scene-based noise addition by transforming clean speech into various noise environments, thereby providing a more comprehensive and realistic simulation of diverse noise conditions. Experimental results demonstrate that DGSNA significantly enhances the robustness of speech recognition and keyword spotting models across various noise conditions, achieving a relative improvement of up to 11.21%. Furthermore, DGSNA can be effectively integrated with other noise addition methods to enhance performance. Our implementation and demonstrations are available at https://dgsna.github.io.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-04-02",
+    "2025-04-08",
+    "2025-05-12",
+    "2025-05-26"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SD, eess.AS"
+}

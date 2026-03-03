@@ -1,0 +1,19 @@
+{
+  "title": "Pitch-and-Spectrum-Aware Singing Quality Assessment with Bias Correction and Model Fusion",
+  "authors": [
+    "Yu-Fei Shi",
+    "Yang Ai",
+    "Ye-Xin Lu",
+    "Hui-Peng Du",
+    "Zhen-Hua Ling"
+  ],
+  "summary": "We participated in track 2 of the VoiceMOS Challenge 2024, which aimed to predict the mean opinion score (MOS) of singing samples. Our submission secured the first place among all participating teams, excluding the official baseline. In this paper, we further improve our submission and propose a novel Pitch-and-Spectrum-aware Singing Quality Assessment (PS-SQA) method. The PS-SQA is designed based on the self-supervised-learning (SSL) MOS predictor, incorporating singing pitch and spectral information, which are extracted using pitch histogram and non-quantized neural codec, respectively. Additionally, the PS-SQA introduces a bias correction strategy to address prediction biases caused by low-resource training samples, and employs model fusion technology to further enhance prediction accuracy. Experimental results confirm that our proposed PS-SQA significantly outperforms all competing systems across all system-level metrics, confirming its strong sing quality assessment capabilities.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [
+    "2024-12-20",
+    "2024-12-23"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SD, eess.AS"
+}

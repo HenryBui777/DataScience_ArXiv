@@ -1,0 +1,17 @@
+{
+  "title": "An efficient Asymptotic-Preserving scheme for the Boltzmann mixture with disparate mass",
+  "authors": [
+    "Zhen Hao",
+    "Ning Jiang",
+    "Liu Liu"
+  ],
+  "summary": "In this paper, we develop and implement an efficient asymptotic-preserving (AP) scheme to solve the gas mixture of Boltzmann equations under the disparate mass scaling relevant to the so-called \"epochal relaxation\" phenomenon. The disparity in molecular masses, ranging across several orders of magnitude, leads to significant challenges in both the evaluation of collision operators and the designing of time-stepping schemes to capture the multi-scale nature of the dynamics. A direct implementation of the spectral method faces prohibitive computational costs as the mass ratio increases due to the need to resolve vastly different thermal velocities. Unlike [I. M. Gamba, S. Jin, and L. Liu, Commun. Math. Sci., 17 (2019), pp. 1257-1289], we propose an alternative approach based on proper truncation of asymptotic expansions of the collision operators, which significantly reduces the computational complexity and works well for small $\\varepsilon$. By incorporating the separation of three time scales in the model's relaxation process [P. Degond and B. Lucquin-Desreux, Math. Models Methods Appl. Sci., 6 (1996), pp. 405-436], we design an AP scheme that captures the specific dynamics of the disparate mass model while maintaining computational efficiency. Numerical experiments demonstrate the effectiveness of the proposed scheme in handling large mass ratios of heavy and light species, as well as capturing the epochal relaxation phenomenon.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-05-16",
+    "2025-07-10"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

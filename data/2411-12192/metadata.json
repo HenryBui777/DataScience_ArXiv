@@ -1,0 +1,15 @@
+{
+  "title": "Sample path properties and small ball probabilities for stochastic fractional diffusion equations",
+  "authors": [
+    "Yuhui Guo",
+    "Jian Song",
+    "Ran Wang",
+    "Yimin Xiao"
+  ],
+  "summary": "We consider the following stochastic space-time fractional diffusion equation with vanishing initial condition:$$ \\partial^β u(t, x)=- \\left(-Δ\\right)^{α/ 2} u(t, x)+ I_{0+}^γ\\left[\\dot{W}(t, x)\\right],\\quad t\\in[0,T],\\: x \\in \\mathbb{R}^d,$$ where $α>0$, $β\\in(0,2)$, $γ\\in[0,1)$, $\\left(-Δ\\right)^{α/2}$ is the fractional/power of Laplacian and $\\dot{W}$ is a fractional space-time Gaussian noise. We prove the existence and uniqueness of the solution and then focus on various sample path regularity properties of the solution. More specifically, we establish the exact uniform and local moduli of continuity and Chung-type laws of the iterated logarithm. The small ball probability is also studied.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.PR"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "A Brief Introduction to PACIAE 4.0",
+  "authors": [
+    "An-Ke Lei",
+    "Zhi-Lei She",
+    "Yu-Liang Yan",
+    "Dai-Mei Zhou",
+    "Liang Zheng",
+    "Wen-Chao Zhang",
+    "Hua Zheng",
+    "Larissa V. Bravina",
+    "Evgeny E. Zabrodin",
+    "Ben-Hao Sa"
+  ],
+  "summary": "Parton And-hadron China Institute of Atomic Energy (PACIAE) is a multipurpose Monte Carlo event generator developed to describe a wide range of high-energy collisions, including lepton-lepton, lepton-hadron, lepton-nucleus, hadron-hadron, hadron-nucleus, and nucleus-nucleus collisions. It is built based on the PYTHIA program, and incorporates parton and hadron cascades to address the nuclear medium effects. PACIAE 4.0 is the new generation of PACIAE model surpassing the version 3.0. In PACIAE 4.0, the old fixed-format FORTRAN 77 code has been refactored and rewritten by the free-format modern Fortran and C++ languages. The C++-based PYTHIA 8.3 is interfaced in, while previous versions connected to the Fortran-based PYTHIA 6.4 only. Several improvements are also introduced, which enable PACIAE 4.0 to contain more physics and features to model the high-energy collisions. This is the first attempt to transition PACIAE from Fortran to C++.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "hep-ph"
+}

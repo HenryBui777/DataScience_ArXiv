@@ -1,0 +1,14 @@
+{
+  "title": "Behaviors of the Tate--Shafarevich group of elliptic curves under quadratic field extensions",
+  "authors": [
+    "Asuka Shiga"
+  ],
+  "summary": "Let $E$ be an elliptic curve defined over $\\Bbb{Q}$. We study the behavior of the Tate--Shafarevich group of $E$ under quadratic extensions $\\Bbb{Q}(\\sqrt{D})/\\Bbb{Q}$. First, we determine the cokernel of the restriction map $H^1(\\mathrm{Gal}(\\overline{\\Bbb{Q}}/\\Bbb{Q}),E)[2] \\to \\bigoplus_{p}H^1(\\mathrm{Gal}(\\overline{\\Bbb{Q}_p}/\\Bbb{Q}_p),E)[2]$. Using this result, without assuming the finiteness of the Tate--Shafarevich group, we prove that the ratio $\\frac{\\#\\Sha(E/\\Bbb{Q}(\\sqrt{D}))[4]}{\\#\\Sha(E_D/\\Bbb{Q})[2]}$ can grow arbitrarily large, where $E_D$ denotes the quadratic twist of $E$ by $D$. For elliptic curves of the form $E : y^2 = x^3 + px$ with $p$ an odd prime, assuming the finiteness of the relevant Tate--Shafarevich groups, we prove two results: first, that $\\Sha(E_D/\\Bbb{Q})[2] = 0$ for infinitely many square-free integers $D$, and second, that $\\#\\Sha(E/\\Bbb{Q}(\\sqrt{D}))[2] \\leq 4$ for infinitely many imaginary quadratic fields $\\Bbb{Q}(\\sqrt{D})$, although $\\Sha(E/\\Bbb{Q}(\\sqrt{D}))[2]$ cannot be made trivial in general.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-12-09"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NT"
+}

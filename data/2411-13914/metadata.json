@@ -1,0 +1,20 @@
+{
+  "title": "ICODE: Modeling Dynamical Systems with Extrinsic Input Information",
+  "authors": [
+    "Zhaoyi Li",
+    "Wenjie Mei",
+    "Ke Yu",
+    "Yang Bai",
+    "Shihua Li"
+  ],
+  "summary": "Learning models of dynamical systems with external inputs, which may be, for example, nonsmooth or piecewise, is crucial for studying complex phenomena and predicting future state evolution, which is essential for applications such as safety guarantees and decision-making. In this work, we introduce \\emph{Input Concomitant Neural ODEs (ICODEs)}, which incorporate precise real-time input information into the learning process of the models, rather than treating the inputs as hidden parameters to be learned. The sufficient conditions to ensure the model's contraction property are provided to guarantee that system trajectories of the trained model converge to a fixed point, regardless of initial conditions across different training processes. We validate our method through experiments on several representative real dynamics: Single-link robot, DC-to-DC converter, motion dynamics of a rigid body, Rabinovich-Fabrikant equation, Glycolytic-glycogenolytic pathway model, and heat conduction equation. The experimental results demonstrate that our proposed ICODEs efficiently learn the ground truth systems, achieving superior prediction performance under both typical and atypical inputs. This work offers a valuable class of neural ODE models for understanding physical systems with explicit external input information, with potentially promising applications in fields such as physics and robotics. Our code is available online at https://github.com/EEE-ai59/ICODE.git.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-26",
+    "2025-03-16",
+    "2025-04-15"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

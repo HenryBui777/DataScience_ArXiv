@@ -1,0 +1,14 @@
+{
+  "title": "SpikEmo: Enhancing Emotion Recognition With Spiking Temporal Dynamics in Conversations",
+  "authors": [
+    "Xiaomin Yu",
+    "Feiyang Wang",
+    "Ziyue Qiao"
+  ],
+  "summary": "In affective computing, the task of Emotion Recognition in Conversations (ERC) has emerged as a focal area of research. The primary objective of this task is to predict emotional states within conversations by analyzing multimodal data including text, audio, and video. While existing studies have progressed in extracting and fusing representations from multimodal data, they often overlook the temporal dynamics in the data during conversations. To address this challenge, we have developed the SpikEmo framework, which is based on spiking neurons and employs a Semantic & Dynamic Two-stage Modeling approach to more precisely capture the complex temporal features of multimodal emotional data. Additionally, to tackle the class imbalance and emotional semantic similarity problems in the ERC tasks, we have devised an innovative combination of loss functions that significantly enhances the model's performance when dealing with ERC data characterized by long-tail distributions. Extensive experiments conducted on multiple ERC benchmark datasets demonstrate that SpikEmo significantly outperforms existing state-of-the-art methods in ERC tasks. Our code is available at https://github.com/Yu-xm/SpikEmo.git.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.MM"
+}

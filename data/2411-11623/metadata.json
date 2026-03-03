@@ -1,0 +1,19 @@
+{
+  "title": "Federated Incremental Named Entity Recognition",
+  "authors": [
+    "Duzhen Zhang",
+    "Yahan Yu",
+    "Chenxing Li",
+    "Jiahua Dong",
+    "Dong Yu"
+  ],
+  "summary": "Federated Named Entity Recognition (FNER) boosts model training within each local client by aggregating the model updates of decentralized local clients, without sharing their private data. However, existing FNER methods assume fixed entity types and local clients in advance, leading to their ineffectiveness in practical applications. In a more realistic scenario, local clients receive new entity types continuously, while new local clients collecting novel data may irregularly join the global FNER training. This challenging setup, referred to here as Federated Incremental NER, renders the global model suffering from heterogeneous forgetting of old entity types from both intra-client and inter-client perspectives. To overcome these challenges, we propose a Local-Global Forgetting Defense (LGFD) model. Specifically, to address intra-client forgetting, we develop a structural knowledge distillation loss to retain the latent space's feature structure and a pseudo-label-guided inter-type contrastive loss to enhance discriminative capability over different entity types, effectively preserving previously learned knowledge within local clients. To tackle inter-client forgetting, we propose a task switching monitor that can automatically identify new entity types under privacy protection and store the latest old global model for knowledge distillation and pseudo-labeling. Experiments demonstrate significant improvement of our LGFD model over comparison methods.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-03-24",
+    "2025-03-29"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL"
+}

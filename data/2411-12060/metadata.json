@@ -1,0 +1,16 @@
+{
+  "title": "Interpretation of High-Dimensional Regression Coefficients by Comparison with Linearized Compressing Features",
+  "authors": [
+    "Joachim Schaeffer",
+    "Jinwook Rhyu",
+    "Robin Droop",
+    "Rolf Findeisen",
+    "Richard Braatz"
+  ],
+  "summary": "Linear regression is often deemed inherently interpretable; however, challenges arise for high-dimensional data. We focus on further understanding how linear regression approximates nonlinear responses from high-dimensional functional data, motivated by predicting cycle life for lithium-ion batteries. We develop a linearization method to derive feature coefficients, which we compare with the closest regression coefficients of the path of regression solutions. We showcase the methods on battery data case studies where a single nonlinear compressing feature, $g\\colon \\mathbb{R}^p \\to \\mathbb{R}$, is used to construct a synthetic response, $\\mathbf{y} \\in \\mathbb{R}$. This unifying view of linear regression and compressing features for high-dimensional functional data helps to understand (1) how regression coefficients are shaped in the highly regularized domain and how they relate to linearized feature coefficients and (2) how the shape of regression coefficients changes as a function of regularization to approximate nonlinear responses by exploiting local structures.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, stat.ML"
+}

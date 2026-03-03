@@ -1,0 +1,14 @@
+{
+  "title": "Isogeometric collocation with smooth mixed degree splines over planar multi-patch domains",
+  "authors": [
+    "Mario Kapl",
+    "Aljaž Kosmač",
+    "Vito Vitrih"
+  ],
+  "summary": "We present a novel isogeometric collocation method for solving the Poisson's and the biharmonic equation over planar bilinearly parameterized multi-patch geometries. The proposed approach relies on the use of a modified construction of the C^s-smooth mixed degree isogeometric spline space [20] for s=2 and s=4 in case of the Poisson's and the biharmonic equation, respectively. The adapted spline space possesses the minimal possible degree p=s+1 everywhere on the multi-patch domain except in a small neighborhood of the inner edges and of the vertices of patch valency greater than one where a degree p=2s+1 is required. This allows to solve the PDEs with a much lower number of degrees of freedom compared to employing the C^s-smooth spline space [29] with the same high degree p=2s+1 everywhere. To perform isogeometric collocation with the smooth mixed degree spline functions, we introduce and study two different sets of collocation points, namely first a generalization of the standard Greville points to the set of mixed degree Greville points and second the so-called mixed degree superconvergent points. The collocation method is further extended to the class of bilinear-like G^s multi-patch parameterizations [26], which enables the modeling of multi-patch domains with curved boundaries, and is finally tested on the basis of several numerical examples.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

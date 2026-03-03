@@ -1,0 +1,16 @@
+{
+  "title": "NBMLSS: probabilistic forecasting of electricity prices via Neural Basis Models for Location Scale and Shape",
+  "authors": [
+    "Alessandro Brusaferri",
+    "Danial Ramin",
+    "Andrea Ballarino"
+  ],
+  "summary": "Forecasters using flexible neural networks (NN) in multi-horizon distributional regression setups often struggle to gain detailed insights into the underlying mechanisms that lead to the predicted feature-conditioned distribution parameters. In this work, we deploy a Neural Basis Model for Location, Scale and Shape, that blends the principled interpretability of GAMLSS with a computationally scalable shared basis decomposition, combined by linear projections supporting dedicated stepwise and parameter-wise feature shape functions aggregations. Experiments have been conducted on multiple market regions, achieving probabilistic forecasting performance comparable to that of distributional neural networks, while providing more insights into the model behavior through the learned nonlinear feature level maps to the distribution parameters across the prediction steps.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-12-20"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Unbiased Approximations for Stationary Distributions of McKean-Vlasov SDEs",
+  "authors": [
+    "Elsiddig Awadelkarim",
+    "Neil K. Chada",
+    "Ajay Jasra"
+  ],
+  "summary": "We consider the development of unbiased estimators, to approximate the stationary distribution of Mckean-Vlasov stochastic differential equations (MVSDEs). These are an important class of processes, which frequently appear in applications such as mathematical finance, biology and opinion dynamics. Typically the stationary distribution is unknown and indeed one cannot simulate such processes exactly. As a result one commonly requires a time-discretization scheme which results in a discretization bias and a bias from not being able to simulate the associated stationary distribution. To overcome this bias, we present a new unbiased estimator taking motivation from the literature on unbiased Monte Carlo. We prove the unbiasedness of our estimator, under assumptions. In order to prove this we require developing ergodicity results of various discrete time processes, through an appropriate discretization scheme, towards the invariant measure. Numerous numerical experiments are provided, on a range of MVSDEs, to demonstrate the effectiveness of our unbiased estimator. Such examples include the Currie-Weiss model, a 3D neuroscience model and a parameter estimation problem.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME, math.NA, math.PR, stat.CO"
+}

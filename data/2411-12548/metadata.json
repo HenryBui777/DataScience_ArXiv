@@ -1,0 +1,14 @@
+{
+  "title": "Asymptotic robustness of entanglement in noisy quantum networks and graph connectivity",
+  "authors": [
+    "Fernando Lledó",
+    "Carlos Palazuelos",
+    "Julio I. de Vicente"
+  ],
+  "summary": "Quantum networks are promising venues for quantum information processing. This motivates the study of the entanglement properties of the particular multipartite quantum states that underpin these structures. In particular, it has been recently shown that when the links are noisy two drastically different behaviors can occur regarding the global entanglement properties of the network. While in certain configurations the network displays genuine multipartite entanglement (GME) for any system size provided the noise level is below a certain threshold, in others GME is washed out if the system size is big enough for any fixed non-zero level of noise. However, this difference has only been established considering the two extreme cases of maximally and minimally connected networks (i.e. complete graphs versus trees, respectively). In this article we investigate this question much more in depth and relate this behavior to the growth of several graph theoretic parameters that measure the connectivity of the graph sequence that codifies the structure of the network as the number of parties increases. The strongest conditions are obtained when considering the degree growth. Our main results are that a sufficiently fast degree growth (i.e. $Ω(N)$, where $N$ is the size of the network) is sufficient for asymptotic robustness of GME, while if it is sufficiently slow (i.e. $o(\\log N)$) then the network becomes asymptotically biseparable. We also present several explicit constructions related to the optimality of these results.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, math-ph"
+}

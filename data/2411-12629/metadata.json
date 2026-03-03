@@ -1,0 +1,15 @@
+{
+  "title": "Estimating Dark Matter Halo Masses in Simulated Galaxy Clusters with Graph Neural Networks",
+  "authors": [
+    "Nikhil Garuda",
+    "John F. Wu",
+    "Dylan Nelson",
+    "Annalisa Pillepich"
+  ],
+  "summary": "Galaxies grow and evolve in dark matter halos. Because dark matter is not visible, galaxies' halo masses ($\\rm{M}_{\\rm{halo}}$) must be inferred indirectly. We present a graph neural network (GNN) model for predicting $\\rm{M}_{\\rm{halo}}$ from stellar mass ($\\rm{M}_{*}$) in simulated galaxy clusters using data from the IllustrisTNG simulation suite. Unlike traditional machine learning models like random forests, our GNN captures the information-rich substructure of galaxy clusters by using spatial and kinematic relationships between galaxy neighbour. A GNN model trained on the TNG-Cluster dataset and independently tested on the TNG300 simulation achieves superior predictive performance compared to other baseline models we tested. Future work will extend this approach to different simulations and real observational datasets to further validate the GNN model's ability to generalise.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.GA, astro-ph.CO, astro-ph.IM, cs.AI"
+}

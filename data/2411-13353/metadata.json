@@ -1,0 +1,20 @@
+{
+  "title": "Miniaturized spectrometer enabled by end-to-end deep learning on large-scale radiative cavity array",
+  "authors": [
+    "Xinyi Zhou",
+    "Cheng Zhang",
+    "Xiaoyu Zhang",
+    "Yi Zuo",
+    "Zixuan Zhang",
+    "Feifan Wang",
+    "Zihao Chen",
+    "Hongbin Li",
+    "Chao Peng"
+  ],
+  "summary": "Miniaturized (mini-) spectrometers are highly desirable tools for chemical, biological, and medical diagnostics because of their potential for portable and in situ spectral detection. In this work, we propose and demonstrate a mini-spectrometer that combines a large-scale radiative cavity array with end-to-end deep learning networks. Specifically, we utilize high-Q bound states in continuum cavities with distinct radiation characteristics as the fundamental units to achieve parallel spectral detection. We realize a 36 $\\times$ 30 cavity array that spans a wide spectral range from 1525 to 1605 nm with quality factors above 10^4. We further train a deep network with 8000 outputs to directly map arbitrary spectra to array responses excited by the out-of-plane incident. Experimental results demonstrate that the proposed mini-spectrometer can resolve unknown spectra with a resolution of 0.048 nm in a bandwidth of 80 nm and fidelity exceeding 95%, thus offering a promising method for compact, high resolution, and broadband spectroscopy.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.optics"
+}

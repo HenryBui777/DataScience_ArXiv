@@ -1,0 +1,12 @@
+{
+  "title": "EphemerisSources.jl: Idiomatic Ephemeris Sourcing and Parsing in Julia",
+  "authors": [
+    "Joseph D. Carpinelli"
+  ],
+  "summary": "Students and professionals in astronomy, astrodynamics, astrophysics, and other related fields often download and parse data about objects in our solar system -- ephemeris data -- from two major providers: JPL's publicly-available [Generic SPICE Kernels](https://naif.jpl.nasa.gov/pub/naif/generic_kernels/) and JPL's [Horizons platform](https://ssd.jpl.nasa.gov/horizons/). SPICE kernels are typically read through the SPICE Toolkit, which is available in a variety of programming languages, including the C Programming Language with `CSPICE` [@cspice]. The Julia packages [`CSPICE_jll.jl`](https://github.com/JuliaBinaryWrappers/CSPICE_jll.jl) and [`SPICE.jl`](https://github.com/JuliaAstro/SPICE.jl) expose many `CSPICE` functions through Julia functions. Julia users can load and interact with SPICE kernels through methods such as `SPICE.furnsh` and `SPICE.spkez`. Horizons provides data through a variety of methods, including email, command-line, graphical web interfaces, and a [REST API](https://ssd-api.jpl.nasa.gov/doc/horizons.html) [@horizons].\n  This paper introduces several packages -- `SPICEKernels.jl`, `SPICEBodies.jl`, `HorizonsAPI.jl` and `HorizonsEphemeris.jl` -- which allow users to download and process Cartesian state vector data idiomatically, all from within Julia. While ephemeris data comes in many forms, including observer tables, osculating orbital elements, and binary formats, these packages currently target Cartesian state vector (position and velocity) ephemeris data. Through the use of these packages, users can share replicable code which automatically fetches data from publicly-available ephemeris sources, as opposed to manually including ephemeris data files with their source code distribution.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "Journal of Open Source Software, 9(102), 6914 (2024)",
+  "pdf_url": null,
+  "category": "astro-ph.IM"
+}

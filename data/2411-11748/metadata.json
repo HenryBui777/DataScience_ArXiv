@@ -1,0 +1,15 @@
+{
+  "title": "Debiased Regression for Root-N-Consistent Conditional Mean Estimation",
+  "authors": [
+    "Masahiro Kato"
+  ],
+  "summary": "This study introduces a debiasing method for regression estimators, including high-dimensional and nonparametric regression estimators. For example, nonparametric regression methods allow for the estimation of regression functions in a data-driven manner with minimal assumptions; however, these methods typically fail to achieve $\\sqrt{n}$-consistency in their convergence rates, and many, including those in machine learning, lack guarantees that their estimators asymptotically follow a normal distribution. To address these challenges, we propose a debiasing technique for nonparametric estimators by adding a bias-correction term to the original estimators, extending the conventional one-step estimator used in semiparametric analysis. Specifically, for each data point, we estimate the conditional expected residual of the original nonparametric estimator, which can, for instance, be computed using kernel (Nadaraya-Watson) regression, and incorporate it as a bias-reduction term. Our theoretical analysis demonstrates that the proposed estimator achieves $\\sqrt{n}$-consistency and asymptotic normality under a mild convergence rate condition for both the original nonparametric estimator and the conditional expected residual estimator. Notably, this approach remains model-free as long as the original estimator and the conditional expected residual estimator satisfy the convergence rate condition. The proposed method offers several advantages, including improved estimation accuracy and simplified construction of confidence intervals.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-19",
+    "2024-11-25"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ML, cs.LG, econ.EM, math.ST, stat.ME"
+}

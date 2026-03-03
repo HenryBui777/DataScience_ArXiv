@@ -1,0 +1,251 @@
+{
+  "2404-13076": {
+    "title": "LLM Evaluators Recognize and Favor Their Own Generations",
+    "authors": [
+      "Arjun Panickssery",
+      "Samuel R. Bowman",
+      "Shi Feng"
+    ],
+    "publication_date": "2024-04-15",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "5c7f465d162aade4a4c0eefb02fd7aadeebdaf58",
+    "corpus_id": 269293311,
+    "category": "Computer Science"
+  },
+  "2308-03281": {
+    "title": "Towards General Text Embeddings with Multi-stage Contrastive Learning",
+    "authors": [
+      "Zehan Li",
+      "Xin Zhang",
+      "Yanzhao Zhang",
+      "Dingkun Long",
+      "Pengjun Xie",
+      "Meishan Zhang"
+    ],
+    "publication_date": "2023-08-07",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "84109e1235b725f4bb44a54bab8b493bd723fdd3",
+    "corpus_id": 260682258,
+    "category": "Computer Science"
+  },
+  "2212-09233": {
+    "title": "OASum: Large-Scale Open Domain Aspect-based Summarization",
+    "authors": [
+      "Xianjun Yang",
+      "Kaiqiang Song",
+      "Sangwoo Cho",
+      "Xiaoyang Wang",
+      "Xiaoman Pan",
+      "Linda Petzold",
+      "Dong Yu"
+    ],
+    "publication_date": "2022-12-19",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "d2fe7536b347a7039a241bb60d507880ada686e8",
+    "corpus_id": 254854036,
+    "category": "Computer Science"
+  },
+  "2211-15914": {
+    "title": "Prompted Opinion Summarization with GPT-3.5",
+    "authors": [
+      "Adithya Bhaskar",
+      "Alexander R. Fabbri",
+      "Greg Durrett"
+    ],
+    "publication_date": "2022-11-29",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "e6d7caa77eae7b64f78359669f4dd48fd2d177a1",
+    "corpus_id": 258841826,
+    "category": "Computer Science"
+  },
+  "2112-07899": {
+    "title": "Large Dual Encoders Are Generalizable Retrievers",
+    "authors": [
+      "Jianmo Ni",
+      "Chen Qu",
+      "Jing Lu",
+      "Zhuyun Dai",
+      "Gustavo Hernández Abrego",
+      "Ji Ma",
+      "Vincent Zhao",
+      "Yi Luan",
+      "Keith B. Hall",
+      "Ming-Wei Chang",
+      "Yinfei Yang"
+    ],
+    "publication_date": "2021-12-15",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "9f2cf7b35224aad3a8d261e4456fe2d65a5f5d3e",
+    "corpus_id": 245144556,
+    "category": "Computer Science"
+  },
+  "2110-08296": {
+    "title": "ASPECTNEWS: Aspect-Oriented Summarization of News Documents",
+    "authors": [
+      "Ojas Ahuja",
+      "Jiacheng Xu",
+      "A. Gupta",
+      "Kevin Horecka",
+      "Greg Durrett"
+    ],
+    "publication_date": "2021-10-15",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "a84c5c4f0ef32c8a97f2f6c4059b5795f7172635",
+    "corpus_id": 247451272,
+    "category": "Computer Science"
+  },
+  "2108-08877": {
+    "title": "Sentence-T5: Scalable Sentence Encoders from Pre-trained Text-to-Text Models",
+    "authors": [
+      "Jianmo Ni",
+      "Gustavo Hernández Abrego",
+      "Noah Constant",
+      "Ji Ma",
+      "Keith B. Hall",
+      "Daniel Matthew Cer",
+      "Yinfei Yang"
+    ],
+    "publication_date": "2021-08-19",
+    "venue": "Findings",
+    "semantic_scholar_id": "dbe87b171bfb789e1d22a047aeeee69105e6fd02",
+    "corpus_id": 237260023,
+    "category": "Computer Science"
+  },
+  "2011-07832": {
+    "title": "WikiAsp: A Dataset for Multi-domain Aspect-based Summarization",
+    "authors": [
+      "Hiroaki Hayashi",
+      "Prashant Budania",
+      "Peng Wang",
+      "Chris Ackerson",
+      "Raj Neervannan",
+      "Graham Neubig"
+    ],
+    "publication_date": "2020-11-16",
+    "venue": "Transactions of the Association for Computational Linguistics",
+    "semantic_scholar_id": "addd2d86d19c1e7c8854e827fb2656a50c250440",
+    "corpus_id": 226965071,
+    "category": "Computer Science"
+  },
+  "2010-06792": {
+    "title": "Summarizing Text on Any Aspects: A Knowledge-Informed Weakly-Supervised Approach",
+    "authors": [
+      "Bowen Tan",
+      "Lianhui Qin",
+      "E. Xing",
+      "Zhiting Hu"
+    ],
+    "publication_date": "2020-10-14",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "485c3da76c7ac70ba2cde24ad88f0d36b6549cb9",
+    "corpus_id": 219965343,
+    "category": "Computer Science"
+  },
+  "2005-14165": {
+    "title": "Language Models are Few-Shot Learners",
+    "authors": [
+      "Tom B. Brown",
+      "Benjamin Mann",
+      "Nick Ryder",
+      "Melanie Subbiah",
+      "J. Kaplan",
+      "Prafulla Dhariwal",
+      "Arvind Neelakantan",
+      "Pranav Shyam",
+      "Girish Sastry",
+      "Amanda Askell",
+      "Sandhini Agarwal",
+      "Ariel Herbert-Voss",
+      "Gretchen Krueger",
+      "T. Henighan",
+      "R. Child",
+      "A. Ramesh",
+      "Daniel M. Ziegler",
+      "Jeff Wu",
+      "Clemens Winter",
+      "Christopher Hesse",
+      "Mark Chen",
+      "Eric Sigler",
+      "Ma-teusz Litwin",
+      "Scott Gray",
+      "Benjamin Chess",
+      "Jack Clark",
+      "Christopher Berner",
+      "Sam McCandlish",
+      "Alec Radford",
+      "I. Sutskever",
+      "Dario Amodei"
+    ],
+    "publication_date": "2020-05-28",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+    "corpus_id": 218971783,
+    "category": "Computer Science"
+  },
+  "2004-09297": {
+    "title": "MPNet: Masked and Permuted Pre-training for Language Understanding",
+    "authors": [
+      "Kaitao Song",
+      "Xu Tan",
+      "Tao Qin",
+      "Jianfeng Lu",
+      "Tie-Yan Liu"
+    ],
+    "publication_date": "2020-04-20",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "270f3bea8ca801870a6cc56b4d36f7f2019c9ed0",
+    "corpus_id": 215827489,
+    "category": "Computer Science"
+  },
+  "1910-10683": {
+    "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+    "authors": [
+      "Colin Raffel",
+      "Noam M. Shazeer",
+      "Adam Roberts",
+      "Katherine Lee",
+      "Sharan Narang",
+      "Michael Matena",
+      "Yanqi Zhou",
+      "Wei Li",
+      "Peter J. Liu"
+    ],
+    "publication_date": "2019-10-23",
+    "venue": "Journal of machine learning research",
+    "semantic_scholar_id": "6c4b76232bb72897685d19b3d264c6ee3005bc2b",
+    "corpus_id": 204838007,
+    "category": "Mathematics, Computer Science"
+  },
+  "1908-10084": {
+    "title": "Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks",
+    "authors": [
+      "Nils Reimers",
+      "Iryna Gurevych"
+    ],
+    "publication_date": "2019-08-14",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "93d63ec754f29fa22572615320afe0521f7ec66d",
+    "corpus_id": 201646309,
+    "category": "Computer Science"
+  },
+  "1907-11692": {
+    "title": "RoBERTa: A Robustly Optimized BERT Pretraining Approach",
+    "authors": [
+      "Yinhan Liu",
+      "Myle Ott",
+      "Naman Goyal",
+      "Jingfei Du",
+      "Mandar Joshi",
+      "Danqi Chen",
+      "Omer Levy",
+      "M. Lewis",
+      "Luke Zettlemoyer",
+      "Veselin Stoyanov"
+    ],
+    "publication_date": "2019-07-26",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "077f8329a7b6fa3b7c877a57b81eb6c18b5f87de",
+    "corpus_id": 198953378,
+    "category": "Computer Science"
+  }
+}

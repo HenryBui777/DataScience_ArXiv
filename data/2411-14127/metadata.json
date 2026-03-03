@@ -1,0 +1,18 @@
+{
+  "title": "Non-perturbative thermal QCD at very high temperatures: computational strategy and hadronic screening masses",
+  "authors": [
+    "Leonardo Giusti",
+    "Davide Laudicina",
+    "Matteo Bresciani",
+    "Mattia Dalla Brida",
+    "Tim Harris",
+    "Michele Pepe",
+    "Pietro Rescigno"
+  ],
+  "summary": "We discuss a recently introduced strategy to study non-perturbatively thermal QCD up to temperatures of the order of the electro-weak scale, combining step scaling techniques and shifted boundary conditions. The former allow to renormalize the theory for a range of scales which spans several orders of magnitude with a moderate computational cost. Shifted boundary conditions remove the need for the zero temperature subtraction in the Equation of State. As a consequence, the simulated lattices do not have to accommodate two very different scales, the pion mass and the temperature, at the very same spacing. Effective field theory arguments guarantee that finite volume effects can be kept under control safely. With this strategy the first computation of the hadronic screening spectrum has been carried out over more than two orders of magnitude in the temperature, from $T\\sim 1$ GeV up to $\\sim 160$ GeV. This study is complemented with the first quantitative computation of the baryonic screening mass at next-to-leading order in the three-dimensional effective theory describing QCD at high temperatures. Both for the mesonic and the baryonic screening masses, the known leading behaviour in the coupling constant is found to be not sufficient to explain the non-perturbative data over the entire range of temperatures. These findings shed further light on the limited applicability of the perturbative approach at finite temperature, even at the electro-weak scale.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "hep-lat, hep-ph"
+}

@@ -1,0 +1,181 @@
+{
+  "2406-18629": {
+    "title": "Step-DPO: Step-wise Preference Optimization for Long-chain Reasoning of LLMs",
+    "authors": [
+      "Xin Lai",
+      "Zhuotao Tian",
+      "Yukang Chen",
+      "Senqiao Yang",
+      "Xiangru Peng",
+      "Jiaya Jia"
+    ],
+    "publication_date": "2024-06-26",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "501f8a0200a12a6f3906c1e4f3f40715e0e7d23a",
+    "corpus_id": 270764693,
+    "category": "Computer Science"
+  },
+  "2312-08935": {
+    "title": "Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations",
+    "authors": [
+      "Peiyi Wang",
+      "Lei Li",
+      "Zhihong Shao",
+      "R. Xu",
+      "Damai Dai",
+      "Yifei Li",
+      "Deli Chen",
+      "Y.Wu",
+      "Zhifang Sui"
+    ],
+    "publication_date": "2023-12-14",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "4ba57555bef02f988f2ed3bab2f102733dc55221",
+    "corpus_id": 266209760,
+    "category": "Computer Science"
+  },
+  "2310-10080": {
+    "title": "Let's reward step by step: Step-Level reward model as the Navigators for Reasoning",
+    "authors": [
+      "Qianli Ma",
+      "Haotian Zhou",
+      "Tingkai Liu",
+      "Jianbo Yuan",
+      "Pengfei Liu",
+      "Yang You",
+      "Hongxia Yang"
+    ],
+    "publication_date": "2023-10-16",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "44b506d9619b5f957dc2b5588801138f343c0308",
+    "corpus_id": 264146573,
+    "category": "Computer Science"
+  },
+  "2308-09583": {
+    "title": "WizardMath: Empowering Mathematical Reasoning for Large Language Models via Reinforced Evol-Instruct",
+    "authors": [
+      "Haipeng Luo",
+      "Qingfeng Sun",
+      "Can Xu",
+      "Pu Zhao",
+      "Jian-Guang Lou",
+      "Chongyang Tao",
+      "Xiubo Geng",
+      "Qingwei Lin",
+      "Shifeng Chen",
+      "Dongmei Zhang"
+    ],
+    "publication_date": "2023-08-18",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "dd18782960f9ee4c66b79e1518b342ad3f8d19e7",
+    "corpus_id": 261030818,
+    "category": "Computer Science"
+  },
+  "2305-20050": {
+    "title": "Let's Verify Step by Step",
+    "authors": [
+      "H. Lightman",
+      "Vineet Kosaraju",
+      "Yura Burda",
+      "Harrison Edwards",
+      "Bowen Baker",
+      "Teddy Lee",
+      "Jan Leike",
+      "John Schulman",
+      "I. Sutskever",
+      "K. Cobbe"
+    ],
+    "publication_date": "2023-05-31",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "be8db99310602d66bba64bcf41a572c45816fbfc",
+    "corpus_id": 258987659,
+    "category": "Computer Science"
+  },
+  "2211-14275": {
+    "title": "Solving math word problems with process- and outcome-based feedback",
+    "authors": [
+      "Jonathan Uesato",
+      "Nate Kushman",
+      "Ramana Kumar",
+      "Francis Song",
+      "Noah Siegel",
+      "L. Wang",
+      "Antonia Creswell",
+      "G. Irving",
+      "I. Higgins"
+    ],
+    "publication_date": "2022-11-25",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "6d7b8a478801bd9d21df82d5f33ae6eced90da5e",
+    "corpus_id": 254017497,
+    "category": "Computer Science"
+  },
+  "2205-11916": {
+    "title": "Large Language Models are Zero-Shot Reasoners",
+    "authors": [
+      "Takeshi Kojima",
+      "S. Gu",
+      "Machel Reid",
+      "Yutaka Matsuo",
+      "Yusuke Iwasawa"
+    ],
+    "publication_date": "2022-05-24",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "e7ad08848d5d7c5c47673ffe0da06af443643bda",
+    "corpus_id": 249017743,
+    "category": "Computer Science"
+  },
+  "2203-11171": {
+    "title": "Self-Consistency Improves Chain of Thought Reasoning in Language Models",
+    "authors": [
+      "Xuezhi Wang",
+      "Jason Wei",
+      "D. Schuurmans",
+      "Quoc Le",
+      "Ed H. Chi",
+      "Denny Zhou"
+    ],
+    "publication_date": "2022-03-21",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "5f19ae1135a9500940978104ec15a5b8751bc7d2",
+    "corpus_id": 247595263,
+    "category": "Computer Science"
+  },
+  "2110-14168": {
+    "title": "Training Verifiers to Solve Math Word Problems",
+    "authors": [
+      "K. Cobbe",
+      "Vineet Kosaraju",
+      "Mo Bavarian",
+      "Mark Chen",
+      "Heewoo Jun",
+      "Lukasz Kaiser",
+      "Matthias Plappert",
+      "Jerry Tworek",
+      "Jacob Hilton",
+      "Reiichiro Nakano",
+      "Christopher Hesse",
+      "John Schulman"
+    ],
+    "publication_date": "2021-10-27",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "d6045d2ccc9c09ca1671348de86d07da6bc28eea",
+    "corpus_id": 239998651,
+    "category": "Computer Science"
+  },
+  "1707-06347": {
+    "title": "Proximal Policy Optimization Algorithms",
+    "authors": [
+      "John Schulman",
+      "Filip Wolski",
+      "Prafulla Dhariwal",
+      "Alec Radford",
+      "Oleg Klimov"
+    ],
+    "publication_date": "2017-07-20",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "dce6f9d4017b1785979e7520fd0834ef8cf02f4b",
+    "corpus_id": 28695052,
+    "category": "Computer Science"
+  }
+}

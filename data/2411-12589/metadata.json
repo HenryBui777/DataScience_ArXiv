@@ -1,0 +1,18 @@
+{
+  "title": "ULTra: Unveiling Latent Token Interpretability in Transformer-Based Understanding and Segmentation",
+  "authors": [
+    "Hesam Hosseini",
+    "Ghazal Hosseini Mighan",
+    "Amirabbas Afzali",
+    "Sajjad Amini",
+    "Amir Houmansadr"
+  ],
+  "summary": "Transformers have revolutionized Computer Vision (CV) through self-attention mechanisms. However, their complexity makes latent token representations difficult to interpret. We introduce ULTra, a framework for interpreting Transformer embeddings and uncovering meaningful semantic patterns within them. ULTra enables unsupervised semantic segmentation using pre-trained models without requiring fine-tuning. Additionally, we propose a self-supervised training approach that refines segmentation performance by learning an external transformation matrix without modifying the underlying model. Our method achieves state-of-the-art performance in unsupervised semantic segmentation, outperforming existing segmentation methods. Furthermore, we validate ULTra for model interpretation on both synthetic and real-world scenarios, including Object Selection and interpretable text summarization using LLMs, demonstrating its broad applicability in explaining the semantic structure of latent token representations.",
+  "submission_date": "2024-11-15",
+  "revised_dates": [
+    "2025-03-22"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI, cs.LG"
+}

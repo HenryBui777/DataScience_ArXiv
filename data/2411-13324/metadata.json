@@ -1,0 +1,14 @@
+{
+  "title": "An efficient, adaptive solver for accurate simulation of multicomponent shock-interface problems for thermally perfect species",
+  "authors": [
+    "Yuqi Wang",
+    "Ralf Deiterding",
+    "Jianhan Liang"
+  ],
+  "summary": "A second-order-accurate finite volume method, hybridized by blending an extended double-flux algorithm and a traditionally conservative scheme, is developed. In this scheme, hybrid convective fluxes as well as hybrid interpolation techniques are designed to ensure stability and accuracy in the presence of both material interfaces and shocks. Two computationally efficient approaches, extended from the original double-flux model, are presented to eliminate the well-known \"pressure oscillation\" phenomenon at material interfaces observed with the traditional conservative scheme. Numerous verification simulations confirm that the method is capable of handling multi-dimensional shock-interface problems reliably and efficiently, even in the presence of viscous and reactive terms.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.comp-ph"
+}

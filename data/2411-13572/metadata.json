@@ -1,0 +1,16 @@
+{
+  "title": "Public Health Advocacy Dataset: A Dataset of Tobacco Usage Videos from Social Media",
+  "authors": [
+    "Naga VS Raviteja Chappa",
+    "Charlotte McCormick",
+    "Susana Rodriguez Gongora",
+    "Page Daniel Dobbs",
+    "Khoa Luu"
+  ],
+  "summary": "The Public Health Advocacy Dataset (PHAD) is a comprehensive collection of 5,730 videos related to tobacco products sourced from social media platforms like TikTok and YouTube. This dataset encompasses 4.3 million frames and includes detailed metadata such as user engagement metrics, video descriptions, and search keywords. This is the first dataset with these features providing a valuable resource for analyzing tobacco-related content and its impact. Our research employs a two-stage classification approach, incorporating a Vision-Language (VL) Encoder, demonstrating superior performance in accurately categorizing various types of tobacco products and usage scenarios. The analysis reveals significant user engagement trends, particularly with vaping and e-cigarette content, highlighting areas for targeted public health interventions. The PHAD addresses the need for multi-modal data in public health research, offering insights that can inform regulatory policies and public health strategies. This dataset is a crucial step towards understanding and mitigating the impact of tobacco usage, ensuring that public health efforts are more inclusive and effective.",
+  "submission_date": "2024-11-12",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Inward rectifier potassium channels interact with calcium channels to promote robust and physiological bistability",
+  "authors": [
+    "Anaëlle De Worm",
+    "Guillaume Drion",
+    "Pierre Sacré"
+  ],
+  "summary": "In the dorsal horn, projection neurons play a crucial role in pain processing by transmitting sensory stimuli to supraspinal centers during nociception. Following exposure to intense noxious stimuli, a sensitization process occurs that alters the functional state of the dorsal horn. Notably, projection neurons can undergo a switch in firing pattern -- from tonic firing to plateau potentials with sustained afterdischarges. For afterdischarges to occur following this switch, the neuron must exhibit bistability, defined as the ability to exhibit resting and spiking states at the same input current depending on the prior context. In many cases, neuronal bistability arises through the activity of voltage-gated calcium channels. However, computational studies have shown a trade-off between bistability and the plausibility of resting states when calcium channels are counterbalanced by voltage-gated potassium channels. Despite this, the mechanisms underlying the emergence of robust bistability, plateau potentials, and sustained afterdischarges through calcium channels remain poorly understood. In this study, we used a conductance-based model to investigate how L-type calcium (CaL) channels can give rise to bistability when combined with either M-type potassium (KM) channels or inward-rectifying potassium (Kir) channels. Unlike KM channels, Kir channels enhance bistability. When combined with CaL channels, KM and Kir channels promote distinct forms of bistability, differing in both robustness and functional implications. An analysis of their inward and outward current properties revealed that these differences stem from their distinct steady-state current profiles. Altogether, the complementarity between CaL and Kir channels provides a robust mechanism for central sensitization in the dorsal horn.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-05-20"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-bio.NC"
+}

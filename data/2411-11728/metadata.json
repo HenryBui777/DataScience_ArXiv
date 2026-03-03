@@ -1,0 +1,12 @@
+{
+  "title": "Davis-Kahan Theorem in the two-to-infinity norm and its application to perfect clustering",
+  "authors": [
+    "Marianna Pensky"
+  ],
+  "summary": "Many statistical applications, such as the Principal Component Analysis, matrix completion, tensor regression and many others, rely on accurate estimation of leading eigenvectors of a matrix. The Davis-Khan theorem is known to be instrumental for bounding above the distances between matrices $U$ and $\\widehat{U}$ of population eigenvectors and their sample versions. While those distances can be measured in various metrics, the recent developments showed advantages of evaluation of the deviation in the 2-to-infinity norm. The purpose of this paper is to provide upper bounds for the distances between $U$ and $\\widehat{U}$ in the two-to-infinity norm for a variety of possible scenarios and competitive approaches. Although this problem has been studied by several authors, the difference between this paper and its predecessors is that the upper bounds are obtained with no or mild probabilistic assumptions on the error distributions. Those bounds are subsequently refined, when some generic probabilistic assumptions on the errors hold. In addition, the paper provides alternative methods for evaluation of $\\widehat{U}$ and, therefore, enables one to compare the resulting accuracies. As an example of an application of the results in the paper, we derive sufficient conditions for perfect clustering in a generic setting, and then employ them in various scenarios.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME"
+}

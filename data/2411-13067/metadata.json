@@ -1,0 +1,13 @@
+{
+  "title": "A new class of energy dissipative, mass conserving and positivity/bound-preserving schemes for Keller-Segel equations",
+  "authors": [
+    "Zexiong Fang",
+    "Qing Cheng"
+  ],
+  "summary": "In this paper, we improve the original Lagrange multiplier approach \\cite{ChSh22,ChSh_II22} and introduce a new energy correction approach to construct a class of robust, positivity/bound-preserving, mass conserving and energy dissipative schemes for Keller-Segel equations which only need to solve several linear Poisson like equations. To be more specific, we use a predictor-corrector approach to construct a class of positivity/bound-preserving and mass conserving schemes which can be implemented with negligible cost. Then a energy correction step is introduced to construct schemes which are also energy dissipative, in addition to positivity/bound-preserving and mass conserving. This new approach is not restricted to any particular spatial discretization and can be combined with various time discretization to achieve high-order accuracy in time. We show stability results for mass-conservative, positivity/bound-preserving and energy dissipative schemes for two different Keller-Segel systems. A error analysis is presented for a second-order, bound-preserving, mass-conserving and energy dissipative scheme for the second-type of Keller-Segel equations. Ample numerical experiments are shown to validate the stability and accuracy of our approach.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

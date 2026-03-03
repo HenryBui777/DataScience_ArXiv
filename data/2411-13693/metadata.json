@@ -1,0 +1,17 @@
+{
+  "title": "PairSonic: Helping Groups Securely Exchange Contact Information",
+  "authors": [
+    "Florentin Putz",
+    "Steffen Haesler",
+    "Thomas Völkl",
+    "Maximilian Gehring",
+    "Nils Rollshausen",
+    "Matthias Hollick"
+  ],
+  "summary": "Securely exchanging contact information is essential for establishing trustworthy communication channels that facilitate effective online collaboration. However, current methods are neither user-friendly nor scalable for large groups of users. In response, we introduce PairSonic, a novel group pairing protocol that extends trust from physical encounters to online communication. PairSonic simplifies the pairing process by automating the tedious verification tasks of previous methods through an acoustic out-of-band channel using smartphones' built-in hardware. Our protocol not only facilitates connecting users for computer-supported collaboration, but also provides a more user-friendly and scalable solution to the authentication ceremonies currently used in end-to-end encrypted messengers like Signal or WhatsApp. PairSonic is available as open-source software: https://github.com/seemoo-lab/pairsonic",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "ACM CSCW 2024",
+  "pdf_url": null,
+  "category": "cs.CR, cs.HC, cs.NI"
+}

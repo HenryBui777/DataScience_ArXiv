@@ -1,0 +1,15 @@
+{
+  "title": "A Review on Generative AI Models for Synthetic Medical Text, Time Series, and Longitudinal Data",
+  "authors": [
+    "Mohammad Loni",
+    "Fatemeh Poursalim",
+    "Mehdi Asadi",
+    "Arash Gharehbaghi"
+  ],
+  "summary": "This paper presents the results of a novel scoping review on the practical models for generating three different types of synthetic health records (SHRs): medical text, time series, and longitudinal data. The innovative aspects of the review, which incorporate study objectives, data modality, and research methodology of the reviewed studies, uncover the importance and the scope of the topic for the digital medicine context. In total, 52 publications met the eligibility criteria for generating medical time series (22), longitudinal data (17), and medical text (13). Privacy preservation was found to be the main research objective of the studied papers, along with class imbalance, data scarcity, and data imputation as the other objectives. The adversarial network-based, probabilistic, and large language models exhibited superiority for generating synthetic longitudinal data, time series, and medical texts, respectively. Finding a reliable performance measure to quantify SHR re-identification risk is the major research gap of the topic.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.CL"
+}

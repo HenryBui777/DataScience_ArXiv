@@ -1,0 +1,15 @@
+{
+  "title": "Learning-based Trajectory Tracking for Bird-inspired Flapping-Wing Robots",
+  "authors": [
+    "Jiaze Cai",
+    "Vishnu Sangli",
+    "Mintae Kim",
+    "Koushil Sreenath"
+  ],
+  "summary": "Bird-sized flapping-wing robots offer significant potential for agile flight in complex environments, but achieving agile and robust trajectory tracking remains a challenge due to the complex aerodynamics and highly nonlinear dynamics inherent in flapping-wing flight. In this work, a learning-based control approach is introduced to unlock the versatility and adaptiveness of flapping-wing flight. We propose a model-free reinforcement learning (RL)-based framework for a high degree-of-freedom (DoF) bird-inspired flapping-wing robot that allows for multimodal flight and agile trajectory tracking. Stability analysis was performed on the closed-loop system comprising of the flapping-wing system and the RL policy. Additionally, simulation results demonstrate that the RL-based controller can successfully learn complex wing trajectory patterns, achieve stable flight, switch between flight modes spontaneously, and track different trajectories under various aerodynamic conditions.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO, eess.SY"
+}

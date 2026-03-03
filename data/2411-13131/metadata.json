@@ -1,0 +1,12 @@
+{
+  "title": "Bayesian Parameter Estimation of Normal Distribution from Sample Mean and Extreme Values",
+  "authors": [
+    "Tomoki Matsumoto"
+  ],
+  "summary": "This paper proposes a Bayesian method for estimating the parameters of a normal distribution when only limited summary statistics (sample mean, minimum, maximum, and sample size) are available. To estimate the parameters of a normal distribution, we introduce a data augmentation approach using the Gibbs sampler, where intermediate values are treated as missing values and samples from a truncated normal distribution conditional on the observed sample mean, minimum, and maximum values. Through simulation studies, we demonstrate that our method achieves estimation accuracy comparable to theoretical expectations.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME"
+}

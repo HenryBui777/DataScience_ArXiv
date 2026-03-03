@@ -1,0 +1,12 @@
+{
+  "title": "Characteristics of Distance Matrices, the Second Look",
+  "authors": [
+    "Bryan Cain"
+  ],
+  "summary": "Here the definitions of nearest neighbor, robustness, concordance, and correlation, all of which feature in (Temple 2023) (henceforth abbreviated (T23)), are adjusted to make them completely mathematical while preserving their significance. A characterization is given of the possible limits of a function of distance matrices as the data matrices from which they are derived acquire more and more columns while their number of rows and the distance defining norm (= coefficient, in the terminology of (T23)) are held fixed. No data contribute to the discussion here, but many examples, with standard norms and data matrices having just a few rows and columns, play an important role. Indeed, small data matrices are displayed showing that robustness, defined either of the two ways, can be zero.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.FA, math.PR"
+}

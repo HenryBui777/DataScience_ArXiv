@@ -1,0 +1,17 @@
+{
+  "title": "Quantum Mini-Apps for Engineering Applications: A Case Study",
+  "authors": [
+    "Horia Mărgărit",
+    "Amanda Bowman",
+    "Krishnageetha Karuppasamy",
+    "Alberto Maldonado-Romo",
+    "Vardaan Sahgal",
+    "Brian J. McDermott"
+  ],
+  "summary": "In this work, we present a case study in implementing a variational quantum algorithm for solving the Poisson equation, which is a commonly encountered partial differential equation in science and engineering. We highlight the practical challenges encountered in mapping the algorithm to physical hardware, and the software engineering considerations needed to achieve realistic results on today's non-fault-tolerant systems.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, cs.ET"
+}

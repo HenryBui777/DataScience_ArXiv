@@ -1,0 +1,18 @@
+{
+  "title": "Lorentz: Learned SKU Recommendation Using Profile Data",
+  "authors": [
+    "Nicholas Glaze",
+    "Tria McNeely",
+    "Yiwen Zhu",
+    "Matthew Gleeson",
+    "Helen Serr",
+    "Rajeev Bhopi",
+    "Subru Krishnan"
+  ],
+  "summary": "Cloud operators have expanded their service offerings, known as Stock Keeping Units (SKUs), to accommodate diverse demands, resulting in increased complexity for customers to select appropriate configurations. In a studied system, only 43% of the resource capacity was correctly chosen. Automated solutions addressing this issue often require enriched data, such as workload traces, which are unavailable for new services. However, telemetry from existing users and customer satisfaction feedback provide valuable insights for understanding customer needs and improving provisioning recommendations.\n  This paper introduces Lorentz, an intelligent SKU recommender for provisioning compute resources without relying on workload traces. Lorentz uses customer profile data to forecast resource capacities for new users by profiling existing ones. It also incorporates a continuous feedback loop to refine recommendations based on customer performance versus cost preferences inferred from satisfaction signals. Validated with production data from Azure PostgreSQL DB, Lorentz achieves over 60% slack reduction without increasing throttling compared to user selections and existing defaults. Evaluations with synthetic data demonstrate Lorentz's ability to iteratively learn user preferences with high accuracy.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "Proc. ACM Manag. Data, Vol. 2, No. 3 (SIGMOD), Article 149. Publication date: June 2024",
+  "pdf_url": null,
+  "category": "cs.DB"
+}

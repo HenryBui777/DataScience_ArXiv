@@ -1,0 +1,828 @@
+{
+  "2407-04215": {
+    "title": "T2IShield: Defending Against Backdoors on Text-to-Image Diffusion Models",
+    "authors": [
+      "Zhong Ling Wang",
+      "Jie Zhang",
+      "Shiguang Shan",
+      "Xilin Chen"
+    ],
+    "publication_date": "2024-07-05",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "ceb8f1a20db0bda4886576e4970f9073e49220bc",
+    "corpus_id": 271038819,
+    "category": "Computer Science"
+  },
+  "2405-17814": {
+    "title": "FAIntbench: A Holistic and Precise Benchmark for Bias Evaluation in Text-to-Image Models",
+    "authors": [
+      "Hanjun Luo",
+      "Ziye Deng",
+      "Ruizhe Chen",
+      "Zuo-Qiang Liu"
+    ],
+    "publication_date": "2024-05-28",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "f48c2e7dfb376f53f47ae5354ae5cd8bacd4893b",
+    "corpus_id": 270068343,
+    "category": "Computer Science"
+  },
+  "2404-07990": {
+    "title": "OpenBias: Open-Set Bias Detection in Text-to-Image Generative Models",
+    "authors": [
+      "Moreno D'Incà",
+      "E. Peruzzo",
+      "Massimiliano Mancini",
+      "Dejia Xu",
+      "Vidit Goel",
+      "Xingqian Xu",
+      "Zhangyang Wang",
+      "Humphrey Shi",
+      "N. Sebe"
+    ],
+    "publication_date": "2024-04-11",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "25a57ecf771dbcc839e5b2d24bb6dc09b9b0a118",
+    "corpus_id": 269043114,
+    "category": "Computer Science"
+  },
+  "2404-01101": {
+    "title": "UFID: A Unified Framework for Black-box Input-level Backdoor Detection on Diffusion Models",
+    "authors": [
+      "Zihan Guan",
+      "Mengxuan Hu",
+      "Sheng Li",
+      "Anil Vullikanti"
+    ],
+    "publication_date": "2024-04-01",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "ac1f05667c32d0b6c6948a8b653a80c55cce8614",
+    "corpus_id": 268820200,
+    "category": "Computer Science"
+  },
+  "2403-19949": {
+    "title": "FairCLIP: Harnessing Fairness in Vision-Language Learning",
+    "authors": [
+      "Yan Luo",
+      "Minfei Shi",
+      "Muhammad Osama Khan",
+      "M. M. Afzal",
+      "Hao Huang",
+      "Shuaihang Yuan",
+      "Yu Tian",
+      "Luo Song",
+      "Ava Kouhana",
+      "T. Elze",
+      "Yi Fang",
+      "Mengyu Wang"
+    ],
+    "publication_date": "2024-03-29",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "60f2cb7bea3bf55eebddaea37669418c0c39aad6",
+    "corpus_id": 268793893,
+    "category": "Computer Science"
+  },
+  "2403-08425": {
+    "title": "Specification overfitting in artificial intelligence",
+    "authors": [
+      "Benjamin Roth",
+      "Pedro Henrique Luz de Araujo",
+      "Yuxi Xia",
+      "Saskia Kaltenbrunner",
+      "Christoph Korab"
+    ],
+    "publication_date": "2024-03-13",
+    "venue": "Artificial Intelligence Review",
+    "semantic_scholar_id": "c210cc23009b7b9f15ef0a2f4a337a624c3e736b",
+    "corpus_id": 268379567,
+    "category": "Computer Science"
+  },
+  "2403-03431": {
+    "title": "Towards Understanding Cross and Self-Attention in Stable Diffusion for Text-Guided Image Editing",
+    "authors": [
+      "Bingyan Liu",
+      "Chengyu Wang",
+      "Tingfeng Cao",
+      "Kui Jia",
+      "Jun Huang"
+    ],
+    "publication_date": "2024-03-06",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "a008cc8a4846707f2c2d1e84af08a853e7cb8f5f",
+    "corpus_id": 268253430,
+    "category": "Computer Science"
+  },
+  "2312-13053": {
+    "title": "Quantifying Bias in Text-to-Image Generative Models",
+    "authors": [
+      "J. Vice",
+      "Naveed Akhtar",
+      "Richard Hartley",
+      "Ajmal Mian"
+    ],
+    "publication_date": "2023-12-20",
+    "venue": "IEEE Transactions on Dependable and Secure Computing",
+    "semantic_scholar_id": "98d0d05c117840882ef8fff5ee4d71442aed5bba",
+    "corpus_id": 266374755,
+    "category": "Computer Science"
+  },
+  "2312-04410": {
+    "title": "Smooth Diffusion: Crafting Smooth Latent Spaces in Diffusion Models",
+    "authors": [
+      "Jiayi Guo",
+      "Xingqian Xu",
+      "Yifan Pu",
+      "Zanlin Ni",
+      "Chaofei Wang",
+      "Manushree Vasu",
+      "Shiji Song",
+      "Gao Huang",
+      "Humphrey Shi"
+    ],
+    "publication_date": "2023-12-07",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "3333fa6dc9d39cad3d5cd87da9ae39e5a6aefe27",
+    "corpus_id": 266054322,
+    "category": "Computer Science"
+  },
+  "2312-01261": {
+    "title": "TIBET: Identifying and Evaluating Biases in Text-to-Image Generative Models",
+    "authors": [
+      "Aditya Chinchure",
+      "Pushkar Shukla",
+      "Gaurav Bhatt",
+      "Kiri Salij",
+      "K. Hosanagar",
+      "Leonid Sigal",
+      "Matthew Turk"
+    ],
+    "publication_date": "2023-12-03",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "4e5b5530711cde32b5d7f72a7634ba8e8af2c7db",
+    "corpus_id": 265610016,
+    "category": "Computer Science"
+  },
+  "2312-00050": {
+    "title": "Elijah: Eliminating Backdoors Injected in Diffusion Models via Distribution Shift",
+    "authors": [
+      "Shengwei An",
+      "Sheng-Yen Chou",
+      "Kaiyuan Zhang",
+      "Qiuling Xu",
+      "Guanhong Tao",
+      "Guangyu Shen",
+      "Siyuan Cheng",
+      "Shiqing Ma",
+      "Pin-Yu Chen",
+      "Tsung-Yi Ho",
+      "Xiangyu Zhang"
+    ],
+    "publication_date": "2023-11-27",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "180f8781ea06316d8abef13a6cf1bfe0fef9093c",
+    "corpus_id": 265551802,
+    "category": "Computer Science"
+  },
+  "2311-16194": {
+    "title": "BadCLIP: Trigger-Aware Prompt Learning for Backdoor Attacks on CLIP",
+    "authors": [
+      "Jiawang Bai",
+      "Kuofeng Gao",
+      "Shaobo Min",
+      "Shu-Tao Xia",
+      "Zhifeng Li",
+      "Wei Liu"
+    ],
+    "publication_date": "2023-11-26",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "d0dfbf14af09e514d139c617aa3288ef96268fba",
+    "corpus_id": 265466314,
+    "category": "Computer Science"
+  },
+  "2311-07604": {
+    "title": "Finetuning Text-to-Image Diffusion Models for Fairness",
+    "authors": [
+      "Xudong Shen",
+      "Chao Du",
+      "Tianyu Pang",
+      "Min Lin",
+      "Yongkang Wong",
+      "Mohan Kankanhalli"
+    ],
+    "publication_date": "2023-11-11",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "3f3356d2f6755b7191aec00b0e9f6717ae81ca4b",
+    "corpus_id": 265158216,
+    "category": "Computer Science"
+  },
+  "2311-01573": {
+    "title": "Improving Fairness using Vision-Language Driven Image Augmentation",
+    "authors": [
+      "Moreno D'Incà",
+      "Christos Tzelepis",
+      "Ioannis Patras",
+      "N. Sebe"
+    ],
+    "publication_date": "2023-11-02",
+    "venue": "IEEE Workshop/Winter Conference on Applications of Computer Vision",
+    "semantic_scholar_id": "3a97813a0bf06f047c9cc7122ec794290de2b376",
+    "corpus_id": 265019061,
+    "category": "Computer Science"
+  },
+  "2307-16489": {
+    "title": "BAGM: A Backdoor Attack for Manipulating Text-to-Image Generative Models",
+    "authors": [
+      "J. Vice",
+      "Naveed Akhtar",
+      "Richard I. Hartley",
+      "A. Mian"
+    ],
+    "publication_date": "2023-07-31",
+    "venue": "IEEE Transactions on Information Forensics and Security",
+    "semantic_scholar_id": "333b8fec8b88cf8e58cf270a372772f6d32a8dd9",
+    "corpus_id": 260334446,
+    "category": "Computer Science"
+  },
+  "2305-10701": {
+    "title": "Personalization as a Shortcut for Few-Shot Backdoor Attack against Text-to-Image Diffusion Models",
+    "authors": [
+      "Yihao Huang",
+      "Qing Guo",
+      "Felix Juefei-Xu"
+    ],
+    "publication_date": "2023-05-18",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "ce5a753ba937846cd985d826959587a98261beb4",
+    "corpus_id": 258762751,
+    "category": "Computer Science"
+  },
+  "2305-04175": {
+    "title": "Text-to-Image Diffusion Models can be Easily Backdoored through Multimodal Data Poisoning",
+    "authors": [
+      "Shengfang Zhai",
+      "Yinpeng Dong",
+      "Qingni Shen",
+      "Shih-Chieh Pu",
+      "Yuejian Fang",
+      "Hang Su"
+    ],
+    "publication_date": "2023-05-07",
+    "venue": "ACM Multimedia",
+    "semantic_scholar_id": "fef8e393a6a1fb92ae8435f81d5ac82b2dc4ffc2",
+    "corpus_id": 258557506,
+    "category": "Computer Science"
+  },
+  "2304-05390": {
+    "title": "HRS-Bench: Holistic, Reliable and Scalable Benchmark for Text-to-Image Models",
+    "authors": [
+      "E. Bakr",
+      "Pengzhan Sun",
+      "Xiaoqian Shen",
+      "Faizan Farooq Khan",
+      "Li Erran Li",
+      "Mohamed Elhoseiny"
+    ],
+    "publication_date": "2023-04-11",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "4d94dcc6c9c261c8edcd0f3c5a1318a98a45b79d",
+    "corpus_id": 258059680,
+    "category": "Computer Science"
+  },
+  "2303-15180": {
+    "title": "Detecting Backdoors in Pre-trained Encoders",
+    "authors": [
+      "Shiwei Feng",
+      "Guanhong Tao",
+      "Siyuan Cheng",
+      "Guangyu Shen",
+      "Xiangzhe Xu",
+      "Yingqi Liu",
+      "Kaiyuan Zhang",
+      "Shiqing Ma",
+      "Xiangyu Zhang"
+    ],
+    "publication_date": "2023-03-23",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2a64db1a5fc32d1aae9272660232d62110088e1a",
+    "corpus_id": 257767222,
+    "category": "Computer Science"
+  },
+  "2303-11897": {
+    "title": "TIFA: Accurate and Interpretable Text-to-Image Faithfulness Evaluation with Question Answering",
+    "authors": [
+      "Yushi Hu",
+      "Benlin Liu",
+      "Jungo Kasai",
+      "Yizhong Wang",
+      "Mari Ostendorf",
+      "Ranjay Krishna",
+      "Noah A. Smith"
+    ],
+    "publication_date": "2023-03-21",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "1f02ba1c6fae779ec3d003340e72eaf82351cfb9",
+    "corpus_id": 257636562,
+    "category": "Computer Science"
+  },
+  "2303-11408": {
+    "title": "Stable Bias: Evaluating Societal Representations in Diffusion Models",
+    "authors": [
+      "A. Luccioni",
+      "Christopher Akiki",
+      "Margaret Mitchell",
+      "Yacine Jernite"
+    ],
+    "publication_date": "2023-03-20",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "9116c50561007cd69cc24a60c7593a5425f57fcc",
+    "corpus_id": 257636849,
+    "category": "Computer Science"
+  },
+  "2303-05762": {
+    "title": "TrojDiff: Trojan Attacks on Diffusion Models with Diverse Targets",
+    "authors": [
+      "Weixin Chen",
+      "D. Song",
+      "Bo Li"
+    ],
+    "publication_date": "2023-03-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "14b9c9d8bb8c84e939e52e59fe6461b34db67b15",
+    "corpus_id": 257482560,
+    "category": "Computer Science"
+  },
+  "2212-05400": {
+    "title": "How to Backdoor Diffusion Models?",
+    "authors": [
+      "Sheng-Yen Chou",
+      "Pin-Yu Chen",
+      "Tsung-Yi Ho"
+    ],
+    "publication_date": "2022-12-11",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "a5a1196b6bd79031994c09caa3e0f41cbb1c94a3",
+    "corpus_id": 254564071,
+    "category": "Computer Science"
+  },
+  "2212-00926": {
+    "title": "Fair Generative Models via Transfer Learning",
+    "authors": [
+      "Christopher T. H. Teo",
+      "Milad Abdollahzadeh",
+      "Ngai-Man Cheung"
+    ],
+    "publication_date": "2022-12-02",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "c77f32cb3a030c04de992be40fdf882690afeef8",
+    "corpus_id": 254221195,
+    "category": "Computer Science"
+  },
+  "2211-02408": {
+    "title": "Rickrolling the Artist: Injecting Backdoors into Text Encoders for Text-to-Image Synthesis",
+    "authors": [
+      "Lukas Struppek",
+      "Dominik Hintersdorf",
+      "K. Kersting"
+    ],
+    "publication_date": "2022-11-04",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "929844531ce69c56edbe19f5b03dc87ff83851aa",
+    "corpus_id": 257557118,
+    "category": "Computer Science"
+  },
+  "2210-12324": {
+    "title": "Trustworthy human computation: a survey",
+    "authors": [
+      "H. Kashima",
+      "S. Oyama",
+      "Hiromi Arai",
+      "Junichiro Mori"
+    ],
+    "publication_date": "2022-10-22",
+    "venue": "Artificial Intelligence Review",
+    "semantic_scholar_id": "fedd6ddc4152807c603c74bb9e22171bc5b02ba0",
+    "corpus_id": 253098037,
+    "category": "Computer Science"
+  },
+  "2205-11487": {
+    "title": "Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding",
+    "authors": [
+      "Chitwan Saharia",
+      "William Chan",
+      "Saurabh Saxena",
+      "Lala Li",
+      "Jay Whang",
+      "Emily L. Denton",
+      "Seyed Kamyar Seyed Ghasemipour",
+      "Burcu Karagol Ayan",
+      "S. S. Mahdavi",
+      "Raphael Gontijo Lopes",
+      "Tim Salimans",
+      "Jonathan Ho",
+      "David J. Fleet",
+      "Mohammad Norouzi"
+    ],
+    "publication_date": "2022-05-23",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "9695824d7a01fad57ba9c01d7d76a519d78d65e7",
+    "corpus_id": 248986576,
+    "category": "Computer Science"
+  },
+  "2204-06125": {
+    "title": "Hierarchical Text-Conditional Image Generation with CLIP Latents",
+    "authors": [
+      "A. Ramesh",
+      "Prafulla Dhariwal",
+      "Alex Nichol",
+      "Casey Chu",
+      "Mark Chen"
+    ],
+    "publication_date": "2022-04-13",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "c57293882b2561e1ba03017902df9fc2f289dea2",
+    "corpus_id": 248097655,
+    "category": "Computer Science"
+  },
+  "2202-04053": {
+    "title": "DALL-EVAL: Probing the Reasoning Skills and Social Biases of Text-to-Image Generation Models",
+    "authors": [
+      "Jaemin Cho",
+      "Abhaysinh Zala",
+      "Mohit Bansal"
+    ],
+    "publication_date": "2022-02-08",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "212732c649d84382f4e74ca047b13f3c835591d7",
+    "corpus_id": 253510037,
+    "category": "Computer Science"
+  },
+  "2112-10752": {
+    "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+    "authors": [
+      "Robin Rombach",
+      "A. Blattmann",
+      "Dominik Lorenz",
+      "Patrick Esser",
+      "B. Ommer"
+    ],
+    "publication_date": "2021-12-20",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "c10075b3746a9f3dd5811970e93c8ca3ad39b39d",
+    "corpus_id": 245335280,
+    "category": "Computer Science"
+  },
+  "2112-02236": {
+    "title": "SemanticStyleGAN: Learning Compositional Generative Priors for Controllable Image Synthesis and Editing",
+    "authors": [
+      "Yichun Shi",
+      "Xiao Yang",
+      "Yangyue Wan",
+      "Xiaohui Shen"
+    ],
+    "publication_date": "2021-12-04",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2997e94ab3dccaa39eee8bd68f23b1ff30da4c80",
+    "corpus_id": 244909015,
+    "category": "Computer Science"
+  },
+  "2108-00401": {
+    "title": "Advances in adversarial attacks and defenses in computer vision: A survey",
+    "authors": [
+      "Naveed Akhtar",
+      "A. Mian",
+      "Navid Kardan",
+      "M. Shah"
+    ],
+    "publication_date": "2021-08-01",
+    "venue": "IEEE Access",
+    "semantic_scholar_id": "1a0829a7bef8ea3ecb33b55871b4498dd328ff68",
+    "corpus_id": 237396325,
+    "category": "Computer Science"
+  },
+  "2107-07754": {
+    "title": "Measuring Fairness in Generative Models",
+    "authors": [
+      "Christopher T. H. Teo",
+      "Ngai-Man Cheung"
+    ],
+    "publication_date": "2021-07-16",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "05afa11192eb61fa42cf9fe58fec6578c5ab1e91",
+    "corpus_id": 236034107,
+    "category": "Computer Science"
+  },
+  "2103-00020": {
+    "title": "Learning Transferable Visual Models From Natural Language Supervision",
+    "authors": [
+      "Alec Radford",
+      "Jong Wook Kim",
+      "Chris Hallacy",
+      "A. Ramesh",
+      "Gabriel Goh",
+      "Sandhini Agarwal",
+      "Girish Sastry",
+      "Amanda Askell",
+      "Pamela Mishkin",
+      "Jack Clark",
+      "Gretchen Krueger",
+      "I. Sutskever"
+    ],
+    "publication_date": "2021-02-26",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4",
+    "corpus_id": 231591445,
+    "category": "Computer Science"
+  },
+  "2101-05783": {
+    "title": "Persistent Anti-Muslim Bias in Large Language Models",
+    "authors": [
+      "Abubakar Abid",
+      "Maheen Farooqi",
+      "James Y. Zou"
+    ],
+    "publication_date": "2021-01-14",
+    "venue": "AAAI/ACM Conference on AI, Ethics, and Society",
+    "semantic_scholar_id": "4c2733d191e347753bb28afa46a1c55c65e085be",
+    "corpus_id": 231603388,
+    "category": "Computer Science"
+  },
+  "2012-12877": {
+    "title": "Training data-efficient image transformers & distillation through attention",
+    "authors": [
+      "Hugo Touvron",
+      "M. Cord",
+      "Matthijs Douze",
+      "Francisco Massa",
+      "Alexandre Sablayrolles",
+      "Herv'e J'egou"
+    ],
+    "publication_date": "2020-12-23",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "ad7ddcc14984caae308c397f1a589aae75d4ab71",
+    "corpus_id": 229363322,
+    "category": "Computer Science"
+  },
+  "2011-13456": {
+    "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+    "authors": [
+      "Yang Song",
+      "Jascha Narain Sohl-Dickstein",
+      "Diederik P. Kingma",
+      "Abhishek Kumar",
+      "Stefano Ermon",
+      "Ben Poole"
+    ],
+    "publication_date": "2020-11-26",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "633e2fbfc0b21e959a244100937c5853afca4853",
+    "corpus_id": 227209335,
+    "category": "Computer Science, Mathematics"
+  },
+  "2010-02502": {
+    "title": "Denoising Diffusion Implicit Models",
+    "authors": [
+      "Jiaming Song",
+      "Chenlin Meng",
+      "Stefano Ermon"
+    ],
+    "publication_date": "2020-10-06",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "014576b866078524286802b1d0e18628520aa886",
+    "corpus_id": 222140788,
+    "category": "Computer Science"
+  },
+  "2006-11239": {
+    "title": "Denoising Diffusion Probabilistic Models",
+    "authors": [
+      "Jonathan Ho",
+      "Ajay Jain",
+      "P. Abbeel"
+    ],
+    "publication_date": "2020-06-19",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "5c126ae3421f05768d8edd97ecd44b1364e2c99a",
+    "corpus_id": 219955663,
+    "category": "Computer Science, Mathematics"
+  },
+  "2006-03677": {
+    "title": "Visual Transformers: Token-based Image Representation and Processing for Computer Vision",
+    "authors": [
+      "Bichen Wu",
+      "Chenfeng Xu",
+      "Xiaoliang Dai",
+      "Alvin Wan",
+      "Peizhao Zhang",
+      "M. Tomizuka",
+      "K. Keutzer",
+      "Péter Vajda"
+    ],
+    "publication_date": "2020-06-05",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "a0185d4f32dde88aa1749f3a8000ed4721787b65",
+    "corpus_id": 219531480,
+    "category": "Computer Science, Engineering"
+  },
+  "2003-05161": {
+    "title": "A Benchmark for Systematic Generalization in Grounded Language Understanding",
+    "authors": [
+      "Laura Ruis",
+      "Jacob Andreas",
+      "Marco Baroni",
+      "Diane Bouchacourt",
+      "B. Lake"
+    ],
+    "publication_date": "2020-03-11",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "4bc2bb6584774b0d8ad0b4f5215dc2075487c192",
+    "corpus_id": 212658007,
+    "category": "Computer Science"
+  },
+  "2002-07217": {
+    "title": "Decision-Making with Auto-Encoding Variational Bayes",
+    "authors": [
+      "Romain Lopez",
+      "Pierre Boyeau",
+      "N. Yosef",
+      "Michael I. Jordan",
+      "J. Regier"
+    ],
+    "publication_date": "2020-02-17",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "ef4f5a50837a7c1b3e87b9300ffc7ba00d461a0f",
+    "corpus_id": 211146177,
+    "category": "Mathematics, Computer Science"
+  },
+  "2002-04087": {
+    "title": "Human-Centered Artificial Intelligence: Reliable, Safe & Trustworthy",
+    "authors": [
+      "B. Shneiderman"
+    ],
+    "publication_date": "2020-02-10",
+    "venue": "International journal of human computer interactions",
+    "semantic_scholar_id": "e49f67fa5c946ad24afcf59699a9cacf1ca53924",
+    "corpus_id": 211259461,
+    "category": "Computer Science"
+  },
+  "1908-09635": {
+    "title": "A Survey on Bias and Fairness in Machine Learning",
+    "authors": [
+      "Ninareh Mehrabi",
+      "Fred Morstatter",
+      "N. Saxena",
+      "Kristina Lerman",
+      "A. Galstyan"
+    ],
+    "publication_date": "2019-08-23",
+    "venue": "ACM Computing Surveys",
+    "semantic_scholar_id": "0090023afc66cd2741568599057f4e82b566137c",
+    "corpus_id": 201666566,
+    "category": "Computer Science, Mathematics"
+  },
+  "1801-00553": {
+    "title": "Threat of Adversarial Attacks on Deep Learning in Computer Vision: A Survey",
+    "authors": [
+      "Naveed Akhtar",
+      "A. Mian"
+    ],
+    "publication_date": "2018-01-02",
+    "venue": "IEEE Access",
+    "semantic_scholar_id": "b514949ad8344071c0f342f182390d2d88bcc26d",
+    "corpus_id": 3536399,
+    "category": "Computer Science"
+  },
+  "1706-06083": {
+    "title": "Towards Deep Learning Models Resistant to Adversarial Attacks",
+    "authors": [
+      "A. Ma̧dry",
+      "Aleksandar Makelov",
+      "Ludwig Schmidt",
+      "Dimitris Tsipras",
+      "Adrian Vladu"
+    ],
+    "publication_date": "2017-06-19",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "7aa38b85fa8cba64d6a4010543f6695dbf5f1386",
+    "corpus_id": 3488815,
+    "category": "Computer Science, Mathematics"
+  },
+  "1706-03762": {
+    "title": "Attention is All you Need",
+    "authors": [
+      "Ashish Vaswani",
+      "Noam M. Shazeer",
+      "Niki Parmar",
+      "Jakob Uszkoreit",
+      "Llion Jones",
+      "Aidan N. Gomez",
+      "Lukasz Kaiser",
+      "I. Polosukhin"
+    ],
+    "publication_date": "2017-06-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+    "corpus_id": 13756489,
+    "category": "Computer Science"
+  },
+  "1610-08401": {
+    "title": "Universal Adversarial Perturbations",
+    "authors": [
+      "Seyed-Mohsen Moosavi-Dezfooli",
+      "Alhussein Fawzi",
+      "Omar Fawzi",
+      "P. Frossard"
+    ],
+    "publication_date": "2016-10-26",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "16aa01ca0834a924c25faad5d8bfef3fd1acfcfe",
+    "corpus_id": 11558223,
+    "category": "Computer Science, Mathematics"
+  },
+  "1505-04597": {
+    "title": "U-Net: Convolutional Networks for Biomedical Image Segmentation",
+    "authors": [
+      "O. Ronneberger",
+      "P. Fischer",
+      "T. Brox"
+    ],
+    "publication_date": "2015-05-18",
+    "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+    "semantic_scholar_id": "6364fdaa0a0eccd823a779fcdd489173f938e91a",
+    "corpus_id": 3719281,
+    "category": "Computer Science"
+  },
+  "1503-03585": {
+    "title": "Deep Unsupervised Learning using Nonequilibrium Thermodynamics",
+    "authors": [
+      "Jascha Narain Sohl-Dickstein",
+      "Eric A. Weiss",
+      "Niru Maheswaranathan",
+      "S. Ganguli"
+    ],
+    "publication_date": "2015-03-11",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "2dcef55a07f8607a819c21fe84131ea269cc2e3c",
+    "corpus_id": 14888175,
+    "category": "Computer Science, Mathematics"
+  },
+  "1412-6572": {
+    "title": "Explaining and Harnessing Adversarial Examples",
+    "authors": [
+      "I. Goodfellow",
+      "Jonathon Shlens",
+      "Christian Szegedy"
+    ],
+    "publication_date": "2014-12-19",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "bee044c8e8903fb67523c1f8c105ab4718600cdb",
+    "corpus_id": 6706414,
+    "category": "Computer Science, Mathematics"
+  },
+  "1412-6082": {
+    "title": "Visual Concept Ontology for Image Annotations",
+    "authors": [
+      "Jan Botorek",
+      "Petra Budíková",
+      "P. Zezula"
+    ],
+    "publication_date": "2014-11-26",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "d3b4e235b803a033899c910b647780817d05f5e0",
+    "corpus_id": 12576403,
+    "category": "Computer Science"
+  },
+  "1405-0312": {
+    "title": "Microsoft COCO: Common Objects in Context",
+    "authors": [
+      "Tsung-Yi Lin",
+      "M. Maire",
+      "Serge J. Belongie",
+      "James Hays",
+      "P. Perona",
+      "Deva Ramanan",
+      "Piotr Dollár",
+      "C. L. Zitnick"
+    ],
+    "publication_date": "2014-05-01",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "71b7178df5d2b112d07e45038cb5637208659ff7",
+    "corpus_id": 14113767,
+    "category": "Computer Science"
+  },
+  "1312-6199": {
+    "title": "Intriguing properties of neural networks",
+    "authors": [
+      "Christian Szegedy",
+      "Wojciech Zaremba",
+      "I. Sutskever",
+      "Joan Bruna",
+      "D. Erhan",
+      "I. Goodfellow",
+      "R. Fergus"
+    ],
+    "publication_date": "2013-12-20",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "d891dc72cbd40ffaeefdc79f2e7afe1e530a23ad",
+    "corpus_id": 604334,
+    "category": "Computer Science"
+  }
+}

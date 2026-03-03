@@ -1,0 +1,17 @@
+{
+  "title": "PowerMove: Optimizing Compilation for Neutral Atom Quantum Computers with Zoned Architecture",
+  "authors": [
+    "Jixuan Ruan",
+    "Xiang Fang",
+    "Hezi Zhang",
+    "Ang Li",
+    "Travis Humble",
+    "Yufei Ding"
+  ],
+  "summary": "Neutral atom-based quantum computers (NAQCs) have recently emerged as promising candidates for scalable quantum computing, largely due to their advanced hardware capabilities, particularly qubit movement and the zoned architecture (ZA). However, fully leveraging these features poses significant compiler challenges, as it requires addressing complexities across gate scheduling, qubit allocation, qubit movement, and inter-zone communication. In this paper, we present PowerMove, an efficient compiler for NAQCs that enhances the qubit movement framework while fully integrating the advantages of ZA. By recognizing and leveraging the interdependencies between these key aspects, PowerMove unlocks new optimization opportunities, significantly enhancing both scalability and fidelity. Our evaluation demonstrates an improvement in fidelity by several orders of magnitude compared to the state-of-the-art methods, with execution time improved by up to 3.46x and compilation time reduced by up to 213.5x. We will open-source our code later to foster further research and collaboration within the community.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

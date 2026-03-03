@@ -1,0 +1,13 @@
+{
+  "title": "On PI-control in Capacity-Limited Networks",
+  "authors": [
+    "Felix Agner",
+    "Anders Rantzer"
+  ],
+  "summary": "This paper concerns control of a class of systems where multiple dynamically stable agents share a nonlinear and bounded control-interconnection. The agents are subject to a disturbance which is too large to reject with the available control action, making it impossible to stabilize all agents in their desired states. In this nonlinear setting, we consider two different anti-windup equipped proportional-integral control strategies and analyze their properties. We show that a fully decentralized strategy will globally, asymptotically stabilize a unique equilibrium. This equilibrium also minimizes a weighted sum of the tracking errors. We also consider a light addition to the fully decentralized strategy, where rank-1 coordination between the agents is introduced via the anti-windup action. We show that any equilibrium to this closed-loop system minimizes the maximum tracking error for any agent. A remarkable property of these results is that they rely on extremely few assumptions on the interconnection between the agents. Finally we illustrate how the considered model can be applied in a district heating setting, and demonstrate the two considered controllers in a simulation.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Constructing the quantum queer supergroup using Hecke-Clifford superalgebras",
+  "authors": [
+    "Jie Du",
+    "Haixia Gu",
+    "Zhenhua Li",
+    "Jinkui Wan"
+  ],
+  "summary": "In [DGLW], we use certain special elements and their commutation relations in the Hecke-Clifford algebras $H^c_{r,R}$ to derive some fundamental multiplication formulas associated with the natural bases in queer $q$-Schur superalgebras $Q_q(n,r;R)$ introduced in [DW2]. Here a natural basis element is defined by a special element $T_{A^{\\star}}$ in $H^c_{r,R}$ associated with a pair of certain $n\\times n$ matrices $A^{\\star}=(A^{\\bar0}|A^{\\bar1})$ over $\\mathbb{N}$ with entries sum to $r$. The definition of $T_{A^\\star}$ consists of an element $c_{A^{\\star}}$ in the Clifford superalgebra and an element $T_A$ in the Hecke algebra, where $A=A^{\\bar0}+A^{\\bar1}$. Note that all $T_A$ can be used to define the natural basis for the corresponding $q$-Schur algebra $S_q(n,r)$.\n  This paper is a continuation of [DGLW]. We start with standardized queer $v$-Schur superalgebras $ Q^s_v(n,r)$, for $R=\\mathbb{Z}[v,v^{-1}]$ and $q=v^2$, and their natural bases. With the $v$-Schur algebra ${ S}_v(n,r)$ at the background, the first key ingredient is a standardisation of the natural basis for $Q^s_v(n,r)$ and their associated standard multiplication formulas. By introducing some long elements of finite sums, we then extend the formulas to these long elements which allow us to explicitly define $\\mathbb{Q}(v)$-superalgebra homomorphisms $ξ_{n,r}$ from the quantum queer supergroup $\\boldsymbol{U}_v(\\mathfrak{q}_n)$ to queer $q$-Schur superalgebras $\\boldsymbol{Q}^s_v(n,r)$, for all $r\\geq1$. Finally, taking limits of long elements yields certain infinitely long elements as formal infinite series which eventually lead to a new construction for $\\boldsymbol{U}_v(\\mathfrak{q}_n)$.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.QA"
+}

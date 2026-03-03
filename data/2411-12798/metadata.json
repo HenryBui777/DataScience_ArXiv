@@ -1,0 +1,15 @@
+{
+  "title": "Efficient on-shell matching",
+  "authors": [
+    "Mikael Chala",
+    "Javier López Miras",
+    "José Santiago",
+    "Fuensanta Vilches"
+  ],
+  "summary": "We propose an efficient method to perform on-shell matching calculations in effective field theories. The standard off-shell approach to matching requires the use of a Green's basis that includes redundant and evanescent operators. The reduction of such a basis to a physical one is often highly non-trivial, difficult to automate and error prone. Our proposal is based on a numerical solution of the corresponding on-shell matching equations, which automatically implements in a trivial way the delicate cancellation between the non-local terms in the full theory and those in the effective one. The use of rational on-shell kinematics ensures an exact analytic solution despite the numerical procedure. In this way we only need a physical basis to perform the matching. Our procedure can be used to reduce any Green's basis to an arbitrary physical one, or to translate between physical bases; to renormalize arbitrary effective Lagrangians, directly in terms of a physical basis; and to perform finite matching, including evanescent contributions, as we discuss with explicit examples.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "hep-ph, hep-th"
+}

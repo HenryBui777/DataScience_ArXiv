@@ -1,0 +1,15 @@
+{
+  "title": "Q-CSM: Q-Learning-based Cognitive Service Management in Heterogeneous IoT Networks",
+  "authors": [
+    "Kubra Duran",
+    "Mehmet Ozdem",
+    "Kerem Gursu",
+    "Berk Canberk"
+  ],
+  "summary": "The dramatic increase in the number of smart services and their diversity poses a significant challenge in Internet of Things (IoT) networks: heterogeneity. This causes significant quality of service (QoS) degradation in IoT networks. In addition, the constraints of IoT devices in terms of computational capability and energy resources add extra complexity to this. However, the current studies remain insufficient to solve this problem due to the lack of cognitive action recommendations. Therefore, we propose a Q-learning-based Cognitive Service Management framework called Q-CSM. In this framework, we first design an IoT Agent Manager to handle the heterogeneity in data formats. After that, we design a Q-learning-based recommendation engine to optimize the devices' lifetime according to the predicted QoS behaviour of the changing IoT network scenarios. We apply the proposed cognitive management to a smart city scenario consisting of three specific services: wind turbines, solar panels, and transportation systems. We note that our proposed cognitive method achieves 38.7% faster response time to the dynamical IoT changes in topology. Furthermore, the proposed framework achieves 19.8% longer lifetime on average for constrained IoT devices thanks to its Q-learning-based cognitive decision capability. In addition, we explore the most successive learning rate value in the Q-learning run through the exploration and exploitation phases.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.NI"
+}

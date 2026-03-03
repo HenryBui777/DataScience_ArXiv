@@ -1,0 +1,15 @@
+{
+  "title": "Evaluating Tokenizer Performance of Large Language Models Across Official Indian Languages",
+  "authors": [
+    "S. Tamang",
+    "D. J. Bora"
+  ],
+  "summary": "Large Language Models (LLMs) based on transformer architectures have revolutionized a variety of domains, with tokenization playing a pivotal role in their pre-processing and fine-tuning stages. In multilingual models, particularly those tailored for Indic languages, effective tokenization is crucial for optimizing performance. This paper presents a comprehensive evaluation of tokenizers used by 12 LLMs across all 22 official languages of India, with a focus on comparing the efficiency of their tokenization processes. We employed the Normalized Sequence Length (NSL) as a key metric in our analysis. Our findings reveal that the SUTRA tokenizer outperforms all other models, including several Indic-specific models, excelling in 14 languages. Notable insights include the SUTRA tokenizer's superior handling of Indic languages, GPT-4o's advancement over its predecessor GPT-4 in processing Indian languages, and the limited performance of Project Indus in certain languages. This study underscores the critical importance of developing targeted tokenization strategies for multilingual and Indic-centric models, laying the groundwork for future improvements in tokenizer design to enhance linguistic coverage and model efficiency.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-26"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.AI"
+}

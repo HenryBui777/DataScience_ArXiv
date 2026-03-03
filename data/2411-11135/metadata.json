@@ -1,0 +1,18 @@
+{
+  "title": "Oscillation Inversion: Understand the structure of Large Flow Model through the Lens of Inversion Method",
+  "authors": [
+    "Yan Zheng",
+    "Zhenxiao Liang",
+    "Xiaoyan Cong",
+    "Lanqing guo",
+    "Yuehao Wang",
+    "Peihao Wang",
+    "Zhangyang Wang"
+  ],
+  "summary": "We explore the oscillatory behavior observed in inversion methods applied to large-scale text-to-image diffusion models, with a focus on the \"Flux\" model. By employing a fixed-point-inspired iterative approach to invert real-world images, we observe that the solution does not achieve convergence, instead oscillating between distinct clusters. Through both toy experiments and real-world diffusion models, we demonstrate that these oscillating clusters exhibit notable semantic coherence. We offer theoretical insights, showing that this behavior arises from oscillatory dynamics in rectified flow models. Building on this understanding, we introduce a simple and fast distribution transfer technique that facilitates image enhancement, stroke-based recoloring, as well as visual prompt-guided image editing. Furthermore, we provide quantitative results demonstrating the effectiveness of our method for tasks such as image enhancement, makeup transfer, reconstruction quality, and guided sampling quality. Higher-quality examples of videos and images are available at \\href{https://yanyanzheng96.github.io/oscillation_inversion/}{this link}.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

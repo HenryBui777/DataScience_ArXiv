@@ -1,0 +1,17 @@
+{
+  "title": "MVANet: Multi-Stage Video Attention Network for Sound Event Localization and Detection with Source Distance Estimation",
+  "authors": [
+    "Hengyi Hong",
+    "Qing Wang",
+    "Jun Du",
+    "Ruoyu Wei",
+    "Mingqi Cai",
+    "Xin Fang"
+  ],
+  "summary": "Sound event localization and detection with source distance estimation (3D SELD) involves not only identifying the sound category and its direction-of-arrival (DOA) but also predicting the source's distance, aiming to provide full information about the sound position. This paper proposes a multi-stage video attention network (MVANet) for audio-visual (AV) 3D SELD. Multi-stage audio features are used to adaptively capture the spatial information of sound sources in videos. We propose a novel output representation that combines the DOA with distance of sound sources by calculating the real Cartesian coordinates to address the newly introduced source distance estimation (SDE) task in the Detection and Classification of Acoustic Scenes and Events (DCASE) 2024 Challenge. We also employ a variety of effective data augmentation and pre-training methods. Experimental results on the STARSS23 dataset have proven the effectiveness of our proposed MVANet. By integrating the aforementioned techniques, our system outperforms the top-ranked method we used in the AV 3D SELD task of the DCASE 2024 Challenge without model ensemble. The code will be made publicly available in the future.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.AS"
+}

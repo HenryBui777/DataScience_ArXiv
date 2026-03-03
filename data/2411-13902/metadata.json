@@ -1,0 +1,20 @@
+{
+  "title": "PIORS: Personalized Intelligent Outpatient Reception based on Large Language Model with Multi-Agents Medical Scenario Simulation",
+  "authors": [
+    "Zhijie Bao",
+    "Qingyun Liu",
+    "Ying Guo",
+    "Zhengqiang Ye",
+    "Jun Shen",
+    "Shirong Xie",
+    "Jiajie Peng",
+    "Xuanjing Huang",
+    "Zhongyu Wei"
+  ],
+  "summary": "In China, receptionist nurses face overwhelming workloads in outpatient settings, limiting their time and attention for each patient and ultimately reducing service quality. In this paper, we present the Personalized Intelligent Outpatient Reception System (PIORS). This system integrates an LLM-based reception nurse and a collaboration between LLM and hospital information system (HIS) into real outpatient reception setting, aiming to deliver personalized, high-quality, and efficient reception services. Additionally, to enhance the performance of LLMs in real-world healthcare scenarios, we propose a medical conversational data generation framework named Service Flow aware Medical Scenario Simulation (SFMSS), aiming to adapt the LLM to the real-world environments and PIORS settings. We evaluate the effectiveness of PIORS and SFMSS through automatic and human assessments involving 15 users and 15 clinical experts. The results demonstrate that PIORS-Nurse outperforms all baselines, including the current state-of-the-art model GPT-4o, and aligns with human preferences and clinical needs. Further details and demo can be found at https://github.com/FudanDISC/PIORS",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.AI"
+}

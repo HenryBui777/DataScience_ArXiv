@@ -1,0 +1,16 @@
+{
+  "title": "Zooming-in on cluster radio relics -- I. How density fluctuations explain the Mach number discrepancy, microgauss magnetic fields, and spectral index variations",
+  "authors": [
+    "Joseph Whittingham",
+    "Christoph Pfrommer",
+    "Maria Werhahn",
+    "Léna Jlassi",
+    "Philipp Girichidis"
+  ],
+  "summary": "It is generally accepted that radio relics are the result of synchrotron emission from shock-accelerated electrons. Current models, however, are still unable to explain several aspects of their formation. In this paper, we focus on three outstanding problems: i) Mach number estimates derived from radio data do not agree with those derived from X-ray data, ii) cooling length arguments imply a magnetic field that is at least an order of magnitude larger than the surrounding intracluster medium (ICM), and iii) spectral index variations do not agree with standard cooling models. To solve these problems, we first identify typical shock conditions in cosmological simulations, using the results to inform significantly higher resolution shock-tube simulations. We apply the cosmic ray electron spectra code CREST and the emission code CRAYON+ to these, thereby generating mock observables ab-initio. We identify that upon running into an accretion shock, merger shocks generate a shock-compressed sheet, which, in turn, runs into upstream density fluctuations in pressure equilibrium. This mechanism directly gives rise to solutions to the three problems: it creates a distribution of Mach numbers at the shock-front, which flattens cosmic ray electron spectra, thereby biasing radio-derived Mach number estimates to higher values. We show that this effect is particularly strong in weaker shocks. Secondly, the density sheet becomes Rayleigh-Taylor unstable at the contact discontinuity, causing turbulence and additional compression downstream. This amplifies the magnetic field from ICM-like conditions up to microgauss levels. We show that synchrotron-based measurements are strongly biased by the tail of the distribution here too. Finally, the same instability also breaks the common assumption that matter is advected at the post-shock velocity downstream, thus invalidating laminar-flow based cooling models.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.HE, astro-ph.CO"
+}

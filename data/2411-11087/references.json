@@ -1,0 +1,768 @@
+{
+  "2312-06187": {
+    "title": "SP-DiffDose: A Conditional Diffusion Model for Radiation Dose Prediction Based on Multi-Scale Fusion of Anatomical Structures, Guided by SwinTransformer and Projector",
+    "authors": [
+      "Linjie Fu",
+      "Xia Li",
+      "Xiuding Cai",
+      "Yingkai Wang",
+      "Xueyao Wang",
+      "Yu Yao",
+      "Y. Shen"
+    ],
+    "publication_date": "2023-12-11",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "4812fc03b472186423b3c71ce2aa34e66f60dff2",
+    "corpus_id": 266163198,
+    "category": "Computer Science, Engineering"
+  },
+  "2312-06709": {
+    "title": "AM-RADIO: Agglomerative Vision Foundation Model Reduce All Domains Into One",
+    "authors": [
+      "Michael Ranzinger",
+      "Greg Heinrich",
+      "Jan Kautz",
+      "Pavlo Molchanov"
+    ],
+    "publication_date": "2023-12-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2fd95b3c79e0c39bdd2611bdc3cc369c6c73d8b1",
+    "corpus_id": 266174664,
+    "category": "Computer Science"
+  },
+  "2311-02991": {
+    "title": "Diffusion-Based Radiotherapy Dose Prediction Guided by Inter-Slice Aware Structure Encoding",
+    "authors": [
+      "Zheng-Kai Feng",
+      "L. Wen",
+      "Jianghong Xiao",
+      "Yuanyuan Xu",
+      "Xi Wu",
+      "Jiliu Zhou",
+      "Xingchen Peng",
+      "Yan Wang"
+    ],
+    "publication_date": "2023-11-06",
+    "venue": "IEEE Transactions on Emerging Topics in Computational Intelligence",
+    "semantic_scholar_id": "d6a9bcc0ab0c914ca4822844928eef2e1b698d48",
+    "corpus_id": 265033280,
+    "category": "Computer Science"
+  },
+  "2308-09592": {
+    "title": "StableVideo: Text-driven Consistency-aware Diffusion Video Editing",
+    "authors": [
+      "Wenhao Chai",
+      "Xun Guo",
+      "Gaoang Wang",
+      "Yang Lu"
+    ],
+    "publication_date": "2023-08-18",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "05cbac9a5101f47a6fabad72398616506572c9fa",
+    "corpus_id": 261031087,
+    "category": "Computer Science"
+  },
+  "2307-06507": {
+    "title": "Improving nonalcoholic fatty liver disease classification performance with latent diffusion models",
+    "authors": [
+      "Romain Hardy",
+      "C. Ilin",
+      "Joe Klepich",
+      "Ryan Mitchell",
+      "Steve Hall",
+      "Jericho Villareal"
+    ],
+    "publication_date": "2023-07-13",
+    "venue": "Scientific Reports",
+    "semantic_scholar_id": "3805597c4857f91a677cb2121ea6795e073fdd01",
+    "corpus_id": 259847348,
+    "category": "Computer Science, Medicine"
+  },
+  "2306-03437": {
+    "title": "DFormer: Diffusion-guided Transformer for Universal Image Segmentation",
+    "authors": [
+      "Hefeng Wang",
+      "Jiale Cao",
+      "R. Anwer",
+      "J. Xie",
+      "F. Khan",
+      "Yanwei Pang"
+    ],
+    "publication_date": "2023-06-06",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "74e3b4dd3f12d0eae1de836be288fe19c3f5e2db",
+    "corpus_id": 259088908,
+    "category": "Computer Science"
+  },
+  "2305-14334": {
+    "title": "Diffusion Hyperfeatures: Searching Through Time and Space for Semantic Correspondence",
+    "authors": [
+      "Grace Luo",
+      "Lisa Dunlap",
+      "Dong Huk Park",
+      "Aleksander Holynski",
+      "Trevor Darrell"
+    ],
+    "publication_date": "2023-05-23",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "c267f83a5d0fb0e4ed4c5c1174998ab6efd457aa",
+    "corpus_id": 258841218,
+    "category": "Computer Science"
+  },
+  "2305-00562": {
+    "title": "Class-Balancing Diffusion Models",
+    "authors": [
+      "Yiming Qin",
+      "Huangjie Zheng",
+      "Jiangchao Yao",
+      "Mingyuan Zhou",
+      "Ya Zhang"
+    ],
+    "publication_date": "2023-04-30",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "735e1cb91342e03eee3791afb13eb0e9669f9759",
+    "corpus_id": 258427128,
+    "category": "Computer Science"
+  },
+  "2304-08466": {
+    "title": "Synthetic Data from Diffusion Models Improves ImageNet Classification",
+    "authors": [
+      "Shekoofeh Azizi",
+      "Simon Kornblith",
+      "Chitwan Saharia",
+      "Mohammad Norouzi",
+      "David J. Fleet"
+    ],
+    "publication_date": "2023-04-17",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "4538e353dd98f396c8facc29ebb72e9b1ba5f7c2",
+    "corpus_id": 258179174,
+    "category": "Computer Science"
+  },
+  "2303-16203": {
+    "title": "Your Diffusion Model is Secretly a Zero-Shot Classifier",
+    "authors": [
+      "Alexander C. Li",
+      "Mihir Prabhudesai",
+      "Shivam Duggal",
+      "Ellis L Brown",
+      "Deepak Pathak"
+    ],
+    "publication_date": "2023-03-28",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "4702d5a163477c734a54f3ed2d171dca1504eaae",
+    "corpus_id": 257771787,
+    "category": "Computer Science"
+  },
+  "2303-10610": {
+    "title": "DiffMIC: Dual-Guidance Diffusion Network for Medical Image Classification",
+    "authors": [
+      "Yijun Yang",
+      "H. Fu",
+      "Angelica I. Avilés-Rivero",
+      "C. Schonlieb",
+      "Lei Zhu"
+    ],
+    "publication_date": "2023-03-19",
+    "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+    "semantic_scholar_id": "02575e606870df13e4739641d3108d82682cd942",
+    "corpus_id": 257631792,
+    "category": "Computer Science"
+  },
+  "2303-09833": {
+    "title": "FreeDoM: Training-Free Energy-Guided Conditional Diffusion Model",
+    "authors": [
+      "Jiwen Yu",
+      "Yinhuai Wang",
+      "Chen Zhao",
+      "Bernard Ghanem",
+      "Jian Zhang"
+    ],
+    "publication_date": "2023-03-17",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "ce06533ecc98ba221a4db427738884c6a6af6eee",
+    "corpus_id": 257622962,
+    "category": "Computer Science"
+  },
+  "2211-09788": {
+    "title": "DiffusionDet: Diffusion Model for Object Detection",
+    "authors": [
+      "Shoufa Chen",
+      "Pei Sun",
+      "Yibing Song",
+      "P. Luo"
+    ],
+    "publication_date": "2022-11-17",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "81621c53c6aa421deb81bb1359138ded0fb4e258",
+    "corpus_id": 253581633,
+    "category": "Computer Science"
+  },
+  "2211-07804": {
+    "title": "Diffusion models in medical imaging: A comprehensive survey",
+    "authors": [
+      "A. Kazerouni",
+      "Ehsan Khodapanah Aghdam",
+      "Moein Heidari",
+      "Reza Azad",
+      "Mohsen Fayyaz",
+      "I. Hacihaliloglu",
+      "D. Merhof"
+    ],
+    "publication_date": "2022-11-14",
+    "venue": "Medical Image Anal.",
+    "semantic_scholar_id": "b57b8b6b8052bf2e7f6fe5c8e91cdcb385b75ab6",
+    "corpus_id": 253523207,
+    "category": "Engineering, Computer Science, Medicine"
+  },
+  "2211-00611": {
+    "title": "MedSegDiff: Medical Image Segmentation with Diffusion Probabilistic Model",
+    "authors": [
+      "Junde Wu",
+      "Huihui Fang",
+      "Yu Zhang",
+      "Yehui Yang",
+      "Yanwu Xu"
+    ],
+    "publication_date": "2022-11-01",
+    "venue": "International Conference on Medical Imaging with Deep Learning",
+    "semantic_scholar_id": "c266aedf9660a70d15d02f53242c6fcebe7b4b8c",
+    "corpus_id": 253244032,
+    "category": "Computer Science"
+  },
+  "2210-10163": {
+    "title": "MedCLIP: Contrastive Learning from Unpaired Medical Images and Text",
+    "authors": [
+      "Zifeng Wang",
+      "Zhenbang Wu",
+      "Dinesh Agarwal",
+      "Jimeng Sun"
+    ],
+    "publication_date": "2022-10-18",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "cdd9c1d23f9e89d5113f3e31821bb174c6a6afed",
+    "corpus_id": 252992913,
+    "category": "Computer Science, Medicine"
+  },
+  "2209-12152": {
+    "title": "All are Worth Words: A ViT Backbone for Diffusion Models",
+    "authors": [
+      "Fan Bao",
+      "Shen Nie",
+      "Kaiwen Xue",
+      "Yue Cao",
+      "Chongxuan Li",
+      "Hang Su",
+      "Jun Zhu"
+    ],
+    "publication_date": "2022-09-25",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "897f3bb5eacaa80359e81ff33378e1110e20ae95",
+    "corpus_id": 253581703,
+    "category": "Computer Science"
+  },
+  "2204-03934": {
+    "title": "Does Robustness on ImageNet Transfer to Downstream Tasks?",
+    "authors": [
+      "Yutaro Yamada",
+      "Mayu Otani"
+    ],
+    "publication_date": "2022-04-08",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "1ea7beacd5fc3f95673ef614d4d5e213e8275fa2",
+    "corpus_id": 248069422,
+    "category": "Computer Science"
+  },
+  "2202-12099": {
+    "title": "Data variation-aware medical image segmentation",
+    "authors": [
+      "A. Dushatskiy",
+      "G. Lowe",
+      "P. Bosman",
+      "T. Alderliesten"
+    ],
+    "publication_date": "2022-02-24",
+    "venue": "Medical Imaging",
+    "semantic_scholar_id": "305b3d13e84d4540f3ec0cbc26e9f653bc0ef830",
+    "corpus_id": 247083940,
+    "category": "Engineering, Computer Science"
+  },
+  "2202-06709": {
+    "title": "How Do Vision Transformers Work?",
+    "authors": [
+      "Namuk Park",
+      "Songkuk Kim"
+    ],
+    "publication_date": "2022-02-14",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "430bab3890e1e52c4c1f74900b0e408e47a1cb8f",
+    "corpus_id": 246823327,
+    "category": "Computer Science"
+  },
+  "2112-03126": {
+    "title": "Label-Efficient Semantic Segmentation with Diffusion Models",
+    "authors": [
+      "Dmitry Baranchuk",
+      "Ivan Rubachev",
+      "A. Voynov",
+      "Valentin Khrulkov",
+      "Artem Babenko"
+    ],
+    "publication_date": "2021-12-06",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "42f2271cebb7f272b0066c1f22d33381f139ee68",
+    "corpus_id": 244908617,
+    "category": "Computer Science"
+  },
+  "2106-13797": {
+    "title": "PVT v2: Improved baselines with Pyramid Vision Transformer",
+    "authors": [
+      "Wenhai Wang",
+      "Enze Xie",
+      "Xiang Li",
+      "Deng-Ping Fan",
+      "Kaitao Song",
+      "Ding Liang",
+      "Tong Lu",
+      "P. Luo",
+      "Ling Shao"
+    ],
+    "publication_date": "2021-06-25",
+    "venue": "Computational Visual Media",
+    "semantic_scholar_id": "67040b931c1a384426c44ae73f9553e97f08cf6a",
+    "corpus_id": 235652212,
+    "category": "Computer Science"
+  },
+  "2106-09685": {
+    "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+    "authors": [
+      "J. E. Hu",
+      "Yelong Shen",
+      "Phillip Wallis",
+      "Zeyuan Allen-Zhu",
+      "Yuanzhi Li",
+      "Shean Wang",
+      "Weizhu Chen"
+    ],
+    "publication_date": "2021-06-17",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "a8ca46b171467ceb2d7652fbfb67fe701ad86092",
+    "corpus_id": 235458009,
+    "category": "Computer Science"
+  },
+  "2105-15203": {
+    "title": "SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers",
+    "authors": [
+      "Enze Xie",
+      "Wenhai Wang",
+      "Zhiding Yu",
+      "Anima Anandkumar",
+      "J. Álvarez",
+      "Ping Luo"
+    ],
+    "publication_date": "2021-05-31",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "e3d7778a47c6cab4ea1ef3ee9d19ec1510c15c60",
+    "corpus_id": 235254713,
+    "category": "Computer Science"
+  },
+  "2104-14294": {
+    "title": "Emerging Properties in Self-Supervised Vision Transformers",
+    "authors": [
+      "Mathilde Caron",
+      "Hugo Touvron",
+      "Ishan Misra",
+      "Herv'e J'egou",
+      "J. Mairal",
+      "Piotr Bojanowski",
+      "Armand Joulin"
+    ],
+    "publication_date": "2021-04-29",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "ad4a0938c48e61b7827869e4ac3baffd0aefab35",
+    "corpus_id": 233444273,
+    "category": "Computer Science"
+  },
+  "2103-16302": {
+    "title": "Rethinking Spatial Dimensions of Vision Transformers",
+    "authors": [
+      "Byeongho Heo",
+      "Sangdoo Yun",
+      "Dongyoon Han",
+      "Sanghyuk Chun",
+      "Junsuk Choe",
+      "Seong Joon Oh"
+    ],
+    "publication_date": "2021-03-30",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "40f4d7fe800810288a80f84cdb357a8f4c28e880",
+    "corpus_id": 232417451,
+    "category": "Computer Science"
+  },
+  "2103-15808": {
+    "title": "CvT: Introducing Convolutions to Vision Transformers",
+    "authors": [
+      "Haiping Wu",
+      "Bin Xiao",
+      "N. Codella",
+      "Mengchen Liu",
+      "Xiyang Dai",
+      "Lu Yuan",
+      "Lei Zhang"
+    ],
+    "publication_date": "2021-03-29",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "e775e649d815a02373eac840cf5e33a04ff85c95",
+    "corpus_id": 232417787,
+    "category": "Computer Science"
+  },
+  "2103-00020": {
+    "title": "Learning Transferable Visual Models From Natural Language Supervision",
+    "authors": [
+      "Alec Radford",
+      "Jong Wook Kim",
+      "Chris Hallacy",
+      "A. Ramesh",
+      "Gabriel Goh",
+      "Sandhini Agarwal",
+      "Girish Sastry",
+      "Amanda Askell",
+      "Pamela Mishkin",
+      "Jack Clark",
+      "Gretchen Krueger",
+      "I. Sutskever"
+    ],
+    "publication_date": "2021-02-26",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4",
+    "corpus_id": 231591445,
+    "category": "Computer Science"
+  },
+  "2102-12092": {
+    "title": "Zero-Shot Text-to-Image Generation",
+    "authors": [
+      "A. Ramesh",
+      "Mikhail Pavlov",
+      "Gabriel Goh",
+      "Scott Gray",
+      "Chelsea Voss",
+      "Alec Radford",
+      "Mark Chen",
+      "I. Sutskever"
+    ],
+    "publication_date": "2021-02-24",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "2cd605106b88c85d7d8b865b1ef0f8c8293debf1",
+    "corpus_id": 232035663,
+    "category": "Computer Science"
+  },
+  "2102-12122": {
+    "title": "Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions",
+    "authors": [
+      "Wenhai Wang",
+      "Enze Xie",
+      "Xiang Li",
+      "Deng-Ping Fan",
+      "Kaitao Song",
+      "Ding Liang",
+      "Tong Lu",
+      "P. Luo",
+      "Ling Shao"
+    ],
+    "publication_date": "2021-02-24",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "3e398bad2d8636491a1034cc938a5e024c7aa881",
+    "corpus_id": 232035922,
+    "category": "Computer Science"
+  },
+  "2102-05918": {
+    "title": "Scaling Up Visual and Vision-Language Representation Learning With Noisy Text Supervision",
+    "authors": [
+      "Chao Jia",
+      "Yinfei Yang",
+      "Ye Xia",
+      "Yi-Ting Chen",
+      "Zarana Parekh",
+      "Hieu Pham",
+      "Quoc V. Le",
+      "Yun-Hsuan Sung",
+      "Zhen Li",
+      "Tom Duerig"
+    ],
+    "publication_date": "2021-02-11",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "141a5033d9994242b18bb3b217e79582f1ee9306",
+    "corpus_id": 231879586,
+    "category": "Computer Science"
+  },
+  "2101-11986": {
+    "title": "Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet",
+    "authors": [
+      "Li Yuan",
+      "Yunpeng Chen",
+      "Tao Wang",
+      "Weihao Yu",
+      "Yujun Shi",
+      "Francis E. H. Tay",
+      "Jiashi Feng",
+      "Shuicheng Yan"
+    ],
+    "publication_date": "2021-01-28",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "dbe077f8521ecbe0a1477d6148c726d4f053d9c9",
+    "corpus_id": 231719476,
+    "category": "Computer Science"
+  },
+  "2012-02238": {
+    "title": "Exploring the effect of image enhancement techniques on COVID-19 detection using chest X-ray images",
+    "authors": [
+      "Tawsifur Rahman",
+      "A. Khandakar",
+      "Yazan Qiblawey",
+      "A. Tahir",
+      "S. Kiranyaz",
+      "S. Kashem",
+      "M. Islam",
+      "S. Maadeed",
+      "S. Zughaier",
+      "Muhammad Salman Khan",
+      "M. Chowdhury"
+    ],
+    "publication_date": "2020-11-25",
+    "venue": "Computers in Biology and Medicine",
+    "semantic_scholar_id": "c9fba6490e80683993393b6d45d2109cb1458676",
+    "corpus_id": 227305537,
+    "category": "Medicine, Computer Science, Engineering"
+  },
+  "2010-11929": {
+    "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+    "authors": [
+      "Alexey Dosovitskiy",
+      "Lucas Beyer",
+      "Alexander Kolesnikov",
+      "Dirk Weissenborn",
+      "Xiaohua Zhai",
+      "Thomas Unterthiner",
+      "Mostafa Dehghani",
+      "M. Minderer",
+      "G. Heigold",
+      "S. Gelly",
+      "Jakob Uszkoreit",
+      "N. Houlsby"
+    ],
+    "publication_date": "2020-10-22",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "268d347e8a55b5eb82fb5e7d2f800e33c75ab18a",
+    "corpus_id": 225039882,
+    "category": "Computer Science"
+  },
+  "2006-11239": {
+    "title": "Denoising Diffusion Probabilistic Models",
+    "authors": [
+      "Jonathan Ho",
+      "Ajay Jain",
+      "P. Abbeel"
+    ],
+    "publication_date": "2020-06-19",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "5c126ae3421f05768d8edd97ecd44b1364e2c99a",
+    "corpus_id": 219955663,
+    "category": "Computer Science, Mathematics"
+  },
+  "2004-08955": {
+    "title": "ResNeSt: Split-Attention Networks",
+    "authors": [
+      "Hang Zhang",
+      "Chongruo Wu",
+      "Zhongyue Zhang",
+      "Yi Zhu",
+      "Zhi-Li Zhang",
+      "Haibin Lin",
+      "Yue Sun",
+      "Tong He",
+      "Jonas W. Mueller",
+      "R. Manmatha",
+      "Mu Li",
+      "Alex Smola"
+    ],
+    "publication_date": "2020-04-19",
+    "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "semantic_scholar_id": "fb93ca1e004cbdcb93c8ffc57357189fa4eb6770",
+    "corpus_id": 215828258,
+    "category": "Computer Science"
+  },
+  "2003-13145": {
+    "title": "Can AI Help in Screening Viral and COVID-19 Pneumonia?",
+    "authors": [
+      "M. Chowdhury",
+      "Tawsifur Rahman",
+      "A. Khandakar",
+      "R. Mazhar",
+      "M. A. Kadir",
+      "Z. Mahbub",
+      "Khandakar R. Islam",
+      "Muhammad Salman Khan",
+      "A. Iqbal",
+      "N. Al-Emadi",
+      "M. Reaz"
+    ],
+    "publication_date": "2020-03-29",
+    "venue": "IEEE Access",
+    "semantic_scholar_id": "2a0f2a76df5af569a9d85d97d2a81ae10f02fccf",
+    "corpus_id": 214713518,
+    "category": "Computer Science, Engineering"
+  },
+  "1912-11370": {
+    "title": "Big Transfer (BiT): General Visual Representation Learning",
+    "authors": [
+      "Alexander Kolesnikov",
+      "Lucas Beyer",
+      "Xiaohua Zhai",
+      "J. Puigcerver",
+      "Jessica Yung",
+      "S. Gelly",
+      "N. Houlsby"
+    ],
+    "publication_date": "2019-12-24",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "bc51622358d8eea83248ef29402fe10640d07ba6",
+    "corpus_id": 214728308,
+    "category": "Computer Science"
+  },
+  "1907-10830": {
+    "title": "U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation",
+    "authors": [
+      "Junho Kim",
+      "Minjae Kim",
+      "Hyeonwoo Kang",
+      "Kwanghee Lee"
+    ],
+    "publication_date": "2019-07-25",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "2f5cc15bee412176356ea6e068ff775140a02f8f",
+    "corpus_id": 198895601,
+    "category": "Computer Science, Engineering"
+  },
+  "1811-10052": {
+    "title": "An overview of deep learning in medical imaging focusing on MRI",
+    "authors": [
+      "A. Lundervold",
+      "A. Lundervold"
+    ],
+    "publication_date": "2018-11-25",
+    "venue": "Zeitschrift für Medizinische Physik",
+    "semantic_scholar_id": "0ebc300c16f01a4e94c8551997922fdb67ac1951",
+    "corpus_id": 53753063,
+    "category": "Computer Science, Medicine, Mathematics"
+  },
+  "1807-11164": {
+    "title": "ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design",
+    "authors": [
+      "Ningning Ma",
+      "Xiangyu Zhang",
+      "Haitao Zheng",
+      "Jian Sun"
+    ],
+    "publication_date": "2018-07-30",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "c02b909a514af6b9255315e2d50112845ca5ed0e",
+    "corpus_id": 51880435,
+    "category": "Computer Science"
+  },
+  "1711-11097": {
+    "title": "Deep Learning for identifying radiogenomic associations in breast cancer",
+    "authors": [
+      "Zhe Zhu",
+      "Ehab Albadawy",
+      "Ashirbani Saha",
+      "Jun Zhang",
+      "Michael R. Harowicz",
+      "M. Mazurowski"
+    ],
+    "publication_date": "2017-11-29",
+    "venue": "Comput. Biol. Medicine",
+    "semantic_scholar_id": "34b8c27926f1c3e507efd390b0a245229b3c2c46",
+    "corpus_id": 6017666,
+    "category": "Computer Science, Medicine"
+  },
+  "1702-05747": {
+    "title": "A survey on deep learning in medical image analysis",
+    "authors": [
+      "G. Litjens",
+      "Thijs Kooi",
+      "B. Bejnordi",
+      "A. Setio",
+      "F. Ciompi",
+      "Mohsen Ghafoorian",
+      "J. Laak",
+      "B. Ginneken",
+      "C. I. Sánchez"
+    ],
+    "publication_date": "2017-02-19",
+    "venue": "Medical Image Anal.",
+    "semantic_scholar_id": "6ff909c6fe089fc8ebfc64eca0f0c3cc34ba277f",
+    "corpus_id": 2088679,
+    "category": "Computer Science, Medicine"
+  },
+  "1611-05431": {
+    "title": "Aggregated Residual Transformations for Deep Neural Networks",
+    "authors": [
+      "Saining Xie",
+      "Ross B. Girshick",
+      "Piotr Dollár",
+      "Z. Tu",
+      "Kaiming He"
+    ],
+    "publication_date": "2016-11-16",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "f6e0856b4a9199fa968ac00da612a9407b5cb85c",
+    "corpus_id": 8485068,
+    "category": "Mathematics, Computer Science"
+  },
+  "1602-03409": {
+    "title": "Deep Convolutional Neural Networks for Computer-Aided Detection: CNN Architectures, Dataset Characteristics and Transfer Learning",
+    "authors": [
+      "Hoo-Chang Shin",
+      "H. Roth",
+      "Mingchen Gao",
+      "Le Lu",
+      "Ziyue Xu",
+      "Isabella Nogues",
+      "Jianhua Yao",
+      "D. Mollura",
+      "R. Summers"
+    ],
+    "publication_date": "2016-02-10",
+    "venue": "IEEE Transactions on Medical Imaging",
+    "semantic_scholar_id": "a29b7a000e6e1a2907ce6ae24a03aba5d9ef873f",
+    "corpus_id": 3333267,
+    "category": "Computer Science, Medicine"
+  },
+  "1512-03385": {
+    "title": "Deep Residual Learning for Image Recognition",
+    "authors": [
+      "Kaiming He",
+      "X. Zhang",
+      "Shaoqing Ren",
+      "Jian Sun"
+    ],
+    "publication_date": "2015-12-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+    "corpus_id": 206594692,
+    "category": "Computer Science"
+  },
+  "1505-04597": {
+    "title": "U-Net: Convolutional Networks for Biomedical Image Segmentation",
+    "authors": [
+      "O. Ronneberger",
+      "P. Fischer",
+      "T. Brox"
+    ],
+    "publication_date": "2015-05-18",
+    "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+    "semantic_scholar_id": "6364fdaa0a0eccd823a779fcdd489173f938e91a",
+    "corpus_id": 3719281,
+    "category": "Computer Science"
+  }
+}

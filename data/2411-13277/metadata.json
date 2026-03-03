@@ -1,0 +1,15 @@
+{
+  "title": "Functional normalizing flow for statistical inverse problems of partial differential equations",
+  "authors": [
+    "Yang Zhao",
+    "Haoyu Lu",
+    "Junxiong Jia",
+    "Tao Zhou"
+  ],
+  "summary": "Inverse problems of partial differential equations are ubiquitous across various scientific disciplines and can be formulated as statistical inference problems using Bayes' theorem. To address large-scale problems, it is crucial to develop discretization-invariant algorithms, which can be achieved by formulating methods directly in infinite-dimensional space. We propose a novel normalizing flow based infinite-dimensional variational inference method (NF-iVI) to extract posterior information efficiently. Specifically, by introducing well-defined transformations, the prior in Bayes' formula is transformed into post-transformed measures that approximate the true posterior. To circumvent the issue of mutually singular probability measures, we formulate general conditions for the employed transformations. As guiding principles, these conditions yield four concrete transformations. Additionally, to minimize computational demands, we have developed a conditional normalizing flow variant, termed CNF-iVI, which is adept at processing measurement data of varying dimensions while requiring minimal computational resources. We apply the proposed algorithms to two typical inverse problems governed by a simple smooth equation and the steady-state Darcy flow equation. Numerical results confirm our theoretical findings, illustrate the efficiency of our algorithms, and verify the discretization-invariant property.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

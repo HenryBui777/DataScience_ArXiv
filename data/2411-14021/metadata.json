@@ -1,0 +1,16 @@
+{
+  "title": "Orientation Determination of Cryo-EM Images Using Block Stochastic Riemannian Subgradient Methods",
+  "authors": [
+    "Wanyu Zhang",
+    "Ruili Gou",
+    "Huikang Liu",
+    "Zhiguo Wang",
+    "Yinyu Ye"
+  ],
+  "summary": "The determination of molecular orientations is crucial for the three-dimensional reconstruction of Cryo-EM images. Traditionally addressed using the common-line method, this challenge is reformulated as a self-consistency error minimization problem constrained to rotation groups. In this paper, we consider the least-squared deviation (LUD) formulation and employ a Riemannian subgradient method to effectively solve the orientation determination problem. To enhance computational efficiency, a block stochastic version of the method is proposed, and its convergence properties are rigorously established. Extensive numerical evaluations reveal that our method not only achieves accuracy comparable to that of state-of-the-art methods but also delivers an average 20-fold speedup. Additionally, we implement a modified formulation and algorithm specifically designed to address scenarios characterized by very low SNR.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC"
+}

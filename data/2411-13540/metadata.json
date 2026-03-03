@@ -1,0 +1,13 @@
+{
+  "title": "Circular Economy Design through System Dynamics Modeling",
+  "authors": [
+    "Federico Zocco",
+    "Monica Malvezzi"
+  ],
+  "summary": "Nowadays, there is an increasing concern about the unsustainability of the take-make-dispose paradigm upon which traditional production and consumption systems are built. The concept of circular economy is gaining attention as a potential solution, but it is an emerging field still lacking analytical and methodological dynamics approaches. Hence, in this paper, firstly we propose a quantitative definition of circularity, namely, $λ$, predicated on compartmental dynamical thermodynamics, and then, we use it to state the optimization of the circularity $λ$ as an arg-max problem. By leveraging the derivation of Lagrange's equations of motion from the first law of thermodynamics, we apply the analytical mechanics approaches to circularity. Three examples illustrate the calculation of $λ$ for different settings of two compartmental networks. In particular, hypothesizing a repair stage followed by product reuse we highlight the memory property of $λ$. Finally, robotic repair is proposed within this framework to pave the way for circular robotics as a new area of research in which the performance of a robotic system is measured against $λ$.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.DS"
+}

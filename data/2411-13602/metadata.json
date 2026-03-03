@@ -1,0 +1,33 @@
+{
+  "title": "Translating Electrocardiograms to Cardiac Magnetic Resonance Imaging Useful for Cardiac Assessment and Disease Screening: A Multi-Center Study AI for ECG to CMR Translation Study",
+  "authors": [
+    "Zhengyao Ding",
+    "Ziyu Li",
+    "Yujian Hu",
+    "Youyao Xu",
+    "Chengchen Zhao",
+    "Yiheng Mao",
+    "Haitao Li",
+    "Zhikang Li",
+    "Qian Li",
+    "Jing Wang",
+    "Yue Chen",
+    "Mengjia Chen",
+    "Longbo Wang",
+    "Xuesen Chu",
+    "Weichao Pan",
+    "Ziyi Liu",
+    "Fei Wu",
+    "Hongkun Zhang",
+    "Ting Chen",
+    "Zhengxing Huang"
+  ],
+  "summary": "Cardiovascular diseases (CVDs) are the leading cause of global mortality, necessitating accessible and accurate diagnostic tools. While cardiac magnetic resonance imaging (CMR) provides gold-standard insights into cardiac structure and function, its clinical utility is limited by high cost and complexity. In contrast, electrocardiography (ECG) is inexpensive and widely available but lacks the granularity of CMR. We propose CardioNets, a deep learning framework that translates 12-lead ECG signals into CMR-level functional parameters and synthetic images, enabling scalable cardiac assessment. CardioNets integrates cross-modal contrastive learning and generative pretraining, aligning ECG with CMR-derived cardiac phenotypes and synthesizing high-resolution CMR images via a masked autoregressive model. Trained on 159,819 samples from five cohorts, including the UK Biobank (n=42,483) and MIMIC-IV-ECG (n=164,550), and externally validated on independent clinical datasets (n=3,767), CardioNets achieved strong performance across disease screening and phenotype estimation tasks. In the UK Biobank, it improved cardiac phenotype regression R2 by 24.8% and cardiomyopathy AUC by up to 39.3% over baseline models. In MIMIC, it increased AUC for pulmonary hypertension detection by 5.6%. Generated CMR images showed 36.6% higher SSIM and 8.7% higher PSNR than prior approaches. In a reader study, ECG-only CardioNets achieved 13.9% higher accuracy than human physicians using both ECG and real CMR. These results suggest that CardioNets offers a promising, low-cost alternative to CMR for large-scale CVD screening, particularly in resource-limited settings. Future efforts will focus on clinical deployment and regulatory validation of ECG-based synthetic imaging.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-05-15"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.AI, cs.CV"
+}

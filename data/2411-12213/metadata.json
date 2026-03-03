@@ -1,0 +1,15 @@
+{
+  "title": "Forward and Reverse Converters for the Moduli-Set $\\{2^{2q+1},2^q+2^{q-1}\\pm1\\}$",
+  "authors": [
+    "Ghassem Jaberipur",
+    "Bardia Nadimi",
+    "R. Kazemi",
+    "Jeong-A Lee"
+  ],
+  "summary": "Modulo-$(2^q + 2^{q-1} \\pm 1)$ adders have recently been implemented using the regular parallel prefix (RPP) architecture, matching the speed of the widely used modulo-$(2^q \\pm 1)$ RPP adders. Consequently, we introduce a new moduli set $τ^+ = \\{2^{2q+1}, 2^q + 2^{q-1} \\pm 1\\}$, with over $(2^{q+2}) \\times$ dynamic range and adder speeds comparable to the conventional $τ= \\{2^q, 2^q \\pm 1\\}$ set. However, to fully leverage $τ^+$ in residue number system applications, a complete set of circuitries is necessary. This work focuses on the design and implementation of the forward and reverse converters for $τ^+$. These converters consist of four and seven levels of carry-save addition units, culminating in a final modulo-$(2^q + 2^{q-1} \\pm 1)$ and modulo-$(2^{2q+1} + 2^{2q-2} - 1)$ adder, respectively. Through analytical evaluations and circuit simulations, we demonstrate that the overall performance of a sequence of operations including residue generation -- including residue generation, $k$ additions, and reverse conversion -- using $τ^+$ surpasses that of $τ$ when $k$ exceeds a certain practical threshold.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AR, eess.SP"
+}

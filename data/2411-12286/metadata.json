@@ -1,0 +1,18 @@
+{
+  "title": "GLOVER: Generalizable Open-Vocabulary Affordance Reasoning for Task-Oriented Grasping",
+  "authors": [
+    "Teli Ma",
+    "Zifan Wang",
+    "Jiaming Zhou",
+    "Mengmeng Wang",
+    "Junwei Liang"
+  ],
+  "summary": "Inferring affordable (i.e., graspable) parts of arbitrary objects based on human specifications is essential for robots advancing toward open-vocabulary manipulation. Current grasp planners, however, are hindered by limited vision-language comprehension and time-consuming 3D radiance modeling, restricting real-time, open-vocabulary interactions with objects. To address these limitations, we propose GLOVER, a unified Generalizable Open-Vocabulary Affordance Reasoning framework, which fine-tunes the Large Language Models (LLMs) to predict the visual affordance of graspable object parts within RGB feature space. We compile a dataset of over 10,000 images from human-object interactions, annotated with unified visual and linguistic affordance labels, to enable multi-modal fine-tuning. GLOVER inherits world knowledge and common-sense reasoning from LLMs, facilitating more fine-grained object understanding and sophisticated tool-use reasoning. To enable effective real-world deployment, we present Affordance-Aware Grasping Estimation (AGE), a non-parametric grasp planner that aligns the gripper pose with a superquadric surface derived from affordance data. In evaluations across 30 table-top real-world scenes, GLOVER achieves success rates of 86.0% in part identification and 76.3% in grasping, with speeds approximately 29 times faster in affordance reasoning and 40 times faster in grasping pose estimation than the previous state-of-the-art. We also validate the generalization across embodiments, showing effectiveness in humanoid robots with dexterous hands.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-05-01"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO, cs.CV"
+}

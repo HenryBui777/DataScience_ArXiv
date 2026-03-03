@@ -1,0 +1,150 @@
+@article{Johnson2019,
+  author = {Johnson, Alistair E. W.
+and Pollard, Tom J.
+and Berkowitz, Seth J.
+and Greenbaum, Nathaniel R.
+and Lungren, Matthew P.
+and Deng, Chih-ying
+and Mark, Roger G.
+and Horng, Steven},
+  title = {MIMIC-CXR, a de-identified publicly available database of chest radiographs with free-text reports},
+  journal = {Scientific Data},
+  year = {2019},
+  month = {Dec},
+  day = {12},
+  volume = {6},
+  number = {1},
+  pages = {317},
+  abstract = {Chest radiography is an extremely powerful imaging modality, allowing for a detailed inspection of a patient's chest, but requires specialized training for proper interpretation. With the advent of high performance general purpose computer vision algorithms, the accurate automated analysis of chest radiographs is becoming increasingly of interest to researchers. Here we describe MIMIC-CXR, a large dataset of 227,835 imaging studies for 65,379 patients presenting to the Beth Israel Deaconess Medical Center Emergency Department between 2011--2016. Each imaging study can contain one or more images, usually a frontal view and a lateral view. A total of 377,110 images are available in the dataset. Studies are made available with a semi-structured free-text radiology report that describes the radiological findings of the images, written by a practicing radiologist contemporaneously during routine clinical care. All images and reports have been de-identified to protect patient privacy. The dataset is made freely available to facilitate and encourage a wide range of research in computer vision, natural language processing, and clinical data mining.},
+  issn = {2052-4463},
+  doi = {10.1038/s41597-019-0322-0},
+  url = {https://doi.org/10.1038/s41597-019-0322-0},
+}
+
+@inproceedings{10.1145/3580305.3599819,
+  author = {Hu, Xinyue and Gu, Lin and An, Qiyuan and Zhang, Mengliang and Liu, Liangchen and Kobayashi, Kazuma and Harada, Tatsuya and Summers, Ronald M. and Zhu, Yingying},
+  title = {Expert Knowledge-Aware Image Difference Graph Representation Learning for Difference-Aware Medical Visual Question Answering},
+  year = {2023},
+  isbn = {9798400701030},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3580305.3599819},
+  doi = {10.1145/3580305.3599819},
+  abstract = {To contribute to automating the medical vision-language model, we propose a novel Chest-Xray Different Visual Question Answering (VQA) task. Given a pair of main and reference images, this task attempts to answer several questions on both diseases and, more importantly, the differences between them. This is consistent with the radiologist's diagnosis practice that compares the current image with the reference before concluding the report. We collect a new dataset, namely MIMIC-Diff-VQA, including 700,703 QA pairs from 164,324 pairs of main and reference images. Compared to existing medical VQA datasets, our questions are tailored to the Assessment-Diagnosis-Intervention-Evaluation treatment procedure used by clinical professionals. Meanwhile, we also propose a novel expert knowledge-aware graph representation learning model to address this task. The proposed baseline model leverages expert knowledge such as anatomical structure prior, semantic, and spatial knowledge to construct a multi-relationship graph, representing the image differences between two images for the image difference VQA task. The dataset and code can be found at https://github.com/Holipori/MIMIC-Diff-VQA. We believe this work would further push forward the medical vision language model.},
+  booktitle = {Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  pages = {4156–4165},
+  numpages = {10},
+  keywords = {visual question answering, medical imaging, datasets},
+  location = {Long Beach, CA, USA},
+  series = {KDD '23},
+}
+
+@misc{Wu2021-sc,
+}
+
+@misc{chambon2024chexpertplusaugmentinglarge,
+  title = {CheXpert Plus: Augmenting a Large Chest X-ray Dataset with Text Radiology Reports, Patient Demographics and Additional Image Formats},
+  author = {Pierre Chambon and Jean-Benoit Delbrouck and Thomas Sounack and Shih-Cheng Huang and Zhihong Chen and Maya Varma and Steven QH Truong and Chu The Chuong and Curtis P. Langlotz},
+  year = {2024},
+  eprint = {2405.19538},
+  archiveprefix = {arXiv},
+  primaryclass = {cs.CL},
+  url = {https://arxiv.org/abs/2405.19538},
+}
+
+@inproceedings{pmlr-v219-khanna23a,
+  title = {RadGraph2: Modeling Disease Progression in Radiology Reports via Hierarchical Information Extraction},
+  author = {Khanna, Sameer and Dejl, Adam and Yoon, Kibo and Truong, Steven QH and Duong, Hanh and Saenz, Agustina and Rajpurkar, Pranav},
+  booktitle = {Proceedings of the 8th Machine Learning for Healthcare Conference},
+  pages = {381--402},
+  year = {2023},
+  editor = {Deshpande, Kaivalya and Fiterau, Madalina and Joshi, Shalmali and Lipton, Zachary and Ranganath, Rajesh and Urteaga, Iñigo and Yeung, Serene},
+  volume = {219},
+  series = {Proceedings of Machine Learning Research},
+  month = {11--12 Aug},
+  publisher = {PMLR},
+  pdf = {https://proceedings.mlr.press/v219/khanna23a/khanna23a.pdf},
+  url = {https://proceedings.mlr.press/v219/khanna23a.html},
+  abstract = {We present RadGraph2, a novel dataset for extracting information from radiology reports that focuses on capturing changes in disease state and device placement over time. We introduce a hierarchical schema that organizes entities based on their relationships and show that using this hierarchy during training improves the performance of an information extraction model. Specifically, we propose a modification to the DyGIE++ framework, resulting in our model HGIE, which outperforms previous models in entity and relation extraction tasks. We demonstrate that RadGraph2 enables models to capture a wider variety of findings and perform better at relation extraction compared to those trained on the original RadGraph dataset. Our work provides the foundation for developing automated systems that can track disease progression over time and develop information extraction models that leverage the natural hierarchy of labels in the medical domain.},
+}
+
+@misc{ouyang2022traininglanguagemodelsfollow,
+  title = {Training language models to follow instructions with human feedback},
+  author = {Long Ouyang and Jeff Wu and Xu Jiang and Diogo Almeida and Carroll L. Wainwright and Pamela Mishkin and Chong Zhang and Sandhini Agarwal and Katarina Slama and Alex Ray and John Schulman and Jacob Hilton and Fraser Kelton and Luke Miller and Maddie Simens and Amanda Askell and Peter Welinder and Paul Christiano and Jan Leike and Ryan Lowe},
+  year = {2022},
+  eprint = {2203.02155},
+  archiveprefix = {arXiv},
+  primaryclass = {cs.CL},
+  url = {https://arxiv.org/abs/2203.02155},
+}
+
+@misc{abdin2024phi3technicalreporthighly,
+  title = {Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone},
+  author = {Marah Abdin and Jyoti Aneja and Hany Awadalla and Ahmed Awadallah and Ammar Ahmad Awan and Nguyen Bach and Amit Bahree and Arash Bakhtiari and Jianmin Bao and Harkirat Behl and Alon Benhaim and Misha Bilenko and Johan Bjorck and Sébastien Bubeck and Martin Cai and Qin Cai and Vishrav Chaudhary and Dong Chen and Dongdong Chen and Weizhu Chen and Yen-Chun Chen and Yi-Ling Chen and Hao Cheng and Parul Chopra and Xiyang Dai and Matthew Dixon and Ronen Eldan and Victor Fragoso and Jianfeng Gao and Mei Gao and Min Gao and Amit Garg and Allie Del Giorno and Abhishek Goswami and Suriya Gunasekar and Emman Haider and Junheng Hao and Russell J. Hewett and Wenxiang Hu and Jamie Huynh and Dan Iter and Sam Ade Jacobs and Mojan Javaheripi and Xin Jin and Nikos Karampatziakis and Piero Kauffmann and Mahoud Khademi and Dongwoo Kim and Young Jin Kim and Lev Kurilenko and James R. Lee and Yin Tat Lee and Yuanzhi Li and Yunsheng Li and Chen Liang and Lars Liden and Xihui Lin and Zeqi Lin and Ce Liu and Liyuan Liu and Mengchen Liu and Weishung Liu and Xiaodong Liu and Chong Luo and Piyush Madan and Ali Mahmoudzadeh and David Majercak and Matt Mazzola and Caio César Teodoro Mendes and Arindam Mitra and Hardik Modi and Anh Nguyen and Brandon Norick and Barun Patra and Daniel Perez-Becker and Thomas Portet and Reid Pryzant and Heyang Qin and Marko Radmilac and Liliang Ren and Gustavo de Rosa and Corby Rosset and Sambudha Roy and Olatunji Ruwase and Olli Saarikivi and Amin Saied and Adil Salim and Michael Santacroce and Shital Shah and Ning Shang and Hiteshi Sharma and Yelong Shen and Swadheen Shukla and Xia Song and Masahiro Tanaka and Andrea Tupini and Praneetha Vaddamanu and Chunyu Wang and Guanhua Wang and Lijuan Wang and Shuohang Wang and Xin Wang and Yu Wang and Rachel Ward and Wen Wen and Philipp Witte and Haiping Wu and Xiaoxia Wu and Michael Wyatt and Bin Xiao and Can Xu and Jiahang Xu and Weijian Xu and Jilong Xue and Sonali Yadav and Fan Yang and Jianwei Yang and Yifan Yang and Ziyi Yang and Donghan Yu and Lu Yuan and Chenruidong Zhang and Cyril Zhang and Jianwen Zhang and Li Lyna Zhang and Yi Zhang and Yue Zhang and Yunan Zhang and Xiren Zhou},
+  year = {2024},
+  eprint = {2404.14219},
+  archiveprefix = {arXiv},
+  primaryclass = {cs.CL},
+  url = {https://arxiv.org/abs/2404.14219},
+}
+
+@misc{liu2024radiologygptlargelanguagemodel,
+  title = {Radiology-GPT: A Large Language Model for Radiology},
+  author = {Zhengliang Liu and Aoxiao Zhong and Yiwei Li and Longtao Yang and Chao Ju and Zihao Wu and Chong Ma and Peng Shu and Cheng Chen and Sekeun Kim and Haixing Dai and Lin Zhao and Lichao Sun and Dajiang Zhu and Jun Liu and Wei Liu and Dinggang Shen and Xiang Li and Quanzheng Li and Tianming Liu},
+  year = {2024},
+  eprint = {2306.08666},
+  archiveprefix = {arXiv},
+  primaryclass = {cs.CL},
+  url = {https://arxiv.org/abs/2306.08666},
+}
+
+@misc{bustos2019padchestlargechestxray,
+  title = {PadChest: A large chest x-ray image dataset with multi-label annotated reports},
+  author = {Aurelia Bustos and Antonio Pertusa and Jose-Maria Salinas and Maria de la Iglesia-Vayá},
+  year = {2019},
+  eprint = {1901.07441},
+  archiveprefix = {arXiv},
+  primaryclass = {eess.IV},
+  doi = {https://doi.org/10.1016/j.media.2020.101797},
+  url = {https://arxiv.org/abs/1901.07441},
+}
+
+@misc{li2023llavamedtraininglargelanguageandvision,
+  title = {LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day},
+  author = {Chunyuan Li and Cliff Wong and Sheng Zhang and Naoto Usuyama and Haotian Liu and Jianwei Yang and Tristan Naumann and Hoifung Poon and Jianfeng Gao},
+  year = {2023},
+  eprint = {2306.00890},
+  archiveprefix = {arXiv},
+  primaryclass = {cs.CV},
+  url = {https://arxiv.org/abs/2306.00890},
+}
+
+@misc{jain2021radgraphextractingclinicalentities,
+  title = {RadGraph: Extracting Clinical Entities and Relations from Radiology Reports},
+  author = {Saahil Jain and Ashwin Agrawal and Adriel Saporta and Steven QH Truong and Du Nguyen Duong and Tan Bui and Pierre Chambon and Yuhao Zhang and Matthew P. Lungren and Andrew Y. Ng and Curtis P. Langlotz and Pranav Rajpurkar},
+  year = {2021},
+  eprint = {2106.14463},
+  archiveprefix = {arXiv},
+  primaryclass = {cs.CL},
+  url = {https://arxiv.org/abs/2106.14463},
+}
+
+@misc{liu2023radiologyllama2bestinclasslargelanguage,
+  title = {Radiology-Llama2: Best-in-Class Large Language Model for Radiology},
+  author = {Zhengliang Liu and Yiwei Li and Peng Shu and Aoxiao Zhong and Longtao Yang and Chao Ju and Zihao Wu and Chong Ma and Jie Luo and Cheng Chen and Sekeun Kim and Jiang Hu and Haixing Dai and Lin Zhao and Dajiang Zhu and Jun Liu and Wei Liu and Dinggang Shen and Tianming Liu and Quanzheng Li and Xiang Li},
+  year = {2023},
+  eprint = {2309.06419},
+  archiveprefix = {arXiv},
+  primaryclass = {cs.CL},
+  url = {https://arxiv.org/abs/2309.06419},
+}
+
+@misc{zha2023alignscoreevaluatingfactualconsistency,
+  title = {AlignScore: Evaluating Factual Consistency with a Unified Alignment Function},
+  author = {Yuheng Zha and Yichi Yang and Ruichen Li and Zhiting Hu},
+  year = {2023},
+  eprint = {2305.16739},
+  archiveprefix = {arXiv},
+  primaryclass = {cs.CL},
+  url = {https://arxiv.org/abs/2305.16739},
+}

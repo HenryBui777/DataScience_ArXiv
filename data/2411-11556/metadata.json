@@ -1,0 +1,16 @@
+{
+  "title": "Data-driven model reconstruction for nonlinear wave dynamics",
+  "authors": [
+    "Ekaterina Smolina",
+    "Lev Smirnov",
+    "Daniel Leykam",
+    "Franco Nori",
+    "Daria Smirnova"
+  ],
+  "summary": "The use of machine learning to predict wave dynamics is a topic of growing interest, but commonly-used deep learning approaches suffer from a lack of interpretability of the trained models. Here we present an interpretable machine learning framework for analyzing the nonlinear evolution dynamics of optical wavepackets in complex wave media. We use sparse regression to reduce microscopic discrete lattice models to simpler effective continuum models which can accurately describe the dynamics of the wavepacket envelope. We apply our approach to valley-Hall domain walls in honeycomb photonic lattices of laser-written waveguides with Kerr-type nonlinearity and different boundary shapes. The reconstructed equations accurately reproduce the linear dispersion and nonlinear effects including self-steepening and self-focusing. This scheme is proven free of the a priori limitations imposed by the underlying hierarchy of scales traditionally employed in asymptotic analytical methods. It represents a powerful interpretable machine learning technique of interest for advancing design capabilities in photonics and framing the complex interaction-driven dynamics in various topological materials.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.optics, cs.LG, math-ph, physics.data-an"
+}

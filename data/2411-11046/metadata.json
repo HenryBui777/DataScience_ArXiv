@@ -1,0 +1,15 @@
+{
+  "title": "Knowledge-enhanced Transformer for Multivariate Long Sequence Time-series Forecasting",
+  "authors": [
+    "Shubham Tanaji Kakde",
+    "Rony Mitra",
+    "Jasashwi Mandal",
+    "Manoj Kumar Tiwari"
+  ],
+  "summary": "Multivariate Long Sequence Time-series Forecasting (LSTF) has been a critical task across various real-world applications. Recent advancements focus on the application of transformer architectures attributable to their ability to capture temporal patterns effectively over extended periods. However, these approaches often overlook the inherent relationships and interactions between the input variables that could be drawn from their characteristic properties. In this paper, we aim to bridge this gap by integrating information-rich Knowledge Graph Embeddings (KGE) with state-of-the-art transformer-based architectures. We introduce a novel approach that encapsulates conceptual relationships among variables within a well-defined knowledge graph, forming dynamic and learnable KGEs for seamless integration into the transformer architecture. We investigate the influence of this integration into seminal architectures such as PatchTST, Autoformer, Informer, and Vanilla Transformer. Furthermore, we thoroughly investigate the performance of these knowledge-enhanced architectures along with their original implementations for long forecasting horizons and demonstrate significant improvement in the benchmark results. This enhancement empowers transformer-based architectures to address the inherent structural relation between variables. Our knowledge-enhanced approach improves the accuracy of multivariate LSTF by capturing complex temporal and relational dynamics across multiple domains. To substantiate the validity of our model, we conduct comprehensive experiments using Weather and Electric Transformer Temperature (ETT) datasets.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI"
+}

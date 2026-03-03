@@ -1,0 +1,19 @@
+{
+  "title": "HyReaL: Clustering Attributed Graph via Hyper-Complex Space Representation Learning",
+  "authors": [
+    "Junyang Chen",
+    "Yang Lu",
+    "Mengke Li",
+    "Cuie Yang",
+    "Yiqun Zhang",
+    "Yiu-ming Cheung"
+  ],
+  "summary": "Clustering complex data in the form of attributed graphs has attracted increasing attention, where powerful graph representation is a critical prerequisite. However, the well-known Over-Smoothing (OS) effect makes Graph Convolutional Networks tend to homogenize the representation of graph nodes, while the existing OS solutions focus on alleviating the homogeneity of nodes' embeddings from the aspect of graph topology information, which is inconsistent with the attributed graph clustering objective. Therefore, we introduce hyper-complex space with powerful quaternion feature transformation to enhance the representation learning of the attributes. A generalized \\textbf{Hy}per-complex space \\textbf{Re}present\\textbf{a}tion \\textbf{L}earning (\\textbf{HyReaL}) model is designed to: 1) bridge arbitrary dimensional attributes to the well-developed quaternion algebra with four parts, and 2) connect the learned representations to more generalized clustering objective without being restricted to a given number of clusters $k$. The novel introduction of quaternion benefits attributed graph clustering from two aspects: 1) enhanced attribute coupling learning capability allows complex attribute information to be sufficiently exploited in clustering, and 2) stronger learning capability makes it unnecessary to stack too many graph convolution layers, naturally alleviating the OS problem. It turns out that the node representations learned by HyReaL are more discriminative and widely suit downstream clustering with different $k$s. Extensive experiments including significance tests, ablation studies, qualitative results, etc., show the superiority of HyReaL.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-02-05"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

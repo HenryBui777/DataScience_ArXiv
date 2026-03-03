@@ -1,0 +1,18 @@
+{
+  "title": "Weighted Envy Freeness With Bounded Subsidies",
+  "authors": [
+    "Noga Klein Elmalem",
+    "Rica Gonen",
+    "Erel Segal-Halevi"
+  ],
+  "summary": "We explore solutions for fairly allocating indivisible items among agents assigned weights representing their entitlements. Our fairness goal is weighted-envy-freeness (WEF), where each agent deems their allocated portion relative to their entitlement at least as favorable as any other's relative to their own. In many cases, achieving WEF necessitates monetary transfers, which can be modeled as third-party subsidies. The goal is to attain WEF with bounded subsidies.\n  Previous work in the unweighted setting of subsidies relied on basic characterizations of EF that fail in the weighted settings. This makes our new setting challenging and theoretically intriguing. We present polynomial-time algorithms that compute WEF-able allocations with an upper bound on the subsidy per agent in three distinct additive valuation scenarios: (1) general, (2) identical, and (3) binary. When all weights are equal, our bounds reduce to the bounds derived in the literature for the unweighted setting.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-02-17",
+    "2025-02-18",
+    "2025-02-22"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.GT, cs.DS"
+}

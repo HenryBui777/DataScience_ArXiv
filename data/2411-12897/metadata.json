@@ -1,0 +1,16 @@
+{
+  "title": "Tree Species Classification using Machine Learning and 3D Tomographic SAR -- a case study in Northern Europe",
+  "authors": [
+    "Colverd Grace",
+    "Schade Laura",
+    "Takami Jumpei",
+    "Bot Karol",
+    "Gallego Joseph"
+  ],
+  "summary": "Tree species classification plays an important role in nature conservation, forest inventories, forest management, and the protection of endangered species. Over the past four decades, remote sensing technologies have been extensively utilized for tree species classification, with Synthetic Aperture Radar (SAR) emerging as a key technique. In this study, we employed TomoSense, a 3D tomographic dataset, which utilizes a stack of single-look complex (SLC) images, a byproduct of SAR, captured at different incidence angles to generate a three-dimensional representation of the terrain. Our research focuses on evaluating multiple tabular machine-learning models using the height information derived from the tomographic image intensities to classify eight distinct tree species. The SLC data and tomographic imagery were analyzed across different polarimetric configurations and geosplit configurations. We investigated the impact of these variations on classification accuracy, comparing the performance of various tabular machine-learning models and optimizing them using Bayesian optimization. Additionally, we incorporated a proxy for actual tree height using point cloud data from Light Detection and Ranging (LiDAR) to provide height statistics associated with the model's predictions. This comparison offers insights into the reliability of tomographic data in predicting tree species classification based on height.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "Neurips 2024 - Climate Change Workshop",
+  "pdf_url": null,
+  "category": "cs.LG, cs.CV, physics.data-an"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Chat Bankman-Fried: an Exploration of LLM Alignment in Finance",
+  "authors": [
+    "Claudia Biancotti",
+    "Carolina Camassa",
+    "Andrea Coletta",
+    "Oliver Giudice",
+    "Aldo Glielmo"
+  ],
+  "summary": "Advancements in large language models (LLMs) have renewed concerns about AI alignment - the consistency between human and AI goals and values. As various jurisdictions enact legislation on AI safety, the concept of alignment must be defined and measured across different domains. This paper proposes an experimental framework to assess whether LLMs adhere to ethical and legal standards in the relatively unexplored context of finance. We prompt twelve LLMs to impersonate the CEO of a financial institution and test their willingness to misuse customer assets to repay outstanding corporate debt. Beginning with a baseline configuration, we adjust preferences, incentives and constraints, analyzing the impact of each adjustment with logistic regression. Our findings reveal significant heterogeneity in the baseline propensity for unethical behavior of LLMs. Factors such as risk aversion, profit expectations, and regulatory environment consistently influence misalignment in ways predicted by economic theory, although the magnitude of these effects varies across LLMs. This paper highlights both the benefits and limitations of simulation-based, ex post safety testing. While it can inform financial authorities and institutions aiming to ensure LLM safety, there is a clear trade-off between generality and cost.",
+  "submission_date": "2024-11-01",
+  "revised_dates": [
+    "2024-11-21",
+    "2025-02-25"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CY, cs.AI, cs.CL, q-fin.GN"
+}

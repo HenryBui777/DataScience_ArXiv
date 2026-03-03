@@ -1,0 +1,558 @@
+{
+  "2404-00451": {
+    "title": "Thin-Shell Object Manipulations With Differentiable Physics Simulations",
+    "authors": [
+      "Yian Wang",
+      "Juntian Zheng",
+      "Zhehuan Chen",
+      "Zhou Xian",
+      "Gu Zhang",
+      "Chao Liu",
+      "Chuang Gan"
+    ],
+    "publication_date": "2024-03-30",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "c1d9c17a0d71b6aec30669db2fba4e98fc986a19",
+    "corpus_id": 268819072,
+    "category": "Computer Science"
+  },
+  "2312-06408": {
+    "title": "DiffVL: Scaling Up Soft Body Manipulation using Vision-Language Driven Differentiable Physics",
+    "authors": [
+      "Zhiao Huang",
+      "Feng Chen",
+      "Yewen Pu",
+      "Chun-Tse Lin",
+      "Hao Su",
+      "Chuang Gan"
+    ],
+    "publication_date": "2023-12-11",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "1b29326d5c4ae8ba833b8571e8dfa5c8471bd29e",
+    "corpus_id": 266162585,
+    "category": "Computer Science"
+  },
+  "2311-01455": {
+    "title": "RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation",
+    "authors": [
+      "Yufei Wang",
+      "Zhou Xian",
+      "Feng Chen",
+      "Tsun-Hsuan Wang",
+      "Yian Wang",
+      "Zackory Erickson",
+      "David Held",
+      "Chuang Gan"
+    ],
+    "publication_date": "2023-11-02",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "c62711f6b5d8620ba36bc2c378ec6ab53f6e197c",
+    "corpus_id": 264935717,
+    "category": "Computer Science"
+  },
+  "2306-14447": {
+    "title": "RoboCook: Long-Horizon Elasto-Plastic Object Manipulation with Diverse Tools",
+    "authors": [
+      "Haochen Shi",
+      "Huazhe Xu",
+      "Samuel Clarke",
+      "Yunzhu Li",
+      "Jiajun Wu"
+    ],
+    "publication_date": "2023-06-26",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "c53a121d6c99f8c2add0eddca41262c7fc0bd795",
+    "corpus_id": 259251806,
+    "category": "Computer Science"
+  },
+  "2306-01369": {
+    "title": "Granular Gym: High Performance Simulation for Robotic Tasks with Granular Materials",
+    "authors": [
+      "David Millard",
+      "Daniel Pastor",
+      "J. Bowkett",
+      "P. Backes",
+      "G. Sukhatme"
+    ],
+    "publication_date": "2023-06-02",
+    "venue": "Robotics: Science and Systems",
+    "semantic_scholar_id": "bc574ac79afbee7745f949a040910e230d6e0bf1",
+    "corpus_id": 259064281,
+    "category": "Computer Science"
+  },
+  "2304-02253": {
+    "title": "Flipbot: Learning Continuous Paper Flipping via Coarse-to-Fine Exteroceptive-Proprioceptive Exploration",
+    "authors": [
+      "Chao Zhao",
+      "Chunli Jiang",
+      "Junhao Cai",
+      "M. Y. Wang",
+      "Hongyu Yu",
+      "Qifeng Chen"
+    ],
+    "publication_date": "2023-04-05",
+    "venue": "IEEE International Conference on Robotics and Automation",
+    "semantic_scholar_id": "765adb72adb305f05d5571535fe3d868b94c7359",
+    "corpus_id": 257952507,
+    "category": "Computer Science"
+  },
+  "2304-03223": {
+    "title": "DexDeform: Dexterous Deformable Object Manipulation with Human Demonstrations and Differentiable Physics",
+    "authors": [
+      "Sizhe Li",
+      "Zhiao Huang",
+      "Tao Chen",
+      "Tao Du",
+      "Hao Su",
+      "J. Tenenbaum",
+      "Chuang Gan"
+    ],
+    "publication_date": "2023-03-27",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "26063b5f5efa71e1c3b726f6f8c792368ba43ce4",
+    "corpus_id": 259977321,
+    "category": "Computer Science"
+  },
+  "2303-11057": {
+    "title": "Learning Foresightful Dense Visual Affordance for Deformable Object Manipulation",
+    "authors": [
+      "Ruihai Wu",
+      "Chuanruo Ning",
+      "Hao Dong"
+    ],
+    "publication_date": "2023-03-20",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "c2b523d2980c7b70cbb70f3ca261bf787c1a892b",
+    "corpus_id": 257631475,
+    "category": "Computer Science"
+  },
+  "2303-09555": {
+    "title": "SoftZoo: A Soft Robot Co-design Benchmark For Locomotion In Diverse Environments",
+    "authors": [
+      "Tsun-Hsuan Wang",
+      "Pingchuan Ma",
+      "A. Spielberg",
+      "Zhou Xian",
+      "Hao Zhang",
+      "J. Tenenbaum",
+      "D. Rus",
+      "Chuang Gan"
+    ],
+    "publication_date": "2023-03-16",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "a24d419bd3ec59f16b9103a836b419e050497b38",
+    "corpus_id": 257557557,
+    "category": "Computer Science"
+  },
+  "2303-02346": {
+    "title": "FluidLab: A Differentiable Environment for Benchmarking Complex Fluid Manipulation",
+    "authors": [
+      "Zhou Xian",
+      "Bo Zhu",
+      "Zhenjia Xu",
+      "H. Tung",
+      "A. Torralba",
+      "Katerina Fragkiadaki",
+      "Chuang Gan"
+    ],
+    "publication_date": "2023-03-04",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "73003cb9f5c1b30cd495f31f70323b1b17b24ff3",
+    "corpus_id": 257365313,
+    "category": "Computer Science"
+  },
+  "2302-11553": {
+    "title": "RoboNinja: Learning an Adaptive Cutting Policy for Multi-Material Objects",
+    "authors": [
+      "Zhenjia Xu",
+      "Zhou Xian",
+      "Xingyu Lin",
+      "Cheng Chi",
+      "Zhiao Huang",
+      "Chuang Gan",
+      "Shuran Song"
+    ],
+    "publication_date": "2023-02-22",
+    "venue": "Robotics: Science and Systems",
+    "semantic_scholar_id": "950561e23e053c2b8bea90457e59532e0f4138bb",
+    "corpus_id": 257079144,
+    "category": "Computer Science"
+  },
+  "2212-05108": {
+    "title": "Visuotactile Affordances for Cloth Manipulation with Local Control",
+    "authors": [
+      "N. Sunil",
+      "Shaoxiong Wang",
+      "Y. She",
+      "E. Adelson",
+      "Alberto Rodriguez"
+    ],
+    "publication_date": "2022-12-09",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "bdd3d6acf7ac3f2569878c5278696e14860f0912",
+    "corpus_id": 254564380,
+    "category": "Computer Science, Engineering"
+  },
+  "2211-09006": {
+    "title": "ToolFlowNet: Robotic Manipulation with Tools via Predicting Tool Flow from Point Clouds",
+    "authors": [
+      "Daniel Seita",
+      "Yufei Wang",
+      "Sarthak J. Shetty",
+      "Edward Li",
+      "Zackory Erickson",
+      "David Held"
+    ],
+    "publication_date": "2022-11-16",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "de05478bbc0031904ccbeb6ef18726c5a40bb266",
+    "corpus_id": 253553212,
+    "category": "Computer Science"
+  },
+  "2210-06876": {
+    "title": "Learning Physical Dynamics with Subequivariant Graph Neural Networks",
+    "authors": [
+      "Jiaqi Han",
+      "Wenbing Huang",
+      "Hengbo Ma",
+      "Jiachen Li",
+      "J. Tenenbaum",
+      "Chuang Gan"
+    ],
+    "publication_date": "2022-10-13",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "91090894c7fda3a19000f7224349e9168f9d7d42",
+    "corpus_id": 252873204,
+    "category": "Computer Science"
+  },
+  "2209-13432": {
+    "title": "Manipulation via Membranes: High-Resolution and Highly Deformable Tactile Sensing and Control",
+    "authors": [
+      "M. Oller",
+      "M. Planas",
+      "D. Berenson",
+      "Nima Fazeli"
+    ],
+    "publication_date": "2022-09-27",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "f500a9a306acaae0a702521222a60530b7da6880",
+    "corpus_id": 252545000,
+    "category": "Computer Science"
+  },
+  "2205-02835": {
+    "title": "Contact Points Discovery for Soft-Body Manipulations with Differentiable Physics",
+    "authors": [
+      "Sizhe Li",
+      "Zhiao Huang",
+      "Tao Du",
+      "Hao Su",
+      "J. Tenenbaum",
+      "Chuang Gan"
+    ],
+    "publication_date": "2022-05-05",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "e3dd531e8aaec2966cfdc9f7e00703157658d1c1",
+    "corpus_id": 248524779,
+    "category": "Computer Science"
+  },
+  "2205-01758": {
+    "title": "Differentiable Simulation of Soft Multi-body Systems",
+    "authors": [
+      "Yi-Ling Qiao",
+      "Junbang Liang",
+      "V. Koltun",
+      "Ming C. Lin"
+    ],
+    "publication_date": "2022-05-03",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "b41dce2aa3f526437695a61026d389ba3a15cfd2",
+    "corpus_id": 244037049,
+    "category": "Computer Science"
+  },
+  "2203-17275": {
+    "title": "DiffSkill: Skill Abstraction from Differentiable Physics for Deformable Object Manipulations with Tools",
+    "authors": [
+      "Xingyu Lin",
+      "Zhiao Huang",
+      "Yunzhu Li",
+      "J. Tenenbaum",
+      "David Held",
+      "Chuang Gan"
+    ],
+    "publication_date": "2022-03-31",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "4ad02c57c8867e0516e2288fba14d4a55fbc2ef4",
+    "corpus_id": 247839131,
+    "category": "Computer Science"
+  },
+  "2209-10215": {
+    "title": "Real-Time Locomotion on Soft Grounds With Dynamic Footprints",
+    "authors": [
+      "Eduardo Alvarado",
+      "Chloé Paliard",
+      "D. Rohmer",
+      "Marie-Paule Cani"
+    ],
+    "publication_date": "2022-03-28",
+    "venue": "Frontiers in Virtual Reality",
+    "semantic_scholar_id": "1cf3d141afb4347a6395fdf681bb1c269421c53a",
+    "corpus_id": 247783101,
+    "category": "Computer Science"
+  },
+  "2203-01197": {
+    "title": "DextAIRity: Deformable Manipulation Can be a Breeze",
+    "authors": [
+      "Zhenjia Xu",
+      "Cheng Chi",
+      "B. Burchfiel",
+      "Eric Cousineau",
+      "S. Feng",
+      "Shuran Song"
+    ],
+    "publication_date": "2022-03-02",
+    "venue": "Robotics: Science and Systems",
+    "semantic_scholar_id": "dcc50e99f470007a745867d69fc851301db9f98f",
+    "corpus_id": 247218272,
+    "category": "Computer Science"
+  },
+  "2203-00663": {
+    "title": "Iterative residual policy: For goal-conditioned dynamic manipulation of deformable objects",
+    "authors": [
+      "Cheng Chi",
+      "B. Burchfiel",
+      "Eric Cousineau",
+      "S. Feng",
+      "Shuran Song"
+    ],
+    "publication_date": "2022-03-01",
+    "venue": "Robotics: Science and Systems",
+    "semantic_scholar_id": "2b91aa3417fbe20cb18eb99e3775e486c9c25695",
+    "corpus_id": 247187697,
+    "category": "Computer Science"
+  },
+  "2107-07501": {
+    "title": "An End-to-End Differentiable Framework for Contact-Aware Robot Design",
+    "authors": [
+      "Jie Xu",
+      "Tao Chen",
+      "Lara Zlokapa",
+      "Michael Foshey",
+      "W. Matusik",
+      "S. Sueda",
+      "Pulkit Agrawal"
+    ],
+    "publication_date": "2021-07-12",
+    "venue": "Robotics: Science and Systems",
+    "semantic_scholar_id": "2d12ceab3d4f4333463670fa5c8c6904f2f0efbf",
+    "corpus_id": 235651322,
+    "category": "Computer Science"
+  },
+  "2107-04004": {
+    "title": "3D Neural Scene Representations for Visuomotor Control",
+    "authors": [
+      "Yunzhu Li",
+      "Shuang Li",
+      "Vincent Sitzmann",
+      "Pulkit Agrawal",
+      "A. Torralba"
+    ],
+    "publication_date": "2021-07-08",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "f8b94b373c8e402a07d848c76eaee6e5842a862f",
+    "corpus_id": 235765661,
+    "category": "Computer Science"
+  },
+  "2106-05306": {
+    "title": "DiffCloth: Differentiable Cloth Simulation with Dry Frictional Contact",
+    "authors": [
+      "Yifei Li",
+      "Tao Du",
+      "Kui Wu",
+      "Jie Xu",
+      "W. Matusik"
+    ],
+    "publication_date": "2021-06-09",
+    "venue": "ACM Transactions on Graphics",
+    "semantic_scholar_id": "2df1d01140ee24cd109a0157c9b6a871c7cc26ff",
+    "corpus_id": 235390650,
+    "category": "Computer Science"
+  },
+  "2105-03655": {
+    "title": "FlingBot: The Unreasonable Effectiveness of Dynamic Manipulation for Cloth Unfolding",
+    "authors": [
+      "Huy Ha",
+      "Shuran Song"
+    ],
+    "publication_date": "2021-05-08",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "7597a55eac399cb76d23ea34273e6ff07424f0da",
+    "corpus_id": 234338451,
+    "category": "Computer Science"
+  },
+  "2104-03311": {
+    "title": "PlasticineLab: A Soft-Body Manipulation Benchmark with Differentiable Physics",
+    "authors": [
+      "Zhiao Huang",
+      "Yuanming Hu",
+      "Tao Du",
+      "Siyuan Zhou",
+      "Hao Su",
+      "J. Tenenbaum",
+      "Chuang Gan"
+    ],
+    "publication_date": "2021-04-07",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "15c59c5cd0e393dda0b411995310510719d03a0f",
+    "corpus_id": 233169183,
+    "category": "Computer Science"
+  },
+  "2103-09439": {
+    "title": "HyperDynamics: Meta-Learning Object and Agent Dynamics with Hypernetworks",
+    "authors": [
+      "Zhou Xian",
+      "Shamit Lal",
+      "H. Tung",
+      "Emmanouil Antonios Platanios",
+      "Katerina Fragkiadaki"
+    ],
+    "publication_date": "2021-03-17",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "116a9a94df0213b11aa0585af81109e853f9deb3",
+    "corpus_id": 232257793,
+    "category": "Computer Science"
+  },
+  "2101-05917": {
+    "title": "DiffPD: Differentiable Projective Dynamics",
+    "authors": [
+      "Tao Du",
+      "Kui Wu",
+      "Pingchuan Ma",
+      "Sebastien Wah",
+      "A. Spielberg",
+      "D. Rus",
+      "W. Matusik"
+    ],
+    "publication_date": "2021-01-15",
+    "venue": "ACM Transactions on Graphics",
+    "semantic_scholar_id": "607577f5eccc70b23e9addf6b3d80786bf3804e6",
+    "corpus_id": 235377063,
+    "category": "Computer Science"
+  },
+  "2010-03409": {
+    "title": "Learning Mesh-Based Simulation with Graph Networks",
+    "authors": [
+      "T. Pfaff",
+      "Meire Fortunato",
+      "Alvaro Sanchez-Gonzalez",
+      "P. Battaglia"
+    ],
+    "publication_date": "2020-10-07",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "9e20f6874feaaf7c9994f9875b1d9cab17a2fd59",
+    "corpus_id": 222179041,
+    "category": "Computer Science"
+  },
+  "2007-02168": {
+    "title": "Scalable Differentiable Physics for Learning and Control",
+    "authors": [
+      "Yi-Ling Qiao",
+      "Junbang Liang",
+      "V. Koltun",
+      "Ming C Lin"
+    ],
+    "publication_date": "2020-07-04",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "6c2201860925b53cb8566ccdb0d5fa0f25b6a951",
+    "corpus_id": 220361704,
+    "category": "Computer Science, Mathematics"
+  },
+  "2002-09405": {
+    "title": "Learning to Simulate Complex Physics with Graph Networks",
+    "authors": [
+      "Alvaro Sanchez-Gonzalez",
+      "Jonathan Godwin",
+      "T. Pfaff",
+      "Rex Ying",
+      "J. Leskovec",
+      "P. Battaglia"
+    ],
+    "publication_date": "2020-02-21",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "c529f5b08675f787cdcc094ee495239592339f82",
+    "corpus_id": 211252550,
+    "category": "Computer Science, Physics, Mathematics"
+  },
+  "1910-00935": {
+    "title": "DiffTaichi: Differentiable Programming for Physical Simulation",
+    "authors": [
+      "Yuanming Hu",
+      "Luke Anderson",
+      "Tzu-Mao Li",
+      "Qi Sun",
+      "N. Carr",
+      "Jonathan Ragan-Kelley",
+      "F. Durand"
+    ],
+    "publication_date": "2019-09-25",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "666aaf80f647faf52d5058ff951e2d4b9a8844f5",
+    "corpus_id": 203626832,
+    "category": "Computer Science, Physics, Mathematics"
+  },
+  "1810-01566": {
+    "title": "Learning Particle Dynamics for Manipulating Rigid Bodies, Deformable Objects, and Fluids",
+    "authors": [
+      "Yunzhu Li",
+      "Jiajun Wu",
+      "Russ Tedrake",
+      "J. Tenenbaum",
+      "A. Torralba"
+    ],
+    "publication_date": "2018-09-27",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "d40531ed81859ce40f119c1bbc1d1cb50af498fd",
+    "corpus_id": 52917627,
+    "category": "Computer Science, Mathematics, Physics"
+  },
+  "1806-06094": {
+    "title": "SPNets: Differentiable Fluid Dynamics for Deep Neural Networks",
+    "authors": [
+      "Connor Schenck",
+      "D. Fox"
+    ],
+    "publication_date": "2018-06-15",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "4c78bcc4aedab68abf3de100e50085d64c1bf7a9",
+    "corpus_id": 49207686,
+    "category": "Computer Science, Engineering"
+  },
+  "1801-01290": {
+    "title": "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor",
+    "authors": [
+      "Tuomas Haarnoja",
+      "Aurick Zhou",
+      "P. Abbeel",
+      "S. Levine"
+    ],
+    "publication_date": "2018-01-04",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "811df72e210e20de99719539505da54762a11c6d",
+    "corpus_id": 28202810,
+    "category": "Computer Science, Mathematics"
+  },
+  "1707-06347": {
+    "title": "Proximal Policy Optimization Algorithms",
+    "authors": [
+      "John Schulman",
+      "Filip Wolski",
+      "Prafulla Dhariwal",
+      "Alec Radford",
+      "Oleg Klimov"
+    ],
+    "publication_date": "2017-07-20",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "dce6f9d4017b1785979e7520fd0834ef8cf02f4b",
+    "corpus_id": 28695052,
+    "category": "Computer Science"
+  }
+}

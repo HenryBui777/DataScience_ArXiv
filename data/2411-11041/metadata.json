@@ -1,0 +1,13 @@
+{
+  "title": "Directional diffusion splitting method for advection-diffusion-reaction model",
+  "authors": [
+    "R. Drebotiy",
+    "H. Shynkarenko"
+  ],
+  "summary": "We propose certain approach of solving two-dimensional non-stationary and stationary advection-diffusion-reaction boundary value problems through their reduction to the set of corresponding one-dimensional problems. This method leverages special splitting and interpolation schemes, providing iterative algorithm with a large degree of parallelization possibilities. We combine that algorithm with the finite element method to solve obtained one-dimensional problems, but in fact, it can be combined also with other discretization methods, like finite volume or finite difference methods.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

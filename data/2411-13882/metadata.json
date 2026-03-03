@@ -1,0 +1,29 @@
+{
+  "title": "A 2x2 quantum dot array in silicon with fully tuneable pairwise interdot coupling",
+  "authors": [
+    "Wee Han Lim",
+    "Tuomo Tanttu",
+    "Tony Youn",
+    "Jonathan Yue Huang",
+    "Santiago Serrano",
+    "Alexandra Dickie",
+    "Steve Yianni",
+    "Fay E. Hudson",
+    "Christopher C. Escott",
+    "Chih Hwan Yang",
+    "Arne Laucht",
+    "Andre Saraiva",
+    "Kok Wai Chan",
+    "Jesús D. Cifuentes",
+    "Andrew S. Dzurak"
+  ],
+  "summary": "Recent advances in semiconductor spin qubits have achieved linear arrays exceeding ten qubits. Moving to two-dimensional (2D) qubit arrays is a critical next step to advance towards fault-tolerant implementations, but it poses substantial fabrication challenges, particularly because enabling control of nearest-neighbor entanglement requires the incorporation of interstitial exchange gates between quantum dots in the qubit architecture. In this work, we present a 2D array of silicon metal-oxide-semiconductor (MOS) quantum dots with tunable interdot coupling between all adjacent dots. The device is characterized at 4.2 K, where we demonstrate the formation and isolation of double-dot and triple-dot configurations. We show control of all nearest-neighbor tunnel couplings spanning up to 30 decades per volt through the interstitial exchange gates and use advanced modeling tools to estimate the exchange interactions that could be realized among qubits in this architecture. These results represent a significant step towards the development of 2D MOS quantum processors compatible with foundry manufacturing techniques.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-12-10",
+    "2025-06-17"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cond-mat.mes-hall, quant-ph"
+}

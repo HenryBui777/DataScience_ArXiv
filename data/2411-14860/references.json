@@ -1,0 +1,764 @@
+{
+  "2403-07282": {
+    "title": "Enhancing Transfer Learning with Flexible Nonparametric Posterior Sampling",
+    "authors": [
+      "Hyungi Lee",
+      "G. Nam",
+      "Edwin Fong",
+      "Juho Lee"
+    ],
+    "publication_date": "2024-03-12",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "d0363849f5632dfdaeab9ceb95951bd5509eb97d",
+    "corpus_id": 268363655,
+    "category": "Computer Science"
+  },
+  "2402-17641": {
+    "title": "Variational Learning is Effective for Large Deep Networks",
+    "authors": [
+      "Yuesong Shen",
+      "Nico Daheim",
+      "Bai Cong",
+      "Peter Nickl",
+      "Gian Maria Marconi",
+      "Clement Bazan",
+      "Rio Yokota",
+      "Iryna Gurevych",
+      "Daniel Cremers",
+      "Mohammad Emtiyaz Khan",
+      "Thomas Möllenhoff"
+    ],
+    "publication_date": "2024-02-27",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "2e9badeda30a5e86d17b4f725ad53aa3a0b321b0",
+    "corpus_id": 268033644,
+    "category": "Computer Science, Mathematics"
+  },
+  "2402-03187": {
+    "title": "How Good is a Single Basin?",
+    "authors": [
+      "Kai Lion",
+      "Lorenzo Noci",
+      "Thomas Hofmann",
+      "Gregor Bachmann"
+    ],
+    "publication_date": "2024-02-05",
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "semantic_scholar_id": "88e027e12231834ad6f70cdedece84bccba4166b",
+    "corpus_id": 267412718,
+    "category": "Computer Science"
+  },
+  "2402-00809": {
+    "title": "Position: Bayesian Deep Learning is Needed in the Age of Large-Scale AI",
+    "authors": [
+      "Theodore Papamarkou",
+      "Maria Skoularidou",
+      "Konstantina Palla",
+      "Laurence Aitchison",
+      "Julyan Arbel",
+      "David B. Dunson",
+      "Maurizio Filippone",
+      "Vincent Fortuin",
+      "Philipp Hennig",
+      "Jos'e Miguel Hern'andez-Lobato",
+      "A. Hubin",
+      "Alexander Immer",
+      "Theofanis Karaletsos",
+      "Mohammad Emtiyaz Khan",
+      "Agustinus Kristiadi",
+      "Yingzhen Li",
+      "Stephan Mandt",
+      "Christopher Nemeth",
+      "Michael A. Osborne",
+      "Tim G. J. Rudner",
+      "David Rugamer",
+      "Y. W. Teh",
+      "M. Welling",
+      "Andrew Gordon Wilson",
+      "Ruqi Zhang"
+    ],
+    "publication_date": "2024-02-01",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "4742b47a6f4f2fcf1d74f733d44587589178b633",
+    "corpus_id": 270094572,
+    "category": "Computer Science, Mathematics"
+  },
+  "2306-00317": {
+    "title": "FlexRound: Learnable Rounding based on Element-wise Division for Post-Training Quantization",
+    "authors": [
+      "J. H. Lee",
+      "Jeonghoon Kim",
+      "S. Kwon",
+      "Dongsoo Lee"
+    ],
+    "publication_date": "2023-06-01",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "1b31882e60aaae3ac696e4f24f5cd93275c591f7",
+    "corpus_id": 258999931,
+    "category": "Computer Science"
+  },
+  "2305-14314": {
+    "title": "QLoRA: Efficient Finetuning of Quantized LLMs",
+    "authors": [
+      "Tim Dettmers",
+      "Artidoro Pagnoni",
+      "Ari Holtzman",
+      "Luke Zettlemoyer"
+    ],
+    "publication_date": "2023-05-23",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "32ac52069e562d4f900afee70bdca63f53461481",
+    "corpus_id": 258841328,
+    "category": "Computer Science"
+  },
+  "2304-13013": {
+    "title": "Stable and low-precision training for large-scale vision-language models",
+    "authors": [
+      "Mitchell Wortsman",
+      "Tim Dettmers",
+      "Luke Zettlemoyer",
+      "Ari S. Morcos",
+      "Ali Farhadi",
+      "Ludwig Schmidt"
+    ],
+    "publication_date": "2023-04-25",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "b3c64a046d6cfc0f55a2aebc5176bbab69a7e021",
+    "corpus_id": 258309405,
+    "category": "Computer Science"
+  },
+  "2303-03374": {
+    "title": "To Stay or Not to Stay in the Pre-train Basin: Insights on Ensembling in Transfer Learning",
+    "authors": [
+      "Ildus Sadrtdinov",
+      "Dmitrii Pozdeev",
+      "D. Vetrov",
+      "E. Lobacheva"
+    ],
+    "publication_date": "2023-03-06",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "18ff657c37950d89a8ed5493f6969a9dcd367719",
+    "corpus_id": 257365353,
+    "category": "Computer Science, Mathematics"
+  },
+  "2302-13971": {
+    "title": "LLaMA: Open and Efficient Foundation Language Models",
+    "authors": [
+      "Hugo Touvron",
+      "Thibaut Lavril",
+      "Gautier Izacard",
+      "Xavier Martinet",
+      "M. Lachaux",
+      "Timothée Lacroix",
+      "Baptiste Rozière",
+      "Naman Goyal",
+      "Eric Hambro",
+      "Faisal Azhar",
+      "Aur'elien Rodriguez",
+      "Armand Joulin",
+      "Edouard Grave",
+      "Guillaume Lample"
+    ],
+    "publication_date": "2023-02-27",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "57e849d0de13ed5f91d086936296721d4ff75a75",
+    "corpus_id": 257219404,
+    "category": "Computer Science"
+  },
+  "2301-09858": {
+    "title": "PowerQuant: Automorphism Search for Non-Uniform Quantization",
+    "authors": [
+      "Edouard Yvinec",
+      "Arnaud Dapogny",
+      "M. Cord",
+      "Kévin Bailly"
+    ],
+    "publication_date": "2023-01-24",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "078ef926a9cdcea3f33abcd057d02d1194a8a97f",
+    "corpus_id": 256194286,
+    "category": "Computer Science"
+  },
+  "2301-03962": {
+    "title": "A Unified Theory of Diversity in Ensemble Learning",
+    "authors": [
+      "Danny Wood",
+      "Tingting Mu",
+      "Andrew M. Webb",
+      "Henry W. J. Reeve",
+      "M. Luján",
+      "Gavin Brown"
+    ],
+    "publication_date": "2023-01-10",
+    "venue": "Journal of machine learning research",
+    "semantic_scholar_id": "b8ebcf6f5330dce753b4ac462ca9e4ed06900e73",
+    "corpus_id": 255569785,
+    "category": "Computer Science, Mathematics"
+  },
+  "2212-07143": {
+    "title": "Reproducible Scaling Laws for Contrastive Language-Image Learning",
+    "authors": [
+      "Mehdi Cherti",
+      "R. Beaumont",
+      "Ross Wightman",
+      "Mitchell Wortsman",
+      "Gabriel Ilharco",
+      "Cade Gordon",
+      "Christoph Schuhmann",
+      "Ludwig Schmidt",
+      "J. Jitsev"
+    ],
+    "publication_date": "2022-12-14",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "16de2006e2960ba410772c6b6d460b83c0a5cc4b",
+    "corpus_id": 254636568,
+    "category": "Computer Science"
+  },
+  "2211-09359": {
+    "title": "How to Fine-Tune Vision Models with SGD",
+    "authors": [
+      "Ananya Kumar",
+      "Ruoqi Shen",
+      "Sébastien Bubeck",
+      "Suriya Gunasekar"
+    ],
+    "publication_date": "2022-11-17",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "6aec7f40412ceaeb811d71345d9888fca7a24f82",
+    "corpus_id": 253581330,
+    "category": "Computer Science"
+  },
+  "2206-09909": {
+    "title": "Low-Precision Stochastic Gradient Langevin Dynamics",
+    "authors": [
+      "Ruqi Zhang",
+      "A. Wilson",
+      "Chris De Sa"
+    ],
+    "publication_date": "2022-06-20",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "a47326d7996def2cd015c4d2558b63073bb6846d",
+    "corpus_id": 249889240,
+    "category": "Computer Science, Mathematics"
+  },
+  "2206-01861": {
+    "title": "ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers",
+    "authors": [
+      "Z. Yao",
+      "Reza Yazdani Aminabadi",
+      "Minjia Zhang",
+      "Xiaoxia Wu",
+      "Conglong Li",
+      "Yuxiong He"
+    ],
+    "publication_date": "2022-06-04",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "e03609f2587f690867e7ea0bedaf0db25282c548",
+    "corpus_id": 249395624,
+    "category": "Computer Science"
+  },
+  "2203-05482": {
+    "title": "Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time",
+    "authors": [
+      "Mitchell Wortsman",
+      "Gabriel Ilharco",
+      "S. Gadre",
+      "R. Roelofs",
+      "Raphael Gontijo-Lopes",
+      "Ari S. Morcos",
+      "Hongseok Namkoong",
+      "Ali Farhadi",
+      "Y. Carmon",
+      "Simon Kornblith",
+      "Ludwig Schmidt"
+    ],
+    "publication_date": "2022-03-10",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "54020e5fe48ebb250f27d744e20a63cac2988a84",
+    "corpus_id": 247362886,
+    "category": "Computer Science"
+  },
+  "2112-04359": {
+    "title": "Ethical and social risks of harm from Language Models",
+    "authors": [
+      "Laura Weidinger",
+      "John F. J. Mellor",
+      "Maribeth Rauh",
+      "Conor Griffin",
+      "Jonathan Uesato",
+      "Po-Sen Huang",
+      "Myra Cheng",
+      "Mia Glaese",
+      "Borja Balle",
+      "Atoosa Kasirzadeh",
+      "Zachary Kenton",
+      "S. Brown",
+      "W. Hawkins",
+      "T. Stepleton",
+      "Courtney Biles",
+      "Abeba Birhane",
+      "Julia Haas",
+      "Laura Rimell",
+      "Lisa Anne Hendricks",
+      "William S. Isaac",
+      "Sean Legassick",
+      "G. Irving",
+      "Iason Gabriel"
+    ],
+    "publication_date": "2021-12-08",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "fd1b829261ba04bb92e0ab60c4f6e7cea0d99fbf",
+    "corpus_id": 244954639,
+    "category": "Computer Science"
+  },
+  "2110-13786": {
+    "title": "Diversity and Generalization in Neural Network Ensembles",
+    "authors": [
+      "Luis A. Ortega",
+      "Rafael Cabañas",
+      "A. Masegosa"
+    ],
+    "publication_date": "2021-10-26",
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "semantic_scholar_id": "9ae3f2ddb718d08e9d42e012d89d70ac58e586ef",
+    "corpus_id": 239885825,
+    "category": "Computer Science, Mathematics"
+  },
+  "2103-13630": {
+    "title": "A Survey of Quantization Methods for Efficient Neural Network Inference",
+    "authors": [
+      "A. Gholami",
+      "Sehoon Kim",
+      "Zhen Dong",
+      "Z. Yao",
+      "Michael W. Mahoney",
+      "K. Keutzer"
+    ],
+    "publication_date": "2021-03-25",
+    "venue": "Low-Power Computer Vision",
+    "semantic_scholar_id": "093253653cd0b55970c390d77b75137c4095dc29",
+    "corpus_id": 232352683,
+    "category": "Computer Science"
+  },
+  "2103-00020": {
+    "title": "Learning Transferable Visual Models From Natural Language Supervision",
+    "authors": [
+      "Alec Radford",
+      "Jong Wook Kim",
+      "Chris Hallacy",
+      "A. Ramesh",
+      "Gabriel Goh",
+      "Sandhini Agarwal",
+      "Girish Sastry",
+      "Amanda Askell",
+      "Pamela Mishkin",
+      "Jack Clark",
+      "Gretchen Krueger",
+      "I. Sutskever"
+    ],
+    "publication_date": "2021-02-26",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4",
+    "corpus_id": 231591445,
+    "category": "Computer Science"
+  },
+  "2102-13042": {
+    "title": "Loss Surface Simplexes for Mode Connecting Volumes and Fast Ensembling",
+    "authors": [
+      "Gregory W. Benton",
+      "Wesley J. Maddox",
+      "Sanae Lotfi",
+      "A. Wilson"
+    ],
+    "publication_date": "2021-02-25",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "deb435134d83e3c36ddcaa783392acf4a4e32dd7",
+    "corpus_id": 232046113,
+    "category": "Computer Science, Mathematics"
+  },
+  "2102-11062": {
+    "title": "On the Effects of Quantisation on Model Uncertainty in Bayesian Neural Networks",
+    "authors": [
+      "Martin Ferianc",
+      "Partha P. Maji",
+      "Matthew Mattina",
+      "Miguel L. Rodrigues"
+    ],
+    "publication_date": "2021-02-22",
+    "venue": "Conference on Uncertainty in Artificial Intelligence",
+    "semantic_scholar_id": "599996f445391f404fd58d27c6e34976d843d467",
+    "corpus_id": 231985521,
+    "category": "Computer Science, Mathematics"
+  },
+  "2010-11929": {
+    "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+    "authors": [
+      "Alexey Dosovitskiy",
+      "Lucas Beyer",
+      "Alexander Kolesnikov",
+      "Dirk Weissenborn",
+      "Xiaohua Zhai",
+      "Thomas Unterthiner",
+      "Mostafa Dehghani",
+      "M. Minderer",
+      "G. Heigold",
+      "S. Gelly",
+      "Jakob Uszkoreit",
+      "N. Houlsby"
+    ],
+    "publication_date": "2020-10-22",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "268d347e8a55b5eb82fb5e7d2f800e33c75ab18a",
+    "corpus_id": 225039882,
+    "category": "Computer Science"
+  },
+  "2010-06866": {
+    "title": "Deep Ensembles for Low-Data Transfer Learning",
+    "authors": [
+      "Basil Mustafa",
+      "C. Riquelme",
+      "J. Puigcerver",
+      "andAndr'e Susano Pinto",
+      "Daniel Keysers",
+      "N. Houlsby"
+    ],
+    "publication_date": "2020-10-14",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "01d9d2bb0a4f6a81a2badcb3e35984181ff35d86",
+    "corpus_id": 222341264,
+    "category": "Computer Science, Mathematics"
+  },
+  "2009-03300": {
+    "title": "Measuring Massive Multitask Language Understanding",
+    "authors": [
+      "Dan Hendrycks",
+      "Collin Burns",
+      "Steven Basart",
+      "Andy Zou",
+      "Mantas Mazeika",
+      "D. Song",
+      "J. Steinhardt"
+    ],
+    "publication_date": "2020-09-07",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "814a4f680b9ba6baba23b93499f4b48af1a27678",
+    "corpus_id": 221516475,
+    "category": "Computer Science"
+  },
+  "2008-11687": {
+    "title": "What is being transferred in transfer learning?",
+    "authors": [
+      "Behnam Neyshabur",
+      "Hanie Sedghi",
+      "Chiyuan Zhang"
+    ],
+    "publication_date": "2020-08-26",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "5baa3e00d66bc42db7e3908f0b70875cff9d0193",
+    "corpus_id": 221319407,
+    "category": "Computer Science, Mathematics"
+  },
+  "2005-14165": {
+    "title": "Language Models are Few-Shot Learners",
+    "authors": [
+      "Tom B. Brown",
+      "Benjamin Mann",
+      "Nick Ryder",
+      "Melanie Subbiah",
+      "J. Kaplan",
+      "Prafulla Dhariwal",
+      "Arvind Neelakantan",
+      "Pranav Shyam",
+      "Girish Sastry",
+      "Amanda Askell",
+      "Sandhini Agarwal",
+      "Ariel Herbert-Voss",
+      "Gretchen Krueger",
+      "T. Henighan",
+      "R. Child",
+      "A. Ramesh",
+      "Daniel M. Ziegler",
+      "Jeff Wu",
+      "Clemens Winter",
+      "Christopher Hesse",
+      "Mark Chen",
+      "Eric Sigler",
+      "Ma-teusz Litwin",
+      "Scott Gray",
+      "Benjamin Chess",
+      "Jack Clark",
+      "Christopher Berner",
+      "Sam McCandlish",
+      "Alec Radford",
+      "I. Sutskever",
+      "Dario Amodei"
+    ],
+    "publication_date": "2020-05-28",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+    "corpus_id": 218971783,
+    "category": "Computer Science"
+  },
+  "2004-10568": {
+    "title": "Up or Down? Adaptive Rounding for Post-Training Quantization",
+    "authors": [
+      "Markus Nagel",
+      "Rana Ali Amjad",
+      "M. V. Baalen",
+      "Christos Louizos",
+      "Tijmen Blankevoort"
+    ],
+    "publication_date": "2020-04-22",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "0c0dfe47afcec2e229015f3c8f213d4c88e86b28",
+    "corpus_id": 216056295,
+    "category": "Computer Science, Mathematics"
+  },
+  "2002-08791": {
+    "title": "Bayesian Deep Learning and a Probabilistic Perspective of Generalization",
+    "authors": [
+      "A. Wilson",
+      "Pavel Izmailov"
+    ],
+    "publication_date": "2020-02-20",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "af9280741ef627f0d6c8437605d002d3bfc2d1b1",
+    "corpus_id": 211205110,
+    "category": "Computer Science, Mathematics"
+  },
+  "2002-06715": {
+    "title": "BatchEnsemble: An Alternative Approach to Efficient Ensemble and Lifelong Learning",
+    "authors": [
+      "Yeming Wen",
+      "Dustin Tran",
+      "Jimmy Ba"
+    ],
+    "publication_date": "2020-02-17",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "b145ea2049648535d6081407ebd315b072248183",
+    "corpus_id": 211132990,
+    "category": "Computer Science, Mathematics"
+  },
+  "1912-02757": {
+    "title": "Deep Ensembles: A Loss Landscape Perspective",
+    "authors": [
+      "Stanislav Fort",
+      "Huiyi Hu",
+      "Balaji Lakshminarayanan"
+    ],
+    "publication_date": "2019-09-25",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "6ddf83bee5ca7a0542964e389a98adc1ed4a6838",
+    "corpus_id": 208637294,
+    "category": "Mathematics, Computer Science"
+  },
+  "1906-02506": {
+    "title": "Practical Deep Learning with Bayesian Principles",
+    "authors": [
+      "Kazuki Osawa",
+      "S. Swaroop",
+      "Anirudh Jain",
+      "Runa Eschenhagen",
+      "Richard E. Turner",
+      "Rio Yokota",
+      "M. E. Khan"
+    ],
+    "publication_date": "2019-06-06",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "bdc47f8a781c99578b76e27708afac3691b6b1ec",
+    "corpus_id": 174802962,
+    "category": "Mathematics, Computer Science"
+  },
+  "1902-03932": {
+    "title": "Cyclical Stochastic Gradient MCMC for Bayesian Deep Learning",
+    "authors": [
+      "Ruqi Zhang",
+      "Chunyuan Li",
+      "Jianyi Zhang",
+      "Changyou Chen",
+      "A. Wilson"
+    ],
+    "publication_date": "2019-02-11",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "079ce2910925dbe4272c36c7e59cfa7ce959bc24",
+    "corpus_id": 60440536,
+    "category": "Computer Science, Mathematics"
+  },
+  "1902-02476": {
+    "title": "A Simple Baseline for Bayesian Uncertainty in Deep Learning",
+    "authors": [
+      "Wesley J. Maddox",
+      "T. Garipov",
+      "Pavel Izmailov",
+      "D. Vetrov",
+      "A. Wilson"
+    ],
+    "publication_date": "2019-02-07",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "36aa6c01c9683783499395953c6bc856d6101feb",
+    "corpus_id": 59608823,
+    "category": "Computer Science, Mathematics"
+  },
+  "1802-10026": {
+    "title": "Loss Surfaces, Mode Connectivity, and Fast Ensembling of DNNs",
+    "authors": [
+      "T. Garipov",
+      "Pavel Izmailov",
+      "Dmitrii Podoprikhin",
+      "D. Vetrov",
+      "A. Wilson"
+    ],
+    "publication_date": "2018-02-27",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "f6195d8dc6aad8231e97b563246f2585842bc68b",
+    "corpus_id": 4055784,
+    "category": "Computer Science, Mathematics"
+  },
+  "1712-05877": {
+    "title": "Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference",
+    "authors": [
+      "Benoit Jacob",
+      "S. Kligys",
+      "Bo Chen",
+      "Menglong Zhu",
+      "Matthew Tang",
+      "Andrew G. Howard",
+      "Hartwig Adam",
+      "Dmitry Kalenichenko"
+    ],
+    "publication_date": "2017-12-15",
+    "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "59d0d7ccec2db66cad20cac5721ce54a8a058294",
+    "corpus_id": 39867659,
+    "category": "Computer Science, Mathematics"
+  },
+  "1710-03740": {
+    "title": "Mixed Precision Training",
+    "authors": [
+      "P. Micikevicius",
+      "Sharan Narang",
+      "Jonah Alben",
+      "G. Diamos",
+      "Erich Elsen",
+      "David García",
+      "Boris Ginsburg",
+      "Michael Houston",
+      "Oleksii Kuchaiev",
+      "Ganesh Venkatesh",
+      "Hao Wu"
+    ],
+    "publication_date": "2017-10-10",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "e7fd6848cb29ca221a7e17d823e06fb566f1f135",
+    "corpus_id": 3297437,
+    "category": "Computer Science, Mathematics"
+  },
+  "1706-02379": {
+    "title": "Training Quantized Nets: A Deeper Understanding",
+    "authors": [
+      "Hao Li",
+      "Soham De",
+      "Zheng Xu",
+      "Christoph Studer",
+      "H. Samet",
+      "T. Goldstein"
+    ],
+    "publication_date": "2017-06-01",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "5690cae43495be52bab835023e34997ea2784abf",
+    "corpus_id": 10817450,
+    "category": "Computer Science, Mathematics"
+  },
+  "1704-00109": {
+    "title": "Snapshot Ensembles: Train 1, get M for free",
+    "authors": [
+      "Gao Huang",
+      "Yixuan Li",
+      "Geoff Pleiss",
+      "Zhuang Liu",
+      "J. Hopcroft",
+      "Kilian Q. Weinberger"
+    ],
+    "publication_date": "2017-04-01",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "b134d0911e2e13ac169ffa5f478a39e6ef77869a",
+    "corpus_id": 6820006,
+    "category": "Computer Science"
+  },
+  "1612-01474": {
+    "title": "Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles",
+    "authors": [
+      "Balaji Lakshminarayanan",
+      "A. Pritzel",
+      "C. Blundell"
+    ],
+    "publication_date": "2016-12-05",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "802168a81571dde28f5ddb94d84677bc007afa7b",
+    "corpus_id": 6294674,
+    "category": "Computer Science, Mathematics"
+  },
+  "1511-06314": {
+    "title": "Why M Heads are Better than One: Training a Diverse Ensemble of Deep Networks",
+    "authors": [
+      "Stefan Lee",
+      "Senthil Purushwalkam",
+      "Michael Cogswell",
+      "David J. Crandall",
+      "Dhruv Batra"
+    ],
+    "publication_date": "2015-11-19",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "73801d5bab1dd5cc2aaaf8855e4365a1a5d0d109",
+    "corpus_id": 14220944,
+    "category": "Computer Science"
+  },
+  "1506-02142": {
+    "title": "Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning",
+    "authors": [
+      "Y. Gal",
+      "Zoubin Ghahramani"
+    ],
+    "publication_date": "2015-06-06",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "f35de4f9b1a7c4d3fa96a0d2ab1bf8937671f6b6",
+    "corpus_id": 160705,
+    "category": "Computer Science, Mathematics"
+  },
+  "1502-02551": {
+    "title": "Deep Learning with Limited Numerical Precision",
+    "authors": [
+      "Suyog Gupta",
+      "A. Agrawal",
+      "K. Gopalakrishnan",
+      "P. Narayanan"
+    ],
+    "publication_date": "2015-02-09",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "b7cf49e30355633af2db19f35189410c8515e91f",
+    "corpus_id": 2547043,
+    "category": "Computer Science, Mathematics"
+  },
+  "1409-0575": {
+    "title": "ImageNet Large Scale Visual Recognition Challenge",
+    "authors": [
+      "Olga Russakovsky",
+      "Jia Deng",
+      "Hao Su",
+      "J. Krause",
+      "S. Satheesh",
+      "Sean Ma",
+      "Zhiheng Huang",
+      "A. Karpathy",
+      "A. Khosla",
+      "Michael S. Bernstein",
+      "A. Berg",
+      "Li Fei-Fei"
+    ],
+    "publication_date": "2014-09-01",
+    "venue": "International Journal of Computer Vision",
+    "semantic_scholar_id": "e74f9b7f8eec6ba4704c206b93bc8079af3da4bd",
+    "corpus_id": 2930547,
+    "category": "Computer Science"
+  }
+}

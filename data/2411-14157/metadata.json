@@ -1,0 +1,17 @@
+{
+  "title": "DrugGen: Advancing Drug Discovery with Large Language Models and Reinforcement Learning Feedback",
+  "authors": [
+    "Mahsa Sheikholeslami",
+    "Navid Mazrouei",
+    "Yousof Gheisari",
+    "Afshin Fasihi",
+    "Matin Irajpour",
+    "Ali Motahharynia"
+  ],
+  "summary": "Traditional drug design faces significant challenges due to inherent chemical and biological complexities, often resulting in high failure rates in clinical trials. Deep learning advancements, particularly generative models, offer potential solutions to these challenges. One promising algorithm is DrugGPT, a transformer-based model, that generates small molecules for input protein sequences. Although promising, it generates both chemically valid and invalid structures and does not incorporate the features of approved drugs, resulting in time-consuming and inefficient drug discovery. To address these issues, we introduce DrugGen, an enhanced model based on the DrugGPT structure. DrugGen is fine-tuned on approved drug-target interactions and optimized with proximal policy optimization. By giving reward feedback from protein-ligand binding affinity prediction using pre-trained transformers (PLAPT) and a customized invalid structure assessor, DrugGen significantly improves performance. Evaluation across multiple targets demonstrated that DrugGen achieves 100% valid structure generation compared to 95.5% with DrugGPT and produced molecules with higher predicted binding affinities (7.22 [6.30-8.07]) compared to DrugGPT (5.81 [4.97-6.63]) while maintaining diversity and novelty. Docking simulations further validate its ability to generate molecules targeting binding sites effectively. For example, in the case of fatty acid-binding protein 5 (FABP5), DrugGen generated molecules with superior docking scores (FABP5/11, -9.537 and FABP5/5, -8.399) compared to the reference molecule (Palmitic acid, -6.177). Beyond lead compound generation, DrugGen also shows potential for drug repositioning and creating novel pharmacophores for existing targets. By producing high-quality small molecules, DrugGen provides a high-performance medium for advancing pharmaceutical research and drug discovery.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-bio.QM, cs.AI"
+}

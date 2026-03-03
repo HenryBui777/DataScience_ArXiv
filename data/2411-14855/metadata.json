@@ -1,0 +1,15 @@
+{
+  "title": "Applications of fractional calculus in learned optimization",
+  "authors": [
+    "Teodor Alexandru Szente",
+    "James Harrison",
+    "Mihai Zanfir",
+    "Cristian Sminchisescu"
+  ],
+  "summary": "Fractional gradient descent has been studied extensively, with a focus on its ability to extend traditional gradient descent methods by incorporating fractional-order derivatives. This approach allows for more flexibility in navigating complex optimization landscapes and offers advantages in certain types of problems, particularly those involving non-linearities and chaotic dynamics. Yet, the challenge of fine-tuning the fractional order parameters remains unsolved. In this work, we demonstrate that it is possible to train a neural network to predict the order of the gradient effectively.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

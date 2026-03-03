@@ -1,0 +1,17 @@
+{
+  "title": "CP-UNet: Contour-based Probabilistic Model for Medical Ultrasound Images Segmentation",
+  "authors": [
+    "Ruiguo Yu",
+    "Yiyang Zhang",
+    "Yuan Tian",
+    "Zhiqiang Liu",
+    "Xuewei Li",
+    "Jie Gao"
+  ],
+  "summary": "Deep learning-based segmentation methods are widely utilized for detecting lesions in ultrasound images. Throughout the imaging procedure, the attenuation and scattering of ultrasound waves cause contour blurring and the formation of artifacts, limiting the clarity of the acquired ultrasound images. To overcome this challenge, we propose a contour-based probabilistic segmentation model CP-UNet, which guides the segmentation network to enhance its focus on contour during decoding. We design a novel down-sampling module to enable the contour probability distribution modeling and encoding stages to acquire global-local features. Furthermore, the Gaussian Mixture Model utilizes optimized features to model the contour distribution, capturing the uncertainty of lesion boundaries. Extensive experiments with several state-of-the-art deep learning segmentation methods on three ultrasound image datasets show that our method performs better on breast and thyroid lesions segmentation.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.CV"
+}

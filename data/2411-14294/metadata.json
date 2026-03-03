@@ -1,0 +1,19 @@
+{
+  "title": "Enhanced Collisional Losses from a Magnetic Mirror Using the Lenard-Bernstein Collision Operator",
+  "authors": [
+    "Maxwell H. Rosen",
+    "Wrick Sengupta",
+    "Ian Ochs",
+    "Felix Parra Diaz",
+    "Gregory W. Hammett"
+  ],
+  "summary": "Collisions are crucial in governing particle and energy transport in plasmas confined in a magnetic mirror trap. Modern gyrokinetic codes model transport in magnetic mirrors, but some utilize approximate model collision operators. This study focuses on a Pastukhov-style method of images calculation of particle and energy confinement times using a Lenard-Bernstein model collision operator. Prior work on parallel particle and energy balances used a different Fokker-Planck plasma collision operator. The method must be extended in non-trivial ways to study the Lenard-Bernstein operator. To assess the effectiveness of our approach, we compare our results with a modern finite element solver. Our findings reveal that the particle confinement time scales like $a \\exp(a^2)$ using the Lenard-Bernstein operator, in contrast to the more accurate scaling that the Coulomb collision operator would yield $a^2 \\exp(a^2)$, where $a^2$ is approximately proportional to the ambipolar potential. We propose that codes solving for collisional losses in magnetic mirrors utilizing the Lenard-Bernstein or Dougherty collision operator scale their collision frequency of any electrostatically confined species. This study illuminates the collision operator's intricate role in the Pastukhov-style method of images calculation of collisional confinement.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-03-03",
+    "2025-03-21"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.plasm-ph"
+}

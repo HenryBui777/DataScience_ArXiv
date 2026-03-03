@@ -1,0 +1,14 @@
+{
+  "title": "Neuro-Symbolic Query Optimization in Knowledge Graphs",
+  "authors": [
+    "Maribel Acosta",
+    "Chang Qin",
+    "Tim Schwabe"
+  ],
+  "summary": "This chapter delves into the emerging field of neuro-symbolic query optimization for knowledge graphs (KGs), presenting a comprehensive exploration of how neural and symbolic techniques can be integrated to enhance query processing. Traditional query optimizers in knowledge graphs rely heavily on symbolic methods, utilizing dataset summaries, statistics, and cost models to select efficient execution plans. However, these approaches often suffer from misestimations and inaccuracies, particularly when dealing with complex queries or large-scale datasets. Recent advancements have introduced neural models, which capture non-linear aspects of query optimization, offering promising alternatives to purely symbolic methods. In this chapter, we introduce neuro-symbolic query optimizers, a novel approach that combines the strengths of symbolic reasoning with the adaptability of neural computation. We discuss the architecture of these hybrid systems, highlighting the interplay between neural and symbolic components to improve the optimizer's ability to navigate the search space and produce efficient execution plans. Additionally, the chapter reviews existing neural components tailored for optimizing queries over knowledge graphs and examines the limitations and challenges in deploying neuro-symbolic query optimizers in real-world environments.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DB, cs.AI"
+}

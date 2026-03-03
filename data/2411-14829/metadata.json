@@ -1,0 +1,16 @@
+{
+  "title": "OSPtrack: A Labeled Dataset Targeting Simulated Execution of Open-Source Software",
+  "authors": [
+    "Zhuoran Tan",
+    "Christos Anagnosstopoulos",
+    "Jeremy Singer"
+  ],
+  "summary": "Open-source software serves as a foundation for the internet and the cyber supply chain, but its exploitation is becoming increasingly prevalent. While advances in vulnerability detection for OSS have been significant, prior research has largely focused on static code analysis, often neglecting runtime indicators. To address this shortfall, we created a comprehensive dataset spanning five ecosystems, capturing features generated during the execution of packages and libraries in isolated environments. The dataset includes 9,461 package reports, of which 1,962 are identified as malicious, and encompasses both static and dynamic features such as files, sockets, commands, and DNS records. Each report is labeled with verified information and detailed sub-labels for attack types, facilitating the identification of malicious indicators when source code is unavailable. This dataset supports runtime detection, enhances detection model training, and enables efficient comparative analysis across ecosystems, contributing to the strengthening of supply chain security.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-11-28"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR"
+}

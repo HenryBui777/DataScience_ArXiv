@@ -1,0 +1,15 @@
+{
+  "title": "Towards Degradation-Robust Reconstruction in Generalizable NeRF",
+  "authors": [
+    "Chan Ho Park",
+    "Ka Leong Cheng",
+    "Zhicheng Wang",
+    "Qifeng Chen"
+  ],
+  "summary": "Generalizable Neural Radiance Field (GNeRF) across scenes has been proven to be an effective way to avoid per-scene optimization by representing a scene with deep image features of source images. However, despite its potential for real-world applications, there has been limited research on the robustness of GNeRFs to different types of degradation present in the source images. The lack of such research is primarily attributed to the absence of a large-scale dataset fit for training a degradation-robust generalizable NeRF model. To address this gap and facilitate investigations into the degradation robustness of 3D reconstruction tasks, we construct the Objaverse Blur Dataset, comprising 50,000 images from over 1000 settings featuring multiple levels of blur degradation. In addition, we design a simple and model-agnostic module for enhancing the degradation robustness of GNeRFs. Specifically, by extracting 3D-aware features through a lightweight depth estimator and denoiser, the proposed module shows improvement on different popular methods in GNeRFs in terms of both quantitative and visual quality over varying degradation types and levels. Our dataset and code will be made publicly available.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

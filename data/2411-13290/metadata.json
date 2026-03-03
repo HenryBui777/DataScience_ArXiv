@@ -1,0 +1,18 @@
+{
+  "title": "Coherent Nonlinear Optical Response for High-Intensity Excitation",
+  "authors": [
+    "Rishabh Tripathi",
+    "Krishna K. Maurya",
+    "Pradeep Kumar",
+    "Bhaskar De",
+    "Rohan Singh"
+  ],
+  "summary": "Calculation of the coherent nonlinear response of a system is essential to correctly interpret results from advanced techniques such as two-dimensional coherent spectroscopy (2DCS). Usually, even for the simplest systems, such calculations are either performed for low-intensity excitations where perturbative methods are valid and/or by assuming a simplified pulse envelope, such as a $δ$-function in time. Here, we use the phase-cycling method for exact calculation of the nonlinear response without making the aforementioned approximations even for high-intensity excitation. We compare the simulation results to several experimental observations to prove the validity of these calculations. The saturation of the photon-echo signal from excitons in a semiconductor quantum well sample is measured. The excitation-intensity dependent measurement shows nonlinear contributions up to twelfth order. Intensity-dependent simulations reproduce this effect without explicitly considering higher-order interactions. Additionally, we present simulation results that replicate previously-reported experiments with high-intensity excitation of semiconductor quantum dots. By accurately reproducing a variety of phenomena such as higher-order contributions, switching of coherent signal, and changes in photon-echo transients, we prove the efficacy of the phase-cycling method to calculate the coherent nonlinear signal for high-intensity excitation. This method would be particularly useful for systems with multiple, well-separated peaks and/or large inhomogeneity.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-04-11"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.optics, physics.comp-ph"
+}

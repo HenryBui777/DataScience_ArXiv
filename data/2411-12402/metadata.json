@@ -1,0 +1,14 @@
+{
+  "title": "A total-shear-stress-conserved wall model for large-eddy simulation of high-Reynolds number wall turbulence",
+  "authors": [
+    "Huan-Cong Liu",
+    "Chun-Xiao Xu",
+    "Wei-Xi Huang"
+  ],
+  "summary": "Wall-modeled large-eddy simulation (WMLES) is widely recognized as a useful method for simulation of turbulent flows at high Reynolds numbers. Nevertheless, a continual issue in different wall models is the shift of the mean velocity profile from the wall-model/RANS (Reynolds-averaged Navier-Stokes) region to the LES region. This phenomenon, referred to as logarithmic layer mismatch (LLM), occurs in both wall shear stress models and hybrid RANS/LES models. Many efforts have been made to explain and resolve this mismatch, including decreasing the high correlation between the wall shear stress and the velocity at the matching layer, modifying the subgrid-scale (SGS) eddy viscosity, and adding a stochastic forcing. It is widely believed that the inclusion of the resolved Reynolds shear stress (or the convection term) is essential to elliminate the LLM, as it prevents the overseimation of the modeled Reynolds shear stress and promotes the generation of the small-scale flow structures in the near-wall region. In this work, by comparing three different SGS eddy viscosity models, we demonstrate that ensuring the total shear stress conservation (TSSC) conservation is key to resolving the LLM. Under the TSSC framework, the effect of the convection term on LLM can be quantitatively assessed. Furthermore, a modified SGS eddy viscosity modfication model that adheres to the TSSC constraint is tested at different Reynolds numbers ($Re_τ=1000, 2000, 4200$). Our results demonstrate the robust performance of the present model in predicting skin friction and low-order turbulence statistics, even under a relatively low grid resolution ($Δx^+, Δz^+ \\lesssim 500$, $2\\leq Δ_x/Δ_{y,mat} \\leq 4$, where $Δ_{y,mat}$ is the wall-normal grid spacing in the wall-model region).",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.flu-dyn"
+}

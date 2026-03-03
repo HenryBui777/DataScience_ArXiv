@@ -1,0 +1,369 @@
+{
+  "2311-05161": {
+    "title": "Enhancing Computation Efficiency in Large Language Models through Weight and Activation Quantization",
+    "authors": [
+      "Janghwan Lee",
+      "Minsoo Kim",
+      "Seungcheol Baek",
+      "Seok Joong Hwang",
+      "Wonyong Sung",
+      "Jungwook Choi"
+    ],
+    "publication_date": "2023-11-09",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "f1278443e9df54711b8f55548961862337c193a6",
+    "corpus_id": 265066991,
+    "category": "Computer Science"
+  },
+  "2310-06694": {
+    "title": "Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning",
+    "authors": [
+      "Mengzhou Xia",
+      "Tianyu Gao",
+      "Zhiyuan Zeng",
+      "Danqi Chen"
+    ],
+    "publication_date": "2023-10-10",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "abdb0f9d1486dbb024c4bc9f8f9dc40464c58715",
+    "corpus_id": 263830786,
+    "category": "Computer Science"
+  },
+  "2308-13137": {
+    "title": "OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models",
+    "authors": [
+      "Wenqi Shao",
+      "Mengzhao Chen",
+      "Zhaoyang Zhang",
+      "Peng Xu",
+      "Lirui Zhao",
+      "Zhiqiang Li",
+      "Kaipeng Zhang",
+      "Peng Gao",
+      "Y. Qiao",
+      "Ping Luo"
+    ],
+    "publication_date": "2023-08-25",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "eb2c2330177f765038a2b17e2ee3498965865797",
+    "corpus_id": 261214575,
+    "category": "Computer Science"
+  },
+  "2308-03303": {
+    "title": "LoRA-FA: Memory-efficient Low-rank Adaptation for Large Language Models Fine-tuning",
+    "authors": [
+      "Longteng Zhang",
+      "Lin Zhang",
+      "S. Shi",
+      "X. Chu",
+      "Bo Li"
+    ],
+    "publication_date": "2023-08-07",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "8ce219059d777c2333ee21cb2af2aad71275c98f",
+    "corpus_id": 260683267,
+    "category": "Computer Science"
+  },
+  "2307-09288": {
+    "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models",
+    "authors": [
+      "Hugo Touvron",
+      "Louis Martin",
+      "Kevin R. Stone",
+      "Peter Albert",
+      "Amjad Almahairi",
+      "Yasmine Babaei",
+      "Niko-lay Bashlykov",
+      "Soumya Batra",
+      "Prajjwal Bhargava",
+      "Shruti Bhosale",
+      "D. Bikel",
+      "Lukas Blecher",
+      "Cris-tian Cantón Ferrer",
+      "Moya Chen",
+      "Guillem Cucurull",
+      "David Esiobu",
+      "Jude Fernandes",
+      "J. Fu",
+      "Wenyin Fu",
+      "Brian Fuller",
+      "Cynthia Gao",
+      "Vedanuj Goswami",
+      "Naman Goyal",
+      "A. Hartshorn",
+      "Saghar Hosseini",
+      "Rui Hou",
+      "Hakan Inan",
+      "Marcin Kardas",
+      "Viktor Kerkez",
+      "Madian Khabsa",
+      "Isabel M. Kloumann",
+      "A. Korenev",
+      "Punit Singh Koura",
+      "M. Lachaux",
+      "Thibaut Lavril",
+      "Jenya Lee",
+      "Diana Liskovich",
+      "Yinghai Lu",
+      "Yuning Mao",
+      "Xavier Martinet",
+      "Todor Mihaylov",
+      "Pushkar Mishra",
+      "Igor Molybog",
+      "Yixin Nie",
+      "Andrew Poulton",
+      "J. Reizenstein",
+      "Rashi Rungta",
+      "Kalyan Saladi",
+      "A. Schelten",
+      "Ruan Silva",
+      "Eric Michael Smith",
+      "R. Subramanian",
+      "Xia Tan",
+      "Binh Tang",
+      "Ross Taylor",
+      "Adina Williams",
+      "Jian Xiang Kuan",
+      "Puxin Xu",
+      "Zhengxu Yan",
+      "Iliyan Zarov",
+      "Yuchen Zhang",
+      "Angela Fan",
+      "M. Kambadur",
+      "Sharan Narang",
+      "Aur'elien Rodriguez",
+      "Robert Stojnic",
+      "Sergey Edunov",
+      "Thomas Scialom"
+    ],
+    "publication_date": "2023-07-18",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "104b0bb1da562d53cbda87aec79ef6a2827d191a",
+    "corpus_id": 259950998,
+    "category": "Computer Science"
+  },
+  "2306-05685": {
+    "title": "Judging LLM-as-a-judge with MT-Bench and Chatbot Arena",
+    "authors": [
+      "Lianmin Zheng",
+      "Wei-Lin Chiang",
+      "Ying Sheng",
+      "Siyuan Zhuang",
+      "Zhanghao Wu",
+      "Yonghao Zhuang",
+      "Zi Lin",
+      "Zhuohan Li",
+      "Dacheng Li",
+      "E. Xing",
+      "Haotong Zhang",
+      "Joseph E. Gonzalez",
+      "Ion Stoica"
+    ],
+    "publication_date": "2023-06-09",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "a0a79dad89857a96f8f71b14238e5237cbfc4787",
+    "corpus_id": 259129398,
+    "category": "Computer Science"
+  },
+  "2305-14314": {
+    "title": "QLoRA: Efficient Finetuning of Quantized LLMs",
+    "authors": [
+      "Tim Dettmers",
+      "Artidoro Pagnoni",
+      "Ari Holtzman",
+      "Luke Zettlemoyer"
+    ],
+    "publication_date": "2023-05-23",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "32ac52069e562d4f900afee70bdca63f53461481",
+    "corpus_id": 258841328,
+    "category": "Computer Science"
+  },
+  "2303-10512": {
+    "title": "AdaLoRA: Adaptive Budget Allocation for Parameter-Efficient Fine-Tuning",
+    "authors": [
+      "Qingru Zhang",
+      "Minshuo Chen",
+      "Alexander Bukharin",
+      "Nikos Karampatziakis",
+      "Pengcheng He",
+      "Yu Cheng",
+      "Weizhu Chen",
+      "Tuo Zhao"
+    ],
+    "publication_date": "2023-03-18",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "b612fc6af23cccf2133c2ea40597453ab40dc2c3",
+    "corpus_id": 266435293,
+    "category": "Computer Science"
+  },
+  "2302-03773": {
+    "title": "What Matters In The Structured Pruning of Generative Language Models?",
+    "authors": [
+      "Michael Santacroce",
+      "Zixin Wen",
+      "Yelong Shen",
+      "Yuan-Fang Li"
+    ],
+    "publication_date": "2023-02-07",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "ae3ac5509c445327a23431409624a1333aa825b0",
+    "corpus_id": 256662734,
+    "category": "Computer Science"
+  },
+  "2301-07069": {
+    "title": "Prompting Large Language Model for Machine Translation: A Case Study",
+    "authors": [
+      "Biao Zhang",
+      "B. Haddow",
+      "Alexandra Birch"
+    ],
+    "publication_date": "2023-01-17",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "c879413103f8950bdd414c7f60a39bd7748c9be8",
+    "corpus_id": 255942578,
+    "category": "Computer Science"
+  },
+  "2301-00774": {
+    "title": "SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot",
+    "authors": [
+      "Elias Frantar",
+      "Dan Alistarh"
+    ],
+    "publication_date": "2023-01-02",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "909ad57ce8caa6b390a65ae09db352d27d8f3996",
+    "corpus_id": 255372747,
+    "category": "Computer Science"
+  },
+  "2212-11311": {
+    "title": "What do LLMs Know about Financial Markets? A Case Study on Reddit Market Sentiment Analysis",
+    "authors": [
+      "Xiang Deng",
+      "Vasilisa Bashlovkina",
+      "Feng Han",
+      "Simon Baumgartner",
+      "Michael Bendersky"
+    ],
+    "publication_date": "2022-12-21",
+    "venue": "The Web Conference",
+    "semantic_scholar_id": "52136f813243ac3de8e277906112a41590a376d4",
+    "corpus_id": 254974468,
+    "category": "Computer Science"
+  },
+  "2106-09685": {
+    "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+    "authors": [
+      "J. E. Hu",
+      "Yelong Shen",
+      "Phillip Wallis",
+      "Zeyuan Allen-Zhu",
+      "Yuanzhi Li",
+      "Shean Wang",
+      "Weizhu Chen"
+    ],
+    "publication_date": "2021-06-17",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "a8ca46b171467ceb2d7652fbfb67fe701ad86092",
+    "corpus_id": 235458009,
+    "category": "Computer Science"
+  },
+  "1909-05840": {
+    "title": "Q-BERT: Hessian Based Ultra Low Precision Quantization of BERT",
+    "authors": [
+      "Sheng Shen",
+      "Zhen Dong",
+      "Jiayu Ye",
+      "Linjian Ma",
+      "Z. Yao",
+      "A. Gholami",
+      "Michael W. Mahoney",
+      "K. Keutzer"
+    ],
+    "publication_date": "2019-09-12",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "745e4b36a1759177871288cae51fbae0b873b5e5",
+    "corpus_id": 202565587,
+    "category": "Computer Science"
+  },
+  "1905-10044": {
+    "title": "BoolQ: Exploring the Surprising Difficulty of Natural Yes/No Questions",
+    "authors": [
+      "Christopher Clark",
+      "Kenton Lee",
+      "Ming-Wei Chang",
+      "T. Kwiatkowski",
+      "Michael Collins",
+      "Kristina Toutanova"
+    ],
+    "publication_date": "2019-05-01",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "9770fff7379a7ab9006b48939462354dda9a2053",
+    "corpus_id": 165163607,
+    "category": "Computer Science"
+  },
+  "1905-07830": {
+    "title": "HellaSwag: Can a Machine Really Finish Your Sentence?",
+    "authors": [
+      "Rowan Zellers",
+      "Ari Holtzman",
+      "Yonatan Bisk",
+      "Ali Farhadi",
+      "Yejin Choi"
+    ],
+    "publication_date": "2019-05-01",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "8b0f27bb594b1eaaf493eaf1e2ee723a2b0a19ad",
+    "corpus_id": 159041722,
+    "category": "Computer Science"
+  },
+  "1902-00751": {
+    "title": "Parameter-Efficient Transfer Learning for NLP",
+    "authors": [
+      "N. Houlsby",
+      "A. Giurgiu",
+      "Stanislaw Jastrzebski",
+      "Bruna Morrone",
+      "Quentin de Laroussilhe",
+      "Andrea Gesmundo",
+      "Mona Attariyan",
+      "S. Gelly"
+    ],
+    "publication_date": "2019-02-02",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "29ddc1f43f28af7c846515e32cc167bc66886d0c",
+    "corpus_id": 59599816,
+    "category": "Computer Science, Mathematics"
+  },
+  "1809-02789": {
+    "title": "Can a Suit of Armor Conduct Electricity? A New Dataset for Open Book Question Answering",
+    "authors": [
+      "Todor Mihaylov",
+      "Peter Clark",
+      "Tushar Khot",
+      "Ashish Sabharwal"
+    ],
+    "publication_date": "2018-08-13",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "1536e8958697c5364f68b2e2448905dbbeb3a0ca",
+    "corpus_id": 52183757,
+    "category": "Computer Science"
+  },
+  "1803-05457": {
+    "title": "Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge",
+    "authors": [
+      "Peter Clark",
+      "Isaac Cowhey",
+      "Oren Etzioni",
+      "Tushar Khot",
+      "Ashish Sabharwal",
+      "Carissa Schoenick",
+      "Oyvind Tafjord"
+    ],
+    "publication_date": "2018-03-14",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "88bb0a28bb58d847183ec505dda89b63771bb495",
+    "corpus_id": 3922816,
+    "category": "Computer Science"
+  }
+}

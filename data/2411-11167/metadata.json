@@ -1,0 +1,15 @@
+{
+  "title": "Feature Selection Approaches for Newborn Birthweight Prediction in Multiple Linear Regression Models",
+  "authors": [
+    "Esther Liu",
+    "Pei Xi Lin",
+    "Qianqi Wang",
+    "Karina Chen Feng"
+  ],
+  "summary": "This project is based on the dataset \"exposome_NA.RData\", which contains a subcohort of 1301 mother-child pairs who were enrolled into the HELIX study during pregnancy. Several health outcomes were measured on the child at birth or at age 6-11 years, taking environmental exposures of interest and other covariates into account. This report outlines the process of obtaining the best MLR model with optimal predictive power. We first obtain three candidate models we obtained from the forward selection, backward elimination and stepwise selection, and select the optimal model using various comparison schemes including AIC, Adjusted R^2 and cross-validation for 8000 repetitions. The report ended with some additional findings revealed by the selected model, along with restrictions on the method we use in the model selection process.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

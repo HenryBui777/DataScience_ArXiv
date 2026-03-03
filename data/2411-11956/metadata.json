@@ -1,0 +1,23 @@
+{
+  "title": "Mining for Protoclusters at $z\\sim4$ from Photometric Datasets with Deep Learning",
+  "authors": [
+    "Yoshihiro Takeda",
+    "Nobunari Kashikawa",
+    "Kei Ito",
+    "Jun Toshikawa",
+    "Rieko Momose",
+    "Kent Fujiwara",
+    "Yongming Liang",
+    "Rikako Ishimoto",
+    "Takehiro Yoshioka",
+    "Junya Arita",
+    "Mariko Kubo",
+    "Hisakazu Uchiyama"
+  ],
+  "summary": "Protoclusters are high-$z$ overdense regions that will evolve into clusters of galaxies by $z=0$, making them ideal for studying galaxy evolution expected to be accelerated by environmental effects. However, it has been challenging to identify protoclusters beyond $z=3$ only by photometry due to large redshift uncertainties, hindering statistical study. To tackle the issue, we develop a new deep-learning-based protocluster detection model, PCFNet, which considers a protocluster as a point cloud. To detect protoclusters at $z\\sim4$ using only optical broad-band photometry, we train and evaluate PCFNet with mock $g$-dropout galaxies based on the N-body simulation with the semi-analytic model. We use the sky distribution, $i$-band magnitude, $(g-i)$ color, and the redshift probability density function surrounding a target galaxy on the sky. PCFNet achieves to detect five times more protocluster member candidates while maintaining high purity (recall $=7.5\\pm0.2$%, precision $=44\\pm1$%) than conventional methods. Moreover, PCFNet is able to detect more progenitors ($M_\\mathrm{halo}^{z=0}=10^{14-14.5}\\,M_\\odot$) that are less massive than supermassive clusters like the Coma cluster. We apply PCFNet to the observational photometric dataset of the HSC-SSP Deep/UltraDeep layer ($\\sim17\\mathrm{\\,deg^2}$) and detect $121$ protocluster candidates at $z\\sim4$. We find the rest-UV luminosities of our protocluster member candidates are brighter than those of field galaxies, which is consistent with previous studies. Additionally, the quenching of satellite galaxies depends on both the core galaxy's halo mass at $z\\sim4$ and accumulated mass until $z=0$ in the simulation. PCFNet is very flexible and can find protoclusters at other redshifts or in future extensive surveys by Euclid, LSST, and Roman.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.GA, astro-ph.IM"
+}

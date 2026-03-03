@@ -1,0 +1,14 @@
+{
+  "title": "Classification of Geographical Land Structure Using Convolution Neural Network and Transfer Learning",
+  "authors": [
+    "Mustafa M. Abd Zaid",
+    "Ahmed Abed Mohammed",
+    "Putra Sumari"
+  ],
+  "summary": "Satellite imagery has dramatically revolutionized the field of geography by giving academics, scientists, and policymakers unprecedented global access to spatial data. Manual methods typically require significant time and effort to detect the generic land structure in satellite images. This study can produce a set of applications such as urban planning and development, environmental monitoring, disaster management, etc. Therefore, the research presents a methodology to minimize human labor, reducing the expenses and duration needed to identify the land structure. This article developed a deep learning-based approach to automate the process of classifying geographical land structures. We used a satellite image dataset acquired from MLRSNet. The study compared the performance of three architectures, namely CNN, ResNet-50, and Inception-v3. We used three optimizers with any model: Adam, SGD, and RMSProp. We conduct the training process for a fixed number of epochs, specifically 100 epochs, with a batch size of 64. The ResNet-50 achieved an accuracy of 76.5% with the ADAM optimizer, the Inception-v3 with RMSProp achieved an accuracy of 93.8%, and the proposed approach, CNN with RMSProp optimizer, achieved the highest level of performance and an accuracy of 94.8%. Moreover, a thorough examination of the CNN model demonstrated its exceptional accuracy, recall, and F1 scores for all categories, confirming its resilience and dependability in precisely detecting various terrain formations. The results highlight the potential of deep learning models in scene understanding, as well as their significance in efficiently identifying and categorizing land structures from satellite imagery.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "J. Comput. Sci., 20(12), 1580-1592, 2024",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "OminiControl: Minimal and Universal Control for Diffusion Transformer",
+  "authors": [
+    "Zhenxiong Tan",
+    "Songhua Liu",
+    "Xingyi Yang",
+    "Qiaochu Xue",
+    "Xinchao Wang"
+  ],
+  "summary": "We present OminiControl, a novel approach that rethinks how image conditions are integrated into Diffusion Transformer (DiT) architectures. Current image conditioning methods either introduce substantial parameter overhead or handle only specific control tasks effectively, limiting their practical versatility. OminiControl addresses these limitations through three key innovations: (1) a minimal architectural design that leverages the DiT's own VAE encoder and transformer blocks, requiring just 0.1% additional parameters; (2) a unified sequence processing strategy that combines condition tokens with image tokens for flexible token interactions; and (3) a dynamic position encoding mechanism that adapts to both spatially-aligned and non-aligned control tasks. Our extensive experiments show that this streamlined approach not only matches but surpasses the performance of specialized methods across multiple conditioning tasks. To overcome data limitations in subject-driven generation, we also introduce Subjects200K, a large-scale dataset of identity-consistent image pairs synthesized using DiT models themselves. This work demonstrates that effective image control can be achieved without architectural complexity, opening new possibilities for efficient and versatile image generation systems.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-11-25",
+    "2024-12-02",
+    "2025-01-15",
+    "2025-03-11",
+    "2025-07-07"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI, cs.LG"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Bayesian \"Deep\" Process Convolutions: An Application in Cosmology",
+  "authors": [
+    "Kelly R. Moran",
+    "Richard Payne",
+    "Earl Lawrence",
+    "David Higdon",
+    "Stephen A. Walsh",
+    "Annie S. Booth",
+    "Juliana Kwan",
+    "Amber Day",
+    "Salman Habib",
+    "Katrin Heitmann"
+  ],
+  "summary": "The nonlinear matter power spectrum in cosmology describes how matter density fluctuations vary with scale in the universe, providing critical insights into large-scale structure formation. The matter power spectrum includes both smooth regions and highly oscillatory features. Cosmologists rely on noisy, multi-resolution realizations of large N-body simulations to study these phenomena, which require appropriate smoothing techniques to learn about underlying structures. We introduce a Bayesian Deep Process Convolution (DPC) model that flexibly adapts its smoothness parameter across the input space, enabling it to capture both smooth and variable structure within a single framework. The DPC model leverages common patterns across related functions to improve estimation in regions with sparse data. Compared to existing methods, the DPC model offers superior accuracy and uncertainty quantification in simulated data, and qualitatively superior performance with the cosmological data. This methodology will be useful in cosmology and other fields requiring flexible modeling of smooth nonstationary surfaces.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.CO, astro-ph.IM, stat.AP"
+}

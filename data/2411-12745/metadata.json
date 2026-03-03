@@ -1,0 +1,17 @@
+{
+  "title": "Each generic polytope in $\\mathbb{R}^3$ has a point with ten normals to the boundary",
+  "authors": [
+    "Ivan Nasonov",
+    "Gaiane Panina"
+  ],
+  "summary": "It is conjectured since long that each smooth convex body $\\mathbf{P}\\subset \\mathbb{R}^n$ has a point in its interior which belongs to at least $2n$ normals from different points on the boundary of $\\mathbf{P}$. The conjecture is proven for $n=2,3,4$. We treat the same problem for convex polytopes in $\\mathbb{R}^3$ and prove that each generic polytope has a point in its interior with at least $10$ normals to the boundary. This bound is exact: there exists a tetrahedron with no more than $10$ normals emanating from a point in its interior.\n  The proof is based on piecewise linear analog of Morse theory, analysis of bifurcations, and some combinatorial tricks.",
+  "submission_date": "2024-10-30",
+  "revised_dates": [
+    "2024-12-20",
+    "2025-03-13",
+    "2025-09-10"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.MG"
+}

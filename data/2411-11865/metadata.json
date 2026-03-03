@@ -1,0 +1,13 @@
+{
+  "title": "Numerical Modeling of Liquid Wall Flows for Fusion Energy Applications Using Maxwell-Navier-Stokes Equations",
+  "authors": [
+    "Suresh Murugaiyan",
+    "Stefano Brizzolara"
+  ],
+  "summary": "During the Z-Pinch fusion process, electric current is injected into liquid metal from the plasma column, generating Lorentz forces that deform the liquid metal's free surface. Modeling this phenomenon is essential for assessing the feasibility of using liquid metal as an electrode wall in fusion devices. Traditionally, such problems, where liquid metal is exposed to electromagnetic forces, are modeled using magneto-hydrodynamic (MHD) formulation, which is more suitable for cases without external electric current penetration into liquid metals. MHD formulation typically models situations where liquid metal flows in the presence of an external magnetic field, with the initial magnetic field known and evolving over time via the magnetic induction equation. However, in Z-Pinch fusion devices, the electric current penetrates and traverses through the liquid metal, necessitating numerical calculations for the initial magnetic field. Additionally, the deformation of the liquid metal surface alters the current path's geometry and the resulting magnetic field, rendering traditional MHD formulations unsuitable. This work addresses this issue by directly solving Maxwell's equations, instead of the magnetic induction equation, in combination with Navier-Stokes equations, making it possible to predict the magnetic field even when the fluid is in motion. The Maxwell equations are solved in potential formulation alongside Navier-Stokes equations using a finite volume numerical method on a collocated grid arrangement. This proposed numerical framework successfully captures the deformation of the liquid metal's free surface due to the applied electric current.",
+  "submission_date": "2024-11-02",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.comp-ph"
+}

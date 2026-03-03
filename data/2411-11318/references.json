@@ -1,0 +1,1284 @@
+{
+  "2408-15099": {
+    "title": "No Regrets: Investigating and Improving Regret Approximations for Curriculum Discovery",
+    "authors": [
+      "Alex Rutherford",
+      "Michael Beukman",
+      "Timon Willi",
+      "Bruno Lacerda",
+      "Nick Hawes",
+      "Jakob Foerster"
+    ],
+    "publication_date": "2024-08-27",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "1b659f619be575bbe6e2fdac00460c9c9c7fcf23",
+    "corpus_id": 271963261,
+    "category": "Computer Science"
+  },
+  "2408-01072": {
+    "title": "A Survey on Self-play Methods in Reinforcement Learning",
+    "authors": [
+      "Ruize Zhang",
+      "Zelai Xu",
+      "Chengdong Ma",
+      "Chao Yu",
+      "Weijuan Tu",
+      "Shiyu Huang",
+      "Deheng Ye",
+      "Wenbo Ding",
+      "Yaodong Yang",
+      "Yu Wang"
+    ],
+    "publication_date": "2024-08-02",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "c08aa4d4c0148ca2e198550ef78c7e444de1fc2c",
+    "corpus_id": 271693593,
+    "category": "Computer Science"
+  },
+  "2407-17032": {
+    "title": "Gymnasium: A Standard Interface for Reinforcement Learning Environments",
+    "authors": [
+      "Mark Towers",
+      "Ariel Kwiatkowski",
+      "Jordan K. Terry",
+      "John U. Balis",
+      "Gianluca De Cola",
+      "T. Deleu",
+      "Manuel Goulão",
+      "Andreas Kallinteris",
+      "Markus Krimmel",
+      "KG Arjun",
+      "Rodrigo Perez-Vicente",
+      "Andrea Pierr'e",
+      "Sander Schulhoff",
+      "Jun Jet Tai",
+      "Hannah Tan",
+      "Omar G. Younis"
+    ],
+    "publication_date": "2024-07-24",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "cafe66a9bdcef9ec43c91d57ece9087203b0a0e3",
+    "corpus_id": 271404597,
+    "category": "Computer Science"
+  },
+  "2406-12905": {
+    "title": "PufferLib: Making Reinforcement Learning Libraries and Environments Play Nice",
+    "authors": [
+      "Joseph Suarez"
+    ],
+    "publication_date": "2024-06-11",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "99895471004d5dac8f55f4c6a7b45aae8af27c4b",
+    "corpus_id": 270620757,
+    "category": "Computer Science"
+  },
+  "2405-19548": {
+    "title": "RLeXplore: Accelerating Research in Intrinsically-Motivated Reinforcement Learning",
+    "authors": [
+      "Mingqi Yuan",
+      "Roger Creus Castanyer",
+      "Bo Li",
+      "Xin Jin",
+      "Glen Berseth",
+      "Wenjun Zeng"
+    ],
+    "publication_date": "2024-05-29",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "769d8fdf6520c52e8767ee6d54f6417cf6e7904e",
+    "corpus_id": 270123830,
+    "category": "Computer Science"
+  },
+  "2405-15568": {
+    "title": "OMNI-EPIC: Open-endedness via Models of human Notions of Interestingness with Environments Programmed in Code",
+    "authors": [
+      "Maxence Faldor",
+      "Jenny Zhang",
+      "Antoine Cully",
+      "Jeff Clune"
+    ],
+    "publication_date": "2024-05-24",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "f3c1a169a7980a1b257f0831685dfbe6d78128fd",
+    "corpus_id": 270045274,
+    "category": "Computer Science"
+  },
+  "2403-13091": {
+    "title": "JaxUED: A simple and useable UED library in Jax",
+    "authors": [
+      "Samuel Coward",
+      "Michael Beukman",
+      "Jakob Foerster"
+    ],
+    "publication_date": "2024-03-19",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "cbffb28cde9b3ef2d95e28c9a9f3acba13bf28b8",
+    "corpus_id": 268536704,
+    "category": "Computer Science"
+  },
+  "2402-12284": {
+    "title": "Refining Minimax Regret for Unsupervised Environment Design",
+    "authors": [
+      "Michael Beukman",
+      "Samuel Coward",
+      "Michael Matthews",
+      "Mattie Fellows",
+      "Minqi Jiang",
+      "Michael Dennis",
+      "Jakob Foerster"
+    ],
+    "publication_date": "2024-02-19",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "2e1931dc2df81877bca8eeeafc1958c9b4536551",
+    "corpus_id": 267751241,
+    "category": "Computer Science"
+  },
+  "2402-03046": {
+    "title": "Open RL Benchmark: Comprehensive Tracked Experiments for Reinforcement Learning",
+    "authors": [
+      "Shengyi Huang",
+      "Quentin Gallou'edec",
+      "Florian Felten",
+      "A. Raffin",
+      "Rousslan Fernand Julien Dossa",
+      "Yanxiao Zhao",
+      "Ryan Sullivan",
+      "Viktor Makoviychuk",
+      "Denys Makoviichuk",
+      "Mohamad H. Danesh",
+      "Cyril Roum'egous",
+      "Jiayi Weng",
+      "Chufan Chen",
+      "Md Masudur Rahman",
+      "J. Ara'ujo",
+      "Guorui Quan",
+      "Daniel Tan",
+      "Timo Klein",
+      "Rujikorn Charakorn",
+      "Mark Towers",
+      "Yann Berthelot",
+      "Kinal Mehta",
+      "Dipam Chakraborty",
+      "KG Arjun",
+      "Valentin Charraut",
+      "Chang Ye",
+      "Zichen Liu",
+      "L. N. Alegre",
+      "Alexander Nikulin",
+      "Xiao Hu",
+      "Tianlin Liu",
+      "Jongwook Choi",
+      "Brent Yi"
+    ],
+    "publication_date": "2024-02-05",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "1534e61127deefaaa93fbbd4e7b08ee1dff6b726",
+    "corpus_id": 267412496,
+    "category": "Computer Science"
+  },
+  "2312-12044": {
+    "title": "XLand-MiniGrid: Scalable Meta-Reinforcement Learning Environments in JAX",
+    "authors": [
+      "Alexander Nikulin",
+      "Vladislav Kurenkov",
+      "Ilya Zisman",
+      "Artem Agarkov",
+      "Viacheslav Sinii",
+      "Sergey Kolesnikov"
+    ],
+    "publication_date": "2023-12-19",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "317c7e5bb76ae979f916abdd3cd48b40aa431e11",
+    "corpus_id": 266362777,
+    "category": "Computer Science"
+  },
+  "2311-03736": {
+    "title": "Neural MMO 2.0: A Massively Multi-task Addition to Massively Multi-agent Learning",
+    "authors": [
+      "Joseph Su'arez",
+      "Phillip Isola",
+      "Kyoung Whan Choe",
+      "David Bloomin",
+      "Hao Xiang Li",
+      "Nikhil Pinnaparaju",
+      "Nishaanth Kanna",
+      "Daniel Scott",
+      "Ryan Sullivan",
+      "Rose S. Shuman",
+      "Lucas de Alcantara",
+      "Herbie Bradley",
+      "Louis Castricato",
+      "Kirsty You",
+      "Yuhao Jiang",
+      "Qimai Li",
+      "Jiaxin Chen",
+      "Xiaolong Zhu"
+    ],
+    "publication_date": "2023-11-07",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "ff17ed880fb3e6f0a91d11ca630be6d9ca76172c",
+    "corpus_id": 265043315,
+    "category": "Computer Science"
+  },
+  "2310-02782": {
+    "title": "Discovering General Reinforcement Learning Algorithms with Adversarial Environment Design",
+    "authors": [
+      "Matthew Jackson",
+      "Minqi Jiang",
+      "Jack Parker-Holder",
+      "Risto Vuorio",
+      "Chris Lu",
+      "Gregory Farquhar",
+      "S. Whiteson",
+      "J. Foerster"
+    ],
+    "publication_date": "2023-10-04",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "7afb8a00b808d6dc43cef350450f46e443329e67",
+    "corpus_id": 263620581,
+    "category": "Computer Science"
+  },
+  "2308-10797": {
+    "title": "Stabilizing Unsupervised Environment Design with a Learned Adversary",
+    "authors": [
+      "Ishita Mediratta",
+      "Minqi Jiang",
+      "Jack Parker-Holder",
+      "Michael Dennis",
+      "Eugene Vinitsky",
+      "Tim Rocktaschel"
+    ],
+    "publication_date": "2023-08-21",
+    "venue": "CoLLAs",
+    "semantic_scholar_id": "188c893037cd2c14ac39f21d0d7cc29ad01aceac",
+    "corpus_id": 261049541,
+    "category": "Computer Science"
+  },
+  "2306-01711": {
+    "title": "OMNI: Open-endedness via Models of human Notions of Interestingness",
+    "authors": [
+      "Jenny Zhang",
+      "J. Lehman",
+      "Kenneth O. Stanley",
+      "J. Clune"
+    ],
+    "publication_date": "2023-06-02",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "45f1dbf9ccc10fd0a46268967582c835866d788d",
+    "corpus_id": 259064135,
+    "category": "Computer Science"
+  },
+  "2305-19240": {
+    "title": "NetHack is Hard to Hack",
+    "authors": [
+      "Ulyana Piterbarg",
+      "Lerrel Pinto",
+      "R. Fergus"
+    ],
+    "publication_date": "2023-05-30",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "22eb318dece425ebe4d84aa8195733f19da3f794",
+    "corpus_id": 258967721,
+    "category": "Computer Science"
+  },
+  "2305-12487": {
+    "title": "Augmenting Autotelic Agents with Large Language Models",
+    "authors": [
+      "Cédric Colas",
+      "Laetitia Teodorescu",
+      "Pierre-Yves Oudeyer",
+      "Xingdi Yuan",
+      "Marc-Alexandre Côté"
+    ],
+    "publication_date": "2023-05-21",
+    "venue": "CoLLAs",
+    "semantic_scholar_id": "98c328c9a48b2a404e2704c1d73f2daef3da854e",
+    "corpus_id": 258832563,
+    "category": "Computer Science"
+  },
+  "2304-12877": {
+    "title": "Proximal Curriculum for Reinforcement Learning Agents",
+    "authors": [
+      "Georgios Tzannetos",
+      "Bárbara Gomes Ribeiro",
+      "Parameswaran Kamalaruban",
+      "A. Singla"
+    ],
+    "publication_date": "2023-04-25",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "8f160848f3c296a8c106512fb6f534bbeea5dd5b",
+    "corpus_id": 258309175,
+    "category": "Computer Science"
+  },
+  "2303-03376": {
+    "title": "MAESTRO: Open-Ended Environment Design for Multi-Agent Reinforcement Learning",
+    "authors": [
+      "Mikayel Samvelyan",
+      "Akbir Khan",
+      "Michael Dennis",
+      "Minqi Jiang",
+      "Jack Parker-Holder",
+      "J. Foerster",
+      "R. Raileanu",
+      "Tim Rocktaschel"
+    ],
+    "publication_date": "2023-03-06",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "84a0c5ee814b88d8f422e928c004658a981bd373",
+    "corpus_id": 257364778,
+    "category": "Computer Science"
+  },
+  "2302-06692": {
+    "title": "Guiding Pretraining in Reinforcement Learning with Large Language Models",
+    "authors": [
+      "Yuqing Du",
+      "Olivia Watkins",
+      "Wang",
+      "Cédric Colas",
+      "Trevor Darrell",
+      "P. Abbeel",
+      "Abhishek Gupta",
+      "Jacob Andreas"
+    ],
+    "publication_date": "2023-02-13",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "89e184d2bc830af568e439db9476caa0c047e11a",
+    "corpus_id": 256846700,
+    "category": "Computer Science"
+  },
+  "2301-07608": {
+    "title": "Human-Timescale Adaptation in an Open-Ended Task Space",
+    "authors": [
+      "Adaptive Agent Team",
+      "Jakob Bauer",
+      "Kate Baumli",
+      "Satinder Baveja",
+      "Feryal M. P. Behbahani",
+      "Avishkar Bhoopchand",
+      "N. Bradley-Schmieg",
+      "Michael Chang",
+      "Natalie Clay",
+      "Adrian Collister",
+      "Vibhavari Dasagi",
+      "Lucy Gonzalez",
+      "Karol Gregor",
+      "Edward Hughes",
+      "Sheleem Kashem",
+      "Maria Loks-Thompson",
+      "Hannah Openshaw",
+      "Jack Parker-Holder",
+      "Shreyaan Pathak",
+      "Nicolas Perez Nieves",
+      "Nemanja Rakicevic",
+      "Tim Rocktäschel",
+      "Yannick Schroecker",
+      "Jakub Sygnowski",
+      "K. Tuyls",
+      "Sarah York",
+      "Alexander Zacherl",
+      "Lei M. Zhang"
+    ],
+    "publication_date": "2023-01-18",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "bfe6fd05f09647b001c7eb6e333a95c881c88344",
+    "corpus_id": 255998274,
+    "category": "Computer Science"
+  },
+  "2211-00539": {
+    "title": "Dungeons and Data: A Large-Scale NetHack Dataset",
+    "authors": [
+      "Eric Hambro",
+      "R. Raileanu",
+      "Dan Rothermel",
+      "Vegard Mella",
+      "Tim Rocktäschel",
+      "Heinrich Küttler",
+      "Naila Murray"
+    ],
+    "publication_date": "2022-11-01",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "a6c6e464b2ab15bb04176c26da3816d4038d5176",
+    "corpus_id": 253244299,
+    "category": "Computer Science"
+  },
+  "2210-05805": {
+    "title": "Exploration via Elliptical Episodic Bonuses",
+    "authors": [
+      "Mikael Henaff",
+      "R. Raileanu",
+      "Minqi Jiang",
+      "Tim Rocktäschel"
+    ],
+    "publication_date": "2022-10-11",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "0351a103915d2f10d1915b4892a988d9b15df406",
+    "corpus_id": 252846562,
+    "category": "Computer Science"
+  },
+  "2206-08853": {
+    "title": "MineDojo: Building Open-Ended Embodied Agents with Internet-Scale Knowledge",
+    "authors": [
+      "Linxi (Jim) Fan",
+      "Guanzhi Wang",
+      "Yunfan Jiang",
+      "Ajay Mandlekar",
+      "Yuncong Yang",
+      "Haoyi Zhu",
+      "Andrew Tang",
+      "De-An Huang",
+      "Yuke Zhu",
+      "Anima Anandkumar"
+    ],
+    "publication_date": "2022-06-17",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "32c9b3859086d15184989454eb878638659e64c6",
+    "corpus_id": 249848263,
+    "category": "Computer Science"
+  },
+  "2204-13250": {
+    "title": "Watts: Infrastructure for Open-Ended Learning",
+    "authors": [
+      "Aaron Dharna",
+      "Charlie Summers",
+      "Rohin Dasari",
+      "J. Togelius",
+      "Amy K. Hoover"
+    ],
+    "publication_date": "2022-04-28",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "69df8245422401c1ef04cbc7beb6f90a10f28c31",
+    "corpus_id": 248427160,
+    "category": "Computer Science"
+  },
+  "2203-11889": {
+    "title": "Insights From the NeurIPS 2021 NetHack Challenge",
+    "authors": [
+      "Eric Hambro",
+      "S. Mohanty",
+      "Dmitrii Babaev",
+      "Mi-Ra Byeon",
+      "Dipam Chakraborty",
+      "Edward Grefenstette",
+      "Minqi Jiang",
+      "DaeJin Jo",
+      "A. Kanervisto",
+      "Jongmin Kim",
+      "Sungwoong Kim",
+      "Robert Kirk",
+      "Vitaly Kurin",
+      "Heinrich Kuttler",
+      "Taehwon Kwon",
+      "Donghoon Lee",
+      "Vegard Mella",
+      "Nantas Nardelli",
+      "I. Nazarov",
+      "Nikita Ovsov",
+      "Jack Parker-Holder",
+      "R. Raileanu",
+      "Karolis Ramanauskas",
+      "Tim Rocktaschel",
+      "Dan Rothermel",
+      "Mikayel Samvelyan",
+      "Dmitry Sorokin",
+      "Maciej Sypetkowski",
+      "Michal Sypetkowski"
+    ],
+    "publication_date": "2022-03-22",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "bfe49426a90213a1591e125d299b13bbfafa8c0a",
+    "corpus_id": 247596976,
+    "category": "Computer Science, Mathematics"
+  },
+  "2203-01302": {
+    "title": "Evolving Curricula with Regret-Based Environment Design",
+    "authors": [
+      "Jack Parker-Holder",
+      "Minqi Jiang",
+      "Michael Dennis",
+      "Mikayel Samvelyan",
+      "J. Foerster",
+      "Edward Grefenstette",
+      "Tim Rocktaschel"
+    ],
+    "publication_date": "2022-03-02",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "e016b35c422e94b302f9f6d0508b47469aa0b189",
+    "corpus_id": 247218125,
+    "category": "Computer Science"
+  },
+  "2202-10608": {
+    "title": "It Takes Four to Tango: Multiagent Selfplay for Automatic Curriculum Generation",
+    "authors": [
+      "Yuqing Du",
+      "P. Abbeel",
+      "Aditya Grover"
+    ],
+    "publication_date": "2022-02-22",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "9fc6b6d3fead719cdc95263e62209548223576d1",
+    "corpus_id": 247025766,
+    "category": "Computer Science"
+  },
+  "2110-02439": {
+    "title": "Replay-Guided Adversarial Environment Design",
+    "authors": [
+      "Minqi Jiang",
+      "Michael Dennis",
+      "Jack Parker-Holder",
+      "J. Foerster",
+      "Edward Grefenstette",
+      "Tim Rocktaschel"
+    ],
+    "publication_date": "2021-10-06",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "fdb8ccebef9f544f44cd9b88085d8ec5458b38ab",
+    "corpus_id": 238408352,
+    "category": "Computer Science"
+  },
+  "2109-06780": {
+    "title": "Benchmarking the Spectrum of Agent Capabilities",
+    "authors": [
+      "Danijar Hafner"
+    ],
+    "publication_date": "2021-09-14",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "8e128a1b2efb0ddf688902ade4405d22d5b61eec",
+    "corpus_id": 237504552,
+    "category": "Computer Science"
+  },
+  "2108-13264": {
+    "title": "Deep Reinforcement Learning at the Edge of the Statistical Precipice",
+    "authors": [
+      "Rishabh Agarwal",
+      "Max Schwarzer",
+      "P. S. Castro",
+      "Aaron C. Courville",
+      "Marc G. Bellemare"
+    ],
+    "publication_date": "2021-08-30",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "558ca2e8c7eb56edd77a52b084e6cc24dffe5bcd",
+    "corpus_id": 237353084,
+    "category": "Computer Science, Mathematics"
+  },
+  "2106-14876": {
+    "title": "Multi-task curriculum learning in a complex, visual, hard-exploration domain: Minecraft",
+    "authors": [
+      "I. Kanitscheider",
+      "Joost Huizinga",
+      "David Farhi",
+      "William H. Guss",
+      "Brandon Houghton",
+      "Raul Sampedro",
+      "Peter Zhokhov",
+      "Bowen Baker",
+      "Adrien Ecoffet",
+      "Jie Tang",
+      "Oleg Klimov",
+      "J. Clune"
+    ],
+    "publication_date": "2021-06-28",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "9ea792e78a07a30d9b2c80669e074e05dc42b7ee",
+    "corpus_id": 235658728,
+    "category": "Computer Science, Mathematics"
+  },
+  "2103-09815": {
+    "title": "TeachMyAgent: a Benchmark for Automatic Curriculum Learning in Deep RL",
+    "authors": [
+      "Clément Romac",
+      "Rémy Portelas",
+      "Katja Hofmann",
+      "Pierre-Yves Oudeyer"
+    ],
+    "publication_date": "2021-03-17",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "95523836fea59eeac6f5a09aef4a95dfdb7e880d",
+    "corpus_id": 232257651,
+    "category": "Computer Science"
+  },
+  "2101-04882": {
+    "title": "Asymmetric self-play for automatic goal discovery in robotic manipulation",
+    "authors": [
+      "OpenAI OpenAI",
+      "Matthias Plappert",
+      "Raul Sampedro",
+      "Tao Xu",
+      "Ilge Akkaya",
+      "Vineet Kosaraju",
+      "Peter Welinder",
+      "Ruben D'Sa",
+      "Arthur Petron",
+      "Henrique Pondé de Oliveira Pinto",
+      "A. Paino",
+      "Hyeonwoo Noh",
+      "Lilian Weng",
+      "Qiming Yuan",
+      "Casey Chu",
+      "Wojciech Zaremba"
+    ],
+    "publication_date": "2021-01-13",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "12ce3a14da5a7e22bcb3b14452dd9d3bb8f5cf36",
+    "corpus_id": 231592353,
+    "category": "Computer Science"
+  },
+  "2012-02096": {
+    "title": "Emergent Complexity and Zero-shot Transfer via Unsupervised Environment Design",
+    "authors": [
+      "Michael Dennis",
+      "Natasha Jaques",
+      "Eugene Vinitsky",
+      "A. Bayen",
+      "Stuart J. Russell",
+      "Andrew Critch",
+      "S. Levine"
+    ],
+    "publication_date": "2020-12-03",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "93b2788fb1f2aed0e545d9f9d7dca1c05a63208a",
+    "corpus_id": 227254851,
+    "category": "Computer Science"
+  },
+  "2011-06363": {
+    "title": "Griddly: A platform for AI research in games",
+    "authors": [
+      "Chris Bamford",
+      "Shengyi Huang",
+      "S. Lucas"
+    ],
+    "publication_date": "2020-11-12",
+    "venue": "Softw. Impacts",
+    "semantic_scholar_id": "cbfe42c3034c51336fb17ee10fbb6468ed5e38b0",
+    "corpus_id": 226306909,
+    "category": "Computer Science"
+  },
+  "2010-03934": {
+    "title": "Prioritized Level Replay",
+    "authors": [
+      "Minqi Jiang",
+      "Edward Grefenstette",
+      "Tim Rocktäschel"
+    ],
+    "publication_date": "2020-10-08",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "6999fd72868c4044e852c43a040a87a43d03ab3a",
+    "corpus_id": 222208809,
+    "category": "Computer Science"
+  },
+  "2009-14471": {
+    "title": "PettingZoo: Gym for Multi-Agent Reinforcement Learning",
+    "authors": [
+      "J. K. Terry",
+      "Benjamin Black",
+      "Nathaniel Grammel",
+      "Mario Jayakumar",
+      "Ananth Hari",
+      "Ryan Sullivan",
+      "L. Santos",
+      "Rodrigo Perez",
+      "Caroline Horsch",
+      "Clemens Dieffendahl",
+      "Niall L. Williams",
+      "Yashas Lokesh",
+      "Praveen Ravi"
+    ],
+    "publication_date": "2020-09-30",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "3a70562df004e08d91b125e6d15255e31e445efa",
+    "corpus_id": 222066674,
+    "category": "Computer Science, Mathematics"
+  },
+  "2009-07888": {
+    "title": "Transfer Learning in Deep Reinforcement Learning: A Survey",
+    "authors": [
+      "Zhuangdi Zhu",
+      "Kaixiang Lin",
+      "Anil K. Jain",
+      "Jiayu Zhou"
+    ],
+    "publication_date": "2020-09-16",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "f8492a321d66c381637b693a24af994af41b3cdf",
+    "corpus_id": 221761694,
+    "category": "Computer Science, Mathematics, Medicine"
+  },
+  "2009-04416": {
+    "title": "Phasic Policy Gradient",
+    "authors": [
+      "K. Cobbe",
+      "Jacob Hilton",
+      "Oleg Klimov",
+      "John Schulman"
+    ],
+    "publication_date": "2020-09-09",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "edc6e58257d0e1fe6512dec64c0db86d87b91564",
+    "corpus_id": 221555310,
+    "category": "Computer Science, Mathematics"
+  },
+  "2006-11751": {
+    "title": "Sample Factory: Egocentric 3D Control from Pixels at 100000 FPS with Asynchronous Reinforcement Learning",
+    "authors": [
+      "Aleksei Petrenko",
+      "Zhehui Huang",
+      "T. Kumar",
+      "G. Sukhatme",
+      "V. Koltun"
+    ],
+    "publication_date": "2020-06-21",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "efadee37d835d0352d7677da1dcd02ba2e6522b7",
+    "corpus_id": 219966552,
+    "category": "Computer Science, Mathematics"
+  },
+  "2006-13760": {
+    "title": "The NetHack Learning Environment",
+    "authors": [
+      "Heinrich Kuttler",
+      "Nantas Nardelli",
+      "Alexander H. Miller",
+      "R. Raileanu",
+      "Marco Selvatici",
+      "Edward Grefenstette",
+      "Tim Rocktäschel"
+    ],
+    "publication_date": "2020-06-01",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "822bdb6e8c39e272ebfee127666e032bd3aa0107",
+    "corpus_id": 220042384,
+    "category": "Computer Science, Mathematics"
+  },
+  "2109-11052": {
+    "title": "On Bonus Based Exploration Methods In The Arcade Learning Environment",
+    "authors": [
+      "Adrien Ali Taiga",
+      "W. Fedus",
+      "Marlos C. Machado",
+      "Aaron C. Courville",
+      "Marc G. Bellemare"
+    ],
+    "publication_date": "2020-04-30",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "2b2735cffb0d2321a456363880ff5671e80df4cb",
+    "corpus_id": 214283684,
+    "category": "Computer Science"
+  },
+  "2003-08536": {
+    "title": "Enhanced POET: Open-Ended Reinforcement Learning through Unbounded Invention of Learning Challenges and their Solutions",
+    "authors": [
+      "Rui Wang",
+      "J. Lehman",
+      "Aditya Rawal",
+      "Jiale Zhi",
+      "Yulun Li",
+      "J. Clune",
+      "Kenneth O. Stanley"
+    ],
+    "publication_date": "2020-03-19",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "917d30b3e3a5358c2553fe76aabe5a3796689dc1",
+    "corpus_id": 213175678,
+    "category": "Computer Science"
+  },
+  "2003-04664": {
+    "title": "Automatic Curriculum Learning For Deep RL: A Short Survey",
+    "authors": [
+      "Rémy Portelas",
+      "Cédric Colas",
+      "Lilian Weng",
+      "Katja Hofmann",
+      "Pierre-Yves Oudeyer"
+    ],
+    "publication_date": "2020-03-10",
+    "venue": "International Joint Conference on Artificial Intelligence",
+    "semantic_scholar_id": "3b608ce4c0d222a003d64935d3d492a62031d6dd",
+    "corpus_id": 212644660,
+    "category": "Computer Science, Mathematics"
+  },
+  "2003-04960": {
+    "title": "Curriculum Learning for Reinforcement Learning Domains: A Framework and Survey",
+    "authors": [
+      "Sanmit Narvekar",
+      "Bei Peng",
+      "M. Leonetti",
+      "Jivko Sinapov",
+      "Matthew E. Taylor",
+      "P. Stone"
+    ],
+    "publication_date": "2020-03-10",
+    "venue": "Journal of machine learning research",
+    "semantic_scholar_id": "e102cd42c402026a3862d2e60a75eed7c78860a2",
+    "corpus_id": 212657666,
+    "category": "Computer Science, Mathematics"
+  },
+  "1912-06680": {
+    "title": "Dota 2 with Large Scale Deep Reinforcement Learning",
+    "authors": [
+      "Christopher Berner",
+      "Greg Brockman",
+      "Brooke Chan",
+      "Vicki Cheung",
+      "Przemyslaw Debiak",
+      "Christy Dennison",
+      "David Farhi",
+      "Quirin Fischer",
+      "Shariq Hashme",
+      "Christopher Hesse",
+      "R. Józefowicz",
+      "Scott Gray",
+      "Catherine Olsson",
+      "J. Pachocki",
+      "Michael Petrov",
+      "Henrique Pondé de Oliveira Pinto",
+      "Jonathan Raiman",
+      "Tim Salimans",
+      "Jeremy Schlatter",
+      "Jonas Schneider",
+      "Szymon Sidor",
+      "I. Sutskever",
+      "Jie Tang",
+      "Filip Wolski",
+      "Susan Zhang"
+    ],
+    "publication_date": "2019-12-13",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "b19729b27a1b4c24b52f87308c907653300afa7f",
+    "corpus_id": 209376771,
+    "category": "Computer Science, Mathematics"
+  },
+  "1912-01588": {
+    "title": "Leveraging Procedural Generation to Benchmark Reinforcement Learning",
+    "authors": [
+      "K. Cobbe",
+      "Christopher Hesse",
+      "Jacob Hilton",
+      "John Schulman"
+    ],
+    "publication_date": "2019-12-03",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "8d814620a1ca77e745bc8a33b96b86148f2804fe",
+    "corpus_id": 208547624,
+    "category": "Computer Science, Mathematics"
+  },
+  "1910-07224": {
+    "title": "Teacher algorithms for curriculum learning of Deep RL in continuously parameterized environments",
+    "authors": [
+      "Rémy Portelas",
+      "Cédric Colas",
+      "Katja Hofmann",
+      "Pierre-Yves Oudeyer"
+    ],
+    "publication_date": "2019-10-16",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "20b9c2ea1a49ed7789b99ae4c84b1b517b65bff5",
+    "corpus_id": 204734196,
+    "category": "Computer Science, Mathematics"
+  },
+  "1910-07113": {
+    "title": "Solving Rubik's Cube with a Robot Hand",
+    "authors": [
+      "OpenAI",
+      "Ilge Akkaya",
+      "Marcin Andrychowicz",
+      "Maciek Chociej",
+      "Ma-teusz Litwin",
+      "Bob McGrew",
+      "Arthur Petron",
+      "A. Paino",
+      "Matthias Plappert",
+      "Glenn Powell",
+      "Raphael Ribas",
+      "Jonas Schneider",
+      "N. Tezak",
+      "Jerry Tworek",
+      "Peter Welinder",
+      "Lilian Weng",
+      "Qiming Yuan",
+      "Wojciech Zaremba",
+      "Lei M. Zhang"
+    ],
+    "publication_date": "2019-10-16",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "320b227027030fc291de2896fc3c6da49d7614be",
+    "corpus_id": 204734323,
+    "category": "Computer Science, Mathematics"
+  },
+  "1910-03552": {
+    "title": "TorchBeast: A PyTorch Platform for Distributed RL",
+    "authors": [
+      "Heinrich Küttler",
+      "Nantas Nardelli",
+      "Thibaut Lavril",
+      "Marco Selvatici",
+      "V. Sivakumar",
+      "Tim Rocktäschel",
+      "Edward Grefenstette"
+    ],
+    "publication_date": "2019-10-08",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "b81d6c9138a51e7e109ec59d04f22f7186b3b7dc",
+    "corpus_id": 203902638,
+    "category": "Computer Science, Mathematics"
+  },
+  "1909-12892": {
+    "title": "Automated curricula through setter-solver interactions",
+    "authors": [
+      "S. Racanière",
+      "Andrew Kyle Lampinen",
+      "Adam Santoro",
+      "David P. Reichert",
+      "Vlad Firoiu",
+      "T. Lillicrap"
+    ],
+    "publication_date": "2019-09-27",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "786de34ae1ff786c28087041395b4cbb8d9e9b92",
+    "corpus_id": 203593258,
+    "category": "Computer Science, Mathematics"
+  },
+  "1907-13440": {
+    "title": "MineRL: A Large-Scale Dataset of Minecraft Demonstrations",
+    "authors": [
+      "William H. Guss",
+      "Brandon Houghton",
+      "Nicholay Topin",
+      "Phillip Wang",
+      "Cayden R. Codel",
+      "M. Veloso",
+      "R. Salakhutdinov"
+    ],
+    "publication_date": "2019-07-29",
+    "venue": "International Joint Conference on Artificial Intelligence",
+    "semantic_scholar_id": "2c87b6b48dba6315a6581098861f8bf2994799f6",
+    "corpus_id": 199000710,
+    "category": "Computer Science, Mathematics"
+  },
+  "1904-04762": {
+    "title": "Active Domain Randomization",
+    "authors": [
+      "Bhairav Mehta",
+      "Manfred Diaz",
+      "Florian Golemo",
+      "C. Pal",
+      "L. Paull"
+    ],
+    "publication_date": "2019-04-09",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "a798fba1dc16e2046a228ae9f039c10fd9ac5d66",
+    "corpus_id": 104291994,
+    "category": "Computer Science, Mathematics"
+  },
+  "1903-00784": {
+    "title": "Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents",
+    "authors": [
+      "Joseph Suarez",
+      "Yilun Du",
+      "Phillip Isola",
+      "Igor Mordatch"
+    ],
+    "publication_date": "2019-03-02",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "2f3a9ccf16b7b3433ed2b45cd2d740a0590433da",
+    "corpus_id": 67855641,
+    "category": "Computer Science, Mathematics"
+  },
+  "1903-00742": {
+    "title": "Autocurricula and the Emergence of Innovation from Social Interaction: A Manifesto for Multi-Agent Intelligence Research",
+    "authors": [
+      "Joel Z. Leibo",
+      "Edward Hughes",
+      "Marc Lanctot",
+      "T. Graepel"
+    ],
+    "publication_date": "2019-03-02",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "260f1ee9b2fdefe885aca9232689fb36c5c2eab2",
+    "corpus_id": 67855298,
+    "category": "Computer Science, Biology"
+  },
+  "1901-01753": {
+    "title": "Paired Open-Ended Trailblazer (POET): Endlessly Generating Increasingly Complex and Diverse Learning Environments and Their Solutions",
+    "authors": [
+      "Rui Wang",
+      "J. Lehman",
+      "J. Clune",
+      "Kenneth O. Stanley"
+    ],
+    "publication_date": "2019-01-07",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "c48ca266c1e16f9adc5fb7770afd95a0feec8753",
+    "corpus_id": 57573844,
+    "category": "Computer Science"
+  },
+  "1812-03381": {
+    "title": "Learning Montezuma's Revenge from a Single Demonstration",
+    "authors": [
+      "Tim Salimans",
+      "Richard J. Chen"
+    ],
+    "publication_date": "2018-12-08",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "5d4ebbaa1ef8feeac885e2869f45c0276c18834f",
+    "corpus_id": 54463584,
+    "category": "Mathematics, Computer Science"
+  },
+  "1801-01290": {
+    "title": "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor",
+    "authors": [
+      "Tuomas Haarnoja",
+      "Aurick Zhou",
+      "P. Abbeel",
+      "S. Levine"
+    ],
+    "publication_date": "2018-01-04",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "811df72e210e20de99719539505da54762a11c6d",
+    "corpus_id": 28202810,
+    "category": "Computer Science, Mathematics"
+  },
+  "1712-05889": {
+    "title": "Ray: A Distributed Framework for Emerging AI Applications",
+    "authors": [
+      "Philipp Moritz",
+      "Robert Nishihara",
+      "Stephanie Wang",
+      "Alexey Tumanov",
+      "Richard Liaw",
+      "Eric Liang",
+      "William Paul",
+      "Michael I. Jordan",
+      "Ion Stoica"
+    ],
+    "publication_date": "2017-12-16",
+    "venue": "USENIX Symposium on Operating Systems Design and Implementation",
+    "semantic_scholar_id": "f83a207712fd4cf41aded79e9e6c4345ba879128",
+    "corpus_id": 34552495,
+    "category": "Computer Science, Mathematics"
+  },
+  "1712-01815": {
+    "title": "Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm",
+    "authors": [
+      "David Silver",
+      "T. Hubert",
+      "Julian Schrittwieser",
+      "Ioannis Antonoglou",
+      "Matthew Lai",
+      "A. Guez",
+      "Marc Lanctot",
+      "L. Sifre",
+      "D. Kumaran",
+      "T. Graepel",
+      "T. Lillicrap",
+      "K. Simonyan",
+      "D. Hassabis"
+    ],
+    "publication_date": "2017-12-05",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "38fb1902c6a2ab4f767d4532b28a92473ea737aa",
+    "corpus_id": 33081038,
+    "category": "Computer Science"
+  },
+  "1711-00832": {
+    "title": "A Unified Game-Theoretic Approach to Multiagent Reinforcement Learning",
+    "authors": [
+      "Marc Lanctot",
+      "V. Zambaldi",
+      "A. Gruslys",
+      "Angeliki Lazaridou",
+      "K. Tuyls",
+      "J. Pérolat",
+      "David Silver",
+      "T. Graepel"
+    ],
+    "publication_date": "2017-11-02",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "b0d8165eecf2aa04a85e701d0c6bb4edd4b3811b",
+    "corpus_id": 9072400,
+    "category": "Computer Science"
+  },
+  "1707-06347": {
+    "title": "Proximal Policy Optimization Algorithms",
+    "authors": [
+      "John Schulman",
+      "Filip Wolski",
+      "Prafulla Dhariwal",
+      "Alec Radford",
+      "Oleg Klimov"
+    ],
+    "publication_date": "2017-07-20",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "dce6f9d4017b1785979e7520fd0834ef8cf02f4b",
+    "corpus_id": 28695052,
+    "category": "Computer Science"
+  },
+  "1705-06366": {
+    "title": "Automatic Goal Generation for Reinforcement Learning Agents",
+    "authors": [
+      "David Held",
+      "Xinyang Geng",
+      "Carlos Florensa",
+      "P. Abbeel"
+    ],
+    "publication_date": "2017-05-17",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "471f9742b4e32d8ee68f9ee493768ff0466a231d",
+    "corpus_id": 22729745,
+    "category": "Computer Science, Mathematics"
+  },
+  "1705-05363": {
+    "title": "Curiosity-Driven Exploration by Self-Supervised Prediction",
+    "authors": [
+      "Deepak Pathak",
+      "Pulkit Agrawal",
+      "Alexei A. Efros",
+      "Trevor Darrell"
+    ],
+    "publication_date": "2017-05-15",
+    "venue": "2017 IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "semantic_scholar_id": "225ab689f41cef1dc18237ef5dab059a49950abf",
+    "corpus_id": 20045336,
+    "category": "Mathematics, Computer Science"
+  },
+  "1704-03003": {
+    "title": "Automated Curriculum Learning for Neural Networks",
+    "authors": [
+      "Alex Graves",
+      "Marc G. Bellemare",
+      "Jacob Menick",
+      "R. Munos",
+      "K. Kavukcuoglu"
+    ],
+    "publication_date": "2017-04-10",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "30ec43601d48236f8983d7cc55bed9cc68262b57",
+    "corpus_id": 11137059,
+    "category": "Computer Science"
+  },
+  "1703-06907": {
+    "title": "Domain randomization for transferring deep neural networks from simulation to the real world",
+    "authors": [
+      "Joshua Tobin",
+      "Rachel Fong",
+      "Alex Ray",
+      "Jonas Schneider",
+      "Wojciech Zaremba",
+      "P. Abbeel"
+    ],
+    "publication_date": "2017-03-20",
+    "venue": "IEEE/RJS International Conference on Intelligent RObots and Systems",
+    "semantic_scholar_id": "32ceb28e45a445df4d89df281bb0e3ab5aab1a2a",
+    "corpus_id": 2413610,
+    "category": "Computer Science"
+  },
+  "1703-05407": {
+    "title": "Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play",
+    "authors": [
+      "Sainbayar Sukhbaatar",
+      "Ilya Kostrikov",
+      "Arthur Szlam",
+      "R. Fergus"
+    ],
+    "publication_date": "2017-03-15",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "8499a250422a3c66357367c8d5fa504de5424c59",
+    "corpus_id": 12256925,
+    "category": "Mathematics, Computer Science"
+  },
+  "1703-01310": {
+    "title": "Count-Based Exploration with Neural Density Models",
+    "authors": [
+      "Georg Ostrovski",
+      "Marc G. Bellemare",
+      "Aäron van den Oord",
+      "R. Munos"
+    ],
+    "publication_date": "2017-03-03",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "12f67fb182bc934fc95ce97acff553d83e2ca72e",
+    "corpus_id": 2924063,
+    "category": "Computer Science"
+  },
+  "1606-01868": {
+    "title": "Unifying Count-Based Exploration and Intrinsic Motivation",
+    "authors": [
+      "Marc G. Bellemare",
+      "S. Srinivasan",
+      "Georg Ostrovski",
+      "T. Schaul",
+      "D. Saxton",
+      "R. Munos"
+    ],
+    "publication_date": "2016-06-06",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "6e90fd78e8a3b98af3954aae5209703aa966603e",
+    "corpus_id": 8310565,
+    "category": "Computer Science"
+  },
+  "1603-01121": {
+    "title": "Deep Reinforcement Learning from Self-Play in Imperfect-Information Games",
+    "authors": [
+      "Johannes Heinrich",
+      "David Silver"
+    ],
+    "publication_date": "2016-03-03",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "a1d2a7ef81960846b9cec00bce8eefa06ccc8796",
+    "corpus_id": 12936702,
+    "category": "Computer Science, Mathematics"
+  },
+  "1511-07289": {
+    "title": "Fast and Accurate Deep Network Learning by Exponential Linear Units (ELUs)",
+    "authors": [
+      "Djork-Arné Clevert",
+      "Thomas Unterthiner",
+      "Sepp Hochreiter"
+    ],
+    "publication_date": "2015-11-23",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "f63e917638553414526a0cc8550de4ad2d83fe7a",
+    "corpus_id": 5273326,
+    "category": "Computer Science, Mathematics"
+  },
+  "1502-05477": {
+    "title": "Trust Region Policy Optimization",
+    "authors": [
+      "John Schulman",
+      "S. Levine",
+      "P. Abbeel",
+      "Michael I. Jordan",
+      "Philipp Moritz"
+    ],
+    "publication_date": "2015-02-19",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "449532187c94af3dd3aa55e16d2c50f7854d2199",
+    "corpus_id": 16046818,
+    "category": "Computer Science, Mathematics"
+  },
+  "1207-4708": {
+    "title": "The Arcade Learning Environment: An Evaluation Platform for General Agents",
+    "authors": [
+      "Marc G. Bellemare",
+      "Yavar Naddaf",
+      "J. Veness",
+      "Michael Bowling"
+    ],
+    "publication_date": "2012-07-19",
+    "venue": "Journal of Artificial Intelligence Research",
+    "semantic_scholar_id": "f82e4ff4f003581330338aaae71f60316e58dd26",
+    "corpus_id": 1552061,
+    "category": "Computer Science"
+  },
+  "1109-1314": {
+    "title": "Measuring Intelligence through Games",
+    "authors": [
+      "T. Schaul",
+      "J. Togelius",
+      "J. Schmidhuber"
+    ],
+    "publication_date": "2011-09-06",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "c648a4b03f2d1d9dda4b8c33007c2c9d681cb975",
+    "corpus_id": 17225908,
+    "category": "Computer Science"
+  }
+}

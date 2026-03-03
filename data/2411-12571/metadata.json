@@ -1,0 +1,14 @@
+{
+  "title": "Large Language Models for Combinatorial Optimization of Design Structure Matrix",
+  "authors": [
+    "Shuo Jiang",
+    "Min Xie",
+    "Jianxi Luo"
+  ],
+  "summary": "Combinatorial optimization (CO) is essential for improving efficiency and performance in engineering applications. As complexity increases with larger problem sizes and more intricate dependencies, identifying the optimal solution become challenging. When it comes to real-world engineering problems, algorithms based on pure mathematical reasoning are limited and incapable to capture the contextual nuances necessary for optimization. This study explores the potential of Large Language Models (LLMs) in solving engineering CO problems by leveraging their reasoning power and contextual knowledge. We propose a novel LLM-based framework that integrates network topology and domain knowledge to optimize the sequencing of Design Structure Matrix (DSM)-a common CO problem. Our experiments on various DSM cases demonstrate that the proposed method achieves faster convergence and higher solution quality than benchmark methods. Moreover, results show that incorporating contextual domain knowledge significantly improves performance despite the choice of LLMs. These findings highlight the potential of LLMs in tackling complex real-world CO problems by combining semantic and mathematical reasoning. This approach paves the way for a new paradigm in in real-world combinatorial optimization.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "Proc. Des. Soc. 5 (2025) 2201-2210",
+  "pdf_url": null,
+  "category": "cs.CE, cs.AI, cs.CL"
+}

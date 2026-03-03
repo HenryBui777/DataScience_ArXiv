@@ -1,0 +1,15 @@
+{
+  "title": "Fine-tuning Myoelectric Control through Reinforcement Learning in a Game Environment",
+  "authors": [
+    "Kilian Freitag",
+    "Yiannis Karayiannidis",
+    "Jan Zbinden",
+    "Rita Laezza"
+  ],
+  "summary": "Objective: Enhancing the reliability of myoelectric controllers that decode motor intent is a pressing challenge in the field of bionic prosthetics. State-of-the-art research has mostly focused on Supervised Learning (SL) techniques to tackle this problem. However, obtaining high-quality labeled data that accurately represents muscle activity during daily usage remains difficult. We investigate the potential of Reinforcement Learning (RL) to further improve the decoding of human motion intent by incorporating usage-based data. Methods: The starting point of our method is a SL control policy, pretrained on a static recording of electromyographic (EMG) ground truth data. We then apply RL to fine-tune the pretrained classifier with dynamic EMG data obtained during interaction with a game environment developed for this work. We conducted real-time experiments to evaluate our approach and achieved significant improvements in human-in-the-loop performance. Results: The method effectively predicts simultaneous finger movements, leading to a two-fold increase in decoding accuracy during gameplay and a 39\\% improvement in a separate motion test. Conclusion: By employing RL and incorporating usage-based EMG data during fine-tuning, our method achieves significant improvements in accuracy and robustness. Significance: These results showcase the potential of RL for enhancing the reliability of myoelectric controllers, of particular importance for advanced bionic limbs. See our project page for visual demonstrations: https://sites.google.com/view/bionic-limb-rl",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.HC"
+}

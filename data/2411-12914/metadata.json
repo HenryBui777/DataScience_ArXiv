@@ -1,0 +1,18 @@
+{
+  "title": "Trojan Cleansing with Neural Collapse",
+  "authors": [
+    "Xihe Gu",
+    "Greg Fields",
+    "Yaman Jandali",
+    "Tara Javidi",
+    "Farinaz Koushanfar"
+  ],
+  "summary": "Trojan attacks are sophisticated training-time attacks on neural networks that embed backdoor triggers which force the network to produce a specific output on any input which includes the trigger. With the increasing relevance of deep networks which are too large to train with personal resources and which are trained on data too large to thoroughly audit, these training-time attacks pose a significant risk. In this work, we connect trojan attacks to Neural Collapse, a phenomenon wherein the final feature representations of over-parameterized neural networks converge to a simple geometric structure. We provide experimental evidence that trojan attacks disrupt this convergence for a variety of datasets and architectures. We then use this disruption to design a lightweight, broadly generalizable mechanism for cleansing trojan attacks from a wide variety of different network architectures and experimentally demonstrate its efficacy.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-03-30"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.CR"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Reliable Poisoned Sample Detection against Backdoor Attacks Enhanced by Sharpness Aware Minimization",
+  "authors": [
+    "Mingda Zhang",
+    "Mingli Zhu",
+    "Zihao Zhu",
+    "Baoyuan Wu"
+  ],
+  "summary": "Backdoor attack has been considered as a serious security threat to deep neural networks (DNNs). Poisoned sample detection (PSD) that aims at filtering out poisoned samples from an untrustworthy training dataset has shown very promising performance for defending against data poisoning based backdoor attacks. However, we observe that the detection performance of many advanced methods is likely to be unstable when facing weak backdoor attacks, such as low poisoning ratio or weak trigger strength. To further verify this observation, we make a statistical investigation among various backdoor attacks and poisoned sample detections, showing a positive correlation between backdoor effect and detection performance. It inspires us to strengthen the backdoor effect to enhance detection performance. Since we cannot achieve that goal via directly manipulating poisoning ratio or trigger strength, we propose to train one model using the Sharpness-Aware Minimization (SAM) algorithm, rather than the vanilla training algorithm. We also provide both empirical and theoretical analysis about how SAM training strengthens the backdoor effect. Then, this SAM trained model can be seamlessly integrated with any off-the-shelf PSD method that extracts discriminative features from the trained model for detection, called SAM-enhanced PSD. Extensive experiments on several benchmark datasets show the reliable detection performance of the proposed method against both weak and strong backdoor attacks, with significant improvements against various attacks ($+34.38\\%$ TPR on average), over the conventional PSD methods (i.e., without SAM enhancement). Overall, this work provides new insights about PSD and proposes a novel approach that can complement existing detection methods, which may inspire more in-depth explorations in this field.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

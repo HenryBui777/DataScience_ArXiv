@@ -1,0 +1,15 @@
+{
+  "title": "Transforming Static Images Using Generative Models for Video Salient Object Detection",
+  "authors": [
+    "Suhwan Cho",
+    "Minhyeok Lee",
+    "Jungho Lee",
+    "Sangyoun Lee"
+  ],
+  "summary": "In many video processing tasks, leveraging large-scale image datasets is a common strategy, as image data is more abundant and facilitates comprehensive knowledge transfer. A typical approach for simulating video from static images involves applying spatial transformations, such as affine transformations and spline warping, to create sequences that mimic temporal progression. However, in tasks like video salient object detection, where both appearance and motion cues are critical, these basic image-to-video techniques fail to produce realistic optical flows that capture the independent motion properties of each object. In this study, we show that image-to-video diffusion models can generate realistic transformations of static images while understanding the contextual relationships between image components. This ability allows the model to generate plausible optical flows, preserving semantic integrity while reflecting the independent motion of scene elements. By augmenting individual images in this way, we create large-scale image-flow pairs that significantly enhance model training. Our approach achieves state-of-the-art performance across all public benchmark datasets, outperforming existing approaches.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

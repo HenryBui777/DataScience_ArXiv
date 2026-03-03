@@ -1,0 +1,648 @@
+{
+  "2311-15243": {
+    "title": "ID-like Prompt Learning for Few-Shot Out-of-Distribution Detection",
+    "authors": [
+      "Yichen Bai",
+      "Zongbo Han",
+      "Changqing Zhang",
+      "Bing Cao",
+      "Xiaoheng Jiang",
+      "Qinghua Hu"
+    ],
+    "publication_date": "2023-11-26",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "4005637b189ee8fa4ac36e6858ae3d9fee59ef80",
+    "corpus_id": 265456824,
+    "category": "Computer Science"
+  },
+  "2311-01796": {
+    "title": "Learning to Augment Distributions for Out-of-Distribution Detection",
+    "authors": [
+      "Qizhou Wang",
+      "Zhen Fang",
+      "Yonggang Zhang",
+      "Feng Liu",
+      "Yixuan Li",
+      "Bo Han"
+    ],
+    "publication_date": "2023-11-03",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "cd9ba18ce7ef5a303d23e50c8fbbc282c29556fa",
+    "corpus_id": 265019361,
+    "category": "Computer Science"
+  },
+  "2310-13923": {
+    "title": "Diversified Outlier Exposure for Out-of-Distribution Detection via Informative Extrapolation",
+    "authors": [
+      "Jianing Zhu",
+      "Geng Yu",
+      "Jiangchao Yao",
+      "Tongliang Liu",
+      "Gang Niu",
+      "Masashi Sugiyama",
+      "Bo Han"
+    ],
+    "publication_date": "2023-10-21",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "7d1c7810b8ef57a43cd3eb0be197bd270f1c8dc3",
+    "corpus_id": 264426499,
+    "category": "Computer Science"
+  },
+  "2306-02031": {
+    "title": "DOS: Diverse Outlier Sampling for Out-of-Distribution Detection",
+    "authors": [
+      "Wenyu Jiang",
+      "Hao Cheng",
+      "Mingcai Chen",
+      "Chongjun Wang",
+      "Hongxin Wei"
+    ],
+    "publication_date": "2023-06-03",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "913d26360f1a715f6ae80f5a775f398aa2f66c9d",
+    "corpus_id": 259076394,
+    "category": "Computer Science"
+  },
+  "2306-00826": {
+    "title": "In or Out? Fixing ImageNet Out-of-Distribution Detection Evaluation",
+    "authors": [
+      "Julian Bitterwolf",
+      "Maximilian Mueller",
+      "Matthias Hein"
+    ],
+    "publication_date": "2023-06-01",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "8ed7e26223c1d606c3074c6fe9250692da4071f2",
+    "corpus_id": 258999790,
+    "category": "Computer Science"
+  },
+  "2303-17093": {
+    "title": "OpenMix: Exploring Outlier Samples for Misclassification Detection",
+    "authors": [
+      "Fei Zhu",
+      "Zhen Cheng",
+      "Xu-Yao Zhang",
+      "Cheng-Lin Liu"
+    ],
+    "publication_date": "2023-03-30",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "ed85c27f749e4b956d7e5f4ebf502e7bbad3650b",
+    "corpus_id": 257834097,
+    "category": "Computer Science"
+  },
+  "2210-07242": {
+    "title": "OpenOOD: Benchmarking Generalized Out-of-Distribution Detection",
+    "authors": [
+      "Jingkang Yang",
+      "Pengyun Wang",
+      "Dejian Zou",
+      "Zitang Zhou",
+      "Kun Ding",
+      "Wen-Hsiao Peng",
+      "Haoqi Wang",
+      "Guangyao Chen",
+      "Bo Li",
+      "Yiyou Sun",
+      "Xuefeng Du",
+      "Kaiyang Zhou",
+      "Wayne Zhang",
+      "Dan Hendrycks",
+      "Yixuan Li",
+      "Ziwei Liu"
+    ],
+    "publication_date": "2022-10-13",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "4e9e30f4702f64af5aacbb5791172c5b37510dc3",
+    "corpus_id": 252873458,
+    "category": "Computer Science"
+  },
+  "2210-05775": {
+    "title": "C-Mixup: Improving Generalization in Regression",
+    "authors": [
+      "Huaxiu Yao",
+      "Yiping Wang",
+      "Linjun Zhang",
+      "James Y. Zou",
+      "Chelsea Finn"
+    ],
+    "publication_date": "2022-10-11",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "b29bebc4e0316e63d37410bdde2718b560030bae",
+    "corpus_id": 252846194,
+    "category": "Computer Science, Mathematics"
+  },
+  "2209-08928": {
+    "title": "UMIX: Improving Importance Weighting for Subpopulation Shift via Uncertainty-Aware Mixup",
+    "authors": [
+      "Zongbo Han",
+      "Zhipeng Liang",
+      "Fan Yang",
+      "Liu Liu",
+      "Lanqing Li",
+      "Yatao Bian",
+      "P. Zhao",
+      "Bing Wu",
+      "Changqing Zhang",
+      "Jianhua Yao"
+    ],
+    "publication_date": "2022-09-19",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "466785139a2270b554aa274b3d312723afce8e77",
+    "corpus_id": 252367595,
+    "category": "Computer Science"
+  },
+  "2206-13687": {
+    "title": "POEM: Out-of-Distribution Detection with Posterior Sampling",
+    "authors": [
+      "Yifei Ming",
+      "Ying Fan",
+      "Yixuan Li"
+    ],
+    "publication_date": "2022-06-28",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "16ad01309dbfc406e3133bf0d62ea2be826423fe",
+    "corpus_id": 250088962,
+    "category": "Computer Science"
+  },
+  "2205-09310": {
+    "title": "Mitigating Neural Network Overconfidence with Logit Normalization",
+    "authors": [
+      "Hongxin Wei",
+      "Renchunzi Xie",
+      "Hao Cheng",
+      "Lei Feng",
+      "Bo An",
+      "Yixuan Li"
+    ],
+    "publication_date": "2022-05-19",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "c2d29e2b10572d229e83e8c0005f9b48223332eb",
+    "corpus_id": 248887336,
+    "category": "Computer Science"
+  },
+  "2204-06507": {
+    "title": "Out-of-distribution Detection with Deep Nearest Neighbors",
+    "authors": [
+      "Yiyou Sun",
+      "Yifei Ming",
+      "Xiaojin Zhu",
+      "Yixuan Li"
+    ],
+    "publication_date": "2022-04-13",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "8b1233107bff00355d4d1656795ec62d4f85e523",
+    "corpus_id": 248157551,
+    "category": "Computer Science"
+  },
+  "2203-10807": {
+    "title": "ViM: Out-Of-Distribution with Virtual-logit Matching",
+    "authors": [
+      "Haoqi Wang",
+      "Zhizhong Li",
+      "Litong Feng",
+      "Wayne Zhang"
+    ],
+    "publication_date": "2022-03-21",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "3b0284d501e9b1b6c199d8b07c6826a165c4b4f2",
+    "corpus_id": 247595202,
+    "category": "Computer Science"
+  },
+  "2112-00787": {
+    "title": "Provable Guarantees for Understanding Out-of-distribution Detection",
+    "authors": [
+      "Peyman Morteza",
+      "Yixuan Li"
+    ],
+    "publication_date": "2021-12-01",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "075ddf01cb0a722143ae04f49ef7dabcd64f38da",
+    "corpus_id": 244799709,
+    "category": "Computer Science"
+  },
+  "2111-12797": {
+    "title": "ReAct: Out-of-distribution Detection With Rectified Activations",
+    "authors": [
+      "Yiyou Sun",
+      "Chuan Guo",
+      "Yixuan Li"
+    ],
+    "publication_date": "2021-11-24",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "7f9760a76e9cf424da0b72d42f75594cefc4a329",
+    "corpus_id": 244709089,
+    "category": "Computer Science"
+  },
+  "2110-06207": {
+    "title": "Open-Set Recognition: A Good Closed-Set Classifier is All You Need",
+    "authors": [
+      "S. Vaze",
+      "Kai Han",
+      "A. Vedaldi",
+      "Andrew Zisserman"
+    ],
+    "publication_date": "2021-10-12",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "ba4dc8bdf6f1b9756def3a9b6a52fd797d13f4d4",
+    "corpus_id": 238634102,
+    "category": "Computer Science"
+  },
+  "2110-01167": {
+    "title": "Trustworthy AI: From Principles to Practices",
+    "authors": [
+      "Bo Li",
+      "Peng Qi",
+      "Bo Liu",
+      "Shuai Di",
+      "Jingen Liu",
+      "Jiquan Pei",
+      "Jinfeng Yi",
+      "Bowen Zhou"
+    ],
+    "publication_date": "2021-10-04",
+    "venue": "ACM Computing Surveys",
+    "semantic_scholar_id": "70043a0b612b6253b37df7d363b3bf2ec3d581c7",
+    "corpus_id": 238259667,
+    "category": "Computer Science"
+  },
+  "2109-14162": {
+    "title": "Can multi-label classification networks know what they don't know?",
+    "authors": [
+      "Haoran Wang",
+      "Weitang Liu",
+      "Alex Bocchieri",
+      "Yixuan Li"
+    ],
+    "publication_date": "2021-09-29",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "3d8c1670bdb28847cae6252d687dc3066d94ed3e",
+    "corpus_id": 238215272,
+    "category": "Computer Science"
+  },
+  "2107-06641": {
+    "title": "Trustworthy AI: A Computational Perspective",
+    "authors": [
+      "Haochen Liu",
+      "Yiqi Wang",
+      "Wenqi Fan",
+      "Xiaorui Liu",
+      "Yaxin Li",
+      "Shaili Jain",
+      "Anil K. Jain",
+      "Jiliang Tang"
+    ],
+    "publication_date": "2021-07-12",
+    "venue": "ACM Transactions on Intelligent Systems and Technology",
+    "semantic_scholar_id": "8b365890c0224f17fffb90bf33da46fccacd9331",
+    "corpus_id": 235829506,
+    "category": "Computer Science"
+  },
+  "2106-03917": {
+    "title": "Mixture Outlier Exposure: Towards Out-of-Distribution Detection in Fine-grained Environments",
+    "authors": [
+      "Jingyang Zhang",
+      "Nathan Inkawhich",
+      "Randolph Linderman",
+      "Yiran Chen",
+      "H. Li"
+    ],
+    "publication_date": "2021-06-07",
+    "venue": "IEEE Workshop/Winter Conference on Applications of Computer Vision",
+    "semantic_scholar_id": "7bdc1a737a8864b80c7abd5cca71c6514de25345",
+    "corpus_id": 247319058,
+    "category": "Computer Science"
+  },
+  "2106-03004": {
+    "title": "Exploring the Limits of Out-of-Distribution Detection",
+    "authors": [
+      "Stanislav Fort",
+      "Jie Jessie Ren",
+      "Balaji Lakshminarayanan"
+    ],
+    "publication_date": "2021-06-06",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "c3ddd90b53dc797029c4576af01b9c35bb846a44",
+    "corpus_id": 235358891,
+    "category": "Computer Science"
+  },
+  "2104-14726": {
+    "title": "MOOD: Multi-level Out-of-distribution Detection",
+    "authors": [
+      "Ziqian Lin",
+      "Sreya . Dutta Roy",
+      "Yixuan Li"
+    ],
+    "publication_date": "2021-04-30",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "3471032918f2e6fd65677ad491a79ffa14b1c289",
+    "corpus_id": 233476146,
+    "category": "Computer Science"
+  },
+  "2103-12051": {
+    "title": "SSD: A Unified Framework for Self-Supervised Outlier Detection",
+    "authors": [
+      "Vikash Sehwag",
+      "M. Chiang",
+      "Prateek Mittal"
+    ],
+    "publication_date": "2021-03-22",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "0fe615dc0a422100e85cfb7e26c9306c481f6c75",
+    "corpus_id": 232307112,
+    "category": "Computer Science"
+  },
+  "2012-03457": {
+    "title": "VideoMix: Rethinking Data Augmentation for Video Classification",
+    "authors": [
+      "Sangdoo Yun",
+      "Seong Joon Oh",
+      "Byeongho Heo",
+      "Dongyoon Han",
+      "Jinhyung Kim"
+    ],
+    "publication_date": "2020-12-07",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "0f6830373b3a2758baf5efa50f4ca9ac17b1a377",
+    "corpus_id": 227344107,
+    "category": "Computer Science"
+  },
+  "2007-03943": {
+    "title": "Remix: Rebalanced Mixup",
+    "authors": [
+      "Hsin-Ping Chou",
+      "Shih-Chieh Chang",
+      "Jia-Yu Pan",
+      "Wei Wei",
+      "Da-Cheng Juan"
+    ],
+    "publication_date": "2020-07-08",
+    "venue": "ECCV Workshops",
+    "semantic_scholar_id": "a50b451538891b0c3a9871ea4e213147d139a8d5",
+    "corpus_id": 220404325,
+    "category": "Computer Science"
+  },
+  "2006-15207": {
+    "title": "ATOM: Robustifying Out-of-Distribution Detection Using Outlier Mining",
+    "authors": [
+      "Jiefeng Chen",
+      "Yixuan Li",
+      "Xi Wu",
+      "Yingyu Liang",
+      "S. Jha"
+    ],
+    "publication_date": "2020-06-26",
+    "venue": "ECML/PKDD",
+    "semantic_scholar_id": "275675ea82a4b35c42bea2943649cabe6f6e43ab",
+    "corpus_id": 235621515,
+    "category": "Computer Science, Mathematics"
+  },
+  "1909-12180": {
+    "title": "Towards neural networks that provably know when they don't know",
+    "authors": [
+      "Alexander Meinke",
+      "Matthias Hein"
+    ],
+    "publication_date": "2019-09-26",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "a41efad7ff629b8db586dbd140fe1464532dc406",
+    "corpus_id": 202888717,
+    "category": "Computer Science, Mathematics"
+  },
+  "1812-04606": {
+    "title": "Deep Anomaly Detection with Outlier Exposure",
+    "authors": [
+      "Dan Hendrycks",
+      "Mantas Mazeika",
+      "Thomas G. Dietterich"
+    ],
+    "publication_date": "2018-09-27",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "2d8c97db4bae00ff243d122b957091a236a697a7",
+    "corpus_id": 54558282,
+    "category": "Computer Science, Mathematics"
+  },
+  "1809-02499": {
+    "title": "MixUp as Locally Linear Out-Of-Manifold Regularization",
+    "authors": [
+      "Hongyu Guo",
+      "Yongyi Mao",
+      "Richong Zhang"
+    ],
+    "publication_date": "2018-09-07",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "d3eef9744324abc397c82b112b026aad3ec56708",
+    "corpus_id": 52175772,
+    "category": "Computer Science, Mathematics"
+  },
+  "1807-03888": {
+    "title": "A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks",
+    "authors": [
+      "Kimin Lee",
+      "Kibok Lee",
+      "Honglak Lee",
+      "Jinwoo Shin"
+    ],
+    "publication_date": "2018-07-10",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "d03ca175e2b2745126e792fdc31dfadae4c63afa",
+    "corpus_id": 49667948,
+    "category": "Computer Science, Mathematics"
+  },
+  "1710-09412": {
+    "title": "mixup: Beyond Empirical Risk Minimization",
+    "authors": [
+      "Hongyi Zhang",
+      "Moustapha Cissé",
+      "Yann Dauphin",
+      "David Lopez-Paz"
+    ],
+    "publication_date": "2017-10-25",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "4feef0fd284feb1233399b400eb897f59ec92755",
+    "corpus_id": 3162051,
+    "category": "Mathematics, Computer Science"
+  },
+  "1709-02540": {
+    "title": "The Expressive Power of Neural Networks: A View from the Width",
+    "authors": [
+      "Zhou Lu",
+      "Hongming Pu",
+      "Feicheng Wang",
+      "Zhiqiang Hu",
+      "Liwei Wang"
+    ],
+    "publication_date": "2017-09-08",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "53bfec9b34e40000d9f2174c8ac6191087fe4d57",
+    "corpus_id": 3235741,
+    "category": "Computer Science, Mathematics"
+  },
+  "1708-04552": {
+    "title": "Improved Regularization of Convolutional Neural Networks with Cutout",
+    "authors": [
+      "Terrance Devries",
+      "Graham W. Taylor"
+    ],
+    "publication_date": "2017-08-15",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "eb35fdc11a325f21a8ce0ca65058f7480a2fc91f",
+    "corpus_id": 23714201,
+    "category": "Computer Science"
+  },
+  "1708-02182": {
+    "title": "Regularizing and Optimizing LSTM Language Models",
+    "authors": [
+      "Stephen Merity",
+      "N. Keskar",
+      "R. Socher"
+    ],
+    "publication_date": "2017-08-07",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "58c6f890a1ae372958b7decf56132fe258152722",
+    "corpus_id": 212756,
+    "category": "Computer Science"
+  },
+  "1706-02690": {
+    "title": "Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks",
+    "authors": [
+      "Shiyu Liang",
+      "Yixuan Li",
+      "R. Srikant"
+    ],
+    "publication_date": "2017-06-08",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "547c854985629cfa9404a5ba8ca29367b5f8c25f",
+    "corpus_id": 3526391,
+    "category": "Computer Science, Mathematics"
+  },
+  "1610-02136": {
+    "title": "A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks",
+    "authors": [
+      "Dan Hendrycks",
+      "Kevin Gimpel"
+    ],
+    "publication_date": "2016-10-07",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "6ff2a434578ff2746b9283e45abf296887f48a2d",
+    "corpus_id": 13046179,
+    "category": "Computer Science"
+  },
+  "1610-02055": {
+    "title": "Places: An Image Database for Deep Scene Understanding",
+    "authors": [
+      "Bolei Zhou",
+      "A. Khosla",
+      "Àgata Lapedriza",
+      "A. Torralba",
+      "A. Oliva"
+    ],
+    "publication_date": "2016-10-06",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "d8abf01fce0d44665949e7a73716fff7731fa6da",
+    "corpus_id": 14078472,
+    "category": "Computer Science"
+  },
+  "1608-06993": {
+    "title": "Densely Connected Convolutional Networks",
+    "authors": [
+      "Gao Huang",
+      "Zhuang Liu",
+      "Kilian Q. Weinberger"
+    ],
+    "publication_date": "2016-08-25",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "5694e46284460a648fe29117cbc55f6c9be3fa3c",
+    "corpus_id": 9433631,
+    "category": "Computer Science"
+  },
+  "1606-06565": {
+    "title": "Concrete Problems in AI Safety",
+    "authors": [
+      "Dario Amodei",
+      "Chris Olah",
+      "J. Steinhardt",
+      "P. Christiano",
+      "John Schulman",
+      "Dandelion Mané"
+    ],
+    "publication_date": "2016-06-21",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "e86f71ca2948d17b003a5f068db1ecb2b77827f7",
+    "corpus_id": 10242377,
+    "category": "Computer Science"
+  },
+  "1512-03385": {
+    "title": "Deep Residual Learning for Image Recognition",
+    "authors": [
+      "Kaiming He",
+      "X. Zhang",
+      "Shaoqing Ren",
+      "Jian Sun"
+    ],
+    "publication_date": "2015-12-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+    "corpus_id": 206594692,
+    "category": "Computer Science"
+  },
+  "1506-03365": {
+    "title": "LSUN: Construction of a Large-scale Image Dataset using Deep Learning with Humans in the Loop",
+    "authors": [
+      "F. Yu",
+      "Yinda Zhang",
+      "Shuran Song",
+      "Ari Seff",
+      "Jianxiong Xiao"
+    ],
+    "publication_date": "2015-06-10",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "4dcdae25a5e33682953f0853ee4cf7ca93be58a9",
+    "corpus_id": 8317437,
+    "category": "Computer Science"
+  },
+  "1504-06755": {
+    "title": "TurkerGaze: Crowdsourcing Saliency with Webcam based Eye Tracking",
+    "authors": [
+      "Pingmei Xu",
+      "Krista A. Ehinger",
+      "Yinda Zhang",
+      "Adam Finkelstein",
+      "Sanjeev R. Kulkarni",
+      "Jianxiong Xiao"
+    ],
+    "publication_date": "2015-04-25",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "3433627f803953280b66ae1576d083fc9a68385a",
+    "corpus_id": 15738017,
+    "category": "Computer Science"
+  },
+  "1311-3618": {
+    "title": "Describing Textures in the Wild",
+    "authors": [
+      "Mircea Cimpoi",
+      "Subhransu Maji",
+      "Iasonas Kokkinos",
+      "S. Mohamed",
+      "A. Vedaldi"
+    ],
+    "publication_date": "2013-11-14",
+    "venue": "2014 IEEE Conference on Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "18c125ce0f64e85577f7d30132cf0e92ec664bf4",
+    "corpus_id": 4309276,
+    "category": "Computer Science"
+  },
+  "1104-3250": {
+    "title": "Adding noise to the input of a model trained with a regularized objective",
+    "authors": [
+      "Salah Rifai",
+      "Xavier Glorot",
+      "Yoshua Bengio",
+      "Pascal Vincent"
+    ],
+    "publication_date": "2011-04-16",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "3e1638d1ce6ec0d18c82fb3235a521db0a559da2",
+    "corpus_id": 10896752,
+    "category": "Mathematics, Computer Science"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "MERLOT: A Distilled LLM-based Mixture-of-Experts Framework for Scalable Encrypted Traffic Classification",
+  "authors": [
+    "Yuxuan Chen",
+    "Rongpeng Li",
+    "Zhifeng Zhao",
+    "Honggang Zhang"
+  ],
+  "summary": "We present MERLOT, a scalable mixture-of-expert (MoE) based refinement of distilled large language model optimized for encrypted traffic classification. By applying model distillation techniques in a teacher-student paradigm, compact models derived from GPT-2-base retain high classification accuracy while minimizing computational costs. These models function as specialized experts in an MoE architecture, dynamically assigned via a gating network. Unlike generation-based methods, our approach directly classifies encrypted traffic using the final decoder token with contextual feature embedding as input. Experiments on 10 datasets show superior or competitive performance over the state-of-the-art models while significantly reducing resource demands, underscoring its effectiveness and robustness.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.CR"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "KBAlign: Efficient Self Adaptation on Specific Knowledge Bases",
+  "authors": [
+    "Zheni Zeng",
+    "Yuxuan Chen",
+    "Shi Yu",
+    "Ruobing Wang",
+    "Yukun Yan",
+    "Zhenghao Liu",
+    "Shuo Wang",
+    "Xu Han",
+    "Zhiyuan Liu",
+    "Maosong Sun"
+  ],
+  "summary": "Although retrieval-augmented generation (RAG) remains essential for knowledge-based question answering (KBQA), current paradigms face critical challenges under specific domains. Existing methods struggle with targeted adaptation on small-scale KBs: vanilla unsupervised training exhibits poor effectiveness, while fine-tuning incurs prohibitive costs of external signals. We present KBAlign, a self-supervised framework that enhances RAG systems through efficient model adaptation. Our key insight is to leverage the model's intrinsic capabilities for knowledge alignment through two innovative mechanisms: multi-grained self-annotation that captures global knowledge for data construction, and iterative tuning that accelerates convergence through self verification. This framework enables cost-effective model adaptation to specific textual KBs, without human supervision or external model assistance. Experiments demonstrate that KBAlign can achieve 90\\% of the performance gain obtained through GPT-4-supervised adaptation, while relying entirely on self-annotation of much smaller models. KBAlign significantly improves downstream QA accuracy across multiple domains with tiny costs, particularly benefiting scenarios requiring deep knowledge integration from specialized corpora. We release our experimental data, models, and process analyses to the community for further exploration (https://github.com/thunlp/KBAlign).",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-11-25",
+    "2024-12-14",
+    "2025-05-15"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.AI"
+}

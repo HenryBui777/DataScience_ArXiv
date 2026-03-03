@@ -1,0 +1,18 @@
+{
+  "title": "Bayesian dynamic mode decomposition for real-time ship motion digital twinning",
+  "authors": [
+    "Giorgio Palma",
+    "Andrea Serani",
+    "Kevin McTaggart",
+    "Shawn Aram",
+    "David W. Wundrow",
+    "David Drazen",
+    "Matteo Diez"
+  ],
+  "summary": "Digital twins are widely considered enablers of groundbreaking changes in the development, operation, and maintenance of novel generations of products. They are meant to provide reliable and timely predictions to inform decisions along the entire product life cycle. One of their most interesting applications in the naval field is the digital twinning of ship performances in waves, a crucial aspect in design and operation safety. In this paper, a Bayesian extension of the Hankel dynamic mode decomposition method is proposed for ship motion's nowcasting as a prediction tool for naval digital twins. The proposed algorithm meets all the requirements for formulations devoted to digital twinning, being able to adapt the resulting models with the data incoming from the physical system, using a limited amount of data, producing real-time predictions, and estimating their reliability. Results are presented and discussed for the course-keeping of the 5415M model in beam-quartering sea state 7 irregular waves at Fr = 0.33, using data from three different CFD solvers. The results show predictions keeping good accuracy levels up to five wave encounter periods, with the Bayesian formulation improving the deterministic forecasts. In addition, a connection between the predicted uncertainty and prediction accuracy is found.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.AP, cs.LG, math.DS"
+}

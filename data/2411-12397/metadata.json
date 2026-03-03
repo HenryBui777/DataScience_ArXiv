@@ -1,0 +1,18 @@
+{
+  "title": "Non-Local Thermodynamic Equilibrium inversions of the Si I 10827 A spectral line",
+  "authors": [
+    "C. Quintero Noda",
+    "N. G. Shchukina",
+    "A. Asensio Ramos",
+    "M. J. Martínez González",
+    "T. del Pino Alemán",
+    "J. C. Trelles Arjona",
+    "M. Collados"
+  ],
+  "summary": "Inferring the coupling of different atmospheric layers requires observing spectral lines sensitive to the atmospheric parameters, particularly the magnetic field vector, at various heights. The best way to tackle this goal is to perform multi-line observations simultaneously. For instance, the new version of the Gregor Infrared Spectrograph instrument offers the possibility to observe the spectral lines at 8542 and 10830 A simultaneously for the first time. The first spectral window contains the Ca II 8542 A spectral line, while the Si I 10827 A transition and He I 10830 A triplet infrared lines can be found in the second spectral window. As the sensitivity to the atmospheric parameters and the height of formation of those transitions is different, combining them can help understand the properties of the solar photosphere and chromosphere and how they are magnetically coupled. Traditionally, the analysis of the Si I 10827 A transition assumes local thermodynamic equilibrium (LTE), which is not the best approximation to model this transition. Hence, in this work, we examine the potential of performing non-LTE (NLTE) inversions of the full Stokes vector of the Si I 10827 A spectral line. The results indicate that we properly infer the atmospheric parameters through an extended range of atmospheric layers in comparison with the LTE case (only valid for the spectral line wings, i.e., the low photosphere), with no impact on the robustness of the solution and just a minor increase in computational time. Thus, the NLTE assumption will help to accurately constrain the photospheric physical parameters when performing combined inversions with, e.g., the Ca II 8542 A spectral line.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "A&A 692, A169 (2024)",
+  "pdf_url": null,
+  "category": "astro-ph.SR"
+}

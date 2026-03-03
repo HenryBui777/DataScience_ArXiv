@@ -1,0 +1,16 @@
+{
+  "title": "Limitations of the Generalized Pareto Distribution-based estimators for the local dimension",
+  "authors": [
+    "Ignacio del Amo",
+    "George Datseris",
+    "Mark Holland"
+  ],
+  "summary": "Two dynamical indicators, the local dimension and the extremal index, used to quantify persistence in phase space have been developed and applied to different data across various disciplines. These are computed using the asymptotic limit of exceedances over a threshold, which turns to be a Generalized Pareto Distribution in many cases. However the derivation of the asymptotic distribution requires mathematical properties which are not present even in highly idealized dynamical systems, and unlikely to be present in real data. Here we examine in detail issues that arise when estimating these quantities for some known dynamical systems with a particular focus on how the geometry of an invariant set can affect the regularly varying properties of the invariant measure. We demonstrate that singular measures supported on sets of non-integer dimension are typically not regularly varying and that the absence of regular variation makes the estimates resolution dependent. We show as well that the most common extremal index estimation method is ambiguous for continuous time processes sampled at fixed time steps, which is an underlying assumption in its application to data.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-25"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.DS, nlin.CD"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "The connected Grundy coloring problem: Formulations and a local-search enhanced biased random-key genetic algorithm",
+  "authors": [
+    "Mateus C. Silva",
+    "Rafael A. Melo",
+    "Mauricio G. C. Resende",
+    "Marcio C. Santos",
+    "Rodrigo F. Toso"
+  ],
+  "summary": "Given a graph G=(V,E), a connected Grundy coloring is a proper vertex coloring that can be obtained by a first-fit heuristic on a connected vertex sequence. A first-fit coloring heuristic is one that attributes to each vertex in a sequence the lowest-index color not used for its preceding neighbors. A connected vertex sequence is one in which each element, except for the first one, is connected to at least one element preceding it. The connected Grundy coloring problem consists of obtaining a connected Grundy coloring maximizing the number of colors. In this paper, we propose two integer programming (IP) formulations and a local-search enhanced biased random-key genetic algorithm (BRKGA) for the connected Grundy coloring problem. The first formulation follows the standard way of partitioning the vertices into color classes while the second one relies on the idea of representatives in an attempt to break symmetries. The BRKGA encompasses a local search procedure using a newly proposed neighborhood. A theoretical neighborhood analysis is also presented. Extensive computational experiments indicate that the problem is computationally demanding for the proposed IP formulations. Nonetheless, the formulation by representatives outperforms the standard one for the considered benchmark instances. Additionally, our BRKGA can find high-quality solutions in low computational times for considerably large instances, showing improved performance when enhanced with local search and a reset mechanism. Moreover we show that our BRKGA can be easily extended to successfully tackle the Grundy coloring problem, i.e., the one without the connectivity requirements.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC, cs.DM"
+}

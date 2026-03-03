@@ -1,0 +1,18 @@
+{
+  "title": "BVI-CR: A Multi-View Human Dataset for Volumetric Video Compression",
+  "authors": [
+    "Ge Gao",
+    "Adrian Azzarelli",
+    "Ho Man Kwan",
+    "Nantheera Anantrasirichai",
+    "Fan Zhang",
+    "Oliver Moolan-Feroze",
+    "David Bull"
+  ],
+  "summary": "The advances in immersive technologies and 3D reconstruction have enabled the creation of digital replicas of real-world objects and environments with fine details. These processes generate vast amounts of 3D data, requiring more efficient compression methods to satisfy the memory and bandwidth constraints associated with data storage and transmission. However, the development and validation of efficient 3D data compression methods are constrained by the lack of comprehensive and high-quality volumetric video datasets, which typically require much more effort to acquire and consume increased resources compared to 2D image and video databases. To bridge this gap, we present an open multi-view volumetric human dataset, denoted BVI-CR, which contains 18 multi-view RGB-D captures and their corresponding textured polygonal meshes, depicting a range of diverse human actions. Each video sequence contains 10 views in 1080p resolution with durations between 10-15 seconds at 30FPS. Using BVI-CR, we benchmarked three conventional and neural coordinate-based multi-view video compression methods, following the MPEG MIV Common Test Conditions, and reported their rate quality performance based on various quality metrics. The results show the great potential of neural representation based methods in volumetric video compression compared to conventional video coding methods (with an up to 38\\% average coding gain in PSNR). This dataset provides a development and validation platform for a variety of tasks including volumetric reconstruction, compression, and quality assessment. The database will be shared publicly at \\url{https://github.com/fan-aaron-zhang/bvi-cr}.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, eess.IV"
+}

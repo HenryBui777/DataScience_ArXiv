@@ -1,0 +1,14 @@
+{
+  "title": "Exact threshold and limiting distribution for non-linear Hamilton cycles",
+  "authors": [
+    "Byron Chin"
+  ],
+  "summary": "For positive integers $r > \\ell \\geq 1$, an $\\ell$-cycle in an $r$-uniform hypergraph is a cycle where each edge consists of $r$ vertices and each pair of consecutive edges intersect in $\\ell$ vertices. For $\\ell \\geq 2$, we determine the limiting distribution of the number of Hamilton $\\ell$-cycles in an Erdős--Rényi random hypergraph. The behavior is distinguished in two cases:\n  -When $\\ell \\geq 3$, the number of cycles concentrates when the expectation diverges and converges to a Poisson distribution when the expectation is constant.\n  -When $\\ell = 2$, the normalized number of cycles converges to a lognormal distribution when the expectation diverges and converges to a lognormal mixture of Poisson distributions when the expectation is constant.\n  As a result we pin down the exact threshold for the appearance of non-linear Hamilton cycles in random hypergraphs, confirming a conjecture of Narayanan and Schacht.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-01-06"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.CO, math.PR"
+}

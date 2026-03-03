@@ -1,0 +1,19 @@
+{
+  "title": "LaVida Drive: Vision-Text Interaction VLM for Autonomous Driving with Token Selection, Recovery and Enhancement",
+  "authors": [
+    "Siwen Jiao",
+    "Yangyi Fang",
+    "Baoyun Peng",
+    "Wangqun Chen",
+    "Bharadwaj Veeravalli"
+  ],
+  "summary": "Recent advancements in Visual Language Models (VLMs) have made them crucial for visual question answering (VQA) in autonomous driving, enabling natural human-vehicle interactions. However, existing methods often struggle in dynamic driving environments, as they usually focus on static images or videos and rely on downsampling to manage computational costs. This results in the loss of critical details and the difficulty in effectively integrating spatial and temporal information, undermining fine-grained perception and temporal coherence essential for effective decision-making. To tackle these challenges, we introduce LaVida Drive, a novel and efficient VQA framework for autonomous driving. LaVida Drive seamlessly integrates temporal data while maintaining high-resolution inputs for detailed visual perception. It optimizes spatial processing by retaining high-resolution data for intricate details and using lower-resolution inputs for temporal analysis to focus on motion-related features, thereby boosting computational efficiency. The core of LaVida Drive consists of two modules: the \\textit{Query-aware Token Selection} module and the \\textit{Spatial-Temporal Token Recovery and Enhancement} module. The former dynamically selects the most relevant visual tokens based on semantic alignment with the input query, reducing the token count from high-resolution spatial input. The latter ensures smooth and coherent interactions between spatial and temporal information, preserving contextual continuity across frames. Extensive experiments on various autonomous driving question-answering benchmarks show that LaVida Drive significantly reduces visual tokens, enhances efficiency, and improves overall performance.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-25",
+    "2025-02-22"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI"
+}

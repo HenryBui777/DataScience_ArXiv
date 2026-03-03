@@ -1,0 +1,18 @@
+{
+  "title": "Maximum Solar Energy Tracking Leverage High-DoF Robotics System with Deep Reinforcement Learning",
+  "authors": [
+    "Anjie Jiang",
+    "Kangtong Mo",
+    "Satoshi Fujimoto",
+    "Michael Taylor",
+    "Sanjay Kumar",
+    "Chiotis Dimitrios",
+    "Emilia Ruiz"
+  ],
+  "summary": "Solar trajectory monitoring is a pivotal challenge in solar energy systems, underpinning applications such as autonomous energy harvesting and environmental sensing. A prevalent failure mode in sustained solar tracking arises when the predictive algorithm erroneously diverges from the solar locus, erroneously anchoring to extraneous celestial or terrestrial features. This phenomenon is attributable to an inadequate assimilation of solar-specific objectness attributes within the tracking paradigm. To mitigate this deficiency inherent in extant methodologies, we introduce an innovative objectness regularization framework that compels tracking points to remain confined within the delineated boundaries of the solar entity. By encapsulating solar objectness indicators during the training phase, our approach obviates the necessity for explicit solar mask computation during operational deployment. Furthermore, we leverage the high-DoF robot arm to integrate our method to improve its robustness and flexibility in different outdoor environments.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

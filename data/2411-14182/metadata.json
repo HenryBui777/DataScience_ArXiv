@@ -1,0 +1,15 @@
+{
+  "title": "Enhanced receiver function imaging of crustal structures using symmetric autoencoders",
+  "authors": [
+    "T. Rengneichuong Koireng",
+    "Pawan Bharadwaj"
+  ],
+  "summary": "The receiver-function (RF) technique aims to recover receiver-side crustal and mantle structures by deconvolving either the radial or transverse component with the vertical component seismogram. Analysis of the variations of RFs along the backazimuth and slowness is the key in determining the geometry and anisotropic properties of the crustal structures. However, the deconvolution introduces pseudorandom nuisance effects, due to unknown earthquake source signatures and seismic noise, which obstruct the precise extraction of backazimuth and slowness dependent crustal effects. Our goal is to obtain RFs with minimal nuisance effects, while preserving the crustal effects. In this study, we introduced a new method for reducing nuisance effects in RFs. This method generates virtual RFs through a deep generative model, namely symmetric variational autoencoders (SymVAE). Our autoencoder efficiently learns to disentangle coherent crustal effects and nuisance effects within its latent space, given a set of RFs derived from a cluster of nearby earthquakes. This disentanglement enables generation of virtual RFs which exhibits minimal nuisance effects while preserving the coherent crustal effects. We tested SymVAE using synthetic RFs with ambient seismic noise. We also tested using dense seismic networks in two distinct geological settings: the Cascadia subduction zone and southern California. We compared our method with linear and phase-weighted averaging. In both synthetic and real RFs, the generated virtual RFs demonstrate enhanced information related to crustal structures. We have also quantitatively assessed the performance. One major advantage of our method over traditional methods is its ability to utilize all available earthquake data, regardless of signal quality, resulting in improved backazimuth and slowness coverage.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-08-29"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.geo-ph"
+}

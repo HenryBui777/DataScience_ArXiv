@@ -1,0 +1,14 @@
+{
+  "title": "Gaze2AOI: Open Source Deep-learning Based System for Automatic Area of Interest Annotation with Eye Tracking Data",
+  "authors": [
+    "Karolina Trajkovska",
+    "Matjaž Kljun",
+    "Klen Čopič Pucihar"
+  ],
+  "summary": "Eye gaze is considered an important indicator for understanding and predicting user behaviour, as well as directing their attention across various domains including advertisement design, human-computer interaction and film viewing. In this paper, we present a novel method to enhance the analysis of user behaviour and attention by (i) augmenting video streams with automatically annotating and labelling areas of interest (AOIs), and (ii) integrating AOIs with collected eye gaze and fixation data. The tool provides key features such as time to first fixation, dwell time, and frequency of AOI revisits. By incorporating the YOLOv8 object tracking algorithm, the tool supports over 600 different object classes, providing a comprehensive set for a variety of video streams. This tool will be made available as open-source software, thereby contributing to broader research and development efforts in the field.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SE"
+}

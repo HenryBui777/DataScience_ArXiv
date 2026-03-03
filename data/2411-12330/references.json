@@ -1,0 +1,515 @@
+{
+  "2302-11640": {
+    "title": "A critical look at the evaluation of GNNs under heterophily: are we really making progress?",
+    "authors": [
+      "Oleg Platonov",
+      "Denis Kuznedelev",
+      "Michael Diskin",
+      "Artem Babenko",
+      "Liudmila Prokhorenkova"
+    ],
+    "publication_date": "2023-02-22",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "6ef892cd47300c56a72ff67bc7b87b43b3654e16",
+    "corpus_id": 257102689,
+    "category": "Computer Science"
+  },
+  "2302-10407": {
+    "title": "Label Information Enhanced Fraud Detection against Low Homophily in Graphs",
+    "authors": [
+      "Yuchen Wang",
+      "Jinghui Zhang",
+      "Zhengjie Huang",
+      "Weibin Li",
+      "Shi Feng",
+      "Ziheng Ma",
+      "Yu Sun",
+      "Dianhai Yu",
+      "Fang Dong",
+      "Jiahui Jin",
+      "Beilun Wang",
+      "Junzhou Luo"
+    ],
+    "publication_date": "2023-02-21",
+    "venue": "The Web Conference",
+    "semantic_scholar_id": "a73137f4c21e2fb1845d5f50dc7bf286036a8b67",
+    "corpus_id": 257050274,
+    "category": "Computer Science"
+  },
+  "2302-06299": {
+    "title": "Homophily-oriented Heterogeneous Graph Rewiring",
+    "authors": [
+      "Jiayan Guo",
+      "Lun Du",
+      "Wendong Bi",
+      "Qiang Fu",
+      "Xiaojun Ma",
+      "Xu Chen",
+      "Shi Han",
+      "Dongmei Zhang",
+      "Yan Zhang"
+    ],
+    "publication_date": "2023-02-13",
+    "venue": "The Web Conference",
+    "semantic_scholar_id": "719fc10376b55ae0a957c4fd9d5308a6afa4a546",
+    "corpus_id": 256827591,
+    "category": "Computer Science"
+  },
+  "2206-09144": {
+    "title": "Beyond Real-world Benchmark Datasets: An Empirical Study of Node Classification with GNNs",
+    "authors": [
+      "Seiji Maekawa",
+      "Koki Noda",
+      "Yuya Sasaki",
+      "Makoto Onizuka"
+    ],
+    "publication_date": "2022-06-18",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "66bf10f0ebaefcfba47775c3f6e0995625ea110b",
+    "corpus_id": 249890312,
+    "category": "Computer Science"
+  },
+  "2206-07729": {
+    "title": "Taxonomy of Benchmarks in Graph Representation Learning",
+    "authors": [
+      "Renming Liu",
+      "Semih Cantürk",
+      "Frederik Wenkel",
+      "Dylan Sandfelder",
+      "Devin Kreuzer",
+      "A. Little",
+      "Sarah McGuire",
+      "Leslie O’Bray",
+      "Michael Perlmutter",
+      "Bastian Alexander Rieck",
+      "M. Hirn",
+      "Guy Wolf",
+      "Ladislav Rampášek"
+    ],
+    "publication_date": "2022-06-15",
+    "venue": "LOG IN",
+    "semantic_scholar_id": "e1a0c574adda2480f81c631fb3b5aca8f4641c8c",
+    "corpus_id": 249712428,
+    "category": "Computer Science"
+  },
+  "2205-09389": {
+    "title": "Simplifying Node Classification on Heterophilous Graphs with Compatible Label Propagation",
+    "authors": [
+      "Zhiqiang Zhong",
+      "Sergey Ivanov",
+      "Jun Pang"
+    ],
+    "publication_date": "2022-05-19",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "2cc70191b6f2fd047ab1ac0ed41d48186e66662d",
+    "corpus_id": 248887817,
+    "category": "Computer Science"
+  },
+  "2203-10280": {
+    "title": "Meta-Weight Graph Neural Network: Push the Limits Beyond Global Homophily",
+    "authors": [
+      "Xiaojun Ma",
+      "Qin Chen",
+      "Yuanyi Ren",
+      "Guojie Song",
+      "Liang Wang"
+    ],
+    "publication_date": "2022-03-19",
+    "venue": "The Web Conference",
+    "semantic_scholar_id": "409ad3c79a06c55c17fdfc10fcdd8af09d96fddd",
+    "corpus_id": 247594750,
+    "category": "Computer Science"
+  },
+  "2203-00112": {
+    "title": "GraphWorld: Fake Graphs Bring Real Insights for GNNs",
+    "authors": [
+      "John Palowitch",
+      "Anton Tsitsulin",
+      "Brandon Mayer",
+      "Bryan Perozzi"
+    ],
+    "publication_date": "2022-02-28",
+    "venue": "Knowledge Discovery and Data Mining",
+    "semantic_scholar_id": "cd991591640fd5cf1cfb58027a9872184450b685",
+    "corpus_id": 247188065,
+    "category": "Computer Science"
+  },
+  "2110-15777": {
+    "title": "GBK-GNN: Gated Bi-Kernel Graph Neural Networks for Modeling Both Homophily and Heterophily",
+    "authors": [
+      "Lun Du",
+      "Xiaozhou Shi",
+      "Qiang Fu",
+      "Hengyu Liu",
+      "Shi Han",
+      "Dongmei Zhang"
+    ],
+    "publication_date": "2021-10-29",
+    "venue": "The Web Conference",
+    "semantic_scholar_id": "cc827043e6c5be8337df4edb155096f9d0006020",
+    "corpus_id": 240288546,
+    "category": "Computer Science"
+  },
+  "2110-14446": {
+    "title": "Large Scale Learning on Non-Homophilous Graphs: New Benchmarks and Strong Simple Methods",
+    "authors": [
+      "Derek Lim",
+      "Felix Hohne",
+      "Xiuyu Li",
+      "Sijia Huang",
+      "Vaishnavi Gupta",
+      "Omkar Bhalerao",
+      "Ser-Nam Lim"
+    ],
+    "publication_date": "2021-10-27",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "089bb1ecce75936eda1890f8e40a56d4c811dd33",
+    "corpus_id": 239998578,
+    "category": "Computer Science, Mathematics"
+  },
+  "2110-15114": {
+    "title": "UltraGCN: Ultra Simplification of Graph Convolutional Networks for Recommendation",
+    "authors": [
+      "Kelong Mao",
+      "Jieming Zhu",
+      "Xi Xiao",
+      "Biao Lu",
+      "Zhaowei Wang",
+      "Xiuqiang He"
+    ],
+    "publication_date": "2021-10-26",
+    "venue": "International Conference on Information and Knowledge Management",
+    "semantic_scholar_id": "17be6098c6dba71eef609b3d45cf63a073c94221",
+    "corpus_id": 240070722,
+    "category": "Computer Science"
+  },
+  "2104-01404": {
+    "title": "New Benchmarks for Learning on Non-Homophilous Graphs",
+    "authors": [
+      "Derek Lim",
+      "Xiuyu Li",
+      "Felix Hohne",
+      "S. Lim"
+    ],
+    "publication_date": "2021-04-03",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "161962accc739f356ad172339aa165d45ef57687",
+    "corpus_id": 233025105,
+    "category": "Computer Science"
+  },
+  "2103-14187": {
+    "title": "Beyond Low-Pass Filters: Adaptive Feature Propagation on Graphs",
+    "authors": [
+      "Sean Li",
+      "Dongwoo Kim",
+      "Qing Wang"
+    ],
+    "publication_date": "2021-03-26",
+    "venue": "ECML/PKDD",
+    "semantic_scholar_id": "22fcfb57fab579b0afdd58d8c68e05f617e7b28a",
+    "corpus_id": 232380201,
+    "category": "Computer Science"
+  },
+  "2011-08843": {
+    "title": "Design Space for Graph Neural Networks",
+    "authors": [
+      "Jiaxuan You",
+      "Rex Ying",
+      "J. Leskovec"
+    ],
+    "publication_date": "2020-11-17",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "0a69c8815536a657668e089e3281ff2e963d947a",
+    "corpus_id": 226975970,
+    "category": "Computer Science"
+  },
+  "2010-13993": {
+    "title": "Combining Label Propagation and Simple Models Out-performs Graph Neural Networks",
+    "authors": [
+      "Qian Huang",
+      "Horace He",
+      "Abhay Singh",
+      "Ser-Nam Lim",
+      "Austin R. Benson"
+    ],
+    "publication_date": "2020-10-27",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "f1e5e65941617604923225cc4bf464e370fcae67",
+    "corpus_id": 225075866,
+    "category": "Computer Science"
+  },
+  "2007-02133": {
+    "title": "Simple and Deep Graph Convolutional Networks",
+    "authors": [
+      "Ming Chen",
+      "Zhewei Wei",
+      "Zengfeng Huang",
+      "Bolin Ding",
+      "Yaliang Li"
+    ],
+    "publication_date": "2020-07-04",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "1d81e7f428fea2b2e15ee3a96fe843ca603acc4c",
+    "corpus_id": 220363476,
+    "category": "Computer Science, Mathematics"
+  },
+  "2005-00687": {
+    "title": "Open Graph Benchmark: Datasets for Machine Learning on Graphs",
+    "authors": [
+      "Weihua Hu",
+      "Matthias Fey",
+      "M. Zitnik",
+      "Yuxiao Dong",
+      "Hongyu Ren",
+      "Bowen Liu",
+      "Michele Catasta",
+      "J. Leskovec"
+    ],
+    "publication_date": "2020-05-02",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "597bd2e45427563cdf025e53a3239006aa364cfc",
+    "corpus_id": 218487328,
+    "category": "Computer Science, Mathematics"
+  },
+  "2002-05287": {
+    "title": "Geom-GCN: Geometric Graph Convolutional Networks",
+    "authors": [
+      "Hongbin Pei",
+      "Bingzhen Wei",
+      "K. Chang",
+      "Yu Lei",
+      "Bo Yang"
+    ],
+    "publication_date": "2020-02-13",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "04f3203f1214063436d81ce0c2ad7623204da488",
+    "corpus_id": 210843644,
+    "category": "Computer Science, Mathematics"
+  },
+  "2002-02126": {
+    "title": "LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation",
+    "authors": [
+      "Xiangnan He",
+      "Kuan Deng",
+      "Xiang Wang",
+      "Yan Li",
+      "Yongdong Zhang",
+      "Meng Wang"
+    ],
+    "publication_date": "2020-02-06",
+    "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+    "semantic_scholar_id": "3024f58826a5bce3378af94f677e8fb90cbb49e0",
+    "corpus_id": 211043589,
+    "category": "Computer Science"
+  },
+  "1907-06902": {
+    "title": "Are we really making much progress? A worrying analysis of recent neural recommendation approaches",
+    "authors": [
+      "Maurizio Ferrari Dacrema",
+      "P. Cremonesi",
+      "D. Jannach"
+    ],
+    "publication_date": "2019-07-16",
+    "venue": "ACM Conference on Recommender Systems",
+    "semantic_scholar_id": "c7f948eaf0665fba5a34337fb3004698920c4a49",
+    "corpus_id": 196831663,
+    "category": "Computer Science"
+  },
+  "1902-07153": {
+    "title": "Simplifying Graph Convolutional Networks",
+    "authors": [
+      "Felix Wu",
+      "Tianyi Zhang",
+      "A. Souza",
+      "Christopher Fifty",
+      "Tao Yu",
+      "Kilian Q. Weinberger"
+    ],
+    "publication_date": "2019-02-19",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "7e71eedb078181873a56f2adcfef9dddaeb95602",
+    "corpus_id": 67752026,
+    "category": "Computer Science, Mathematics"
+  },
+  "1812-08434": {
+    "title": "Graph Neural Networks: A Review of Methods and Applications",
+    "authors": [
+      "Jie Zhou",
+      "Ganqu Cui",
+      "Zhengyan Zhang",
+      "Cheng Yang",
+      "Zhiyuan Liu",
+      "Maosong Sun"
+    ],
+    "publication_date": "2018-12-20",
+    "venue": "AI Open",
+    "semantic_scholar_id": "ea5dd6a3d8f210d05e53a7b6fa5e16f1b115f693",
+    "corpus_id": 56517517,
+    "category": "Computer Science, Mathematics"
+  },
+  "1811-05868": {
+    "title": "Pitfalls of Graph Neural Network Evaluation",
+    "authors": [
+      "Oleksandr Shchur",
+      "Maximilian Mumme",
+      "Aleksandar Bojchevski",
+      "Stephan Günnemann"
+    ],
+    "publication_date": "2018-11-14",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "c2d40522eaa5523d67a0de5e4098e7031fdccb3d",
+    "corpus_id": 53303554,
+    "category": "Computer Science, Mathematics"
+  },
+  "1810-05997": {
+    "title": "Predict then Propagate: Graph Neural Networks meet Personalized PageRank",
+    "authors": [
+      "Johannes Klicpera",
+      "Aleksandar Bojchevski",
+      "Stephan Günnemann"
+    ],
+    "publication_date": "2018-09-27",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "ac225094aab9e7b629bc5b3343e026dea0200c70",
+    "corpus_id": 67855539,
+    "category": "Computer Science, Mathematics"
+  },
+  "1807-03341": {
+    "title": "Troubling Trends in Machine Learning Scholarship",
+    "authors": [
+      "Zachary Chase Lipton",
+      "J. Steinhardt"
+    ],
+    "publication_date": "2018-07-09",
+    "venue": "Queue",
+    "semantic_scholar_id": "dab261b25ff8ccd2c9144a5cb3a46b39ac0ac4bd",
+    "corpus_id": 49667455,
+    "category": "Mathematics, Computer Science"
+  },
+  "1806-03536": {
+    "title": "Representation Learning on Graphs with Jumping Knowledge Networks",
+    "authors": [
+      "Keyulu Xu",
+      "Chengtao Li",
+      "Yonglong Tian",
+      "Tomohiro Sonobe",
+      "K. Kawarabayashi",
+      "S. Jegelka"
+    ],
+    "publication_date": "2018-06-09",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "5aea95e1ae78a66474051a330ded374e199b658c",
+    "corpus_id": 47018956,
+    "category": "Computer Science, Mathematics"
+  },
+  "1801-07606": {
+    "title": "Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning",
+    "authors": [
+      "Qimai Li",
+      "Zhichao Han",
+      "Xiao-Ming Wu"
+    ],
+    "publication_date": "2018-01-22",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "36652428740cd30d245d55889f01a7fb04a91c93",
+    "corpus_id": 11118105,
+    "category": "Mathematics, Computer Science"
+  },
+  "1710-10903": {
+    "title": "Graph Attention Networks",
+    "authors": [
+      "Petar Velickovic",
+      "Guillem Cucurull",
+      "Arantxa Casanova",
+      "Adriana Romero",
+      "P. Lio’",
+      "Yoshua Bengio"
+    ],
+    "publication_date": "2017-10-30",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "33998aff64ce51df8dee45989cdca4b6b1329ec4",
+    "corpus_id": 3292002,
+    "category": "Computer Science, Mathematics"
+  },
+  "1706-02216": {
+    "title": "Inductive Representation Learning on Large Graphs",
+    "authors": [
+      "William L. Hamilton",
+      "Z. Ying",
+      "J. Leskovec"
+    ],
+    "publication_date": "2017-06-07",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "6b7d6e6416343b2a122f8416e69059ce919026ef",
+    "corpus_id": 4755450,
+    "category": "Mathematics, Computer Science"
+  },
+  "1609-02907": {
+    "title": "Semi-Supervised Classification with Graph Convolutional Networks",
+    "authors": [
+      "Thomas Kipf",
+      "M. Welling"
+    ],
+    "publication_date": "2016-09-09",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "36eff562f65125511b5dfab68ce7f7a943c27478",
+    "corpus_id": 3144218,
+    "category": "Mathematics, Computer Science"
+  },
+  "1603-08861": {
+    "title": "Revisiting Semi-Supervised Learning with Graph Embeddings",
+    "authors": [
+      "Zhilin Yang",
+      "William W. Cohen",
+      "R. Salakhutdinov"
+    ],
+    "publication_date": "2016-03-29",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "3d846cb01f6a975554035d2210b578ca61344b22",
+    "corpus_id": 7008752,
+    "category": "Computer Science, Mathematics"
+  },
+  "1506-04757": {
+    "title": "Image-Based Recommendations on Styles and Substitutes",
+    "authors": [
+      "Julian McAuley",
+      "C. Targett",
+      "Javen Qinfeng Shi",
+      "Anton van den Hengel"
+    ],
+    "publication_date": "2015-06-15",
+    "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+    "semantic_scholar_id": "fab4d19ed77dad7c437d885eceb8aa65fae5a783",
+    "corpus_id": 1012652,
+    "category": "Computer Science"
+  },
+  "0709-2938": {
+    "title": "Near linear time algorithm to detect community structures in large-scale networks.",
+    "authors": [
+      "U. Raghavan",
+      "R. Albert",
+      "S. Kumara"
+    ],
+    "publication_date": "2007-09-11",
+    "venue": "Physical review. E, Statistical, nonlinear, and soft matter physics",
+    "semantic_scholar_id": "69dc367c30240fcbbde0a2be04f16b02f2f7e73e",
+    "corpus_id": 18741059,
+    "category": "Computer Science, Physics, Medicine"
+  },
+  "1901-00596": {
+    "title": "A Comprehensive Survey on Graph Neural Networks",
+    "authors": [
+      "Zonghan Wu",
+      "Shirui Pan",
+      "Fengwen Chen",
+      "Guodong Long",
+      "Chengqi Zhang",
+      "Philip S. Yu"
+    ],
+    "publication_date": "",
+    "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+    "semantic_scholar_id": "81a4fd3004df0eb05d6c1cef96ad33d5407820df",
+    "corpus_id": 57375753,
+    "category": "Computer Science, Mathematics, Medicine"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Coexistence of Real-Time Source Reconstruction and Broadband Services Over Wireless Networks",
+  "authors": [
+    "Anup Mishra",
+    "Nikolaos Pappas",
+    "Čedomir Stefanović",
+    "Onur Ayan",
+    "Xueli An",
+    "Yiqun Wu",
+    "Petar Popovski",
+    "Israel Leyva-Mayorga"
+  ],
+  "summary": "Achieving a flexible and efficient sharing of wireless resources among a wide range of novel applications and services is one of the major goals of the sixth-generation of mobile systems (6G). Accordingly, this work investigates the performance of a real-time system that coexists with a broadband service in a frame-based wireless channel. Specifically, we consider real-time remote tracking of an information source, where a device monitors its evolution and sends updates to a base station (BS), which is responsible for real-time source reconstruction and, potentially, remote actuation. To achieve this, the BS employs a grant-free access mechanism to serve the monitoring device together with a broadband user, which share the available wireless resources through orthogonal or non-orthogonal multiple access schemes. We analyse the performance of the system with time-averaged reconstruction error, time-averaged cost of actuation error, and update-delivery cost as performance metrics. Furthermore, we analyse the performance of the broadband user in terms of throughput and energy efficiency. Our results show that an orthogonal resource sharing between the users is beneficial in most cases where the broadband user requires maximum throughput. However, sharing the resources in a non-orthogonal manner leads to a far greater energy efficiency.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP"
+}

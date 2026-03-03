@@ -1,0 +1,22 @@
+{
+  "title": "LaVin-DiT: Large Vision Diffusion Transformer",
+  "authors": [
+    "Zhaoqing Wang",
+    "Xiaobo Xia",
+    "Runnan Chen",
+    "Dongdong Yu",
+    "Changhu Wang",
+    "Mingming Gong",
+    "Tongliang Liu"
+  ],
+  "summary": "This paper presents the Large Vision Diffusion Transformer (LaVin-DiT), a scalable and unified foundation model designed to tackle over 20 computer vision tasks in a generative framework. Unlike existing large vision models directly adapted from natural language processing architectures, which rely on less efficient autoregressive techniques and disrupt spatial relationships essential for vision data, LaVin-DiT introduces key innovations to optimize generative performance for vision tasks. First, to address the high dimensionality of visual data, we incorporate a spatial-temporal variational autoencoder that encodes data into a continuous latent space. Second, for generative modeling, we develop a joint diffusion transformer that progressively produces vision outputs. Third, for unified multi-task training, in-context learning is implemented. Input-target pairs serve as task context, which guides the diffusion transformer to align outputs with specific tasks within the latent space. During inference, a task-specific context set and test data as queries allow LaVin-DiT to generalize across tasks without fine-tuning. Trained on extensive vision datasets, the model is scaled from 0.1B to 3.4B parameters, demonstrating substantial scalability and state-of-the-art performance across diverse vision tasks. This work introduces a novel pathway for large vision foundation models, underscoring the promising potential of diffusion transformers. The code and models are available.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-23",
+    "2024-11-26",
+    "2025-03-06"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

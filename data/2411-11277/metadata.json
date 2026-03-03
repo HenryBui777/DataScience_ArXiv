@@ -1,0 +1,15 @@
+{
+  "title": "Massively Parallel Maximum Coverage Revisited",
+  "authors": [
+    "Thai Bui",
+    "Hoa T. Vu"
+  ],
+  "summary": "We study the maximum set coverage problem in the massively parallel model. In this setting, $m$ sets that are subsets of a universe of $n$ elements are distributed among $m$ machines. In each round, these machines can communicate with each other, subject to the memory constraint that no machine may use more than $\\tilde{O}(n)$ memory. The objective is to find the $k$ sets whose coverage is maximized. We consider the regime where $k = Ω(m)$, $m = O(n)$, and each machine has $\\tilde{O}(n)$ memory. Maximum coverage is a special case of the submodular maximization problem subject to a cardinality constraint. This problem can be approximated to within a $1-1/e$ factor using the greedy algorithm, but this approach is not directly applicable to parallel and distributed models. When $k = Ω(m)$, to obtain a $1-1/e-ε$ approximation, previous work either requires $\\tilde{O}(mn)$ memory per machine which is not interesting compared to the trivial algorithm that sends the entire input to a single machine, or requires $2^{O(1/ε)} n$ memory per machine which is prohibitively expensive even for a moderately small value $ε$. Our result is a randomized $(1-1/e-ε)$-approximation algorithm that uses $O(1/ε^3 \\cdot \\log m \\cdot (\\log (1/ε) + \\log m))$ rounds. Our algorithm involves solving a slightly transformed linear program of the maximum coverage problem using the multiplicative weights update method, classic techniques in parallel computing such as parallel prefix, and various combinatorial arguments.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-24"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DS, cs.DC"
+}

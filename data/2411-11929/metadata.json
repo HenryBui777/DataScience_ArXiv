@@ -1,0 +1,18 @@
+{
+  "title": "ChatHTTPFuzz: Large Language Model-Assisted IoT HTTP Fuzzing",
+  "authors": [
+    "Zhe Yang",
+    "Hao Peng",
+    "Yanling Jiang",
+    "Xingwei Li",
+    "Haohua Du",
+    "Shuhai Wang",
+    "Jianwei Liu"
+  ],
+  "summary": "Internet of Things (IoT) devices offer convenience through web interfaces, web VPNs, and other web-based services, all relying on the HTTP protocol. However, these externally exposed HTTP services resent significant security risks. Although fuzzing has shown some effectiveness in identifying vulnerabilities in IoT HTTP services, most state-of-the-art tools still rely on random mutation trategies, leading to difficulties in accurately understanding the HTTP protocol's structure and generating many invalid test cases. Furthermore, These fuzzers rely on a limited set of initial seeds for testing. While this approach initiates testing, the limited number and diversity of seeds hinder comprehensive coverage of complex scenarios in IoT HTTP services. In this paper, we investigate and find that large language models (LLMs) excel in parsing HTTP protocol data and analyzing code logic. Based on these findings, we propose a novel LLM-guided IoT HTTP fuzzing method, ChatHTTPFuzz, which automatically parses protocol fields and analyzes service code logic to generate protocol-compliant test cases. Specifically, we use LLMs to label fields in HTTP protocol data, creating seed templates. Second, The LLM analyzes service code to guide the generation of additional packets aligned with the code logic, enriching the seed templates and their field values. Finally, we design an enhanced Thompson sampling algorithm based on the exploration balance factor and mutation potential factor to schedule seed templates. We evaluate ChatHTTPFuzz on 14 different real-world IoT devices. It finds more vulnerabilities than SNIPUZZ, BOOFUZZ, and MUTINY. ChatHTTPFuzz has discovered 103 vulnerabilities, of which 68 are unique, and 23 have been assigned CVEs.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR"
+}

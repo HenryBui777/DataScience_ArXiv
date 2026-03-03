@@ -1,0 +1,18 @@
+{
+  "title": "Preference Alignment for Diffusion Model via Explicit Denoised Distribution Estimation",
+  "authors": [
+    "Dingyuan Shi",
+    "Yong Wang",
+    "Hangyu Li",
+    "Xiangxiang Chu"
+  ],
+  "summary": "Diffusion models have shown remarkable success in text-to-image generation, making preference alignment for these models increasingly important. The preference labels are typically available only at the terminal of denoising trajectories, which poses challenges in optimizing the intermediate denoising steps. In this paper, we propose to conduct Denoised Distribution Estimation (DDE) that explicitly connects intermediate steps to the terminal denoised distribution. Therefore, preference labels can be used for the entire trajectory optimization. To this end, we design two estimation strategies for our DDE. The first is stepwise estimation, which utilizes the conditional denoised distribution to estimate the model denoised distribution. The second is single-shot estimation, which converts the model output into the terminal denoised distribution via DDIM modeling. Analytically and empirically, we reveal that DDE equipped with two estimation strategies naturally derives a novel credit assignment scheme that prioritizes optimizing the middle part of the denoising trajectory. Extensive experiments demonstrate that our approach achieves superior performance, both quantitatively and qualitatively.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-12-25",
+    "2025-03-13"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI, cs.CL, cs.LG"
+}

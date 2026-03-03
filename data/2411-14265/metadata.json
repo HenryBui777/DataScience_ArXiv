@@ -1,0 +1,14 @@
+{
+  "title": "A Bayesian mixture model for Poisson network autoregression",
+  "authors": [
+    "Elly Hung",
+    "Anastasia Mantziou",
+    "Gesine Reinert"
+  ],
+  "summary": "In this paper, we propose a new Bayesian Poisson network autoregression mixture model (PNARM). Our model combines ideas from the models of Dahl 2008, Ren et al. 2024 and Armillotta and Fokianos 2024, as it is motivated by the following aims. We consider the problem of modelling multivariate count time series since they arise in many real-world data sets, but has been studied less than its Gaussian-distributed counterpart (Fokianos 2024). Additionally, we assume that the time series occur on the nodes of a known underlying network where the edges dictate the form of the structural vector autoregression model, as a means of imposing sparsity. A further aim is to accommodate heterogeneous node dynamics, and to develop a probabilistic model for clustering nodes that exhibit similar behaviour. We develop an MCMC algorithm for sampling from the model's posterior distribution. The model is applied to a data set of COVID-19 cases in the counties of the Republic of Ireland.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME"
+}

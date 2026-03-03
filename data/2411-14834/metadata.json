@@ -1,0 +1,20 @@
+{
+  "title": "Evaluating the Robustness of the \"Ensemble Everything Everywhere\" Defense",
+  "authors": [
+    "Jie Zhang",
+    "Christian Schlarmann",
+    "Kristina Nikolić",
+    "Nicholas Carlini",
+    "Francesco Croce",
+    "Matthias Hein",
+    "Florian Tramèr"
+  ],
+  "summary": "Ensemble everything everywhere is a defense to adversarial examples that was recently proposed to make image classifiers robust. This defense works by ensembling a model's intermediate representations at multiple noisy image resolutions, producing a single robust classification. This defense was shown to be effective against multiple state-of-the-art attacks. Perhaps even more convincingly, it was shown that the model's gradients are perceptually aligned: attacks against the model produce noise that perceptually resembles the targeted class.\n  In this short note, we show that this defense is not robust to adversarial attack. We first show that the defense's randomness and ensembling method cause severe gradient masking. We then use standard adaptive attack techniques to reduce the defense's robust accuracy from 48% to 14% on CIFAR-100 and from 62% to 11% on CIFAR-10, under the $\\ell_\\infty$-norm threat model with $\\varepsilon=8/255$.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-02-04"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.CR"
+}

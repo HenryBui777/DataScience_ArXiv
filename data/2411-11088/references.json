@@ -1,0 +1,864 @@
+{
+  "2401-08850": {
+    "title": "REValueD: Regularised Ensemble Value-Decomposition for Factorisable Markov Decision Processes",
+    "authors": [
+      "David Ireland",
+      "Giovanni Montana"
+    ],
+    "publication_date": "2024-01-16",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "24d693835fd94ad6d6d48bc01b932a5f9ae85c33",
+    "corpus_id": 267027947,
+    "category": "Computer Science"
+  },
+  "2310-11731": {
+    "title": "Action-Quantized Offline Reinforcement Learning for Robotic Skill Learning",
+    "authors": [
+      "Jianlan Luo",
+      "Perry Dong",
+      "Jeffrey Wu",
+      "Aviral Kumar",
+      "Xinyang Geng",
+      "Sergey Levine"
+    ],
+    "publication_date": "2023-10-18",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "24b2fdff9ab11e9d5782819edadb3cfdf41cd7db",
+    "corpus_id": 264289342,
+    "category": "Computer Science"
+  },
+  "2309-10150": {
+    "title": "Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions",
+    "authors": [
+      "Yevgen Chebotar",
+      "Q. Vuong",
+      "A. Irpan",
+      "Karol Hausman",
+      "F. Xia",
+      "Yao Lu",
+      "Aviral Kumar",
+      "Tianhe Yu",
+      "Alexander Herzog",
+      "Karl Pertsch",
+      "K. Gopalakrishnan",
+      "Julian Ibarz",
+      "Ofir Nachum",
+      "S. Sontakke",
+      "Grecia Salazar",
+      "Huong Tran",
+      "Jodilyn Peralta",
+      "Clayton Tan",
+      "D. Manjunath",
+      "Jaspiar Singht",
+      "Brianna Zitkovich",
+      "Tomas Jackson",
+      "Kanishka Rao",
+      "Chelsea Finn",
+      "S. Levine"
+    ],
+    "publication_date": "2023-09-18",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "bf89341e16fc0a379ab5e4c6370cf7ea4e9afd03",
+    "corpus_id": 262054345,
+    "category": "Computer Science"
+  },
+  "2307-07014": {
+    "title": "Leveraging Factored Action Spaces for Off-Policy Evaluation",
+    "authors": [
+      "Aaman Rebello",
+      "Shengpu Tang",
+      "J. Wiens",
+      "Sonali Parbhoo Department of Engineering",
+      "I. -. London",
+      "Division of Computer ScienceEngineering",
+      "U. Michigan"
+    ],
+    "publication_date": "2023-07-13",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "af4dc936c434fc6626cf7902172fa2aa269944f3",
+    "corpus_id": 259924777,
+    "category": "Computer Science, Mathematics"
+  },
+  "2305-01738": {
+    "title": "Leveraging Factored Action Spaces for Efficient Offline Reinforcement Learning in Healthcare",
+    "authors": [
+      "Shengpu Tang",
+      "Maggie Makar",
+      "M. Sjoding",
+      "F. Doshi-Velez",
+      "J. Wiens"
+    ],
+    "publication_date": "2023-05-02",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "7cd1e05e0679dac5c5b65f9894756c7f6bcb4f94",
+    "corpus_id": 254562330,
+    "category": "Computer Science"
+  },
+  "2303-14716": {
+    "title": "Balancing policy constraint and ensemble size in uncertainty-based offline reinforcement learning",
+    "authors": [
+      "Alex Beeson",
+      "G. Montana"
+    ],
+    "publication_date": "2023-03-26",
+    "venue": "Machine-mediated learning",
+    "semantic_scholar_id": "acacd9b70d31cabe968f0370d446273c4384c55b",
+    "corpus_id": 257767003,
+    "category": "Computer Science"
+  },
+  "2301-13616": {
+    "title": "Anti-Exploration by Random Network Distillation",
+    "authors": [
+      "Alexander Nikulin",
+      "Vladislav Kurenkov",
+      "Denis Tarasov",
+      "Sergey Kolesnikov"
+    ],
+    "publication_date": "2023-01-31",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "7205658bdd14cc80d7c0b2057e88154aa50b7db6",
+    "corpus_id": 256416086,
+    "category": "Computer Science"
+  },
+  "2210-12566": {
+    "title": "Solving Continuous Control via Q-learning",
+    "authors": [
+      "Tim Seyde",
+      "Peter Werner",
+      "Wilko Schwarting",
+      "Igor Gilitschenski",
+      "Martin A. Riedmiller",
+      "Daniela Rus",
+      "Markus Wulfmeier"
+    ],
+    "publication_date": "2022-10-22",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "dd95d004827a6183146b2f497c9cbbd30803aeed",
+    "corpus_id": 253098130,
+    "category": "Computer Science"
+  },
+  "2206-02829": {
+    "title": "RORL: Robust Offline Reinforcement Learning via Conservative Smoothing",
+    "authors": [
+      "Rui Yang",
+      "Chenjia Bai",
+      "Xiaoteng Ma",
+      "Zhaoran Wang",
+      "Chongjie Zhang",
+      "Lei Han"
+    ],
+    "publication_date": "2022-06-06",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "2d71f3da1037a4b0631bc2506694f6b3b90a9b0b",
+    "corpus_id": 249431425,
+    "category": "Computer Science, Mathematics"
+  },
+  "2205-13703": {
+    "title": "Why So Pessimistic? Estimating Uncertainties for Offline RL through Ensembles, and Why Their Independence Matters",
+    "authors": [
+      "Seyed Kamyar Seyed Ghasemipour",
+      "S. Gu",
+      "Ofir Nachum"
+    ],
+    "publication_date": "2022-05-27",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "5b353418cf914dccf85cfefcbdda892b600fdc6e",
+    "corpus_id": 245962419,
+    "category": "Computer Science"
+  },
+  "2205-09991": {
+    "title": "Planning with Diffusion for Flexible Behavior Synthesis",
+    "authors": [
+      "Michael Janner",
+      "Yilun Du",
+      "J. Tenenbaum",
+      "S. Levine"
+    ],
+    "publication_date": "2022-05-20",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "3ebdd3db0dd91069fa0cd31cbf8308b60b1b565e",
+    "corpus_id": 248965046,
+    "category": "Computer Science"
+  },
+  "2202-11566": {
+    "title": "Pessimistic Bootstrapping for Uncertainty-Driven Offline Reinforcement Learning",
+    "authors": [
+      "Chenjia Bai",
+      "Lingxiao Wang",
+      "Zhuoran Yang",
+      "Zhihong Deng",
+      "Animesh Garg",
+      "Peng Liu",
+      "Zhaoran Wang"
+    ],
+    "publication_date": "2022-02-23",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "23abe79046d7f7b430d5d21b6a93598d0aa1b9c2",
+    "corpus_id": 247058767,
+    "category": "Computer Science"
+  },
+  "2111-02552": {
+    "title": "Is Bang-Bang Control All You Need? Solving Continuous Control with Bernoulli Policies",
+    "authors": [
+      "Tim Seyde",
+      "Igor Gilitschenski",
+      "Wilko Schwarting",
+      "Bartolomeo Stellato",
+      "Martin A. Riedmiller",
+      "Markus Wulfmeier",
+      "D. Rus"
+    ],
+    "publication_date": "2021-11-03",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "946af0e7efcc025c5dd2f652ce453528771411b6",
+    "corpus_id": 242757596,
+    "category": "Computer Science"
+  },
+  "2110-06169": {
+    "title": "Offline Reinforcement Learning with Implicit Q-Learning",
+    "authors": [
+      "Ilya Kostrikov",
+      "Ashvin Nair",
+      "S. Levine"
+    ],
+    "publication_date": "2021-10-12",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "348a855fe01f3f4273bf0ecf851ca688686dbfcc",
+    "corpus_id": 238634325,
+    "category": "Computer Science"
+  },
+  "2110-01548": {
+    "title": "Uncertainty-Based Offline Reinforcement Learning with Diversified Q-Ensemble",
+    "authors": [
+      "Gaon An",
+      "Seungyong Moon",
+      "Jang-Hyun Kim",
+      "Hyun Oh Song"
+    ],
+    "publication_date": "2021-10-04",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "9560080a2c32682bd1c1a9850a54ca6163f1956e",
+    "corpus_id": 238259863,
+    "category": "Computer Science"
+  },
+  "2106-08909": {
+    "title": "Offline RL Without Off-Policy Evaluation",
+    "authors": [
+      "David Brandfonbrener",
+      "William F. Whitney",
+      "R. Ranganath",
+      "Joan Bruna"
+    ],
+    "publication_date": "2021-06-16",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "a3b82f4fc10caf6243afbd77c9c990ce03ae36d1",
+    "corpus_id": 235446964,
+    "category": "Computer Science, Mathematics"
+  },
+  "2106-06860": {
+    "title": "A Minimalist Approach to Offline Reinforcement Learning",
+    "authors": [
+      "Scott Fujimoto",
+      "S. Gu"
+    ],
+    "publication_date": "2021-06-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "c879b25308026d6538e52b27bcf4fd3cb60855f3",
+    "corpus_id": 235422620,
+    "category": "Computer Science, Mathematics"
+  },
+  "2104-06303": {
+    "title": "Learning and Planning in Complex Action Spaces",
+    "authors": [
+      "T. Hubert",
+      "Julian Schrittwieser",
+      "Ioannis Antonoglou",
+      "M. Barekatain",
+      "Simon Schmitt",
+      "David Silver"
+    ],
+    "publication_date": "2021-04-13",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "2a78e2a8635d24326e69d772ec1473b7e002e082",
+    "corpus_id": 233219782,
+    "category": "Computer Science"
+  },
+  "2103-08050": {
+    "title": "Offline Reinforcement Learning with Fisher Divergence Critic Regularization",
+    "authors": [
+      "Ilya Kostrikov",
+      "Jonathan Tompson",
+      "R. Fergus",
+      "Ofir Nachum"
+    ],
+    "publication_date": "2021-03-14",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "362cc80481b288874af0428107ab31e955dcf09f",
+    "corpus_id": 232233412,
+    "category": "Computer Science"
+  },
+  "2102-08363": {
+    "title": "COMBO: Conservative Offline Model-Based Policy Optimization",
+    "authors": [
+      "Tianhe Yu",
+      "Aviral Kumar",
+      "Rafael Rafailov",
+      "A. Rajeswaran",
+      "S. Levine",
+      "Chelsea Finn"
+    ],
+    "publication_date": "2021-02-16",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "245682e8b3fa76f4a3e2991b5497577af95cbb3f",
+    "corpus_id": 231934209,
+    "category": "Computer Science"
+  },
+  "2011-07213": {
+    "title": "PLAS: Latent Action Space for Offline Reinforcement Learning",
+    "authors": [
+      "Wenxuan Zhou",
+      "Sujay Bajracharya",
+      "David Held"
+    ],
+    "publication_date": "2020-11-14",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "cff6566e92e71c8fcc5cfa5d16eef34e95b1a1f3",
+    "corpus_id": 226964355,
+    "category": "Computer Science"
+  },
+  "2008-05533": {
+    "title": "Overcoming Model Bias for Robust Offline Deep Reinforcement Learning",
+    "authors": [
+      "Phillip Swazinna",
+      "S. Udluft",
+      "T. Runkler"
+    ],
+    "publication_date": "2020-08-12",
+    "venue": "Engineering applications of artificial intelligence",
+    "semantic_scholar_id": "124b683a6f0f8ac8e13e204dfcd30a5497ab581d",
+    "corpus_id": 221112877,
+    "category": "Computer Science, Mathematics"
+  },
+  "2008-05556": {
+    "title": "Model-Based Offline Planning",
+    "authors": [
+      "Arthur Argenson",
+      "Gabriel Dulac-Arnold"
+    ],
+    "publication_date": "2020-08-12",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "3cb8e96faba73efa027fa858e2a78cd1fc3c6e4d",
+    "corpus_id": 221112471,
+    "category": "Computer Science, Engineering, Mathematics"
+  },
+  "2006-12983": {
+    "title": "dm_control: Software and Tasks for Continuous Control",
+    "authors": [
+      "Yuval Tassa",
+      "S. Tunyasuvunakool",
+      "Alistair Muldal",
+      "Yotam Doron",
+      "Siqi Liu",
+      "Steven Bohez",
+      "J. Merel",
+      "Tom Erez",
+      "T. Lillicrap",
+      "N. Heess"
+    ],
+    "publication_date": "2020-06-22",
+    "venue": "Softw. Impacts",
+    "semantic_scholar_id": "8ba600c169f0d2422625822223976bce562eabe1",
+    "corpus_id": 219980295,
+    "category": "Computer Science"
+  },
+  "2006-10800": {
+    "title": "Weighted QMIX: Expanding Monotonic Value Function Factorisation",
+    "authors": [
+      "Tabish Rashid",
+      "Gregory Farquhar",
+      "Bei Peng",
+      "S. Whiteson"
+    ],
+    "publication_date": "2020-06-18",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "1c4809748affb4d4f24d013ab4cd1b58ce4bd1f1",
+    "corpus_id": 225053994,
+    "category": "Computer Science, Mathematics"
+  },
+  "2006-04779": {
+    "title": "Conservative Q-Learning for Offline Reinforcement Learning",
+    "authors": [
+      "Aviral Kumar",
+      "Aurick Zhou",
+      "G. Tucker",
+      "S. Levine"
+    ],
+    "publication_date": "2020-06-08",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "28db20a81eec74a50204686c3cf796c42a020d2e",
+    "corpus_id": 219530894,
+    "category": "Computer Science, Mathematics"
+  },
+  "2005-13239": {
+    "title": "MOPO: Model-based Offline Policy Optimization",
+    "authors": [
+      "Tianhe Yu",
+      "G. Thomas",
+      "Lantao Yu",
+      "Stefano Ermon",
+      "James Y. Zou",
+      "S. Levine",
+      "Chelsea Finn",
+      "Tengyu Ma"
+    ],
+    "publication_date": "2020-05-27",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "dea0f1c5949f8d898b9b6ff68226a781558e413c",
+    "corpus_id": 218900501,
+    "category": "Computer Science, Mathematics"
+  },
+  "2005-05951": {
+    "title": "MOReL : Model-Based Offline Reinforcement Learning",
+    "authors": [
+      "Rahul Kidambi",
+      "A. Rajeswaran",
+      "Praneeth Netrapalli",
+      "T. Joachims"
+    ],
+    "publication_date": "2020-05-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "309c2c5ee60e725244da09180f913cd8d4b8d4e9",
+    "corpus_id": 218595964,
+    "category": "Computer Science, Mathematics"
+  },
+  "2005-01643": {
+    "title": "Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems",
+    "authors": [
+      "S. Levine",
+      "Aviral Kumar",
+      "G. Tucker",
+      "Justin Fu"
+    ],
+    "publication_date": "2020-05-04",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "5e7bc93622416f14e6948a500278bfbe58cd3890",
+    "corpus_id": 218486979,
+    "category": "Computer Science, Mathematics"
+  },
+  "2004-07219": {
+    "title": "D4RL: Datasets for Deep Data-Driven Reinforcement Learning",
+    "authors": [
+      "Justin Fu",
+      "Aviral Kumar",
+      "Ofir Nachum",
+      "G. Tucker",
+      "S. Levine"
+    ],
+    "publication_date": "2020-04-15",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "a326d9f2d2d351001fece788165dbcbb524da2e4",
+    "corpus_id": 215827910,
+    "category": "Computer Science, Mathematics"
+  },
+  "2003-08839": {
+    "title": "Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning",
+    "authors": [
+      "Tabish Rashid",
+      "Mikayel Samvelyan",
+      "C. S. D. Witt",
+      "Gregory Farquhar",
+      "J. Foerster",
+      "S. Whiteson"
+    ],
+    "publication_date": "2020-03-19",
+    "venue": "Journal of machine learning research",
+    "semantic_scholar_id": "3f5f13c6f5c659754086a7faa51d6bc60f577cd1",
+    "corpus_id": 213176860,
+    "category": "Computer Science, Mathematics"
+  },
+  "2002-00444": {
+    "title": "Deep Reinforcement Learning for Autonomous Driving: A Survey",
+    "authors": [
+      "B. R. Kiran",
+      "Ibrahim Sobh",
+      "V. Talpaert",
+      "P. Mannion",
+      "A. A. Sallab",
+      "S. Yogamani",
+      "P. P'erez"
+    ],
+    "publication_date": "2020-02-02",
+    "venue": "IEEE transactions on intelligent transportation systems (Print)",
+    "semantic_scholar_id": "129983331ca874142a3e8eb2d93d820bdf1f9aca",
+    "corpus_id": 211011033,
+    "category": "Computer Science"
+  },
+  "2001-08116": {
+    "title": "Q-Learning in enormous action spaces via amortized approximate maximization",
+    "authors": [
+      "T. Wiele",
+      "David Warde-Farley",
+      "A. Mnih",
+      "Volodymyr Mnih"
+    ],
+    "publication_date": "2020-01-22",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "9d852b4575608e68b7bc6bea0eba58d92cceb1dd",
+    "corpus_id": 210859284,
+    "category": "Computer Science, Mathematics"
+  },
+  "1910-01708": {
+    "title": "Benchmarking Batch Deep Reinforcement Learning Algorithms",
+    "authors": [
+      "Scott Fujimoto",
+      "Edoardo Conti",
+      "M. Ghavamzadeh",
+      "Joelle Pineau"
+    ],
+    "publication_date": "2019-10-03",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "1534d860ab98b64d23ffa741d0ae52b6cadbf503",
+    "corpus_id": 203734738,
+    "category": "Computer Science, Mathematics"
+  },
+  "1911-11361": {
+    "title": "Behavior Regularized Offline Reinforcement Learning",
+    "authors": [
+      "Yifan Wu",
+      "G. Tucker",
+      "Ofir Nachum"
+    ],
+    "publication_date": "2019-09-25",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "9be492858863c8c7c24be1ecb75724de5086bd8e",
+    "corpus_id": 208291277,
+    "category": "Computer Science, Mathematics"
+  },
+  "1908-08796": {
+    "title": "Reinforcement Learning in Healthcare: A Survey",
+    "authors": [
+      "Chao Yu",
+      "Jiming Liu",
+      "S. Nemati"
+    ],
+    "publication_date": "2019-08-22",
+    "venue": "ACM Computing Surveys",
+    "semantic_scholar_id": "222baa4e9e7ce691fdfddbc826a70e027daed70d",
+    "corpus_id": 201645209,
+    "category": "Computer Science"
+  },
+  "1906-12266": {
+    "title": "Growing Action Spaces",
+    "authors": [
+      "Gregory Farquhar",
+      "Laura Gustafson",
+      "Zeming Lin",
+      "S. Whiteson",
+      "Nicolas Usunier",
+      "Gabriel Synnaeve"
+    ],
+    "publication_date": "2019-06-28",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "2e01adc302623c68feea2cfd206a24c593ab27ba",
+    "corpus_id": 195750710,
+    "category": "Computer Science, Mathematics"
+  },
+  "1906-00949": {
+    "title": "Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction",
+    "authors": [
+      "Aviral Kumar",
+      "Justin Fu",
+      "G. Tucker",
+      "S. Levine"
+    ],
+    "publication_date": "2019-06-03",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "82b4b03a4659d6e04bd7cbf51d6e08fde1348dbd",
+    "corpus_id": 173990380,
+    "category": "Computer Science, Mathematics"
+  },
+  "1902-00183": {
+    "title": "Learning Action Representations for Reinforcement Learning",
+    "authors": [
+      "Yash Chandak",
+      "Georgios Theocharous",
+      "James E. Kostas",
+      "Emma Jordan",
+      "P. Thomas"
+    ],
+    "publication_date": "2019-02-01",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "4c54efd3b9ce84f4268b165f5896c0692a50bcd1",
+    "corpus_id": 59553460,
+    "category": "Computer Science, Mathematics"
+  },
+  "1901-10500": {
+    "title": "Discretizing Continuous Action Space for On-Policy Optimization",
+    "authors": [
+      "Yunhao Tang",
+      "Shipra Agrawal"
+    ],
+    "publication_date": "2019-01-29",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "54e0f2c7ddc0a92d4f7f1076141088bca65675d7",
+    "corpus_id": 59413894,
+    "category": "Computer Science"
+  },
+  "1812-02900": {
+    "title": "Off-Policy Deep Reinforcement Learning without Exploration",
+    "authors": [
+      "Scott Fujimoto",
+      "D. Meger",
+      "Doina Precup"
+    ],
+    "publication_date": "2018-12-07",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "5285cb8faada5de8a92a47622950f6cfd476ac1d",
+    "corpus_id": 54457299,
+    "category": "Computer Science, Mathematics"
+  },
+  "1809-07731": {
+    "title": "Benchmarking Reinforcement Learning Algorithms on Real-World Robots",
+    "authors": [
+      "A. Mahmood",
+      "D. Korenkevych",
+      "G. Vasan",
+      "William Ma",
+      "J. Bergstra"
+    ],
+    "publication_date": "2018-09-20",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "40cc7cdffa0a861cb557410518246d97d1678642",
+    "corpus_id": 52306614,
+    "category": "Computer Science, Mathematics"
+  },
+  "1806-10293": {
+    "title": "QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation",
+    "authors": [
+      "Dmitry Kalashnikov",
+      "A. Irpan",
+      "P. Pastor",
+      "Julian Ibarz",
+      "Alexander Herzog",
+      "Eric Jang",
+      "Deirdre Quillen",
+      "E. Holly",
+      "Mrinal Kalakrishnan",
+      "Vincent Vanhoucke",
+      "S. Levine"
+    ],
+    "publication_date": "2018-06-27",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "eb37e7b76d26b75463df22b2a3aa32b6a765c672",
+    "corpus_id": 49470584,
+    "category": "Computer Science, Mathematics"
+  },
+  "1805-12298": {
+    "title": "Evaluating Reinforcement Learning Algorithms in Observational Health Settings",
+    "authors": [
+      "Omer Gottesman",
+      "Fredrik D. Johansson",
+      "Joshua Meier",
+      "Jack Dent",
+      "Donghun Lee",
+      "Srivatsan Srinivasan",
+      "Linying Zhang",
+      "Yi Ding",
+      "David Wihl",
+      "Xuefeng Peng",
+      "Jiayu Yao",
+      "Isaac Lage",
+      "C. Mosch",
+      "Li-wei H. Lehman",
+      "M. Komorowski",
+      "A. Faisal",
+      "L. Celi",
+      "D. Sontag",
+      "F. Doshi-Velez"
+    ],
+    "publication_date": "2018-05-31",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "f21b4bfafa12ca1434b2b73c19cb2178b88bca3f",
+    "corpus_id": 44152464,
+    "category": "Computer Science, Mathematics"
+  },
+  "1805-02343": {
+    "title": "Deep reinforcement learning for page-wise recommendations",
+    "authors": [
+      "Xiangyu Zhao",
+      "Long Xia",
+      "L. Zhang",
+      "Zhuoye Ding",
+      "Dawei Yin",
+      "Jiliang Tang"
+    ],
+    "publication_date": "2018-05-07",
+    "venue": "ACM Conference on Recommender Systems",
+    "semantic_scholar_id": "5956c34032126185d8ad19695e4a1a191c08b5a1",
+    "corpus_id": 24131880,
+    "category": "Computer Science"
+  },
+  "1802-09477": {
+    "title": "Addressing Function Approximation Error in Actor-Critic Methods",
+    "authors": [
+      "Scott Fujimoto",
+      "H. V. Hoof",
+      "D. Meger"
+    ],
+    "publication_date": "2018-02-26",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "4debb99c0c63bfaa97dd433bc2828e4dac81c48b",
+    "corpus_id": 3544558,
+    "category": "Computer Science, Mathematics"
+  },
+  "1803-00933": {
+    "title": "Distributed Prioritized Experience Replay",
+    "authors": [
+      "Dan Horgan",
+      "John Quan",
+      "D. Budden",
+      "Gabriel Barth-Maron",
+      "Matteo Hessel",
+      "H. V. Hasselt",
+      "David Silver"
+    ],
+    "publication_date": "2018-02-15",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "601a2d349fc26d7b82f905e924e2f91b0ac4b310",
+    "corpus_id": 3463260,
+    "category": "Computer Science, Mathematics"
+  },
+  "1711-08946": {
+    "title": "Action Branching Architectures for Deep Reinforcement Learning",
+    "authors": [
+      "Arash Tavakoli",
+      "Fabio Pardo",
+      "Petar Kormushev"
+    ],
+    "publication_date": "2017-11-24",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "dbcfd796d65cecef0385f30fae6af3e10753fd67",
+    "corpus_id": 962757,
+    "category": "Computer Science, Mathematics"
+  },
+  "1710-02298": {
+    "title": "Rainbow: Combining Improvements in Deep Reinforcement Learning",
+    "authors": [
+      "Matteo Hessel",
+      "Joseph Modayil",
+      "H. V. Hasselt",
+      "T. Schaul",
+      "Georg Ostrovski",
+      "Will Dabney",
+      "Dan Horgan",
+      "Bilal Piot",
+      "M. G. Azar",
+      "David Silver"
+    ],
+    "publication_date": "2017-10-06",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "0ab3f7ecbdc5a33565a234215604a6ca9d155a33",
+    "corpus_id": 19135734,
+    "category": "Computer Science"
+  },
+  "1706-05296": {
+    "title": "Value-Decomposition Networks For Cooperative Multi-Agent Learning",
+    "authors": [
+      "P. Sunehag",
+      "Guy Lever",
+      "A. Gruslys",
+      "Wojciech M. Czarnecki",
+      "V. Zambaldi",
+      "Max Jaderberg",
+      "Marc Lanctot",
+      "Nicolas Sonnerat",
+      "Joel Z. Leibo",
+      "K. Tuyls",
+      "T. Graepel"
+    ],
+    "publication_date": "2017-06-16",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "250bf5e1d40a619080dec553914c2905db6008c7",
+    "corpus_id": 25026734,
+    "category": "Computer Science"
+  },
+  "1705-07269": {
+    "title": "Learning to Factor Policies and Action-Value Functions: Factored Action Space Representations for Deep Reinforcement learning",
+    "authors": [
+      "Sahil Sharma",
+      "A. Suresh",
+      "Rahul Ramesh",
+      "Balaraman Ravindran"
+    ],
+    "publication_date": "2017-05-20",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "699d3449b82a635d4fbdf3b0946d31b4d78f0cea",
+    "corpus_id": 2865385,
+    "category": "Computer Science"
+  },
+  "1705-05035": {
+    "title": "Discrete Sequential Prediction of Continuous Actions for Deep RL",
+    "authors": [
+      "Luke Metz",
+      "Julian Ibarz",
+      "N. Jaitly",
+      "James Davidson"
+    ],
+    "publication_date": "2017-05-14",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "0c2954912936b59162881374164fe79e7b2bb66f",
+    "corpus_id": 1779899,
+    "category": "Computer Science, Mathematics"
+  },
+  "1512-07679": {
+    "title": "Deep Reinforcement Learning in Large Discrete Action Spaces",
+    "authors": [
+      "Gabriel Dulac-Arnold",
+      "Richard Evans",
+      "H. V. Hasselt",
+      "P. Sunehag",
+      "T. Lillicrap",
+      "Jonathan J. Hunt",
+      "Timothy A. Mann",
+      "T. Weber",
+      "T. Degris",
+      "Ben Coppin"
+    ],
+    "publication_date": "2015-12-24",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "3b2aff88ee03e82993c066c3e698d51da62d5496",
+    "corpus_id": 13512886,
+    "category": "Computer Science, Mathematics"
+  },
+  "1312-5602": {
+    "title": "Playing Atari with Deep Reinforcement Learning",
+    "authors": [
+      "Volodymyr Mnih",
+      "K. Kavukcuoglu",
+      "David Silver",
+      "Alex Graves",
+      "Ioannis Antonoglou",
+      "D. Wierstra",
+      "Martin A. Riedmiller"
+    ],
+    "publication_date": "2013-12-19",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "2319a491378867c7049b3da055c5df60e1671158",
+    "corpus_id": 15238391,
+    "category": "Computer Science"
+  },
+  "1106-1822": {
+    "title": "Efficient Solution Algorithms for Factored MDPs",
+    "authors": [
+      "Carlos Guestrin",
+      "D. Koller",
+      "Ronald E. Parr",
+      "Shobha Venkataraman"
+    ],
+    "publication_date": "2003-07-01",
+    "venue": "Journal of Artificial Intelligence Research",
+    "semantic_scholar_id": "2430b4748c4ffe8782ae4763d327ce48f3655639",
+    "corpus_id": 1598016,
+    "category": "Computer Science, Mathematics"
+  }
+}

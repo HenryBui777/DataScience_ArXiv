@@ -1,0 +1,17 @@
+{
+  "title": "Matroid Secretary via Labeling Schemes",
+  "authors": [
+    "Kristóf Bérczi",
+    "Vasilis Livanos",
+    "José Soto",
+    "Victor Verdugo"
+  ],
+  "summary": "The Matroid Secretary Problem (MSP) is one of the most prominent settings for online resource allocation and optimal stopping. A decision-maker is presented with a ground set of elements $E$ revealed sequentially and in random order. Upon arrival, an irrevocable decision is made in a take-it-or-leave-it fashion, subject to a feasibility constraint on the set of selected elements captured by a matroid defined over $E$. The decision-maker only has ordinal access to compare the elements, and the goal is to design an algorithm that selects every element of the optimal basis with probability at least $α$ (i.e., $α$-probability-competitive). While the existence of a constant probability-competitive algorithm for MSP remains a major open question, simple greedy policies are at the core of state-of-the-art algorithms for several matroid classes.\n  We introduce a flexible and general algorithmic framework to analyze greedy-like algorithms for MSP based on constructing a language associated with the matroid. Using this language, we establish a lower bound on the probability-competitiveness of the algorithm by studying a corresponding Poisson point process that governs the words' distribution in the language. Using our framework, we break the state-of-the-art guarantee for laminar matroids by settling the probability-competitiveness of the greedy-improving algorithm to be exactly $1-\\ln(2) \\approx 0.3068$. We also showcase the capabilities of our framework in graphic matroids, to show a probability-competitiveness of $0.2693$ for simple graphs and $0.2504$ for general graphs.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-05-30"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DS"
+}

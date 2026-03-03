@@ -1,0 +1,927 @@
+{
+  "2312-08760": {
+    "title": "CF-NeRF: Camera Parameter Free Neural Radiance Fields with Incremental Learning",
+    "authors": [
+      "Q. Yan",
+      "Qiang Wang",
+      "Kaiyong Zhao",
+      "Jie Chen",
+      "Bo Li",
+      "Xiaowen Chu",
+      "Fei Deng"
+    ],
+    "publication_date": "2023-12-14",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "3c3ca076611e0f61db7a957b902191c3502584f1",
+    "corpus_id": 266210404,
+    "category": "Computer Science"
+  },
+  "2306-06359": {
+    "title": "NeRFool: Uncovering the Vulnerability of Generalizable Neural Radiance Fields against Adversarial Perturbations",
+    "authors": [
+      "Y. Fu",
+      "Ye Yuan",
+      "Souvik Kundu",
+      "Shang Wu",
+      "Shunyao Zhang",
+      "Yingyan Lin"
+    ],
+    "publication_date": "2023-06-10",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "dbdaa5ad79a4edcdd23ffd503d78e7b62bc5c883",
+    "corpus_id": 259138636,
+    "category": "Computer Science"
+  },
+  "2304-07743": {
+    "title": "SeaThru-NeRF: Neural Radiance Fields in Scattering Media",
+    "authors": [
+      "Deborah Levy",
+      "Amit Peleg",
+      "Naama Pearl",
+      "Dan Rosenbaum",
+      "D. Akkaynak",
+      "Simon Korman",
+      "T. Treibitz"
+    ],
+    "publication_date": "2023-04-16",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "a49f2aad6c30361c0e91c700259ddc4080e4bac7",
+    "corpus_id": 258180131,
+    "category": "Computer Science"
+  },
+  "2304-01194": {
+    "title": "Burstormer: Burst Image Restoration and Enhancement Transformer",
+    "authors": [
+      "Akshay Dudhane",
+      "Syed Waqas Zamir",
+      "Salman Siddique Khan",
+      "F. Khan",
+      "Ming Yang"
+    ],
+    "publication_date": "2023-04-03",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "c1e4ec66c90756dfb7a5373bed46d0fed08749bc",
+    "corpus_id": 257913051,
+    "category": "Computer Science"
+  },
+  "2303-18139": {
+    "title": "Efficient View Synthesis and 3D-based Multi-Frame Denoising with Multiplane Feature Representations",
+    "authors": [
+      "T. Tanay",
+      "A. Leonardis",
+      "Matteo Maggioni"
+    ],
+    "publication_date": "2023-03-31",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "e3735bbe3ee90296aa44d4719bd40903320cd8c5",
+    "corpus_id": 257900771,
+    "category": "Computer Science"
+  },
+  "2303-11364": {
+    "title": "DehazeNeRF: Multiple Image Haze Removal and 3D Shape Reconstruction using Neural Radiance Fields",
+    "authors": [
+      "Wei-Ting Chen",
+      "Wang Yifan",
+      "Sy-Yen Kuo",
+      "Gordon Wetzstein"
+    ],
+    "publication_date": "2023-03-20",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "6165a67b4438cde59d7e8070661261d6a0b640ea",
+    "corpus_id": 257636640,
+    "category": "Computer Science"
+  },
+  "2303-05807": {
+    "title": "Aleth-NeRF: Low-light Condition View Synthesis with Concealing Fields",
+    "authors": [
+      "Ziteng Cui",
+      "Lin Gu",
+      "Xiao Sun",
+      "Y. Qiao",
+      "Tatsuya Harada"
+    ],
+    "publication_date": "2023-03-10",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "a16a3cd92d147b2caaf41b20aa28b8b36188ae70",
+    "corpus_id": 257482597,
+    "category": "Computer Science"
+  },
+  "2301-09632": {
+    "title": "HexPlane: A Fast Representation for Dynamic Scenes",
+    "authors": [
+      "Ang Cao",
+      "Justin Johnson"
+    ],
+    "publication_date": "2023-01-23",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "a6c3dce03b16c366ba28dfa2232fb68d562e5474",
+    "corpus_id": 256105095,
+    "category": "Computer Science"
+  },
+  "2301-04075": {
+    "title": "Benchmarking Robustness in Neural Radiance Fields",
+    "authors": [
+      "Chen Wang",
+      "Angtian Wang",
+      "Junbo Li",
+      "A. Yuille",
+      "Cihang Xie"
+    ],
+    "publication_date": "2023-01-10",
+    "venue": "2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "semantic_scholar_id": "eaf0c04e9784d6efc8f9ce16d1d9c3ae43506ad9",
+    "corpus_id": 255569926,
+    "category": "Computer Science"
+  },
+  "2212-08051": {
+    "title": "Objaverse: A Universe of Annotated 3D Objects",
+    "authors": [
+      "Matt Deitke",
+      "Dustin Schwenk",
+      "Jordi Salvador",
+      "Luca Weihs",
+      "Oscar Michel",
+      "Eli VanderBilt",
+      "Ludwig Schmidt",
+      "Kiana Ehsani",
+      "Aniruddha Kembhavi",
+      "Ali Farhadi"
+    ],
+    "publication_date": "2022-12-15",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "1b31dbf44e68b698120552366df03e6e35a1e428",
+    "corpus_id": 254685588,
+    "category": "Computer Science"
+  },
+  "2211-12853": {
+    "title": "BAD-NeRF: Bundle Adjusted Deblur Neural Radiance Fields",
+    "authors": [
+      "Peng Wang",
+      "Lingzhe Zhao",
+      "Rui Ma",
+      "Peidong Liu"
+    ],
+    "publication_date": "2022-11-23",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "314f1d10c228b32a3d64550f20841786c7f30c40",
+    "corpus_id": 253802024,
+    "category": "Computer Science"
+  },
+  "2211-12046": {
+    "title": "DP-NeRF: Deblurred Neural Radiance Field with Physical Scene Priors",
+    "authors": [
+      "Dogyoon Lee",
+      "Minhyeok Lee",
+      "Chajin Shin",
+      "Sangyoun Lee"
+    ],
+    "publication_date": "2022-11-22",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "dc32021df1c3692601fa2d4747e41f73005eda4f",
+    "corpus_id": 253761182,
+    "category": "Computer Science"
+  },
+  "2211-11423": {
+    "title": "Blur Interpolation Transformer for Real-World Motion from Blur",
+    "authors": [
+      "Zhihang Zhong",
+      "Ming Cao",
+      "Xiang Ji",
+      "Yinqiang Zheng",
+      "Imari Sato"
+    ],
+    "publication_date": "2022-11-21",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "6c0c83ece345575ae7140934f06aa20669ee236d",
+    "corpus_id": 253734248,
+    "category": "Computer Science"
+  },
+  "2211-09682": {
+    "title": "AligNeRF: High-Fidelity Neural Radiance Fields via Alignment-Aware Training",
+    "authors": [
+      "Yifan Jiang",
+      "Peter Hedman",
+      "B. Mildenhall",
+      "Dejia Xu",
+      "J. Barron",
+      "Zhangyang Wang",
+      "Tianfan Xue"
+    ],
+    "publication_date": "2022-11-17",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "0e4bcfa22adeb54759a9794fc745f750fe92defa",
+    "corpus_id": 253581353,
+    "category": "Computer Science"
+  },
+  "2208-06787": {
+    "title": "HDR-Plenoxels: Self-Calibrating High Dynamic Range Radiance Fields",
+    "authors": [
+      "Kim Jun-Seong",
+      "Yu-Ji Kim",
+      "Moon Ye-Bin",
+      "Tae-Hyun Oh"
+    ],
+    "publication_date": "2022-08-14",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "b0d9a0309b277ed36bf8e80db8a77292d1435d6d",
+    "corpus_id": 251564325,
+    "category": "Computer Science"
+  },
+  "2207-13298": {
+    "title": "Is Attention All That NeRF Needs?",
+    "authors": [
+      "T. MukundVarma",
+      "Peihao Wang",
+      "Xuxi Chen",
+      "Tianlong Chen",
+      "Subhashini Venugopalan",
+      "Zhangyang Wang"
+    ],
+    "publication_date": "2022-07-27",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "b3bee2d9bec8f4b28eaaab963cc63eec6b0ee744",
+    "corpus_id": 251104701,
+    "category": "Computer Science"
+  },
+  "2207-10662": {
+    "title": "Generalizable Patch-Based Neural Rendering",
+    "authors": [
+      "M. Suhail",
+      "Carlos Esteves",
+      "L. Sigal",
+      "A. Makadia"
+    ],
+    "publication_date": "2022-07-21",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "026c7b5f9cd232667d289ba2113cc21a0c18c178",
+    "corpus_id": 250920359,
+    "category": "Computer Science"
+  },
+  "2205-04437": {
+    "title": "Activating More Pixels in Image Super-Resolution Transformer",
+    "authors": [
+      "Xiangyu Chen",
+      "Xintao Wang",
+      "Jiantao Zhou",
+      "Chao Dong"
+    ],
+    "publication_date": "2022-05-09",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2bbffec6395d3a8f81f5fe9137f7e078bd0f0336",
+    "corpus_id": 248572065,
+    "category": "Engineering, Computer Science"
+  },
+  "2204-04668": {
+    "title": "NAN: Noise-Aware NeRFs for Burst-Denoising",
+    "authors": [
+      "Naama Pearl",
+      "T. Treibitz",
+      "Simon Korman"
+    ],
+    "publication_date": "2022-04-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "27622ab8eafe2aa886b4398c07456ca1e6074b6a",
+    "corpus_id": 248084878,
+    "category": "Computer Science"
+  },
+  "2204-04676": {
+    "title": "Simple Baselines for Image Restoration",
+    "authors": [
+      "Liangyu Chen",
+      "Xiaojie Chu",
+      "X. Zhang",
+      "Jian Sun"
+    ],
+    "publication_date": "2022-04-10",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "7d4c2c8407e0caf2f907df9954b056a42a92fd13",
+    "corpus_id": 248085491,
+    "category": "Computer Science"
+  },
+  "2203-11006": {
+    "title": "Underwater Light Field Retention : Neural Rendering for Underwater Imaging",
+    "authors": [
+      "Tian Ye",
+      "Sixiang Chen",
+      "Yunzhuo Liu",
+      "Erkang Chen",
+      "Yi Ye",
+      "Yuche Li"
+    ],
+    "publication_date": "2022-03-21",
+    "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "semantic_scholar_id": "b2cbeeba807742ac87d1af50f145416d0f79ec2b",
+    "corpus_id": 247594116,
+    "category": "Computer Science, Engineering"
+  },
+  "2203-01441": {
+    "title": "3D Common Corruptions and Data Augmentation",
+    "authors": [
+      "Oğuzhan Fatih Kar",
+      "Teresa Yeo",
+      "Andrei Atanov",
+      "Amir Zamir"
+    ],
+    "publication_date": "2022-03-02",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "140a158aa77e0e5281bf4fb3b8fa44696a2dd209",
+    "corpus_id": 247223042,
+    "category": "Computer Science"
+  },
+  "2201-05989": {
+    "title": "Instant neural graphics primitives with a multiresolution hash encoding",
+    "authors": [
+      "T. Müller",
+      "Alex Evans",
+      "Christoph Schied",
+      "A. Keller"
+    ],
+    "publication_date": "2022-01-16",
+    "venue": "ACM Transactions on Graphics",
+    "semantic_scholar_id": "60e69982ef2920596c6f31d6fd3ca5e9591f3db6",
+    "corpus_id": 246016186,
+    "category": "Computer Science"
+  },
+  "2112-10175": {
+    "title": "On Efficient Transformer-Based Image Pre-training for Low-Level Vision",
+    "authors": [
+      "Wenbo Li",
+      "Xin Lu",
+      "Jiangbo Lu",
+      "X. Zhang",
+      "Jiaya Jia"
+    ],
+    "publication_date": "2021-12-19",
+    "venue": "International Joint Conference on Artificial Intelligence",
+    "semantic_scholar_id": "2805917375bf84ab06ad658af4ceaec85d4a5906",
+    "corpus_id": 245335065,
+    "category": "Computer Science"
+  },
+  "2112-05131": {
+    "title": "Plenoxels: Radiance Fields without Neural Networks",
+    "authors": [
+      "Alex Yu",
+      "Sara Fridovich-Keil",
+      "Matthew Tancik",
+      "Qinhong Chen",
+      "B. Recht",
+      "Angjoo Kanazawa"
+    ],
+    "publication_date": "2021-12-09",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "e91f73aaef155391b5b07e6612f5346dea888f64",
+    "corpus_id": 245006364,
+    "category": "Computer Science"
+  },
+  "2111-15246": {
+    "title": "Hallucinated Neural Radiance Fields in the Wild",
+    "authors": [
+      "Xingyu Chen",
+      "Qi Zhang",
+      "Xiaoyu Li",
+      "Yue Chen",
+      "Feng Ying",
+      "Xuan Wang",
+      "Jue Wang"
+    ],
+    "publication_date": "2021-11-30",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "1c754d92f2962c065aa264f8eafd311920f12855",
+    "corpus_id": 244729134,
+    "category": "Computer Science"
+  },
+  "2111-14292": {
+    "title": "Deblur-NeRF: Neural Radiance Fields from Blurry Images",
+    "authors": [
+      "Li Ma",
+      "Xiaoyu Li",
+      "Jing Liao",
+      "Qi Zhang",
+      "Xuan Wang",
+      "Jue Wang",
+      "P. Sander"
+    ],
+    "publication_date": "2021-11-29",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "7bc683fe1911f4987b845f7d2165d5888f0a50e9",
+    "corpus_id": 244714238,
+    "category": "Computer Science"
+  },
+  "2111-14451": {
+    "title": "HDR-NeRF: High Dynamic Range Neural Radiance Fields",
+    "authors": [
+      "Xin Huang",
+      "Qi Zhang",
+      "Feng Ying",
+      "Hongdong Li",
+      "Xuan Wang",
+      "Qing Wang"
+    ],
+    "publication_date": "2021-11-29",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "61d03d3aeb2b264f97d3d6d7220b3b50db180f81",
+    "corpus_id": 244714505,
+    "category": "Computer Science"
+  },
+  "2111-13539": {
+    "title": "GeoNeRF: Generalizing NeRF with Geometry Priors",
+    "authors": [
+      "Mohammad Mahdi Johari",
+      "Y. Lepoittevin",
+      "Franccois Fleuret"
+    ],
+    "publication_date": "2021-11-26",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "7d5d712b28818f95ed79ce9383a121523cab7bfd",
+    "corpus_id": 244708875,
+    "category": "Computer Science"
+  },
+  "2111-13679": {
+    "title": "NeRF in the Dark: High Dynamic Range View Synthesis from Noisy Raw Images",
+    "authors": [
+      "B. Mildenhall",
+      "Peter Hedman",
+      "Ricardo Martin-Brualla",
+      "Pratul P. Srinivasan",
+      "J. Barron"
+    ],
+    "publication_date": "2021-11-26",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "de744193c2c21f5e518b71a804892498a9b76925",
+    "corpus_id": 244709242,
+    "category": "Computer Science, Engineering"
+  },
+  "2111-11215": {
+    "title": "Direct Voxel Grid Optimization: Super-fast Convergence for Radiance Fields Reconstruction",
+    "authors": [
+      "Cheng Sun",
+      "Min Sun",
+      "Hwann-Tzong Chen"
+    ],
+    "publication_date": "2021-11-22",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "4f7eb65f8d3c1eeb97e30f7ac68977ff16e1e942",
+    "corpus_id": 244477646,
+    "category": "Computer Science"
+  },
+  "2111-09881": {
+    "title": "Restormer: Efficient Transformer for High-Resolution Image Restoration",
+    "authors": [
+      "Syed Waqas Zamir",
+      "Aditya Arora",
+      "Salman Hameed Khan",
+      "Munawar Hayat",
+      "F. Khan",
+      "Ming-Hsuan Yang"
+    ],
+    "publication_date": "2021-11-18",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "1e88d5afe19aea324d33541f60a90b7036894c32",
+    "corpus_id": 244346144,
+    "category": "Computer Science"
+  },
+  "2108-08286": {
+    "title": "Deep Reparametrization of Multi-Frame Super-Resolution and Denoising",
+    "authors": [
+      "Goutam Bhat",
+      "Martin Danelljan",
+      "F. Yu",
+      "L. Gool",
+      "R. Timofte"
+    ],
+    "publication_date": "2021-08-18",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "f1a9bab3d7c0e6e53222d69a2877c7c0572364ff",
+    "corpus_id": 237194956,
+    "category": "Computer Science, Engineering"
+  },
+  "2107-13421": {
+    "title": "Neural Rays for Occlusion-aware Image-based Rendering",
+    "authors": [
+      "Yuan Liu",
+      "Sida Peng",
+      "Lingjie Liu",
+      "Qianqian Wang",
+      "Peng Wang",
+      "C. Theobalt",
+      "Xiaowei Zhou",
+      "Wenping Wang"
+    ],
+    "publication_date": "2021-07-28",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "3d1b2afb6cd38412126b46a49e6b0e1fcdcaad3a",
+    "corpus_id": 236469482,
+    "category": "Computer Science"
+  },
+  "2104-06405": {
+    "title": "BARF: Bundle-Adjusting Neural Radiance Fields",
+    "authors": [
+      "Chen-Hsuan Lin",
+      "Wei-Chiu Ma",
+      "A. Torralba",
+      "S. Lucey"
+    ],
+    "publication_date": "2021-04-13",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "33cc02f23c97a3daa835953b9d2784d0e1abf16e",
+    "corpus_id": 233219786,
+    "category": "Computer Science"
+  },
+  "2103-15595": {
+    "title": "MVSNeRF: Fast Generalizable Radiance Field Reconstruction from Multi-View Stereo",
+    "authors": [
+      "Anpei Chen",
+      "Zexiang Xu",
+      "Fuqiang Zhao",
+      "Xiaoshuai Zhang",
+      "Fanbo Xiang",
+      "Jingyi Yu",
+      "Hao Su"
+    ],
+    "publication_date": "2021-03-29",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "169971b60749264cbbe2b577dc4d2ad23ca4f46c",
+    "corpus_id": 232404617,
+    "category": "Computer Science"
+  },
+  "2103-14645": {
+    "title": "Baking Neural Radiance Fields for Real-Time View Synthesis",
+    "authors": [
+      "Peter Hedman",
+      "Pratul P. Srinivasan",
+      "B. Mildenhall",
+      "J. Barron",
+      "P. Debevec"
+    ],
+    "publication_date": "2021-03-26",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "8bd70d3dcfa295d9710922c34c1a9eeb0be48b94",
+    "corpus_id": 232379923,
+    "category": "Computer Science"
+  },
+  "2103-13744": {
+    "title": "KiloNeRF: Speeding up Neural Radiance Fields with Thousands of Tiny MLPs",
+    "authors": [
+      "Christian Reiser",
+      "Songyou Peng",
+      "Yiyi Liao",
+      "Andreas Geiger"
+    ],
+    "publication_date": "2021-03-25",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "c041aaed581616e122e790dd2769337216df3d8d",
+    "corpus_id": 232352619,
+    "category": "Computer Science"
+  },
+  "2103-10380": {
+    "title": "FastNeRF: High-Fidelity Neural Rendering at 200FPS",
+    "authors": [
+      "Stephan J. Garbin",
+      "Marek Kowalski",
+      "Matthew Johnson",
+      "J. Shotton",
+      "Julien P. C. Valentin"
+    ],
+    "publication_date": "2021-03-18",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "c0ccfbaf073c91e68ccbc57af2114c72c0d0427d",
+    "corpus_id": 232270138,
+    "category": "Computer Science"
+  },
+  "2103-05606": {
+    "title": "NeX: Real-time View Synthesis with Neural Basis Expansion",
+    "authors": [
+      "Suttisak Wizadwongsa",
+      "Pakkapon Phongthawee",
+      "Jiraphon Yenphraphai",
+      "Supasorn Suwajanakorn"
+    ],
+    "publication_date": "2021-03-09",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "0283d3ace44c0deeb9c56039989eeb072c54f825",
+    "corpus_id": 232168851,
+    "category": "Computer Science"
+  },
+  "2102-13090": {
+    "title": "IBRNet: Learning Multi-View Image-Based Rendering",
+    "authors": [
+      "Qianqian Wang",
+      "Zhicheng Wang",
+      "Kyle Genova",
+      "Pratul P. Srinivasan",
+      "Howard Zhou",
+      "J. Barron",
+      "Ricardo Martin-Brualla",
+      "Noah Snavely",
+      "T. Funkhouser"
+    ],
+    "publication_date": "2021-02-25",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "7cbc3dd0280b8c4551ac934af42dc227d43754f7",
+    "corpus_id": 232045969,
+    "category": "Computer Science"
+  },
+  "2012-09790": {
+    "title": "Neural Radiance Flow for 4D View Synthesis and Video Processing",
+    "authors": [
+      "Yilun Du",
+      "Yinan Zhang",
+      "Hong-Xing Yu",
+      "J. Tenenbaum",
+      "Jiajun Wu"
+    ],
+    "publication_date": "2020-12-17",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "d67720b062f5dde1de3298d3140b7bbd332003cd",
+    "corpus_id": 229298099,
+    "category": "Computer Science"
+  },
+  "2012-02190": {
+    "title": "pixelNeRF: Neural Radiance Fields from One or Few Images",
+    "authors": [
+      "Alex Yu",
+      "Vickie Ye",
+      "Matthew Tancik",
+      "Angjoo Kanazawa"
+    ],
+    "publication_date": "2020-12-03",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "4365f51fc270c55005adb794002685078a6fca1d",
+    "corpus_id": 227254854,
+    "category": "Computer Science"
+  },
+  "2012-01411": {
+    "title": "PatchmatchNet: Learned Multi-View Patchmatch Stereo",
+    "authors": [
+      "Fangjinhua Wang",
+      "Silvano Galliani",
+      "Christoph Vogel",
+      "Pablo Speciale",
+      "M. Pollefeys"
+    ],
+    "publication_date": "2020-12-02",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "b9ec0bb70a2425493f187ccaf8ea0461e90a7381",
+    "corpus_id": 227247619,
+    "category": "Computer Science"
+  },
+  "2012-00364": {
+    "title": "Pre-Trained Image Processing Transformer",
+    "authors": [
+      "Hanting Chen",
+      "Yunhe Wang",
+      "Tianyu Guo",
+      "Chang Xu",
+      "Yiping Deng",
+      "Zhenhua Liu",
+      "Siwei Ma",
+      "Chunjing Xu",
+      "Chao Xu",
+      "Wen Gao"
+    ],
+    "publication_date": "2020-12-01",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "6f6f73e69ee0d9d5d7d088bb882db1851d98175a",
+    "corpus_id": 227239228,
+    "category": "Computer Science"
+  },
+  "2008-02268": {
+    "title": "NeRF in the Wild: Neural Radiance Fields for Unconstrained Photo Collections",
+    "authors": [
+      "Ricardo Martin-Brualla",
+      "Noha Radwan",
+      "Mehdi S. M. Sajjadi",
+      "J. Barron",
+      "Alexey Dosovitskiy",
+      "Daniel Duckworth"
+    ],
+    "publication_date": "2020-08-05",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "691eddbfaebbc71f6a12d3c99d5c155042459434",
+    "corpus_id": 220968781,
+    "category": "Computer Science"
+  },
+  "2007-10595": {
+    "title": "Video Super-Resolution With Temporal Group Attention",
+    "authors": [
+      "Takashi Isobe",
+      "Songjiang Li",
+      "Xu Jia",
+      "Shanxin Yuan",
+      "G. Slabaugh",
+      "Chunjing Xu",
+      "Yali Li",
+      "Shengjin Wang",
+      "Qi Tian"
+    ],
+    "publication_date": "2020-06-01",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "4e289323bd2ce0c8b979c65d9247c7cc092e6f2e",
+    "corpus_id": 219965026,
+    "category": "Computer Science"
+  },
+  "2003-10985": {
+    "title": "Multi-Scale Progressive Fusion Network for Single Image Deraining",
+    "authors": [
+      "Kui Jiang",
+      "Zhongyuan Wang",
+      "Peng Yi",
+      "Chen Chen",
+      "Baojin Huang",
+      "Yimin Luo",
+      "Jiayi Ma",
+      "Junjun Jiang"
+    ],
+    "publication_date": "2020-03-24",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "1234b5451347ce6fe3bae9c34e67edbacaf73b52",
+    "corpus_id": 214623217,
+    "category": "Computer Science, Engineering"
+  },
+  "1912-06378": {
+    "title": "Cascade Cost Volume for High-Resolution Multi-View Stereo and Stereo Matching",
+    "authors": [
+      "Xiaodong Gu",
+      "Zhiwen Fan",
+      "Siyu Zhu",
+      "Zuozhuo Dai",
+      "Feitong Tan",
+      "P. Tan"
+    ],
+    "publication_date": "2019-12-13",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "c0a9fcfd7644d843fa959f348e5696d5f950a90f",
+    "corpus_id": 209370711,
+    "category": "Computer Science"
+  },
+  "1912-04421": {
+    "title": "Basis Prediction Networks for Effective Burst Denoising With Large Kernels",
+    "authors": [
+      "Zhihao Xia",
+      "Federico Perazzi",
+      "Michaël Gharbi",
+      "Kalyan Sunkavalli",
+      "Ayan Chakrabarti"
+    ],
+    "publication_date": "2019-12-09",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2dd93ca973cc339842c33225fd021d8091949c59",
+    "corpus_id": 209140159,
+    "category": "Computer Science"
+  },
+  "1908-03826": {
+    "title": "DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better",
+    "authors": [
+      "Orest Kupyn",
+      "T. Martyniuk",
+      "Junru Wu",
+      "Zhangyang Wang"
+    ],
+    "publication_date": "2019-08-10",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "81c1dc00b32d12edfab00656593f5db56cfa79e0",
+    "corpus_id": 199543931,
+    "category": "Computer Science"
+  },
+  "1905-00889": {
+    "title": "Local light field fusion",
+    "authors": [
+      "B. Mildenhall",
+      "Pratul P. Srinivasan",
+      "Rodrigo Ortiz Cayon",
+      "N. Kalantari",
+      "Ravi Ramamoorthi",
+      "Ren Ng",
+      "Abhishek Kar"
+    ],
+    "publication_date": "2019-05-02",
+    "venue": "ACM Transactions on Graphics",
+    "semantic_scholar_id": "af39e137818ef8304ccea2ada546700de1dd2f8c",
+    "corpus_id": 260545139,
+    "category": "Computer Science"
+  },
+  "1812-00467": {
+    "title": "“Double-DIP”: Unsupervised Image Decomposition via Coupled Deep-Image-Priors",
+    "authors": [
+      "Yossi Gandelsman",
+      "Assaf Shocher",
+      "M. Irani"
+    ],
+    "publication_date": "2018-12-02",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "b32ada2aab1e76ba3d0125c7a15615a531c6ce88",
+    "corpus_id": 54437326,
+    "category": "Computer Science"
+  },
+  "1811-12197": {
+    "title": "Iterative Residual CNNs for Burst Photography Applications",
+    "authors": [
+      "Filippos Kokkinos",
+      "Stamatios Lefkimmiatis"
+    ],
+    "publication_date": "2018-11-29",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "d79c26d99853590354dac3a991c530b27a6eff39",
+    "corpus_id": 53997446,
+    "category": "Computer Science"
+  },
+  "1810-03982": {
+    "title": "Deep Decoder: Concise Image Representations from Untrained Non-convolutional Networks",
+    "authors": [
+      "Reinhard Heckel",
+      "Paul Hand"
+    ],
+    "publication_date": "2018-09-27",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "f73802729a2fad366fecc9ed6221d2aa2a8a6f38",
+    "corpus_id": 52944914,
+    "category": "Computer Science, Mathematics"
+  },
+  "1804-02505": {
+    "title": "MVSNet: Depth Inference for Unstructured Multi-view Stereo",
+    "authors": [
+      "Yao Yao",
+      "Zixin Luo",
+      "Shiwei Li",
+      "Tian Fang",
+      "Long Quan"
+    ],
+    "publication_date": "2018-04-07",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "87ca28235555f7e70cf1edc2a63cda4aef7fee42",
+    "corpus_id": 4712004,
+    "category": "Computer Science"
+  },
+  "1712-02327": {
+    "title": "Burst Denoising with Kernel Prediction Networks",
+    "authors": [
+      "B. Mildenhall",
+      "J. Barron",
+      "Jiawen Chen",
+      "Dillon Sharlet",
+      "Ren Ng",
+      "Robert E. Carroll"
+    ],
+    "publication_date": "2017-12-06",
+    "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "84fc681efa7a7030098daf0c122ce6b770351c85",
+    "corpus_id": 4381469,
+    "category": "Computer Science"
+  },
+  "1711-10925": {
+    "title": "Deep Image Prior",
+    "authors": [
+      "Dmitry Ulyanov",
+      "A. Vedaldi",
+      "V. Lempitsky"
+    ],
+    "publication_date": "2017-11-29",
+    "venue": "International Journal of Computer Vision",
+    "semantic_scholar_id": "faa98e73eeee551c40923c896817ab640925ce20",
+    "corpus_id": 4531078,
+    "category": "Computer Science, Mathematics"
+  },
+  "1711-07064": {
+    "title": "DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks",
+    "authors": [
+      "Orest Kupyn",
+      "Volodymyr Budzan",
+      "Mykola Mykhailych",
+      "Dmytro Mishkin",
+      "Jiri Matas"
+    ],
+    "publication_date": "2017-11-19",
+    "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "9184da852d02f1a15bc465d9cceae613b0a03e51",
+    "corpus_id": 4552226,
+    "category": "Computer Science"
+  },
+  "1601-07661": {
+    "title": "DehazeNet: An End-to-End System for Single Image Haze Removal",
+    "authors": [
+      "Bolun Cai",
+      "Xiangmin Xu",
+      "K. Jia",
+      "Chunmei Qing",
+      "D. Tao"
+    ],
+    "publication_date": "2016-01-28",
+    "venue": "IEEE Transactions on Image Processing",
+    "semantic_scholar_id": "a127899f71b6ebc03521d2f9538335ebf1f29d78",
+    "corpus_id": 14092238,
+    "category": "Computer Science, Medicine"
+  },
+  "1412-6572": {
+    "title": "Explaining and Harnessing Adversarial Examples",
+    "authors": [
+      "I. Goodfellow",
+      "Jonathon Shlens",
+      "Christian Szegedy"
+    ],
+    "publication_date": "2014-12-19",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "bee044c8e8903fb67523c1f8c105ab4718600cdb",
+    "corpus_id": 6706414,
+    "category": "Computer Science, Mathematics"
+  }
+}

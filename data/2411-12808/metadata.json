@@ -1,0 +1,19 @@
+{
+  "title": "Conversational Medical AI: Ready for Practice",
+  "authors": [
+    "Antoine Lizée",
+    "Pierre-Auguste Beaucoté",
+    "James Whitbeck",
+    "Marion Doumeingts",
+    "Anaël Beaugnon",
+    "Isabelle Feldhaus"
+  ],
+  "summary": "The shortage of doctors is creating a critical squeeze in access to medical expertise. While conversational Artificial Intelligence (AI) holds promise in addressing this problem, its safe deployment in patient-facing roles remains largely unexplored in real-world medical settings. We present the first large-scale evaluation of a physician-supervised LLM-based conversational agent in a real-world medical setting.\n  Our agent, Mo, was integrated into an existing medical advice chat service. Over a three-week period, we conducted a randomized controlled experiment with 926 cases to evaluate patient experience and satisfaction. Among these, Mo handled 298 complete patient interactions, for which we report physician-assessed measures of safety and medical accuracy.\n  Patients reported higher clarity of information (3.73 vs 3.62 out of 4, p < 0.05) and overall satisfaction (4.58 vs 4.42 out of 5, p < 0.05) with AI-assisted conversations compared to standard care, while showing equivalent levels of trust and perceived empathy. The high opt-in rate (81% among respondents) exceeded previous benchmarks for AI acceptance in healthcare. Physician oversight ensured safety, with 95% of conversations rated as \"good\" or \"excellent\" by general practitioners experienced in operating a medical advice chat service.\n  Our findings demonstrate that carefully implemented AI medical assistants can enhance patient experience while maintaining safety standards through physician supervision. This work provides empirical evidence for the feasibility of AI deployment in healthcare communication and insights into the requirements for successful integration into existing healthcare services.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-04-10"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AI, cs.CY, cs.HC"
+}

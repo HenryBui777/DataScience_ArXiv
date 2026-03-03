@@ -1,0 +1,12 @@
+{
+  "title": "Self-Supervised Learning in Deep Networks: A Pathway to Robust Few-Shot Classification",
+  "authors": [
+    "Yuyang Xiao"
+  ],
+  "summary": "This study aims to optimize the few-shot image classification task and improve the model's feature extraction and classification performance by combining self-supervised learning with the deep network model ResNet-101. During the training process, we first pre-train the model with self-supervision to enable it to learn common feature expressions on a large amount of unlabeled data; then fine-tune it on the few-shot dataset Mini-ImageNet to improve the model's accuracy and generalization ability under limited data. The experimental results show that compared with traditional convolutional neural networks, ResNet-50, DenseNet, and other models, our method has achieved excellent performance of about 95.12% in classification accuracy (ACC) and F1 score, verifying the effectiveness of self-supervised learning in few-shot classification. This method provides an efficient and reliable solution for the field of few-shot image classification.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

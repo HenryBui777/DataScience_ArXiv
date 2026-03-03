@@ -1,0 +1,20 @@
+{
+  "title": "Robust multi-coil MRI reconstruction via self-supervised denoising",
+  "authors": [
+    "Asad Aali",
+    "Marius Arvinte",
+    "Sidharth Kumar",
+    "Yamin I. Arefeen",
+    "Jonathan I. Tamir"
+  ],
+  "summary": "We study the effect of incorporating self-supervised denoising as a pre-processing step for training deep learning (DL) based reconstruction methods on data corrupted by Gaussian noise. K-space data employed for training are typically multi-coil and inherently noisy. Although DL-based reconstruction methods trained on fully sampled data can enable high reconstruction quality, obtaining large, noise-free datasets is impractical. We leverage Generalized Stein's Unbiased Risk Estimate (GSURE) for denoising. We evaluate two DL-based reconstruction methods: Diffusion Probabilistic Models (DPMs) and Model-Based Deep Learning (MoDL). We evaluate the impact of denoising on the performance of these DL-based methods in solving accelerated multi-coil magnetic resonance imaging (MRI) reconstruction. The experiments were carried out on T2-weighted brain and fat-suppressed proton-density knee scans. We observed that self-supervised denoising enhances the quality and efficiency of MRI reconstructions across various scenarios. Specifically, employing denoised images rather than noisy counterparts when training DL networks results in lower normalized root mean squared error (NRMSE), higher structural similarity index measure (SSIM) and peak signal-to-noise ratio (PSNR) across different SNR levels, including 32dB, 22dB, and 12dB for T2-weighted brain data, and 24dB, 14dB, and 4dB for fat-suppressed knee data. Overall, we showed that denoising is an essential pre-processing technique capable of improving the efficacy of DL-based MRI reconstruction methods under diverse conditions. By refining the quality of input data, denoising enables training more effective DL networks, potentially bypassing the need for noise-free reference MRI scans.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-04-21",
+    "2025-04-23",
+    "2025-05-24"
+  ],
+  "publication_venue": "MRM, 2025",
+  "pdf_url": null,
+  "category": "eess.IV, cs.AI, cs.CV, cs.LG"
+}

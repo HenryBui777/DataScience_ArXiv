@@ -1,0 +1,13 @@
+{
+  "title": "A Random Forest approach to detect and identify Unlawful Insider Trading",
+  "authors": [
+    "Krishna Neupane",
+    "Igor Griva"
+  ],
+  "summary": "According to The Exchange Act, 1934 unlawful insider trading is the abuse of access to privileged corporate information. While a blurred line between \"routine\" the \"opportunistic\" insider trading exists, detection of strategies that insiders mold to maneuver fair market prices to their advantage is an uphill battle for hand-engineered approaches. In the context of detailed high-dimensional financial and trade data that are structurally built by multiple covariates, in this study, we explore, implement and provide detailed comparison to the existing study (Deng et al. (2019)) and independently implement automated end-to-end state-of-art methods by integrating principal component analysis to the random forest (PCA-RF) followed by a standalone random forest (RF) with 320 and 3984 randomly selected, semi-manually labeled and normalized transactions from multiple industry. The settings successfully uncover latent structures and detect unlawful insider trading. Among the multiple scenarios, our best-performing model accurately classified 96.43 percent of transactions. Among all transactions the models find 95.47 lawful as lawful and $98.00$ unlawful as unlawful percent. Besides, the model makes very few mistakes in classifying lawful as unlawful by missing only 2.00 percent. In addition to the classification task, model generated Gini Impurity based features ranking, our analysis show ownership and governance related features based on permutation values play important roles. In summary, a simple yet powerful automated end-to-end method relieves labor-intensive activities to redirect resources to enhance rule-making and tracking the uncaptured unlawful insider trading transactions. We emphasize that developed financial and trading features are capable of uncovering fraudulent behaviors.",
+  "submission_date": "2024-11-09",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-fin.ST, cs.LG, q-fin.CP, q-fin.RM, q-fin.TR"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Generation of Energy-Optimal Low-Thrust Forced Periodic Trajectories in the CR3BP",
+  "authors": [
+    "Colby C. Merrill",
+    "Jackson Kulik",
+    "Dmitry Savransky"
+  ],
+  "summary": "In this work, we investigate trajectories that require thrust to maintain periodic structure in the circular restricted three-body problem (CR3BP). We produce bounds in position and velocity space for the energy-constrained reachable set of initial conditions. Our trajectories are energy-optimal and analyzed via linear analysis. We provide validation for our technique and analyze the cost of deviating in various directions to the reference. For our given reference, we find that it is relatively expensive to decrease perilune distance for orbits in the Earth-Moon system.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.DS"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "From Holistic to Localized: Local Enhanced Adapters for Efficient Visual Instruction Fine-Tuning",
+  "authors": [
+    "Pengkun Jiao",
+    "Bin Zhu",
+    "Jingjing Chen",
+    "Chong-Wah Ngo",
+    "Yu-Gang Jiang"
+  ],
+  "summary": "Efficient Visual Instruction Fine-Tuning (EVIT) seeks to adapt Multimodal Large Language Models (MLLMs) to downstream tasks with minimal computational overhead. However, as task diversity and complexity increase, EVIT faces significant challenges in resolving data conflicts. To address this limitation, we propose the Dual Low-Rank Adaptation (Dual-LoRA), a holistic-to-local framework that enhances the adapter's capacity to address data conflict through dual structural optimization. Specifically, we utilize two subspaces: a skill space for stable, holistic knowledge retention, and a rank-rectified task space that locally activates the holistic knowledge. Additionally, we introduce Visual Cue Enhancement (VCE), a multi-level local feature aggregation module designed to enrich the vision-language projection with local details. Our approach is both memory- and time-efficient, requiring only 1.16$\\times$ the inference time of the standard LoRA method (with injection into the query and value projection layers), and just 73\\% of the inference time of a 4-expert LoRA-MoE. Extensive experiments on various downstream tasks and general MLLM benchmarks validate the effectiveness of our proposed methods.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-12-02",
+    "2025-07-01"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI"
+}

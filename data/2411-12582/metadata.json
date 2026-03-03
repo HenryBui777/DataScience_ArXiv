@@ -1,0 +1,15 @@
+{
+  "title": "Reconfiguration Using Generalized Token Jumping",
+  "authors": [
+    "Jan Matyáš Křišťan",
+    "Jakub Svoboda"
+  ],
+  "summary": "In reconfiguration, we are given two solutions to a graph problem, such as Vertex Cover or Dominating Set, with each solu tion represented by a placement of tokens on vertices of the graph. Our task is to reconfigure one into the other using small steps while ensuring the intermediate configurations of tokens are also valid solutions. The two commonly studied settings are Token Jumping and Token Sliding, which allows moving a single token to an arbitrary or an adjacent vertex, respectively.\n  We introduce new rules that generalize Token Jumping, parameterized by the number of tokens allowed to move at once and by the maximum distance of each move. Our main contribution is identifying minimal rules that allow reconfiguring any possible given solution into any other for Independent Set, Vertex Cover, and Dominating Set. For each minimal rule, we also provide an efficient algorithm that finds a corresponding reconfiguration sequence.\n  We further focus on the rule that allows each token to move to an adjacent vertex in a single step. This natural variant turns out to be the minimal rule that guarantees reconfigurability for Vertex Cover. We determine the computational complexity of deciding whether a (shortest) reconfiguration sequence exists under this rule for the three studied problems. While reachability for Vertex Cover is shown to be in P, finding a shortest sequence is shown to be NP-complete. For Independent Set and Dominating Set, even reachability is shown to be PSPACE-complete.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-20"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.CO, cs.DS"
+}

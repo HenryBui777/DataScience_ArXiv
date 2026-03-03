@@ -1,0 +1,15 @@
+{
+  "title": "Robust Monocular Visual Odometry using Curriculum Learning",
+  "authors": [
+    "Assaf Lahiany",
+    "Oren Gal"
+  ],
+  "summary": "Curriculum Learning (CL), drawing inspiration from natural learning patterns observed in humans and animals, employs a systematic approach of gradually introducing increasingly complex training data during model development. Our work applies innovative CL methodologies to address the challenging geometric problem of monocular Visual Odometry (VO) estimation, which is essential for robot navigation in constrained environments. The primary objective of our research is to push the boundaries of current state-of-the-art (SOTA) benchmarks in monocular VO by investigating various curriculum learning strategies. We enhance the end-to-end Deep-Patch-Visual Odometry (DPVO) framework through the integration of novel CL approaches, with the goal of developing more resilient models capable of maintaining high performance across challenging environments and complex motion scenarios. Our research encompasses several distinctive CL strategies. We develop methods to evaluate sample difficulty based on trajectory motion characteristics, implement sophisticated adaptive scheduling through self-paced weighted loss mechanisms, and utilize reinforcement learning agents for dynamic adjustment of training emphasis. Through comprehensive evaluation on the diverse synthetic TartanAir dataset and complex real-world benchmarks such as EuRoC and TUM-RGBD, our Curriculum Learning-based Deep-Patch-Visual Odometry (CL-DPVO) demonstrates superior performance compared to existing SOTA methods, including both feature-based and learning-based VO approaches. The results validate the effectiveness of integrating curriculum learning principles into visual odometry systems.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-12-13"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO, cs.AI"
+}

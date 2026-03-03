@@ -1,0 +1,15 @@
+{
+  "title": "Multiplicity and asymptotic behavior of normalized solutions to p-Kirchhoff equations",
+  "authors": [
+    "Jianwen Zhou",
+    "Puming Yang"
+  ],
+  "summary": "In this paper, we study a type of p-Kirchhoff equation $$\n  -\\left( a+b\\int_{\\mathbb{R} ^3}{\\left| \\nabla u \\right|^pdx} \\right) \\varDelta _pu=λ\\left| u \\right|^{p-2}u+\\left| u \\right|^{q-2}u, x \\in \\mathbb{R}^3 $$ with the prescribed mass $$ \\left(\\int_{\\mathbb{R} ^3}{\\left| u \\right|^{p}dx}\\right)^\\frac{1}{p} = c > 0 $$ where $a>0, b > 0,\\frac{3}{2} <p <3, p < q < p^{\\ast}:=\\frac{3p}{3-p} $,$\\varDelta _pu=div\\left( \\left| \\nabla u \\right|^{p-2}\\nabla u \\right)$ is the $p$-Laplacian of $u$, $λ\\in \\mathbb{R}$ is Lagrange multiplier. We consider both $L^p$-subcritical , $L^p$-critical and $L^p$-supercritical cases. Precisely, in the $L^p$-subcritical and $L^p$-critical cases, we obtain the existence and nonexistence of the normalized solutions for the $p$-Kirchhoff equation. In the $L^p$-supercritical case, we obtain the existence of radial ground sates and multiplicity of radial normalized solutions for the $p$-Kirchhoff equation. Furthermore, we study the asymptotic behavior of normalized solutions when $b \\rightarrow 0^+$. Besides, when $\\frac{3}{2} < p \\leq 2$, benefit from the uniqueness(up to translations) of optimizer for Gargliardo-Nirenberg inequality, we show the existence and uniqueness of normalized solutions and provide the accurate descriptions.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [
+    "2024-12-16"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AP"
+}

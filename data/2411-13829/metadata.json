@@ -1,0 +1,17 @@
+{
+  "title": "Sensitivity analysis methods for outcome missingness using substantive-model-compatible multiple imputation and their application in causal inference",
+  "authors": [
+    "Jiaxin Zhang",
+    "S. Ghazaleh Dashti",
+    "John B. Carlin",
+    "Katherine J. Lee",
+    "Jonathan W. Bartlett",
+    "Margarita Moreno-Betancur"
+  ],
+  "summary": "When using multiple imputation (MI) for missing data, maintaining compatibility between the imputation model and substantive analysis is important for avoiding bias. For example, some causal inference methods incorporate an outcome model with exposure-confounder interactions that must be reflected in the imputation model. Two approaches for compatible imputation with multivariable missingness have been proposed: Substantive-Model-Compatible Fully Conditional Specification (SMCFCS) and a stacked-imputation-based approach (SMC-stack). If the imputation model is correctly specified, both approaches are guaranteed to be unbiased under the \"missing at random\" assumption. However, this assumption is violated when the outcome causes its own missingness, which is common in practice. In such settings, sensitivity analyses are needed to assess the impact of alternative assumptions on results. An appealing solution for sensitivity analysis is delta-adjustment using MI, specifically \"not-at-random\" (NAR)FCS. However, the issue of imputation model compatibility has not been considered in sensitivity analysis, with a naive implementation of NARFCS being susceptible to bias. To address this gap, we propose two approaches for compatible sensitivity analysis when the outcome causes its own missingness. The proposed approaches, NAR-SMCFCS and NAR-SMC-stack, extend SMCFCS and SMC-stack, respectively, with delta-adjustment for the outcome. We evaluate these approaches using a simulation study that is motivated by a case study, to which the methods were also applied. The simulation results confirmed that a naive implementation of NARFCS produced bias in effect estimates, while NAR-SMCFCS and NAR-SMC-stack were approximately unbiased. The proposed compatible approaches provide promising avenues for conducting sensitivity analysis to missingness assumptions in causal inference.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME"
+}

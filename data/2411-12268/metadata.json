@@ -1,0 +1,15 @@
+{
+  "title": "A Neural Denoising Vocoder for Clean Waveform Generation from Noisy Mel-Spectrogram based on Amplitude and Phase Predictions",
+  "authors": [
+    "Hui-Peng Du",
+    "Ye-Xin Lu",
+    "Yang Ai",
+    "Zhen-Hua Ling"
+  ],
+  "summary": "This paper proposes a novel neural denoising vocoder that can generate clean speech waveforms from noisy mel-spectrograms. The proposed neural denoising vocoder consists of two components, i.e., a spectrum predictor and a enhancement module. The spectrum predictor first predicts the noisy amplitude and phase spectra from the input noisy mel-spectrogram, and subsequently the enhancement module recovers the clean amplitude and phase spectrum from noisy ones. Finally, clean speech waveforms are reconstructed through inverse short-time Fourier transform (iSTFT). All operations are performed at the frame-level spectral domain, with the APNet vocoder and MP-SENet speech enhancement model used as the backbones for the two components, respectively. Experimental results demonstrate that our proposed neural denoising vocoder achieves state-of-the-art performance compared to existing neural vocoders on the VoiceBank+DEMAND dataset. Additionally, despite the lack of phase information and partial amplitude information in the input mel-spectrogram, the proposed neural denoising vocoder still achieves comparable performance with the serveral advanced speech enhancement methods.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.AS, eess.SP"
+}

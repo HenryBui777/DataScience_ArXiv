@@ -1,0 +1,15 @@
+{
+  "title": "Quantitative Propagation of Chaos for 2D Viscous Vortex Model with General Circulations on the Whole Space",
+  "authors": [
+    "Xuanrui Feng",
+    "Zhenfu Wang"
+  ],
+  "summary": "We derive quantitative propagation of chaos in the sense of relative entropy for the 2D viscous vortex model with general circulations, approximating the vorticity formulation of the 2D Navier-Stokes equation on the whole Euclidean space, which is an extension of the previous works \\cite{fournier2014propagation,jabin2018quantitative}. We improve our previous results in \\cite{feng2023quantitative} to the more general case that the vorticity may change sign, allowing the circulations to be in different orientations. We also extend the results of \\cite{wang2024sharp} to the whole space to obtain the sharp local propagation of chaos in the high viscosity regime. Both results of convergence rates are global-in-time on any finite time horizon and optimal among existing literature, thanks to the sharp logarithmic growth estimates and a new ODE hierarchy and iterated integral estimates.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-07-24"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AP, math.PR"
+}

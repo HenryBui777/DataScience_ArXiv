@@ -1,0 +1,13 @@
+{
+  "title": "LeC$^2$O-NeRF: Learning Continuous and Compact Large-Scale Occupancy for Urban Scenes",
+  "authors": [
+    "Zhenxing Mi",
+    "Dan Xu"
+  ],
+  "summary": "In NeRF, a critical problem is to effectively estimate the occupancy to guide empty-space skipping and point sampling. Grid-based methods work well for small-scale scenes. However, on large-scale scenes, they are limited by predefined bounding boxes, grid resolutions, and high memory usage for grid updates, and thus struggle to speed up training for large-scale, irregularly bounded and complex urban scenes without sacrificing accuracy. In this paper, we propose to learn a continuous and compact large-scale occupancy network, which can classify 3D points as occupied or unoccupied points. We train this occupancy network end-to-end together with the radiance field in a self-supervised manner by three designs. First, we propose a novel imbalanced occupancy loss to regularize the occupancy network. It makes the occupancy network effectively control the ratio of unoccupied and occupied points, motivated by the prior that most of 3D scene points are unoccupied. Second, we design an imbalanced architecture containing a large scene network and a small empty space network to separately encode occupied and unoccupied points classified by the occupancy network. This imbalanced structure can effectively model the imbalanced nature of occupied and unoccupied regions. Third, we design an explicit density loss to guide the occupancy network, making the density of unoccupied points smaller. As far as we know, we are the first to learn a continuous and compact occupancy of large-scale NeRF by a network. In our experiments, our occupancy network can quickly learn more compact, accurate and smooth occupancy compared to the occupancy grid. With our learned occupancy as guidance for empty space skipping on challenging large-scale benchmarks, our method consistently obtains higher accuracy compared to the occupancy grid, and our method can speed up state-of-the-art NeRF methods without sacrificing accuracy.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.GR"
+}

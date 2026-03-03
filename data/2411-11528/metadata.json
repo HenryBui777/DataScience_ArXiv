@@ -1,0 +1,18 @@
+{
+  "title": "Optimal Control of 1D Semilinear Heat Equations with Moment-SOS Relaxations",
+  "authors": [
+    "Charlie Lebarbé",
+    "Emilien Flayac",
+    "Michel Fournié",
+    "Didier Henrion",
+    "Milan Korda"
+  ],
+  "summary": "We use moment-SOS (Sum Of Squares) relaxations to address the optimal control problem of the 1D heat equation perturbed with a nonlinear term. We extend the current framework of moment-based optimal control of PDEs to consider a quadratic cost on the control. We develop a new method to extract a nonlinear controller from approximate moments of the solution. The control law acts on the boundary of the domain and depends on the solution over the whole domain. Our method is validated numerically and compared to a linear-quadratic controller.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-04-15"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC"
+}

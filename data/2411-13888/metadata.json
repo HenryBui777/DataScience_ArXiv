@@ -1,0 +1,16 @@
+{
+  "title": "A Hierarchical Scale-free Graph Generator under Limited Resources",
+  "authors": [
+    "Xiaorui Qi",
+    "Yanlong Wen",
+    "Xiaojie Yuan"
+  ],
+  "summary": "Graph generation is one of the most challenging tasks in recent years, and its core is to learn the ground truth distribution hiding in the training data. However, training data may not be available due to security concerns or unaffordable costs, which severely blows the learning models, especially the deep generative models. The dilemma leads us to rethink non-learned generation methods based on graph invariant features. Based on the observation of scale-free property, we propose a hierarchical scale-free graph generation algorithm. Specifically, we design a two-stage generation strategy. In the first stage, we sample multiple anchor nodes to further guide the formation of substructures, splitting the initial node set into multiple ones. Next, we progressively generate edges by sampling nodes through a degree mixing distribution, adjusting the tolerance towards exotic structures via two thresholds. We provide theoretical guarantees for hierarchical generation and verify the effectiveness of our method under 12 datasets of three categories. Experimental results show that our method fits the ground truth distribution better than various generation strategies and other distribution observations.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-03-10"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DM, cs.SI"
+}

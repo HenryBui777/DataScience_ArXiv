@@ -1,0 +1,15 @@
+{
+  "title": "Improving OOD Generalization of Pre-trained Encoders via Aligned Embedding-Space Ensembles",
+  "authors": [
+    "Shuman Peng",
+    "Arash Khoeini",
+    "Sharan Vaswani",
+    "Martin Ester"
+  ],
+  "summary": "The quality of self-supervised pre-trained embeddings on out-of-distribution (OOD) data is poor without fine-tuning. A straightforward and simple approach to improving the generalization of pre-trained representation to OOD data is the use of deep ensembles. However, obtaining an effective ensemble in the embedding space with only unlabeled data remains an unsolved problem. We first perform a theoretical analysis that reveals the relationship between individual hyperspherical embedding spaces in an ensemble. We then design a principled method to align these embedding spaces in an unsupervised manner. Experimental results on the MNIST dataset show that our embedding-space ensemble method improves pre-trained embedding quality on in-distribution and OOD data compared to single encoders.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.CV"
+}

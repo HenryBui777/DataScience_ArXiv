@@ -1,0 +1,211 @@
+@inproceedings{ndcg,
+  author = {J\"{a},
+  title = {IR Evaluation Methods for Retrieving Highly Relevant Documents},
+  booktitle = {Proceedings of the 23rd Annual International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  series = {SIGIR '00},
+  year = {2000},
+  isbn = {1-58113-226-3},
+  location = {Athens, Greece},
+  pages = {41--48},
+  numpages = {8},
+  url = {http://doi.acm.org/10.1145/345508.345545},
+  doi = {10.1145/345508.345545},
+  acmid = {345545},
+  publisher = {ACM},
+  address = {New York, NY, USA},
+}
+
+@inproceedings{spladev1,
+  author = {Formal, Thibault and Piwowarski, Benjamin and Clinchant, St\'{e},
+  title = {SPLADE: Sparse Lexical and Expansion Model for First Stage Ranking},
+  year = {2021},
+  isbn = {9781450380379},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3404835.3463098},
+  doi = {10.1145/3404835.3463098},
+  abstract = {In neural Information Retrieval, ongoing research is directed towards improving the
+first retriever in ranking pipelines. Learning dense embeddings to conduct retrieval
+using efficient approximate nearest neighbors methods has proven to work well. Meanwhile,
+there has been a growing interest in learning sparse representations for documents
+and queries, that could inherit from the desirable properties of bag-of-words models
+such as the exact matching of terms and the efficiency of inverted indexes. In this
+work, we present a new first-stage ranker based on explicit sparsity regularization
+and a log-saturation effect on term weights, leading to highly sparse representations
+and competitive results with respect to state-of-the-art dense and sparse methods.
+Our approach is simple, trained end-to-end in a single stage. We also explore the
+trade-off between effectiveness and efficiency, by controlling the contribution of
+the sparsity regularization.},
+  booktitle = {Proceedings of the 44th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages = {2288–2292},
+  numpages = {5},
+  keywords = {sparse representations, regularization, neural networks, indexing},
+  location = {Virtual Event, Canada},
+  series = {SIGIR '21},
+}
+
+@article{formal2021splade,
+  title = {SPLADE v2: Sparse lexical and expansion model for information retrieval},
+  author = {Formal, Thibault and Lassance, Carlos and Piwowarski, Benjamin and Clinchant, St{\'e},
+  journal = {arXiv preprint arXiv:2109.10086},
+  year = {2021},
+}
+
+@inproceedings{cast20,
+  title = {CAsT 2020: The Conversational Assistance Track Overview},
+  author = {Jeffrey Dalton and Chenyan Xiong and Jamie Callan},
+  booktitle = {Text Retrieval Conference},
+  year = {2020},
+  url = {https://api.semanticscholar.org/CorpusID:214735659},
+}
+
+@inproceedings{ikat23,
+  author = {Aliannejadi, Mohammad and Abbasiantaeb, Zahra and Chatterjee, Shubham and Dalton, Jeffrey and Azzopardi, Leif},
+  title = {TREC iKAT 2023: A Test Collection for Evaluating Conversational and Interactive Knowledge Assistants},
+  year = {2024},
+  isbn = {9798400704314},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3626772.3657860},
+  doi = {10.1145/3626772.3657860},
+  abstract = {Conversational information seeking has evolved rapidly in the last few years with the development of Large Language Models (LLMs), providing the basis for interpreting and responding in a naturalistic manner to user requests. The extended TREC Interactive Knowledge Assistance Track (iKAT) collection aims to enable researchers to test and evaluate their Conversational Search Agent (CSA). The collection contains a set of 36 personalized dialogues over 20 different topics each coupled with a Personal Text Knowledge Base (PTKB) that defines the bespoke user personas. A total of 344 turns with approximately 26,000 passages are provided as assessments on relevance, as well as additional assessments on generated responses over four key dimensions: relevance, completeness, groundedness, and naturalness. The collection challenges CSAs to efficiently navigate diverse personal contexts, elicit pertinent persona information, and employ context for relevant conversations.The integration of a PTKB and the emphasis on decisional search tasks contribute to the uniqueness of this test collection, making it an essential benchmark for advancing research in conversational and interactive knowledge assistants.},
+  booktitle = {Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages = {819–829},
+  numpages = {11},
+  keywords = {conversational information seeking, conversational search agents, evaluation, test collection},
+  location = {Washington DC, USA},
+  series = {SIGIR '24},
+}
+
+@article{mo2024chiqcontextualhistoryenhancement,
+  title = {CHIQ: Contextual History Enhancement for Improving Query Rewriting in Conversational Search},
+  author = {Mo, Fengran and Ghaddar, Abbas and Mao, Kelong and Rezagholizadeh, Mehdi and Chen, Boxing and Liu, Qun and Nie, Jian-Yun},
+  journal = {arXiv preprint arXiv:2406.05013},
+  year = {2024},
+}
+
+@inproceedings{mao2023largelanguagemodelsknowllm4cs,
+}
+
+@inproceedings{10.1145/3477495.3531857/splade++,
+  author = {Formal, Thibault and Lassance, Carlos and Piwowarski, Benjamin and Clinchant, St\'{e},
+  title = {From Distillation to Hard Negative Sampling: Making Sparse Neural IR Models More Effective},
+  year = {2022},
+  isbn = {9781450387323},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3477495.3531857},
+  doi = {10.1145/3477495.3531857},
+  abstract = {Neural retrievers based on dense representations combined with Approximate Nearest Neighbors search have recently received a lot of attention, owing their success to distillation and/or better sampling of examples for training -- while still relying on the same backbone architecture. In the meantime, sparse representation learning fueled by traditional inverted indexing techniques has seen a growing interest, inheriting from desirable IR priors such as explicit lexical matching. While some architectural variants have been proposed, a lesser effort has been put in the training of such models. In this work, we build on SPLADE -- a sparse expansion-based retriever -- and show to which extent it is able to benefit from the same training improvements as dense models, by studying the effect of distillation, hard-negative mining as well as the Pre-trained Language Model initialization. We furthermore study the link between effectiveness and efficiency, on in-domain and zero-shot settings, leading to state-of-the-art results in both scenarios for sufficiently expressive models.},
+  booktitle = {Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages = {2353–2359},
+  numpages = {7},
+  keywords = {indexing, neural networks, regularization, sparse representations},
+  location = {Madrid, Spain},
+  series = {SIGIR '22},
+}
+
+@inproceedings{cast22,
+  title = {TREC CAsT 2022: Going Beyond User Ask and System Retrieve with Initiative and Response Generation},
+  author = {Paul Owoicho and Jeffrey Dalton and Mohammad Aliannejadi and Leif Azzopardi and Johanne R. Trippas and Svitlana Vakulenko},
+  booktitle = {Text Retrieval Conference},
+  year = {2022},
+  url = {https://api.semanticscholar.org/CorpusID:261288646},
+}
+
+@inproceedings{cast19,
+  author = {Dalton, Jeffrey and Xiong, Chenyan and Kumar, Vaibhav and Callan, Jamie},
+  title = {CAsT-19: A Dataset for Conversational Information Seeking},
+  year = {2020},
+  isbn = {9781450380164},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3397271.3401206},
+  doi = {10.1145/3397271.3401206},
+  abstract = {CAsT-19 is a new dataset that supports research on conversational information seeking. The corpus is 38,426,252 passages from the TREC Complex Answer Retrieval (CAR) and Microsoft MAchine Reading COmprehension (MARCO) datasets. Eighty information seeking dialogues (30 train, 50 test) are an average of 9 to 10 questions long. A dialogue may explore a topic broadly or drill down into subtopics. Questions contain ellipsis, implied context, mild topic shifts, and other characteristics of human conversation that may prevent them from being understood in isolation. Relevance assessments are provided for 30 training topics and 20 test topics.CAsT-19 promotes research on conversational information seeking by defining it as a task in which effective passage selection requires understanding a question's context (the dialogue history). It focuses attention on user modeling, analysis of prior retrieval results, transformation of questions into effective queries, and other topics that have been difficult to study with existing datasets.},
+  booktitle = {Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages = {1985–1988},
+  numpages = {4},
+  keywords = {dataset, conversational search, conversational information seeking},
+  location = {Virtual Event, China},
+  series = {SIGIR '20},
+}
+
+@article{lassance2024spladev3,
+  title = {SPLADE-v3: New baselines for SPLADE},
+  author = {Carlos Lassance and Hervé Déjean and Thibault Formal and Stéphane Clinchant},
+  journal = {arXiv preprint arXiv:2403.06789},
+  year = {2024},
+}
+
+@article{mq4cs,
+  title = {Generating Multi-Aspect Queries for Conversational Search},
+  author = {Zahra Abbasiantaeb and Simon Lupart and Mohammad Aliannejadi},
+  journal = {arXiv preprint arXiv:2403.19302},
+  year = {2024},
+}
+
+@inproceedings{RAG-first-work,
+  author = {Lewis, Patrick and Perez, Ethan and Piktus, Aleksandra and Petroni, Fabio and Karpukhin, Vladimir and Goyal, Naman and K\"{u},
+  title = {Retrieval-augmented generation for knowledge-intensive NLP tasks},
+  year = {2020},
+  isbn = {9781713829546},
+  publisher = {Curran Associates Inc.},
+  address = {Red Hook, NY, USA},
+  abstract = {Large pre-trained language models have been shown to store factual knowledge in their parameters, and achieve state-of-the-art results when fine-tuned on downstream NLP tasks. However, their ability to access and precisely manipulate knowledge is still limited, and hence on knowledge-intensive tasks, their performance lags behind task-specific architectures. Additionally, providing provenance for their decisions and updating their world knowledge remain open research problems. Pre-trained models with a differentiable access mechanism to explicit non-parametric memory can overcome this issue, but have so far been only investigated for extractive downstream tasks. We explore a general-purpose fine-tuning recipe for retrieval-augmented generation (RAG) — models which combine pre-trained parametric and non-parametric memory for language generation. We introduce RAG models where the parametric memory is a pre-trained seq2seq model and the non-parametric memory is a dense vector index of Wikipedia, accessed with a pre-trained neural retriever. We compare two RAG formulations, one which conditions on the same retrieved passages across the whole generated sequence, and another which can use different passages per token. We fine-tune and evaluate our models on a wide range of knowledge-intensive NLP tasks and set the state of the art on three open domain QA tasks, outperforming parametric seq2seq models and task-specific retrieve-and-extract architectures. For language generation tasks, we find that RAG models generate more specific, diverse and factual language than a state-of-the-art parametric-only seq2seq baseline.},
+  booktitle = {Proceedings of the 34th International Conference on Neural Information Processing Systems},
+  articleno = {793},
+  numpages = {16},
+  location = {Vancouver, BC, Canada},
+  series = {NIPS '20},
+}
+
+@article{abbasiantaeb2023llm,
+  title = {LLM-based Retrieval and Generation Pipelines for TREC Interactive Knowledge Assistance Track (iKAT) 2023},
+  author = {Abbasiantaeb, Zahra and Meng, Chuan and Rau, David and Krasakis, Antonis and Rahmani, Hossein A and Aliannejadi, Mohammad},
+  year = {2023},
+  organization = {TREC},
+}
+
+@article{he2021debertav3,
+  title = {Debertav3: Improving deberta using electra-style pre-training with gradient-disentangled embedding sharing},
+  author = {He, Pengcheng and Gao, Jianfeng and Chen, Weizhu},
+  journal = {arXiv preprint arXiv:2111.09543},
+  year = {2021},
+}
+
+@article{he2020deberta,
+  title = {Deberta: Decoding-enhanced bert with disentangled attention},
+  author = {He, Pengcheng and Liu, Xiaodong and Gao, Jianfeng and Chen, Weizhu},
+  journal = {arXiv preprint arXiv:2006.03654},
+  year = {2020},
+}
+
+@article{liu2019roberta,
+  title = {Roberta: A robustly optimized bert pretraining approach},
+  author = {Liu, Yinhan},
+  journal = {arXiv preprint arXiv:1907.11692},
+  volume = {364},
+  year = {2019},
+}
+
+@article{clark2020electra,
+  title = {Electra: Pre-training text encoders as discriminators rather than generators},
+  author = {Clark, K},
+  journal = {arXiv preprint arXiv:2003.10555},
+  year = {2020},
+}
+
+@article{lan2019albert,
+  title = {Albert: A lite bert for self-supervised learning of language representations},
+  author = {Lan, Z},
+  journal = {arXiv preprint arXiv:1909.11942},
+  year = {2019},
+}
+
+@article{lupart2024disco,
+  title = {DiSCo Meets LLMs: A Unified Approach for Sparse Retrieval and Contextual Distillation in Conversational Search},
+  author = {Lupart, Simon and Aliannejadi, Mohammad and Kanoulas, Evangelos},
+  journal = {arXiv preprint arXiv:2410.14609},
+  year = {2024},
+}

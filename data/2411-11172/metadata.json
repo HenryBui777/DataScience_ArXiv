@@ -1,0 +1,14 @@
+{
+  "title": "Strong Stability Preservation for Stochastic Partial Differential Equations",
+  "authors": [
+    "James Woodfield"
+  ],
+  "summary": "This paper extends deterministic notions of Strong Stability Preservation (SSP) to the stochastic setting, enabling nonlinearly stable numerical solutions to stochastic differential equations (SDEs) and stochastic partial differential equations (SPDEs) with pathwise solutions that remain unconditionally bounded. This approach may offer modelling advantages in data assimilation, particularly when the signal or data is a realization of an SPDE or PDE with a monotonicity property.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [
+    "2024-12-06"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA, math.PR"
+}

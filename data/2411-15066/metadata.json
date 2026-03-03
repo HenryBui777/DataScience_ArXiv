@@ -1,0 +1,18 @@
+{
+  "title": "SPAC-Net: Rethinking Point Cloud Completion with Structural Prior",
+  "authors": [
+    "Zizhao Wu",
+    "Jian Shi",
+    "Xuan Deng",
+    "Cheng Zhang",
+    "Genfu Yang",
+    "Ming Zeng",
+    "Yunhai Wang"
+  ],
+  "summary": "Point cloud completion aims to infer a complete shape from its partial observation. Many approaches utilize a pure encoderdecoder paradigm in which complete shape can be directly predicted by shape priors learned from partial scans, however, these methods suffer from the loss of details inevitably due to the feature abstraction issues. In this paper, we propose a novel framework,termed SPAC-Net, that aims to rethink the completion task under the guidance of a new structural prior, we call it interface. Specifically, our method first investigates Marginal Detector (MAD) module to localize the interface, defined as the intersection between the known observation and the missing parts. Based on the interface, our method predicts the coarse shape by learning the displacement from the points in interface move to their corresponding position in missing parts. Furthermore, we devise an additional Structure Supplement(SSP) module before the upsampling stage to enhance the structural details of the coarse shape, enabling the upsampling module to focus more on the upsampling task. Extensive experiments have been conducted on several challenging benchmarks, and the results demonstrate that our method outperforms existing state-of-the-art approaches.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.LG"
+}

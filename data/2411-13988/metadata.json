@@ -1,0 +1,18 @@
+{
+  "title": "Dehazing-aided Multi-Rate Multi-Modal Pose Estimation Framework for Mitigating Visual Disturbances in Extreme Underwater Domain",
+  "authors": [
+    "Vidya Sudevan",
+    "Fakhreddine Zayer",
+    "Taimur Hassan",
+    "Sajid Javed",
+    "Hamad Karki",
+    "Giulia De Masi",
+    "Jorge Dias"
+  ],
+  "summary": "This paper delves into the potential of DU-VIO, a dehazing-aided hybrid multi-rate multi-modal Visual-Inertial Odometry (VIO) estimation framework, designed to thrive in the challenging realm of extreme underwater environments. The cutting-edge DU-VIO framework is incorporating a GAN-based pre-processing module and a hybrid CNN-LSTM module for precise pose estimation, using visibility-enhanced underwater images and raw IMU data. Accurate pose estimation is paramount for various underwater robotics and exploration applications. However, underwater visibility is often compromised by suspended particles and attenuation effects, rendering visual-inertial pose estimation a formidable challenge. DU-VIO aims to overcome these limitations by effectively removing visual disturbances from raw image data, enhancing the quality of image features used for pose estimation. We demonstrate the effectiveness of DU-VIO by calculating RMSE scores for translation and rotation vectors in comparison to their reference values. These scores are then compared to those of a base model using a modified AQUALOC Dataset. This study's significance lies in its potential to revolutionize underwater robotics and exploration. DU-VIO offers a robust solution to the persistent challenge of underwater visibility, significantly improving the accuracy of pose estimation. This research contributes valuable insights and tools for advancing underwater technology, with far-reaching implications for scientific research, environmental monitoring, and industrial applications.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

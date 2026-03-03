@@ -1,0 +1,16 @@
+{
+  "title": "Deep Learning VLBI Image Reconstruction with Closure Invariants",
+  "authors": [
+    "Samuel Lai",
+    "Nithyanandan Thyagarajan",
+    "O. Ivy Wong",
+    "Foivos Diakogiannis",
+    "Lucas Hoefs"
+  ],
+  "summary": "Interferometric closure invariants, constructed from triangular loops of mixed Fourier components, capture calibration-independent information on source morphology. While a complete set of closure invariants is directly obtainable from measured visibilities, the inverse transformation from closure invariants to the source intensity distribution is not established. In this work, we demonstrate a deep learning approach, Deep learning Image Reconstruction with Closure Terms (DIReCT), to directly reconstruct the image from closure invariants. Trained on both well-defined mathematical shapes (two-dimensional gaussians, disks, ellipses, $m$-rings) and natural images (CIFAR-10), the results from our specially designed model are insensitive to station-based corruptions and thermal noise. The median fidelity score between the reconstruction and the blurred ground truth achieved is $\\gtrsim 0.9$ even for untrained morphologies, where a unit score denotes perfect reconstruction. In our validation tests, DIReCT's results are comparable to other state-of-the-art deconvolution and regularised maximum-likelihood image reconstruction algorithms, with the advantage that DIReCT does not require hand-tuned hyperparameters for each individual prediction. This independent approach shows promising results and offers a calibration-independent constraint on source morphology, ultimately complementing and improving the reliability of sparse VLBI imaging results.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.IM"
+}

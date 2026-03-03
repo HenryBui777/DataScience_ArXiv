@@ -1,0 +1,16 @@
+{
+  "title": "Stability and decay rate estimates for a nonlinear dispersed flow reactor model with boundary control",
+  "authors": [
+    "Yevgeniia Yevgenieva",
+    "Alexander Zuyev",
+    "Peter Benner"
+  ],
+  "summary": "We investigate a nonlinear parabolic partial differential equation whose boundary conditions contain a single control input. This model describes a chemical reaction of the type ``$A \\to $ product'', occurring in a dispersed flow tubular reactor. The existence and uniqueness of solutions to the nonlinear Cauchy problem under consideration are established by applying the theory of strongly continuous semigroups of operators. We also prove the stability of the equilibrium of the closed-loop system with a proposed feedback law. Additionally, using Lyapunov's direct method, we evaluate the exponential decay rate of the solutions.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-04-22"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AP, math.OC"
+}

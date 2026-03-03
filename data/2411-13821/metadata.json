@@ -1,0 +1,18 @@
+{
+  "title": "Heterophilic Graph Neural Networks Optimization with Causal Message-passing",
+  "authors": [
+    "Botao Wang",
+    "Jia Li",
+    "Heng Chang",
+    "Keli Zhang",
+    "Fugee Tsung"
+  ],
+  "summary": "In this work, we discover that causal inference provides a promising approach to capture heterophilic message-passing in Graph Neural Network (GNN). By leveraging cause-effect analysis, we can discern heterophilic edges based on asymmetric node dependency. The learned causal structure offers more accurate relationships among nodes. To reduce the computational complexity, we introduce intervention-based causal inference in graph learning. We first simplify causal analysis on graphs by formulating it as a structural learning model and define the optimization problem within the Bayesian scheme. We then present an analysis of decomposing the optimization target into a consistency penalty and a structure modification based on cause-effect relations. We then estimate this target by conditional entropy and present insights into how conditional entropy quantifies the heterophily. Accordingly, we propose CausalMP, a causal message-passing discovery network for heterophilic graph learning, that iteratively learns the explicit causal structure of input graphs. We conduct extensive experiments in both heterophilic and homophilic graph settings. The result demonstrates that the our model achieves superior link prediction performance. Training on causal structure can also enhance node representation in classification task across different base models.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-27"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI, stat.ML"
+}

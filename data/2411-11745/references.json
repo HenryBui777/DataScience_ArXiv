@@ -1,0 +1,678 @@
+{
+  "2409-05227": {
+    "title": "BBS: Bi-Directional Bit-Level Sparsity for Deep Learning Acceleration",
+    "authors": [
+      "Yuzong Chen",
+      "Jian Meng",
+      "Jae-sun Seo",
+      "Mohamed S. Abdelfattah"
+    ],
+    "publication_date": "2024-09-08",
+    "venue": "Micro",
+    "semantic_scholar_id": "894e89967ef17b002302bfde496265558033d79f",
+    "corpus_id": 272524635,
+    "category": "Computer Science"
+  },
+  "2407-11062": {
+    "title": "EfficientQAT: Efficient Quantization-Aware Training for Large Language Models",
+    "authors": [
+      "Mengzhao Chen",
+      "Wenqi Shao",
+      "Peng Xu",
+      "Jiahao Wang",
+      "Peng Gao",
+      "Kai-Chuang Zhang",
+      "Yu Qiao",
+      "Ping Luo"
+    ],
+    "publication_date": "2024-07-10",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "bb0799cffdb2d676e1b68d15183371473c03a4fd",
+    "corpus_id": 271218628,
+    "category": "Computer Science"
+  },
+  "2405-03103": {
+    "title": "Learning from Students: Applying t-Distributions to Explore Accurate and Efficient Formats for LLMs",
+    "authors": [
+      "Jordan Dotzel",
+      "Yuzong Chen",
+      "Bahaa Kotb",
+      "Sushma Prasad",
+      "Gang Wu",
+      "Sheng Li",
+      "Mohamed S. Abdelfattah",
+      "Zhiru Zhang"
+    ],
+    "publication_date": "2024-05-06",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "afff235c6d8e196be4d2dafaee01a03595a66de1",
+    "corpus_id": 269605694,
+    "category": "Computer Science"
+  },
+  "2405-01775": {
+    "title": "Torch2Chip: An End-to-end Customizable Deep Neural Network Compression and Deployment Toolkit for Prototype Hardware Accelerator Design",
+    "authors": [
+      "Jian Meng",
+      "Yuan Liao",
+      "Anupreetham Anupreetham",
+      "Ahmed Hassan",
+      "Shixing Yu",
+      "Han-Sok Suh",
+      "Xiaofeng Hu",
+      "Jae-sun Seo"
+    ],
+    "publication_date": "2024-05-02",
+    "venue": "Conference on Machine Learning and Systems",
+    "semantic_scholar_id": "80f720c04cc6bb5d192d0352359653af24cfa09e",
+    "corpus_id": 269587976,
+    "category": "Computer Science"
+  },
+  "2404-00456": {
+    "title": "QuaRot: Outlier-Free 4-Bit Inference in Rotated LLMs",
+    "authors": [
+      "Saleh Ashkboos",
+      "Amirkeivan Mohtashami",
+      "Maximilian L. Croci",
+      "Bo Li",
+      "Pashmina Cameron",
+      "Martin Jaggi",
+      "Martin Jaggi",
+      "Torsten Hoefler",
+      "James Hensman"
+    ],
+    "publication_date": "2024-03-30",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "dd85e6cab147d237a0b1ab6f674570d3efb4d4a0",
+    "corpus_id": 268819214,
+    "category": "Computer Science"
+  },
+  "2403-14123": {
+    "title": "AI and Memory Wall",
+    "authors": [
+      "A. Gholami",
+      "Z. Yao",
+      "Sehoon Kim",
+      "Coleman Hooper",
+      "Michael W. Mahoney",
+      "Kurt Keutzer"
+    ],
+    "publication_date": "2024-03-21",
+    "venue": "IEEE Micro",
+    "semantic_scholar_id": "4c14b1c41cb0aaa68f5d3f4a432f55e7199657ea",
+    "corpus_id": 268553809,
+    "category": "Computer Science"
+  },
+  "2507-12444": {
+    "title": "BitWave: Exploiting Column-Based Bit-Level Sparsity for Deep Learning Acceleration",
+    "authors": [
+      "Man Shi",
+      "V. Jain",
+      "Antony Joseph",
+      "Maurice Meijer",
+      "Marian Verhelst"
+    ],
+    "publication_date": "2024-03-02",
+    "venue": "International Symposium on High-Performance Computer Architecture",
+    "semantic_scholar_id": "b5617e9db9fad430bb947e72df7c1f35f8ca1616",
+    "corpus_id": 268878953,
+    "category": "Computer Science, Engineering"
+  },
+  "2312-08583": {
+    "title": "ZeroQuant(4+2): Redefining LLMs Quantization with a New FP6-Centric Strategy for Diverse Generative Tasks",
+    "authors": [
+      "Xiaoxia Wu",
+      "Haojun Xia",
+      "Stephen Youn",
+      "Zhen Zheng",
+      "Shiyang Chen",
+      "Arash Bakhtiari",
+      "Michael Wyatt",
+      "Reza Yazdani Aminabadi",
+      "Yuxiong He",
+      "Olatunji Ruwase",
+      "Leon Song",
+      "Zhewei Yao"
+    ],
+    "publication_date": "2023-12-14",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "1482d35685be0215249b54c379d6fe96a606da06",
+    "corpus_id": 266210416,
+    "category": "Computer Science, Mathematics"
+  },
+  "2310-19102": {
+    "title": "Atom: Low-bit Quantization for Efficient and Accurate LLM Serving",
+    "authors": [
+      "Yilong Zhao",
+      "Chien-Yu Lin",
+      "Kan Zhu",
+      "Zihao Ye",
+      "Lequn Chen",
+      "Size Zheng",
+      "Luis Ceze",
+      "Arvind Krishnamurthy",
+      "Tianqi Chen",
+      "Baris Kasikci"
+    ],
+    "publication_date": "2023-10-29",
+    "venue": "Conference on Machine Learning and Systems",
+    "semantic_scholar_id": "9529e50807f36acf3d2e4af994b5803c47e4746a",
+    "corpus_id": 264828796,
+    "category": "Computer Science"
+  },
+  "2308-13137": {
+    "title": "OmniQuant: Omnidirectionally Calibrated Quantization for Large Language Models",
+    "authors": [
+      "Wenqi Shao",
+      "Mengzhao Chen",
+      "Zhaoyang Zhang",
+      "Peng Xu",
+      "Lirui Zhao",
+      "Zhiqiang Li",
+      "Kaipeng Zhang",
+      "Peng Gao",
+      "Y. Qiao",
+      "Ping Luo"
+    ],
+    "publication_date": "2023-08-25",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "eb2c2330177f765038a2b17e2ee3498965865797",
+    "corpus_id": 261214575,
+    "category": "Computer Science"
+  },
+  "2307-13304": {
+    "title": "QuIP: 2-Bit Quantization of Large Language Models With Guarantees",
+    "authors": [
+      "Jerry Chee",
+      "Yaohui Cai",
+      "Volodymyr Kuleshov",
+      "Chris De Sa"
+    ],
+    "publication_date": "2023-07-25",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "56b828717f32251a5e0f0be9c0113077f23c8429",
+    "corpus_id": 260154775,
+    "category": "Computer Science, Medicine"
+  },
+  "2306-00978": {
+    "title": "AWQ: Activation-aware Weight Quantization for On-Device LLM Compression and Acceleration",
+    "authors": [
+      "Ji Lin",
+      "Jiaming Tang",
+      "Haotian Tang",
+      "Shang Yang",
+      "Xingyu Dang",
+      "Song Han"
+    ],
+    "publication_date": "2023-06-01",
+    "venue": "Conference on Machine Learning and Systems",
+    "semantic_scholar_id": "db9507cdd3e2d7d9c90ed185bd831e55c62dcec9",
+    "corpus_id": 258999941,
+    "category": "Computer Science"
+  },
+  "2305-17888": {
+    "title": "LLM-QAT: Data-Free Quantization Aware Training for Large Language Models",
+    "authors": [
+      "Zechun Liu",
+      "Barlas Oğuz",
+      "Changsheng Zhao",
+      "Ernie Chang",
+      "Pierre Stock",
+      "Yashar Mehdad",
+      "Yangyang Shi",
+      "Raghuraman Krishnamoorthi",
+      "Vikas Chandra"
+    ],
+    "publication_date": "2023-05-29",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "6bd3ee1ca608bc66a490f63f2fb107d79b44f3e2",
+    "corpus_id": 258959117,
+    "category": "Computer Science"
+  },
+  "2305-14314": {
+    "title": "QLoRA: Efficient Finetuning of Quantized LLMs",
+    "authors": [
+      "Tim Dettmers",
+      "Artidoro Pagnoni",
+      "Ari Holtzman",
+      "Luke Zettlemoyer"
+    ],
+    "publication_date": "2023-05-23",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "32ac52069e562d4f900afee70bdca63f53461481",
+    "corpus_id": 258841328,
+    "category": "Computer Science"
+  },
+  "2305-12718": {
+    "title": "HighLight: Efficient and Flexible DNN Acceleration with Hierarchical Structured Sparsity",
+    "authors": [
+      "Yannan Nellie Wu",
+      "Po-An Tsai",
+      "Saurav Muralidharan",
+      "A. Parashar",
+      "V. Sze",
+      "J. Emer"
+    ],
+    "publication_date": "2023-05-22",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "d4bfbc2874baddf3f562603665e936707db7d340",
+    "corpus_id": 258833430,
+    "category": "Computer Science"
+  },
+  "2304-07493": {
+    "title": "OliVe: Accelerating Large Language Models via Hardware-friendly Outlier-Victim Pair Quantization",
+    "authors": [
+      "Cong Guo",
+      "Jiaming Tang",
+      "Weiming Hu",
+      "Jingwen Leng",
+      "Chen Zhang",
+      "Fan Yang",
+      "Yun-Bo Liu",
+      "Minyi Guo",
+      "Yuhao Zhu"
+    ],
+    "publication_date": "2023-04-15",
+    "venue": "International Symposium on Computer Architecture",
+    "semantic_scholar_id": "e92a5332390f0ba94615935541da4da9bed56512",
+    "corpus_id": 258179335,
+    "category": "Computer Science"
+  },
+  "2303-06865": {
+    "title": "High-throughput Generative Inference of Large Language Models with a Single GPU",
+    "authors": [
+      "Ying Sheng",
+      "Lianmin Zheng",
+      "Binhang Yuan",
+      "Zhuohan Li",
+      "Max Ryabinin",
+      "Daniel Y. Fu",
+      "Zhiqiang Xie",
+      "Beidi Chen",
+      "Clark W. Barrett",
+      "Joseph Gonzalez",
+      "Percy Liang",
+      "Christopher Ré",
+      "Ion Stoica",
+      "Ce Zhang"
+    ],
+    "publication_date": "2023-03-13",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "42a14d824caa3348046eb34c37e2ab7985faa7a3",
+    "corpus_id": 257495837,
+    "category": "Computer Science"
+  },
+  "2302-13971": {
+    "title": "LLaMA: Open and Efficient Foundation Language Models",
+    "authors": [
+      "Hugo Touvron",
+      "Thibaut Lavril",
+      "Gautier Izacard",
+      "Xavier Martinet",
+      "M. Lachaux",
+      "Timothée Lacroix",
+      "Baptiste Rozière",
+      "Naman Goyal",
+      "Eric Hambro",
+      "Faisal Azhar",
+      "Aur'elien Rodriguez",
+      "Armand Joulin",
+      "Edouard Grave",
+      "Guillaume Lample"
+    ],
+    "publication_date": "2023-02-27",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "57e849d0de13ed5f91d086936296721d4ff75a75",
+    "corpus_id": 257219404,
+    "category": "Computer Science"
+  },
+  "2302-08007": {
+    "title": "With Shared Microexponents, A Little Shifting Goes a Long Way",
+    "authors": [
+      "Bita Darvish Rouhani",
+      "Ritchie Zhao",
+      "V. Elango",
+      "Rasoul Shafipour",
+      "Mathew Hall",
+      "Maral Mesmakhosroshahi",
+      "Ankit More",
+      "Levi Melnick",
+      "Maximilian Golub",
+      "G. Varatkar",
+      "Lai Shao",
+      "Gaurav Kolhe",
+      "Dimitry Melts",
+      "Jasmine Klar",
+      "Renee L'Heureux",
+      "Matt Perry",
+      "D. Burger",
+      "Eric S. Chung",
+      "Zhaoxia Deng",
+      "S. Naghshineh",
+      "Jongsoo Park",
+      "M. Naumov"
+    ],
+    "publication_date": "2023-02-16",
+    "venue": "International Symposium on Computer Architecture",
+    "semantic_scholar_id": "eebe95c31aba4b862e1bc3d312ca60094bd01f61",
+    "corpus_id": 256900712,
+    "category": "Computer Science"
+  },
+  "2211-10438": {
+    "title": "SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models",
+    "authors": [
+      "Guangxuan Xiao",
+      "Ji Lin",
+      "Mickael Seznec",
+      "Julien Demouth",
+      "Song Han"
+    ],
+    "publication_date": "2022-11-18",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "2c994fadbb84fb960d8306ee138dbeef41a5b323",
+    "corpus_id": 253708271,
+    "category": "Computer Science"
+  },
+  "2208-14286": {
+    "title": "ANT: Exploiting Adaptive Numerical Data Type for Low-bit Deep Neural Network Quantization",
+    "authors": [
+      "Cong Guo",
+      "Chen Zhang",
+      "Jingwen Leng",
+      "Zihan Liu",
+      "Fan Yang",
+      "Yun-Bo Liu",
+      "Minyi Guo",
+      "Yuhao Zhu"
+    ],
+    "publication_date": "2022-08-30",
+    "venue": "Micro",
+    "semantic_scholar_id": "90c570a5b1c7d9ceb3c4944a5967435ecec907ca",
+    "corpus_id": 251928917,
+    "category": "Computer Science"
+  },
+  "2208-07339": {
+    "title": "LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale",
+    "authors": [
+      "Tim Dettmers",
+      "M. Lewis",
+      "Younes Belkada",
+      "Luke Zettlemoyer"
+    ],
+    "publication_date": "2022-08-15",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "4be7d1524edb0137599a5cc95f72844b85a52fe1",
+    "corpus_id": 251564521,
+    "category": "Computer Science"
+  },
+  "2206-01861": {
+    "title": "ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers",
+    "authors": [
+      "Z. Yao",
+      "Reza Yazdani Aminabadi",
+      "Minjia Zhang",
+      "Xiaoxia Wu",
+      "Conglong Li",
+      "Yuxiong He"
+    ],
+    "publication_date": "2022-06-04",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "e03609f2587f690867e7ea0bedaf0db25282c548",
+    "corpus_id": 249395624,
+    "category": "Computer Science"
+  },
+  "2205-01068": {
+    "title": "OPT: Open Pre-trained Transformer Language Models",
+    "authors": [
+      "Susan Zhang",
+      "Stephen Roller",
+      "Naman Goyal",
+      "Mikel Artetxe",
+      "Moya Chen",
+      "Shuohui Chen",
+      "Christopher Dewan",
+      "Mona T. Diab",
+      "Xian Li",
+      "Xi Victoria Lin",
+      "Todor Mihaylov",
+      "Myle Ott",
+      "Sam Shleifer",
+      "Kurt Shuster",
+      "Daniel Simig",
+      "Punit Singh Koura",
+      "Anjali Sridhar",
+      "Tianlu Wang",
+      "Luke Zettlemoyer"
+    ],
+    "publication_date": "2022-05-02",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "13a0d8bb38f739990c8cd65a44061c6534f17221",
+    "corpus_id": 248496292,
+    "category": "Computer Science"
+  },
+  "2203-12758": {
+    "title": "Mokey: enabling narrow fixed-point inference for out-of-the-box floating-point transformer models",
+    "authors": [
+      "Ali Hadi Zadeh",
+      "Mostafa Mahmoud",
+      "Ameer Abdelhadi",
+      "A. Moshovos"
+    ],
+    "publication_date": "2022-03-23",
+    "venue": "International Symposium on Computer Architecture",
+    "semantic_scholar_id": "a71d57029884e60735f5672d33794e29d0ae3dea",
+    "corpus_id": 247627656,
+    "category": "Computer Science"
+  },
+  "2110-02861": {
+    "title": "8-bit Optimizers via Block-wise Quantization",
+    "authors": [
+      "Tim Dettmers",
+      "M. Lewis",
+      "Sam Shleifer",
+      "Luke Zettlemoyer"
+    ],
+    "publication_date": "2021-10-06",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "11fe37ab6faf6bf85ad2f5746c154dec5412bd04",
+    "corpus_id": 238408308,
+    "category": "Computer Science"
+  },
+  "2105-09564": {
+    "title": "Dual-side Sparse Tensor Core",
+    "authors": [
+      "Yang Wang",
+      "Chen Zhang",
+      "Zhiqiang Xie",
+      "Cong Guo",
+      "Yunxin Liu",
+      "Jingwen Leng"
+    ],
+    "publication_date": "2021-05-20",
+    "venue": "International Symposium on Computer Architecture",
+    "semantic_scholar_id": "ae5e7794aaff65590e265bdf4d65c44f6fa05064",
+    "corpus_id": 234790037,
+    "category": "Computer Science"
+  },
+  "2104-08758": {
+    "title": "Documenting Large Webtext Corpora: A Case Study on the Colossal Clean Crawled Corpus",
+    "authors": [
+      "Jesse Dodge",
+      "Ana Marasovic",
+      "Gabriel Ilharco",
+      "Dirk Groeneveld",
+      "Margaret Mitchell",
+      "Matt Gardner",
+      "William Agnew"
+    ],
+    "publication_date": "2021-04-18",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "1adadbfa95e43a70fcd17e6ce947a0652b86bfc3",
+    "corpus_id": 237568724,
+    "category": "Computer Science"
+  },
+  "2102-04503": {
+    "title": "VS-Quant: Per-vector Scaled Quantization for Accurate Low-Precision Neural Network Inference",
+    "authors": [
+      "Steve Dai",
+      "Rangharajan Venkatesan",
+      "Haoxing Ren",
+      "B. Zimmer",
+      "W. Dally",
+      "Brucek Khailany"
+    ],
+    "publication_date": "2021-02-08",
+    "venue": "Conference on Machine Learning and Systems",
+    "semantic_scholar_id": "0c201c52260963665e0d30b3fe0fa31291af210b",
+    "corpus_id": 231855747,
+    "category": "Computer Science"
+  },
+  "2010-08065": {
+    "title": "FPRaker: A Processing Element For Accelerating Neural Network Training",
+    "authors": [
+      "Omar Mohamed Awad",
+      "Mostafa Mahmoud",
+      "Isak Edo Vivancos",
+      "Ali Hadi Zadeh",
+      "Ciaran Bannon",
+      "Anand Jayarajan",
+      "Gennady Pekhimenko",
+      "A. Moshovos"
+    ],
+    "publication_date": "2020-10-15",
+    "venue": "Micro",
+    "semantic_scholar_id": "dc43b15ffc6f78d3a5aefd94b9a48f18c40259e5",
+    "corpus_id": 223953419,
+    "category": "Computer Science"
+  },
+  "2005-14165": {
+    "title": "Language Models are Few-Shot Learners",
+    "authors": [
+      "Tom B. Brown",
+      "Benjamin Mann",
+      "Nick Ryder",
+      "Melanie Subbiah",
+      "J. Kaplan",
+      "Prafulla Dhariwal",
+      "Arvind Neelakantan",
+      "Pranav Shyam",
+      "Girish Sastry",
+      "Amanda Askell",
+      "Sandhini Agarwal",
+      "Ariel Herbert-Voss",
+      "Gretchen Krueger",
+      "T. Henighan",
+      "R. Child",
+      "A. Ramesh",
+      "Daniel M. Ziegler",
+      "Jeff Wu",
+      "Clemens Winter",
+      "Christopher Hesse",
+      "Mark Chen",
+      "Eric Sigler",
+      "Ma-teusz Litwin",
+      "Scott Gray",
+      "Benjamin Chess",
+      "Jack Clark",
+      "Christopher Berner",
+      "Sam McCandlish",
+      "Alec Radford",
+      "I. Sutskever",
+      "Dario Amodei"
+    ],
+    "publication_date": "2020-05-28",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+    "corpus_id": 218971783,
+    "category": "Computer Science"
+  },
+  "2005-03842": {
+    "title": "GOBO: Quantizing Attention-Based NLP Models for Low Latency and Energy Efficient Inference",
+    "authors": [
+      "Ali Hadi Zadeh",
+      "A. Moshovos"
+    ],
+    "publication_date": "2020-05-08",
+    "venue": "Micro",
+    "semantic_scholar_id": "1b0c8b26affd13e10ace5770e85478d60dcc368e",
+    "corpus_id": 218571099,
+    "category": "Computer Science, Mathematics"
+  },
+  "1911-11641": {
+    "title": "PIQA: Reasoning about Physical Commonsense in Natural Language",
+    "authors": [
+      "Yonatan Bisk",
+      "Rowan Zellers",
+      "Ronan Le Bras",
+      "Jianfeng Gao",
+      "Yejin Choi"
+    ],
+    "publication_date": "2019-11-26",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "04f4e55e14150b7c48b0287ba77c7443df76ed45",
+    "corpus_id": 208290939,
+    "category": "Computer Science"
+  },
+  "1905-07830": {
+    "title": "HellaSwag: Can a Machine Really Finish Your Sentence?",
+    "authors": [
+      "Rowan Zellers",
+      "Ari Holtzman",
+      "Yonatan Bisk",
+      "Ali Farhadi",
+      "Yejin Choi"
+    ],
+    "publication_date": "2019-05-01",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "8b0f27bb594b1eaaf493eaf1e2ee723a2b0a19ad",
+    "corpus_id": 159041722,
+    "category": "Computer Science"
+  },
+  "1803-05457": {
+    "title": "Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge",
+    "authors": [
+      "Peter Clark",
+      "Isaac Cowhey",
+      "Oren Etzioni",
+      "Tushar Khot",
+      "Ashish Sabharwal",
+      "Carissa Schoenick",
+      "Oyvind Tafjord"
+    ],
+    "publication_date": "2018-03-14",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "88bb0a28bb58d847183ec505dda89b63771bb495",
+    "corpus_id": 3922816,
+    "category": "Computer Science"
+  },
+  "1610-06920": {
+    "title": "Bit-Pragmatic Deep Neural Network Computing",
+    "authors": [
+      "Jorge Albericio",
+      "A. Delmas",
+      "Patrick Judd",
+      "Sayeh Sharify",
+      "Gerard O’Leary",
+      "R. Genov",
+      "A. Moshovos"
+    ],
+    "publication_date": "2016-10-20",
+    "venue": "Micro",
+    "semantic_scholar_id": "d2dfdbb7a5d64176968f51342a2eff0ff45db4b5",
+    "corpus_id": 9051642,
+    "category": "Computer Science"
+  },
+  "1609-07843": {
+    "title": "Pointer Sentinel Mixture Models",
+    "authors": [
+      "Stephen Merity",
+      "Caiming Xiong",
+      "James Bradbury",
+      "R. Socher"
+    ],
+    "publication_date": "2016-09-26",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "efbd381493bb9636f489b965a2034d529cd56bcd",
+    "corpus_id": 16299141,
+    "category": "Computer Science"
+  }
+}

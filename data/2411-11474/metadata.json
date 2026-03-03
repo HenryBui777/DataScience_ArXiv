@@ -1,0 +1,15 @@
+{
+  "title": "Graph Neural Networks for Quantifying Compatibility Mechanisms in Traditional Chinese Medicine",
+  "authors": [
+    "Jingqi Zeng",
+    "Xiaobin Jia"
+  ],
+  "summary": "Traditional Chinese Medicine (TCM) involves complex compatibility mechanisms characterized by multi-component and multi-target interactions, which are challenging to quantify. To address this challenge, we applied graph artificial intelligence to develop a TCM multi-dimensional knowledge graph that bridges traditional TCM theory and modern biomedical science (https://zenodo.org/records/13763953 ). Using feature engineering and embedding, we processed key TCM terminology and Chinese herbal pieces (CHP), introducing medicinal properties as virtual nodes and employing graph neural networks with attention mechanisms to model and analyze 6,080 Chinese herbal formulas (CHF). Our method quantitatively assessed the roles of CHP within CHF and was validated using 215 CHF designed for COVID-19 management. With interpretable models, open-source data, and code (https://github.com/ZENGJingqi/GraphAI-for-TCM ), this study provides robust tools for advancing TCM theory and drug discovery.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-12-10"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, q-bio.QM"
+}

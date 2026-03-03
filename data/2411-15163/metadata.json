@@ -1,0 +1,14 @@
+{
+  "title": "Skin Sympathetic Nerve Activity Driver Extraction through Non-Negative Sparse Decomposition",
+  "authors": [
+    "Farnoush Baghestani",
+    "Youngsun Kong",
+    "Ki H. Chon"
+  ],
+  "summary": "In recent years, skin sympathetic nerve activity (SKNA) extracted from electrocardiogram has gained attention as a novel noninvasive measure of the sympathetic nervous system (SNS), while electrodermal activity (EDA) has long served this purpose. SparsEDA is a sparse deconvolution technique originally developed for EDA to extract phasic drivers indicating the start of sympathetic burst responses. Our focus is on applying this method to preprocessed SKNA signals, justified by both SKNA and EDA signals' connection to sympathetic nerve activity and prior observed similarities. In a thermal-grill pain experiment, 16 subjects underwent six stimulations each to elicit SNS responses, with simultaneous recording of EDA and SKNA. We confirmed the method's accuracy in identifying stimuli initiation. Results were assessed for burst detection and accuracy of driver placement compared to annotated labels. The SKNA drivers achieved an RMSE of 0.42 from annotated stimulations, a 97% hit rate in detecting applied stimuli, and minimal false alarms during the 2-minute control period and interstimulus intervals.",
+  "submission_date": "2024-11-11",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-bio.NC"
+}

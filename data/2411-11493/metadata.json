@@ -1,0 +1,15 @@
+{
+  "title": "LSRAM: A Lightweight Autoscaling and SLO Resource Allocation Framework for Microservices Based on Gradient Descent",
+  "authors": [
+    "Kan Hu",
+    "Minxian Xu",
+    "Kejiang Ye",
+    "Chengzhong Xu"
+  ],
+  "summary": "Microservices architecture has become the dominant architecture in cloud computing paradigm with its advantages of facilitating development, deployment, modularity and scalability. The workflow of microservices architecture is transparent to the users, who are concerned with the quality of service (QoS). Taking Service Level Objective (SLO) as an important indicator of system resource scaling can effectively ensure user's QoS, but how to quickly allocate end-to-end SLOs to each microservice in a complete service so that it can obtain the optimal SLO resource allocation scheme is still a challenging problem. Existing microservice autoscaling frameworks based on SLO resources often have heavy and complex models that demand substantial time and computational resources to get a suitable resource allocation scheme. Moreover, when the system environment or microservice application changes, these methods require significant time and resources for model retraining. In this paper, we propose LSRAM, a lightweight SLO resource allocation management framework based on the gradient descent method to overcome the limitation of existing methods in terms of heavy model, time-consuming, poor scalability, and difficulty in retraining. LSRAM has two stages: at stage one, the lightweight SLO resource allocation model from LSRAM can quickly compute the appropriate SLO resources for each microservice; at stage two, LSRAM's SLO resource update model enables the entire framework to quickly adapt to changes in the cluster environment (e.g. load and applications). Additionally, LSRAM can effectively handle bursty traffic and highly fluctuating load application scenarios. Compared to state-of-the-art SLO allocation frameworks, LSRAM not only guarantees users' QoS but also reduces resource usage by 17%.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "Software: Practice and Experience 2024",
+  "pdf_url": null,
+  "category": "cs.DC"
+}

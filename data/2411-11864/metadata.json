@@ -1,0 +1,16 @@
+{
+  "title": "Reducing the Large Set Threshold for Oertel's Conjecture on the Mixed-Integer Volume",
+  "authors": [
+    "Andrés Cristi",
+    "David Salas"
+  ],
+  "summary": "In 1960, Grünbaum proved that for any convex body $C\\subset\\mathbb{R}^d$ and every halfspace $H$ containing the centroid of $C$, one has that the volume of $H\\cap C$ is at least a $\\frac{1}{e}$-fraction of the volume of $C$. Recently, in 2014, Oertel conjectured that a similar result holds for mixed-integer convex sets. Concretely, he proposed that for any convex body $C\\subset \\mathbb{R}^{n+d}$, there should exist a point $\\mathbf{x} \\in S=C\\cap(\\mathbb{Z}^{n}\\times\\mathbb{R}^d)$ such that for every halfspace $H$ containing $\\mathbf{x}$, one has that\n  \\[\n  \\mathcal{H}_d(H\\cap S) \\geq \\frac{1}{2^n}\\frac{1}{e}\\mathcal{H}_d(S),\n  \\]\n  where $\\mathcal{H}_d$ denotes the $d$-dimensional Hausdorff measure. While the conjecture remains open, Basu and Oertel proved in 2017 that the above inequality holds true for sufficiently large sets, in terms of a measure known as the \\emph{lattice width} of a set. In this work, by following a geometric approach, we improve this result by substantially reducing the threshold at which a set can be considered large. We reduce this threshold from an exponential to a polynomial dependency on the dimension, therefore significantly enlarging the family of mixed-integer convex sets over which Oertel's conjecture holds true.",
+  "submission_date": "2024-11-02",
+  "revised_dates": [
+    "2025-02-01",
+    "2025-10-29"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.MG, math.OC"
+}

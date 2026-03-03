@@ -1,0 +1,14 @@
+{
+  "title": "Space-time structure and particle-fluid duality of solutions for Boltzmann equation with hard potentials",
+  "authors": [
+    "Yu-Chu Lin",
+    "Haitao Wang",
+    "Kung-Chien Wu"
+  ],
+  "summary": "We study the quantitative pointwise behavior of solutions to the Boltzmann equation for hard potentials and Maxwellian molecules, which generalize the hard sphere case introduced by Liu-Yu in 2004 (Comm. Pure Appl. Math. 57:1543-1608, 2004). The large time behavior of the solution is dominated by fluid structures, similar to the hard sphere case. However, unlike hard sphere, the spatial decay here depends on the potential power $γ$ and the initial velocity weight. A key challenge in this problem is the loss of velocity weight in linear estimates, which makes standard nonlinear iteration infeasible. To address this, we develop an Enhanced Mixture Lemma, demonstrating that mixing the transport and gain parts of the linearized collision operator can generate arbitrary-order regularity and decay in both space and velocity variables. This allows us to decompose the linearized solution into fluid (arbitrary regularity and velocity decay) and particle (rapid space-time decay, but with loss of velocity decay) parts, making it possible to solve the nonlinear problem through this particle-fluid duality.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AP"
+}

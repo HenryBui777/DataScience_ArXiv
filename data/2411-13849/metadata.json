@@ -1,0 +1,16 @@
+{
+  "title": "Sequence-to-Sequence Neural Diarization with Automatic Speaker Detection and Representation",
+  "authors": [
+    "Ming Cheng",
+    "Yuke Lin",
+    "Ming Li"
+  ],
+  "summary": "This paper proposes a novel Sequence-to-Sequence Neural Diarization (S2SND) framework to perform online and offline speaker diarization. It is developed from the sequence-to-sequence architecture of our previous target-speaker voice activity detection system and then evolves into a new diarization paradigm by addressing two critical problems. 1) Speaker Detection: The proposed approach can utilize partially given speaker embeddings to discover the unknown speaker and predict the target voice activities in the audio signal. It does not require a prior diarization system for speaker enrollment in advance. 2) Speaker Representation: The proposed approach can adopt the predicted voice activities as reference information to extract speaker embeddings from the audio signal simultaneously. The representation space of speaker embedding is jointly learned within the whole diarization network without using an extra speaker embedding model. During inference, the S2SND framework can process long audio recordings blockwise. The detection module utilizes the previously obtained speaker-embedding buffer to predict both enrolled and unknown speakers' voice activities for each coming audio block. Next, the speaker-embedding buffer is updated according to the predictions of the representation module. Assuming that up to one new speaker may appear in a small block shift, our model iteratively predicts the results of each block and extracts target embeddings for the subsequent blocks until the signal ends. Finally, the last speaker-embedding buffer can re-score the entire audio, achieving highly accurate diarization performance as an offline system. Experimental results show that ...",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-06-21"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.AS"
+}

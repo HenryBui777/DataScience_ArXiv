@@ -1,0 +1,16 @@
+{
+  "title": "Rising Rested Bandits: Lower Bounds and Efficient Algorithms",
+  "authors": [
+    "Marco Fiandri",
+    "Alberto Maria Metelli",
+    "Francesco Trov`o"
+  ],
+  "summary": "This paper is in the field of stochastic Multi-Armed Bandits (MABs), i.e. those sequential selection techniques able to learn online using only the feedback given by the chosen option (a.k.a. $arm$). We study a particular case of the rested bandits in which the arms' expected reward is monotonically non-decreasing and concave. We study the inherent sample complexity of the regret minimization problem by deriving suitable regret lower bounds. Then, we design an algorithm for the rested case $\\textit{R-ed-UCB}$, providing a regret bound depending on the properties of the instance and, under certain circumstances, of $\\widetilde{\\mathcal{O}}(T^{\\frac{2}{3}})$. We empirically compare our algorithms with state-of-the-art methods for non-stationary MABs over several synthetically generated tasks and an online model selection problem for a real-world dataset",
+  "submission_date": "2024-11-06",
+  "revised_dates": [
+    "2024-11-26"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ML, cs.LG"
+}

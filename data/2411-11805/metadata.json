@@ -1,0 +1,13 @@
+{
+  "title": "On the hardness of cloning and connections to representation theory",
+  "authors": [
+    "Vojtěch Havlíček",
+    "Chinmay Nirkhe"
+  ],
+  "summary": "The states accepted by a quantum circuit are known as the witnesses for the quantum circuit's satisfiability. The assumption BQP does not equal QMA implies that no efficient algorithm exists for constructing a witness for a quantum circuit from the circuit's classical description. However, a similar complexity-theoretic lower bound on the computational hardness of cloning a witness is not known. In this note, we derive a conjecture about cloning algorithms for maximally entangled states over hidden subspaces which would imply that no efficient algorithm exists for cloning witnesses (assuming BQP does not contain NP). The conjecture and result follow from connections between quantum computation and representation theory; specifically, the relationship between quantum state complexity and the complexity of computing Kronecker coefficients.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, cs.CC"
+}

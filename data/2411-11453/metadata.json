@@ -1,0 +1,16 @@
+{
+  "title": "Fluid Antenna-Aided Rate-Splitting Multiple Access",
+  "authors": [
+    "Farshad Rostami Ghadi",
+    "Kai-Kit Wong",
+    "F. Javier Lopez-Martinez",
+    "Lajos Hanzo",
+    "Chan-Byoung Chae"
+  ],
+  "summary": "This letter considers a fluid antenna system (FAS)-aided rate-splitting multiple access (RSMA) approach for downlink transmission. In particular, a base station (BS) equipped with a single traditional antenna system (TAS) uses RSMA signaling to send information to several mobile users (MUs) each equipped with FAS. To understand the achievable performance, we first present the distribution of the equivalent channel gain based on the joint multivariate t-distribution and then derive a compact analytical expression for the outage probability (OP). Moreover, we obtain the asymptotic OP in the high signal-to-noise ratio (SNR) regime. Numerical results show that combining FAS with RSMA significantly outperforms TAS and conventional multiple access schemes, such as non-orthogonal multiple access (NOMA), in terms of OP. The results also indicate that FAS can be the tool that greatly improves the practicality of RSMA.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IT, eess.SP"
+}

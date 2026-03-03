@@ -1,0 +1,16 @@
+{
+  "title": "gpuPairHMM: High-speed Pair-HMM Forward Algorithm for DNA Variant Calling on GPUs",
+  "authors": [
+    "Bertil Schmidt",
+    "Felix Kallenborn",
+    "Alexander Wichmann",
+    "Alejandro Chacon",
+    "Christian Hundt"
+  ],
+  "summary": "The continually increasing volume of DNA sequence data has resulted in a growing demand for fast implementations of core algorithms. Computation of pairwise alignments between candidate haplotypes and sequencing reads using Pair-HMMs is a key component in DNA variant calling tools such as the GATK HaplotypeCaller but can be highly time consuming due to its quadratic time complexity and the large number of pairs to be aligned. Unfortunately, previous approaches to accelerate this task using the massively parallel processing capabilities of modern GPUs are limited by inefficient memory access schemes. This established the need for significantly faster solutions. We address this need by presenting gpuPairHMM -- a novel GPU-based parallelization scheme for the dynamic-programming based Pair-HMM forward algorithm based on wavefronts and warp-shuffles. It gains efficiency by minimizing both memory accesses and instructions. We show that our approach achieves close-to-peak performance on several generations of modern CUDA-enabled GPUs (Volta, Ampere, Ada, Hopper). It also outperforms prior implementations on GPUs, CPUs, and FPGAs by a factor of at least 8.6, 10.4, and 14.5, respectively. gpuPairHMM is publicly available at https://github.com/asbschmidt/gpuPairHMM.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DC, q-bio.GN"
+}

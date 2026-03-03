@@ -1,0 +1,15 @@
+{
+  "title": "Deep Learning in Long-Short Stock Portfolio Allocation: An Empirical Study",
+  "authors": [
+    "Junjie Guo"
+  ],
+  "summary": "This paper provides an empirical study explores the application of deep learning algorithms-Multilayer Perceptron (MLP), Convolutional Neural Networks (CNN), Long Short-Term Memory (LSTM), and Transformer-in constructing long-short stock portfolios. Two datasets comprising randomly selected stocks from the S&P500 and NASDAQ indices, each spanning a decade of daily data, are utilized. The models predict daily stock returns based on historical features such as past returns,Relative Strength Index (RSI), trading volume, and volatility. Portfolios are dynamically adjusted by longing stocks with positive predicted returns and shorting those with negative predictions, with equal asset weights. Performance is evaluated over a two-year testing period, focusing on return, Sharpe ratio, and maximum drawdown metrics. The results demonstrate the efficacy of deep learning models in enhancing long-short stock portfolio performance.",
+  "submission_date": "2024-10-31",
+  "revised_dates": [
+    "2024-11-22",
+    "2024-11-25"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-fin.ST"
+}

@@ -1,0 +1,651 @@
+{
+  "2410-05259": {
+    "title": "GS-VTON: Controllable 3D Virtual Try-on with Gaussian Splatting",
+    "authors": [
+      "Yukang Cao",
+      "Masoud Hadi",
+      "Liang Pan",
+      "Ziwei Liu"
+    ],
+    "publication_date": "2024-10-07",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "fb657189a0e71b03f353bffe957104e2abe3ab19",
+    "corpus_id": 273186814,
+    "category": "Computer Science"
+  },
+  "2409-06765": {
+    "title": "gsplat: An Open-Source Library for Gaussian Splatting",
+    "authors": [
+      "Vickie Ye",
+      "Ruilong Li",
+      "Justin Kerr",
+      "Matias Turkulainen",
+      "Brent Yi",
+      "Zhuoyang Pan",
+      "Otto Seiskari",
+      "Jianbo Ye",
+      "Jeffrey Hu",
+      "Matthew Tancik",
+      "Angjoo Kanazawa"
+    ],
+    "publication_date": "2024-09-10",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "c270b3a98ce40a0eb09c50cde59c614e0acb4e21",
+    "corpus_id": 272592898,
+    "category": "Computer Science"
+  },
+  "2408-16760": {
+    "title": "OmniRe: Omni Urban Scene Reconstruction",
+    "authors": [
+      "Ziyu Chen",
+      "Jiawei Yang",
+      "Jiahui Huang",
+      "Riccardo de Lutio",
+      "Janick Martinez Esturo",
+      "B. Ivanovic",
+      "Or Litany",
+      "Z. Gojcic",
+      "S. Fidler",
+      "Marco Pavone",
+      "Li-Na Song",
+      "Yue Wang"
+    ],
+    "publication_date": "2024-08-29",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "49762b74fcc9228f2aee31eed566be8fbb377a97",
+    "corpus_id": 272146130,
+    "category": "Computer Science"
+  },
+  "2406-06526": {
+    "title": "Generative Gaussian Splatting for Unbounded 3D City Generation",
+    "authors": [
+      "Haozhe Xie",
+      "Zhaoxi Chen",
+      "Fangzhou Hong",
+      "Ziwei Liu"
+    ],
+    "publication_date": "2024-06-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "5ca30018217fc32e6259ddda974a494a3cf0b4a6",
+    "corpus_id": 270371902,
+    "category": "Computer Science"
+  },
+  "2405-03417": {
+    "title": "Gaussian Splatting: 3D Reconstruction and Novel View Synthesis: A Review",
+    "authors": [
+      "Anurag Dalal",
+      "Daniel Hagen",
+      "K. Robbersmyr",
+      "Kristian Muri Knausgård"
+    ],
+    "publication_date": "2024-05-06",
+    "venue": "IEEE Access",
+    "semantic_scholar_id": "f72820d08f58bcbb0b9d1b512ef42bf1b4ef009c",
+    "corpus_id": 269605952,
+    "category": "Computer Science"
+  },
+  "2404-19149": {
+    "title": "SAGS: Structure-Aware 3D Gaussian Splatting",
+    "authors": [
+      "Evangelos Ververas",
+      "Rolandos Alexandros Potamias",
+      "Jifei Song",
+      "Jiankang Deng",
+      "S. Zafeiriou"
+    ],
+    "publication_date": "2024-04-29",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "f57591b7cafe491ca2f851544d08809ce320a941",
+    "corpus_id": 269457486,
+    "category": "Computer Science"
+  },
+  "2403-17888": {
+    "title": "2D Gaussian Splatting for Geometrically Accurate Radiance Fields",
+    "authors": [
+      "Binbin Huang",
+      "Zehao Yu",
+      "Anpei Chen",
+      "Andreas Geiger",
+      "Shenghua Gao"
+    ],
+    "publication_date": "2024-03-26",
+    "venue": "International Conference on Computer Graphics and Interactive Techniques",
+    "semantic_scholar_id": "9c0d40f01ced7d425cb6145e9f961c6e44a478a8",
+    "corpus_id": 268692234,
+    "category": "Computer Science"
+  },
+  "2403-15530": {
+    "title": "Pixel-GS: Density Control with Pixel-aware Gradient for 3D Gaussian Splatting",
+    "authors": [
+      "Zheng Zhang",
+      "Wenbo Hu",
+      "Yixing Lao",
+      "Tong He",
+      "Hengshuang Zhao"
+    ],
+    "publication_date": "2024-03-22",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "42751309b000f38ab1553f13333fa99e121e9ded",
+    "corpus_id": 268681766,
+    "category": "Computer Science"
+  },
+  "2403-13327": {
+    "title": "Gaussian Splatting on the Move: Blur and Rolling Shutter Compensation for Natural Camera Motion",
+    "authors": [
+      "Otto Seiskari",
+      "Jerry Ylilammi",
+      "Valtteri Kaatrasalo",
+      "Pekka Rantalankila",
+      "Matias Turkulainen",
+      "Juho Kannala",
+      "Esa Rahtu",
+      "Arno Solin"
+    ],
+    "publication_date": "2024-03-20",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "eed0bb5e4738f1fc7620f181e68dae2552454a05",
+    "corpus_id": 268537276,
+    "category": "Computer Science"
+  },
+  "2403-12365": {
+    "title": "GaussianFlow: Splatting Gaussian Dynamics for 4D Content Creation",
+    "authors": [
+      "Quankai Gao",
+      "Qiangeng Xu",
+      "Zhe Cao",
+      "Ben Mildenhall",
+      "Wenchao Ma",
+      "Le Chen",
+      "Danhang Tang",
+      "Ulrich Neumann"
+    ],
+    "publication_date": "2024-03-19",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "7c8336921d620d3ff5a21de33f9d2af59265235b",
+    "corpus_id": 268532245,
+    "category": "Computer Science"
+  },
+  "2403-12550": {
+    "title": "Rgbd Gs-icp Slam",
+    "authors": [
+      "Seongbo Ha",
+      "Jiung Yeon",
+      "Hyeonwoo Yu"
+    ],
+    "publication_date": "2024-03-19",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "de975de4d6471983ce3e3969661979c2265b82d2",
+    "corpus_id": 268531141,
+    "category": "Computer Science"
+  },
+  "2403-11831": {
+    "title": "BAD-Gaussians: Bundle Adjusted Deblur Gaussian Splatting",
+    "authors": [
+      "Lingzhe Zhao",
+      "Peng Wang",
+      "Peidong Liu"
+    ],
+    "publication_date": "2024-03-18",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "c4733fe6eec6e51624ca1412ae6dd263fc470306",
+    "corpus_id": 268532517,
+    "category": "Computer Science"
+  },
+  "2403-11134": {
+    "title": "Recent advances in 3D Gaussian splatting",
+    "authors": [
+      "Tong Wu",
+      "Yu-Jie Yuan",
+      "Ling-Xiao Zhang",
+      "Jie Yang",
+      "Yan-Pei Cao",
+      "Ling-Qi Yan",
+      "Lin Gao"
+    ],
+    "publication_date": "2024-03-17",
+    "venue": "Computational Visual Media",
+    "semantic_scholar_id": "90607c8d66c9e397d697214f326560231f7834ba",
+    "corpus_id": 268513119,
+    "category": "Computer Science"
+  },
+  "2403-04926": {
+    "title": "BAGS: Blur Agnostic Gaussian Splatting through Multi-Scale Kernel Modeling",
+    "authors": [
+      "Cheng Peng",
+      "Yutao Tang",
+      "Yifan Zhou",
+      "Nengyu Wang",
+      "Xijun Liu",
+      "Deming Li",
+      "Rama Chellappa"
+    ],
+    "publication_date": "2024-03-07",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "23d4b38f0ff080e943594882398796ffd3126985",
+    "corpus_id": 268297019,
+    "category": "Computer Science"
+  },
+  "2402-04796": {
+    "title": "Mesh-based Gaussian Splatting for Real-time Large-scale Deformation",
+    "authors": [
+      "Lin Gao",
+      "Jie Yang",
+      "Bo-Tao Zhang",
+      "Jiali Sun",
+      "Yu-Jie Yuan",
+      "Hongbo Fu",
+      "Yu-Kun Lai"
+    ],
+    "publication_date": "2024-02-07",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "ea730b57613c0ab64d2c47fd0826d53620db2c61",
+    "corpus_id": 267523424,
+    "category": "Computer Science"
+  },
+  "2402-05054": {
+    "title": "LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation",
+    "authors": [
+      "Jiaxiang Tang",
+      "Zhaoxi Chen",
+      "Xiaokang Chen",
+      "Tengfei Wang",
+      "Gang Zeng",
+      "Ziwei Liu"
+    ],
+    "publication_date": "2024-02-07",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "11665dbecb17ef4d3d71b75b8666ce0e61bd43fa",
+    "corpus_id": 267523413,
+    "category": "Computer Science"
+  },
+  "2402-03246": {
+    "title": "SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM",
+    "authors": [
+      "Mingrui Li",
+      "Shuhong Liu",
+      "Heng Zhou",
+      "Guohao Zhu",
+      "Na Cheng",
+      "Tianchen Deng",
+      "Tianchen Deng",
+      "Hongyu Wang"
+    ],
+    "publication_date": "2024-02-05",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "822e28e8ef26471e3e3f75f53dc3087d6856ab1f",
+    "corpus_id": 267412978,
+    "category": "Computer Science"
+  },
+  "2402-01459": {
+    "title": "GaMeS: Mesh-Based Adapting and Modification of Gaussian Splatting",
+    "authors": [
+      "Joanna Waczy'nska",
+      "Piotr Borycki",
+      "S. Tadeja",
+      "Jacek Tabor",
+      "P. Spurek"
+    ],
+    "publication_date": "2024-02-02",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "a667fb494417045b5d205e8ef497728eae6fc23c",
+    "corpus_id": 267406241,
+    "category": "Computer Science"
+  },
+  "2401-03890": {
+    "title": "A Survey on 3D Gaussian Splatting",
+    "authors": [
+      "Guikun Chen",
+      "Wenguan Wang"
+    ],
+    "publication_date": "2024-01-08",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "a6e46344388dc3686bff3efb78ba75790ce11cd6",
+    "corpus_id": 266844057,
+    "category": "Computer Science"
+  },
+  "2401-00834": {
+    "title": "Deblurring 3D Gaussian Splatting",
+    "authors": [
+      "Byeonghyeon Lee",
+      "Howoong Lee",
+      "Xiangyu Sun",
+      "Usman Ali",
+      "Eunbyung Park"
+    ],
+    "publication_date": "2024-01-01",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "65902a95d5af409938b28b69808e916f8ef9e0bd",
+    "corpus_id": 266693601,
+    "category": "Computer Science"
+  },
+  "2312-07920": {
+    "title": "DrivingGaussian: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes",
+    "authors": [
+      "Xiaoyu Zhou",
+      "Zhiwei Lin",
+      "Xiaojun Shan",
+      "Yongtao Wang",
+      "Deqing Sun",
+      "Ming-Hsuan Yang"
+    ],
+    "publication_date": "2023-12-13",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "95d3b6d595e0510edb535a5071c48240d4bb950a",
+    "corpus_id": 266191747,
+    "category": "Computer Science"
+  },
+  "2312-06741": {
+    "title": "Gaussian Splatting SLAM",
+    "authors": [
+      "H. Matsuki",
+      "Riku Murai",
+      "P. H. Kelly",
+      "Andrew J. Davison"
+    ],
+    "publication_date": "2023-12-11",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "ec7e33597160535af56f046b8d6914ff49c66e1a",
+    "corpus_id": 266174429,
+    "category": "Computer Science"
+  },
+  "2312-03461": {
+    "title": "HiFi4G: High-Fidelity Human Performance Rendering via Compact Gaussian Splatting",
+    "authors": [
+      "Yuheng Jiang",
+      "Zhehao Shen",
+      "Penghao Wang",
+      "Zhuo Su",
+      "Yu Hong",
+      "Yingliang Zhang",
+      "Jingyi Yu",
+      "Lan Xu"
+    ],
+    "publication_date": "2023-12-06",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "ffa2b507088deb9097f11c951c5a9c5d8d29562b",
+    "corpus_id": 265681350,
+    "category": "Computer Science"
+  },
+  "2312-02973": {
+    "title": "GauHuman: Articulated Gaussian Splatting from Monocular Human Videos",
+    "authors": [
+      "Shou-Yong Hu",
+      "Ziwei Liu"
+    ],
+    "publication_date": "2023-12-05",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "54fa9f6c32e41e72b230773dcec9e3491df43738",
+    "corpus_id": 265659537,
+    "category": "Computer Science"
+  },
+  "2312-02126": {
+    "title": "SplaTAM: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM",
+    "authors": [
+      "Nikhil Varma Keetha",
+      "Jay Karhade",
+      "Krishna Murthy Jatavallabhula",
+      "Gengshan Yang",
+      "Sebastian Scherer",
+      "Deva Ramanan",
+      "Jonathon Luiten"
+    ],
+    "publication_date": "2023-12-04",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "a6c92dd8c537bc4a0c91cef8558e4a4f25416091",
+    "corpus_id": 265609060,
+    "category": "Computer Science"
+  },
+  "2312-02214": {
+    "title": "FlashAvatar: High-Fidelity Head Avatar with Efficient Gaussian Embedding",
+    "authors": [
+      "Jun Xiang",
+      "Xuan Gao",
+      "Yudong Guo",
+      "Juyong Zhang"
+    ],
+    "publication_date": "2023-12-03",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "9d2ccfffe3bd5bb42d247b94fa63afc9e8a05282",
+    "corpus_id": 268793428,
+    "category": "Computer Science"
+  },
+  "2312-00109": {
+    "title": "Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering",
+    "authors": [
+      "Tao Lu",
+      "Mulin Yu",
+      "Linning Xu",
+      "Yuanbo Xiangli",
+      "Limin Wang",
+      "Dahua Lin",
+      "Bo Dai"
+    ],
+    "publication_date": "2023-11-30",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "a294b8632fed59e7079ef6187b0afa532c97ed7f",
+    "corpus_id": 265551778,
+    "category": "Computer Science"
+  },
+  "2311-16728": {
+    "title": "Photo-SLAM: Real-Time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras",
+    "authors": [
+      "Huajian Huang",
+      "Longwei Li",
+      "Hui Cheng",
+      "Sai-Kit Yeung"
+    ],
+    "publication_date": "2023-11-28",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "e1885b659d237402e9b245ded0d8104af700426d",
+    "corpus_id": 265466452,
+    "category": "Computer Science"
+  },
+  "2311-17089": {
+    "title": "Multi-Scale 3D Gaussian Splatting for Anti-Aliased Rendering",
+    "authors": [
+      "Zhiwen Yan",
+      "Weng Fei Low",
+      "Yu Chen",
+      "Gim Hee Lee"
+    ],
+    "publication_date": "2023-11-28",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "6fc4869263ea4e9dde902d7cd9899436d9826dcc",
+    "corpus_id": 265498759,
+    "category": "Computer Science"
+  },
+  "2311-16493": {
+    "title": "Mip-Splatting: Alias-Free 3D Gaussian Splatting",
+    "authors": [
+      "Zehao Yu",
+      "Anpei Chen",
+      "Binbin Huang",
+      "Torsten Sattler",
+      "Andreas Geiger"
+    ],
+    "publication_date": "2023-11-27",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "7e305e37b49feb8899ae94f641c4f2d0d01ef054",
+    "corpus_id": 265466192,
+    "category": "Computer Science"
+  },
+  "2311-12775": {
+    "title": "SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering",
+    "authors": [
+      "Antoine Guédon",
+      "Vincent Lepetit"
+    ],
+    "publication_date": "2023-11-21",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "e3f80d950e6f841bd7eea4c24d4e1e5aa2bd85c7",
+    "corpus_id": 265308825,
+    "category": "Computer Science"
+  },
+  "2311-11700": {
+    "title": "GS-SLAM: Dense Visual SLAM with 3D Gaussian Splatting",
+    "authors": [
+      "Chi Yan",
+      "Delin Qu",
+      "Dong Wang",
+      "Dan Xu",
+      "Zhigang Wang",
+      "Bin Zhao",
+      "Xuelong Li"
+    ],
+    "publication_date": "2023-11-20",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "8b5f4902411123c5e68ded502f296cf325864831",
+    "corpus_id": 265294572,
+    "category": "Computer Science"
+  },
+  "2309-16653": {
+    "title": "DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation",
+    "authors": [
+      "Jiaxiang Tang",
+      "Jiawei Ren",
+      "Hang Zhou",
+      "Ziwei Liu",
+      "Gang Zeng"
+    ],
+    "publication_date": "2023-09-28",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "cc1a674bb164d09a060cf5b26fe518c02fae0ddc",
+    "corpus_id": 263131552,
+    "category": "Computer Science"
+  },
+  "2308-04079": {
+    "title": "3D Gaussian Splatting for Real-Time Radiance Field Rendering",
+    "authors": [
+      "Bernhard Kerbl",
+      "Georgios Kopanas",
+      "Thomas Leimkuehler",
+      "G. Drettakis"
+    ],
+    "publication_date": "2023-07-26",
+    "venue": "ACM Transactions on Graphics",
+    "semantic_scholar_id": "2cc1d857e86d5152ba7fe6a8355c2a0150cc280a",
+    "corpus_id": 259267917,
+    "category": "Computer Science"
+  },
+  "2301-01087": {
+    "title": "Neural Point Catacaustics for Novel-View Synthesis of Reflections",
+    "authors": [
+      "Georgios Kopanas",
+      "Thomas Leimkühler",
+      "G. Rainer",
+      "Clément Jambon",
+      "G. Drettakis"
+    ],
+    "publication_date": "2022-11-30",
+    "venue": "ACM Transactions on Graphics",
+    "semantic_scholar_id": "d9e90c68ba1769d237e01c98c5de6a94d9c9087e",
+    "corpus_id": 252386130,
+    "category": "Computer Science"
+  },
+  "2201-08845": {
+    "title": "Point-NeRF: Point-based Neural Radiance Fields",
+    "authors": [
+      "Qiangeng Xu",
+      "Zexiang Xu",
+      "J. Philip",
+      "Sai Bi",
+      "Zhixin Shu",
+      "Kalyan Sunkavalli",
+      "U. Neumann"
+    ],
+    "publication_date": "2022-01-21",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "055e87ce418a83d6fd555b73aea0d838385dfa85",
+    "corpus_id": 246210101,
+    "category": "Computer Science"
+  },
+  "2201-05989": {
+    "title": "Instant neural graphics primitives with a multiresolution hash encoding",
+    "authors": [
+      "T. Müller",
+      "Alex Evans",
+      "Christoph Schied",
+      "A. Keller"
+    ],
+    "publication_date": "2022-01-16",
+    "venue": "ACM Transactions on Graphics",
+    "semantic_scholar_id": "60e69982ef2920596c6f31d6fd3ca5e9591f3db6",
+    "corpus_id": 246016186,
+    "category": "Computer Science"
+  },
+  "2112-05131": {
+    "title": "Plenoxels: Radiance Fields without Neural Networks",
+    "authors": [
+      "Alex Yu",
+      "Sara Fridovich-Keil",
+      "Matthew Tancik",
+      "Qinhong Chen",
+      "B. Recht",
+      "Angjoo Kanazawa"
+    ],
+    "publication_date": "2021-12-09",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "e91f73aaef155391b5b07e6612f5346dea888f64",
+    "corpus_id": 245006364,
+    "category": "Computer Science"
+  },
+  "2111-12077": {
+    "title": "Mip-NeRF 360: Unbounded Anti-Aliased Neural Radiance Fields",
+    "authors": [
+      "J. Barron",
+      "B. Mildenhall",
+      "Dor Verbin",
+      "Pratul P. Srinivasan",
+      "Peter Hedman"
+    ],
+    "publication_date": "2021-11-23",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "ec90ffa017a2cc6a51342509ce42b81b478aefb3",
+    "corpus_id": 244488448,
+    "category": "Computer Science"
+  },
+  "1812-01024": {
+    "title": "DeepVoxels: Learning Persistent 3D Feature Embeddings",
+    "authors": [
+      "V. Sitzmann",
+      "Justus Thies",
+      "Felix Heide",
+      "M. Nießner",
+      "Gordon Wetzstein",
+      "M. Zollhöfer"
+    ],
+    "publication_date": "2018-12-03",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "e2d3abc7008a269880918ee7d903a55d06acdd55",
+    "corpus_id": 54444417,
+    "category": "Computer Science"
+  },
+  "1811-11606": {
+    "title": "Escaping Plato’s Cave: 3D Shape From Adversarial Rendering",
+    "authors": [
+      "P. Henzler",
+      "N. Mitra",
+      "Tobias Ritschel"
+    ],
+    "publication_date": "2018-11-28",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "eb21d7e724b037e97ba657a5becb36fc2e7330d8",
+    "corpus_id": 207976631,
+    "category": "Computer Science"
+  },
+  "1801-03924": {
+    "title": "The Unreasonable Effectiveness of Deep Features as a Perceptual Metric",
+    "authors": [
+      "Richard Zhang",
+      "Phillip Isola",
+      "Alexei A. Efros",
+      "Eli Shechtman",
+      "Oliver Wang"
+    ],
+    "publication_date": "2018-01-11",
+    "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "c468bbde6a22d961829e1970e6ad5795e05418d1",
+    "corpus_id": 4766599,
+    "category": "Computer Science"
+  }
+}

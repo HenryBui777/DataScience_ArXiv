@@ -1,0 +1,424 @@
+{
+  "2407-18269": {
+    "title": "LaMAGIC: Language-Model-based Topology Generation for Analog Integrated Circuits",
+    "authors": [
+      "Chen-Chia Chang",
+      "Yikang Shan",
+      "Shaoze Fan",
+      "Jing Li",
+      "Shun Zhang",
+      "Ningyuan Cao",
+      "Yiran Chen",
+      "Xin Zhang"
+    ],
+    "publication_date": "2024-07-19",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "e84ee3ecf073e413556ef80d0d23ee08980f53ad",
+    "corpus_id": 271516517,
+    "category": "Computer Science"
+  },
+  "2407-03891": {
+    "title": "AutoBench: Automatic Testbench Generation and Evaluation Using LLMs for HDL Design",
+    "authors": [
+      "Ruidi Qiu",
+      "Grace Li Zhang",
+      "Rolf Drechsler",
+      "Ulf Schlichtmann",
+      "Bing Li"
+    ],
+    "publication_date": "2024-07-04",
+    "venue": "Workshop on Machine Learning for CAD",
+    "semantic_scholar_id": "08446b787a75b3df0274936a3de82b67909c2374",
+    "corpus_id": 271039512,
+    "category": "Computer Science"
+  },
+  "2406-17132": {
+    "title": "LLM-Aided Testbench Generation and Bug Detection for Finite-State Machines",
+    "authors": [
+      "Jitendra Bhandari",
+      "J. Knechtel",
+      "Ramesh Narayanaswamy",
+      "Siddharth Garg",
+      "Ramesh Karri"
+    ],
+    "publication_date": "2024-06-24",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "ce29645604ea86dd52e7ff54f41cc2cf5b12a02e",
+    "corpus_id": 270710670,
+    "category": "Computer Science"
+  },
+  "2405-14918": {
+    "title": "AnalogCoder: Analog Circuit Design via Training-Free Code Generation",
+    "authors": [
+      "Yao Lai",
+      "Sungyoung Lee",
+      "Guojin Chen",
+      "Souradip Poddar",
+      "Mengkang Hu",
+      "David Z. Pan",
+      "Ping Luo"
+    ],
+    "publication_date": "2024-05-23",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "bcfd6404ad1c913b915d1f7731d3bc69564d98e7",
+    "corpus_id": 270045319,
+    "category": "Computer Science"
+  },
+  "2405-09045": {
+    "title": "AMSNet: Netlist Dataset for AMS Circuits",
+    "authors": [
+      "Zhuofu Tao",
+      "Yichen Shi",
+      "Yiru Huo",
+      "Rui Ye",
+      "Zonghang Li",
+      "Li Huang",
+      "Chen Wu",
+      "Na Bai",
+      "Zhiping Yu",
+      "Ting-Jung Lin",
+      "Lei He"
+    ],
+    "publication_date": "2024-05-15",
+    "venue": "2024 IEEE LLM Aided Design Workshop (LAD)",
+    "semantic_scholar_id": "e1ba0b84d98c8b81ec895d8d02cd1f4212a27f5d",
+    "corpus_id": 269773064,
+    "category": "Computer Science"
+  },
+  "2405-04434": {
+    "title": "DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model",
+    "authors": [
+      "Zhihong Shao",
+      "Damai Dai",
+      "Daya Guo",
+      "Bo Liu (Benjamin Liu)",
+      "Zihan Wang",
+      "Huajian Xin"
+    ],
+    "publication_date": "2024-05-07",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "53a803388e83ae89261624099d7be4287ace67cb",
+    "corpus_id": 269613809,
+    "category": "Computer Science"
+  },
+  "2402-00386": {
+    "title": "AssertLLM: Generating and Evaluating Hardware Verification Assertions from Design Specifications via Multi-LLMs",
+    "authors": [
+      "Wenji Fang",
+      "Mengming Li",
+      "Min Li",
+      "Zhiyuan Yan",
+      "Shang Liu",
+      "Hongce Zhang",
+      "Zhiyao Xie"
+    ],
+    "publication_date": "2024-02-01",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "fb3c8846d36eca4698cbcc2ad4b8ce0914578e7b",
+    "corpus_id": 273811152,
+    "category": "Computer Science"
+  },
+  "2401-12224": {
+    "title": "LLM4EDA: Emerging Progress in Large Language Models for Electronic Design Automation",
+    "authors": [
+      "Ruizhe Zhong",
+      "Xingbo Du",
+      "Shixiong Kai",
+      "Zhentao Tang",
+      "Siyuan Xu",
+      "Hui-Ling Zhen",
+      "Jianye Hao",
+      "Qiang Xu",
+      "M. Yuan",
+      "Junchi Yan"
+    ],
+    "publication_date": "2023-12-28",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "beadfd41698c0382a5899077a8346c05ca6fe513",
+    "corpus_id": 267095366,
+    "category": "Computer Science"
+  },
+  "2311-04887": {
+    "title": "AutoChip: Automating HDL Generation Using LLM Feedback",
+    "authors": [
+      "Shailja Thakur",
+      "Jason Blocklove",
+      "H. Pearce",
+      "Benjamin Tan",
+      "Siddharth Garg",
+      "Ramesh Karri"
+    ],
+    "publication_date": "2023-11-08",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "05e6b94ada76f524016294678315363b3e5de860",
+    "corpus_id": 265050808,
+    "category": "Computer Science"
+  },
+  "2311-00176": {
+    "title": "ChipNeMo: Domain-Adapted LLMs for Chip Design",
+    "authors": [
+      "Mingjie Liu",
+      "Teodor-Dumitru Ene",
+      "Robert Kirby",
+      "Chris Cheng",
+      "N. Pinckney",
+      "Rongjian Liang",
+      "Jonah Alben",
+      "Himyanshu Anand",
+      "Sanmitra Banerjee",
+      "I. Bayraktaroglu",
+      "Bonita Bhaskaran",
+      "Bryan Catanzaro",
+      "Arjun Chaudhuri",
+      "Sharon Clay",
+      "B. Dally",
+      "Laura Dang",
+      "Parikshit Deshpande",
+      "Siddhanth Dhodhi",
+      "S. Halepete",
+      "Eric Hill",
+      "Jiashang Hu",
+      "Sumit Jain",
+      "Brucek Khailany",
+      "K. Kunal",
+      "Xiaowei Li",
+      "Hao Liu",
+      "S. Oberman",
+      "Sujeet Omar",
+      "Sreedhar Pratty",
+      "Jonathan Raiman",
+      "Ambar Sarkar",
+      "Zhengjiang Shao",
+      "Hanfei Sun",
+      "Pratik P Suthar",
+      "Varun Tej",
+      "Kaizhe Xu",
+      "Haoxin Ren"
+    ],
+    "publication_date": "2023-10-31",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "985e4584d8dce5ce1c75860828c92d65cbd58590",
+    "corpus_id": 264833257,
+    "category": "Computer Science"
+  },
+  "2309-10730": {
+    "title": "GPT4AIGChip: Towards Next-Generation AI Accelerator Design Automation via Large Language Models",
+    "authors": [
+      "Yonggan Fu",
+      "Yongan Zhang",
+      "Zhongzhi Yu",
+      "Sixu Li",
+      "Zhifan Ye",
+      "Chaojian Li",
+      "Cheng Wan",
+      "Ying Lin"
+    ],
+    "publication_date": "2023-09-19",
+    "venue": "2023 IEEE/ACM International Conference on Computer Aided Design (ICCAD)",
+    "semantic_scholar_id": "460fc460695bce86e66da0f1e4f7a7a7a3b1481a",
+    "corpus_id": 262053822,
+    "category": "Computer Science"
+  },
+  "2309-07544": {
+    "title": "VerilogEval: Evaluating Large Language Models for Verilog Code Generation",
+    "authors": [
+      "Mingjie Liu",
+      "N. Pinckney",
+      "Brucek Khailany",
+      "Haoxing Ren"
+    ],
+    "publication_date": "2023-09-14",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "cbd81507197e2d32b6f6c8ac99039f3a607ee8f1",
+    "corpus_id": 261822682,
+    "category": "Computer Science"
+  },
+  "2308-12950": {
+    "title": "Code Llama: Open Foundation Models for Code",
+    "authors": [
+      "Baptiste Rozière",
+      "Jonas Gehring",
+      "Fabian Gloeckle",
+      "Sten Sootla",
+      "Itai Gat",
+      "Xiaoqing Tan",
+      "Yossi Adi",
+      "Jingyu Liu",
+      "Tal Remez",
+      "J. Rapin",
+      "Artyom Kozhevnikov",
+      "I. Evtimov",
+      "Joanna Bitton",
+      "Manish P Bhatt",
+      "Cris-tian Cantón Ferrer",
+      "Aaron Grattafiori",
+      "Wenhan Xiong",
+      "Alexandre D'efossez",
+      "Jade Copet",
+      "Faisal Azhar",
+      "Hugo Touvron",
+      "Louis Martin",
+      "Nicolas Usunier",
+      "Thomas Scialom",
+      "Gabriel Synnaeve"
+    ],
+    "publication_date": "2023-08-24",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "0b0debb710366cdff461938c80763eace1651af6",
+    "corpus_id": 261100919,
+    "category": "Computer Science"
+  },
+  "2308-10204": {
+    "title": "ChatEDA: A Large Language Model Powered Autonomous Agent for EDA",
+    "authors": [
+      "Haoyuan Wu",
+      "Zhuolun He",
+      "Xinyun Zhang",
+      "Xufeng Yao",
+      "Su Zheng",
+      "Haisheng Zheng",
+      "Bei Yu"
+    ],
+    "publication_date": "2023-08-20",
+    "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "semantic_scholar_id": "eb3e6dc2476c5a377b7c3d1489c014712a17a376",
+    "corpus_id": 261049069,
+    "category": "Computer Science"
+  },
+  "2308-05345": {
+    "title": "RTLLM: An Open-Source Benchmark for Design RTL Generation with Large Language Model",
+    "authors": [
+      "Yao Lu",
+      "Shang Liu",
+      "Qijun Zhang",
+      "Zhiyao Xie"
+    ],
+    "publication_date": "2023-08-10",
+    "venue": "Asia and South Pacific Design Automation Conference",
+    "semantic_scholar_id": "079be8c8a93fc80274ff22251a3dac9804bec66a",
+    "corpus_id": 260775786,
+    "category": "Computer Science"
+  },
+  "2308-00708": {
+    "title": "VeriGen: A Large Language Model for Verilog Code Generation",
+    "authors": [
+      "Shailja Thakur",
+      "Baleegh Ahmad",
+      "H. Pearce",
+      "Benjamin Tan",
+      "Brendan Dolan-Gavitt",
+      "R. Karri",
+      "S. Garg"
+    ],
+    "publication_date": "2023-07-28",
+    "venue": "ACM Trans. Design Autom. Electr. Syst.",
+    "semantic_scholar_id": "b69882cb6c7367ea91224c27982277c5e643862e",
+    "corpus_id": 260379192,
+    "category": "Computer Science"
+  },
+  "2305-14019": {
+    "title": "ChipGPT: How far are we from natural language hardware design",
+    "authors": [
+      "Kaiyan Chang",
+      "Y. Wang",
+      "Haimeng Ren",
+      "Mengdi Wang",
+      "Shengwen Liang",
+      "Yinhe Han",
+      "Huawei Li",
+      "Xiaowei Li"
+    ],
+    "publication_date": "2023-05-23",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "bd0488e0c1bb3ab375f28b3157058101350d3766",
+    "corpus_id": 258841170,
+    "category": "Computer Science"
+  },
+  "2305-13243": {
+    "title": "Chip-Chat: Challenges and Opportunities in Conversational Hardware Design",
+    "authors": [
+      "Jason Blocklove",
+      "S. Garg",
+      "R. Karri",
+      "H. Pearce"
+    ],
+    "publication_date": "2023-05-22",
+    "venue": "Workshop on Machine Learning for CAD",
+    "semantic_scholar_id": "502bc7694dbe5dbf2bb7aaf576cd2bc13e6b95d8",
+    "corpus_id": 258833019,
+    "category": "Computer Science"
+  },
+  "2106-09685": {
+    "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+    "authors": [
+      "J. E. Hu",
+      "Yelong Shen",
+      "Phillip Wallis",
+      "Zeyuan Allen-Zhu",
+      "Yuanzhi Li",
+      "Shean Wang",
+      "Weizhu Chen"
+    ],
+    "publication_date": "2021-06-17",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "a8ca46b171467ceb2d7652fbfb67fe701ad86092",
+    "corpus_id": 235458009,
+    "category": "Computer Science"
+  },
+  "2007-09493": {
+    "title": "Deep Hough-Transform Line Priors",
+    "authors": [
+      "Yancong Lin",
+      "S. Pintea",
+      "J. V. Gemert"
+    ],
+    "publication_date": "2020-07-18",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "159933277448cf981f59beb0d7dd8772c2d62bfb",
+    "corpus_id": 220598504,
+    "category": "Computer Science"
+  },
+  "2004-10934": {
+    "title": "YOLOv4: Optimal Speed and Accuracy of Object Detection",
+    "authors": [
+      "Alexey Bochkovskiy",
+      "Chien-Yao Wang",
+      "H. Liao"
+    ],
+    "publication_date": "2020-04-23",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "2a6f7f0d659c5f7dcd665064b71e7b751592c80e",
+    "corpus_id": 216080778,
+    "category": "Computer Science, Engineering"
+  },
+  "1911-11929": {
+    "title": "CSPNet: A New Backbone that can Enhance Learning Capability of CNN",
+    "authors": [
+      "Chien-Yao Wang",
+      "H. Liao",
+      "I-Hau Yeh",
+      "Yueh-Hua Wu",
+      "Ping-Yang Chen",
+      "J. Hsieh"
+    ],
+    "publication_date": "2019-11-27",
+    "venue": "2020 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "semantic_scholar_id": "b771c57b8fc242ba589d449e04e982e0577b1c54",
+    "corpus_id": 208310312,
+    "category": "Computer Science"
+  },
+  "1706-04117": {
+    "title": "Recipes for Translating Big Data Machine Reading to Executable Cellular Signaling Models",
+    "authors": [
+      "Khaled Sayed",
+      "C. Telmer",
+      "Adam A. Butchy",
+      "Nataša Miškov-Živanov"
+    ],
+    "publication_date": "2017-06-13",
+    "venue": "Modernism and...",
+    "semantic_scholar_id": "04260070863e6ecbaf03741d66701003f6048027",
+    "corpus_id": 10733860,
+    "category": "Computer Science, Biology"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Global and Local Attention-Based Transformer for Hyperspectral Image Change Detection",
+  "authors": [
+    "Ziyi Wang",
+    "Feng Gao",
+    "Junyu Dong",
+    "Qian Du"
+  ],
+  "summary": "Recently Transformer-based hyperspectral image (HSI) change detection methods have shown remarkable performance. Nevertheless, existing attention mechanisms in Transformers have limitations in local feature representation. To address this issue, we propose Global and Local Attention-based Transformer (GLAFormer), which incorporates a global and local attention module (GLAM) to combine high-frequency and low-frequency signals. Furthermore, we introduce a cross-gating mechanism, called cross-gated feed-forward network (CGFN), to emphasize salient features and suppress noise interference. Specifically, the GLAM splits attention heads into global and local attention components to capture comprehensive spatial-spectral features. The global attention component employs global attention on downsampled feature maps to capture low-frequency information, while the local attention component focuses on high-frequency details using non-overlapping window-based local attention. The CGFN enhances the feature representation via convolutions and cross-gating mechanism in parallel paths. The proposed GLAFormer is evaluated on three HSI datasets. The results demonstrate its superiority over state-of-the-art HSI change detection methods. The source code of GLAFormer is available at \\url{https://github.com/summitgao/GLAFormer}.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "On Minimal and Minimum Cylindrical Algebraic Decompositions",
+  "authors": [
+    "Lucas Michel",
+    "Pierre Mathonet",
+    "Naïm Zénaïdi"
+  ],
+  "summary": "We consider cylindrical algebraic decompositions (CADs) as a tool for representing semi-algebraic subsets of $\\mathbb{R}^n$. In this framework, a CAD $\\mathscr{C}$ is adapted to a given set $S$ if $S$ is a union of cells of $\\mathscr{C}$. Different algorithms computing an adapted CAD may produce different outputs, usually with redundant cell divisions. In this paper we analyse the possibility to remove the superfluous data. More precisely we consider the set CAD$(S)$ of CADs that are adapted to $S$, endowed with the refinement partial order and we study the existence of minimal and minimum elements in this poset.\n  We show that for every semi-algebraic set $S$ of $\\mathbb{R}^n$ and every CAD $\\mathscr{C}$ adapted to $S$, there is a minimal CAD adapted to $S$ and smaller (i.e. coarser) than or equal to $\\mathscr{C}$. Moreover, when $n=1$ or $n=2$, we strengthen this result by proving the existence of a minimum element in CAD$(S)$. Astonishingly for $n \\geq 3$, there exist semi-algebraic sets whose associated poset of adapted CADs does not admit a minimum. We prove this result by providing explicit examples. We finally use a reduction relation on CAD$(S)$ to define an algorithm for the computation of minimal CADs. We conclude with a characterization of those semi-algebraic sets $S$ for which CAD$(S)$ has a minimum by means of confluence of the associated reduction system.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "In Proceedings of the 2024 International Symposium on Symbolic and Algebraic Computation (ISSAC '24). Association for Computing Machinery, New York, NY, USA, 316-323",
+  "pdf_url": null,
+  "category": "cs.SC"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "STIPS: The Nancy Grace Roman Space Telescope Imaging Product Simulator",
+  "authors": [
+    "STIPS Development Team",
+    "Sebastian Gomez",
+    "Andrea Bellini",
+    "Hanna Al-Kowsi",
+    "Tyler Desjardins",
+    "Robel Geda",
+    "Eunkyu Han",
+    "O. Justin Otor",
+    "Adric Riedel",
+    "Russell Ryan",
+    "Isaac Spitzer",
+    "Brian York"
+  ],
+  "summary": "The Space Telescope Imaging Product Simulator (STIPS) is a Python-based package that can be used to simulate scenes from the upcoming \\textit{Nancy Grace Roman Space Telescope} (\\nancy). STIPS is able to generate post-pipeline astronomical images of any number of sensor chip assembly (SCA) detectors, up to the entire 18-SCA Wide-Field Instrument array on \\nancy. STIPS can inject either point spread functions generated with {\\tt WebbPSF}, or extended sources in any of the \\nancy filters. The output images can include flat field, dark current, and cosmic ray residuals. Additionally, STIPS includes an estimate of Poisson and readout noise, as well as an estimate of the zodiacal background and internal background from the telescope. However, STIPS does not include instrument saturation, non-linearity, or distortion effects. STIPS is provided as an open source repository on GitHub.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.IM"
+}

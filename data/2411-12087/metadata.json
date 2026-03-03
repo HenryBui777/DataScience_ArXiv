@@ -1,0 +1,13 @@
+{
+  "title": "RatGene: Gene deletion-addition algorithms using growth to production ratio for growth-coupled production in constraint-based metabolic networks",
+  "authors": [
+    "Yier Ma",
+    "Takeyuki Tamura"
+  ],
+  "summary": "In computational metabolic design, it is often necessary to modify the original constraint-based metabolic networks to lead to growth-coupled production, where cell growth forces target metabolite production. However, in genome-scale models, finding strategies to simultaneously delete and add genes to induce growth-coupled production is challenging. This is particularly true when heavy computation is necessary due to numerous gene deletions and additions. In this study, we mathematically defined related problems, proved NP-hardness and/or NP-completeness, and developed an algorithm named RatGene that (1) automatically integrates multiple constraint-based metabolic networks, (2) identifies gene deletion-addition strategies by a growth-to-production ratio-based approach, and (3) eliminates redundant gene additions and deletions. The results of computational experiments demonstrated that the RatGene-based approach can significantly improve the success ratio for identifying the strategies for growth-coupled production. RatGene can facilitate a more rational approach to computational metabolic design for the production of useful substances using microorganisms by concurrently considering both gene deletions and additions.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-bio.MN, q-bio.QM"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Bezier Reachable Polytopes: Efficient Certificates for Robust Motion Planning with Layered Architectures",
+  "authors": [
+    "Noel Csomay-Shanklin",
+    "Aaron D. Ames"
+  ],
+  "summary": "Control architectures are often implemented in a layered fashion, combining independently designed blocks to achieve complex tasks. Providing guarantees for such hierarchical frameworks requires considering the capabilities and limitations of each layer and their interconnections at design time. To address this holistic design challenge, we introduce the notion of Bezier Reachable Polytopes -- certificates of reachable points in the space of Bezier polynomial reference trajectories. This approach captures the set of trajectories that can be tracked by a low-level controller while satisfying state and input constraints, and leverages the geometric properties of Bezier polynomials to maintain an efficient polytopic representation. As a result, these certificates serve as a constructive tool for layered architectures, enabling long-horizon tasks to be reasoned about in a computationally tractable manner.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO, eess.SY"
+}

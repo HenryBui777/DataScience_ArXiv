@@ -1,0 +1,16 @@
+{
+  "title": "SparseInfer: Training-free Prediction of Activation Sparsity for Fast LLM Inference",
+  "authors": [
+    "Jiho Shin",
+    "Hoeseok Yang",
+    "Youngmin Yi"
+  ],
+  "summary": "Leveraging sparsity is crucial for optimizing large language model inference. however, modern LLMs employing SiLU as their activation function exhibit minimal activation sparsity. Recent research has proposed replacing SiLU with ReLU to induce significant activation sparsity and showed no downstream task accuracy degradation through fine tuning. However, taking full advantage of it required training a predictor to estimate this sparsity. In this paper, we introduce SparseInfer, a simple, light weight, and training free predictor for activation sparsity of ReLU field LLMs, in which activation sparsity is predicted by comparing only the sign bits of inputs and weights. To compensate for possible prediction inaccuracy, an adaptive tuning of the predictor's conservativeness is enabled, which can also serve as a control knob for optimizing LLM inference. The proposed method achieves approximately faster inference speed over the state of the art, with negligible accuracy loss of within 1%p.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-01-24"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.PF"
+}

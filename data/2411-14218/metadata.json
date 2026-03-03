@@ -1,0 +1,31 @@
+{
+  "title": "A Comprehensive Hadronic Code Comparison for Active Galactic Nuclei",
+  "authors": [
+    "Matteo Cerruti",
+    "Annika Rudolph",
+    "Maria Petropoulou",
+    "Markus Böttcher",
+    "Stamatios I. Stathopoulos",
+    "Foteini Oikonomou",
+    "Stavros Dimitrakoudis",
+    "Anton Dmytriiev",
+    "Shan Gao",
+    "Susumu Inoue",
+    "Apostolos Mastichiadis",
+    "Kohta Murase",
+    "Anita Reimer",
+    "Joshua Robinson",
+    "Xavier Rodrigues",
+    "Walter Winter",
+    "Andreas Zech"
+  ],
+  "summary": "We perform the first dedicated comparison of five hadronic codes (AM$^3$, ATHE$ν$A, B13, LeHa-Paris, and LeHaMoC) that have been extensively used in modeling of the spectral energy distribution (SED) of jetted active galactic nuclei. The purpose of this comparison is to identify the sources of systematic errors (e.g., implementation method of proton-photon interactions) and to quantify the expected dispersion in numerical SED models computed with the five codes. The outputs from the codes are first tested in synchrotron self-Compton scenarios that are the simplest blazar emission models used in the literature. We then compare the injection rates and spectra of secondary particles produced in pure hadronic cases with monoenergetic and power-law protons interacting on black-body and power-law photon fields. We finally compare the photon SEDs and the neutrino spectra for realistic proton-synchrotron and leptohadronic blazar models. We find that the codes are in excellent agreement with respect to the spectral shape of the photons and neutrinos. There is a remaining spread in the overall normalization that we quantify, at its maximum, at the level of $\\pm 40\\%$. This value should be used as an additional, conservative, systematic uncertainty term when comparing numerical simulations and observations.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-22",
+    "2025-11-09"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.HE"
+}

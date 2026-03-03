@@ -1,0 +1,14 @@
+{
+  "title": "A Comparison of Machine Learning Algorithms for Predicting Sea Surface Temperature in the Great Barrier Reef Region",
+  "authors": [
+    "Dennis Quayesam",
+    "Jacob Akubire",
+    "Oliveira Darkwah"
+  ],
+  "summary": "Predicting Sea Surface Temperature (SST) in the Great Barrier Reef (GBR) region is crucial for the effective management of its fragile ecosystems. This study provides a rigorous comparative analysis of several machine learning techniques to identify the most effective method for SST prediction in this area. We evaluate the performance of ridge regression, Least Absolute Shrinkage and Selection Operator (LASSO), Random Forest, and Extreme Gradient Boosting (XGBoost) algorithms. Our results reveal that while LASSO and ridge regression perform well, Random Forest and XGBoost significantly outperform them in terms of predictive accuracy, as evidenced by lower Mean Squared Error (MSE), Mean Absolute Error (MAE), and Root Mean Squared Prediction Error (RMSPE). Additionally, XGBoost demonstrated superior performance in minimizing Kullback- Leibler Divergence (KLD), indicating a closer alignment of predicted probability distributions with actual observations. These findings highlight the efficacy of using ensemble methods, particularly XGBoost, for predicting sea surface temperatures, making them valuable tools for climatological and environmental modeling.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.ao-ph, cs.LG, stat.ML"
+}

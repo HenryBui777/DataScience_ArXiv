@@ -1,0 +1,16 @@
+{
+  "title": "Spreading in claw-free cubic graphs",
+  "authors": [
+    "Boštjan Brešar",
+    "Jaka Hedžet",
+    "Michael A. Henning"
+  ],
+  "summary": "Let $p \\in \\mathbb{N}$ and $q \\in \\mathbb{N} \\cup \\lbrace \\infty \\rbrace$. We study a dynamic coloring of the vertices of a graph $G$ that starts with an initial subset $S$ of blue vertices, with all remaining vertices colored white. If a white vertex~$v$ has at least~$p$ blue neighbors and at least one of these blue neighbors of~$v$ has at most~$q$ white neighbors, then by the spreading color change rule the vertex~$v$ is recolored blue. The initial set $S$ of blue vertices is a $(p,q)$-spreading set for $G$ if by repeatedly applying the spreading color change rule all the vertices of $G$ are eventually colored blue. The $(p,q)$-spreading set is a generalization of the well-studied concepts of $k$-forcing and $r$-percolating sets in graphs. For $q \\ge 2$, a $(1,q)$-spreading set is exactly a $q$-forcing set, and the $(1,1)$-spreading set is a $1$-forcing set (also called a zero forcing set), while for $q = \\infty$, a $(p,\\infty)$-spreading set is exactly a $p$-percolating set. The $(p,q)$-spreading number, $σ_{(p,q)}(G)$, of $G$ is the minimum cardinality of a $(p,q)$-spreading set. In this paper, we study $(p,q)$-spreading in claw-free cubic graphs. While the zero-forcing number of claw-free cubic graphs was studied earlier, for each pair of values $p$ and $q$ that are not both $1$ we either determine the $(p,q)$-spreading number of a claw-free cubic graph $G$ or show that $σ_{(p,q)}(G)$ attains one of two possible values.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-09-01"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.CO"
+}

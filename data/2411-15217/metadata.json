@@ -1,0 +1,15 @@
+{
+  "title": "LPLgrad: Optimizing Active Learning Through Gradient Norm Sample Selection and Auxiliary Model Training",
+  "authors": [
+    "Shreen Gul",
+    "Mohamed Elmahallawy",
+    "Sanjay Madria",
+    "Ardhendu Tripathy"
+  ],
+  "summary": "Machine learning models are increasingly being utilized across various fields and tasks due to their outstanding performance and strong generalization capabilities. Nonetheless, their success hinges on the availability of large volumes of annotated data, the creation of which is often labor-intensive, time-consuming, and expensive. Many active learning (AL) approaches have been proposed to address these challenges, but they often fail to fully leverage the information from the core phases of AL, such as training on the labeled set and querying new unlabeled samples. To bridge this gap, we propose a novel AL approach, Loss Prediction Loss with Gradient Norm (LPLgrad), designed to quantify model uncertainty effectively and improve the accuracy of image classification tasks. LPLgrad operates in two distinct phases: (i) {\\em Training Phase} aims to predict the loss for input features by jointly training a main model and an auxiliary model. Both models are trained on the labeled data to maximize the efficiency of the learning process, an aspect often overlooked in previous AL methods. This dual-model approach enhances the ability to extract complex input features and learn intrinsic patterns from the data effectively; (ii) {\\em Querying Phase} that quantifies the uncertainty of the main model to guide sample selection. This is achieved by calculating the gradient norm of the entropy values for samples in the unlabeled dataset. Samples with the highest gradient norms are prioritized for labeling and subsequently added to the labeled set, improving the model's performance with minimal labeling effort. Extensive evaluations on real-world datasets demonstrate that the LPLgrad approach outperforms state-of-the-art methods by order of magnitude in terms of accuracy on a small number of labeled images, yet achieving comparable training and querying times in multiple image classification tasks.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI, cs.CV"
+}

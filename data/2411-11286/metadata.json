@@ -1,0 +1,12 @@
+{
+  "title": "Quasi-Newton method of Optimization is proved to be a steepest descent method under the ellipsoid norm",
+  "authors": [
+    "Jiongcheng Li"
+  ],
+  "summary": "Optimization problems, arise in many practical applications, from the view points of both theory and numerical methods. Especially, significant improvement in deep learning training came from the Quasi-Newton methods. Quasi-Newton search directions provide an attractive alternative to Newton's method in that they do not require computation of the Hessian and yet still attain a super linear rate of convergence. In Quasi-Newton method, we require Hessian approximation to satisfy the secant equation. In this paper, the Classical Cauchy-Schwartz Inequality is introduced, then more generalization are proposed. And it is seriously proved that Quasi-Newton method is a steepest descent method under the ellipsoid norm.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC"
+}

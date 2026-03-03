@@ -1,0 +1,15 @@
+{
+  "title": "Efficient Medicinal Image Transmission and Resolution Enhancement via GAN",
+  "authors": [
+    "Rishabh Kumar Sharma",
+    "Mukund Sharma",
+    "Pushkar Sharma",
+    "Jeetashree Aparjeeta"
+  ],
+  "summary": "While X-ray imaging is indispensable in medical diagnostics, it inherently carries with it those noises and limitations on resolution that mask the details necessary for diagnosis. B/W X-ray images require a careful balance between noise suppression and high-detail preservation to ensure clarity in soft-tissue structures and bone edges. While traditional methods, such as CNNs and early super-resolution models like ESRGAN, have enhanced image resolution, they often perform poorly regarding high-frequency detail preservation and noise control for B/W imaging. We are going to present one efficient approach that improves the quality of an image with the optimization of network transmission in the following paper. The pre-processing of X-ray images into low-resolution files by Real-ESRGAN, a version of ESRGAN elucidated and improved, helps reduce the server load and transmission bandwidth. Lower-resolution images are upscaled at the receiving end using Real-ESRGAN, fine-tuned for real-world image degradation. The model integrates Residual-in-Residual Dense Blocks with perceptual and adversarial loss functions for high-quality upscaled images with low noise. We further fine-tune Real-ESRGAN by adapting it to the specific B/W noise and contrast characteristics. This suppresses noise artifacts without compromising detail. The comparative evaluation conducted shows that our approach achieves superior noise reduction and detail clarity compared to state-of-the-art CNN-based and ESRGAN models, apart from reducing network bandwidth requirements. These benefits are confirmed both by quantitative metrics, including Peak Signal-to-Noise Ratio and Structural Similarity Index, and by qualitative assessments, which indicate the potential of Real-ESRGAN for diagnostic-quality X-ray imaging and for efficient medical data transmission.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.AI, cs.CV"
+}

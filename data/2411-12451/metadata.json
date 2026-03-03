@@ -1,0 +1,13 @@
+{
+  "title": "Empirical Privacy Evaluations of Generative and Predictive Machine Learning Models -- A review and challenges for practice",
+  "authors": [
+    "Flavio Hafner",
+    "Chang Sun"
+  ],
+  "summary": "Synthetic data generators, when trained using privacy-preserving techniques like differential privacy, promise to produce synthetic data with formal privacy guarantees, facilitating the sharing of sensitive data. However, it is crucial to empirically assess the privacy risks associated with the generated synthetic data before deploying generative technologies. This paper outlines the key concepts and assumptions underlying empirical privacy evaluation in machine learning-based generative and predictive models. Then, this paper explores the practical challenges for privacy evaluations of generative models for use cases with millions of training records, such as data from statistical agencies and healthcare providers. Our findings indicate that methods designed to verify the correct operation of the training algorithm are effective for large datasets, but they often assume an adversary that is unrealistic in many scenarios. Based on the findings, we highlight a crucial trade-off between the computational feasibility of the evaluation and the level of realism of the assumed threat model. Finally, we conclude with ideas and suggestions for future research.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

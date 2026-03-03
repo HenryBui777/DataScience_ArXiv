@@ -1,0 +1,14 @@
+{
+  "title": "A mathematical framework for maze solving using quantum walks",
+  "authors": [
+    "Leo Matsuoka",
+    "Hiromichi Ohno",
+    "Etsuo Segawa"
+  ],
+  "summary": "We provide a mathematical framework for identifying the shortest path in a maze using a Grover walk, which becomes non-unitary by introducing absorbing holes. In this study, we define the maze as a network with vertices connected by unweighted edges. Our analysis of the stationary state of the Grover walk on finite graphs, where we strategically place absorbing holes and self-loops on specific vertices, demonstrates that this approach can effectively solve mazes. By setting arbitrary start and goal vertices in the underlying graph, we obtain the following long-time results: (i) in tree structures, the probability amplitude is concentrated exclusively along the shortest path between start and goal; (ii) in ladder-like structures with additional paths, the probability amplitude is maximized near the shortest path.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, math-ph"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "An AI-Enabled Side Channel Power Analysis Based Hardware Trojan Detection Method for Securing the Integrated Circuits in Cyber-Physical Systems",
+  "authors": [
+    "Sefatun-Noor Puspa",
+    "Abyad Enan",
+    "Reek Majumdar",
+    "M Sabbir Salek",
+    "Gurcan Comert",
+    "Mashrur Chowdhury"
+  ],
+  "summary": "Cyber-physical systems rely on sensors, communication, and computing, all powered by integrated circuits (ICs). ICs are largely susceptible to various hardware attacks with malicious intents. One of the stealthiest threats is the insertion of a hardware trojan into the IC, causing the circuit to malfunction or leak sensitive information. Due to supply chain vulnerabilities, ICs face risks of trojan insertion during various design and fabrication stages. These trojans typically remain inactive until triggered. Once triggered, trojans can severely compromise system safety and security. This paper presents a non-invasive method for hardware trojan detection based on side-channel power analysis. We utilize the dynamic power measurements for twelve hardware trojans from IEEE DataPort. Our approach applies to signal processing techniques to extract crucial time-domain and frequency-domain features from the power traces, which are then used for trojan detection leveraging Artificial Intelligence (AI) models. Comparison with a baseline detection approach indicates that our approach achieves higher detection accuracy than the baseline models used on the same side-channel power dataset.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR"
+}

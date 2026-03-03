@@ -1,0 +1,15 @@
+{
+  "title": "Error-Feedback Model for Output Correction in Bilateral Control-Based Imitation Learning",
+  "authors": [
+    "Hiroshi Sato",
+    "Masashi Konosu",
+    "Sho Sakaino",
+    "Toshiaki Tsuji"
+  ],
+  "summary": "In recent years, imitation learning using neural networks has enabled robots to perform flexible tasks. However, since neural networks operate in a feedforward structure, they do not possess a mechanism to compensate for output errors. To address this limitation, we developed a feedback mechanism to correct these errors. By employing a hierarchical structure for neural networks comprising lower and upper layers, the lower layer was controlled to follow the upper layer. Additionally, using a multi-layer perceptron in the lower layer, which lacks an internal state, enhanced the error feedback. In the character-writing task, this model demonstrated improved accuracy in writing previously untrained characters. In the character-writing task, this model demonstrated improved accuracy in writing previously untrained characters. Through autonomous control with error feedback, we confirmed that the lower layer could effectively track the output of the upper layer. This study represents a promising step toward integrating neural networks with control theories.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO, cs.AI, cs.LG"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Graded components of local cohomology modules over polynomial rings",
+  "authors": [
+    "Tony J. Puthenpurakal"
+  ],
+  "summary": "Let $K$ be a field and let $R = K[X_1, \\ldots, X_m]$ with $m \\geq 2$. Give $R$ the standard grading. Let $I$ be a homogeneous ideal of height $g$. Assume $1 \\leq g \\leq m -1$. Suppose $H^i_I(R) \\neq 0$ for some $i \\geq 0$. We show\n  (1) $H^i_I(R)_n \\neq 0$ for all $n \\leq -m$.\n  (2) if Supp $H^i_I(R) \\neq \\{ (X_1, \\ldots, X_m)\\}$ then $H^i_I(R)_n \\neq 0$ for all $n \\in \\mathbb{Z}$. Furthermore if char $K = 0$ then $\\dim_K H^i_I(R)_n$ is infinite for all $n \\in \\mathbb{Z}$.\n  (3) $\\dim_K H^g_I(R)_n$ is infinite for all $n \\in \\mathbb{Z}$.\n  In fact we prove our results for $\\mathcal{T}(R)$ where $\\mathcal{T}(-)$ is a large sub class of graded Lyubeznik functors",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AC"
+}

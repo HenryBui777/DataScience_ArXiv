@@ -1,0 +1,17 @@
+{
+  "title": "Infrared-Assisted Single-Stage Framework for Joint Restoration and Fusion of Visible and Infrared Images under Hazy Conditions",
+  "authors": [
+    "Huafeng Li",
+    "Jiaqi Fang",
+    "Yafei Zhang",
+    "Yu Liu"
+  ],
+  "summary": "Infrared and visible (IR-VIS) image fusion has gained significant attention for its broad application value. However, existing methods often neglect the complementary role of infrared image in restoring visible image features under hazy conditions. To address this, we propose a joint learning framework that utilizes infrared image for the restoration and fusion of hazy IR-VIS images. To mitigate the adverse effects of feature diversity between IR-VIS images, we introduce a prompt generation mechanism that regulates modality-specific feature incompatibility. This creates a prompt selection matrix from non-shared image information, followed by prompt embeddings generated from a prompt pool. These embeddings help generate candidate features for dehazing. We further design an infrared-assisted feature restoration mechanism that selects candidate features based on haze density, enabling simultaneous restoration and fusion within a single-stage framework. To enhance fusion quality, we construct a multi-stage prompt embedding fusion module that leverages feature supplementation from the prompt generation module. Our method effectively fuses IR-VIS images while removing haze, yielding clear, haze-free fusion results. In contrast to two-stage methods that dehaze and then fuse, our approach enables collaborative training in a single-stage framework, making the model relatively lightweight and suitable for practical deployment. Experimental results validate its effectiveness and demonstrate advantages over existing methods. The source code of the paper is available at \\href{https://github.com/fangjiaqi0909/IASSF}{\\textcolor{blue}{https://github.com/fangjiaqi0909/IASSF",
+  "submission_date": "2024-11-16",
+  "revised_dates": [
+    "2025-02-08"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

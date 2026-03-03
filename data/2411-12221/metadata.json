@@ -1,0 +1,15 @@
+{
+  "title": "Non-adiabatic phonon self-energy due to electrons with finite linewidths",
+  "authors": [
+    "Cheol-Hwan Park"
+  ],
+  "summary": "We develop the theory of the non-adiabatic phonon self-energy arising from coupling to electrons with finite linewidths using the spectral representation of Green's functions. Our formalism naturally includes the contribution from the intra-band electronic transitions (as well as the inter-band ones) at all electron wavevectors to the phonon linewidths, which is forbidden for zone-center optical phonons if infinitesimal electron linewidths are used. As a proof of principle, we use the theory to calculate the linewidth of the double-degenerate, zone-center optical $E_{\\rm 2g}$ phonons of graphene as a function of the chemical potential. The calculated phonon linewidths obtained with finite electron linewidths differ significantly from those obtained with infinitesimal electron linewidths even at low temperatures. Intra-band electronic transitions play an important role in making this difference. Moreover, only the results accounting for the finite electron linewidths are in quantitative agreement with the available experimental data. The presented formalism is suitable for first-principles calculations.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-07-10",
+    "2025-09-16"
+  ],
+  "publication_venue": "Phys. Rev. B 112, 104314 (2025)",
+  "pdf_url": null,
+  "category": "cond-mat.mtrl-sci"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Testing parametric models for the angular measure for bivariate extremes",
+  "authors": [
+    "Stéphane Lhaut",
+    "Johan Segers"
+  ],
+  "summary": "The angular measure on the unit sphere characterizes the first-order dependence structure of the components of a random vector in extreme regions and is defined in terms of standardized margins. Its statistical recovery is an important step in learning problems involving observations far away from the center. In this paper, we test the goodness-of-fit of a given parametric model to the extremal dependence structure of a bivariate random sample. The proposed test statistic consists of a weighted $L_1$-Wasserstein distance between a nonparametric, rank-based estimator of the true angular measure obtained by maximizing a Euclidean likelihood on the one hand, and a parametric estimator of the angular measure on the other hand. The asymptotic distribution of the test statistic under the null hypothesis is derived and is used to obtain critical values for the proposed testing procedure via a parametric bootstrap. Consistency of the bootstrap algorithm is proved. A simulation study illustrates the finite-sample performance of the test for the logistic and Hüsler--Reiss models. We apply the method to test for the Hüsler--Reiss model in the context of river discharge data.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.ST"
+}

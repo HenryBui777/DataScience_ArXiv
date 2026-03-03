@@ -1,0 +1,13 @@
+{
+  "title": "Nonlinear orbital stability of stationary shock profiles for the Lax-Wendroff scheme",
+  "authors": [
+    "Jean-François Coulombel",
+    "Grégory Faye"
+  ],
+  "summary": "In this article we study the spectral, linear and nonlinear stability of stationary shock profile solutions to the Lax-Wendroff scheme for hyperbolic conservation laws. We first clarify the spectral stability of such solutions depending on the convexity of the flux for the underlying conservation law. The main contribution of this article is a detailed study of the so-called Green's function for the linearized numerical scheme. As evidenced on numerical simulations, the Green's function exhibits a highly oscillating behavior ahead of the leading wave before this wave reaches the shock location. One of our main results gives a quantitative description of this behavior. Because of the existence of a one-parameter family of stationary shock profiles, the linearized numerical scheme admits the eigenvalue 1 that is embedded in its continuous spectrum, which gives rise to several contributions in the Green's function. Our detailed analysis of the Green's function describes these contributions by means of a so-called activation function. For large times, the activation function describes how the mass of the initial condition accumulates along the eigenvector associated with the eigenvalue 1 of the linearized numerical scheme. We can then obtain sharp decay estimates for the linearized numerical scheme in polynomially weighted spaces, which in turn yield a nonlinear orbital stability result for spectrally stable stationary shock profiles. This nonlinear result is obtained despite the lack of uniform ${\\ell}$ 1 estimates for the Green's function of the linearized numerical scheme, the lack of such estimates being linked with the dispersive nature of the numerical scheme. This dispersive feature is in sharp contrast with previous results on the orbital stability of traveling waves or discrete shock profiles for parabolic perturbations of conservation laws.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AP, math.NA"
+}

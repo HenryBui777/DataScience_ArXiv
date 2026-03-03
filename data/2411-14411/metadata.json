@@ -1,0 +1,15 @@
+{
+  "title": "Multi-Agent Environments for Vehicle Routing Problems",
+  "authors": [
+    "Ricardo Gama",
+    "Daniel Fuertes",
+    "Carlos R. del-Blanco",
+    "Hugo L. Fernandes"
+  ],
+  "summary": "Research on Reinforcement Learning (RL) approaches for discrete optimization problems has increased considerably, extending RL to an area classically dominated by Operations Research (OR). Vehicle routing problems are a good example of discrete optimization problems with high practical relevance where RL techniques have had considerable success. Despite these advances, open-source development frameworks remain scarce, hampering both the testing of algorithms and the ability to objectively compare results. This ultimately slows down progress in the field and limits the exchange of ideas between the RL and OR communities.\n  Here we propose a library composed of multi-agent environments that simulates classic vehicle routing problems. The library, built on PyTorch, provides a flexible modular architecture design that allows easy customization and incorporation of new routing problems. It follows the Agent Environment Cycle (\"AEC\") games model and has an intuitive API, enabling rapid adoption and easy integration into existing reinforcement learning frameworks.\n  The library allows for a straightforward use of classical OR benchmark instances in order to narrow the gap between the test beds for algorithm benchmarking used by the RL and OR communities. Additionally, we provide benchmark instance sets for each environment, as well as baseline RL models and training code.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.MA"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Autonomous System Safety Properties with Multi-Machine Hybrid Event-B",
+  "authors": [
+    "Richard Banach"
+  ],
+  "summary": "Event-B is a well known methodology for the verified design and development of systems that can be characterised as discrete transition systems. Hybrid Event-B is a conservative extension that interleaves the discrete transitions of Event-B (assumed to be temporally isolated) with episodes of continuously varying state change. While a single Hybrid Event-B machine is sufficient for applications with a single locus of control, it will not do for autonomous systems, which have several loci of control by default. Multi-machine Hybrid Event-B is designed to allow the specification of systems with several loci of control. The formalism is succinctly surveyed, pointing out the subtle semantic issues involved. The multi-machine formalism is then used to specify a relatively simple incident response system, involving a controller, two drones and three responders, working in a partly coordinated and partly independent fashion to manage a putative hazardous scenario.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "EPTCS 411, 2024, pp. 1-19",
+  "pdf_url": null,
+  "category": "cs.MA"
+}

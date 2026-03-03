@@ -1,0 +1,16 @@
+{
+  "title": "Fast and Efficient Memory Reclamation For Serverless MicroVMs",
+  "authors": [
+    "Orestis Lagkas Nikolos",
+    "Chloe Alverti",
+    "Stratos Psomadakis",
+    "Georgios Goumas",
+    "Nectarios Koziris"
+  ],
+  "summary": "Resource elasticity is one of the key defining characteristics of the Function-as-a-Service (FaaS) serverless computing paradigm. In order to provide strong multi-tenant isolation, FaaS providers commonly sandbox functions inside virtual machines (VMs or microVMs). While compute resources assigned to VM-sandboxed functions can be seamlessly adjusted on the fly, memory elasticity remains challenging, especially when scaling down. State-of-the-art mechanisms for VM memory elasticity suffer from increased reclaim latency when memory needs to be released, compounded by CPU and memory bandwidth overheads. We identify the obliviousness of the Linux memory manager to the virtually hotplugged memory as the key issue hindering hot-unplug performance, and design HotMem, a novel approach for fast and efficient VM memory hot(un)plug, targeting VM-sandboxed serverless functions. Our key insight is that by segregating virtually hotplugged memory regions from regular VM memory, we are able to bound the lifetimes of allocations within these regions thus enabling their fast and efficient reclamation. We implement HotMem in Linux v6.6 and our evaluation shows that it is an order of magnitude faster than state-of-practice to reclaim VM memory, while achieving the same P99 function latency with a model that statically over-provisions VMs.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.OS"
+}

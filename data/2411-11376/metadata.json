@@ -1,0 +1,12 @@
+{
+  "title": "Lung Disease Detection with Vision Transformers: A Comparative Study of Machine Learning Methods",
+  "authors": [
+    "Baljinnyam Dayan"
+  ],
+  "summary": "Recent advancements in medical image analysis have predominantly relied on Convolutional Neural Networks (CNNs), achieving impressive performance in chest X-ray classification tasks, such as the 92% AUC reported by AutoThorax-Net and the 88% AUC achieved by ChexNet in classifcation tasks. However, in the medical field, even small improvements in accuracy can have significant clinical implications. This study explores the application of Vision Transformers (ViT), a state-of-the-art architecture in machine learning, to chest X-ray analysis, aiming to push the boundaries of diagnostic accuracy. I present a comparative analysis of two ViT-based approaches: one utilizing full chest X-ray images and another focusing on segmented lung regions. Experiments demonstrate that both methods surpass the performance of traditional CNN-based models, with the full-image ViT achieving up to 97.83% accuracy and the lung-segmented ViT reaching 96.58% accuracy in classifcation of diseases on three label and AUC of 94.54% when label numbers are increased to eight. Notably, the full-image approach showed superior performance across all metrics, including precision, recall, F1 score, and AUC-ROC. These findings suggest that Vision Transformers can effectively capture relevant features from chest X-rays without the need for explicit lung segmentation, potentially simplifying the preprocessing pipeline while maintaining high accuracy. This research contributes to the growing body of evidence supporting the efficacy of transformer-based architectures in medical image analysis and highlights their potential to enhance diagnostic precision in clinical settings.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.CV"
+}

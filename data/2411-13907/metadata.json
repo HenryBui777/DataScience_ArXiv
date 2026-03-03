@@ -1,0 +1,15 @@
+{
+  "title": "Split Federated Learning Over Heterogeneous Edge Devices: Algorithm and Optimization",
+  "authors": [
+    "Yunrui Sun",
+    "Gang Hu",
+    "Yinglei Teng",
+    "Dunbo Cai"
+  ],
+  "summary": "Split Learning (SL) is a promising collaborative machine learning approach, enabling resource-constrained devices to train models without sharing raw data, while reducing computational load and preserving privacy simultaneously. However, current SL algorithms face limitations in training efficiency and suffer from prolonged latency, particularly in sequential settings, where the slowest device can bottleneck the entire process due to heterogeneous resources and frequent data exchanges between clients and servers. To address these challenges, we propose the Heterogeneous Split Federated Learning (HSFL) framework, which allows resource-constrained clients to train their personalized client-side models in parallel, utilizing different cut layers. Aiming to mitigate the impact of heterogeneous environments and accelerate the training process, we formulate a latency minimization problem that optimizes computational and transmission resources jointly. Additionally, we design a resource allocation algorithm that combines the Sample Average Approximation (SAA), Genetic Algorithm (GA), Lagrangian relaxation and Branch and Bound (B\\&B) methods to efficiently solve this problem. Simulation results demonstrate that HSFL outperforms other frameworks in terms of both convergence rate and model accuracy on heterogeneous devices with non-iid data, while the optimization algorithm is better than other baseline methods in reducing latency.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI, cs.DC, cs.NE"
+}

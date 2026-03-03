@@ -1,0 +1,17 @@
+{
+  "title": "LLOR: Automated Repair of OpenMP Programs",
+  "authors": [
+    "Utpal Bora",
+    "Saurabh Joshi",
+    "Gautam Muduganti",
+    "Ramakrishna Upadrasta"
+  ],
+  "summary": "In this paper, we present a technique for repairing data race errors in parallel programs written in C/C++ and Fortran using the OpenMP API. Our technique can also remove barriers that are deemed unnecessary for correctness. We implement these ideas in our tool called LLOR, which takes a language-independent approach to provide appropriate placements of synchronization constructs to avoid data races. To the best of our knowledge, LLOR is the only tool that can repair parallel programs that use the OpenMP API. We showcase the capabilities of LLOR by performing extensive experiments on 415 parallel programs.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-12-27"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DC, cs.SE"
+}

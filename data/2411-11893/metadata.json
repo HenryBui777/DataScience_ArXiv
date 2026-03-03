@@ -1,0 +1,16 @@
+{
+  "title": "A Hardware-in-the-Loop Experimental Testbed using Air Conditioners for Grid Balancing",
+  "authors": [
+    "Oluwagbemileke E. Oyefeso",
+    "Drew A. Geller",
+    "Ioannis M. Granitsas",
+    "Duncan S. Callaway",
+    "Johanna L. Mathieu"
+  ],
+  "summary": "Driven by the need to offset the variability of renewable generation on the grid, development of load control is a highly active field of research. However, practical use of residential loads for grid balancing remains rare, in part due to the cost of communicating with large numbers of small loads and also the limited experimentation done so far to demonstrate reliable operation. To establish a basis for the safe and reliable use of fleets of compressor loads as distributed energy resources, we constructed an experimental testbed in a laboratory, so that load coordination schemes could be tested at extreme conditions. This experimental testbed was used to tune a simulation testbed to which it was then linked, thereby augmenting the effective size of the fleet. Modeling of the system was done both to demonstrate the experimental testbed's behavior and also to understand how to tune the behavior of each load. Implementing this testbed has enabled rapid turnaround of experiments on various load control algorithms, and year-round testing without the constraints and limitations arising in seasonal field tests with real houses. Experimental results show the practical feasibility of an ensemble of small loads contributing to grid balancing.",
+  "submission_date": "2024-11-07",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

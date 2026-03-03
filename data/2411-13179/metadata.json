@@ -1,0 +1,14 @@
+{
+  "title": "SONNET: Enhancing Time Delay Estimation by Leveraging Simulated Audio",
+  "authors": [
+    "Erik Tegler",
+    "Magnus Oskarsson",
+    "Kalle Åström"
+  ],
+  "summary": "Time delay estimation or Time-Difference-Of-Arrival estimates is a critical component for multiple localization applications such as multilateration, direction of arrival, and self-calibration. The task is to estimate the time difference between a signal arriving at two different sensors. For the audio sensor modality, most current systems are based on classical methods such as the Generalized Cross-Correlation Phase Transform (GCC-PHAT) method. In this paper we demonstrate that learning based methods can, even based on synthetic data, significantly outperform GCC-PHAT on novel real world data. To overcome the lack of data with ground truth for the task, we train our model on a simulated dataset which is sufficiently large and varied, and that captures the relevant characteristics of the real world problem. We provide our trained model, SONNET (Simulation Optimized Neural Network Estimator of Timeshifts), which is runnable in real-time and works on novel data out of the box for many real data applications, i.e. without re-training. We further demonstrate greatly improved performance on the downstream task of self-calibration when using our model compared to classical methods.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SD, cs.CV, eess.AS"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Generalizing Bell nonlocality without global causal assumptions",
+  "authors": [
+    "Ravi Kunjwal",
+    "Ognyan Oreshkov"
+  ],
+  "summary": "Bell scenarios are multipartite scenarios that exclude any communication between parties. This constraint leads to a strict hierarchy of correlation sets in such scenarios, namely, classical, quantum, and nonsignaling. However, without any constraints on communication between the parties, they can realize arbitrary correlations by exchanging only classical systems. Here we consider a multipartite scenario where the parties can engage in at most a single round of communication, i.e., each party is allowed to receive a system once, implement any local intervention on it, and send out the resulting system once. While no global assumption about causal relations between parties is assumed in this scenario, we do make a causal assumption local to each party, i.e., the input received by it causally precedes the output it sends out. We then introduce antinomicity, a notion of nonclassicality for correlations in such scenarios, and prove the existence of a strict hierarchy of correlation sets classified by their antinomicity. Antinomicity serves as a generalization of Bell nonlocality: when all the parties discard their output systems (i.e., in a nonsignaling scenario), it is mathematically equivalent to Bell nonlocality. Like Bell nonlocality, it can be understood as an instance of fine-tuning, one that is necessary in any classical model of cyclic causation that avoids time-travel antinomies but allows antinomic correlations. Furthermore, antinomicity resolves a long-standing puzzle, i.e., the failure of causal inequality violations as device-independent witnesses of nonclassicality. Antinomicity implies causal inequality violations, but not conversely.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

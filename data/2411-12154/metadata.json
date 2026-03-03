@@ -1,0 +1,13 @@
+{
+  "title": "Tangential Randomization in Linear Bandits (TRAiL): Guaranteed Inference and Regret Bounds",
+  "authors": [
+    "Arda Güçlü",
+    "Subhonmesh Bose"
+  ],
+  "summary": "We propose and analyze TRAiL (Tangential Randomization in Linear Bandits), a computationally efficient regret-optimal forced exploration algorithm for linear bandits on action sets that are sublevel sets of strongly convex functions. TRAiL estimates the governing parameter of the linear bandit problem through a standard regularized least squares and perturbs the reward-maximizing action corresponding to said point estimate along the tangent plane of the convex compact action set before projecting back to it. Exploiting concentration results for matrix martingales, we prove that TRAiL ensures a $Ω(\\sqrt{T})$ growth in the inference quality, measured via the minimum eigenvalue of the design (regressor) matrix with high-probability over a $T$-length period. We build on this result to obtain an $\\mathcal{O}(\\sqrt{T} \\log(T))$ upper bound on cumulative regret with probability at least $ 1 - 1/T$ over $T$ periods, and compare TRAiL to other popular algorithms for linear bandits. Then, we characterize an $Ω(\\sqrt{T})$ minimax lower bound for any algorithm on the expected regret that covers a wide variety of action/parameter sets and noise processes. Our analysis not only expands the realm of lower-bounds in linear bandits significantly, but as a byproduct, yields a trade-off between regret and inference quality. Specifically, we prove that any algorithm with an $\\mathcal{O}(T^α)$ expected regret growth must have an $Ω(T^{1-α})$ asymptotic growth in expected inference quality. Our experiments on the $L^p$ unit ball as action sets reveal how this relation can be violated, but only in the short-run, before returning to respect the bound asymptotically. In effect, regret-minimizing algorithms must have just the right rate of inference -- too fast or too slow inference will incur sub-optimal regret growth.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ML, cs.LG, eess.SY"
+}

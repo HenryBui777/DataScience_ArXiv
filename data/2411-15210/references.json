@@ -1,0 +1,616 @@
+{
+  "2502-01385": {
+    "title": "Detecting Backdoor Samples in Contrastive Language Image Pretraining",
+    "authors": [
+      "Hanxun Huang",
+      "S. Erfani",
+      "Yige Li",
+      "Xingjun Ma",
+      "James Bailey"
+    ],
+    "publication_date": "2025-02-03",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "d76f7741d2531fecb3b2b7762bce59478e13762a",
+    "corpus_id": 276107100,
+    "category": "Computer Science"
+  },
+  "2402-02263": {
+    "title": "MixedNUTS: Training-Free Accuracy-Robustness Balance via Nonlinearly Mixed Classifiers",
+    "authors": [
+      "Yatong Bai",
+      "Mo Zhou",
+      "Vishal M. Patel",
+      "S. Sojoudi"
+    ],
+    "publication_date": "2024-02-03",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "1dd923c9bd40628032f0d5cceeb47b821f027992",
+    "corpus_id": 267412760,
+    "category": "Computer Science"
+  },
+  "2401-10474": {
+    "title": "LDReg: Local Dimensionality Regularized Self-Supervised Learning",
+    "authors": [
+      "Hanxun Huang",
+      "R. Campello",
+      "S. Erfani",
+      "Xingjun Ma",
+      "Michael E. Houle",
+      "James Bailey"
+    ],
+    "publication_date": "2024-01-19",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "e4f3ebb03ceb2af65eb0fb744533d52aa672cacb",
+    "corpus_id": 267060898,
+    "category": "Computer Science, Mathematics"
+  },
+  "2308-16258": {
+    "title": "Robust Principles: Architectural Design Principles for Adversarially Robust CNNs",
+    "authors": [
+      "Sheng-Hsuan Peng",
+      "Weilin Xu",
+      "Cory Cornelius",
+      "Matthew Hull",
+      "Kevin Li",
+      "Rahul Duggal",
+      "Mansi Phute",
+      "Jason Martin",
+      "Duen Horng Chau"
+    ],
+    "publication_date": "2023-08-30",
+    "venue": "British Machine Vision Conference",
+    "semantic_scholar_id": "0766b2c4ccad3518b0fb7042228470e2771aed94",
+    "corpus_id": 261395048,
+    "category": "Computer Science"
+  },
+  "2305-13948": {
+    "title": "Decoupled Kullback-Leibler Divergence Loss",
+    "authors": [
+      "Jiequan Cui",
+      "Zhuotao Tian",
+      "Zhisheng Zhong",
+      "Xiaojuan Qi",
+      "Bei Yu",
+      "Hanwang Zhang"
+    ],
+    "publication_date": "2023-05-23",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "2702d965eb53cba99f9afa36357efca2b87d7d9c",
+    "corpus_id": 258841423,
+    "category": "Computer Science"
+  },
+  "2303-01870": {
+    "title": "Revisiting Adversarial Training for ImageNet: Architectures, Training and Generalization across Threat Models",
+    "authors": [
+      "N. Singh",
+      "Francesco Croce",
+      "Matthias Hein"
+    ],
+    "publication_date": "2023-03-03",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "a2c041f9c32ce382735648f584cf4332ff0a6e33",
+    "corpus_id": 257353366,
+    "category": "Computer Science"
+  },
+  "2302-14301": {
+    "title": "A Comprehensive Study on Robustness of Image Classification Models: Benchmarking and Rethinking",
+    "authors": [
+      "Chang Liu",
+      "Yinpeng Dong",
+      "Wenzhao Xiang",
+      "X. Yang",
+      "Hang Su",
+      "Junyi Zhu",
+      "Yuefeng Chen",
+      "Yuan He",
+      "H. Xue",
+      "Shibao Zheng"
+    ],
+    "publication_date": "2023-02-28",
+    "venue": "International Journal of Computer Vision",
+    "semantic_scholar_id": "a4ed522d3fcacdccc1f0c38a1109ca721fa4490b",
+    "corpus_id": 257233033,
+    "category": "Computer Science"
+  },
+  "2302-04638": {
+    "title": "Better Diffusion Models Further Improve Adversarial Training",
+    "authors": [
+      "Zekai Wang",
+      "Tianyu Pang",
+      "Chao Du",
+      "Min Lin",
+      "Weiwei Liu",
+      "Shuicheng Yan"
+    ],
+    "publication_date": "2023-02-09",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "884be3f18a201af62e0cecd1324dad065b0b39ba",
+    "corpus_id": 256697167,
+    "category": "Computer Science"
+  },
+  "2301-12554": {
+    "title": "Improving the Accuracy-Robustness Trade-off of Classifiers via Adaptive Smoothing",
+    "authors": [
+      "Yatong Bai",
+      "Brendon G. Anderson",
+      "Aerin Kim",
+      "S. Sojoudi"
+    ],
+    "publication_date": "2023-01-29",
+    "venue": "SIAM Journal on Mathematics of Data Science",
+    "semantic_scholar_id": "b15a4d6a1881323ef814133a8249eb002c9cda49",
+    "corpus_id": 256389849,
+    "category": "Computer Science"
+  },
+  "2212-11005": {
+    "title": "Revisiting Residual Networks for Adversarial Robustness",
+    "authors": [
+      "Shihua Huang",
+      "Zhichao Lu",
+      "K. Deb",
+      "Vishnu Naresh Boddeti"
+    ],
+    "publication_date": "2022-12-21",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "02f1243778bced398c4949cf90629742175ad79b",
+    "corpus_id": 254926910,
+    "category": "Computer Science"
+  },
+  "2212-07992": {
+    "title": "Alternating Objectives Generates Stronger PGD-Based Adversarial Attacks",
+    "authors": [
+      "Nikolaos Antoniou",
+      "Efthymios Georgiou",
+      "A. Potamianos"
+    ],
+    "publication_date": "2022-12-15",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "cf6678e6d9e7dc51043a6895577d9ae497998f31",
+    "corpus_id": 254685589,
+    "category": "Computer Science"
+  },
+  "2210-06704": {
+    "title": "COLLIDER: A Robust Training Framework for Backdoor Data",
+    "authors": [
+      "H. M. Dolatabadi",
+      "S. Erfani",
+      "C. Leckie"
+    ],
+    "publication_date": "2022-10-13",
+    "venue": "Asian Conference on Computer Vision",
+    "semantic_scholar_id": "1db54228a831d893c1580e21c9f99fb7f4144381",
+    "corpus_id": 252873619,
+    "category": "Computer Science, Mathematics"
+  },
+  "2209-07399": {
+    "title": "A Light Recipe to Train Robust Vision Transformers",
+    "authors": [
+      "Edoardo Debenedetti",
+      "Vikash Sehwag",
+      "Prateek Mittal"
+    ],
+    "publication_date": "2022-09-15",
+    "venue": "2023 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+    "semantic_scholar_id": "c570475cab4c8d0662144c4d414c17e776d39409",
+    "corpus_id": 252284136,
+    "category": "Computer Science"
+  },
+  "2206-09628": {
+    "title": "Diversified Adversarial Attacks based on Conjugate Gradient Method",
+    "authors": [
+      "Keiichiro Yamamura",
+      "Haruki Sato",
+      "Nariaki Tateiwa",
+      "Nozomi Hata",
+      "Toru Mitsutake",
+      "Issa Oe",
+      "Hiroki Ishikura",
+      "K. Fujisawa"
+    ],
+    "publication_date": "2022-06-20",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "c9603286e249dc21bbac1b006d6d2772113db9c7",
+    "corpus_id": 249889990,
+    "category": "Computer Science"
+  },
+  "2203-05154": {
+    "title": "Practical Evaluation of Adversarial Robustness via Adaptive Auto Attack",
+    "authors": [
+      "Ye Liu",
+      "Yaya Cheng",
+      "Lianli Gao",
+      "Xianglong Liu",
+      "Qilong Zhang",
+      "Jingkuan Song"
+    ],
+    "publication_date": "2022-03-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "8d21ff9eb99fb2482461ef6269f89d4350cb9450",
+    "corpus_id": 247362439,
+    "category": "Computer Science"
+  },
+  "2202-10103": {
+    "title": "Robustness and Accuracy Could Be Reconcilable by (Proper) Definition",
+    "authors": [
+      "Tianyu Pang",
+      "Min Lin",
+      "Xiao Yang",
+      "Junyi Zhu",
+      "Shuicheng Yan"
+    ],
+    "publication_date": "2022-02-21",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "4f12b5fbc5cfe664d293123a90c4cdd1152b8c1e",
+    "corpus_id": 247011694,
+    "category": "Computer Science, Mathematics"
+  },
+  "2201-03545": {
+    "title": "A ConvNet for the 2020s",
+    "authors": [
+      "Zhuang Liu",
+      "Hanzi Mao",
+      "Chaozheng Wu",
+      "Christoph Feichtenhofer",
+      "Trevor Darrell",
+      "Saining Xie"
+    ],
+    "publication_date": "2022-01-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "177e957f5cd93229c9794ea652c646d2557b4a69",
+    "corpus_id": 245837420,
+    "category": "Computer Science"
+  },
+  "2110-09468": {
+    "title": "Improving Robustness using Generated Data",
+    "authors": [
+      "Sven Gowal",
+      "Sylvestre-Alvise Rebuffi",
+      "Olivia Wiles",
+      "Florian Stimberg",
+      "D. A. Calian",
+      "Timothy Mann"
+    ],
+    "publication_date": "2021-10-18",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "9c8d46b59e871e18d8d2e1ec1aa9b96d2f3d7342",
+    "corpus_id": 239016201,
+    "category": "Computer Science, Mathematics"
+  },
+  "2106-09681": {
+    "title": "XCiT: Cross-Covariance Image Transformers",
+    "authors": [
+      "Alaaeldin El-Nouby",
+      "Hugo Touvron",
+      "Mathilde Caron",
+      "Piotr Bojanowski",
+      "Matthijs Douze",
+      "Armand Joulin",
+      "I. Laptev",
+      "N. Neverova",
+      "Gabriel Synnaeve",
+      "Jakob Verbeek",
+      "H. Jégou"
+    ],
+    "publication_date": "2021-06-17",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "7fff8018bf625447df837c2fda5c58a705fbc038",
+    "corpus_id": 235458262,
+    "category": "Computer Science"
+  },
+  "2104-09284": {
+    "title": "LAFEAT: Piercing Through Adversarial Defenses with Latent Features",
+    "authors": [
+      "yunrui yu",
+      "Xitong Gao",
+      "Chengzhong Xu"
+    ],
+    "publication_date": "2021-04-19",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "e94d4b4c7b16cd9713aaf6d9dc31dea0f484abfb",
+    "corpus_id": 233296313,
+    "category": "Computer Science"
+  },
+  "2103-01946": {
+    "title": "Fixing Data Augmentation to Improve Adversarial Robustness",
+    "authors": [
+      "Sylvestre-Alvise Rebuffi",
+      "Sven Gowal",
+      "D. A. Calian",
+      "Florian Stimberg",
+      "Olivia Wiles",
+      "Timothy A. Mann"
+    ],
+    "publication_date": "2021-03-02",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "762752eb9a9a92b028026b17c46d50474ddf3f06",
+    "corpus_id": 232092181,
+    "category": "Computer Science"
+  },
+  "2010-11929": {
+    "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+    "authors": [
+      "Alexey Dosovitskiy",
+      "Lucas Beyer",
+      "Alexander Kolesnikov",
+      "Dirk Weissenborn",
+      "Xiaohua Zhai",
+      "Thomas Unterthiner",
+      "Mostafa Dehghani",
+      "M. Minderer",
+      "G. Heigold",
+      "S. Gelly",
+      "Jakob Uszkoreit",
+      "N. Houlsby"
+    ],
+    "publication_date": "2020-10-22",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "268d347e8a55b5eb82fb5e7d2f800e33c75ab18a",
+    "corpus_id": 225039882,
+    "category": "Computer Science"
+  },
+  "2010-09670": {
+    "title": "RobustBench: a standardized adversarial robustness benchmark",
+    "authors": [
+      "Francesco Croce",
+      "Maksym Andriushchenko",
+      "Vikash Sehwag",
+      "Edoardo Debenedetti",
+      "Edoardo Debenedetti",
+      "M. Chiang",
+      "Prateek Mittal",
+      "Matthias Hein"
+    ],
+    "publication_date": "2020-10-19",
+    "venue": "NeurIPS Datasets and Benchmarks",
+    "semantic_scholar_id": "2aab97e35c43d961d645e650808d5b052ec180ab",
+    "corpus_id": 224705419,
+    "category": "Computer Science, Mathematics"
+  },
+  "2010-03593": {
+    "title": "Uncovering the Limits of Adversarial Training against Norm-Bounded Adversarial Examples",
+    "authors": [
+      "Sven Gowal",
+      "Chongli Qin",
+      "Jonathan Uesato",
+      "Timothy A. Mann",
+      "Pushmeet Kohli"
+    ],
+    "publication_date": "2020-10-07",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "1bcbf1efb3f81f0e777b4b754cf5b9789841d12f",
+    "corpus_id": 222208628,
+    "category": "Mathematics, Computer Science"
+  },
+  "2006-13726": {
+    "title": "Imbalanced gradients: a subtle cause of overestimated adversarial robustness",
+    "authors": [
+      "Xingjun Ma",
+      "Linxi Jiang",
+      "Hanxun Huang",
+      "Zejia Weng",
+      "James Bailey",
+      "Yu-Gang Jiang"
+    ],
+    "publication_date": "2020-06-24",
+    "venue": "Machine-mediated learning",
+    "semantic_scholar_id": "441337af2e0bc0fde02ae9d3fe237a3b08e018fd",
+    "corpus_id": 243728503,
+    "category": "Computer Science"
+  },
+  "2003-01690": {
+    "title": "Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks",
+    "authors": [
+      "Francesco Croce",
+      "Matthias Hein"
+    ],
+    "publication_date": "2020-03-03",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "18939eadc9c4460c8385e0591cde214a1ead067b",
+    "corpus_id": 211818320,
+    "category": "Computer Science, Mathematics"
+  },
+  "1912-00049": {
+    "title": "Square Attack: a query-efficient black-box adversarial attack via random search",
+    "authors": [
+      "Maksym Andriushchenko",
+      "Francesco Croce",
+      "Nicolas Flammarion",
+      "Matthias Hein"
+    ],
+    "publication_date": "2019-11-29",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "8733fe2371b615609b04e2e910b1ecfa8e77cbc2",
+    "corpus_id": 208527215,
+    "category": "Computer Science, Mathematics"
+  },
+  "1910-09338": {
+    "title": "An Alternative Surrogate Loss for PGD-based Adversarial Testing",
+    "authors": [
+      "Sven Gowal",
+      "Jonathan Uesato",
+      "Chongli Qin",
+      "Po-Sen Huang",
+      "Timothy A. Mann",
+      "Pushmeet Kohli"
+    ],
+    "publication_date": "2019-10-21",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "1c004973fff36cbec999ada6f033873f888cbbac",
+    "corpus_id": 204800566,
+    "category": "Computer Science, Mathematics"
+  },
+  "1907-02044": {
+    "title": "Minimally distorted Adversarial Examples with a Fast Adaptive Boundary Attack",
+    "authors": [
+      "Francesco Croce",
+      "Matthias Hein"
+    ],
+    "publication_date": "2019-07-03",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "91a05cb84f1c7dbb0354da2ff11ae92549152435",
+    "corpus_id": 195791557,
+    "category": "Computer Science, Mathematics"
+  },
+  "1901-08573": {
+    "title": "Theoretically Principled Trade-off between Robustness and Accuracy",
+    "authors": [
+      "Hongyang Zhang",
+      "Yaodong Yu",
+      "Jiantao Jiao",
+      "E. Xing",
+      "L. Ghaoui",
+      "Michael I. Jordan"
+    ],
+    "publication_date": "2019-01-24",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "6c405d4b5dc41a86be05acd59c06ed19daf01d14",
+    "corpus_id": 59222747,
+    "category": "Computer Science, Mathematics"
+  },
+  "1802-00420": {
+    "title": "Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples",
+    "authors": [
+      "Anish Athalye",
+      "Nicholas Carlini",
+      "D. Wagner"
+    ],
+    "publication_date": "2018-02-01",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "651adaa058f821a890f2c5d1053d69eb481a8352",
+    "corpus_id": 3310672,
+    "category": "Computer Science, Mathematics"
+  },
+  "1801-02613": {
+    "title": "Characterizing Adversarial Subspaces Using Local Intrinsic Dimensionality",
+    "authors": [
+      "Xingjun Ma",
+      "Bo Li",
+      "Yisen Wang",
+      "S. Erfani",
+      "S. Wijewickrema",
+      "Michael E. Houle",
+      "G. Schoenebeck",
+      "D. Song",
+      "J. Bailey"
+    ],
+    "publication_date": "2018-01-08",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "a18ada04d93981178234d9c8907fb99ea92fddcb",
+    "corpus_id": 1248661,
+    "category": "Computer Science, Mathematics"
+  },
+  "1706-06083": {
+    "title": "Towards Deep Learning Models Resistant to Adversarial Attacks",
+    "authors": [
+      "A. Ma̧dry",
+      "Aleksandar Makelov",
+      "Ludwig Schmidt",
+      "Dimitris Tsipras",
+      "Adrian Vladu"
+    ],
+    "publication_date": "2017-06-19",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "7aa38b85fa8cba64d6a4010543f6695dbf5f1386",
+    "corpus_id": 3488815,
+    "category": "Computer Science, Mathematics"
+  },
+  "1608-04644": {
+    "title": "Towards Evaluating the Robustness of Neural Networks",
+    "authors": [
+      "Nicholas Carlini",
+      "D. Wagner"
+    ],
+    "publication_date": "2016-08-16",
+    "venue": "IEEE Symposium on Security and Privacy",
+    "semantic_scholar_id": "df40ce107a71b770c9d0354b78fdd8989da80d2f",
+    "corpus_id": 2893830,
+    "category": "Computer Science"
+  },
+  "1607-02533": {
+    "title": "Adversarial examples in the physical world",
+    "authors": [
+      "Alexey Kurakin",
+      "I. Goodfellow",
+      "Samy Bengio"
+    ],
+    "publication_date": "2016-07-08",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "b544ca32b66b4c9c69bcfa00d63ee4b799d8ab6b",
+    "corpus_id": 1257772,
+    "category": "Computer Science, Mathematics"
+  },
+  "1605-07146": {
+    "title": "Wide Residual Networks",
+    "authors": [
+      "Sergey Zagoruyko",
+      "N. Komodakis"
+    ],
+    "publication_date": "2016-05-23",
+    "venue": "British Machine Vision Conference",
+    "semantic_scholar_id": "1c4e9156ca07705531e45960b7a919dc473abb51",
+    "corpus_id": 15276198,
+    "category": "Computer Science"
+  },
+  "1512-03385": {
+    "title": "Deep Residual Learning for Image Recognition",
+    "authors": [
+      "Kaiming He",
+      "X. Zhang",
+      "Shaoqing Ren",
+      "Jian Sun"
+    ],
+    "publication_date": "2015-12-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+    "corpus_id": 206594692,
+    "category": "Computer Science"
+  },
+  "1412-6572": {
+    "title": "Explaining and Harnessing Adversarial Examples",
+    "authors": [
+      "I. Goodfellow",
+      "Jonathon Shlens",
+      "Christian Szegedy"
+    ],
+    "publication_date": "2014-12-19",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "bee044c8e8903fb67523c1f8c105ab4718600cdb",
+    "corpus_id": 6706414,
+    "category": "Computer Science, Mathematics"
+  },
+  "1312-6199": {
+    "title": "Intriguing properties of neural networks",
+    "authors": [
+      "Christian Szegedy",
+      "Wojciech Zaremba",
+      "I. Sutskever",
+      "Joan Bruna",
+      "D. Erhan",
+      "I. Goodfellow",
+      "R. Fergus"
+    ],
+    "publication_date": "2013-12-20",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "d891dc72cbd40ffaeefdc79f2e7afe1e530a23ad",
+    "corpus_id": 604334,
+    "category": "Computer Science"
+  },
+  "2103-14030": {
+    "title": "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows",
+    "authors": [
+      "Ze Liu",
+      "Yutong Lin",
+      "Yue Cao",
+      "Han Hu",
+      "Yixuan Wei",
+      "Zheng Zhang",
+      "Stephen Lin",
+      "B. Guo"
+    ],
+    "publication_date": "",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "c8b25fab5608c3e033d34b4483ec47e68ba109b7",
+    "corpus_id": 232352874,
+    "category": "Computer Science"
+  }
+}

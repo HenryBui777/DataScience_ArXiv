@@ -1,0 +1,15 @@
+{
+  "title": "Superposition of interacting stochastic processes with memory and its application to migrating fish counts",
+  "authors": [
+    "Hidekazu Yoshioka"
+  ],
+  "summary": "Stochastic processes with long memories, known as long memory processes, are ubiquitous in various science and engineering problems. Superposing Markovian stochastic processes generates a non-Markovian long memory process serving as powerful tools in several research fields, including physics, mathematical economics, and environmental engineering. We formulate two novel mathematical models of long memory process based on a superposition of interacting processes driven by jumps. The mutual excitation among the processes to be superposed is assumed to be of the mean field or aggregation form, where the former yields a more analytically tractable model. The statistics of the proposed long memory processes are investigated using their moment-generating function, autocorrelation, and associated generalized Riccati equations. Finally, the proposed models are applied to time series data of migrating fish counts at river observation points. The results of this study suggest that an exponential memory or a long memory model is insufficient; however, a unified method that can cover both is necessary to analyze fish migration, and our model is exactly the case.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-12-09",
+    "2025-02-03"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.PR"
+}

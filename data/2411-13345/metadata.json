@@ -1,0 +1,15 @@
+{
+  "title": "IoT-Based Coma Patient Monitoring System",
+  "authors": [
+    "Hailemicael Lulseged Yimer",
+    "Hailegabriel Dereje Degefa",
+    "Marco Cristani",
+    "Federico Cunico"
+  ],
+  "summary": "Continuous monitoring of coma patients is essential but challenging, especially in developing countries with limited resources, staff, and infrastructure. This paper presents a low-cost IoT-based system designed for such environments. It uses affordable hardware and robust software to monitor patients without constant internet access or extensive medical personnel. The system employs cost-effective sensors to track vital signs, including heart rate, body temperature, blood pressure, eye movement, and body position. An energy-efficient microcontroller processes data locally, synchronizing with a central server when network access is available. A locally hosted app provides on-site access to patient data, while a GSM module sends immediate alerts for critical events, even in areas with limited cellular coverage. This solution emphasizes ease of deployment, minimal maintenance, and resilience to power and network disruptions. Using open-source software and widely available hardware, it offers a scalable, adaptable system for resource-limited settings. At under $30, the system is a sustainable, cost-effective solution for continuous patient monitoring, bridging the gap until more advanced healthcare infrastructure is available.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY, cs.NI"
+}

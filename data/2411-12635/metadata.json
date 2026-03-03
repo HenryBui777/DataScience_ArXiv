@@ -1,0 +1,18 @@
+{
+  "title": "M3D: Dual-Stream Selective State Spaces and Depth-Driven Framework for High-Fidelity Single-View 3D Reconstruction",
+  "authors": [
+    "Luoxi Zhang",
+    "Pragyan Shrestha",
+    "Yu Zhou",
+    "Chun Xie",
+    "Itaru Kitahara"
+  ],
+  "summary": "The precise reconstruction of 3D objects from a single RGB image in complex scenes presents a critical challenge in virtual reality, autonomous driving, and robotics. Existing neural implicit 3D representation methods face significant difficulties in balancing the extraction of global and local features, particularly in diverse and complex environments, leading to insufficient reconstruction precision and quality. We propose M3D, a novel single-view 3D reconstruction framework, to tackle these challenges. This framework adopts a dual-stream feature extraction strategy based on Selective State Spaces to effectively balance the extraction of global and local features, thereby improving scene comprehension and representation precision. Additionally, a parallel branch extracts depth information, effectively integrating visual and geometric features to enhance reconstruction quality and preserve intricate details. Experimental results indicate that the fusion of multi-scale features with depth information via the dual-branch feature extraction significantly boosts geometric consistency and fidelity, achieving state-of-the-art reconstruction performance.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-20"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

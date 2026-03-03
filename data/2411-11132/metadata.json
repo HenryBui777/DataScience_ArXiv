@@ -1,0 +1,16 @@
+{
+  "title": "Variational Bayesian Bow tie Neural Networks with Shrinkage",
+  "authors": [
+    "Alisa Sheinkman",
+    "Sara Wade"
+  ],
+  "summary": "Despite the dominant role of deep models in machine learning, limitations persist, including overconfident predictions, susceptibility to adversarial attacks, and underestimation of variability in predictions. The Bayesian paradigm provides a natural framework to overcome such issues and has become the gold standard for uncertainty estimation with deep models, also providing improved accuracy and a framework for tuning critical hyperparameters. However, exact Bayesian inference is challenging, typically involving variational algorithms that impose strong independence and distributional assumptions. Moreover, existing methods are sensitive to the architectural choice of the network. We address these issues by focusing on a stochastic relaxation of the standard feed-forward rectified neural network and using sparsity-promoting priors on the weights of the neural network for increased robustness to architectural design. Thanks to Polya-Gamma data augmentation tricks, which render a conditionally linear and Gaussian model, we derive a fast, approximate variational inference algorithm that avoids distributional assumptions and independence across layers. Suitable strategies to further improve scalability and account for multimodality are considered.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [
+    "2024-11-19",
+    "2025-06-17"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ML, cs.LG, math.ST, stat.ME"
+}

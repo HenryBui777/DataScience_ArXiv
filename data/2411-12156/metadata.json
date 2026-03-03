@@ -1,0 +1,19 @@
+{
+  "title": "HNCSE: Advancing Sentence Embeddings via Hybrid Contrastive Learning with Hard Negatives",
+  "authors": [
+    "Wenxiao Liu",
+    "Zihong Yang",
+    "Chaozhuo Li",
+    "Zijin Hong",
+    "Jianfeng Ma",
+    "Zhiquan Liu",
+    "Litian Zhang",
+    "Feiran Huang"
+  ],
+  "summary": "Unsupervised sentence representation learning remains a critical challenge in modern natural language processing (NLP) research. Recently, contrastive learning techniques have achieved significant success in addressing this issue by effectively capturing textual semantics. Many such approaches prioritize the optimization using negative samples. In fields such as computer vision, hard negative samples (samples that are close to the decision boundary and thus more difficult to distinguish) have been shown to enhance representation learning. However, adapting hard negatives to contrastive sentence learning is complex due to the intricate syntactic and semantic details of text. To address this problem, we propose HNCSE, a novel contrastive learning framework that extends the leading SimCSE approach. The hallmark of HNCSE is its innovative use of hard negative samples to enhance the learning of both positive and negative samples, thereby achieving a deeper semantic understanding. Empirical tests on semantic textual similarity and transfer task datasets validate the superiority of HNCSE.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.AI"
+}

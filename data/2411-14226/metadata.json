@@ -1,0 +1,14 @@
+{
+  "title": "Regularization and passivity-preserving model reduction of quasilinear magneto-quasistatic coupled problems",
+  "authors": [
+    "Johanna Kerler-Back",
+    "Timo Reis",
+    "Tatjana Stykel"
+  ],
+  "summary": "We consider the quasilinear magneto-quasistatic field equations that arise in the simulation of low-frequency electromagnetic devices coupled to electrical circuits. Spatial discretization of these equations on 3D domains using the finite element method results in a singular system of differential-algebraic equations (DAEs). First, we analyze the structural properties of this system and present a novel regularization approach based on projecting out the singular state components. Next, we explore the passivity of the variational magneto-quasistatic problem and its discretization by defining suitable storage functions. For model reduction of the magneto-quasistatic system, we employ the proper orthogonal decomposition (POD) technique combined with the discrete empirical interpolation method (DEIM), to facilitate efficient evaluation of the system's nonlinearities. Our model reduction approach involves the transformation of the regularized DAE into a system of ordinary differential equations, leveraging a special block structure inherent in the problem, followed by applying standard model reduction techniques to the transformed system. We prove that the POD-reduced model preserves passivity, and for the POD-DEIM-reduced model, we propose to enforce passivity by perturbing the output in a way that accounts for DEIM errors. Numerical experiments illustrate the effectiveness of the presented model reduction methods and the passivity enforcement technique.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

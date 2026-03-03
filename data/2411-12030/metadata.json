@@ -1,0 +1,13 @@
+{
+  "title": "The Generalization Error of Machine Learning Algorithms",
+  "authors": [
+    "Samir M. Perlaza",
+    "Xinying Zou"
+  ],
+  "summary": "In this paper, the method of gaps, a technique for deriving closed-form expressions in terms of information measures for the generalization error of machine learning algorithms is introduced. The method relies on two central observations: $(a)$~The generalization error is an average of the variation of the expected empirical risk with respect to changes on the probability measure (used for expectation); and~$(b)$~these variations, also referred to as gaps, exhibit closed-form expressions in terms of information measures. The expectation of the empirical risk can be either with respect to a measure on the models (with a fixed dataset) or with respect to a measure on the datasets (with a fixed model), which results in two variants of the method of gaps. The first variant, which focuses on the gaps of the expected empirical risk with respect to a measure on the models, appears to be the most general, as no assumptions are made on the distribution of the datasets. The second variant develops under the assumption that datasets are made of independent and identically distributed data points. All existing exact expressions for the generalization error of machine learning algorithms can be obtained with the proposed method. Also, this method allows obtaining numerous new exact expressions, which improves the understanding of the generalization error; establish connections with other areas in statistics, e.g., hypothesis testing; and potentially, might guide algorithm designs.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.IT"
+}

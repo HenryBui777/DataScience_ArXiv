@@ -1,0 +1,13 @@
+{
+  "title": "A critical non-homogeneous heat equation with weighted source",
+  "authors": [
+    "Razvan Gabriel Iagar",
+    "Ariel Sánchez"
+  ],
+  "summary": "Some qualitative properties of radially symmetric solutions to the non-homogeneous heat equation with critical density and weighted source $$ |x|^{-2}\\partial_tu=Δu+|x|^σu^p, \\quad (x,t)\\in\\mathbb{R}^N\\times(0,T), $$ are obtained, in the range of exponents $p>1$, $σ\\ge-2$. More precisely, we establish conditions fulfilled by the initial data in order for the solutions to either blow-up in finite time or decay to zero as $t\\to\\infty$ and, in the latter case, we also deduce decay rates and large time behavior. In the limiting case $σ=-2$ we prove the existence of non-trivial, non-negative solutions, in stark contrast to the homogeneous case. A transformation to a generalized Fisher-KPP equation is derived and employed in order to deduce these properties.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AP"
+}

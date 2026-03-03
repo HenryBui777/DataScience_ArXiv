@@ -1,0 +1,13 @@
+{
+  "title": "Assessing Matched Filtering for Core-Collapse Supernova Gravitational-Wave Detection",
+  "authors": [
+    "Haakon Andresen",
+    "Bella Finkel"
+  ],
+  "summary": "Gravitational waves from core-collapse supernovae are a promising yet challenging target for detection due to the stochastic and complex nature of these signals. Conventional detection methods for core-collapse supernovae rely on excess energy searches because matched filtering has been hindered by the lack of well-defined waveform templates. However, numerical simulations of core-collapse supernovae have improved our understanding of the gravitational wave signals they emit, which enables us, for the first time, to construct a set of templates that closely resemble predictions from numerical simulations. In this study, we investigate the possibility of detecting gravitational waves from core-collapse supernovae using a matched-filtering methods. We construct a theoretically-informed template bank and use it to recover a core-collapse supernova signal injected into real LIGO-Virgo-KAGRA detector data. We evaluate the detection efficiency of the matched-filtering approach and how well the injected signal is reconstructed. We discuss the false alarm rate of our approach and investigate the main source of false triggers. We recover 88\\% of the signals injected at a distance of 1 kpc and 50% of the signals injected at 2 kpc. For more than 50% of the recovered events, the underlying signal characteristics are reconstructed within an error of 15%. We discuss the strengths and limitations of this approach and identify areas for further improvements to advance the potential of matched filtering for supernova gravitational-wave detection. We also present the open-source Python package SynthGrav used to generate the template bank.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.HE, astro-ph.IM, gr-qc"
+}

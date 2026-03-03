@@ -1,0 +1,17 @@
+{
+  "title": "Exploring Foundation Models Fine-Tuning for Cytology Classification",
+  "authors": [
+    "Manon Dausort",
+    "Tiffanie Godelaine",
+    "Maxime Zanella",
+    "Karim El Khoury",
+    "Isabelle Salmon",
+    "Benoît Macq"
+  ],
+  "summary": "Cytology slides are essential tools in diagnosing and staging cancer, but their analysis is time-consuming and costly. Foundation models have shown great potential to assist in these tasks. In this paper, we explore how existing foundation models can be applied to cytological classification. More particularly, we focus on low-rank adaptation, a parameter-efficient fine-tuning method suited to few-shot learning. We evaluated five foundation models across four cytological classification datasets. Our results demonstrate that fine-tuning the pre-trained backbones with LoRA significantly improves model performance compared to fine-tuning only the classifier head, achieving state-of-the-art results on both simple and complex classification tasks while requiring fewer data samples.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.AI, cs.CV, q-bio.QM"
+}

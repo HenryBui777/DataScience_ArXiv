@@ -1,0 +1,590 @@
+@inproceedings{gan_goodfellow,
+  author = {Goodfellow, Ian and Pouget-Abadie, Jean and Mirza, Mehdi and Xu, Bing and Warde-Farley, David and Ozair, Sherjil and Courville, Aaron and Bengio, Yoshua},
+  url = {https://proceedings.neurips.cc/paper_files/paper/2014/file/5ca3e9b122f61f8f06494c97b1afccf3-Paper.pdf},
+  booktitle = {Advances in Neural Information Processing Systems},
+  editor = {Z. Ghahramani and M. Welling and C. Cortes and N. Lawrence and K.Q. Weinberger},
+  pages = {},
+  publisher = {Curran Associates, Inc.},
+  year = {2014},
+  volume = {27},
+  title = {Generative Adversarial Nets},
+}
+
+@article{audio1,
+  author = {Aaron van den Oord and Sander Dieleman and Heiga Zen and Karen Simonyan and Oriol Vinyals and Alex Graves and Nal Kalchbrenner and Andrew Senior and Koray Kavukcuoglu},
+  year = {2016},
+  url = {https://arxiv.org/abs/1609.03499},
+  title = {WaveNet: A Generative Model for Raw Audio},
+  journal = {arXiv preprint arXiv:1609.03499},
+}
+
+@inproceedings{point_cloud1,
+  author = {Yang, Guandao and Huang, Xun and Hao, Zekun and Liu, Ming-Yu and Belongie, Serge and Hariharan, Bharath},
+  year = {2019},
+  booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  title = {PointFlow: 3D Point Cloud Generation With Continuous Normalizing Flows},
+  month = {October},
+}
+
+@inproceedings{reverse_noise2,
+  author = {Zhifeng Kong and Wei Ping and Jiaji Huang and Kexin Zhao and Bryan Catanzaro},
+  year = {2021},
+  url = {https://openreview.net/forum?id=a-xFK8Ymz5J},
+  booktitle = {International Conference on Learning Representations},
+  title = {DiffWave: A Versatile Diffusion Model for Audio Synthesis},
+}
+
+@inproceedings{diffusion_gans,
+  author = {Zhisheng Xiao and Karsten Kreis and Arash Vahdat},
+  year = {2022},
+  url = {https://openreview.net/forum?id=JprM0p-q0Co},
+  booktitle = {International Conference on Learning Representations},
+  title = {Tackling the Generative Learning Trilemma with Denoising Diffusion {GAN},
+}
+
+@inproceedings{nonequiliburium_thermodynamics,
+  author = {Sohl-Dickstein, Jascha and Weiss, Eric and Maheswaranathan, Niru and Ganguli, Surya},
+  url = {https://proceedings.mlr.press/v37/sohl-dickstein15.html},
+  booktitle = {Proceedings of the 32nd International Conference on Machine Learning},
+  editor = {Bach, Francis and Blei, David},
+  pages = {2256--2265},
+  year = {2015},
+  address = {Lille, France},
+  publisher = {PMLR},
+  abstract = {A central problem in machine learning involves modeling complex data-sets using highly flexible families of probability distributions in which learning, sampling, inference, and evaluation are still analytically or computationally tractable. Here, we develop an approach that simultaneously achieves both flexibility and tractability. The essential idea, inspired by non-equilibrium statistical physics, is to systematically and slowly destroy structure in a data distribution through an iterative forward diffusion process. We then learn a reverse diffusion process that restores structure in data, yielding a highly flexible and tractable generative model of the data. This approach allows us to rapidly learn, sample from, and evaluate probabilities in deep generative models with thousands of layers or time steps, as well as to compute conditional and posterior probabilities under the learned model. We additionally release an open source reference implementation of the algorithm.},
+  month = {07--09 Jul},
+  volume = {37},
+  series = {Proceedings of Machine Learning Research},
+  title = {Deep Unsupervised Learning using Nonequilibrium Thermodynamics},
+  pdf = {http://proceedings.mlr.press/v37/sohl-dickstein15.pdf},
+}
+
+@inproceedings{ddpm_original,
+  author = {Ho, Jonathan and Jain, Ajay and Abbeel, Pieter},
+  url = {https://proceedings.neurips.cc/paper_files/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf},
+  booktitle = {Advances in Neural Information Processing Systems},
+  editor = {H. Larochelle and M. Ranzato and R. Hadsell and M.F. Balcan and H. Lin},
+  pages = {6840--6851},
+  publisher = {Curran Associates, Inc.},
+  year = {2020},
+  volume = {33},
+  title = {Denoising Diffusion Probabilistic Models},
+}
+
+@inproceedings{adm,
+  author = {Dhariwal, Prafulla and Nichol, Alexander},
+  url = {https://proceedings.neurips.cc/paper_files/paper/2021/file/49ad23d1ec9fa4bd8d77d02681df5cfa-Paper.pdf},
+  booktitle = {Advances in Neural Information Processing Systems},
+  editor = {M. Ranzato and A. Beygelzimer and Y. Dauphin and P.S. Liang and J. Wortman Vaughan},
+  pages = {8780--8794},
+  publisher = {Curran Associates, Inc.},
+  year = {2021},
+  volume = {34},
+  title = {Diffusion Models Beat GANs on Image Synthesis},
+}
+
+@inproceedings{improved_diffusion,
+  author = {Nichol, Alexander Quinn and Dhariwal, Prafulla},
+  url = {https://proceedings.mlr.press/v139/nichol21a.html},
+  booktitle = {Proceedings of the 38th International Conference on Machine Learning},
+  editor = {Meila, Marina and Zhang, Tong},
+  pages = {8162--8171},
+  year = {2021},
+  publisher = {PMLR},
+  abstract = {Denoising diffusion probabilistic models (DDPM) are a class of generative models which have recently been shown to produce excellent samples. We show that with a few simple modifications, DDPMs can also achieve competitive log-likelihoods while maintaining high sample quality. Additionally, we find that learning variances of the reverse diffusion process allows sampling with an order of magnitude fewer forward passes with a negligible difference in sample quality, which is important for the practical deployment of these models. We additionally use precision and recall to compare how well DDPMs and GANs cover the target distribution. Finally, we show that the sample quality and likelihood of these models scale smoothly with model capacity and training compute, making them easily scalable. We release our code and pre-trained models at https://github.com/openai/improved-diffusion.},
+  month = {18--24 Jul},
+  volume = {139},
+  series = {Proceedings of Machine Learning Research},
+  title = {Improved Denoising Diffusion Probabilistic Models},
+  pdf = {http://proceedings.mlr.press/v139/nichol21a/nichol21a.pdf},
+}
+
+@inproceedings{ddim_original,
+  author = {Jiaming Song and Chenlin Meng and Stefano Ermon},
+  year = {2021},
+  url = {https://openreview.net/forum?id=St1giarCHLP},
+  booktitle = {International Conference on Learning Representations},
+  title = {Denoising Diffusion Implicit Models},
+}
+
+@inproceedings{score_matching1,
+  author = {Song, Yang and Ermon, Stefano},
+  url = {https://proceedings.neurips.cc/paper_files/paper/2019/file/3001ef257407d5a371a96dcd947c7d93-Paper.pdf},
+  booktitle = {Advances in Neural Information Processing Systems},
+  editor = {H. Wallach and H. Larochelle and A. Beygelzimer and F. d\textquotesingle Alch\'{e},
+  pages = {},
+  publisher = {Curran Associates, Inc.},
+  year = {2019},
+  volume = {32},
+  title = {Generative Modeling by Estimating Gradients of the Data Distribution},
+}
+
+@inproceedings{score_matching2,
+  author = {Song, Yang and Ermon, Stefano},
+  url = {https://proceedings.neurips.cc/paper_files/paper/2020/file/92c3b916311a5517d9290576e3ea37ad-Paper.pdf},
+  booktitle = {Advances in Neural Information Processing Systems},
+  editor = {H. Larochelle and M. Ranzato and R. Hadsell and M.F. Balcan and H. Lin},
+  pages = {12438--12448},
+  publisher = {Curran Associates, Inc.},
+  year = {2020},
+  volume = {33},
+  title = {Improved Techniques for Training Score-Based Generative Models},
+}
+
+@inproceedings{score_matching3,
+  author = {Yang Song and Jascha Sohl-Dickstein and Diederik P Kingma and Abhishek Kumar and Stefano Ermon and Ben Poole},
+  year = {2021},
+  url = {https://openreview.net/forum?id=PxTIG12RRHS},
+  booktitle = {International Conference on Learning Representations},
+  title = {Score-Based Generative Modeling through Stochastic Differential Equations},
+}
+
+@inproceedings{conditional1,
+  author = {Jonathan Ho and Tim Salimans},
+  year = {2021},
+  url = {https://openreview.net/forum?id=qw8AKxfYbI},
+  booktitle = {NeurIPS 2021 Workshop on Deep Generative Models and Downstream Applications},
+  title = {Classifier-Free Diffusion Guidance},
+}
+
+@inproceedings{conditional2,
+  author = {Saharia, Chitwan and Chan, William and Saxena, Saurabh and Li, Lala and Whang, Jay and Denton, Emily L and Ghasemipour, Kamyar and Gontijo Lopes, Raphael and Karagol Ayan, Burcu and Salimans, Tim and Ho, Jonathan and Fleet, David J and Norouzi, Mohammad},
+  url = {https://proceedings.neurips.cc/paper_files/paper/2022/file/ec795aeadae0b7d230fa35cbaf04c041-Paper-Conference.pdf},
+  booktitle = {Advances in Neural Information Processing Systems},
+  editor = {S. Koyejo and S. Mohamed and A. Agarwal and D. Belgrave and K. Cho and A. Oh},
+  pages = {36479--36494},
+  publisher = {Curran Associates, Inc.},
+  year = {2022},
+  volume = {35},
+  title = {Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding},
+}
+
+@inproceedings{conditional3,
+  author = {Nichol, Alexander Quinn and Dhariwal, Prafulla and Ramesh, Aditya and Shyam, Pranav and Mishkin, Pamela and Mcgrew, Bob and Sutskever, Ilya and Chen, Mark},
+  url = {https://proceedings.mlr.press/v162/nichol22a.html},
+  booktitle = {Proceedings of the 39th International Conference on Machine Learning},
+  editor = {Chaudhuri, Kamalika and Jegelka, Stefanie and Song, Le and Szepesvari, Csaba and Niu, Gang and Sabato, Sivan},
+  pages = {16784--16804},
+  year = {2022},
+  publisher = {PMLR},
+  abstract = {Diffusion models have recently been shown to generate high-quality synthetic images, especially when paired with a guidance technique to trade off diversity for fidelity. We explore diffusion models for the problem of text-conditional image synthesis and compare two different guidance strategies: CLIP guidance and classifier-free guidance. We find that the latter is preferred by human evaluators for both photorealism and caption similarity, and often produces photorealistic samples. Samples from a 3.5&nbsp;billion parameter text-conditional diffusion model using classifier-free guidance are favored by human evaluators to those from DALL-E, even when the latter uses expensive CLIP reranking. Additionally, we find that our models can be fine-tuned to perform image inpainting, enabling powerful text-driven image editing. We train a smaller model on a filtered dataset and release the code and weights at https://github.com/openai/glide-text2im.},
+  month = {17--23 Jul},
+  volume = {162},
+  series = {Proceedings of Machine Learning Research},
+  title = {{GLIDE},
+  pdf = {https://proceedings.mlr.press/v162/nichol22a/nichol22a.pdf},
+}
+
+@inproceedings{ldm,
+  author = {Rombach, Robin and Blattmann, Andreas and Lorenz, Dominik and Esser, Patrick and Ommer, Bj\"orn},
+  year = {2022},
+  pages = {10684-10695},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  title = {High-Resolution Image Synthesis With Latent Diffusion Models},
+  month = {June},
+}
+
+@article{sdxl,
+  author = {Dustin Podell and Zion English and Kyle Lacey and Andreas Blattmann and Tim Dockhorn and Jonas M{\"u},
+  year = {2023},
+  booktitle = {The Twelfth International Conference on Learning Representations},
+  title = {{SDXL},
+  journal = {arXiv preprint arXiv:2307.01952},
+}
+
+@article{sampler_adaptive_step,
+  author = {Jolicoeur-Martineau, Alexia and Li, Ke and Pich{\'e},
+  year = {2021},
+  title = {Gotta go fast when generating data with score-based models},
+  journal = {arXiv preprint arXiv:2105.14080},
+}
+
+@inproceedings{sampler_pndm,
+  author = {Luping Liu and Yi Ren and Zhijie Lin and Zhou Zhao},
+  year = {2022},
+  url = {https://openreview.net/forum?id=PlKWVd2yBkY},
+  booktitle = {International Conference on Learning Representations},
+  title = {Pseudo Numerical Methods for Diffusion Models on Manifolds},
+}
+
+@inproceedings{sampler_dpm_solver,
+  author = {Cheng Lu and Yuhao Zhou and Fan Bao and Jianfei Chen and Chongxuan Li and Jun Zhu},
+  year = {2022},
+  url = {https://openreview.net/forum?id=2uAaGwlP_V},
+  booktitle = {Advances in Neural Information Processing Systems},
+  editor = {Alice H. Oh and Alekh Agarwal and Danielle Belgrave and Kyunghyun Cho},
+  title = {{DPM},
+}
+
+@article{sampler_dpmpp,
+  author = {Lu, Cheng and Zhou, Yuhao and Bao, Fan and Chen, Jianfei and Li, Chongxuan and Zhu, Jun},
+  year = {2022},
+  title = {{DPM-Solver++},
+  journal = {arXiv preprint arXiv:2211.01095},
+}
+
+@article{noise_effect,
+  author = {Chen, Ting},
+  year = {2023},
+  title = {On the importance of noise scheduling for diffusion models},
+  journal = {arXiv preprint arXiv:2301.10972},
+}
+
+@article{shifted_cosine,
+  author = {Emiel Hoogeboom and Jonathan Heek and Tim Salimans},
+  year = {2023},
+  title = {Simple diffusion: End-to-end diffusion for high resolution images},
+  journal = {arXiv preprint arXiv:2301.11093},
+}
+
+@inproceedings{edm,
+  author = {Tero Karras and Miika Aittala and Timo Aila and Samuli Laine},
+  year = {2022},
+  url = {https://openreview.net/forum?id=k7FuTOWMOc7},
+  booktitle = {Advances in Neural Information Processing Systems},
+  editor = {Alice H. Oh and Alekh Agarwal and Danielle Belgrave and Kyunghyun Cho},
+  title = {Elucidating the Design Space of Diffusion-Based Generative Models},
+}
+
+@inbook{ddpm_approx,
+}
+
+@inproceedings{ays,
+  author = {Amirmojtaba Sabour and Sanja Fidler and Karsten Kreis},
+  year = {2024},
+  url = {https://openreview.net/forum?id=nBGBzV4It3},
+  booktitle = {Forty-first International Conference on Machine Learning},
+  title = {Align Your Steps: Optimizing Sampling Schedules in Diffusion Models},
+}
+
+@article{sa_original,
+  author = {S. Kirkpatrick  and C. D. Gelatt  and M. P. Vecchi},
+  doi = {10.1126/science.220.4598.671},
+  url = {https://www.science.org/doi/abs/10.1126/science.220.4598.671},
+  eprint = {https://www.science.org/doi/pdf/10.1126/science.220.4598.671},
+  journal = {Science},
+  pages = {671-680},
+  year = {1983},
+  abstract = {There is a deep and useful connection between statistical mechanics (the behavior of systems with many degrees of freedom in thermal equilibrium at a finite temperature) and multivariate or combinatorial optimization (finding the minimum of a given function depending on many parameters). A detailed analogy with annealing in solids provides a framework for optimization of the properties of very large and complex systems. This connection to statistical mechanics exposes new information and provides an unfamiliar perspective on traditional optimization problems and methods.},
+  volume = {220},
+  title = {Optimization by Simulated Annealing},
+  number = {4598},
+}
+
+@article{qa_original,
+  author = {Kadowaki, Tadashi and Nishimori, Hidetoshi},
+  doi = {10.1103/PhysRevE.58.5355},
+  url = {https://link.aps.org/doi/10.1103/PhysRevE.58.5355},
+  issue = {5},
+  journal = {Phys. Rev. E},
+  pages = {5355--5363},
+  year = {1998},
+  publisher = {American Physical Society},
+  numpages = {0},
+  volume = {58},
+  title = {Quantum annealing in the transverse Ising model},
+  month = {Nov},
+}
+
+@article{adiabatic_theorem,
+  author = {Morita, Satoshi and Nishimori, Hidetoshi},
+  doi = {10.1063/1.2995837},
+  url = {https://doi.org/10.1063/1.2995837},
+  eprint = {https://pubs.aip.org/aip/jmp/article-pdf/doi/10.1063/1.2995837/13869474/125210\_1\_online.pdf},
+  issn = {0022-2488},
+  journal = {Journal of Mathematical Physics},
+  pages = {125210},
+  year = {2008},
+  volume = {49},
+  month = {12},
+  number = {12},
+}
+
+@article{grover_search,
+  author = {Roland, J\'er\'emie and Cerf, Nicolas J.},
+  doi = {10.1103/PhysRevA.65.042308},
+  url = {https://link.aps.org/doi/10.1103/PhysRevA.65.042308},
+  issue = {4},
+  journal = {Phys. Rev. A},
+  pages = {042308},
+  year = {2002},
+  publisher = {American Physical Society},
+  numpages = {6},
+  volume = {65},
+  title = {Quantum search by local adiabatic evolution},
+  month = {Mar},
+}
+
+@inproceedings{image_space_difficult,
+  title = {Revisiting Classifier Two-Sample Tests},
+  author = {David Lopez-Paz and Maxime Oquab},
+  booktitle = {International Conference on Learning Representations},
+  year = {2017},
+  url = {https://openreview.net/forum?id=SJkXfE5xx},
+}
+
+@inproceedings{fid_score,
+  author = {Heusel, Martin and Ramsauer, Hubert and Unterthiner, Thomas and Nessler, Bernhard and Hochreiter, Sepp},
+  url = {https://proceedings.neurips.cc/paper_files/paper/2017/file/8a1d694707eb0fefe65871369074926d-Paper.pdf},
+  booktitle = {Advances in Neural Information Processing Systems},
+  editor = {I. Guyon and U. Von Luxburg and S. Bengio and H. Wallach and R. Fergus and S. Vishwanathan and R. Garnett},
+  pages = {},
+  publisher = {Curran Associates, Inc.},
+  year = {2017},
+  volume = {30},
+  title = {GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium},
+}
+
+@article{lsun,
+  author = {Fisher Yu and Ari Seff and Yinda Zhang and Shuran Song and Thomas Funkhouser and Jianxiong Xiao},
+  year = {2016},
+  url = {https://arxiv.org/abs/1506.03365},
+  title = {LSUN: Construction of a Large-scale Image Dataset using Deep Learning with Humans in the Loop},
+  journal = {arXiv preprint arXiv:1506.03365},
+}
+
+@inproceedings{imagenet,
+  author = {Deng, Jia and Dong, Wei and Socher, Richard and Li, Li-Jia and Kai Li and Li Fei-Fei},
+  doi = {10.1109/CVPR.2009.5206848},
+  booktitle = {2009 IEEE Conference on Computer Vision and Pattern Recognition},
+  pages = {248-255},
+  year = {2009},
+  volume = {},
+  title = {ImageNet: A large-scale hierarchical image database},
+  keywords = {Large-scale systems;Image databases;Explosions;Internet;Robustness;Information retrieval;Image retrieval;Multimedia databases;Ontologies;Spine},
+  number = {},
+}
+
+@inproceedings{ffhq,
+  author = {Karras, Tero and Laine, Samuli and Aila, Timo},
+  doi = {10.1109/CVPR.2019.00453},
+  booktitle = {2019 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  pages = {4396-4405},
+  year = {2019},
+  volume = {},
+  title = {A Style-Based Generator Architecture for Generative Adversarial Networks},
+  keywords = {Deep Learning;Image and Video Synthesis; Representation Learning},
+  number = {},
+}
+
+@inproceedings{vdmpp,
+  author = {Diederik P Kingma and Ruiqi Gao},
+  year = {2023},
+  url = {https://openreview.net/forum?id=NnMEadcdyD},
+  booktitle = {Thirty-seventh Conference on Neural Information Processing Systems},
+  title = {Understanding Diffusion Objectives as the {ELBO},
+}
+
+@inproceedings{recall_precision1,
+  author = {Sajjadi, Mehdi S. M. and Bachem, Olivier and Lucic, Mario and Bousquet, Olivier and Gelly, Sylvain},
+  url = {https://proceedings.neurips.cc/paper_files/paper/2018/file/f7696a9b362ac5a51c3dc8f098b73923-Paper.pdf},
+  booktitle = {Advances in Neural Information Processing Systems},
+  editor = {S. Bengio and H. Wallach and H. Larochelle and K. Grauman and N. Cesa-Bianchi and R. Garnett},
+  pages = {},
+  publisher = {Curran Associates, Inc.},
+  year = {2018},
+  volume = {31},
+  title = {Assessing Generative Models via Precision and Recall},
+}
+
+@inproceedings{recall_precision2,
+  author = {Kynk\"{a},
+  url = {https://proceedings.neurips.cc/paper_files/paper/2019/file/0234c510bc6d908b28c70ff313743079-Paper.pdf},
+  booktitle = {Advances in Neural Information Processing Systems},
+  editor = {H. Wallach and H. Larochelle and A. Beygelzimer and F. d\textquotesingle Alch\'{e},
+  pages = {},
+  publisher = {Curran Associates, Inc.},
+  year = {2019},
+  volume = {32},
+  title = {Improved Precision and Recall Metric for Assessing Generative Models},
+}
+
+@article{spatial_fid_score,
+  author = {Charlie Nash and Jacob Menick and Sander Dieleman and Peter W. Battaglia},
+  year = {2021},
+  url = {https://arxiv.org/abs/2103.03841},
+  title = {Generating Images with Sparse Representations},
+  journal = {arXiv preprint arXiv:2103.03841},
+}
+
+@article{image_super_resolution1,
+  author = {Saharia, Chitwan and Ho, Jonathan and Chan, William and Salimans, Tim and Fleet, David J. and Norouzi, Mohammad},
+  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  title = {Image Super-Resolution via Iterative Refinement},
+  year = {2023},
+  volume = {45},
+  number = {4},
+  pages = {4713-4726},
+  keywords = {Noise reduction;Superresolution;Task analysis;Iterative methods;Data models;Faces;Diffusion processes;Image super-resolution;diffusion models;deep generative models},
+  doi = {10.1109/TPAMI.2022.3204461},
+}
+
+@inproceedings{image_super_resolution2,
+  author = {Doi, Kenji and Okada, Shuntaro and Yoshihashi, Ryota and Kataoka, Hirokatsu},
+  title = {Real-SRGD: Enhancing Real-World Image Super-Resolution with Classifier-Free Guided Diffusion},
+  booktitle = {Proceedings of the Asian Conference on Computer Vision (ACCV)},
+  month = {December},
+  year = {2024},
+  pages = {3739-3755},
+}
+
+@inproceedings{video_generation1,
+  author = {Ho, Jonathan and Salimans, Tim and Gritsenko, Alexey and Chan, William and Norouzi, Mohammad and Fleet, David J},
+  booktitle = {Advances in Neural Information Processing Systems},
+  editor = {S. Koyejo and S. Mohamed and A. Agarwal and D. Belgrave and K. Cho and A. Oh},
+  pages = {8633--8646},
+  publisher = {Curran Associates, Inc.},
+  title = {Video Diffusion Models},
+  volume = {35},
+  year = {2022},
+}
+
+@article{video_generation2,
+  title = {Imagen Video: High Definition Video Generation with Diffusion Models},
+  author = {Jonathan Ho and William Chan and Chitwan Saharia and Jay Whang and Ruiqi Gao and Alexey Gritsenko and Diederik P. Kingma and Ben Poole and Mohammad Norouzi and David J. Fleet and Tim Salimans},
+  journal = {arXiv preprint arXiv:2210.02303},
+  year = {2022},
+}
+
+@article{audio_generation2,
+  title = {Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech},
+  author = {Vadim Popov and Ivan Vovk and Vladimir Gogoryan and Tasnima Sadekova and Mikhail Kudinov},
+  journal = {arXiv preprint arXiv:2105.06337},
+  year = {2021},
+}
+
+@inproceedings{sampler_ipndm,
+  title = {Fast Sampling of Diffusion Models with Exponential Integrator},
+  author = {Qinsheng Zhang and Yongxin Chen},
+  booktitle = {The Eleventh International Conference on Learning Representations},
+  year = {2023},
+}
+
+@inproceedings{sampler_unipc,
+  title = {Uni{PC},
+  author = {Wenliang Zhao and Lujia Bai and Yongming Rao and Jie Zhou and Jiwen Lu},
+  booktitle = {Thirty-seventh Conference on Neural Information Processing Systems},
+  year = {2023},
+}
+
+@inproceedings{sampler_dpm-v3,
+  title = {{DPM},
+  author = {Kaiwen Zheng and Cheng Lu and Jianfei Chen and Jun Zhu},
+  booktitle = {Thirty-seventh Conference on Neural Information Processing Systems},
+  year = {2023},
+}
+
+@inproceedings{sampler_amed,
+  author = {Zhou, Zhenyu and Chen, Defang and Wang, Can and Chen, Chun},
+  title = {Fast ODE-based Sampling for Diffusion Models in Around 5 Steps},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  month = {June},
+  year = {2024},
+  pages = {7777-7786},
+}
+
+@inproceedings{noise_gits,
+  title = {On the Trajectory Regularity of {ODE},
+  author = {Defang Chen and Zhenyu Zhou and Can Wang and Chunhua Shen and Siwei Lyu},
+  booktitle = {Forty-first International Conference on Machine Learning},
+  year = {2024},
+}
+
+@inproceedings{noise_jys,
+  title = {Jump Your Steps: Optimizing Sampling Schedule of Discrete Diffusion Models},
+  author = {Yong-Hyun Park and Chieh-Hsin Lai and Satoshi Hayakawa and Yuhta Takida and Yuki Mitsufuji},
+  booktitle = {The Thirteenth International Conference on Learning Representations},
+  year = {2025},
+}
+
+@article{distill_org1,
+  title = {Knowledge Distillation in Iterative Generative Models for Improved Sampling Speed},
+  author = {Eric Luhman and Troy Luhman},
+  journal = {arXiv preprint arXiv:2101.02388},
+  year = {2021},
+}
+
+@inproceedings{distill_org2,
+  title = {Progressive Distillation for Fast Sampling of Diffusion Models},
+  author = {Tim Salimans and Jonathan Ho},
+  booktitle = {International Conference on Learning Representations},
+  year = {2022},
+}
+
+@inproceedings{distill_consistency,
+  title = {Consistency Models},
+  author = {Song, Yang and Dhariwal, Prafulla and Chen, Mark and Sutskever, Ilya},
+  booktitle = {Proceedings of the 40th International Conference on Machine Learning},
+  pages = {32211--32252},
+  year = {2023},
+  editor = {Krause, Andreas and Brunskill, Emma and Cho, Kyunghyun and Engelhardt, Barbara and Sabato, Sivan and Scarlett, Jonathan},
+  volume = {202},
+  series = {Proceedings of Machine Learning Research},
+  month = {23--29 Jul},
+  publisher = {PMLR},
+  abstract = {Diffusion models have significantly advanced the fields of image, audio, and video generation, but they depend on an iterative sampling process that causes slow generation. To overcome this limitation, we propose consistency models, a new family of models that generate high quality samples by directly mapping noise to data. They support fast one-step generation by design, while still allowing multistep sampling to trade compute for sample quality. They also support zero-shot data editing, such as image inpainting, colorization, and super-resolution, without requiring explicit training on these tasks. Consistency models can be trained either by distilling pre-trained diffusion models, or as standalone generative models altogether. Through extensive experiments, we demonstrate that they outperform existing distillation techniques for diffusion models in one- and few-step sampling, achieving the new state-of-the-art FID of 3.55 on CIFAR-10 and 6.20 on ImageNet 64x64 for one-step generation. When trained in isolation, consistency models become a new family of generative models that can outperform existing one-step, non-adversarial generative models on standard benchmarks such as CIFAR-10, ImageNet 64x64 and LSUN 256x256.},
+}
+
+@inproceedings{distill_dmd,
+  author = {Yin, Tianwei and Gharbi, Micha\"el and Zhang, Richard and Shechtman, Eli and Durand, Fr\'edo and Freeman, William T. and Park, Taesung},
+  title = {One-step Diffusion with Distribution Matching Distillation},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  month = {June},
+  year = {2024},
+  pages = {6613-6623},
+}
+
+@inproceedings{distill_dmd2,
+  title = {Improved Distribution Matching Distillation for Fast Image Synthesis},
+  author = {Tianwei Yin and Micha{\"e},
+  booktitle = {The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+  year = {2024},
+}
+
+@article{distill_s4s,
+  title = {S4S: Solving for a Diffusion Model Solver},
+  author = {Eric Frankel and Sitan Chen and Jerry Li and Pang Wei Koh and Lillian J. Ratliff and Sewoong Oh},
+  journal = {arXiv preprint arXiv:2502.17423},
+  year = {2025},
+}
+
+@article{statistical_mechanics,
+  title = {The statistical thermodynamics of generative diffusion models: Phase transitions, symmetry breaking and critical instability},
+  author = {Luca Ambrogioni},
+  journal = {arXiv preprint arXiv:2310.17467},
+  year = {2024},
+}
+
+@misc{dataset_cifar10,
+  title = {Learning Multiple Layers of Features from Tiny Images},
+  author = {Krizhevsky, Alex},
+}
+
+@inproceedings{lsun_horse_sota,
+  author = {Kumari, Nupur and Zhang, Richard and Shechtman, Eli and Zhu, Jun-Yan},
+  title = {Ensembling Off-the-Shelf Models for GAN Training},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  month = {June},
+  year = {2022},
+  pages = {10651-10662},
+}
+
+@inproceedings{inception_v3,
+  author = {Szegedy, Christian and Vanhoucke, Vincent and Ioffe, Sergey and Shlens, Jon and Wojna, Zbigniew},
+  booktitle = {2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  title = {Rethinking the Inception Architecture for Computer Vision},
+  year = {2016},
+  volume = {},
+  number = {},
+  pages = {2818-2826},
+  keywords = {Convolution;Computer architecture;Training;Computational efficiency;Computer vision;Benchmark testing;Computational modeling},
+  doi = {10.1109/CVPR.2016.308},
+}
+
+@inproceedings{resnet,
+  author = {He, Kaiming and Zhang, Xiangyu and Ren, Shaoqing and Sun, Jian},
+  title = {Deep Residual Learning for Image Recognition},
+  booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  month = {June},
+  year = {2016},
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Combining summary statistics with simulation-based inference for the 21 cm signal from the Epoch of Reionization",
+  "authors": [
+    "Benoit Semelin",
+    "Romain Mériot",
+    "Ashutosh Mishra",
+    "David Cornu"
+  ],
+  "summary": "The 21 cm signal from the Epoch of Reionization will be observed with the up-coming Square Kilometer Array (SKA). SKA should yield a full tomography of the signal which opens the possibility to explore its non-Gaussian properties. How can we extract the maximum information from the tomography and derive the tightest constraint on the signal? In this work, instead of looking for the most informative summary statistics, we investigate how to combine the information from two sets of summary statistics using simulation-based inference. To this purpose, we train Neural Density Estimators (NDE) to fit the implicit likelihood of our model, the LICORICE code, using the Loreli II database. We train three different NDEs: one to perform Bayesian inference on the power spectrum, one to do it on the linear moments of the Pixel Distribution Function (PDF) and one to work with the combination of the two. We perform $\\sim 900$ inferences at different points in our parameter space and use them to assess both the validity of our posteriors with Simulation-based Calibration (SBC) and the typical gain obtained by combining summary statistics. We find that our posteriors are biased by no more than $\\sim 20 \\%$ of their standard deviation and under-confident by no more than $\\sim 15 \\%$. Then, we establish that combining summary statistics produces a contraction of the 4-D volume of the posterior (derived from the generalized variance) in 91.5 % of our cases, and in 70 to 80 % of the cases for the marginalized 1-D posteriors. The median volume variation is a contraction of a factor of a few for the 4D posteriors and a contraction of 20 to 30 % in the case of the marginalized 1D posteriors. This shows that our approach is a possible alternative to looking for sufficient statistics in the theoretical sense.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "A&A 698, A35 (2025)",
+  "pdf_url": null,
+  "category": "astro-ph.CO"
+}

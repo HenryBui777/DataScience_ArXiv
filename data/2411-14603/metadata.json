@@ -1,0 +1,16 @@
+{
+  "title": "Dynamics of an LPAA model for Tribolium Growth: Insights into Population Chaos",
+  "authors": [
+    "Samantha J. Brozak",
+    "Sophia Peralta",
+    "Tin Phan",
+    "John D. Nagy",
+    "Yang Kuang"
+  ],
+  "summary": "Flour beetles (genus Tribolium) have long been used as a model organism to understand population dynamics in ecological research. A rich and rigorous body of work has cemented flour beetles' place in the field of mathematical biology. One of the most interesting results using flour beetles is the induction of chaos in a laboratory beetle population, in which the well-established LPA (larvae-pupae-adult) model was used to inform the experimental factors which would lead to chaos. However, whether chaos is an intrinsic property of flour beetles remains an open question. Inspired by new experimental data, we extend the LPA model by stratifying the adult population into newly emerged and mature adults and considering cannibalism as a function of mature adults. We fit the model to longitudinal data of larvae, pupae, and adult beetle populations to demonstrate the model's ability to recapitulate the transient dynamics of flour beetles. We present local and global stability results for the trivial and positive steady states and explore bifurcations and limit cycles numerically. Our results suggest that while chaos is a possibility, it is a rare phenomenon within realistic ranges of the parameters obtained from our experiment, and is likely induced by environmental changes connected to media changes and population censusing.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "SIAM Journal on Applied Mathematics 84(6), 2300-2320 (2024)",
+  "pdf_url": null,
+  "category": "q-bio.PE, math.DS"
+}

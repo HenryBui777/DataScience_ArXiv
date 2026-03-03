@@ -1,0 +1,297 @@
+{
+  "2307-10487": {
+    "title": "Attacking by Aligning: Clean-Label Backdoor Attacks on Object Detection",
+    "authors": [
+      "Yize Cheng",
+      "P. H. Hopchev",
+      "Minhao Cheng"
+    ],
+    "publication_date": "2023-07-19",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "d8c2185a63fb6f24e95cd7bce142862dd139f93f",
+    "corpus_id": 259991563,
+    "category": "Computer Science"
+  },
+  "2212-09067": {
+    "title": "Fine-Tuning Is All You Need to Mitigate Backdoor Attacks",
+    "authors": [
+      "Zeyang Sha",
+      "Xinlei He",
+      "Pascal Berrang",
+      "Mathias Humbert",
+      "Yang Zhang"
+    ],
+    "publication_date": "2022-12-18",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "5a08efd2475a84502c03f7ebb37dcc45e1c5690b",
+    "corpus_id": 254854601,
+    "category": "Computer Science"
+  },
+  "2211-05638": {
+    "title": "Untargeted Backdoor Attack Against Object Detection",
+    "authors": [
+      "C. Luo",
+      "Yiming Li",
+      "Yong Jiang",
+      "Shutao Xia"
+    ],
+    "publication_date": "2022-11-02",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "e90ca9072bc92eb5d5ce17d7d7965741b542d9e5",
+    "corpus_id": 253447047,
+    "category": "Computer Science"
+  },
+  "2209-02339": {
+    "title": "TransCAB: Transferable Clean-Annotation Backdoor to Object Detection with Natural Trigger in Real-World",
+    "authors": [
+      "Hua Ma",
+      "Yinshan Li",
+      "Yansong Gao",
+      "Zhi Zhang",
+      "A. Abuadbba",
+      "Anmin Fu",
+      "S. Al-Sarawi",
+      "Surya Nepal",
+      "Derek Abbott"
+    ],
+    "publication_date": "2022-09-06",
+    "venue": "IEEE International Symposium on Reliable Distributed Systems",
+    "semantic_scholar_id": "a869fcd4286658dbd7aa471566befb8458df0452",
+    "corpus_id": 252089723,
+    "category": "Computer Science"
+  },
+  "2205-14497": {
+    "title": "BadDet: Backdoor Attacks on Object Detection",
+    "authors": [
+      "Shih-Han Chan",
+      "Yinpeng Dong",
+      "Junyi Zhu",
+      "Xiaolu Zhang",
+      "Jun Zhou"
+    ],
+    "publication_date": "2022-05-28",
+    "venue": "ECCV Workshops",
+    "semantic_scholar_id": "092bd587c37a8fe6878741099ad84e287a173431",
+    "corpus_id": 249191761,
+    "category": "Computer Science"
+  },
+  "2204-06974": {
+    "title": "Planting Undetectable Backdoors in Machine Learning Models : [Extended Abstract]",
+    "authors": [
+      "S. Goldwasser",
+      "Michael P. Kim",
+      "V. Vaikuntanathan",
+      "Or Zamir"
+    ],
+    "publication_date": "2022-04-14",
+    "venue": "IEEE Annual Symposium on Foundations of Computer Science",
+    "semantic_scholar_id": "38ab0972ea91d2b2d14abb18afe58c351018cf06",
+    "corpus_id": 248177888,
+    "category": "Computer Science"
+  },
+  "2201-08619": {
+    "title": "Dangerous Cloaking: Natural Trigger based Backdoor Attacks on Object Detectors in the Physical World",
+    "authors": [
+      "Hua Ma",
+      "Yinshan Li",
+      "Yansong Gao",
+      "A. Abuadbba",
+      "Zhi-Li Zhang",
+      "Anmin Fu",
+      "Hyoungshick Kim",
+      "S. Al-Sarawi",
+      "Nepal Surya",
+      "Derek Abbott"
+    ],
+    "publication_date": "2022-01-21",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "8d8a1705444568d868c9947e6457ab7f8a1d1c1e",
+    "corpus_id": 246210299,
+    "category": "Computer Science"
+  },
+  "2112-03476": {
+    "title": "Defending against Model Stealing via Verifying Embedded External Features",
+    "authors": [
+      "Linghui Zhu",
+      "Yiming Li",
+      "Xiaojun Jia",
+      "Yong Jiang",
+      "Shutao Xia",
+      "Xiaochun Cao"
+    ],
+    "publication_date": "2021-12-07",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "bfb6e56602b658fdabaaa66987ebf685a8139892",
+    "corpus_id": 235670814,
+    "category": "Computer Science"
+  },
+  "2011-14779": {
+    "title": "Data-Free Model Extraction",
+    "authors": [
+      "Jean-Baptiste Truong",
+      "Pratyush Maini",
+      "R. Walls",
+      "Nicolas Papernot"
+    ],
+    "publication_date": "2020-11-30",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "287e82b08cc5b8c8aae03825b466fcb73860b0c4",
+    "corpus_id": 227228405,
+    "category": "Computer Science"
+  },
+  "2002-12200": {
+    "title": "Entangled Watermarks as a Defense against Model Extraction",
+    "authors": [
+      "Hengrui Jia",
+      "Christopher A. Choquette-Choo",
+      "Nicolas Papernot"
+    ],
+    "publication_date": "2020-02-27",
+    "venue": "USENIX Security Symposium",
+    "semantic_scholar_id": "abbb0fd559ade70265f4f528df094fbbd8ae2040",
+    "corpus_id": 211532649,
+    "category": "Computer Science, Mathematics"
+  },
+  "1906-10908": {
+    "title": "Prediction Poisoning: Towards Defenses Against DNN Model Stealing Attacks",
+    "authors": [
+      "Tribhuvanesh Orekondy",
+      "B. Schiele",
+      "Mario Fritz"
+    ],
+    "publication_date": "2019-06-26",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "da10f79f983fd4fbd589ed7ffa68d33964841443",
+    "corpus_id": 209314546,
+    "category": "Computer Science, Mathematics"
+  },
+  "1906-00830": {
+    "title": "DAWN: Dynamic Adversarial Watermarking of Neural Networks",
+    "authors": [
+      "Sebastian Szyller",
+      "B. Atli",
+      "Samuel Marchal",
+      "N. Asokan"
+    ],
+    "publication_date": "2019-06-03",
+    "venue": "ACM Multimedia",
+    "semantic_scholar_id": "c40441bd48c08ab7db9443afdb3084387b06e61f",
+    "corpus_id": 173991105,
+    "category": "Computer Science, Mathematics"
+  },
+  "1905-11946": {
+    "title": "EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks",
+    "authors": [
+      "Mingxing Tan",
+      "Quoc V. Le"
+    ],
+    "publication_date": "2019-05-24",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "4f2eda8077dc7a69bb2b4e0a1a086cf054adb3f9",
+    "corpus_id": 167217261,
+    "category": "Computer Science, Mathematics"
+  },
+  "1805-12185": {
+    "title": "Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks",
+    "authors": [
+      "Kang Liu",
+      "Brendan Dolan-Gavitt",
+      "S. Garg"
+    ],
+    "publication_date": "2018-05-30",
+    "venue": "International Symposium on Recent Advances in Intrusion Detection",
+    "semantic_scholar_id": "790ec1befba47991e8fd50a24d13be6094253f93",
+    "corpus_id": 44096776,
+    "category": "Computer Science"
+  },
+  "1802-04633": {
+    "title": "Turning Your Weakness Into a Strength: Watermarking Deep Neural Networks by Backdooring",
+    "authors": [
+      "Yossi Adi",
+      "Carsten Baum",
+      "Moustapha Cissé",
+      "Benny Pinkas",
+      "Joseph Keshet"
+    ],
+    "publication_date": "2018-02-13",
+    "venue": "USENIX Security Symposium",
+    "semantic_scholar_id": "ba28252bea09d49202d45f04b69f9b357dff0a6f",
+    "corpus_id": 3322503,
+    "category": "Computer Science, Mathematics"
+  },
+  "1702-05693": {
+    "title": "CityPersons: A Diverse Dataset for Pedestrian Detection",
+    "authors": [
+      "Shanshan Zhang",
+      "Rodrigo Benenson",
+      "B. Schiele"
+    ],
+    "publication_date": "2017-02-19",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "03ba6a574991d904a5d17f9c57f9ae26378baae8",
+    "corpus_id": 14020880,
+    "category": "Computer Science"
+  },
+  "1701-04082": {
+    "title": "Embedding Watermarks into Deep Neural Networks",
+    "authors": [
+      "Yusuke Uchida",
+      "Yuki Nagai",
+      "S. Sakazawa",
+      "S. Satoh"
+    ],
+    "publication_date": "2017-01-15",
+    "venue": "International Conference on Multimedia Retrieval",
+    "semantic_scholar_id": "69220b1c2bdfce552d97a3b142e8519a5d19e1a3",
+    "corpus_id": 13060737,
+    "category": "Computer Science"
+  },
+  "1609-02943": {
+    "title": "Stealing Machine Learning Models via Prediction APIs",
+    "authors": [
+      "Florian Tramèr",
+      "Fan Zhang",
+      "A. Juels",
+      "M. Reiter",
+      "Thomas Ristenpart"
+    ],
+    "publication_date": "2016-08-10",
+    "venue": "USENIX Security Symposium",
+    "semantic_scholar_id": "8a95423d0059f7c5b1422f0ef1aa60b9e26aab7e",
+    "corpus_id": 2984526,
+    "category": "Computer Science, Mathematics"
+  },
+  "1604-01685": {
+    "title": "The Cityscapes Dataset for Semantic Urban Scene Understanding",
+    "authors": [
+      "Marius Cordts",
+      "Mohamed Omran",
+      "Sebastian Ramos",
+      "Timo Rehfeld",
+      "Markus Enzweiler",
+      "Rodrigo Benenson",
+      "Uwe Franke",
+      "S. Roth",
+      "B. Schiele"
+    ],
+    "publication_date": "2016-04-06",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "c8c494ee5488fe20e0aa01bddf3fc4632086d654",
+    "corpus_id": 502946,
+    "category": "Computer Science"
+  },
+  "1506-01497": {
+    "title": "Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks",
+    "authors": [
+      "Shaoqing Ren",
+      "Kaiming He",
+      "Ross B. Girshick",
+      "Jian Sun"
+    ],
+    "publication_date": "2015-06-04",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "424561d8585ff8ebce7d5d07de8dbf7aae5e7270",
+    "corpus_id": 10328909,
+    "category": "Computer Science, Medicine"
+  }
+}

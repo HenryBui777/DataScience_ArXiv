@@ -1,0 +1,13 @@
+{
+  "title": "Measuring the expansion velocities of broad-line Ic supernovae: An investigation of neglected sources of error in two popular methods",
+  "authors": [
+    "Gabriel Finneran",
+    "Antonio Martin-Carrillo"
+  ],
+  "summary": "The velocities of Ic-BL supernovae can be determined using two techniques (spline fitting and template fitting), sometimes resulting in different velocities for the same event. This work compares and contrasts both methods, identifying sources of error which are not accounted for by most authors and quantifying their impact on the final velocity measurement. Finally, it identifies the cause of velocity discrepancies for events measured using both methods. We quantified the impact of pre-smoothing the spectra prior to use of both methods using two well-sampled cases. To identify the source of velocity discrepancies, two cases were measured and directly compared. Additional sources of error for template fitting arise due to the choice of phase of the template spectrum ($\\sim$1000 km/s) and smoothing of the input spectrum ($\\sim$500 km/s). The impact of phase shifts is minimised at peak time. The spline fitting method tends to underestimate uncertainties by around 1000 km/s. This method can also be impacted by fine tuning of the smoothing parameters ($\\sim$500-1000 km/s). Optimum smoothing parameters for different cases are presented along with suggestions for best practice. Direct comparison of both methods showed that velocity discrepancies are not always present, debunking the claim that the template fitting method always handles blending better than spline fitting. Spline fitting seems to struggle to handle blending only in cases where the Fe II features are superimposed on a red continuum, which biases the minimum of this feature towards the bluest line of the triplet, creating an artificially higher velocity. This situation may be relatively rare among Ic-BLs, based on typical temperature evolution. Both methods can be applied under certain circumstances with similar results. The morphology of the velocity evolution of an SN appears to be the same regardless of the method used.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.HE"
+}

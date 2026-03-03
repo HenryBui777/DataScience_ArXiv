@@ -1,0 +1,13 @@
+{
+  "title": "Developing a Non-Newtonian Fluid Model for Dust, for Application to Astrophysical Flows",
+  "authors": [
+    "Elliot M. Lynch",
+    "Guillaume Laibe"
+  ],
+  "summary": "In the astrophysics community it is common practice to model collisionless dust, entrained in a gas flow, as a pressureless fluid. However a pressureless fluid is fundamentally different from a collisionless fluid - the latter of which generically possess a non-zero anisotropic pressure or stress tensor. In this paper we derive a fluid model for collisionless dust, entrained in a turbulent gas, starting from the equations describing the motion of individual dust grains. We adopt a covariant formulation of our model to allow for the geometry and coordinate systems prevalent in astrophysics, and provide a closure valid for the accretion disc context. We show that the continuum mechanics properties of a dust fluid corresponds to a higher-dimensional anisotropic Maxwell fluid, after the extra dimensions are averaged out, with a dynamically important rheological stress tensor. This higher-dimensional treatment has the advantage of keeping the dust velocity and velocity of the fluid seen, and their respective moments, on the same footing. This results in a simplification of the constitutive relation describing the evolution of the dust Rheological stress.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "J. Fluid Mech. 1001 (2024) A37",
+  "pdf_url": null,
+  "category": "astro-ph.EP, astro-ph.SR, physics.flu-dyn"
+}

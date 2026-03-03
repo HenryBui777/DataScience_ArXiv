@@ -1,0 +1,12 @@
+{
+  "title": "Probabilistic Trust-Based Enhancement for simultaneous transmission in AOMDV Routing Protocol",
+  "authors": [
+    "Nikhil Mishra"
+  ],
+  "summary": "This work addresses a trust-based enhancement to the Multipath Ad hoc On-Demand Distance Vector (AOMDV) routing protocol. While AODV and its multipath variant AOMDV have been fundamental in mobile ad hoc networks, they lack mechanisms to account for node reliability. A probabilistic link-trust model is proposed that incorporates factors such as past behavior, battery levels, and node coupling to distribute data optimally to reduce delay while simultaneously transmitting through multiple paths.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.NI"
+}

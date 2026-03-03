@@ -1,0 +1,22 @@
+{
+  "title": "CFD-based design optimization of a 5 kW ducted hydrokinetic turbine with practical constraints",
+  "authors": [
+    "Jeongbin Park",
+    "Marco Mangano",
+    "Sabet Seraj",
+    "Bernardo Pacini",
+    "Yingqian Liao",
+    "Bradford G. Knight",
+    "Kartik Naik",
+    "Kevin J. Maki",
+    "Joaquim R. R. A. Martins",
+    "Jing Sun",
+    "Yulin Pan"
+  ],
+  "summary": "Ducted hydrokinetic turbines enhance energy-harvesting efficiency by better conditioning the flow to the blades, which may yield higher power output than conventional freestream turbines for the same reference area. In this work, we present a ducted hydrokinetic turbine design obtained by simultaneously optimizing the duct, blade, and hub geometries. Our optimization framework combines a CFD solver, an adjoint solver, and a gradient-based optimizer to efficiently explore a large design space, together with a feature-based parameterization method to handle the complex geometry. Practical geometrical constraints ensure the manufacturability of the duct in terms of a minimum thickness and the housing of a 5 kW generator within the hub. The optimization converges to a short, thin duct with a rounded leading edge and an elongated hub protruding the duct inlet. The optimized ducted turbine achieves up to 50% efficiency when evaluated by RANS/URANS solvers despite a bulky hub, outperforming the 45% efficiency of the freestream Bahaj turbine featuring the same hub. This work showcases the effectiveness of CFD-based optimization in advancing ducted turbine designs and demonstrates the hydrodynamic benefits of a ducted configuration, paving the way for future research and real-world applications.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.flu-dyn"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Cyborg Insect Factory: Automatic Assembly System to Build up Insect-computer Hybrid Robot Based on Vision-guided Robotic Arm Manipulation of Custom Bipolar Electrodes",
+  "authors": [
+    "Qifeng Lin",
+    "Nghia Vuong",
+    "Kewei Song",
+    "Phuoc Thanh Tran-Ngoc",
+    "Greg Angelo Gonzales Nonato",
+    "Hirotaka Sato"
+  ],
+  "summary": "The advancement of insect-computer hybrid robots holds significant promise for navigating complex terrains and enhancing robotics applications. This study introduced an automatic assembly method for insect-computer hybrid robots, which was accomplished by mounting backpack with precise implantation of custom-designed bipolar electrodes. We developed a stimulation protocol for the intersegmental membrane between pronotum and mesothorax of the Madagascar hissing cockroach, allowing for bipolar electrodes' automatic implantation using a robotic arm. The assembly process was integrated with a deep learning-based vision system to accurately identify the implantation site, and a dedicated structure to fix the insect (68 s for the whole assembly process). The automatically assembled hybrid robots demonstrated steering control (over 70 degrees for 0.4 s stimulation) and deceleration control (68.2% speed reduction for 0.4 s stimulation), matching the performance of manually assembled systems. Furthermore, a multi-agent system consisting of 4 hybrid robots successfully covered obstructed outdoor terrain (80.25% for 10 minutes 31 seconds), highlighting the feasibility of mass-producing these systems for practical applications. The proposed automatic assembly strategy reduced preparation time for the insect-computer hybrid robots while maintaining their precise control, laying a foundation for scalable production and deployment in real-world applications.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

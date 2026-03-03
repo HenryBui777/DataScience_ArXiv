@@ -1,0 +1,24 @@
+{
+  "title": "mR$^2$AG: Multimodal Retrieval-Reflection-Augmented Generation for Knowledge-Based VQA",
+  "authors": [
+    "Tao Zhang",
+    "Ziqi Zhang",
+    "Zongyang Ma",
+    "Yuxin Chen",
+    "Zhongang Qi",
+    "Chunfeng Yuan",
+    "Bing Li",
+    "Junfu Pu",
+    "Yuxuan Zhao",
+    "Zehua Xie",
+    "Jin Ma",
+    "Ying Shan",
+    "Weiming Hu"
+  ],
+  "summary": "Advanced Multimodal Large Language Models (MLLMs) struggle with recent Knowledge-based VQA tasks, such as INFOSEEK and Encyclopedic-VQA, due to their limited and frozen knowledge scope, often leading to ambiguous and inaccurate responses. Thus, multimodal Retrieval-Augmented Generation (mRAG) is naturally introduced to provide MLLMs with comprehensive and up-to-date knowledge, effectively expanding the knowledge scope. However, current mRAG methods have inherent drawbacks, including: 1) Performing retrieval even when external knowledge is not needed. 2) Lacking of identification of evidence that supports the query. 3) Increasing model complexity due to additional information filtering modules or rules. To address these shortcomings, we propose a novel generalized framework called \\textbf{m}ultimodal \\textbf{R}etrieval-\\textbf{R}eflection-\\textbf{A}ugmented \\textbf{G}eneration (mR$^2$AG), which achieves adaptive retrieval and useful information localization to enable answers through two easy-to-implement reflection operations, preventing high model complexity. In mR$^2$AG, Retrieval-Reflection is designed to distinguish different user queries and avoids redundant retrieval calls, and Relevance-Reflection is introduced to guide the MLLM in locating beneficial evidence of the retrieved content and generating answers accordingly. In addition, mR$^2$AG can be integrated into any well-trained MLLM with efficient fine-tuning on the proposed mR$^2$AG Instruction-Tuning dataset (mR$^2$AG-IT). mR$^2$AG significantly outperforms state-of-the-art MLLMs (e.g., GPT-4v/o) and RAG-based MLLMs on INFOSEEK and Encyclopedic-VQA, while maintaining the exceptional capabilities of base MLLMs across a wide range of Visual-dependent tasks.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AI, cs.CL"
+}

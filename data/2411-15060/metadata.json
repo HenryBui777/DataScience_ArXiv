@@ -1,0 +1,14 @@
+{
+  "title": "Detecting Hallucinations in Virtual Histology with Neural Precursors",
+  "authors": [
+    "Ji-Hun Oh",
+    "Kianoush Falahkheirkhah",
+    "Rohit Bhargava"
+  ],
+  "summary": "Significant biomedical research and clinical care rely on the histopathologic examination of tissue structure using microscopy of stained tissue. Virtual staining (VS) offers a promising alternative with the potential to reduce cost and eliminate the use of toxic reagents. However, the critical challenge of hallucinations limits confidence in its use, necessitating a VS co-pilot to detect these hallucinations. Here, we first formally establish the problem of hallucination detection in VS. Next, we introduce a scalable, post-hoc hallucination detection method that identifies a Neural Hallucination Precursor (NHP) from VS model embeddings for test-time detection. We report extensive validation across diverse and challenging VS settings to demonstrate NHP's effectiveness and robustness. Furthermore, we show that VS models with fewer hallucinations do not necessarily disclose them better, risking a false sense of security when reporting just the former metric. This highlights the need for a reassessment of current VS evaluation practices.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.CV, cs.LG"
+}

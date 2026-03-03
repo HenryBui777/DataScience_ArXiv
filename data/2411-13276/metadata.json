@@ -1,0 +1,18 @@
+{
+  "title": "Analysis and Synthesis Denoisers for Forward-Backward Plug-and-Play Algorithms",
+  "authors": [
+    "Matthieu Kowalski",
+    "Benoît Malézieux",
+    "Thomas Moreau",
+    "Audrey Repetti"
+  ],
+  "summary": "In this work we study the behavior of the forward-backward (FB) algorithm when the proximity operator is replaced by a sub-iterative procedure to approximate a Gaussian denoiser, in a Plug-and-Play (PnP) fashion. In particular, we consider both analysis and synthesis Gaussian denoisers within a dictionary framework, obtained by unrolling dual-FB iterations or FB iterations, respectively. We analyze the associated minimization problems as well as the asymptotic behavior of the resulting FB-PnP iterations. In particular, we show that the synthesis Gaussian denoising problem can be viewed as a proximity operator. For each case, analysis and synthesis, we show that the FB-PnP algorithms solve the same problem whether we use only one or an infinite number of sub-iteration to solve the denoising problem at each iteration. To this aim, we show that each \"one sub-iteration\" strategy within the FB-PnP can be interpreted as a primal-dual algorithm when a warm-restart strategy is used. We further present similar results when using a Moreau-Yosida smoothing of the global problem, for an arbitrary number of sub-iterations. Finally, we provide numerical simulations to illustrate our theoretical results. In particular we first consider a toy compressive sensing example, as well as an image restoration problem in a deep dictionary framework.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-12-11",
+    "2025-08-27"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC, cs.CV, eess.IV, eess.SP"
+}

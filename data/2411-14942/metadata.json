@@ -1,0 +1,15 @@
+{
+  "title": "Comparative Study of Neural Network Methods for Solving Topological Solitons",
+  "authors": [
+    "Koji Hashimoto",
+    "Koshiro Matsuo",
+    "Masaki Murata",
+    "Gakuto Ogiwara"
+  ],
+  "summary": "Topological solitons, which are stable, localized solutions of nonlinear differential equations, are crucial in various fields of physics and mathematics, including particle physics and cosmology. However, solving these solitons presents significant challenges due to the complexity of the underlying equations and the computational resources required for accurate solutions. To address this, we have developed a novel method using neural network (NN) to efficiently solve solitons. A similar NN approach is Physics-Informed Neural Networks (PINN). In a comparative analysis between our method and PINN, we find that our method achieves shorter computation times while maintaining the same level of accuracy. This advancement in computational efficiency not only overcomes current limitations but also opens new avenues for studying topological solitons and their dynamical behavior.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "hep-th, cs.AI, cs.LG"
+}

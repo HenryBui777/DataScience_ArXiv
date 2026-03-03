@@ -1,0 +1,17 @@
+{
+  "title": "ResLearn: Transformer-based Residual Learning for Metaverse Network Traffic Prediction",
+  "authors": [
+    "Yoga Suhas Kuruba Manjunath",
+    "Mathew Szymanowski",
+    "Austin Wissborn",
+    "Mushu Li",
+    "Lian Zhao",
+    "Xiao-Ping Zhang"
+  ],
+  "summary": "Our work proposes a comprehensive solution for predicting Metaverse network traffic, addressing the growing demand for intelligent resource management in eXtended Reality (XR) services. We first introduce a state-of-the-art testbed capturing a real-world dataset of virtual reality (VR), augmented reality (AR), and mixed reality (MR) traffic, made openly available for further research. To enhance prediction accuracy, we then propose a novel view-frame (VF) algorithm that accurately identifies video frames from traffic while ensuring privacy compliance, and we develop a Transformer-based progressive error-learning algorithm, referred to as ResLearn for Metaverse traffic prediction. ResLearn significantly improves time-series predictions by using fully connected neural networks to reduce errors, particularly during peak traffic, outperforming prior work by 99%. Our contributions offer Internet service providers (ISPs) robust tools for real-time network management to satisfy Quality of Service (QoS) and enhance user experience in the Metaverse.",
+  "submission_date": "2024-11-07",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AI, eess.SP"
+}

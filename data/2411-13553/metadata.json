@@ -1,0 +1,20 @@
+{
+  "title": "AI-generated Image Detection: Passive or Watermark?",
+  "authors": [
+    "Moyang Guo",
+    "Yuepeng Hu",
+    "Zhengyuan Jiang",
+    "Zeyu Li",
+    "Amir Sadovnik",
+    "Arka Daw",
+    "Neil Gong"
+  ],
+  "summary": "While text-to-image models offer numerous benefits, they also pose significant societal risks. Detecting AI-generated images is crucial for mitigating these risks. Detection methods can be broadly categorized into passive and watermark-based approaches: passive detectors rely on artifacts present in AI-generated images, whereas watermark-based detectors proactively embed watermarks into such images. A key question is which type of detector performs better in terms of effectiveness, robustness, and efficiency. However, the current literature lacks a comprehensive understanding of this issue. In this work, we aim to bridge that gap by developing ImageDetectBench, the first comprehensive benchmark to compare the effectiveness, robustness, and efficiency of passive and watermark-based detectors. Our benchmark includes four datasets, each containing a mix of AI-generated and non-AI-generated images. We evaluate five passive detectors and four watermark-based detectors against eight types of common perturbations and three types of adversarial perturbations. Our benchmark results reveal several interesting findings. For instance, watermark-based detectors consistently outperform passive detectors, both in the presence and absence of perturbations. Based on these insights, we provide recommendations for detecting AI-generated images, e.g., when both types of detectors are applicable, watermark-based detectors should be the preferred choice. Our code and data are publicly available at https://github.com/moyangkuo/ImageDetectBench.git.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-01-09"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR, cs.CV, cs.LG"
+}

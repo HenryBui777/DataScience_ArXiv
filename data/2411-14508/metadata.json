@@ -1,0 +1,18 @@
+{
+  "title": "Multi-objective Bayesian Optimisation of Spinodoid Cellular Structures for Crush Energy Absorption",
+  "authors": [
+    "Hirak Kansara",
+    "Siamak F. Khosroshahi",
+    "Leo Guo",
+    "Miguel A. Bessa",
+    "Wei Tan"
+  ],
+  "summary": "In the pursuit of designing safer and more efficient energy-absorbing structures, engineers must tackle the challenge of improving crush performance while balancing multiple conflicting objectives, such as maximising energy absorption and minimising peak impact forces. Accurately simulating real-world conditions necessitates the use of complex material models to replicate the non-linear behaviour of materials under impact, which comes at a significant computational cost. This study addresses these challenges by introducing a multi-objective Bayesian optimisation framework specifically developed to optimise spinodoid structures for crush energy absorption. Spinodoid structures, characterised by their scalable, non-periodic topologies and efficient stress distribution, offer a promising direction for advanced structural design. However, optimising design parameters to enhance crush performance is far from straightforward, particularly under realistic conditions. Conventional optimisation methods, although effective, often require a large number of costly simulations to identify suitable solutions, making the process both time-consuming and resource intensive. In this context, multi-objective Bayesian optimisation provides a clear advantage by intelligently navigating the design space, learning from each evaluation to reduce the number of simulations required, and efficiently addressing the complexities of non-linear material behaviour. By integrating finite element analysis with Bayesian optimisation, the framework developed in this study tackles the dual challenge of improving energy absorption and reducing peak force, particularly in scenarios where plastic deformation plays a critical role. The use of scalarisation and hypervolume-based techniques enables the identification of Pareto-optimal solutions, balancing these conflicting objectives.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-02-24"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cond-mat.mtrl-sci, cs.CE"
+}

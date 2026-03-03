@@ -1,0 +1,17 @@
+{
+  "title": "Retinal Vessel Segmentation via Neuron Programming",
+  "authors": [
+    "Tingting Wu",
+    "Ruyi Min",
+    "Peixuan Song",
+    "Hengtao Guo",
+    "Tieyong Zeng",
+    "Feng-Lei Fan"
+  ],
+  "summary": "The accurate segmentation of retinal blood vessels plays a crucial role in the early diagnosis and treatment of various ophthalmic diseases. Designing a network model for this task requires meticulous tuning and extensive experimentation to handle the tiny and intertwined morphology of retinal blood vessels. To tackle this challenge, Neural Architecture Search (NAS) methods are developed to fully explore the space of potential network architectures and go after the most powerful one. Inspired by neuronal diversity which is the biological foundation of all kinds of intelligent behaviors in our brain, this paper introduces a novel and foundational approach to neural network design, termed ``neuron programming'', to automatically search neuronal types into a network to enhance a network's representation ability at the neuronal level, which is complementary to architecture-level enhancement done by NAS. Additionally, to mitigate the time and computational intensity of neuron programming, we develop a hypernetwork that leverages the search-derived architectural information to predict optimal neuronal configurations. Comprehensive experiments validate that neuron programming can achieve competitive performance in retinal blood segmentation, demonstrating the strong potential of neuronal diversity in medical image analysis.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.CV"
+}

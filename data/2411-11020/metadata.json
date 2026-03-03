@@ -1,0 +1,17 @@
+{
+  "title": "Training a Label-Noise-Resistant GNN with Reduced Complexity",
+  "authors": [
+    "Rui Zhao",
+    "Bin Shi",
+    "Zhiming Liang",
+    "Jianfei Ruan",
+    "Bo Dong",
+    "Lu Lin"
+  ],
+  "summary": "Graph Neural Networks (GNNs) have been widely employed for semi-supervised node classification tasks on graphs. However, the performance of GNNs is significantly affected by label noise, that is, a small amount of incorrectly labeled nodes can substantially misguide model training. Mainstream solutions define node classification with label noise (NCLN) as a reliable labeling task, often introducing node similarity with quadratic computational complexity to more accurately assess label reliability. To this end, in this paper, we introduce the Label Ensemble Graph Neural Network (LEGNN), a lower complexity method for robust GNNs training against label noise. LEGNN reframes NCLN as a label ensemble task, gathering informative multiple labels instead of constructing a single reliable label, avoiding high-complexity computations for reliability assessment. Specifically, LEGNN conducts a two-step process: bootstrapping neighboring contexts and robust learning with gathered multiple labels. In the former step, we apply random neighbor masks for each node and gather the predicted labels as a high-probability label set. This mitigates the impact of inaccurately labeled neighbors and diversifies the label set. In the latter step, we utilize a partial label learning based strategy to aggregate the high-probability label information for model training. Additionally, we symmetrically gather a low-probability label set to counteract potential noise from the bootstrapped high-probability label set. Extensive experiments on six datasets demonstrate that LEGNN achieves outstanding performance while ensuring efficiency. Moreover, it exhibits good scalability on dataset with over one hundred thousand nodes and one million edges.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.SI"
+}

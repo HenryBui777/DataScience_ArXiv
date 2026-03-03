@@ -1,0 +1,18 @@
+{
+  "title": "Credible-interval-based adaptive Bayesian quantum frequency estimation for entanglement-enhanced atomic clocks",
+  "authors": [
+    "Jungeng Zhou",
+    "Jiahao Huang",
+    "Jinye Wei",
+    "Chengyin Han",
+    "Chaohong Lee"
+  ],
+  "summary": "Entanglement-enhanced quantum sensors encounter a fundamental trade-off: while entanglement improves precision to the Heisenberg limit, it restricts dynamic range. To address this trade-off, we present a credible-interval-based adaptive Bayesian quantum frequency estimation protocol for Greenberger-Horne-Zeilinger (GHZ)-state-based atomic clocks. Our method optimally integrates prior knowledge with new measurements and determines the interrogation time by correlating it with the period of the likelihood function, based on Bayesian credible intervals. Our protocol can be implemented using either individual or cascaded GHZ states, thereby extending the dynamic range without compromising Heisenberg-limited sensitivity. In parallel with the cascaded-GHZ-state protocol using fixed interrogation times, the dynamic range can be extended through an interferometry sequence that employs individual GHZ states with variable interrogation times. Furthermore, by varying the interrogation times, the dynamic range of the cascaded-GHZ-state protocol can be further extended. Crucially, our protocol enables dual Heisenberg-limited precision scaling $\\propto 1/(Nt)$ in both particle number $N$ and total interrogation time $t$, surpassing the hybrid scaling $\\propto 1/{(N\\sqrt {t}})$ of the conventional cascaded-GHZ-state protocol. While offering a wider dynamic range, the protocol is more stable against noise and more robust to dephasing than existing adaptive schemes. Beyond atomic clocks, our approach establishes a general framework for developing entanglement-enhanced quantum sensors that simultaneously achieve both high precision and broad dynamic range.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-11-05"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, physics.atom-ph"
+}

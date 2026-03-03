@@ -1,0 +1,25 @@
+{
+  "title": "Human-Robot Dialogue Annotation for Multi-Modal Common Ground",
+  "authors": [
+    "Claire Bonial",
+    "Stephanie M. Lukin",
+    "Mitchell Abrams",
+    "Anthony Baker",
+    "Lucia Donatelli",
+    "Ashley Foots",
+    "Cory J. Hayes",
+    "Cassidy Henry",
+    "Taylor Hudson",
+    "Matthew Marge",
+    "Kimberly A. Pollard",
+    "Ron Artstein",
+    "David Traum",
+    "Clare R. Voss"
+  ],
+  "summary": "In this paper, we describe the development of symbolic representations annotated on human-robot dialogue data to make dimensions of meaning accessible to autonomous systems participating in collaborative, natural language dialogue, and to enable common ground with human partners. A particular challenge for establishing common ground arises in remote dialogue (occurring in disaster relief or search-and-rescue tasks), where a human and robot are engaged in a joint navigation and exploration task of an unfamiliar environment, but where the robot cannot immediately share high quality visual information due to limited communication constraints. Engaging in a dialogue provides an effective way to communicate, while on-demand or lower-quality visual information can be supplemented for establishing common ground. Within this paradigm, we capture propositional semantics and the illocutionary force of a single utterance within the dialogue through our Dialogue-AMR annotation, an augmentation of Abstract Meaning Representation. We then capture patterns in how different utterances within and across speaker floors relate to one another in our development of a multi-floor Dialogue Structure annotation schema. Finally, we begin to annotate and analyze the ways in which the visual modalities provide contextual information to the dialogue for overcoming disparities in the collaborators' understanding of the environment. We conclude by discussing the use-cases, architectures, and systems we have implemented from our annotations that enable physical robots to autonomously engage with humans in bi-directional dialogue and navigation.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "Language Resources and Evaluation 2024",
+  "pdf_url": null,
+  "category": "cs.HC, cs.CL, cs.RO"
+}

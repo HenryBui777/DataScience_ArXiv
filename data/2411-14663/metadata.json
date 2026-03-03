@@ -1,0 +1,16 @@
+{
+  "title": "BrightVAE: Luminosity Enhancement in Underexposed Endoscopic Images",
+  "authors": [
+    "Farzaneh Koohestani",
+    "Zahra Nabizadeh",
+    "Nader Karimi",
+    "Shahram Shirani",
+    "Shadrokh Samavi"
+  ],
+  "summary": "The enhancement of image luminosity is especially critical in endoscopic images. Underexposed endoscopic images often suffer from reduced contrast and uneven brightness, significantly impacting diagnostic accuracy and treatment planning. Internal body imaging is challenging due to uneven lighting and shadowy regions. Enhancing such images is essential since precise image interpretation is crucial for patient outcomes. In this paper, we introduce BrightVAE, an architecture based on the hierarchical Vector Quantized Variational Autoencoder (hierarchical VQ-VAE) tailored explicitly for enhancing luminosity in low-light endoscopic images. Our architecture is meticulously designed to tackle the unique challenges inherent in endoscopic imaging, such as significant variations in illumination and obscured details due to poor lighting conditions. The proposed model emphasizes advanced feature extraction from three distinct viewpoints-incorporating various receptive fields, skip connections, and feature attentions to robustly enhance image quality and support more accurate medical diagnoses. Through rigorous experimental analysis, we demonstrate the effectiveness of these techniques in enhancing low-light endoscopic images. To evaluate the performance of our architecture, we employ three widely recognized metrics-SSIM, PSNR, and LPIPS-specifically on Endo4IE dataset, which consists of endoscopic images. We evaluated our method using the Endo4IE dataset, which consists exclusively of endoscopic images, and showed significant advancements over the state-of-the-art methods for enhancing luminosity in endoscopic imaging.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.CV"
+}

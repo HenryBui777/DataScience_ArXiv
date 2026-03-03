@@ -1,0 +1,14 @@
+{
+  "title": "Forecasting the risk of software choices: A model to foretell security vulnerabilities from library dependencies and source code evolution",
+  "authors": [
+    "Carlos E. Budde",
+    "Ranindya Paramitha",
+    "Fabio Massacci"
+  ],
+  "summary": "Software security mainly studies vulnerability detection: is my code vulnerable today? This hinders risk estimation, so new approaches are emerging to forecast the occurrence of future vulnerabilities. While useful, these approaches are coarse-grained and hard to employ for project-specific technical decisions. We introduce a model capable of vulnerability forecasting at library level. Formalising source-code evolution in time together with library dependency, our model can estimate the probability that a software project faces a CVE disclosure in a future time window. Our approach is white-box and lightweight, which we demonstrate via experiments involving 1255 CVEs and 768 Java libraries, made public as an open-source artifact. Besides probabilities estimation, e.g. to plan software updates, this formal model can be used to detect security-sensitive points in a project, or measure the health of a development ecosystem.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SE, cs.CR, cs.ET"
+}

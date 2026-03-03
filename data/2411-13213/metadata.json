@@ -1,0 +1,14 @@
+{
+  "title": "Identification of Black-Box Inverter-Based Resource Control Using Hammerstein-Wiener Models",
+  "authors": [
+    "Aldin Dželo",
+    "Amer Mešanović",
+    "Mirsad Cosovic"
+  ],
+  "summary": "The development of more complex inverter-based resources (IBRs) control is becoming essential as a result of the growing share of renewable energy sources in power systems. Given the diverse range of control schemes, grid operators are typically provided with black-box models of IBRs from various equipment manufacturers. As such, they are integrated into simulation models of the entire power system for analysis, and due to their nature, they can only be simulated in the time domain. Other system analysis approaches, like eigenvalue analysis, cannot be applied, making the comprehensive analysis of defined systems more challenging. This work introduces an approach for identification of three-phase IBR models for grid-forming and grid-following inverters using Hammerstein-Wiener models. To this end, we define a simulation framework for the identification process, and select suitable evaluation metrics for the results. Finally, we evaluate the approach on generic grid-forming and grid-following inverter models showing good identification results.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

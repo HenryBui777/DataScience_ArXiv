@@ -1,0 +1,13 @@
+{
+  "title": "An Eulerian approach to regularized JKO scheme with low-rank tensor decompositions for Bayesian inversion",
+  "authors": [
+    "Vitalii Aksenov",
+    "Martin Eigel"
+  ],
+  "summary": "The possibility of using the Eulerian discretization for the problem of modelling high-dimensional distributions and sampling, is studied. The problem is posed as a minimization problem over the space of probability measures with respect to the Wasserstein distance and solved with entropy-regularized JKO scheme. Each proximal step can be formulated as a fixed-point equation and solved with accelerated methods, such as Anderson's. The usage of low-rank Tensor Train format allows to overcome the \\emph{curse of dimensionality}, i.e. the exponential growth of degrees of freedom with dimension, inherent to Eulerian approaches. The resulting method requires only pointwise computations of the unnormalized posterior and is, in particular, gradient-free. Fixed Eulerian grid allows to employ a caching strategy, significally reducing the expensive evaluations of the posterior. When the Eulerian model of the target distribution is fitted, the passage back to the Lagrangian perspective can also be made, allowing to approximately sample from it. We test our method both for synthetic target distributions and particular Bayesian inverse problems and report comparable or better performance than the baseline Metropolis-Hastings MCMC with same amount of resources. Finally, the fitted model can be modified to facilitate the solution of certain associated problems, which we demonstrate by fitting an importance distribution for a particular quantity of interest.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA, math.OC"
+}

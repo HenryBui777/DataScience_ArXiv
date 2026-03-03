@@ -1,0 +1,16 @@
+{
+  "title": "Segmenting Action-Value Functions Over Time-Scales in SARSA via TD($Δ$)",
+  "authors": [
+    "Mahammad Humayoo"
+  ],
+  "summary": "In numerous episodic reinforcement learning (RL) environments, SARSA-based methodologies are employed to enhance policies aimed at maximizing returns over long horizons. Traditional SARSA algorithms face challenges in achieving an optimal balance between bias and variation, primarily due to their dependence on a single, constant discount factor ($η$). This investigation enhances the temporal difference decomposition method, TD($Δ$), by applying it to the SARSA algorithm, now designated as SARSA($Δ$). SARSA is a widely used on-policy RL method that enhances action-value functions via temporal difference updates. By splitting the action-value function down into components that are linked to specific discount factors, SARSA($Δ$) makes learning easier across a range of time scales. This analysis makes learning more effective and ensures consistency, particularly in situations where long-horizon improvement is needed. The results of this research show that the suggested strategy works to lower bias in SARSA's updates and speed up convergence in both deterministic and stochastic settings, even in dense reward Atari environments. Experimental results from a variety of benchmark settings show that the proposed SARSA($Δ$) outperforms existing TD learning techniques in both tabular and deep RL environments.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-01-04",
+    "2025-08-16",
+    "2025-09-04"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "ripALM: A Relative-Type Inexact Proximal Augmented Lagrangian Method for Linearly Constrained Convex Optimization",
+  "authors": [
+    "Jiayi Zhu",
+    "Ling Liang",
+    "Lei Yang",
+    "Kim-Chuan Toh"
+  ],
+  "summary": "Inexact proximal augmented Lagrangian methods (pALMs) are particularly appealing for tackling convex constrained optimization problems because of their elegant convergence properties and strong practical performance. To solve the associated pALM subproblems, efficient methods such as Newton-type methods are essential. Consequently, the effectiveness of the inexact pALM hinges on the error criteria used to control the inexactness when solving these subproblems. However, existing inexact pALMs either rely on \\textit{absolute-type} error criteria (which may complicate implementation by necessitating the pre-specification of an infinite sequence of error tolerance parameters) or require an additional correction step to guarantee convergence when using \\textit{relative-type} error criteria (which can potentially degrade the practical performance of pALM). To address these deficiencies, this paper proposes ripALM, a relative-type inexact pALM, for linearly constrained convex optimization. This method can simplify practical implementation while preserving the appealing convergence properties of the classical absolute-type inexact pALM. To the best of our knowledge, ripALM is the first relative-type inexact version of the vanilla pALM with provable convergence guarantees. Numerical experiments on quadratically regularized optimal transport problems and basis pursuit denoising problems demonstrate the competitive efficiency of the proposed method compared to existing state-of-the-art methods. As our model encompasses a wide range of application problems, the proposed ripALM offers broad applicability and has the potential to serve as a basic optimization toolbox.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-10-30"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC"
+}

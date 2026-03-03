@@ -1,0 +1,15 @@
+{
+  "title": "On large Sidon sets",
+  "authors": [
+    "Ingo Czerwinski",
+    "Alexander Pott"
+  ],
+  "summary": "A Sidon set $M$ is a subset of $\\mathbb{F}_2^t$ such that the sum of four distinct elements of $M$ is never 0. The goal is to find Sidon sets of large size. In this note we show that the graphs of almost perfect nonlinear (APN) functions with high linearity can be used to construct large Sidon sets. Thanks to recently constructed APN functions $\\mathbb{F}_2^8\\to \\mathbb{F}_2^8$ with high linearity, we can construct Sidon sets of size 192 in $\\mathbb{F}_2^{15}$, where the largest sets so far had size 152. Using the inverse and the Dobbertin function also gives larger Sidon sets as previously known. Each of the new large Sidon sets $M$ in $\\mathbb{F}_2^t$ yields a binary linear code with $t$ check bits, minimum distance 5, and a length not known so far. Moreover, we improve the upper bound for the linearity of arbitrary APN functions.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-12-05"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.CO, cs.IT"
+}

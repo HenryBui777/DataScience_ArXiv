@@ -1,0 +1,13 @@
+{
+  "title": "Postselection in lattice bosons undergoing continuous measurements",
+  "authors": [
+    "Diego Barberena",
+    "Matthew P. A. Fisher"
+  ],
+  "summary": "We study in detail the postselection problem in a specific model: bosons hopping on a lattice subjected to continuous local measurements of quadrature observables. We solve the model analytically and show that the postselection overhead can be reduced by postprocessing the entire measurement record into one or two numbers for each trajectory and then postselecting based only on these numbers. We then provide a step-by-step protocol designed to recover connected two-point functions of the quantum trajectories, which display an exponentially decaying profile that is not observable in the unconditional, trajectory averaged, state. With the analytical solution in hand, we analyse the features of this postprocessing stage with the intention of abstracting away the properties that make postselection feasible in this model and may help in mitigating postselection in more general settings. We also test the protocol numerically in a way that utilizes only experimentally accessible information, showing that various quantum trajectory observables can be recovered with a few repetitions of the numerical experiment, even after including inevitable coarse-graining procedures expected under realistic experimental conditions. Furthermore, all the information required to design the postprocessing stage is independently present both in the unconditional dynamics and also in the measurement record, thus bypassing the need to solve for the conditional evolution of the model. We finalize by providing experimental implementations of these models in cavity-QED and circuit-QED.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, cond-mat.stat-mech"
+}

@@ -1,0 +1,460 @@
+{
+  "2404-01722": {
+    "title": "Sentence-level Media Bias Analysis with Event Relation Graph",
+    "authors": [
+      "Yuanyuan Lei",
+      "Ruihong Huang"
+    ],
+    "publication_date": "2024-04-02",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "d6e189ff02b44e9e9e722a4db75cbd6b63804c4b",
+    "corpus_id": 268856486,
+    "category": "Computer Science"
+  },
+  "2403-07910": {
+    "title": "MAGPIE: Multi-Task Analysis of Media-Bias Generalization with Pre-Trained Identification of Expressions",
+    "authors": [
+      "Tom'avs Horych",
+      "Martin Wessel",
+      "Jan Philip Wahle",
+      "Terry Ruas",
+      "Jerome Waßmuth",
+      "André Greiner-Petter",
+      "Akiko Aizawa",
+      "Bela Gipp",
+      "Timo Spinde"
+    ],
+    "publication_date": "2024-02-27",
+    "venue": "International Conference on Language Resources and Evaluation",
+    "semantic_scholar_id": "eed651fccf53b1ba5f93a8aeb819808b1c1720ed",
+    "corpus_id": 268379279,
+    "category": "Computer Science"
+  },
+  "2402-00345": {
+    "title": "IndiVec: An Exploration of Leveraging Large Language Models for Media Bias Detection with Fine-Grained Bias Indicators",
+    "authors": [
+      "Luyang Lin",
+      "Lingzhi Wang",
+      "Xiaoyan Zhao",
+      "Jing Li",
+      "Kam-Fai Wong"
+    ],
+    "publication_date": "2024-02-01",
+    "venue": "Findings",
+    "semantic_scholar_id": "8a36bde6c15a2dc06079a0fb41a4be35be4ef51b",
+    "corpus_id": 267365176,
+    "category": "Computer Science"
+  },
+  "2312-16148": {
+    "title": "The Media Bias Taxonomy: A Systematic Literature Review on the Forms and Automated Detection of Media Bias",
+    "authors": [
+      "Timo Spinde",
+      "Smilla Hinterreiter",
+      "Fabian Haak",
+      "Terry Ruas",
+      "Helge Giese",
+      "Norman Meuschke",
+      "Bela Gipp"
+    ],
+    "publication_date": "2023-12-26",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "1f6fbad11249905de2c1f3683c5471d958435865",
+    "corpus_id": 266551037,
+    "category": "Computer Science"
+  },
+  "2310-16944": {
+    "title": "Zephyr: Direct Distillation of LM Alignment",
+    "authors": [
+      "Lewis Tunstall",
+      "Edward Beeching",
+      "Nathan Lambert",
+      "Nazneen Rajani",
+      "Kashif Rasul",
+      "Younes Belkada",
+      "Shengyi Huang",
+      "L. V. Werra",
+      "Clémentine Fourrier",
+      "Nathan Habib",
+      "Nathan Sarrazin",
+      "Omar Sanseviero",
+      "Alexander M. Rush",
+      "Thomas Wolf"
+    ],
+    "publication_date": "2023-10-25",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "cdcf3f36866ef1e16eba26d57c2324362247ba84",
+    "corpus_id": 264490502,
+    "category": "Computer Science"
+  },
+  "2309-11235": {
+    "title": "OpenChat: Advancing Open-source Language Models with Mixed-Quality Data",
+    "authors": [
+      "Guan Wang",
+      "Sijie Cheng",
+      "Xianyuan Zhan",
+      "Xiangang Li",
+      "Sen Song",
+      "Yang Liu"
+    ],
+    "publication_date": "2023-09-20",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "29f032fc875576b5c3c6b1c2d76af8639bacfb88",
+    "corpus_id": 262064307,
+    "category": "Computer Science"
+  },
+  "2305-14264": {
+    "title": "Active Learning Principles for In-Context Learning with Large Language Models",
+    "authors": [
+      "Katerina Margatina",
+      "Timo Schick",
+      "Nikolaos Aletras",
+      "Jane Dwivedi-Yu"
+    ],
+    "publication_date": "2023-05-23",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "91c37a88c2b320725057260677ae79f3cdaa492b",
+    "corpus_id": 258841313,
+    "category": "Computer Science"
+  },
+  "2305-01633": {
+    "title": "Missing Information, Unresponsive Authors, Experimental Flaws: The Impossibility of Assessing the Reproducibility of Previous Human Evaluations in NLP",
+    "authors": [
+      "Anya Belz",
+      "Craig Thomson",
+      "Ehud Reiter",
+      "Gavin Abercrombie",
+      "J. Alonso-Moral",
+      "Mohammad Arvan",
+      "J. Cheung",
+      "Mark Cieliebak",
+      "Elizabeth Clark",
+      "K. V. Deemter",
+      "Tanvi Dinkar",
+      "Ondrej Dusek",
+      "Steffen Eger",
+      "Qixiang Fang",
+      "Albert Gatt",
+      "Dimitra Gkatzia",
+      "Javier Gonz'alez-Corbelle",
+      "Dirk Hovy",
+      "Manuela Hurlimann",
+      "Takumi Ito",
+      "John D. Kelleher",
+      "Filip Klubicka",
+      "Huiyuan Lai",
+      "Chris van der Lee",
+      "Emiel van Miltenburg",
+      "Yiru Li",
+      "Saad Mahamood",
+      "Margot Mieskes",
+      "M. Nissim",
+      "Natalie Parde",
+      "Ondvrej Pl'atek",
+      "Verena Rieser",
+      "Pablo Romero",
+      "Joel R. Tetreault",
+      "Antonio Toral",
+      "Xiao-Yi Wan",
+      "L. Wanner",
+      "Lewis J. Watson",
+      "Diyi Yang"
+    ],
+    "publication_date": "2023-05-02",
+    "venue": "First Workshop on Insights from Negative Results in NLP",
+    "semantic_scholar_id": "4fcfe83c05402b5c5fb6e853082e74af6379d7f9",
+    "corpus_id": 258437266,
+    "category": "Computer Science"
+  },
+  "2304-13148": {
+    "title": "Introducing MBIB - The First Media Bias Identification Benchmark Task and Dataset Collection",
+    "authors": [
+      "M. Wessel",
+      "Tom'avs Horych",
+      "Terry Ruas",
+      "Akiko Aizawa",
+      "Bela Gipp",
+      "Timo Spinde"
+    ],
+    "publication_date": "2023-04-25",
+    "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+    "semantic_scholar_id": "9e13410ffb42f11eba304c49189342ec47037bb1",
+    "corpus_id": 258331925,
+    "category": "Computer Science"
+  },
+  "2303-16854": {
+    "title": "AnnoLLM: Making Large Language Models to Be Better Crowdsourced Annotators",
+    "authors": [
+      "Xingwei He",
+      "Zheng-Wen Lin",
+      "Yeyun Gong",
+      "Alex Jin",
+      "Hang Zhang",
+      "Chen Lin",
+      "Jian Jiao",
+      "S. Yiu",
+      "Nan Duan",
+      "Weizhu Chen"
+    ],
+    "publication_date": "2023-03-29",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "70da4fb798a86cbe8cad96c27ced0415885bbd9d",
+    "corpus_id": 257805087,
+    "category": "Computer Science"
+  },
+  "2303-15056": {
+    "title": "ChatGPT outperforms crowd workers for text-annotation tasks",
+    "authors": [
+      "F. Gilardi",
+      "Meysam Alizadeh",
+      "M. Kubli"
+    ],
+    "publication_date": "2023-03-27",
+    "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+    "semantic_scholar_id": "a9e155fda1d97baa2b8712f580cc61887cc64e9b",
+    "corpus_id": 257766307,
+    "category": "Computer Science, Medicine"
+  },
+  "2302-07736": {
+    "title": "Is ChatGPT better than Human Annotators? Potential and Limitations of ChatGPT in Explaining Implicit Hate Speech",
+    "authors": [
+      "Fan Huang",
+      "Haewoon Kwak",
+      "Jisun An"
+    ],
+    "publication_date": "2023-02-11",
+    "venue": "The Web Conference",
+    "semantic_scholar_id": "7cfb88ee7babd5cd717c525f8b642776c47c59cd",
+    "corpus_id": 256868854,
+    "category": "Computer Science"
+  },
+  "2211-03491": {
+    "title": "Exploiting Transformer-Based Multitask Learning for the Detection of Media Bias in News Articles",
+    "authors": [
+      "Timo Spinde",
+      "Jan-David Krieger",
+      "Terry Ruas",
+      "Jelena Mitrović",
+      "Franz Götz-Hahn",
+      "Akiko Aizawa",
+      "Bela Gipp"
+    ],
+    "publication_date": "2022-11-07",
+    "venue": "iConference",
+    "semantic_scholar_id": "624b3420a8bf55629590eee02abe2f9d861e9493",
+    "corpus_id": 247075509,
+    "category": "Computer Science"
+  },
+  "2210-11416": {
+    "title": "Scaling Instruction-Finetuned Language Models",
+    "authors": [
+      "Hyung Won Chung",
+      "Le Hou",
+      "S. Longpre",
+      "Barret Zoph",
+      "Yi Tay",
+      "W. Fedus",
+      "Eric Li",
+      "Xuezhi Wang",
+      "Mostafa Dehghani",
+      "Siddhartha Brahma",
+      "Albert Webson",
+      "S. Gu",
+      "Zhuyun Dai",
+      "Mirac Suzgun",
+      "Xinyun Chen",
+      "A. Chowdhery",
+      "Dasha Valter",
+      "Sharan Narang",
+      "Gaurav Mishra",
+      "Adams Wei Yu",
+      "Vincent Zhao",
+      "Yanping Huang",
+      "Andrew M. Dai",
+      "Hongkun Yu",
+      "Slav Petrov",
+      "Ed H. Chi",
+      "J. Dean",
+      "Jacob Devlin",
+      "Adam Roberts",
+      "Denny Zhou",
+      "Quoc V. Le",
+      "Jason Wei"
+    ],
+    "publication_date": "2022-10-20",
+    "venue": "Journal of machine learning research",
+    "semantic_scholar_id": "cdbd4f9b6ab2e2fd1ddf5400d5ed2c18960635d1",
+    "corpus_id": 253018554,
+    "category": "Computer Science"
+  },
+  "2209-14557": {
+    "title": "Neural Media Bias Detection Using Distant Supervision With BABE - Bias Annotations By Experts",
+    "authors": [
+      "Timo Spinde",
+      "Manuel Plank",
+      "Jan-David Krieger",
+      "Terry Ruas",
+      "Bela Gipp",
+      "Akiko Aizawa"
+    ],
+    "publication_date": "2022-09-29",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "e36caccdeb4d85842e46363b0938ef0235a8db6c",
+    "corpus_id": 244119684,
+    "category": "Computer Science"
+  },
+  "2205-10773": {
+    "title": "A Domain-adaptive Pre-training Approach for Language Bias Detection in News",
+    "authors": [
+      "Jan-David Krieger",
+      "Timo Spinde",
+      "Terry Ruas",
+      "Juhi Kulshrestha",
+      "Bela Gipp"
+    ],
+    "publication_date": "2022-05-22",
+    "venue": "ACM/IEEE Joint Conference on Digital Libraries",
+    "semantic_scholar_id": "4962ce1242ff905b71e199964eafea3d2ad9688d",
+    "corpus_id": 248986516,
+    "category": "Computer Science"
+  },
+  "2112-07421": {
+    "title": "Towards A Reliable Ground-Truth For Biased Language Detection",
+    "authors": [
+      "Timo Spinde"
+    ],
+    "publication_date": "2021-09-01",
+    "venue": "ACM/IEEE Joint Conference on Digital Libraries",
+    "semantic_scholar_id": "908e3958cf3ef3baa63aba0c52a1e3897fcd5e6a",
+    "corpus_id": 236427155,
+    "category": "Computer Science"
+  },
+  "2112-07392": {
+    "title": "Do You Think It's Biased? How To Ask For The Perception Of Media Bias",
+    "authors": [
+      "Timo Spinde",
+      "C. Kreuter",
+      "W. Gaissmaier",
+      "Felix Hamborg",
+      "Bela Gipp",
+      "H. Giese"
+    ],
+    "publication_date": "2021-09-01",
+    "venue": "ACM/IEEE Joint Conference on Digital Libraries",
+    "semantic_scholar_id": "380c35590e2c112e620863689f481122d19e5f19",
+    "corpus_id": 245130960,
+    "category": "Computer Science"
+  },
+  "2108-04308": {
+    "title": "Do Datasets Have Politics? Disciplinary Values in Computer Vision Dataset Development",
+    "authors": [
+      "M. Scheuerman",
+      "Emily L. Denton",
+      "A. Hanna"
+    ],
+    "publication_date": "2021-08-09",
+    "venue": "Proc. ACM Hum. Comput. Interact.",
+    "semantic_scholar_id": "7cc3414b8c0791f1d5e8f82ee65cb99a7a876774",
+    "corpus_id": 236965639,
+    "category": "Computer Science"
+  },
+  "2106-13219": {
+    "title": "Towards Understanding and Mitigating Social Biases in Language Models",
+    "authors": [
+      "Paul Pu Liang",
+      "Chiyu Wu",
+      "Louis-philippe Morency",
+      "R. Salakhutdinov"
+    ],
+    "publication_date": "2021-06-24",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "114aa720872462b0ca1b97bfdec0ebd56c36fd0a",
+    "corpus_id": 235623756,
+    "category": "Computer Science"
+  },
+  "2105-11910": {
+    "title": "MBIC - A Media Bias Annotation Dataset Including Annotator Characteristics",
+    "authors": [
+      "Timo Spinde",
+      "L. Rudnitckaia",
+      "K. Sinha",
+      "Bela Gipp",
+      "Timo Spinde",
+      "L. Rudnitckaia",
+      "K. Sinha",
+      "Felix Hamborg",
+      "Bela Gipp",
+      "K. Donnay"
+    ],
+    "publication_date": "2021-05-20",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "bb55ce957aefacf775422bbff406f21d83be0545",
+    "corpus_id": 231773931,
+    "category": "Computer Science"
+  },
+  "2101-06804": {
+    "title": "What Makes Good In-Context Examples for GPT-3?",
+    "authors": [
+      "Jiachang Liu",
+      "Dinghan Shen",
+      "Yizhe Zhang",
+      "Bill Dolan",
+      "L. Carin",
+      "Weizhu Chen"
+    ],
+    "publication_date": "2021-01-17",
+    "venue": "Workshop on Knowledge Extraction and Integration for Deep Learning Architectures; Deep Learning Inside Out",
+    "semantic_scholar_id": "59641c10ed7431a3cf841f308367dc2dc0281b74",
+    "corpus_id": 231632658,
+    "category": "Computer Science"
+  },
+  "2005-04118": {
+    "title": "Beyond Accuracy: Behavioral Testing of NLP Models with CheckList",
+    "authors": [
+      "Marco Tulio Ribeiro",
+      "Tongshuang Sherry Wu",
+      "Carlos Guestrin",
+      "Sameer Singh"
+    ],
+    "publication_date": "2020-05-08",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "33ec7eb2168e37e3007d1059aa96b9a63254b4da",
+    "corpus_id": 218551201,
+    "category": "Computer Science"
+  },
+  "1910-10683": {
+    "title": "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer",
+    "authors": [
+      "Colin Raffel",
+      "Noam M. Shazeer",
+      "Adam Roberts",
+      "Katherine Lee",
+      "Sharan Narang",
+      "Michael Matena",
+      "Yanqi Zhou",
+      "Wei Li",
+      "Peter J. Liu"
+    ],
+    "publication_date": "2019-10-23",
+    "venue": "Journal of machine learning research",
+    "semantic_scholar_id": "6c4b76232bb72897685d19b3d264c6ee3005bc2b",
+    "corpus_id": 204838007,
+    "category": "Mathematics, Computer Science"
+  },
+  "1909-02670": {
+    "title": "In Plain Sight: Media Bias Through the Lens of Factual Reporting",
+    "authors": [
+      "Lisa Fan",
+      "M. White",
+      "Eva Sharma",
+      "Ruisi Su",
+      "Prafulla Kumar Choubey",
+      "Ruihong Huang",
+      "Lu Wang"
+    ],
+    "publication_date": "2019-09-05",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "8592983238261838603caf503def12d3396de710",
+    "corpus_id": 202537179,
+    "category": "Computer Science"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Drowning in Documents: Consequences of Scaling Reranker Inference",
+  "authors": [
+    "Mathew Jacob",
+    "Erik Lindgren",
+    "Matei Zaharia",
+    "Michael Carbin",
+    "Omar Khattab",
+    "Andrew Drozdov"
+  ],
+  "summary": "Rerankers, typically cross-encoders, are computationally intensive but are frequently used because they are widely assumed to outperform cheaper initial IR systems. We challenge this assumption by measuring reranker performance for full retrieval, not just re-scoring first-stage retrieval. To provide a more robust evaluation, we prioritize strong first-stage retrieval using modern dense embeddings and test rerankers on a variety of carefully chosen, challenging tasks, including internally curated datasets to avoid contamination, and out-of-domain ones. Our empirical results reveal a surprising trend: the best existing rerankers provide initial improvements when scoring progressively more documents, but their effectiveness gradually declines and can even degrade quality beyond a certain limit. We hope that our findings will spur future research to improve reranking.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-07-11"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IR, cs.CL, cs.LG"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Quantum Prometheus: Defying Overhead with Recycled Ancillas in Quantum Error Correction",
+  "authors": [
+    "Avimita Chatterjee",
+    "Archisman Ghosh",
+    "Swaroop Ghosh"
+  ],
+  "summary": "Quantum error correction (QEC) is crucial for ensuring the reliability of quantum computers. However, implementing QEC often requires a significant number of qubits, leading to substantial overhead. One of the major challenges in quantum computing is reducing this overhead, especially since QEC codes depend heavily on ancilla qubits for stabilizer measurements. In this work, we propose reducing the number of ancilla qubits by reusing the same ancilla qubits for both X- and Z-type stabilizers. This is achieved by alternating between X and Z stabilizer measurements during each half-round, cutting the number of required ancilla qubits in half. This technique can be applied broadly across various QEC codes, we focus on rotated surface codes only and achieve nearly \\(25\\%\\) reduction in total qubit overhead. We also present a few use cases where the proposed idea enables the usage of higher-distance surface codes at a relatively lesser qubit count. Our analysis shows that the modified approach enables users to achieve similar or better error correction with fewer qubits, especially for higher distances (\\(d \\geq 13\\)). Additionally, we identify conditions where the modified code allows for extended distances (\\(d + k\\)) while using the same or fewer resources as the original, offering a scalable and practical solution for quantum error correction. These findings emphasize the modified surface code's potential to optimize qubit usage in resource-constrained quantum systems.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-23"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

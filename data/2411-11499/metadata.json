@@ -1,0 +1,14 @@
+{
+  "title": "Optimizing Clustered Cell-Free Networking for Sum Ergodic Capacity Maximization with Joint Processing Constraint",
+  "authors": [
+    "Funing Xia",
+    "Junyuan Wang",
+    "Lin Dai"
+  ],
+  "summary": "Clustered cell-free networking has been considered as an effective scheme to trade off between the low complexity of current cellular networks and the superior performance of fully cooperative networks. With clustered cell-free networking, the wireless network is decomposed into a number of disjoint parallel operating subnetworks with joint processing adopted inside each subnetwork independently for intra-subnetwork interference mitigation. Different from the existing works that aim to maximize the number of subnetworks without considering the limited processing capability of base-stations (BSs), this paper investigates the clustered cell-free networking problem with the objective of maximizing the sum ergodic capacity while imposing a limit on the number of user equipments (UEs) in each subnetwork to constrain the joint processing complexity. By successfully transforming the combinatorial NP-hard clustered cell-free networking problem into an integer convex programming problem, the problem is solved by the branch-and-bound method. To further reduce the computational complexity, a bisection clustered cell-free networking (BC^2F-Net) algorithm is proposed to decompose the network hierarchically. Simulation results show that compared to the branch-and-bound based scheme, the proposed BC^2F-Net algorithm significantly reduces the computational complexity yet achieves nearly the same network decomposition result. Moreover, our BC^2F-Net algorithm achieves near-optimal performance and outperforms the state-of-the-art benchmarks with up to 25% capacity gain.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP"
+}

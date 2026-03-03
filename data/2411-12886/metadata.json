@@ -1,0 +1,14 @@
+{
+  "title": "NPGPT: Natural Product-Like Compound Generation with GPT-based Chemical Language Models",
+  "authors": [
+    "Koh Sakano",
+    "Kairi Furui",
+    "Masahito Ohue"
+  ],
+  "summary": "Natural products are substances produced by organisms in nature and often possess biological activity and structural diversity. Drug development based on natural products has been common for many years. However, the intricate structures of these compounds present challenges in terms of structure determination and synthesis, particularly compared to the efficiency of high-throughput screening of synthetic compounds. In recent years, deep learning-based methods have been applied to the generation of molecules. In this study, we trained chemical language models on a natural product dataset and generated natural product-like compounds. The results showed that the distribution of the compounds generated was similar to that of natural products. We also evaluated the effectiveness of the generated compounds as drug candidates. Our method can be used to explore the vast chemical space and reduce the time and cost of drug discovery of natural products.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-bio.BM, cs.LG, q-bio.QM, stat.ML"
+}

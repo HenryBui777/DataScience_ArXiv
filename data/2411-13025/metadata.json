@@ -1,0 +1,17 @@
+{
+  "title": "ORID: Organ-Regional Information Driven Framework for Radiology Report Generation",
+  "authors": [
+    "Tiancheng Gu",
+    "Kaicheng Yang",
+    "Xiang An",
+    "Ziyong Feng",
+    "Dongnan Liu",
+    "Weidong Cai"
+  ],
+  "summary": "The objective of Radiology Report Generation (RRG) is to automatically generate coherent textual analyses of diseases based on radiological images, thereby alleviating the workload of radiologists. Current AI-based methods for RRG primarily focus on modifications to the encoder-decoder model architecture. To advance these approaches, this paper introduces an Organ-Regional Information Driven (ORID) framework which can effectively integrate multi-modal information and reduce the influence of noise from unrelated organs. Specifically, based on the LLaVA-Med, we first construct an RRG-related instruction dataset to improve organ-regional diagnosis description ability and get the LLaVA-Med-RRG. After that, we propose an organ-based cross-modal fusion module to effectively combine the information from the organ-regional diagnosis description and radiology image. To further reduce the influence of noise from unrelated organs on the radiology report generation, we introduce an organ importance coefficient analysis module, which leverages Graph Neural Network (GNN) to examine the interconnections of the cross-modal information of each organ region. Extensive experiments an1d comparisons with state-of-the-art methods across various evaluation metrics demonstrate the superior performance of our proposed method.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

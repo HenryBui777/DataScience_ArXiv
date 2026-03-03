@@ -1,0 +1,16 @@
+{
+  "title": "Reinforcement Learning for Jointly Optimal Coding and Control Policies for a Controlled Markovian System over a Communication Channel",
+  "authors": [
+    "Evelyn Hubbard",
+    "Liam Cregg",
+    "Serdar Yüksel"
+  ],
+  "summary": "We study the problem of joint optimization involving coding and control policies for a controlled Markovian sytem over a finite-rate noiseless communication channel. While structural results on the optimal encoding and control have been obtained in the literature, their implementation has been prohibitive in general, except for linear models. We develop regularity and existence results on optimal policies. We then obtain rigorous approximation and near optimality results for jointly optimal coding and control policies. To this end, we first develop existence, regularity, and structural properties on optimal policies, followed by rigorous approximations and reinforcement learning results. Notably, we establish near optimality of finite model approximations obtained via predictor quantization as well as sliding finite window approximations, and their reinforcement learning convergence to near optimality. A detailed comparison of the approximation schemes and their reinforcement learning performance is presented.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-03-28"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC"
+}

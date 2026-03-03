@@ -1,0 +1,17 @@
+{
+  "title": "A Software Platform for Testing Multi-Link Operation in Industrial Wi-Fi Networks",
+  "authors": [
+    "Matteo Rosani",
+    "Gianluca Cena",
+    "Dave Cavalcanti",
+    "Valerio Frascolla",
+    "Guido Marchetto",
+    "Stefano Scanzio"
+  ],
+  "summary": "Multi-Link Operation (MLO) in Wi-Fi 7 is expected to tangibly boost throughput while lowering transmission latency at the same time. This is very relevant in industrial scenarios and makes MLO suitable, e.g., to support seamless device mobility. Benefits depend on the ability of multi-link devices to select at run-time the best link, among the available ones, in order to maximize both communication performance and reliability.\n  In this paper an experimental platform is proposed, with the aim of leveraging commercial hardware and open source software, and easing prototyping and evaluation of MLO techniques. The platform has been employed to analyze the transmission quality of two pairs of non-overlapping channels, and in particular to assess whether or not adequate diversity is provided, so that those channels can be exploited to improve reliability. Results point out that correlation between different links is, in most cases, limited, which makes MLO a valuable approach.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "20th IEEE International Conference on Factory Communication Systems (WFCS 2024)",
+  "pdf_url": null,
+  "category": "cs.NI"
+}

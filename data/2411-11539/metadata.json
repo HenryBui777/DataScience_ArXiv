@@ -1,0 +1,16 @@
+{
+  "title": "Channel Capacity-Aware Distributed Encoding for Multi-View Sensing and Edge Inference",
+  "authors": [
+    "Mingjie Yang",
+    "Guangming Liang",
+    "Dongzhu Liu",
+    "Lei Zhang",
+    "Kaibin Huang"
+  ],
+  "summary": "Integrated sensing and communication (ISAC) unifies wireless communication and sensing by sharing spectrum and hardware, which often incurs trade-offs between two functions due to limited resources. However, this paper shifts focus to exploring the synergy between communication and sensing, using WiFi sensing as an exemplary scenario where communication signals are repurposed to probe the environment without dedicated sensing waveforms, followed by data uploading to the edge server for inference. While increased device participation enhances multi-view sensing data, it also imposes significant communication overhead between devices and the edge server. To address this challenge, we aim to maximize the sensing task performance, measured by mutual information, under the channel capacity constraint. The information-theoretic optimization problem is solved by the proposed ADE-MI, a novel framework that employs a two-stage optimization two-stage optimization approach: (1) adaptive distributed encoding (ADE) at the device, which ensures transmitted bits are most relevant to sensing tasks, and (2) multi-view Inference (MI) at the edge server, which orchestrates multi-view data from distributed devices. Our experimental results highlight the synergy between communication and sensing, showing that more frequent communication from WiFi access points to edge devices improves sensing inference accuracy. The proposed ADE-MI achieves 92\\% recognition accuracy with over $10^4$-fold reduction in latency compared to schemes with raw data communication, achieving both high sensing inference accuracy and low communication latency simultaneously.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IT, eess.SP"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Dynamic Trajectory and Power Control in Ultra-Dense UAV Networks: A Mean-Field Reinforcement Learning Approach",
+  "authors": [
+    "Fei Song",
+    "Zhe Wang",
+    "Jun Li",
+    "Long Shi",
+    "Wen Chen",
+    "Shi Jin"
+  ],
+  "summary": "In ultra-dense unmanned aerial vehicle (UAV) networks, it is challenging to coordinate the resource allocation and interference management among large-scale UAVs, for providing flexible and efficient service coverage to the ground users (GUs). In this paper, we propose a learning-based resource allocation scheme in an ultra-dense UAV communication network, where the GUs' service demands are time-varying with unknown distributions. We formulate the non-cooperative game among multiple co-channel UAVs as a stochastic game, where each UAV jointly optimizes its trajectory, user association, and downlink power control to maximize the expectation of its locally cumulative energy efficiency under the interference and energy constraints. To cope with the scalability issue in a large-scale network, we further formulate the problem as a mean-field game (MFG), which simplifies the interactions among the UAVs into a two-player game between a representative UAV and a mean-field. We prove the existence and uniqueness of the equilibrium for the MFG, and propose a model-free mean-field reinforcement learning algorithm named maximum entropy mean-field deep Q network (ME-MFDQN) to solve the mean-field equilibrium in both fully and partially observable scenarios. The simulation results reveal that the proposed algorithm improves the energy efficiency compared with the benchmark algorithms. Moreover, the performance can be further enhanced if the GUs' service demands exhibit higher temporal correlation or if the UAVs have wider observation capabilities over their nearby GUs.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

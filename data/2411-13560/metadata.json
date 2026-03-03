@@ -1,0 +1,23 @@
+{
+  "title": "AMSnet-KG: A Netlist Dataset for LLM-based AMS Circuit Auto-Design Using Knowledge Graph RAG",
+  "authors": [
+    "Yichen Shi",
+    "Zhuofu Tao",
+    "Yuhao Gao",
+    "Tianjia Zhou",
+    "Cheng Chang",
+    "Yaxing Wang",
+    "Bingyu Chen",
+    "Genhao Zhang",
+    "Alvin Liu",
+    "Zhiping Yu",
+    "Ting-Jung Lin",
+    "Lei He"
+  ],
+  "summary": "High-performance analog and mixed-signal (AMS) circuits are mainly full-custom designed, which is time-consuming and labor-intensive. A significant portion of the effort is experience-driven, which makes the automation of AMS circuit design a formidable challenge. Large language models (LLMs) have emerged as powerful tools for Electronic Design Automation (EDA) applications, fostering advancements in the automatic design process for large-scale AMS circuits. However, the absence of high-quality datasets has led to issues such as model hallucination, which undermines the robustness of automatically generated circuit designs. To address this issue, this paper introduces AMSnet-KG, a dataset encompassing various AMS circuit schematics and netlists. We construct a knowledge graph with annotations on detailed functional and performance characteristics. Facilitated by AMSnet-KG, we propose an automated AMS circuit generation framework that utilizes the comprehensive knowledge embedded in LLMs. We first formulate a design strategy (e.g., circuit architecture using a number of circuit components) based on required specifications. Next, matched circuit components are retrieved and assembled into a complete topology, and transistor sizing is obtained through Bayesian optimization. Simulation results of the netlist are fed back to the LLM for further topology refinement, ensuring the circuit design specifications are met. We perform case studies of operational amplifier and comparator design to verify the automatic design flow from specifications to netlists with minimal human effort. The dataset used in this paper will be open-sourced upon publishing of this paper.",
+  "submission_date": "2024-11-07",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AI, cs.AR, cs.ET, eess.SP"
+}

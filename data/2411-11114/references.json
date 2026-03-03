@@ -1,0 +1,681 @@
+{
+  "2408-17003": {
+    "title": "Safety Layers in Aligned Large Language Models: The Key to LLM Security",
+    "authors": [
+      "Shen Li",
+      "Liuyi Yao",
+      "Lan Zhang",
+      "Yaliang Li"
+    ],
+    "publication_date": "2024-08-30",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "43bb364bfad4d1adf8e7abb78d9a19608ae1181f",
+    "corpus_id": 272310211,
+    "category": "Computer Science"
+  },
+  "2407-10671": {
+    "title": "Qwen2 Technical Report",
+    "authors": [
+      "An Yang",
+      "Baosong Yang",
+      "Binyuan Hui",
+      "Bo Zheng",
+      "Bowen Yu",
+      "Chang Zhou",
+      "Chengpeng Li",
+      "Chengyuan Li",
+      "Dayiheng Liu",
+      "Fei Huang",
+      "Guanting Dong",
+      "Haoran Wei",
+      "Huan Lin",
+      "Jialong Tang",
+      "Jialin Wang",
+      "Jian Yang",
+      "Jianhong Tu",
+      "Jianwei Zhang",
+      "Jianxin Ma",
+      "Jin Xu",
+      "Jingren Zhou",
+      "Jinze Bai",
+      "Jinzheng He",
+      "Junyang Lin",
+      "Kai Dang",
+      "Keming Lu",
+      "Ke-Yang Chen",
+      "Kexin Yang",
+      "Mei Li",
+      "Min Xue",
+      "Na Ni",
+      "Pei Zhang",
+      "Peng Wang",
+      "Ru Peng",
+      "Rui Men",
+      "Ruize Gao",
+      "Runji Lin",
+      "Shijie Wang",
+      "Shuai Bai",
+      "Sinan Tan",
+      "Tianhang Zhu",
+      "Tianhao Li",
+      "Tianyu Liu",
+      "Wenbin Ge",
+      "Xiaodong Deng",
+      "Xiaohuan Zhou",
+      "Xingzhang Ren",
+      "Xinyu Zhang",
+      "Xipin Wei",
+      "Xuancheng Ren",
+      "Yang Fan",
+      "Yang Yao",
+      "Yichang Zhang",
+      "Yunyang Wan",
+      "Yunfei Chu",
+      "Zeyu Cui",
+      "Zhenru Zhang",
+      "Zhi-Wei Fan"
+    ],
+    "publication_date": "2024-07-15",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "54fb839f621e3fe787437ab8ca5f37e7e4726bfe",
+    "corpus_id": 271212307,
+    "category": "Computer Science"
+  },
+  "2407-01599": {
+    "title": "JailbreakZoo: Survey, Landscapes, and Horizons in Jailbreaking Large Language and Vision-Language Models",
+    "authors": [
+      "Haibo Jin",
+      "Leyang Hu",
+      "Xinuo Li",
+      "Peiyan Zhang",
+      "Chonghan Chen",
+      "Jun Zhuang",
+      "Haohan Wang"
+    ],
+    "publication_date": "2024-06-26",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "027ac1dad95fa9f42c5e9d00a4de31214f437604",
+    "corpus_id": 270878471,
+    "category": "Computer Science"
+  },
+  "2406-14144": {
+    "title": "Towards Understanding Safety Alignment: A Mechanistic Perspective from Safety Neurons",
+    "authors": [
+      "Jianhui Chen",
+      "Xiaozhi Wang",
+      "Zijun Yao",
+      "Yushi Bai",
+      "Lei Hou",
+      "Juanzi Li"
+    ],
+    "publication_date": "2024-06-20",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "33bc46dff817e4afe6bc2c11bc808478b5207847",
+    "corpus_id": 270620579,
+    "category": "Computer Science"
+  },
+  "2406-10794": {
+    "title": "Towards Understanding Jailbreak Attacks in LLMs: A Representation Space Analysis",
+    "authors": [
+      "Yuping Lin",
+      "Pengfei He",
+      "Han Xu",
+      "Yue Xing",
+      "Makoto Yamada",
+      "Hui Liu",
+      "Jiliang Tang"
+    ],
+    "publication_date": "2024-06-16",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "3c6893a23391a2922f070c5aec8b279064815ed3",
+    "corpus_id": 270560863,
+    "category": "Computer Science"
+  },
+  "2406-09289": {
+    "title": "Understanding Jailbreak Success: A Study of Latent Space Dynamics in Large Language Models",
+    "authors": [
+      "Sarah Ball",
+      "Frauke Kreuter",
+      "Nina Rimsky"
+    ],
+    "publication_date": "2024-06-13",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "a29fb9fe14ff797949d304d81ff159764722b07b",
+    "corpus_id": 270440981,
+    "category": "Computer Science"
+  },
+  "2406-05644": {
+    "title": "How Alignment and Jailbreak Work: Explain LLM Safety through Intermediate Hidden States",
+    "authors": [
+      "Zhenhong Zhou",
+      "Haiyang Yu",
+      "Xinghua Zhang",
+      "Rongwu Xu",
+      "Fei Huang",
+      "Yongbin Li"
+    ],
+    "publication_date": "2024-06-09",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "2b01cbe125ed13ccb3ef02e9536582825f2afd57",
+    "corpus_id": 270371990,
+    "category": "Computer Science"
+  },
+  "2405-18641": {
+    "title": "Lisa: Lazy Safety Alignment for Large Language Models against Harmful Fine-tuning Attack",
+    "authors": [
+      "Tiansheng Huang",
+      "Sihao Hu",
+      "Fatih Ilhan",
+      "S. Tekin",
+      "Ling Liu"
+    ],
+    "publication_date": "2024-05-28",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "e06217b5d1c0bad7e67eb70094bd4a327359f6ef",
+    "corpus_id": 270095345,
+    "category": "Computer Science"
+  },
+  "2403-19647": {
+    "title": "Sparse Feature Circuits: Discovering and Editing Interpretable Causal Graphs in Language Models",
+    "authors": [
+      "Samuel Marks",
+      "Can Rager",
+      "Eric J. Michaud",
+      "Yonatan Belinkov",
+      "David Bau",
+      "Aaron Mueller"
+    ],
+    "publication_date": "2024-03-28",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "b8f280d8bf685f8da7c83068e73f000528072d6b",
+    "corpus_id": 268732732,
+    "category": "Computer Science"
+  },
+  "2402-16717": {
+    "title": "CodeChameleon: Personalized Encryption Framework for Jailbreaking Large Language Models",
+    "authors": [
+      "Huijie Lv",
+      "Xiao Wang",
+      "Yuan Zhang",
+      "Caishuang Huang",
+      "Shihan Dou",
+      "Junjie Ye",
+      "Tao Gui",
+      "Qi Zhang",
+      "Xuanjing Huang"
+    ],
+    "publication_date": "2024-02-26",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "72f51c3ef967f7905e3194296cf6fd8337b1a437",
+    "corpus_id": 268032340,
+    "category": "Computer Science"
+  },
+  "2402-11746": {
+    "title": "Language Models are Homer Simpson! Safety Re-Alignment of Fine-tuned Language Models through Task Arithmetic",
+    "authors": [
+      "Rishabh Bhardwaj",
+      "Do Duc Anh",
+      "Soujanya Poria"
+    ],
+    "publication_date": "2024-02-19",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "d9cfa9d7dabd39b66a8c11e5dde69ba45e91093d",
+    "corpus_id": 267750438,
+    "category": "Computer Science"
+  },
+  "2402-05602": {
+    "title": "AttnLRP: Attention-Aware Layer-wise Relevance Propagation for Transformers",
+    "authors": [
+      "Reduan Achtibat",
+      "Sayed Mohammad Vakilzadeh Hatefi",
+      "Maximilian Dreyer",
+      "Aakriti Jain",
+      "Thomas Wiegand",
+      "S. Lapuschkin",
+      "Wojciech Samek"
+    ],
+    "publication_date": "2024-02-08",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "a2539713a31ee08cc8116c1355da9f96896df145",
+    "corpus_id": 267547813,
+    "category": "Computer Science"
+  },
+  "2312-07876": {
+    "title": "Causality Analysis for Evaluating the Security of Large Language Models",
+    "authors": [
+      "Wei Zhao",
+      "Zhe Li",
+      "Junfeng Sun"
+    ],
+    "publication_date": "2023-12-13",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "75fc4becd42527d552448e03e1b358c6d818a027",
+    "corpus_id": 266191392,
+    "category": "Computer Science"
+  },
+  "2311-08268": {
+    "title": "A Wolf in Sheep’s Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily",
+    "authors": [
+      "Peng Ding",
+      "Jun Kuang",
+      "Dan Ma",
+      "Xuezhi Cao",
+      "Yunsen Xian",
+      "Jiajun Chen",
+      "Shujian Huang"
+    ],
+    "publication_date": "2023-11-14",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "c4ff1be5c254b60b96b7455eefcc4ec9583f82ed",
+    "corpus_id": 265664913,
+    "category": "Computer Science"
+  },
+  "2311-03658": {
+    "title": "The Linear Representation Hypothesis and the Geometry of Large Language Models",
+    "authors": [
+      "Kiho Park",
+      "Yo Joong Choe",
+      "Victor Veitch"
+    ],
+    "publication_date": "2023-11-07",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "eb44ce1f7e1f4deac10f6e7009e2073f1eb0b3e4",
+    "corpus_id": 265042984,
+    "category": "Computer Science, Mathematics"
+  },
+  "2311-03191": {
+    "title": "DeepInception: Hypnotize Large Language Model to Be Jailbreaker",
+    "authors": [
+      "Xuan Li",
+      "Zhanke Zhou",
+      "Jianing Zhu",
+      "Jiangchao Yao",
+      "Tongliang Liu",
+      "Bo Han"
+    ],
+    "publication_date": "2023-11-06",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "99eee47dad469790042b973bc7cb40cb63a660b1",
+    "corpus_id": 265033222,
+    "category": "Computer Science"
+  },
+  "2310-16270": {
+    "title": "Attention Lens: A Tool for Mechanistically Interpreting the Attention Head Information Retrieval Mechanism",
+    "authors": [
+      "Mansi Sakarvadia",
+      "Arham Khan",
+      "Aswathy Ajith",
+      "Daniel Grzenda",
+      "Nathaniel Hudson",
+      "André Bauer",
+      "K. Chard",
+      "I. Foster"
+    ],
+    "publication_date": "2023-10-25",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "9d0a535a14de965887ecefb157f9aeb9e39cd1d8",
+    "corpus_id": 264487189,
+    "category": "Computer Science"
+  },
+  "2310-08419": {
+    "title": "Jailbreaking Black Box Large Language Models in Twenty Queries",
+    "authors": [
+      "Patrick Chao",
+      "Alexander Robey",
+      "Edgar Dobriban",
+      "Hamed Hassani",
+      "George J. Pappas",
+      "Eric Wong"
+    ],
+    "publication_date": "2023-10-12",
+    "venue": "2025 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+    "semantic_scholar_id": "4637f79ddfaf923ce569996ffa5b6cda1996faa1",
+    "corpus_id": 263908890,
+    "category": "Computer Science"
+  },
+  "2310-06824": {
+    "title": "The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets",
+    "authors": [
+      "Samuel Marks",
+      "Max Tegmark"
+    ],
+    "publication_date": "2023-10-10",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "d59523889679aee15992c4bf6e52b134186d07d3",
+    "corpus_id": 263831277,
+    "category": "Computer Science"
+  },
+  "2310-05470": {
+    "title": "Generative Judge for Evaluating Alignment",
+    "authors": [
+      "Junlong Li",
+      "Shichao Sun",
+      "Weizhe Yuan",
+      "Run-Ze Fan",
+      "Hai Zhao",
+      "Pengfei Liu"
+    ],
+    "publication_date": "2023-10-09",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "5001630bcc65e8e0e621b19625629a2689724743",
+    "corpus_id": 263829791,
+    "category": "Computer Science"
+  },
+  "2310-02207": {
+    "title": "Language Models Represent Space and Time",
+    "authors": [
+      "Wes Gurnee",
+      "Max Tegmark"
+    ],
+    "publication_date": "2023-10-03",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "740c783ac07039cf30b6d8a8f95e775b3297c79e",
+    "corpus_id": 263608756,
+    "category": "Computer Science"
+  },
+  "2310-04451": {
+    "title": "AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models",
+    "authors": [
+      "Xiaogeng Liu",
+      "Nan Xu",
+      "Muhao Chen",
+      "Chaowei Xiao"
+    ],
+    "publication_date": "2023-10-03",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "f3f23f7f9f5369aade19f20bc5d028cce7b9c9aa",
+    "corpus_id": 263831566,
+    "category": "Computer Science"
+  },
+  "2310-01405": {
+    "title": "Representation Engineering: A Top-Down Approach to AI Transparency",
+    "authors": [
+      "Andy Zou",
+      "Long Phan",
+      "Sarah Chen",
+      "James Campbell",
+      "Phillip Guo",
+      "Richard Ren",
+      "Alexander Pan",
+      "Xuwang Yin",
+      "Mantas Mazeika",
+      "Ann-Kathrin Dombrowski",
+      "Shashwat Goel",
+      "Nathaniel Li",
+      "Michael J. Byun",
+      "Zifan Wang",
+      "Alex Troy Mallen",
+      "Steven Basart",
+      "Sanmi Koyejo",
+      "Dawn Song",
+      "Matt Fredrikson",
+      "Zico Kolter",
+      "Dan Hendrycks"
+    ],
+    "publication_date": "2023-10-02",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "58fdf550600fc3873729d466601c5d08a51ba8a0",
+    "corpus_id": 263605618,
+    "category": "Computer Science"
+  },
+  "2309-16042": {
+    "title": "Towards Best Practices of Activation Patching in Language Models: Metrics and Methods",
+    "authors": [
+      "Fred Zhang",
+      "Neel Nanda"
+    ],
+    "publication_date": "2023-09-27",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "c16c05ca0a3d24519405849fd24604fc1ce47751",
+    "corpus_id": 263131114,
+    "category": "Computer Science"
+  },
+  "2309-10253": {
+    "title": "GPTFUZZER: Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts",
+    "authors": [
+      "Jiahao Yu",
+      "Xingwei Lin",
+      "Zheng Yu",
+      "Xinyu Xing"
+    ],
+    "publication_date": "2023-09-19",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "d4177489596748e43aa571f59556097f2cc4c8be",
+    "corpus_id": 262055242,
+    "category": "Computer Science"
+  },
+  "2309-08600": {
+    "title": "Sparse Autoencoders Find Highly Interpretable Features in Language Models",
+    "authors": [
+      "Hoagy Cunningham",
+      "Aidan Ewart",
+      "Logan Riggs Smith",
+      "R. Huben",
+      "Lee Sharkey"
+    ],
+    "publication_date": "2023-09-15",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "edb548fe7574d99454b352ffdb61bca93c3072ba",
+    "corpus_id": 261934663,
+    "category": "Computer Science"
+  },
+  "2308-05374": {
+    "title": "Trustworthy LLMs: a Survey and Guideline for Evaluating Large Language Models' Alignment",
+    "authors": [
+      "Yang Liu",
+      "Yuanshun Yao",
+      "Jean-François Ton",
+      "Xiaoying Zhang",
+      "Ruocheng Guo",
+      "Hao Cheng",
+      "Yegor Klochkov",
+      "Muhammad Faaiz Taufiq",
+      "Hanguang Li"
+    ],
+    "publication_date": "2023-08-10",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "7142e920b6b9355d9cbacc9450818f912eca138e",
+    "corpus_id": 260775522,
+    "category": "Computer Science"
+  },
+  "2307-15043": {
+    "title": "Universal and Transferable Adversarial Attacks on Aligned Language Models",
+    "authors": [
+      "Andy Zou",
+      "Zifan Wang",
+      "J. Z. Kolter",
+      "Matt Fredrikson"
+    ],
+    "publication_date": "2023-07-27",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "47030369e97cc44d4b2e3cf1be85da0fd134904a",
+    "corpus_id": 260202961,
+    "category": "Computer Science"
+  },
+  "2307-04657": {
+    "title": "BeaverTails: Towards Improved Safety Alignment of LLM via a Human-Preference Dataset",
+    "authors": [
+      "Jiaming Ji",
+      "Mickel Liu",
+      "Juntao Dai",
+      "Xuehai Pan",
+      "Chi Zhang",
+      "Ce Bian",
+      "Ruiyang Sun",
+      "Yizhou Wang",
+      "Yaodong Yang"
+    ],
+    "publication_date": "2023-07-10",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "92930ed3560ea6c86d53cf52158bc793b089054d",
+    "corpus_id": 259501579,
+    "category": "Computer Science"
+  },
+  "2307-02483": {
+    "title": "Jailbroken: How Does LLM Safety Training Fail?",
+    "authors": [
+      "Alexander Wei",
+      "Nika Haghtalab",
+      "J. Steinhardt"
+    ],
+    "publication_date": "2023-07-05",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "929305892d4ddae575a0fc23227a8139f7681632",
+    "corpus_id": 259342528,
+    "category": "Computer Science"
+  },
+  "2305-00586": {
+    "title": "How does GPT-2 compute greater-than?: Interpreting mathematical abilities in a pre-trained language model",
+    "authors": [
+      "Michael Hanna",
+      "Ollie Liu",
+      "Alexandre Variengien"
+    ],
+    "publication_date": "2023-04-30",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "aec826ff336ca442697d5f908ab1668f1ea18987",
+    "corpus_id": 258426987,
+    "category": "Computer Science"
+  },
+  "2303-08112": {
+    "title": "Eliciting Latent Predictions from Transformers with the Tuned Lens",
+    "authors": [
+      "Nora Belrose",
+      "Zach Furman",
+      "Logan Smith",
+      "Danny Halawi",
+      "Igor V. Ostrovsky",
+      "Lev McKinney",
+      "Stella Biderman",
+      "J. Steinhardt"
+    ],
+    "publication_date": "2023-03-14",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "762ca2711eb167f19b79e39c175708ca15e1f5d7",
+    "corpus_id": 257504984,
+    "category": "Computer Science"
+  },
+  "2303-02536": {
+    "title": "Finding Alignments Between Interpretable Causal Variables and Distributed Neural Representations",
+    "authors": [
+      "Atticus Geiger",
+      "Zhengxuan Wu",
+      "Christopher Potts",
+      "Thomas F. Icard",
+      "Noah D. Goodman"
+    ],
+    "publication_date": "2023-03-05",
+    "venue": "CLEaR",
+    "semantic_scholar_id": "cb1b5d949a1d711b1bd3a2924e045ad3f893252c",
+    "corpus_id": 257365438,
+    "category": "Computer Science"
+  },
+  "2302-13971": {
+    "title": "LLaMA: Open and Efficient Foundation Language Models",
+    "authors": [
+      "Hugo Touvron",
+      "Thibaut Lavril",
+      "Gautier Izacard",
+      "Xavier Martinet",
+      "M. Lachaux",
+      "Timothée Lacroix",
+      "Baptiste Rozière",
+      "Naman Goyal",
+      "Eric Hambro",
+      "Faisal Azhar",
+      "Aur'elien Rodriguez",
+      "Armand Joulin",
+      "Edouard Grave",
+      "Guillaume Lample"
+    ],
+    "publication_date": "2023-02-27",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "57e849d0de13ed5f91d086936296721d4ff75a75",
+    "corpus_id": 257219404,
+    "category": "Computer Science"
+  },
+  "2301-08110": {
+    "title": "AtMan: Understanding Transformer Predictions Through Memory Efficient Attention Manipulation",
+    "authors": [
+      "Mayukh Deb",
+      "Bjorn Deiseroth",
+      "Samuel Weinbach",
+      "Manuel Brack",
+      "P. Schramowski",
+      "K. Kersting"
+    ],
+    "publication_date": "2023-01-19",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "66a0c26cd7529d6e10f2b4ca01f7259fe0ef55da",
+    "corpus_id": 255999631,
+    "category": "Computer Science"
+  },
+  "2212-03827": {
+    "title": "Discovering Latent Knowledge in Language Models Without Supervision",
+    "authors": [
+      "Collin Burns",
+      "Haotian Ye",
+      "D. Klein",
+      "J. Steinhardt"
+    ],
+    "publication_date": "2022-12-07",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "89c3bd70ad33c4f8832f00ab98872b77861ee0ec",
+    "corpus_id": 254366253,
+    "category": "Computer Science"
+  },
+  "2211-00593": {
+    "title": "Interpretability in the Wild: a Circuit for Indirect Object Identification in GPT-2 small",
+    "authors": [
+      "Kevin Wang",
+      "Alexandre Variengien",
+      "Arthur Conmy",
+      "Buck Shlegeris",
+      "J. Steinhardt"
+    ],
+    "publication_date": "2022-11-01",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "6edd112383ad494f5f2eba72b6f4ffae122ce61f",
+    "corpus_id": 253244237,
+    "category": "Computer Science"
+  },
+  "2102-12452": {
+    "title": "Probing Classifiers: Promises, Shortcomings, and Advances",
+    "authors": [
+      "Yonatan Belinkov"
+    ],
+    "publication_date": "2021-02-24",
+    "venue": "International Conference on Computational Logic",
+    "semantic_scholar_id": "3dcfa05a1c162e6cab927c5b08d0444f7b6691f4",
+    "corpus_id": 236924832,
+    "category": "Computer Science"
+  },
+  "1905-09418": {
+    "title": "Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned",
+    "authors": [
+      "Elena Voita",
+      "David Talbot",
+      "F. Moiseev",
+      "Rico Sennrich",
+      "Ivan Titov"
+    ],
+    "publication_date": "2019-05-23",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "07a64686ce8e43ac475a8d820a8a9f1d87989583",
+    "corpus_id": 162183964,
+    "category": "Computer Science"
+  },
+  "1905-10650": {
+    "title": "Are Sixteen Heads Really Better than One?",
+    "authors": [
+      "Paul Michel",
+      "Omer Levy",
+      "Graham Neubig"
+    ],
+    "publication_date": "2019-05-01",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "b03c7ff961822183bab66b2e594415e585d3fd09",
+    "corpus_id": 166227946,
+    "category": "Computer Science"
+  }
+}

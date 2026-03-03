@@ -1,0 +1,16 @@
+{
+  "title": "Coslice Colimits in Homotopy Type Theory",
+  "authors": [
+    "Perry Hart",
+    "Kuen-Bang Hou"
+  ],
+  "summary": "We contribute to the theory of (homotopy) colimits inside homotopy type theory. The heart of our work characterizes the connection between colimits in coslices of a universe, called coslice colimits, and colimits in the universe (i.e., ordinary colimits). To derive this characterization, we find an explicit construction of colimits in coslices that is tailored to reveal the connection. We use the construction to derive properties of colimits. Notably, we prove that the forgetful functor from a coslice creates colimits over trees. We also use the construction to examine how colimits interact with orthogonal factorization systems and with cohomology theories. As a consequence of their interaction with orthogonal factorization systems, all pointed colimits (special kinds of coslice colimits) preserve $n$-connectedness, which implies that higher groups are closed under colimits on directed graphs. We have formalized our main construction of the coslice colimit functor in Agda. The code for this paper is available at https://github.com/PHart3/colimits-agda .",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-02-07",
+    "2025-06-29"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LO, math.CT, math.LO"
+}

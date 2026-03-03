@@ -1,0 +1,20 @@
+{
+  "title": "bia-binder: A web-native cloud compute service for the bioimage analysis community",
+  "authors": [
+    "Craig T. Russell",
+    "Jean-Marie Burel",
+    "Awais Athar",
+    "Simon Li",
+    "Ugis Sarkans",
+    "Jason Swedlow",
+    "Alvis Brazma",
+    "Matthew Hartley",
+    "Virginie Uhlmann"
+  ],
+  "summary": "We introduce bia-binder (BioImage Archive Binder), an open-source, cloud-architectured, and web-based coding environment tailored to bioimage analysis that is freely accessible to all researchers. The service generates easy-to-use Jupyter Notebook coding environments hosted on EMBL-EBI's Embassy Cloud, which provides significant computational resources. The bia-binder architecture is free, open-source and publicly available for deployment. It features fast and direct access to images in the BioImage Archive, the Image Data Resource, and the BioStudies databases. We believe that this service can play a role in mitigating the current inequalities in access to scientific resources across academia. As bia-binder produces permanent links to compiled coding environments, we foresee the service to become widely-used within the community and enable exploratory research. bia-binder is built and deployed using helmsman and helm and released under the MIT licence. It can be accessed at binder.bioimagearchive.org and runs on any standard web browser.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-bio.QM"
+}

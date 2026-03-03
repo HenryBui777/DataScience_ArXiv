@@ -1,0 +1,16 @@
+{
+  "title": "Explicit Two-Sided Vertex Expanders Beyond the Spectral Barrier",
+  "authors": [
+    "Jun-Ting Hsieh",
+    "Ting-Chun Lin",
+    "Sidhanth Mohanty",
+    "Ryan O'Donnell",
+    "Rachel Yun Zhang"
+  ],
+  "summary": "We construct the first explicit two-sided vertex expanders that bypass the spectral barrier.\n  Previously, the strongest known explicit vertex expanders were given by $d$-regular Ramanujan graphs, whose spectral properties imply that every small subset of vertices $S$ has at least $0.5d|S|$ distinct neighbors. However, it is possible to construct Ramanujan graphs containing a small set $S$ with no more than $0.5d|S|$ neighbors. In fact, no explicit construction was known to break the $0.5 d$-barrier.\n  In this work, we give an explicit construction of an infinite family of $d$-regular graphs (for large enough $d$) where every small set expands by a factor of $\\approx 0.6d$. More generally, for large enough $d_1,d_2$, we give an infinite family of $(d_1,d_2)$-biregular graphs where small sets on the left expand by a factor of $\\approx 0.6d_1$, and small sets on the right expand by a factor of $\\approx 0.6d_2$. In fact, our construction satisfies an even stronger property: small sets on the left and right have unique-neighbor expansion $0.6d_1$ and $0.6d_2$ respectively.\n  Our construction follows the tripartite line product framework of Hsieh, McKenzie, Mohanty & Paredes, and instantiates it using the face-vertex incidence of the $4$-dimensional Ramanujan clique complex as its base component. As a key part of our analysis, we derive new bounds on the triangle density of small sets in the Ramanujan clique complex.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.CO, cs.CC, cs.DM, cs.DS"
+}

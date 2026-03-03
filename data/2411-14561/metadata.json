@@ -1,0 +1,12 @@
+{
+  "title": "Subspace and auxiliary space preconditioners for high-order interior penalty discretizations in $H(\\mathrm{div})$",
+  "authors": [
+    "Will Pazner"
+  ],
+  "summary": "In this paper, we construct and analyze preconditioners for the interior penalty discontinuous Galerkin discretization posed in the space $H(\\mathrm{div})$. These discretizations are used as one component in exactly divergence-free pressure-robust discretizations for the Stokes problem. Three preconditioners are presently considered: a subspace correction preconditioner using vertex patches and the lowest-order $H^1$-conforming space as a coarse space, a fictitious space preconditioner using the degree-$p$ discontinuous Galerkin space, and an auxiliary space preconditioner using the degree-$(p-1)$ discontinuous Galerkin space and a block Jacobi smoother. On certain classes of meshes, the subspace and fictitious space preconditioners result in provably well-conditioned systems, independent of the mesh size $h$, polynomial degree $p$, and penalty parameter $η$. All three preconditioners are shown to be robust with respect to $h$ on general meshes, and numerical results indicate that the iteration counts grow only mildly with respect to $p$ in the general case. Numerical examples illustrate the convergence properties of the preconditioners applied to structured and unstructured meshes. These solvers are used to construct block-diagonal preconditioners for the Stokes problem, which result in uniform convergence when used with MINRES.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Robust Deep Joint Source-Channel Coding Enabled Distributed Image Transmission with Imperfect Channel State Information",
+  "authors": [
+    "Biao Dong",
+    "Bin Cao",
+    "Guan Gui",
+    "Qinyu Zhang"
+  ],
+  "summary": "This work is concerned with robust distributed multi-view image transmission over a severe fading channel with imperfect channel state information (CSI), wherein the sources are slightly correlated. Since the signals are further distorted at the decoder, traditional distributed deep joint source-channel coding (DJSCC) suffers considerable performance degradation. To tackle this problem, we leverage the complementarity and consistency characteristics among the distributed, yet correlated sources, and propose an enhanced robust DJSCC, namely RDJSCC. In RDJSCC, we design a novel cross-view information extraction (CVIE) mechanism to capture more nuanced cross-view patterns and dependencies. In addition, a complementarity-consistency fusion (CCF) mechanism is utilized to fuse the complementarity and consistency from multi-view information in a symmetric and compact manner. Theoretical analysis and simulation results show that our proposed RDJSCC can effectively leverage the advantages of correlated sources even under severe fading conditions, leading to an improved reconstruction performance. The open source code of this work is available at:https://dongbiao26.github.io/rdjscc/.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-06-24"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "The Hausdorff distance and metrics on toric singularity types",
+  "authors": [
+    "Ayo Aitokhuehi",
+    "Benjamin Braiman",
+    "David Owen Horace Cutler",
+    "Tamás Darvas",
+    "Robert Deaton",
+    "Prakhar Gupta",
+    "Jude Horsley",
+    "Vasanth Pidaparthy",
+    "Jen Tang"
+  ],
+  "summary": "Given a compact Kähler manifold $(X,ω)$, due to the work of Darvas-Di Nezza-Lu, the space of singularity types of $ω$-psh functions admits a natural pseudo-metric $d_\\mathcal S$ that is complete in the presence of positive mass. When restricted to model singularity types, this pseudo-metric is a bona fide metric. In case of the projective space, there is a known one-to-one correspondence between toric model singularity types and convex bodies inside the unit simplex. Hence in this case it is natural to compare the $d_\\mathcal S$ metric to the classical Hausdorff metric. We provide precise Hölder bounds, showing that their induced topologies are the same. More generally, we introduce a quasi-metric $d_G$ on the space of compact convex sets inside an arbitrary convex body $G$, with $d_\\mathcal S = d_G$ in case $G$ is the unit simplex. We prove optimal Hölder bounds comparing $d_G$ with the Hausdorff metric. Our analysis shows that the Hölder exponents differ depending on the geometry of $G$, with the worst exponents in case $G$ is a polytope, and the best in case $G$ has $C^2$ boundary.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.CV, math.AP"
+}

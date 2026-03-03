@@ -1,0 +1,15 @@
+{
+  "title": "A new maximal regularity for parabolic equations and an application",
+  "authors": [
+    "Jinlong Wei",
+    "Wei Wang",
+    "Guangying Lv",
+    "Jinqiao Duan"
+  ],
+  "summary": "We introduce the Lebesgue--Hölder--Dini and Lebesgue--Hölder spaces $L^p(\\mathbb{R};{\\mathcal C}_{\\vartheta,ς}^{α,ρ}({\\mathbb R}^n))$ ($\\vartheta\\in \\{l,b\\}, \\, ς\\in \\{d,s,c,w\\}$, $p\\in (1,+\\infty]$ and $α\\in [0,1)$), and then use a vector-valued Calderón--Zygmund theorem to establish the maximal Lebesgue--Hölder--Dini and Lebesgue--Hölder regularity for a class of parabolic equations. As an application, we obtain the unique strong solvability of the following stochastic differential equation \\begin{eqnarray*} X_{s,t}(x)=x+\\int\\limits_s^tb(r,X_{s,r}(x))dr+W_t-W_{s}, \\ \\ t\\in [s,T], \\ x\\in \\mathbb{R}^n, \\ s\\in [0,T], \\end{eqnarray*} for the low regularity growing drift in critical Lebesgue--Hölder--Dini spaces $L^p([0,T];{\\mathcal C}^{\\frac{2}{p}-1,ρ}_{l,d}({\\mathbb R}^n;{\\mathbb R}^n))$ ($p\\in (1,2]$), where $\\{W_t\\}_{0\\leq t\\leq T}$ is a $n$-dimensional standard Wiener process. In particular, when $p=2$ we give a partially affirmative answer to a longstanding open problem, which was proposed by Krylov and Röckner for $b\\in L^2([0,T];L^\\infty({\\mathbb R}^n;{\\mathbb R}^n))$ based upon their work ({\\em Probab. Theory Relat. Fields 131(2): 154--196, 2005}).",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.PR"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Enhancing Thermal MOT: A Novel Box Association Method Leveraging Thermal Identity and Motion Similarity",
+  "authors": [
+    "Wassim El Ahmar",
+    "Dhanvin Kolhatkar",
+    "Farzan Nowruzi",
+    "Robert Laganiere"
+  ],
+  "summary": "Multiple Object Tracking (MOT) in thermal imaging presents unique challenges due to the lack of visual features and the complexity of motion patterns. This paper introduces an innovative approach to improve MOT in the thermal domain by developing a novel box association method that utilizes both thermal object identity and motion similarity. Our method merges thermal feature sparsity and dynamic object tracking, enabling more accurate and robust MOT performance. Additionally, we present a new dataset comprised of a large-scale collection of thermal and RGB images captured in diverse urban environments, serving as both a benchmark for our method and a new resource for thermal imaging. We conduct extensive experiments to demonstrate the superiority of our approach over existing methods, showing significant improvements in tracking accuracy and robustness under various conditions. Our findings suggest that incorporating thermal identity with motion data enhances MOT performance. The newly collected dataset and source code is available at https://github.com/wassimea/thermalMOT",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI, cs.LG"
+}

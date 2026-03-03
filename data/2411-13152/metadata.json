@@ -1,0 +1,19 @@
+{
+  "title": "AGLP: A Graph Learning Perspective for Semi-supervised Domain Adaptation",
+  "authors": [
+    "Houcheng Su",
+    "Mengzhu Wang",
+    "Jiao Li",
+    "Nan Yin",
+    "Liang Yang",
+    "Li Shen"
+  ],
+  "summary": "In semi-supervised domain adaptation (SSDA), the model aims to leverage partially labeled target domain data along with a large amount of labeled source domain data to enhance its generalization capability for the target domain. A key advantage of SSDA is its ability to significantly reduce reliance on labeled data, thereby lowering the costs and time associated with data preparation. Most existing SSDA methods utilize information from domain labels and class labels but overlook the structural information of the data. To address this issue, this paper proposes a graph learning perspective (AGLP) for semi-supervised domain adaptation. We apply the graph convolutional network to the instance graph which allows structural information to propagate along the weighted graph edges. The proposed AGLP model has several advantages. First, to the best of our knowledge, this is the first work to model structural information in SSDA. Second, the proposed model can effectively learn domain-invariant and semantic representations, reducing domain discrepancies in SSDA. Extensive experimental results on multiple standard benchmarks demonstrate that the proposed AGLP algorithm outperforms state-of-the-art semi-supervised domain adaptation methods.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-22"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI"
+}

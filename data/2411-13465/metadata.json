@@ -1,0 +1,13 @@
+{
+  "title": "Height-offset variables and pinning at infinity for gradient Gibbs measures on trees",
+  "authors": [
+    "Florian Henning",
+    "Christof Kuelske"
+  ],
+  "summary": "We provide a general theory of height-offset variables and their properties for nearest-neighbor integer-valued gradient models on trees. This notion goes back to Sheffield [25], who realized that such tail-measurable variables can be used to associate to gradient Gibbs measures also proper Gibbs measures, via the procedure of pinning at infinity. On the constructive side, our theory incorporates the existence of height-offset variables, regularity properties of their Lebesgue densities and concentration properties of the associated Gibbs measure. On the pathological side, we show that pinning at infinity necessarily comes at a cost. This phenomenon will be analyzed on the levels of translation invariance, the tree-indexed Markov chain property, and extremality. The scope of our theory incorporates free measures, and also height-periodic measures of period 2, assuming only finite second moments of the transfer operator which encodes the nearest neighbor interaction. Our proofs are based on investigations of the respective martingale limits, past and future tail-decompositions, and infinite product representations for moment generating functions.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.PR, math-ph"
+}

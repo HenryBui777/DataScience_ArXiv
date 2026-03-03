@@ -1,0 +1,23 @@
+{
+  "title": "Understanding Stellar Mass-Metallicity and Size Relations in Simulated Ultra-Faint Dwarf Galaxies",
+  "authors": [
+    "Minsung Go",
+    "Myoungwon Jeon",
+    "Yumi Choi",
+    "Nitya Kallivayalil",
+    "Sangmo Tony Sohn",
+    "Gurtina Besla",
+    "Hannah Richstein",
+    "Sal Wanying Fu",
+    "Tae Bong Jeong",
+    "Jihye Shin"
+  ],
+  "summary": "Reproducing the physical characteristics of ultra-faint dwarf galaxies (UFDs) in cosmological simulations is challenging, particularly with respect to stellar metallicity and galaxy size. To investigate these difficulties in detail, we conduct high-resolution simulations ($M_{\\rm gas} \\sim 60 \\, M_{\\odot}$, $M_{\\rm DM} \\sim 370 \\, M_{\\odot}$ ) on six UFD analogs ($M_{\\rm vir} \\sim 10^8 - 10^9 \\, M_{\\odot}$, $M_{\\rm \\star} \\sim 10^3 - 2.1 \\times 10^4 \\, M_{\\odot}$). Our findings reveal that the stellar properties of UFD analogs are shaped by diverse star-forming environments from multiple progenitor halos in the early Universe. Notably, our UFD analogs exhibit a better match to the observed mass-metallicity relation (MZR), showing higher average metallicity compared to other theoretical models. The metallicity distribution functions (MDFs) of our simulated UFDs lack high-metallicity stars ($[\\rm Fe/H] > -2.0$) while containing low-metallicity stars ($[\\rm Fe/H] < -4.0$). Excluding these low-metallicity stars, our results align well with the MDFs of observed UFDs. However, forming stars with higher metallicity ($-2.0 \\leq [\\rm Fe/H]_{\\rm max} \\leq -1.5$) remains a challenge due to the difficulty of sustaining metal enrichment during their brief star formation period before cosmic reionization. Additionally, our simulations show extended outer structures in UFDs, resulting from dry mergers between progenitor halos. To ensure consistency, we adopt the same fitting method commonly used in observations to derive the half-light radius. We find that this method tends to produce lower values compared to direct calculations and struggles to accurately describe the extended outer structures. To address this, we employ a two-component density profile to obtain structural parameters, finding that it better describes the galaxy shape, including both inner and outer structures.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-06-20"
+  ],
+  "publication_venue": "ApJ 986, 214 (2025)",
+  "pdf_url": null,
+  "category": "astro-ph.GA"
+}

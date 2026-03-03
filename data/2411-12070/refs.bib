@@ -1,0 +1,170 @@
+@misc{BiospecimenResearchDatabase,
+  publisher = {Biorepositories and Biospecimen Research Branch, National Cancer Institute},
+  year = {2023},
+  url = {http://biospecimens.cancer.gov/brd},
+  howpublished = {\url{http://biospecimens.cancer.gov/brd},
+  note = {Accessed: 07.12.2023},
+  title = {Biospecimen Research Database},
+  key = {BRD},
+  journal = {Biospecimen Research Database},
+}
+
+@article{Wang2004-lr,
+}
+
+@inproceedings{pmlr-v9-glorot10a,
+  author = {Glorot, Xavier and Bengio, Yoshua},
+  url = {https://proceedings.mlr.press/v9/glorot10a.html},
+  booktitle = {Proceedings of the Thirteenth International Conference on Artificial Intelligence and Statistics},
+  editor = {Teh, Yee Whye and Titterington, Mike},
+  pages = {249--256},
+  year = {2010},
+  address = {Chia Laguna Resort, Sardinia, Italy},
+  publisher = {PMLR},
+  abstract = {Whereas before 2006 it appears that deep multi-layer neural networks were not successfully trained, since then several algorithms have been shown to successfully train them, with experimental results showing the superiority of deeper vs less deep architectures. All these experimental results were obtained with new initialization or training mechanisms. Our objective here is to understand better why standard gradient descent from random initialization is doing so poorly with deep neural networks, to better understand these recent relative successes and help design better algorithms in the future.  We first observe the influence of the non-linear activations functions. We find that the logistic sigmoid activation is unsuited for deep networks with random initialization because of its mean value, which can drive especially the top hidden layer into saturation. Surprisingly, we find that saturated units can move out of saturation by themselves, albeit slowly, and explaining the plateaus sometimes seen when training neural networks. We find that a new non-linearity that saturates less can often be beneficial. Finally, we study how activations and gradients vary across layers and during training, with the idea that training may be more difficult when the singular values of the Jacobian associated with each layer are far from 1.  Based on these considerations, we propose a new initialization scheme that brings substantially faster convergence.},
+  month = {13--15 May},
+  volume = {9},
+  series = {Proceedings of Machine Learning Research},
+  title = {Understanding the difficulty of training deep feedforward neural networks},
+  pdf = {http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf},
+}
+
+@misc{kingma2017adam,
+  author = {Diederik P. Kingma and Jimmy Ba},
+  year = {2017},
+  archiveprefix = {arXiv},
+  primaryclass = {cs.LG},
+  eprint = {1412.6980},
+  title = {Adam: A Method for Stochastic Optimization},
+}
+
+@article{Breiman1984ClassificationAR,
+  author = {L. Breiman and Jerome H. Friedman and Richard A. Olshen and C. J. Stone},
+  year = {1984},
+  pages = {874},
+  url = {https://api.semanticscholar.org/CorpusID:29458883},
+  volume = {40},
+  title = {Classification and Regression Trees},
+  journal = {Biometrics},
+}
+
+@article{scikit-learn,
+  author = {Pedregosa, F. and Varoquaux, G. and Gramfort, A. and Michel, V.
+          and Thirion, B. and Grisel, O. and Blondel, M. and Prettenhofer, P.
+          and Weiss, R. and Dubourg, V. and Vanderplas, J. and Passos, A. and
+          Cournapeau, D. and Brucher, M. and Perrot, M. and Duchesnay, E.},
+  pages = {2825--2830},
+  year = {2011},
+  volume = {12},
+  title = {Scikit-learn: Machine Learning in {P},
+  journal = {Journal of Machine Learning Research},
+}
+
+@article{Elich_2022,
+  author = {Cathrin Elich and Martin R. Oswald and Marc Pollefeys and Joerg Stueckler},
+  doi = {10.1016/j.cviu.2022.103440},
+  issn = {1077-3142},
+  journal = {Computer Vision and Image Understanding},
+  pages = {103440},
+  year = {2022},
+  abstract = {Representing scenes at the granularity of objects is a prerequisite for scene understanding and decision making. We propose PriSMONet, a novel approach based on Prior Shape knowledge for learning Multi-Object 3D scene decomposition and representations from single images. Our approach learns to decompose images of synthetic scenes with multiple objects on a planar surface into its constituent scene objects and to infer their 3D properties from a single view. A recurrent encoder regresses a latent representation of 3D shape, pose and texture of each object from an input RGB image. By differentiable rendering, we train our model to decompose scenes from RGB-D images in a self-supervised way. The 3D shapes are represented continuously in function-space as signed distance functions which we pre-train from example shapes in a supervised way. These shape priors provide weak supervision signals to better condition the challenging overall learning task. We evaluate the accuracy of our model in inferring 3D scene layout, demonstrate its generative capabilities, assess its generalization to real images, and point out benefits of the learned representation.},
+  volume = {220},
+  title = {Weakly supervised learning of multi-object 3D scene decompositions using deep shape priors},
+  keywords = {Multi-object 3D scene representation learning},
+}
+
+@article{barrow1978recovering,
+  author = {Barrow, Harry and Tenenbaum, J and Hanson, A and Riseman, E},
+  pages = {2},
+  year = {1978},
+  volume = {2},
+  title = {Recovering intrinsic scene characteristics},
+  journal = {Comput. vis. syst},
+  number = {3-26},
+}
+
+@article{Krawiec_2007,
+  author = {Krawiec, Krzysztof},
+  doi = {10.1016/j.patrec.2007.08.001},
+  issn = {0167-8655},
+  issue_date = {December, 2007},
+  journal = {Pattern Recogn. Lett.},
+  publisher = {Elsevier Science Inc.},
+  year = {2007},
+  address = {USA},
+  abstract = {This paper introduces a novel method of visual learning based on genetic programming, which evolves a population of individuals (image analysis programs) that process attributed visual primitives derived from raw raster images. The goal is to evolve an image analysis program that correctly recognizes the training concept (shape). The approach uses generative evaluation scheme: individuals are rewarded for reproducing the shape of the object being recognized using graphical primitives and elementary background knowledge encoded in predefined operators. Evolutionary run is driven by a multiobjective fitness function to prevent premature convergence and enable effective exploration of the space of solutions. We present the method in detail and verify it experimentally on the task of learning two visual concepts from examples.},
+  pages = {2385–2400},
+  numpages = {16},
+  volume = {28},
+  title = {Generative learning of visual concepts using multiobjective genetic programming},
+  keywords = {Visual learning, Genetic programming, Generative pattern recognition, Evolutionary synthesis of pattern recognition systems},
+  month = {dec},
+  number = {16},
+}
+
+@article{ravi2020pytorch3d,
+  author = {Nikhila Ravi and Jeremy Reizenstein and David Novotny and Taylor Gordon and Wan-Yen Lo and Justin Johnson and Georgia Gkioxari},
+  doi = {10.48550/arXiv.2007.08501},
+  url = {https://arxiv.org/abs/2007.08501},
+  eprint = {2007.08501},
+  timestamp = {Wed, 22 Jul 2020 12:09:15 +0200},
+  biburl = {https://dblp.org/rec/journals/corr/abs-2007-08501.bib},
+  journal = {CoRR},
+  publisher = {arXiv},
+  year = {2020},
+  volume = {abs/2007.08501},
+  eprinttype = {arXiv},
+  title = {Accelerating 3D Deep Learning with PyTorch3D},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  number = {arXiv:2007.08501},
+}
+
+@article{Li:2020:DVG,
+  author = {Li, Tzu-Mao and Luk\'{a},
+  pages = {193:1--193:15},
+  year = {2020},
+  volume = {39},
+  title = {Differentiable Vector Graphics Rasterization for Editing and Learning},
+  journal = {ACM Trans. Graph. (Proc. SIGGRAPH Asia)},
+  number = {6},
+}
+
+@misc{KaolinLibrary,
+  author = {Fuji Tsang, Clement and Shugrina, Maria and Lafleche, Jean Francois and Takikawa, Towaki and Wang, Jiehan and Loop, Charles and Chen, Wenzheng and Jatavallabhula, Krishna Murthy and Smith, Edward and Rozantsev, Artem and Perel, Or and Shen, Tianchang and Gao, Jun and Fidler, Sanja and State, Gavriel and Gorski, Jason and Xiang, Tommy and Li, Jianing and Li, Michael and Lebaredian, Rev},
+  year = {2022},
+  howpublished = {\url{https://github.com/NVIDIAGameWorks/kaolin},
+  title = {Kaolin: A Pytorch Library for Accelerating 3D Deep Learning Research},
+}
+
+@misc{Mitsuba3,
+  author = {Wenzel Jakob and Sébastien Speierer and Nicolas Roussel and Merlin Nimier-David and Delio Vicini and Tizian Zeltner and Baptiste Nicolet and Miguel Crespo and Vincent Leroy and Ziyi Zhang},
+  version = {3.1.1},
+  note = {\url{https://mitsuba-renderer.org},
+  title = {Mitsuba 3 renderer},
+}
+
+@inproceedings{Choudhury2022,
+  author = {Choudhury, Subhabrata and Laina, Iro and Rupprecht, Christian and Vedaldi, Andrea},
+  pages = {28104--28118},
+  year = {2021},
+  publisher = {Curran Associates, Inc.},
+  volume = {34},
+  booktitle = {Advances in Neural Information Processing Systems},
+  editor = {M. Ranzato and A. Beygelzimer and Y. Dauphin and P.S. Liang and J. Wortman Vaughan},
+  title = {Unsupervised Part Discovery from Contrastive Reconstruction},
+}
+
+@article{Burgess_2019,
+  author = {Christopher P. Burgess and
+                  Lo{\"{\i},
+  title = {MONet: Unsupervised Scene Decomposition and Representation},
+  journal = {CoRR},
+  volume = {abs/1901.11390},
+  year = {2019},
+  url = {http://arxiv.org/abs/1901.11390},
+  eprinttype = {arXiv},
+  eprint = {1901.11390},
+  timestamp = {Wed, 20 Apr 2022 09:58:19 +0200},
+  biburl = {https://dblp.org/rec/journals/corr/abs-1901-11390.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}

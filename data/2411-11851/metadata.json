@@ -1,0 +1,17 @@
+{
+  "title": "Bounds on Atom-Bond Connectivity and Zagreb Indices in Trees with a Given Metric Dimension",
+  "authors": [
+    "Waqar Ali",
+    "Mohamad Nazri Bin Husin",
+    "Muhammad Faisal Nadeem",
+    "Muqaddas Jabin"
+  ],
+  "summary": "Let $\\mathbb{G} = (\\mathcal{V}, \\mathcal{E})$ be a simple connected graph, where $\\mathcal{V}$ and $\\mathcal{E}$ denote the vertex and edge sets, respectively. The first Zagreb index is defined as $\\mathcal{M}_{1}(\\mathbb{G}) = \\sum_{v \\in \\mathcal{V}} ζ_{\\mathbb{G}}(v)^2$, while the second Zagreb index is given by $\\mathcal{M}_{2}(\\mathbb{G}) = \\sum_{uv \\in \\mathcal{E}} ζ_{\\mathbb{G}}(u)\\, ζ_{\\mathbb{G}}(v)$, where $ζ_{\\mathbb{G}}(v)$ represents the degree of vertex $v$. Another notable degree-based invariant is the atom-bond connectivity (ABC) index, introduced in chemical graph theory, and defined by\n  \\[\n  ABC(\\mathbb{G}) = \\sum_{uv \\in \\mathcal{E}} \\sqrt{\\frac{ζ_{\\mathbb{G}}(u) + ζ_{\\mathbb{G}}(v) - 2}{ζ_{\\mathbb{G}}(u)\\, ζ_{\\mathbb{G}}(v)}}.\n  \\]\n  A fundamental graph parameter, the metric dimension, refers to the minimum number of vertices in a resolving set that uniquely distinguishes all other vertices based on distances. In this work, we investigate the influence of metric dimension on the Zagreb and ABC indices within the class of trees. We derive sharp bounds-both upper and lower for $\\mathcal{M}_1$ and $\\mathcal{M}_2$, and provide an upper bound for the ABC index, all expressed in terms of the tree's order and its metric dimension. Furthermore, we identify the extremal tree structures that attain these bounds. These findings underscore the role of metric dimension in shaping topological descriptors and contribute both to theoretical graph analysis and practical applications in molecular chemistry.",
+  "submission_date": "2024-10-31",
+  "revised_dates": [
+    "2025-08-07"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.GM"
+}

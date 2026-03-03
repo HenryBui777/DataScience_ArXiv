@@ -1,0 +1,19 @@
+{
+  "title": "Investigating Stark many-body localization with continuous unitary transformation flows",
+  "authors": [
+    "Jan-Niklas Herre",
+    "Qiyu Liu",
+    "Roman Rausch",
+    "Christoph Karrasch",
+    "Dante M. Kennes"
+  ],
+  "summary": "We investigate the ergodicity-to-localization transition in interacting fermion systems subjected to a spatially uniform electric field. For that we employ the recently proposed Tensorflow Equations (TFE), a type of continuous unitary flow equations. This enables us to iteratively determine an approximate diagonal basis of the quantum many-body system. We present improvements to the method, which achieves good accuracy at small to intermediate interaction strengths, even in the absence of an electric field or disorder. Then, we examine two quantities that reveal the fate of Stark MBL in 1D and 2D. First, we investigate the structure of the resulting basis to determine the crossover between ergodic and localized regimes with respect to electric field strength. Second, we simulate long-time dynamics at infinite temperature. Our results in 1D show a localization transition at non-zero field for finite interaction that vanishes with increasing system size leading to localization at infinitesimally small field even in the presence of interactions. In 2D we find less clear signatures of localization and strong finite size effects. We establish that the TFE work accurately up to intermediate times but cannot capture higher order effects in interaction strength that lead to delocalization at longer times in finite-size Stark MBL systems.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-12-02",
+    "2025-07-15"
+  ],
+  "publication_venue": "Phys. Rev. Research 7, 033047 (2025)",
+  "pdf_url": null,
+  "category": "cond-mat.dis-nn, cond-mat.stat-mech"
+}

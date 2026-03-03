@@ -1,0 +1,14 @@
+{
+  "title": "On Generalization Bounds for Neural Networks with Low Rank Layers",
+  "authors": [
+    "Andrea Pinto",
+    "Akshay Rangamani",
+    "Tomaso Poggio"
+  ],
+  "summary": "While previous optimization results have suggested that deep neural networks tend to favour low-rank weight matrices, the implications of this inductive bias on generalization bounds remain underexplored. In this paper, we apply Maurer's chain rule for Gaussian complexity to analyze how low-rank layers in deep networks can prevent the accumulation of rank and dimensionality factors that typically multiply across layers. This approach yields generalization bounds for rank and spectral norm constrained networks. We compare our results to prior generalization bounds for deep networks, highlighting how deep networks with low-rank layers can achieve better generalization than those with full-rank layers. Additionally, we discuss how this framework provides new perspectives on the generalization capabilities of deep networks exhibiting neural collapse.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, stat.ML"
+}

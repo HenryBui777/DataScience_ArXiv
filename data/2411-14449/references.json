@@ -1,0 +1,389 @@
+{
+  "2405-09786": {
+    "title": "IBD-PSC: Input-level Backdoor Detection via Parameter-oriented Scaling Consistency",
+    "authors": [
+      "Linshan Hou",
+      "Ruili Feng",
+      "Zhongyun Hua",
+      "Wei Luo",
+      "Leo Yu Zhang",
+      "Yiming Li"
+    ],
+    "publication_date": "2024-05-16",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "4696ec65c7f9067d638ab2209214ba732307a8aa",
+    "corpus_id": 269791219,
+    "category": "Computer Science"
+  },
+  "2310-18933": {
+    "title": "Label Poisoning is All You Need",
+    "authors": [
+      "Rishi Jha",
+      "J. Hayase",
+      "Sewoong Oh"
+    ],
+    "publication_date": "2023-10-29",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "8e7dbcb0e3c78e21c9b963f0052d89417fa54993",
+    "corpus_id": 264590393,
+    "category": "Computer Science"
+  },
+  "2310-03693": {
+    "title": "Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!",
+    "authors": [
+      "Xiangyu Qi",
+      "Yi Zeng",
+      "Tinghao Xie",
+      "Pin-Yu Chen",
+      "Ruoxi Jia",
+      "Prateek Mittal",
+      "Peter Henderson"
+    ],
+    "publication_date": "2023-10-05",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "0e0e706e13f160e74cac9556f28ab9a358c148d2",
+    "corpus_id": 263671523,
+    "category": "Computer Science"
+  },
+  "2302-03251": {
+    "title": "SCALE-UP: An Efficient Black-box Input-level Backdoor Detection via Analyzing Scaled Prediction Consistency",
+    "authors": [
+      "Junfeng Guo",
+      "Yiming Li",
+      "Xun Chen",
+      "Hanqing Guo",
+      "Lichao Sun",
+      "Cong Liu"
+    ],
+    "publication_date": "2023-02-07",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "6c780dfe8ff9c5a0d51893b5eaf41591299b3b8b",
+    "corpus_id": 256627643,
+    "category": "Computer Science"
+  },
+  "2302-00487": {
+    "title": "A Comprehensive Survey of Continual Learning: Theory, Method and Application",
+    "authors": [
+      "Liyuan Wang",
+      "Xingxing Zhang",
+      "Hang Su",
+      "Jun Zhu"
+    ],
+    "publication_date": "2023-01-31",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "9348656b761f7b76fb65cfe6fac55386b04a3a8a",
+    "corpus_id": 256459333,
+    "category": "Medicine, Computer Science"
+  },
+  "2212-10717": {
+    "title": "Hidden Poison: Machine Unlearning Enables Camouflaged Poisoning Attacks",
+    "authors": [
+      "Jimmy Z. Di",
+      "Jack Douglas",
+      "Jayadev Acharya",
+      "Gautam Kamath",
+      "Ayush Sekhari"
+    ],
+    "publication_date": "2022-12-21",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "f7169a1e825321e25e775d50104825f9d75c0a85",
+    "corpus_id": 254926435,
+    "category": "Computer Science"
+  },
+  "2210-15127": {
+    "title": "Rethinking the Reverse-engineering of Trojan Triggers",
+    "authors": [
+      "Zhenting Wang",
+      "Kai Mei",
+      "Hailun Ding",
+      "Juan Zhai",
+      "Shiqing Ma"
+    ],
+    "publication_date": "2022-10-27",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "c438348cd90b75d388f6a448002de7a5a3c39111",
+    "corpus_id": 253157887,
+    "category": "Computer Science"
+  },
+  "2205-13383": {
+    "title": "BppAttack: Stealthy and Efficient Trojan Attacks against Deep Neural Networks via Image Quantization and Contrastive Adversarial Learning",
+    "authors": [
+      "Zhenting Wang",
+      "Juan Zhai",
+      "Shiqing Ma"
+    ],
+    "publication_date": "2022-05-26",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "052d4787586a7e918638bd82c3034089648d62e7",
+    "corpus_id": 249097522,
+    "category": "Computer Science"
+  },
+  "2204-05255": {
+    "title": "Narcissus: A Practical Clean-Label Backdoor Attack with Limited Information",
+    "authors": [
+      "Yi Zeng",
+      "Minzhou Pan",
+      "H. Just",
+      "L. Lyu",
+      "M. Qiu",
+      "R. Jia"
+    ],
+    "publication_date": "2022-04-11",
+    "venue": "Conference on Computer and Communications Security",
+    "semantic_scholar_id": "175828c468666dde43947b8c8f45a1f0045f7419",
+    "corpus_id": 248084906,
+    "category": "Computer Science"
+  },
+  "2101-05930": {
+    "title": "Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks",
+    "authors": [
+      "Yige Li",
+      "Nodens F. Koren",
+      "L. Lyu",
+      "X. Lyu",
+      "Bo Li",
+      "Xingjun Ma"
+    ],
+    "publication_date": "2021-01-15",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "4d4e5c0c691e42b7078208598d585caacc2e34c2",
+    "corpus_id": 231627799,
+    "category": "Computer Science"
+  },
+  "2012-03816": {
+    "title": "Invisible Backdoor Attack with Sample-Specific Triggers",
+    "authors": [
+      "Yuezun Li",
+      "Yiming Li",
+      "Baoyuan Wu",
+      "Longkang Li",
+      "R. He",
+      "Siwei Lyu"
+    ],
+    "publication_date": "2020-12-07",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "9df35283dc71e95f0451a478b531b544dd1d6d0d",
+    "corpus_id": 237054216,
+    "category": "Computer Science"
+  },
+  "2010-08138": {
+    "title": "Input-Aware Dynamic Backdoor Attack",
+    "authors": [
+      "A. Nguyen",
+      "A. Tran"
+    ],
+    "publication_date": "2020-10-16",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "1c65c46a4bcc3a2980e6ea005894f34820808dcf",
+    "corpus_id": 223953609,
+    "category": "Computer Science"
+  },
+  "1912-02771": {
+    "title": "Label-Consistent Backdoor Attacks",
+    "authors": [
+      "Alexander Turner",
+      "Dimitris Tsipras",
+      "A. Ma̧dry"
+    ],
+    "publication_date": "2019-12-05",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "02d1168344c969761397b575b64765405752c354",
+    "corpus_id": 208637053,
+    "category": "Mathematics, Computer Science"
+  },
+  "1910-00033": {
+    "title": "Hidden Trigger Backdoor Attacks",
+    "authors": [
+      "Aniruddha Saha",
+      "Akshayvarun Subramanya",
+      "H. Pirsiavash"
+    ],
+    "publication_date": "2019-09-30",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "31675c0dea68199af03a8c58b638b89df4b9db3f",
+    "corpus_id": 203610516,
+    "category": "Computer Science"
+  },
+  "1908-01763": {
+    "title": "TABOR: A Highly Accurate Approach to Inspecting and Restoring Trojan Backdoors in AI Systems",
+    "authors": [
+      "Wenbo Guo",
+      "Lun Wang",
+      "Xinyu Xing",
+      "Min Du",
+      "D. Song"
+    ],
+    "publication_date": "2019-08-02",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "02ef95dcbd75d3ef9ec0e1b64528dca4092d48d8",
+    "corpus_id": 199452956,
+    "category": "Computer Science"
+  },
+  "1905-11946": {
+    "title": "EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks",
+    "authors": [
+      "Mingxing Tan",
+      "Quoc V. Le"
+    ],
+    "publication_date": "2019-05-24",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "4f2eda8077dc7a69bb2b4e0a1a086cf054adb3f9",
+    "corpus_id": 167217261,
+    "category": "Computer Science, Mathematics"
+  },
+  "1903-12261": {
+    "title": "Benchmarking Neural Network Robustness to Common Corruptions and Perturbations",
+    "authors": [
+      "Dan Hendrycks",
+      "Thomas G. Dietterich"
+    ],
+    "publication_date": "2019-03-28",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "49b64383fe36268410c430352637ed23b16820c5",
+    "corpus_id": 56657912,
+    "category": "Computer Science, Mathematics"
+  },
+  "1902-06531": {
+    "title": "STRIP: a defence against trojan attacks on deep neural networks",
+    "authors": [
+      "Yansong Gao",
+      "Chang Xu",
+      "Derui Wang",
+      "Shiping Chen",
+      "D. Ranasinghe",
+      "S. Nepal"
+    ],
+    "publication_date": "2019-02-18",
+    "venue": "Asia-Pacific Computer Systems Architecture Conference",
+    "semantic_scholar_id": "63aa6b35e392e26c94ae252623863b4934c0a958",
+    "corpus_id": 62841494,
+    "category": "Computer Science"
+  },
+  "1812-00292": {
+    "title": "SentiNet: Detecting Localized Universal Attacks Against Deep Learning Systems",
+    "authors": [
+      "Edward Chou",
+      "Florian Tramèr",
+      "Giancarlo Pellegrino"
+    ],
+    "publication_date": "2018-12-02",
+    "venue": "2020 IEEE Security and Privacy Workshops (SPW)",
+    "semantic_scholar_id": "8e34a630a5abafc6d2081865947941c9b2d1f8c7",
+    "corpus_id": 215856644,
+    "category": "Computer Science"
+  },
+  "1811-03728": {
+    "title": "Detecting Backdoor Attacks on Deep Neural Networks by Activation Clustering",
+    "authors": [
+      "Bryant Chen",
+      "Wilka Carvalho",
+      "Nathalie Baracaldo",
+      "Heiko Ludwig",
+      "Ben Edwards",
+      "Taesung Lee",
+      "Ian Molloy",
+      "B. Srivastava"
+    ],
+    "publication_date": "2018-11-09",
+    "venue": "SafeAI@AAAI",
+    "semantic_scholar_id": "633ccadcde3bfca87f91bfe5ef4aa297fb2da2f4",
+    "corpus_id": 53250337,
+    "category": "Computer Science, Mathematics"
+  },
+  "1811-00636": {
+    "title": "Spectral Signatures in Backdoor Attacks",
+    "authors": [
+      "Brandon Tran",
+      "Jerry Li",
+      "A. Ma̧dry"
+    ],
+    "publication_date": "2018-11-01",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "71f212b84e8f784bb2c17bf9e2415b0b780f2e73",
+    "corpus_id": 53298804,
+    "category": "Computer Science, Mathematics"
+  },
+  "1805-12185": {
+    "title": "Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks",
+    "authors": [
+      "Kang Liu",
+      "Brendan Dolan-Gavitt",
+      "S. Garg"
+    ],
+    "publication_date": "2018-05-30",
+    "venue": "International Symposium on Recent Advances in Intrusion Detection",
+    "semantic_scholar_id": "790ec1befba47991e8fd50a24d13be6094253f93",
+    "corpus_id": 44096776,
+    "category": "Computer Science"
+  },
+  "1712-05526": {
+    "title": "Targeted Backdoor Attacks on Deep Learning Systems Using Data Poisoning",
+    "authors": [
+      "Xinyun Chen",
+      "Chang Liu",
+      "Bo Li",
+      "Kimberly Lu",
+      "D. Song"
+    ],
+    "publication_date": "2017-12-15",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "cb4c2a2d7e50667914d1a648f1a9134056724780",
+    "corpus_id": 36122023,
+    "category": "Computer Science"
+  },
+  "1708-06733": {
+    "title": "BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain",
+    "authors": [
+      "Tianyu Gu",
+      "Brendan Dolan-Gavitt",
+      "S. Garg"
+    ],
+    "publication_date": "2017-08-22",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "573fd2ce97c70bb29097e8efb28a27af791225ca",
+    "corpus_id": 26783139,
+    "category": "Computer Science"
+  },
+  "1610-02391": {
+    "title": "Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization",
+    "authors": [
+      "Ramprasaath R. Selvaraju",
+      "Abhishek Das",
+      "Ramakrishna Vedantam",
+      "Michael Cogswell",
+      "Devi Parikh",
+      "Dhruv Batra"
+    ],
+    "publication_date": "2016-10-07",
+    "venue": "International Journal of Computer Vision",
+    "semantic_scholar_id": "5582bebed97947a41e3ddd9bd1f284b73f1648c2",
+    "corpus_id": 15019293,
+    "category": "Computer Science"
+  },
+  "1512-03385": {
+    "title": "Deep Residual Learning for Image Recognition",
+    "authors": [
+      "Kaiming He",
+      "X. Zhang",
+      "Shaoqing Ren",
+      "Jian Sun"
+    ],
+    "publication_date": "2015-12-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+    "corpus_id": 206594692,
+    "category": "Computer Science"
+  },
+  "1409-1556": {
+    "title": "Very Deep Convolutional Networks for Large-Scale Image Recognition",
+    "authors": [
+      "K. Simonyan",
+      "Andrew Zisserman"
+    ],
+    "publication_date": "2014-09-04",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "eb42cf88027de515750f230b23b1a057dc782108",
+    "corpus_id": 14124313,
+    "category": "Computer Science"
+  }
+}

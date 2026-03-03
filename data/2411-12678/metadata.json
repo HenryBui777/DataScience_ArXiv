@@ -1,0 +1,15 @@
+{
+  "title": "Deep Learning-Driven Heat Map Analysis for Evaluating thickness of Wounded Skin Layers",
+  "authors": [
+    "Devakumar GR",
+    "JB Kaarthikeyan",
+    "Dominic Immanuel T",
+    "Sheena Christabel Pravin"
+  ],
+  "summary": "Understanding the appropriate skin layer thickness in wounded sites is an important tool to move forward on wound healing practices and treatment protocols. Methods to measure depth often are invasive and less specific. This paper introduces a novel method that is non-invasive with deep learning techniques using classifying of skin layers that helps in measurement of wound depth through heatmap analysis. A set of approximately 200 labeled images of skin allows five classes to be distinguished: scars, wounds, and healthy skin, among others. Each image has annotated key layers, namely the stratum cornetum, the epidermis, and the dermis, in the software Roboflow. In the preliminary stage, the Heatmap generator VGG16 was used to enhance the visibility of tissue layers, based upon which their annotated images were used to train ResNet18 with early stopping techniques. It ended up at a very high accuracy rate of 97.67%. To do this, the comparison of the models ResNet18, VGG16, DenseNet121, and EfficientNet has been done where both EfficientNet and ResNet18 have attained accuracy rates of almost 95.35%. For further hyperparameter tuning, EfficientNet and ResNet18 were trained at six different learning rates to determine the best model configuration. It has been noted that the accuracy has huge variations with different learning rates. In the case of EfficientNet, the maximum achievable accuracy was 95.35% at the rate of 0.0001. The same was true for ResNet18, which also attained its peak value of 95.35% at the same rate. These facts indicate that the model can be applied and utilized in actual-time, non-invasive wound assessment, which holds a great promise to improve clinical diagnosis and treatment planning.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI"
+}

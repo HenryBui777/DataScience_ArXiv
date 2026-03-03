@@ -1,0 +1,17 @@
+{
+  "title": "Simulation of Entanglement-Enabled Connectivity in QLANs using SeQUeNCe",
+  "authors": [
+    "Francesco Mazza",
+    "Caitao Zhan",
+    "Joaquin Chung",
+    "Rajkumar Kettimuthu",
+    "Marcello Caleffi",
+    "Angela Sara Cacciapuoti"
+  ],
+  "summary": "Quantum Local Area Networks (QLANs) represent a promising building block for larger scale quantum networks with the ambitious goal -- in a long time horizon -- of realizing a Quantum Internet. Surprisingly, the physical topology of a QLAN can be enriched by a set of artificial links, enabled by shared multipartite entangled states among the nodes of the network. This novel concept of artificial topology revolutionizes the possibilities of connectivity within the local network, enabling an on-demand manipulation of the artificial network topology. In this paper, we discuss the implementation of the QLAN model in SeQUeNCe, a discrete-event simulator of quantum networks. Specifically, we provide an analysis of how network nodes interact, with an emphasis on the interplay between quantum operations and classical signaling within the network. Remarkably, through the modeling of a measurement protocol and a correction protocol, our QLAN model implementation enables the simulation of the manipulation process of a shared entangled quantum state, and the subsequent engineering of the entanglement-based connectivity. Our simulations demonstrate how to obtain different virtual topologies with different manipulations of the shared resources and with all the possible measurement outcomes, with an arbitrary number of nodes within the network.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, cs.NI"
+}

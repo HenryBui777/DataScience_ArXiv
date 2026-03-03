@@ -1,0 +1,16 @@
+{
+  "title": "From classical probability densities to quantum states: quantization of Gaussians for arbitrary orderings",
+  "authors": [
+    "Giorgio Lo Giudice",
+    "Lorenzo Leone",
+    "Fedele Lizzi"
+  ],
+  "summary": "The primary focus of this work is to investigate how the most emblematic classical probability density, namely a Gaussian, can be mapped to a valid quantum states. To explore this issue, we consider a Gaussian whose squared variance depends on a parameter $λ$. Specifically, depending on the value of $λ$, we study what happens in the classical-quantum correspondence as we change the indeterminacy of the classical particle. Furthermore, finding a correspondence between a classical state and a quantum state is not a trivial task. Quantum observables, described by Hermitian operators, do not generally commute, so a precise ordering must be introduced to resolve this ambiguity. In this work, we study two different arbitrary orderings: the first is an arbitrary ordering of the position and momentum observables; the second, which is the main focus of the present work, is an arbitrary ordering of the annihilation and creation operators. In this latter case, we find the interesting result that even a $δ$-function, which in general has no quantum correspondence, can be mapped into a valid quantum state for a particular ordering, specifically the antinormal one (all creation operators are to the right of all annihilation operators in the product). This means that the Gaussian probability density corresponds to a valid quantum state, regardless of how localized classical particles are in phase space.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-29"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, hep-th, math-ph"
+}

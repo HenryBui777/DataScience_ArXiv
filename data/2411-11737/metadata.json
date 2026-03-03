@@ -1,0 +1,14 @@
+{
+  "title": "Randomization-based Z-estimation for evaluating average and individual treatment effects",
+  "authors": [
+    "Tianyi Qu",
+    "Jiangchuan Du",
+    "Xinran Li"
+  ],
+  "summary": "Randomized experiments have been the gold standard for drawing causal inference. The conventional model-based approach has been one of the most popular ways for analyzing treatment effects from randomized experiments, which is often carried through inference for certain model parameters. In this paper, we provide a systematic investigation of model-based analyses for treatment effects under the randomization-based inference framework. This framework does not impose any distributional assumptions on the outcomes, covariates and their dependence, and utilizes only randomization as the \"reasoned basis\". We first derive the asymptotic theory for Z-estimation in completely randomized experiments, and propose sandwich-type conservative covariance estimation. We then apply the developed theory to analyze both average and individual treatment effects in randomized experiments. For the average treatment effect, we consider three estimation strategies: model-based, model-imputed, and model-assisted, where the first two can be sensitive to model misspecification or require specific ways for parameter estimation. The model-assisted approach is robust to arbitrary model misspecification and always provides consistent average treatment effect estimation. We propose optimal ways to conduct model-assisted estimation using generally nonlinear least squares for parameter estimation. For the individual treatment effects, we propose to directly model the relationship between individual effects and covariates, and discuss the model's identifiability, inference and interpretation allowing model misspecification.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME, math.ST"
+}

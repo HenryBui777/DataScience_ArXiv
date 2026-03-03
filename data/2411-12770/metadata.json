@@ -1,0 +1,15 @@
+{
+  "title": "Intelligent Usability Evaluation for Fashion Websites",
+  "authors": [
+    "Asmaa Hakami",
+    "Raneem Alqarni",
+    "Asmaa Muqaibil",
+    "Nahed Alowidi"
+  ],
+  "summary": "Websites have become increasingly important in people's lives, fulfilling a wide range of needs across various domains such as shopping, education, news, and booking. Among the most heavily used website categories are online shopping platforms, whose usage has particularly increased during the COVID-19 pandemic, as they eliminate time and geographical barriers, providing access to a broader customer base. For these websites to effectively meet user needs and deliver a positive experience, they must be well-designed and adhere to usability principles. However, some existing shopping websites are poorly designed and do not follow usability best practices, resulting in suboptimal user experiences. Traditional manual website evaluation methods are time-consuming, and there is a need for more intelligent, automated approaches, particularly those leveraging machine learning techniques. This study aims to assist fashion shopping website developers in improving the usability of their platforms by providing an intelligent approach that can evaluate website usability. The study employs two complementary approaches for the evaluation process. The first model utilizes a Support Vector Machine (SVM) to assess websites based on specific usability principles, while the second model is a Convolutional Neural Network (CNN) that evaluates websites using features extracted from their screenshot images. The datasets for this project were custom-built, comprising a textual dataset for the SVM model and a screenshot dataset for the CNN model. The results demonstrate that the SVM model achieved an impressive 99% accuracy, while the CNN model attained 69% accuracy. These findings highlight the potential of this intelligent approach to provide comprehensive, data-driven insights for improving the usability of fashion shopping websites.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.HC"
+}

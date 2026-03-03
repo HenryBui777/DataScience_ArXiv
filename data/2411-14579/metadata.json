@@ -1,0 +1,15 @@
+{
+  "title": "Functional Array Programming in an Extended Pi-Calculus",
+  "authors": [
+    "Hans Hüttel",
+    "Lars Jensen",
+    "Chris Oliver Paulsen",
+    "Julian Teule"
+  ],
+  "summary": "We study the data-parallel language BUTF, inspired by the Futhark language for array programming. We give a translation of BUTF into a version of the pi-calculus with broadcasting and labeled names. The translation is both complete and sound. Moreover, we propose a cost model by annotating translated BUTF processes.  This is used for a complexity analysis of the translation.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "EPTCS 412, 2024, pp. 2-18",
+  "pdf_url": null,
+  "category": "cs.PL, cs.LO"
+}

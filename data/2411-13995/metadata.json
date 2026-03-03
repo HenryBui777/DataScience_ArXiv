@@ -1,0 +1,13 @@
+{
+  "title": "Modelling and prediction of the wildfire data using fractional Poisson process",
+  "authors": [
+    "Sudeep R. Bapat",
+    "Aditya Maheshwari"
+  ],
+  "summary": "Modelling wildfire events has been studied in the literature using the Poisson process, which essentially assumes the independence of wildfire events. In this paper, we use the fractional Poisson process to model the wildfire occurrences in California between June 2019 - April 2023 and predict the wildfire events that explains the underlying memory between these events. We introduce method of moments and maximum likelihood estimate approaches to estimate the parameters of the fractional Poisson process, which is an alternative to the method proposed by Cahoy (2010). We obtain the estimates of the fractional parameter as 0.8, proving that the wildfire events are dependent. The proposed model has reduced prediction error by 90\\% compared to the classical Poisson process model.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.AP"
+}

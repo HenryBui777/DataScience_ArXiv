@@ -1,0 +1,18 @@
+{
+  "title": "Correction-to-scaling exponent for percolation and the Fortuin--Kasteleyn Potts model in two dimensions",
+  "authors": [
+    "Yihao Xu",
+    "Tao Chen",
+    "Zongzheng Zhou",
+    "Jesús Salas",
+    "Youjin Deng"
+  ],
+  "summary": "The number $n_s$ of clusters (per site) of size $s$, a central quantity in percolation theory, displays at criticality an algebraic scaling behavior of the form $n_s\\simeq s^{-τ}\\, A\\, (1+B s^{-Ω})$. For the Fortuin--Kasteleyn representation of the $Q$-state Potts model in two dimensions, the Fisher exponent $τ$ is known as a function of the real parameter $0\\le Q\\le4$, and, for bond percolation (the $Q\\rightarrow 1$ limit), the correction-to-scaling exponent is derived as $Ω=72/91$. We theoretically derive the exact formula for the correction-to-scaling exponent $Ω=8/[(2g+1)(2g+3)]$ as a function of the Coulomb-gas coupling strength $g$, which is related to $Q$ by $Q=2+2\\cos(2 πg)$. Using an efficient Monte Carlo cluster algorithm, we study the O($n$) loop model on the hexagonal lattice, which is in the same universality class as the $Q=n^2$ Potts model, and has significantly suppressed finite-size corrections and critical slowing-down. The predictions of the above formula include the exact value for percolation as a special case and agree well with the numerical estimates of $Ω$ for both the critical and tricritical branches of the Potts model.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-03-07"
+  ],
+  "publication_venue": "Phys. Rev. E 111 (2025) 034108",
+  "pdf_url": null,
+  "category": "cond-mat.stat-mech"
+}

@@ -1,0 +1,25 @@
+{
+  "title": "Multiplexed readout of Superconductor--Normal-Conductor--Superconductor bolometers",
+  "authors": [
+    "Priyank Singh",
+    "András Gunyhó",
+    "Heikki Suominen",
+    "Giacomo Catto",
+    "Florian Blanchet",
+    "Qi-Ming Chen",
+    "Arman Alizadeh",
+    "Aarne Keränen",
+    "Jian Ma",
+    "Timm Mörstedt",
+    "Wei Liu",
+    "Mikko Möttonen"
+  ],
+  "summary": "Recently, ultrasensitive calorimeters have been proposed as a resource-efficient solution for multiplexed qubit readout in superconducting large-scale quantum processors. However, experiments demonstrating frequency multiplexing of these superconductor--normal--conductor--superconductor (SNS) sensors are are lacking in the literature. To this end, we present the design, fabrication, and operation of three SNS sensors with frequency-multiplexed input and probe circuits, all on a single chip. These devices have their probe frequencies in the range 150 MHz--200 MHz, which is well detuned from the heater frequencies of 4.4 GHz--7.6 GHz compatible with typical readout frequencies of superconducting qubits. Importantly, we show on-demand triggering of both individual and multiple low-noise SNS bolometers with very low cross talk. These experiments pave the way for multiplexed bolometric characterization and calorimetric readout of multiple qubits, a promising step in minimizing related resources such as the number of readout lines and microwave isolators in large-scale superconducting quantum computers.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-03-11"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, cond-mat.mes-hall"
+}

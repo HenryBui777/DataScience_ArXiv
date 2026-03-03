@@ -1,0 +1,13 @@
+{
+  "title": "Solving convex QPs with structured sparsity under indicator conditions",
+  "authors": [
+    "Daniel Bienstock",
+    "Tongtong Chen"
+  ],
+  "summary": "We study convex optimization problems where disjoint blocks of variables are controlled by binary indicator variables that are also subject to conditions, e.g., cardinality. Several classes of important examples can be formulated in such a way that both the objective and the constraints are separable convex quadratics. We describe a family of polynomial-time approximation algorithms and negative complexity results.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC, cs.CC, cs.DS"
+}

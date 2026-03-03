@@ -1,0 +1,16 @@
+{
+  "title": "Superpixel Cost Volume Excitation for Stereo Matching",
+  "authors": [
+    "Shanglong Liu",
+    "Lin Qi",
+    "Junyu Dong",
+    "Wenxiang Gu",
+    "Liyi Xu"
+  ],
+  "summary": "In this work, we concentrate on exciting the intrinsic local consistency of stereo matching through the incorporation of superpixel soft constraints, with the objective of mitigating inaccuracies at the boundaries of predicted disparity maps. Our approach capitalizes on the observation that neighboring pixels are predisposed to belong to the same object and exhibit closely similar intensities within the probability volume of superpixels. By incorporating this insight, our method encourages the network to generate consistent probability distributions of disparity within each superpixel, aiming to improve the overall accuracy and coherence of predicted disparity maps. Experimental evalua tions on widely-used datasets validate the efficacy of our proposed approach, demonstrating its ability to assist cost volume-based matching networks in restoring competitive performance.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "PRCV 2024",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Testing classical properties from quantum data",
+  "authors": [
+    "Matthias C. Caro",
+    "Preksha Naik",
+    "Joseph Slote"
+  ],
+  "summary": "Properties of Boolean functions can often be tested much faster than the functions can be learned. However, this advantage usually disappears when testers are limited to random samples of a function $f$--a natural setting for data science--rather than queries. In this work we initiate the study of a quantum version of this \"data science scenario\": quantum algorithms that test properties of $f$ solely from quantum data in the form of copies of the function state $|f\\rangle \\propto \\sum_x|x,f(x)\\rangle$.\n  $\\bullet$ New tests. For three well-established properties--monotonicity, symmetry, and triangle-freeness--we show that the speedup lost when restricting classical testers to sampled data can be recovered by quantum algorithms operating solely from quantum data.\n  $\\bullet$ Inadequacy of Fourier sampling. Our new testers use techniques beyond quantum Fourier sampling, and we show that this necessary. In particular, there is no constant-complexity tester for symmetry relying solely on Fourier sampling and random classical samples.\n  $\\bullet$ Classical queries vs. quantum data. We exhibit a testing problem that can be solved from $O(1)$ classical queries but that requires $Ω(2^{n/2})$ function state copies. The Forrelation problem provides a separation of the same magnitude in the opposite direction, so we conclude that quantum data and classical queries are \"maximally incomparable\" resources for testing.\n  $\\bullet$ Towards lower bounds. We also begin the study of lower bounds for testing from quantum data. For quantum monotonicity testing, we prove that the ensembles of Goldreich et al. (2000) and Black (2023), which give exponential lower bounds for classical sample-based testing, do not yield any nontrivial lower bounds for testing from quantum data. New insights specific to quantum data will be required for proving copy complexity lower bounds for testing in this model.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-03-18",
+    "2025-09-12"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, cs.CC, cs.DS, cs.LG"
+}

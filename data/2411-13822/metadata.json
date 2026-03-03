@@ -1,0 +1,14 @@
+{
+  "title": "High-Dimensional Extreme Quantile Regression",
+  "authors": [
+    "Yiwei Tang",
+    "Judy Huixia Wang",
+    "Deyuan Li"
+  ],
+  "summary": "The estimation of conditional quantiles at extreme tails is of great interest in numerous applications. Various methods that integrate regression analysis with an extrapolation strategy derived from extreme value theory have been proposed to estimate extreme conditional quantiles in scenarios with a fixed number of covariates. However, these methods prove ineffective in high-dimensional settings, where the number of covariates increases with the sample size. In this article, we develop new estimation methods tailored for extreme conditional quantiles with high-dimensional covariates. We establish the asymptotic properties of the proposed estimators and demonstrate their superior performance through simulation studies, particularly in scenarios of growing dimension and high dimension where existing methods may fail. Furthermore, the analysis of auto insurance data validates the efficacy of our methods in estimating extreme conditional insurance claims and selecting important variables.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME"
+}

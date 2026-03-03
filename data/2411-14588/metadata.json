@@ -1,0 +1,17 @@
+{
+  "title": "Population dynamics of multiple ecDNA types",
+  "authors": [
+    "Elisa Scanu",
+    "Benjamin Werner",
+    "Weini Huang"
+  ],
+  "summary": "Extrachromosomal DNA (ecDNA) can drive oncogene amplification, gene expression and intratumor heterogeneity, representing a major force in cancer initiation and progression. The phenomenon becomes even more intricate as distinct types of ecDNA present within a single cancer cell. While exciting as a new and significant observation across various cancer types, there is a lack of a general framework capturing the dynamics of multiple ecDNA types theoretically. Here, we present novel mathematical models investigating the proliferation and expansion of multiple ecDNA types in a growing cell population. By switching on and off a single parameter, we model different scenarios including ecDNA species with different oncogenes, genotypes with same oncogenes but different point mutations and phenotypes with identical genetic compositions but different functions. We analyse the fraction of ecDNA-positive and free cells as well as how the mean and variance of the copy number of cells carrying one or more ecDNA types change over time. Our results showed that switching does not play a role in the fraction and copy number distribution of total ecDNA-positive cells, if selection is identical among different ecDNA types. In addition, while cells with multiple ecDNA cannot be maintained in the scenario of ecDNA species without extra fitness advantages, they can persist and even dominate the ecDNA-positive population if switching is possible.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-12-10",
+    "2025-04-23"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-bio.PE, q-bio.QM"
+}

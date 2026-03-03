@@ -1,0 +1,16 @@
+{
+  "title": "Comparative Analysis of Machine Learning and Deep Learning Models for Classifying Squamous Epithelial Cells of the Cervix",
+  "authors": [
+    "Subhasish Das",
+    "Satish K Panda",
+    "Madhusmita Sethy",
+    "Prajna Paramita Giri",
+    "Ashwini K Nanda"
+  ],
+  "summary": "The cervix is the narrow end of the uterus that connects to the vagina in the female reproductive system. Abnormal cell growth in the squamous epithelial lining of the cervix leads to cervical cancer in females. A Pap smear is a diagnostic procedure used to detect cervical cancer by gently collecting cells from the surface of the cervix with a small brush and analyzing their changes under a microscope. For population-based cervical cancer screening, visual inspection with acetic acid is a cost-effective method with high sensitivity. However, Pap smears are also suitable for mass screening due to their higher specificity. The current Pap smear analysis method is manual, time-consuming, labor-intensive, and prone to human error. Therefore, an artificial intelligence (AI)-based approach for automatic cell classification is needed. In this study, we aimed to classify cells in Pap smear images into five categories: superficial-intermediate, parabasal, koilocytes, dyskeratotic, and metaplastic. Various machine learning (ML) algorithms, including Gradient Boosting, Random Forest, Support Vector Machine, and k-Nearest Neighbor, as well as deep learning (DL) approaches like ResNet-50, were employed for this classification task. The ML models demonstrated high classification accuracy; however, ResNet-50 outperformed the others, achieving a classification accuracy of 93.06%. This study highlights the efficiency of DL models for cell-level classification and their potential to aid in the early diagnosis of cervical cancer from Pap smear images.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.CV"
+}

@@ -1,0 +1,576 @@
+{
+  "2206-10991": {
+    "title": "Understanding convolution on graphs via energies",
+    "authors": [
+      "Francesco Di Giovanni",
+      "J. Rowbottom",
+      "B. Chamberlain",
+      "Thomas Markovich",
+      "Michael M. Bronstein"
+    ],
+    "publication_date": "2022-06-22",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "826d4aa5047f3a9074a11e7ea39e587d7e2d0759",
+    "corpus_id": 258987606,
+    "category": "Computer Science, Mathematics"
+  },
+  "2111-02045": {
+    "title": "Deep Point Set Resampling via Gradient Fields",
+    "authors": [
+      "Haolan Chen",
+      "Bianli Du",
+      "Shitong Luo",
+      "Wei Hu"
+    ],
+    "publication_date": "2021-11-03",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "170175efb6b65a467d0ac6c0436783620163269f",
+    "corpus_id": 241033174,
+    "category": "Computer Science, Medicine"
+  },
+  "2110-09443": {
+    "title": "Beltrami Flow and Neural Diffusion on Graphs",
+    "authors": [
+      "B. Chamberlain",
+      "J. Rowbottom",
+      "D. Eynard",
+      "Francesco Di Giovanni",
+      "Xiaowen Dong",
+      "M. Bronstein"
+    ],
+    "publication_date": "2021-10-18",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "af84c6db6b5c41ca628867ff4a27566e9ca3c69e",
+    "corpus_id": 239015811,
+    "category": "Computer Science, Mathematics"
+  },
+  "2106-10934": {
+    "title": "GRAND: Graph Neural Diffusion",
+    "authors": [
+      "B. Chamberlain",
+      "J. Rowbottom",
+      "Maria I. Gorinova",
+      "Stefan Webb",
+      "Emanuele Rossi",
+      "M. Bronstein"
+    ],
+    "publication_date": "2021-06-21",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "95eee51c1cb1771e96cd182f47c90a7877461530",
+    "corpus_id": 235490537,
+    "category": "Computer Science, Mathematics"
+  },
+  "2106-10994": {
+    "title": "BernNet: Learning Arbitrary Graph Spectral Filters via Bernstein Approximation",
+    "authors": [
+      "Mingguo He",
+      "Zhewei Wei",
+      "Zengfeng Huang",
+      "Hongteng Xu"
+    ],
+    "publication_date": "2021-06-21",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "bbed89eee0a43baf17dd5eab8354deecadda8acf",
+    "corpus_id": 235490093,
+    "category": "Computer Science"
+  },
+  "2101-11859": {
+    "title": "Interpreting and Unifying Graph Neural Networks with An Optimization Framework",
+    "authors": [
+      "Meiqi Zhu",
+      "Xiao Wang",
+      "C. Shi",
+      "Houye Ji",
+      "Peng Cui"
+    ],
+    "publication_date": "2021-01-28",
+    "venue": "The Web Conference",
+    "semantic_scholar_id": "4b776e7f26464e5b230c1679560f12618730dcc6",
+    "corpus_id": 231719879,
+    "category": "Computer Science"
+  },
+  "2011-13628": {
+    "title": "Temporal-Channel Transformer for 3D Lidar-Based Video Object Detection in Autonomous Driving",
+    "authors": [
+      "Zhenxun Yuan",
+      "Xiao Song",
+      "Lei Bai",
+      "Wen-gang Zhou",
+      "Zhe Wang",
+      "Wanli Ouyang"
+    ],
+    "publication_date": "2020-11-27",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "ddf7dfd1d9096f4a58f33b575bd1b4630309e7b2",
+    "corpus_id": 227210085,
+    "category": "Computer Science"
+  },
+  "2007-13551": {
+    "title": "Differentiable Manifold Reconstruction for Point Cloud Denoising",
+    "authors": [
+      "Shitong Luo",
+      "Wei Hu"
+    ],
+    "publication_date": "2020-07-27",
+    "venue": "ACM Multimedia",
+    "semantic_scholar_id": "4ee67effe6ae5f79f6b7b0976ac80ddb01d33ced",
+    "corpus_id": 220793119,
+    "category": "Computer Science"
+  },
+  "2007-02578": {
+    "title": "Learning Graph-Convolutional Representations for Point Cloud Denoising",
+    "authors": [
+      "Francesca Pistilli",
+      "Giulia Fracastoro",
+      "D. Valsesia",
+      "E. Magli"
+    ],
+    "publication_date": "2020-07-06",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "31fa7535a75445151f65b365f3b828779b209881",
+    "corpus_id": 220364174,
+    "category": "Computer Science, Engineering"
+  },
+  "2007-09296": {
+    "title": "Towards Deeper Graph Neural Networks",
+    "authors": [
+      "Meng Liu",
+      "Hongyang Gao",
+      "Shuiwang Ji"
+    ],
+    "publication_date": "2020-07-06",
+    "venue": "Knowledge Discovery and Data Mining",
+    "semantic_scholar_id": "639206a9a32d91386924f1c94e9760dfb43df72e",
+    "corpus_id": 220647438,
+    "category": "Computer Science, Mathematics"
+  },
+  "2006-13318": {
+    "title": "A Note on Over-Smoothing for Graph Neural Networks",
+    "authors": [
+      "Chen Cai",
+      "Yusu Wang"
+    ],
+    "publication_date": "2020-06-23",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "c6d550c3fcecf27b979be84c4cd444cc1c72bf47",
+    "corpus_id": 220042028,
+    "category": "Computer Science, Mathematics"
+  },
+  "1912-00967": {
+    "title": "Continuous Graph Neural Networks",
+    "authors": [
+      "Louis-Pascal Xhonneux",
+      "Meng Qu",
+      "Jian Tang"
+    ],
+    "publication_date": "2019-12-02",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "903d62dccc969f5e6642d89fc746b94de7e8c1af",
+    "corpus_id": 208527550,
+    "category": "Computer Science, Mathematics"
+  },
+  "1911-07532": {
+    "title": "Graph Neural Ordinary Differential Equations",
+    "authors": [
+      "Michael Poli",
+      "Stefano Massaroli",
+      "Junyoung Park",
+      "A. Yamashita",
+      "H. Asama",
+      "Jinkyoo Park"
+    ],
+    "publication_date": "2019-11-18",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "8540780e6b9422f7a1264edb70f39d3ff79bb8c1",
+    "corpus_id": 208139536,
+    "category": "Computer Science, Mathematics"
+  },
+  "1909-12223": {
+    "title": "PairNorm: Tackling Oversmoothing in GNNs",
+    "authors": [
+      "Lingxiao Zhao",
+      "L. Akoglu"
+    ],
+    "publication_date": "2019-09-26",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "38293873cce681b857b3c1d73f5590f641f3dc42",
+    "corpus_id": 202888772,
+    "category": "Computer Science, Mathematics"
+  },
+  "1904-07615": {
+    "title": "Total Denoising: Unsupervised Learning of 3D Point Cloud Cleaning",
+    "authors": [
+      "P. Hermosilla",
+      "Tobias Ritschel",
+      "T. Ropinski"
+    ],
+    "publication_date": "2019-04-16",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "98a156f95018572737127cc81e0339d9cf64c24f",
+    "corpus_id": 118623337,
+    "category": "Computer Science"
+  },
+  "1904-04427": {
+    "title": "3D Point Cloud Denoising via Deep Neural Network Based Local Surface Estimation",
+    "authors": [
+      "Chaojing Duan",
+      "Siheng Chen",
+      "J. Kovacevic"
+    ],
+    "publication_date": "2019-04-09",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "fd6fb01f5b44236c9ac3a29623c921c6f3b743e1",
+    "corpus_id": 104291953,
+    "category": "Computer Science, Engineering"
+  },
+  "1904-01681": {
+    "title": "Augmented Neural ODEs",
+    "authors": [
+      "Emilien Dupont",
+      "A. Doucet",
+      "Y. Teh"
+    ],
+    "publication_date": "2019-04-02",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "31156009c49a88b5f0fb37437512eec570310d24",
+    "corpus_id": 102487914,
+    "category": "Computer Science, Mathematics"
+  },
+  "1901-01484": {
+    "title": "LanczosNet: Multi-Scale Deep Graph Convolutional Networks",
+    "authors": [
+      "Renjie Liao",
+      "Zhizhen Zhao",
+      "R. Urtasun",
+      "R. Zemel"
+    ],
+    "publication_date": "2019-01-06",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "5098df13be6d1f2a31c9fbf85703336ef77a9665",
+    "corpus_id": 57573752,
+    "category": "Computer Science, Mathematics"
+  },
+  "1901-01343": {
+    "title": "Graph Neural Networks With Convolutional ARMA Filters",
+    "authors": [
+      "F. Bianchi",
+      "Daniele Grattarola",
+      "L. Livi",
+      "C. Alippi"
+    ],
+    "publication_date": "2019-01-05",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "f55781f7ce6fd31e946f0efe76d5bf89858391d1",
+    "corpus_id": 58004735,
+    "category": "Medicine, Computer Science, Mathematics"
+  },
+  "1901-01060": {
+    "title": "PointCleanNet: Learning to Denoise and Remove Outliers from Dense Point Clouds",
+    "authors": [
+      "Marie-Julie Rakotosaona",
+      "Vittorio La Barbera",
+      "Paul Guerrero",
+      "N. Mitra",
+      "M. Ovsjanikov"
+    ],
+    "publication_date": "2019-01-04",
+    "venue": "Computer graphics forum (Print)",
+    "semantic_scholar_id": "776ac1c3003e162e662b21c3a5c189b5e449c03f",
+    "corpus_id": 57572894,
+    "category": "Computer Science"
+  },
+  "1812-07711": {
+    "title": "3D Point Cloud Denoising via Bipartite Graph Approximation and Reweighted Graph Laplacian",
+    "authors": [
+      "Chinthaka Dinesh",
+      "Gene Cheung",
+      "I. Bajić"
+    ],
+    "publication_date": "2018-12-18",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "82cfea9512242c0df26de750de6d912111932c55",
+    "corpus_id": 125987964,
+    "category": "Computer Science, Engineering"
+  },
+  "1810-05997": {
+    "title": "Predict then Propagate: Graph Neural Networks meet Personalized PageRank",
+    "authors": [
+      "Johannes Klicpera",
+      "Aleksandar Bojchevski",
+      "Stephan Günnemann"
+    ],
+    "publication_date": "2018-09-27",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "ac225094aab9e7b629bc5b3343e026dea0200c70",
+    "corpus_id": 67855539,
+    "category": "Computer Science, Mathematics"
+  },
+  "1806-07366": {
+    "title": "Neural Ordinary Differential Equations",
+    "authors": [
+      "T. Chen",
+      "Yulia Rubanova",
+      "J. Bettencourt",
+      "D. Duvenaud"
+    ],
+    "publication_date": "2018-06-19",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "449310e3538b08b43227d660227dfd2875c3c3c1",
+    "corpus_id": 49310446,
+    "category": "Computer Science, Mathematics"
+  },
+  "1806-03536": {
+    "title": "Representation Learning on Graphs with Jumping Knowledge Networks",
+    "authors": [
+      "Keyulu Xu",
+      "Chengtao Li",
+      "Yonglong Tian",
+      "Tomohiro Sonobe",
+      "K. Kawarabayashi",
+      "S. Jegelka"
+    ],
+    "publication_date": "2018-06-09",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "5aea95e1ae78a66474051a330ded374e199b658c",
+    "corpus_id": 47018956,
+    "category": "Computer Science, Mathematics"
+  },
+  "1803-07252": {
+    "title": "3D Point Cloud Denoising Using Graph Laplacian Regularization of a Low Dimensional Manifold Model",
+    "authors": [
+      "Jin Zeng",
+      "Gene Cheung",
+      "Michael K. Ng",
+      "Jiahao Pang",
+      "Cheng Yang"
+    ],
+    "publication_date": "2018-03-20",
+    "venue": "IEEE Transactions on Image Processing",
+    "semantic_scholar_id": "52b2832666819995abc224666369dac768524bab",
+    "corpus_id": 4714526,
+    "category": "Computer Science, Medicine"
+  },
+  "1801-07829": {
+    "title": "Dynamic Graph CNN for Learning on Point Clouds",
+    "authors": [
+      "Yue Wang",
+      "Yongbin Sun",
+      "Ziwei Liu",
+      "S. Sarma",
+      "M. Bronstein",
+      "J. Solomon"
+    ],
+    "publication_date": "2018-01-24",
+    "venue": "ACM Transactions on Graphics",
+    "semantic_scholar_id": "e1799aaf23c12af6932dc0ef3dfb1638f01413d1",
+    "corpus_id": 94822,
+    "category": "Computer Science"
+  },
+  "1801-07606": {
+    "title": "Deeper Insights into Graph Convolutional Networks for Semi-Supervised Learning",
+    "authors": [
+      "Qimai Li",
+      "Zhichao Han",
+      "Xiao-Ming Wu"
+    ],
+    "publication_date": "2018-01-22",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "36652428740cd30d245d55889f01a7fb04a91c93",
+    "corpus_id": 11118105,
+    "category": "Mathematics, Computer Science"
+  },
+  "1710-10121": {
+    "title": "Beyond Finite Layer Neural Networks: Bridging Deep Architectures and Numerical Differential Equations",
+    "authors": [
+      "Yiping Lu",
+      "Aoxiao Zhong",
+      "Quanzheng Li",
+      "Bin Dong"
+    ],
+    "publication_date": "2017-10-27",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "1cb7ea5de0f8f4d90e4369db4a161ca8594026dc",
+    "corpus_id": 6936155,
+    "category": "Computer Science, Mathematics"
+  },
+  "1710-04954": {
+    "title": "PCPNet Learning Local Shape Properties from Raw Point Clouds",
+    "authors": [
+      "Paul Guerrero",
+      "Yanir Kleiman",
+      "M. Ovsjanikov",
+      "N. Mitra"
+    ],
+    "publication_date": "2017-10-13",
+    "venue": "Computer graphics forum (Print)",
+    "semantic_scholar_id": "55de5d37a78a560f99bdc7ba8ced5393b700ee96",
+    "corpus_id": 3275654,
+    "category": "Computer Science, Mathematics"
+  },
+  "1706-03762": {
+    "title": "Attention is All you Need",
+    "authors": [
+      "Ashish Vaswani",
+      "Noam M. Shazeer",
+      "Niki Parmar",
+      "Jakob Uszkoreit",
+      "Llion Jones",
+      "Aidan N. Gomez",
+      "Lukasz Kaiser",
+      "I. Polosukhin"
+    ],
+    "publication_date": "2017-06-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+    "corpus_id": 13756489,
+    "category": "Computer Science"
+  },
+  "1706-02413": {
+    "title": "PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space",
+    "authors": [
+      "C. Qi",
+      "L. Yi",
+      "Hao Su",
+      "L. Guibas"
+    ],
+    "publication_date": "2017-06-07",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "8674494bd7a076286b905912d26d47f7501c4046",
+    "corpus_id": 1745976,
+    "category": "Computer Science"
+  },
+  "1612-00603": {
+    "title": "A Point Set Generation Network for 3D Object Reconstruction from a Single Image",
+    "authors": [
+      "Haoqiang Fan",
+      "Hao Su",
+      "L. Guibas"
+    ],
+    "publication_date": "2016-12-02",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "41d08fb733f3e50ac183490f84d6377dffccf350",
+    "corpus_id": 6746759,
+    "category": "Mathematics, Computer Science"
+  },
+  "1612-00593": {
+    "title": "PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation",
+    "authors": [
+      "C. Qi",
+      "Hao Su",
+      "Kaichun Mo",
+      "L. Guibas"
+    ],
+    "publication_date": "2016-12-02",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "d997beefc0922d97202789d2ac307c55c2c52fba",
+    "corpus_id": 5115938,
+    "category": "Computer Science"
+  },
+  "1611-08097": {
+    "title": "Geometric Deep Learning: Going beyond Euclidean data",
+    "authors": [
+      "M. Bronstein",
+      "Joan Bruna",
+      "Yann LeCun",
+      "Arthur Szlam",
+      "P. Vandergheynst"
+    ],
+    "publication_date": "2016-11-24",
+    "venue": "IEEE Signal Processing Magazine",
+    "semantic_scholar_id": "0e779fd59353a7f1f5b559b9d65fa4bfe367890c",
+    "corpus_id": 15195762,
+    "category": "Computer Science"
+  },
+  "1609-02907": {
+    "title": "Semi-Supervised Classification with Graph Convolutional Networks",
+    "authors": [
+      "Thomas Kipf",
+      "M. Welling"
+    ],
+    "publication_date": "2016-09-09",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "36eff562f65125511b5dfab68ce7f7a943c27478",
+    "corpus_id": 3144218,
+    "category": "Mathematics, Computer Science"
+  },
+  "1606-09375": {
+    "title": "Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering",
+    "authors": [
+      "Michaël Defferrard",
+      "X. Bresson",
+      "P. Vandergheynst"
+    ],
+    "publication_date": "2016-06-30",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "c41eb895616e453dcba1a70c9b942c5063cc656c",
+    "corpus_id": 3016223,
+    "category": "Computer Science, Mathematics"
+  },
+  "1512-03012": {
+    "title": "ShapeNet: An Information-Rich 3D Model Repository",
+    "authors": [
+      "Angel X. Chang",
+      "T. Funkhouser",
+      "L. Guibas",
+      "P. Hanrahan",
+      "Qi-Xing Huang",
+      "Zimo Li",
+      "S. Savarese",
+      "M. Savva",
+      "Shuran Song",
+      "Hao Su",
+      "Jianxiong Xiao",
+      "L. Yi",
+      "F. Yu"
+    ],
+    "publication_date": "2015-12-09",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "9b686d76914befea66377ec79c1f9258d70ea7e3",
+    "corpus_id": 2554264,
+    "category": "Computer Science"
+  },
+  "1511-04902": {
+    "title": "Graph-based denoising for time-varying point clouds",
+    "authors": [
+      "Y. Schoenenberger",
+      "Johan Paratte",
+      "P. Vandergheynst"
+    ],
+    "publication_date": "2015-07-08",
+    "venue": "2015 3DTV-Conference: The True Vision - Capture, Transmission and Display of 3D Video (3DTV-CON)",
+    "semantic_scholar_id": "4bc21c97a295cfb7d243f19883608aaabea22030",
+    "corpus_id": 5636982,
+    "category": "Computer Science"
+  },
+  "1211-0053": {
+    "title": "The emerging field of signal processing on graphs: Extending high-dimensional data analysis to networks and other irregular domains",
+    "authors": [
+      "D. Shuman",
+      "S. K. Narang",
+      "P. Frossard",
+      "Antonio Ortega",
+      "P. Vandergheynst"
+    ],
+    "publication_date": "2012-10-31",
+    "venue": "IEEE Signal Processing Magazine",
+    "semantic_scholar_id": "39e223e6b5a6f8727e9f60b8b7c7720dc40a5dbc",
+    "corpus_id": 1594725,
+    "category": "Mathematics, Computer Science"
+  },
+  "1901-00596": {
+    "title": "A Comprehensive Survey on Graph Neural Networks",
+    "authors": [
+      "Zonghan Wu",
+      "Shirui Pan",
+      "Fengwen Chen",
+      "Guodong Long",
+      "Chengqi Zhang",
+      "Philip S. Yu"
+    ],
+    "publication_date": "",
+    "venue": "IEEE Transactions on Neural Networks and Learning Systems",
+    "semantic_scholar_id": "81a4fd3004df0eb05d6c1cef96ad33d5407820df",
+    "corpus_id": 57375753,
+    "category": "Computer Science, Mathematics, Medicine"
+  }
+}

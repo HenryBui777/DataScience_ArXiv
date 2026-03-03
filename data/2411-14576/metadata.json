@@ -1,0 +1,17 @@
+{
+  "title": "EdgeFlowNet: 100FPS@1W Dense Optical Flow For Tiny Mobile Robots",
+  "authors": [
+    "Sai Ramana Kiran Pinnama Raju",
+    "Rishabh Singh",
+    "Manoj Velmurugan",
+    "Nitin J. Sanket"
+  ],
+  "summary": "Optical flow estimation is a critical task for tiny mobile robotics to enable safe and accurate navigation, obstacle avoidance, and other functionalities. However, optical flow estimation on tiny robots is challenging due to limited onboard sensing and computation capabilities. In this paper, we propose EdgeFlowNet , a high-speed, low-latency dense optical flow approach for tiny autonomous mobile robots by harnessing the power of edge computing. We demonstrate the efficacy of our approach by deploying EdgeFlowNet on a tiny quadrotor to perform static obstacle avoidance, flight through unknown gaps and dynamic obstacle dodging. EdgeFlowNet is about 20 faster than the previous state-of-the-art approaches while improving accuracy by over 20% and using only 1.08W of power enabling advanced autonomy on palm-sized tiny mobile robots.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-02-12"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

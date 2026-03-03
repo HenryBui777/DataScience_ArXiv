@@ -1,0 +1,25 @@
+{
+  "title": "Explaining GPTs' Schema of Depression: A Machine Behavior Analysis",
+  "authors": [
+    "Adithya V Ganesan",
+    "Vasudha Varadarajan",
+    "Yash Kumar Lal",
+    "Veerle C. Eijsbroek",
+    "Katarina Kjell",
+    "Oscar N. E. Kjell",
+    "Tanuja Dhanasekaran",
+    "Elizabeth C. Stade",
+    "Johannes C. Eichstaedt",
+    "Ryan L. Boyd",
+    "H. Andrew Schwartz",
+    "Lucie Flek"
+  ],
+  "summary": "Use of large language models such as ChatGPT (GPT-4/GPT-5) for mental health support has grown rapidly, emerging as a promising route to assess and help people with mood disorders like depression. However, we have a limited understanding of these language models' schema of mental disorders, that is, how they internally associate and interpret symptoms of such disorders. In this work, we leveraged contemporary measurement theory to decode how GPT-4 and GPT-5 interrelate depressive symptoms, providing an explanation of how LLMs apply what they learn and informing clinical applications. We found that GPT-4 (a) had strong convergent validity with standard instruments and expert judgments $(r = 0.70 - 0.81)$, and (b) behaviorally linked depression symptoms with each other (symptom inter-correlates $r = 0.23 - 0.78$) in accordance with established literature on depression; however, it (c) underemphasized the relationship between $\\textit{suicidality}$ and other symptoms while overemphasizing $\\textit{psychomotor symptoms}$; and (d) suggested novel hypotheses of symptom mechanisms, for instance, indicating that $\\textit{sleep}$ and $\\textit{fatigue}$ are broadly influenced by other depressive symptoms, while $\\textit{worthlessness/guilt}$ is only tied to $\\textit{depressed mood}$. GPT-5 showed a slightly lower convergence with self-report, a difference our machine-behavior analysis makes interpretable through shifts in symptom-symptom relationships. These insights provide an empirical foundation for understanding language models' mental health assessments and demonstrate a generalizable approach for explainability in other models and disorders. Our findings can guide key stakeholders to make informed decisions for effectively situating these technologies in the care system.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-10-07"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL"
+}

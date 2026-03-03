@@ -1,0 +1,13 @@
+{
+  "title": "Multidimensional specific relative entropy between continuous martingales",
+  "authors": [
+    "Julio Backhoff",
+    "Edoardo Kimani Bellotto"
+  ],
+  "summary": "In continuous time, the laws of martingales tend to be singular to each other. Notably, N. Gantert introduced the concept of specific relative entropy between real-valued continuous martingales, defined as a scaling limit of finite-dimensional relative entropies, and showed that this quantity is non-trivial despite the aforementioned mutual singularity of martingale laws.\n  Our main mathematical contribution is to extend this object, originally restricted to one-dimensional martingales, to multiple dimensions. Among other results, we establish that Gantert's inequality, bounding the specific relative entropy with respect to Wiener measure from below by an explicit functional of the quadratic variation, essentially carries over to higher dimensions. We also prove that this lower bound is tight, in the sense that it is the convex lower semicontinuous envelope of the specific relative entropy. This is a novel result even in dimension one. Finally we establish closed-form expressions for the specific relative entropy in simple multidimensional examples.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.PR, q-fin.MF"
+}

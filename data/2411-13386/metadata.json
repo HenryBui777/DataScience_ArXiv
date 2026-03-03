@@ -1,0 +1,17 @@
+{
+  "title": "'Weather' in the LSST Camera: Investigating Patterns in Differenced Flat Images",
+  "authors": [
+    "John Banovetz",
+    "Yousuke Utsumi",
+    "Joshua Meyers",
+    "Maya Beleznay",
+    "Andrew Rasmussen",
+    "Aaron Roodman"
+  ],
+  "summary": "During electro-optical testing of the camera for the upcoming Vera C. Rubin Observatory Legacy Survey of Space and Time, a unique low-signal pattern was found in differenced pairs of flat images used to create photon transfer curves, with peak-to-peak variations of a factor of 10^-3. A turbulent pattern of this amplitude was apparent in many differenced flat-fielded images. The pattern changes from image to image and shares similarities with atmospheric 'weather' turbulence patterns. We applied several strategies to determine the source of the turbulent pattern and found that it is representative of the mixing of the air and index of refraction variations caused by the internal camera purge system displacing air, which we are sensitive to due to our flat field project setup. Characterizing this changing environment with 2-D correlation functions of the 'weather' patterns provides evidence that the images reflect the changes in the camera environment due to the internal camera purge system. Simulations of the full optical system using the galsim and batoid codes show that the weather pattern affects the dispersion of the camera point-spread function at only the one part in 10^-4 level",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.IM"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "MAIRA-Seg: Enhancing Radiology Report Generation with Segmentation-Aware Multimodal Large Language Models",
+  "authors": [
+    "Harshita Sharma",
+    "Valentina Salvatelli",
+    "Shaury Srivastav",
+    "Kenza Bouzid",
+    "Shruthi Bannur",
+    "Daniel C. Castro",
+    "Maximilian Ilse",
+    "Sam Bond-Taylor",
+    "Mercy Prasanna Ranjit",
+    "Fabian Falck",
+    "Fernando Pérez-García",
+    "Anton Schwaighofer",
+    "Hannah Richardson",
+    "Maria Teodora Wetscherek",
+    "Stephanie L. Hyland",
+    "Javier Alvarez-Valle"
+  ],
+  "summary": "There is growing interest in applying AI to radiology report generation, particularly for chest X-rays (CXRs). This paper investigates whether incorporating pixel-level information through segmentation masks can improve fine-grained image interpretation of multimodal large language models (MLLMs) for radiology report generation. We introduce MAIRA-Seg, a segmentation-aware MLLM framework designed to utilize semantic segmentation masks alongside CXRs for generating radiology reports. We train expert segmentation models to obtain mask pseudolabels for radiology-specific structures in CXRs. Subsequently, building on the architectures of MAIRA, a CXR-specialised model for report generation, we integrate a trainable segmentation tokens extractor that leverages these mask pseudolabels, and employ mask-aware prompting to generate draft radiology reports. Our experiments on the publicly available MIMIC-CXR dataset show that MAIRA-Seg outperforms non-segmentation baselines. We also investigate set-of-marks prompting with MAIRA and find that MAIRA-Seg consistently demonstrates comparable or superior performance. The results confirm that using segmentation masks enhances the nuanced reasoning of MLLMs, potentially contributing to better clinical outcomes.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.CL"
+}

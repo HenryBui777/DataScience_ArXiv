@@ -1,0 +1,15 @@
+{
+  "title": "[Experiments \\& Analysis] Hash-Based vs. Sort-Based Group-By-Aggregate: A Focused Empirical Study [Extended Version]",
+  "authors": [
+    "Gaurav Vaghasiya",
+    "Shiva Jahangiri"
+  ],
+  "summary": "Group-by-aggregate (GBA) queries are integral to data analysis, allowing users to group data by specific attributes and apply aggregate functions such as sum, average, and count. Database Management Systems (DBMSs) typically execute GBA queries using either sort- or hash-based methods, each with unique advantages and trade-offs. Sort-based approaches are efficient for large datasets but become computationally expensive due to record comparisons, especially in cases with a small number of groups. In contrast, hash-based approaches offer faster performance in general but require significant memory and can suffer from hash collisions when handling large numbers of groups or uneven data distributions. This paper presents a focused empirical study comparing these two approaches, analyzing their strengths and weaknesses across varying data sizes, datasets, and group counts using Apache AsterixDB. Our findings indicate that sort-based methods excel in scenarios with large datasets or when subsequent operations benefit from sorted data, whereas hash-based methods are advantageous for smaller datasets or scenarios with fewer groupings. Our results provide insights into the scenarios where each method excels, offering practical guidance for optimizing GBA query performance.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-30"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DB"
+}

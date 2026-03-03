@@ -1,0 +1,13 @@
+{
+  "title": "Machine Learning Assisted Postural Movement Recognition using Photoplethysmography(PPG)",
+  "authors": [
+    "Robbie Maccay",
+    "Roshan Weerasekera"
+  ],
+  "summary": "With the growing percentage of elderly people and care home admissions, there is an urgent need for the development of fall detection and fall prevention technologies. This work presents, for the first time, the use of machine learning techniques to recognize postural movements exclusively from Photoplethysmography (PPG) data. To achieve this goal, a device was developed for reading the PPG signal, segmenting the PPG signals into individual pulses, extracting pulse morphology and homeostatic characteristic features, and evaluating different ML algorithms. Investigations into different postural movements (stationary, sitting to standing, and lying to standing) were performed by 11 participants. The results of these investigations provided insight into the differences in homeostasis after the movements in the PPG signal. Various machine learning approaches were used for classification, and the Artificial Neural Network (ANN) was found to be the best classifier, with a testing accuracy of 85.2\\% and an F1 score of 78\\% from experimental results.",
+  "submission_date": "2024-11-02",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP, cs.AI, cs.LG"
+}

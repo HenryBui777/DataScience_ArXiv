@@ -1,0 +1,17 @@
+{
+  "title": "On multivariate contribution measures of systemic risk with applications in cryptocurrency market",
+  "authors": [
+    "Limin Wen",
+    "Junxue Li",
+    "Tong Pu",
+    "Yiying Zhang"
+  ],
+  "summary": "Conditional risk measures and their associated risk contribution measures are commonly employed in finance and actuarial science for evaluating systemic risk and quantifying the effects of risk interactions. This paper introduces various types of contribution ratio measures based on the MCoVaR, MCoES, and MMME studied in Ortega-Jiménez et al. (2021) and Das & Fasen-Hartmann (2018) to assess the relative effects of a single risk when other risks in a group are in distress. The properties of these contribution risk measures are examined, and sufficient conditions for comparing these measures between two sets of random vectors are established using univariate and multivariate stochastic orders and statistically dependent notions. Numerical examples are presented to validate these conditions. Finally, a real dataset from the cryptocurrency market is used to analyze the spillover effects through our proposed contribution measures.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-03-03"
+  ],
+  "publication_venue": "Prob. Eng. Inf. Sci. 39 (2025) 551-578",
+  "pdf_url": null,
+  "category": "q-fin.RM"
+}

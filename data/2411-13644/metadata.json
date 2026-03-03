@@ -1,0 +1,16 @@
+{
+  "title": "Predicting interacting Green's functions with neural networks",
+  "authors": [
+    "Egor Agapov",
+    "Oriol Bertomeu",
+    "Andrés Carballo",
+    "Christian B. Mendl",
+    "Aaron Sander"
+  ],
+  "summary": "Strongly correlated materials exhibit complex electronic phenomena that are challenging to capture with traditional theoretical methods, yet understanding these systems is crucial for discovering new quantum materials. Addressing the computational bottlenecks in studying such systems, we present a proof-of-concept machine learning-based approach to accelerate Dynamical Mean Field Theory (DMFT) calculations. Our method predicts interacting Green's functions on arbitrary two-dimensional lattices using a two-step ML framework. First, an autoencoder-based network learns and generates physically plausible band structures of materials, providing diverse training data. Next, a dense neural network predicts interacting Green's functions of these physically-possible band structures, expressed in the basis of Legendre polynomials. We demonstrate that this architecture can serve as a substitute for the computationally demanding quantum impurity solver in DMFT, significantly reducing computational cost while maintaining accuracy. This approach offers a scalable pathway to accelerate simulations of strongly correlated systems and lays the groundwork for future extensions to multi-band systems.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cond-mat.str-el, cond-mat.dis-nn"
+}

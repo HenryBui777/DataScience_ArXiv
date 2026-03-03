@@ -1,0 +1,14 @@
+{
+  "title": "Spectral Coarse-Graining and Rescaling for Preserving Structural and Dynamical Properties in Graphs",
+  "authors": [
+    "M. Schmidt",
+    "F. Caccioli",
+    "T. Aste"
+  ],
+  "summary": "We introduce a graph renormalization procedure based on the coarse-grained Laplacian, which generates reduced-complexity representations for characteristic scales identified through the spectral gap. This method retains both diffusion probabilities and large-scale topological structures, while reducing redundant information, facilitating the analysis of large graphs by decreasing the number of vertices. Applied to graphs derived from EEG recordings of human brain activity, our approach reveals macroscopic properties emerging from neuronal interactions, such as collective behavior in the form of coordinated neuronal activity. Additionally, it shows dynamic reorganization of brain activity across scales, with more generalized patterns during rest and more specialized and scale-invariant activity in the occipital lobe during attention-focused tasks.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cond-mat.stat-mech, cond-mat.dis-nn, physics.bio-ph, physics.data-an"
+}

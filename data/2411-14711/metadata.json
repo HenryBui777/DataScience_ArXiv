@@ -1,0 +1,18 @@
+{
+  "title": "Can GNNs Learn Link Heuristics? A Concise Review and Evaluation of Link Prediction Methods",
+  "authors": [
+    "Shuming Liang",
+    "Yu Ding",
+    "Zhidong Li",
+    "Bin Liang",
+    "Siqi Zhang",
+    "Yang Wang",
+    "Fang Chen"
+  ],
+  "summary": "This paper explores the ability of Graph Neural Networks (GNNs) in learning various forms of information for link prediction, alongside a brief review of existing link prediction methods. Our analysis reveals that GNNs cannot effectively learn structural information related to the number of common neighbors between two nodes, primarily due to the nature of set-based pooling of the neighborhood aggregation scheme. Also, our extensive experiments indicate that trainable node embeddings can improve the performance of GNN-based link prediction models. Importantly, we observe that the denser the graph, the greater such the improvement. We attribute this to the characteristics of node embeddings, where the link state of each link sample could be encoded into the embeddings of nodes that are involved in the neighborhood aggregation of the two nodes in that link sample. In denser graphs, every node could have more opportunities to attend the neighborhood aggregation of other nodes and encode states of more link samples to its embedding, thus learning better node embeddings for link prediction. Lastly, we demonstrate that the insights gained from our research carry important implications in identifying the limitations of existing link prediction methods, which could guide the future development of more robust algorithms.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SI, cs.LG"
+}

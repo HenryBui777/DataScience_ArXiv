@@ -1,0 +1,16 @@
+{
+  "title": "Minimizing information loss reduces spiking neuronal networks to differential equations",
+  "authors": [
+    "Jie Chang",
+    "Zhuoran Li",
+    "Zhongyi Wang",
+    "Louis Tao",
+    "Zhuo-Cheng Xiao"
+  ],
+  "summary": "Spiking neuronal networks (SNNs) are widely used in computational neuroscience, from biologically realistic modeling of local cortical networks to phenomenological modeling of the whole brain. Despite their prevalence, a systematic mathematical theory for finite-sized SNNs remains elusive, even for idealized homogeneous networks. The primary challenges are twofold: 1) the rich, parameter-sensitive SNN dynamics, and 2) the singularity and irreversibility of spikes. These challenges pose significant difficulties when relating SNNs to systems of differential equations, leading previous studies to impose additional assumptions or to focus on individual dynamic regimes. In this study, we introduce a Markov approximation of homogeneous SNN dynamics to minimize information loss when translating SNNs into ordinary differential equations. Our only assumption for the Markov approximation is the fast self-decorrelation of synaptic conductances. The system of ordinary differential equations derived from the Markov model effectively captures high-frequency partial synchrony and the metastability of finite-neuron networks produced by interacting excitatory and inhibitory populations. Besides accurately predicting dynamical statistics, such as firing rates, our theory also quantitatively captures the geometry of attractors and bifurcation structures of SNNs. Thus, our work provides a comprehensive mathematical framework that can systematically map parameters of single-neuron physiology, network coupling, and external stimuli to homogeneous SNN dynamics.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-bio.NC, math.DS"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Subgroup analysis in multi level hierarchical cluster randomized trials",
+  "authors": [
+    "Shubhadeep Chakraborty",
+    "Bo Wang",
+    "Ram Tiwari",
+    "Samiran Ghosh"
+  ],
+  "summary": "Cluster or group randomized trials (CRTs) are increasingly used for both behavioral and system-level interventions, where entire clusters are randomly assigned to a study condition or intervention. Apart from the assigned cluster-level analysis, investigating whether an intervention has a differential effect for specific subgroups remains an important issue, though it is often considered an afterthought in pivotal clinical trials. Determining such subgroup effects in a CRT is a challenging task due to its inherent nested cluster structure. Motivated by a real-life HIV prevention CRT, we consider a three-level cross-sectional CRT, where randomization is carried out at the highest level and subgroups may exist at different levels of the hierarchy. We employ a linear mixed-effects model to estimate the subgroup-specific effects through their maximum likelihood estimators (MLEs). Consequently, we develop a consistent test for the significance of the differential intervention effect between two subgroups at different levels of the hierarchy, which is the key methodological contribution of this work. We also derive explicit formulae for sample size determination to detect a differential intervention effect between two subgroups, aiming to achieve a given statistical power in the case of a planned confirmatory subgroup analysis. The application of our methodology is illustrated through extensive simulation studies using synthetic data, as well as with real-world data from an HIV prevention CRT in The Bahamas.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME"
+}

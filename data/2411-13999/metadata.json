@@ -1,0 +1,16 @@
+{
+  "title": "Accelerated zero-order SGD under high-order smoothness and overparameterized regime",
+  "authors": [
+    "Georgii Bychkov",
+    "Darina Dvinskikh",
+    "Anastasia Antsiferova",
+    "Alexander Gasnikov",
+    "Aleksandr Lobanov"
+  ],
+  "summary": "We present a novel gradient-free algorithm to solve a convex stochastic optimization problem, such as those encountered in medicine, physics, and machine learning (e.g., adversarial multi-armed bandit problem), where the objective function can only be computed through numerical simulation, either as the result of a real experiment or as feedback given by the function evaluations from an adversary. Thus we suppose that only a black-box access to the function values of the objective is available, possibly corrupted by adversarial noise: deterministic or stochastic. The noisy setup can arise naturally from modeling randomness within a simulation or by computer discretization, or when exact values of function are forbidden due to privacy issues, or when solving non-convex problems as convex ones with an inexact function oracle. By exploiting higher-order smoothness, fulfilled, e.g., in logistic regression, we improve the performance of zero-order methods developed under the assumption of classical smoothness (or having a Lipschitz gradient). The proposed algorithm enjoys optimal oracle complexity and is designed under an overparameterization setup, i.e., when the number of model parameters is much larger than the size of the training dataset. Overparametrized models fit to the training data perfectly while also having good generalization and outperforming underparameterized models on unseen data. We provide convergence guarantees for the proposed algorithm under both types of noise. Moreover, we estimate the maximum permissible adversarial noise level that maintains the desired accuracy in the Euclidean setup, and then we extend our results to a non-Euclidean setup. Our theoretical results are verified on the logistic regression problem.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC, cs.LG"
+}

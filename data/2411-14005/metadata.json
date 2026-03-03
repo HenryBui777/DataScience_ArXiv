@@ -1,0 +1,17 @@
+{
+  "title": "The Double Emulator",
+  "authors": [
+    "Conor Crilly",
+    "Oliver Johnson",
+    "Alexander Lewis",
+    "Jonathan Rougier"
+  ],
+  "summary": "Computer models (simulators) are vital tools for investigating physical processes. Despite their utility, the prohibitive run-time of simulators hinders their direct application for uncertainty quantification. Gaussian process emulators (GPEs) have been used extensively to circumvent the cost of the simulator and are known to perform well on simulators with smooth, stationary output. In reality, many simulators violate these assumptions. Motivated by a finite element simulator which models early stage corrosion of uranium in water vapor, we propose an adaption of the GPE, called the double emulator, specifically for simulators which 'ground' in a considerable volume of their input space. Grounding is the process by which a simulator attains its minimum and can result in violation of the stationarity and smoothness assumptions used in the conventional GPE. We perform numerical experiments comparing the performance of the GPE and double emulator on both the corrosion simulator and synthetic examples.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-22"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.CO"
+}

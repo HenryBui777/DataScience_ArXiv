@@ -1,0 +1,15 @@
+{
+  "title": "Real Gaussian exponential sums via a real moment map",
+  "authors": [
+    "Léo Mathis"
+  ],
+  "summary": "We study the expected number of solutions of a system of identically distributed exponential sums with centered Gaussian coefficient and arbitrary variance. We use the Adler and Taylor theory of Gaussian random fields to identify a moment map which allows to express the expected number of solution as an integral over the Newton polytope, in analogy with the Bernstein Khovanskii Kushnirenko Theorem. We apply this result to study the monotonicity of the expected number of solution with respect to the support of the exponential sum in an open set. We find that, when a point is added in the support in the interior of the Newton polytope there exists an open sets where the expected number of solutions decreases, answering negatively to a local version of a conjecture by Bürgisser. When the point added in the support is far enough away from the Newton polytope we show that there is an unbounded open set where the number of solution decreases. We also prove some new lower bounds for the Aronszajn multiplication of exponential sums.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-01-27",
+    "2025-04-22"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.PR, math.MG"
+}

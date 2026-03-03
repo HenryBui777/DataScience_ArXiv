@@ -1,0 +1,13 @@
+{
+  "title": "Quantum-assisted hλ-adaptive finite element method",
+  "authors": [
+    "R. H. Drebotiy",
+    "H. A. Shynkarenko"
+  ],
+  "summary": "We propose a novel finite element method scheme for singularly perturbed advection-diffusion-reaction problems, which combines certain quantum-assisted stabilization scheme with a classical h-adaptive approach to provide automatic error control and corresponding approximation refinement. Appropriate finite element a posteriori error estimates are proved. Described approach demonstrates the possibility to overcome singular perturbations by applying error-controlled smoothening to finite element approximation. Possible benefits of the proposed finite element scheme are discussed and the numerical comparison with the typical adaptive scheme is provided.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

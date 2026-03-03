@@ -1,0 +1,31 @@
+{
+  "title": "ToolScan: A Benchmark for Characterizing Errors in Tool-Use LLMs",
+  "authors": [
+    "Shirley Kokane",
+    "Ming Zhu",
+    "Tulika Awalgaonkar",
+    "Jianguo Zhang",
+    "Thai Hoang",
+    "Akshara Prabhakar",
+    "Zuxin Liu",
+    "Tian Lan",
+    "Liangwei Yang",
+    "Juntao Tan",
+    "Rithesh Murthy",
+    "Weiran Yao",
+    "Zhiwei Liu",
+    "Juan Carlos Niebles",
+    "Huan Wang",
+    "Shelby Heinecke",
+    "Caiming Xiong",
+    "Silivo Savarese"
+  ],
+  "summary": "Evaluating Large Language Models (LLMs) is one of the most critical aspects of building a performant compound AI system. Since the output from LLMs propagate to downstream steps, identifying LLM errors is crucial to system performance. A common task for LLMs in AI systems is tool use. While there are several benchmark environments for evaluating LLMs on this task, they typically only give a success rate without any explanation of the failure cases. To solve this problem, we introduce TOOLSCAN, a new benchmark to identify error patterns in LLM output on tool-use tasks. Our benchmark data set comprises of queries from diverse environments that can be used to test for the presence of seven newly characterized error patterns. Using TOOLSCAN, we show that even the most prominent LLMs exhibit these error patterns in their outputs. Researchers can use these insights from TOOLSCAN to guide their error mitigation strategies.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-06-26"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SE, cs.AI"
+}

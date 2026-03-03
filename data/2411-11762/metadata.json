@@ -1,0 +1,19 @@
+{
+  "title": "High-Speed Cornering Control and Real-Vehicle Deployment for Autonomous Electric Vehicles",
+  "authors": [
+    "Shiyue Zhao",
+    "Junzhi Zhang",
+    "Neda Masoud",
+    "Yuhong Jiang",
+    "Heye Huang",
+    "Tao Liu"
+  ],
+  "summary": "Executing drift maneuvers during high-speed cornering presents significant challenges for autonomous vehicles, yet offers the potential to minimize turning time and enhance driving dynamics. While reinforcement learning (RL) has shown promising results in simulated environments, discrepancies between simulations and real-world conditions have limited its practical deployment. This study introduces an innovative control framework that integrates trajectory optimization with drift maneuvers, aiming to improve the algorithm's adaptability for real-vehicle implementation. We leveraged Bezier-based pre-trajectory optimization to enhance rewards and optimize the controller through Twin Delayed Deep Deterministic Policy Gradient (TD3) in a simulated environment. For real-world deployment, we implement a hybrid RL-MPC fusion mechanism, , where TD3-derived maneuvers serve as primary inputs for a Model Predictive Controller (MPC). This integration enables precise real-time tracking of the optimal trajectory, with MPC providing corrective inputs to bridge the gap between simulation and reality. The efficacy of this method is validated through real-vehicle tests on consumer-grade electric vehicles, focusing on drift U-turns and drift right-angle turns. The control outcomes of these real-vehicle tests are thoroughly documented in the paper, supported by supplementary video evidence (https://youtu.be/5wp67FcpfL8). Notably, this study is the first to deploy and apply an RL-based transient drift cornering algorithm on consumer-grade electric vehicles.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-21"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO, eess.SY"
+}

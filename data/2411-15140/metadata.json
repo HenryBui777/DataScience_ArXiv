@@ -1,0 +1,16 @@
+{
+  "title": "Emulating Recombination with Neural Networks using Universal Differential Equations",
+  "authors": [
+    "Ben Pennell",
+    "Zack Li",
+    "James M. Sullivan"
+  ],
+  "summary": "With an aim towards modeling cosmologies beyond the $Λ$CDM paradigm, we demonstrate the automatic construction of recombination history emulators while enforcing a prior of causal dynamics. These methods are particularly useful in the current era of precision cosmology, where extremely constraining datasets provide insights into a cosmological model dominated by unknown contents. Cosmic Microwave Background (CMB) data in particular provide a clean glimpse into the interaction of dark matter, baryons, and radiation in the early Universe, but interpretation of this data requires knowledge of the Universe's ionization history. The exploration of new physics with new CMB data will require fast and flexible calculation of this ionization history. We develop a differentiable machine learning model for recombination physics using a neural network ordinary differential equation architecture (Universal Differential Equations, UDEs), building towards automatic dimensionality reduction and the avoidance of manual tuning based on cosmological model.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-11-26"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.CO"
+}

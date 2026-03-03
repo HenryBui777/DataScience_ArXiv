@@ -1,0 +1,14 @@
+{
+  "title": "Adaptively Controllable Diffusion Model for Efficient Conditional Image Generation",
+  "authors": [
+    "Yucheng Xing",
+    "Xiaodong Liu",
+    "Xin Wang"
+  ],
+  "summary": "With the development of artificial intelligence, more and more attention has been put onto generative models, which represent the creativity, a very important aspect of intelligence. In recent years, diffusion models have been studied and proven to be more reasonable and effective than previous methods. However, common diffusion frameworks suffer from controllability problems. Although extra conditions have been considered by some work to guide the diffusion process for a specific target generation, it only controls the generation result but not its process. In this work, we propose a new adaptive framework, $\\textit{Adaptively Controllable Diffusion (AC-Diff) Model}$, to automatically and fully control the generation process, including not only the type of generation result but also the length and parameters of the generation process. Both inputs and conditions will be first fed into a $\\textit{Conditional Time-Step (CTS) Module}$ to determine the number of steps needed for a generation. Then according to the length of the process, the diffusion rate parameters will be estimated through our $\\textit{Adaptive Hybrid Noise Schedule (AHNS) Module}$. We further train the network with the corresponding adaptive sampling mechanism to learn how to adjust itself according to the conditions for the overall performance improvement. To enable its practical applications, AC-Diff is expected to largely reduce the average number of generation steps and execution time while maintaining the same performance as done in the literature diffusion models.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI, cs.LG"
+}

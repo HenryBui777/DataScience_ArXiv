@@ -1,0 +1,13 @@
+{
+  "title": "On the physics of nested Markov models: a generalized probabilistic theory perspective",
+  "authors": [
+    "Xingjian Zhang",
+    "Yuhao Wang"
+  ],
+  "summary": "Determining potential probability distributions with a given causal graph is vital for causality studies. To bypass the difficulty in characterizing latent variables in a Bayesian network, the nested Markov model provides an elegant algebraic approach by listing exactly all the equality constraints on the observed variables. However, this algebraically motivated causal model comprises distributions outside Bayesian networks, and its physical interpretation remains vague. In this work, we inspect the nested Markov model through the lens of generalized probabilistic theory, an axiomatic framework to describe general physical theories. We prove that all the equality constraints defining the nested Markov model hold valid theory-independently. Yet, we show this model generally contains distributions not implementable even within such relaxed physical theories subjected to merely the relativity principles and mild probabilistic rules. To interpret the origin of such a gap, we establish a new causal model that defines valid distributions as projected from a high-dimensional Bell-type causal structure. The new model unveils inequality constraints induced by relativity principles, or equivalently high-dimensional conditional independences, which are absent in the nested Markov model. Nevertheless, we also notice that the restrictions on states and measurements introduced by the generalized probabilistic theory framework can pose additional inequality constraints beyond the new causal model. As a by-product, we discover a new causal structure exhibiting strict gaps between the distribution sets of a Bayesian network, generalized probabilistic theories, and the nested Markov model. We anticipate our results will enlighten further explorations on the unification of algebraic and physical perspectives of causality.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, cs.LG, math.ST"
+}

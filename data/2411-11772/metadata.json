@@ -1,0 +1,17 @@
+{
+  "title": "On the convergence of flow map parameterization methods for whiskered tori in quasi-periodic Hamiltonian systems",
+  "authors": [
+    "Álvaro Fernández-Mora",
+    "Alex Haro",
+    "Josep-Maria Mondelo"
+  ],
+  "summary": "In this work, we obtain an a-posteriori theorem for the existence of partly hyperbolic invariant tori in analytic Hamiltonian systems: autonomous, periodic, and quasi-periodic. The method of proof is based on the convergence of a KAM iterative scheme to solve the invariance equations of tori and their invariant bundles under the framework of the parameterization method. Starting from parameterizations analytic in a complex strip and satisfying their invariance equations approximatly, we derive conditions for the existence of analytic parameterizations in a smaller strip satisfying the invariance equations exactly. The proof relies on the careful treatment of the analyticity loss with each iterative step and on the control of geometric properties of symplectic flavour. We also provide all the necessary explicit constants to perform computer assisted proofs.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-12-20",
+    "2025-08-18"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.DS"
+}

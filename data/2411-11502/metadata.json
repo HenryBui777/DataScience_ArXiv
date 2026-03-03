@@ -1,0 +1,15 @@
+{
+  "title": "All-domain Moveline Evolution Network for Click-Through Rate Prediction",
+  "authors": [
+    "Chen Gao",
+    "Zixin Zhao",
+    "Lv Shao",
+    "Tong Liu"
+  ],
+  "summary": "E-commerce app users exhibit behaviors that are inherently logically consistent. A series of multi-scenario user behaviors interconnect to form the scene-level all-domain user moveline, which ultimately reveals the user's true intention. Traditional CTR prediction methods typically focus on the item-level interaction between the target item and the historically interacted items. However, the scene-level interaction between the target item and the user moveline remains underexplored. There are two challenges when modeling the interaction with preceding all-domain user moveline: (i) Heterogeneity between items and scenes: Unlike traditional user behavior sequences that utilize items as carriers, the user moveline utilizes scenes as carriers. The heterogeneity between items and scenes complicates the process of aligning interactions within a unified representation space. (ii) Temporal misalignment of linked scene-level and item-level behaviors: In the preceding user moveline with a fixed sampling length, certain critical scene-level behaviors are closely linked to subsequent item-level behaviors. However, it is impossible to establish a complete temporal alignment that clearly identifies which specific scene-level behaviors correspond to which item-level behaviors. To address these challenges and pioneer modeling user intent from the perspective of the all-domain moveline, we propose All-domain Moveline Evolution Network (AMEN). AMEN not only transfers interactions between items and scenes to homogeneous representation spaces, but also introduces a Temporal Sequential Pairwise (TSP) mechanism to understand the nuanced associations between scene-level and item-level behaviors, ensuring that the all-domain user moveline differentially influences CTR predictions for user's favored and unfavored items. Online A/B testing demonstrates that our method achieves a +11.6% increase in CTCVR.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IR"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "The Effects of Major League Baseball's Ban on Infield Shifts: A Quasi-Experimental Analysis",
+  "authors": [
+    "Lee Kennedy-Shaffer"
+  ],
+  "summary": "From 2020 to 2023, Major League Baseball changed rules affecting team composition, player positioning, and game time. Understanding the effects of these rules is crucial for leagues, teams, players, and other relevant parties to assess their impact and to advocate either for further changes or undoing previous ones. Panel data and quasi-experimental methods provide useful tools for causal inference in these settings. I demonstrate this potential by analyzing the effect of the 2023 shift ban at both the league-wide and player-specific levels. Using difference-in-differences analysis, I show that the policy increased batting average on balls in play and on-base percentage for left-handed batters by a modest amount (nine points). For individual players, synthetic control analyses identify several players whose offensive performance (on-base percentage, on-base plus slugging percentage, and weighted on-base average) improved substantially (over 70 points in several cases) because of the rule change, and other players with previously high shift rates for whom it had little effect. This article both estimates the impact of this specific rule change and demonstrates how these methods for causal inference are potentially valuable for sports analytics -- at the player, team, and league levels -- more broadly.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.AP, stat.ME"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Segment Anything in Light Fields for Real-Time Applications via Constrained Prompting",
+  "authors": [
+    "Nikolai Goncharov",
+    "Donald G. Dansereau"
+  ],
+  "summary": "Segmented light field images can serve as a powerful representation in many of computer vision tasks exploiting geometry and appearance of objects, such as object pose tracking. In the light field domain, segmentation presents an additional objective of recognizing the same segment through all the views. Segment Anything Model 2 (SAM 2) allows producing semantically meaningful segments for monocular images and videos. However, using SAM 2 directly on light fields is highly ineffective due to unexploited constraints. In this work, we present a novel light field segmentation method that adapts SAM 2 to the light field domain without retraining or modifying the model. By utilizing the light field domain constraints, the method produces high quality and view-consistent light field masks, outperforming the SAM 2 video tracking baseline and working 7 times faster, with a real-time speed. We achieve this by exploiting the epipolar geometry cues to propagate the masks between the views, probing the SAM 2 latent space to estimate their occlusion, and further prompting SAM 2 for their refinement.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

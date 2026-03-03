@@ -1,0 +1,14 @@
+{
+  "title": "Efficient Sample-optimal Learning of Gaussian Tree Models via Sample-optimal Testing of Gaussian Mutual Information",
+  "authors": [
+    "Sutanu Gayen",
+    "Sanket Kale",
+    "Sayantan Sen"
+  ],
+  "summary": "Learning high-dimensional distributions is a significant challenge in machine learning and statistics. Classical research has mostly concentrated on asymptotic analysis of such data under suitable assumptions. While existing works [Bhattacharyya et al.: SICOMP 2023, Daskalakis et al.: STOC 2021, Choo et al.: ALT 2024] focus on discrete distributions, the current work addresses the tree structure learning problem for Gaussian distributions, providing efficient algorithms with solid theoretical guarantees. This is crucial as real-world distributions are often continuous and differ from the discrete scenarios studied in prior works.\n  In this work, we design a conditional mutual information tester for Gaussian random variables that can test whether two Gaussian random variables are independent, or their conditional mutual information is at least $\\varepsilon$, for some parameter $\\varepsilon \\in (0,1)$ using $\\mathcal{O}(\\varepsilon^{-1})$ samples which we show to be near-optimal. In contrast, an additive estimation would require $Ω(\\varepsilon^{-2})$ samples. Our upper bound technique uses linear regression on a pair of suitably transformed random variables. Importantly, we show that the chain rule of conditional mutual information continues to hold for the estimated (conditional) mutual information. As an application of such a mutual information tester, we give an efficient $\\varepsilon$-approximate structure-learning algorithm for an $n$-variate Gaussian tree model that takes $\\widetildeΘ(n\\varepsilon^{-1})$ samples which we again show to be near-optimal. In contrast, when the underlying Gaussian model is not known to be tree-structured, we show that $\\widetilde{Θ}(n^2\\varepsilon^{-2})$ samples are necessary and sufficient to output an $\\varepsilon$-approximate tree structure. We perform extensive experiments that corroborate our theoretical convergence bounds.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.DS, stat.ML"
+}

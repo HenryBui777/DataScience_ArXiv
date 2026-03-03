@@ -1,0 +1,15 @@
+{
+  "title": "Explainable Finite-Memory Policies for Partially Observable Markov Decision Processes",
+  "authors": [
+    "Muqsit Azeem",
+    "Debraj Chakraborty",
+    "Sudeep Kanav",
+    "Jan Kretinsky"
+  ],
+  "summary": "Partially Observable Markov Decision Processes (POMDPs) are a fundamental framework for decision-making under uncertainty and partial observability. Since in general optimal policies may require infinite memory, they are hard to implement and often render most problems undecidable. Consequently, finite-memory policies are mostly considered instead. However, the algorithms for computing them are typically very complex, and so are the resulting policies. Facing the need for their explainability, we provide a representation of such policies, both (i) in an interpretable formalism and (ii) typically of smaller size, together yielding higher explainability. To that end, we combine models of Mealy machines and decision trees; the latter describing simple, stationary parts of the policies and the former describing how to switch among them. We design a translation for policies of the finite-state-controller (FSC) form from standard literature and show how our method smoothly generalizes to other variants of finite-memory policies. Further, we identify specific properties of recently used \"attractor-based\" policies, which allow us to construct yet simpler and smaller representations. Finally, we illustrate the higher explainability in a few case studies.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AI, cs.LG, cs.RO, eess.SY"
+}

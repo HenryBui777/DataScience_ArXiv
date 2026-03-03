@@ -1,0 +1,17 @@
+{
+  "title": "Text-guided Zero-Shot Object Localization",
+  "authors": [
+    "Jingjing Wang",
+    "Xinglin Piao",
+    "Zongzhi Gao",
+    "Bo Li",
+    "Yong Zhang",
+    "Baocai Yin"
+  ],
+  "summary": "Object localization is a hot issue in computer vision area, which aims to identify and determine the precise location of specific objects from image or video. Most existing object localization methods heavily rely on extensive labeled data, which are costly to annotate and constrain their applicability. Therefore, we propose a new Zero-Shot Object Localization (ZSOL) framework for addressing the aforementioned challenges. In the proposed framework, we introduce the Contrastive Language Image Pre-training (CLIP) module which could integrate visual and linguistic information effectively. Furthermore, we design a Text Self-Similarity Matching (TSSM) module, which could improve the localization accuracy by enhancing the representation of text features extracted by CLIP module. Hence, the proposed framework can be guided by prompt words to identify and locate specific objects in an image in the absence of labeled samples. The results of extensive experiments demonstrate that the proposed method could improve the localization performance significantly and establishes an effective benchmark for further research.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

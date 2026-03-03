@@ -1,0 +1,15 @@
+{
+  "title": "Determining the covering radius of all generalized Zetterberg codes in odd characteristic",
+  "authors": [
+    "Minjia Shi",
+    "Shitao Li",
+    "Tor Helleseth",
+    "Ferruh Ozbudak"
+  ],
+  "summary": "For an integer $s\\ge 1$, let $\\mathcal{C}_s(q_0)$ be the generalized Zetterberg code of length $q_0^s+1$ over the finite field $\\F_{q_0}$ of odd characteristic. Recently, Shi, Helleseth, and Özbudak (IEEE Trans. Inf. Theory 69(11): 7025-7048, 2023) determined the covering radius of $\\mathcal{C}_s(q_0)$ for $q_0^s \\not \\equiv 7 \\pmod{8}$, and left the remaining case as an open problem. In this paper, we develop a general technique involving arithmetic of finite fields and algebraic curves over finite fields to determine the covering radius of all generalized Zetterberg codes for $q_0^s \\equiv 7 \\pmod{8}$, which therefore solves this open problem. We also introduce the concept of twisted half generalized Zetterberg codes of length $\\frac{q_0^s+1}{2}$, and show the same results hold for them. As a result, we obtain some quasi-perfect codes.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IT"
+}

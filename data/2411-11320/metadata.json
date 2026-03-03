@@ -1,0 +1,14 @@
+{
+  "title": "Robust and Constrained Estimation of State-Space Models: A Majorization-Minimization Approach",
+  "authors": [
+    "Yifan Yu",
+    "Shengjie Xiu",
+    "Daniel P. Palomar"
+  ],
+  "summary": "In this paper, we present a novel optimization algorithm designed specifically for estimating state-space models to deal with heavy-tailed measurement noise and constraints. Our algorithm addresses two significant limitations found in existing approaches: susceptibility to measurement noise outliers and difficulties in incorporating constraints into state estimation. By formulating constrained state estimation as an optimization problem and employing the Majorization-Minimization (MM) approach, our framework provides a unified solution that enhances the robustness of the Kalman filter. Experimental results demonstrate high accuracy and computational efficiency achieved by our proposed approach, establishing it as a promising solution for robust and constrained state estimation in real-world applications.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP"
+}

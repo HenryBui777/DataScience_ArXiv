@@ -1,0 +1,12 @@
+{
+  "title": "Invariant Sublinear Expectations",
+  "authors": [
+    "Yongsheng Song"
+  ],
+  "summary": "We first give a decomposition for a $T$-invariant sublinear expectation $\\mathbb{E}=\\sup_{P\\inΘ}\\mathrm{E}_P$, and show that each component $\\mathbb{E}^{(d)}=\\sup_{P\\inΘ^{(d)}}\\mathrm{E}_P$ of the decomposition has a finite period $p_d\\in\\mathbb{N}$, i.e., \\[\\mathbb{E}^{(d)}\\left[f-f\\circ T^{p_d}\\right]=0, \\quad f\\in\\mathcal{H}.\\] Then we prove that a continuous invariant sublinear expectation that is strongly ergodic has a finite period $p_{\\mathbb{E}}$, and each component $Θ^{(d)}$ of its periodic decomposition is the convex hull of a finite set of $T^{p_d}$-ergodic probabilities.\n  As an application of the characterization, we prove an ergodicity result which shows that the limit of the $p_{\\mathbb{E}}$-step time means achieves the upper expectation.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.PR"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Semantics for Linear-time Temporal Logic with Finite Observations",
+  "authors": [
+    "Rayhana Amjad",
+    "Rob van Glabbeek",
+    "Liam O'Connor"
+  ],
+  "summary": "LTL3 is a multi-valued variant of Linear-time Temporal Logic for runtime verification applications. The semantic descriptions of LTL3 in previous work are given only in terms of the relationship to conventional LTL. Our approach, by contrast, gives a full model-based inductive accounting of the semantics of LTL3, in terms of families of definitive prefix sets. We show that our definitive prefix sets are isomorphic to linear-time temporal properties (sets of infinite traces), and thereby show that our semantics of LTL3 directly correspond to the semantics of conventional LTL. In addition, we formalise the formula progression evaluation technique, popularly used in runtime verification and testing contexts, and show its soundness and completeness up to finite traces with respect to our semantics. All of our definitions and proofs are mechanised in Isabelle/HOL.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "EPTCS 412, 2024, pp. 35-50",
+  "pdf_url": null,
+  "category": "cs.LO"
+}

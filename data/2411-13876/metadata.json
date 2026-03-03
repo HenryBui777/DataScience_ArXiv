@@ -1,0 +1,13 @@
+{
+  "title": "Iterative decoding of short BCH codes and its post-processing",
+  "authors": [
+    "Guangwen Li",
+    "Xiao Yu"
+  ],
+  "summary": "Effective iterative decoding of short BCH codes faces two primary challenges: identifying an appropriate parity-check matrix and accelerating decoder convergence. To address these issues, we propose a systematic scheme to derive an optimized parity-check matrix through a heuristic approach. This involves a series of binary sum and row shift operations, resulting in a low-density, quasi-regular column weight distribution with a reduced number of shortest cycles in the underlying redundant Tanner graph. For the revised normalized min-sum decoder, we concurrently integrate three types of random permutations into the alternated messages across iterations, leading to significantly faster convergence compared to existing methods. Furthermore, by utilizing the iterative trajectories of failed normalized min-sum decoding, we enhance the reliability measurement of codeword bits with the assistance of a neural network model from prior work, which accommodates more failures for the post-processing of ordered statistics decoding. Additionally, we report the types of undetected errors for the design of iterative decoders for short BCH codes, which potentially challenge efforts to approach the maximum likelihood limit. Extensive simulations demonstrate that the proposed hybrid framework achieves an attractive balance between performance, latency, and complexity.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IT"
+}

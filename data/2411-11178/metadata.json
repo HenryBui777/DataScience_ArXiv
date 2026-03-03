@@ -1,0 +1,24 @@
+{
+  "title": "IRADCAL: A Monolithic Inorganic Scintillator And Thin Scintillators To Measure Low Energy Electron, Proton And Heavy Ion Albedo Spectrums From Lunar Surface",
+  "authors": [
+    "A. B. Alpat",
+    "A. Bozkurt",
+    "G. Bartolini",
+    "R. Bayram",
+    "A. I. Shah",
+    "L. Salvi",
+    "Y. Bakis",
+    "E. Huseyinoglu",
+    "T. Wusimanjiang",
+    "H. Raheem",
+    "D. Dolek",
+    "N. Ciccarella",
+    "S. Gigli"
+  ],
+  "summary": "The Moon is directly exposed to various space radiation types: Solar Wind (ions between 0.5 to 10 keV and lower energy electrons), Solar Energetic Particles (SEPs, ranging from 10 keV to several hundred MeV ions and electrons), Galactic Cosmic Rays (GCRs) and Anomalous Cosmic Rays (ACRs, ranging from 1 to 100 MeV particles). Monitoring SEPs and GCRs is critical to assess the lunar radiation environment in preparation for the return of humans to the Moon and to understand related radiation risks. As part of the Turkish Lunar Mission (TLM), a small acceptance particle detector is being developed to measure the albedo electron, proton, and heavy ion fluxes backscattered from the lunar surface. In low lunar orbit, the detector FoV will look at the Moon surface. The IRADCAL detectors consist of several layers, from top to down: a Multi-Layer Insulator (MLI); a thin plastic scintillator (S1) seen by four Silicon Photomultipliers (SIPMs), placed to form a cross on light guide surrounding the scintillator (S1); a 26x26x70 mm3 CsI(Tl) crystal scintillator (S2) and a thin crystal scintillator seen by four SIPMs (S3). The detector is designed to measure contained proton energy spectrum from 400 keV to 150 MeV, electron from 50 keV to 10 MeV and heavy ions (up to the CNO group) with energies up to 20 MeV/n. IRADCAL will provide two dE/dX values from two thin scintillators, Etot or dE/dX from thick scintillator, and dE/E ratios for particle identification. A multi-layer perceptron is being developed by using deep neural network algorithm to estimate the Depth of Interaction (DoI). S1 provides level 1 trigger and hit position, which, combined with DoI point, will help determine if a particle is escaping from the sides and to separate up/down-going particles. The thicker S3 will help identify whether the event is fully contained. It will fit in 2U CubeSat with 2.5 kg and 15 Watts of power required.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "IAC-24-A3,IP,193. 2024",
+  "pdf_url": null,
+  "category": "physics.ins-det, hep-ex"
+}

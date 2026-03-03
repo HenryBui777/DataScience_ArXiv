@@ -1,0 +1,12 @@
+{
+  "title": "Strategic Optimization and Demand Response for Thermal Load Management in Multi-Regional Integrated Energy Systems: A Stackelberg Game Approach",
+  "authors": [
+    "Ranran Yang"
+  ],
+  "summary": "In the context of high fossil fuel consumption and inefficiency within China's energy systems, effective demand-side management is essential. This study examines the thermal characteristics of various building types across different functional areas, utilizing the concept of body coefficient to integrate their unique structural and energy use traits into a demand response framework supported by real-time pricing. We developed a Stackelberg game-based bi-level optimization model that captures the dynamic interplay of costs and benefits between integrated energy providers and users. This model is formulated into a Mixed Integer Linear Programming (MILP) problem using Karush-Kuhn-Tucker (KKT) conditions and linearized with the Big M method, subsequently solved using MATLAB and CPLEX. This approach enables distinctive management of heating loads in public and residential areas, optimizing energy efficiency while balancing the interests of both providers and users. Furthermore, the study explores how the proportion of different area types affects the potential for reducing heat loads, providing insights into the scalability and effectiveness of demand response strategies in integrated energy systems. This analysis not only highlights the economic benefits of such strategies but also their potential in reducing dependency on traditional energy sources, thus contributing to more sustainable energy system practices.",
+  "submission_date": "2024-11-03",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

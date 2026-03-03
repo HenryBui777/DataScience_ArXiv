@@ -1,0 +1,16 @@
+{
+  "title": "The EE-Classifier: A classification method for functional data based on extremality indexes",
+  "authors": [
+    "Catalina Lesmes",
+    "Francisco Zuluaga",
+    "Henry Laniado",
+    "Andres Gomez",
+    "Andrea Carvajal"
+  ],
+  "summary": "Functional data analysis has gained significant attention due to its wide applicability. This research explores the extension of statistical analysis methods for functional data, with a primary focus on supervised classification techniques. It provides a review on the existing depth-based methods used in functional data samples. Building on this foundation, it introduces an extremality-based approach, which takes the modified epigraph and hypograph indexes properties as classification techniques. To demonstrate the effectiveness of the classifier, it is applied to both real-world and synthetic data sets. The results show its efficacy in accurately classifying functional data. Additionally, the classifier is used to analyze the fluctuations in the S\\&P 500 stock value. This research contributes to the field of functional data analysis by introducing a new extremality-based classifier. The successful application to various data sets shows its potential for supervised classification tasks and provides valuable insights into financial data analysis.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME, math.FA"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "DexAssist: A Voice-Enabled Dual-LLM Framework for Accessible Web Navigation",
+  "authors": [
+    "Shridhar Mehendale",
+    "Ankit Walishetti"
+  ],
+  "summary": "Individuals with fine motor impairments, such as those caused by conditions like Parkinson's disease, cerebral palsy, or dyspraxia, face significant challenges in interacting with traditional computer interfaces. Historically, scripted automation has offered some assistance, but these solutions are often too rigid and task-specific, failing to adapt to the diverse needs of users. The advent of Large Language Models (LLMs) promised a more flexible approach, capable of interpreting natural language commands to navigate complex user interfaces. However, current LLMs often misinterpret user intent and have no fallback measures when user instructions do not directly align with the specific wording used in the Document Object Model (DOM). This research presents Dexterity Assist (DexAssist), a dual-LLM system designed to improve the reliability of automated user interface control. Both LLMs work iteratively to ensure successful task execution: the Navigator LLM generates actions based on user input, while the Support LLM assesses the success of these actions and provides continuous feedback based on the DOM content. Our framework displays an increase of ~36 percentage points in overall accuracy within the first iteration of the Support LLM, highlighting its effectiveness in resolving errors in real-time. The main contributions of this paper are the design of a novel dual LLM-based accessibility system, its implementation, and its initial evaluation using 3 e-commerce websites. We conclude by underscoring the potential to build on this framework by optimizing computation time and fine-tuning.",
+  "submission_date": "2024-11-05",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.HC"
+}

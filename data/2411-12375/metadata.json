@@ -1,0 +1,17 @@
+{
+  "title": "Risk-Neutral Pricing Model of Uniswap Liquidity Providing Position: A Stopping Time Approach",
+  "authors": [
+    "Liang Hou",
+    "Hao Yu",
+    "Guosong Xu"
+  ],
+  "summary": "In this paper, we introduce a novel pricing model for Uniswap V3, built upon stochastic processes and the Martingale Stopping Theorem. This model innovatively frames the valuation of positions within Uniswap V3. We further conduct a numerical analysis and examine the sensitivities through Greek risk measures to elucidate the model's implications. The results underscore the model's significant academic contribution and its practical applicability for Uniswap liquidity providers, particularly in assessing risk exposure and guiding hedging strategies.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-12-09",
+    "2025-03-08"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-fin.PR, q-fin.MF"
+}

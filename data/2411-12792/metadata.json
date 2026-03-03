@@ -1,0 +1,16 @@
+{
+  "title": "CLIC: Contrastive Learning Framework for Unsupervised Image Complexity Representation",
+  "authors": [
+    "Shipeng Liu",
+    "Liang Zhao",
+    "Dengfeng Chen"
+  ],
+  "summary": "As a fundamental visual attribute, image complexity significantly influences both human perception and the performance of computer vision models. However, accurately assessing and quantifying image complexity remains a challenging task. (1) Traditional metrics such as information entropy and compression ratio often yield coarse and unreliable estimates. (2) Data-driven methods require expensive manual annotations and are inevitably affected by human subjective biases. To address these issues, we propose CLIC, an unsupervised framework based on Contrastive Learning for learning Image Complexity representations. CLIC learns complexity-aware features from unlabeled data, thereby eliminating the need for costly labeling. Specifically, we design a novel positive and negative sample selection strategy to enhance the discrimination of complexity features. Additionally, we introduce a complexity-aware loss function guided by image priors to further constrain the learning process. Extensive experiments validate the effectiveness of CLIC in capturing image complexity. When fine-tuned with a small number of labeled samples from IC9600, CLIC achieves performance competitive with supervised methods. Moreover, applying CLIC to downstream tasks consistently improves performance. Notably, both the pretraining and application processes of CLIC are free from subjective bias.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-04-25"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

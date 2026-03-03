@@ -1,0 +1,579 @@
+{
+  "2405-13954": {
+    "title": "What is Your Data Worth to GPT? LLM-Scale Data Valuation with Influence Functions",
+    "authors": [
+      "Sang Keun Choe",
+      "Hwijeen Ahn",
+      "Juhan Bae",
+      "Kewen Zhao",
+      "Minsoo Kang",
+      "Youngseog Chung",
+      "Adithya Pratapa",
+      "Willie Neiswanger",
+      "Emma Strubell",
+      "Teruko Mitamura",
+      "Jeff G. Schneider",
+      "Eduard H. Hovy",
+      "Roger B. Grosse",
+      "Eric P. Xing"
+    ],
+    "publication_date": "2024-05-22",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "f33f3dece9f34c1ec5417dccf9e0acf592d8e8cb",
+    "corpus_id": 269982256,
+    "category": "Computer Science"
+  },
+  "2310-12560": {
+    "title": "Fast Model Debias with Machine Unlearning",
+    "authors": [
+      "Ruizhe Chen",
+      "Jianfei Yang",
+      "Huimin Xiong",
+      "Jianhong Bai",
+      "Tianxiang Hu",
+      "Jinxiang Hao",
+      "Yang Feng",
+      "J. Zhou",
+      "Jian Wu",
+      "Zuo-Qiang Liu"
+    ],
+    "publication_date": "2023-10-19",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "2f1487214876e6048680b47fc833bb6813c0d0bf",
+    "corpus_id": 264306285,
+    "category": "Computer Science"
+  },
+  "2310-00902": {
+    "title": "DataInf: Efficiently Estimating Data Influence in LoRA-tuned LLMs and Diffusion Models",
+    "authors": [
+      "Yongchan Kwon",
+      "Eric Wu",
+      "Kevin Wu",
+      "James Zou"
+    ],
+    "publication_date": "2023-10-02",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "db6b5baa8390e065e7823a85010f952850ad8729",
+    "corpus_id": 263605578,
+    "category": "Computer Science, Mathematics"
+  },
+  "2312-12661": {
+    "title": "Misalign, Contrast then Distill: Rethinking Misalignments in Language-Image Pretraining",
+    "authors": [
+      "Bumsoo Kim",
+      "Yeonsik Jo",
+      "Jinhyung Kim",
+      "S. Kim"
+    ],
+    "publication_date": "2023-10-01",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "72b46062083ab049f6ec621299f8002c1a813248",
+    "corpus_id": 266374588,
+    "category": "Computer Science"
+  },
+  "2308-03296": {
+    "title": "Studying Large Language Model Generalization with Influence Functions",
+    "authors": [
+      "R. Grosse",
+      "Juhan Bae",
+      "Cem Anil",
+      "Nelson Elhage",
+      "Alex Tamkin",
+      "Amirhossein Tajdini",
+      "Benoit Steiner",
+      "Dustin Li",
+      "Esin Durmus",
+      "Ethan Perez",
+      "Evan Hubinger",
+      "Kamil.e Lukovsiut.e",
+      "Karina Nguyen",
+      "Nicholas Joseph",
+      "Sam McCandlish",
+      "Jared Kaplan",
+      "Sam Bowman"
+    ],
+    "publication_date": "2023-08-07",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "04a96b66705858c988edfcb73191c1da7d54abfb",
+    "corpus_id": 260682872,
+    "category": "Computer Science, Mathematics"
+  },
+  "2306-13549": {
+    "title": "A survey on multimodal large language models",
+    "authors": [
+      "Shukang Yin",
+      "Chaoyou Fu",
+      "Sirui Zhao",
+      "Ke Li",
+      "Xing Sun",
+      "Tong Xu",
+      "Enhong Chen"
+    ],
+    "publication_date": "2023-06-23",
+    "venue": "National Science Review",
+    "semantic_scholar_id": "ebedc4d7a2356090904baba4104ef0832bc236df",
+    "corpus_id": 259243718,
+    "category": "Medicine, Computer Science"
+  },
+  "2305-17216": {
+    "title": "Generating Images with Multimodal Language Models",
+    "authors": [
+      "Jing Yu Koh",
+      "Daniel Fried",
+      "R. Salakhutdinov"
+    ],
+    "publication_date": "2023-05-26",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "6fb5c0eff3696ef252aca9638e10176ecce7cecb",
+    "corpus_id": 258959284,
+    "category": "Computer Science"
+  },
+  "2305-07017": {
+    "title": "An Inverse Scaling Law for CLIP Training",
+    "authors": [
+      "Xianhang Li",
+      "Zeyu Wang",
+      "Cihang Xie"
+    ],
+    "publication_date": "2023-05-11",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "a9fbf441bd074b6daeae0903a040aefaab61e757",
+    "corpus_id": 258615702,
+    "category": "Computer Science"
+  },
+  "2212-00794": {
+    "title": "Scaling Language-Image Pre-Training via Masking",
+    "authors": [
+      "Yanghao Li",
+      "Haoqi Fan",
+      "Ronghang Hu",
+      "Christoph Feichtenhofer",
+      "Kaiming He"
+    ],
+    "publication_date": "2022-12-01",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "cfca7eedc6ede9d363d1662280a74d78dcdc9d4a",
+    "corpus_id": 254125280,
+    "category": "Computer Science"
+  },
+  "2210-01936": {
+    "title": "When and why vision-language models behave like bags-of-words, and what to do about it?",
+    "authors": [
+      "Mert Yuksekgonul",
+      "Federico Bianchi",
+      "Pratyusha Kalluri",
+      "Dan Jurafsky",
+      "James Y. Zou"
+    ],
+    "publication_date": "2022-10-04",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "10667c1ae4b49808772b5a377c5b52196701267f",
+    "corpus_id": 252734947,
+    "category": "Computer Science"
+  },
+  "2208-05516": {
+    "title": "Quality Not Quantity: On the Interaction between Dataset Design and Robustness of CLIP",
+    "authors": [
+      "Thao Nguyen",
+      "Gabriel Ilharco",
+      "Mitchell Wortsman",
+      "Sewoong Oh",
+      "Ludwig Schmidt"
+    ],
+    "publication_date": "2022-08-10",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "e221c769957a8eef2836a64cede88401129d86e9",
+    "corpus_id": 251492965,
+    "category": "Computer Science"
+  },
+  "2204-14095": {
+    "title": "PyramidCLIP: Hierarchical Feature Alignment for Vision-language Model Pretraining",
+    "authors": [
+      "Yuting Gao",
+      "Jinfeng Liu",
+      "Zihan Xu",
+      "Jinchao Zhang",
+      "Ke Li",
+      "Chunhua Shen"
+    ],
+    "publication_date": "2022-04-29",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "d77b4d45741a83e9024beeec0de5663434754038",
+    "corpus_id": 248476188,
+    "category": "Computer Science"
+  },
+  "2111-07783": {
+    "title": "FILIP: Fine-grained Interactive Language-Image Pre-Training",
+    "authors": [
+      "Lewei Yao",
+      "Runhu Huang",
+      "Lu Hou",
+      "Guansong Lu",
+      "Minzhe Niu",
+      "Hang Xu",
+      "Xiaodan Liang",
+      "Zhenguo Li",
+      "Xin Jiang",
+      "Chunjing Xu"
+    ],
+    "publication_date": "2021-11-09",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "f675c62abfa788ea0be85d3124eba15a14d5e9d6",
+    "corpus_id": 244117525,
+    "category": "Computer Science"
+  },
+  "2110-14049": {
+    "title": "Beta Shapley: a Unified and Noise-reduced Data Valuation Framework for Machine Learning",
+    "authors": [
+      "Yongchan Kwon",
+      "James Y. Zou"
+    ],
+    "publication_date": "2021-10-26",
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "semantic_scholar_id": "b04f0cb0777d6d521e05533d39d2022d020619cc",
+    "corpus_id": 239998535,
+    "category": "Computer Science, Mathematics"
+  },
+  "2108-11577": {
+    "title": "Machine Unlearning of Features and Labels",
+    "authors": [
+      "Alexander Warnecke",
+      "Lukas Pirch",
+      "Christian Wressnegger",
+      "Konrad Rieck"
+    ],
+    "publication_date": "2021-08-26",
+    "venue": "Network and Distributed System Security Symposium",
+    "semantic_scholar_id": "128a14c3048f328c8e4ce9c274b0bf467946a57f",
+    "corpus_id": 237303799,
+    "category": "Computer Science"
+  },
+  "2106-09667": {
+    "title": "Poisoning and Backdooring Contrastive Learning",
+    "authors": [
+      "Nicholas Carlini",
+      "A. Terzis"
+    ],
+    "publication_date": "2021-06-17",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "6c50e8db8d44a3399a78adb8fab2d7f81a029c33",
+    "corpus_id": 235458091,
+    "category": "Computer Science"
+  },
+  "2104-08718": {
+    "title": "CLIPScore: A Reference-free Evaluation Metric for Image Captioning",
+    "authors": [
+      "Jack Hessel",
+      "Ari Holtzman",
+      "Maxwell Forbes",
+      "Ronan Le Bras",
+      "Yejin Choi"
+    ],
+    "publication_date": "2021-04-18",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "38b0567e83386ddc294d6c81b541deacbd8e3c2a",
+    "corpus_id": 233296711,
+    "category": "Computer Science"
+  },
+  "2103-00020": {
+    "title": "Learning Transferable Visual Models From Natural Language Supervision",
+    "authors": [
+      "Alec Radford",
+      "Jong Wook Kim",
+      "Chris Hallacy",
+      "A. Ramesh",
+      "Gabriel Goh",
+      "Sandhini Agarwal",
+      "Girish Sastry",
+      "Amanda Askell",
+      "Pamela Mishkin",
+      "Jack Clark",
+      "Gretchen Krueger",
+      "I. Sutskever"
+    ],
+    "publication_date": "2021-02-26",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4",
+    "corpus_id": 231591445,
+    "category": "Computer Science"
+  },
+  "2012-15781": {
+    "title": "FastIF: Scalable Influence Functions for Efficient Model Interpretation and Debugging",
+    "authors": [
+      "Han Guo",
+      "Nazneen Rajani",
+      "Peter Hase",
+      "Mohit Bansal",
+      "Caiming Xiong"
+    ],
+    "publication_date": "2020-12-31",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "18fb344c9bfd019014996e57c465aa279b7e0151",
+    "corpus_id": 229923196,
+    "category": "Computer Science"
+  },
+  "2012-13431": {
+    "title": "Mixed-Privacy Forgetting in Deep Networks",
+    "authors": [
+      "Aditya Golatkar",
+      "A. Achille",
+      "Avinash Ravichandran",
+      "M. Polito",
+      "Stefano Soatto"
+    ],
+    "publication_date": "2020-12-24",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "24aaaf2010f764bafdce49eca95cc31f0eec0e70",
+    "corpus_id": 229678489,
+    "category": "Computer Science"
+  },
+  "2010-04592": {
+    "title": "Contrastive Learning with Hard Negative Samples",
+    "authors": [
+      "Joshua Robinson",
+      "Ching-Yao Chuang",
+      "S. Sra",
+      "S. Jegelka"
+    ],
+    "publication_date": "2020-10-09",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "7097137596f6755675f6aafcdd80969a747322ae",
+    "corpus_id": 222272463,
+    "category": "Computer Science, Mathematics"
+  },
+  "2007-09081": {
+    "title": "Multi-Stage Influence Function",
+    "authors": [
+      "Hongge Chen",
+      "Si Si",
+      "Y. Li",
+      "Ciprian Chelba",
+      "Sanjiv Kumar",
+      "D. Boning",
+      "Cho-Jui Hsieh"
+    ],
+    "publication_date": "2020-07-17",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "fa83105468e39da17a4e5d9abe7db7c5b5e1f09a",
+    "corpus_id": 209483680,
+    "category": "Computer Science, Mathematics"
+  },
+  "2006-14651": {
+    "title": "Influence Functions in Deep Learning Are Fragile",
+    "authors": [
+      "S. Basu",
+      "Phillip E. Pope",
+      "S. Feizi"
+    ],
+    "publication_date": "2020-06-25",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "098076a2c90e42c81b843bf339446427c2ff02ed",
+    "corpus_id": 220127956,
+    "category": "Computer Science, Mathematics"
+  },
+  "2005-10242": {
+    "title": "Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere",
+    "authors": [
+      "Tongzhou Wang",
+      "Phillip Isola"
+    ],
+    "publication_date": "2020-05-20",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "9a56ab8b1aba50dc2fea3cf4b531d30891a88ba9",
+    "corpus_id": 218718310,
+    "category": "Computer Science, Mathematics"
+  },
+  "2005-06676": {
+    "title": "Explaining Black Box Predictions and Unveiling Data Artifacts through Influence Functions",
+    "authors": [
+      "Xiaochuang Han",
+      "Byron C. Wallace",
+      "Yulia Tsvetkov"
+    ],
+    "publication_date": "2020-05-14",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "0696ad8beb0d765973aa5cdbc6e118889d3583b0",
+    "corpus_id": 218628619,
+    "category": "Computer Science"
+  },
+  "2002-05709": {
+    "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+    "authors": [
+      "Ting Chen",
+      "Simon Kornblith",
+      "Mohammad Norouzi",
+      "Geoffrey E. Hinton"
+    ],
+    "publication_date": "2020-02-13",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "7af72a461ed7cda180e7eab878efd5f35d79bbf4",
+    "corpus_id": 211096730,
+    "category": "Computer Science, Mathematics"
+  },
+  "2002-08484": {
+    "title": "Estimating Training Data Influence by Tracking Gradient Descent",
+    "authors": [
+      "G. Pruthi",
+      "Frederick Liu",
+      "Mukund Sundararajan",
+      "Satyen Kale"
+    ],
+    "publication_date": "2020-02-01",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "c94e49617f569204f989643e5462691b9b3a482b",
+    "corpus_id": 211204970,
+    "category": "Computer Science, Mathematics"
+  },
+  "1911-05722": {
+    "title": "Momentum Contrast for Unsupervised Visual Representation Learning",
+    "authors": [
+      "Kaiming He",
+      "Haoqi Fan",
+      "Yuxin Wu",
+      "Saining Xie",
+      "Ross B. Girshick"
+    ],
+    "publication_date": "2019-11-13",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "add2f205338d70e10ce5e686df4a690e2851bdfc",
+    "corpus_id": 207930212,
+    "category": "Computer Science"
+  },
+  "1911-04933": {
+    "title": "Eternal Sunshine of the Spotless Net: Selective Forgetting in Deep Networks",
+    "authors": [
+      "Aditya Golatkar",
+      "A. Achille",
+      "Stefano Soatto"
+    ],
+    "publication_date": "2019-11-12",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "c956d133b78e0d9b20885593809f0b636ce34093",
+    "corpus_id": 207863297,
+    "category": "Computer Science, Mathematics"
+  },
+  "1909-11671": {
+    "title": "Data Valuation using Reinforcement Learning",
+    "authors": [
+      "Jinsung Yoon",
+      "Sercan Ö. Arik",
+      "Tomas Pfister"
+    ],
+    "publication_date": "2019-09-25",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "17b6829678802a20e51558ec28c5369414defe42",
+    "corpus_id": 202889229,
+    "category": "Computer Science, Mathematics"
+  },
+  "1907-02544": {
+    "title": "Large Scale Adversarial Representation Learning",
+    "authors": [
+      "Jeff Donahue",
+      "K. Simonyan"
+    ],
+    "publication_date": "2019-07-04",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "cde35c87aaabbc617d38f9cfaa2721a2e166d750",
+    "corpus_id": 195820291,
+    "category": "Computer Science, Mathematics"
+  },
+  "1904-02868": {
+    "title": "Data Shapley: Equitable Valuation of Data for Machine Learning",
+    "authors": [
+      "Amirata Ghorbani",
+      "James Y. Zou"
+    ],
+    "publication_date": "2019-04-05",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "b7a717233ec3ff37385ab1b06816d0ca375f5bb3",
+    "corpus_id": 102350503,
+    "category": "Computer Science, Mathematics"
+  },
+  "1902-10275": {
+    "title": "Towards Efficient Data Valuation Based on the Shapley Value",
+    "authors": [
+      "R. Jia",
+      "David Dao",
+      "Boxin Wang",
+      "F. Hubis",
+      "Nicholas Hynes",
+      "Nezihe Merve Gürel",
+      "Bo Li",
+      "Ce Zhang",
+      "D. Song",
+      "C. Spanos"
+    ],
+    "publication_date": "2019-02-27",
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "semantic_scholar_id": "30cb4643f4dc838be19ee05424be3968732f47fc",
+    "corpus_id": 67855573,
+    "category": "Computer Science, Mathematics"
+  },
+  "1901-10501": {
+    "title": "Repairing without Retraining: Avoiding Disparate Impact with Counterfactual Distributions",
+    "authors": [
+      "Hao Wang",
+      "Berk Ustun",
+      "F. Calmon"
+    ],
+    "publication_date": "2019-01-29",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "c08791e1cb8943ecfc3d27f0b9dbf3bf2a1eb0ef",
+    "corpus_id": 59413891,
+    "category": "Computer Science, Mathematics"
+  },
+  "1810-03611": {
+    "title": "Understanding the Origins of Bias in Word Embeddings",
+    "authors": [
+      "Marc-Etienne Brunet",
+      "Colleen Alkalay-Houlihan",
+      "Ashton Anderson",
+      "R. Zemel"
+    ],
+    "publication_date": "2018-10-08",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "de338882ca81b4ecf486f10b12ca71d4131d09f4",
+    "corpus_id": 52946942,
+    "category": "Computer Science, Mathematics"
+  },
+  "1807-03748": {
+    "title": "Representation Learning with Contrastive Predictive Coding",
+    "authors": [
+      "Aäron van den Oord",
+      "Yazhe Li",
+      "O. Vinyals"
+    ],
+    "publication_date": "2018-07-10",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "b227f3e4c0dc96e5ac5426b85485a70f2175a205",
+    "corpus_id": 49670925,
+    "category": "Computer Science, Mathematics"
+  },
+  "1703-04730": {
+    "title": "Understanding Black-box Predictions via Influence Functions",
+    "authors": [
+      "Pang Wei Koh",
+      "Percy Liang"
+    ],
+    "publication_date": "2017-03-14",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "08ad8fad21f6ec4cda4d56be1ca5e146b7c913a1",
+    "corpus_id": 13193974,
+    "category": "Computer Science, Mathematics"
+  },
+  "1306-5151": {
+    "title": "Fine-Grained Visual Classification of Aircraft",
+    "authors": [
+      "Subhransu Maji",
+      "Esa Rahtu",
+      "Juho Kannala",
+      "Matthew B. Blaschko",
+      "A. Vedaldi"
+    ],
+    "publication_date": "2013-06-21",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "522d65a3db7431015aeaa201a7fc4450a57e40c3",
+    "corpus_id": 2118703,
+    "category": "Computer Science"
+  }
+}

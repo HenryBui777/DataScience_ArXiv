@@ -1,0 +1,16 @@
+{
+  "title": "Prediction-Guided Active Experiments",
+  "authors": [
+    "Ruicheng Ao",
+    "Hongyu Chen",
+    "David Simchi-Levi"
+  ],
+  "summary": "In this work, we introduce a new framework for active experimentation, the Prediction-Guided Active Experiment (PGAE), which leverages predictions from an existing machine learning model to guide sampling and experimentation. Specifically, at each time step, an experimental unit is sampled according to a designated sampling distribution, and the actual outcome is observed based on an experimental probability. Otherwise, only a prediction for the outcome is available. We begin by analyzing the non-adaptive case, where full information on the joint distribution of the predictor and the actual outcome is assumed. For this scenario, we derive an optimal experimentation strategy by minimizing the semi-parametric efficiency bound for the class of regular estimators. We then introduce an estimator that meets this efficiency bound, achieving asymptotic optimality. Next, we move to the adaptive case, where the predictor is continuously updated with newly sampled data. We show that the adaptive version of the estimator remains efficient and attains the same semi-parametric bound under certain regularity assumptions. Finally, we validate PGAE's performance through simulations and a semi-synthetic experiment using data from the US Census Bureau. The results underscore the PGAE framework's effectiveness and superiority compared to other existing methods.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-20"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ML, cs.LG, econ.EM"
+}

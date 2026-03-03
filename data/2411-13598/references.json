@@ -1,0 +1,375 @@
+{
+  "2305-01738": {
+    "title": "Leveraging Factored Action Spaces for Efficient Offline Reinforcement Learning in Healthcare",
+    "authors": [
+      "Shengpu Tang",
+      "Maggie Makar",
+      "M. Sjoding",
+      "F. Doshi-Velez",
+      "J. Wiens"
+    ],
+    "publication_date": "2023-05-02",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "7cd1e05e0679dac5c5b65f9894756c7f6bcb4f94",
+    "corpus_id": 254562330,
+    "category": "Computer Science"
+  },
+  "2303-00654": {
+    "title": "How to DP-fy ML: A Practical Guide to Machine Learning with Differential Privacy",
+    "authors": [
+      "N. Ponomareva",
+      "Hussein Hazimeh",
+      "Alexey Kurakin",
+      "Zheng Xu",
+      "Carson E. Denison",
+      "H. B. McMahan",
+      "Sergei Vassilvitskii",
+      "Steve Chien",
+      "Abhradeep Thakurta"
+    ],
+    "publication_date": "2023-03-01",
+    "venue": "Journal of Artificial Intelligence Research",
+    "semantic_scholar_id": "5b0f2ff37a977fd4b0c845b27726b65682bf8ac6",
+    "corpus_id": 257255451,
+    "category": "Computer Science, Mathematics"
+  },
+  "2212-04680": {
+    "title": "Near-Optimal Differentially Private Reinforcement Learning",
+    "authors": [
+      "Dan Qiao",
+      "Yu-Xiang Wang"
+    ],
+    "publication_date": "2022-12-09",
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "semantic_scholar_id": "df0fc3fd23fd69c93ccde8745c3c51979057fa43",
+    "corpus_id": 254535710,
+    "category": "Computer Science, Mathematics"
+  },
+  "2206-00810": {
+    "title": "Offline Reinforcement Learning with Differential Privacy",
+    "authors": [
+      "Dan Qiao",
+      "Yu-Xiang Wang"
+    ],
+    "publication_date": "2022-06-02",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "2674f653b9cf3b84bbe2604238dff7c343be3d24",
+    "corpus_id": 249282362,
+    "category": "Computer Science, Mathematics"
+  },
+  "2202-02446": {
+    "title": "Adversarially Trained Actor Critic for Offline Reinforcement Learning",
+    "authors": [
+      "Ching-An Cheng",
+      "Tengyang Xie",
+      "Nan Jiang",
+      "Alekh Agarwal"
+    ],
+    "publication_date": "2022-02-05",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "277e63a452cb1fb6c5ad88d110d5f18401e840c0",
+    "corpus_id": 246634886,
+    "category": "Computer Science"
+  },
+  "2201-12328": {
+    "title": "Toward Training at ImageNet Scale with Differential Privacy",
+    "authors": [
+      "Alexey Kurakin",
+      "Steve Chien",
+      "Shuang Song",
+      "Roxana Geambasu",
+      "A. Terzis",
+      "Abhradeep Thakurta"
+    ],
+    "publication_date": "2022-01-28",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "d210e55bd1afab9eba52a604565d09933dab5ad3",
+    "corpus_id": 246411162,
+    "category": "Computer Science"
+  },
+  "2201-07052": {
+    "title": "Differentially Private Reinforcement Learning with Linear Function Approximation",
+    "authors": [
+      "Xingyu Zhou"
+    ],
+    "publication_date": "2022-01-18",
+    "venue": "Proceedings of the ACM on Measurement and Analysis of Computing Systems",
+    "semantic_scholar_id": "a2dfa4e1d5377a305cb5d023502883c028ab952b",
+    "corpus_id": 246035606,
+    "category": "Computer Science"
+  },
+  "2110-10133": {
+    "title": "Locally Differentially Private Reinforcement Learning for Linear Mixture Markov Decision Processes",
+    "authors": [
+      "Chonghua Liao",
+      "Jiafan He",
+      "Quanquan Gu"
+    ],
+    "publication_date": "2021-10-19",
+    "venue": "Asian Conference on Machine Learning",
+    "semantic_scholar_id": "ea3f4349aa1d2ebe1e217d62041f411083d32b60",
+    "corpus_id": 239024649,
+    "category": "Computer Science, Mathematics"
+  },
+  "2106-06926": {
+    "title": "Bellman-consistent Pessimism for Offline Reinforcement Learning",
+    "authors": [
+      "Tengyang Xie",
+      "Ching-An Cheng",
+      "Nan Jiang",
+      "Paul Mineiro",
+      "Alekh Agarwal"
+    ],
+    "publication_date": "2021-06-13",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "e2ad21dae85950ab3631f65a0f142924c99fb9c4",
+    "corpus_id": 235422048,
+    "category": "Computer Science, Mathematics"
+  },
+  "2103-00039": {
+    "title": "Practical and Private (Deep) Learning without Sampling or Shuffling",
+    "authors": [
+      "P. Kairouz",
+      "B. McMahan",
+      "Shuang Song",
+      "Om Thakkar",
+      "Abhradeep Thakurta",
+      "Zheng Xu"
+    ],
+    "publication_date": "2021-02-26",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "c3b4ad89bc1c76892a5dd62881663b229b9a7826",
+    "corpus_id": 232075850,
+    "category": "Computer Science"
+  },
+  "2102-08363": {
+    "title": "COMBO: Conservative Offline Model-Based Policy Optimization",
+    "authors": [
+      "Tianhe Yu",
+      "Aviral Kumar",
+      "Rafael Rafailov",
+      "A. Rajeswaran",
+      "S. Levine",
+      "Chelsea Finn"
+    ],
+    "publication_date": "2021-02-16",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "245682e8b3fa76f4a3e2991b5497577af95cbb3f",
+    "corpus_id": 231934209,
+    "category": "Computer Science"
+  },
+  "2006-04779": {
+    "title": "Conservative Q-Learning for Offline Reinforcement Learning",
+    "authors": [
+      "Aviral Kumar",
+      "Aurick Zhou",
+      "G. Tucker",
+      "S. Levine"
+    ],
+    "publication_date": "2020-06-08",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "28db20a81eec74a50204686c3cf796c42a020d2e",
+    "corpus_id": 219530894,
+    "category": "Computer Science, Mathematics"
+  },
+  "2005-13239": {
+    "title": "MOPO: Model-based Offline Policy Optimization",
+    "authors": [
+      "Tianhe Yu",
+      "G. Thomas",
+      "Lantao Yu",
+      "Stefano Ermon",
+      "James Y. Zou",
+      "S. Levine",
+      "Chelsea Finn",
+      "Tengyu Ma"
+    ],
+    "publication_date": "2020-05-27",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "dea0f1c5949f8d898b9b6ff68226a781558e413c",
+    "corpus_id": 218900501,
+    "category": "Computer Science, Mathematics"
+  },
+  "2005-05951": {
+    "title": "MOReL : Model-Based Offline Reinforcement Learning",
+    "authors": [
+      "Rahul Kidambi",
+      "A. Rajeswaran",
+      "Praneeth Netrapalli",
+      "T. Joachims"
+    ],
+    "publication_date": "2020-05-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "309c2c5ee60e725244da09180f913cd8d4b8d4e9",
+    "corpus_id": 218595964,
+    "category": "Computer Science, Mathematics"
+  },
+  "2005-01643": {
+    "title": "Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems",
+    "authors": [
+      "S. Levine",
+      "Aviral Kumar",
+      "G. Tucker",
+      "Justin Fu"
+    ],
+    "publication_date": "2020-05-04",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "5e7bc93622416f14e6948a500278bfbe58cd3890",
+    "corpus_id": 218486979,
+    "category": "Computer Science, Mathematics"
+  },
+  "2004-07219": {
+    "title": "D4RL: Datasets for Deep Data-Driven Reinforcement Learning",
+    "authors": [
+      "Justin Fu",
+      "Aviral Kumar",
+      "Ofir Nachum",
+      "G. Tucker",
+      "S. Levine"
+    ],
+    "publication_date": "2020-04-15",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "a326d9f2d2d351001fece788165dbcbb524da2e4",
+    "corpus_id": 215827910,
+    "category": "Computer Science, Mathematics"
+  },
+  "1906-00949": {
+    "title": "Stabilizing Off-Policy Q-Learning via Bootstrapping Error Reduction",
+    "authors": [
+      "Aviral Kumar",
+      "Justin Fu",
+      "G. Tucker",
+      "S. Levine"
+    ],
+    "publication_date": "2019-06-03",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "82b4b03a4659d6e04bd7cbf51d6e08fde1348dbd",
+    "corpus_id": 173990380,
+    "category": "Computer Science, Mathematics"
+  },
+  "1905-12767": {
+    "title": "Reinforcement Learning for Slate-based Recommender Systems: A Tractable Decomposition and Practical Methodology",
+    "authors": [
+      "Eugene Ie",
+      "Vihan Jain",
+      "Jing Wang",
+      "Sanmit Narvekar",
+      "Ritesh Agarwal",
+      "Rui Wu",
+      "Heng-Tze Cheng",
+      "Morgane Lustman",
+      "Vince Gatto",
+      "Paul Covington",
+      "Jim McFadden",
+      "Tushar Chandra",
+      "Craig Boutilier"
+    ],
+    "publication_date": "2019-05-29",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "91fc156ee07c67b7abea9eac9a873bdf9c944fd8",
+    "corpus_id": 170079159,
+    "category": "Mathematics, Computer Science"
+  },
+  "1905-05824": {
+    "title": "Counterfactual Off-Policy Evaluation with Gumbel-Max Structural Causal Models",
+    "authors": [
+      "Michael Oberst",
+      "D. Sontag"
+    ],
+    "publication_date": "2019-05-14",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "7cd12c64940d2ee4bd5fce4b959e49bbe9a92c39",
+    "corpus_id": 155092754,
+    "category": "Computer Science, Mathematics"
+  },
+  "1901-10634": {
+    "title": "Privacy-Preserving Q-Learning with Functional Noise in Continuous Spaces",
+    "authors": [
+      "Baoxiang Wang",
+      "N. Hegde"
+    ],
+    "publication_date": "2019-01-30",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "1c8bbe188c2bcb788e5ddb19ee2e5ef69a63c12b",
+    "corpus_id": 202787139,
+    "category": "Mathematics, Computer Science"
+  },
+  "1812-02900": {
+    "title": "Off-Policy Deep Reinforcement Learning without Exploration",
+    "authors": [
+      "Scott Fujimoto",
+      "D. Meger",
+      "Doina Precup"
+    ],
+    "publication_date": "2018-12-07",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "5285cb8faada5de8a92a47622950f6cfd476ac1d",
+    "corpus_id": 54457299,
+    "category": "Computer Science, Mathematics"
+  },
+  "1701-02490": {
+    "title": "Real-Time Bidding by Reinforcement Learning in Display Advertising",
+    "authors": [
+      "Han Cai",
+      "Kan Ren",
+      "Weinan Zhang",
+      "Kleanthis Malialis",
+      "Jun Wang",
+      "Yong Yu",
+      "Defeng Guo"
+    ],
+    "publication_date": "2017-01-10",
+    "venue": "Web Search and Data Mining",
+    "semantic_scholar_id": "6e6cf4dda8d375f057c4ee4a4e15f66fe532b601",
+    "corpus_id": 2077417,
+    "category": "Computer Science"
+  },
+  "1607-00133": {
+    "title": "Deep Learning with Differential Privacy",
+    "authors": [
+      "Martín Abadi",
+      "Andy Chu",
+      "I. Goodfellow",
+      "H. B. McMahan",
+      "Ilya Mironov",
+      "Kunal Talwar",
+      "Li Zhang"
+    ],
+    "publication_date": "2016-07-01",
+    "venue": "Conference on Computer and Communications Security",
+    "semantic_scholar_id": "e9a986c8ff6c2f381d026fe014f6aaa865f34da7",
+    "corpus_id": 207241585,
+    "category": "Computer Science, Mathematics"
+  },
+  "1209-2355": {
+    "title": "Counterfactual reasoning and learning systems: the example of computational advertising",
+    "authors": [
+      "L. Bottou",
+      "J. Peters",
+      "J. Q. Candela",
+      "Denis Xavier Charles",
+      "D. M. Chickering",
+      "Elon Portugaly",
+      "Dipankar Ray",
+      "Patrice Y. Simard",
+      "Edward Snelson"
+    ],
+    "publication_date": "2012-09-11",
+    "venue": "Journal of machine learning research",
+    "semantic_scholar_id": "b006aefa9c8be8c33138c4c5352f4d2d44378be9",
+    "corpus_id": 1726300,
+    "category": "Computer Science, Mathematics"
+  },
+  "0911-1813": {
+    "title": "Interactive privacy via the median mechanism",
+    "authors": [
+      "Aaron Roth",
+      "Tim Roughgarden"
+    ],
+    "publication_date": "2009-11-09",
+    "venue": "Symposium on the Theory of Computing",
+    "semantic_scholar_id": "f210ef08ef182f8050d9cbb81a075175c1fbed63",
+    "corpus_id": 49242,
+    "category": "Computer Science"
+  }
+}

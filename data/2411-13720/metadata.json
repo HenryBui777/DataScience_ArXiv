@@ -1,0 +1,17 @@
+{
+  "title": "Distortion of Multi-Winner Elections on the Line Metric: The Polar Comparison Rule",
+  "authors": [
+    "Negar Babashah",
+    "Hasti Karimi",
+    "Masoud Seddighin",
+    "Golnoosh Shahkarami"
+  ],
+  "summary": "We study the problem of selecting a committee of size $k$ from a set of $m$ alternatives, based solely on the ordinal preferences of voters. Both voters and alternatives lie on the line metric, and the goal is to minimize a social cost function based on metric distances. While the distances to committee members fully determine the social cost, voting rules only have access to the ordinal preference list of each voter. The distortion of a voting rule is the worst-case ratio between the cost of the selected committee and the cost of the optimal one, over all consistent distance metrics. Extending distortion to multi-winner elections requires defining how a voter's cost is aggregated over the committee. Caragiannis et al. (2022) studied $q$-cost, where the cost is defined as the distance to the voter's $q$th closest committee member. In this work, we focus on the additive cost, where a voter's cost is the sum of their distances to all committee members. The overall social cost is either utilitarian (sum of individual costs) or egalitarian (maximum individual cost).\n  We introduce a new voting rule, the Polar Comparison Rule, and analyze its distortion for the utilitarian additive cost. We show that it achieves a distortion of roughly $7/3$ for any committee size $k$. More specifically, for $k = 2$ and $k = 3$, we establish tight bounds of $1 + \\sqrt{2} \\approx 2.41$ and $7/3 \\approx 2.33$, respectively. Moreover, we provide lower bounds that depend on the parity of $k$, and analyze both small and large committee sizes. Finally, we study the egalitarian additive cost and analyze the distortion bounds in multi-winner elections.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-06-02"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.GT"
+}

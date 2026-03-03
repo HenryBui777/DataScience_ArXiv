@@ -1,0 +1,16 @@
+{
+  "title": "Reducibility among NP-Hard graph problems and boundary classes",
+  "authors": [
+    "Syed Mujtaba Hassan",
+    "Shahid Hussain",
+    "Abdul Samad"
+  ],
+  "summary": "Many NP-hard graph problems become easy for some classes of graphs. For example, coloring is easy for bipartite graphs, but NP-hard in general. So we can ask question like when does a hard problem become easy? What is the minimum substructure for which the problem remains hard? We use the notion of boundary classes to study such questions. In this paper, we introduce a method for transforming the boundary class of one NP-hard graph problem into a boundary class for another problem. If Π and Γ are two NP-hard graph problems where Π is reducible to Γ, we transform a boundary class of Π into a boundary class of Γ. More formally if Π is reducible to Γ, where the reduction satisfies certain conditions, then X is a boundary class of Π if and only if the image of X under the reduction is a boundary class of Γ. This gives us a relationship between boundary classes and reducibility among several NP-hard problems. To show the strength of our main result, we apply our theorem to obtain some previously unknown boundary classes for a few graph problems namely; vertex-cover, clique, traveling-salesperson, bounded-degree-spanning-tree, subgraph-isomorphism and clique-cover.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-08-08"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CC, cs.CL, cs.DM"
+}

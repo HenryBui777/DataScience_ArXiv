@@ -1,0 +1,15 @@
+{
+  "title": "A machine learning approach to estimate mid-infrared fluxes from WISE data",
+  "authors": [
+    "Nuria Fonseca-Bonilla",
+    "Luis Cerdán",
+    "Alberto Noriega-Crespo",
+    "Amaya Moro-Martín"
+  ],
+  "summary": "While WISE is the largest, best quality infrared all-sky survey to date, a smaller coverage mission, Spitzer, was designed to have better sensitivity and spatial resolution at similar wavelengths. Confusion and contamination in WISE data result in discrepancies between them. We present a novel approach to work with WISE measurements with the goal of maintaining both its high coverage and vast amount of data while taking full advantage of the higher sensitivity and spatial resolution of Spitzer. We have applied machine learning (ML) techniques to a complete WISE data sample of open cluster members, using a training set of paired data from high-quality Spitzer Enhanced Imaging Products (SEIP), MIPS and IRAC, and allWISE catalogs, W1 (3.4 μm) to W4 (22 μm) bands. We have tested several ML regression models with the aim of predicting mid-infrared fluxes at MIPS1 (24 μm) and IRAC4 (8 μm) bands from WISE fluxes and quality flags. In addition, to improve the prediction quality, we have implemented feature selection techniques to remove irrelevant WISE variables. We have notably enhanced WISE detection capabilities, mostly at lowest magnitudes, which previously showed the largest discrepancies with Spitzer. In our particular case, extremely randomized trees was found to be the best algorithm to predict mid-infrared fluxes from WISE variables. We have tested our results in the SED of members of IC 348. We show discrepancies in the measurements of Spitzer and WISE and demonstrate the good concordance of our predicted fluxes with the real ones. ML is a fast and powerful tool that can be used to find hidden relationships between datasets, as the ones that exist between WISE and Spitzer fluxes. We believe this approach could be employed for other samples from the allWISE catalog with SEIP positional counterparts, and in other astrophysical studies with analogous discrepancies.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "A&A, 691 (2024) A271",
+  "pdf_url": null,
+  "category": "astro-ph.SR, astro-ph.GA, astro-ph.IM"
+}

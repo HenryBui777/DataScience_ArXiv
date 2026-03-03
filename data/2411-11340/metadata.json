@@ -1,0 +1,15 @@
+{
+  "title": "A Hybrid Loss Framework for Decomposition-based Time Series Forecasting Methods: Balancing Global and Component Errors",
+  "authors": [
+    "Ronghui Han",
+    "Duanyu Feng",
+    "Hongyu Du",
+    "Hao Wang"
+  ],
+  "summary": "Accurate time series forecasting, predicting future values based on past data, is crucial for diverse industries. Many current time series methods decompose time series into multiple sub-series, applying different model architectures and training with an end-to-end overall loss for forecasting. However, this raises a question: does this overall loss prioritize the importance of critical sub-series within the decomposition for the better performance? To investigate this, we conduct a study on the impact of overall loss on existing time series methods with sequence decomposition. Our findings reveal that overall loss may introduce bias in model learning, hindering the learning of the prioritization of more significant sub-series and limiting the forecasting performance. To address this, we propose a hybrid loss framework combining the global and component losses. This framework introduces component losses for each sub-series alongside the original overall loss. It employs a dual min-max algorithm to dynamically adjust weights between the overall loss and component losses, and within component losses. This enables the model to achieve better performance of current time series methods by focusing on more critical sub-series while still maintaining a low overall loss. We integrate our loss framework into several time series methods and evaluate the performance on multiple datasets. Results show an average improvement of 0.5-2% over existing methods without any modifications to the model architectures.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, stat.ML"
+}

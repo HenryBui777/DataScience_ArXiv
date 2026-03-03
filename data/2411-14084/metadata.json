@@ -1,0 +1,16 @@
+{
+  "title": "Neural numerical homogenization based on Deep Ritz corrections",
+  "authors": [
+    "Mehdi Elasmi",
+    "Felix Krumbiegel",
+    "Roland Maier"
+  ],
+  "summary": "Numerical homogenization methods aim at providing appropriate coarse-scale approximations of solutions to (elliptic) partial differential equations that involve highly oscillatory coefficients. The localized orthogonal decomposition (LOD) method is an effective way of dealing with such coefficients, especially if they are non-periodic and non-smooth. It modifies classical finite element basis functions by suitable fine-scale corrections. In this paper, we make use of the structure of the LOD method, but we propose to calculate the corrections based on a Deep Ritz approach involving a parametrization of the coefficients to tackle temporal variations or uncertainties. Numerical examples for a parabolic model problem are presented to assess the performance of the approach.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-06-03"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

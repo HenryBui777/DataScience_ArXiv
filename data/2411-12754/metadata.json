@@ -1,0 +1,12 @@
+{
+  "title": "Formes modulaires modulo $2$ : L'ordre de nilpotence des opérateurs de Hecke (version développée)",
+  "authors": [
+    "Jean-Louis Nicolas"
+  ],
+  "summary": "Let $Δ= \\sum_{m=0}^\\infty q^{(2m+1)^2} \\in \\mathbb{F}_2[[q]]$ be the reduction mod 2 of the $Δ$ series. A modular form $f$ modulo $2$ of level 1 is a polynomial in $Δ$. If $p$ is an odd prime, then the Hecke operator $T_p$ transforms $f$ in a modular form $T_p(f)$ which is a polynomial in $Δ$ whose degree is smaller than the degree of $f$, so that $T_p$ is nilpotent. The order of nilpotence of $f$ is defined as the smallest integer $g=g(f)$ such that, for every family of $g$ odd primes $p_1,p_2,\\ldots,p_g$, the relation $T_{p_1}T_{p_2}\\ldots T_{p_g}(f)=0$ holds. We show how one can compute explicitly $g(f)$; if $f$ is a polynomial of degree $d\\geqslant 1$ in $Δ$, one finds that $g(f) < \\frac 32 \\sqrt d$.",
+  "submission_date": "2024-11-07",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NT"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "High-Throughput Blind Co-Channel Interference Cancellation for Edge Devices Using Depthwise Separable Convolutions, Quantization, and Pruning",
+  "authors": [
+    "Mostafa Naseri",
+    "Eli De Poorter",
+    "Ingrid Moerman",
+    "H. Vincent Poor",
+    "Adnan Shahid"
+  ],
+  "summary": "Co-channel interference cancellation (CCI) is the process used to reduce interference from other signals using the same frequency channel, thereby enhancing the performance of wireless communication systems. An improvement to this approach is blind CCI, which reduces interference without relying on prior knowledge of the interfering signal characteristics. Recent work suggested using machine learning (ML) models for this purpose, but high-throughput ML solutions are still lacking, especially for edge devices with limited resources. This work explores the adaptation of U-Net Convolutional Neural Network models for high-throughput blind source separation. Our approach is established on architectural modifications, notably through quantization and the incorporation of depthwise separable convolution, to achieve a balance between computational efficiency and performance. Our results demonstrate that the proposed models achieve superior MSE scores when removing unknown interference sources from the signals while maintaining significantly lower computational complexity compared to baseline models. One of our proposed models is deeper and fully convolutional, while the other is shallower with a convolutional structure incorporating an LSTM. Depthwise separable convolution and quantization further reduce the memory footprint and computational demands, albeit with some performance trade-offs. Specifically, applying depthwise separable convolutions to the model with the LSTM results in only a 0.72% degradation in MSE score while reducing MACs by 58.66%. For the fully convolutional model, we observe a 0.63% improvement in MSE score with even 61.10% fewer MACs. Overall, our findings underscore the feasibility of using optimized machine-learning models for interference cancellation in devices with limited resources.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP"
+}

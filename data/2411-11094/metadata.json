@@ -1,0 +1,17 @@
+{
+  "title": "Non-Invasive Glucose Level Monitoring from PPG using a Hybrid CNN-GRU Deep Learning Network",
+  "authors": [
+    "Abdelrhman Y. Soliman",
+    "Ahmed M. Nor",
+    "Octavian Fratu",
+    "Simona Halunga",
+    "Osama A. Omer",
+    "Ahmed S. Mubark"
+  ],
+  "summary": "Every year, humanity loses about 1.5 million persons due to diabetic disease. Therefore continuous monitoring of diabetes is highly needed, but the conventional approach, i.e., fingertip pricking, causes mental and physical pain to the patient. This work introduces painless and cheaper non-invasive blood glucose level monitoring, Exploiting the advancement and huge progress in deep learning to develop a hybrid convolution neural network (CNN) - gate recurrent unit (GRU) network to hit the targeted system, The proposed system deploys CNN for extracting spatial patterns in the photoplethysmogram (PPG) signal and GRU is used for detecting the temporal patterns. The performance of the proposed system achieves a Mean Absolute Error (MAE) of 2.96 mg/dL, a mean square error (MSE) of 15.53 mg/dL, a root mean square Error (RMSE) of 3.94 mg/dL, and a coefficient of determination ($R^2$ score) of 0.97 on the test dataset. According to the Clarke Error Grid analysis, 100% of points fall within the clinically acceptable zone (Class A)",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP"
+}

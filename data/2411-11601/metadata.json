@@ -1,0 +1,19 @@
+{
+  "title": "Mean first-passage time at the origin of a run-and-tumble particle with periodic forces",
+  "authors": [
+    "Pascal Grange",
+    "Linglong Yuan"
+  ],
+  "summary": "We consider a run-and-tumble particle on a half-line with an absorbing target at the origin. The particle has an internal velocity state that switches between two opposite values at Poisson-distributed times. The position of the particle evolves according to an overdamped Langevin dynamics with a spatially-periodic force field such that every point in a given period interval is accessible to the particle. The survival probability of the particle satisfies a backward Fokker--Planck equation, whose Laplace transform yields systems of equations for the moments of the first-passage time of the particle at the origin. The mean first-passage time has already been calculated assuming that the particle exits the system almost surely. We calculate the probability that the particle reaches the origin in a finite time, given its initial position and velocity. We obtain an integral condition on the force, under which the particle has a non-zero survival probability. The conditional average of the first-passage time at the origin (over the trajectories that reach the origin) is obtained in closed form. As an application, we consider a piecewise-constant force field that alternates periodically between two opposite values. In the limit where the period is short compared to the mean free path of the particle, the mean first-return time to the origin coincides with the value obtained in the case of an effective constant drift, which we calculate explicitly.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-12-30",
+    "2025-01-10",
+    "2025-01-21",
+    "2025-02-26",
+    "2025-06-18"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cond-mat.stat-mech"
+}

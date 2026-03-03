@@ -1,0 +1,19 @@
+{
+  "title": "Mining double-line spectroscopic candidates in the LAMOST medium-resolution spectroscopic survey using human-AI hybrid method",
+  "authors": [
+    "Shan-shan Li",
+    "Chun-qian Li",
+    "Chang-hua Li",
+    "Dong-wei Fan",
+    "Yun-fei Xu",
+    "Lin-ying Mi",
+    "Chen-zhou Cui",
+    "Jian-rong Shi"
+  ],
+  "summary": "We utilize a hybrid approach that integrates the traditional cross-correlation function (CCF) and machine learning to detect spectroscopic multi-systems, specifically focusing on double-line spectroscopic binary (SB2). Based on the ninth data release (DR9) of the Large Sky Area Multi-Object Fiber Spectroscopic Telescope (LAMOST), which includes a medium-resolution survey (MRS) containing 29,920,588 spectra, we identify 27,164 double-line and 3124 triple-line spectra, corresponding to 7096 SB2 candidates and 1903 triple-line spectroscopic binary (SB3) candidates, respectively, representing about 1% of the selection dataset from LAMOST-MRS DR9. Notably, 70.1% of the SB2 candidates and 89.6% of the SB3 candidates are newly identified. Compared to using only the traditional CCF technique, our method significantly improves the efficiency of detecting SB2, saves time on visual inspections by a factor of four.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.IM, astro-ph.GA, astro-ph.SR"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "From Spectra to Geography: Intelligent Mapping of RRUFF Mineral Data",
+  "authors": [
+    "Francesco Pappone",
+    "Federico Califano",
+    "Marco Tafani"
+  ],
+  "summary": "Accurately determining the geographic origin of mineral samples is pivotal for applications in geology, mineralogy, and material science. Leveraging the comprehensive Raman spectral data from the RRUFF database, this study introduces a novel machine learning framework aimed at geolocating mineral specimens at the country level. We employ a one-dimensional ConvNeXt1D neural network architecture to classify mineral spectra based solely on their spectral signatures. The processed dataset comprises over 32,900 mineral samples, predominantly natural, spanning 101 countries. Through five-fold cross-validation, the ConvNeXt1D model achieved an impressive average classification accuracy of 93%, demonstrating its efficacy in capturing geospatial patterns inherent in Raman spectra.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, eess.IV, physics.comp-ph"
+}

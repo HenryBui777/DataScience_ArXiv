@@ -1,0 +1,15 @@
+{
+  "title": "ROSMonitoring 2.0: Extending ROS Runtime Verification to Services and Ordered Topics",
+  "authors": [
+    "Maryam Ghaffari Saadat",
+    "Angelo Ferrando",
+    "Louise A. Dennis",
+    "Michael Fisher"
+  ],
+  "summary": "Formal verification of robotic applications presents challenges due to their hybrid nature and distributed architecture. This paper introduces ROSMonitoring 2.0, an extension of ROSMonitoring designed to facilitate the monitoring of both topics and services while considering the order in which messages are published and received. The framework has been enhanced to support these novel features for ROS1 -- and partially ROS2 environments -- offering improved real-time support, security, scalability, and interoperability. We discuss the modifications made to accommodate these advancements and present results obtained from a case study involving the runtime monitoring of specific components of a fire-fighting Uncrewed Aerial Vehicle (UAV).",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "EPTCS 411, 2024, pp. 38-55",
+  "pdf_url": null,
+  "category": "cs.SE, cs.AI, cs.RO"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Vision Language Models Are Few-Shot Audio Spectrogram Classifiers",
+  "authors": [
+    "Satvik Dixit",
+    "Laurie M. Heller",
+    "Chris Donahue"
+  ],
+  "summary": "We demonstrate that vision language models (VLMs) are capable of recognizing the content in audio recordings when given corresponding spectrogram images. Specifically, we instruct VLMs to perform audio classification tasks in a few-shot setting by prompting them to classify a spectrogram image given example spectrogram images of each class. By carefully designing the spectrogram image representation and selecting good few-shot examples, we show that GPT-4o can achieve 59.00% cross-validated accuracy on the ESC-10 environmental sound classification dataset. Moreover, we demonstrate that VLMs currently outperform the only available commercial audio language model with audio understanding capabilities (Gemini-1.5) on the equivalent audio classification task (59.00% vs. 49.62%), and even perform slightly better than human experts on visual spectrogram classification (73.75% vs. 72.50% on first fold). We envision two potential use cases for these findings: (1) combining the spectrogram and language understanding capabilities of VLMs for audio caption augmentation, and (2) posing visual spectrogram classification as a challenge task for VLMs.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SD, eess.AS"
+}

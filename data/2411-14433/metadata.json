@@ -1,0 +1,23 @@
+{
+  "title": "PRISM: A Personalized, Rapid, and Immersive Skill Mastery framework for personalizing experiential learning through Generative AI",
+  "authors": [
+    "Yu-Zheng Lin",
+    "Karan Patel",
+    "Ahmed Hussain J Alhamadah",
+    "Bono Po-Jen Shih",
+    "Matthew William Redondo",
+    "David Rafael Vidal Corona",
+    "Banafsheh Saber Latibari",
+    "Jesus Pacheco",
+    "Soheil Salehi",
+    "Pratik Satam"
+  ],
+  "summary": "The rise of generative AI (gen-AI) is transforming industries, particularly in education and workforce training. This chapter introduces PRISM (Personalized, Rapid, and Immersive Skill Mastery), a scalable framework leveraging gen-AI and Digital Twins (DTs) to deliver adaptive, experiential learning. PRISM integrates sentiment analysis and Retrieval-Augmented Generation (RAG) to monitor learner comprehension and dynamically adjust content to meet course objectives. We further present the Multi-Fidelity Digital Twin for Education (MFDT-E) framework, aligning DT fidelity levels with Bloom's Taxonomy and the Kirkpatrick evaluation model to support undergraduate, master's, and doctoral training. Experimental validation shows that GPT-4 achieves 91 percent F1 in zero-shot sentiment analysis of teacher-student dialogues, while GPT-3.5 performs robustly in informal language contexts. Additionally, the system's effectiveness and scalability for immersive Industry 4.0 training are demonstrated through four VR modules: Home Scene, Factory Floor Tour, Capping Station DT, and PPE Inspection Training. These results highlight the potential of integrating generative AI with digital twins to enable personalized, efficient, and scalable education.",
+  "submission_date": "2024-11-02",
+  "revised_dates": [
+    "2025-07-26"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CY, cs.AI, cs.CR, cs.HC"
+}

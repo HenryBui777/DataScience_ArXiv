@@ -1,0 +1,15 @@
+{
+  "title": "Information Extraction from Heterogeneous Documents without Ground Truth Labels using Synthetic Label Generation and Knowledge Distillation",
+  "authors": [
+    "Aniket Bhattacharyya",
+    "Anurag Tripathi"
+  ],
+  "summary": "Invoices and receipts submitted by employees are visually rich documents (VRDs) with textual, visual and layout information. To protect against the risk of fraud and abuse, it is crucial for organizations to efficiently extract desired information from submitted receipts. This helps in the assessment of key factors such as appropriateness of the expense claim, adherence to spending and transaction policies, the validity of the receipt, as well as downstream anomaly detection at various levels. These documents are heterogeneous, with multiple formats and languages, uploaded with different image qualities, and often do not contain ground truth labels for the efficient training of models. In this paper we propose Task Aware Instruction-based Labelling (TAIL), a method for synthetic label generation in VRD corpuses without labels, and fine-tune a multimodal Visually Rich Document Understanding Model (VRDU) on TAIL labels using response-based knowledge distillation without using the teacher model's weights or training dataset to conditionally generate annotations in the appropriate format. Using a benchmark external dataset where ground truth labels are available, we demonstrate conditions under which our approach performs at par with Claude 3 Sonnet through empirical studies. We then show that the resulting model performs at par or better on the internal expense documents of a large multinational organization than state-of-the-art LMM (large multimodal model) Claude 3 Sonnet while being 85% less costly and ~5X faster, and outperforms layout-aware baselines by more than 10% in Average Normalized Levenshtein Similarity (ANLS) scores due to its ability to reason and extract information from rare formats. Finally, we illustrate the usage of our approach in overpayment prevention.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-11-25"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "ETA-IK: Execution-Time-Aware Inverse Kinematics for Dual-Arm Systems",
+  "authors": [
+    "Yucheng Tang",
+    "Xi Huang",
+    "Yongzhou Zhang",
+    "Tao Chen",
+    "Ilshat Mamaev",
+    "Björn Hein"
+  ],
+  "summary": "This paper presents ETA-IK, a novel Execution-Time-Aware Inverse Kinematics method tailored for dual-arm robotic systems. The primary goal is to optimize motion execution time by leveraging the redundancy of both arms, specifically in tasks where only the relative pose of the robots is constrained, such as dual-arm scanning of unknown objects. Unlike traditional inverse kinematics methods that use surrogate metrics such as joint configuration distance, our method incorporates direct motion execution time and implicit collisions into the optimization process, thereby finding target joints that allow subsequent trajectory generation to get more efficient and collision-free motion. A neural network based execution time approximator is employed to predict time-efficient joint configurations while accounting for potential collisions. Through experimental evaluation on a system composed of a UR5 and a KUKA iiwa robot, we demonstrate significant reductions in execution time. The proposed method outperforms conventional approaches, showing improved motion efficiency without sacrificing positioning accuracy. These results highlight the potential of ETA-IK to improve the performance of dual-arm systems in applications, where efficiency and safety are paramount.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-10-19"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

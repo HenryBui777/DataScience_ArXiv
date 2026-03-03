@@ -1,0 +1,19 @@
+{
+  "title": "Extended Neural Contractive Dynamical Systems: On Multiple Tasks and Riemannian Safety Regions",
+  "authors": [
+    "Hadi Beik Mohammadi",
+    "Søren Hauberg",
+    "Georgios Arvanitidis",
+    "Gerhard Neumann",
+    "Leonel Rozo"
+  ],
+  "summary": "Stability guarantees are crucial when ensuring that a fully autonomous robot does not take undesirable or potentially harmful actions. We recently proposed the Neural Contractive Dynamical Systems (NCDS), which is a neural network architecture that guarantees contractive stability. With this, learning-from-demonstrations approaches can trivially provide stability guarantees. However, our early work left several unanswered questions, which we here address. Beyond providing an in-depth explanation of NCDS, this paper extends the framework with more careful regularization, a conditional variant of the framework for handling multiple tasks, and an uncertainty-driven approach to latent obstacle avoidance. Experiments verify that the developed system has the flexibility of ordinary neural networks while providing the stability guarantees needed for autonomous robotics.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-20",
+    "2025-09-11"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO, cs.LG"
+}

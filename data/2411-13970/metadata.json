@@ -1,0 +1,16 @@
+{
+  "title": "Movable Antenna-Equipped UAV for Data Collection in Backscatter Sensor Networks: A Deep Reinforcement Learning-based Approach",
+  "authors": [
+    "Yu Bai",
+    "Boxuan Xie",
+    "Ruifan Zhu",
+    "Zheng Chang",
+    "Riku Jantti"
+  ],
+  "summary": "Backscatter communication (BC) becomes a promising energy-efficient solution for future wireless sensor networks (WSNs). Unmanned aerial vehicles (UAVs) enable flexible data collection from remote backscatter devices (BDs), yet conventional UAVs rely on omni-directional fixed-position antennas (FPAs), limiting channel gain and prolonging data collection time. To address this issue, we consider equipping a UAV with a directional movable antenna (MA) with high directivity and flexibility. The MA enhances channel gain by precisely aiming its main lobe at each BD, focusing transmission power for efficient communication. Our goal is to minimize the total data collection time by jointly optimizing the UAV's trajectory and the MA's orientation. We develop a deep reinforcement learning (DRL)-based strategy using the azimuth angle and distance between the UAV and each BD to simplify the agent's observation space. To ensure stability during training, we adopt Soft Actor-Critic (SAC) algorithm that balances exploration with reward maximization for efficient and reliable learning. Simulation results demonstrate that our proposed MA-equipped UAV with SAC outperforms both FPA-equipped UAVs and other RL methods, achieving significant reductions in both data collection time and energy consumption.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP, cs.LG"
+}

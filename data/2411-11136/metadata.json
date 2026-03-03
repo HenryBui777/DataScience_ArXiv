@@ -1,0 +1,16 @@
+{
+  "title": "Approximation algorithms for non-sequential star packing problems",
+  "authors": [
+    "Mengyuan Hu",
+    "An Zhang",
+    "Yong Chen",
+    "Mingyang Gong",
+    "Guohui Lin"
+  ],
+  "summary": "For a positive integer $k \\ge 1$, a $k$-star ($k^+$-star, $k^-$-star, respectively) is a connected graph containing a degree-$\\ell$ vertex and $\\ell$ degree-$1$ vertices, where $\\ell = k$ ($\\ell \\ge k$, $1 \\le \\ell \\le k$, respectively). The $k^+$-star packing problem is to cover as many vertices of an input graph $G$ as possible using vertex-disjoint $k^+$-stars in $G$; and given $k > t \\ge 1$, the $k^-/t$-star packing problem is to cover as many vertices of $G$ as possible using vertex-disjoint $k^-$-stars but no $t$-stars in $G$. Both problems are NP-hard for any fixed $k \\ge 2$. We present a $(1 + \\frac {k^2}{2k+1})$- and a $\\frac 32$-approximation algorithms for the $k^+$-star packing problem when $k \\ge 3$ and $k = 2$, respectively, and a $(1 + \\frac 1{t + 1 + 1/k})$-approximation algorithm for the $k^-/t$-star packing problem when $k > t \\ge 2$. They are all local search algorithms and they improve the best known approximation algorithms for the problems, respectively.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DS, cs.DM"
+}

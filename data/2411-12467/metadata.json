@@ -1,0 +1,17 @@
+{
+  "title": "On Multilevel Energy-Based Fragmentation Methods",
+  "authors": [
+    "James Barker",
+    "Michael Griebel",
+    "Jan Hamaekers"
+  ],
+  "summary": "Energy-based fragmentation methods approximate the potential energy of a molecular system as a sum of contribution terms built from the energies of particular subsystems. Some such methods reduce to truncations of the many-body expansion (MBE); others combine subsystem energies in a manner inspired by the principle of inclusion/exclusion (PIE). The combinatorial technique of Möbius inversion of sums over partially ordered sets, which generalizes the PIE, is known to provide a non-recursive expression for the MBE contribution terms, and has also been connected to related cluster expansion methods. We build from these ideas a very general framework for decomposing potential functions into energetic contribution terms associated with elements of particular partially ordered sets (posets) and direct products thereof. Specific choices immediately reproduce not only the MBE, but also a number of other existing decomposition forms, including, e.g., the multilevel ML-BOSSANOVA schema. Furthermore, a different choice of poset product leads to a setup familiar from the combination technique for high-dimensional approximation, which has a known connection to quantum-chemical composite methods. We present the ML-SUPANOVA decomposition form, which allows the further refinement of the terms of an MBE-like expansion of the Born-Oppenheimer potential according to systematic hierarchies of ab initio methods and of basis sets. We outline an adaptive algorithm for the a posteori construction of quasi-optimal truncations of this decomposition. Some initial experiments are reported and discussed.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-04-04",
+    "2025-09-24"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

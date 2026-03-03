@@ -1,0 +1,15 @@
+{
+  "title": "Static Reuse Profile Estimation for Array Applications",
+  "authors": [
+    "Abdur Razzak",
+    "Atanu Barai",
+    "Nandakishore Santhi",
+    "Abdel-Hameed A. Badawy"
+  ],
+  "summary": "Reuse distance analysis is a widely recognized method for application characterization that illustrates cache locality. Although there are various techniques to calculate the reuse profile from dynamic memory traces, it is both time and space-consuming due to the requirement to collect dynamic memory traces at runtime. In contrast, static analysis reuse profile estimation is a promisingly faster approach since it is calculated at compile time without running the program or collecting memory traces. This work presents a static analysis technique to estimate the reuse profile of loop-based programs. For an input program, we generate a basic block-level control flow graph and the execution count by analyzing the LLVM IR of the program. We present the memory accesses of the application kernel in a compact bracketed format and use a recursive algorithm to predict the reuse distance histogram. We deploy a separate predictor that unrolls the loop(s) for smaller bounds and generates a temporary reuse distance profile for those small cases. Using these smaller profiles, the reuse profile is extrapolated for the actual loop bound(s). We use this reuse profile to predict the cache hit rate. Results show that our model can predict cache hit rates with an average accuracy of 95% relative to the dynamic reuse profile methods.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.PF"
+}

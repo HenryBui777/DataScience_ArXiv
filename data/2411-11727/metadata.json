@@ -1,0 +1,19 @@
+{
+  "title": "Aligning Few-Step Diffusion Models with Dense Reward Difference Learning",
+  "authors": [
+    "Ziyi Zhang",
+    "Li Shen",
+    "Sen Zhang",
+    "Deheng Ye",
+    "Yong Luo",
+    "Miaojing Shi",
+    "Bo Du",
+    "Dacheng Tao"
+  ],
+  "summary": "Aligning diffusion models with downstream objectives is essential for their practical applications. However, standard alignment methods often struggle with step generalization when directly applied to few-step diffusion models, leading to inconsistent performance across different denoising step scenarios. To address this, we introduce Stepwise Diffusion Policy Optimization (SDPO), a novel alignment method tailored for few-step diffusion models. Unlike prior approaches that rely on a single sparse reward from only the final step of each denoising trajectory for trajectory-level optimization, SDPO incorporates dense reward feedback at every intermediate step. By learning the differences in dense rewards between paired samples, SDPO facilitates stepwise optimization of few-step diffusion models, ensuring consistent alignment across all denoising steps. To promote stable and efficient training, SDPO introduces an online reinforcement learning framework featuring several novel strategies designed to effectively exploit the stepwise granularity of dense rewards. Experimental results demonstrate that SDPO consistently outperforms prior methods in reward-based alignment across diverse step configurations, underscoring its robust step generalization capabilities. Code is avaliable at https://github.com/ZiyiZhang27/sdpo.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.CV"
+}

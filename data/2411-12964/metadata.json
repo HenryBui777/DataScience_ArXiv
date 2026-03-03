@@ -1,0 +1,16 @@
+{
+  "title": "Real-Time Energy-Optimal Path Planning for Electric Vehicles",
+  "authors": [
+    "Saman Ahmadi",
+    "Guido Tack",
+    "Daniel Harabor",
+    "Philip Kilby",
+    "Mahdi Jalili"
+  ],
+  "summary": "The rapid adoption of electric vehicles (EVs) in modern transport systems has made energy-aware routing a critical task in their successful integration, especially within large-scale networks. In cases where an EV's remaining energy is limited and charging locations are not easily accessible, some destinations may only be reachable through an energy-optimal path: a route that consumes less energy than all other alternatives. The feasibility of such energy-efficient paths depends heavily on the accuracy of the energy model used for planning, and thus failing to account for vehicle dynamics can lead to inaccurate energy estimates, rendering some planned routes infeasible in reality. This paper explores the impact of vehicle dynamics on energy-optimal path planning for EVs. We develop an accurate energy model that incorporates key vehicle dynamics parameters into energy calculations, thereby reducing the risk of planning infeasible paths under battery constraints. The paper also introduces two novel online reweighting functions that allow for a faster, pre-processing free, pathfinding in the presence of negative energy costs resulting from regenerative braking, making them ideal for real-time applications. Through extensive experimentation on real-world transport networks, we demonstrate that our approach considerably enhances energy-optimal pathfinding for EVs in both computational efficiency and energy estimation accuracy.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AI"
+}

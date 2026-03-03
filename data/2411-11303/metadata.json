@@ -1,0 +1,13 @@
+{
+  "title": "Recurrent Stochastic Configuration Networks with Incremental Blocks",
+  "authors": [
+    "Gang Dang",
+    "Dainhui Wang"
+  ],
+  "summary": "Recurrent stochastic configuration networks (RSCNs) have shown promise in modelling nonlinear dynamic systems with order uncertainty due to their advantages of easy implementation, less human intervention, and strong approximation capability. This paper develops the original RSCNs with block increments, termed block RSCNs (BRSCNs), to further enhance the learning capacity and efficiency of the network. BRSCNs can simultaneously add multiple reservoir nodes (subreservoirs) during the construction. Each subreservoir is configured with a unique structure in the light of a supervisory mechanism, ensuring the universal approximation property. The reservoir feedback matrix is appropriately scaled to guarantee the echo state property of the network. Furthermore, the output weights are updated online using a projection algorithm, and the persistent excitation conditions that facilitate parameter convergence are also established. Numerical results over a time series prediction, a nonlinear system identification task, and two industrial data predictive analyses demonstrate that the proposed BRSCN performs favourably in terms of modelling efficiency, learning, and generalization performance, highlighting their significant potential for coping with complex dynamics.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI"
+}

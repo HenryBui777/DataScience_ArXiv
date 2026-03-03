@@ -1,0 +1,18 @@
+{
+  "title": "DLBacktrace: A Model Agnostic Explainability for any Deep Learning Models",
+  "authors": [
+    "Vinay Kumar Sankarapu",
+    "Chintan Chitroda",
+    "Yashwardhan Rathore",
+    "Neeraj Kumar Singh",
+    "Pratinav Seth"
+  ],
+  "summary": "The rapid growth of AI has led to more complex deep learning models, often operating as opaque \"black boxes\" with limited transparency in their decision-making. This lack of interpretability poses challenges, especially in high-stakes applications where understanding model output is crucial. This work highlights the importance of interpretability in fostering trust, accountability, and responsible deployment. To address these challenges, we introduce DLBacktrace, a novel, model-agnostic technique designed to provide clear insights into deep learning model decisions across a wide range of domains and architectures, including MLPs, CNNs, and Transformer-based LLM models. We present a comprehensive overview of DLBacktrace and benchmark its performance against established interpretability methods such as SHAP, LIME, and GradCAM. Our results demonstrate that DLBacktrace effectively enhances understanding of model behavior across diverse tasks. DLBacktrace is compatible with models developed in both PyTorch and TensorFlow, supporting architectures such as BERT, ResNet, U-Net, and custom DNNs for tabular data. The library is open-sourced and available at https://github.com/AryaXAI/DLBacktrace .",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-02-04"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI, cs.CL"
+}

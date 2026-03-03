@@ -1,0 +1,13 @@
+{
+  "title": "Machine Learning Domain Adaptation in Spin Models with Continuous Phase Transitions",
+  "authors": [
+    "Vladislav Chertenkov",
+    "Lev Shchur"
+  ],
+  "summary": "The main question raised in the letter is the applicability of a neural network trained on a spin lattice model in one universality class to test a model in another universality class. The quantities of interest are the critical phase transition temperature and the correlation length exponent. In other words, the question of transfer learning is how ``universal'' the trained network is and under what conditions. The traditional approach with training and testing spin distributions turns out to be inapplicable for this purpose. Instead, we propose to use training and testing on binding energy distributions, which leads to successful estimates of the critical temperature and correlation length exponent for cross-tested Baxter-Wu and Ising models belonging to different universality classes.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cond-mat.stat-mech"
+}

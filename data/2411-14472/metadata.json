@@ -1,0 +1,15 @@
+{
+  "title": "Exploring the Potential Role of Generative AI in the TRAPD Procedure for Survey Translation",
+  "authors": [
+    "Erica Ann Metheney",
+    "Lauren Yehle"
+  ],
+  "summary": "This paper explores and assesses in what ways generative AI can assist in translating survey instruments. Writing effective survey questions is a challenging and complex task, made even more difficult for surveys that will be translated and deployed in multiple linguistic and cultural settings. Translation errors can be detrimental, with known errors rendering data unusable for its intended purpose and undetected errors leading to incorrect conclusions. A growing number of institutions face this problem as surveys deployed by private and academic organizations globalize, and the success of their current efforts depends heavily on researchers' and translators' expertise and the amount of time each party has to contribute to the task. Thus, multilinguistic and multicultural surveys produced by teams with limited expertise, budgets, or time are at significant risk for translation-based errors in their data. We implement a zero-shot prompt experiment using ChatGPT to explore generative AI's ability to identify features of questions that might be difficult to translate to a linguistic audience other than the source language. We find that ChatGPT can provide meaningful feedback on translation issues, including common source survey language, inconsistent conceptualization, sensitivity and formality issues, and nonexistent concepts. In addition, we provide detailed information on the practicality of the approach, including accessing the necessary software, associated costs, and computational run times. Lastly, based on our findings, we propose avenues for future research that integrate AI into survey translation practices.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-01-09"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, stat.AP, stat.ME"
+}

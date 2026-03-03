@@ -1,0 +1,33 @@
+{
+  "title": "UPdec-Webb: A Dataset for Coaddition of JWST NIRCam Images",
+  "authors": [
+    "Lei Wang",
+    "Huanyuan Shan",
+    "Lin Nie",
+    "Cheng Cheng",
+    "Fang-Ting Yuan",
+    "Qifan Cui",
+    "Guoliang Li",
+    "Yushan Xie",
+    "Dezi Liu",
+    "Yao Liu",
+    "Min Fang",
+    "Nan Li",
+    "Peng Jia",
+    "Ran Li",
+    "Fengshan Liu",
+    "Yiping Shu",
+    "Chang Jiang",
+    "Cheng-Liang Wei",
+    "Han Qu",
+    "Wen-Wen Zheng",
+    "Li-Yan Zhu",
+    "Xi Kang"
+  ],
+  "summary": "We present the application of the image coaddition algorithm, Up-sampling and PSF Deconvolution Coaddition (UPDC), for stacking multiple exposure images captured by the James Webb Space Telescope (JWST) Near-Infrared Camera (NIRCam). By addressing the point spread function (PSF) effect, UPDC provides visually enhanced and sharper images. Furthermore, the anti-aliasing and super-resolution capabilities of UPDC make it easier to deblend sources overlapped on images, yielding a higher accuracy of aperture photometry. We apply this algorithm to the SMACS J0723 imaging data. Comparative analysis with the Drizzle algorithm demonstrates significant improvements in detecting faint sources, achieving accurate photometry, and effectively deblending (super-resolution) closely packed sources. {As a result, we have newly detected a pair of close binary stars that were previously unresolvable in the original exposures or the Drizzled image.} These improvements significantly benefit various scientific projects conducted by JWST. The resulting dataset, named \"UPdec-Webb\", can be accessible through the official website of the Chinese Virtual Observatory (ChinaVO).",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.IM, astro-ph.GA"
+}

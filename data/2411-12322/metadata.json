@@ -1,0 +1,16 @@
+{
+  "title": "On sharp anisotropic Hardy inequalities",
+  "authors": [
+    "Xia Huang",
+    "Dong Ye"
+  ],
+  "summary": "Recently, Yanyan Li and Xukai Yan showed the following interesting Hardy inequalities with anisotropic weights: Let $n\\geq 2$, $p \\geq 1$, $pα> 1-n$, $p(α+ β)> -n$, then there exists $C > 0$ such that $$\\||x|^β|x'|^{α+1} \\nabla u\\|_{L^p(\\mathbb{R}^n)} \\geq C\\||x|^β|x'|^αu\\|_{L^p(\\mathbb{R}^n)}, \\quad \\forall\\; u\\in C_c^1(\\mathbb{R}^n).$$ Here $x' = (x_1,\\ldots, x_{n-1}, 0)$ for $x = (x_i) \\in \\mathbb{R}^n$. In this note, we will determine the best constant for the above estimate when $p=2$ or $β\\geq 0$. Moreover, as refinement for very special case of Li-Yan's result in Adv. Math. 2023, we provide explicit estimate for the anisotropic $L^p$-Caffarelli-Kohn-Nirenberg inequality.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-27",
+    "2025-03-10"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AP"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "CATCH: Complementary Adaptive Token-level Contrastive Decoding to Mitigate Hallucinations in LVLMs",
+  "authors": [
+    "Zhehan Kan",
+    "Ce Zhang",
+    "Zihan Liao",
+    "Yapeng Tian",
+    "Wenming Yang",
+    "Junyuan Xiao",
+    "Xu Li",
+    "Dongmei Jiang",
+    "Yaowei Wang",
+    "Qingmin Liao"
+  ],
+  "summary": "Large Vision-Language Model (LVLM) systems have demonstrated impressive vision-language reasoning capabilities but suffer from pervasive and severe hallucination issues, posing significant risks in critical domains such as healthcare and autonomous systems. Despite previous efforts to mitigate hallucinations, a persistent issue remains: visual defect from vision-language misalignment, creating a bottleneck in visual processing capacity. To address this challenge, we develop Complementary Adaptive Token-level Contrastive Decoding to Mitigate Hallucinations in LVLMs (CATCH), based on the Information Bottleneck theory. CATCH introduces Complementary Visual Decoupling (CVD) for visual information separation, Non-Visual Screening (NVS) for hallucination detection, and Adaptive Token-level Contrastive Decoding (ATCD) for hallucination mitigation. CATCH addresses issues related to visual defects that cause diminished fine-grained feature perception and cumulative hallucinations in open-ended scenarios. It is applicable to various visual question-answering tasks without requiring any specific data or prior knowledge, and generalizes robustly to new tasks without additional training, opening new possibilities for advancing LVLM in various challenging applications.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI"
+}

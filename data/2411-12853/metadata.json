@@ -1,0 +1,17 @@
+{
+  "title": "Integrating Secondary Structures Information into Triangular Spatial Relationships (TSR) for Advanced Protein Classification",
+  "authors": [
+    "Poorya Khajouie",
+    "Titli Sarkar",
+    "Krishna Rauniyar",
+    "Li Chen",
+    "Wu Xu",
+    "Vijay Raghavan"
+  ],
+  "summary": "Protein structures represent the key to deciphering biological functions. The more detailed form of similarity among these proteins is sometimes overlooked by the conventional structural comparison methods. In contrast, further advanced methods, such as Triangular Spatial Relationship (TSR), have been demonstrated to make finer differentiations. Still, the classical implementation of TSR does not provide for the integration of secondary structure information, which is important for a more detailed understanding of the folding pattern of a protein. To overcome these limitations, we developed the SSE-TSR approach. The proposed method integrates secondary structure elements (SSEs) into TSR-based protein representations. This allows an enriched representation of protein structures by considering 18 different combinations of helix, strand, and coil arrangements. Our results show that using SSEs improves the accuracy and reliability of protein classification to varying degrees. We worked with two large protein datasets of 9.2K and 7.8K samples, respectively. We applied the SSE-TSR approach and used a neural network model for classification. Interestingly, introducing SSEs improved performance statistics for Dataset 1, with accuracy moving from 96.0% to 98.3%. For Dataset 2, where the performance statistics were already good, further small improvements were found with the introduction of SSE, giving an accuracy of 99.5% compared to 99.4%. These results show that SSE integration can dramatically improve TSR key discrimination, with significant benefits in datasets with low initial accuracies and only incremental gains in those with high baseline performance. Thus, SSE-TSR is a powerful bioinformatics tool that improves protein classification and understanding of protein function and interaction.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, q-bio.BM"
+}

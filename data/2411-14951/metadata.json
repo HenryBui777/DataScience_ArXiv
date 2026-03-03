@@ -1,0 +1,22 @@
+{
+  "title": "Morph: A Motion-free Physics Optimization Framework for Human Motion Generation",
+  "authors": [
+    "Zhuo Li",
+    "Mingshuang Luo",
+    "Ruibing Hou",
+    "Xin Zhao",
+    "Hao Liu",
+    "Hong Chang",
+    "Zimo Liu",
+    "Chen Li"
+  ],
+  "summary": "Human motion generation has been widely studied due to its crucial role in areas such as digital humans and humanoid robot control. However, many current motion generation approaches disregard physics constraints, frequently resulting in physically implausible motions with pronounced artifacts such as floating and foot sliding. Meanwhile, training an effective motion physics optimizer with noisy motion data remains largely unexplored. In this paper, we propose \\textbf{Morph}, a \\textbf{Mo}tion-F\\textbf{r}ee \\textbf{ph}ysics optimization framework, consisting of a Motion Generator and a Motion Physics Refinement module, for enhancing physical plausibility without relying on expensive real-world motion data. Specifically, the motion generator is responsible for providing large-scale synthetic, noisy motion data, while the motion physics refinement module utilizes these synthetic data to learn a motion imitator within a physics simulator, enforcing physical constraints to project the noisy motions into a physically-plausible space. Additionally, we introduce a prior reward module to enhance the stability of the physics optimization process and generate smoother and more stable motions. These physically refined motions are then used to fine-tune the motion generator, further enhancing its capability. This collaborative training paradigm enables mutual enhancement between the motion generator and the motion physics refinement module, significantly improving practicality and robustness in real-world applications. Experiments on both text-to-motion and music-to-dance generation tasks demonstrate that our framework achieves state-of-the-art motion quality while improving physical plausibility drastically.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-12-02",
+    "2025-09-18"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

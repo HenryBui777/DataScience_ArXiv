@@ -1,0 +1,14 @@
+{
+  "title": "HPA-MPC: Hybrid Perception-Aware Nonlinear Model Predictive Control for Quadrotors with Suspended Loads",
+  "authors": [
+    "Mrunal Sarvaiya",
+    "Guanrui Li",
+    "Giuseppe Loianno"
+  ],
+  "summary": "Quadrotors equipped with cable-suspended loads represent a versatile, low-cost, and energy efficient solution for aerial transportation, construction, and manipulation tasks. However, their real-world deployment is hindered by several challenges. The system is difficult to control because it is nonlinear, underactuated, involves hybrid dynamics due to slack-taut cable modes, and evolves on complex configuration spaces. Additionally, it is crucial to estimate the full state and the cable's mode transitions in real-time using on-board sensors and computation. To address these challenges, we present a novel Hybrid Perception-Aware Nonlinear Model Predictive Control (HPA-MPC) control approach for quadrotors with suspended loads. Our method considers the complete hybrid system dynamics and includes a perception-aware cost to ensure the payload remains visible in the robot's camera during navigation. Furthermore, the full state and hybrid dynamics' transitions are estimated using onboard sensors. Experimental results demonstrate that our approach enables stable load tracking control, even during slack-taut transitions, and operates entirely onboard. The experiments also show that the perception-aware term effectively keeps the payload in the robot's camera field of view when a human operator interacts with the load.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

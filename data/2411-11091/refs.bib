@@ -1,0 +1,566 @@
+@article{ForestDB,
+  author = {Ahn, Jung-Sang and Seo, Chiyoung and Mayuram, Ravi and Yaseen, Rahim and Kim, Jin-Soo and Maeng, Seungryoul},
+  title = {ForestDB: A Fast Key-Value Storage System for Variable-Length String Keys},
+  year = {2016},
+  journal = {IEEE Transactions on Computers},
+  issue_date = {March 2016},
+  publisher = {IEEE Computer Society},
+  address = {USA},
+  volume = {65},
+  number = {3},
+  issn = {0018-9340},
+  url = {https://doi.org/10.1109/TC.2015.2435779},
+  doi = {10.1109/TC.2015.2435779},
+  abstract = {Indexing key-value data on persistent storage is an important factor for NoSQL databases. Most key-value storage engines use tree-like structures for data indexing, but their performance and space overhead rapidly get worse as the key length becomes longer. This also affects the merge or compaction cost which is critical to the overall throughput. In this paper, we present ForestDB, a key-value storage engine for a single node of large-scale NoSQL databases. ForestDB uses a new hybrid indexing scheme called HB $^+$ -trie, which is a disk-based trie-like structure combined with B $^+$ -trees. It allows for efficient indexing and retrieval of arbitrary length string keys with relatively low disk accesses over tree-like structures, even though the keys are very long and randomly distributed in the key space. Our evaluation results show that ForestDB significantly outperforms the current key-value storage engine of Couchbase Server [1] , LevelDB [2] , and RocksDB [3] , in terms of both the number of operations per second and the amount of disk writes per update operation.},
+}
+
+@inproceedings{DongCGBSS17,
+  author = {Siying Dong and
+                  Mark Callaghan and
+                  Leonidas Galanis and
+                  Dhruba Borthakur and
+                  Tony Savor and
+                  Michael Strum},
+  title = {Optimizing Space Amplification in RocksDB},
+  booktitle = {8th Biennial Conference on Innovative Data Systems Research, {CIDR},
+  publisher = {www.cidrdb.org},
+  year = {2017},
+  url = {http://cidrdb.org/cidr2017/papers/p82-dong-cidr17.pdf},
+  timestamp = {Mon, 18 Jul 2022 17:13:00 +0200},
+  biburl = {https://dblp.org/rec/conf/cidr/DongCGBSS17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}
+
+@article{Dayan-XDP,
+  author = {Dayan, Niv and Twitto, Moshe and Rochman, Yuval and Beitler, Uri and Zion, Itai Ben and Bortnikov, Edward and Dashevsky, Shmuel and Frishman, Ofer and Ginzburg, Evgeni and Maly, Igal and Meir, Avraham (Poza) and Mokryn, Mark and Naiss, Iddo and Rabinovich, Noam},
+  title = {The end of Moore's law and the rise of the data processor},
+  year = {2021},
+  issue_date = {July 2021},
+  publisher = {VLDB Endowment},
+  volume = {14},
+  number = {12},
+  issn = {2150-8097},
+  url = {https://doi.org/10.14778/3476311.3476373},
+  doi = {10.14778/3476311.3476373},
+  abstract = {With the end of Moore's Law, database architects are turning to hardware accelerators to offload computationally intensive tasks from the CPU. In this paper, we show that accelerators can facilitate far more than just computation: they enable algorithms and data structures that lavishly expand computation in order to optimize for disparate cost metrics. We introduce the Pliops Extreme Data Processor (XDP), a novel storage engine implemented from the ground up using customized hardware. At its core, XDP consists of an accelerated hash table to index the data in storage using less memory and fewer storage accesses for queries than the best alternative. XDP also employs an accelerated compressor, a capacitor, and a lock-free RAID sub-system to minimize storage space and recovery time while minimizing performance penalties. As a result, XDP overcomes cost contentions that have so far been inescapable.},
+  journal = {Proc. VLDB Endow.},
+  month = {jul},
+  pages = {2932–2944},
+  numpages = {13},
+}
+
+@article{LuoCarey,
+  author = {Luo, Chen and Carey, Michael J.},
+  title = {LSM-based storage techniques: a survey},
+  year = {2019},
+  issue_date = {Jan 2020},
+  publisher = {Springer-Verlag},
+  address = {Berlin, Heidelberg},
+  volume = {29},
+  number = {1},
+  issn = {1066-8888},
+  url = {https://doi.org/10.1007/s00778-019-00555-y},
+  doi = {10.1007/s00778-019-00555-y},
+  abstract = {Recently, the log-structured merge-tree (LSM-tree) has been widely adopted for use in the storage layer of modern NoSQL systems. Because of this, there have been a large number of research efforts, from both the database community and the operating systems community, that try to improve various aspects of LSM-trees. In this paper, we provide a survey of recent research efforts on LSM-trees so that readers can learn the state of the art in LSM-based storage techniques. We provide a general taxonomy to classify the literature of LSM-trees, survey the efforts in detail, and discuss their strengths and trade-offs. We further survey several representative LSM-based open-source NoSQL systems and discuss some potential future research directions resulting from the survey.},
+  journal = {The VLDB Journal},
+  month = {jul},
+  pages = {393–418},
+  numpages = {26},
+  keywords = {Indexing, Storage management, NoSQL, LSM-tree},
+}
+
+@article{DongPPAESDPJKPZ23,
+  author = {Siying Dong and
+                  Shiva Shankar P. and
+                  Satadru Pan and
+                  Anand Ananthabhotla and
+                  Dhanabal Ekambaram and
+                  Abhinav Sharma and
+                  Shobhit Dayal and
+                  Nishant Vinaybhai Parikh and
+                  Yanqin Jin and
+                  Albert Kim and
+                  Sushil Patil and
+                  Jay Zhuang and
+                  Sam Dunster and
+                  Akanksha Mahajan and
+                  Anirudh Chelluri and
+                  Chaitanya Datye and
+                  Lucas Vasconcelos Santana and
+                  Nitin Garg and
+                  Omkar Gawde},
+  title = {Disaggregating RocksDB: {A},
+  journal = {Proc. {ACM},
+  volume = {1},
+  number = {2},
+  pages = {192:1--192:24},
+  year = {2023},
+  url = {https://doi.org/10.1145/3589772},
+  doi = {10.1145/3589772},
+  timestamp = {Fri, 07 Jul 2023 23:32:32 +0200},
+  biburl = {https://dblp.org/rec/journals/pacmmod/DongPPAESDPJKPZ23.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}
+
+@article{LakshmanM10,
+  author = {Avinash Lakshman and
+                  Prashant Malik},
+  title = {Cassandra: a decentralized structured storage system},
+  journal = {{ACM},
+  volume = {44},
+  number = {2},
+  pages = {35--40},
+  year = {2010},
+  url = {https://doi.org/10.1145/1773912.1773922},
+  doi = {10.1145/1773912.1773922},
+  timestamp = {Tue, 14 Jul 2020 14:25:28 +0200},
+  biburl = {https://dblp.org/rec/journals/sigops/LakshmanM10.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}
+
+@article{LuoC19a,
+  author = {Chen Luo and
+                  Michael J. Carey},
+  title = {On Performance Stability in LSM-based Storage Systems},
+  journal = {Proc. {VLDB},
+  volume = {13},
+  number = {4},
+  pages = {449--462},
+  year = {2019},
+  url = {http://www.vldb.org/pvldb/vol13/p449-luo.pdf},
+  doi = {10.14778/3372716.3372719},
+  timestamp = {Mon, 19 Dec 2022 20:39:11 +0100},
+  biburl = {https://dblp.org/rec/journals/pvldb/LuoC19a.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}
+
+@inproceedings{GiladBBGHKMS20,
+  author = {Eran Gilad and
+                  Edward Bortnikov and
+                  Anastasia Braginsky and
+                  Yonatan Gottesman and
+                  Eshcar Hillel and
+                  Idit Keidar and
+                  Nurit Moscovici and
+                  Rana Shahout},
+  editor = {Angelos Bilas and
+                  Kostas Magoutis and
+                  Evangelos P. Markatos and
+                  Dejan Kostic and
+                  Margo I. Seltzer},
+  title = {EvenDB: optimizing key-value storage for spatial locality},
+  booktitle = {EuroSys '20: Fifteenth EuroSys Conference 2020, Heraklion, Greece,
+                  April 27-30, 2020},
+  pages = {27:1--27:16},
+  publisher = {{ACM},
+  year = {2020},
+  url = {https://doi.org/10.1145/3342195.3387523},
+  doi = {10.1145/3342195.3387523},
+  timestamp = {Thu, 10 Sep 2020 09:33:09 +0200},
+  biburl = {https://dblp.org/rec/conf/eurosys/GiladBBGHKMS20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}
+
+@article{wiscKey,
+  author = {Lu, Lanyue and Pillai, Thanumalayan Sankaranarayana and Gopalakrishnan, Hariharan and Arpaci-Dusseau, Andrea C. and Arpaci-Dusseau, Remzi H.},
+  title = {WiscKey: Separating Keys from Values in SSD-Conscious Storage},
+  year = {2017},
+  issue_date = {February 2017},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  volume = {13},
+  number = {1},
+  issn = {1553-3077},
+  url = {https://doi.org/10.1145/3033273},
+  doi = {10.1145/3033273},
+  abstract = {We present WiscKey, a persistent LSM-tree-based key-value store with a performance-oriented data layout that separates keys from values to minimize I/O amplification. The design of WiscKey is highly SSD optimized, leveraging both the sequential and random performance characteristics of the device. We demonstrate the advantages of WiscKey with both microbenchmarks and YCSB workloads. Microbenchmark results show that WiscKey is 2.5 \texttimes{},
+  journal = {ACM Trans. Storage},
+  month = {mar},
+  articleno = {5},
+  numpages = {28},
+  keywords = {LevelDB, WiscKey, flash-based SSDs},
+}
+
+@misc{Valkey,
+  title = {{Valkey: an open source, in-memory data store},
+  howpublished = {\url{https://valkey.io},
+}
+
+@inproceedings{HTAP,
+  author = {Li, Guoliang and Zhang, Chao},
+  title = {HTAP Databases: What is New and What is Next},
+  year = {2022},
+  isbn = {9781450392495},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3514221.3522565},
+  doi = {10.1145/3514221.3522565},
+  abstract = {Processing the mixed workloads of transactions and analytical queries in a single database system can eliminate the ETL process and enable real-time data analysis on the transaction data. However, there is no free lunch. Such systems must balance the trade-off between workload isolation and data freshness due to interweaving workloads of OLTP and OLAP. Since Gartner coined the term, Hybrid Transactional/Analytical Processing (HTAP), we have witnessed the emergence of various database systems to support HTAP. One common feature is that they leverage the best of row store and column store to achieve high quality of HTAP. As they have disparate storage strategies and processing techniques to satisfy the requirements of various HTAP applications, it is essential to understand, compare, and evaluate their key techniques. In this tutorial, we offer a comprehensive survey of HTAP databases. We introduce a taxonomy of state-of-the-art HTAP databases according to their storage strategies and architectures. We then take a deep dive into their key techniques regarding transaction processing, analytical processing, data synchronization, query optimization, and resource scheduling. We also introduce existing HTAP benchmarks. Finally, we discuss the research challenges and open problems for HTAP.},
+  booktitle = {Proceedings of the 2022 International Conference on Management of Data},
+  pages = {2483–2488},
+  numpages = {6},
+  keywords = {HTAP databases, query processing, transaction processing},
+  location = {Philadelphia, PA, USA},
+  series = {SIGMOD '22},
+}
+
+@misc{RocksDB,
+  title = {{RocksDB: Persistent Key-Value Store for Fast Storage Environments},
+  howpublished = {\url{https://rocksb.org},
+}
+
+@misc{Titan,
+  title = {{Titan: A RocksDB Plugin to Reduce Write Amplification},
+  howpublished = {\url{https://github.com/tikv/titan},
+}
+
+@misc{Pebble,
+  title = {{Introducing Pebble: A RocksDB-inspired key-value store written in Go},
+  howpublished = {\url{https://www.cockroachlabs.com/blog/pebble-rocksdb-kv-store/},
+}
+
+@misc{Bitcask,
+  title = {{Bitcask - A Log-Structured Hash Table for Fast Key/Value Data},
+  howpublished = {\url{https://github.com/basho/bitcask},
+}
+
+@article{Bender2012,
+  author = {Bender, Michael A. and Farach-Colton, Martin and Johnson, Rob and Kraner, Russell and Kuszmaul, Bradley C. and Medjedovic, Dzejla and Montes, Pablo and Shetty, Pradeep and Spillane, Richard P. and Zadok, Erez},
+  title = {Don't thrash: how to cache your hash on flash},
+  year = {2012},
+  issue_date = {July 2012},
+  publisher = {VLDB Endowment},
+  volume = {5},
+  number = {11},
+  issn = {2150-8097},
+  url = {https://doi.org/10.14778/2350229.2350275},
+  doi = {10.14778/2350229.2350275},
+  journal = {Proc. VLDB Endow.},
+  pages = {1627–1637},
+  numpages = {11},
+}
+
+@article{SrinivasanBCSGI16,
+  author = {V. Srinivasan and
+                  Brian Bulkowski and
+                  Wei{-},
+  title = {Aerospike: Architecture of a Real-Time Operational {DBMS},
+  journal = {Proc. {VLDB},
+  volume = {9},
+  number = {13},
+  pages = {1389--1400},
+  year = {2016},
+  url = {http://www.vldb.org/pvldb/vol9/p1389-srinivasan.pdf},
+  doi = {10.14778/3007263.3007276},
+  timestamp = {Sat, 25 Apr 2020 13:58:33 +0200},
+  biburl = {https://dblp.org/rec/journals/pvldb/SrinivasanBCSGI16.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}
+
+@misc{BlobDB,
+  title = {{Integrated BlobDB},
+  howpublished = {\url{https://rocksdb.org/blog/2021/05/26/integrated-blob-db.html},
+}
+
+@misc{CompactionFilter,
+  title = {{Compaction Filter},
+  howpublished = {\url{https://github.com/facebook/rocksdb/wiki/Compaction-Filter},
+}
+
+@misc{RateLimiter,
+  title = {{Rate Limiter},
+  howpublished = {\url{https://github.com/facebook/rocksdb/wiki/Rate-Limiter},
+}
+
+@misc{WiredTiger,
+  title = {{WiredTiger database engine},
+  howpublished = {\url{https://github.com/wiredtiger},
+}
+
+@misc{PM9A3,
+  title = {{PCIe(R) 4.0 speed for powerful data centers},
+  howpublished = {\url{https://semiconductor.samsung.com/ssd/datacenter-ssd/pm9a3/},
+}
+
+@misc{BackupRocksDB,
+  title = {{How to Backup RocksDB},
+  howpublished = {\url{https://github.com/facebook/rocksdb/wiki/How-to-backup-RocksDB},
+}
+
+@misc{LevelDB,
+  title = {{LevelDB (is) a fast key-value storage library written at Google},
+  howpublished = {\url{https://github.com/google/leveldb},
+}
+
+@misc{Terarkdb,
+  title = {{TerarkDB: a RocksDB compatible KV storage engine with better performance},
+  howpublished = {\url{https://github.com/bytedance/terarkdb},
+}
+
+@misc{Memtier,
+  title = {{NoSQL Redis and Memcache traffic generation and benchmarking tool.},
+  howpublished = {\url{https://github.com/RedisLabs/memtier_benchmark},
+}
+
+@misc{RedisAPI,
+  title = {{Redis REST API Reference},
+  howpublished = {\url{https://redis.io/docs/latest/operate/rs/references/rest-api/},
+}
+
+@inproceedings{CaoDVD20,
+  author = {Zhichao Cao and
+                  Siying Dong and
+                  Sagar Vemuri and
+                  David H. C. Du},
+  title = {Characterizing, Modeling, and Benchmarking RocksDB Key-Value Workloads
+                  at Facebook},
+  booktitle = {18th {USENIX},
+  pages = {209--223},
+  publisher = {{USENIX},
+  year = {2020},
+  url = {https://www.usenix.org/conference/fast20/presentation/cao-zhichao},
+  timestamp = {Mon, 13 Feb 2023 07:50:30 +0100},
+  biburl = {https://dblp.org/rec/conf/fast/CaoDVD20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}
+
+@inproceedings{Golan-GuetaBHK15,
+  author = {Guy Golan{-},
+  editor = {Laurent R{\'{e},
+  title = {Scaling concurrent log-structured data stores},
+  booktitle = {Proceedings of the Tenth European Conference on Computer Systems,
+                  EuroSys 2015, Bordeaux, France, April 21-24, 2015},
+  pages = {32:1--32:14},
+  publisher = {{ACM},
+  year = {2015},
+  url = {https://doi.org/10.1145/2741948.2741973},
+  doi = {10.1145/2741948.2741973},
+  timestamp = {Wed, 14 Nov 2018 10:57:04 +0100},
+  biburl = {https://dblp.org/rec/conf/eurosys/Golan-GuetaBHK15.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}
+
+@article{AthanassoulisIS23,
+  author = {Manos Athanassoulis and
+                  Stratos Idreos and
+                  Dennis E. Shasha},
+  title = {Data Structures for Data-Intensive Applications: Tradeoffs and Design
+                  Guidelines},
+  journal = {Found. Trends Databases},
+  volume = {13},
+  number = {1-2},
+  pages = {1--168},
+  year = {2023},
+  url = {https://doi.org/10.1561/1900000059},
+  doi = {10.1561/1900000059},
+  timestamp = {Sun, 12 Nov 2023 02:21:07 +0100},
+  biburl = {https://dblp.org/rec/journals/ftdb/AthanassoulisIS23.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}
+
+@article{ChangDGHWBCFG08,
+  author = {Fay Chang and
+                  Jeffrey Dean and
+                  Sanjay Ghemawat and
+                  Wilson C. Hsieh and
+                  Deborah A. Wallach and
+                  Michael Burrows and
+                  Tushar Chandra and
+                  Andrew Fikes and
+                  Robert E. Gruber},
+  title = {Bigtable: {A},
+  journal = {{ACM},
+  volume = {26},
+  number = {2},
+  pages = {4:1--4:26},
+  year = {2008},
+  url = {https://doi.org/10.1145/1365815.1365816},
+  doi = {10.1145/1365815.1365816},
+  timestamp = {Sun, 02 Jun 2019 21:08:58 +0200},
+  biburl = {https://dblp.org/rec/journals/tocs/ChangDGHWBCFG08.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}
+
+@article{TiDB-20,
+  author = {Dongxu Huang and
+                  Qi Liu and
+                  Qiu Cui and
+                  Zhuhe Fang and
+                  Xiaoyu Ma and
+                  Fei Xu and
+                  Li Shen and
+                  Liu Tang and
+                  Yuxing Zhou and
+                  Menglong Huang and
+                  Wan Wei and
+                  Cong Liu and
+                  Jian Zhang and
+                  Jianjun Li and
+                  Xuelian Wu and
+                  Lingyu Song and
+                  Ruoxi Sun and
+                  Shuaipeng Yu and
+                  Lei Zhao and
+                  Nicholas Cameron and
+                  Liquan Pei and
+                  Xin Tang},
+  title = {TiDB: {A},
+  journal = {Proc. {VLDB},
+  volume = {13},
+  number = {12},
+  pages = {3072--3084},
+  year = {2020},
+  url = {http://www.vldb.org/pvldb/vol13/p3072-huang.pdf},
+  doi = {10.14778/3415478.3415535},
+  timestamp = {Mon, 14 Feb 2022 17:15:10 +0100},
+  biburl = {https://dblp.org/rec/journals/pvldb/HuangLCFMXSTZHW20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}
+
+@inproceedings{DayanI18,
+  author = {Niv Dayan and
+                  Stratos Idreos},
+  title = {{Dostoevsky: Better Space-Time Trade-Offs for LSM-Tree Based Key-Value
+                  Stores via Adaptive Removal of Superfluous Merging},
+  booktitle = {Proceedings of the 2018 International Conference on Management of
+                  Data, {SIGMOD},
+  pages = {505--520},
+  publisher = {{ACM},
+  year = {2018},
+  url = {https://doi.org/10.1145/3183713.3196927},
+  doi = {10.1145/3183713.3196927},
+  timestamp = {Wed, 21 Nov 2018 12:44:08 +0100},
+  biburl = {https://dblp.org/rec/conf/sigmod/DayanI18.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}
+
+@inproceedings{XanthakisSBPB21,
+  author = {Giorgos Xanthakis and
+                  Giorgos Saloustros and
+                  Nikos Batsaras and
+                  Anastasios Papagiannis and
+                  Angelos Bilas},
+  title = {Parallax: Hybrid Key-Value Placement in LSM-based Key-Value Stores},
+  booktitle = {SoCC '21: {ACM},
+  pages = {305--318},
+  publisher = {{ACM},
+  year = {2021},
+  url = {https://doi.org/10.1145/3472883.3487012},
+  doi = {10.1145/3472883.3487012},
+  timestamp = {Sun, 02 Oct 2022 15:57:36 +0200},
+  biburl = {https://dblp.org/rec/conf/cloud/XanthakisSBPB21.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}
+
+@inproceedings{Chan18,
+  author = {Helen H. W. Chan and Yongkun Li and Patrick P. C. Lee and Yinlong Xu},
+  title = {{HashKV},
+  booktitle = {2018 USENIX Annual Technical Conference (USENIX ATC 18)},
+  year = {2018},
+  isbn = {978-1-931971-44-7},
+  address = {Boston, MA},
+  pages = {1007--1019},
+  url = {https://www.usenix.org/conference/atc18/presentation/chan},
+  publisher = {USENIX Association},
+}
+
+@inproceedings{LiLiu21,
+  author = {Yongkun Li and Zhen Liu and Patrick P. C. Lee and Jiayu Wu and Yinlong Xu and Yi Wu and Liu Tang and Qi Liu and Qiu Cui},
+  title = {Differentiated {Key-Value},
+  booktitle = {2021 USENIX Annual Technical Conference (USENIX ATC 21)},
+  year = {2021},
+  isbn = {978-1-939133-23-6},
+  pages = {673--687},
+  url = {https://www.usenix.org/conference/atc21/presentation/li-yongkun},
+  publisher = {USENIX Association},
+}
+
+@misc{KVSSD,
+  title = {{Key Value Storage API Specification},
+  howpublished = {\url{https://www.snia.org/keyvalue},
+}
+
+@misc{RoF,
+  title = {{Extend Redis Enterprise databases beyond DRAM limits},
+  howpublished = {\url{https://redis.io/auto-tiering/},
+}
+
+@misc{KVRocks,
+  title = {{Apache Kvrocks -- a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol},
+  howpublished = {\url{https://kvrocks.apache.org/},
+}
+
+@misc{Speedb,
+  title = {{The next generation key value storage engine},
+  howpublished = {\url{https://speedb.io},
+}
+
+@misc{ClickhouseSizing,
+  title = {{(Clickhouse) Sizing and Hardware Recommendations},
+  howpublished = {\url{https://clickhouse.com/docs/en/guides/sizing-and-hardware-recommendations},
+}
+
+@inproceedings{CooperSTRS10,
+  author = {Brian F. Cooper and
+                  Adam Silberstein and
+                  Erwin Tam and
+                  Raghu Ramakrishnan and
+                  Russell Sears},
+  title = {Benchmarking cloud serving systems with {YCSB},
+  booktitle = {Proceedings of the 1st {ACM},
+  pages = {143--154},
+  publisher = {{ACM},
+  year = {2010},
+  url = {https://doi.org/10.1145/1807128.1807152},
+  doi = {10.1145/1807128.1807152},
+  timestamp = {Thu, 11 Mar 2021 15:20:15 +0100},
+  biburl = {https://dblp.org/rec/conf/cloud/CooperSTRS10.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}
+
+@inproceedings{DayanAI17,
+  author = {Niv Dayan and
+                  Manos Athanassoulis and
+                  Stratos Idreos},
+  editor = {Semih Salihoglu and
+                  Wenchao Zhou and
+                  Rada Chirkova and
+                  Jun Yang and
+                  Dan Suciu},
+  title = {Monkey: Optimal Navigable Key-Value Store},
+  booktitle = {Proceedings of the 2017 {ACM},
+  pages = {79--94},
+  publisher = {{ACM},
+  year = {2017},
+  url = {https://doi.org/10.1145/3035918.3064054},
+  doi = {10.1145/3035918.3064054},
+  timestamp = {Thu, 14 Oct 2021 10:11:38 +0200},
+  biburl = {https://dblp.org/rec/conf/sigmod/DayanAI17.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}
+
+@book{WeikumVossen2001,
+  author = {Weikum, Gerhard and Vossen, Gottfried},
+  title = {Transactional Information Systems: Theory, Algorithms, and the Practice of Concurrency Control and Recovery},
+  year = {2001},
+  isbn = {9780080519562},
+  publisher = {Morgan Kaufmann Publishers Inc.},
+  address = {San Francisco, CA, USA},
+}
+
+@inproceedings{Taft2020,
+  author = {Taft, Rebecca and Sharif, Irfan and Matei, Andrei and VanBenschoten, Nathan and Lewis, Jordan and Grieger, Tobias and Niemi, Kai and Woods, Andy and Birzin, Anne and Poss, Raphael and Bardea, Paul and Ranade, Amruta and Darnell, Ben and Gruneir, Bram and Jaffray, Justin and Zhang, Lucy and Mattis, Peter},
+  title = {CockroachDB: The Resilient Geo-Distributed SQL Database},
+  year = {2020},
+  isbn = {9781450367356},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3318464.3386134},
+  doi = {10.1145/3318464.3386134},
+  abstract = {We live in an increasingly interconnected world, with many organizations operating across countries or even continents. To serve their global user base, organizations are replacing their legacy DBMSs with cloud-based systems capable of scaling OLTP workloads to millions of users. CockroachDB is a scalable SQL DBMS that was built from the ground up to support these global OLTP workloads while maintaining high availability and strong consistency. Just like its namesake, CockroachDB is resilient to disasters through replication and automatic recovery mechanisms. This paper presents the design of CockroachDB and its novel transaction model that supports consistent geo-distributed transactions on commodity hardware. We describe how CockroachDB replicates and distributes data to achieve fault tolerance and high performance, as well as how its distributed SQL layer automatically scales with the size of the database cluster while providing the standard SQL interface that users expect. Finally, we present a comprehensive performance evaluation and share a couple of case studies of CockroachDB users. We conclude by describing lessons learned while building CockroachDB over the last five years.},
+  booktitle = {Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data},
+  pages = {1493–1509},
+  numpages = {17},
+  location = {Portland, OR, USA},
+  series = {SIGMOD '20},
+}

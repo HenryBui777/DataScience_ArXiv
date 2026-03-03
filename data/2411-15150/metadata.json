@@ -1,0 +1,12 @@
+{
+  "title": "Real-Time Aware IP-Networking for Resource-Constrained Embedded Devices",
+  "authors": [
+    "Ilja Behnke"
+  ],
+  "summary": "This dissertation explores the area of real-time IP networking for embedded devices, especially those with limited computational resources. With the increasing convergence of information and operational technologies in various industries, and the growing complexity of communication requirements in (semi-)autonomous machines, there is a need for more advanced and reliable networking solutions. This research focuses on the challenge of integrating real-time embedded devices into packet-switched networks. Through a comprehensive review of current real-time communication technologies, standards, and practices in the context of Industry 4.0, a notable gap is identified: the lack of a robust real-time communication standard tailored for wireless mobile machines, and insufficient research on real-time embedded devices in highly networked environments. The study includes detailed experimentation with commercially available off-the-shelf networked microcontrollers, revealing a priority inversion problem where network packet processing interrupts real-time tasks, potentially causing real-time violations. To address this challenge, this thesis proposes mitigation methods and system designs that include software and hardware implementations. These include a new embedded network subsystem that prioritizes packet processing based on task priority, and a real-time-aware network interface controller that moderates interrupt requests. In addition, a hybrid hardware-software co-design approach is developed to ensure predictable and reliable real-time task execution despite network congestion. Furthermore, the research extends to task offloading in wireless Industrial Internet of Things environments, presenting a system architecture and scheduler capable of maintaining real-time constraints even under heavy loads and network uncertainties.",
+  "submission_date": "2024-11-07",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.NI, cs.OS"
+}

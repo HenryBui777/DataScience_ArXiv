@@ -1,0 +1,16 @@
+{
+  "title": "Prior-based Objective Inference Mining Potential Uncertainty for Facial Expression Recognition",
+  "authors": [
+    "Hanwei Liu",
+    "Huiling Cai",
+    "Qingcheng Lin",
+    "Xuefeng Li",
+    "Hui Xiao"
+  ],
+  "summary": "Annotation ambiguity caused by the inherent subjectivity of visual judgment has always been a major challenge for Facial Expression Recognition (FER) tasks, particularly for largescale datasets from in-the-wild scenarios. A potential solution is the evaluation of relatively objective emotional distributions to help mitigate the ambiguity of subjective annotations. To this end, this paper proposes a novel Prior-based Objective Inference (POI) network. This network employs prior knowledge to derive a more objective and varied emotional distribution and tackles the issue of subjective annotation ambiguity through dynamic knowledge transfer. POI comprises two key networks: Firstly, the Prior Inference Network (PIN) utilizes the prior knowledge of AUs and emotions to capture intricate motion details. To reduce over-reliance on priors and facilitate objective emotional inference, PIN aggregates inferential knowledge from various key facial subregions, encouraging mutual learning. Secondly, the Target Recognition Network (TRN) integrates subjective emotion annotations and objective inference soft labels provided by the PIN, fostering an understanding of inherent facial expression diversity, thus resolving annotation ambiguity. Moreover, we introduce an uncertainty estimation module to quantify and balance facial expression confidence. This module enables a flexible approach to dealing with the uncertainties of subjective annotations. Extensive experiments show that POI exhibits competitive performance on both synthetic noisy datasets and multiple real-world datasets. All codes and training logs will be publicly available at https://github.com/liuhw01/POI.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

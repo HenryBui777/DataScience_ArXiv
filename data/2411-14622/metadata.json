@@ -1,0 +1,15 @@
+{
+  "title": "Learning Autonomous Surgical Irrigation and Suction with the da Vinci Research Kit Using Reinforcement Learning",
+  "authors": [
+    "Yafei Ou",
+    "Mahdi Tavakoli"
+  ],
+  "summary": "The irrigation-suction process is a common procedure to rinse and clean up the surgical field in minimally invasive surgery (MIS). In this process, surgeons first irrigate liquid, typically saline, into the surgical scene for rinsing and diluting the contaminant, and then suction the liquid out of the surgical field. While recent advances have shown promising results in the application of reinforcement learning (RL) for automating surgical subtasks, fewer studies have explored the automation of fluid-related tasks. In this work, we explore the automation of both steps in the irrigation-suction procedure and train two vision-based RL agents to complete irrigation and suction autonomously. To achieve this, a platform is developed for creating simulated surgical robot learning environments and for training agents, and two simulated learning environments are built for irrigation and suction with visually plausible fluid rendering capabilities. With techniques such as domain randomization (DR) and carefully designed reward functions, two agents are trained in the simulator and transferred to the real world. Individual evaluations of both agents show satisfactory real-world results. With an initial amount of around 5 grams of contaminants, the irrigation agent ultimately achieved an average of 2.21 grams remaining after a manual suction. As a comparison, fully manual operation by a human results in 1.90 grams remaining. The suction agent achieved 2.64 and 2.24 grams of liquid remaining across two trial groups with more than 20 and 30 grams of initial liquid in the container. Fully autonomous irrigation-suction trials reduce the contaminant in the container from around 5 grams to an average of 2.42 grams, although yielding a higher total weight remaining (4.40) due to residual liquid not suctioned. Further information about the project is available at https://tbs-ualberta.github.io/CRESSim/.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-06-03"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

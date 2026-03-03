@@ -1,0 +1,12 @@
+{
+  "title": "Fantastic Biases (What are They) and Where to Find Them",
+  "authors": [
+    "Valentin Barriere"
+  ],
+  "summary": "Deep Learning models tend to learn correlations of patterns on huge datasets. The bigger these systems are, the more complex are the phenomena they can detect, and the more data they need for this. The use of Artificial Intelligence (AI) is becoming increasingly ubiquitous in our society, and its impact is growing everyday. The promises it holds strongly depend on their fair and universal use, such as access to information or education for all. In a world of inequalities, they can help to reach the most disadvantaged areas. However, such a universal systems must be able to represent society, without benefiting some at the expense of others. We must not reproduce the inequalities observed throughout the world, but educate these IAs to go beyond them. We have seen cases where these systems use gender, race, or even class information in ways that are not appropriate for resolving their tasks. Instead of real causal reasoning, they rely on spurious correlations, which is what we usually call a bias. In this paper, we first attempt to define what is a bias in general terms. It helps us to demystify the concept of bias, to understand why we can find them everywhere and why they are sometimes useful. Second, we focus over the notion of what is generally seen as negative bias, the one we want to avoid in machine learning, before presenting a general zoology containing the most common of these biases. We finally conclude by looking at classical methods to detect them, by means of specially crafted datasets of templates and specific algorithms, and also classical methods to mitigate them.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "Bits de Ciencias 26 (2024), 02-13",
+  "pdf_url": null,
+  "category": "cs.CL, cs.CV, cs.CY, cs.LG"
+}

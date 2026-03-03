@@ -1,0 +1,20 @@
+{
+  "title": "Reward based optimization of resonance-enhanced piezoresponse spectroscopy",
+  "authors": [
+    "Yu Liu",
+    "Boris Slautin",
+    "Jason Bemis",
+    "Roger Proksch",
+    "Rohit Pant",
+    "Ichiro Takeuchi",
+    "Stanislav Udovenko",
+    "Susan Trolier-McKinstry",
+    "Sergei V. Kalinin"
+  ],
+  "summary": "Dynamic spectroscopies in Scanning Probe Microscopy (SPM) are critical for probing material properties, such as force interactions, mechanical properties, polarization switching, and electrochemical reactions and ionic dynamics. However, the practical implementation of these measurements is constrained by the need to balance imaging time and data quality. Signal to noise requirements favor long acquisition times and high frequencies to improve signal fidelity. However, these are limited on the low end by contact resonant frequency and photodiode sensitivity, and on the high end by the time needed to acquire high-resolution spectra, or the propensity for samples degradation under high field excitation over long times. The interdependence of key parameters such as instrument settings, acquisition times, and sampling rates makes manual tuning labor-intensive and highly dependent on user expertise, often yielding operator-dependent results. These limitations are prominent in techniques like Dual Amplitude Resonance Tracking (DART) in Piezoresponse Force Microscopy (PFM) that utilize multiple concurrent feedback loops for topography and resonance frequency tracking. Here, a reward-driven workflow is proposed that automates the tuning process, adapting experimental conditions in real time to optimize data quality. This approach significantly reduces the complexity and time required for manual adjustments and can be extended to other SPM spectroscopic methods, enhancing overall efficiency and reproducibility.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cond-mat.mtrl-sci, cond-mat.mes-hall, physics.ins-det"
+}

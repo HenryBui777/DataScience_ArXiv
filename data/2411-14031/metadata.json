@@ -1,0 +1,14 @@
+{
+  "title": "Numerical null controllability of parabolic PDEs using Lagrangian methods",
+  "authors": [
+    "Enrique Fernandez-Cara",
+    "Roberto Morales",
+    "Diego A. Souza"
+  ],
+  "summary": "In this paper, we study several theoretical and numerical questions concerning the null controllability problems for linear parabolic equations and systems for several dimensions. The control is distributed and acts on a small subset of the domain. The main goal is to compute numerically a control that drives a numerical approximation of the state from prescribed initial data exactly to zero. We introduce a methodology for solving numerical controllability problems that is new in some sense. The main idea is to apply classical Lagrangian and Augmented Lagrangian techniques to suitable constrained extremal formulations that involve unbounded weights in time that make global Carleman inequalities possible. The theoretical results are validated by satisfactory numerical experiments for spatially 2D and 3D problems.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC, math.AP, math.NA"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Compression of Higher Order Ambisonics with Multichannel RVQGAN",
+  "authors": [
+    "Toni Hirvonen",
+    "Mahmoud Namazi"
+  ],
+  "summary": "A multichannel extension to the RVQGAN neural coding method is proposed, and realized for data-driven compression of third-order Ambisonics audio. The input- and output layers of the generator and discriminator models are modified to accept multiple (16) channels without increasing the model bitrate. We also propose a loss function for accounting for spatial perception in immersive reproduction, and transfer learning from single-channel models. Listening test results with 7.1.4 immersive playback show that the proposed extension is suitable for coding scene-based, 16-channel Ambisonics content with good quality at 16 kbps when trained and tested on the EigenScape database. The model has potential applications for learning other types of content and multichannel formats.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-12-05",
+    "2024-12-11"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SD, cs.LG, cs.MM, eess.AS"
+}

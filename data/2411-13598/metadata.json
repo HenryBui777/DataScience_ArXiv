@@ -1,0 +1,18 @@
+{
+  "title": "Preserving Expert-Level Privacy in Offline Reinforcement Learning",
+  "authors": [
+    "Navodita Sharma",
+    "Vishnu Vinod",
+    "Abhradeep Thakurta",
+    "Alekh Agarwal",
+    "Borja Balle",
+    "Christoph Dann",
+    "Aravindan Raghuveer"
+  ],
+  "summary": "The offline reinforcement learning (RL) problem aims to learn an optimal policy from historical data collected by one or more behavioural policies (experts) by interacting with an environment. However, the individual experts may be privacy-sensitive in that the learnt policy may retain information about their precise choices. In some domains like personalized retrieval, advertising and healthcare, the expert choices are considered sensitive data. To provably protect the privacy of such experts, we propose a novel consensus-based expert-level differentially private offline RL training approach compatible with any existing offline RL algorithm. We prove rigorous differential privacy guarantees, while maintaining strong empirical performance. Unlike existing work in differentially private RL, we supplement the theory with proof-of-concept experiments on classic RL environments featuring large continuous state spaces, demonstrating substantial improvements over a natural baseline across multiple tasks.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR, cs.LG"
+}

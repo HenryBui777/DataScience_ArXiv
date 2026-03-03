@@ -1,0 +1,15 @@
+{
+  "title": "AzSLD: Azerbaijani Sign Language Dataset for Fingerspelling, Word, and Sentence Translation with Baseline Software",
+  "authors": [
+    "Nigar Alishzade",
+    "Jamaladdin Hasanov"
+  ],
+  "summary": "Sign language processing technology development relies on extensive and reliable datasets, instructions, and ethical guidelines. We present a comprehensive Azerbaijani Sign Language Dataset (AzSLD) collected from diverse sign language users and linguistic parameters to facilitate advancements in sign recognition and translation systems and support the local sign language community. The dataset was created within the framework of a vision-based AzSL translation project. This study introduces the dataset as a summary of the fingerspelling alphabet and sentence- and word-level sign language datasets. The dataset was collected from signers of different ages, genders, and signing styles, with videos recorded from two camera angles to capture each sign in full detail. This approach ensures robust training and evaluation of gesture recognition models. AzSLD contains 30,000 videos, each carefully annotated with accurate sign labels and corresponding linguistic translations. The dataset is accompanied by technical documentation and source code to facilitate its use in training and testing. This dataset offers a valuable resource of labeled data for researchers and developers working on sign language recognition, translation, or synthesis. Ethical guidelines were strictly followed throughout the project, with all participants providing informed consent for collecting, publishing, and using the data.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-23"
+  ],
+  "publication_venue": "Data in Brief 2025",
+  "pdf_url": null,
+  "category": "cs.CL"
+}

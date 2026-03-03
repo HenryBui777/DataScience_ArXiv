@@ -1,0 +1,20 @@
+{
+  "title": "Robust Data-Driven Predictive Control for Mixed Platoons under Noise and Attacks",
+  "authors": [
+    "Shuai Li",
+    "Chaoyi Chen",
+    "Haotian Zheng",
+    "Jiawei Wang",
+    "Qing Xu",
+    "Jianqiang Wang",
+    "Keqiang Li"
+  ],
+  "summary": "Controlling mixed platoons, which consist of both connected and automated vehicles (CAVs) and human-driven vehicles (HDVs), poses significant challenges due to the uncertain and unknown human driving behaviors. Data-driven control methods offer promising solutions by leveraging available trajectory data, but their performance can be compromised by noise and attacks. To address this issue, this paper proposes a Robust Data-EnablEd Predictive Leading Cruise Control (RDeeP-LCC) framework based on data-driven reachability analysis. The framework over-approximates system dynamics under noise and attack using a matrix zonotope set derived from data, and develops a stabilizing feedback control law. By decoupling the mixed platoon system into nominal and error components, we employ data-driven reachability sets to recursively compute error reachable sets that account for noise and attacks, and obtain tightened safety constraints of the nominal system. This leads to a robust data-driven predictive control framework, solved in a tube-based control manner. Numerical simulations and human-in-the-loop experiments demonstrate that the RDeeP-LCC method significantly improves robustness against noise and attacks, while enhancing tracking accuracy, control efficiency, energy economy, and driving comfort.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-05-28"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

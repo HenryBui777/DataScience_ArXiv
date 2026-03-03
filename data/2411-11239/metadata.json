@@ -1,0 +1,13 @@
+{
+  "title": "Numerical Methods for Optimal Control Problems with SPDEs",
+  "authors": [
+    "Andreas Prohl",
+    "Yanqing Wang"
+  ],
+  "summary": "This paper investigates numerical methods for solving stochastic linear quadratic (SLQ) optimal control problems governed by stochastic partial differential equations (SPDEs). Two distinct approaches, the open-loop and closed-loop ones, are developed to ensure convergence rates in the fully discrete setting. The open-loop approach, utilizing the finite element method for spatial discretization and the Euler method for temporal discretization, addresses the complexities of coupled forward-backward SPDEs and employs a gradient descent framework suited for high-dimensional spaces. Separately, the closed-loop approach applies a feedback strategy, focusing on Riccati equation for spatio-temporal discretization. Both approaches are rigorously designed to handle the challenges of fully discrete SLQ problems, providing rigorous convergence rates and computational frameworks.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC"
+}

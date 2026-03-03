@@ -1,0 +1,14 @@
+{
+  "title": "Timescale-agnostic characterisation for collective attention events",
+  "authors": [
+    "Tristan J. B. Cann",
+    "Iain S. Weaver",
+    "Hywel T. P. Williams"
+  ],
+  "summary": "Online communications, and in particular social media, are a key component of how society interacts with and promotes content online. Collective attention on such content can vary wildly. The majority of breaking topics quickly fade into obscurity after only a handful of interactions, while the possibility exists for content to ``go viral'', seeing sustained interaction by large audiences over long periods. In this paper we investigate the mechanisms behind such events and introduce a new representation that enables direct comparison of events over diverse time and volume scales. We find four characteristic behaviours in the usage of hashtags on Twitter that are indicative of different patterns of attention to topics. We go on to develop an agent-based model for generating collective attention events to test the factors affecting emergence of these phenomena. This model can reproduce the characteristic behaviours seen in the Twitter dataset using a small set of parameters, and reveal that three of these behaviours instead represent a continuum determined by model parameters rather than discrete categories. These insights suggest that collective attention in social systems develops in line with a set of universal principles independent of effects inherent to system scale, and the techniques we introduce here present a valuable opportunity to infer the possible mechanisms of attention flow in online communications.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SI, cs.CY"
+}

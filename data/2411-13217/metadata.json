@@ -1,0 +1,15 @@
+{
+  "title": "Energy-based features and bi-LSTM neural network for EEG-based music and voice classification",
+  "authors": [
+    "Isaac Ariza",
+    "Ana M. Barbancho",
+    "Lorenzo J. Tardon",
+    "Isabel Barbancho"
+  ],
+  "summary": "The human brain receives stimuli in multiple ways; among them, audio constitutes an important source of relevant stimuli for the brain regarding communication, amusement, warning, etc. In this context, the aim of this manuscript is to advance in the classification of brain responses to music of diverse genres and to sounds of different nature: speech and music. For this purpose, two different experiments have been designed to acquiere EEG signals from subjects listening to songs of different musical genres and sentences in various languages. With this, a novel scheme is proposed to characterize brain signals for their classification; this scheme is based on the construction of a feature matrix built on relations between energy measured at the different EEG channels and the usage of a bi-LSTM neural network. With the data obtained, evaluations regarding EEG-based classification between speech and music, different musical genres, and whether the subject likes the song listened to or not are carried out. The experiments unveil satisfactory performance to the proposed scheme. The results obtained for binary audio type classification attain 98.66% of success. In multi-class classification between 4 musical genres, the accuracy attained is 61.59%, and results for binary classification of musical taste rise to 96.96%.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "Neural Comput and Applic 36, 791-802, 2024",
+  "pdf_url": null,
+  "category": "eess.SP, cs.SD, eess.AS"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Lower Dimensional Spherical Representation of Medium Voltage Load Profiles for Visualization, Outlier Detection, and Generative Modelling",
+  "authors": [
+    "Edgar Mauricio Salazar Duque",
+    "Bart van der Holst",
+    "Pedro P. Vergara",
+    "Juan S. Giraldo",
+    "Phuong H. Nguyen",
+    "Anne Van der Molen",
+    "Han",
+    "Slootweg"
+  ],
+  "summary": "This paper presents the spherical lower dimensional representation for daily medium voltage load profiles, based on principal component analysis. The objective is to unify and simplify the tasks for (i) clustering visualisation, (ii) outlier detection and (iii) generative profile modelling under one concept. The lower dimensional projection of standardised load profiles unveils a latent distribution in a three-dimensional sphere. This spherical structure allows us to detect outliers by fitting probability distribution models in the spherical coordinate system, identifying measurements that deviate from the spherical shape. The same latent distribution exhibits an arc shape, suggesting an underlying order among load profiles. We develop a principal curve technique to uncover this order based on similarity, offering new advantages over conventional clustering techniques. This finding reveals that energy consumption in a wide region can be seen as a continuously changing process. Furthermore, we combined the principal curve with a von Mises-Fisher distribution to create a model capable of generating profiles with continuous mixtures between clusters. The presence of the spherical distribution is validated with data from four municipalities in the Netherlands. The uncovered spherical structure implies the possibility of employing new mathematical tools from directional statistics and differential geometry for load profile modelling.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

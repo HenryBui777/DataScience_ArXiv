@@ -1,0 +1,18 @@
+{
+  "title": "Neural Internal Model Control: Learning a Robust Control Policy via Predictive Error Feedback",
+  "authors": [
+    "Feng Gao",
+    "Chao Yu",
+    "Yu Wang",
+    "Yi Wu"
+  ],
+  "summary": "Accurate motion control in the face of disturbances within complex environments remains a major challenge in robotics. Classical model-based approaches often struggle with nonlinearities and unstructured disturbances, while RL-based methods can be fragile when encountering unseen scenarios. In this paper, we propose a novel framework, Neural Internal Model Control, which integrates model-based control with RL-based control to enhance robustness. Our framework streamlines the predictive model by applying Newton-Euler equations for rigid-body dynamics, eliminating the need to capture complex high-dimensional nonlinearities. This internal model combines model-free RL algorithms with predictive error feedback. Such a design enables a closed-loop control structure to enhance the robustness and generalizability of the control system. We demonstrate the effectiveness of our framework on both quadrotors and quadrupedal robots, achieving superior performance compared to state-of-the-art methods. Furthermore, real-world deployment on a quadrotor with rope-suspended payloads highlights the framework's robustness in sim-to-real transfer. Our code is released at https://github.com/thu-uav/NeuralIMC.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-03-04",
+    "2025-05-22"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO, cs.AI"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "CurvNet: Latent Contour Representation and Iterative Data Engine for Curvature Angle Estimation",
+  "authors": [
+    "Zhiwen Shao",
+    "Yichen Yuan",
+    "Lizhuang Ma",
+    "Xiaojia Zhu"
+  ],
+  "summary": "Curvature angle is a quantitative measurement of a curve, in which Cobb angle is customized for spinal curvature. Automatic Cobb angle measurement from X-ray images is crucial for scoliosis screening and diagnosis. However, most existing regression-based and segmentation-based methods struggle with inaccurate spine representations or mask connectivity and fragmentation issues. Besides, landmark-based methods suffer from insufficient training data and annotations. To address these challenges, we propose a novel curvature angle estimation framework named CurvNet including latent contour representation based contour detection and iterative data engine based image self-generation. Specifically, we propose a parameterized spine contour representation in latent space, which enables eigen-spine decomposition and spine contour reconstruction. Latent contour coefficient regression is combined with anchor box classification to solve inaccurate predictions and mask connectivity issues. Moreover, we develop a data engine with image self-generation, automatic annotation, and automatic selection in an iterative manner. By our data engine, we generate a clean dataset named Spinal-AI2024 without privacy leaks, which is the largest released scoliosis X-ray dataset to our knowledge. Extensive experiments on public AASCE2019, our private Spinal2023, and our generated Spinal-AI2024 datasets demonstrate that our method achieves state-of-the-art Cobb angle estimation performance. Our code and Spinal-AI2024 dataset are available at https://github.com/Ernestchenchen/CurvNet and https://github.com/Ernestchenchen/Spinal-AI2024, respectively.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-10-09"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

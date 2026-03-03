@@ -1,0 +1,28 @@
+{
+  "title": "SCOUT: A Situated and Multi-Modal Human-Robot Dialogue Corpus",
+  "authors": [
+    "Stephanie M. Lukin",
+    "Claire Bonial",
+    "Matthew Marge",
+    "Taylor Hudson",
+    "Cory J. Hayes",
+    "Kimberly A. Pollard",
+    "Anthony Baker",
+    "Ashley N. Foots",
+    "Ron Artstein",
+    "Felix Gervits",
+    "Mitchell Abrams",
+    "Cassidy Henry",
+    "Lucia Donatelli",
+    "Anton Leuski",
+    "Susan G. Hill",
+    "David Traum",
+    "Clare R. Voss"
+  ],
+  "summary": "We introduce the Situated Corpus Of Understanding Transactions (SCOUT), a multi-modal collection of human-robot dialogue in the task domain of collaborative exploration. The corpus was constructed from multiple Wizard-of-Oz experiments where human participants gave verbal instructions to a remotely-located robot to move and gather information about its surroundings. SCOUT contains 89,056 utterances and 310,095 words from 278 dialogues averaging 320 utterances per dialogue. The dialogues are aligned with the multi-modal data streams available during the experiments: 5,785 images and 30 maps. The corpus has been annotated with Abstract Meaning Representation and Dialogue-AMR to identify the speaker's intent and meaning within an utterance, and with Transactional Units and Relations to track relationships between utterances to reveal patterns of the Dialogue Structure. We describe how the corpus and its annotations have been used to develop autonomous human-robot systems and enable research in open questions of how humans speak to robots. We release this corpus to accelerate progress in autonomous, situated, human-robot dialogue, especially in the context of navigation tasks where details about the environment need to be discovered.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024) https://aclanthology.org/2024.lrec-main.1259/",
+  "pdf_url": null,
+  "category": "cs.HC, cs.CL, cs.RO"
+}

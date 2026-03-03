@@ -1,0 +1,16 @@
+{
+  "title": "Performance Analysis of STAR-RIS-Assisted Cell-Free Massive MIMO Systems with Electromagnetic Interference and Phase Errors",
+  "authors": [
+    "Jun Qian",
+    "Ross Murch",
+    "Khaled B. Letaief"
+  ],
+  "summary": "Simultaneous Transmitting and Reflecting Reconfigurable Intelligent Surfaces (STAR-RISs) are being explored for sixth-generation (6G) wireless networks. A promising configuration for their deployment is within cell-free massive multiple-input multiple-output (MIMO) systems. However, despite the advantages that STAR-RISs could bring, challenges such as electromagnetic interference (EMI) and phase errors may lead to significant performance degradation. In this paper, we investigate the impact of EMI and phase errors on STAR-RIS-assisted cell-free massive MIMO systems and propose techniques to mitigate these effects. We introduce a tailored projected gradient descent (GD) algorithm for STAR-RIS coefficient matrix design by minimizing the local channel estimation normalized mean square error (NMSE). We also derive the novel closed-form expressions of the uplink and downlink spectral efficiency (SE) to analyze system performance with EMI and phase errors, in which fractional power control methods are introduced for performance improvement. The results reveal that the projected GD algorithm can effectively tackle EMI and phase errors to improve estimation accuracy and compensate for performance degradation with nearly 30% NMSE improvement and over 10% SE improvement. Moreover, increasing the number of access points (APs), antennas per AP, and STAR-RIS elements can also improve SE performance. However, the advantages of employing STAR-RIS are reduced when EMI and phase errors are severe. Notably, compared to conventional RISs, the incorporation of STAR-RIS in the proposed system yields better performance and presents less performance degradation in highly impaired environments.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-10-09"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IT, eess.SP"
+}

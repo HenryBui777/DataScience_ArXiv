@@ -1,0 +1,14 @@
+{
+  "title": "The Rényi Outlier Test",
+  "authors": [
+    "Ryan Christ",
+    "Ira Hall",
+    "David Steinsaltz"
+  ],
+  "summary": "Cox and Kartsonaki proposed a simple outlier test for a vector of p-values based on the Rényi transformation that is fast for large $p$ and numerically stable for very small p-values -- key properties for large data analysis. We propose and implement a generalization of this procedure we call the Rényi Outlier Test (ROT). This procedure maintains the key properties of the original but is much more robust to uncertainty in the number of outliers expected a priori among the p-values. The ROT can also account for two types of prior information that are common in modern data analysis. The first is the prior probability that a given p-value may be outlying. The second is an estimate of how far of an outlier a p-value might be, conditional on it being an outlier; in other words, an estimate of effect size. Using a series of pre-calculated spline functions, we provide a fast and numerically stable implementation of the ROT in our R package renyi.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME"
+}

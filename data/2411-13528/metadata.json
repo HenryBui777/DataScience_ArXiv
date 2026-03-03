@@ -1,0 +1,15 @@
+{
+  "title": "Entropy Bootstrapping for Weakly Supervised Nuclei Detection",
+  "authors": [
+    "James Willoughby",
+    "Irina Voiculescu"
+  ],
+  "summary": "Microscopy structure segmentation, such as detecting cells or nuclei, generally requires a human to draw a ground truth contour around each instance. Weakly supervised approaches (e.g. consisting of only single point labels) have the potential to reduce this workload significantly. Our approach uses individual point labels for an entropy estimation to approximate an underlying distribution of cell pixels. We infer full cell masks from this distribution, and use Mask-RCNN to produce an instance segmentation output. We compare this point--annotated approach with training on the full ground truth masks. We show that our method achieves a comparatively good level of performance, despite a 95% reduction in pixel labels.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-21"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI"
+}

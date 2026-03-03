@@ -1,0 +1,14 @@
+{
+  "title": "CKTSO: High-Performance Parallel Sparse Linear Solver for General Circuit Simulations",
+  "authors": [
+    "Xiaoming Chen"
+  ],
+  "summary": "This paper introduces CKTSO (abbreviation of \"circuit solver\"), a novel sparse linear solver specially designed for the simulation program with integrated circuit emphasis (SPICE). CKTSO is a parallel solver and can be run on a multi-core, shared-memory computer. The algorithms of CKTSO are designed by considering the features of matrices involved in SPICE simulations. CKTSO is superior to existing similar solvers mainly in the following three aspects. First, the matrix ordering step of CKTSO combines different types of ordering algorithms such that it can generally obtain the fewest fill-ins for a wide range of circuit matrices. Second, CKTSO provides a parallel fast LU factorization algorithm with pivot check, which behaves good performance, scalability, and numerical stability. Third, CKTSO provides a structure-adaptive hybrid parallel triangular solving algorithm, which can adapt to various circuit matrices. Experiments including both benchmark tests and SPICE simulations demonstrate the superior performance of CKTSO. The libraries of CKTSO are available at https://github.com/chenxm1986/cktso.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-27"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AR"
+}

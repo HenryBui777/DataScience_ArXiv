@@ -1,0 +1,18 @@
+{
+  "title": "Using AI Large Language Models for Grading in Education: A Hands-On Test for Physics",
+  "authors": [
+    "Ryan Mok",
+    "Faraaz Akhtar",
+    "Louis Clare",
+    "Christine Li",
+    "Jun Ida",
+    "Lewis Ross",
+    "Mario Campanelli"
+  ],
+  "summary": "Grading assessments is time-consuming and prone to human bias. Students may experience delays in receiving feedback that may not be tailored to their expectations or needs. Harnessing AI in education can be effective for grading undergraduate physics problems, enhancing the efficiency of undergraduate-level physics learning and teaching, and helping students understand concepts with the help of a constantly available tutor. This report devises a simple empirical procedure to investigate and quantify how well large language model (LLM) based AI chatbots can grade solutions to undergraduate physics problems in Classical Mechanics, Electromagnetic Theory and Quantum Mechanics, comparing humans against AI grading. The following LLMs were tested: Gemini 1.5 Pro, GPT-4, GPT-4o and Claude 3.5 Sonnet. The results show AI grading is prone to mathematical errors and hallucinations, which render it less effective than human grading, but when given a mark scheme, there is substantial improvement in grading quality, which becomes closer to the level of human performance - promising for future AI implementation. Evidence indicates that the grading ability of LLM is correlated with its problem-solving ability. Through unsupervised clustering, it is shown that Classical Mechanics problems may be graded differently from other topics. The method developed can be applied to investigate AI grading performance in other STEM fields.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.ed-ph"
+}

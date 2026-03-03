@@ -1,0 +1,13 @@
+{
+  "title": "Coupled Integral PINN for conservation law",
+  "authors": [
+    "Yeping Wang",
+    "Shihao Yang"
+  ],
+  "summary": "The Physics-Informed Neural Network (PINN) is an innovative approach to solve a diverse array of partial differential equations (PDEs) leveraging the power of neural networks. This is achieved by minimizing the residual loss associated with the explicit physical information, usually coupled with data derived from initial and boundary conditions. However, a challenge arises in the context of nonlinear conservation laws where derivatives are undefined at shocks, leading to solutions that deviate from the true physical phenomena. To solve this issue, the physical solution must be extracted from the weak formulation of the PDE and is typically further bounded by entropy conditions. Within the numerical framework, finite volume methods (FVM) are employed to address conservation laws. These methods resolve the integral form of conservation laws and delineate the shock characteristics. Inspired by the principles underlying FVM, this paper introduces a novel Coupled Integrated PINN methodology that involves fitting the integral solutions of equations using additional neural networks. This technique not only augments the conventional PINN's capability in modeling shock waves, but also eliminates the need for spatial and temporal discretization. As such, it bypasses the complexities of numerical integration and reconstruction associated with non-convex fluxes. Finally, we show that the proposed new Integrated PINN performs well in conservative law and outperforms the vanilla PINN when tackle the challenging shock problems using examples of Burger's equation, Buckley-Leverett Equation and Euler System.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.flu-dyn, cs.LG"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Distributed Asynchronous Time-Varying Quadratic Programming with Asynchronous Objective Sampling",
+  "authors": [
+    "Gabriel Behrendt",
+    "Zachary I. Bell",
+    "Matthew Hale"
+  ],
+  "summary": "Existing works on multi-agent time-varying optimization allow agents to asynchronously communicate and/or compute, but do not allow asynchronous sampling of objectives. Sampling can be difficult to synchronize, and we therefore present a multi-agent optimization framework that allows asynchrony in sampling, communications, and computations for time-varying quadratic programs. We show that agents have bounded error when tracking the solution to the asynchronously sampled problem, which solves an open problem for quadratic programs. Simulations validate these results.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-08-20"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC"
+}

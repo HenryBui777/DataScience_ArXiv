@@ -1,0 +1,18 @@
+{
+  "title": "Adaptive Process-Guided Learning: An Application in Predicting Lake DO Concentrations",
+  "authors": [
+    "Runlong Yu",
+    "Chonghao Qiu",
+    "Robert Ladwig",
+    "Paul C. Hanson",
+    "Yiqun Xie",
+    "Yanhua Li",
+    "Xiaowei Jia"
+  ],
+  "summary": "This paper introduces a \\textit{Process-Guided Learning (Pril)} framework that integrates physical models with recurrent neural networks (RNNs) to enhance the prediction of dissolved oxygen (DO) concentrations in lakes, which is crucial for sustaining water quality and ecosystem health. Unlike traditional RNNs, which may deliver high accuracy but often lack physical consistency and broad applicability, the \\textit{Pril} method incorporates differential DO equations for each lake layer, modeling it as a first-order linear solution using a forward Euler scheme with a daily timestep. However, this method is sensitive to numerical instabilities. When drastic fluctuations occur, the numerical integration is neither mass-conservative nor stable. Especially during stratified conditions, exogenous fluxes into each layer cause significant within-day changes in DO concentrations. To address this challenge, we further propose an \\textit{Adaptive Process-Guided Learning (April)} model, which dynamically adjusts timesteps from daily to sub-daily intervals with the aim of mitigating the discrepancies caused by variations in entrainment fluxes. \\textit{April} uses a generator-discriminator architecture to identify days with significant DO fluctuations and employs a multi-step Euler scheme with sub-daily timesteps to effectively manage these variations. We have tested our methods on a wide range of lakes in the Midwestern USA, and demonstrated robust capability in predicting DO concentrations even with limited training data. While primarily focused on aquatic ecosystems, this approach is broadly applicable to diverse scientific and engineering disciplines that utilize process-based models, such as power engineering, climate science, and biomedicine.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

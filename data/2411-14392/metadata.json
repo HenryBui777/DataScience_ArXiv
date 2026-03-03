@@ -1,0 +1,15 @@
+{
+  "title": "Convolutional Vision Transformer for Cosmology Parameter Inference",
+  "authors": [
+    "Yash Gondhalekar",
+    "Kana Moriwaki"
+  ],
+  "summary": "Parameter inference is a crucial task in modern cosmology that requires accurate and fast computational methods to handle the high precision and volume of observational datasets. In this study, we explore a hybrid vision transformer, the Convolution vision Transformer (CvT), which combines the benefits of vision transformers (ViTs) and convolutional neural networks (CNNs). We use this approach to infer the $Ω_m$ and $σ_8$ cosmological parameters from simulated dark matter and halo fields. Our experiments indicate that the constraints on $Ω_m$ and $σ_8$ obtained using CvT are better than ViT and CNN, using either dark matter or halo fields. For CvT, pretraining on dark matter fields proves advantageous for improving constraints using halo fields compared to training a model from the beginning. However, ViT and CNN do not show these benefits. The CvT is more efficient than ViT since, despite having more parameters, it requires a training time similar to that of ViT and has similar inference times. The code is available at \\url{https://github.com/Yash-10/cvt-cosmo-inference/}.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-27"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.IM"
+}

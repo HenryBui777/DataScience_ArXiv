@@ -1,0 +1,17 @@
+{
+  "title": "ACE-Net: AutofoCus-Enhanced Convolutional Network for Field Imperfection Estimation with application to high b-value spiral Diffusion MRI",
+  "authors": [
+    "Mengze Gao",
+    "Zachary Shah",
+    "Xiaozhi Cao",
+    "Nan Wang",
+    "Daniel Abraham",
+    "Kawin Setsompop"
+  ],
+  "summary": "Spatiotemporal magnetic field variations from B0-inhomogeneity and diffusion-encoding-induced eddy-currents can be detrimental to rapid image-encoding schemes such as spiral, EPI and 3D-cones, resulting in undesirable image artifacts. In this work, a data driven approach for automatic estimation of these field imperfections is developed by combining autofocus metrics with deep learning, and by leveraging a compact basis representation of the expected field imperfections. The method was applied to single-shot spiral diffusion MRI at high b-values where accurate estimation of B0 and eddy were obtained, resulting in high quality image reconstruction without need for additional external calibrations.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.med-ph, cs.LG, eess.IV"
+}

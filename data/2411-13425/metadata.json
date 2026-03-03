@@ -1,0 +1,20 @@
+{
+  "title": "Watermark under Fire: A Robustness Evaluation of LLM Watermarking",
+  "authors": [
+    "Jiacheng Liang",
+    "Zian Wang",
+    "Lauren Hong",
+    "Shouling Ji",
+    "Ting Wang"
+  ],
+  "summary": "Various watermarking methods (``watermarkers'') have been proposed to identify LLM-generated texts; yet, due to the lack of unified evaluation platforms, many critical questions remain under-explored: i) What are the strengths/limitations of various watermarkers, especially their attack robustness? ii) How do various design choices impact their robustness? iii) How to optimally operate watermarkers in adversarial environments? To fill this gap, we systematize existing LLM watermarkers and watermark removal attacks, mapping out their design spaces. We then develop WaterPark, a unified platform that integrates 10 state-of-the-art watermarkers and 12 representative attacks. More importantly, by leveraging WaterPark, we conduct a comprehensive assessment of existing watermarkers, unveiling the impact of various design choices on their attack robustness. We further explore the best practices to operate watermarkers in adversarial environments. We believe our study sheds light on current LLM watermarking techniques while WaterPark serves as a valuable testbed to facilitate future research.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-12-17",
+    "2025-06-07",
+    "2025-09-29"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR, cs.CL, cs.LG"
+}

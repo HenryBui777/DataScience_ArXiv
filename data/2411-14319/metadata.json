@@ -1,0 +1,17 @@
+{
+  "title": "Iteration-Free Cooperative Distributed MPC through Multiparametric Programming",
+  "authors": [
+    "Radhe S. T. Saini",
+    "Parth R. Brahmbhatt",
+    "Styliani Avraamidou",
+    "Hari S. Ganesh"
+  ],
+  "summary": "Cooperative Distributed Model Predictive Control (DiMPC) architecture employs local MPC controllers to control different subsystems, exchanging information with each other through an iterative procedure to enhance overall control performance compared to the decentralized architecture. However, this method can result in high communication between the controllers and computational costs. In this work, the amount of information exchanged and the computational costs of DiMPC are reduced significantly by developing novel iteration-free solution algorithms based on multiparametric (mp) programming. These algorithms replace the iterative procedure with simultaneous solutions of explicit mpDiMPC control law functions. The reduced communication among local controllers decreases system latency, which is crucial for real-time control applications. The effectiveness of the proposed iteration-free mpDiMPC algorithms is demonstrated through comprehensive numerical simulations involving groups of coupled linear subsystems, which are interconnected through their inputs and a cooperative plant-wide cost function.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-12-03"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

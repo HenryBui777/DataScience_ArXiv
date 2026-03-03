@@ -1,0 +1,19 @@
+{
+  "title": "VAGUE: Visual Contexts Clarify Ambiguous Expressions",
+  "authors": [
+    "Heejeong Nam",
+    "Jinwoo Ahn",
+    "Keummin Ka",
+    "Jiwan Chung",
+    "Youngjae Yu"
+  ],
+  "summary": "Human communication often relies on visual cues to resolve ambiguity. While humans can intuitively integrate these cues, AI systems often find it challenging to engage in sophisticated multimodal reasoning. We introduce VAGUE, a benchmark evaluating multimodal AI systems' ability to integrate visual context for intent disambiguation. VAGUE consists of 1.6K ambiguous textual expressions, each paired with an image and multiple-choice interpretations, where the correct answer is only apparent with visual context. The dataset spans both staged, complex (Visual Commonsense Reasoning) and natural, personal (Ego4D) scenes, ensuring diversity. Our experiments reveal that existing multimodal AI models struggle to infer the speaker's true intent. While performance consistently improves from the introduction of more visual cues, the overall accuracy remains far below human performance, highlighting a critical gap in multimodal reasoning. Analysis of failure cases demonstrates that current models fail to distinguish true intent from superficial correlations in the visual scene, indicating that they perceive images but do not effectively reason with them. We release our code and data at https://hazel-heejeong-nam.github.io/vague/.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-03-11",
+    "2025-08-25"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.CL"
+}

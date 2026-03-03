@@ -1,0 +1,13 @@
+{
+  "title": "SeqProFT: Applying LoRA Finetuning for Sequence-only Protein Property Predictions",
+  "authors": [
+    "Shuo Zhang",
+    "Jian K. Liu"
+  ],
+  "summary": "Protein language models (PLMs) are capable of learning the relationships between protein sequences and functions by treating amino acid sequences as textual data in a self-supervised manner. However, fine-tuning these models typically demands substantial computational resources and time, with results that may not always be optimized for specific tasks. To overcome these challenges, this study employs the LoRA method to perform end-to-end fine-tuning of the ESM-2 model specifically for protein property prediction tasks, utilizing only sequence information. Additionally, a multi-head attention mechanism is integrated into the downstream network to combine sequence features with contact map information, thereby enhancing the model's comprehension of protein sequences. Experimental results of extensive classification and regression tasks demonstrate that the fine-tuned model achieves strong performance and faster convergence across multiple regression and classification tasks.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, q-bio.QM"
+}

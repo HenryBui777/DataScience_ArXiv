@@ -1,0 +1,18 @@
+{
+  "title": "SNN-Based Online Learning of Concepts and Action Laws in an Open World",
+  "authors": [
+    "Christel Grimaud",
+    "Dominique Longin",
+    "Andreas Herzig"
+  ],
+  "summary": "We present the architecture of a fully autonomous, bio-inspired cognitive agent built around a spiking neural network (SNN) implementing the agent's semantic memory. This agent explores its universe and learns concepts of objects/situations and of its own actions in a one-shot manner. While object/situation concepts are unary, action concepts are triples made up of an initial situation, a motor activity, and an outcome. They embody the agent's knowledge of its universe's action laws. Both kinds of concepts have different degrees of generality. To make decisions the agent queries its semantic memory for the expected outcomes of envisaged actions and chooses the action to take on the basis of these predictions. Our experiments show that the agent handles new situations by appealing to previously learned general concepts and rapidly modifies its concepts to adapt to environment changes.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-01-27",
+    "2025-04-23",
+    "2025-10-29"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AI, cs.LG, cs.NE, cs.RO"
+}

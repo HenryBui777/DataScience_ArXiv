@@ -1,0 +1,14 @@
+{
+  "title": "Bayesian model mixing with multi-reference energy density functional",
+  "authors": [
+    "Aman Sharma",
+    "Nicolas Schunck",
+    "Kyle Wendt"
+  ],
+  "summary": "Reliably predicting nuclear properties across the entire chart of isotopes is important for applications ranging from nuclear astrophysics to superheavy science to nuclear technology. To this day, however, all the theoretical models that can scale at the level of the chart of isotopes remain semi phenomenological. Because they are fitted locally, their predictive power can vary significantly; different versions of the same theory provide different predictions. Bayesian model mixing takes advantage of such imperfect models to build a local mixture of a set of models to make improved predictions. Earlier attempts to use Bayesian model mixing for mass table calculations relied on models treated at single-reference energy density functional level, which fail to capture some of the correlations caused by configuration mixing or the restoration of broken symmetries. In this study we have applied Bayesian model mixing techniques within a multi-reference energy density functional (MR-EDF) framework. We considered predictions of two-particle separation energies from particle number projection or angular momentum projection with four different energy density functionals - a total of eight different MR-EDF models. We used a hierarchical Bayesian stacking framework with a Dirichlet prior distribution over weights together with an inverse log-ratio transform to enable positive correlations between different models. We found that Bayesian model mixing provide significantly improved predictions over results from single MR-EDF calculations.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "Phys. Rev. Research 7, 023179 (2025)",
+  "pdf_url": null,
+  "category": "nucl-th"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Metacognition for Unknown Situations and Environments (MUSE)",
+  "authors": [
+    "Rodolfo Valiente",
+    "Praveen K. Pilly"
+  ],
+  "summary": "Metacognition--the awareness and regulation of one's cognitive processes--is central to human adaptability in unknown situations. In contrast, current autonomous agents often struggle in novel environments due to their limited capacity for adaptation. We hypothesize that metacognition is a critical missing ingredient in adaptive autonomous systems, equipping them with the cognitive flexibility needed to tackle unfamiliar challenges. Given the broad scope of metacognitive abilities, we focus on two key aspects: competence awareness and strategy selection for novel tasks. To this end, we propose the Metacognition for Unknown Situations and Environments (MUSE) framework, which integrates metacognitive processes--specifically self-awareness and self-regulation--into autonomous agents. We present two initial implementations of MUSE: one based on world modeling and another leveraging large language models (LLMs), both instantiating the metacognitive cycle. Our system continuously learns to assess its competence on a given task and uses this self-awareness to guide iterative cycles of strategy selection. MUSE agents show significant improvements in self-awareness and self-regulation, enabling them to solve novel, out-of-distribution tasks more effectively compared to Dreamer-v3-based reinforcement learning and purely prompt-based LLM agent approaches. This work highlights the promise of approaches inspired by cognitive and neural systems in enabling autonomous systems to adapt to new environments, overcoming the limitations of current methods that rely heavily on extensive training data.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI"
+}

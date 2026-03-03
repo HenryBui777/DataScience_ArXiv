@@ -1,0 +1,20 @@
+{
+  "title": "Fine-Grained Alignment in Vision-and-Language Navigation through Bayesian Optimization",
+  "authors": [
+    "Yuhang Song",
+    "Mario Gianni",
+    "Chenguang Yang",
+    "Kunyang Lin",
+    "Te-Chuan Chiu",
+    "Anh Nguyen",
+    "Chun-Yi Lee"
+  ],
+  "summary": "This paper addresses the challenge of fine-grained alignment in Vision-and-Language Navigation (VLN) tasks, where robots navigate realistic 3D environments based on natural language instructions. Current approaches use contrastive learning to align language with visual trajectory sequences. Nevertheless, they encounter difficulties with fine-grained vision negatives. To enhance cross-modal embeddings, we introduce a novel Bayesian Optimization-based adversarial optimization framework for creating fine-grained contrastive vision samples. To validate the proposed methodology, we conduct a series of experiments to assess the effectiveness of the enriched embeddings on fine-grained vision negatives. We conduct experiments on two common VLN benchmarks R2R and REVERIE, experiments on the them demonstrate that these embeddings benefit navigation, and can lead to a promising performance enhancement. Our source code and trained models are available at: https://anonymous.4open.science/r/FGVLN.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-11-30"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.CL, cs.LG"
+}

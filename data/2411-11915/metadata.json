@@ -1,0 +1,21 @@
+{
+  "title": "Phenome-wide causal proteomics enhance systemic lupus erythematosus flare prediction: A study in Asian populations",
+  "authors": [
+    "Liying Chen",
+    "Ou Deng",
+    "Ting Fang",
+    "Mei Chen",
+    "Xvfeng Zhang",
+    "Ruichen Cong",
+    "Dingqi Lu",
+    "Runrun Zhang",
+    "Qun Jin",
+    "Xinchang Wang"
+  ],
+  "summary": "Objective: Systemic lupus erythematosus (SLE) is a complex autoimmune disease characterized by unpredictable flares. This study aimed to develop a novel proteomics-based risk prediction model specifically for Asian SLE populations to enhance personalized disease management and early intervention. Methods: A longitudinal cohort study was conducted over 48 weeks, including 139 SLE patients monitored every 12 weeks. Patients were classified into flare (n = 53) and non-flare (n = 86) groups. Baseline plasma samples underwent data-independent acquisition (DIA) proteomics analysis, and phenome-wide Mendelian randomization (PheWAS) was performed to evaluate causal relationships between proteins and clinical predictors. Logistic regression (LR) and random forest (RF) models were used to integrate proteomic and clinical data for flare risk prediction. Results: Five proteins (SAA1, B4GALT5, GIT2, NAA15, and RPIA) were significantly associated with SLE Disease Activity Index-2K (SLEDAI-2K) scores and 1-year flare risk, implicating key pathways such as B-cell receptor signaling and platelet degranulation. SAA1 demonstrated causal effects on flare-related clinical markers, including hemoglobin and red blood cell counts. A combined model integrating clinical and proteomic data achieved the highest predictive accuracy (AUC = 0.769), surpassing individual models. SAA1 was highlighted as a priority biomarker for rapid flare discrimination. Conclusion: The integration of proteomic and clinical data significantly improves flare prediction in Asian SLE patients. The identification of key proteins and their causal relationships with flare-related clinical markers provides valuable insights for proactive SLE management and personalized therapeutic approaches.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-bio.GN, cs.LG"
+}

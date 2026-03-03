@@ -1,0 +1,15 @@
+{
+  "title": "On the Incorporation of Stability Constraints into Sequential Operational Scheduling",
+  "authors": [
+    "Wangkun Xu",
+    "Zhongda Chu",
+    "Florin Capitanescu",
+    "Fei Teng"
+  ],
+  "summary": "With the increasing penetration of Inverter-Based Resources (IBRs), power system stability constraints must be incorporated into the operational framework, transforming it into stability-constrained optimization. Currently, there exist parallel research efforts on developing the stability constraints within DC power flow-based unit commitment (UC) and AC Optimal Power Flow (OPF). However, few studies discuss how including such constraints can interact with each other and eventually impact grid stability. In this context, this work simulates a realistic power system decision making framework and provides a thorough analysis on the necessity of incorporating frequency nadir and small signal stability constraints into these sequentially connected two operation stages. The simulation results demonstrate that including both stability constraints in the UC is essential to maintain power system stability, while the inclusion in AC OPF can further improve the stability index.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "REVISE: Robust Probabilistic Motion Planning in a Gaussian Random Field",
+  "authors": [
+    "Alex Rose",
+    "Naman Aggarwal",
+    "Christopher Jewison",
+    "Jonathan P. How"
+  ],
+  "summary": "This paper presents Robust samplE-based coVarIance StEering (REVISE), a multi-query algorithm that generates robust belief roadmaps for dynamic systems navigating through spatially dependent disturbances modeled as a Gaussian random field. Our proposed method develops a novel robust sample-based covariance steering edge controller to safely steer a robot between state distributions, satisfying state constraints along the trajectory. Our proposed approach also incorporates an edge rewiring step into the belief roadmap construction process, which provably improves the coverage of the belief roadmap. When compared to state-of-the-art methods, REVISE improves median plan accuracy (as measured by Wasserstein distance between the actual and planned final state distribution) by 10x in multi-query planning and reduces median plan cost (as measured by the largest eigenvalue of the planned state covariance at the goal) by 2.5x in single-query planning for a 6DoF system. We will release our code at https://acl.mit.edu/REVISE/.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO, eess.SY"
+}

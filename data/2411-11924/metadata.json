@@ -1,0 +1,19 @@
+{
+  "title": "Dataset Distillers Are Good Label Denoisers In the Wild",
+  "authors": [
+    "Lechao Cheng",
+    "Kaifeng Chen",
+    "Jiyang Li",
+    "Shengeng Tang",
+    "Shufei Zhang",
+    "Meng Wang"
+  ],
+  "summary": "Learning from noisy data has become essential for adapting deep learning models to real-world applications. Traditional methods often involve first evaluating the noise and then applying strategies such as discarding noisy samples, re-weighting, or re-labeling. However, these methods can fall into a vicious cycle when the initial noise evaluation is inaccurate, leading to suboptimal performance. To address this, we propose a novel approach that leverages dataset distillation for noise removal. This method avoids the feedback loop common in existing techniques and enhances training efficiency, while also providing strong privacy protection through offline processing. We rigorously evaluate three representative dataset distillation methods (DATM, DANCE, and RCIG) under various noise conditions, including symmetric noise, asymmetric noise, and real-world natural noise. Our empirical findings reveal that dataset distillation effectively serves as a denoising tool in random noise scenarios but may struggle with structured asymmetric noise patterns, which can be absorbed into the distilled samples. Additionally, clean but challenging samples, such as those from tail classes in imbalanced datasets, may undergo lossy compression during distillation. Despite these challenges, our results highlight that dataset distillation holds significant promise for robust model training, especially in high-privacy environments where noise is prevalent. The source code is available at https://github.com/Kciiiman/DD_LNL.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-25"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.CV"
+}

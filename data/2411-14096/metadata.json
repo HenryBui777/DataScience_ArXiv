@@ -1,0 +1,13 @@
+{
+  "title": "A Hybrid Qubit Encoding: Splitting Fock Space into Fermionic and Bosonic Subspaces",
+  "authors": [
+    "Francisco Javier Del Arco Santos",
+    "Jakob S. Kottmann"
+  ],
+  "summary": "Efficient encoding of electronic operators into qubits is essential for quantum chemistry simulations. The majority of methods map single electron states to qubits, effectively handling electron interactions. Alternatively, pairs of electrons can be represented as quasi-particles and encoded into qubits, significantly simplifying calculations. This work presents a hybrid encoding that allows splitting the Fock space into Fermionic and Bosonic subspaces. By leveraging the strengths of both approaches, we provide a flexible framework for optimizing quantum simulations based on molecular characteristics and hardware constraints.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

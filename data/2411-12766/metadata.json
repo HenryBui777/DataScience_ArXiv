@@ -1,0 +1,16 @@
+{
+  "title": "Exploring the Uncoordinated Privacy Protections of Eye Tracking and VR Motion Data for Unauthorized User Identification",
+  "authors": [
+    "Samantha Aziz",
+    "Oleg Komogortsev"
+  ],
+  "summary": "Virtual reality (VR) sensors capture large amounts of user data, including body motion and eye tracking, that contain personally identifying information. While privacy-enhancing techniques can obfuscate this data, incomplete privacy protections risk privacy leakage, which may allow adversaries to leverage unprotected data to identify users without consent. This work examines the extent to which unprotected body motion data can undermine privacy protections for eye tracking data, and vice versa, to enable user identification in VR. These findings highlight a privacy consideration at the intersection of eye tracking and VR, and emphasize the need for privacy protections that address these technologies comprehensively.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [
+    "2024-12-03",
+    "2025-03-06"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.HC"
+}

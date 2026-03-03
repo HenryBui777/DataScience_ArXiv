@@ -1,0 +1,17 @@
+{
+  "title": "A Stable-Set Bound and Maximal Numbers of Nash Equilibria in Bimatrix Games",
+  "authors": [
+    "Constantin Ickstadt",
+    "Thorsten Theobald",
+    "Bernhard von Stengel"
+  ],
+  "summary": "Quint and Shubik (1997) conjectured that a non-degenerate n-by-n game has at most 2^n-1 Nash equilibria in mixed strategies. The conjecture is true for n at most 4 but false for n=6 or larger. We answer it positively for the remaining case n=5, which had been open since 1999. The problem can be translated to a combinatorial question about the vertices of a pair of simple n-polytopes with 2n facets. We introduce a novel obstruction based on the index of an equilibrium, which states that equilibrium vertices belong to two equal-sized disjoint stable sets of the graph of the polytope. This bound is verified directly using the known classification of the 159,375 combinatorial types of dual neighborly polytopes in dimension 5 with 10 facets. Non-neighborly polytopes are analyzed with additional combinatorial techniques where the bound is used for their disjoint facets.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-25",
+    "2025-09-22"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.GT, math.CO"
+}

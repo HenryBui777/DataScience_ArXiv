@@ -1,0 +1,18 @@
+{
+  "title": "TP-UNet: Temporal Prompt Guided UNet for Medical Image Segmentation",
+  "authors": [
+    "Ranmin Wang",
+    "Limin Zhuang",
+    "Hongkun Chen",
+    "Boyan Xu",
+    "Ruichu Cai"
+  ],
+  "summary": "The advancement of medical image segmentation techniques has been propelled by the adoption of deep learning techniques, particularly UNet-based approaches, which exploit semantic information to improve the accuracy of segmentations. However, the order of organs in scanned images has been disregarded by current medical image segmentation approaches based on UNet. Furthermore, the inherent network structure of UNet does not provide direct capabilities for integrating temporal information. To efficiently integrate temporal information, we propose TP-UNet that utilizes temporal prompts, encompassing organ-construction relationships, to guide the segmentation UNet model. Specifically, our framework is featured with cross-attention and semantic alignment based on unsupervised contrastive learning to combine temporal prompts and image features effectively. Extensive evaluations on two medical image segmentation datasets demonstrate the state-of-the-art performance of TP-UNet. Our implementation will be open-sourced after acceptance.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-20"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Boundless Across Domains: A New Paradigm of Adaptive Feature and Cross-Attention for Domain Generalization in Medical Image Segmentation",
+  "authors": [
+    "Yuheng Xu",
+    "Taiping Zhang"
+  ],
+  "summary": "Domain-invariant representation learning is a powerful method for domain generalization. Previous approaches face challenges such as high computational demands, training instability, and limited effectiveness with high-dimensional data, potentially leading to the loss of valuable features. To address these issues, we hypothesize that an ideal generalized representation should exhibit similar pattern responses within the same channel across cross-domain images. Based on this hypothesis, we use deep features from the source domain as queries, and deep features from the generated domain as keys and values. Through a cross-channel attention mechanism, the original deep features are reconstructed into robust regularization representations, forming an explicit constraint that guides the model to learn domain-invariant representations. Additionally, style augmentation is another common method. However, existing methods typically generate new styles through convex combinations of source domains, which limits the diversity of training samples by confining the generated styles to the original distribution. To overcome this limitation, we propose an Adaptive Feature Blending (AFB) method that generates out-of-distribution samples while exploring the in-distribution space, significantly expanding the domain range. Extensive experimental results demonstrate that our proposed methods achieve superior performance on two standard domain generalization benchmarks for medical image segmentation.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI, cs.LG"
+}

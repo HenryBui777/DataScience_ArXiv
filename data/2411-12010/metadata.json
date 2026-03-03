@@ -1,0 +1,17 @@
+{
+  "title": "Active learning for efficient discovery of optimal gene combinations in the combinatorial perturbation space",
+  "authors": [
+    "Jason Qin",
+    "Hans-Hermann Wessels",
+    "Carlos Fernandez-Granda",
+    "Yuhan Hao"
+  ],
+  "summary": "The advancement of novel combinatorial CRISPR screening technologies enables the identification of synergistic gene combinations on a large scale. This is crucial for developing novel and effective combination therapies, but the combinatorial space makes exhaustive experimentation infeasible. We introduce NAIAD, an active learning framework that efficiently discovers optimal gene pairs capable of driving cells toward desired cellular phenotypes. NAIAD leverages single-gene perturbation effects and adaptive gene embeddings that scale with the training data size, mitigating overfitting in small-sample learning while capturing complex gene interactions as more data is collected. Evaluated on four CRISPR combinatorial perturbation datasets totaling over 350,000 genetic interactions, NAIAD, trained on small datasets, outperforms existing models by up to 40\\% relative to the second-best. NAIAD's recommendation system prioritizes gene pairs with the maximum predicted effects, resulting in the highest marginal gain in each AI-experiment round and accelerating discovery with fewer CRISPR experimental iterations. Our NAIAD framework (https://github.com/NeptuneBio/NAIAD) improves the identification of novel, effective gene combinations, enabling more efficient CRISPR library design and offering promising applications in genomics research and therapeutic development.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-12-11"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-bio.GN, cs.LG"
+}

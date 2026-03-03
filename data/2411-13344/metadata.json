@@ -1,0 +1,16 @@
+{
+  "title": "Abstracted Model Reduction: A General Framework for Efficient Interconnected System Reduction",
+  "authors": [
+    "Luuk Poort",
+    "Lars A. L. Janssen",
+    "Bart Besselink",
+    "Rob H. B. Fey",
+    "Nathan van de Wouw"
+  ],
+  "summary": "This paper introduces the concept of abstracted model reduction: a framework to improve the tractability of structure-preserving methods for the complexity reduction of interconnected system models. To effectively reduce high-order, interconnected models, it is usually not sufficient to consider the subsystems separately. Instead, structure-preserving reduction methods should be employed, which consider the interconnected dynamics to select which subsystem dynamics to retain in reduction. However, structure-preserving methods are often not computationally tractable. To overcome this issue, we propose to connect each subsystem model to a low-order abstraction of its environment to reduce it both effectively and efficiently. By means of a high-fidelity structural-dynamics model from the lithography industry, we show, on the one hand, significantly increased accuracy with respect to standard subsystem reduction and, on the other hand, similar accuracy to direct application of expensive structure-preserving methods, while significantly reducing computational cost. Furthermore, we formulate a systematic approach to automatically determine sufficient abstraction and reduction orders to preserve stability and guarantee a given frequency-dependent error specification. We apply this approach to the lithography equipment use case and show that the environment model can indeed be reduced by over 80\\% without significant loss in the accuracy of the reduced interconnected model.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

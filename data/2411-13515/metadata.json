@@ -1,0 +1,15 @@
+{
+  "title": "Optimization of Second-Order Transport Models for Transition-Continuum Flows",
+  "authors": [
+    "Mikolaj Kryger",
+    "Jonathan F. MacArt"
+  ],
+  "summary": "Modeling transition-continuum hypersonic flows poses significant challenges due to thermodynamic nonequilibrium and the associated breakdown of the continuum assumption. Standard continuum models such as the Navier-Stokes equations are inaccurate for these flows, and molecular models can be inefficient due to the large number of computational particles required at moderately high densities. We explore computational modeling of transition-continuum flows using a second-order constitutive theory that provides closures for the terms representing the molecular transport of momentum and energy. We optimize the second-order model parameters for one-dimensional viscous shocks using an adjoint-based optimization method, with the objective function comprising the primitive flow variables. Target data is obtained from moments of distribution functions obtained by solving the Boltzmann equation. We compare results using optimized second-order models, the unoptimized second-order model, and the first-order Navier-Stokes model for Mach numbers $M\\in[1.1,10]$ and observe improvements to the shock profiles and shock thickness calculations. We validate the optimized models by comparing the predicted viscous stress and heat flux, which are not included in the objective function, to those obtained by integrating the distribution function. The close match to these moments indicates that the satisfactory performance of the optimized second-order models is consistent with the nonequilibrium flow physics.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-06-17"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.flu-dyn, physics.comp-ph"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Syllabus: Portable Curricula for Reinforcement Learning Agents",
+  "authors": [
+    "Ryan Sullivan",
+    "Ryan Pégoud",
+    "Ameen Ur Rehman",
+    "Xinchen Yang",
+    "Junyun Huang",
+    "Aayush Verma",
+    "Nistha Mitra",
+    "John P. Dickerson"
+  ],
+  "summary": "Curriculum learning has been a quiet, yet crucial component of many high-profile successes of reinforcement learning. Despite this, it is still a niche topic that is not directly supported by any of the major reinforcement learning libraries. These methods can improve the capabilities and generalization of RL agents, but often require complex changes to training code. We introduce Syllabus, a portable curriculum learning library, as a solution to this problem. Syllabus provides a universal API for curriculum learning, modular implementations of popular automatic curriculum learning methods, and infrastructure that allows them to be easily integrated with asynchronous training code in nearly any RL library. Syllabus provides a minimal API for core curriculum learning components, making it easier to design new algorithms and adapt existing ones to new environments. We demonstrate this by evaluating the algorithms in Syllabus on several new environments, each using agents written in a different RL library. We present the first examples of automatic curriculum learning in NetHack and Neural MMO, two of the most challenging RL benchmarks, and find evidence that existing methods do not directly transfer to complex new environments. Syllabus can be found at https://github.com/RyanNavillus/Syllabus.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-08-02"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AI"
+}

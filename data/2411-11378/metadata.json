@@ -1,0 +1,13 @@
+{
+  "title": "Next-generation optical networks to sustain connectivity of the future: All roads lead to optical-computing-enabled network?",
+  "authors": [
+    "Dao Thanh Hai",
+    "Isaac Woungang"
+  ],
+  "summary": "From an architectural perspective with the main goal of reducing the effective traffic load in the network and thus gaining more operational efficiency, optical networks have been essentially remained the same in the recent two decades since the year 2000s with the success and then dominance of optical-bypass mode. In the optical-bypass-enabled network, the add/drop and cross-connect functions constitute the fundamental operations in handling the traffic at the optical layer, whose the underlying principle lies in the fact that in cross-connecting in-transit lightpaths over an intermediate node, such lightpaths must be guarded from each other in a certain dimension, be it the time, frequency or spatial domain, to avoid interference, which is treated as destructive. In view of the rapid progresses in the realm of optical computing enabling the precisely controlled interference between optical channels for various computing capabilities, we envision a different perspective to turn the long-established wisdom in optical-bypass network around by putting the optical channel interference to a good use, resulting into the so-called optical-computing-enabled network. This paper presents two illustrative examples based on the optical aggregation and optical XOR operations which have been progressively maturing and thus, could be feasibly integrated into the current legacy infrastructure with possibly minimal disruptions. We then propose a detailed case study in formulating and solving the network coding-enabled optical networks, demonstrating the efficacy of the optical-computing-enabled network, and highlighting the unique challenges tied with greater complexities in network design problems, compared to optical-bypass counterpart",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.NI"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Data Formats in Analytical DBMSs: Performance Trade-offs and Future Directions",
+  "authors": [
+    "Chunwei Liu",
+    "Anna Pavlenko",
+    "Matteo Interlandi",
+    "Brandon Haynes"
+  ],
+  "summary": "This paper evaluates the suitability of Apache Arrow, Parquet, and ORC as formats for subsumption in an analytical DBMS. We systematically identify and explore the high-level features that are important to support efficient querying in modern OLAP DBMSs and evaluate the ability of each format to support these features. We find that each format has trade-offs that make it more or less suitable for use as a format in a DBMS and identify opportunities to more holistically co-design a unified in-memory and on-disk data representation. Notably, for certain popular machine learning tasks, none of these formats perform optimally, highlighting significant opportunities for advancing format design. Our hope is that this study can be used as a guide for system developers designing and using these formats, as well as provide the community with directions to pursue for improving these common open formats.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DB"
+}

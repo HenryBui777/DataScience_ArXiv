@@ -1,0 +1,21 @@
+{
+  "title": "A Study of Malware Prevention in Linux Distributions",
+  "authors": [
+    "Duc-Ly Vu",
+    "Trevor Dunlap",
+    "Karla Obermeier-Velazquez",
+    "Thanh-Cong Nguyen",
+    "Paul Gibert",
+    "John Speed Meyers",
+    "Santiago Torres-Arias"
+  ],
+  "summary": "Malicious attacks on open-source software packages are a growing concern. The discovery of the XZ Utils backdoor intensified these concerns because of the potential widespread impact. This study, therefore, explores the challenges of preventing and detecting malware in Linux distribution package repositories. To do so, we ask two research questions: (1) What measures have Linux distributions implemented to counter malware, and how have maintainers experienced these efforts? (2) How effective are current malware detection tools in identifying malicious Linux packages? To answer these questions, we conduct interviews with maintainers at several major Linux distributions and introduce a Linux package malware benchmark dataset. Using this dataset, we evaluate the performance of six open-source malware detection scanners. Distribution maintainers, according to the interviews, have mostly focused on reproducible builds to date. Our interviews identified only a single Linux distribution, Wolfi OS, that performs active malware scanning. Using this new benchmark dataset, the evaluation found that the performance of existing open-source malware scanners is underwhelming. Most studied tools excel at producing false positives but only infrequently detect true malware. Those that avoid high false positive rates often do so at the expense of a satisfactory true positive. Our findings provide insights into Linux distribution package repositories' current practices for malware detection and demonstrate the current inadequacy of open-source tools designed to detect malicious Linux packages.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [
+    "2024-11-25",
+    "2025-07-21"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR, cs.SE"
+}

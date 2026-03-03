@@ -1,0 +1,694 @@
+{
+  "2506-14811": {
+    "title": "Self-Composing Policies for Scalable Continual Reinforcement Learning",
+    "authors": [
+      "Mikel Malagón",
+      "Josu Ceberio",
+      "J. A. Lozano"
+    ],
+    "publication_date": "2025-06-04",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "49a5bc9335768d85111fc1f1b5c63cef102cf443",
+    "corpus_id": 272330661,
+    "category": "Computer Science"
+  },
+  "2411-01168": {
+    "title": "Prompt Tuning with Diffusion for Few-Shot Pre-trained Policy Generalization",
+    "authors": [
+      "Shengchao Hu",
+      "Wanru Zhao",
+      "Weixiong Lin",
+      "Li Shen",
+      "Ya Zhang",
+      "Dacheng Tao"
+    ],
+    "publication_date": "2024-11-02",
+    "venue": "Adaptive Agents and Multi-Agent Systems",
+    "semantic_scholar_id": "3ab4ca8ae36b6718f1021eecd01890c02439dc19",
+    "corpus_id": 273811180,
+    "category": "Computer Science"
+  },
+  "2409-02512": {
+    "title": "Continual Diffuser (CoD): Mastering Continual Offline Reinforcement Learning with Experience Rehearsal",
+    "authors": [
+      "Jifeng Hu",
+      "Li Shen",
+      "Sili Huang",
+      "Zhejian Yang",
+      "Hechang Chen",
+      "Lichao Sun",
+      "Yi Chang",
+      "Dacheng Tao"
+    ],
+    "publication_date": "2024-09-04",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "9db942e6eef83bd7d4bd2ec3c895a6c9e3774943",
+    "corpus_id": 272397592,
+    "category": "Computer Science"
+  },
+  "2405-18080": {
+    "title": "HarmoDT: Harmony Multi-Task Decision Transformer for Offline Reinforcement Learning",
+    "authors": [
+      "Shengchao Hu",
+      "Ziqing Fan",
+      "Li Shen",
+      "Ya Zhang",
+      "Yanfeng Wang",
+      "Dacheng Tao"
+    ],
+    "publication_date": "2024-05-28",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "e60842b9969e269d73571a4a483b127b027ce16f",
+    "corpus_id": 270068345,
+    "category": "Computer Science"
+  },
+  "2405-17098": {
+    "title": "Q-value Regularized Transformer for Offline Reinforcement Learning",
+    "authors": [
+      "Shengchao Hu",
+      "Ziqing Fan",
+      "Chaoqin Huang",
+      "Li Shen",
+      "Ya Zhang",
+      "Yanfeng Wang",
+      "Dacheng Tao"
+    ],
+    "publication_date": "2024-05-27",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "b0bc8cbb3c8b5a7b2c325588c2a6f228d59efc0c",
+    "corpus_id": 270062643,
+    "category": "Computer Science"
+  },
+  "2405-12094": {
+    "title": "Is Mamba Compatible with Trajectory Optimization in Offline Reinforcement Learning?",
+    "authors": [
+      "Yang Dai",
+      "Oubo Ma",
+      "Longfei Zhang",
+      "Xingxing Liang",
+      "Shengchao Hu",
+      "Mengzhu Wang",
+      "Shouling Ji",
+      "Jincai Huang",
+      "Li Shen"
+    ],
+    "publication_date": "2024-05-20",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "232b32209c3900d1098868286488358430ba4f8f",
+    "corpus_id": 269922242,
+    "category": "Computer Science"
+  },
+  "2405-08550": {
+    "title": "Learning Multi-Agent Communication from Graph Modeling Perspective",
+    "authors": [
+      "Shengchao Hu",
+      "Li Shen",
+      "Ya Zhang",
+      "Dacheng Tao"
+    ],
+    "publication_date": "2024-05-14",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "cafd9fdf8492640eeb59c3c4152d7bf9f1d4811c",
+    "corpus_id": 269761403,
+    "category": "Computer Science"
+  },
+  "2401-08478": {
+    "title": "Solving Continual Offline Reinforcement Learning with Decision Transformer",
+    "authors": [
+      "Kaixin Huang",
+      "Li Shen",
+      "Chen Zhao",
+      "Chun Yuan",
+      "Dacheng Tao"
+    ],
+    "publication_date": "2024-01-16",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "19c72f33544f06954f440d8a57575139bf0edd28",
+    "corpus_id": 267028309,
+    "category": "Computer Science"
+  },
+  "2401-02576": {
+    "title": "t-DGR: A Trajectory-Based Deep Generative Replay Method for Continual Learning in Decision Making",
+    "authors": [
+      "William Yue",
+      "Bo Liu",
+      "Peter Stone"
+    ],
+    "publication_date": "2024-01-04",
+    "venue": "CoLLAs",
+    "semantic_scholar_id": "df37c9efe69542380132ae8304dfc1802bbcd08c",
+    "corpus_id": 266818186,
+    "category": "Computer Science"
+  },
+  "2308-01698": {
+    "title": "Balanced Destruction-Reconstruction Dynamics for Memory-Replay Class Incremental Learning",
+    "authors": [
+      "Yuhang Zhou",
+      "Jiangchao Yao",
+      "Feng Hong",
+      "Ya Zhang",
+      "Yanfeng Wang"
+    ],
+    "publication_date": "2023-08-03",
+    "venue": "IEEE Transactions on Image Processing",
+    "semantic_scholar_id": "6423cecbdc646c176d31b9230e4eb33cd5310464",
+    "corpus_id": 260438858,
+    "category": "Computer Science, Medicine"
+  },
+  "2305-18444": {
+    "title": "Continual Task Allocation in Meta-Policy Network via Sparse Prompting",
+    "authors": [
+      "Yijun Yang",
+      "Tianyi Zhou",
+      "Jing Jiang",
+      "Guodong Long",
+      "Yuhui Shi"
+    ],
+    "publication_date": "2023-05-29",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "ce588d27c10a475ef766ec4106cc0fd70e605349",
+    "corpus_id": 258967464,
+    "category": "Computer Science"
+  },
+  "2305-18459": {
+    "title": "Diffusion Model is an Effective Planner and Data Synthesizer for Multi-Task Reinforcement Learning",
+    "authors": [
+      "Haoran He",
+      "Chenjia Bai",
+      "Kang Xu",
+      "Zhuoran Yang",
+      "Weinan Zhang",
+      "Dong Wang",
+      "Bingyan Zhao",
+      "Xuelong Li"
+    ],
+    "publication_date": "2023-05-29",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "828e27fd4fcd5e8982032b903950947b12afb6bb",
+    "corpus_id": 258968054,
+    "category": "Computer Science"
+  },
+  "2305-09648": {
+    "title": "Prompt-Tuning Decision Transformer with Preference Ranking",
+    "authors": [
+      "Shengchao Hu",
+      "Li Shen",
+      "Ya Zhang",
+      "Dacheng Tao"
+    ],
+    "publication_date": "2023-05-16",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "231d6947a0651d3449020b728dd42c46cde81cda",
+    "corpus_id": 258715076,
+    "category": "Computer Science"
+  },
+  "2303-07551": {
+    "title": "Merging Decision Transformers: Weight Averaging for Forming Multi-Task Policies",
+    "authors": [
+      "Daniel Lawson",
+      "A. H. Qureshi"
+    ],
+    "publication_date": "2023-03-14",
+    "venue": "IEEE International Conference on Robotics and Automation",
+    "semantic_scholar_id": "7e3fb9c21b56ee1dfb2f79d545003fb525324e8b",
+    "corpus_id": 257505247,
+    "category": "Computer Science"
+  },
+  "2303-03747": {
+    "title": "Graph Decision Transformer",
+    "authors": [
+      "Shengchao Hu",
+      "Li Shen",
+      "Ya Zhang",
+      "Dacheng Tao"
+    ],
+    "publication_date": "2023-03-07",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "0c240d3f2d46d34c652a081ece634afff133aba0",
+    "corpus_id": 257378268,
+    "category": "Computer Science"
+  },
+  "2212-14164": {
+    "title": "On Transforming Reinforcement Learning With Transformers: The Development Trajectory",
+    "authors": [
+      "Shengchao Hu",
+      "Li Shen",
+      "Ya Zhang",
+      "Yixin Chen",
+      "Dacheng Tao"
+    ],
+    "publication_date": "2022-12-29",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "060cee8411181e8151ab1e3212b81528accd9b8b",
+    "corpus_id": 260442424,
+    "category": "Medicine, Computer Science"
+  },
+  "2211-15470": {
+    "title": "Learning to Learn: How to Continuously Teach Humans and Machines",
+    "authors": [
+      "Parantak Singh",
+      "You Li",
+      "Ankur Sikarwar",
+      "Weixian Lei",
+      "Daniel Gao",
+      "Morgan B. Talbot",
+      "Ying Sun",
+      "Mike Zheng Shou",
+      "G. Kreiman",
+      "Mengmi Zhang"
+    ],
+    "publication_date": "2022-11-28",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "78c487bfe5cec0997635c05957385d938c67e00b",
+    "corpus_id": 254043593,
+    "category": "Computer Science, Medicine"
+  },
+  "2209-13900": {
+    "title": "Disentangling Transfer in Continual Reinforcement Learning",
+    "authors": [
+      "Maciej Wołczyk",
+      "Michal Zajkac",
+      "Razvan Pascanu",
+      "Lukasz Kuci'nski",
+      "Piotr Milo's"
+    ],
+    "publication_date": "2022-09-28",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "fc3b5dc5528e24dbbc8f4ec273e622ce40eec855",
+    "corpus_id": 252567887,
+    "category": "Computer Science"
+  },
+  "2209-03993": {
+    "title": "Q-learning Decision Transformer: Leveraging Dynamic Programming for Conditional Sequence Modelling in Offline RL",
+    "authors": [
+      "Taku Yamagata",
+      "Ahmed Khalil",
+      "Raúl Santos-Rodríguez"
+    ],
+    "publication_date": "2022-09-08",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "fbb15aa7303586d25dc73f84c23f9b5447b0c06b",
+    "corpus_id": 252185261,
+    "category": "Computer Science"
+  },
+  "2112-02706": {
+    "title": "Achieving Forgetting Prevention and Knowledge Transfer in Continual Learning",
+    "authors": [
+      "Zixuan Ke",
+      "Bing Liu",
+      "Nianzu Ma",
+      "Hu Xu",
+      "Lei Shu"
+    ],
+    "publication_date": "2021-12-05",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "62be538a25a6ca7ebf1b1ac9f338ad01fdc481fb",
+    "corpus_id": 244908578,
+    "category": "Computer Science"
+  },
+  "2110-06169": {
+    "title": "Offline Reinforcement Learning with Implicit Q-Learning",
+    "authors": [
+      "Ilya Kostrikov",
+      "Ashvin Nair",
+      "S. Levine"
+    ],
+    "publication_date": "2021-10-12",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "348a855fe01f3f4273bf0ecf851ca688686dbfcc",
+    "corpus_id": 238634325,
+    "category": "Computer Science"
+  },
+  "2106-09685": {
+    "title": "LoRA: Low-Rank Adaptation of Large Language Models",
+    "authors": [
+      "J. E. Hu",
+      "Yelong Shen",
+      "Phillip Wallis",
+      "Zeyuan Allen-Zhu",
+      "Yuanzhi Li",
+      "Shean Wang",
+      "Weizhu Chen"
+    ],
+    "publication_date": "2021-06-17",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "a8ca46b171467ceb2d7652fbfb67fe701ad86092",
+    "corpus_id": 235458009,
+    "category": "Computer Science"
+  },
+  "2106-06860": {
+    "title": "A Minimalist Approach to Offline Reinforcement Learning",
+    "authors": [
+      "Scott Fujimoto",
+      "S. Gu"
+    ],
+    "publication_date": "2021-06-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "c879b25308026d6538e52b27bcf4fd3cb60855f3",
+    "corpus_id": 235422620,
+    "category": "Computer Science, Mathematics"
+  },
+  "2106-01345": {
+    "title": "Decision Transformer: Reinforcement Learning via Sequence Modeling",
+    "authors": [
+      "Lili Chen",
+      "Kevin Lu",
+      "A. Rajeswaran",
+      "Kimin Lee",
+      "Aditya Grover",
+      "M. Laskin",
+      "P. Abbeel",
+      "A. Srinivas",
+      "Igor Mordatch"
+    ],
+    "publication_date": "2021-06-02",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "c1ad5f9b32d80f1c65d67894e5b8c2fdf0ae4500",
+    "corpus_id": 235294299,
+    "category": "Computer Science"
+  },
+  "2105-10919": {
+    "title": "Continual World: A Robotic Benchmark For Continual Reinforcement Learning",
+    "authors": [
+      "Maciej Wołczyk",
+      "Michal Zajkac",
+      "Razvan Pascanu",
+      "Lukasz Kuci'nski",
+      "Piotr Milo's"
+    ],
+    "publication_date": "2021-05-23",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "090273ad6b3720027e34f9183576dd2812bb4454",
+    "corpus_id": 235166235,
+    "category": "Computer Science"
+  },
+  "2012-13490": {
+    "title": "Towards Continual Reinforcement Learning: A Review and Perspectives",
+    "authors": [
+      "Khimya Khetarpal",
+      "M. Riemer",
+      "I. Rish",
+      "Doina Precup"
+    ],
+    "publication_date": "2020-12-25",
+    "venue": "Journal of Artificial Intelligence Research",
+    "semantic_scholar_id": "9faecf3e18a833f2d49b030d591cc2ded0b54336",
+    "corpus_id": 229679944,
+    "category": "Computer Science"
+  },
+  "2010-15277": {
+    "title": "Class-Incremental Learning: Survey and Performance Evaluation on Image Classification",
+    "authors": [
+      "Marc Masana",
+      "Xialei Liu",
+      "Bartłomiej Twardowski",
+      "Mikel Menta",
+      "Andrew D. Bagdanov",
+      "Joost van de Weijer"
+    ],
+    "publication_date": "2020-10-28",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "0d67345f2f682e6d8149c66b35a4713b8cfec775",
+    "corpus_id": 234353728,
+    "category": "Medicine, Computer Science"
+  },
+  "2006-04779": {
+    "title": "Conservative Q-Learning for Offline Reinforcement Learning",
+    "authors": [
+      "Aviral Kumar",
+      "Aurick Zhou",
+      "G. Tucker",
+      "S. Levine"
+    ],
+    "publication_date": "2020-06-08",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "28db20a81eec74a50204686c3cf796c42a020d2e",
+    "corpus_id": 219530894,
+    "category": "Computer Science, Mathematics"
+  },
+  "2005-01643": {
+    "title": "Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems",
+    "authors": [
+      "S. Levine",
+      "Aviral Kumar",
+      "G. Tucker",
+      "Justin Fu"
+    ],
+    "publication_date": "2020-05-04",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "5e7bc93622416f14e6948a500278bfbe58cd3890",
+    "corpus_id": 218486979,
+    "category": "Computer Science, Mathematics"
+  },
+  "2003-06350": {
+    "title": "Interference and Generalization in Temporal Difference Learning",
+    "authors": [
+      "Emmanuel Bengio",
+      "Joelle Pineau",
+      "Doina Precup"
+    ],
+    "publication_date": "2020-03-13",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "66e27719c87c807abc9fbf9afe3682ebfb9cc69e",
+    "corpus_id": 212717993,
+    "category": "Computer Science, Mathematics"
+  },
+  "1910-10897": {
+    "title": "Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning",
+    "authors": [
+      "Tianhe Yu",
+      "Deirdre Quillen",
+      "Zhanpeng He",
+      "Ryan C. Julian",
+      "Karol Hausman",
+      "Chelsea Finn",
+      "S. Levine"
+    ],
+    "publication_date": "2019-10-24",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "0bc855f84668b35cb65618d996d09f6e434d28c9",
+    "corpus_id": 204852201,
+    "category": "Computer Science, Mathematics"
+  },
+  "1908-10084": {
+    "title": "Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks",
+    "authors": [
+      "Nils Reimers",
+      "Iryna Gurevych"
+    ],
+    "publication_date": "2019-08-14",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "93d63ec754f29fa22572615320afe0521f7ec66d",
+    "corpus_id": 201646309,
+    "category": "Computer Science"
+  },
+  "1812-02900": {
+    "title": "Off-Policy Deep Reinforcement Learning without Exploration",
+    "authors": [
+      "Scott Fujimoto",
+      "D. Meger",
+      "Doina Precup"
+    ],
+    "publication_date": "2018-12-07",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "5285cb8faada5de8a92a47622950f6cfd476ac1d",
+    "corpus_id": 54457299,
+    "category": "Computer Science, Mathematics"
+  },
+  "1811-11682": {
+    "title": "Experience Replay for Continual Learning",
+    "authors": [
+      "David Rolnick",
+      "Arun Ahuja",
+      "Jonathan Schwarz",
+      "T. Lillicrap",
+      "Greg Wayne"
+    ],
+    "publication_date": "2018-11-28",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "d9ff7a9344dd5d6653bd7a02bfd704422bb29951",
+    "corpus_id": 53860287,
+    "category": "Computer Science, Mathematics"
+  },
+  "1812-00420": {
+    "title": "Efficient Lifelong Learning with A-GEM",
+    "authors": [
+      "Arslan Chaudhry",
+      "Marc'Aurelio Ranzato",
+      "Marcus Rohrbach",
+      "Mohamed Elhoseiny"
+    ],
+    "publication_date": "2018-09-27",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "4a954b3e72a61968ab235076bcc242aca3a05520",
+    "corpus_id": 54443381,
+    "category": "Computer Science, Mathematics"
+  },
+  "1806-01780": {
+    "title": "Mix&Match - Agent Curricula for Reinforcement Learning",
+    "authors": [
+      "Wojciech M. Czarnecki",
+      "Siddhant M. Jayakumar",
+      "Max Jaderberg",
+      "Leonard Hasenclever",
+      "Y. Teh",
+      "N. Heess",
+      "Simon Osindero",
+      "Razvan Pascanu"
+    ],
+    "publication_date": "2018-06-05",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "a102ccbe6ccffa59cf4db4984bc95a6172c7da91",
+    "corpus_id": 46940072,
+    "category": "Computer Science, Mathematics"
+  },
+  "1801-10112": {
+    "title": "Riemannian Walk for Incremental Learning: Understanding Forgetting and Intransigence",
+    "authors": [
+      "Arslan Chaudhry",
+      "P. Dokania",
+      "Thalaiyasingam Ajanthan",
+      "Philip H. S. Torr"
+    ],
+    "publication_date": "2018-01-30",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "9958590c281e7a7b524dd594635037143c632c21",
+    "corpus_id": 4047127,
+    "category": "Computer Science"
+  },
+  "1801-01290": {
+    "title": "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor",
+    "authors": [
+      "Tuomas Haarnoja",
+      "Aurick Zhou",
+      "P. Abbeel",
+      "S. Levine"
+    ],
+    "publication_date": "2018-01-04",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "811df72e210e20de99719539505da54762a11c6d",
+    "corpus_id": 28202810,
+    "category": "Computer Science, Mathematics"
+  },
+  "1801-01423": {
+    "title": "Overcoming catastrophic forgetting with hard attention to the task",
+    "authors": [
+      "J. Serrà",
+      "Dídac Surís",
+      "M. Miron",
+      "Alexandros Karatzoglou"
+    ],
+    "publication_date": "2018-01-04",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "3aa673abd49f0837ed2fbf5cffcada9ba6f48693",
+    "corpus_id": 2157345,
+    "category": "Computer Science, Mathematics, Psychology"
+  },
+  "1711-09601": {
+    "title": "Memory Aware Synapses: Learning what (not) to forget",
+    "authors": [
+      "Rahaf Aljundi",
+      "F. Babiloni",
+      "Mohamed Elhoseiny",
+      "Marcus Rohrbach",
+      "T. Tuytelaars"
+    ],
+    "publication_date": "2017-11-27",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "713b0d9005944f80af00addc81b162ca74ea4b14",
+    "corpus_id": 4254748,
+    "category": "Computer Science, Mathematics"
+  },
+  "1711-05769": {
+    "title": "PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning",
+    "authors": [
+      "Arun Mallya",
+      "Svetlana Lazebnik"
+    ],
+    "publication_date": "2017-11-15",
+    "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "47bc048efb90e7b8bae5c1fcc979a78b65763fe9",
+    "corpus_id": 35249701,
+    "category": "Computer Science"
+  },
+  "1710-10628": {
+    "title": "Variational Continual Learning",
+    "authors": [
+      "Cuong V Nguyen",
+      "Yingzhen Li",
+      "T. Bui",
+      "Richard E. Turner"
+    ],
+    "publication_date": "2017-10-29",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "d475f695dedd94e96771fdaa1e5c075fd01d11cf",
+    "corpus_id": 13570924,
+    "category": "Computer Science, Mathematics"
+  },
+  "1706-08840": {
+    "title": "Gradient Episodic Memory for Continual Learning",
+    "authors": [
+      "David Lopez-Paz",
+      "Marc'Aurelio Ranzato"
+    ],
+    "publication_date": "2017-06-01",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "118fae4b4d07453561f1eded88654f812c7c61ec",
+    "corpus_id": 37308416,
+    "category": "Computer Science, Mathematics"
+  },
+  "1612-00796": {
+    "title": "Overcoming catastrophic forgetting in neural networks",
+    "authors": [
+      "J. Kirkpatrick",
+      "Razvan Pascanu",
+      "Neil C. Rabinowitz",
+      "J. Veness",
+      "Guillaume Desjardins",
+      "Andrei A. Rusu",
+      "Kieran Milan",
+      "John Quan",
+      "Tiago Ramalho",
+      "A. Grabska-Barwinska",
+      "D. Hassabis",
+      "C. Clopath",
+      "D. Kumaran",
+      "R. Hadsell"
+    ],
+    "publication_date": "2016-12-02",
+    "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+    "semantic_scholar_id": "2e55ba6c97ce5eb55abd959909403fe8da7e9fe9",
+    "corpus_id": 4704285,
+    "category": "Computer Science, Medicine, Mathematics"
+  },
+  "1606-09282": {
+    "title": "Learning without Forgetting",
+    "authors": [
+      "Zhizhong Li",
+      "Derek Hoiem"
+    ],
+    "publication_date": "2016-06-29",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "8f3b80ddc0dd62e6c3369fabb1715990c29e9b9a",
+    "corpus_id": 4853851,
+    "category": "Computer Science, Medicine, Mathematics"
+  },
+  "1606-04671": {
+    "title": "Progressive Neural Networks",
+    "authors": [
+      "Andrei A. Rusu",
+      "Neil C. Rabinowitz",
+      "Guillaume Desjardins",
+      "Hubert Soyer",
+      "J. Kirkpatrick",
+      "K. Kavukcuoglu",
+      "Razvan Pascanu",
+      "R. Hadsell"
+    ],
+    "publication_date": "2016-06-15",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "53c9443e4e667170acc60ca1b31a0ec7151fe753",
+    "corpus_id": 15350923,
+    "category": "Computer Science"
+  }
+}

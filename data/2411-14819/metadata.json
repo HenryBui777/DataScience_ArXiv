@@ -1,0 +1,16 @@
+{
+  "title": "Inf-sup stable space-time Local Discontinuous Galerkin method for the heat equation",
+  "authors": [
+    "Sergio Gómez",
+    "Chiara Perinati",
+    "Paul Stocker"
+  ],
+  "summary": "We propose and analyze a space-time Local Discontinuous Galerkin method for the approximation of the solution to parabolic problems. The method allows for very general discrete spaces and prismatic space-time meshes. Existence and uniqueness of a discrete solution are shown by means of an inf-sup condition, whose proof does not rely on polynomial inverse estimates. Moreover, for piecewise polynomial spaces satisfying an additional mild condition, we show a second inf-sup condition that provides additional control over the time derivative of the discrete solution. We derive $hp$-a priori error bounds based on these inf-sup conditions, which we use to prove convergence rates for standard, tensor-product, and quasi-Trefftz polynomial spaces. Numerical experiments validate our theoretical results.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-09-26"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

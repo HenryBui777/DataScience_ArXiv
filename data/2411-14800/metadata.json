@@ -1,0 +1,13 @@
+{
+  "title": "Fixed Points of Completely Positive Trace-Preserving Maps in Infinite Dimension",
+  "authors": [
+    "Roderich Tumulka",
+    "Jonte Weixler"
+  ],
+  "summary": "Completely positive trace-preserving maps $S$, also known as quantum channels, arise in quantum physics as a description of how the density operator $ρ$ of a system changes in a given time interval, allowing not only for unitary evolution but arbitrary operations including measurements or other interaction with an environment. It is known that if the Hilbert space $\\mathscr{H}$ that $ρ$ acts on is finite-dimensional, then every $S$ must have a fixed point, i.e., a density operator $ρ_0$ with $S(ρ_0)=ρ_0$. In infinite dimension, $S$ need not have a fixed point in general. However, we prove here the existence of a fixed point under a certain additional assumption which is, roughly speaking, that $S$ leaves invariant a certain set of density operators with bounded ``cost'' of preparation. The proof is an application of the Schauder-Tychonoff fixed point theorem. Our motivation for this question comes from a proposal of Deutsch for how to define quantum theory in a space-time with closed timelike curves; our result supports the viability of Deutsch's proposal.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math-ph, quant-ph"
+}

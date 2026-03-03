@@ -1,0 +1,21 @@
+{
+  "title": "Debias your Large Multi-Modal Model at Test-Time via Non-Contrastive Visual Attribute Steering",
+  "authors": [
+    "Neale Ratzlaff",
+    "Matthew Lyle Olson",
+    "Musashi Hinck",
+    "Estelle Aflalo",
+    "Shao-Yen Tseng",
+    "Vasudev Lal",
+    "Phillip Howard"
+  ],
+  "summary": "Large Multi-Modal Models (LMMs) have demonstrated impressive capabilities as general-purpose chatbots able to engage in conversations about visual inputs. However, their responses are influenced by societal biases present in their training datasets, leading to undesirable differences in how the model responds when presented with images depicting people of different demographics. In this work, we propose a training-free debiasing framework for LMMs that intervenes on the model's representations during text generation by constructing a steering vector that reduces reference on protected attributes. Our framework introduces two complementary methods: (1) a dataset-based approach that constructs a steering vector by contrasting model activations on biased and neutral inputs, and (2) a novel optimization-based approach designed for low-resource settings, which constructs the steering vector using a single step of gradient-based perturbation without requiring additional data. Our experiments show that these interventions effectively reduce the propensity of LMMs to generate text related to protected attributes while maintaining sentiment and fluency. Furthermore, we demonstrate that debiased LMMs achieve comparable accuracy to their unmodified counterparts on downstream tasks, indicating that bias mitigation can be achieved without sacrificing model performance.",
+  "submission_date": "2024-11-15",
+  "revised_dates": [
+    "2025-03-13",
+    "2025-09-18"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.LG"
+}

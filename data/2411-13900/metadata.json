@@ -1,0 +1,14 @@
+{
+  "title": "Dissecting Conditional Branch Predictors of Apple Firestorm and Qualcomm Oryon for Software Optimization and Architectural Analysis",
+  "authors": [
+    "Jiajie Chen",
+    "Peng Qu",
+    "Youhui Zhang"
+  ],
+  "summary": "Branch predictor (BP) is a critical component of modern processors, and its accurate modeling is essential for compilers and applications. However, processor vendors have disclosed limited details about their BP implementations.\n  Recent advancements in reverse engineering the BP of general-purpose processors have enabled the creation of more accurate BP models. Nonetheless, we have identified critical deficiencies in the existing methods. For instance, they impose strong assumptions on the branch history update function and the index/tag functions of key BP components, limiting their applicability to a broader range of processors, including those from Apple and Qualcomm.\n  In this paper, we design a more general branch prediction reverse engineering pipeline that can additionally recover the conditional branch predictors (CBPs) of Apple Firestorm and Qualcomm Oryon microarchitectures, and subsequently build accurate CBP models. Leveraging these models, we uncover two previously undisclosed effects that impair branch prediction accuracy and propose related solutions, resulting in up to 14% MPKI reduction and 7% performance improvement in representative applications. Furthermore, we conduct a comprehensive comparison of the known Intel/Apple/Qualcomm CBPs using a unified standalone branch predictor simulator, which facilitates a deeper understanding of CBP behavior.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AR"
+}

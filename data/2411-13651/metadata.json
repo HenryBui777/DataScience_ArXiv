@@ -1,0 +1,13 @@
+{
+  "title": "Certain BCS wavefunctions are quantum many-body scars",
+  "authors": [
+    "Kiryl Pakrouski",
+    "Zimo Sun"
+  ],
+  "summary": "We provide a method for constructing many-body scar states in fermionic lattice models that incorporate a given type of correlations with one of the states maximizing them over the full Hilbert space. Therefore this state may always be made the ground state by adding such correlations as a \"pairing potential\" $δH_0$ to any Hamiltonian $H=H_0+OT$ supporting group-invariant scars [arXiv:2007.00845]. In case of single-flavour spin-full fermions the ground state is a special case of the BCS wavefunction written in real space and invariant under any site index relabelling. For multi-orbital fermions this state also resembles BCS but includes higher order terms corresponding to \"pairing\" of more than two fermions. The broad class of eligible Hamiltonians $H$ is well documented [arXiv:2007.00845],[arXiv:2106.10300] and includes many conventional condensed matter interactions. The part of the Hamiltonian $(H_0+δH_0)$ that governs the exact dynamics of the scar subspace coincides with the BCS mean-field Hamiltonian. We therefore show that its BCS ground state and the excitations above it are many-body scars that are dynamically decoupled from the rest of the Hilbert space and thereby protected from thermalization. These states are insensitive to a variety of $OT$ Hamiltonian terms that among others include interactions and (spin-orbit) hoppings. Our results point out a connection between the fields of superconductivity and weak ergodicity breaking (many-body scars) and will hopefully encourage further investigations. They also provide the first practical protocol to initialize a fermionic system to a scar state in (a quantum simulator) experiment.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cond-mat.str-el, cond-mat.stat-mech, cond-mat.supr-con, hep-th, quant-ph"
+}

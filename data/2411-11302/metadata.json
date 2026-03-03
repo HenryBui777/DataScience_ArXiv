@@ -1,0 +1,18 @@
+{
+  "title": "Towards Personalized Brain-Computer Interface Application Based on Endogenous EEG Paradigms",
+  "authors": [
+    "Heon-Gyu Kwak",
+    "Gi-Hwan Shin",
+    "Yeon-Woo Choi",
+    "Dong-Hoon Lee",
+    "Yoo-In Jeon",
+    "Jun-Su Kang",
+    "Seong-Whan Lee"
+  ],
+  "summary": "In this paper, we propose a conceptual framework for personalized brain-computer interface (BCI) applications, which can offer an enhanced user experience by customizing services to individual preferences and needs, based on endogenous electroencephalography (EEG) paradigms including motor imagery (MI), speech imagery (SI), and visual imagery. The framework includes two essential components: user identification and intention classification, which enable personalized services by identifying individual users and recognizing their intended actions through EEG signals. We validate the feasibility of our framework using a private EEG dataset collected from eight subjects, employing the ShallowConvNet architecture to decode EEG features. The experimental results demonstrate that user identification achieved an average classification accuracy of 0.995, while intention classification achieved 0.47 accuracy across all paradigms, with MI demonstrating the best performance. These findings indicate that EEG signals can effectively support personalized BCI applications, offering robust identification and reliable intention decoding, especially for MI and SI.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.HC, cs.AI"
+}

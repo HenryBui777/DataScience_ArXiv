@@ -1,0 +1,14 @@
+{
+  "title": "When Online Algorithms Influence the Environment: A Dynamical Systems Analysis of the Unintended Consequences",
+  "authors": [
+    "Prabhat Lankireddy",
+    "Jayakrishnan Nair",
+    "D Manjunath"
+  ],
+  "summary": "We analyze the effect that online algorithms have on the environment that they are learning. As a motivation, consider recommendation systems that use online algorithms to learn optimal product recommendations based on user and product attributes. It is well known that the sequence of recommendations affects user preferences. However, typical learning algorithms treat the user attributes as static and disregard the impact of their recommendations on user preferences. Our interest is to analyze the effect of this mismatch between the model assumption of a static environment, and the reality of an evolving environment affected by the recommendations. To perform this analysis, we first introduce a model for a generic coupled evolution of the parameters that are being learned, and the environment that is affected by it. We then frame a linear bandit recommendation system (RS) into this generic model where the users are characterized by a state variable that evolves based on the sequence of recommendations. The learning algorithm of the RS does not explicitly account for this evolution and assumes that the users are static. A dynamical system model that captures the coupled evolution of the population state and the learning algorithm is described, and its equilibrium behavior is analyzed. We show that when the recommendation algorithm is able to learn the population preferences in the presence of this mismatch, the algorithm induces similarity in the preferences of the user population. In particular, we present results on how different properties of the recommendation algorithm, namely the user attribute space and the exploration-exploitation tradeoff, effect the population preferences when they are learned by the algorithm. We demonstrate these results using model simulations.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI, cs.CY"
+}

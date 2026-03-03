@@ -1,0 +1,15 @@
+{
+  "title": "MPLite: Multi-Aspect Pretraining for Mining Clinical Health Records",
+  "authors": [
+    "Eric Yang",
+    "Pengfei Hu",
+    "Xiaoxue Han",
+    "Yue Ning"
+  ],
+  "summary": "The adoption of digital systems in healthcare has resulted in the accumulation of vast electronic health records (EHRs), offering valuable data for machine learning methods to predict patient health outcomes. However, single-visit records of patients are often neglected in the training process due to the lack of annotations of next-visit information, thereby limiting the predictive and expressive power of machine learning models. In this paper, we present a novel framework MPLite that utilizes Multi-aspect Pretraining with Lab results through a light-weight neural network to enhance medical concept representation and predict future health outcomes of individuals. By incorporating both structured medical data and additional information from lab results, our approach fully leverages patient admission records. We design a pretraining module that predicts medical codes based on lab results, ensuring robust prediction by fusing multiple aspects of features. Our experimental evaluation using both MIMIC-III and MIMIC-IV datasets demonstrates improvements over existing models in diagnosis prediction and heart failure prediction tasks, achieving a higher weighted-F1 and recall with MPLite. This work reveals the potential of integrating diverse aspects of data to advance predictive modeling in healthcare.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI"
+}

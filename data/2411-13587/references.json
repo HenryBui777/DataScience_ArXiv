@@ -1,0 +1,960 @@
+{
+  "2409-15657": {
+    "title": "M^2PT: Multimodal Prompt Tuning for Zero-shot Instruction Learning",
+    "authors": [
+      "Taowen Wang",
+      "Yiyang Liu",
+      "J. Liang",
+      "Junhan Zhao",
+      "Yiming Cui",
+      "Yuning Mao",
+      "Shaoliang Nie",
+      "Jiahao Liu",
+      "Fuli Feng",
+      "Zenglin Xu",
+      "Cheng Han",
+      "Lifu Huang",
+      "Qifan Wang",
+      "Dongfang Liu"
+    ],
+    "publication_date": "2024-09-24",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "6e2ad471261fac30b8089e4f830330057a4290b0",
+    "corpus_id": 272832326,
+    "category": "Computer Science"
+  },
+  "2409-12514": {
+    "title": "TinyVLA: Toward Fast, Data-Efficient Vision-Language-Action Models for Robotic Manipulation",
+    "authors": [
+      "Junjie Wen",
+      "Yichen Zhu",
+      "Jinming Li",
+      "Minjie Zhu",
+      "Zhibin Tang",
+      "Kun Wu",
+      "Zhiyuan Xu",
+      "Ning Liu",
+      "Ran Cheng",
+      "Chaomin Shen",
+      "Yaxin Peng",
+      "Feifei Feng",
+      "Jian Tang"
+    ],
+    "publication_date": "2024-09-19",
+    "venue": "IEEE Robotics and Automation Letters",
+    "semantic_scholar_id": "dc62bc6536e9e3ad80242f10f44c046e4c7bd3d1",
+    "corpus_id": 272753287,
+    "category": "Computer Science"
+  },
+  "2409-12894": {
+    "title": "VLATest: Testing and Evaluating Vision-Language-Action Models for Robotic Manipulation",
+    "authors": [
+      "Zhijie Wang",
+      "Zhehua Zhou",
+      "Jiayang Song",
+      "Yuheng Huang",
+      "Zhan Shu",
+      "Lei Ma"
+    ],
+    "publication_date": "2024-09-19",
+    "venue": "Proc. ACM Softw. Eng.",
+    "semantic_scholar_id": "30e367111df60806f7371c5a536cfd936aaa9ff8",
+    "corpus_id": 272753667,
+    "category": "Computer Science"
+  },
+  "2408-03539": {
+    "title": "Deep Reinforcement Learning for Robotics: A Survey of Real-World Successes",
+    "authors": [
+      "Chen Tang",
+      "Ben Abbatematteo",
+      "Jiaheng Hu",
+      "Rohan Chandra",
+      "Roberto Mart'in-Mart'in",
+      "Peter Stone"
+    ],
+    "publication_date": "2024-08-07",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "4f5aa34d2e6758f78dc4a731cc2eed26f83de3b4",
+    "corpus_id": 271745346,
+    "category": "Computer Science"
+  },
+  "2407-07775": {
+    "title": "Mobility VLA: Multimodal Instruction Navigation with Long-Context VLMs and Topological Graphs",
+    "authors": [
+      "Hao-Tien Lewis Chiang",
+      "Zhuo Xu",
+      "Zipeng Fu",
+      "M. Jacob",
+      "Tingnan Zhang",
+      "T. Lee",
+      "Wenhao Yu",
+      "Connor Schenck",
+      "David Rendleman",
+      "Dhruv Shah",
+      "Fei Xia",
+      "Jasmine Hsu",
+      "Jonathan Hoech",
+      "Pete Florence",
+      "Sean Kirmani",
+      "Sumeet Singh",
+      "Vikas Sindhwani",
+      "Carolina Parada",
+      "Chelsea Finn",
+      "Peng Xu",
+      "Sergey Levine",
+      "Jie Tan"
+    ],
+    "publication_date": "2024-07-10",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "a2fbc4fe97377674be4b735157c31554e0d5d639",
+    "corpus_id": 271088623,
+    "category": "Computer Science"
+  },
+  "2407-02539": {
+    "title": "Research on Autonomous Robots Navigation based on Reinforcement Learning",
+    "authors": [
+      "Zixiang Wang",
+      "Hao Yan",
+      "Yining Wang",
+      "Zhengjia Xu",
+      "Zhuoyue Wang",
+      "Zhizhong Wu"
+    ],
+    "publication_date": "2024-07-02",
+    "venue": "2024 3rd International Conference on Robotics, Artificial Intelligence and Intelligent Control (RAIIC)",
+    "semantic_scholar_id": "72ba250e7ea9f8b3ea19d22dd90a64a106faaccf",
+    "corpus_id": 270924379,
+    "category": "Computer Science, Mathematics"
+  },
+  "2406-20095": {
+    "title": "LLaRA: Supercharging Robot Learning Data for Vision-Language Policy",
+    "authors": [
+      "Xiang Li",
+      "Cristina Mata",
+      "Jong Sung Park",
+      "Kumara Kahatapitiya",
+      "Yoo Sung Jang",
+      "Jinghuan Shang",
+      "Kanchana Ranasinghe",
+      "R. Burgert",
+      "Mu Cai",
+      "Yong Jae Lee",
+      "M. Ryoo"
+    ],
+    "publication_date": "2024-06-28",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "113623b0bfffa1b00650d2b42236a8a1a05ceeae",
+    "corpus_id": 270845794,
+    "category": "Computer Science"
+  },
+  "2406-09246": {
+    "title": "OpenVLA: An Open-Source Vision-Language-Action Model",
+    "authors": [
+      "Moo Jin Kim",
+      "Karl Pertsch",
+      "Siddharth Karamcheti",
+      "Ted Xiao",
+      "A. Balakrishna",
+      "Suraj Nair",
+      "Rafael Rafailov",
+      "E. Foster",
+      "Grace Lam",
+      "Pannag R. Sanketi",
+      "Quan Vuong",
+      "Thomas Kollar",
+      "Benjamin Burchfiel",
+      "Russ Tedrake",
+      "Dorsa Sadigh",
+      "Sergey Levine",
+      "Percy Liang",
+      "Chelsea Finn"
+    ],
+    "publication_date": "2024-06-13",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "8f9ceb5ffad8e7a066dfc9d9aaa5153b714740ee",
+    "corpus_id": 270440391,
+    "category": "Computer Science"
+  },
+  "2406-05857": {
+    "title": "Self-Supervised Adversarial Training of Monocular Depth Estimation Against Physical-World Attacks",
+    "authors": [
+      "Zhiyuan Cheng",
+      "Cheng Han",
+      "J. Liang",
+      "Qifan Wang",
+      "Xiangyu Zhang",
+      "Dongfang Liu"
+    ],
+    "publication_date": "2024-06-09",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "974a7fd1d23df1a8bd5d1a98b03291f471194988",
+    "corpus_id": 270371851,
+    "category": "Computer Science, Medicine"
+  },
+  "2405-12213": {
+    "title": "Octo: An Open-Source Generalist Robot Policy",
+    "authors": [
+      "Octo Model Team",
+      "Dibya Ghosh",
+      "H. Walke",
+      "Karl Pertsch",
+      "Kevin Black",
+      "Oier Mees",
+      "Sudeep Dasari",
+      "Joey Hejna",
+      "Tobias Kreiman",
+      "Charles Xu",
+      "Jianlan Luo",
+      "You Liang Tan",
+      "Pannag R. Sanketi",
+      "Quan Vuong",
+      "Ted Xiao",
+      "Dorsa Sadigh",
+      "Chelsea Finn",
+      "Sergey Levine"
+    ],
+    "publication_date": "2024-05-20",
+    "venue": "Robotics: Science and Systems",
+    "semantic_scholar_id": "1d2753d74025e7a71594506623be81f18b073adb",
+    "corpus_id": 266379116,
+    "category": "Computer Science"
+  },
+  "2402-11690": {
+    "title": "Vision-Flan: Scaling Human-Labeled Tasks in Visual Instruction Tuning",
+    "authors": [
+      "Zhiyang Xu",
+      "Chao Feng",
+      "Rulin Shao",
+      "Trevor Ashby",
+      "Ying Shen",
+      "dingnan jin",
+      "Yu Cheng",
+      "Qifan Wang",
+      "Lifu Huang"
+    ],
+    "publication_date": "2024-02-18",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "f4da79c8b9e708ff46ead6e35c7c6ca125218acb",
+    "corpus_id": 267750488,
+    "category": "Computer Science"
+  },
+  "2402-07865": {
+    "title": "Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models",
+    "authors": [
+      "Siddharth Karamcheti",
+      "Suraj Nair",
+      "A. Balakrishna",
+      "Percy Liang",
+      "Thomas Kollar",
+      "Dorsa Sadigh"
+    ],
+    "publication_date": "2024-02-12",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "f86f71cfd2e9682a56d7334736a7b8a0b1c70b45",
+    "corpus_id": 267627175,
+    "category": "Computer Science"
+  },
+  "2401-04925": {
+    "title": "The Impact of Reasoning Step Length on Large Language Models",
+    "authors": [
+      "Mingyu Jin",
+      "Qinkai Yu",
+      "Dong Shu",
+      "Haiyan Zhao",
+      "Wenyue Hua",
+      "Yanda Meng",
+      "Yongfeng Zhang",
+      "Mengnan Du"
+    ],
+    "publication_date": "2024-01-10",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "40c0d1f38ab081e21cc3b1e2e5334a9b54b6ff08",
+    "corpus_id": 266902900,
+    "category": "Computer Science"
+  },
+  "2312-14457": {
+    "title": "QUAR-VLA: Vision-Language-Action Model for Quadruped Robots",
+    "authors": [
+      "Pengxiang Ding",
+      "Han Zhao",
+      "Zhitao Wang",
+      "Zhenyu Wei",
+      "Shangke Lyu",
+      "Donglin Wang"
+    ],
+    "publication_date": "2023-12-22",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "c0b3a44ff6b482a073138eb243da9b762eb1cd1f",
+    "corpus_id": 266520894,
+    "category": "Computer Science"
+  },
+  "2311-12871": {
+    "title": "An Embodied Generalist Agent in 3D World",
+    "authors": [
+      "Jiangyong Huang",
+      "Silong Yong",
+      "Xiaojian Ma",
+      "Xiongkun Linghu",
+      "Puhao Li",
+      "Yan Wang",
+      "Qing Li",
+      "Song-Chun Zhu",
+      "Baoxiong Jia",
+      "Siyuan Huang"
+    ],
+    "publication_date": "2023-11-18",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "13d12b26db345f62e8e512db181b96a7f8763b47",
+    "corpus_id": 265351495,
+    "category": "Computer Science"
+  },
+  "2311-01378": {
+    "title": "Vision-Language Foundation Models as Effective Robot Imitators",
+    "authors": [
+      "Xinghang Li",
+      "Minghuan Liu",
+      "Hanbo Zhang",
+      "Cunjun Yu",
+      "Jie Xu",
+      "Hongtao Wu",
+      "Chi-Hou Cheang",
+      "Ya Jing",
+      "Weinan Zhang",
+      "Huaping Liu",
+      "Hang Li",
+      "Tao Kong"
+    ],
+    "publication_date": "2023-11-02",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "857efca0d4cbece97da4b904de1d506c2af25f9c",
+    "corpus_id": 264935429,
+    "category": "Computer Science"
+  },
+  "2311-00987": {
+    "title": "Collaborative Multi-task Learning for Multi-Object Tracking and Segmentation",
+    "authors": [
+      "Yiming Cui",
+      "Cheng Han",
+      "Dongfang Liu"
+    ],
+    "publication_date": "2023-11-02",
+    "venue": "ACM Journal on Autonomous Transportation Systems",
+    "semantic_scholar_id": "3af3302f61e8f0266d6a596ccbe5b524b57827f8",
+    "corpus_id": 264935125,
+    "category": "Computer Science"
+  },
+  "2310-09199": {
+    "title": "PaLI-3 Vision Language Models: Smaller, Faster, Stronger",
+    "authors": [
+      "Xi Chen",
+      "Xiao Wang",
+      "Lucas Beyer",
+      "Alexander Kolesnikov",
+      "Jialin Wu",
+      "P. Voigtlaender",
+      "Basil Mustafa",
+      "Sebastian Goodman",
+      "Ibrahim M. Alabdulmohsin",
+      "Piotr Padlewski",
+      "Daniel M. Salz",
+      "Xi Xiong",
+      "Daniel Vlasic",
+      "Filip Pavetic",
+      "Keran Rong",
+      "Tianli Yu",
+      "Daniel Keysers",
+      "Xiao-Qi Zhai",
+      "Radu Soricut"
+    ],
+    "publication_date": "2023-10-13",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "68e0e789b5147b1e7d028c7a825650075f4e26bf",
+    "corpus_id": 264128285,
+    "category": "Computer Science"
+  },
+  "2310-03744": {
+    "title": "Improved Baselines with Visual Instruction Tuning",
+    "authors": [
+      "Haotian Liu",
+      "Chunyuan Li",
+      "Yuheng Li",
+      "Yong Jae Lee"
+    ],
+    "publication_date": "2023-10-05",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "124d4d374fbef2016fa9880489871a58a7450644",
+    "corpus_id": 263672058,
+    "category": "Computer Science"
+  },
+  "2308-12952": {
+    "title": "BridgeData V2: A Dataset for Robot Learning at Scale",
+    "authors": [
+      "H. Walke",
+      "Kevin Black",
+      "Abraham Lee",
+      "Moo Jin Kim",
+      "Maximilian Du",
+      "Chongyi Zheng",
+      "Tony Zhao",
+      "Philippe Hansen-Estruch",
+      "Q. Vuong",
+      "Andre Wang He",
+      "Vivek Myers",
+      "Kuan Fang",
+      "Chelsea Finn",
+      "S. Levine"
+    ],
+    "publication_date": "2023-08-24",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "6a375be82efc01ec4ed73334655935a56ba82d38",
+    "corpus_id": 261100981,
+    "category": "Computer Science"
+  },
+  "2307-15818": {
+    "title": "RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control",
+    "authors": [
+      "Anthony Brohan",
+      "Noah Brown",
+      "Justice Carbajal",
+      "Yevgen Chebotar",
+      "K. Choromanski",
+      "Tianli Ding",
+      "Danny Driess",
+      "Kumar Avinava Dubey",
+      "Chelsea Finn",
+      "Peter R. Florence",
+      "Chuyuan Fu",
+      "Montse Gonzalez Arenas",
+      "K. Gopalakrishnan",
+      "Kehang Han",
+      "Karol Hausman",
+      "Alexander Herzog",
+      "Jasmine Hsu",
+      "Brian Ichter",
+      "A. Irpan",
+      "Nikhil J. Joshi",
+      "Ryan C. Julian",
+      "Dmitry Kalashnikov",
+      "Yuheng Kuang",
+      "Isabel Leal",
+      "S. Levine",
+      "H. Michalewski",
+      "Igor Mordatch",
+      "Karl Pertsch",
+      "Kanishka Rao",
+      "Krista Reymann",
+      "M. Ryoo",
+      "Grecia Salazar",
+      "Pannag R. Sanketi",
+      "P. Sermanet",
+      "Jaspiar Singh",
+      "Anikait Singh",
+      "Radu Soricut",
+      "Huong Tran",
+      "Vincent Vanhoucke",
+      "Q. Vuong",
+      "Ayzaan Wahid",
+      "Stefan Welker",
+      "Paul Wohlhart",
+      "Ted Xiao",
+      "Tianhe Yu",
+      "Brianna Zitkovich"
+    ],
+    "publication_date": "2023-07-28",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "38939304bb760473141c2aca0305e44fbe04e6e8",
+    "corpus_id": 260293142,
+    "category": "Computer Science"
+  },
+  "2307-05973": {
+    "title": "VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models",
+    "authors": [
+      "Wenlong Huang",
+      "Chen Wang",
+      "Ruohan Zhang",
+      "Yunzhu Li",
+      "Jiajun Wu",
+      "Li Fei-Fei"
+    ],
+    "publication_date": "2023-07-12",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "1cd8373490efc2d74c2796f4b2aa27c7d4415ec9",
+    "corpus_id": 259837330,
+    "category": "Computer Science"
+  },
+  "2307-04087": {
+    "title": "SVIT: Scaling up Visual Instruction Tuning",
+    "authors": [
+      "Bo Zhao",
+      "Boya Wu",
+      "Tiejun Huang"
+    ],
+    "publication_date": "2023-07-09",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "451a3f03aca4aa87b93981364842137417549e58",
+    "corpus_id": 259501644,
+    "category": "Computer Science"
+  },
+  "2306-13213": {
+    "title": "Visual Adversarial Examples Jailbreak Aligned Large Language Models",
+    "authors": [
+      "Xiangyu Qi",
+      "Kaixuan Huang",
+      "Ashwinee Panda",
+      "Mengdi Wang",
+      "Prateek Mittal"
+    ],
+    "publication_date": "2023-06-22",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "142e934dd5d6c53f877c30243d436255e3a0dde7",
+    "corpus_id": 259244034,
+    "category": "Computer Science"
+  },
+  "2306-03310": {
+    "title": "LIBERO: Benchmarking Knowledge Transfer for Lifelong Robot Learning",
+    "authors": [
+      "Bo Liu",
+      "Yifeng Zhu",
+      "Chongkai Gao",
+      "Yihao Feng",
+      "Qian Liu",
+      "Yuke Zhu",
+      "Peter Stone"
+    ],
+    "publication_date": "2023-06-05",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "98cfd7b1b29453c4e82536f5afdc6ddc58bbb1b3",
+    "corpus_id": 259089508,
+    "category": "Computer Science"
+  },
+  "2304-08485": {
+    "title": "Visual Instruction Tuning",
+    "authors": [
+      "Haotian Liu",
+      "Chunyuan Li",
+      "Qingyang Wu",
+      "Yong Jae Lee"
+    ],
+    "publication_date": "2023-04-17",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "a5036f31f0e629dc661f120b8c3b1f374d479ab8",
+    "corpus_id": 258179774,
+    "category": "Computer Science"
+  },
+  "2212-06817": {
+    "title": "RT-1: Robotics Transformer for Real-World Control at Scale",
+    "authors": [
+      "Anthony Brohan",
+      "Noah Brown",
+      "Justice Carbajal",
+      "Yevgen Chebotar",
+      "Joseph Dabis",
+      "Chelsea Finn",
+      "K. Gopalakrishnan",
+      "Karol Hausman",
+      "Alexander Herzog",
+      "Jasmine Hsu",
+      "Julian Ibarz",
+      "Brian Ichter",
+      "A. Irpan",
+      "Tomas Jackson",
+      "Sally Jesmonth",
+      "Nikhil J. Joshi",
+      "Ryan C. Julian",
+      "Dmitry Kalashnikov",
+      "Yuheng Kuang",
+      "Isabel Leal",
+      "Kuang-Huei Lee",
+      "S. Levine",
+      "Yao Lu",
+      "U. Malla",
+      "D. Manjunath",
+      "Igor Mordatch",
+      "Ofir Nachum",
+      "Carolina Parada",
+      "Jodilyn Peralta",
+      "Emily Perez",
+      "Karl Pertsch",
+      "Jornell Quiambao",
+      "Kanishka Rao",
+      "M. Ryoo",
+      "Grecia Salazar",
+      "Pannag R. Sanketi",
+      "Kevin Sayed",
+      "Jaspiar Singh",
+      "S. Sontakke",
+      "Austin Stone",
+      "Clayton Tan",
+      "Huong Tran",
+      "Vincent Vanhoucke",
+      "Steve Vega",
+      "Q. Vuong",
+      "F. Xia",
+      "Ted Xiao",
+      "Peng Xu",
+      "Sichun Xu",
+      "Tianhe Yu",
+      "Brianna Zitkovich"
+    ],
+    "publication_date": "2022-12-13",
+    "venue": "Robotics: Science and Systems",
+    "semantic_scholar_id": "fd1cf28a2b8caf2fe29af5e7fa9191cecfedf84d",
+    "corpus_id": 254591260,
+    "category": "Computer Science"
+  },
+  "2210-03094": {
+    "title": "VIMA: General Robot Manipulation with Multimodal Prompts",
+    "authors": [
+      "Yunfan Jiang",
+      "Agrim Gupta",
+      "Zichen Zhang",
+      "Guanzhi Wang",
+      "Yongqiang Dou",
+      "Yanjun Chen",
+      "Li Fei-Fei",
+      "Anima Anandkumar",
+      "Yuke Zhu",
+      "Linxi (Jim) Fan"
+    ],
+    "publication_date": "2022-10-06",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "25425e299101b13ec2872417a14f961f4f8aa18e",
+    "corpus_id": 252735175,
+    "category": "Computer Science"
+  },
+  "2204-06252": {
+    "title": "What Matters in Language Conditioned Robotic Imitation Learning Over Unstructured Data",
+    "authors": [
+      "Oier Mees",
+      "Lukás Hermann",
+      "Wolfram Burgard"
+    ],
+    "publication_date": "2022-04-13",
+    "venue": "IEEE Robotics and Automation Letters",
+    "semantic_scholar_id": "15ac70d077bb735eed4a8502ce49aa7782c803fd",
+    "corpus_id": 248157295,
+    "category": "Computer Science"
+  },
+  "2108-11765": {
+    "title": "Physical Adversarial Attacks on an Aerial Imagery Object Detector",
+    "authors": [
+      "Andrew Du",
+      "Bo Chen",
+      "Tat-Jun Chin",
+      "Yee Wei Law",
+      "M. Sasdelli",
+      "Ramesh Rajasegaran",
+      "Dillon Campbell"
+    ],
+    "publication_date": "2021-08-26",
+    "venue": "IEEE Workshop/Winter Conference on Applications of Computer Vision",
+    "semantic_scholar_id": "3691a2dff8a31e84b7030e509ac559c78a846244",
+    "corpus_id": 237304027,
+    "category": "Computer Science"
+  },
+  "2107-11630": {
+    "title": "Detecting Adversarial Examples Is (Nearly) As Hard As Classifying Them",
+    "authors": [
+      "Florian Tramèr"
+    ],
+    "publication_date": "2021-07-24",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "e13987137c89d3d2261ea2fdc4a4d175c6474c40",
+    "corpus_id": 236429082,
+    "category": "Computer Science, Mathematics"
+  },
+  "2104-07282": {
+    "title": "Rule-Based Reinforcement Learning for Efficient Robot Navigation With Space Reduction",
+    "authors": [
+      "Yuanyang Zhu",
+      "Zhi Wang",
+      "Chunlin Chen",
+      "D. Dong"
+    ],
+    "publication_date": "2021-04-15",
+    "venue": "IEEE/ASME transactions on mechatronics",
+    "semantic_scholar_id": "6e069c026acd581e267630e43499a2f3908824c4",
+    "corpus_id": 233241056,
+    "category": "Computer Science"
+  },
+  "2002-08347": {
+    "title": "On Adaptive Attacks to Adversarial Example Defenses",
+    "authors": [
+      "Florian Tramèr",
+      "Nicholas Carlini",
+      "Wieland Brendel",
+      "A. Ma̧dry"
+    ],
+    "publication_date": "2020-02-19",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "58c143069444c7dff4be53531a47efefc40be497",
+    "corpus_id": 211171611,
+    "category": "Computer Science, Mathematics"
+  },
+  "1912-01703": {
+    "title": "PyTorch: An Imperative Style, High-Performance Deep Learning Library",
+    "authors": [
+      "Adam Paszke",
+      "Sam Gross",
+      "Francisco Massa",
+      "Adam Lerer",
+      "James Bradbury",
+      "Gregory Chanan",
+      "Trevor Killeen",
+      "Zeming Lin",
+      "N. Gimelshein",
+      "L. Antiga",
+      "Alban Desmaison",
+      "Andreas Köpf",
+      "E. Yang",
+      "Zachary DeVito",
+      "Martin Raison",
+      "Alykhan Tejani",
+      "Sasank Chilamkurthy",
+      "Benoit Steiner",
+      "Lu Fang",
+      "Junjie Bai",
+      "Soumith Chintala"
+    ],
+    "publication_date": "2019-12-03",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "3c8a456509e6c0805354bd40a35e3f2dbf8069b1",
+    "corpus_id": 202786778,
+    "category": "Computer Science, Mathematics"
+  },
+  "1908-09327": {
+    "title": "advPattern: Physical-World Attacks on Deep Person Re-Identification via Adversarially Transformable Patterns",
+    "authors": [
+      "Zhibo Wang",
+      "Siyan Zheng",
+      "Mengkai Song",
+      "Qian Wang",
+      "Alireza Rahimpour",
+      "H. Qi"
+    ],
+    "publication_date": "2019-08-25",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "9928273360ae8dbefa6a16b618394da1932a6d0c",
+    "corpus_id": 201650275,
+    "category": "Computer Science"
+  },
+  "1907-03146": {
+    "title": "A Review of Robot Learning for Manipulation: Challenges, Representations, and Algorithms",
+    "authors": [
+      "Oliver Kroemer",
+      "S. Niekum",
+      "G. Konidaris"
+    ],
+    "publication_date": "2019-07-06",
+    "venue": "Journal of machine learning research",
+    "semantic_scholar_id": "f33ae3a6f47ff3897a7ff12c6a0bacec2223d6d6",
+    "corpus_id": 195833499,
+    "category": "Computer Science"
+  },
+  "1903-10586": {
+    "title": "Defending against Whitebox Adversarial Attacks via Randomized Discretization",
+    "authors": [
+      "Yuchen Zhang",
+      "Percy Liang"
+    ],
+    "publication_date": "2019-03-25",
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "semantic_scholar_id": "9212e9433607d3b09dadaa466006052a3279f457",
+    "corpus_id": 85518376,
+    "category": "Computer Science, Mathematics"
+  },
+  "1903-03698": {
+    "title": "Skew-Fit: State-Covering Self-Supervised Reinforcement Learning",
+    "authors": [
+      "Vitchyr H. Pong",
+      "Murtaza Dalal",
+      "Steven Lin",
+      "Ashvin Nair",
+      "Shikhar Bahl",
+      "S. Levine"
+    ],
+    "publication_date": "2019-03-08",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "7388826b5ee00efe17cb7f19a623d9b5e955ae70",
+    "corpus_id": 73728904,
+    "category": "Computer Science, Mathematics"
+  },
+  "1810-03237": {
+    "title": "Task-Embedded Control Networks for Few-Shot Imitation Learning",
+    "authors": [
+      "Stephen James",
+      "Michael Bloesch",
+      "A. Davison"
+    ],
+    "publication_date": "2018-10-08",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "7d85e83ae00f2d19b3cdb01f5feeb92a2102104f",
+    "corpus_id": 52942444,
+    "category": "Computer Science, Engineering"
+  },
+  "1802-00420": {
+    "title": "Obfuscated Gradients Give a False Sense of Security: Circumventing Defenses to Adversarial Examples",
+    "authors": [
+      "Anish Athalye",
+      "Nicholas Carlini",
+      "D. Wagner"
+    ],
+    "publication_date": "2018-02-01",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "651adaa058f821a890f2c5d1053d69eb481a8352",
+    "corpus_id": 3310672,
+    "category": "Computer Science, Mathematics"
+  },
+  "1712-09665": {
+    "title": "Adversarial Patch",
+    "authors": [
+      "Tom B. Brown",
+      "Dandelion Mané",
+      "Aurko Roy",
+      "Martín Abadi",
+      "J. Gilmer"
+    ],
+    "publication_date": "2017-12-27",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "e3b17a245dce9a2189a8a4f7538631b69c93812e",
+    "corpus_id": 13198654,
+    "category": "Computer Science"
+  },
+  "1710-08864": {
+    "title": "One Pixel Attack for Fooling Deep Neural Networks",
+    "authors": [
+      "Jiawei Su",
+      "Danilo Vasconcellos Vargas",
+      "K. Sakurai"
+    ],
+    "publication_date": "2017-10-24",
+    "venue": "IEEE Transactions on Evolutionary Computation",
+    "semantic_scholar_id": "a6f835ca6e12245a835ab6074bc6ec2c3c60b85a",
+    "corpus_id": 2698863,
+    "category": "Computer Science, Mathematics"
+  },
+  "1709-04905": {
+    "title": "One-Shot Visual Imitation Learning via Meta-Learning",
+    "authors": [
+      "Chelsea Finn",
+      "Tianhe Yu",
+      "Tianhao Zhang",
+      "P. Abbeel",
+      "S. Levine"
+    ],
+    "publication_date": "2017-09-14",
+    "venue": "Conference on Robot Learning",
+    "semantic_scholar_id": "482c0cbfffa77154e3c879c497f50b605297d5bc",
+    "corpus_id": 22221787,
+    "category": "Computer Science, Mathematics"
+  },
+  "1706-06083": {
+    "title": "Towards Deep Learning Models Resistant to Adversarial Attacks",
+    "authors": [
+      "A. Ma̧dry",
+      "Aleksandar Makelov",
+      "Ludwig Schmidt",
+      "Dimitris Tsipras",
+      "Adrian Vladu"
+    ],
+    "publication_date": "2017-06-19",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "7aa38b85fa8cba64d6a4010543f6695dbf5f1386",
+    "corpus_id": 3488815,
+    "category": "Computer Science, Mathematics"
+  },
+  "1705-07263": {
+    "title": "Adversarial Examples Are Not Easily Detected: Bypassing Ten Detection Methods",
+    "authors": [
+      "Nicholas Carlini",
+      "D. Wagner"
+    ],
+    "publication_date": "2017-05-20",
+    "venue": "AISec@CCS",
+    "semantic_scholar_id": "99cb08c76c120599abd1d1637e32aaf577f38d39",
+    "corpus_id": 207599948,
+    "category": "Computer Science, Mathematics"
+  },
+  "1704-01155": {
+    "title": "Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks",
+    "authors": [
+      "Weilin Xu",
+      "David Evans",
+      "Yanjun Qi"
+    ],
+    "publication_date": "2017-04-04",
+    "venue": "Network and Distributed System Security Symposium",
+    "semantic_scholar_id": "9fec45e1ff97ffb0e0cf9f039e39b46043430301",
+    "corpus_id": 3851184,
+    "category": "Computer Science"
+  },
+  "1608-00853": {
+    "title": "A study of the effect of JPG compression on adversarial images",
+    "authors": [
+      "G. Dziugaite",
+      "Zoubin Ghahramani",
+      "Daniel M. Roy"
+    ],
+    "publication_date": "2016-08-02",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "c00f744f103a528f5b45bf0482f54b5e6a9f7740",
+    "corpus_id": 12189906,
+    "category": "Computer Science"
+  },
+  "1603-02199": {
+    "title": "Learning hand-eye coordination for robotic grasping with deep learning and large-scale data collection",
+    "authors": [
+      "S. Levine",
+      "P. Pastor",
+      "A. Krizhevsky",
+      "Deirdre Quillen"
+    ],
+    "publication_date": "2016-03-07",
+    "venue": "Int. J. Robotics Res.",
+    "semantic_scholar_id": "494e2d5b40dcebde349f9872c7317e5003f9c5d2",
+    "corpus_id": 13072941,
+    "category": "Computer Science, Mathematics"
+  },
+  "1509-06825": {
+    "title": "Supersizing self-supervision: Learning to grasp from 50K tries and 700 robot hours",
+    "authors": [
+      "Lerrel Pinto",
+      "A. Gupta"
+    ],
+    "publication_date": "2015-09-23",
+    "venue": "IEEE International Conference on Robotics and Automation",
+    "semantic_scholar_id": "f03b4ff1b4943691cec703b508c0a91f2d97a881",
+    "corpus_id": 3177253,
+    "category": "Computer Science"
+  },
+  "1412-6572": {
+    "title": "Explaining and Harnessing Adversarial Examples",
+    "authors": [
+      "I. Goodfellow",
+      "Jonathon Shlens",
+      "Christian Szegedy"
+    ],
+    "publication_date": "2014-12-19",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "bee044c8e8903fb67523c1f8c105ab4718600cdb",
+    "corpus_id": 6706414,
+    "category": "Computer Science, Mathematics"
+  },
+  "1312-6199": {
+    "title": "Intriguing properties of neural networks",
+    "authors": [
+      "Christian Szegedy",
+      "Wojciech Zaremba",
+      "I. Sutskever",
+      "Joan Bruna",
+      "D. Erhan",
+      "I. Goodfellow",
+      "R. Fergus"
+    ],
+    "publication_date": "2013-12-20",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "d891dc72cbd40ffaeefdc79f2e7afe1e530a23ad",
+    "corpus_id": 604334,
+    "category": "Computer Science"
+  }
+}

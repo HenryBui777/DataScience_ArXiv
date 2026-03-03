@@ -1,0 +1,15 @@
+{
+  "title": "Mixing Neural Networks and Exponential Moving Averages for Predicting Wireless Links Behavior",
+  "authors": [
+    "Gabriele Formis",
+    "Stefano Scanzio",
+    "Lukasz Wisniewski",
+    "Gianluca Cena"
+  ],
+  "summary": "Predicting the behavior of a wireless link in terms of, e.g., the frame delivery ratio, is a critical task for optimizing the performance of wireless industrial communication systems. This is because industrial applications are typically characterized by stringent dependability and end-to-end latency requirements, which are adversely affected by channel quality degradation.\n  In this work, we studied two neural network models for Wi-Fi link quality prediction in dense indoor environments. Experimental results show that their accuracy outperforms conventional methods based on exponential moving averages, due to their ability to capture complex patterns about communications, including the effects of shadowing and multipath propagation, which are particularly pronounced in industrial scenarios. This highlights the potential of neural networks for predicting spectrum behavior in challenging operating conditions, and suggests that they can be exploited to improve determinism and dependability of wireless communications, fostering their adoption in the industry.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "IEEE 7th International Conference on Industrial Cyber-Physical Systems (ICPS 2024)",
+  "pdf_url": null,
+  "category": "cs.NI, cs.LG"
+}

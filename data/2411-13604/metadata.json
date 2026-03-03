@@ -1,0 +1,14 @@
+{
+  "title": "RadPhi-3: Small Language Models for Radiology",
+  "authors": [
+    "Mercy Ranjit",
+    "Shaury Srivastav",
+    "Tanuja Ganu"
+  ],
+  "summary": "LLM based copilot assistants are useful in everyday tasks. There is a proliferation in the exploration of AI assistant use cases to support radiology workflows in a reliable manner. In this work, we present RadPhi-3, a Small Language Model instruction tuned from Phi-3-mini-4k-instruct with 3.8B parameters to assist with various tasks in radiology workflows. While impression summary generation has been the primary task which has been explored in prior works w.r.t radiology reports of Chest X-rays, we also explore other useful tasks like change summary generation comparing the current radiology report and its prior report, section extraction from radiology reports, tagging the reports with various pathologies and tubes, lines or devices present in them etc. In-addition, instruction tuning RadPhi-3 involved learning from a credible knowledge source used by radiologists, Radiopaedia.org. RadPhi-3 can be used both to give reliable answers for radiology related queries as well as perform useful tasks related to radiology reports. RadPhi-3 achieves SOTA results on the RaLEs radiology report generation benchmark.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.CL, cs.LG"
+}

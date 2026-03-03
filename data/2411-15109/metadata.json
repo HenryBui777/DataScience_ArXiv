@@ -1,0 +1,14 @@
+{
+  "title": "Effective Littlestone Dimension",
+  "authors": [
+    "Valentino Delle Rose",
+    "Alexander Kozachinskiy",
+    "Tomasz Steifer"
+  ],
+  "summary": "Delle Rose et al.~(COLT'23) introduced an effective version of the Vapnik-Chervonenkis dimension, and showed that it characterizes improper PAC learning with total computable learners. In this paper, we introduce and study a similar effectivization of the notion of Littlestone dimension. Finite effective Littlestone dimension is a necessary condition for computable online learning but is not a sufficient one -- which we already establish for classes of the effective Littlestone dimension 2. However, the effective Littlestone dimension equals the optimal mistake bound for computable learners in two special cases: a) for classes of Littlestone dimension 1 and b) when the learner receives as additional information an upper bound on the numbers to be guessed. Interestingly, finite effective Littlestone dimension also guarantees that the class consists only of computable functions.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.LO"
+}

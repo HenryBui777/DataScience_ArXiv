@@ -1,0 +1,16 @@
+{
+  "title": "The ADUULM-360 Dataset -- A Multi-Modal Dataset for Depth Estimation in Adverse Weather",
+  "authors": [
+    "Markus Schön",
+    "Jona Ruof",
+    "Thomas Wodtko",
+    "Michael Buchholz",
+    "Klaus Dietmayer"
+  ],
+  "summary": "Depth estimation is an essential task toward full scene understanding since it allows the projection of rich semantic information captured by cameras into 3D space. While the field has gained much attention recently, datasets for depth estimation lack scene diversity or sensor modalities. This work presents the ADUULM-360 dataset, a novel multi-modal dataset for depth estimation. The ADUULM-360 dataset covers all established autonomous driving sensor modalities, cameras, lidars, and radars. It covers a frontal-facing stereo setup, six surround cameras covering the full 360-degree, two high-resolution long-range lidar sensors, and five long-range radar sensors. It is also the first depth estimation dataset that contains diverse scenes in good and adverse weather conditions. We conduct extensive experiments using state-of-the-art self-supervised depth estimation methods under different training tasks, such as monocular training, stereo training, and full surround training. Discussing these results, we demonstrate common limitations of state-of-the-art methods, especially in adverse weather conditions, which hopefully will inspire future research in this area. Our dataset, development kit, and trained baselines are available at https://github.com/uulm-mrm/aduulm_360_dataset.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

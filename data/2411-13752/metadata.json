@@ -1,0 +1,12 @@
+{
+  "title": "Coarse-Grained Simulation Model for Crystalline Polymer Solids by using Breakable Bonds",
+  "authors": [
+    "Takashi Uneyama"
+  ],
+  "summary": "We propose a highly coarse-grained simulation model for crystalline polymer solids with crystalline lamellar structures. The mechanical properties of a crystalline polymer solid are mainly determined by the crystalline lamellar structures. This means that coarse-grained models rather than fine-scale molecular models are suitable to study mechanical properties. We model a crystalline polymer solid by using highly coarse-grained particles, of which size is comparable to the crystalline layer thickness. One coarse-grained particle consists of multiple subchains, and is much larger than monomers. Coarse-grained particles are connected by bonds to form a network structure. Particles are connected by soft but ductile bonds, to form a rubber-like network. Particles in the crystalline region are connected by hard but brittle bonds. Brittle bonds are broken when large deformations are applied. We perform uniaxial elongation simulations based on our coarse-grained model. As the applied strain increases, crystalline layers are broken into pieces and non-affine and collective motions of broken pieces are observed. Our model can successfully reproduce yield behaviors which are similar to typical crystalline polymer solids.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "J. Phys. Chem. B 129, 506-523 (2025)",
+  "pdf_url": null,
+  "category": "cond-mat.soft"
+}

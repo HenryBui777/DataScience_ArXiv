@@ -1,0 +1,17 @@
+{
+  "title": "Controlling Diversity at Inference: Guiding Diffusion Recommender Models with Targeted Category Preferences",
+  "authors": [
+    "Gwangseok Han",
+    "Wonbin Kweon",
+    "Minsoo Kim",
+    "Hwanjo Yu"
+  ],
+  "summary": "Diversity control is an important task to alleviate bias amplification and filter bubble problems. The desired degree of diversity may fluctuate based on users' daily moods or business strategies. However, existing methods for controlling diversity often lack flexibility, as diversity is decided during training and cannot be easily modified during inference. We propose \\textbf{D3Rec} (\\underline{D}isentangled \\underline{D}iffusion model for \\underline{D}iversified \\underline{Rec}ommendation), an end-to-end method that controls the accuracy-diversity trade-off at inference. D3Rec meets our three desiderata by (1) generating recommendations based on category preferences, (2) controlling category preferences during the inference phase, and (3) adapting to arbitrary targeted category preferences. In the forward process, D3Rec removes category preferences lurking in user interactions by adding noises. Then, in the reverse process, D3Rec generates recommendations through denoising steps while reflecting desired category preferences. Extensive experiments on real-world and synthetic datasets validate the effectiveness of D3Rec in controlling diversity at inference.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-21"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IR"
+}

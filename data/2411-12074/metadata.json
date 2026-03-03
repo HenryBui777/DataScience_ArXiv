@@ -1,0 +1,14 @@
+{
+  "title": "Mitigating Gender Bias in Contextual Word Embeddings",
+  "authors": [
+    "Navya Yarrabelly",
+    "Vinay Damodaran",
+    "Feng-Guang Su"
+  ],
+  "summary": "Word embeddings have been shown to produce remarkable results in tackling a vast majority of NLP related tasks. Unfortunately, word embeddings also capture the stereotypical biases that are prevalent in society, affecting the predictive performance of the embeddings when used in downstream tasks. While various techniques have been proposed \\cite{bolukbasi2016man, zhao2018learning} and criticized\\cite{gonen2019lipstick} for static embeddings, very little work has focused on mitigating bias in contextual embeddings. In this paper, we propose a novel objective function for MLM(Masked-Language Modeling) which largely mitigates the gender bias in contextual embeddings and also preserves the performance for downstream tasks. Since previous works on measuring bias in contextual embeddings lack in normative reasoning, we also propose novel evaluation metrics that are straight-forward and aligned with our motivations in debiasing. We also propose new methods for debiasing static embeddings and provide empirical proof via extensive analysis and experiments, as to why the main source of bias in static embeddings stems from the presence of stereotypical names rather than gendered words themselves. All experiments and embeddings studied are in English, unless otherwise specified.\\citep{bender2011achieving}.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.LG"
+}

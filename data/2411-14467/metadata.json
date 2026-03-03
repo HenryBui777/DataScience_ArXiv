@@ -1,0 +1,16 @@
+{
+  "title": "Towards Scalable Insect Monitoring: Ultra-Lightweight CNNs as On-Device Triggers for Insect Camera Traps",
+  "authors": [
+    "Ross Gardiner",
+    "Sareh Rowands",
+    "Benno I. Simmons"
+  ],
+  "summary": "Camera traps, combined with AI, have emerged as a way to achieve automated, scalable biodiversity monitoring. However, the passive infrared (PIR) sensors that trigger camera traps are poorly suited for detecting small, fast-moving ectotherms such as insects. Insects comprise over half of all animal species and are key components of ecosystems and agriculture. The need for an appropriate and scalable insect camera trap is critical in the wake of concerning reports of declines in insect populations. This study proposes an alternative to the PIR trigger: ultra-lightweight convolutional neural networks running on low-powered hardware to detect insects in a continuous stream of captured images. We train a suite of models to distinguish insect images from backgrounds. Our design achieves zero latency between trigger and image capture. Our models are rigorously tested and achieve high accuracy ranging from 91.8% to 96.4% AUC on validation data and >87% AUC on data from distributions unseen during training. The high specificity of our models ensures minimal saving of false positive images, maximising deployment storage efficiency. High recall scores indicate a minimal false negative rate, maximising insect detection. Further analysis with saliency maps shows the learned representation of our models to be robust, with low reliance on spurious background features. Our system is also shown to operate deployed on off-the-shelf, low-powered microcontroller units, consuming a maximum power draw of less than 300mW. This enables longer deployment times using cheap and readily available battery components. Overall we offer a step change in the cost, efficiency and scope of insect monitoring. Solving the challenging trigger problem, we demonstrate a system which can be deployed for far longer than existing designs and budgets power and bandwidth effectively, moving towards a generic insect camera trap.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-02-17"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-bio.QM, cs.CV, cs.LG, eess.IV"
+}

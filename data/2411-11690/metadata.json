@@ -1,0 +1,12 @@
+{
+  "title": "Hamiltonian Monte Carlo vs. event-chain Monte Carlo: an appraisal of sampling strategies beyond the diffusive regime",
+  "authors": [
+    "Werner Krauth"
+  ],
+  "summary": "We discuss Hamiltonian Monte Carlo (HMC) and event-chain Monte Carlo (ECMC) for the one-dimensional chain of particles with harmonic interactions and benchmark them against local reversible Metropolis algorithms. While HMC achieves considerable speedup with respect to local reversible Monte Carlo algorithms, its autocorrelation functions of global observables such as the structure factor have slower scaling with system size than for ECMC, a lifted non-reversible Markov chain. This can be traced to the dependence of ECMC on a parameter of the harmonic energy, the equilibrium distance, which drops out when energy differences or gradients are evaluated. We review the recent literature and provide pseudocodes and Python programs. We finally discuss related models and generalizations beyond one-dimensional particle systems.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cond-mat.stat-mech"
+}

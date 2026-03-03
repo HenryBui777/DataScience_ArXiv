@@ -1,0 +1,19 @@
+{
+  "title": "Low loss lumped-element inductors made from granular aluminum",
+  "authors": [
+    "Vishakha Gupta",
+    "Patrick Winkel",
+    "Neel Thakur",
+    "Peter van Vlaanderen",
+    "Yanhao Wang",
+    "Suhas Ganjam",
+    "Luigi Frunzio",
+    "Robert J. Schoelkopf"
+  ],
+  "summary": "Lumped-element inductors are an integral component in the circuit QED toolbox. However, it is challenging to build inductors that are simultaneously compact, linear and low-loss with standard approaches that either rely on the geometric inductance of superconducting thin films or on the kinetic inductance of Josephson junctions arrays. In this work, we overcome this challenge by utilizing the high kinetic inductance offered by superconducting granular aluminum (grAl). We demonstrate lumped-element inductors with a few nH of inductance that are up to $100$ times more compact than inductors built from pure aluminum (Al). To characterize the properties of these linear inductors, we first report on the performance of lumped-element resonators built entirely out of grAl with sheet inductances varying from $30-320\\,$pH/sq and self-Kerr non-linearities of $0.2-20\\,\\mathrm{Hz/photon}$. Further, we demonstrate ex-situ integration of these grAl inductors into hybrid resonators with Al or tantalum (Ta) capacitor electrodes without increasing total internal losses. Interestingly, the measured internal quality factors systematically decrease with increasing room-temperature resistivity of the grAl film for all devices, indicating a trade-off between compactness and internal loss. For our lowest resistivity grAl films, we measure quality factors reaching $3.5 \\times 10^6$ for the all-grAl devices and $4.5 \\times 10^6$ for the hybrid grAl/Ta devices, similar to state-of-the-art quantum circuits. Our loss analysis suggests that the surface loss factor of grAl is similar to that of pure Al for our lowest resistivity films, while the increasing losses with resistivity could be explained by increasing conductor loss in the grAl film.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, cond-mat.mtrl-sci"
+}

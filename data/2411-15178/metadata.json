@@ -1,0 +1,19 @@
+{
+  "title": "Harnessing Scale and Physics: A Multi-Graph Neural Operator Framework for PDEs on Arbitrary Geometries",
+  "authors": [
+    "Zhihao Li",
+    "Haoze Song",
+    "Di Xiao",
+    "Zhilu Lai",
+    "Wei Wang"
+  ],
+  "summary": "Partial Differential Equations (PDEs) underpin many scientific phenomena, yet traditional computational approaches often struggle with complex, nonlinear systems and irregular geometries. This paper introduces the AMG method, a Multi-Graph neural operator approach designed for efficiently solving PDEs on Arbitrary geometries. AMG leverages advanced graph-based techniques and dynamic attention mechanisms within a novel GraphFormer architecture, enabling precise management of diverse spatial domains and complex data interdependencies. By constructing multi-scale graphs to handle variable feature frequencies and a physics graph to encapsulate inherent physical properties, AMG significantly outperforms previous methods, which are typically limited to uniform grids. We present a comprehensive evaluation of AMG across six benchmarks, demonstrating its consistent superiority over existing state-of-the-art models. Our findings highlight the transformative potential of tailored graph neural operators in surmounting the challenges faced by conventional PDE solvers. Our code and datasets are available on https://github.com/lizhihao2022/AMG.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-01-12",
+    "2025-02-07"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI"
+}

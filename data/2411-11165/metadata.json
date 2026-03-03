@@ -1,0 +1,14 @@
+{
+  "title": "LikelihoodGeometry: Macaulay2 Package",
+  "authors": [
+    "David Barnhill",
+    "John Cobb",
+    "Matthew Faust"
+  ],
+  "summary": "This note introduces the $\\texttt{LikelihoodGeometry}$ package for the computer algebra system $\\textit{Macaulay2}$. This package gives tools to construct the likelihood correspondence of a discrete algebraic statistical model, a variety that that ties together data and their maximum likelihood estimators. This includes methods for constructing and combining popular statistical models and calculating their ML-degree.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.CO, math.AC"
+}

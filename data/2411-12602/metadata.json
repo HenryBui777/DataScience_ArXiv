@@ -1,0 +1,18 @@
+{
+  "title": "SAM Carries the Burden: A Semi-Supervised Approach Refining Pseudo Labels for Medical Segmentation",
+  "authors": [
+    "Ron Keuth",
+    "Lasse Hansen",
+    "Maren Balks",
+    "Ronja Jäger",
+    "Anne-Nele Schröder",
+    "Ludger Tüshaus",
+    "Mattias Heinrich"
+  ],
+  "summary": "Semantic segmentation is a crucial task in medical imaging. Although supervised learning techniques have proven to be effective in performing this task, they heavily depend on large amounts of annotated training data. The recently introduced Segment Anything Model (SAM) enables prompt-based segmentation and offers zero-shot generalization to unfamiliar objects. In our work, we leverage SAM's abstract object understanding for medical image segmentation to provide pseudo labels for semi-supervised learning, thereby mitigating the need for extensive annotated training data. Our approach refines initial segmentations that are derived from a limited amount of annotated data (comprising up to 43 cases) by extracting bounding boxes and seed points as prompts forwarded to SAM. Thus, it enables the generation of dense segmentation masks as pseudo labels for unlabelled data. The results show that training with our pseudo labels yields an improvement in Dice score from $74.29\\,\\%$ to $84.17\\,\\%$ and from $66.63\\,\\%$ to $74.87\\,\\%$ for the segmentation of bones of the paediatric wrist and teeth in dental radiographs, respectively. As a result, our method outperforms intensity-based post-processing methods, state-of-the-art supervised learning for segmentation (nnU-Net), and the semi-supervised mean teacher approach. Our Code is available on GitHub.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

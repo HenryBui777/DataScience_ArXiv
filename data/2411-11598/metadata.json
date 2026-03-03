@@ -1,0 +1,14 @@
+{
+  "title": "Carleman-Fourier Linearization of Complex Dynamical Systems: Convergence and Explicit Error Bounds",
+  "authors": [
+    "Panpan Chen",
+    "Nader Motee",
+    "Qiyu Sun"
+  ],
+  "summary": "This paper presents a Carleman-Fourier linearization method for nonlinear dynamical systems with periodic vector fields involving multiple fundamental frequencies. By employing Fourier basis functions, the nonlinear dynamical system is transformed into a linear model on an infinite-dimensional space. The proposed approach yields accurate approximations over extended regions around equilibria and for longer time horizons, compared to traditional Carleman linearization with monomials. Additionally, we develop a finite-section approximation for the resulting infinite-dimensional system and provide explicit error bounds that demonstrate exponential convergence to the original system's solution as the truncation length increases. For specific classes of dynamical systems, exponential convergence is achieved across the entire time horizon. The practical significance of these results lies in guiding the selection of suitable truncation lengths for applications such as model predictive control, safety verification through reachability analysis, and efficient quantum computing algorithms. The theoretical findings are validated through illustrative simulations.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.DS, eess.SY"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Distributed quantum logic algorithm",
+  "authors": [
+    "Boris Arseniev"
+  ],
+  "summary": "Parallel computation enables multiple processors to execute different parts of a task simultaneously, improving processing speed and efficiency. In quantum computing, parallel gate implementation involves executing gates independently in different registers, directly impacting the circuit depth, the number of sequential quantum gate operations, and thus the algorithm execution time. This work examines a method for reducing circuit depth by introducing auxiliary qubits to enable parallel gate execution, potentially enhancing the performance of quantum simulations on near-term quantum devices. We show that any circuit on $n$ qubits with depth $O\\left(M n^2\\right)$, where $M = M(n)$ is some function of $n$, can be transformed into a circuit with depth $O\\left(\\log_2(M) n^2\\right)$ operating on $O\\left(M n\\right)$ qubits. This technique may be particularly useful in noisy environments, where recent findings indicate that only the final $O\\left(\\log n\\right)$ layers influence the expectation value of observables. It may also optimize Trotterization by exponentially reducing the number of Trotter steps. Additionally, the method may offer advantages for distributed quantum computing, and the intuition of treating quantum states as gates and operators as vectors used in this work may have broader applications in quantum computation.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, cs.ET"
+}

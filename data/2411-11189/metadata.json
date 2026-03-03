@@ -1,0 +1,18 @@
+{
+  "title": "Freqformer: Frequency-Domain Transformer for 3-D Reconstruction and Quantification of Human Retinal Vasculature",
+  "authors": [
+    "Lingyun Wang",
+    "Bingjie Wang",
+    "Jay Chhablani",
+    "Jose Alain Sahel",
+    "Shaohua Pi"
+  ],
+  "summary": "Objective: To achieve accurate 3-D reconstruction and quantitative analysis of human retinal vasculature from a single optical coherence tomography angiography (OCTA) scan. Methods: We introduce Freqformer, a novel Transformer-based model featuring a dual-branch architecture that integrates a Transformer layer for capturing global spatial context with a complex-valued frequency-domain module designed for adaptive frequency enhancement. Freqformer was trained using single depth-plane OCTA images, utilizing volumetrically merged OCTA as the ground truth. Performance was evaluated quantitatively through 2-D and 3-D image quality metrics. 2-D networks and their 3-D counterparts were compared to assess the differences between enhancing volume slice by slice and enhancing it by 3-D patches. Furthermore, 3-D quantitative vascular metrics were conducted to quantify human retinal vasculature. Results: Freqformer substantially outperformed existing convolutional neural networks and Transformer-based methods, achieving superior image metrics. Importantly, the enhanced OCTA volumes show strong correlation with the merged volumes on vascular segment count, density, length, and flow index, further underscoring its reliability for quantitative vascular analysis. 3-D counterparts did not yield additional gains in image metrics or downstream 3-D vascular quantification but incurred nearly an order-of-magnitude longer inference time, supporting our 2-D slice-wise enhancement strategy. Additionally, Freqformer showed excellent generalization capability on larger field-of-view scans, surpassing the quality of conventional volumetric merging methods. Conclusion: Freqformer reliably generates high-definition 3-D retinal microvasculature from single-scan OCTA, enabling precise vascular quantification comparable to standard volumetric merging methods.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [
+    "2025-09-26"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.CV"
+}

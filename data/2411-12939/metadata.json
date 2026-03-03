@@ -1,0 +1,14 @@
+{
+  "title": "Stabilization of Switched Affine Systems With Dwell-Time Constraint",
+  "authors": [
+    "Antonio Russo",
+    "Gian Paolo Incremona",
+    "Patrizio Colaneri"
+  ],
+  "summary": "This paper addresses the problem of stabilization of switched affine systems under dwell-time constraint, giving guarantees on the bound of the quadratic cost associated with the proposed state switching control law. Specifically, two switching rules are presented relying on the solution of differential Lyapunov inequalities and Lyapunov-Metzler inequalities, from which the stability conditions are expressed. The first one allows to regulate the state of linear switched systems to zero, whereas the second one is designed for switched affine systems proving practical stability of the origin. In both cases, the determination of a guaranteed cost associated with each control strategy is shown. In the cases of linear and affine systems, the existence of the solution for the Lyapunov-Metzler condition is discussed and guidelines for the selection of a solution ensuring suitable performance of the system evolution are provided. The theoretical results are finally assessed by means of three examples.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

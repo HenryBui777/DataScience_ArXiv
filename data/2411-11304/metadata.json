@@ -1,0 +1,24 @@
+{
+  "title": "Personalized One-shot Federated Graph Learning for Heterogeneous Clients",
+  "authors": [
+    "Guochen Yan",
+    "Xunkai Li",
+    "Luyuan Xie",
+    "Qingni Shen",
+    "Yuejian Fang",
+    "Zhonghai Wu"
+  ],
+  "summary": "Federated Graph Learning (FGL) has emerged as a promising paradigm for breaking data silos among distributed private graphs. In practical scenarios involving heterogeneous distributed graph data, personalized Federated Graph Learning (pFGL) aims to enhance model utility by training personalized models tailored to client needs. However, existing pFGL methods often require numerous communication rounds under heterogeneous graphs, leading to significant communication overhead and security concerns. While One-shot Federated Learning (OFL) enables collaboration in a single round, existing OFL methods are designed for image-centric tasks and are ineffective for graph data, leaving a critical gap in the field. Additionally, personalized models derived from existing methods suffer from bias, failing to effectively generalize to the minority. To address these challenges, we propose the first \\textbf{O}ne-shot \\textbf{p}ersonalized \\textbf{F}ederated \\textbf{G}raph \\textbf{L}earning method (\\textbf{O-pFGL}) for node classification, compatible with Secure Aggregation protocols for privacy preservation. Specifically, for effective graph learning in one communication round, our method estimates and aggregates class-wise feature distribution statistics to construct a global surrogate graph on the server, facilitating the training of a global graph model. To mitigate bias, we introduce a two-stage personalized training approach that adaptively balances local personal information and global insights from the surrogate graph, improving both personalization and generalization. Extensive experiments on 14 diverse real-world graph datasets demonstrate that our method significantly outperforms state-of-the-art baselines across various settings.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-24",
+    "2024-12-17",
+    "2025-01-14",
+    "2025-01-23",
+    "2025-05-18",
+    "2025-08-06"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

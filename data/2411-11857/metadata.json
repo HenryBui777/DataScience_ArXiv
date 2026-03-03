@@ -1,0 +1,22 @@
+{
+  "title": "Radiance Field Delta Video Compression in Edge-Enabled Vehicular Metaverse",
+  "authors": [
+    "Matúš Dopiriak",
+    "Eugen Šlapak",
+    "Juraj Gazda",
+    "Devendra Singh Gurjar",
+    "Mohammad Abdullah Al Faruque",
+    "Marco Levorato"
+  ],
+  "summary": "Connected and autonomous vehicles (CAVs) offload computationally intensive tasks to multi-access edge computing (MEC) servers via vehicle-to-infrastructure (V2I) communication, enabling applications within the vehicular metaverse, which transforms physical environment into the digital space enabling advanced analysis or predictive modeling. A core challenge is physical-to-virtual (P2V) synchronization through digital twins (DTs), reliant on MEC networks and ultra-reliable low-latency communication (URLLC). To address this, we introduce radiance field (RF) delta video compression (RFDVC), which uses RF-encoder and RF-decoder architecture using distributed RFs as DTs storing photorealistic 3D urban scenes in compressed form. This method extracts differences between CAV-frame capturing actual traffic and RF-frame capturing empty scene from the same camera pose in batches encoded and transmitted over the MEC network. Experiments show data savings up to 71% against H.264 codec and 44% against H.265 codec under different conditions as lighting changes, and rain. RFDVC also demonstrates resilience to transmission errors, significantly outperforming the standard codec in non-rainy conditions with up to a +0.26 structural similarity index measure (SSIM) improvement over H.264 codec, and maintaining a +0.18 SSIM improvement even in challenging rainy conditions, both measured at a block error rate (BLER) of 0.25.",
+  "submission_date": "2024-11-01",
+  "revised_dates": [
+    "2024-12-03",
+    "2024-12-19",
+    "2024-12-31",
+    "2025-10-20"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP, cs.IT, cs.NI"
+}

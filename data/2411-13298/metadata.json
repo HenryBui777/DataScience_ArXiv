@@ -1,0 +1,19 @@
+{
+  "title": "A CSI Feedback Framework based on Transmitting the Important Values and Generating the Others",
+  "authors": [
+    "Zhilin Du",
+    "Zhenyu Liu",
+    "Haozhen Li",
+    "Shilong Fan",
+    "Xinyu Gu",
+    "Lin Zhang"
+  ],
+  "summary": "The application of deep learning (DL)-based channel state information (CSI) feedback frameworks in massive multiple-input multiple-output (MIMO) systems has significantly improved reconstruction accuracy. However, the limited generalization of widely adopted autoencoder-based networks for CSI feedback challenges consistent performance under dynamic wireless channel conditions and varying communication overhead constraints. To enhance the robustness of DL-based CSI feedback across diverse channel scenarios, we propose a novel framework, ITUG, where the user equipment (UE) transmits only a selected portion of critical values in the CSI matrix, while a generative model deployed at the BS reconstructs the remaining values. Specifically, we introduce a scoring algorithm to identify important values based on amplitude and contrast, an encoding algorithm to convert these values into a bit stream for transmission using adaptive bit length and a modified Huffman codebook, and a Transformer-based generative network named TPMVNet to recover the untransmitted values based on the received important values. Experimental results demonstrate that the ITUG framework, equipped with a single TPMVNet, achieves superior reconstruction performance compared to several high-performance autoencoder models across various channel conditions.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-29"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP"
+}

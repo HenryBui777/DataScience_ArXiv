@@ -1,0 +1,13 @@
+{
+  "title": "Energy balance for 6D kinetic ions with adiabatic electrons",
+  "authors": [
+    "Mario Raeth",
+    "Klaus Hallatschek"
+  ],
+  "summary": "This paper investigates the energy fluxes for the 6D kinetic Vlasov system. We introduce a novel method for calculating particle and energy flows within this framework which allows for the determination of energy and particle fluxes, as well as the Poynting flux, directly from the system's moments such as kinetic energy density, momentum transfer tensor. The fluxes computed using the new method exhibit fewer gyrooscillations. This approach also enables the identification of both the gyrokinetic $\\vec{E} \\times \\vec{B}$ heat flux and additional non-gyrokinetic contributions, while simultaneously reducing inherent gyrooscillations in the energy and particle fluxes. Our semi-Lagrangian solver for the 6D kinetic Vlasov system, features a highly efficient scheme to address the $\\vec v \\times \\vec B$ acceleration from the strong background magnetic field allows for the simulation of plasma waves and turbulence with frequencies extending beyond the cyclotron frequency, independent of gradient strength or fluctuation levels. The solver has been rigorously tested in the low-frequency regime for dispersion relations and energy fluxes in both linear and nonlinear scenarios.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.plasm-ph"
+}

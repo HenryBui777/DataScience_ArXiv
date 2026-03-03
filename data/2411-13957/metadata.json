@@ -1,0 +1,17 @@
+{
+  "title": "Variational Multiscale Evolve and Filter Strategies for Convection-Dominated Flows",
+  "authors": [
+    "Maria Strazzullo",
+    "Francesco Ballarin",
+    "Traian Iliescu",
+    "Tomás Chacón Rebollo"
+  ],
+  "summary": "The evolve-filter (EF) model is a filter-based numerical stabilization for under-resolved convection-dominated flows. EF is a simple, modular, and effective strategy for both full-order models (FOMs) and reduced-order models (ROMs). It is well-known, however, that when the filter radius is too large, EF can be overdiffusive and yield inaccurate results. To alleviate this, EF is usually supplemented with a relaxation step. The relaxation parameter, however, is very sensitive with respect to the model parameters. In this paper, we propose a novel strategy to alleviate the EF overdiffusivity for a large filter radius. Specifically, we leverage the variational multiscale (VMS) framework to separate the large resolved scales from the small resolved scales in the evolved velocity, and we use the filtered small scales to correct the large scales. Furthermore, in the new VMS-EF strategy, we use two different ways to decompose the evolved velocity: the VMS Evolve-Filter-Filter-Correct (VMS-EFFC) and the VMS Evolve-Postprocess-Filter-Correct (VMS-EPFC) algorithms. The new VMS-based algorithms yield significantly more accurate results than the standard EF in both the FOM and the ROM simulations of a flow past a cylinder at Reynolds number Re = 1000.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-01-30"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA, physics.flu-dyn"
+}

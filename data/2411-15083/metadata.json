@@ -1,0 +1,13 @@
+{
+  "title": "Towards quantum simulation of lower-dimensional supersymmetric lattice models",
+  "authors": [
+    "Emanuele Mendicelli",
+    "David Schaich"
+  ],
+  "summary": "Supersymmetric models are grounded in the intriguing concept of a hypothetical symmetry that relates bosonic and fermionic particles. This symmetry has profound implications, offering valuable extensions to the Standard Model of particle physics and fostering connections to theories of quantum gravity. However, lattice studies exploring the non-perturbative features of these models, such as spontaneous supersymmetry breaking and real-time evolution encounter significant challenges, particularly due to the infamous sign problem.\n  The sign problem obstructs simulations on classical computers, especially when dealing with high-dimensional lattice systems. While one potential solution is to adopt the Hamiltonian formalism, this approach necessitates an exponential increase in classical resources with the number of lattice sites and degrees of freedom, rendering it impractical for large systems. In contrast, quantum hardware offers a promising alternative, as it requires in principle a polynomial amount of resources, making the study of these models more accessible.\n  In this context, we explore the encoding of lower-dimensional supersymmetric quantum mechanics onto qubits. We also highlight our ongoing efforts to implement and check the model supersymmetry breaking on an IBM gate-based quantum simulator with and without shot noise, addressing the technical challenges we face and the potential implications of our findings for advancing our understanding of supersymmetry.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "hep-lat, quant-ph"
+}

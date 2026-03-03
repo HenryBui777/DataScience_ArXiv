@@ -1,0 +1,15 @@
+{
+  "title": "Inconsistency and Acausality in Bayesian Inference for Physical Problems",
+  "authors": [
+    "Klaus Mosegaard",
+    "Andrew Curtis"
+  ],
+  "summary": "Bayesian inference is used to estimate continuous parameter values given measured data in many fields of science. The method relies on conditional probability densities to describe information about both data and parameters, yet the notion of conditional densities is inadmissible: probabilities of the same physical event, computed from conditional densities under different parameterizations, may be inconsistent. We show that this inconsistency, together with acausality in hierarchical methods, invalidate a variety of commonly applied Bayesian methods when applied to problems in the physical world, including trans-dimensional inference, general Bayesian dimensionality reduction methods, and hierarchical and empirical Bayes. Models in parameter spaces of different dimensionalities cannot be compared, invalidating the concept of natural parsimony, the probabilistic counterpart to Occams Razor. Bayes theorem itself is inadmissible, and Bayesian inference applied to parameters that characterize physical properties requires reformulation.",
+  "submission_date": "2024-11-12",
+  "revised_dates": [
+    "2025-03-22"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME, physics.data-an"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "EXCON: Extreme Instance-based Contrastive Representation Learning of Severely Imbalanced Multivariate Time Series for Solar Flare Prediction",
+  "authors": [
+    "Onur Vural",
+    "Shah Muhammad Hamdi",
+    "Soukaina Filali Boubrahimi"
+  ],
+  "summary": "In heliophysics research, predicting solar flares is crucial due to their potential to impact both space-based systems and Earth's infrastructure substantially. Magnetic field data from solar active regions, recorded by solar imaging observatories, are transformed into multivariate time series to enable solar flare prediction using temporal window-based analysis. In the realm of multivariate time series-driven solar flare prediction, addressing severe class imbalance with effective strategies for multivariate time series representation learning is key to developing robust predictive models. Traditional methods often struggle with overfitting to the majority class in prediction tasks where major solar flares are infrequent. This work presents EXCON, a contrastive representation learning framework designed to enhance classification performance amidst such imbalances. EXCON operates through four stages: obtaining core features from multivariate time series data; selecting distinctive contrastive representations for each class to maximize inter-class separation; training a temporal feature embedding module with a custom extreme reconstruction loss to minimize intra-class variation; and applying a classifier to the learned embeddings for robust classification. The proposed method leverages contrastive learning principles to map similar instances closer in the feature space while distancing dissimilar ones, a strategy not extensively explored in solar flare prediction tasks. This approach not only addresses class imbalance but also offers a versatile solution applicable to univariate and multivariate time series across binary and multiclass classification problems. Experimental results, including evaluations on the benchmark solar flare dataset and multiple time series archive datasets with binary and multiclass labels, demonstrate EXCON's efficacy in enhancing classification performance.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Schrödinger Bridge Problem for Jump Diffusions",
+  "authors": [
+    "Andrei Zlotchevski",
+    "Linan Chen"
+  ],
+  "summary": "The Schrödinger bridge problem (SBP) seeks to find the measure $\\hat{\\mathbf{P}}$ on a certain path space which interpolates between state-space distributions $ρ_0$ at time $0$ and $ρ_T$ at time $T$ while minimizing the KL divergence (relative entropy) to a reference path measure $\\mathbf{R}$. In this work, we tackle the SBP in the case when $\\mathbf{R}$ is the path measure of a jump diffusion. Under mild assumptions, with both the operator theory approach and the stochastic calculus techniques, we establish an $h$-transform theory for jump diffusions and devise an approximation method to achieve the jump-diffusion SBP solution $\\hat{\\mathbf{P}}$ as the strong-convergence limit of a sequence of harmonic $h$-transforms. To the best of our knowledge, these results are novel in the study of SBP. Moreover, the $h$-transform framework and the approximation method developed in this work are robust and applicable to a relatively general class of jump diffusions. In addition, we examine the SBP of particular types of jump diffusions under additional regularity conditions and extend the existing results on the SBP from the diffusion case to the jump-diffusion setting.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-02-13"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.PR, cs.IT, math.OC"
+}

@@ -1,0 +1,596 @@
+{
+  "2402-19302": {
+    "title": "DiffAssemble: A Unified Graph-Diffusion Model for 2D and 3D Reassembly",
+    "authors": [
+      "Gianluca Scarpellini",
+      "Stefano Fiorini",
+      "Francesco Giuliari",
+      "Pietro Morerio",
+      "A. D. Bue"
+    ],
+    "publication_date": "2024-02-29",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "c4ba2d8b40e16926f6d1216f3ea2bac4b4ba5170",
+    "corpus_id": 268063199,
+    "category": "Computer Science"
+  },
+  "2312-17361": {
+    "title": "Graph Learning in 4D: a Quaternion-valued Laplacian to Enhance Spectral GCNs",
+    "authors": [
+      "Stefano Fiorini",
+      "Stefano Coniglio",
+      "Michele Ciavotta",
+      "Enza Messina"
+    ],
+    "publication_date": "2023-12-28",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "fa7adde25e9534df32501e1458d7081c3f6a3a27",
+    "corpus_id": 266690965,
+    "category": "Computer Science"
+  },
+  "2308-15984": {
+    "title": "Learning Structure-From-Motion with Graph Attention Networks",
+    "authors": [
+      "Lucas Brynte",
+      "J. Iglesias",
+      "Carl Olsson",
+      "Fredrik Kahl"
+    ],
+    "publication_date": "2023-08-30",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "17906fca9fd8e458b8ad4c6206873c47b7b86b19",
+    "corpus_id": 261339344,
+    "category": "Computer Science"
+  },
+  "2307-08015": {
+    "title": "Boosting 3-DoF Ground-to-Satellite Camera Localization Accuracy via Geometry-Guided Cross-View Transformer",
+    "authors": [
+      "Yujiao Shi",
+      "Fei Wu",
+      "Ankit Vora",
+      "Akhil Perincherry",
+      "Hongdong Li"
+    ],
+    "publication_date": "2023-07-16",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "88b21173d4a64f6c116c60dc226903e922910c9d",
+    "corpus_id": 259937358,
+    "category": "Computer Science"
+  },
+  "2306-05407": {
+    "title": "SNAP: Self-Supervised Neural Maps for Visual Positioning and Semantic Understanding",
+    "authors": [
+      "Paul-Edouard Sarlin",
+      "Eduard Trulls",
+      "M. Pollefeys",
+      "J. Hosang",
+      "Simon Lynen"
+    ],
+    "publication_date": "2023-06-08",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "c33e9fd62c2dc7dd9f4780e8d55a495cf094e34a",
+    "corpus_id": 259108511,
+    "category": "Computer Science"
+  },
+  "2305-02398": {
+    "title": "Learning-based Relational Object Matching Across Views",
+    "authors": [
+      "Cathrin Elich",
+      "Iro Armeni",
+      "Martin R. Oswald",
+      "M. Pollefeys",
+      "Joerg Stueckler"
+    ],
+    "publication_date": "2023-05-03",
+    "venue": "IEEE International Conference on Robotics and Automation",
+    "semantic_scholar_id": "dfc231992d1bc0facb96227e272856ee622a5a0b",
+    "corpus_id": 258480343,
+    "category": "Computer Science"
+  },
+  "2304-02009": {
+    "title": "OrienterNet: Visual Localization in 2D Public Maps with Neural Matching",
+    "authors": [
+      "Paul-Edouard Sarlin",
+      "Daniel DeTone",
+      "Tsun-Yi Yang",
+      "A. Avetisyan",
+      "Julian Straub",
+      "Tomasz Malisiewicz",
+      "S. R. Bulò",
+      "Richard A. Newcombe",
+      "P. Kontschieder",
+      "Vasileios Balntas"
+    ],
+    "publication_date": "2023-04-04",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "da5718cdecd6c962a36a11fe565142947c022e8b",
+    "corpus_id": 257921605,
+    "category": "Computer Science"
+  },
+  "2207-09445": {
+    "title": "PoserNet: Refining Relative Camera Poses Exploiting Object Detections",
+    "authors": [
+      "M. Taiana",
+      "M. Toso",
+      "Stuart James",
+      "A. D. Bue"
+    ],
+    "publication_date": "2022-07-19",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "0c29d0ad69d694b25cc96bd692dfbb4610f7d7db",
+    "corpus_id": 250644376,
+    "category": "Computer Science"
+  },
+  "2205-13459": {
+    "title": "SigMaNet: One Laplacian to Rule Them All",
+    "authors": [
+      "Stefano Fiorini",
+      "Stefano Coniglio",
+      "M. Ciavotta",
+      "E. Messina"
+    ],
+    "publication_date": "2022-05-26",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "5a5ebfb550a3a949f99afcdabddb4f063f0db13f",
+    "corpus_id": 249097954,
+    "category": "Computer Science"
+  },
+  "2204-04879": {
+    "title": "How to Find Your Friendly Neighborhood: Graph Attention Design with Self-Supervision",
+    "authors": [
+      "Dongkwan Kim",
+      "Alice H. Oh"
+    ],
+    "publication_date": "2022-04-11",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "dc9b9c5a76df331409890eea0d01e3cf3459a526",
+    "corpus_id": 235614234,
+    "category": "Computer Science, Mathematics"
+  },
+  "2204-02944": {
+    "title": "'The Pedestrian next to the Lamppost” Adaptive Object Graphs for Better Instantaneous Mapping",
+    "authors": [
+      "Avishkar Saha",
+      "Oscar Alejandro Mendez Maldonado",
+      "Chris Russell",
+      "R. Bowden"
+    ],
+    "publication_date": "2022-04-06",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "35115b206deb470cc338b68606dc9df14c3ecabf",
+    "corpus_id": 247996562,
+    "category": "Computer Science"
+  },
+  "2203-05380": {
+    "title": "Spatial Commonsense Graph for Object Localisation in Partial Scenes",
+    "authors": [
+      "Francesco Giuliari",
+      "Geri Skenderi",
+      "M. Cristani",
+      "Yiming Wang",
+      "A. D. Bue"
+    ],
+    "publication_date": "2022-03-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "9a7fa22f9eaaf7c878f5d8ca05a42080662131ae",
+    "corpus_id": 247362839,
+    "category": "Computer Science"
+  },
+  "2202-04445": {
+    "title": "Object-Guided Day-Night Visual localization in Urban Scenes",
+    "authors": [
+      "Assia Benbihi",
+      "Cédric Pradalier",
+      "Ondřej Chum"
+    ],
+    "publication_date": "2022-02-09",
+    "venue": "International Conference on Pattern Recognition",
+    "semantic_scholar_id": "3f0a7a6e9eed07049f826bf5d6bf75c543b3ba27",
+    "corpus_id": 246679860,
+    "category": "Computer Science"
+  },
+  "2111-00728": {
+    "title": "Learning Iterative Robust Transformation Synchronization",
+    "authors": [
+      "Zi Jian Yew",
+      "G. Lee"
+    ],
+    "publication_date": "2021-11-01",
+    "venue": "International Conference on 3D Vision",
+    "semantic_scholar_id": "ef26cd33552cf6953bdf5095fe74b71a897b1418",
+    "corpus_id": 240353866,
+    "category": "Computer Science"
+  },
+  "2108-10165": {
+    "title": "ODAM: Object Detection, Association, and Mapping using Posed RGB Video",
+    "authors": [
+      "Kejie Li",
+      "Daniel DeTone",
+      "Steven Chen",
+      "Minh Vo",
+      "I. Reid",
+      "Hamid Rezatofighi",
+      "Chris Sweeney",
+      "Julian Straub",
+      "Richard A. Newcombe"
+    ],
+    "publication_date": "2021-08-23",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "aa43d8e384395e2b278e7265c76ce157bad8f662",
+    "corpus_id": 237266721,
+    "category": "Computer Science"
+  },
+  "2108-08841": {
+    "title": "Graph-to-3D: End-to-End Generation and Manipulation of 3D Scenes Using Scene Graphs",
+    "authors": [
+      "Helisa Dhamo",
+      "Fabian Manhardt",
+      "Nassir Navab",
+      "F. Tombari"
+    ],
+    "publication_date": "2021-08-19",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "6bbc5775dc7418713ae6cb814c57b3276133badc",
+    "corpus_id": 237213445,
+    "category": "Computer Science"
+  },
+  "2108-05884": {
+    "title": "Unconditional Scene Graph Generation",
+    "authors": [
+      "Sarthak Garg",
+      "Helisa Dhamo",
+      "Azade Farshad",
+      "S. Musatian",
+      "Nassir Navab",
+      "F. Tombari"
+    ],
+    "publication_date": "2021-08-12",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "690e2935e304c7888cd3701c0494fbd0f074b007",
+    "corpus_id": 236987026,
+    "category": "Computer Science"
+  },
+  "2108-05047": {
+    "title": "Road Mapping and Localization Using Sparse Semantic Visual Features",
+    "authors": [
+      "Wentao Cheng",
+      "Sheng Yang",
+      "Maomin Zhou",
+      "Ziyuan Liu",
+      "Yiming Chen",
+      "Mingyang Li"
+    ],
+    "publication_date": "2021-08-11",
+    "venue": "IEEE Robotics and Automation Letters",
+    "semantic_scholar_id": "4147b84fddf310664a899cb251cf72f63c8bc5fe",
+    "corpus_id": 234251764,
+    "category": "Computer Science"
+  },
+  "2108-01176": {
+    "title": "Hierarchical Representations and Explicit Memory: Learning Effective Navigation Policies on 3D Scene Graphs using Graph Neural Networks",
+    "authors": [
+      "Zachary Ravichandran",
+      "Lisa Peng",
+      "Nathan Hughes",
+      "J. D. Griffith",
+      "L. Carlone"
+    ],
+    "publication_date": "2021-08-02",
+    "venue": "IEEE International Conference on Robotics and Automation",
+    "semantic_scholar_id": "a448f2c17b0607a13eabcf5be433c366f759af88",
+    "corpus_id": 236881216,
+    "category": "Computer Science"
+  },
+  "2105-14491": {
+    "title": "How Attentive are Graph Attention Networks?",
+    "authors": [
+      "Shaked Brody",
+      "Uri Alon",
+      "Eran Yahav"
+    ],
+    "publication_date": "2021-05-30",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "ab30672c8c5e4787f6a5985f26a8f281f0db2fb8",
+    "corpus_id": 235254358,
+    "category": "Computer Science"
+  },
+  "2106-02527": {
+    "title": "A Light-Weight Semantic Map for Visual Localization towards Autonomous Driving",
+    "authors": [
+      "Tong Qin",
+      "Yucai Zheng",
+      "Tongqing Chen",
+      "Yilun Chen",
+      "Qing Su"
+    ],
+    "publication_date": "2021-05-30",
+    "venue": "IEEE International Conference on Robotics and Automation",
+    "semantic_scholar_id": "8db5d8d80c86546ef16c1e6f5bc72a7d165b6b1a",
+    "corpus_id": 235352778,
+    "category": "Computer Science"
+  },
+  "2105-11494": {
+    "title": "3D-Aware Ellipse Prediction for Object-Based Camera Pose Estimation",
+    "authors": [
+      "Matthieu Zins",
+      "Gilles Simon",
+      "M. Berger"
+    ],
+    "publication_date": "2020-11-01",
+    "venue": "International Conference on 3D Vision",
+    "semantic_scholar_id": "7e473a0de86b5040a0ad7ced8f86b8980ce2a327",
+    "corpus_id": 231683284,
+    "category": "Computer Science"
+  },
+  "2009-03509": {
+    "title": "Masked Label Prediction: Unified Massage Passing Model for Semi-Supervised Classification",
+    "authors": [
+      "Yunsheng Shi",
+      "Zhengjie Huang",
+      "Wenjin Wang",
+      "Hui Zhong",
+      "Shikun Feng",
+      "Yu Sun"
+    ],
+    "publication_date": "2020-09-08",
+    "venue": "International Joint Conference on Artificial Intelligence",
+    "semantic_scholar_id": "f5623cd36228c0606c1dbcd3ab034df24c58312f",
+    "corpus_id": 221534325,
+    "category": "Computer Science, Mathematics"
+  },
+  "2008-11459": {
+    "title": "Semantic Graph Based Place Recognition for 3D Point Clouds",
+    "authors": [
+      "Xin Kong",
+      "Xuemeng Yang",
+      "Guangyao Zhai",
+      "Xiangrui Zhao",
+      "Xianfang Zeng",
+      "Mengmeng Wang",
+      "Yong Liu",
+      "Wanlong Li",
+      "Feng Wen"
+    ],
+    "publication_date": "2020-08-26",
+    "venue": "IEEE/RJS International Conference on Intelligent RObots and Systems",
+    "semantic_scholar_id": "76c6f2ed99d0417e1590e74859f7a33a22bf78be",
+    "corpus_id": 221319888,
+    "category": "Computer Science"
+  },
+  "2007-01813": {
+    "title": "AVP-SLAM: Semantic Visual Mapping and Localization for Autonomous Vehicles in the Parking Lot",
+    "authors": [
+      "Tong Qin",
+      "Tongqing Chen",
+      "Yilun Chen",
+      "Qing Su"
+    ],
+    "publication_date": "2020-07-03",
+    "venue": "IEEE/RJS International Conference on Intelligent RObots and Systems",
+    "semantic_scholar_id": "afc0eeb9b8b19833860ff51ef466fb31b36f1ed4",
+    "corpus_id": 220347283,
+    "category": "Computer Science"
+  },
+  "2006-10503": {
+    "title": "SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks",
+    "authors": [
+      "F. Fuchs",
+      "Daniel E. Worrall",
+      "Volker Fischer",
+      "M. Welling"
+    ],
+    "publication_date": "2020-06-18",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "6075091294a0fe0fe5c6c7b7a0df9029b6a965cb",
+    "corpus_id": 219792366,
+    "category": "Computer Science, Mathematics"
+  },
+  "1912-12408": {
+    "title": "RoadTagger: Robust Road Attribute Inference with Graph Neural Networks",
+    "authors": [
+      "Songtao He",
+      "F. Bastani",
+      "Satvat Jagwani",
+      "Edward Park",
+      "Sofiane Abbar",
+      "Mohammad Alizadeh",
+      "H. Balakrishnan",
+      "S. Chawla",
+      "S. Madden",
+      "M. Sadeghi"
+    ],
+    "publication_date": "2019-12-28",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "0e6fdee979d9671b922ef2c49d1d97059ad13940",
+    "corpus_id": 209516032,
+    "category": "Computer Science"
+  },
+  "1912-04485": {
+    "title": "NeuRoRA: Neural Robust Rotation Averaging",
+    "authors": [
+      "Pulak Purkait",
+      "Tat-Jun Chin",
+      "I. Reid"
+    ],
+    "publication_date": "2019-12-01",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "5d3111d030f209346d268759cf08763484fee7fb",
+    "corpus_id": 209140633,
+    "category": "Computer Science"
+  },
+  "1911-08797": {
+    "title": "You Are Here: Geolocation by Embedding Maps and Images",
+    "authors": [
+      "Obed Noé Samano Abonce",
+      "Mengjie Zhou",
+      "A. Calway"
+    ],
+    "publication_date": "2019-11-20",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "ff1fab26a81df1f308287e3cf478c4dd03030ce8",
+    "corpus_id": 208176421,
+    "category": "Computer Science"
+  },
+  "1910-02527": {
+    "title": "3D Scene Graph: A Structure for Unified Semantics, 3D Space, and Camera",
+    "authors": [
+      "Iro Armeni",
+      "Zhi-Yang He",
+      "JunYoung Gwak",
+      "Amir Zamir",
+      "Martin Fischer",
+      "J. Malik",
+      "S. Savarese"
+    ],
+    "publication_date": "2019-10-01",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "77b4f542ea56b02804672790b6482df400428c95",
+    "corpus_id": 203837042,
+    "category": "Computer Science"
+  },
+  "1907-10892": {
+    "title": "Simultaneous Multi-View Instance Detection With Learned Geometric Soft-Constraints",
+    "authors": [
+      "A. Nassar",
+      "S. Lefèvre",
+      "J. D. Wegner"
+    ],
+    "publication_date": "2019-07-25",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "aa46bbd77562226a85786e1931c494a74117473b",
+    "corpus_id": 198902764,
+    "category": "Computer Science, Mathematics"
+  },
+  "1907-01341": {
+    "title": "Towards Robust Monocular Depth Estimation: Mixing Datasets for Zero-Shot Cross-Dataset Transfer",
+    "authors": [
+      "René Ranftl",
+      "Katrin Lasinger",
+      "David Hafner",
+      "K. Schindler",
+      "V. Koltun"
+    ],
+    "publication_date": "2019-07-02",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "7bd83b055702bc178aa26def5b6df463f8eab7b9",
+    "corpus_id": 195776274,
+    "category": "Computer Science, Medicine"
+  },
+  "1904-00560": {
+    "title": "Scene Graph Generation With External Knowledge and Image Reconstruction",
+    "authors": [
+      "Jiuxiang Gu",
+      "Handong Zhao",
+      "Zhe L. Lin",
+      "Sheng Li",
+      "Jianfei Cai",
+      "Mingyang Ling"
+    ],
+    "publication_date": "2019-04-01",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "740db108d536a8b6f53111407898f4ecaecf80ea",
+    "corpus_id": 90259087,
+    "category": "Computer Science"
+  },
+  "1807-05933": {
+    "title": "Visual Graphs from Motion (VGfM): Scene understanding with object geometry reasoning",
+    "authors": [
+      "P. Gay",
+      "Stuart James",
+      "A. D. Bue"
+    ],
+    "publication_date": "2018-07-16",
+    "venue": "Asian Conference on Computer Vision",
+    "semantic_scholar_id": "78b5e0ef7bcf98578a82689b28dcbdeda45e01c1",
+    "corpus_id": 49862729,
+    "category": "Computer Science"
+  },
+  "1804-04011": {
+    "title": "QuadricSLAM: Dual Quadrics From Object Detections as Landmarks in Object-Oriented SLAM",
+    "authors": [
+      "Lachlan Nicholson",
+      "Michael Milford",
+      "Niko Sünderhauf"
+    ],
+    "publication_date": "2018-04-10",
+    "venue": "IEEE Robotics and Automation Letters",
+    "semantic_scholar_id": "a104793d8e002a254dc861f78aa238d9096cc59f",
+    "corpus_id": 52040030,
+    "category": "Computer Science"
+  },
+  "1802-09292": {
+    "title": "Constructing Category-Specific Models for Monocular Object-SLAM",
+    "authors": [
+      "Parv Parkhiya",
+      "Rishabh Khawad",
+      "Krishna Murthy Jatavallabhula",
+      "B. Bhowmick",
+      "K. Krishna"
+    ],
+    "publication_date": "2018-02-26",
+    "venue": "IEEE International Conference on Robotics and Automation",
+    "semantic_scholar_id": "942a1119994d4816dc0a851c814dde3f10b09dd0",
+    "corpus_id": 3592332,
+    "category": "Computer Science, Engineering"
+  },
+  "1801-00868": {
+    "title": "Panoptic Segmentation",
+    "authors": [
+      "Alexander Kirillov",
+      "Kaiming He",
+      "Ross B. Girshick",
+      "C. Rother",
+      "Piotr Dollár"
+    ],
+    "publication_date": "2018-01-03",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "dce916351ef589afa7a63452648dd8acba931e92",
+    "corpus_id": 4853375,
+    "category": "Computer Science"
+  },
+  "1709-09905": {
+    "title": "X-View: Graph-Based Semantic Multiview Localization",
+    "authors": [
+      "A. Gawel",
+      "Carlo Del Don",
+      "R. Siegwart",
+      "Juan I. Nieto",
+      "César Cadena"
+    ],
+    "publication_date": "2017-09-28",
+    "venue": "IEEE Robotics and Automation Letters",
+    "semantic_scholar_id": "20aca2abd8b20b8930c20605deb5cf0ab770037c",
+    "corpus_id": 3337551,
+    "category": "Engineering, Computer Science"
+  },
+  "1706-03762": {
+    "title": "Attention is All you Need",
+    "authors": [
+      "Ashish Vaswani",
+      "Noam M. Shazeer",
+      "Niki Parmar",
+      "Jakob Uszkoreit",
+      "Llion Jones",
+      "Aidan N. Gomez",
+      "Lukasz Kaiser",
+      "I. Polosukhin"
+    ],
+    "publication_date": "2017-06-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+    "corpus_id": 13756489,
+    "category": "Computer Science"
+  },
+  "1609-02907": {
+    "title": "Semi-Supervised Classification with Graph Convolutional Networks",
+    "authors": [
+      "Thomas Kipf",
+      "M. Welling"
+    ],
+    "publication_date": "2016-09-09",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "36eff562f65125511b5dfab68ce7f7a943c27478",
+    "corpus_id": 3144218,
+    "category": "Mathematics, Computer Science"
+  }
+}

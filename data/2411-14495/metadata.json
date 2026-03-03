@@ -1,0 +1,16 @@
+{
+  "title": "Test-Time Adaptation of 3D Point Clouds via Denoising Diffusion Models",
+  "authors": [
+    "Hamidreza Dastmalchi",
+    "Aijun An",
+    "Ali Cheraghian",
+    "Shafin Rahman",
+    "Sameera Ramasinghe"
+  ],
+  "summary": "Test-time adaptation (TTA) of 3D point clouds is crucial for mitigating discrepancies between training and testing samples in real-world scenarios, particularly when handling corrupted point clouds. LiDAR data, for instance, can be affected by sensor failures or environmental factors, causing domain gaps. Adapting models to these distribution shifts online is crucial, as training for every possible variation is impractical. Existing methods often focus on fine-tuning pre-trained models based on self-supervised learning or pseudo-labeling, which can lead to forgetting valuable source domain knowledge over time and reduce generalization on future tests. In this paper, we introduce a novel 3D test-time adaptation method, termed 3DD-TTA, which stands for 3D Denoising Diffusion Test-Time Adaptation. This method uses a diffusion strategy that adapts input point cloud samples to the source domain while keeping the source model parameters intact. The approach uses a Variational Autoencoder (VAE) to encode the corrupted point cloud into a shape latent and latent points. These latent points are corrupted with Gaussian noise and subjected to a denoising diffusion process. During this process, both the shape latent and latent points are updated to preserve fidelity, guiding the denoising toward generating consistent samples that align more closely with the source domain. We conduct extensive experiments on the ShapeNet dataset and investigate its generalizability on ModelNet40 and ScanObjectNN, achieving state-of-the-art results. The code has been released at \\url{https://github.com/hamidreza-dastmalchi/3DD-TTA}.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

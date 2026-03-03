@@ -1,0 +1,15 @@
+{
+  "title": "A Characteristic Mapping Method with Source Terms: Applications to Ideal Magnetohydrodynamics",
+  "authors": [
+    "Xi-Yuan Yin",
+    "Philipp Krah",
+    "Jean-Christophe Nave",
+    "Kai Schneider"
+  ],
+  "summary": "This work introduces a generalized characteristic mapping method designed to handle non-linear advection with source terms. The semi-Lagrangian approach advances the flow map, incorporating the source term via the Duhamel integral. We derive a recursive formula for the time decomposition of the map and the source term integral, enhancing computational efficiency. Benchmark computations are presented for a test case with an exact solution and for two-dimensional ideal incompressible magnetohydrodynamics (MHD). Results demonstrate third-order accuracy in both space and time. The submap decomposition method achieves exceptionally high resolution, as illustrated by zooming into fine-scale current sheets. An error estimate is performed and suggests third order convergence in space and time.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA, physics.comp-ph, physics.flu-dyn, physics.plasm-ph"
+}

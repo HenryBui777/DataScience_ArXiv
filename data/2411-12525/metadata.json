@@ -1,0 +1,17 @@
+{
+  "title": "Rethinking Top Probability from Multi-view for Distracted Driver Behaviour Localization",
+  "authors": [
+    "Quang Vinh Nguyen",
+    "Vo Hoang Thanh Son",
+    "Chau Truong Vinh Hoang",
+    "Duc Duy Nguyen",
+    "Nhat Huy Nguyen Minh",
+    "Soo-Hyung Kim"
+  ],
+  "summary": "Naturalistic driving action localization task aims to recognize and comprehend human behaviors and actions from video data captured during real-world driving scenarios. Previous studies have shown great action localization performance by applying a recognition model followed by probability-based post-processing. Nevertheless, the probabilities provided by the recognition model frequently contain confused information causing challenge for post-processing. In this work, we adopt an action recognition model based on self-supervise learning to detect distracted activities and give potential action probabilities. Subsequently, a constraint ensemble strategy takes advantages of multi-camera views to provide robust predictions. Finally, we introduce a conditional post-processing operation to locate distracted behaviours and action temporal boundaries precisely. Experimenting on test set A2, our method obtains the sixth position on the public leaderboard of track 3 of the 2024 AI City Challenge.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Approximating the Gomory Mixed-Integer Cut Closure Using Historical Data",
+  "authors": [
+    "Berkay Becu",
+    "Santanu S. Dey",
+    "Feng Qiu",
+    "Alinson S. Xavier"
+  ],
+  "summary": "Many operations related optimization problems involve repeatedly solving similar mixed integer linear programming (MILP) instances with the same constraint matrix but differing objective coefficients and right-hand-side values. The goal of this paper is to generate good cutting-planes for such instances using historical data. Gomory mixed integer cuts (GMIC) for a general MILP can be parameterized by a vector of weights to aggregate the constraints into a single equality constraint, where each such equality constraint in turn yields a unique GMIC. In this paper, we prove that for a family of MILP instances, where the right-hand-side of the instances belongs to a lattice, the GMIC closure for every instance in this infinite family can be obtained using the same finite list of aggregation weights. This result motivates us to build a simple heuristic to efficiently select aggregations for generating GMICs from historical data of similar instances with varying right-hand-sides and objective function coefficients. For testing our method, we generated families of instances by perturbing the right-hand-side and objective functions of MIPLIB 2017 instances. The proposed heuristic can significantly accelerate the performance of Gurobi for many benchmark instances, even when taking into account the time required to predict aggregation multipliers and compute the cut coefficients. To the best of our knowledge, this is the first work in the literature of data-driven cutting plane generation that is able to significantly accelerate the performance of a commercial state-of-the-art MILP solver, using default solver settings, on large-scale benchmark instances.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC"
+}

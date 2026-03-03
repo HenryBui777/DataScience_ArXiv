@@ -1,0 +1,15 @@
+{
+  "title": "DNN based Two-stage Compensation Algorithm for THz Hybrid Beamforming with imperfect Hardware",
+  "authors": [
+    "Wenqi Zhao",
+    "Chong Han",
+    "Ho-Jin Song",
+    "Emil Björnson"
+  ],
+  "summary": "Terahertz (THz) communication is envisioned as a key technology for 6G and beyond wireless systems owing to its multi-GHz bandwidth. To maintain the same aperture area and the same link budget as the lower frequencies, ultra-massive multi-input and multi-output (UM-MIMO) with hybrid beamforming is promising. Nevertheless, the hardware imperfections particularly at THz frequencies, can degrade spectral efficiency and lead to a high symbol error rate (SER), which is often overlooked yet imperative to address in practical THz communication systems. In this paper, the hybrid beamforming is investigated for THz UM-MIMO systems accounting for comprehensive hardware imperfections, including DAC and ADC quantization errors, in-phase and quadrature imbalance (IQ imbalance), phase noise, amplitude and phase error of imperfect phase shifters and power amplifier (PA) nonlinearity. Then, a two-stage hardware imperfection compensation algorithm is proposed. A deep neural network (DNN) is developed in the first stage to represent the combined hardware imperfections, while in the second stage, the digital precoder in the transmitter (Tx) or the combiner in the receiver (Rx) is designed using NN to effectively compensate for these imperfections. Furthermore, to balance the performance and network complexity, three slimming methods including pruning, parameter sharing, and removing parts of the network are proposed and combined to slim the DNN in the first stage. Numerical results show that the Tx compensation can perform better than the Rx compensation. Additionally, using the combined slimming methods can reduce parameters by 97.2% and running time by 39.2% while maintaining nearly the same performance in both uncoded and coded systems.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IT, eess.SP"
+}

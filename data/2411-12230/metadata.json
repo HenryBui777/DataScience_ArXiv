@@ -1,0 +1,15 @@
+{
+  "title": "Explicit construction of the maximal subgroups of the Monster",
+  "authors": [
+    "Heiko Dietrich",
+    "Melissa Lee",
+    "Anthony Pisani",
+    "Tomasz Popiel"
+  ],
+  "summary": "Seysen's Python package mmgroup provides functionality for fast computations within the sporadic simple group $\\mathbb{M}$, the Monster. The aim of this work is to present an mmgroup database of maximal subgroups of $\\mathbb{M}$: for each conjugacy class $C$ of maximal subgroups in $\\mathbb{M}$, we construct explicit group elements in mmgroup and prove that these elements generate a group in $C$. Our generators and the computations verifying correctness are available in accompanying code. The maximal subgroups of $\\mathbb{M}$ have been classified in a number of papers spanning several decades; our work constitutes an independent verification of these constructions. We also correct the claim that $\\mathbb{M}$ has a maximal subgroup $\\mathrm{PSL}_2({59})$, and hence identify a new maximal subgroup $59{:}29$.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.GR"
+}

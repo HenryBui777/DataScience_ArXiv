@@ -1,0 +1,15 @@
+{
+  "title": "Semantic or Covariate? A Study on the Intractable Case of Out-of-Distribution Detection",
+  "authors": [
+    "Xingming Long",
+    "Jie Zhang",
+    "Shiguang Shan",
+    "Xilin Chen"
+  ],
+  "summary": "The primary goal of out-of-distribution (OOD) detection tasks is to identify inputs with semantic shifts, i.e., if samples from novel classes are absent in the in-distribution (ID) dataset used for training, we should reject these OOD samples rather than misclassifying them into existing ID classes. However, we find the current definition of \"semantic shift\" is ambiguous, which renders certain OOD testing protocols intractable for the post-hoc OOD detection methods based on a classifier trained on the ID dataset. In this paper, we offer a more precise definition of the Semantic Space and the Covariate Space for the ID distribution, allowing us to theoretically analyze which types of OOD distributions make the detection task intractable. To avoid the flaw in the existing OOD settings, we further define the \"Tractable OOD\" setting which ensures the distinguishability of OOD and ID distributions for the post-hoc OOD detection methods. Finally, we conduct several experiments to demonstrate the necessity of our definitions and validate the correctness of our theorems.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

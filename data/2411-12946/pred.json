@@ -1,0 +1,204 @@
+{
+  "partition": "train",
+  "groundtruth": {
+    "NIPS2017_d5e2c0ad": "1706-03741",
+    "10.5555/3600270.3602281": "2203-02155",
+    "10.5555/3666122.3668460": "2305-18290",
+    "lu2024discoveringpreferenceoptimizationalgorithms": "2406-08414",
+    "rebedea2023nemoguardrailstoolkitcontrollable": "2310-10501",
+    "wang2023selfinstructaligninglanguagemodels": "2212-10560",
+    "long2024llmsdrivensyntheticdatageneration": "2406-15126",
+    "xu2024simragselfimprovingretrievalaugmentedgeneration": "2410-17952",
+    "dong2024safeguardinglargelanguagemodels": "2406-02622",
+    "xiao2024cpackpackedresourcesgeneral": "2309-07597",
+    "santhanam2022colbertv2effectiveefficientretrieval": "2112-01488",
+    "günther2024jinaembeddings28192token": "2310-19923",
+    "sharma2025constitutionalclassifiersdefendinguniversal": "2501-18837",
+    "chao2024jailbreakbenchopenrobustnessbenchmark": "2404-01318",
+    "mazeika2024harmbenchstandardizedevaluationframework": "2402-04249"
+  },
+  "prediction": {
+    "openai2024gpt4ocard": [
+      "2410-17952",
+      "2410-03466",
+      "2406-15126",
+      "2406-08464",
+      "2406-08414"
+    ],
+    "geminiteam2024gemini15unlockingmultimodal": [
+      "2410-17952",
+      "2406-08464",
+      "2406-08414",
+      "2404-01318",
+      "2310-19923"
+    ],
+    "10.1145/3613905.3650841": [
+      "2410-03466",
+      "2407-10995",
+      "2404-13208",
+      "2305-18290",
+      "2311-01011"
+    ],
+    "amazonBlockDenied": [
+      "2406-08464",
+      "2406-08414",
+      "2404-01318",
+      "2407-10995",
+      "2501-18837"
+    ],
+    "microsoftCustomCategories": [
+      "2203-02155",
+      "2406-15126",
+      "2406-08464",
+      "2406-08414",
+      "2404-13208"
+    ],
+    "NIPS2017_d5e2c0ad": [
+      "1706-03741",
+      "2501-18837",
+      "2203-02155",
+      "2406-02622",
+      "2112-01488"
+    ],
+    "10.5555/3600270.3602281": [
+      "2203-02155",
+      "2208-03274",
+      "2404-13208",
+      "2501-18837",
+      "1706-03741"
+    ],
+    "10.5555/3666122.3668460": [
+      "2305-18290",
+      "2501-18837",
+      "2112-01488",
+      "2410-17952",
+      "2410-03466"
+    ],
+    "lu2024discoveringpreferenceoptimizationalgorithms": [
+      "2406-08414",
+      "2501-18837",
+      "2410-03466",
+      "2410-17952",
+      "2112-01488"
+    ],
+    "ganguli2022redteaminglanguagemodels": [
+      "2203-02155",
+      "2501-18837",
+      "1706-03741",
+      "2208-03274",
+      "2310-10501"
+    ],
+    "inan2023llamaguardllmbasedinputoutput": [
+      "2311-01011",
+      "2309-07597",
+      "2308-03825",
+      "2406-15126",
+      "2212-10560"
+    ],
+    "rebedea2023nemoguardrailstoolkitcontrollable": [
+      "2310-10501",
+      "2402-04249",
+      "2311-01011",
+      "2112-01488",
+      "2407-10995"
+    ],
+    "liu2024bestpracticeslessonslearned": [
+      "2309-07597",
+      "2410-17952",
+      "2208-03274",
+      "2501-18837",
+      "2308-03825"
+    ],
+    "wang2023selfinstructaligninglanguagemodels": [
+      "2212-10560",
+      "2308-03825",
+      "2309-07597",
+      "2310-10501",
+      "2208-03274"
+    ],
+    "long2024llmsdrivensyntheticdatageneration": [
+      "2406-15126",
+      "2402-04249",
+      "2310-19923",
+      "2410-03466",
+      "2112-01488"
+    ],
+    "xu2024simragselfimprovingretrievalaugmentedgeneration": [
+      "2410-17952",
+      "2308-03825",
+      "2404-01318",
+      "2402-04249",
+      "2406-15126"
+    ],
+    "foo-khoo-2025-lionguard": [
+      "2501-18837",
+      "2410-17952",
+      "2410-03466",
+      "2406-15126",
+      "2406-08464"
+    ],
+    "dong2024safeguardinglargelanguagemodels": [
+      "2406-02622",
+      "2410-03466",
+      "2407-10995",
+      "2406-15126",
+      "2406-08464"
+    ],
+    "xiao2024cpackpackedresourcesgeneral": [
+      "2309-07597",
+      "2308-03825",
+      "2406-15126",
+      "2406-08414",
+      "2404-01318"
+    ],
+    "santhanam2022colbertv2effectiveefficientretrieval": [
+      "2112-01488",
+      "2406-15126",
+      "2406-08464",
+      "2305-18290",
+      "2404-13208"
+    ],
+    "günther2024jinaembeddings28192token": [
+      "2310-19923",
+      "2406-15126",
+      "2311-01011",
+      "2410-17952",
+      "2404-01318"
+    ],
+    "shen2024donowcharacterizingevaluating": [
+      "2308-03825",
+      "2410-17952",
+      "2309-07597",
+      "2406-02622",
+      "2404-01318"
+    ],
+    "sharma2025constitutionalclassifiersdefendinguniversal": [
+      "2501-18837",
+      "1706-03741",
+      "2404-01318",
+      "2203-02155",
+      "2208-03274"
+    ],
+    "chao2024jailbreakbenchopenrobustnessbenchmark": [
+      "2404-01318",
+      "2501-18837",
+      "2410-17952",
+      "2310-19923",
+      "2406-08464"
+    ],
+    "mazeika2024harmbenchstandardizedevaluationframework": [
+      "2402-04249",
+      "2406-15126",
+      "2410-17952",
+      "2407-10995",
+      "2310-10501"
+    ],
+    "huang2024trustllmtrustworthinesslargelanguage": [
+      "2406-15126",
+      "2404-13208",
+      "2410-17952",
+      "2410-03466",
+      "2406-08464"
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Probabilistic Day-Ahead Battery Scheduling based on Mixed Random Variables for Enhanced Grid Operation",
+  "authors": [
+    "Janik Pinter",
+    "Frederik Zahn",
+    "Maximilian Beichter",
+    "Ralf Mikut",
+    "Veit Hagenmeyer"
+  ],
+  "summary": "The increasing penetration of renewable energy sources introduces significant challenges to power grid stability, primarily due to their inherent variability. A new opportunity for grid operation is the smart integration of electricity production combined with battery storages in residential buildings. This study explores how residential battery systems can aid in stabilizing the power grid by flexibly managing deviations from forecasted residential power consumption and PV generation. The key contribution of this work is the development of an analytical approach that enables the asymmetric allocation of quantified power uncertainties between a residential battery system and the power grid, introducing a new degree of freedom into the scheduling problem. This is accomplished by employing mixed random variables - characterized by both continuous and discrete events - to model battery and grid power uncertainties. These variables are embedded into a continuous stochastic optimization framework, which computes probabilistic schedules for battery operation and power exchange with the grid. Test cases demonstrate that the proposed framework can be used effectively to reduce and quantify grid uncertainties while minimizing electricity costs. It is also shown that residential battery systems can be actively used to provide flexibility during critical periods of grid operation. Overall, this framework empowers prosumers to take an active role in grid stabilization, contributing to a more resilient and adaptive energy system.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC, eess.SY"
+}

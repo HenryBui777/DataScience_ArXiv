@@ -1,0 +1,15 @@
+{
+  "title": "Multi-Agent Best Arm Identification in Stochastic Linear Bandits",
+  "authors": [
+    "Sanjana Agrawal",
+    "Saúl A. Blanco"
+  ],
+  "summary": "We study the problem of collaborative best-arm identification in stochastic linear bandits under a fixed-budget scenario. In our learning model, we first consider multiple agents connected through a star network, interacting with a linear bandit instance in parallel. We then extend our analysis to arbitrary network topologies. The objective of the agents is to collaboratively identify the best arm of the given bandit instance with the help of a central server while minimizing the probability of error in best arm estimation. To this end, we propose two algorithms, MaLinBAI-Star and MaLinBAI-Gen for star networks and networks with arbitrary structure, respectively. Both algorithms utilize the technique of G-optimal design along with the successive elimination based strategy where agents share their knowledge through a central server at each communication round. We demonstrate, both theoretically and empirically, that our algorithms achieve exponentially decaying probability of error in the allocated time budget. Furthermore, experimental results on both synthetic and real-world data validate the effectiveness of our algorithms over the state-of-the art existing multi-agent algorithms.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-05-24"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

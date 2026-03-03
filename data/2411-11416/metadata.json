@@ -1,0 +1,13 @@
+{
+  "title": "Fake it till you make it: using artificial turbulence to achieve swift converged turbulence statistics in a pressure-driven channel flow",
+  "authors": [
+    "Akshay Patil",
+    "Clara García-Sánchez"
+  ],
+  "summary": "In this study, we introduced a simple yet innovative method to trigger turbulence in a channel flow to achieve statistically stationary flow conditions. We compare this new method based on synthetically generated three-dimensional turbulence with two other well-established methods, namely, linear profile superposed with random noise and descending counter-rotating vortices and log-law profile superposed with random noise and descending counter-rotating vortices. We found that synthetically generated three-dimensional turbulence provides a computationally cheap and effective way to reduce simulation spin-up to achieve statistically stationary flow conditions when a precursor turbulent initial condition is not available. At a one-time cost of less than 1 CPU hour to generate the synthetic turbulent initial condition, the flow becomes statistically stationary within 3 eddy turnovers for all the parameters of interest in wall-bounded pressure-driven channel flow simulations when compared to other alternatives that can take more than 10 eddy turnovers resulting in substantial savings in the computational cost.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.flu-dyn"
+}

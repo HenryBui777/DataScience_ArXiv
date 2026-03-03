@@ -1,0 +1,27 @@
+{
+  "title": "HiFAST: An HI Data Calibration and Imaging Pipeline for FAST III. Standing Wave Removal",
+  "authors": [
+    "Chen Xu",
+    "Jie Wang",
+    "Yingjie Jing",
+    "Fujia Li",
+    "Hengqian Gan",
+    "Ziming Liu",
+    "Tiantian Liang",
+    "Qingze Chen",
+    "Zerui Liu",
+    "Zhipeng Hou",
+    "Hao Hu",
+    "Huijie Hu",
+    "Shijie Huang",
+    "Peng Jiang",
+    "Chuan-Peng Zhang",
+    "Yan Zhu"
+  ],
+  "summary": "The standing waves existed in radio telescope data are primarily due to reflections among the instruments, which significantly impact the spectrum quality of the Five-hundred-meter Aperture Spherical radio Telescope (FAST). Eliminating these standing waves for FAST is challenging given the constant changes in their phases and amplitudes. Over a ten-second period, the phases shift by 18$^{\\circ}$ while the amplitudes fluctuate by 6 mK. Thus, we developed the fast Fourier transform (FFT) filter method to eliminate these standing waves for every individual spectrum. The FFT filter can decrease the root mean square (RMS) from 3.2 to 1.15 times the theoretical estimate. Compared to other methods such as sine fitting and running median, the FFT filter achieves a median RMS of approximately 1.2 times the theoretical expectation and the smallest scatter at 12%. Additionally, the FFT filter method avoids the flux loss issue encountered with some other methods. The FFT is also efficient in detecting harmonic radio frequency interference (RFI). In the FAST data, we identified three distinct types of harmonic RFI, each with amplitudes exceeding 100 mK and intrinsic frequency periods of 8.1, 0.5, and 0.37 MHz, respectively. The FFT filter, proven as the most effective method, is integrated into the HI data calibration and imaging pipeline for FAST (HiFAST, https://hifast.readthedocs.io).",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.IM, astro-ph.CO, astro-ph.GA"
+}

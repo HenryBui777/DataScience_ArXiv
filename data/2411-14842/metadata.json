@@ -1,0 +1,18 @@
+{
+  "title": "Who Can Withstand Chat-Audio Attacks? An Evaluation Benchmark for Large Audio-Language Models",
+  "authors": [
+    "Wanqi Yang",
+    "Yanda Li",
+    "Meng Fang",
+    "Yunchao Wei",
+    "Ling Chen"
+  ],
+  "summary": "Adversarial audio attacks pose a significant threat to the growing use of large audio-language models (LALMs) in voice-based human-machine interactions. While existing research focused on model-specific adversarial methods, real-world applications demand a more generalizable and universal approach to audio adversarial attacks. In this paper, we introduce the Chat-Audio Attacks (CAA) benchmark including four distinct types of audio attacks, which aims to explore the vulnerabilities of LALMs to these audio attacks in conversational scenarios. To evaluate the robustness of LALMs, we propose three evaluation strategies: Standard Evaluation, utilizing traditional metrics to quantify model performance under attacks; GPT-4o-Based Evaluation, which simulates real-world conversational complexities; and Human Evaluation, offering insights into user perception and trust. We evaluate six state-of-the-art LALMs with voice interaction capabilities, including Gemini-1.5-Pro, GPT-4o, and others, using three distinct evaluation methods on the CAA benchmark. Our comprehensive analysis reveals the impact of four types of audio attacks on the performance of these models, demonstrating that GPT-4o exhibits the highest level of resilience. Our data can be accessed via the following link: \\href{https://github.com/crystraldo/CAA}{CAA}.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-06-06"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SD, cs.AI, eess.AS"
+}

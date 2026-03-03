@@ -1,0 +1,17 @@
+{
+  "title": "Revealed Information",
+  "authors": [
+    "Laura Doval",
+    "Ran Eilat",
+    "Tianhao Liu",
+    "Yangfan Zhou"
+  ],
+  "summary": "An analyst observes the frequency with which a decision maker (DM) takes actions, but not the frequency conditional on payoff-relevant states. We ask when the analyst can rationalize the DM's choices as if the DM first learns something about the state before acting. We provide a support-function characterization of the triples of utility functions, prior beliefs, and (marginal) distributions over actions such that the DM's action distribution is consistent with information given the DM's prior and utility function. Assumptions on the cardinality of the state space and the utility function allow us to refine this characterization, obtaining a sharp system of finitely many inequalities the utility function, prior, and action distribution must satisfy. We apply our characterization to study comparative statics and to identify conditions under which a single information structure rationalizes choices across multiple decision problems. We characterize the set of distributions over posterior beliefs that are consistent with the DM's choices. We extend our results to settings with a continuum of actions and states assuming the first-order approach applies, and to simple multi-agent settings.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-06-17"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "econ.TH, econ.EM, math.OC"
+}

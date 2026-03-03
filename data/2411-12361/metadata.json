@@ -1,0 +1,17 @@
+{
+  "title": "Breathless: An 8-hour Performance Contrasting Human and Robot Expressiveness",
+  "authors": [
+    "Catie Cuan",
+    "Tianshuang Qiu",
+    "Shreya Ganti",
+    "Ken Goldberg"
+  ],
+  "summary": "This paper describes the robot technology behind an original performance that pairs a human dancer (Cuan) with an industrial robot arm for an eight-hour dance that unfolds over the timespan of an American workday. To control the robot arm, we combine a range of sinusoidal motions with varying amplitude, frequency and offset at each joint to evoke human motions common in physical labor such as stirring, digging, and stacking. More motions were developed using deep learning techniques for video-based human-pose tracking and extraction. We combine these pre-recorded motions with improvised robot motions created live by putting the robot into teach-mode and triggering force sensing from the robot joints onstage. All motions are combined with commercial and original music using a custom suite of python software with AppleScript, Keynote, and Zoom to facilitate on-stage communication with the dancer. The resulting performance contrasts the expressivity of the human body with the precision of robot machinery. Video, code and data are available on the project website: https://sites.google.com/playing.studio/breathless",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-27"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO, cs.CV"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Symplectic QTT-FEM solution of the one-dimensional acoustic wave equation in the time domain",
+  "authors": [
+    "Sara Fraschini",
+    "Vladimir Kazeev",
+    "Ilaria Perugia"
+  ],
+  "summary": "Structured Finite Element Methods (FEMs) based on low-rank approximation in the form of the so-called Quantized Tensor Train (QTT) decomposition (QTT-FEM) have been proposed and extensively studied in the case of elliptic equations. In this work, we design a QTT-FE method for time-domain acoustic wave equations, combining stable low-rank approximation in space with a suitable conservative discretization in time. For the acoustic wave equation with a homogeneous source term in a single space dimension as a model problem, we consider its reformulation as a first-order system in time. In space, we employ a low-rank QTT-FEM discretization based on continuous piecewise linear finite elements corresponding to uniformly refined nested meshes. Time integration is performed using symplectic high-order Gauss-Legendre Runge-Kutta methods. In our numerical experiments, we investigate the energy conservation and exponential convergence of the proposed method.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

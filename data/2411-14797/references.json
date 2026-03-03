@@ -1,0 +1,805 @@
+{
+  "2410-13733": {
+    "title": "Improving Multi-modal Large Language Model through Boosting Vision Capabilities",
+    "authors": [
+      "Yanpeng Sun",
+      "Huaxin Zhang",
+      "Qiang Chen",
+      "Xinyu Zhang",
+      "Nong Sang",
+      "Gang Zhang",
+      "Jingdong Wang",
+      "Zechao Li"
+    ],
+    "publication_date": "2024-10-17",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "cba0576de64899f369f559202812d2cc19798bdf",
+    "corpus_id": 273404344,
+    "category": "Computer Science"
+  },
+  "2405-17931": {
+    "title": "Online Merging Optimizers for Boosting Rewards and Mitigating Tax in Alignment",
+    "authors": [
+      "Keming Lu",
+      "Bowen Yu",
+      "Fei Huang",
+      "Yang Fan",
+      "Runji Lin",
+      "Chang Zhou"
+    ],
+    "publication_date": "2024-05-28",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "9c9ca3a8320c0babd9fc331cc376ffff32fe1f67",
+    "corpus_id": 270067818,
+    "category": "Computer Science"
+  },
+  "2405-16436": {
+    "title": "Provably Mitigating Overoptimization in RLHF: Your SFT Loss is Implicitly an Adversarial Regularizer",
+    "authors": [
+      "Zhihan Liu",
+      "Miao Lu",
+      "Shenao Zhang",
+      "Boyi Liu",
+      "Hongyi Guo",
+      "Yingxiang Yang",
+      "Jose H. Blanchet",
+      "Zhaoran Wang"
+    ],
+    "publication_date": "2024-05-26",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "9ffad46dcde21e7ae76f650420ab11202dc32200",
+    "corpus_id": 270062569,
+    "category": "Computer Science, Mathematics"
+  },
+  "2405-15973": {
+    "title": "Enhancing Visual-Language Modality Alignment in Large Vision Language Models via Self-Improvement",
+    "authors": [
+      "Xiyao Wang",
+      "Jiuhai Chen",
+      "Zhaoyang Wang",
+      "Yuhang Zhou",
+      "Yiyang Zhou",
+      "Huaxiu Yao",
+      "Tianyi Zhou",
+      "Tom Goldstein",
+      "Parminder Bhatia",
+      "Furong Huang",
+      "Cao Xiao"
+    ],
+    "publication_date": "2024-05-24",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "4499afc74bda1c7d521a516df040facfe39943ed",
+    "corpus_id": 270062295,
+    "category": "Computer Science"
+  },
+  "2405-14622": {
+    "title": "Calibrated Self-Rewarding Vision Language Models",
+    "authors": [
+      "Yiyang Zhou",
+      "Zhiyuan Fan",
+      "Dongjie Cheng",
+      "Sihan Yang",
+      "Zhaorun Chen",
+      "Chenhang Cui",
+      "Xiyao Wang",
+      "Yun Li",
+      "Linjun Zhang",
+      "Huaxiu Yao"
+    ],
+    "publication_date": "2024-05-23",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "b4a97890b16468f4e635c602b4b629e3bbb9d3df",
+    "corpus_id": 269983268,
+    "category": "Computer Science"
+  },
+  "2404-16821": {
+    "title": "How far are we to GPT-4V? Closing the gap to commercial multimodal models with open-source suites",
+    "authors": [
+      "Zhe Chen",
+      "Weiyun Wang",
+      "Hao Tian",
+      "Shenglong Ye",
+      "Zhangwei Gao",
+      "Erfei Cui",
+      "Wenwen Tong",
+      "Kongzhi Hu",
+      "Jiapeng Luo",
+      "Zheng Ma",
+      "Ji Ma",
+      "Jiaqi Wang",
+      "Xiao-wen Dong",
+      "Hang Yan",
+      "Hewei Guo",
+      "Conghui He",
+      "Zhenjiang Jin",
+      "Chaochao Xu",
+      "Bin Wang",
+      "Xingjian Wei",
+      "Wei Li",
+      "Wenjian Zhang",
+      "Bo Zhang",
+      "Lewei Lu",
+      "Xizhou Zhu",
+      "Tong Lu",
+      "Dahua Lin",
+      "Yu Qiao"
+    ],
+    "publication_date": "2024-04-25",
+    "venue": "Science China Information Sciences",
+    "semantic_scholar_id": "887306ee7ebd9eebd7faea24106ec8e8f1a50987",
+    "corpus_id": 269362546,
+    "category": "Computer Science"
+  },
+  "2404-11999": {
+    "title": "Token-level Direct Preference Optimization",
+    "authors": [
+      "Yongcheng Zeng",
+      "Guoqing Liu",
+      "Weiyu Ma",
+      "Ning Yang",
+      "Haifeng Zhang",
+      "Jun Wang"
+    ],
+    "publication_date": "2024-04-18",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "8f2254fb38cfc8f79524fd1cd2609124808f2c8c",
+    "corpus_id": 269214026,
+    "category": "Computer Science"
+  },
+  "2404-10501": {
+    "title": "Self-Supervised Visual Preference Alignment",
+    "authors": [
+      "Ke Zhu",
+      "Liang Zhao",
+      "Zheng Ge",
+      "Xiangyu Zhang"
+    ],
+    "publication_date": "2024-04-16",
+    "venue": "ACM Multimedia",
+    "semantic_scholar_id": "e6fa169323f1fe839e0bec21c520cf26c0514783",
+    "corpus_id": 269157480,
+    "category": "Computer Science"
+  },
+  "2404-10719": {
+    "title": "Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study",
+    "authors": [
+      "Shusheng Xu",
+      "Wei Fu",
+      "Jiaxuan Gao",
+      "Wenjie Ye",
+      "Weiling Liu",
+      "Zhiyu Mei",
+      "Guangju Wang",
+      "Chao Yu",
+      "Yi Wu"
+    ],
+    "publication_date": "2024-04-16",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "b16cbdacf53ab4870ce7645d899c7e9e6f41c51e",
+    "corpus_id": 269157140,
+    "category": "Computer Science"
+  },
+  "2404-04626": {
+    "title": "Towards Analyzing and Understanding the Limitations of DPO: A Theoretical Perspective",
+    "authors": [
+      "Duanyu Feng",
+      "Bowen Qin",
+      "Chen Huang",
+      "Zheng Zhang",
+      "Wenqiang Lei"
+    ],
+    "publication_date": "2024-04-06",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "39d976e2fb52c72fa43f1b52a3d23810e4f171e2",
+    "corpus_id": 269005114,
+    "category": "Computer Science"
+  },
+  "2403-08730": {
+    "title": "Strengthening Multimodal Large Language Model with Bootstrapped Preference Optimization",
+    "authors": [
+      "Renjie Pi",
+      "Tianyang Han",
+      "Wei Xiong",
+      "Jipeng Zhang",
+      "Runtao Liu",
+      "Rui Pan",
+      "Tong Zhang"
+    ],
+    "publication_date": "2024-03-13",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "0659e2a187f43c5fa86632f3003f8b0d13dac329",
+    "corpus_id": 268379605,
+    "category": "Computer Science"
+  },
+  "2402-10884": {
+    "title": "Multi-modal preference alignment remedies regression of visual instruction tuning on language model",
+    "authors": [
+      "Shengzhi Li",
+      "Rongyu Lin",
+      "Shichao Pei"
+    ],
+    "publication_date": "2024-02-16",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "710b1e23b09e0b826f9d47e7cc23b5f4c0808c7e",
+    "corpus_id": 267740713,
+    "category": "Computer Science"
+  },
+  "2401-01335": {
+    "title": "Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models",
+    "authors": [
+      "Zixiang Chen",
+      "Yihe Deng",
+      "Huizhuo Yuan",
+      "Kaixuan Ji",
+      "Quanquan Gu"
+    ],
+    "publication_date": "2024-01-02",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "ef9e058d22d190fdd38ddee367cf6aa8d1a14bd5",
+    "corpus_id": 266725672,
+    "category": "Computer Science, Mathematics"
+  },
+  "2312-07533": {
+    "title": "VILA: On Pre-training for Visual Language Models",
+    "authors": [
+      "Ji Lin",
+      "Hongxu Yin",
+      "Wei Ping",
+      "Yao Lu",
+      "Pavlo Molchanov",
+      "Andrew Tao",
+      "Huizi Mao",
+      "Jan Kautz",
+      "M. Shoeybi",
+      "Song Han"
+    ],
+    "publication_date": "2023-12-12",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2141ed804636a1cf339d606cd03fd3b3e9582133",
+    "corpus_id": 266174746,
+    "category": "Computer Science"
+  },
+  "2312-06109": {
+    "title": "Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models",
+    "authors": [
+      "Haoran Wei",
+      "Lingyu Kong",
+      "Jinyue Chen",
+      "Liang Zhao",
+      "Zheng Ge",
+      "Jinrong Yang",
+      "Jian‐Yuan Sun",
+      "Chunrui Han",
+      "Xiangyu Zhang"
+    ],
+    "publication_date": "2023-12-11",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "b240a1d8ec2860bdd7370daa3144268ce46ac018",
+    "corpus_id": 266163175,
+    "category": "Computer Science"
+  },
+  "2311-16839": {
+    "title": "Beyond Hallucinations: Enhancing LVLMs through Hallucination-Aware Direct Preference Optimization",
+    "authors": [
+      "Zhiyuan Zhao",
+      "Bin Wang",
+      "Linke Ouyang",
+      "Xiao-wen Dong",
+      "Jiaqi Wang",
+      "Conghui He"
+    ],
+    "publication_date": "2023-11-28",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "2baf63dede1a96cae314c4be99bd3cf9f49b148e",
+    "corpus_id": 265466428,
+    "category": "Computer Science"
+  },
+  "2311-12793": {
+    "title": "ShareGPT4V: Improving Large Multi-Modal Models with Better Captions",
+    "authors": [
+      "Lin Chen",
+      "Jinsong Li",
+      "Xiao-wen Dong",
+      "Pan Zhang",
+      "Conghui He",
+      "Jiaqi Wang",
+      "Feng Zhao",
+      "Dahua Lin"
+    ],
+    "publication_date": "2023-11-21",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "f68f6f2a057c4e6e5a3c91fc8563533d9bf6e560",
+    "corpus_id": 265308687,
+    "category": "Computer Science"
+  },
+  "2311-03079": {
+    "title": "CogVLM: Visual Expert for Pretrained Language Models",
+    "authors": [
+      "Weihan Wang",
+      "Qingsong Lv",
+      "Wenmeng Yu",
+      "Wenyi Hong",
+      "Ji Qi",
+      "Yan Wang",
+      "Junhui Ji",
+      "Zhuoyi Yang",
+      "Lei Zhao",
+      "Xixuan Song",
+      "Jiazheng Xu",
+      "Bin Xu",
+      "Juanzi Li",
+      "Yuxiao Dong",
+      "Ming Ding",
+      "Jie Tang"
+    ],
+    "publication_date": "2023-11-06",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "2313afae52d98e569da2dedbf14daf9efc74e7cf",
+    "corpus_id": 265034288,
+    "category": "Computer Science"
+  },
+  "2310-03744": {
+    "title": "Improved Baselines with Visual Instruction Tuning",
+    "authors": [
+      "Haotian Liu",
+      "Chunyuan Li",
+      "Yuheng Li",
+      "Yong Jae Lee"
+    ],
+    "publication_date": "2023-10-05",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "124d4d374fbef2016fa9880489871a58a7450644",
+    "corpus_id": 263672058,
+    "category": "Computer Science"
+  },
+  "2309-14525": {
+    "title": "Aligning Large Multimodal Models with Factually Augmented RLHF",
+    "authors": [
+      "Zhiqing Sun",
+      "Sheng Shen",
+      "Shengcao Cao",
+      "Haotian Liu",
+      "Chunyuan Li",
+      "Yikang Shen",
+      "Chuang Gan",
+      "Liangyan Gui",
+      "Yu-Xiong Wang",
+      "Yiming Yang",
+      "K. Keutzer",
+      "Trevor Darrell"
+    ],
+    "publication_date": "2023-09-25",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "844bb298d49ef4a07b5d4929dfdfd170f6a1d5f5",
+    "corpus_id": 262824780,
+    "category": "Computer Science"
+  },
+  "2308-12966": {
+    "title": "Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond",
+    "authors": [
+      "Jinze Bai",
+      "Shuai Bai",
+      "Shusheng Yang",
+      "Shijie Wang",
+      "Sinan Tan",
+      "Peng Wang",
+      "Junyang Lin",
+      "Chang Zhou",
+      "Jingren Zhou"
+    ],
+    "publication_date": "2023-08-24",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "fc6a2f7478f68adefd69e2071f27e38aa1647f2f",
+    "corpus_id": 261101015,
+    "category": "Computer Science"
+  },
+  "2308-03286": {
+    "title": "Multi-Label Self-Supervised Learning with Scene Images",
+    "authors": [
+      "Kevin Zhu",
+      "Minghao Fu",
+      "Jianxin Wu"
+    ],
+    "publication_date": "2023-08-07",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "90653b71fb69ce5a2e128e01e77a990aad29ad24",
+    "corpus_id": 260681597,
+    "category": "Computer Science"
+  },
+  "2308-02490": {
+    "title": "MM-Vet: Evaluating Large Multimodal Models for Integrated Capabilities",
+    "authors": [
+      "Weihao Yu",
+      "Zhengyuan Yang",
+      "Linjie Li",
+      "Jianfeng Wang",
+      "Kevin Lin",
+      "Zicheng Liu",
+      "Xinchao Wang",
+      "Lijuan Wang"
+    ],
+    "publication_date": "2023-08-04",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "94972e30504017156ef5b5debc419bf6edc67384",
+    "corpus_id": 260611572,
+    "category": "Computer Science"
+  },
+  "2307-09474": {
+    "title": "ChatSpot: Bootstrapping Multimodal LLMs via Precise Referring Instruction Tuning",
+    "authors": [
+      "Liang Zhao",
+      "En Yu",
+      "Zheng Ge",
+      "Jinrong Yang",
+      "Haoran Wei",
+      "Hongyu Zhou",
+      "Jian‐Yuan Sun",
+      "Yuang Peng",
+      "Runpei Dong",
+      "Chunrui Han",
+      "Xiangyu Zhang"
+    ],
+    "publication_date": "2023-07-18",
+    "venue": "International Joint Conference on Artificial Intelligence",
+    "semantic_scholar_id": "2e52178416b93a0a7dc1cb7d21d04c7e72c2ce0f",
+    "corpus_id": 259951197,
+    "category": "Computer Science"
+  },
+  "2307-06281": {
+    "title": "MMBench: Is Your Multi-modal Model an All-around Player?",
+    "authors": [
+      "Yuanzhan Liu",
+      "Haodong Duan",
+      "Yuanhan Zhang",
+      "Bo Li",
+      "Songyang Zhang",
+      "Wangbo Zhao",
+      "Yike Yuan",
+      "Jiaqi Wang",
+      "Conghui He",
+      "Ziwei Liu",
+      "Kai Chen",
+      "Dahua Lin"
+    ],
+    "publication_date": "2023-07-12",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "b37b1dc72b1882858f5120f2cd6883134089a6ed",
+    "corpus_id": 259837088,
+    "category": "Computer Science"
+  },
+  "2305-18290": {
+    "title": "Direct Preference Optimization: Your Language Model is Secretly a Reward Model",
+    "authors": [
+      "Rafael Rafailov",
+      "Archit Sharma",
+      "E. Mitchell",
+      "Stefano Ermon",
+      "Christopher D. Manning",
+      "Chelsea Finn"
+    ],
+    "publication_date": "2023-05-29",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "0d1c76d45afa012ded7ab741194baf142117c495",
+    "corpus_id": 258959321,
+    "category": "Computer Science"
+  },
+  "2305-11206": {
+    "title": "LIMA: Less Is More for Alignment",
+    "authors": [
+      "Chunting Zhou",
+      "Pengfei Liu",
+      "Puxin Xu",
+      "Srini Iyer",
+      "Jiao Sun",
+      "Yuning Mao",
+      "Xuezhe Ma",
+      "Avia Efrat",
+      "Ping Yu",
+      "L. Yu",
+      "Susan Zhang",
+      "Gargi Ghosh",
+      "M. Lewis",
+      "Luke Zettlemoyer",
+      "Omer Levy"
+    ],
+    "publication_date": "2023-05-18",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "546d0624adfc6e18fb87d8cc77e7705bb9ea7445",
+    "corpus_id": 258822910,
+    "category": "Computer Science"
+  },
+  "2305-10355": {
+    "title": "Evaluating Object Hallucination in Large Vision-Language Models",
+    "authors": [
+      "Yifan Li",
+      "Yifan Du",
+      "Kun Zhou",
+      "Jinpeng Wang",
+      "Wayne Xin Zhao",
+      "Ji-rong Wen"
+    ],
+    "publication_date": "2023-05-17",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "206400aba5f12f734cdd2e4ab48ef6014ea60773",
+    "corpus_id": 258740697,
+    "category": "Computer Science"
+  },
+  "2304-10592": {
+    "title": "MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models",
+    "authors": [
+      "Deyao Zhu",
+      "Jun Chen",
+      "Xiaoqian Shen",
+      "Xiang Li",
+      "Mohamed Elhoseiny"
+    ],
+    "publication_date": "2023-04-20",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "ca6a2bc279be5a3349a22bfd6866ed633d18734b",
+    "corpus_id": 258291930,
+    "category": "Computer Science"
+  },
+  "2304-08485": {
+    "title": "Visual Instruction Tuning",
+    "authors": [
+      "Haotian Liu",
+      "Chunyuan Li",
+      "Qingyang Wu",
+      "Yong Jae Lee"
+    ],
+    "publication_date": "2023-04-17",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "a5036f31f0e629dc661f120b8c3b1f374d479ab8",
+    "corpus_id": 258179774,
+    "category": "Computer Science"
+  },
+  "2303-04671": {
+    "title": "Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models",
+    "authors": [
+      "Chenfei Wu",
+      "Sheng-Kai Yin",
+      "Weizhen Qi",
+      "Xiaodong Wang",
+      "Zecheng Tang",
+      "Nan Duan"
+    ],
+    "publication_date": "2023-03-08",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "af997821231898a5f8d0fd78dad4eec526acabe5",
+    "corpus_id": 257404891,
+    "category": "Computer Science"
+  },
+  "2301-12597": {
+    "title": "BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models",
+    "authors": [
+      "Junnan Li",
+      "Dongxu Li",
+      "S. Savarese",
+      "Steven C. H. Hoi"
+    ],
+    "publication_date": "2023-01-30",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "3f5b31c4f7350dc88002c121aecbdc82f86eb5bb",
+    "corpus_id": 256390509,
+    "category": "Computer Science"
+  },
+  "2210-11416": {
+    "title": "Scaling Instruction-Finetuned Language Models",
+    "authors": [
+      "Hyung Won Chung",
+      "Le Hou",
+      "S. Longpre",
+      "Barret Zoph",
+      "Yi Tay",
+      "W. Fedus",
+      "Eric Li",
+      "Xuezhi Wang",
+      "Mostafa Dehghani",
+      "Siddhartha Brahma",
+      "Albert Webson",
+      "S. Gu",
+      "Zhuyun Dai",
+      "Mirac Suzgun",
+      "Xinyun Chen",
+      "A. Chowdhery",
+      "Dasha Valter",
+      "Sharan Narang",
+      "Gaurav Mishra",
+      "Adams Wei Yu",
+      "Vincent Zhao",
+      "Yanping Huang",
+      "Andrew M. Dai",
+      "Hongkun Yu",
+      "Slav Petrov",
+      "Ed H. Chi",
+      "J. Dean",
+      "Jacob Devlin",
+      "Adam Roberts",
+      "Denny Zhou",
+      "Quoc V. Le",
+      "Jason Wei"
+    ],
+    "publication_date": "2022-10-20",
+    "venue": "Journal of machine learning research",
+    "semantic_scholar_id": "cdbd4f9b6ab2e2fd1ddf5400d5ed2c18960635d1",
+    "corpus_id": 253018554,
+    "category": "Computer Science"
+  },
+  "2209-09513": {
+    "title": "Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering",
+    "authors": [
+      "Pan Lu",
+      "Swaroop Mishra",
+      "Tony Xia",
+      "Liang Qiu",
+      "Kai-Wei Chang",
+      "Song-Chun Zhu",
+      "Oyvind Tafjord",
+      "Peter Clark",
+      "A. Kalyan"
+    ],
+    "publication_date": "2022-09-20",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "d3135733aa39dec20ce72aa138589dda27c8406d",
+    "corpus_id": 252383606,
+    "category": "Computer Science"
+  },
+  "2110-08207": {
+    "title": "Multitask Prompted Training Enables Zero-Shot Task Generalization",
+    "authors": [
+      "Victor Sanh",
+      "Albert Webson",
+      "Colin Raffel",
+      "Stephen H. Bach",
+      "Lintang Sutawika",
+      "Zaid Alyafeai",
+      "Antoine Chaffin",
+      "Arnaud Stiegler",
+      "Teven Le Scao",
+      "Arun Raja",
+      "Manan Dey",
+      "M Saiful Bari",
+      "Canwen Xu",
+      "Urmish Thakker",
+      "S. Sharma",
+      "Eliza Szczechla",
+      "Taewoon Kim",
+      "Gunjan Chhablani",
+      "Nihal V. Nayak",
+      "Debajyoti Datta",
+      "Jonathan D. Chang",
+      "Mike Tian-Jian Jiang",
+      "Han Wang",
+      "Matteo Manica",
+      "Sheng Shen",
+      "Zheng-Xin Yong",
+      "Harshit Pandey",
+      "Rachel Bawden",
+      "Thomas Wang",
+      "Trishala Neeraj",
+      "Jos Rozen",
+      "Abheesht Sharma",
+      "Andrea Santilli",
+      "Thibault Févry",
+      "Jason Alan Fries",
+      "R. Teehan",
+      "Stella Biderman",
+      "Leo Gao",
+      "T. Bers",
+      "Thomas Wolf",
+      "Alexander M. Rush"
+    ],
+    "publication_date": "2021-10-15",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "17dd3555fd1ccf1141cf984347fa1b3fd6b009ca",
+    "corpus_id": 239009562,
+    "category": "Computer Science"
+  },
+  "2109-01652": {
+    "title": "Finetuned Language Models Are Zero-Shot Learners",
+    "authors": [
+      "Jason Wei",
+      "Maarten Bosma",
+      "Vincent Zhao",
+      "Kelvin Guu",
+      "Adams Wei Yu",
+      "Brian Lester",
+      "Nan Du",
+      "Andrew M. Dai",
+      "Quoc V. Le"
+    ],
+    "publication_date": "2021-09-03",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "ff0b2681d7b05e16c46dfb71d980cc2f605907cd",
+    "corpus_id": 237416585,
+    "category": "Computer Science"
+  },
+  "2103-00020": {
+    "title": "Learning Transferable Visual Models From Natural Language Supervision",
+    "authors": [
+      "Alec Radford",
+      "Jong Wook Kim",
+      "Chris Hallacy",
+      "A. Ramesh",
+      "Gabriel Goh",
+      "Sandhini Agarwal",
+      "Girish Sastry",
+      "Amanda Askell",
+      "Pamela Mishkin",
+      "Jack Clark",
+      "Gretchen Krueger",
+      "I. Sutskever"
+    ],
+    "publication_date": "2021-02-26",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4",
+    "corpus_id": 231591445,
+    "category": "Computer Science"
+  },
+  "1904-08920": {
+    "title": "Towards VQA Models That Can Read",
+    "authors": [
+      "Amanpreet Singh",
+      "Vivek Natarajan",
+      "Meet Shah",
+      "Yu Jiang",
+      "Xinlei Chen",
+      "Dhruv Batra",
+      "Devi Parikh",
+      "Marcus Rohrbach"
+    ],
+    "publication_date": "2019-04-18",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "af1f7739283bdbd2b7a94903041f6d6afd991907",
+    "corpus_id": 85553602,
+    "category": "Computer Science"
+  },
+  "1809-02156": {
+    "title": "Object Hallucination in Image Captioning",
+    "authors": [
+      "Anna Rohrbach",
+      "Lisa Anne Hendricks",
+      "Kaylee Burns",
+      "Trevor Darrell",
+      "Kate Saenko"
+    ],
+    "publication_date": "2018-09-06",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "4921243268c81d0d6db99053a9d004852225a622",
+    "corpus_id": 52176506,
+    "category": "Computer Science"
+  },
+  "1707-06347": {
+    "title": "Proximal Policy Optimization Algorithms",
+    "authors": [
+      "John Schulman",
+      "Filip Wolski",
+      "Prafulla Dhariwal",
+      "Alec Radford",
+      "Oleg Klimov"
+    ],
+    "publication_date": "2017-07-20",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "dce6f9d4017b1785979e7520fd0834ef8cf02f4b",
+    "corpus_id": 28695052,
+    "category": "Computer Science"
+  },
+  "1405-0312": {
+    "title": "Microsoft COCO: Common Objects in Context",
+    "authors": [
+      "Tsung-Yi Lin",
+      "M. Maire",
+      "Serge J. Belongie",
+      "James Hays",
+      "P. Perona",
+      "Deva Ramanan",
+      "Piotr Dollár",
+      "C. L. Zitnick"
+    ],
+    "publication_date": "2014-05-01",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "71b7178df5d2b112d07e45038cb5637208659ff7",
+    "corpus_id": 14113767,
+    "category": "Computer Science"
+  }
+}

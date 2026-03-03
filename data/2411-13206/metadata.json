@@ -1,0 +1,13 @@
+{
+  "title": "A Stopping Game on Zero-Sum Sequences",
+  "authors": [
+    "Adrian Dumitrescu",
+    "Arsenii Sagdeev"
+  ],
+  "summary": "We introduce and analyze a natural game formulated as follows. In this one-person game, the player is given a random permutation $A=(a_1,\\dots, a_n)$ of a multiset $M$ of $n$ reals that sum up to $0$, where each of the $n!$ permutation sequences is equally likely. The player only knows the value of $n$ beforehand. The elements of the sequence are revealed one by one and the player can stop the game at any time. Once the process stops, say, after the $i$th element is revealed, the player collects the amount $\\sum_{j=i+1}^{n} a_j$ as his/her payoff and the game is over (the payoff corresponds to the unrevealed part of the sequence).\n  Three online algorithms are given for maximizing the expected payoff in the binary case when $M$ contains only $1$'s and $-1$'s. $\\texttt{Algorithm 1}$ is slightly suboptimal, but is easier to analyze. Moreover, it can also be used when $n$ is only known with some approximation. $\\texttt{Algorithm 2}$ is exactly optimal but not so easy to analyze on its own. $\\texttt{Algorithm 3}$ is the simplest of all three. It turns out that the expected payoffs of the player are $Θ(\\sqrt{n})$ for all three algorithms.\n  In the end, we address the general problem and deal with an arbitrary zero-sum multiset, for which we show that our $\\texttt{Algorithm 3}$ returns a payoff proportional to $\\sqrt{n}$, which is worst case-optimal.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DM, math.CO"
+}

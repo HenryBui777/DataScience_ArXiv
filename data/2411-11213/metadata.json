@@ -1,0 +1,17 @@
+{
+  "title": "Making Sigmoid-MSE Great Again: Output Reset Challenges Softmax Cross-Entropy in Neural Network Classification",
+  "authors": [
+    "Kanishka Tyagi",
+    "Chinmay Rane",
+    "Ketaki Vaidya",
+    "Jeshwanth Challgundla",
+    "Soumitro Swapan Auddy",
+    "Michael Manry"
+  ],
+  "summary": "This study presents a comparative analysis of two objective functions, Mean Squared Error (MSE) and Softmax Cross-Entropy (SCE) for neural network classification tasks. While SCE combined with softmax activation is the conventional choice for transforming network outputs into class probabilities, we explore an alternative approach using MSE with sigmoid activation. We introduce the Output Reset algorithm, which reduces inconsistent errors and enhances classifier robustness. Through extensive experiments on benchmark datasets (MNIST, CIFAR-10, and Fashion-MNIST), we demonstrate that MSE with sigmoid activation achieves comparable accuracy and convergence rates to SCE, while exhibiting superior performance in scenarios with noisy data. Our findings indicate that MSE, despite its traditional association with regression tasks, serves as a viable alternative for classification problems, challenging conventional wisdom about neural network training strategies.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI, stat.ML"
+}

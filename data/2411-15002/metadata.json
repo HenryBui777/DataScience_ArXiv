@@ -1,0 +1,12 @@
+{
+  "title": "A New Way: Kronecker-Factored Approximate Curvature Deep Hedging and its Benefits",
+  "authors": [
+    "Tsogt-Ochir Enkhbayar"
+  ],
+  "summary": "This paper advances the computational efficiency of Deep Hedging frameworks through the novel integration of Kronecker-Factored Approximate Curvature (K-FAC) optimization. While recent literature has established Deep Hedging as a data-driven alternative to traditional risk management strategies, the computational burden of training neural networks with first-order methods remains a significant impediment to practical implementation. The proposed architecture couples Long Short-Term Memory (LSTM) networks with K-FAC second-order optimization, specifically addressing the challenges of sequential financial data and curvature estimation in recurrent networks. Empirical validation using simulated paths from a calibrated Heston stochastic volatility model demonstrates that the K-FAC implementation achieves marked improvements in convergence dynamics and hedging efficacy. The methodology yields a 78.3% reduction in transaction costs ($t = 56.88$, $p < 0.001$) and a 34.4% decrease in profit and loss (P&L) variance compared to Adam optimization. Moreover, the K-FAC-enhanced model exhibits superior risk-adjusted performance with a Sharpe ratio of 0.0401, contrasting with $-0.0025$ for the baseline model. These results provide compelling evidence that second-order optimization methods can materially enhance the tractability of Deep Hedging implementations. The findings contribute to the growing literature on computational methods in quantitative finance while highlighting the potential for advanced optimization techniques to bridge the gap between theoretical frameworks and practical applications in financial markets.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-fin.ST, cs.LG"
+}

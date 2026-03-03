@@ -1,0 +1,14 @@
+{
+  "title": "Leveraging genomic deep learning models for non-coding variant effect prediction",
+  "authors": [
+    "Pooja Kathail",
+    "Ayesha Bajwa",
+    "Nilah M. Ioannidis"
+  ],
+  "summary": "The majority of genetic variants identified in genome-wide association studies of complex traits are non-coding, and characterizing their function remains an important challenge in human genetics. Genomic deep learning models have emerged as a promising approach to enable in silico prediction of variant effects. These include supervised sequence-to-activity models, which predict genome-wide chromatin states or gene expression levels directly from DNA sequence, and self-supervised genomic language models. Here, we review progress in leveraging these models for non-coding variant effect prediction. We describe practical considerations for making such predictions and categorize the types of ground truth data that have been used to evaluate deep learning-based variant effect predictions, providing insight into the settings in which current models are most useful. We also discuss downstream applications of such models to understanding disease-relevant non-coding variants. Our review highlights key considerations for practitioners and opportunities for future improvements in model development and evaluation.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-bio.GN"
+}

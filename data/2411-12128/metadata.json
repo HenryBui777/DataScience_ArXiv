@@ -1,0 +1,15 @@
+{
+  "title": "The Role of Accuracy and Validation Effectiveness in Conversational Business Analytics",
+  "authors": [
+    "Adem Alparslan"
+  ],
+  "summary": "This study examines conversational business analytics, an approach that utilizes AI to address the technical competency gaps that hinder end users from effectively using traditional self-service analytics. By facilitating natural language interactions, conversational business analytics aims to empower end users to independently retrieve data and generate insights. The analysis focuses on Text-to-SQL as a representative technology for translating natural language requests into SQL statements. Developing theoretical models grounded in expected utility theory, this study identifies the conditions under which conversational business analytics, through partial or full support, can outperform delegation to human experts. The results indicate that partial support, focusing solely on information generation by AI, is viable when the accuracy of AI-generated SQL queries leads to a profit that surpasses the performance of a human expert. In contrast, full support includes not only information generation but also validation through explanations provided by the AI, and requires sufficiently high validation effectiveness to be reliable. However, user-based validation presents challenges, such as misjudgment and rejection of valid SQL queries, which may limit the effectiveness of conversational business analytics. These challenges underscore the need for robust validation mechanisms, including improved user support, automated processes, and methods for assessing quality independent of the technical competency of end users.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-20",
+    "2024-11-25"
+  ],
+  "publication_venue": "IEEE Access, vol. 13, pp. 29279-29291, 2025",
+  "pdf_url": null,
+  "category": "cs.AI, econ.GN"
+}

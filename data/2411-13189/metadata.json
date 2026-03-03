@@ -1,0 +1,24 @@
+{
+  "title": "OpenMS WebApps: Building User-Friendly Solutions for MS Analysis",
+  "authors": [
+    "Tom David Müller",
+    "Arslan Siraj",
+    "Axel Walter",
+    "Jihyung Kim",
+    "Samuel Wein",
+    "Johannes von Kleist",
+    "Ayesha Feroz",
+    "Matteo Pilz",
+    "Kyowon Jeong",
+    "Justin Cyril Sing",
+    "Joshua Charkow",
+    "Hannes Luc Röst",
+    "Timo Sachsenberg"
+  ],
+  "summary": "Liquid Chromatography Mass Spectrometry (LC-MS) is an indispensable analytical technique in proteomics, metabolomics, and other life sciences. While OpenMS provides advanced open-source software for MS data analysis, its complexity can be challenging for non-experts. To address this, we have developed OpenMS WebApps, a framework for creating user-friendly MS web applications based on the Streamlit Python package. OpenMS WebApps simplifies MS data analysis through an intuitive graphical user interface, interactive result visualizations, and support for both local and online execution. Key features include workspaces management, automatic generation of input widgets, and parallel execution of tools resulting in highperformance and ready-to-use solutions for online and local deployment. This framework benefits both researchers and developers: scientists can focus on their research without the burden of complex software setups, and developers can rapidly create and distribute custom WebApps with novel algorithms. Several applications built on the OpenMS WebApps template demonstrate its utility across diverse MS-related fields, enhancing the OpenMS eco-system for developers and a wider range of users. Furthermore, it integrates seamlessly with third-party software, extending benefits to developers beyond the OpenMS community.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-bio.BM, cs.HC"
+}

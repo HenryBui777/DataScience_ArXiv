@@ -1,0 +1,14 @@
+{
+  "title": "Kolmogorov Modes and Linear Response of Jump-Diffusion Models: Applications to Stochastic Excitation of the ENSO Recharge Oscillator",
+  "authors": [
+    "Mickaël D. Chekroun",
+    "Niccolò Zagli",
+    "Valerio Lucarini"
+  ],
+  "summary": "We introduce a generalization of linear response theory for mixed jump-diffusion models, combining both Gaussian and Lévy noise forcings that interact with the nonlinear dynamics. This class of models covers a broad range of stochastic chaos and complexity for which the jump-diffusion processes are a powerful tool to parameterize the missing physics or effects of the unresolved scales onto the resolved ones.\n  By generalizing concepts such as Kolmogorov operators and Green's functions to this context, we derive fluctuation-dissipation relationships for such models. The system response can then be interpreted in terms of contributions from the eigenmodes of the Kolmogorov operator (Kolmogorov modes) decomposing the time-lagged correlation functions of the unperturbed dynamics. The underlying formulas offer a fresh look on the intimate relationships between the system's natural variability and its forced variability.\n  We apply our theory to a paradigmatic El Niño-Southern Oscillation (ENSO) subject to state-dependent jumps and additive white noise parameterizing intermittent and nonlinear feedback mechanisms, key factors in the actual ENSO phenomenon. Such stochastic parameterizations are shown to produce stochastic chaos with an enriched time-variability. The Kolmogorov modes encoding the latter are then computed, and our Green's functions formulas are shown to achieve a remarkable accuracy to predict the system's response to perturbations.\n  This work enriches Hasselmann's program by providing a more comprehensive approach to climate modeling and prediction, allowing for accounting the effects of both continuous and discontinuous stochastic forcing. Our results have implications for understanding climate sensitivity, detection and attributing climate change, and assessing the risk of climate tipping points.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "nlin.CD, cond-mat.stat-mech, math-ph, physics.ao-ph"
+}

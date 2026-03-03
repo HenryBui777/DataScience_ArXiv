@@ -1,0 +1,12 @@
+{
+  "title": "High-Bandwidth, Low-Computational Approach: Estimator-Based Control for Hybrid Flying Capacitor Multilevel Converters Using Multi-Cost Gradient Descent and State Feedforward",
+  "authors": [
+    "Inhwi Hwang"
+  ],
+  "summary": "This paper presents an estimator-based control framework for hybrid flying capacitor multilevel (FCML) converters, achieving high-bandwidth control and reduced computational complexity. Utilizing a hybrid estimation method that combines closed-loop and open-loop dynamics, the proposed approach enables accurate and fast flying capacitor voltage estimation without relying on isolated voltage sensors or high-cost computing hardware. The methodology employs multi-cost gradient descent and state feedforward algorithms, enhancing estimation performance while maintaining low computational overhead. A detailed analysis of stability, gain setting, and rank-deficiency issues is provided, ensuring robust operation across diverse converter levels and duty cycle conditions. Simulation results validate the effectiveness of the proposed estimator in achieving active voltage balancing and current control with 6-level AC-DC buck FCML, contributing to cost-effective solutions for FCML applications, such as data centers and electric aircraft.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

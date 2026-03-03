@@ -1,0 +1,15 @@
+{
+  "title": "Neural and Time-Series Approaches for Pricing Weather Derivatives: Performance and Regime Adaptation Using Satellite Data",
+  "authors": [
+    "Marco Hening Tallarico",
+    "Pablo Olivares"
+  ],
+  "summary": "This paper studies pricing of weather-derivative (WD) contracts on temperature and precipitation. For temperature-linked strangles in Toronto and Chicago, we benchmark a harmonic-regression/ARMA model against a feed-forward neural network (NN), finding that the NN reduces out-of-sample mean-squared error (MSE) and materially shifts December fair values relative to both the time-series model and the industry-standard Historic Burn Approach (HBA).\n  For precipitation, we employ a compound Poisson--Gamma framework: shape and scale parameters are estimated via maximum likelihood estimation (MLE) and via a convolutional neural network (CNN) trained on 30-day rainfall sequences spanning multiple seasons. The CNN adaptively learns season-specific $(α,β)$ mappings, thereby capturing heterogeneity across regimes that static i.i.d.\\ fits miss. At valuation, we assume days are i.i.d.\\ $Γ(\\hatα,\\hatβ)$ within each regime and apply a mean-count approximation (replacing the Poisson count by its mean ($n\\hatλ$) to derive closed-form strangle prices.\n  Exploratory analysis of 1981--2023 NASA POWER data confirms pronounced seasonal heterogeneity in $(α,β)$ between summer and winter, demonstrating that static global fits are inadequate. Back-testing on Toronto and Chicago grids shows that our regime-adaptive CNN yields competitive valuations and underscores how model choice can shift strangle prices. Payoffs are evaluated analytically when possible and by simulation elsewhere, enabling a like-for-like comparison of forecasting and valuation methods.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-05-02"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-fin.MF, cs.LG, q-fin.ST, stat.ML"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Generating medical screening questionnaires through analysis of social media data",
+  "authors": [
+    "Ortal Ashkenazi",
+    "Elad Yom-Tov",
+    "Liron Vardi David"
+  ],
+  "summary": "Screening questionnaires are used in medicine as a diagnostic aid. Creating them is a long and expensive process, which could potentially be improved through analysis of social media posts related to symptoms and behaviors prior to diagnosis. Here we show a preliminary investigation into the feasibility of generating screening questionnaires for a given medical condition from social media postings. The method first identifies a cohort of relevant users through their posts in dedicated patient groups and a control group of users who reported similar symptoms but did not report being diagnosed with the condition of interest. Posts made prior to diagnosis are used to generate decision rules to differentiate between the different groups, by clustering symptoms mentioned by these users and training a decision tree to differentiate between the two groups. We validate the generated rules by correlating them with scores given by medical doctors to matching hypothetical cases. We demonstrate the proposed method by creating questionnaires for three conditions (endometriosis, lupus, and gout) using the data of several hundreds of users from Reddit. These questionnaires were then validated by medical doctors. The average Pearson's correlation between the latter's scores and the decision rules were 0.58 (endometriosis), 0.40 (lupus) and 0.27 (gout). Our results suggest that the process of questionnaire generation can be, at least partly, automated. These questionnaires are advantageous in that they are based on real-world experience but are currently lacking in their ability to capture the context, duration, and timing of symptoms.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.CY"
+}

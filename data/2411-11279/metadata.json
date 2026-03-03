@@ -1,0 +1,18 @@
+{
+  "title": "GTOC 12: Results from TheAntipodes",
+  "authors": [
+    "Roberto Armellin",
+    "Andrea Bellome",
+    "Xiaoyu Fu",
+    "Harry Holt",
+    "Cristina Parigini",
+    "Minduli Wijayatunga",
+    "Jack Yarndley"
+  ],
+  "summary": "We present the solution approach developed by the team `TheAntipodes' during the 12th edition of the Global Trajectory Optimization Competition (GTOC 12). An overview of the approach is as follows: (1) generate asteroid subsets, (2) chain building with beam search, (3) convex low-thrust trajectory optimization, (4) manual refinement of rendezvous times, and (5) optimal solution set selection. The generation of asteroid subsets involves a heuristic process to find sets of asteroids that are likely to permit high-scoring asteroid chains. Asteroid sequences `chains' are built within each subset through a beam search based on Lambert transfers. Low-thrust trajectory optimization involves the use of sequential convex programming (SCP), where a specialized formulation finds the mass-optimal control for each ship's trajectory within seconds. Once a feasible trajectory has been found, the rendezvous times are manually refined with the aid of the control profile from the optimal solution. Each ship's individual solution is then placed into a pool where the feasible set that maximizes the final score is extracted using a genetic algorithm. Our final submitted solution placed fifth with a score of $15,489$.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.IM, astro-ph.EP"
+}

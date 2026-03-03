@@ -1,0 +1,18 @@
+{
+  "title": "Efficient Realization of Multi-channel Visible Light Communication System for Dynamic Cross-Water Surface Channels",
+  "authors": [
+    "Han Qi",
+    "Tianrui Lin",
+    "Tianjian Wei",
+    "Qingqing Hu",
+    "Siyan Sun",
+    "Nuo Huang",
+    "Chen Gong"
+  ],
+  "summary": "This paper explores the transmission schemes for multi-channel water-to-air optical wireless communication (W2A-OWC) and introduces a prototype of a real-time W2A-OWC system based on a field-programmable gate array (FPGA). Utilizing an LED array as the transmitter and an APD array as the receiver, the system establishes a multi-channel transmission module. Such configuration enables parallel operation of multiple channels, facilitating the simultaneous transmission of multiple data streams and enhancing overall throughput. The FPGA serves as a real-time signal processing unit, handling both signal transmission and reception. By integrating low-density parity-check (LDPC) codes from 5G New Radio, the system significantly boosts its detection capabilities for dynamic W2A-OWC scenarios. The system also optimizes FPGA resource usage through time-multiplexing operation of an LDPC decoder's IP core. To evaluate the system's practicality, experiments were conducted under background radiation in an indoor water tank, measuring the frame error rate under both calm and fluctuating water surfaces. The experimental results confirm the feasibility and effectiveness of the developed W2A-OWC system.",
+  "submission_date": "2024-11-03",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP"
+}

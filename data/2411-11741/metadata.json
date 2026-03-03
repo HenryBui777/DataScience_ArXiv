@@ -1,0 +1,20 @@
+{
+  "title": "A Bicriterion Concentration Inequality and Prophet Inequalities for $k$-Fold Matroid Unions",
+  "authors": [
+    "Noga Alon",
+    "Nick Gravin",
+    "Tristan Pollner",
+    "Aviad Rubinstein",
+    "Hongao Wang",
+    "S. Matthew Weinberg",
+    "Qianfan Zhang"
+  ],
+  "summary": "We investigate prophet inequalities with competitive ratios approaching $1$, seeking to generalize $k$-uniform matroids. We first show that large girth does not suffice: for all $k$, there exists a matroid of girth $\\geq k$ and a prophet inequality instance on that matroid whose optimal competitive ratio is $\\frac{1}{2}$. Next, we show $k$-fold matroid unions do suffice: we provide a prophet inequality with competitive ratio $1-O(\\sqrt{\\frac{\\log k}{k}})$ for any $k$-fold matroid union. Our prophet inequality follows from an online contention resolution scheme.\n  The key technical ingredient in our online contention resolution scheme is a novel bicriterion concentration inequality for arbitrary monotone $1$-Lipschitz functions over independent items which may be of independent interest. Applied to our particular setting, our bicriterion concentration inequality yields \"Chernoff-strength\" concentration for a $1$-Lipschitz function that is not (approximately) self-bounding.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-20"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DS, math.PR"
+}

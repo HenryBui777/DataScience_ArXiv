@@ -1,0 +1,23 @@
+{
+  "title": "Privacy-Preserving Video Anomaly Detection: A Survey",
+  "authors": [
+    "Yang Liu",
+    "Siao Liu",
+    "Xiaoguang Zhu",
+    "Jielin Li",
+    "Hao Yang",
+    "Liangyu Teng",
+    "Juncen Guo",
+    "Yan Wang",
+    "Dingkang Yang",
+    "Jing Liu"
+  ],
+  "summary": "Video Anomaly Detection (VAD) aims to automatically analyze spatiotemporal patterns in surveillance videos collected from open spaces to detect anomalous events that may cause harm, such as fighting, stealing, and car accidents. However, vision-based surveillance systems such as closed-circuit television often capture personally identifiable information. The lack of transparency and interpretability in video transmission and usage raises public concerns about privacy and ethics, limiting the real-world application of VAD. Recently, researchers have focused on privacy concerns in VAD by conducting systematic studies from various perspectives including data, features, and systems, making Privacy-Preserving Video Anomaly Detection (P2VAD) a hotspot in the AI community. However, current research in P2VAD is fragmented, and prior reviews have mostly focused on methods using RGB sequences, overlooking privacy leakage and appearance bias considerations. To address this gap, this article is the first to systematically reviews the progress of P2VAD, defining its scope and providing an intuitive taxonomy. We outline the basic assumptions, learning frameworks, and optimization objectives of various approaches, analyzing their strengths, weaknesses, and potential correlations. Additionally, we provide open access to research resources such as benchmark datasets and available code. Finally, we discuss key challenges and future opportunities from the perspectives of AI development and P2VAD deployment, aiming to guide future work in the field.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-06-28"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.CR, cs.LG"
+}

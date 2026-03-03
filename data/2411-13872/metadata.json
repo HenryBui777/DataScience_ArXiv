@@ -1,0 +1,20 @@
+{
+  "title": "Modeling the variability of memristive devices with hexagonal boron nitride as dielectric",
+  "authors": [
+    "Juan B. Roldan",
+    "David Maldonado",
+    "C. Aguilera-Pedregosa",
+    "F. J. Alonso",
+    "Yiping Xiao",
+    "Yaqing Shen",
+    "Wenwen Zheng",
+    "Yue Yuan",
+    "Mario Lanza"
+  ],
+  "summary": "Variability in memristive devices based on h-BN dielectrics is studied in depth. Different numerical techniques to extract the reset voltage are described and the corresponding cycle-to-cycle variability is characterized by means of the coefficient of variance. The charge-flux domain was employed to develop one of the extraction techniques, the calculation of the integrals of current and voltage to obtain the charge and flux allows to minimize the effects of electric noise and the inherent stochasticity of resistive switching on the measurement data. A model to reproduce charge versus flux curves has been successfully employed. The device variability is also described by means of the time series analysis to assess the memory effect along a resistive switching series. Finally, we analyzed I-V curves under ramped voltage stress utilizing a simulator based on circuit breakers, the formation and rupture of the percolation paths that constitute the conductive nanofilaments is studied to describe the set and reset processes behind the resistive switching operation.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "IEEE Transactions on Electron Devices, 2022",
+  "pdf_url": null,
+  "category": "cond-mat.mes-hall"
+}

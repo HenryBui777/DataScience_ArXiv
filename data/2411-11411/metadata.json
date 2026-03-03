@@ -1,0 +1,13 @@
+{
+  "title": "Distributed Learning with Partial Information Sharing",
+  "authors": [
+    "P Raghavendra Rao",
+    "Pooja Vyavahare"
+  ],
+  "summary": "This work studies the distributed learning process on a network of agents. Agents make partial observation about an unknown hypothesis and iteratively share their beliefs over a set of possible hypotheses with their neighbors to learn the true hypothesis. We present and analyze a distributed learning algorithm in which agents share belief on only one randomly chosen hypothesis at a time. Agents estimate the beliefs on missed hypotheses using previously shared beliefs. We show that agents learn the true hypothesis almost surely under standard network connectivity and observation model assumptions if belief on each hypothesis is shared with positive probability at every time. We also present a memory-efficient variant of the learning algorithm with partial belief sharing and present simulation results to compare rate of convergence of full and partial information sharing algorithms.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

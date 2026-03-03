@@ -1,0 +1,19 @@
+{
+  "title": "Learning thin deformable object manipulation with a multi-sensory integrated soft hand",
+  "authors": [
+    "Chao Zhao",
+    "Chunli Jiang",
+    "Lifan Luo",
+    "Shuai Yuan",
+    "Qifeng Chen",
+    "Hongyu Yu"
+  ],
+  "summary": "Robotic manipulation has made significant advancements, with systems demonstrating high precision and repeatability. However, this remarkable precision often fails to translate into efficient manipulation of thin deformable objects. Current robotic systems lack imprecise dexterity, the ability to perform dexterous manipulation through robust and adaptive behaviors that do not rely on precise control. This paper explores the singulation and grasping of thin, deformable objects. Here, we propose a novel solution that incorporates passive compliance, touch, and proprioception into thin, deformable object manipulation. Our system employs a soft, underactuated hand that provides passive compliance, facilitating adaptive and gentle interactions to dexterously manipulate deformable objects without requiring precise control. The tactile and force/torque sensors equipped on the hand, along with a depth camera, gather sensory data required for manipulation via the proposed slip module. The manipulation policies are learned directly from raw sensory data via model-free reinforcement learning, bypassing explicit environmental and object modeling. We implement a hierarchical double-loop learning process to enhance learning efficiency by decoupling the action space. Our method was deployed on real-world robots and trained in a self-supervised manner. The resulting policy was tested on a variety of challenging tasks that were beyond the capabilities of prior studies, ranging from displaying suit fabric like a salesperson to turning pages of sheet music for violinists.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-07-08"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

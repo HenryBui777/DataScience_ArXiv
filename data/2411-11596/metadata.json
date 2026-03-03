@@ -1,0 +1,19 @@
+{
+  "title": "Integrating and Comparing Radiality Constraints for Optimized Distribution System Reconfiguration",
+  "authors": [
+    "Pablo Cortes",
+    "Alejandra Tabares",
+    "Fredy Franco",
+    "Astrid Xiomara Rodríguez",
+    "David Álvarez-Martínez"
+  ],
+  "summary": "The reconfiguration of electrical power distribution systems is a crucial optimization problem aimed at minimizing power losses by altering the system topology through the operation of interconnection switches. This problem, typically modelled as a mixed integer nonlinear program demands high computational resources for large scale networks and requires specialized radiality constraints for maintaining the tree like structure of distribution networks. This paper presents a comprehensive analysis that integrates and compares the computational burden associated with different radiality constraint formulations proposed in the specialized literature for the reconfiguration of distribution systems. By using consistent hardware and software setups, we evaluate the performance of these constraints across several well known test cases. Our findings reveal significant differences in computational efficiency depending on the chosen set of radiality constraints, providing valuable insights for optimizing reconfiguration strategies in practical distribution networks.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-07-22",
+    "2025-07-23"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

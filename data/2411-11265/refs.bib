@@ -1,0 +1,718 @@
+@inproceedings{kirjner2024improving,
+  title = {Improving protein optimization with smoothed fitness landscapes},
+  author = {Andrew Kirjner and Jason Yim and Raman Samusevich and Shahar Bracha and Tommi S. Jaakkola and Regina Barzilay and Ila R Fiete},
+  booktitle = {The Twelfth International Conference on Learning Representations},
+  year = {2024},
+  url = {https://openreview.net/forum?id=rxlF2Zv8x0},
+}
+
+@article{Tran2023.11.28.568945,
+  author = {Tran, Thanh V. T. and Hy, Truong Son},
+  title = {Protein Design by Directed Evolution Guided by Large Language Models},
+  id = {2023.11.28.568945},
+  year = {2024},
+  doi = {10.1101/2023.11.28.568945},
+  publisher = {Cold Spring Harbor Laboratory},
+  abstract = {Directed evolution, a strategy for protein engineering, optimizes protein properties (i.e., fitness) by a rigorous and resource-intensive process of screening or selecting among a vast range of mutations. By conducting an in silico screening of sequence properties, machine learning-guided directed evolution (MLDE) can expedite the optimization process and alleviate the experimental workload. In this work, we propose a general MLDE framework in which we apply recent advancements of Deep Learning in protein representation learning and protein property prediction to accelerate the searching and optimization processes. In particular, we introduce an optimization pipeline that utilizes Large Language Models (LLMs) to pinpoint the mutation hotspots in the sequence and then suggest replacements to improve the overall fitness. Our experiments have shown the superior efficiency and efficacy of our proposed framework in the conditional protein generation, in comparision with other state-of-the-art baseline algorithms. We expect this work will shed a new light on not only protein engineering but also on solving combinatorial problems using data-driven methods. Our implementation is publicly available at https://github.com/HySonLab/Directed_Evolution.Competing Interest StatementThe authors have declared no competing interest.},
+  url = {https://www.biorxiv.org/content/early/2024/05/02/2023.11.28.568945},
+  eprint = {https://www.biorxiv.org/content/early/2024/05/02/2023.11.28.568945.full.pdf},
+  journal = {bioRxiv},
+}
+
+@inproceedings{NEURIPS2022_bd391cf5,
+  author = {Chen, Can and Zhang, Yingxueff and Fu, Jie and Liu, Xue (Steve) and Coates, Mark},
+  booktitle = {Advances in Neural Information Processing Systems},
+  editor = {S. Koyejo and S. Mohamed and A. Agarwal and D. Belgrave and K. Cho and A. Oh},
+  pages = {29454--29467},
+  publisher = {Curran Associates, Inc.},
+  title = {Bidirectional Learning for Offline Infinite-width Model-based Optimization},
+  url = {https://proceedings.neurips.cc/paper_files/paper/2022/file/bd391cf5bdc4b63674d6da3edc1bde0d-Paper-Conference.pdf},
+  volume = {35},
+  year = {2022},
+}
+
+@inproceedings{NEURIPS2023_8fab4407,
+  author = {Nguyen, Tung and Agrawal, Sudhanshu and Grover, Aditya},
+  booktitle = {Advances in Neural Information Processing Systems},
+  editor = {A. Oh and T. Naumann and A. Globerson and K. Saenko and M. Hardt and S. Levine},
+  pages = {45856--45869},
+  publisher = {Curran Associates, Inc.},
+  title = {ExPT: Synthetic Pretraining for Few-Shot Experimental Design},
+  url = {https://proceedings.neurips.cc/paper_files/paper/2023/file/8fab4407e1fe9006b39180525c0d323c-Paper-Conference.pdf},
+  volume = {36},
+  year = {2023},
+}
+
+@inproceedings{pmlr-v202-mashkaria23a,
+  title = {Generative Pretraining for Black-Box Optimization},
+  author = {Mashkaria, Satvik Mehul and Krishnamoorthy, Siddarth and Grover, Aditya},
+  booktitle = {Proceedings of the 40th International Conference on Machine Learning},
+  pages = {24173--24197},
+  year = {2023},
+  editor = {Krause, Andreas and Brunskill, Emma and Cho, Kyunghyun and Engelhardt, Barbara and Sabato, Sivan and Scarlett, Jonathan},
+  volume = {202},
+  series = {Proceedings of Machine Learning Research},
+  month = {23--29 Jul},
+  publisher = {PMLR},
+  pdf = {https://proceedings.mlr.press/v202/mashkaria23a/mashkaria23a.pdf},
+  url = {https://proceedings.mlr.press/v202/mashkaria23a.html},
+  abstract = {Many problems in science and engineering involve optimizing an expensive black-box function over a high-dimensional space. In the offline model-based optimization (MBO) setting, we assume access to a fixed, offline dataset for pretraining and a small budget for online function evaluations. Prior approaches seek to utilize the offline data to approximate the function or its inverse but are not sufficiently accurate far from the data distribution. We propose BONET, a generative framework for pretraining a novel model-based optimizer using offline datasets. In BONET, we train an autoregressive model on fixed-length trajectories derived from an offline dataset. We design a sampling strategy to synthesize trajectories from offline data using a simple heuristic of rolling out monotonic transitions from low-fidelity to high-fidelity samples. Empirically, we instantiate BONET using a causally masked Transformer (Radford et al., 2019) and evaluate it on Design-Bench (Trabucco et al., 2022), where we rank the best on average, outperforming state-of-the-art baselines.},
+}
+
+@inproceedings{10.1145/3292500.3330701,
+  author = {Akiba, Takuya and Sano, Shotaro and Yanase, Toshihiko and Ohta, Takeru and Koyama, Masanori},
+  title = {Optuna: A Next-generation Hyperparameter Optimization Framework},
+  year = {2019},
+  isbn = {9781450362016},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3292500.3330701},
+  doi = {10.1145/3292500.3330701},
+  abstract = {The purpose of this study is to introduce new design-criteria for next-generation hyperparameter optimization software. The criteria we propose include (1) define-by-run API that allows users to construct the parameter search space dynamically, (2) efficient implementation of both searching and pruning strategies, and (3) easy-to-setup, versatile architecture that can be deployed for various purposes, ranging from scalable distributed computing to light-weight experiment conducted via interactive interface. In order to prove our point, we will introduce Optuna, an optimization software which is a culmination of our effort in the development of a next generation optimization software. As an optimization software designed with define-by-run principle, Optuna is particularly the first of its kind. We will present the design-techniques that became necessary in the development of the software that meets the above criteria, and demonstrate the power of our new design through experimental results and real world applications. Our software is available under the MIT license (https://github.com/pfnet/optuna/).},
+  booktitle = {Proceedings of the 25th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
+  pages = {2623–2631},
+  numpages = {9},
+  keywords = {Bayesian optimization, black-box optimization, hyperparameter optimization, machine learning system},
+  location = {Anchorage, AK, USA},
+  series = {KDD '19},
+}
+
+@inproceedings{pmlr-v162-jain22a,
+  title = {Biological Sequence Design with {GF},
+  author = {Jain, Moksh and Bengio, Emmanuel and Hernandez-Garcia, Alex and Rector-Brooks, Jarrid and Dossou, Bonaventure F. P. and Ekbote, Chanakya Ajit and Fu, Jie and Zhang, Tianyu and Kilgour, Michael and Zhang, Dinghuai and Simine, Lena and Das, Payel and Bengio, Yoshua},
+  booktitle = {Proceedings of the 39th International Conference on Machine Learning},
+  pages = {9786--9801},
+  year = {2022},
+  editor = {Chaudhuri, Kamalika and Jegelka, Stefanie and Song, Le and Szepesvari, Csaba and Niu, Gang and Sabato, Sivan},
+  volume = {162},
+  series = {Proceedings of Machine Learning Research},
+  month = {17--23 Jul},
+  publisher = {PMLR},
+  pdf = {https://proceedings.mlr.press/v162/jain22a/jain22a.pdf},
+  url = {https://proceedings.mlr.press/v162/jain22a.html},
+  abstract = {Design of de novo biological sequences with desired properties, like protein and DNA sequences, often involves an active loop with several rounds of molecule ideation and expensive wet-lab evaluations. These experiments can consist of multiple stages, with increasing levels of precision and cost of evaluation, where candidates are filtered. This makes the diversity of proposed candidates a key consideration in the ideation phase. In this work, we propose an active learning algorithm leveraging epistemic uncertainty estimation and the recently proposed GFlowNets as a generator of diverse candidate solutions, with the objective to obtain a diverse batch of useful (as defined by some utility function, for example, the predicted anti-microbial activity of a peptide) and informative candidates after each round. We also propose a scheme to incorporate existing labeled datasets of candidates, in addition to a reward function, to speed up learning in GFlowNets. We present empirical results on several biological sequence design tasks, and we find that our method generates more diverse and novel batches with high scoring candidates compared to existing approaches.},
+}
+
+@article{ARNOLD19965091,
+  title = {Directed evolution: Creating biocatalysts for the future},
+  journal = {Chemical Engineering Science},
+  volume = {51},
+  number = {23},
+  pages = {5091-5102},
+  year = {1996},
+  issn = {0009-2509},
+  doi = {https://doi.org/10.1016/S0009-2509(96)00288-6},
+  url = {https://www.sciencedirect.com/science/article/pii/S0009250996002886},
+  author = {Frances H. Arnold},
+  abstract = {An effective approach to engineering new enzymes is to direct their evolution in vitro. By mimicking key processes of Darwinian evolution in the test tube, the functions of enzymes can be explored free from the constraints of function within a living system. Efficient strategies for engineering new enzymes by multiple generations of random mutagenesis and recombination coupled with screening for improved variants have been developed. Our results with industrially important biocatalysts underscore the advantages of this ‘evolutionary’ approach to protein engineering. (From a talk presented at the first National Academy of Engineering “Frontiers of Engineering” Symposium, 21 September 1995.)},
+}
+
+@article{https://doi.org/10.1002/anie.201708408,
+  author = {Arnold, Frances H.},
+  title = {Directed Evolution: Bringing New Chemistry to Life},
+  journal = {Angewandte Chemie International Edition},
+  volume = {57},
+  number = {16},
+  pages = {4143-4148},
+  keywords = {biocatalysis, enzymes, heme proteins, protein engineering, synthetic methods},
+  doi = {https://doi.org/10.1002/anie.201708408},
+  url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201708408},
+  eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/anie.201708408},
+  abstract = {Tailor-made: Discussed herein is the ability to adapt biology's mechanisms for innovation and optimization to solving problems in chemistry and engineering. The evolution of nature's enzymes can lead to the discovery of new reactivity, transformations not known in biology, and reactivity inaccessible by small-molecule catalysts.},
+  year = {2018},
+}
+
+@article{MAYNARDSMITH1970,
+  title = {Natural Selection and the Concept of a Protein Space},
+  volume = {225},
+  issn = {1476-4687},
+  url = {http://dx.doi.org/10.1038/225563a0},
+  doi = {10.1038/225563a0},
+  number = {5232},
+  journal = {Nature},
+  publisher = {Springer Science and Business Media LLC},
+  author = {Maynard Smith, John},
+  year = {1970},
+  pages = {563–564},
+}
+
+@inproceedings{NEURIPS2020_373e4c5d,
+  author = {Kumar, Aviral and Levine, Sergey},
+  booktitle = {Advances in Neural Information Processing Systems},
+  editor = {H. Larochelle and M. Ranzato and R. Hadsell and M.F. Balcan and H. Lin},
+  pages = {5126--5137},
+  publisher = {Curran Associates, Inc.},
+  title = {Model Inversion Networks for Model-Based Optimization},
+  url = {https://proceedings.neurips.cc/paper_files/paper/2020/file/373e4c5d8edfa8b74fd4b6791d0cf6dc-Paper.pdf},
+  volume = {33},
+  year = {2020},
+}
+
+@article{Emami2023,
+  title = {Plug and play directed evolution of proteins with gradient-based discrete MCMC},
+  volume = {4},
+  issn = {2632-2153},
+  url = {http://dx.doi.org/10.1088/2632-2153/accacd},
+  doi = {10.1088/2632-2153/accacd},
+  number = {2},
+  journal = {Machine Learning: Science and Technology},
+  publisher = {IOP Publishing},
+  author = {Emami,  Patrick and Perreault,  Aidan and Law,  Jeffrey and Biagioni,  David and St. John,  Peter},
+  year = {2023},
+  pages = {025014},
+}
+
+@article{expectation_norm_bound,
+  title = {The convex geometry of linear inverse problems},
+  author = {Chandrasekaran, Venkat and Recht, Benjamin and Parrilo, Pablo A and Willsky, Alan S},
+  journal = {Foundations of Computational mathematics},
+  volume = {12},
+  number = {6},
+  pages = {805--849},
+  year = {2012},
+  publisher = {Springer},
+}
+
+@article{extrapolate,
+  title = {Learning in high dimension always amounts to extrapolation},
+  author = {Balestriero, Randall and Pesenti, Jerome and LeCun, Yann},
+  journal = {arXiv preprint arXiv:2110.09485},
+  year = {2021},
+}
+
+@article{sam,
+  title = {Segment Anything},
+  author = {Kirillov, Alexander and Mintun, Eric and Ravi, Nikhila and Mao, Hanzi and Rolland, Chloe and Gustafson, Laura and Xiao, Tete and Whitehead, Spencer and Berg, Alexander C. and Lo, Wan-Yen and Doll{\'a},
+  journal = {arXiv:2304.02643},
+  year = {2023},
+}
+
+@article{near_linear,
+  title = {Near linear time algorithm to detect community structures in large-scale networks},
+  author = {Raghavan, Usha Nandini and Albert, R\'eka and Kumara, Soundar},
+  journal = {Phys. Rev. E},
+  volume = {76},
+  issue = {3},
+  pages = {036106},
+  numpages = {11},
+  year = {2007},
+  month = {Sep},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevE.76.036106},
+  url = {https://link.aps.org/doi/10.1103/PhysRevE.76.036106},
+}
+
+@inproceedings{gpt,
+  author = {Brown, Tom and Mann, Benjamin and Ryder, Nick and Subbiah, Melanie and Kaplan, Jared D and Dhariwal, Prafulla and Neelakantan, Arvind and Shyam, Pranav and Sastry, Girish and Askell, Amanda and Agarwal, Sandhini and Herbert-Voss, Ariel and Krueger, Gretchen and Henighan, Tom and Child, Rewon and Ramesh, Aditya and Ziegler, Daniel and Wu, Jeffrey and Winter, Clemens and Hesse, Chris and Chen, Mark and Sigler, Eric and Litwin, Mateusz and Gray, Scott and Chess, Benjamin and Clark, Jack and Berner, Christopher and McCandlish, Sam and Radford, Alec and Sutskever, Ilya and Amodei, Dario},
+  booktitle = {Advances in Neural Information Processing Systems},
+  editor = {H. Larochelle and M. Ranzato and R. Hadsell and M.F. Balcan and H. Lin},
+  pages = {1877--1901},
+  publisher = {Curran Associates, Inc.},
+  title = {Language Models are Few-Shot Learners},
+  url = {https://proceedings.neurips.cc/paper_files/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf},
+  volume = {33},
+  year = {2020},
+}
+
+@inproceedings{pmlr-v162-ren22a,
+  title = {Proximal Exploration for Model-guided Protein Sequence Design},
+  author = {Ren, Zhizhou and Li, Jiahan and Ding, Fan and Zhou, Yuan and Ma, Jianzhu and Peng, Jian},
+  booktitle = {Proceedings of the 39th International Conference on Machine Learning},
+  pages = {18520--18536},
+  year = {2022},
+  editor = {Chaudhuri, Kamalika and Jegelka, Stefanie and Song, Le and Szepesvari, Csaba and Niu, Gang and Sabato, Sivan},
+  volume = {162},
+  series = {Proceedings of Machine Learning Research},
+  month = {17--23 Jul},
+  publisher = {PMLR},
+  pdf = {https://proceedings.mlr.press/v162/ren22a/ren22a.pdf},
+  url = {https://proceedings.mlr.press/v162/ren22a.html},
+  abstract = {Designing protein sequences with a particular biological function is a long-lasting challenge for protein engineering. Recent advances in machine-learning-guided approaches focus on building a surrogate sequence-function model to reduce the burden of expensive in-lab experiments. In this paper, we study the exploration mechanism of model-guided sequence design. We leverage a natural property of protein fitness landscape that a concise set of mutations upon the wild-type sequence are usually sufficient to enhance the desired function. By utilizing this property, we propose Proximal Exploration (PEX) algorithm that prioritizes the evolutionary search for high-fitness mutants with low mutation counts. In addition, we develop a specialized model architecture, called Mutation Factorization Network (MuFacNet), to predict low-order mutational effects, which further improves the sample efficiency of model-guided evolution. In experiments, we extensively evaluate our method on a suite of in-silico protein sequence design tasks and demonstrate substantial improvement over baseline algorithms.},
+}
+
+@misc{lee2023protein,
+  title = {Protein Sequence Design in a Latent Space via Model-based Reinforcement Learning},
+  author = {Minji Lee and Luiz Felipe Vecchietti and Hyunkyu Jung and Hyunjoo Ro and Meeyoung Cha and Ho Min Kim},
+  year = {2023},
+  url = {https://openreview.net/forum?id=OhjGzRE5N6o},
+}
+
+@article{brookes2022sparsity,
+  title = {On the sparsity of fitness functions and implications for learning},
+  author = {Brookes, David H and Aghazadeh, Amirali and Listgarten, Jennifer},
+  journal = {Proceedings of the National Academy of Sciences},
+  volume = {119},
+  number = {1},
+  pages = {e2109649118},
+  year = {2022},
+  publisher = {National Acad Sciences},
+}
+
+@inproceedings{pmlr-v162-stanton22a,
+  title = {Accelerating {B},
+  author = {Stanton, Samuel and Maddox, Wesley and Gruver, Nate and Maffettone, Phillip and Delaney, Emily and Greenside, Peyton and Wilson, Andrew Gordon},
+  booktitle = {Proceedings of the 39th International Conference on Machine Learning},
+  pages = {20459--20478},
+  year = {2022},
+  editor = {Chaudhuri, Kamalika and Jegelka, Stefanie and Song, Le and Szepesvari, Csaba and Niu, Gang and Sabato, Sivan},
+  volume = {162},
+  series = {Proceedings of Machine Learning Research},
+  month = {17--23 Jul},
+  publisher = {PMLR},
+  pdf = {https://proceedings.mlr.press/v162/stanton22a/stanton22a.pdf},
+  url = {https://proceedings.mlr.press/v162/stanton22a.html},
+  abstract = {Bayesian optimization (BayesOpt) is a gold standard for query-efficient continuous optimization. However, its adoption for drug design has been hindered by the discrete, high-dimensional nature of the decision variables. We develop a new approach (LaMBO) which jointly trains a denoising autoencoder with a discriminative multi-task Gaussian process head, allowing gradient-based optimization of multi-objective acquisition functions in the latent space of the autoencoder. These acquisition functions allow LaMBO to balance the explore-exploit tradeoff over multiple design rounds, and to balance objective tradeoffs by optimizing sequences at many different points on the Pareto frontier. We evaluate LaMBO on two small-molecule design tasks, and introduce new tasks optimizing in silico and in vitro properties of large-molecule fluorescent proteins. In our experiments LaMBO outperforms genetic optimizers and does not require a large pretraining corpus, demonstrating that BayesOpt is practical and effective for biological sequence design.},
+}
+
+@inproceedings{chen2023ampdiffusion,
+  title = {{AMP},
+  author = {Tianlai Chen and Pranay Vure and Rishab Pulugurta and Pranam Chatterjee},
+  booktitle = {NeurIPS 2023 Generative AI and Biology (GenBio) Workshop},
+  year = {2023},
+  url = {https://openreview.net/forum?id=145TM9VQhx},
+}
+
+@article{sarkisyan2016local,
+  author = {Sarkisyan, Karen S.
+and Bolotin, Dmitry A.
+and Meer, Margarita V.
+and Usmanova, Dinara R.
+and Mishin, Alexander S.
+and Sharonov, George V.
+and Ivankov, Dmitry N.
+and Bozhanova, Nina G.
+and Baranov, Mikhail S.
+and Soylemez, Onuralp
+and Bogatyreva, Natalya S.
+and Vlasov, Peter K.
+and Egorov, Evgeny S.
+and Logacheva, Maria D.
+and Kondrashov, Alexey S.
+and Chudakov, Dmitry M.
+and Putintseva, Ekaterina V.
+and Mamedov, Ilgar Z.
+and Tawfik, Dan S.
+and Lukyanov, Konstantin A.
+and Kondrashov, Fyodor A.},
+  title = {Local fitness landscape of the green fluorescent protein},
+  journal = {Nature},
+  year = {2016},
+  month = {May},
+  day = {01},
+  volume = {533},
+  number = {7603},
+  pages = {397-401},
+  abstract = {Comprehensive genotype--phenotype mapping of the green fluorescent protein shows that the local fitness peak is narrow, shaped by a high prevalence of epistatic interactions, providing for the loss of fluorescence when the joint effect of mutations exceeds a threshold.},
+  issn = {1476-4687},
+  doi = {10.1038/nature17995},
+  url = {https://doi.org/10.1038/nature17995},
+}
+
+@article{bryant2021deep,
+  author = {Bryant, Drew H.
+and Bashir, Ali
+and Sinai, Sam
+and Jain, Nina K.
+and Ogden, Pierce J.
+and Riley, Patrick F.
+and Church, George M.
+and Colwell, Lucy J.
+and Kelsic, Eric D.},
+  title = {Deep diversification of an AAV capsid protein by machine learning},
+  journal = {Nature Biotechnology},
+  year = {2021},
+  month = {Jun},
+  day = {01},
+  volume = {39},
+  number = {6},
+  pages = {691-696},
+  abstract = {Modern experimental technologies can assay large numbers of biological sequences, but engineered protein libraries rarely exceed the sequence diversity of natural protein families. Machine learning (ML) models trained directly on experimental data without biophysical modeling provide one route to accessing the full potential diversity of engineered proteins. Here we apply deep learning to design highly diverse adeno-associated virus{\thinspace},
+  issn = {1546-1696},
+  doi = {10.1038/s41587-020-00793-4},
+  url = {https://doi.org/10.1038/s41587-020-00793-4},
+}
+
+@misc{wilson2017reparameterization,
+  title = {The reparameterization trick for acquisition functions},
+  author = {James T. Wilson and Riccardo Moriconi and Frank Hutter and Marc Peter Deisenroth},
+  year = {2017},
+  eprint = {1712.00424},
+  archiveprefix = {arXiv},
+  primaryclass = {stat.ML},
+  url = {https://arxiv.org/abs/1712.00424},
+}
+
+@inproceedings{brookes2019conditioning,
+  title = {Conditioning by adaptive sampling for robust design},
+  author = {Brookes, David and Park, Hahnbeom and Listgarten, Jennifer},
+  booktitle = {Proceedings of the 36th International Conference on Machine Learning},
+  pages = {773--782},
+  year = {2019},
+  editor = {Chaudhuri, Kamalika and Salakhutdinov, Ruslan},
+  volume = {97},
+  series = {Proceedings of Machine Learning Research},
+  month = {09--15 Jun},
+  publisher = {PMLR},
+  pdf = {http://proceedings.mlr.press/v97/brookes19a/brookes19a.pdf},
+  url = {https://proceedings.mlr.press/v97/brookes19a.html},
+  abstract = {We present a method for design problems wherein the goal is to maximize or specify the value of one or more properties of interest (e.g. maximizing the fluorescence of a protein). We assume access to black box, stochastic “oracle" predictive functions, each of which maps from design space to a distribution over properties of interest. Because many state-of-the-art predictive models are known to suffer from pathologies, especially for data far from the training distribution, the problem becomes different from directly optimizing the oracles. Herein, we propose a method to solve this problem that uses model-based adaptive sampling to estimate a distribution over the design space, conditioned on the desired properties.},
+}
+
+@article{doi:10.1021/acscentsci.7b00572,
+  author = {Gómez-Bombarelli, Rafael and Wei, Jennifer N. and Duvenaud, David and Hernández-Lobato, José Miguel and Sánchez-Lengeling, Benjamín and Sheberla, Dennis and Aguilera-Iparraguirre, Jorge and Hirzel, Timothy D. and Adams, Ryan P. and Aspuru-Guzik, Alán},
+  title = {Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules},
+  journal = {ACS Central Science},
+  volume = {4},
+  number = {2},
+  pages = {268-276},
+  year = {2018},
+  doi = {10.1021/acscentsci.7b00572},
+  note = {PMID: 29532027},
+  url = {https://doi.org/10.1021/acscentsci.7b00572},
+  eprint = {https://doi.org/10.1021/acscentsci.7b00572},
+}
+
+@article{DBLP:journals/corr/abs-2010-02141,
+  author = {Sam Sinai and
+                  Richard Wang and
+                  Alexander Whatley and
+                  Stewart Slocum and
+                  Elina Locane and
+                  Eric D. Kelsic},
+  title = {AdaLead: {A},
+  journal = {CoRR},
+  volume = {abs/2010.02141},
+  year = {2020},
+  url = {https://arxiv.org/abs/2010.02141},
+  eprinttype = {arXiv},
+  eprint = {2010.02141},
+  timestamp = {Mon, 12 Oct 2020 17:53:10 +0200},
+  biburl = {https://dblp.org/rec/journals/corr/abs-2010-02141.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}
+
+@inproceedings{pmlr-v139-trabucco21a,
+  title = {Conservative Objective Models for Effective Offline Model-Based Optimization},
+  author = {Trabucco, Brandon and Kumar, Aviral and Geng, Xinyang and Levine, Sergey},
+  booktitle = {Proceedings of the 38th International Conference on Machine Learning},
+  pages = {10358--10368},
+  year = {2021},
+  editor = {Meila, Marina and Zhang, Tong},
+  volume = {139},
+  series = {Proceedings of Machine Learning Research},
+  month = {18--24 Jul},
+  publisher = {PMLR},
+  pdf = {http://proceedings.mlr.press/v139/trabucco21a/trabucco21a.pdf},
+  url = {https://proceedings.mlr.press/v139/trabucco21a.html},
+  abstract = {In this paper, we aim to solve data-driven model-based optimization (MBO) problems, where the goal is to find a design input that maximizes an unknown objective function provided access to only a static dataset of inputs and their corresponding objective values. Such data-driven optimization procedures are the only practical methods in many real-world domains where active data collection is expensive (e.g., when optimizing over proteins) or dangerous (e.g., when optimizing over aircraft designs, actively evaluating malformed aircraft designs is unsafe). Typical methods for MBO that optimize the input against a learned model of the unknown score function are affected by erroneous overestimation in the learned model caused due to distributional shift, that drives the optimizer to low-scoring or invalid inputs. To overcome this, we propose conservative objective models (COMs), a method that learns a model of the objective function which lower bounds the actual value of the ground-truth objective on out-of-distribution inputs and uses it for optimization. In practice, COMs outperform a number existing methods on a wide range of MBO problems, including optimizing controller parameters, robot morphologies, and superconducting materials.},
+}
+
+@inproceedings{pmlr-v162-trabucco22a,
+  title = {Design-Bench: Benchmarks for Data-Driven Offline Model-Based Optimization},
+  author = {Trabucco, Brandon and Geng, Xinyang and Kumar, Aviral and Levine, Sergey},
+  booktitle = {Proceedings of the 39th International Conference on Machine Learning},
+  pages = {21658--21676},
+  year = {2022},
+  editor = {Chaudhuri, Kamalika and Jegelka, Stefanie and Song, Le and Szepesvari, Csaba and Niu, Gang and Sabato, Sivan},
+  volume = {162},
+  series = {Proceedings of Machine Learning Research},
+  month = {17--23 Jul},
+  publisher = {PMLR},
+  pdf = {https://proceedings.mlr.press/v162/trabucco22a/trabucco22a.pdf},
+  url = {https://proceedings.mlr.press/v162/trabucco22a.html},
+  abstract = {Black-box model-based optimization (MBO) problems, where the goal is to find a design input that maximizes an unknown objective function, are ubiquitous in a wide range of domains, such as the design of proteins, DNA sequences, aircraft, and robots. Solving model-based optimization problems typically requires actively querying the unknown objective function on design proposals, which means physically building the candidate molecule, aircraft, or robot, testing it, and storing the result. This process can be expensive and time consuming, and one might instead prefer to optimize for the best design using only the data one already has. This setting—called offline MBO—poses substantial and different algorithmic challenges than more commonly studied online techniques. A number of recent works have demonstrated success with offline MBO for high-dimensional optimization problems using high-capacity deep neural networks. However, the lack of standardized benchmarks in this emerging field is making progress difficult to track. To address this, we present Design-Bench, a benchmark for offline MBO with a unified evaluation protocol and reference implementations of recent methods. Our benchmark includes a suite of diverse and realistic tasks derived from real-world optimization problems in biology, materials science, and robotics that present distinct challenges for offline MBO. Our benchmark and reference implementations are released at github.com/rail-berkeley/design-bench and github.com/rail-berkeley/design-baselines.},
+}
+
+@article{Huang2016,
+  author = {Huang, Po-Ssu
+and Boyken, Scott E.
+and Baker, David},
+  title = {The coming of age of de novo protein design},
+  journal = {Nature},
+  year = {2016},
+  month = {Sep},
+  day = {01},
+  volume = {537},
+  number = {7620},
+  pages = {320-327},
+  abstract = {There are 20200 possible amino-acid sequences for a 200-residue protein, of which the natural evolutionary process has sampled only an infinitesimal subset. De novo protein design explores the full sequence space, guided by the physical principles that underlie protein folding. Computational methodology has advanced to the point that a wide range of structures can be designed from scratch with atomic-level accuracy. Almost all protein engineering so far has involved the modification of naturally occurring proteins; it should now be possible to design new functional proteins from the ground up to tackle current challenges in biomedicine and nanotechnology.},
+  issn = {1476-4687},
+  doi = {10.1038/nature19946},
+  url = {https://doi.org/10.1038/nature19946},
+}
+
+@article{doi:10.1021/acs.chemrev.1c00260,
+  author = {Wang, Yajie and Xue, Pu and Cao, Mingfeng and Yu, Tianhao and Lane, Stephan T. and Zhao, Huimin},
+  title = {Directed Evolution: Methodologies and Applications},
+  journal = {Chemical Reviews},
+  volume = {121},
+  number = {20},
+  pages = {12384-12444},
+  year = {2021},
+  doi = {10.1021/acs.chemrev.1c00260},
+  note = {PMID: 34297541},
+  url = {https://doi.org/10.1021/acs.chemrev.1c00260},
+  eprint = {https://doi.org/10.1021/acs.chemrev.1c00260},
+}
+
+@inproceedings{lee2024robust,
+  title = {Robust Optimization in Protein Fitness Landscapes Using Reinforcement Learning in Latent Space},
+  author = {Minji Lee and Luiz Felipe Vecchietti and Hyunkyu Jung and Hyun Joo Ro and Meeyoung Cha and Ho Min Kim},
+  booktitle = {Forty-first International Conference on Machine Learning},
+  year = {2024},
+  url = {https://openreview.net/forum?id=0zbxwvJqwf},
+}
+
+@article{Fowler2014,
+  author = {Fowler, Douglas M.
+and Fields, Stanley},
+  title = {Deep mutational scanning: a new style of protein science},
+  journal = {Nature Methods},
+  year = {2014},
+  month = {Aug},
+  day = {01},
+  volume = {11},
+  number = {8},
+  pages = {801-807},
+  abstract = {This Perspective discusses the power of large mutational scans for the study of protein properties, the analytical challenges posed by the resulting data sets and the potential of this approach to further our understanding of human genetic variation.},
+  issn = {1548-7105},
+  doi = {10.1038/nmeth.3027},
+  url = {https://doi.org/10.1038/nmeth.3027},
+}
+
+@article{Castro2022,
+  author = {Castro, Egbert
+and Godavarthi, Abhinav
+and Rubinfien, Julian
+and Givechian, Kevin
+and Bhaskar, Dhananjay
+and Krishnaswamy, Smita},
+  title = {Transformer-based protein generation with regularized latent space optimization},
+  journal = {Nature Machine Intelligence},
+  year = {2022},
+  month = {Oct},
+  day = {01},
+  volume = {4},
+  number = {10},
+  pages = {840-851},
+  abstract = {The development of powerful natural language models has improved the ability to learn meaningful representations of protein sequences. In addition, advances in high-throughput mutagenesis, directed evolution and next-generation sequencing have allowed for the accumulation of large amounts of labelled fitness data. Leveraging these two trends, we introduce Regularized Latent Space Optimization (ReLSO), a deep transformer-based autoencoder, which features a highly structured latent space that is trained to jointly generate sequences as well as predict fitness. Through regularized prediction heads, ReLSO introduces a powerful protein sequence encoder and a novel approach for efficient fitness landscape traversal. Using ReLSO, we explicitly model the sequence--function landscape of large labelled datasets and generate new molecules by optimizing within the latent space using gradient-based methods. We evaluate this approach on several publicly available protein datasets, including variant sets of anti-ranibizumab and green fluorescent protein. We observe a greater sequence optimization efficiency (increase in fitness per optimization step) using ReLSO compared with other approaches, where ReLSO more robustly generates high-fitness sequences. Furthermore, the attention-based relationships learned by the jointly trained ReLSO models provide a potential avenue towards sequence-level fitness attribution information.},
+  issn = {2522-5839},
+  doi = {10.1038/s42256-022-00532-1},
+  url = {https://doi.org/10.1038/s42256-022-00532-1},
+}
+
+@article{Kauffman1989,
+  title = {The NK model of rugged fitness landscapes and its application to maturation of the immune response},
+  volume = {141},
+  issn = {0022-5193},
+  url = {http://dx.doi.org/10.1016/s0022-5193(89)80019-0},
+  doi = {10.1016/s0022-5193(89)80019-0},
+  number = {2},
+  journal = {Journal of Theoretical Biology},
+  publisher = {Elsevier BV},
+  author = {Kauffman,  Stuart A. and Weinberger,  Edward D.},
+  year = {1989},
+  pages = {211–245},
+}
+
+@inproceedings{frey2024protein,
+  title = {Protein Discovery with Discrete Walk-Jump Sampling},
+  author = {Nathan C. Frey and Dan Berenberg and Karina Zadorozhny and Joseph Kleinhenz and Julien Lafrance-Vanasse and Isidro Hotzel and Yan Wu and Stephen Ra and Richard Bonneau and Kyunghyun Cho and Andreas Loukas and Vladimir Gligorijevic and Saeed Saremi},
+  booktitle = {The Twelfth International Conference on Learning Representations},
+  year = {2024},
+  url = {https://openreview.net/forum?id=zMPHKOmQNb},
+}
+
+@inproceedings{NIPS2003_87682805,
+  author = {Zhou, Dengyong and Bousquet, Olivier and Lal, Thomas and Weston, Jason and Sch\"{o},
+  booktitle = {Advances in Neural Information Processing Systems},
+  editor = {S. Thrun and L. Saul and B. Sch\"{o},
+  pages = {},
+  publisher = {MIT Press},
+  title = {Learning with Local and Global Consistency},
+  url = {https://proceedings.neurips.cc/paper_files/paper/2003/file/87682805257e619d49b8e0dfdc14affa-Paper.pdf},
+  volume = {16},
+  year = {2003},
+}
+
+@misc{brockman2016openaigym,
+  title = {OpenAI Gym},
+  author = {Greg Brockman and Vicki Cheung and Ludwig Pettersson and Jonas Schneider and John Schulman and Jie Tang and Wojciech Zaremba},
+  year = {2016},
+  eprint = {1606.01540},
+  archiveprefix = {arXiv},
+  primaryclass = {cs.LG},
+  url = {https://arxiv.org/abs/1606.01540},
+}
+
+@inproceedings{huang2021combining,
+  title = {Combining Label Propagation and Simple Models out-performs Graph Neural Networks},
+  author = {Qian Huang and Horace He and Abhay Singh and Ser-Nam Lim and Austin Benson},
+  booktitle = {International Conference on Learning Representations},
+  year = {2021},
+  url = {https://openreview.net/forum?id=8E1-f3VhX1o},
+}
+
+@article{Liu1989,
+  author = {Liu, Dong C.
+and Nocedal, Jorge},
+  title = {On the limited memory BFGS method for large scale optimization},
+  journal = {Mathematical Programming},
+  year = {1989},
+  month = {Aug},
+  day = {01},
+  volume = {45},
+  number = {1},
+  pages = {503-528},
+  abstract = {We study the numerical performance of a limited memory quasi-Newton method for large scale optimization, which we call the L-BFGS method. We compare its performance with that of the method developed by Buckley and LeNir (1985), which combines cycles of BFGS steps and conjugate direction steps. Our numerical tests indicate that the L-BFGS method is faster than the method of Buckley and LeNir, and is better able to use additional storage to accelerate convergence. We show that the L-BFGS method can be greatly accelerated by means of a simple scaling. We then compare the L-BFGS method with the partitioned quasi-Newton method of Griewank and Toint (1982a). The results show that, for some problems, the partitioned quasi-Newton method is clearly superior to the L-BFGS method. However we find that for other problems the L-BFGS method is very competitive due to its low iteration cost. We also study the convergence properties of the L-BFGS method, and prove global convergence on uniformly convex problems.},
+  issn = {1436-4646},
+  doi = {10.1007/BF01589116},
+  url = {https://doi.org/10.1007/BF01589116},
+}
+
+@inproceedings{pmlr-v100-ahn20a,
+  title = {ROBEL: Robotics Benchmarks for Learning with Low-Cost Robots},
+  author = {Ahn, Michael and Zhu, Henry and Hartikainen, Kristian and Ponte, Hugo and Gupta, Abhishek and Levine, Sergey and Kumar, Vikash},
+  booktitle = {Proceedings of the Conference on Robot Learning},
+  pages = {1300--1313},
+  year = {2020},
+  editor = {Kaelbling, Leslie Pack and Kragic, Danica and Sugiura, Komei},
+  volume = {100},
+  series = {Proceedings of Machine Learning Research},
+  month = {30 Oct--01 Nov},
+  publisher = {PMLR},
+  pdf = {http://proceedings.mlr.press/v100/ahn20a/ahn20a.pdf},
+  url = {https://proceedings.mlr.press/v100/ahn20a.html},
+  abstract = {ROBEL is an open-source platform of cost-effective robots designed for reinforcement learning in the real world. ROBEL introduces two robots, each aimed to accelerate reinforcement learning research in different task domains: D’Claw is a three-fingered hand robot that facilitates learning dexterous manipulation tasks, and D’Kitty is a four-legged robot that facilitates learning agile legged locomotion tasks. These low-cost, modular robots are easy to maintain and are robust enough to sustain on-hardware reinforcement learning from scratch with over 14000 training hours registered on them to date. To leverage this platform, we propose an extensible set of continuous control benchmark tasks for each robot. These tasks feature dense and sparse task objectives, and additionally introduce score metrics for hardware-safety. We provide benchmark scores on an initial set of tasks using a variety of learning-based methods. Furthermore, we show that these results can be replicated across copies of the robots located in different institutions. Code, documentation, design files, detailed assembly instructions, trained policies, baseline details, task videos, and all supplementary materials required to reproduce the results are available at www.roboticsbenchmarks.org.},
+}
+
+@article{Abril07,
+}
+
+@inproceedings{VanGundy07,
+  articleno = {Paper 7},
+}
+
+@mastersthesis{anisi03,
+  author = {David A. Anisi},
+  title = {Optimal Motion Control of a Ground Vehicle},
+  school = {Royal Institute of Technology (KTH), Stockholm, Sweden},
+  intitution = {FOI-R-0961-SE, Swedish Defence Research Agency (FOI)},
+  year = {2003},
+}
+
+@inproceedings{2004:ITE:1009386.1010128,
+  key = {IEEE},
+  title = {IEEE TCSC Executive Committee},
+  booktitle = {Proceedings of the IEEE International Conference on Web Services},
+  series = {ICWS '04},
+  year = {2004},
+  isbn = {0-7695-2167-3},
+  pages = {21--22},
+  url = {http://dx.doi.org/10.1109/ICWS.2004.64},
+  doi = {http://dx.doi.org/10.1109/ICWS.2004.64},
+  acmid = {1010128},
+  publisher = {IEEE Computer Society},
+  address = {Washington, DC, USA},
+}
+
+@article{SaeediMEJ10,
+  author = {Mehdi Saeedi and Morteza Saheb Zamani and Mehdi Sedighi},
+  title = {A library-based synthesis methodology for reversible logic},
+  journal = {Microelectron. J.},
+  volume = {41},
+  number = {4},
+  year = {2010},
+  pages = {185--194},
+}
+
+@article{Kirschmer:2010:AEI:1958016.1958018,
+  author = {Kirschmer, Markus and Voight, John},
+  title = {Algorithmic Enumeration of Ideal Classes for Quaternion Orders},
+  journal = {SIAM J. Comput.},
+  issue_date = {January 2010},
+  volume = {39},
+  number = {5},
+  year = {2010},
+  issn = {0097-5397},
+  pages = {1714--1747},
+  numpages = {34},
+  url = {http://dx.doi.org/10.1137/080734467},
+  doi = {https://doi.org/10.1137/080734467},
+  acmid = {1958018},
+  publisher = {Society for Industrial and Applied Mathematics},
+  address = {Philadelphia, PA, USA},
+  keywords = {ideal classes, maximal orders, number theory, quaternion algebras},
+}
+
+@book{MR781537,
+  author = {H{\"o},
+  mrnumber = {781536 (87d:35002a)},
+  mrclass = {35-02 (35Sxx 47G05 58G15)},
+  publisher = {Springer-Verlag},
+  year = {1985},
+  address = {Berlin, Germany},
+  pages = {viii+525},
+  isbn = {3-540-13828-5},
+  volume = {275},
+  series = {Grundlehren der Mathematischen Wissenschaften [Fundamental
+              Principles of Mathematical Sciences]},
+  mrreviewer = {Min You Qi},
+  note = {Pseudodifferential operators},
+  title = {The analysis of linear partial differential operators. {III},
+}
+
+@online{TUGInstmem,
+  key = {TUG},
+}
+
+@software{R,
+  title = {R: A Language and Environment for Statistical Computing},
+  author = {{R Core Team},
+  organization = {R Foundation for Statistical Computing},
+  address = {Vienna, Austria},
+  year = {2019},
+  url = {https://www.R-project.org/},
+}
+
+@dataset{UMassCitations,
+  author = {Sam Anzaroot and Andrew McCallum},
+  title = {{UMass},
+  url = {http://www.iesl.cs.umass.edu/data/data-umasscitationfield},
+  lastaccessed = {May 27, 2019},
+}
+
+@article{Bornmann2019,
+  author = {Bornmann, Lutz and Wray, K. Brad and Haunschild,
+                  Robin},
+  title = {Citation concept analysis {(CCA)},
+  keywords = {Computer Science - Digital Libraries},
+  eid = {arXiv:1905.12410},
+  archiveprefix = {arXiv},
+  eprint = {1905.12410},
+  primaryclass = {cs.DL},
+}
+
+@article{AnzarootPBM14,
+  author = {Sam Anzaroot and
+               Alexandre Passos and
+               David Belanger and
+               Andrew McCallum},
+  title = {Learning Soft Linear Constraints with Application to
+                  Citation Field Extraction},
+  year = {2014},
+  archiveprefix = {arXiv},
+  eprint = {1403.1349},
+}
+
+@inproceedings{Hagerup1993,
+  title = {Maintaining Discrete Probability Distributions Optimally},
+  author = {Hagerup, Torben and Mehlhorn, Kurt and Munro, J. Ian},
+  booktitle = {Proceedings of the 20th International Colloquium on Automata, Languages and Programming},
+  series = {Lecture Notes in Computer Science},
+  volume = {700},
+  pages = {253--264},
+  year = {1993},
+  publisher = {Springer-Verlag},
+  address = {Berlin},
+}

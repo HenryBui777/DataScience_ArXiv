@@ -1,0 +1,13 @@
+{
+  "title": "Why do language models perform worse for morphologically complex languages?",
+  "authors": [
+    "Catherine Arnett",
+    "Benjamin K. Bergen"
+  ],
+  "summary": "Language models perform differently across languages. It has been previously suggested that morphological typology may explain some of this variability (Cotterell et al., 2018). We replicate previous analyses and find additional new evidence for a performance gap between agglutinative and fusional languages, where fusional languages, such as English, tend to have better language modeling performance than morphologically more complex languages like Turkish. We then propose and test three possible causes for this performance gap: morphological alignment of tokenizers, tokenization quality, and disparities in dataset sizes and measurement. To test the morphological alignment hypothesis, we present MorphScore, a tokenizer evaluation metric, and supporting datasets for 22 languages. We find some evidence that tokenization quality explains the performance gap, but none for the role of morphological alignment. Instead we find that the performance gap is most reduced when training datasets are of equivalent size across language types, but only when scaled according to the so-called \"byte-premium\" -- the different encoding efficiencies of different languages and orthographies. These results suggest that no language is harder or easier for a language model to learn on the basis of its morphological typology. Differences in performance can be attributed to disparities in dataset size. These results bear on ongoing efforts to improve performance for low-performing and under-resourced languages.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Adaptive Routing of Text-to-Image Generation Requests Between Large Cloud Model and Light-Weight Edge Model",
+  "authors": [
+    "Zewei Xin",
+    "Qinya Li",
+    "Chaoyue Niu",
+    "Fan Wu",
+    "Guihai Chen"
+  ],
+  "summary": "Large text-to-image models demonstrate impressive generation capabilities; however, their substantial size necessitates expensive cloud servers for deployment. Conversely, light-weight models can be deployed on edge devices at lower cost but often with inferior generation quality for complex user prompts. To strike a balance between performance and cost, we propose a routing framework, called RouteT2I, which dynamically selects either the large cloud model or the light-weight edge model for each user prompt. Since generated image quality is challenging to measure and compare directly, RouteT2I establishes multi-dimensional quality metrics, particularly, by evaluating the similarity between the generated images and both positive and negative texts that describe each specific quality metric. RouteT2I then predicts the expected quality of the generated images by identifying key tokens in the prompt and comparing their impact on the quality. RouteT2I further introduces the Pareto relative superiority to compare the multi-metric quality of the generated images. Based on this comparison and predefined cost constraints, RouteT2I allocates prompts to either the edge or the cloud. Evaluation reveals that RouteT2I significantly reduces the number of requesting large cloud model while maintaining high-quality image generation.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-08-21"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.LG"
+}

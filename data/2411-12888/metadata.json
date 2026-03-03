@@ -1,0 +1,19 @@
+{
+  "title": "An Experimental Multi-Band Channel Characterization in the Upper Mid-Band",
+  "authors": [
+    "Roberto Bomfin",
+    "Ahmad Bazzi",
+    "Hao Guo",
+    "Hyeongtaek Lee",
+    "Marco Mezzavilla",
+    "Sundeep Rangan",
+    "Junil Choi",
+    "Marwa Chafii"
+  ],
+  "summary": "The following paper provides a multi-band channel measurement analysis on the frequency range (FR)3. This study focuses on the FR3 low frequencies 6.5 GHz and 8.75 GHz with a setup tailored to the context of integrated sensing and communication (ISAC), where the data are collected with and without the presence of a target. A method based on multiple signal classification (MUSIC) is used to refine the delays of the channel impulse response estimates. The results reveal that the channel at the lower frequency 6.5 GHz has additional distinguishable multipath components in the presence of the target, while the one associated with the higher frequency 8.75 GHz has more blockage. The set of results reported in this paper serves as a benchmark for future multi-band studies in the FR3 spectrum.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IT, eess.SP"
+}

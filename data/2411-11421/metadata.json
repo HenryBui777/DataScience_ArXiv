@@ -1,0 +1,15 @@
+{
+  "title": "Enabling DBSCAN for Very Large-Scale High-Dimensional Spaces",
+  "authors": [
+    "Yongyu Wang"
+  ],
+  "summary": "DBSCAN is one of the most important non-parametric unsupervised data analysis tools. By applying DBSCAN to a dataset, two key analytical results can be obtained: (1) clustering data points based on density distribution and (2) identifying outliers in the dataset. However, the time complexity of the DBSCAN algorithm is $O(n^2 β)$, where $n$ is the number of data points and $β= O(D)$, with $D$ representing the dimensionality of the data space. As a result, DBSCAN becomes computationally infeasible when both $n$ and $D$ are large. In this paper, we propose a DBSCAN method based on spectral data compression, capable of efficiently processing datasets with a large number of data points ($n$) and high dimensionality ($D$). By preserving only the most critical structural information during the compression process, our method effectively removes substantial redundancy and noise. Consequently, the solution quality of DBSCAN is significantly improved, enabling more accurate and reliable results.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-29",
+    "2024-12-03"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

@@ -1,0 +1,27 @@
+{
+  "title": "Teaching Experiences using the RVfpga Package",
+  "authors": [
+    "D. Chaver",
+    "S. Harris",
+    "L. Pinuel",
+    "O. Kindgren",
+    "R. Kravitz",
+    "J. I. Gomez",
+    "F. Castro",
+    "K. Olcoz",
+    "J. Villalba",
+    "A. Grinshpun",
+    "F. Gabbay",
+    "L. Seed",
+    "R. Duarte",
+    "M. Lopez",
+    "O. Alonso",
+    "R. Owen"
+  ],
+  "summary": "The RVfpga course offers a solid introduction to computer architecture using the RISC-V instruction set and FPGA technology. It focuses on providing hands-on experience with real-world RISC-V cores, the VeeR EH1 and the VeeR EL2, developed by Western Digital a few years ago and currently hosted by ChipsAlliance. This course is particularly aimed at educators and students in computer science, computer engineering, and related fields, enabling them to integrate practical RISC-V knowledge into their curricula. The course materials, which include detailed labs and setup guides, are available for free through the Imagination University Programme website. We have used RVfpga in different teaching activities and we plan to continue using it in the future. Specifically, we have used RVfpga as the main experimental platform in several bachelor/master degree courses; we have completed several final bachelor/master degree projects based on this platform; we will conduct a microcredential about processor design based on RVfpga; we have adapted RVfpga to a MOOC in the edX platform; and we have shared RVfpga worldwide through one-day hands-on workshops and tutorials. This paper begins by discussing how the RVfpga course matches the latest IEEE/ACM/AAAI computing curriculum guidelines. It then details various teaching implementations we have conducted over recent years using these materials. Finally, the paper examines other courses similar to RVfpga, comparing their strengths and weaknesses.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AR"
+}

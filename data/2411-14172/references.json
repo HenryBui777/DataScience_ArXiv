@@ -1,0 +1,325 @@
+{
+  "2409-07756": {
+    "title": "DiTAS: Quantizing Diffusion Transformers via Enhanced Activation Smoothing",
+    "authors": [
+      "Zhenyuan Dong",
+      "Saiqian Zhang"
+    ],
+    "publication_date": "2024-09-12",
+    "venue": "IEEE Workshop/Winter Conference on Applications of Computer Vision",
+    "semantic_scholar_id": "a5208116a521333e1e752b5faf8f904b5f3a3697",
+    "corpus_id": 272600154,
+    "category": "Computer Science"
+  },
+  "2406-17343": {
+    "title": "Q-DiT: Accurate Post-Training Quantization for Diffusion Transformers",
+    "authors": [
+      "Lei Chen",
+      "Yuan Meng",
+      "Chen Tang",
+      "Xinzhu Ma",
+      "Jingyan Jiang",
+      "Xin Wang",
+      "Zhi Wang",
+      "Wenwu Zhu"
+    ],
+    "publication_date": "2024-06-25",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "7b01a39038e2f9dcd389d3271be8de47b08771fc",
+    "corpus_id": 270710887,
+    "category": "Computer Science"
+  },
+  "2405-16005": {
+    "title": "PTQ4DiT: Post-training Quantization for Diffusion Transformers",
+    "authors": [
+      "Junyi Wu",
+      "Haoxuan Wang",
+      "Yuzhang Shang",
+      "Mubarak Shah",
+      "Yan Yan"
+    ],
+    "publication_date": "2024-05-25",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "0365ad3bd3543c330a2dda5c679355cd74a2a372",
+    "corpus_id": 270063266,
+    "category": "Computer Science"
+  },
+  "2402-17177": {
+    "title": "Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models",
+    "authors": [
+      "Yixin Liu",
+      "Kai Zhang",
+      "Yuan Li",
+      "Zhiling Yan",
+      "Chujie Gao",
+      "Ruoxi Chen",
+      "Zhengqing Yuan",
+      "Yue Huang",
+      "Hanchi Sun",
+      "Jianfeng Gao",
+      "Lifang He",
+      "Lichao Sun"
+    ],
+    "publication_date": "2024-02-27",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "a6f7485dfdf45320e82d84bcfdc51bcd52dff18b",
+    "corpus_id": 268032569,
+    "category": "Computer Science"
+  },
+  "2311-00932": {
+    "title": "Toward High-Quality HDR Deghosting With Conditional Diffusion Models",
+    "authors": [
+      "Qingsen Yan",
+      "Tao Hu",
+      "Yuan Sun",
+      "Hao Tang",
+      "Yu Zhu",
+      "Wei Dong",
+      "Luc Van Gool",
+      "Yanning Zhang"
+    ],
+    "publication_date": "2023-11-02",
+    "venue": "IEEE transactions on circuits and systems for video technology (Print)",
+    "semantic_scholar_id": "19b1150246bbfd7ee87bbda4b0a1855edb321c3d",
+    "corpus_id": 264398424,
+    "category": "Computer Science, Engineering"
+  },
+  "2305-10657": {
+    "title": "PTQD: Accurate Post-Training Quantization for Diffusion Models",
+    "authors": [
+      "Yefei He",
+      "Luping Liu",
+      "Jing Liu",
+      "Weijia Wu",
+      "Hong Zhou",
+      "Bohan Zhuang"
+    ],
+    "publication_date": "2023-05-18",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "936d32864240bde74f5824df3bd8343d8de08843",
+    "corpus_id": 258762678,
+    "category": "Computer Science"
+  },
+  "2302-04304": {
+    "title": "Q-Diffusion: Quantizing Diffusion Models",
+    "authors": [
+      "Xiuyu Li",
+      "Long Lian",
+      "Yijia Liu",
+      "Hua Yang",
+      "Zhen Dong",
+      "Daniel Kang",
+      "Shanghang Zhang",
+      "Kurt Keutzer"
+    ],
+    "publication_date": "2023-02-08",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "489ab1945feb21f17b3efbcf40726c8cbb52bb75",
+    "corpus_id": 256697129,
+    "category": "Computer Science"
+  },
+  "2212-09748": {
+    "title": "Scalable Diffusion Models with Transformers",
+    "authors": [
+      "William S. Peebles",
+      "Saining Xie"
+    ],
+    "publication_date": "2022-12-19",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "736973165f98105fec3729b7db414ae4d80fcbeb",
+    "corpus_id": 254854389,
+    "category": "Computer Science"
+  },
+  "2212-08254": {
+    "title": "RepQ-ViT: Scale Reparameterization for Post-Training Quantization of Vision Transformers",
+    "authors": [
+      "Zhikai Li",
+      "Junrui Xiao",
+      "Lianwei Yang",
+      "Qingyi Gu"
+    ],
+    "publication_date": "2022-12-16",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "529ddd65f6c252aaea91d6a8e5b55b7bc3951841",
+    "corpus_id": 254823125,
+    "category": "Computer Science"
+  },
+  "2211-15736": {
+    "title": "Post-Training Quantization on Diffusion Models",
+    "authors": [
+      "Yuzhang Shang",
+      "Zhihang Yuan",
+      "Bin Xie",
+      "Bingzhe Wu",
+      "Yan Yan"
+    ],
+    "publication_date": "2022-11-28",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "d5e0ee741e953d857263f70787449e4a57fc1c8d",
+    "corpus_id": 254069829,
+    "category": "Computer Science"
+  },
+  "2211-10438": {
+    "title": "SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models",
+    "authors": [
+      "Guangxuan Xiao",
+      "Ji Lin",
+      "Mickael Seznec",
+      "Julien Demouth",
+      "Song Han"
+    ],
+    "publication_date": "2022-11-18",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "2c994fadbb84fb960d8306ee138dbeef41a5b323",
+    "corpus_id": 253708271,
+    "category": "Computer Science"
+  },
+  "2209-04747": {
+    "title": "Diffusion Models in Vision: A Survey",
+    "authors": [
+      "Florinel-Alin Croitoru",
+      "Vlad Hondru",
+      "Radu Tudor Ionescu",
+      "M. Shah"
+    ],
+    "publication_date": "2022-09-10",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "efa1647594b236361610a20d507127f0586a379b",
+    "corpus_id": 252199918,
+    "category": "Computer Science, Medicine"
+  },
+  "2206-01861": {
+    "title": "ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers",
+    "authors": [
+      "Z. Yao",
+      "Reza Yazdani Aminabadi",
+      "Minjia Zhang",
+      "Xiaoxia Wu",
+      "Conglong Li",
+      "Yuxiong He"
+    ],
+    "publication_date": "2022-06-04",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "e03609f2587f690867e7ea0bedaf0db25282c548",
+    "corpus_id": 249395624,
+    "category": "Computer Science"
+  },
+  "2203-05740": {
+    "title": "QDrop: Randomly Dropping Quantization for Extremely Low-bit Post-Training Quantization",
+    "authors": [
+      "Xiuying Wei",
+      "Ruihao Gong",
+      "Yuhang Li",
+      "Xianglong Liu",
+      "F. Yu"
+    ],
+    "publication_date": "2022-03-11",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "edfea69d9cd1a4d40f4d879aa36f93ad7d26a659",
+    "corpus_id": 247411282,
+    "category": "Computer Science"
+  },
+  "2112-10752": {
+    "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+    "authors": [
+      "Robin Rombach",
+      "A. Blattmann",
+      "Dominik Lorenz",
+      "Patrick Esser",
+      "B. Ommer"
+    ],
+    "publication_date": "2021-12-20",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "c10075b3746a9f3dd5811970e93c8ca3ad39b39d",
+    "corpus_id": 245335280,
+    "category": "Computer Science"
+  },
+  "2111-13824": {
+    "title": "FQ-ViT: Post-Training Quantization for Fully Quantized Vision Transformer",
+    "authors": [
+      "Yang Lin",
+      "Tianyu Zhang",
+      "Peiqin Sun",
+      "Zheng Li",
+      "Shuchang Zhou"
+    ],
+    "publication_date": "2021-11-27",
+    "venue": "International Joint Conference on Artificial Intelligence",
+    "semantic_scholar_id": "1ee05cd919590eaba129caa0fda5e850c87b75a5",
+    "corpus_id": 248300269,
+    "category": "Computer Science"
+  },
+  "2111-12293": {
+    "title": "PTQ4ViT: Post-training Quantization for Vision Transformers with Twin Uniform Quantization",
+    "authors": [
+      "Zhihang Yuan",
+      "Chenhao Xue",
+      "Yiqi Chen",
+      "Qiang Wu",
+      "Guangyu Sun"
+    ],
+    "publication_date": "2021-11-24",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "39a620939887c9fc1f9bdd7ecfabde985a4aad3a",
+    "corpus_id": 244527659,
+    "category": "Computer Science"
+  },
+  "2109-08963": {
+    "title": "SDTP: Semantic-Aware Decoupled Transformer Pyramid for Dense Image Prediction",
+    "authors": [
+      "Zekun Li",
+      "Yufan Liu",
+      "Bing Li",
+      "Bailan Feng",
+      "Kebin Wu",
+      "Chengwei Peng",
+      "Weiming Hu"
+    ],
+    "publication_date": "2021-09-18",
+    "venue": "IEEE transactions on circuits and systems for video technology (Print)",
+    "semantic_scholar_id": "6f780bc752953ca13b3347dbeeff9dac71b1c251",
+    "corpus_id": 237571506,
+    "category": "Computer Science"
+  },
+  "2102-05426": {
+    "title": "BRECQ: Pushing the Limit of Post-Training Quantization by Block Reconstruction",
+    "authors": [
+      "Yuhang Li",
+      "Ruihao Gong",
+      "Xu Tan",
+      "Yang Yang",
+      "Peng Hu",
+      "Qi Zhang",
+      "F. Yu",
+      "Wei Wang",
+      "Shi Gu"
+    ],
+    "publication_date": "2021-02-10",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "6dffdeb81ebc761a8cce1e36b8d140d5b8d2a0e3",
+    "corpus_id": 231861390,
+    "category": "Computer Science"
+  },
+  "2010-11929": {
+    "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+    "authors": [
+      "Alexey Dosovitskiy",
+      "Lucas Beyer",
+      "Alexander Kolesnikov",
+      "Dirk Weissenborn",
+      "Xiaohua Zhai",
+      "Thomas Unterthiner",
+      "Mostafa Dehghani",
+      "M. Minderer",
+      "G. Heigold",
+      "S. Gelly",
+      "Jakob Uszkoreit",
+      "N. Houlsby"
+    ],
+    "publication_date": "2020-10-22",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "268d347e8a55b5eb82fb5e7d2f800e33c75ab18a",
+    "corpus_id": 225039882,
+    "category": "Computer Science"
+  }
+}

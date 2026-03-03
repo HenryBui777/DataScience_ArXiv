@@ -1,0 +1,17 @@
+{
+  "title": "Graphs with Bipartite Complement that Admit Two Distinct Eigenvalues",
+  "authors": [
+    "Wayne Barrett",
+    "Shaun Fallat",
+    "Veronika Furst",
+    "Shahla Nasserasr",
+    "Brendan Rooney",
+    "Michael Tait"
+  ],
+  "summary": "The parameter $q(G)$ of an $n$-vertex graph $G$ is the minimum number of distinct eigenvalues over the family of symmetric matrices described by $G$. We show that all $G$ with $e(\\overline{G}) = |E(\\overline{G})| \\leq \\lfloor n/2 \\rfloor -1$ have $q(G)=2$. We conjecture that any $G$ with $e(\\overline{G}) \\leq n-3$ satisfies $q(G) = 2$. We show that this conjecture is true if $\\overline{G}$ is bipartite and in other sporadic cases. Furthermore, we characterize $G$ with $\\overline{G}$ bipartite and $e(\\overline{G}) = n-2$ for which $q(G) > 2$.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.CO"
+}

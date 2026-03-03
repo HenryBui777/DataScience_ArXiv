@@ -1,0 +1,12 @@
+{
+  "title": "Defining Lyapunov functions as the solution of a performance estimation saddle point problem",
+  "authors": [
+    "Olivier Fercoq"
+  ],
+  "summary": "In this paper, we reinterpret quadratic Lyapunov functions as solutions to a performance estimation saddle point problem. This allows us to automatically detect the existence of such a Lyapunov function and thus numerically check that a given algorithm converges. The novelty of this work is that we show how to define the saddle point problem using the PEPit software  andthen solve it with DSP-CVXPY.This combination gives us a very strong modeling power because defining new points and their relations across iterates is very easy in PEPit. We can without effort define auxiliary points used for the sole purpose of designing more complex Lyapunov functions, define complex functional classes like the class of convex-concave saddle point problems whose smoothed duality gap has the quadratic error bound property or study complex algorithms like primal-dual coordinate descent method.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC"
+}

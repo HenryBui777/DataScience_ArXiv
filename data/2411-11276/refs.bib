@@ -1,0 +1,282 @@
+@article{raissi2019,
+  title = {Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations},
+  author = {Raissi, Maziar and Perdikaris, Paris and Karniadakis, George E},
+  journal = {Journal of Computational physics},
+  volume = {378},
+  pages = {686--707},
+  year = {2019},
+  publisher = {Elsevier},
+}
+
+@article{raissi2017,
+  title = {Physics informed deep learning (part i): Data-driven solutions of nonlinear partial differential equations},
+  author = {Raissi, Maziar and Perdikaris, Paris and Karniadakis, George Em},
+  journal = {arXiv preprint arXiv:1711.10561},
+  year = {2017},
+}
+
+@inbook{LeVeque1992,
+}
+
+@article{mei2024unified,
+  title = {Unified finite-volume physics informed neural networks to solve the heterogeneous partial differential equations},
+  author = {Mei, Di and Zhou, Kangcheng and Liu, Chun-Ho},
+  journal = {Knowledge-Based Systems},
+  volume = {295},
+  pages = {111831},
+  year = {2024},
+  publisher = {Elsevier},
+}
+
+@article{li2024predicting,
+  title = {Predicting unsteady incompressible fluid dynamics with finite volume informed neural network},
+  author = {Li, Tianyu and Zou, Shufan and Chang, Xinghua and Zhang, Laiping and Deng, Xiaogang},
+  journal = {Physics of Fluids},
+  volume = {36},
+  number = {4},
+  year = {2024},
+  publisher = {AIP Publishing},
+}
+
+@article{jeon2021fvm,
+  title = {FVM Network to reduce computational cost of CFD simulation},
+  author = {Jeon, Joongoo and Kim, Sung Joong},
+  journal = {arXiv preprint arXiv},
+  volume = {2105},
+  year = {2021},
+}
+
+@article{PATEL2022110754,
+  title = {Thermodynamically consistent physics-informed neural networks for hyperbolic systems},
+  journal = {Journal of Computational Physics},
+  volume = {449},
+  pages = {110754},
+  year = {2022},
+  issn = {0021-9991},
+  doi = {https://doi.org/10.1016/j.jcp.2021.110754},
+  url = {https://www.sciencedirect.com/science/article/pii/S0021999121006495},
+  author = {Ravi G. Patel and Indu Manickam and Nathaniel A. Trask and Mitchell A. Wood and Myoungkyu Lee and Ignacio Tomas and Eric C. Cyr},
+  keywords = {Physics-informed neural networks, Inverse problems, Machine learning, Equation of state, Conservation laws, Shock hydrodynamics},
+  abstract = {Physics-informed neural network architectures have emerged as a powerful tool for developing flexible PDE solvers that easily assimilate data. When applied to problems in shock physics however, these approaches face challenges related to the collocation-based PDE discretization underpinning them. By instead adopting a least squares space-time control volume scheme, we obtain a scheme which more naturally handles: regularity requirements, imposition of boundary conditions, entropy compatibility, and conservation, substantially reducing requisite hyperparameters in the process. Additionally, connections to classical finite volume methods allows application of inductive biases toward entropy solutions and total variation diminishing properties. For inverse problems in shock hydrodynamics, we propose inductive biases for discovering thermodynamically consistent equations of state that guarantee hyperbolicity. This framework therefore provides a means of discovering continuum shock models from molecular simulations of rarefied gases and metals. The output of the learning process provides a data-driven equation of state which may be incorporated into traditional shock hydrodynamics codes.},
+}
+
+@article{li2023finite,
+  title = {Finite Volume Graph Network (FVGN): Predicting unsteady incompressible fluid dynamics with finite volume informed neural network},
+  author = {Li, Tianyu and Zhou, Shufan and Chang, Xinghua and Zhang, Laiping and Deng, Xiaogang},
+  journal = {arXiv preprint arXiv:2309.10050},
+  year = {2023},
+}
+
+@article{liu2024discontinuity,
+  title = {Discontinuity computing using physics-informed neural networks},
+  author = {Liu, Li and Liu, Shengping and Xie, Hui and Xiong, Fansheng and Yu, Tengchao and Xiao, Mengjuan and Liu, Lufeng and Yong, Heng},
+  journal = {Journal of Scientific Computing},
+  volume = {98},
+  number = {1},
+  pages = {22},
+  year = {2024},
+  publisher = {Springer},
+}
+
+@misc{deryck2022wpinns,
+  title = {wPINNs: Weak Physics informed neural networks for approximating entropy solutions of hyperbolic conservation laws},
+  author = {Tim De Ryck and Siddhartha Mishra and Roberto Molinaro},
+  year = {2022},
+  eprint = {2207.08483},
+  archiveprefix = {arXiv},
+  primaryclass = {math.NA},
+}
+
+@article{MAO2020112789,
+  title = {Physics-informed neural networks for high-speed flows},
+  journal = {Computer Methods in Applied Mechanics and Engineering},
+  volume = {360},
+  pages = {112789},
+  year = {2020},
+  issn = {0045-7825},
+  doi = {https://doi.org/10.1016/j.cma.2019.112789},
+  url = {https://www.sciencedirect.com/science/article/pii/S0045782519306814},
+  author = {Zhiping Mao and Ameya D. Jagtap and George Em Karniadakis},
+  keywords = {Euler equations, Machine learning, Neural networks, Conservation laws, Riemann problem, Hidden fluid mechanics},
+  abstract = {In this work we investigate the possibility of using physics-informed neural networks (PINNs) to approximate the Euler equations that model high-speed aerodynamic flows. In particular, we solve both the forward and inverse problems in one-dimensional and two-dimensional domains. For the forward problem, we utilize the Euler equations and the initial/boundary conditions to formulate the loss function, and solve the one-dimensional Euler equations with smooth solutions and with solutions that have a contact discontinuity as well as a two-dimensional oblique shock wave problem. We demonstrate that we can capture the solutions with only a few scattered points clustered randomly around the discontinuities. For the inverse problem, motivated by mimicking the Schlieren photography experimental technique used traditionally in high-speed aerodynamics, we use the data on density gradient ∇ρ(x,t), the pressure p(x∗,t) at a specified point x=x∗ as well as the conservation laws to infer all states of interest (density, velocity and pressure fields). We present illustrative benchmark examples for both the problem with smooth solutions and Riemann problems (Sod and Lax problems) with PINNs, demonstrating that all inferred states are in good agreement with the reference solutions. Moreover, we show that the choice of the position of the point x∗ plays an important role in the learning process. In particular, for the problem with smooth solutions we can randomly choose the position of the point x∗ from the computational domain, while for the Sod or Lax problem, we have to choose the position of the point x∗ from the domain between the initial discontinuous point and the shock position of the final time. We also solve the inverse problem by combining the aforementioned data and the Euler equations in characteristic form, showing that the results obtained by using the Euler equations in characteristic form are better than that obtained by using the Euler equations in conservative form. Furthermore, we consider another type of inverse problem, specifically, we employ PINNs to learn the value of the parameter γ in the equation of state for the parameterized two-dimensional oblique wave problem by using the given data of the density, velocity and the pressure, and we identify the parameter γ accurately. Taken together, our results demonstrate that in the current form, where the conservation laws are imposed at random points, PINNs are not as accurate as traditional numerical methods for forward problems but they are superior for inverse problems that cannot even be solved with standard techniques.},
+}
+
+@article{YUAN2022111260,
+  title = {A-PINN: Auxiliary physics informed neural networks for forward and inverse problems of nonlinear integro-differential equations},
+  journal = {Journal of Computational Physics},
+  volume = {462},
+  pages = {111260},
+  year = {2022},
+  issn = {0021-9991},
+  doi = {https://doi.org/10.1016/j.jcp.2022.111260},
+  url = {https://www.sciencedirect.com/science/article/pii/S0021999122003229},
+  author = {Lei Yuan and Yi-Qing Ni and Xiang-Yun Deng and Shuo Hao},
+  keywords = {Physics informed neural network (PINN), Auxiliary physics informed neural network (A-PINN), Integro-differential equations (IDEs), Deep learning, Multi-output neural network},
+  abstract = {Physics informed neural networks (PINNs) are a novel deep learning paradigm primed for solving forward and inverse problems of nonlinear partial differential equations (PDEs). By embedding physical information delineated by PDEs in feedforward neural networks, PINNs are trained as surrogate models for approximate solution to the PDEs without need of label data. Due to the excellent capability of neural networks in describing complex relationships, a variety of PINN-based methods have been developed to solve different kinds of problems such as integer-order PDEs, fractional PDEs, stochastic PDEs and integro-differential equations (IDEs). However, for the state-of-the-art PINN methods in application to IDEs, integral discretization is a key prerequisite in order that IDEs can be transformed into ordinary differential equations (ODEs). However, integral discretization inevitably introduces discretization error and truncation error to the solution. In this study, we propose an auxiliary physics informed neural network (A-PINN) framework for solving forward and inverse problems of nonlinear IDEs. By defining auxiliary output variable(s) to represent the integral(s) in the governing equation and employing automatic differentiation of the auxiliary output to replace integral operator, the proposed A-PINN bypasses the limitation of integral discretization. Distinct from the neural network in the original PINN which only approximates the variables in the governing equation, in the proposed A-PINN framework, a multi-output neural network is constructed to simultaneously calculate the primary outputs and auxiliary outputs which respectively approximate the variables and integrals in the governing equation. Subsequently, the relationship between the primary outputs and auxiliary outputs is constrained by new output conditions in compliance with physical laws. By pursuing the first-order nonlinear Volterra IDE benchmark problem, we validate that the proposed A-PINN can obtain more accurate solution than the conventional PINN. We further demonstrate the good performance of A-PINN in solving the forward problems involving nonlinear Volterra IDEs system, nonlinear 2-dimensional Volterra IDE, nonlinear 10-dimensional Volterra IDE, and nonlinear Fredholm IDE. Finally, the A-PINN framework is implemented to solve the inverse problem of nonlinear IDEs and the results show that the unknown parameters can be satisfactorily discovered even with heavily noisy data.},
+}
+
+@misc{wang2022respecting,
+  title = {Respecting causality is all you need for training physics-informed neural networks},
+  author = {Sifan Wang and Shyam Sankaran and Paris Perdikaris},
+  year = {2022},
+  eprint = {2203.07404},
+  archiveprefix = {arXiv},
+  primaryclass = {cs.LG},
+}
+
+@misc{wang2023experts,
+  title = {An Expert's Guide to Training Physics-informed Neural Networks},
+  author = {Sifan Wang and Shyam Sankaran and Hanwen Wang and Paris Perdikaris},
+  year = {2023},
+  eprint = {2308.08468},
+  archiveprefix = {arXiv},
+  primaryclass = {cs.LG},
+}
+
+@misc{chaumet2023improving,
+  title = {Improving Weak PINNs for Hyperbolic Conservation Laws: Dual Norm Computation, Boundary Conditions and Systems},
+  author = {Aidan Chaumet and Jan Giesselmann},
+  year = {2023},
+  eprint = {2211.12393},
+  archiveprefix = {arXiv},
+  primaryclass = {math.NA},
+}
+
+@inproceedings{rajvanshi2024integral,
+  title = {INTEGRAL PINNS FOR HYPERBOLIC CONSERVATION LAWS},
+  author = {Rajvanshi, Manvendra P and Ketcheson, David I},
+  booktitle = {ICLR 2024 Workshop on AI4DifferentialEquations In Science},
+}
+
+@article{doi:10.1080/10618562.2010.523518,
+  author = {Souren Misra, S. V. Raghurama Rao and Manoj Kumar Bobba},
+  title = {Relaxation system based sub-grid scale modelling for large eddy simulation of Burgers' equation},
+  journal = {International Journal of Computational Fluid Dynamics},
+  volume = {24},
+  number = {8},
+  pages = {303--315},
+  year = {2010},
+  publisher = {IAHR Website},
+  doi = {10.1080/10618562.2010.523518},
+}
+
+@article{https://doi.org/10.1002/cpa.3160030302,
+  author = {Hopf, Eberhard},
+  title = {The partial differential equation ut + uux = μxx},
+  journal = {Communications on Pure and Applied Mathematics},
+  volume = {3},
+  number = {3},
+  pages = {201-230},
+  doi = {https://doi.org/10.1002/cpa.3160030302},
+  url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/cpa.3160030302},
+  eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/cpa.3160030302},
+  year = {1950},
+}
+
+@misc{diab2021pinnssolutionhyperbolicbuckleyleverett,
+  title = {PINNs for the Solution of the Hyperbolic Buckley-Leverett Problem with a Non-convex Flux Function},
+  author = {Waleed Diab and Mohammed Al Kobaisi},
+  year = {2021},
+  eprint = {2112.14826},
+  archiveprefix = {arXiv},
+  primaryclass = {physics.flu-dyn},
+  url = {https://arxiv.org/abs/2112.14826},
+}
+
+@inproceedings{fraces2021physics,
+  title = {Physics informed deep learning for flow and transport in porous media},
+  author = {Fraces, Cedric G and Tchelepi, Hamdi},
+  booktitle = {SPE Reservoir Simulation Conference?},
+  pages = {D011S006R002},
+  year = {2021},
+  organization = {SPE},
+}
+
+@book{toro2013riemann,
+  title = {Riemann solvers and numerical methods for fluid dynamics: a practical introduction},
+  author = {Toro, Eleuterio F},
+  year = {2013},
+  publisher = {Springer Science \& Business Media},
+}
+
+@article{SOD19781,
+  title = {A survey of several finite difference methods for systems of nonlinear hyperbolic conservation laws},
+  journal = {Journal of Computational Physics},
+  volume = {27},
+  number = {1},
+  pages = {1-31},
+  year = {1978},
+  issn = {0021-9991},
+  doi = {https://doi.org/10.1016/0021-9991(78)90023-2},
+  url = {https://www.sciencedirect.com/science/article/pii/0021999178900232},
+  author = {Gary A Sod},
+  abstract = {The finite difference methods of Godunov, Hyman, Lax and Wendroff (two-step), MacCormack, Rusanov, the upwind scheme, the hybrid scheme of Harten and Zwas, the antidiffusion method of Boris and Book, the artificial compression method of Harten, and Glimm's method, a random choice method, are discussed. The methods are used to integrate the one-dimensional Eulerian form of the equations of gas dynamics in Cartesian coordinates for an inviscid, nonheat-conducting fluid. The test problem was a typical shock tube problem. The results are compared and demonstrate that Glimm's method has several advantages.},
+}
+
+@article{VANLEER1979101,
+  title = {Towards the ultimate conservative difference scheme. V. A second-order sequel to Godunov's method},
+  journal = {Journal of Computational Physics},
+  volume = {32},
+  number = {1},
+  pages = {101-136},
+  year = {1979},
+  issn = {0021-9991},
+  doi = {https://doi.org/10.1016/0021-9991(79)90145-1},
+  url = {https://www.sciencedirect.com/science/article/pii/0021999179901451},
+  author = {Bram {van Leer},
+  abstract = {A method of second-order accuracy is described for integrating the equations of ideal compressible flow. The method is based on the integral conservation laws and is dissipative, so that it can be used across shocks. The heart of the method is a one-dimensional Lagrangean scheme that may be regarded as a second-order sequel to Godunov's method. The second-order accuracy is achieved by taking the distributions of the state quantities inside a gas slab to be linear, rather than uniform as in Godunov's method. The Lagrangean results are remapped with least-squares accuracy onto the desired Euler grid in a separate step. Several monotonicity algorithms are applied to ensure positivity, monotonicity and nonlinear stability. Higher dimensions are covered through time splitting. Numerical results for one-dimensional and two-dimensional flows are presented, demonstrating the efficiency of the method. The paper concludes with a summary of the results of the whole series “Towards the Ultimate Conservative Difference Scheme.”},
+}
+
+@book{brenner2008mathematical,
+  title = {The mathematical theory of finite element methods},
+  author = {Brenner, Susanne C},
+  year = {2008},
+  publisher = {Springer},
+}
+
+@book{thomee2007galerkin,
+  title = {Galerkin finite element methods for parabolic problems},
+  author = {Thom{\'e},
+  volume = {25},
+  year = {2007},
+  publisher = {Springer Science \& Business Media},
+}
+
+@article{doi:10.1137/22M1514131,
+  author = {Li, Zhaohui and Yang, Shihao and Wu, C. F. Jeff},
+  title = {Parameter Inference Based on Gaussian Processes Informed by Nonlinear Partial Differential Equations},
+  journal = {SIAM/ASA Journal on Uncertainty Quantification},
+  volume = {12},
+  number = {3},
+  pages = {964-1004},
+  year = {2024},
+  doi = {10.1137/22M1514131},
+}
+
+@article{muskat1938flow,
+  title = {The flow of homogeneous fluids through porous media},
+  author = {Muskat, Morris},
+  journal = {Soil Science},
+  volume = {46},
+  number = {2},
+  pages = {169},
+  year = {1938},
+  publisher = {LWW},
+}
+
+@article{DBLP:journals/corr/abs-1910-03193,
+  author = {Lu Lu and
+                  Pengzhan Jin and
+                  George Em Karniadakis},
+  title = {DeepONet: Learning nonlinear operators for identifying differential
+                  equations based on the universal approximation theorem of operators},
+  journal = {CoRR},
+  volume = {abs/1910.03193},
+  year = {2019},
+  url = {http://arxiv.org/abs/1910.03193},
+  eprinttype = {arXiv},
+  eprint = {1910.03193},
+  timestamp = {Wed, 11 Dec 2019 15:12:01 +0100},
+  biburl = {https://dblp.org/rec/journals/corr/abs-1910-03193.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}

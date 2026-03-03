@@ -1,0 +1,14 @@
+{
+  "title": "Database Design for SpExoDisks: A Database & Web Portal for Spectra of Exoplanet-Forming Disks",
+  "authors": [
+    "Caleb Wheeler",
+    "Natalie R. Hinkel",
+    "Andrea Banzatti"
+  ],
+  "summary": "Data access -- or the availability of new and archival data for use by the larger community -- is key for scientific advancement. How data is presented, searched, and formatted determines accessibility and it can be difficult to find a solution that fits the needs of a given subdiscipline. We present a generalized roadmap for developing a specialty astronomy database with web application based on the development of the SpExoDisks (Spectra of Exoplanet forming Disks) database (spexodisks.com), which provides infrared spectra of protoplanetary disks. Expertise in an astronomy subdiscipline can provide two necessary components for creating a database: access to a large volume of specialized data and knowledge of how that data should be presented to the community. However, there are a variety of steps and decisions for database development that can fall outside astronomy expertise. Here we offer generalized discussions on design and process that are accompanied by real-world examples from the SpExoDisks developer team and website. Starting from the database portal design and data organization, we demonstrate on-demand data distribution and query using publicly accessible database software. These systems support interactive visualizations such that users can explore spectra directly from their browsers. We also offer details that show how the technical concepts in SpExoDisks are implemented, particularly emphasizing sustainability and long-term management of the codebase and processes. Finally, we illustrate the utility that a specialty website can offer to the community by providing a specific example of how the combined spectra from SpExoDisks can enhance our understanding of protoplanetary disks.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.IM, astro-ph.EP, astro-ph.SR"
+}

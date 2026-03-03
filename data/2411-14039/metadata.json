@@ -1,0 +1,15 @@
+{
+  "title": "Uterine Ultrasound Image Captioning Using Deep Learning Techniques",
+  "authors": [
+    "Abdennour Boulesnane",
+    "Boutheina Mokhtari",
+    "Oumnia Rana Segueni",
+    "Slimane Segueni"
+  ],
+  "summary": "Medical imaging has significantly revolutionized medical diagnostics and treatment planning, progressing from early X-ray usage to sophisticated methods like MRIs, CT scans, and ultrasounds. This paper investigates the use of deep learning for medical image captioning, with a particular focus on uterine ultrasound images. These images are vital in obstetrics and gynecology for diagnosing and monitoring various conditions across different age groups. However, their interpretation is often challenging due to their complexity and variability. To address this, a deep learning-based medical image captioning system was developed, integrating Convolutional Neural Networks with a Bidirectional Gated Recurrent Unit network. This hybrid model processes both image and text features to generate descriptive captions for uterine ultrasound images. Our experimental results demonstrate the effectiveness of this approach over baseline methods, with the proposed model achieving superior performance in generating accurate and informative captions, as indicated by higher BLEU and ROUGE scores. By enhancing the interpretation of uterine ultrasound images, our research aims to assist medical professionals in making timely and accurate diagnoses, ultimately contributing to improved patient care.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Induced subgraphs and tree decompositions XVII. Anticomplete sets of large treewidth",
+  "authors": [
+    "Maria Chudnovsky",
+    "Sepehr Hajebi",
+    "Sophie Spirkl"
+  ],
+  "summary": "Two sets $X, Y$ of vertices in a graph $G$ are \"anticomplete\" if $X\\cap Y=\\varnothing$ and there is no edge in $G$ with an end in $X$ and an end in $Y$. We prove that every graph $G$ of sufficiently large treewidth contains two anticomplete sets of vertices each inducing a subgraph of large treewidth unless $G$ contains, as an induced subgraph, a highly structured graph of large treewidth that is an obvious counterexample to this statement. These are: complete graphs, complete bipartite graphs and \"interrupted $s$-constellations.\" The latter is a slightly adjusted version of a well-known construction by Bonamy et al.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.CO"
+}

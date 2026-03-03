@@ -1,0 +1,16 @@
+{
+  "title": "An Experimental Study on Data Augmentation Techniques for Named Entity Recognition on Low-Resource Domains",
+  "authors": [
+    "Arthur Elwing Torres",
+    "Edleno Silva de Moura",
+    "Altigran Soares da Silva",
+    "Mario A. Nascimento",
+    "Filipe Mesquita"
+  ],
+  "summary": "Named Entity Recognition (NER) is a machine learning task that traditionally relies on supervised learning and annotated data. Acquiring such data is often a challenge, particularly in specialized fields like medical, legal, and financial sectors. Those are commonly referred to as low-resource domains, which comprise long-tail entities, due to the scarcity of available data. To address this, data augmentation techniques are increasingly being employed to generate additional training instances from the original dataset. In this study, we evaluate the effectiveness of two prominent text augmentation techniques, Mention Replacement and Contextual Word Replacement, on two widely-used NER models, Bi-LSTM+CRF and BERT. We conduct experiments on four datasets from low-resource domains, and we explore the impact of various combinations of training subset sizes and number of augmented examples. We not only confirm that data augmentation is particularly beneficial for smaller datasets, but we also demonstrate that there is no universally optimal number of augmented examples, i.e., NER practitioners must experiment with different quantities in order to fine-tune their projects.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.IR, cs.LG"
+}

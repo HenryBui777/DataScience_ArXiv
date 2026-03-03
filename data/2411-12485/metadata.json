@@ -1,0 +1,13 @@
+{
+  "title": "Measurement-Based Quantum Compiling via Gauge Invariance",
+  "authors": [
+    "Sebastiano Corli",
+    "Enrico Prati"
+  ],
+  "summary": "The measurement-based architecture is a paradigm of quantum computing, relying on the entanglement of a cluster of qubits and the measurements of a subset of it, conditioning the state of the unmeasured output qubits. While methods to map the gate model circuits into the measurement-based are already available via intermediate steps, we introduce a new paradigm for quantum compiling directly converting any quantum circuit to a class of graph states, independently from its size. Such method relies on the stabilizer formalism to describe the register of the input qubits. An equivalence class between graph states able to implement the same circuit is defined, giving rise to a gauge freedom when compiling in the MBQC frame. The graph state can be rebuilt from the circuit and the input by employing a set of graphical rules similar to the Feynman's ones. A system of equations describes the overall process. Compared to Measurement Calculus, the ancillary qubits are reduced by 50% on QFT and 75% on QAOA.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

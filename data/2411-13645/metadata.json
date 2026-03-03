@@ -1,0 +1,16 @@
+{
+  "title": "Real-Time Scattering in Ising Field Theory using Matrix Product States",
+  "authors": [
+    "Raghav G. Jha",
+    "Ashley Milsted",
+    "Dominik Neuenfeld",
+    "John Preskill",
+    "Pedro Vieira"
+  ],
+  "summary": "We study scattering in Ising Field Theory (IFT) using matrix product states and the time-dependent variational principle. IFT is a one-parameter family of strongly coupled non-integrable quantum field theories in 1+1 dimensions, interpolating between massive free fermion theory and Zamolodchikov's integrable massive $E_8$ theory. Particles in IFT may scatter either elastically or inelastically. In the post-collision wavefunction, particle tracks from all final-state channels occur in superposition; processes of interest can be isolated by projecting the wavefunction onto definite particle sectors, or by evaluating energy density correlation functions. Using numerical simulations we determine the time delay of elastic scattering and the probability of inelastic particle production as a function of collision energy. We also study the mass and width of the lightest resonance near the $E_8$ point in detail. Close to both the free fermion and $E_8$ theories, our results for both elastic and inelastic scattering are in good agreement with expectations from form-factor perturbation theory. Using numerical computations to go beyond the regime accessible by perturbation theory, we find that the high energy behavior of the two-to-two particle scattering probability in IFT is consistent with a conjecture of Zamolodchikov. Our results demonstrate the efficacy of tensor-network methods for simulating the real-time dynamics of strongly coupled quantum field theories in 1+1 dimensions.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "Phys. Rev. Research 7, 023266 (2025)",
+  "pdf_url": null,
+  "category": "hep-th, cond-mat.str-el, hep-lat, quant-ph"
+}

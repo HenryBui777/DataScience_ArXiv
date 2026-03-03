@@ -1,0 +1,17 @@
+{
+  "title": "CB$^2$O: Consensus-Based Bi-Level Optimization",
+  "authors": [
+    "Nicolás García Trillos",
+    "Sixu Li",
+    "Konstantin Riedl",
+    "Yuhua Zhu"
+  ],
+  "summary": "Bi-level optimization problems, where one wishes to find the global minimizer of an upper-level objective function over the globally optimal solution set of a lower-level objective, arise in a variety of scenarios throughout science and engineering, machine learning, and artificial intelligence. In this paper, we propose and investigate, analytically and experimentally, consensus-based bi-level optimization (CB$^2$O), a multi-particle metaheuristic derivative-free optimization method designed to solve bi-level optimization problems when both objectives may be nonconvex. Our method leverages within the computation of the consensus point a carefully designed particle selection principle implemented through a suitable choice of a quantile on the level of the lower-level objective, together with a Laplace principle-type approximation w.r.t. the upper-level objective function, to ensure that the bi-level optimization problem is solved in an intrinsic manner. We give an existence proof of solutions to a corresponding mean-field dynamics, for which we first establish the stability of our consensus point w.r.t. a combination of Wasserstein and $L^2$ perturbations, and consecutively resort to PDE considerations extending the classical Picard iteration to construct a solution. For such solution, we provide a global convergence analysis in mean-field law showing that the solution of the associated nonlinear nonlocal Fokker-Planck equation converges exponentially fast to the unique solution of the bi-level optimization problem provided suitable choices of the hyperparameters. The practicability and efficiency of our CB$^2$O algorithm is demonstrated through extensive numerical experiments in the settings of constrained global optimization, sparse representation learning, and robust (clustered) federated learning.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-05-10"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC, math.AP"
+}

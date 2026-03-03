@@ -1,0 +1,19 @@
+{
+  "title": "Bimanual Dexterity for Complex Tasks",
+  "authors": [
+    "Kenneth Shaw",
+    "Yulong Li",
+    "Jiahui Yang",
+    "Mohan Kumar Srirama",
+    "Ray Liu",
+    "Haoyu Xiong",
+    "Russell Mendonca",
+    "Deepak Pathak"
+  ],
+  "summary": "To train generalist robot policies, machine learning methods often require a substantial amount of expert human teleoperation data. An ideal robot for humans collecting data is one that closely mimics them: bimanual arms and dexterous hands. However, creating such a bimanual teleoperation system with over 50 DoF is a significant challenge. To address this, we introduce Bidex, an extremely dexterous, low-cost, low-latency and portable bimanual dexterous teleoperation system which relies on motion capture gloves and teacher arms. We compare Bidex to a Vision Pro teleoperation system and a SteamVR system and find Bidex to produce better quality data for more complex tasks at a faster rate. Additionally, we show Bidex operating a mobile bimanual robot for in the wild tasks. The robot hands (5k USD) and teleoperation system (7k USD) is readily reproducible and can be used on many robot arms including two xArms (16k USD). Website at https://bidex-teleop.github.io/",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO, cs.AI, cs.CV, cs.LG"
+}

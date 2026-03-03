@@ -1,0 +1,15 @@
+{
+  "title": "Exact Quantum Algorithm for Unit Commitment Optimization based on Partially Connected Quantum Neural Networks",
+  "authors": [
+    "Jian Liu",
+    "Xu Zhou",
+    "Zhuojun Zhou",
+    "Le Luo"
+  ],
+  "summary": "The quantum hybrid algorithm has become a very promising and speedily method today for solving the larger-scale optimization in the noisy intermediate-scale quantum (NISQ) era. The unit commitment (UC) problem is a fundamental problem in the power system which aims to satisfy a balance load with minimal cost. In this paper, we focus on the implement of the UC-solving by exact quantum algorithms based on the quantum neural network (QNN). This method is tested with up to 10-unit system with the balance load constraint. In order to improve the computing precision and reduce the network complexity, we suggest the knowledge-based partially connected quantum neural network (PCQNN). The results show that the exact solutions can be obtained by the improved algorithm and the depth of the quantum circuit can be reduced simultaneously.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "Chinese Physics B, 2025",
+  "pdf_url": null,
+  "category": "quant-ph, cs.IT"
+}

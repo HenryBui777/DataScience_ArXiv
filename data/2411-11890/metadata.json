@@ -1,0 +1,13 @@
+{
+  "title": "Some asymptotic formulae involving Cohen-Ramanujan expansions",
+  "authors": [
+    "Arya Chandran",
+    "Vishnu Namboothiri K"
+  ],
+  "summary": "Cohen-Ramanujan sum, denoted by $c_r^s(n)$, is an exponential sum similar to the Ramanujan sum $c_r(n):=\\sum\\limits_{\\substack{h=1\\\\{(h,r)=1}}}^{r}e^{\\frac{2πi n h}{r}}$. An arithmetical function $f$ is said to admit a Cohen-Ramanujan expansion\n  $ f(n):=\\sum\\limits_{r}\\widehat{f}(r)c_r^s(n)$ if the series on the right hand side converges for suitable complex numbers $\\widehat{f}(r)$. Given two arithmetical functions $f$ and $g$ with absolutely convergent Cohen-Ramanujan expansions, we derive an asymptotic formula for the sum $\\sum\\limits_{\\substack{n\\leq N}}f(n)g(n+h)$ where $h$ is a fixed non negative integer. We also provide Cohen-Ramanujan expansions for certain functions to illustrate some of the results we prove consequently.",
+  "submission_date": "2024-11-07",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NT"
+}

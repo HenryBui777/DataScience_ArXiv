@@ -1,0 +1,19 @@
+{
+  "title": "Autoassociative Learning of Structural Representations for Modeling and Classification in Medical Imaging",
+  "authors": [
+    "Zuzanna Buchnajzer",
+    "Kacper Dobek",
+    "Stanisław Hapke",
+    "Daniel Jankowski",
+    "Krzysztof Krawiec"
+  ],
+  "summary": "Deep learning architectures based on convolutional neural networks tend to rely on continuous, smooth features. While this characteristics provides significant robustness and proves useful in many real-world tasks, it is strikingly incompatible with the physical characteristic of the world, which, at the scale in which humans operate, comprises crisp objects, typically representing well-defined categories. This study proposes a class of neurosymbolic systems that learn by reconstructing images in terms of visual primitives and are thus forced to form high-level, structural explanations of them. When applied to the task of diagnosing abnormalities in histological imaging, the method proved superior to a conventional deep learning architecture in terms of classification accuracy, while being more transparent.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-25",
+    "2025-03-27"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.LG"
+}

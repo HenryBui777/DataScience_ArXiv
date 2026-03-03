@@ -1,0 +1,18 @@
+{
+  "title": "Identity Preserving 3D Head Stylization with Multiview Score Distillation",
+  "authors": [
+    "Bahri Batuhan Bilecen",
+    "Ahmet Berke Gokmen",
+    "Furkan Guzelant",
+    "Aysegul Dundar"
+  ],
+  "summary": "3D head stylization transforms realistic facial features into artistic representations, enhancing user engagement across gaming and virtual reality applications. While 3D-aware generators have made significant advancements, many 3D stylization methods primarily provide near-frontal views and struggle to preserve the unique identities of original subjects, often resulting in outputs that lack diversity and individuality. This paper addresses these challenges by leveraging the PanoHead model, synthesizing images from a comprehensive 360-degree perspective. We propose a novel framework that employs negative log-likelihood distillation (LD) to enhance identity preservation and improve stylization quality. By integrating multi-view grid score and mirror gradients within the 3D GAN architecture and introducing a score rank weighing technique, our approach achieves substantial qualitative and quantitative improvements. Our findings not only advance the state of 3D head stylization but also provide valuable insights into effective distillation processes between diffusion models and GANs, focusing on the critical issue of identity preservation. Please visit the https://three-bee.github.io/head_stylization for more visuals.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-07-01",
+    "2025-08-20"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI, cs.GR, cs.LG, cs.MM"
+}

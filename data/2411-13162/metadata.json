@@ -1,0 +1,26 @@
+{
+  "title": "IC Mechanisms for Risk-Averse Advertisers in the Online Advertising System",
+  "authors": [
+    "Bingzhe Wang",
+    "Ruohan Qian",
+    "Yuejia Dou",
+    "Qi Qi",
+    "Bo Shen",
+    "Changyuan Li",
+    "Yixuan Zhang",
+    "Yixin Su",
+    "Xin Yuan",
+    "Wenqiang liu",
+    "Bin Zou",
+    "Wen Yi",
+    "Zhi Guo",
+    "Shuanglong Li",
+    "Liu Lin"
+  ],
+  "summary": "The autobidding system generates huge revenue for advertising platforms, garnering substantial research attention. Existing studies in autobidding systems focus on designing Autobidding Incentive Compatible (AIC) mechanisms, where the mechanism is Incentive Compatible (IC) under ex ante expectations. However, upon deploying AIC mechanisms in advertising platforms, we observe a notable deviation between the actual auction outcomes and these expectations during runtime, particularly in the scene with few clicks (sparse-click). This discrepancy undermines truthful bidding among advertisers in AIC mechanisms, especially for risk-averse advertisers who are averse to outcomes that do not align with the expectations. To address this issue, we propose a mechanism, Decoupled First-Price Auction (DFP), that retains its IC property even during runtime. DFP dynamically adjusts the payment based on real-time user conversion outcomes, ensuring that advertisers' realized utilities closely approximate their expected utilities during runtime. To realize the payment mechanism of DFP, we propose a PPO-based RL algorithm, with a meticulously crafted reward function. This algorithm dynamically adjusts the payment to fit DFP mechanism. We conduct extensive experiments leveraging real-world data to validate our findings.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.GT"
+}

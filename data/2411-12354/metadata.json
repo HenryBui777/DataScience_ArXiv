@@ -1,0 +1,16 @@
+{
+  "title": "Scalable and Effective Negative Sample Generation for Hyperedge Prediction",
+  "authors": [
+    "Shilin Qu",
+    "Weiqing Wang",
+    "Yuan-Fang Li",
+    "Quoc Viet Hung Nguyen",
+    "Hongzhi Yin"
+  ],
+  "summary": "Hyperedge prediction is crucial in hypergraph analysis for understanding complex multi-entity interactions in various web-based applications, including social networks and e-commerce systems. Traditional methods often face difficulties in generating high-quality negative samples due to the imbalance between positive and negative instances. To address this, we present the Scalable and Effective Negative Sample Generation for Hyperedge Prediction (SEHP) framework, which utilizes diffusion models to tackle these challenges. SEHP employs a boundary-aware loss function that iteratively refines negative samples, moving them closer to decision boundaries to improve classification performance. SEHP samples positive instances to form sub-hypergraphs for scalable batch processing. By using structural information from sub-hypergraphs as conditions within the diffusion process, SEHP effectively captures global patterns. To enhance efficiency, our approach operates directly in latent space, avoiding the need for discrete ID generation and resulting in significant speed improvements while preserving accuracy. Extensive experiments show that SEHP outperforms existing methods in accuracy, efficiency, and scalability, representing a substantial advancement in hyperedge prediction techniques. Our code is available here.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IR"
+}

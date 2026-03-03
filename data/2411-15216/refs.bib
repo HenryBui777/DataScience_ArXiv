@@ -1,0 +1,320 @@
+@inproceedings{pmlr-v139-yang21m,
+  author = {Yang, Yuzhe and Zha, Kaiwen and Chen, Yingcong and Wang, Hao and Katabi, Dina},
+  booktitle = {Proceedings of the 38th International Conference on Machine Learning},
+  editor = {Meila, Marina and Zhang, Tong},
+  pages = {11842--11851},
+  year = {2021},
+  publisher = {PMLR},
+  abstract = {Real-world data often exhibit imbalanced distributions, where certain target values have significantly fewer observations. Existing techniques for dealing with imbalanced data focus on targets with categorical indices, i.e., different classes. However, many tasks involve continuous targets, where hard boundaries between classes do not exist. We define Deep Imbalanced Regression (DIR) as learning from such imbalanced data with continuous targets, dealing with potential missing data for certain target values, and generalizing to the entire target range. Motivated by the intrinsic difference between categorical and continuous label space, we propose distribution smoothing for both labels and features, which explicitly acknowledges the effects of nearby targets, and calibrates both label and learned feature distributions. We curate and benchmark large-scale DIR datasets from common real-world tasks in computer vision, natural language processing, and healthcare domains. Extensive experiments verify the superior performance of our strategies. Our work fills the gap in benchmarks and techniques for practical imbalanced regression problems. Code and data are available at: https://github.com/YyzHarry/imbalanced-regression.},
+  month = {18--24 Jul},
+  volume = {139},
+  series = {Proceedings of Machine Learning Research},
+  title = {Delving into Deep Imbalanced Regression},
+  pdf = {http://proceedings.mlr.press/v139/yang21m/yang21m.pdf},
+}
+
+@inproceedings{pmlr-v162-gong22a,
+  author = {Gong, Yu and Mori, Greg and Tung, Fred},
+  booktitle = {Proceedings of the 39th International Conference on Machine Learning},
+  editor = {Chaudhuri, Kamalika and Jegelka, Stefanie and Song, Le and Szepesvari, Csaba and Niu, Gang and Sabato, Sivan},
+  pages = {7634--7649},
+  year = {2022},
+  publisher = {PMLR},
+  abstract = {Data imbalance, in which a plurality of the data samples come from a small proportion of labels, poses a challenge in training deep neural networks. Unlike classification, in regression the labels are continuous, potentially boundless, and form a natural ordering. These distinct features of regression call for new techniques that leverage the additional information encoded in label-space relationships. This paper presents the RankSim (ranking similarity) regularizer for deep imbalanced regression, which encodes an inductive bias that samples that are closer in label space should also be closer in feature space. In contrast to recent distribution smoothing based approaches, RankSim captures both nearby and distant relationships: for a given data sample, RankSim encourages the sorted list of its neighbors in label space to match the sorted list of its neighbors in feature space. RankSim is complementary to conventional imbalanced learning techniques, including re-weighting, two-stage training, and distribution smoothing, and lifts the state-of-the-art performance on three imbalanced regression benchmarks: IMDB-WIKI-DIR, AgeDB-DIR, and STS-B-DIR.},
+  month = {17--23 Jul},
+  volume = {162},
+  series = {Proceedings of Machine Learning Research},
+  title = {{R},
+  pdf = {https://proceedings.mlr.press/v162/gong22a/gong22a.pdf},
+}
+
+@inproceedings{DBLP:conf/iclr/KeramatiME24,
+  author = {Mahsa Keramati and
+                  Lili Meng and
+                  R. David Evans},
+  year = {2024},
+  publisher = {OpenReview.net},
+  booktitle = {The Twelfth International Conference on Learning Representations,
+                  {ICLR},
+  title = {ConR: Contrastive Regularizer for Deep Imbalanced Regression},
+  timestamp = {Wed, 07 Aug 2024 17:11:53 +0200},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  biburl = {https://dblp.org/rec/conf/iclr/KeramatiME24.bib},
+}
+
+@inproceedings{ren2022balanced,
+  author = {Ren, Jiawei and Zhang, Mingyuan and Yu, Cunjun and Liu, Ziwei},
+  pages = {7926--7935},
+  year = {2022},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  title = {Balanced mse for imbalanced visual regression},
+}
+
+@article{chawla2002smote,
+  author = {Chawla, Nitesh V and Bowyer, Kevin W and Hall, Lawrence O and Kegelmeyer, W Philip},
+  pages = {321--357},
+  year = {2002},
+  volume = {16},
+  title = {SMOTE: synthetic minority over-sampling technique},
+  journal = {Journal of artificial intelligence research},
+}
+
+@inproceedings{torgo2013smote,
+  author = {Torgo, Lu{\'\i},
+  pages = {378--389},
+  year = {2013},
+  organization = {Springer},
+  booktitle = {Portuguese conference on artificial intelligence},
+  title = {Smote for regression},
+}
+
+@inproceedings{branco2017smogn,
+  author = {Branco, Paula and Torgo, Lu{\'\i},
+  pages = {36--50},
+  year = {2017},
+  organization = {PMLR},
+  booktitle = {First international workshop on learning with imbalanced domains: Theory and applications},
+  title = {SMOGN: a pre-processing approach for imbalanced regression},
+}
+
+@inproceedings{pmlr-v94-branco18a,
+  author = {Branco, Paula and Torgo, Luis and Ribeiro, Rita P.},
+  booktitle = {Proceedings of the Second International Workshop on Learning with Imbalanced Domains: Theory and Applications},
+  editor = {Torgo, Luís and Matwin, Stan and Japkowicz, Nathalie and Krawczyk, Bartosz and Moniz, Nuno and Branco, Paula},
+  pages = {67--81},
+  year = {2018},
+  publisher = {PMLR},
+  abstract = {The problem of imbalanced domains is important in multiple real world applications. This problem has been thoroughly studied for classification tasks. In particular, the adaptation of ensembles to tackle imbalanced domains has shown important advantages in a classification context. Still, for imbalanced regression problems only a few solutions exist. Moreover, the capabilities of ensembles for dealing with imbalanced regression tasks is yet to be explored. In this paper we present the REsampled BAGGing (REBAGG) algorithm, a bagging-based ensemble method that incorporates data pre-processing strategies for addressing imbalanced domains in regression tasks. The extensive experimental evaluation conducted shows the advantage of our proposal in a diverse set of domains and learning algorithms.},
+  month = {10 Sep},
+  volume = {94},
+  series = {Proceedings of Machine Learning Research},
+  title = {REBAGG: REsampled BAGGing for Imbalanced Regression},
+  pdf = {http://proceedings.mlr.press/v94/branco18a/branco18a.pdf},
+}
+
+@article{steininger2021density,
+  author = {Steininger, Michael and Kobs, Konstantin and Davidson, Padraig and Krause, Anna and Hotho, Andreas},
+  pages = {2187--2211},
+  year = {2021},
+  publisher = {Springer},
+  volume = {110},
+  title = {Density-based weighting for imbalanced regression},
+  journal = {Machine Learning},
+}
+
+@inproceedings{moschoglou2017agedb,
+  author = {Moschoglou, Stylianos and Papaioannou, Athanasios and Sagonas, Christos and Deng, Jiankang and Kotsia, Irene and Zafeiriou, Stefanos},
+  pages = {5},
+  year = {2017},
+  volume = {2},
+  booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshop},
+  title = {Agedb: the first manually collected, in-the-wild age database},
+  number = {3},
+}
+
+@article{Rothe-IJCV-2018,
+  author = {Rasmus Rothe and Radu Timofte and Luc Van Gool},
+  pages = {144--157},
+  year = {2018},
+  publisher = {Springer},
+  volume = {126},
+  title = {Deep expectation of real and apparent age from a single image without facial landmarks},
+  journal = {International Journal of Computer Vision},
+  number = {2-4},
+}
+
+@inproceedings{blondel2020fast,
+  author = {Blondel, Mathieu and Teboul, Olivier and Berthet, Quentin and Djolonga, Josip},
+  pages = {950--959},
+  year = {2020},
+  organization = {PMLR},
+  booktitle = {International Conference on Machine Learning},
+  title = {Fast differentiable sorting and ranking},
+}
+
+@inproceedings{DBLP:conf/kdd/HongXKPMAST20,
+  author = {Shenda Hong and
+                  Yanbo Xu and
+                  Alind Khare and
+                  Satria Priambada and
+                  Kevin O. Maher and
+                  Alaa Aljiffry and
+                  Jimeng Sun and
+                  Alexey Tumanov},
+  doi = {10.1145/3394486.3403212},
+  booktitle = {{KDD},
+  editor = {Rajesh Gupta and
+                  Yan Liu and
+                  Jiliang Tang and
+                  B. Aditya Prakash},
+  timestamp = {Mon, 28 Aug 2023 14:50:23 +0200},
+  biburl = {https://dblp.org/rec/conf/kdd/HongXKPMAST20.bib},
+  pages = {1614--1624},
+  publisher = {{ACM},
+  year = {2020},
+  title = {{HOLMES:},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}
+
+@article{galloway2019development,
+  author = {Galloway, Conner D and Valys, Alexander V and Shreibati, Jacqueline B and Treiman, Daniel L and Petterson, Frank L and Gundotra, Vivek P and Albert, David E and Attia, Zachi I and Carter, Rickey E and Asirvatham, Samuel J and others},
+  pages = {428--436},
+  year = {2019},
+  publisher = {American Medical Association},
+  volume = {4},
+  title = {Development and validation of a deep-learning model to screen for hyperkalemia from the electrocardiogram},
+  journal = {JAMA cardiology},
+  number = {5},
+}
+
+@article{harmon2024mortality,
+  author = {Harmon, David M and Heinrich, Chris K and Dillon, John J and Carter, Rickey E and Kashani, Kianoush B and Attia, Zachi I and Friedman, Paul A and Jentzer, Jacob C},
+  pages = {101169},
+  year = {2024},
+  publisher = {Elsevier},
+  title = {Mortality risk stratification utilizing artificial intelligence electrocardiogram for hyperkalemia in cardiac intensive care unit patients},
+  journal = {JACC: Advances},
+}
+
+@article{buda2018systematic,
+  author = {Buda, Mateusz and Maki, Atsuto and Mazurowski, Maciej A},
+  pages = {249--259},
+  year = {2018},
+  publisher = {Elsevier},
+  volume = {106},
+  title = {A systematic study of the class imbalance problem in convolutional neural networks},
+  journal = {Neural networks},
+}
+
+@inproceedings{liu2019large,
+  author = {Liu, Ziwei and Miao, Zhongqi and Zhan, Xiaohang and Wang, Jiayun and Gong, Boqing and Yu, Stella X},
+  pages = {2537--2546},
+  year = {2019},
+  booktitle = {Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  title = {Large-scale long-tailed recognition in an open world},
+}
+
+@article{feng2018learning,
+  author = {Feng, Lin and Wang, Huibing and Jin, Bo and Li, Haohao and Xue, Mingliang and Wang, Le},
+  pages = {2384--2395},
+  year = {2018},
+  publisher = {IEEE},
+  volume = {49},
+  title = {Learning a distance metric by balancing kl-divergence for imbalanced datasets},
+  journal = {IEEE Transactions on Systems, Man, and Cybernetics: Systems},
+  number = {12},
+}
+
+@article{zheng2020conditional,
+  author = {Zheng, Ming and Li, Tong and Zhu, Rui and Tang, Yahui and Tang, Mingjing and Lin, Leilei and Ma, Zifei},
+  pages = {1009--1023},
+  year = {2020},
+  publisher = {Elsevier},
+  volume = {512},
+  title = {Conditional Wasserstein generative adversarial network-gradient penalty-based approach to alleviating imbalanced data classification},
+  journal = {Information Sciences},
+}
+
+@article{tian2020posterior,
+  author = {Tian, Junjiao and Liu, Yen-Cheng and Glaser, Nathaniel and Hsu, Yen-Chang and Kira, Zsolt},
+  pages = {8101--8113},
+  year = {2020},
+  volume = {33},
+  title = {Posterior re-calibration for imbalanced datasets},
+  journal = {Advances in neural information processing systems},
+}
+
+@article{wang2024variational,
+  author = {Wang, Ziyan and Wang, Hao},
+  year = {2024},
+  volume = {36},
+  title = {Variational imbalanced regression: Fair uncertainty quantification via probabilistic smoothing},
+  journal = {Advances in Neural Information Processing Systems},
+}
+
+@article{king2001logistic,
+  author = {King, Gary and Zeng, Langche},
+  pages = {137--163},
+  year = {2001},
+  publisher = {Cambridge University Press},
+  volume = {9},
+  title = {Logistic regression in rare events data},
+  journal = {Political analysis},
+  number = {2},
+}
+
+@article{lin2017focal,
+  author = {Lin, T},
+  year = {2017},
+  title = {Focal Loss for Dense Object Detection},
+  journal = {arXiv preprint arXiv:1708.02002},
+}
+
+@article{seiffert2009rusboost,
+  author = {Seiffert, Chris and Khoshgoftaar, Taghi M and Van Hulse, Jason and Napolitano, Amri},
+  pages = {185--197},
+  year = {2009},
+  publisher = {IEEE},
+  volume = {40},
+  title = {RUSBoost: A hybrid approach to alleviating class imbalance},
+  journal = {IEEE transactions on systems, man, and cybernetics-part A: systems and humans},
+  number = {1},
+}
+
+@article{sagawa2019distributionally,
+  author = {Sagawa, Shiori and Koh, Pang Wei and Hashimoto, Tatsunori B and Liang, Percy},
+  year = {2019},
+  title = {Distributionally robust neural networks for group shifts: On the importance of regularization for worst-case generalization},
+  journal = {arXiv preprint arXiv:1911.08731},
+}
+
+@article{crotti2020heritable,
+  author = {Crotti, Lia and Odening, Katja E and Sanguinetti, Michael C},
+  pages = {1542--1556},
+  year = {2020},
+  publisher = {Oxford University Press},
+  volume = {116},
+  title = {Heritable arrhythmias associated with abnormal function of cardiac potassium channels},
+  journal = {Cardiovascular research},
+  number = {9},
+}
+
+@article{ferreira2020abnormalities,
+  author = {Ferreira, Jo{\~a},
+  pages = {2836--2850},
+  year = {2020},
+  publisher = {American College of Cardiology Foundation Washington DC},
+  volume = {75},
+  title = {Abnormalities of potassium in heart failure: JACC state-of-the-art review},
+  journal = {Journal of the American College of Cardiology},
+  number = {22},
+}
+
+@article{kim2023potassium,
+  author = {Kim, Michael J and Valerio, Christina and Knobloch, Glynnis K},
+  pages = {59--70A},
+  year = {2023},
+  volume = {107},
+  title = {Potassium disorders: hypokalemia and hyperkalemia},
+  journal = {American Family Physician},
+  number = {1},
+}
+
+@article{parzen1962estimation,
+  author = {Parzen, Emanuel},
+  pages = {1065--1076},
+  year = {1962},
+  publisher = {JSTOR},
+  volume = {33},
+  title = {On estimation of a probability density function and mode},
+  journal = {The annals of mathematical statistics},
+  number = {3},
+}
+
+@article{johnson2020mimic,
+  author = {Johnson, Alistair and Bulgarelli, Lucas and Pollard, Tom and Horng, Steven and Celi, Leo Anthony and Mark, Roger},
+  pages = {49--55},
+  year = {2020},
+  title = {Mimic-iv},
+  journal = {PhysioNet. Available online at: https://physionet. org/content/mimiciv/1.0/(accessed August 23, 2021)},
+}

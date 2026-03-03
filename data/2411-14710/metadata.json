@@ -1,0 +1,18 @@
+{
+  "title": "Uncorrectable-error-injection based reliable and secure quantum communication",
+  "authors": [
+    "IlKwon Sohn",
+    "Boseon Kim",
+    "Kwangil Bae",
+    "Wooyeong Song",
+    "Chankyun Lee",
+    "Kabgyun Jeong",
+    "Wonhyuk Lee"
+  ],
+  "summary": "Quantum networks aim to communicate distant quantum devices, such as quantum computers. In this context, a critical requirement is the secure and reliable transmission of arbitrary quantum states. Quantum teleportation is widely used to transmit arbitrary quantum states. However, it requires entanglement swapping and purification to distribute entanglements over long distances, introducing significant overhead and complexity. These challenges limit its practicality for real-world quantum communication networks. To address this limitation, we propose a novel scheme for directly transmitting quantum states encoded using error-correction codes. The proposed scheme leverages the robustness of quantum error correction codes to ensure secure and reliable quantum communication. By encoding quantum states with error-correction codes and strategically injecting uncorrectable errors, we enhance the security and reliability of the transmission process. Our approach reduces the overhead associated with entanglement distribution and provides a high tolerance for transmission errors. This study presents an advancement in practical and scalable quantum communication networks.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

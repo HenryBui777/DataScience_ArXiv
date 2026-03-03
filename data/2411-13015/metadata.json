@@ -1,0 +1,15 @@
+{
+  "title": "Strong XOR Lemma for Information Complexity",
+  "authors": [
+    "Pachara Sawettamalya",
+    "Huacheng Yu"
+  ],
+  "summary": "For any $\\{0,1\\}$-valued function $f$, its \\emph{$n$-folded XOR} is the function $f^{\\oplus n}$ where $f^{\\oplus n}(X_1, \\ldots, X_n) = f(X_1) \\oplus \\cdots \\oplus f(X_n)$. Given a procedure for computing the function $f$, one can apply a ``naive\" approach to compute $f^{\\oplus n}$ by computing each $f(X_i)$ independently, followed by XORing the outputs. This approach uses $n$ times the resources required for computing $f$.\n  In this paper, we prove a strong XOR lemma for \\emph{information complexity} in the two-player randomized communication model: if computing $f$ with an error probability of $O(n^{-1})$ requires revealing $I$ bits of information about the players' inputs, then computing $f^{\\oplus n}$ with a constant error requires revealing $Ω(n) \\cdot (I - 1 - o_n(1))$ bits of information about the players' inputs. Our result demonstrates that the naive protocol for computing $f^{\\oplus n}$ is both information-theoretically optimal and asymptotically tight in error trade-offs.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-06-16"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CC, cs.IT"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "A new lower bound for the multicolor Ramsey number $r_k(K_{2, t + 1})$",
+  "authors": [
+    "Vladislav Taranchuk"
+  ],
+  "summary": "In this short note, we provide a new infinite family of $K_{2, t+1}$-free graphs for each prime power $t$. Using these graphs, we show that it is possible to partition the edges of $K_n$ into parts, such that each part is isomorphic to our $K_{2, t+1}$-free graph. This yields an improved lower bound to the multicolor Ramsey number $r_k(K_{2, t+1})$ when $k$ and $t$ are powers of the same prime. For these values of $k$ and $t$, our coloring implies that $$ tk^2 + 1 \\leq r_k(K_{2, t+1}) \\leq tk^2 + k + 2. $$ where the upper bound is due to Chung and Graham.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-23"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.CO"
+}

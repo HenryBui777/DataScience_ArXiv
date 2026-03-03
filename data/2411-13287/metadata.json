@@ -1,0 +1,14 @@
+{
+  "title": "Unbiased Scene Graph Generation by Type-Aware Message Passing on Heterogeneous and Dual Graphs",
+  "authors": [
+    "Guanglu Sun",
+    "Jin Qiu",
+    "Lili Liang"
+  ],
+  "summary": "Although great progress has been made in the research of unbiased scene graph generation, issues still hinder improving the predictive performance of both head and tail classes. An unbiased scene graph generation (TA-HDG) is proposed to address these issues. For modeling interactive and non-interactive relations, the Interactive Graph Construction is proposed to model the dependence of relations on objects by combining heterogeneous and dual graph, when modeling relations between multiple objects. It also implements a subject-object pair selection strategy to reduce meaningless edges. Moreover, the Type-Aware Message Passing enhances the understanding of complex interactions by capturing intra- and inter-type context in the Intra-Type and Inter-Type stages. The Intra-Type stage captures the semantic context of inter-relaitons and inter-objects. On this basis, the Inter-Type stage captures the context between objects and relations for interactive and non-interactive relations, respectively. Experiments on two datasets show that TA-HDG achieves improvements in the metrics of R@K and mR@K, which proves that TA-HDG can accurately predict the tail class while maintaining the competitive performance of the head class.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

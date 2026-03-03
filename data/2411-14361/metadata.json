@@ -1,0 +1,15 @@
+{
+  "title": "Improved Lower Bounds for all Odd-Query Locally Decodable Codes",
+  "authors": [
+    "Arpon Basu",
+    "Jun-Ting Hsieh",
+    "Pravesh K. Kothari",
+    "Andrew D. Lin"
+  ],
+  "summary": "We prove that for every odd $q\\geq 3$, any $q$-query binary, possibly non-linear locally decodable code ($q$-LDC) $E:\\{\\pm1\\}^k \\rightarrow \\{\\pm1\\}^n$ must satisfy $k \\leq \\tilde{O}(n^{1-2/q})$. For even $q$, this bound was established in a sequence of prior works. For $q=3$, the above bound was achieved in a recent work of Alrabiah, Guruswami, Kothari and Manohar using an argument that crucially exploits known exponential lower bounds for $2$-LDCs. Their strategy hits an inherent bottleneck for $q \\geq 5$.\n  Our key insight is identifying a general sufficient condition on the hypergraph of local decoding sets called $t$-approximate strong regularity. This condition demands that 1) the number of hyperedges containing any given subset of vertices of size $t$ (i.e., its co-degree) be equal to the same but arbitrary value $d_t$ up to a multiplicative constant slack, and 2) all other co-degrees be upper-bounded relative to $d_t$. This condition significantly generalizes related proposals in prior works that demand absolute upper bounds on all co-degrees.\n  We give an argument based on spectral bounds on Kikuchi Matrices that lower bounds the blocklength of any LDC whose local decoding sets satisfy $t$-approximate strong regularity for any $t \\leq q$. Crucially, unlike prior works, our argument works despite having no non-trivial absolute upper bound on the co-degrees of any set of vertices. To apply our argument to arbitrary $q$-LDCs, we give a new, greedy, approximate strong regularity decomposition that shows that arbitrary, dense enough hypergraphs can be partitioned (up to a small error) into approximately strongly regular pieces satisfying the required relative bounds on the co-degrees.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CC, math.CO"
+}

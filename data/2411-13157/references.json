@@ -1,0 +1,477 @@
+{
+  "2408-15766": {
+    "title": "Learning Harmonized Representations for Speculative Sampling",
+    "authors": [
+      "Lefan Zhang",
+      "Xiaodan Wang",
+      "Yanhua Huang",
+      "Ruiwen Xu"
+    ],
+    "publication_date": "2024-08-28",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "81039ad704a0c23059677d0bbf097b9bc90326ba",
+    "corpus_id": 271974795,
+    "category": "Computer Science"
+  },
+  "2408-11049": {
+    "title": "MagicDec: Breaking the Latency-Throughput Tradeoff for Long Context Generation with Speculative Decoding",
+    "authors": [
+      "Jian Chen",
+      "Vashisth Tiwari",
+      "Ranajoy Sadhukhan",
+      "Zhuoming Chen",
+      "Jinyuan Shi",
+      "Ian En-Hsu Yen",
+      "Beidi Chen"
+    ],
+    "publication_date": "2024-08-20",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "28ea43cfad0ad2a367096581865114b6b94a9a6e",
+    "corpus_id": 271909462,
+    "category": "Computer Science"
+  },
+  "2406-16858": {
+    "title": "EAGLE-2: Faster Inference of Language Models with Dynamic Draft Trees",
+    "authors": [
+      "Yuhui Li",
+      "Fangyun Wei",
+      "Chao Zhang",
+      "Hongyang Zhang"
+    ],
+    "publication_date": "2024-06-24",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "cab58a0263d454604896dce6b8fbf4df1dd99ff0",
+    "corpus_id": 270702281,
+    "category": "Computer Science"
+  },
+  "2406-14066": {
+    "title": "TurboSpec: Closed-loop Speculation Control System for Optimizing LLM Serving Goodput",
+    "authors": [
+      "Xiaoxuan Liu",
+      "Jongseok Park",
+      "Langxiang Hu",
+      "Woosuk Kwon",
+      "Zhuohan Li",
+      "Chen Zhang",
+      "Kuntai Du",
+      "Xiangxi Mo",
+      "Kaichao You",
+      "Alvin Cheung",
+      "Zhijie Deng",
+      "Ion Stoica",
+      "Hao Zhang"
+    ],
+    "publication_date": "2024-06-20",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "70ede1071bacc242559ff5c68f93c51744325120",
+    "corpus_id": 270619833,
+    "category": "Computer Science"
+  },
+  "2406-02532": {
+    "title": "SpecExec: Massively Parallel Speculative Decoding for Interactive LLM Inference on Consumer Devices",
+    "authors": [
+      "Ruslan Svirschevski",
+      "Avner May",
+      "Zhuoming Chen",
+      "Beidi Chen",
+      "Zhihao Jia",
+      "Max Ryabinin"
+    ],
+    "publication_date": "2024-06-04",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "05bde17d7cfe69fff3ab574d2521b9d806fc901e",
+    "corpus_id": 270226822,
+    "category": "Computer Science"
+  },
+  "2405-19715": {
+    "title": "SpecDec++: Boosting Speculative Decoding via Adaptive Candidate Lengths",
+    "authors": [
+      "Kaixuan Huang",
+      "Xudong Guo",
+      "Mengdi Wang"
+    ],
+    "publication_date": "2024-05-29",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "050d66cab131c8e10c230df9469d897622ccf7d2",
+    "corpus_id": 270123497,
+    "category": "Computer Science"
+  },
+  "2405-18628": {
+    "title": "Hardware-Aware Parallel Prompt Decoding for Memory-Efficient Acceleration of LLM Inference",
+    "authors": [
+      "H. Chen",
+      "Wayne Luk",
+      "Ka-Fai Cedric Yiu",
+      "Rui Li",
+      "Konstantin Mishchenko",
+      "Stylianos I. Venieris",
+      "Hongxiang Fan"
+    ],
+    "publication_date": "2024-05-28",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "58700f3740105e3422eb030305372b6d8bc44986",
+    "corpus_id": 270094990,
+    "category": "Computer Science"
+  },
+  "2405-06856": {
+    "title": "Aladdin: Joint Placement and Scaling for SLO-Aware LLM Serving",
+    "authors": [
+      "Chengyi Nie",
+      "Rodrigo Fonseca",
+      "Zhenhua Liu"
+    ],
+    "publication_date": "2024-05-11",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "2ed1ba589665afdd20415b99a6b59e9e041f392a",
+    "corpus_id": 269757140,
+    "category": "Computer Science"
+  },
+  "2405-04532": {
+    "title": "QServe: W4A8KV4 Quantization and System Co-design for Efficient LLM Serving",
+    "authors": [
+      "Yujun Lin",
+      "Haotian Tang",
+      "Shang Yang",
+      "Zhekai Zhang",
+      "Guangxuan Xiao",
+      "Chuang Gan",
+      "Song Han"
+    ],
+    "publication_date": "2024-05-07",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "0f0d757e764a7f21d7aaa329c835571b247dd937",
+    "corpus_id": 269614346,
+    "category": "Computer Science"
+  },
+  "2404-16710": {
+    "title": "LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding",
+    "authors": [
+      "Mostafa Elhoushi",
+      "Akshat Shrivastava",
+      "Diana Liskovich",
+      "Basil Hosmer",
+      "Bram Wasti",
+      "Liangzhen Lai",
+      "Anas Mahmoud",
+      "Bilge Acun",
+      "Saurabh Agarwal",
+      "Ahmed Roman",
+      "Ahmed Aly",
+      "Beidi Chen",
+      "Carole-Jean Wu"
+    ],
+    "publication_date": "2024-04-25",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "eee108b3e51e89d160d1116935e062c4d169b475",
+    "corpus_id": 269362647,
+    "category": "Computer Science"
+  },
+  "2404-15778": {
+    "title": "BASS: Batched Attention-optimized Speculative Sampling",
+    "authors": [
+      "Haifeng Qian",
+      "Sujan Kumar Gonugondla",
+      "Sungsoo Ha",
+      "Mingyue Shang",
+      "Sanjay Krishna Gouda",
+      "Ramesh Nallapati",
+      "Sudipta Sengupta",
+      "Xiaofei Ma",
+      "Anoop Deoras"
+    ],
+    "publication_date": "2024-04-24",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "c17d6af40861a705a8e5e60aaf54762f43b787d8",
+    "corpus_id": 269362961,
+    "category": "Computer Science"
+  },
+  "2404-09221": {
+    "title": "Exploring and Improving Drafts in Blockwise Parallel Decoding",
+    "authors": [
+      "Taehyeon Kim",
+      "A. Suresh",
+      "K. Papineni",
+      "Michael Riley",
+      "Sanjiv Kumar",
+      "Adrian Benton"
+    ],
+    "publication_date": "2024-04-14",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "1d0ee57f47ee2ee8c6ea51c17f422e3e7f68421d",
+    "corpus_id": 269148462,
+    "category": "Computer Science"
+  },
+  "2403-00858": {
+    "title": "Direct Alignment of Draft Model for Speculative Decoding with Chat-Fine-Tuned LLMs",
+    "authors": [
+      "Raghavv Goel",
+      "Mukul Gagrani",
+      "Wonseok Jeon",
+      "Junyoung Park",
+      "Mingu Lee",
+      "Christopher Lott"
+    ],
+    "publication_date": "2024-02-29",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "2dce617a4a1908a4047ae970f6e003ec6b8dfc53",
+    "corpus_id": 268230782,
+    "category": "Computer Science"
+  },
+  "2406-17276": {
+    "title": "OPT-Tree: Speculative Decoding with Adaptive Draft Tree Structure",
+    "authors": [
+      "Jikai Wang",
+      "Yi Su",
+      "Juntao Li",
+      "Qingrong Xia",
+      "Zi Ye",
+      "Xinyu Duan",
+      "Zhefeng Wang",
+      "Min Zhang"
+    ],
+    "publication_date": "2024-02-28",
+    "venue": "Transactions of the Association for Computational Linguistics",
+    "semantic_scholar_id": "ab16bf2223fcb8c749a52ee3cc0496dc5bb0b4ec",
+    "corpus_id": 270711013,
+    "category": "Computer Science"
+  },
+  "2402-15758": {
+    "title": "Chimera: A Lossless Decoding Method for Accelerating Large Language Models Inference by Fusing all Tokens",
+    "authors": [
+      "Ziqian Zeng",
+      "Jiahong Yu",
+      "Qianshi Pang",
+      "Zihao Wang",
+      "Huiping Zhuang",
+      "Cen Chen"
+    ],
+    "publication_date": "2024-02-24",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "b2b193cfdc6efd62289393e466e7f97280bef30e",
+    "corpus_id": 267938125,
+    "category": "Computer Science"
+  },
+  "2402-14160": {
+    "title": "Recursive Speculative Decoding: Accelerating LLM Inference via Sampling Without Replacement",
+    "authors": [
+      "Wonseok Jeon",
+      "Mukul Gagrani",
+      "Raghavv Goel",
+      "Junyoung Park",
+      "Mingu Lee",
+      "Christopher Lott"
+    ],
+    "publication_date": "2024-02-21",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "582d172769d5774774c1dfd7546b829248d5adc1",
+    "corpus_id": 267783029,
+    "category": "Computer Science"
+  },
+  "2402-13485": {
+    "title": "ProPD: Dynamic Token Tree Pruning and Generation for LLM Parallel Decoding",
+    "authors": [
+      "Shuzhang Zhong",
+      "Zebin Yang",
+      "Ruihao Gong",
+      "Runsheng Wang",
+      "Ru Huang",
+      "Meng Li"
+    ],
+    "publication_date": "2024-02-21",
+    "venue": "International Conference on Computer Aided Design",
+    "semantic_scholar_id": "4d742b55892f071b7a8c52af6e5da4a0c529ff5e",
+    "corpus_id": 267770036,
+    "category": "Computer Science"
+  },
+  "2402-06925": {
+    "title": "A Thorough Examination of Decoding Methods in the Era of LLMs",
+    "authors": [
+      "Chufan Shi",
+      "Haoran Yang",
+      "Deng Cai",
+      "Zhisong Zhang",
+      "Yifan Wang",
+      "Yujiu Yang",
+      "Wai Lam"
+    ],
+    "publication_date": "2024-02-10",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "0247c8299c1ead8fb2d4e5b82aeb9f1058048c87",
+    "corpus_id": 267627384,
+    "category": "Computer Science"
+  },
+  "2402-05109": {
+    "title": "Hydra: Sequentially-Dependent Draft Heads for Medusa Decoding",
+    "authors": [
+      "Zack Ankner",
+      "Rishab Parthasarathy",
+      "Aniruddha Nrusimha",
+      "Christopher Rinard",
+      "Jonathan Ragan-Kelley",
+      "William Brandon"
+    ],
+    "publication_date": "2024-02-07",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "d0b049018c9e21b7b95c179d33e1e2ac9113c85b",
+    "corpus_id": 267523522,
+    "category": "Computer Science"
+  },
+  "2401-15077": {
+    "title": "EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty",
+    "authors": [
+      "Yuhui Li",
+      "Fangyun Wei",
+      "Chao Zhang",
+      "Hongyang Zhang"
+    ],
+    "publication_date": "2024-01-26",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "1b5db3170c195508ff24fee8eda0d4987e806f0b",
+    "corpus_id": 267301131,
+    "category": "Computer Science"
+  },
+  "2401-10774": {
+    "title": "Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads",
+    "authors": [
+      "Tianle Cai",
+      "Yuhong Li",
+      "Zhengyang Geng",
+      "Hongwu Peng",
+      "Jason D. Lee",
+      "De-huai Chen",
+      "Tri Dao"
+    ],
+    "publication_date": "2024-01-19",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "57e7af0b69325fafb371ef5d502e39ef9c90ef7e",
+    "corpus_id": 267061277,
+    "category": "Computer Science"
+  },
+  "2401-07851": {
+    "title": "Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding",
+    "authors": [
+      "Heming Xia",
+      "Zhe Yang",
+      "Qingxiu Dong",
+      "Peiyi Wang",
+      "Yongqi Li",
+      "Tao Ge",
+      "Tianyu Liu",
+      "Wenjie Li",
+      "Zhifang Sui"
+    ],
+    "publication_date": "2024-01-15",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "0cee098244c9978032702862a43a09f468f691a4",
+    "corpus_id": 266999159,
+    "category": "Computer Science"
+  },
+  "2312-12728": {
+    "title": "Lookahead: An Inference Acceleration Framework for Large Language Model with Lossless Generation Accuracy",
+    "authors": [
+      "Yao Zhao",
+      "Zhitian Xie",
+      "Chen Liang",
+      "Chenyi Zhuang",
+      "Jinjie Gu"
+    ],
+    "publication_date": "2023-12-20",
+    "venue": "Knowledge Discovery and Data Mining",
+    "semantic_scholar_id": "27b1b41ac386814af6f7bfd4646781f3f32b8a38",
+    "corpus_id": 266374986,
+    "category": "Computer Science"
+  },
+  "2211-17192": {
+    "title": "Fast Inference from Transformers via Speculative Decoding",
+    "authors": [
+      "Yaniv Leviathan",
+      "Matan Kalman",
+      "Yossi Matias"
+    ],
+    "publication_date": "2022-11-30",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "d8e9f8c8a37cb4cd26b92ad0d942d641cd512644",
+    "corpus_id": 254096365,
+    "category": "Computer Science"
+  },
+  "2005-14165": {
+    "title": "Language Models are Few-Shot Learners",
+    "authors": [
+      "Tom B. Brown",
+      "Benjamin Mann",
+      "Nick Ryder",
+      "Melanie Subbiah",
+      "J. Kaplan",
+      "Prafulla Dhariwal",
+      "Arvind Neelakantan",
+      "Pranav Shyam",
+      "Girish Sastry",
+      "Amanda Askell",
+      "Sandhini Agarwal",
+      "Ariel Herbert-Voss",
+      "Gretchen Krueger",
+      "T. Henighan",
+      "R. Child",
+      "A. Ramesh",
+      "Daniel M. Ziegler",
+      "Jeff Wu",
+      "Clemens Winter",
+      "Christopher Hesse",
+      "Mark Chen",
+      "Eric Sigler",
+      "Ma-teusz Litwin",
+      "Scott Gray",
+      "Benjamin Chess",
+      "Jack Clark",
+      "Christopher Berner",
+      "Sam McCandlish",
+      "Alec Radford",
+      "I. Sutskever",
+      "Dario Amodei"
+    ],
+    "publication_date": "2020-05-28",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+    "corpus_id": 218971783,
+    "category": "Computer Science"
+  },
+  "1911-02150": {
+    "title": "Fast Transformer Decoding: One Write-Head is All You Need",
+    "authors": [
+      "Noam M. Shazeer"
+    ],
+    "publication_date": "2019-11-06",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "dc52b09089704ebd6f471177474bc29741c50023",
+    "corpus_id": 207880429,
+    "category": "Computer Science"
+  },
+  "1904-09751": {
+    "title": "The Curious Case of Neural Text Degeneration",
+    "authors": [
+      "Ari Holtzman",
+      "Jan Buys",
+      "Li Du",
+      "Maxwell Forbes",
+      "Yejin Choi"
+    ],
+    "publication_date": "2019-04-22",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "cf4aa38ae31b43fd07abe13b4ffdb265babb7be1",
+    "corpus_id": 127986954,
+    "category": "Computer Science"
+  },
+  "1811-03115": {
+    "title": "Blockwise Parallel Decoding for Deep Autoregressive Models",
+    "authors": [
+      "Mitchell Stern",
+      "Noam M. Shazeer",
+      "Jakob Uszkoreit"
+    ],
+    "publication_date": "2018-11-01",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "5e04881e91bff952d102d967c4ffb498ec30d4af",
+    "corpus_id": 53208380,
+    "category": "Computer Science, Mathematics"
+  }
+}

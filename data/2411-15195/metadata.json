@@ -1,0 +1,17 @@
+{
+  "title": "Graph Neural Network-Based Entity Extraction and Relationship Reasoning in Complex Knowledge Graphs",
+  "authors": [
+    "Junliang Du",
+    "Guiran Liu",
+    "Jia Gao",
+    "Xiaoxuan Liao",
+    "Jiacheng Hu",
+    "Linxiao Wu"
+  ],
+  "summary": "This study proposed a knowledge graph entity extraction and relationship reasoning algorithm based on a graph neural network, using a graph convolutional network and graph attention network to model the complex structure in the knowledge graph. By building an end-to-end joint model, this paper achieves efficient recognition and reasoning of entities and relationships. In the experiment, this paper compared the model with a variety of deep learning algorithms and verified its superiority through indicators such as AUC, recall rate, precision rate, and F1 value. The experimental results show that the model proposed in this paper performs well in all indicators, especially in complex knowledge graphs, it has stronger generalization ability and stability. This provides strong support for further research on knowledge graphs and also demonstrates the application potential of graph neural networks in entity extraction and relationship reasoning.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.AI, cs.LG"
+}

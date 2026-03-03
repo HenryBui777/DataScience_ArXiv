@@ -1,0 +1,14 @@
+{
+  "title": "Combining Autoregressive and Autoencoder Language Models for Text Classification",
+  "authors": [
+    "João Gonçalves"
+  ],
+  "summary": "This paper presents CAALM-TC (Combining Autoregressive and Autoencoder Language Models for Text Classification), a novel method that enhances text classification by integrating autoregressive and autoencoder language models. Autoregressive large language models such as Open AI's GPT, Meta's Llama or Microsoft's Phi offer promising prospects for content analysis practitioners, but they generally underperform supervised BERT based models for text classification. CAALM leverages autoregressive models to generate contextual information based on input texts, which is then combined with the original text and fed into an autoencoder model for classification. This hybrid approach capitalizes on the extensive contextual knowledge of autoregressive models and the efficient classification capabilities of autoencoders. Experimental results on four benchmark datasets demonstrate that CAALM consistently outperforms existing methods, particularly in tasks with smaller datasets and more abstract classification objectives. The findings indicate that CAALM offers a scalable and effective solution for automated content analysis in social science research that minimizes sample size requirements.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-12-05"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL"
+}

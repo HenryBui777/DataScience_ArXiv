@@ -1,0 +1,12 @@
+{
+  "title": "Assessing Gender Bias in LLMs: Comparing LLM Outputs with Human Perceptions and Official Statistics",
+  "authors": [
+    "Tetiana Bas"
+  ],
+  "summary": "This study investigates gender bias in large language models (LLMs) by comparing their gender perception to that of human respondents, U.S. Bureau of Labor Statistics data, and a 50% no-bias benchmark. We created a new evaluation set using occupational data and role-specific sentences. Unlike common benchmarks included in LLM training data, our set is newly developed, preventing data leakage and test set contamination. Five LLMs were tested to predict the gender for each role using single-word answers. We used Kullback-Leibler (KL) divergence to compare model outputs with human perceptions, statistical data, and the 50% neutrality benchmark. All LLMs showed significant deviation from gender neutrality and aligned more with statistical data, still reflecting inherent biases.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.LG"
+}

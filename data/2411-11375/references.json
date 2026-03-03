@@ -1,0 +1,436 @@
+{
+  "2405-20139": {
+    "title": "GNN-RAG: Graph Neural Retrieval for Large Language Model Reasoning",
+    "authors": [
+      "Costas Mavromatis",
+      "G. Karypis"
+    ],
+    "publication_date": "2024-05-30",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "336605fc899aab6c5b375d1129bf656d246b9013",
+    "corpus_id": 270123131,
+    "category": "Computer Science"
+  },
+  "2404-16130": {
+    "title": "From Local to Global: A Graph RAG Approach to Query-Focused Summarization",
+    "authors": [
+      "Darren Edge",
+      "Ha Trinh",
+      "Newman Cheng",
+      "Joshua Bradley",
+      "Alex Chao",
+      "Apurva N. Mody",
+      "Steven Truitt",
+      "Jonathan Larson"
+    ],
+    "publication_date": "2024-04-24",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "c1799bf28d1ae93e1631be5b59196ee1e568f538",
+    "corpus_id": 269363075,
+    "category": "Computer Science"
+  },
+  "2312-04615": {
+    "title": "Relational Deep Learning: Graph Representation Learning on Relational Databases",
+    "authors": [
+      "Matthias Fey",
+      "Weihua Hu",
+      "Kexin Huang",
+      "J. E. Lenssen",
+      "Rishabh Ranjan",
+      "Joshua Robinson",
+      "Rex Ying",
+      "Jiaxuan You",
+      "J. Leskovec"
+    ],
+    "publication_date": "2023-12-07",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "17a6213e30895fb7e5d0b368236ea8beeb94ee86",
+    "corpus_id": 265502702,
+    "category": "Computer Science"
+  },
+  "2308-03209": {
+    "title": "Communication-Free Distributed GNN Training with Vertex Cut",
+    "authors": [
+      "Kaidi Cao",
+      "Rui Deng",
+      "Shirley Wu",
+      "E-Wen Huang",
+      "Karthik Subbian",
+      "J. Leskovec"
+    ],
+    "publication_date": "2023-08-06",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "5fdac410ae76efa58658c00ba46d0de60260cade",
+    "corpus_id": 260681213,
+    "category": "Computer Science"
+  },
+  "2305-11162": {
+    "title": "The Graph Database Interface: Scaling Online Transactional and Analytical Graph Workloads to Hundreds of Thousands of Cores",
+    "authors": [
+      "Maciej Besta",
+      "Robert Gerstenberger",
+      "Marc Fischer",
+      "Michal Podstawski",
+      "Nils Blach",
+      "Berke Egeli",
+      "Georgy Mitenkov",
+      "Wojciech Chlapek",
+      "M. Michalewicz",
+      "H. Niewiadomski",
+      "Juergen Mueller",
+      "T. Hoefler"
+    ],
+    "publication_date": "2023-05-18",
+    "venue": "International Conference for High Performance Computing, Networking, Storage and Analysis",
+    "semantic_scholar_id": "420f8b01e0ddd3c3f4c5620acbd71e26275786b5",
+    "corpus_id": 258762782,
+    "category": "Computer Science"
+  },
+  "2303-14617": {
+    "title": "Neural Graph Reasoning: Complex Logical Query Answering Meets Graph Databases",
+    "authors": [
+      "Hongyu Ren",
+      "Mikhail Galkin",
+      "Michael Cochez",
+      "Zhaocheng Zhu",
+      "J. Leskovec"
+    ],
+    "publication_date": "2023-03-26",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "033275ccc2c7c5c38592ae893da0b5923cf90717",
+    "corpus_id": 257767382,
+    "category": "Computer Science"
+  },
+  "2209-09732": {
+    "title": "Neural Graph Databases",
+    "authors": [
+      "Maciej Besta",
+      "Patrick Iff",
+      "Florian Scheidl",
+      "Kazuki Osawa",
+      "Nikoli Dryden",
+      "Michal Podstawski",
+      "Tiancheng Chen",
+      "T. Hoefler"
+    ],
+    "publication_date": "2022-09-20",
+    "venue": "LOG IN",
+    "semantic_scholar_id": "1cbbe1a129c0d1f53d8e16ca74238334372507dc",
+    "corpus_id": 252383701,
+    "category": "Computer Science"
+  },
+  "2207-03522": {
+    "title": "TF-GNN: Graph Neural Networks in TensorFlow",
+    "authors": [
+      "Oleksandr Ferludin",
+      "Arno Eigenwillig",
+      "Martin J. Blais",
+      "Dustin Zelle",
+      "Jan Pfeifer",
+      "Alvaro Sanchez-Gonzalez",
+      "Sibon Li",
+      "Sami Abu-El-Haija",
+      "P. Battaglia",
+      "Neslihan Bulut",
+      "Jonathan J. Halcrow",
+      "F. Almeida",
+      "Silvio Lattanzi",
+      "A. Linhares",
+      "Brandon Mayer",
+      "V. Mirrokni",
+      "John Palowitch",
+      "Mihir Paradkar",
+      "Jennifer She",
+      "Anton Tsitsulin",
+      "Kevin Villela",
+      "Lisa Wang",
+      "David Wong",
+      "Bryan Perozzi"
+    ],
+    "publication_date": "2022-07-07",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "ef76227fb94cb3634a14f47be4a5c6c800708b0c",
+    "corpus_id": 250408215,
+    "category": "Computer Science, Physics, Mathematics"
+  },
+  "2112-06217": {
+    "title": "Graph Pattern Matching in GQL and SQL/PGQ",
+    "authors": [
+      "Alin Deutsch",
+      "Nadime Francis",
+      "Alastair Green",
+      "Keith W. Hare",
+      "Bei Li",
+      "L. Libkin",
+      "Tobias Lindaaker",
+      "Victor Marsault",
+      "W. Martens",
+      "Jan-Eike Michels",
+      "Filip Murlak",
+      "Stefan Plantikow",
+      "P. Selmer",
+      "O. V. Rest",
+      "H. Voigt",
+      "D. Vrgoč",
+      "Mingxi Wu",
+      "F. Zemke"
+    ],
+    "publication_date": "2021-12-12",
+    "venue": "SIGMOD Conference",
+    "semantic_scholar_id": "d4408e4e99c74913c7bf4b7a0aacf5bf67557c96",
+    "corpus_id": 245124268,
+    "category": "Computer Science"
+  },
+  "2105-04449": {
+    "title": "G-Tran: Making Distributed Graph Transactions Fast",
+    "authors": [
+      "Hongzhi Chen",
+      "Changji Li",
+      "Chen Zheng",
+      "Chenghuan Huang",
+      "Juncheng Fang",
+      "James Cheng",
+      "Jian Zhang"
+    ],
+    "publication_date": "2021-05-10",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "606092ba86c699cee43b2f218c5a771b9a229ebd",
+    "corpus_id": 234335997,
+    "category": "Computer Science"
+  },
+  "2103-05872": {
+    "title": "Sampling Methods for Efficient Training of Graph Convolutional Networks: A Survey",
+    "authors": [
+      "Xin Liu",
+      "Mingyu Yan",
+      "Lei Deng",
+      "Guoqi Li",
+      "Xiaochun Ye",
+      "Dongrui Fan"
+    ],
+    "publication_date": "2021-03-10",
+    "venue": "IEEE/CAA Journal of Automatica Sinica",
+    "semantic_scholar_id": "51abd45bc9056700a7c337215c244dba45dad132",
+    "corpus_id": 232170329,
+    "category": "Computer Science"
+  },
+  "2010-05337": {
+    "title": "DistDGL: Distributed Graph Neural Network Training for Billion-Scale Graphs",
+    "authors": [
+      "Da Zheng",
+      "Chao Ma",
+      "Minjie Wang",
+      "Jinjing Zhou",
+      "Qidong Su",
+      "Xiang Song",
+      "Quan Gan",
+      "Zheng Zhang",
+      "G. Karypis"
+    ],
+    "publication_date": "2020-10-11",
+    "venue": "Workshop on Irregular Applications: Architectures and Algorithms",
+    "semantic_scholar_id": "037df1500b9b8d4a57455b7ad205f86cc94a0b13",
+    "corpus_id": 222291574,
+    "category": "Computer Science"
+  },
+  "2008-07864": {
+    "title": "The relational data borg is learning",
+    "authors": [
+      "Dan Olteanu"
+    ],
+    "publication_date": "2020-08-01",
+    "venue": "Proceedings of the VLDB Endowment",
+    "semantic_scholar_id": "0936310d0994790f228fb4f93cd3022c567072a0",
+    "corpus_id": 221150970,
+    "category": "Computer Science"
+  },
+  "2005-11401": {
+    "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+    "authors": [
+      "Patrick Lewis",
+      "Ethan Perez",
+      "Aleksandara Piktus",
+      "F. Petroni",
+      "Vladimir Karpukhin",
+      "Naman Goyal",
+      "Heinrich Kuttler",
+      "M. Lewis",
+      "Wen-tau Yih",
+      "Tim Rocktäschel",
+      "Sebastian Riedel",
+      "Douwe Kiela"
+    ],
+    "publication_date": "2020-05-22",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "659bf9ce7175e1ec266ff54359e2bd76e0b7ff31",
+    "corpus_id": 218869575,
+    "category": "Computer Science"
+  },
+  "2005-00687": {
+    "title": "Open Graph Benchmark: Datasets for Machine Learning on Graphs",
+    "authors": [
+      "Weihua Hu",
+      "Matthias Fey",
+      "M. Zitnik",
+      "Yuxiao Dong",
+      "Hongyu Ren",
+      "Bowen Liu",
+      "Michele Catasta",
+      "J. Leskovec"
+    ],
+    "publication_date": "2020-05-02",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "597bd2e45427563cdf025e53a3239006aa364cfc",
+    "corpus_id": 218487328,
+    "category": "Computer Science, Mathematics"
+  },
+  "2002-01680": {
+    "title": "MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding",
+    "authors": [
+      "Xinyu Fu",
+      "Jiani Zhang",
+      "Ziqiao Meng",
+      "Irwin King"
+    ],
+    "publication_date": "2020-02-05",
+    "venue": "The Web Conference",
+    "semantic_scholar_id": "c7fd29fdd2e0b50a571db4f607eab138e9ecb644",
+    "corpus_id": 211031947,
+    "category": "Computer Science"
+  },
+  "1911-07323": {
+    "title": "Layer-Dependent Importance Sampling for Training Deep and Large Graph Convolutional Networks",
+    "authors": [
+      "Difan Zou",
+      "Ziniu Hu",
+      "Yewen Wang",
+      "Song Jiang",
+      "Yizhou Sun",
+      "Quanquan Gu"
+    ],
+    "publication_date": "2019-11-17",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "9dccd22276aaad5b6ec24e68bb7d29d954226a54",
+    "corpus_id": 202779897,
+    "category": "Computer Science, Mathematics"
+  },
+  "1903-07293": {
+    "title": "Heterogeneous Graph Attention Network",
+    "authors": [
+      "Xiao Wang",
+      "Houye Ji",
+      "C. Shi",
+      "Bai Wang",
+      "Peng Cui",
+      "Philip S. Yu",
+      "Yanfang Ye"
+    ],
+    "publication_date": "2019-03-18",
+    "venue": "The Web Conference",
+    "semantic_scholar_id": "00b7efbf14a54cced4b9f19e663b70ffbd01324b",
+    "corpus_id": 81978964,
+    "category": "Computer Science"
+  },
+  "1903-02428": {
+    "title": "Fast Graph Representation Learning with PyTorch Geometric",
+    "authors": [
+      "Matthias Fey",
+      "J. E. Lenssen"
+    ],
+    "publication_date": "2019-03-06",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "63a513832f56addb67be81a2fa399b233f3030fc",
+    "corpus_id": 70349949,
+    "category": "Computer Science, Mathematics"
+  },
+  "1802-09984": {
+    "title": "Formal Semantics of the Language Cypher",
+    "authors": [
+      "Nadime Francis",
+      "Alastair Green",
+      "P. Guagliardo",
+      "L. Libkin",
+      "Tobias Lindaaker",
+      "Victor Marsault",
+      "Stefan Plantikow",
+      "Mats Rydberg",
+      "M. Schuster",
+      "P. Selmer",
+      "Andrés Taylor"
+    ],
+    "publication_date": "2018-02-27",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "1c3ae8d6928872f5adcdb73b0d1fb2838899b563",
+    "corpus_id": 3564956,
+    "category": "Computer Science"
+  },
+  "1801-10247": {
+    "title": "FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling",
+    "authors": [
+      "Jie Chen",
+      "Tengfei Ma",
+      "Cao Xiao"
+    ],
+    "publication_date": "2018-01-30",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "2503dff90685857ce7295e37d0045e2eef41c8b8",
+    "corpus_id": 22191393,
+    "category": "Computer Science, Mathematics"
+  },
+  "1706-02216": {
+    "title": "Inductive Representation Learning on Large Graphs",
+    "authors": [
+      "William L. Hamilton",
+      "Z. Ying",
+      "J. Leskovec"
+    ],
+    "publication_date": "2017-06-07",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "6b7d6e6416343b2a122f8416e69059ce919026ef",
+    "corpus_id": 4755450,
+    "category": "Mathematics, Computer Science"
+  },
+  "1703-04780": {
+    "title": "Learning Models over Relational Data Using Sparse Tensors and Functional Dependencies",
+    "authors": [
+      "Mahmoud Abo Khamis",
+      "H. Ngo",
+      "X. Nguyen",
+      "Dan Olteanu",
+      "Maximilian Schleich"
+    ],
+    "publication_date": "2017-03-14",
+    "venue": "ACM Transactions on Database Systems",
+    "semantic_scholar_id": "1006edbd19994f2859e3ac17f01ce3fb3d674ea1",
+    "corpus_id": 69528773,
+    "category": "Computer Science"
+  },
+  "1610-06264": {
+    "title": "Foundations of Modern Query Languages for Graph Databases",
+    "authors": [
+      "Renzo Angles",
+      "M. Arenas",
+      "P. Barceló",
+      "Aidan Hogan",
+      "Juan L. Reutter",
+      "D. Vrgoč"
+    ],
+    "publication_date": "2016-10-20",
+    "venue": "ACM Computing Surveys",
+    "semantic_scholar_id": "59f1df2f60280eea79d195b9c561d52a77fb24de",
+    "corpus_id": 13526884,
+    "category": "Computer Science"
+  },
+  "1607-00653": {
+    "title": "node2vec: Scalable Feature Learning for Networks",
+    "authors": [
+      "Aditya Grover",
+      "J. Leskovec"
+    ],
+    "publication_date": "2016-07-03",
+    "venue": "Knowledge Discovery and Data Mining",
+    "semantic_scholar_id": "36ee2c8bd605afd48035d15fdc6b8c8842363376",
+    "corpus_id": 207238980,
+    "category": "Computer Science, Mathematics, Medicine"
+  }
+}

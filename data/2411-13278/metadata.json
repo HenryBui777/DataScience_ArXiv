@@ -1,0 +1,14 @@
+{
+  "title": "Introducing Schema Inference as a Scalable SQL Function [Extended Version]",
+  "authors": [
+    "Calvin Dani",
+    "Shiva Jahangiri",
+    "Thomas Hütter"
+  ],
+  "summary": "This paper introduces a novel approach to schema inference as an on-demand function integrated directly within a DBMS, targeting NoSQL databases where schema flexibility can create challenges. Unlike previous methods relying on external frameworks like Apache Spark, our solution enables schema inference as a SQL function, allowing users to infer schemas natively within the DBMS. Implemented in Apache AsterixDB, it performs schema discovery in two phases, local inference and global schema merging, leveraging internal resources for improved performance. Experiments with real world datasets show up to a two orders of magnitude performance boost over external methods, enhancing usability and scalability.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DB"
+}

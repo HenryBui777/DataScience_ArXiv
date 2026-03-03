@@ -1,0 +1,15 @@
+{
+  "title": "Note on the $a$-points of the Riemann zeta function",
+  "authors": [
+    "Peng-Cheng Hang",
+    "Min-Jie Luo"
+  ],
+  "summary": "For any $a\\in\\mathbb{C}$, the zeros of $ζ(s)-a$, denoted by $ρ_a=β_a+iγ_a$, are called $a$-points of the Riemann zeta function $ζ(s)$. In this paper, we reformulate some basic results about the $a$-points of $ζ(s)$ shown by Garunkštis and Steuding. We then deduce an asymptotic of the sum \\[S_T(a,δ)=\\sum_{τ<γ_a\\leqslant T}ζ'(ρ_a+iδ)X^{ρ_a},\\quad T\\to\\infty,\\] where $0\\neδ=\\frac{2πα}{\\log\\frac{T}{2πX}}\\ll 1$, and $X>0$ and $τ\\geqslant|δ|+1$ are fixed.\n  We also find the interesting varied behavior of $S_T(a,δ)$ in different $X$ ranges, which is more complicated than those described before by Gonek and Pearce-Crump.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-21"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NT"
+}

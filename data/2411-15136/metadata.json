@@ -1,0 +1,15 @@
+{
+  "title": "On Approximability of Satisfiable $k$-CSPs: VII",
+  "authors": [
+    "Amey Bhangale",
+    "Subhash Khot",
+    "Yang P. Liu",
+    "Dor Minzer"
+  ],
+  "summary": "Let $Σ_1,\\ldots,Σ_k$ be finite alphabets, and let $μ$ be a distribution over $Σ_1 \\times \\dots \\times Σ_k$ in which the probability of each atom is at least $α$. We prove that if $μ$ does not admit Abelian embeddings, and $f_i: Σ_i \\to \\mathbb{C}$ are $1$-bounded functions (for $i=1,\\ldots,k$) such that \\[ \\left|\\mathbb{E}_{(x_1,\\dots,x_k) \\sim μ^{\\otimes n}}\\Big[f_1(x_1) \\dots f_k(x_k)\\Big]\\right| \\geq \\varepsilon, \\] then there exists $L\\colon Σ_1^n\\to\\mathbb{C}$ of degree at most $d$ and $\\|L\\|_2\\leq 1$ such that $|\\langle f_1, L\\rangle|\\geq δ$, where $d$ and $δ>0$ depend only on $k, α$ and $\\varepsilon$. This answers the analytic question posed by Bhangale, Khot, and Minzer (STOC 2022). We also prove several extensions of this result that are useful in subsequent applications.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CC, math.CO"
+}

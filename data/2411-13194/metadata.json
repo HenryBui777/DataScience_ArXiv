@@ -1,0 +1,18 @@
+{
+  "title": "Solver-in-the-loop approach to closure of shell models of turbulence",
+  "authors": [
+    "André Freitas",
+    "Kiwon Um",
+    "Mathieu Desbrun",
+    "Michele Buzzicotti",
+    "Luca Biferale"
+  ],
+  "summary": "This work studies an a posteriori data-driven approach (known as solver-in-the-loop) for sub-grid modeling of a shell model for turbulence. This approach takes advantage of the differentiable physics paradigm of deep learning, allowing a neural network model to interact with the differential equation solver over time during the training process. The closure model is, then, naturally exposed to equations-informed input distributions by accounting for prior corrections over the temporal evolution in training. Such a characteristic makes this approach depart from the conventional a priori instantaneous training paradigm and often leads to a more accurate and stable closure model. Our study demonstrates that the closure learned via this a posteriori approach is able to reproduce high-order statistical moments of interest also in closures of high Reynolds number turbulence. Moreover, we investigate the performance of the learned model by experimenting with the effect of unrolling in time, which has remained for the most part unexplored in the literature. Finally, we discuss potential extensions of this approach to Navier-Stokes equations.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-04-04"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.flu-dyn, nlin.CD"
+}

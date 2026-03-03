@@ -1,0 +1,15 @@
+{
+  "title": "Topological cliques in sparse expanders",
+  "authors": [
+    "Xia Wang",
+    "Donglei Yang",
+    "Fan Yang",
+    "Haotian Yang"
+  ],
+  "summary": "In the paper, we focus on embedding clique immersions and subdivisions within sparse expanders, and we derive the following main results: (1) For any $0< η< 1/2$, there exists $K>0$ such that for sufficiently large $n$, every $(n,d,λ)$-graph $G$ contains a $K_{(1-5η)d}$-immersion when $d\\geq Kλ$. (2) For any $\\varepsilon>0$ and $0<η<1/2$, the following holds for sufficiently large $n$. Every $(n,d,λ)$-graph $G$ with $2048λ/η^2<d\\leq ηn^{1/2-\\varepsilon}$ contains a $K_{(1-η)d}^{(\\ell)}$-subdivision, where $\\ell = 2 \\left\\lceil \\log(η^2n/4096)\\right\\rceil + 5$. (3) There exists $c>0$ such that the following holds for sufficiently large $d$. If $G$ is an $n$-vertex graph with average degree $d(G)\\geq d$, then $G$ contains a $K_{c d}^{(\\ell)}$-immersion for some $\\ell\\in \\mathbb{N}$.\n  In 2018, Dvo{ř}{á}k and Yepremyan asked whether every graph $G$ with $δ(G)\\geq t$ contains a $K_t$-immersion. Our first result shows that it is asymptotically true for $(n,d,λ)$-graphs when $λ=o(d)$. In addition, our second result extends a result of Dragani{ć}, Krivelevich and Nenadov on balanced subdivisions. The last result generalises a result of DeVos, Dvo{ř}{á}k, Fox, McDonald, Mohar, Scheide on $1$-immersions of large cliques in dense graphs.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.CO"
+}

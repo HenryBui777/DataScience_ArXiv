@@ -1,0 +1,13 @@
+{
+  "title": "The Dynamics of Innovation in Open Source Software Ecosystems",
+  "authors": [
+    "Gábor Mészáros",
+    "Johannes Wachs"
+  ],
+  "summary": "Software libraries are the elementary building blocks of open source software ecosystems, extending the capabilities of programming languages beyond their standard libraries. Although ecosystem health is often quantified using data on libraries and their interdependencies, we know little about the rate at which new libraries are developed and used. Here we study imports of libraries in 12 different programming language ecosystems within millions of Stack Overflow posts over a 15 year period. New libraries emerge at a remarkably predictable sub-linear rate within ecosystems per post. As a consequence, the distribution of the frequency of use of libraries in all ecosystems is highly concentrated: the most widely used libraries are used many times more often than the average. Although new libraries come out more slowly over time, novel combinations of libraries appear at an approximately linear rate, suggesting that recombination is a key innovation process in software. Newer users are more likely to use new libraries and new combinations, and we find significant variation in the rates of innovation between countries. Our work links the evolution of OSS ecosystems to the literature on the dynamics of innovation, revealing how ecosystems grow and highlighting implications for sustainability.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SE, cs.SI"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Beyond Gaussians: Fast and High-Fidelity 3D Splatting with Linear Kernels",
+  "authors": [
+    "Haodong Chen",
+    "Runnan Chen",
+    "Qiang Qu",
+    "Zhaoqing Wang",
+    "Tongliang Liu",
+    "Xiaoming Chen",
+    "Yuk Ying Chung"
+  ],
+  "summary": "Recent advancements in 3D Gaussian Splatting (3DGS) have substantially improved novel view synthesis, enabling high-quality reconstruction and real-time rendering. However, blurring artifacts, such as floating primitives and over-reconstruction, remain challenging. Current methods address these issues by refining scene structure, enhancing geometric representations, addressing blur in training images, improving rendering consistency, and optimizing density control, yet the role of kernel design remains underexplored. We identify the soft boundaries of Gaussian ellipsoids as one of the causes of these artifacts, limiting detail capture in high-frequency regions. To bridge this gap, we introduce 3D Linear Splatting (3DLS), which replaces Gaussian kernels with linear kernels to achieve sharper and more precise results, particularly in high-frequency regions. Through evaluations on three datasets, 3DLS demonstrates state-of-the-art fidelity and accuracy, along with a 30% FPS improvement over baseline 3DGS. The implementation will be made publicly available upon acceptance.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-20",
+    "2024-12-02"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

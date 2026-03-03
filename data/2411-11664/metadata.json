@@ -1,0 +1,17 @@
+{
+  "title": "Block Coordinate DC Programming",
+  "authors": [
+    "Hoomaan Maskan",
+    "Paniz Halvachi",
+    "Suvrit Sra",
+    "Alp Yurtsever"
+  ],
+  "summary": "We introduce an extension of the Difference of Convex Algorithm (DCA) in the form of a block coordinate approach for problems with separable structure. For $n$ coordinate-blocks and $k$ iterations, our main result proves a non-asymptotic convergence rate of $O(n/k)$ for the proposed method. Furthermore, leveraging the connection between DCA and Expectation Maximization (EM), we propose a block coordinate EM algorithm.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-02-03"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC, math.ST"
+}

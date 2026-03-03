@@ -1,0 +1,15 @@
+{
+  "title": "OMP4Py: a pure Python implementation of OpenMP",
+  "authors": [
+    "César Piñeiro",
+    "Juan C. Pichel"
+  ],
+  "summary": "Python demonstrates lower performance in comparison to traditional high performance computing (HPC) languages such as C, C++, and Fortran. This performance gap is largely due to Python's interpreted nature and the Global Interpreter Lock (GIL), which hampers multithreading efficiency. However, the latest version of Python includes the necessary changes to make the interpreter thread-safe, allowing Python code to run without the GIL. This important update will enable users to fully exploit multithreading parallelism in Python. In order to facilitate that task, this paper introduces OMP4Py, the first pure Python implementation of OpenMP. We demonstrate that it is possible to bring OpenMP's familiar directive-based parallelization paradigm to Python, allowing developers to write parallel code with the same level of control and flexibility as in C, C++, or Fortran. The experimental evaluation shows that OMP4Py significantly impacts the performance of various types of applications, although the current threading limitation of Python's interpreter (v3.13) reduce its effectiveness for numerical applications.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-05-15"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DC, cs.PL"
+}

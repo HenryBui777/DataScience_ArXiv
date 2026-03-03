@@ -1,0 +1,17 @@
+{
+  "title": "Beyond Visual Understanding: Introducing PARROT-360V for Vision Language Model Benchmarking",
+  "authors": [
+    "Harsha Vardhan Khurdula",
+    "Basem Rizk",
+    "Indus Khaitan",
+    "Janit Anjaria",
+    "Aviral Srivastava",
+    "Rajvardhan Khaitan"
+  ],
+  "summary": "Current benchmarks for evaluating Vision Language Models (VLMs) often fall short in thoroughly assessing model abilities to understand and process complex visual and textual content. They typically focus on simple tasks that do not require deep reasoning or the integration of multiple data modalities to solve an original problem. To address this gap, we introduce the PARROT-360V Benchmark, a novel and comprehensive benchmark featuring 2487 challenging visual puzzles designed to test VLMs on complex visual reasoning tasks. We evaluated leading models: GPT-4o, Claude-3.5-Sonnet, and Gemini-1.5-Pro, using PARROT-360V to assess their capabilities in combining visual clues with language skills to solve tasks in a manner akin to human problem-solving. Our findings reveal a notable performance gap: state-of-the-art models scored between 28 to 56 percentage on our benchmark, significantly lower than their performance on popular benchmarks. This underscores the limitations of current VLMs in handling complex, multi-step reasoning tasks and highlights the need for more robust evaluation frameworks to advance the field.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI"
+}

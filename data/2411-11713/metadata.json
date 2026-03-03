@@ -1,0 +1,20 @@
+{
+  "title": "FLMarket: Enabling Privacy-preserved Pre-training Data Pricing for Federated Learning",
+  "authors": [
+    "Zhenyu Wen",
+    "Wanglei Feng",
+    "Di Wu",
+    "Haozhen Hu",
+    "Chang Xu",
+    "Bin Qian",
+    "Zhen Hong",
+    "Cong Wang",
+    "Shouling Ji"
+  ],
+  "summary": "Federated Learning (FL), as a mainstream privacy-preserving machine learning paradigm, offers promising solutions for privacy-critical domains such as healthcare and finance. Although extensive efforts have been dedicated from both academia and industry to improve the vanilla FL, little work focuses on the data pricing mechanism. In contrast to the straightforward in/post-training pricing techniques, we study a more difficult problem of pre-training pricing without direct information from the learning process. We propose FLMarket that integrates a two-stage, auction-based pricing mechanism with a security protocol to address the utility-privacy conflict. Through comprehensive experiments, we show that the client selection according to FLMarket can achieve more than 10% higher accuracy in subsequent FL training compared to state-of-the-art methods. In addition, it outperforms the in-training baseline with more than 2% accuracy increase and 3x run-time speedup.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.DC"
+}

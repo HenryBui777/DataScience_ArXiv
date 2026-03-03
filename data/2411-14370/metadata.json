@@ -1,0 +1,14 @@
+{
+  "title": "Convergence and Stability Analysis of the Extended Infinite Horizon Model Predictive Control",
+  "authors": [
+    "Luz A. Alvarez",
+    "Diego F. de Bernardini",
+    "Christophe Gallesco"
+  ],
+  "summary": "Model Predictive Control (MPC) is a popular technology to operate industrial systems. It refers to a class of control algorithms that use an explicit model of the system to obtain the control action by minimizing a cost function. At each time step, MPC solves an optimization problem that minimizes the future deviation of the outputs which are calculated from the model. The solution of the optimization problem is a sequence of control inputs, the first input is applied to the system, and the optimization process is repeated at subsequent time steps. In the context of MPC, convergence and stability are fundamental issues. A common approach to obtain MPC stability is by setting the prediction horizon as infinite. For stable open-loop systems, the infinite horizon can be reduced to a finite horizon MPC with a terminal weight computed through the solution of a Lyapunov equation. This paper presents a rigorous analysis of convergence and stability of the extended nominally stable MPC developed by Odloak [Odloak, D. Extended robust model predictive control, AIChE J. 50 (8) (2004) 1824-1836] and the stable MPC with zone control [González, A.H., Odloak, D. A stable MPC with zone control, J. Proc. Cont. 19 (2009) 110-122]. The mathematical proofs consider that the system is represented by a general gain matrix $D_0$, i.e., not necessarily regular, and they are developed for any input horizon $m$. The proofs are based on elementary geometric and algebraic tools and we believe that they can be adapted to the derived MPC approaches, as well as future studies.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC"
+}

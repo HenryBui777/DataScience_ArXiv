@@ -1,0 +1,13 @@
+{
+  "title": "Machine learning framework to predict the performance of lipid nanoparticles for nucleic acid delivery",
+  "authors": [
+    "Gaurav Kumar",
+    "Arezoo M. Ardekani"
+  ],
+  "summary": "Lipid nanoparticles (LNPs) are highly effective carriers for gene therapies, including mRNA and siRNA delivery, due to their ability to transport nucleic acids across biological membranes, low cytotoxicity, improved pharmacokinetics, and scalability. A typical approach to formulate LNPs is to establish a quantitative structure-activity relationship (QSAR) between their compositions and in vitro/in vivo activities which allows for the prediction of activity based on molecular structure. However, developing QSAR for LNPs can be challenging due to the complexity of multi-component formulations, interactions with biological membranes, and stability in physiological environments. To address these challenges, we developed a machine learning framework to predict the activity and cell viability of LNPs for nucleic acid delivery. We curated data from 6,398 LNP formulations in the literature, applied nine featurization techniques to extract chemical information, and trained five machine learning models for binary and multiclass classification. Our binary models achieved over 90% accuracy, while the multiclass models reached over 95% accuracy. Our results demonstrated that molecular descriptors, particularly when used with random forest and gradient boosting models, provided the most accurate predictions. Our findings also emphasized the need for large training datasets and comprehensive LNP composition details, such as constituent structures, molar ratios, nucleic acid types, and dosages, to enhance predictive performance.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "ACS Appl. Bio Mater. 2025, 8, 5, 3717-3727",
+  "pdf_url": null,
+  "category": "q-bio.BM"
+}

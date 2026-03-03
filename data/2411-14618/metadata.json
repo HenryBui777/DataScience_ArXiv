@@ -1,0 +1,18 @@
+{
+  "title": "Active Learning-Based Optimization of Hydroelectric Turbine Startup to Minimize Fatigue Damage",
+  "authors": [
+    "Vincent Mai",
+    "Quang Hung Pham",
+    "Arthur Favrel",
+    "Jean-Philippe Gauthier",
+    "Martin Gagnon"
+  ],
+  "summary": "Hydro-generating units (HGUs) play a crucial role in integrating intermittent renewable energy sources into the power grid due to their flexible operational capabilities. This evolving role has led to an increase in transient events, such as startups, which impose significant stresses on turbines, leading to increased turbine fatigue and a reduced operational lifespan. Consequently, optimizing startup sequences to minimize stresses is vital for hydropower utilities. However, this task is challenging, as stress measurements on prototypes can be expensive and time-consuming. To tackle this challenge, we propose an innovative automated approach to optimize the startup parameters of HGUs with a limited budget of measured startup sequences. Our method combines active learning and black-box optimization techniques, utilizing virtual strain sensors and dynamic simulations of HGUs. This approach was tested in real-time during an on-site measurement campaign on an instrumented Francis turbine prototype. The results demonstrate that our algorithm successfully identified an optimal startup sequence using only seven measured sequences. It achieves a remarkable 42% reduction in the maximum strain cycle amplitude compared to the standard startup sequence. This study paves the way for more efficient HGU startup optimization, potentially extending their operational lifespans.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-08-22"
+  ],
+  "publication_venue": "Vincent Mai, Quang Hung Pham, Arthur Favrel, Jean-Philippe Gauthier, Martin Gagnon, Active learning-based optimization of hydroelectric turbine startup to minimize fatigue damage, Renewable Energy, 2025, 124088, ISSN 0960-1481",
+  "pdf_url": null,
+  "category": "cs.LG, eess.SY"
+}

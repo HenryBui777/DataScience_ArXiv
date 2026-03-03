@@ -1,0 +1,16 @@
+{
+  "title": "Leveraging Gene Expression Data and Explainable Machine Learning for Enhanced Early Detection of Type 2 Diabetes",
+  "authors": [
+    "Aurora Lithe Roy",
+    "Md Kamrul Siam",
+    "Nuzhat Noor Islam Prova",
+    "Sumaiya Jahan",
+    "Abdullah Al Maruf"
+  ],
+  "summary": "Diabetes, particularly Type 2 diabetes (T2D), poses a substantial global health burden, compounded by its associated complications such as cardiovascular diseases, kidney failure, and vision impairment. Early detection of T2D is critical for improving healthcare outcomes and optimizing resource allocation. In this study, we address the gap in early T2D detection by leveraging machine learning (ML) techniques on gene expression data obtained from T2D patients. Our primary objective was to enhance the accuracy of early T2D detection through advanced ML methodologies and increase the model's trustworthiness using the explainable artificial intelligence (XAI) technique. Analyzing the biological mechanisms underlying T2D through gene expression datasets represents a novel research frontier, relatively less explored in previous studies. While numerous investigations have focused on utilizing clinical and demographic data for T2D prediction, the integration of molecular insights from gene expression datasets offers a unique and promising avenue for understanding the pathophysiology of the disease. By employing six ML classifiers on data sourced from NCBI's Gene Expression Omnibus (GEO), we observed promising performance across all models. Notably, the XGBoost classifier exhibited the highest accuracy, achieving 97%. Our study addresses a notable gap in early T2D detection methodologies, emphasizing the importance of leveraging gene expression data and advanced ML techniques.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-bio.GN, cs.AI"
+}

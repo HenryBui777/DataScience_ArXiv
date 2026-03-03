@@ -1,0 +1,14 @@
+{
+  "title": "Evaluating Vision Transformer Models for Visual Quality Control in Industrial Manufacturing",
+  "authors": [
+    "Miriam Alber",
+    "Christoph Hönes",
+    "Patrick Baier"
+  ],
+  "summary": "One of the most promising use-cases for machine learning in industrial manufacturing is the early detection of defective products using a quality control system. Such a system can save costs and reduces human errors due to the monotonous nature of visual inspections. Today, a rich body of research exists which employs machine learning methods to identify rare defective products in unbalanced visual quality control datasets. These methods typically rely on two components: A visual backbone to capture the features of the input image and an anomaly detection algorithm that decides if these features are within an expected distribution. With the rise of transformer architecture as visual backbones of choice, there exists now a great variety of different combinations of these two components, ranging all along the trade-off between detection quality and inference time. Facing this variety, practitioners in the field often have to spend a considerable amount of time on researching the right combination for their use-case at hand. Our contribution is to help practitioners with this choice by reviewing and evaluating current vision transformer models together with anomaly detection methods. For this, we chose SotA models of both disciplines, combined them and evaluated them towards the goal of having small, fast and efficient anomaly detection models suitable for industrial manufacturing. We evaluated the results of our experiments on the well-known MVTecAD and BTAD datasets. Moreover, we give guidelines for choosing a suitable model architecture for a quality control system in practice, considering given use-case and hardware constraints.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "Machine Learning and Knowledge Discovery in Databases.Applied Data Science Track, vol 14950, Springer (2024) 116-132",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI, cs.LG"
+}

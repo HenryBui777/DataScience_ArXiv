@@ -1,0 +1,13 @@
+{
+  "title": "Predictive Analytics of Air Alerts in the Russian-Ukrainian War",
+  "authors": [
+    "Demian Pavlyshenko",
+    "Bohdan Pavlyshenko"
+  ],
+  "summary": "The paper considers exploratory data analysis and approaches in predictive analytics for air alerts during the Russian-Ukrainian war which broke out on Feb 24, 2022. The results illustrate that alerts in regions correlate with one another and have geospatial patterns which make it feasible to build a predictive model which predicts alerts that are expected to take place in a certain region within a specified time period. The obtained results show that the alert status in a particular region is highly dependable on the features of its adjacent regions. Seasonality features like hours, days of a week and months are also crucial in predicting the target variable. Some regions highly rely on the time feature which equals to a number of days from the initial date of the dataset. From this, we can deduce that the air alert pattern changes throughout the time.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI, cs.CY"
+}

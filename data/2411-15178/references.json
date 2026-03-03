@@ -1,0 +1,368 @@
+{
+  "2406-04822": {
+    "title": "M2NO: Multiresolution Operator Learning with Multiwavelet-based Algebraic Multigrid Method",
+    "authors": [
+      "Zhihao Li",
+      "Zhilu Lai",
+      "Xiaobo Wang",
+      "Wei Wang"
+    ],
+    "publication_date": "2024-06-07",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "4186cf0f31a88235a495324d81cdc8bf88dc0e58",
+    "corpus_id": 270357841,
+    "category": "Computer Science"
+  },
+  "2402-02366": {
+    "title": "Transolver: A Fast Transformer Solver for PDEs on General Geometries",
+    "authors": [
+      "Haixu Wu",
+      "Huakun Luo",
+      "Haowen Wang",
+      "Jianmin Wang",
+      "Mingsheng Long"
+    ],
+    "publication_date": "2024-02-04",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "88f17e3a9aa3e1de7dd7dde2cb03d10d5446099f",
+    "corpus_id": 267411758,
+    "category": "Computer Science, Mathematics"
+  },
+  "2310-12487": {
+    "title": "Improved Operator Learning by Orthogonal Attention",
+    "authors": [
+      "Zipeng Xiao",
+      "Zhongkai Hao",
+      "Bokai Lin",
+      "Zhijie Deng",
+      "Hang Su"
+    ],
+    "publication_date": "2023-10-19",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "685f275f8362618c16749b99f9cd1dbef32a0ac7",
+    "corpus_id": 264306159,
+    "category": "Computer Science"
+  },
+  "2310-19809": {
+    "title": "MgNO: Efficient Parameterization of Linear Operators via Multigrid",
+    "authors": [
+      "Juncai He",
+      "Xinliang Liu",
+      "Jinchao Xu"
+    ],
+    "publication_date": "2023-10-16",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "a89597c4bc41613a15822311e70ce1e918126f16",
+    "corpus_id": 264825357,
+    "category": "Computer Science, Mathematics"
+  },
+  "2309-00583": {
+    "title": "Geometry-Informed Neural Operator for Large-Scale 3D PDEs",
+    "authors": [
+      "Zong-Yi Li",
+      "Nikola B. Kovachki",
+      "Chris Choy",
+      "Boyi Li",
+      "Jean Kossaifi",
+      "S. Otta",
+      "M. A. Nabian",
+      "Maximilian Stadler",
+      "Christian Hundt",
+      "K. Azizzadenesheli",
+      "Anima Anandkumar"
+    ],
+    "publication_date": "2023-09-01",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "55a59dfff3e57ec551814db82225a3677411e092",
+    "corpus_id": 261494027,
+    "category": "Computer Science, Mathematics"
+  },
+  "2302-14376": {
+    "title": "GNOT: A General Neural Operator Transformer for Operator Learning",
+    "authors": [
+      "Zhongkai Hao",
+      "Chengyang Ying",
+      "Zhengyi Wang",
+      "Hang Su",
+      "Yinpeng Dong",
+      "Songming Liu",
+      "Ze Cheng",
+      "Jun Zhu",
+      "Jian Song"
+    ],
+    "publication_date": "2023-02-28",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "6e036e28e7af03bfcdd98ffa254df6644f7657c5",
+    "corpus_id": 257232579,
+    "category": "Computer Science, Mathematics, Physics"
+  },
+  "2301-12664": {
+    "title": "Solving High-Dimensional PDEs with Latent Spectral Models",
+    "authors": [
+      "Haixu Wu",
+      "Tengge Hu",
+      "Huakun Luo",
+      "Jianmin Wang",
+      "Mingsheng Long"
+    ],
+    "publication_date": "2023-01-30",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "f580fa140b1d436e7ca74d109778ec2080b40b75",
+    "corpus_id": 256389386,
+    "category": "Computer Science, Physics"
+  },
+  "2210-05495": {
+    "title": "MAgNet: Mesh Agnostic Neural PDE Solver",
+    "authors": [
+      "Oussama Boussif",
+      "D. Assouline",
+      "L. Benabbou",
+      "Y. Bengio"
+    ],
+    "publication_date": "2022-10-11",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "2a284a4b401f10312d977eecd96418c1de8fdc83",
+    "corpus_id": 250411608,
+    "category": "Computer Science, Mathematics, Physics"
+  },
+  "2207-05209": {
+    "title": "Fourier Neural Operator with Learned Deformations for PDEs on General Geometries",
+    "authors": [
+      "Zong-Yi Li",
+      "D. Huang",
+      "Burigede Liu",
+      "Anima Anandkumar"
+    ],
+    "publication_date": "2022-07-11",
+    "venue": "Journal of machine learning research",
+    "semantic_scholar_id": "b768011c1dd42b13ae8a1c34b99ac4228304dabd",
+    "corpus_id": 250450893,
+    "category": "Computer Science, Mathematics"
+  },
+  "2205-13671": {
+    "title": "Transformer for Partial Differential Equations' Operator Learning",
+    "authors": [
+      "Zijie Li",
+      "Kazem Meidani",
+      "A. Farimani"
+    ],
+    "publication_date": "2022-05-26",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "179070d3d43e97d1ce4d12127a3dc63581328809",
+    "corpus_id": 249152256,
+    "category": "Computer Science"
+  },
+  "2204-03216": {
+    "title": "Neural Implicit Flow: a mesh-agnostic dimensionality reduction paradigm of spatio-temporal data",
+    "authors": [
+      "Shaowu Pan",
+      "S. Brunton",
+      "N. Kutz"
+    ],
+    "publication_date": "2022-04-07",
+    "venue": "Journal of machine learning research",
+    "semantic_scholar_id": "71f8fe71fa4721b4bb00b412eeab88efafd1d9ed",
+    "corpus_id": 248006213,
+    "category": "Computer Science"
+  },
+  "2201-02217": {
+    "title": "Nonlocal Kernel Network (NKN): a Stable and Resolution-Independent Deep Neural Network",
+    "authors": [
+      "Huaiqian You",
+      "Yue Yu",
+      "M. D'Elia",
+      "T. Gao",
+      "S. Silling"
+    ],
+    "publication_date": "2022-01-01",
+    "venue": "Journal of Computational Physics",
+    "semantic_scholar_id": "5c6a37a1332ef6a49f8e3805cb52f526c97751df",
+    "corpus_id": 245827970,
+    "category": "Computer Science, Mathematics"
+  },
+  "2111-11418": {
+    "title": "MetaFormer is Actually What You Need for Vision",
+    "authors": [
+      "Weihao Yu",
+      "Romy Mi Luo",
+      "Pan Zhou",
+      "Chenyang Si",
+      "Yichen Zhou",
+      "Xinchao Wang",
+      "Jiashi Feng",
+      "Shuicheng Yan"
+    ],
+    "publication_date": "2021-11-22",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "57150ca7d793d6f784cf82da1c349edf7beb6bc2",
+    "corpus_id": 244478080,
+    "category": "Computer Science"
+  },
+  "2109-13459": {
+    "title": "Multiwavelet-based Operator Learning for Differential Equations",
+    "authors": [
+      "Gaurav Gupta",
+      "Xiongye Xiao",
+      "P. Bogdan"
+    ],
+    "publication_date": "2021-09-28",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "90457535d179af22c182bba257b07651903f014e",
+    "corpus_id": 238198267,
+    "category": "Computer Science, Mathematics"
+  },
+  "2105-14995": {
+    "title": "Choose a Transformer: Fourier or Galerkin",
+    "authors": [
+      "Shuhao Cao"
+    ],
+    "publication_date": "2021-05-31",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "72f207c777e4a17180cc54ccc6a743d5f43227af",
+    "corpus_id": 235253946,
+    "category": "Computer Science, Mathematics"
+  },
+  "2011-00931": {
+    "title": "Point Transformer",
+    "authors": [
+      "Nico Engel",
+      "Vasileios Belagiannis",
+      "K. Dietmayer"
+    ],
+    "publication_date": "2020-11-02",
+    "venue": "IEEE Access",
+    "semantic_scholar_id": "e1d082562981a9f51649c60663aa484ee623dbb0",
+    "corpus_id": 226227046,
+    "category": "Computer Science"
+  },
+  "2010-08895": {
+    "title": "Fourier Neural Operator for Parametric Partial Differential Equations",
+    "authors": [
+      "Zong-Yi Li",
+      "Nikola B. Kovachki",
+      "K. Azizzadenesheli",
+      "Burigede Liu",
+      "K. Bhattacharya",
+      "Andrew M. Stuart",
+      "Anima Anandkumar"
+    ],
+    "publication_date": "2020-10-18",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "2f7dc1ee85e9f6a97810c66016e09ffeed684f03",
+    "corpus_id": 224705257,
+    "category": "Computer Science, Mathematics"
+  },
+  "1910-03193": {
+    "title": "Learning nonlinear operators via DeepONet based on the universal approximation theorem of operators",
+    "authors": [
+      "Lu Lu",
+      "Pengzhan Jin",
+      "G. Pang",
+      "Zhongqiang Zhang",
+      "G. Karniadakis"
+    ],
+    "publication_date": "2019-10-08",
+    "venue": "Nature Machine Intelligence",
+    "semantic_scholar_id": "03547cf81db895a448c3d0283bdfa20695ed26ab",
+    "corpus_id": 233822586,
+    "category": "Mathematics, Computer Science"
+  },
+  "1905-05178": {
+    "title": "Graph U-Nets",
+    "authors": [
+      "Hongyang Gao",
+      "Shuiwang Ji"
+    ],
+    "publication_date": "2019-05-11",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "f1964cc1b343f907462cd7fbfaf88c2679d61f59",
+    "corpus_id": 153311899,
+    "category": "Medicine, Computer Science, Mathematics"
+  },
+  "1805-05020": {
+    "title": "Learning Dual Convolutional Neural Networks for Low-Level Vision",
+    "authors": [
+      "Jin-shan Pan",
+      "Sifei Liu",
+      "Deqing Sun",
+      "Jiawei Zhang",
+      "Yang Liu",
+      "Jimmy S. J. Ren",
+      "Zechao Li",
+      "Jinhui Tang",
+      "Huchuan Lu",
+      "Yu-Wing Tai",
+      "Ming-Hsuan Yang"
+    ],
+    "publication_date": "2018-05-14",
+    "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "85ebb1a27abf180d2319cffb1afa96487dd121bf",
+    "corpus_id": 5039079,
+    "category": "Computer Science"
+  },
+  "1706-02216": {
+    "title": "Inductive Representation Learning on Large Graphs",
+    "authors": [
+      "William L. Hamilton",
+      "Z. Ying",
+      "J. Leskovec"
+    ],
+    "publication_date": "2017-06-07",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "6b7d6e6416343b2a122f8416e69059ce919026ef",
+    "corpus_id": 4755450,
+    "category": "Mathematics, Computer Science"
+  },
+  "1704-02901": {
+    "title": "Dynamic Edge-Conditioned Filters in Convolutional Neural Networks on Graphs",
+    "authors": [
+      "M. Simonovsky",
+      "N. Komodakis"
+    ],
+    "publication_date": "2017-04-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "1a39bb2caa151d15efd6718f3a80d9f4bff95af2",
+    "corpus_id": 17648673,
+    "category": "Computer Science"
+  },
+  "1611-08097": {
+    "title": "Geometric Deep Learning: Going beyond Euclidean data",
+    "authors": [
+      "M. Bronstein",
+      "Joan Bruna",
+      "Yann LeCun",
+      "Arthur Szlam",
+      "P. Vandergheynst"
+    ],
+    "publication_date": "2016-11-24",
+    "venue": "IEEE Signal Processing Magazine",
+    "semantic_scholar_id": "0e779fd59353a7f1f5b559b9d65fa4bfe367890c",
+    "corpus_id": 15195762,
+    "category": "Computer Science"
+  },
+  "1505-04597": {
+    "title": "U-Net: Convolutional Networks for Biomedical Image Segmentation",
+    "authors": [
+      "O. Ronneberger",
+      "P. Fischer",
+      "T. Brox"
+    ],
+    "publication_date": "2015-05-18",
+    "venue": "International Conference on Medical Image Computing and Computer-Assisted Intervention",
+    "semantic_scholar_id": "6364fdaa0a0eccd823a779fcdd489173f938e91a",
+    "corpus_id": 3719281,
+    "category": "Computer Science"
+  },
+  "1412-6980": {
+    "title": "Adam: A Method for Stochastic Optimization",
+    "authors": [
+      "Diederik P. Kingma",
+      "Jimmy Ba"
+    ],
+    "publication_date": "2014-12-22",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "a6cb366736791bcccc5c8639de5a8f9636bf87e8",
+    "corpus_id": 6628106,
+    "category": "Mathematics, Computer Science"
+  }
+}

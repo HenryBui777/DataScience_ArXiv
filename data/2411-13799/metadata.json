@@ -1,0 +1,17 @@
+{
+  "title": "Unconsidered Installations: Discovering IoT Deployments in the IPv6 Internet",
+  "authors": [
+    "Markus Dahlmanns",
+    "Felix Heidenreich",
+    "Johannes Lohmöller",
+    "Jan Pennekamp",
+    "Klaus Wehrle",
+    "Martin Henze"
+  ],
+  "summary": "Internet-wide studies provide extremely valuable insight into how operators manage their Internet of Things (IoT) deployments in reality and often reveal grievances, e.g., significant security issues. However, while IoT devices often use IPv6, past studies resorted to comprehensively scan the IPv4 address space. To fully understand how the IoT and all its services and devices is operated, including IPv6-reachable deployments is inevitable-although scanning the entire IPv6 address space is infeasible. In this paper, we close this gap and examine how to best discover IPv6-reachable IoT deployments. To this end, we propose a methodology that allows combining various IPv6 scan direction approaches to understand the findability and prevalence of IPv6-reachable IoT deployments. Using three sources of active IPv6 addresses and eleven address generators, we discovered 6658 IoT deployments. We derive that the available address sources are a good starting point for finding IoT deployments. Additionally, we show that using two address generators is sufficient to cover most found deployments and save time as well as resources. Assessing the security of the deployments, we surprisingly find similar issues as in the IPv4 Internet, although IPv6 deployments might be newer and generally more up-to-date: Only 39% of deployments have access control in place and only 6.2% make use of TLS inviting attackers, e.g., to eavesdrop sensitive data.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "In Proceedings of the 2024 IEEE/IFIP Network Operations and Management Symposium (NOMS '24), May 6-10, 2024, Seoul, Korea",
+  "pdf_url": null,
+  "category": "cs.NI"
+}

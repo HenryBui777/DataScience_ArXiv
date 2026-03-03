@@ -1,0 +1,13 @@
+{
+  "title": "Nonstationary functional time series forecasting",
+  "authors": [
+    "Han Lin Shang",
+    "Yang Yang"
+  ],
+  "summary": "We propose a nonstationary functional time series forecasting method with an application to age-specific mortality rates observed over the years. The method begins by taking the first-order differencing and estimates its long-run covariance function. Through eigen-decomposition, we obtain a set of estimated functional principal components and their associated scores for the differenced series. These components allow us to reconstruct the original functional data and compute the residuals. To model the temporal patterns in the residuals, we again perform dynamic functional principal component analysis and extract its estimated principal components and the associated scores for the residuals. As a byproduct, we introduce a geometrically decaying weighted approach to assign higher weights to the most recent data than those from the distant past. Using the Swedish age-specific mortality rates from 1751 to 2022, we demonstrate that the weighted dynamic functional factor model can produce more accurate point and interval forecasts, particularly for male series exhibiting higher volatility.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME"
+}

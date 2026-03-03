@@ -1,0 +1,18 @@
+{
+  "title": "What You See Is What Matters: A Novel Visual and Physics-Based Metric for Evaluating Video Generation Quality",
+  "authors": [
+    "Zihan Wang",
+    "Songlin Li",
+    "Lingyan Hao",
+    "Xinyu Hu",
+    "Bowen Song"
+  ],
+  "summary": "As video generation models advance rapidly, assessing the quality of generated videos has become increasingly critical. Existing metrics, such as Fréchet Video Distance (FVD), Inception Score (IS), and ClipSim, measure quality primarily in latent space rather than from a human visual perspective, often overlooking key aspects like appearance and motion consistency to physical laws. In this paper, we propose a novel metric, VAMP (Visual Appearance and Motion Plausibility), that evaluates both the visual appearance and physical plausibility of generated videos. VAMP is composed of two main components: an appearance score, which assesses color, shape, and texture consistency across frames, and a motion score, which evaluates the realism of object movements. We validate VAMP through two experiments: corrupted video evaluation and generated video evaluation. In the corrupted video evaluation, we introduce various types of corruptions into real videos and measure the correlation between corruption severity and VAMP scores. In the generated video evaluation, we use state-of-the-art models to generate videos from carefully designed prompts and compare VAMP's performance to human evaluators' rankings. Our results demonstrate that VAMP effectively captures both visual fidelity and temporal consistency, offering a more comprehensive evaluation of video quality than traditional methods.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-24"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

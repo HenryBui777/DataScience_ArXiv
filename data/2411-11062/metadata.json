@@ -1,0 +1,17 @@
+{
+  "title": "Dynamic Programming: From Local Optimality to Global Optimality",
+  "authors": [
+    "John Stachurski",
+    "Jingni Yang",
+    "Ziyue Yang"
+  ],
+  "summary": "In the theory of dynamic programming, an optimal policy is a policy whose lifetime value dominates that of all other policies from every possible initial condition in the state space. This raises a natural question: when does optimality from a single state imply optimality from every state? Working in a general setting, we provide sufficient conditions for this property that relate to reachability and irreducibility. Our results have significant implications for modern policy-based algorithms used to solve large-scale dynamic programs. We illustrate our findings by applying them to an optimal savings problem via an algorithm that implements gradient ascent in a policy space constructed from neural networks.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [
+    "2025-01-21",
+    "2025-05-11"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC"
+}

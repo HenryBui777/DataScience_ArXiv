@@ -1,0 +1,14 @@
+{
+  "title": "dafny-annotator: AI-Assisted Verification of Dafny Programs",
+  "authors": [
+    "Gabriel Poesia",
+    "Chloe Loughridge",
+    "Nada Amin"
+  ],
+  "summary": "Formal verification has the potential to drastically reduce software bugs, but its high additional cost has hindered large-scale adoption. While Dafny presents a promise to significantly reduce the effort to write verified programs, users are often required to provide logical annotations to aid the verifier. Here, we explore using a combination of Large Language Models and search to build dafny-annotator: a tool that adds logical annotations to a Dafny method until the verifier can prove it correct. On a test set from the DafnyBench collection of programs, greedy search guided by LLaMa 3.1 8B successfully annotates only 15.7% of the methods. Since this data-driven approach is hindered by the lack of large-scale training data, we propose a method for open-ended synthesis of new Dafny programs in a flexible pipeline where LLMs formulate high-level ideas, implement them, and incrementally propose changes to existing programs, which Dafny validates. This gives us a synthetic dataset, DafnySynth, which we use to augment DafnyBench for training. Fine-tuning on both datasets boosts LLaMa 8B's success rate to 50.6% -- significantly better than the base model, or training on either dataset alone. Our results suggest a path towards capable AI assistants for languages that don't yet have large-scale human-generated examples. In turn, such assistants might reduce friction for users and ultimately drive adoption.",
+  "submission_date": "2024-11-05",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SE, cs.AI, cs.PL"
+}

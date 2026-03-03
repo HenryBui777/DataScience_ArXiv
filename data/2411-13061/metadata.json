@@ -1,0 +1,14 @@
+{
+  "title": "RC circuit based on magnetic skyrmions",
+  "authors": [
+    "Ismael Ribeiro de Assis",
+    "Ingrid Mertig",
+    "Börge Göbel"
+  ],
+  "summary": "Skyrmions are nano-sized magnetic whirls attractive for spintronic applications due to their innate stability. They can emulate the characteristic behavior of various spintronic and electronic devices such as spin-torque nano-oscillators, artificial neurons and synapses, logic devices, diodes, and ratchets. Here, we show that skyrmions can emulate the physics of an RC circuit, the fundamental electric circuit composed of a resistor and a capacitor, on the nanosecond time scale. The equation of motion of a current-driven skyrmion in a quadratic energy landscape is mathematically equivalent to the differential equation characterizing an RC circuit: the applied current resembles the applied input voltage, and the skyrmion position resembles the output voltage at the capacitor. These predictions are confirmed via micromagnetic simulations. We show that such a skyrmion system reproduces the characteristic exponential voltage decay upon charging and discharging the capacitor under constant input. Furthermore, it mimics the low-pass filter behavior of RC circuits by filtering high-frequencies in periodic input signals. Since RC circuits are mathematically equivalent to the Leaky-Integrate-Fire (LIF) model widely used to describe biological neurons, our device concept can also be regarded as a perfect artificial LIF neuron.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "Physical Review B 111, 174429 (2025)",
+  "pdf_url": null,
+  "category": "cond-mat.mes-hall"
+}

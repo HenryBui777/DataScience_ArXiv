@@ -1,0 +1,14 @@
+{
+  "title": "Computing the permanental polynomial of $4k$-intercyclic bipartite graphs",
+  "authors": [
+    "Ravindra B. Bapat",
+    "Ranveer Singh",
+    "Hitesh Wankhede"
+  ],
+  "summary": "Let $G$ be a bipartite graph with adjacency matrix $A(G)$. The characteristic polynomial $φ(G,x)=\\det(xI-A(G))$ and the permanental polynomial $π(G,x) = \\text{per}(xI-A(G))$ are both graph invariants used to distinguish graphs. For bipartite graphs, we define the modified characteristic polynomial, which is obtained by changing the signs of some of the coefficients of $φ(G,x)$. For $4k$-intercyclic bipartite graphs, i.e., those for which the removal of any $4k$-cycle results in a $C_{4k}$-free graph, we provide an expression for $π(G,x)$ in terms of the modified characteristic polynomial of the graph and its subgraphs. Our approach is purely combinatorial in contrast to the Pfaffian orientation method found in the literature to compute the permanental polynomial.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "American Journal of Combinatorics, 3:35-43, (2024)",
+  "pdf_url": null,
+  "category": "math.CO, cs.DM"
+}

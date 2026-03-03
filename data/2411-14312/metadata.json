@@ -1,0 +1,18 @@
+{
+  "title": "Density of Stable Interval Translation Maps",
+  "authors": [
+    "Kostiantyn Drach",
+    "Leon Staresinic",
+    "Sebastian van Strien"
+  ],
+  "summary": "Assume that the interval $I=[0,1)$ is partitioned into finitely many intervals $I_1,\\dots,I_r$ and consider a map $T\\colon I\\to I$ so that $T_{\\vert I_s}$ is a translation for each $1 \\le s \\le r$. We do not assume that the images of these intervals are disjoint. Such maps are called Interval Translation Maps. Let $ITM(r)$ be the space of all such transformations, where we fix $r$ but not the intervals $I_1,\\dots,I_r$, nor the translations. The set $X(T):=\\bigcap_{n\\ge 0} T^n[0,1)$ can be a finite union of intervals (in which case the map is called of finite type), or is a disjoint union of finitely many intervals and a Cantor set (in which case the map is called of infinite type). In this paper we show that there exists an open and dense subset $\\mathcal{S}(r)$ of $ITM(r)$ consisting of stable maps, i.e. each $T\\in \\mathcal{S}(r)$ is of finite type, the first return map to any component of $X(T)$ corresponds to a circle rotation and $\\mathcal{S}(r) \\ni T \\mapsto X(T)$ is continuous in the Hausdorff topology.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-22",
+    "2024-11-25",
+    "2025-06-11"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.DS"
+}

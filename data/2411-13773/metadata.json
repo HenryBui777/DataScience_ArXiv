@@ -1,0 +1,17 @@
+{
+  "title": "FastRAG: Retrieval Augmented Generation for Semi-structured Data",
+  "authors": [
+    "Amar Abane",
+    "Anis Bekri",
+    "Abdella Battou",
+    "Saddek Bensalem"
+  ],
+  "summary": "Efficiently processing and interpreting network data is critical for the operation of increasingly complex networks. Recent advances in Large Language Models (LLM) and Retrieval-Augmented Generation (RAG) techniques have improved data processing in network management. However, existing RAG methods like VectorRAG and GraphRAG struggle with the complexity and implicit nature of semi-structured technical data, leading to inefficiencies in time, cost, and retrieval. This paper introduces FastRAG, a novel RAG approach designed for semi-structured data. FastRAG employs schema learning and script learning to extract and structure data without needing to submit entire data sources to an LLM. It integrates text search with knowledge graph (KG) querying to improve accuracy in retrieving context-rich information. Evaluation results demonstrate that FastRAG provides accurate question answering, while improving up to 90% in time and 85% in cost compared to GraphRAG.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-06-14"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.NI, cs.AI"
+}

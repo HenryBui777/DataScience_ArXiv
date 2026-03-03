@@ -1,0 +1,16 @@
+{
+  "title": "From Centralized RAN to Open RAN: A Survey on the Evolution of Distributed Antenna Systems",
+  "authors": [
+    "Mahmoud A. Hasabelnaby",
+    "Mohanad Obeed",
+    "Mohammed Saif",
+    "Anas Chaaban",
+    "M. J. Hossain"
+  ],
+  "summary": "Next-generation mobile networks require evolved radio access network (RAN) architectures to meet the demands of high capacity, massive connectivity, reduced costs, and energy efficiency, and to realize communication with ultra-low latency and ultra-high reliability. {Meeting such} requirements for both mobile users and vertical industries in the next decade {requires novel solutions. One of the potential solutions that attracted significant research attention in the past 15 years} is to redesign the radio access network (RAN). In this survey, we present a comprehensive survey on distributed antenna system (DAS) architectures that address these challenges and improve network performance. We cover the transition from traditional decentralized RAN to DAS, including cloud radio-access networks (C-RAN), fog radio-access networks (F-RAN), virtualized radio-access networks (V-RAN), cell-free massive multiple-input multiple-output (CF-mMIMO), and {the most recent advances manifested in} open radio-access network (O-RAN). In the process, we discuss the benefits and limitations of these architectures, including the impact of limited-capacity fronthaul links, various cooperative uplink and downlink coding strategies, cross-layer optimization, and techniques to optimize the performance of DAS. Moreover, we review key enabling technologies for next-generation RAN systems, such as multi-access edge computing, network function virtualization, software-defined networking, and network slicing; in addition to some crucial radio access technologies, such as millimeter wave, massive multi-input multi-output, device-to-device communication, and massive machine-type communication. Last but not least, we discuss the major research challenges in DAS and identify several possible directions for future research.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP, cs.ET"
+}

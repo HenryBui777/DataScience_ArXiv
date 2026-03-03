@@ -1,0 +1,13 @@
+{
+  "title": "Transformation Semigroups Which Are Disjoint Union of Symmetric Groups",
+  "authors": [
+    "Utsithon Chaichompoo",
+    "Kritsada Sangkhanan"
+  ],
+  "summary": "Let $X$ be a nonempty set and $T(X)$ the full transformation semigroup on $X$. For any equivalence relation $E$ on $X$, define a subsemigroup $T_{E^*}(X)$ of $T(X)$ by\n  $$\n  T_{E^*}(X)=\\{α\\in T(X):\\text{for all}\\ x,y\\in X, (x,y)\\in E\\Leftrightarrow (xα,yα)\\in E\\}.\n  $$\n  We have the regular part of $T_{E^*}(X)$, denoted by $\\mathrm{Reg}(T)$, is the largest regular subsemigroup of $T_{E^*}(X)$. Defined the subsemigroup $Q_{E^*}(X)$ of $T_{E^*}(X)$ by\n  $$\n  Q_{E^*}(X)=\\{α\\in T_{E^*}(X):|Aα|=1\\ \\text{and}\\ A\\cap Xα\\neq\\emptyset\\ \\text{for all}\\ A\\in X/E\\}.\n  $$\n  Then we can prove that this subsemigroup is the (unique) minimal ideal of $\\mathrm{Reg}(T)$ which is called the kernel of $\\mathrm{Reg}(T)$. In this paper, we will compute the rank of $Q_{E^*}(X)$ when $X$ is finite and prove an isomorphism theorem. Finally, we describe and count all maximal subsemigroups of $Q_{E^*}(X)$ where $X$ is a finite set.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.RA"
+}

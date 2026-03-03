@@ -1,0 +1,15 @@
+{
+  "title": "Data-Driven Structured Robust Control of Linear Systems",
+  "authors": [
+    "Jared Miller",
+    "Jaap Eising",
+    "Florian Dörfler",
+    "Roy S. Smith"
+  ],
+  "summary": "Static structured control refers to the task of designing a state-feedback controller such that the control gain satisfies a subspace constraint. Structured control has applications in control of communication-inhibited dynamical systems, such as systems in networked environments. This work performs $H_2$-suboptimal regulation under a common structured state-feedback controller for a class of data-consistent plants. The certification of $H_2$-performance is attained through a combination of standard $H_2$ LMIs, convex sufficient conditions for structured control, and a matrix S-lemma for set-membership. The resulting convex optimization problems are linear matrix inequalities whose size scales independently of the number of data samples collected. Data-driven structured $H_2$-regulation control is demonstrated on example systems.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC, eess.SY"
+}

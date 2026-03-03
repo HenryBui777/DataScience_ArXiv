@@ -1,0 +1,14 @@
+{
+  "title": "An Algorithm to Speed up the Spatial Power Profile Calculation in Backward Raman Amplified Systems",
+  "authors": [
+    "Jad Sarkis",
+    "Yanchao Jiang",
+    "Pierluigi Poggiolini"
+  ],
+  "summary": "As data transmission demands grow, long-haul optical transmission links face increasing pressure to increase their throughput. Expanding usable bandwidth through Ultra-Wide Band (UWB) systems has become the primary strategy for increasing transmission capacity. However, UWB systems present challenges, such as the reliance on backward Raman amplification and the complications posed by inter-channel stimulated Raman scattering (ISRS), which causes uneven signal propagation across bands. To address these issues, accurate and efficient physical models are required for real-time optimization, which rely on the knowledge of the power profile. This paper develops a novel, more efficient method for computing the power profile of signals and pumps, utilizing the integral form of the equations with matrix-based approximations. The algorithm achieves up to a thirty-fold average speed increase over conventional approaches while maintaining an error margin under 0.05 dBm. These results represent a significant step forward towards reducing optimization times and enabling more extensive studies in ultra-wide band long haul optical transmission, further facilitating research and commercialization of UWB systems, in an effort to address the growing demand for higher throughput.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP"
+}

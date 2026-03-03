@@ -1,0 +1,18 @@
+{
+  "title": "GNN-Based Code Annotation Logic for Establishing Security Boundaries in C Code",
+  "authors": [
+    "Varun Gadey",
+    "Raphael Goetz",
+    "Christoph Sendner",
+    "Sampo Sovio",
+    "Alexandra Dmitrienko"
+  ],
+  "summary": "Securing sensitive operations in today's interconnected software landscape is crucial yet challenging. Modern platforms rely on Trusted Execution Environments (TEEs), such as Intel SGX and ARM TrustZone, to isolate security sensitive code from the main system, reducing the Trusted Computing Base (TCB) and providing stronger assurances. However, identifying which code should reside in TEEs is complex and requires specialized expertise, which is not supported by current automated tools. Existing solutions often migrate entire applications to TEEs, leading to suboptimal use and an increased TCB. To address this gap, we propose Code Annotation Logic (CAL), a pioneering tool that automatically identifies security sensitive components for TEE isolation. CAL analyzes codebases, leveraging a graph-based approach with novel feature construction and employing a custom graph neural network model to accurately determine which parts of the code should be isolated. CAL effectively optimizes TCB, reducing the burden of manual analysis and enhancing overall security. Our contributions include the definition of security sensitive code, the construction and labeling of a comprehensive dataset of source files, a feature rich graph based data preparation pipeline, and the CAL model for TEE integration. Evaluation results demonstrate CAL's efficacy in identifying sensitive code with a recall of 86.05%, an F1 score of 81.56%, and an identification rate of 91.59% for security sensitive functions. By enabling efficient code isolation, CAL advances the secure development of applications using TEEs, offering a practical solution for developers to reduce attack vectors.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-19"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR, cs.LG"
+}

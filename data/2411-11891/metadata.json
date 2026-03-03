@@ -1,0 +1,15 @@
+{
+  "title": "Survey on Semantic Interpretation of Tabular Data: Challenges and Directions",
+  "authors": [
+    "Marco Cremaschi",
+    "Blerina Spahiu",
+    "Matteo Palmonari",
+    "Ernesto Jimenez-Ruiz"
+  ],
+  "summary": "Tabular data plays a pivotal role in various fields, making it a popular format for data manipulation and exchange, particularly on the web. The interpretation, extraction, and processing of tabular information are invaluable for knowledge-intensive applications. Notably, significant efforts have been invested in annotating tabular data with ontologies and entities from background knowledge graphs, a process known as Semantic Table Interpretation (STI). STI automation aids in building knowledge graphs, enriching data, and enhancing web-based question answering. This survey aims to provide a comprehensive overview of the STI landscape. It starts by categorizing approaches using a taxonomy of 31 attributes, allowing for comparisons and evaluations. It also examines available tools, assessing them based on 12 criteria. Furthermore, the survey offers an in-depth analysis of the Gold Standards used for evaluating STI approaches. Finally, it provides practical guidance to help end-users choose the most suitable approach for their specific tasks while also discussing unresolved issues and suggesting potential future research directions.",
+  "submission_date": "2024-11-07",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AI, cs.IR"
+}

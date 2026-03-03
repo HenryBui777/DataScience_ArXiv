@@ -1,0 +1,13 @@
+{
+  "title": "Mirror Target YOLO: An Improved YOLOv8 Method with Indirect Vision for Heritage Buildings Fire Detection",
+  "authors": [
+    "Jian Liang",
+    "JunSheng Cheng"
+  ],
+  "summary": "Fires can cause severe damage to heritage buildings, making timely fire detection essential. Traditional dense cabling and drilling can harm these structures, so reducing the number of cameras to minimize such impact is challenging. Additionally, avoiding false alarms due to noise sensitivity and preserving the expertise of managers in fire-prone areas is crucial. To address these needs, we propose a fire detection method based on indirect vision, called Mirror Target YOLO (MITA-YOLO). MITA-YOLO integrates indirect vision deployment and an enhanced detection module. It uses mirror angles to achieve indirect views, solving issues with limited visibility in irregular spaces and aligning each indirect view with the target monitoring area. The Target-Mask module is designed to automatically identify and isolate the indirect vision areas in each image, filtering out non-target areas. This enables the model to inherit managers' expertise in assessing fire-risk zones, improving focus and resistance to interference in fire detection.In our experiments, we created an 800-image fire dataset with indirect vision. Results show that MITA-YOLO significantly reduces camera requirements while achieving superior detection performance compared to other mainstream models.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI"
+}

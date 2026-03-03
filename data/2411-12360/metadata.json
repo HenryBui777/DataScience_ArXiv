@@ -1,0 +1,15 @@
+{
+  "title": "An Affine Equivalence Algorithm for S-boxes based on Matrix Invariants",
+  "authors": [
+    "Xincheng Hu",
+    "Xiao Zeng",
+    "Zhaoqiang Liu",
+    "Guowu Yang"
+  ],
+  "summary": "We investigate the affine equivalence (AE) problem of S-boxes. Given two S-boxes denoted as $S_1$ and $S_2$, we aim to seek two invertible AE transformations $A,B$ such that $S_1\\circ A = B\\circ S_2$ holds. Due to important applications in the analysis and design of block ciphers, the investigation of AE algorithms has performed growing significance.\n  In this paper, we propose zeroization on S-box firstly, and the AE problem can be transformed into $2^n$ linear equivalence problems by this zeroization operation. Secondly, we propose standard orthogonal spatial matrix (SOSM), and the rank of the SOSM is invariant under AE transformations. Finally, based on the zeroization operation and the SOSM method, we propose a depth first search (DFS) method for determining AE of S-boxes, named the AE\\_SOSM\\_DFS algorithm. Using this matrix invariant, we optimize the temporal complexity of the algorithm to approximately $\\frac{1}{2^n}$ of the complexity without SOSM. Specifically, the complexity of our algorithm is $O(2^{3n})$. In addition, we also conducted experiments with non-invertible S-boxes, and the performance is similar to that of invertible S-boxes. Moreover, our proposed algorithm can effectively handle S-boxes with low algebraic degree or certain popular S-boxes such as namely AES and ARIA\\_s2, which are difficult to be handled by the algorithm proposed by Dinur (2018). Using our algorithm, it only takes 5.5 seconds to find out that the seven popular S-boxes namely AES, ARIA\\_s2, Camellia, Chiasmus, DBlock, SEED\\_S0, and SMS4 are affine equivalent and the AE transformations of these S-boxes are provided.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR, cs.DS"
+}

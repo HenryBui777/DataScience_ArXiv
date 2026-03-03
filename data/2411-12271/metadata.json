@@ -1,0 +1,15 @@
+{
+  "title": "SMT-Layout: A MaxSMT-based Approach Supporting Real-time Interaction of Real-world GUI Layout",
+  "authors": [
+    "Bohan Li",
+    "Dawei Li",
+    "Ming Fu",
+    "Shaowei Cai"
+  ],
+  "summary": "Leveraging the flexible expressive ability of (Max)SMT and the powerful solving ability of SMT solvers, we propose a novel layout model named SMT-Layout. SMT-Layout is the first constraint-based layout model that can support real-time interaction for real-world GUI layout adapting to various screen sizes with only one specification. Previous works neglect the hierarchy information among widgets and thus cannot exploit the reasoning ability of solvers. For the first time, we introduce Boolean variables to encode the hierarchy relationship, boosting the reasoning ability of SMT solvers. The workflow is divided into two stages. At the development end, two novel preprocessing methods are proposed to simplify constraints and extract useful information in advance, easing the solving burden. After deploying constraints to the terminal end, SMT solvers are applied to solve constraints incrementally. Besides mainstream SMT solvers, a local search solver is customized to this scenario. Experiments show that SMT-Layout can support millisecond-level interaction for real-world layouts, even on devices with low computing power and rigorous memory limitations.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LO, cs.HC"
+}

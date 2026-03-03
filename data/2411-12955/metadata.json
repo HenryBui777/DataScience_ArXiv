@@ -1,0 +1,13 @@
+{
+  "title": "Matrix-Scheduling of QSR-Dissipative Systems",
+  "authors": [
+    "Sepehr Moalemi",
+    "James Richard Forbes"
+  ],
+  "summary": "This paper considers gain-scheduling of QSR-dissipative subsystems using scheduling matrices. The corresponding QSR-dissipative properties of the overall matrix-gain-scheduled system, which depends on the QSR properties of the subsystems scheduled, are explicitly derived. The use of scheduling matrices is a generalization of the scalar scheduling signals used in the literature, and allows for greater design freedom when scheduling systems, such as in the case of gain-scheduled control. Furthermore, this work extends the existing gain-scheduling results to a broader class of QSR-dissipative systems. The matrix-scheduling of important special cases, such as passive, input strictly passive, output strictly passive, finite L2 gain, very strictly passive, and conic systems are presented. The proposed gain-scheduling architecture is used in the context of controlling a planar three-link robot subject to model uncertainty. A novel control synthesis technique is used to design QSR-dissipative subcontrollers that are gain-scheduled using scheduling matrices. Numerical simulation results highlight the greater design freedom of scheduling matrices, leading to improved performance.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

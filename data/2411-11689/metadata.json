@@ -1,0 +1,17 @@
+{
+  "title": "Tricriticality and finite-size scaling in the triangular Blume-Capel ferromagnet",
+  "authors": [
+    "Dimitrios Mataragkas",
+    "Alexandros Vasilopoulos",
+    "Nikolaos G. Fytas",
+    "Dong-Hee Kim"
+  ],
+  "summary": "We report on numerical simulations of the two-dimensional spin-$1$ Blume-Capel ferromagnet embedded in a triangular lattice. Utilizing a range of Monte Carlo and finite-size scaling techniques, we explore several critical aspects along the crystal field--temperature ($Δ, T$) transition line. Wang-Landau simulations measuring the joint density of states in combination with the method of field mixing allow us to probe the phase coexistence curve in high resolution, determining the tricritical point $(Δ_{\\rm t}, T_{\\rm t})$ with improved accuracy and verifying the tricritical exponents. Extensive multicanonical simulations identifying transition points across the phase diagram characterize the Ising universality class for $Δ< Δ_{\\rm t}$ with precise determination of thermal and magnetic critical exponents expected in the second-order regime. On the other hand, for $Δ> Δ_{\\rm t}$, a finite-size scaling analysis is dedicated to revealing the first-order signature in the surface tension that linearly increases upon lowering the temperature deeper into the first-order transition regime. Finally, a comprehensive picture of the phase diagram for the model is presented, collecting transition points obtained from the combined numerical approach in this study and previous estimates in the literature.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-01-08"
+  ],
+  "publication_venue": "Physical Review Research 7, 013214 (2025)",
+  "pdf_url": null,
+  "category": "cond-mat.stat-mech"
+}

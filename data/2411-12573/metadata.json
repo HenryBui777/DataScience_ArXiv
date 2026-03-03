@@ -1,0 +1,20 @@
+{
+  "title": "Locomotion Mode Transitions: Tackling System- and User-Specific Variability in Lower-Limb Exoskeletons",
+  "authors": [
+    "Andrea Dal Prete",
+    "Zeynep Özge Orhan",
+    "Anastasia Bolotnikova",
+    "Marta Gandolla",
+    "Auke Ijspeert",
+    "Mohamed Bouri"
+  ],
+  "summary": "Accurate detection of locomotion transitions, such as walk to sit, walk to stair ascent, and descent, is crucial to effectively control robotic assistive devices, such as lower-limb exoskeletons, as each locomotion mode requires specific assistance. Variability in collected sensor data introduced by user- or system-specific characteristics makes it challenging to maintain high transition detection accuracy while avoiding latency using non-adaptive classification models. In this study, we identified key factors influencing transition detection performance, including variations in user behavior, and different mechanical designs of the exoskeletons. To boost the transition detection accuracy, we introduced two methods for adapting a finite-state machine classifier to system- and user-specific variability: a Statistics-Based approach and Bayesian Optimization. Our experimental results demonstrate that both methods remarkably improve transition detection accuracy across diverse users, achieving up to an 80% increase in certain scenarios compared to the non-personalized threshold method. These findings emphasize the importance of personalization in adaptive control systems, underscoring the potential for enhanced user experience and effectiveness in assistive devices. By incorporating subject- and system-specific data into the model training process, our approach offers a precise and reliable solution for detecting locomotion transitions, catering to individual user needs, and ultimately improving the performance of assistive devices.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-20",
+    "2024-11-26"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

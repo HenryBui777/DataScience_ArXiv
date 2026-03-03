@@ -1,0 +1,14 @@
+{
+  "title": "Federated Learning for UAV-Based Spectrum Sensing: Enhancing Accuracy Through SNR-Weighted Model Aggregation",
+  "authors": [
+    "Kürşat Tekbıyık",
+    "Güneş Karabulut Kurt",
+    "Antoine Lesage-Landry"
+  ],
+  "summary": "The increasing demand for data usage in wireless communications requires using wider bands in the spectrum, especially for backhaul links. Yet, allocations in the spectrum for non-communication systems inhibit merging bands to achieve wider bandwidth. To overcome this issue, spectrum-sharing or opportunistic spectrum utilization by secondary users stands out as a promising solution. However, both approaches must minimize interference to primary users. Therefore, spectrum sensing becomes vital for such opportunistic usage, ensuring the proper operation of the primary users. Although this problem has been investigated for 2D networks, unmanned aerial vehicle (UAV) networks need different points of view concerning 3D space, its challenges, and opportunities. For this purpose, we propose a federated learning (FL)-based method for spectrum sensing in UAV networks to account for their distributed nature and limited computational capacity. FL enables local training without sharing raw data while guaranteeing the privacy of local users,lowering communication overhead, and increasing data diversity. Furthermore, we develop a federated aggregation method, namely FedSNR, that considers the signal-to-noise ratio observed by UAVs to acquire a global model. The numerical results show that the proposed architecture and the aggregation method outperform traditional methods.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

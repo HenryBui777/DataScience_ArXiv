@@ -1,0 +1,19 @@
+{
+  "title": "Character-level Tokenizations as Powerful Inductive Biases for RNA Foundational Models",
+  "authors": [
+    "Adrián Morales-Pastor",
+    "Raquel Vázquez-Reza",
+    "Miłosz Wieczór",
+    "Clàudia Valverde",
+    "Manel Gil-Sorribes",
+    "Bertran Miquel-Oliver",
+    "Álvaro Ciudad",
+    "Alexis Molina"
+  ],
+  "summary": "RNA is a vital biomolecule with numerous roles and functions within cells, and interest in targeting it for therapeutic purposes has grown significantly in recent years. However, fully understanding and predicting RNA behavior, particularly for applications in drug discovery, remains a challenge due to the complexity of RNA structures and interactions. While foundational models in biology have demonstrated success in modeling several biomolecules, especially proteins, achieving similar breakthroughs for RNA has proven more difficult. Current RNA models have yet to match the performance observed in the protein domain, leaving an important gap in computational biology. In this work, we present ChaRNABERT, a suite of sample and parameter-efficient RNA foundational models, that through a learnable tokenization process, are able to reach state-of-the-art performance on several tasks in established benchmarks. We extend its testing in relevant downstream tasks such as RNA-protein and aptamer-protein interaction prediction. Weights and inference code for ChaRNABERT-8M will be provided for academic research use. The other models will be available upon request.",
+  "submission_date": "2024-11-05",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-bio.QM, cs.AI, cs.LG, q-bio.BM"
+}

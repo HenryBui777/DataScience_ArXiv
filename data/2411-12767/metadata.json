@@ -1,0 +1,17 @@
+{
+  "title": "Suicide Risk Assessment on Social Media with Semi-Supervised Learning",
+  "authors": [
+    "Max Lovitt",
+    "Haotian Ma",
+    "Song Wang",
+    "Yifan Peng"
+  ],
+  "summary": "With social media communities increasingly becoming places where suicidal individuals post and congregate, natural language processing presents an exciting avenue for the development of automated suicide risk assessment systems. However, past efforts suffer from a lack of labeled data and class imbalances within the available labeled data. To accommodate this task's imperfect data landscape, we propose a semi-supervised framework that leverages labeled (n=500) and unlabeled (n=1,500) data and expands upon the self-training algorithm with a novel pseudo-label acquisition process designed to handle imbalanced datasets. To further ensure pseudo-label quality, we manually verify a subset of the pseudo-labeled data that was not predicted unanimously across multiple trials of pseudo-label generation. We test various models to serve as the backbone for this framework, ultimately deciding that RoBERTa performs the best. Ultimately, by leveraging partially validated pseudo-labeled data in addition to ground-truth labeled data, we substantially improve our model's ability to assess suicide risk from social media posts.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-12-15"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.AI, cs.SI"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Securing Satellite Link Segment: A Secure-by-Component Design",
+  "authors": [
+    "Olfa Ben Yahia",
+    "William Ferguson",
+    "Sumit Chakravarty",
+    "Nesrine Benchoubane",
+    "Gunes Karabulut Kurt",
+    "Gürkan Gür",
+    "Gregory Falco"
+  ],
+  "summary": "The rapid evolution of communication technologies, compounded by recent geopolitical events such as the Viasat cyberattack in February 2022, has highlighted the urgent need for fast and reliable satellite missions for military and civil security operations. Consequently, this paper examines two Earth observation (EO) missions: one utilizing a single low Earth orbit (LEO) satellite and another through a network of LEO satellites, employing a secure-by-component design strategy. This approach begins by defining the scope of technical security engineering, decomposing the system into components and data flows, and enumerating attack surfaces. Then it proceeds by identifying threats to low-level components, applying secure-by-design principles, redesigning components into secure blocks in alignment with the Space Attack Research & Tactic Analysis (SPARTA) framework, and crafting shall statements to refactor the system design, with a particular focus on improving the security of the link segment.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR, eess.SP"
+}

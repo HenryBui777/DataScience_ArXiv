@@ -1,0 +1,14 @@
+{
+  "title": "Crystal Hypergraph Convolutional Networks",
+  "authors": [
+    "Alexander J. Heilman",
+    "Weiyi Gong",
+    "Qimin Yan"
+  ],
+  "summary": "Graph representations of solid state materials that encode only interatomic distance lack geometrical resolution, resulting in degenerate representations that may map distinct structures to equivalent graphs. Here we propose a hypergraph representation scheme for materials that allows for the association of higher-order geometrical information with hyperedges. Hyperedges generalize edges to connected sets of more than two nodes, and may be used to represent triplets and local environments of atoms in materials. This generalization of edges requires a different approach in graph convolution, three of which are developed in this paper. Results presented here focus on the improved performance of models based on both pair-wise edges and local environment hyperedges. These results demonstrate that hypergraphs are an effective method for incorporating geometrical information in material representations.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cond-mat.mtrl-sci"
+}

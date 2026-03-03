@@ -1,0 +1,17 @@
+{
+  "title": "Visual-Oriented Fine-Grained Knowledge Editing for MultiModal Large Language Models",
+  "authors": [
+    "Zhen Zeng",
+    "Leijiang Gu",
+    "Xun Yang",
+    "Zhangling Duan",
+    "Zenglin Shi",
+    "Meng Wang"
+  ],
+  "summary": "Knowledge editing aims to efficiently and cost-effectively correct inaccuracies and update outdated information. Recently, there has been growing interest in extending knowledge editing from Large Language Models (LLMs) to Multimodal Large Language Models (MLLMs), which integrate both textual and visual information, introducing additional editing complexities. Existing multimodal knowledge editing works primarily focus on text-oriented, coarse-grained scenarios, failing to address the unique challenges posed by multimodal contexts. In this paper, we propose a visual-oriented, fine-grained multimodal knowledge editing task that targets precise editing in images with multiple interacting entities. We introduce the Fine-Grained Visual Knowledge Editing (FGVEdit) benchmark to evaluate this task. Moreover, we propose a Multimodal Scope Classifier-based Knowledge Editor (MSCKE) framework. MSCKE leverages a multimodal scope classifier that integrates both visual and textual information to accurately identify and update knowledge related to specific entities within images. This approach ensures precise editing while preserving irrelevant information, overcoming the limitations of traditional text-only editing methods. Extensive experiments on the FGVEdit benchmark demonstrate that MSCKE outperforms existing methods, showcasing its effectiveness in solving the complex challenges of multimodal knowledge editing.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI"
+}

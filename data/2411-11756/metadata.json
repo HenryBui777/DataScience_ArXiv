@@ -1,0 +1,20 @@
+{
+  "title": "Optimization Algorithm for Inventory Allocation in Gravity-Flow Racks with Classical and Quantum-Hybrid Computing",
+  "authors": [
+    "Gabriel P. L. M. Fernandes",
+    "Matheus S. Fonseca",
+    "Amanda G. Valério",
+    "Alexandre C. Ricardo",
+    "Nicolás A. C. Carpio",
+    "Paulo C. C. Bezerra",
+    "Celso J. Villas-Boas"
+  ],
+  "summary": "Warehouses play a central role in industrial logistics, functioning as critical hubs for storing and organizing inventory to support efficient production. Optimizing item allocation within these facilities is essential for reducing operational costs and improving delivery times. In this work, we address the optimization of inventory allocation in warehouses equipped with gravity-flow racks, which are designed for First In, First Out (FIFO) logistics, a configuration that inherently requires item reinsertions during retrieval operations to maintain flow continuity. These reinsertions, however, are time-consuming and costly, so minimizing their occurrence is crucial for operational efficiency. We propose an optimization strategy that simultaneously allocates multiple items, determining their placement across available shelves in a single decision step, explicitly accounting for every item and every shelf in the warehouse. By jointly evaluating multiple items, our approach enables globally optimized placement decisions, minimizing conflicts that arise in sequential methods. The problem is formulated as a QUBO, allowing implementation on both classical metaheuristics and quantum-hybrid solvers. We assess performance by comparing three classical optimization approaches - two variants of Simulated Annealing and the commercial solver Gurobi - with D-Wave's hybrid solver, which uniquely combines quantum annealing with classical metaheuristics. Complementing these benchmarks, a factory-scale simulation based on real operational data shows that considering larger batches of items in the allocation step can significantly reduce reinsertions, highlighting the practical potential of the proposed approach for industrial logistics.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-11-05"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

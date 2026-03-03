@@ -1,0 +1,17 @@
+{
+  "title": "Milstein-type schemes for McKean-Vlasov SDEs driven by Brownian motion and Poisson random measure (with super-linear coefficients)",
+  "authors": [
+    "Sani Biswas",
+    "Chaman Kumar",
+    "Christoph Reisinger",
+    "Verena Schwarz"
+  ],
+  "summary": "In this work, we present a general Milstein-type scheme for McKean-Vlasov stochastic differential equations (SDEs) driven by Brownian motion and Poisson random measure and the associated system of interacting particles where drift, diffusion and jump coefficients may grow super-linearly in the state variable and linearly in the measure component. The strong rate of $\\mathcal{L}^2$-convergence of the proposed scheme is shown to be arbitrarily close to one under appropriate regularity assumptions on the coefficients. For the derivation of the Milstein scheme and to show its strong rate of convergence, we provide an Itô formula for the interacting particle system connected with the McKean-Vlasov SDE driven by Brownian motion and Poisson random measure. Moreover, we use the notion of Lions derivative to examine our results. The two-fold challenges arising due to the presence of the empirical measure and super-linearity of the jump coefficient are resolved by identifying and exploiting an appropriate coercivity-type condition.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-01-07"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.PR"
+}

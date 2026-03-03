@@ -1,0 +1,15 @@
+{
+  "title": "Iterative Learning Control for Ramp Metering on Service Station On-ramps",
+  "authors": [
+    "Hongxi Xiang",
+    "Carlo Cenedese",
+    "Efe C. Balta",
+    "John Lygeros"
+  ],
+  "summary": "Congestion on highways has become a significant social problem due to the increasing number of vehicles, leading to considerable waste of time and pollution. Regulating the outflow from the Service Station can help alleviate this congestion. Notably, traffic flows follow recurring patterns over days and weeks, allowing for the application of Iterative Learning Control (ILC). Building on these insights, we propose an ILC approach based on the Cell Transmission Model with service stations (CTM-s). It is shown that ILC can effectively compensate for potential inaccuracies in model parameter estimates by leveraging historical data.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

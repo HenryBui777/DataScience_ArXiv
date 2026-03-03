@@ -1,0 +1,14 @@
+{
+  "title": "Implicit Regularization for Multi-label Feature Selection",
+  "authors": [
+    "Dou El Kefel Mansouri",
+    "Khalid Benabdeslem",
+    "Seif-Eddine Benkabou"
+  ],
+  "summary": "In this paper, we address the problem of feature selection in the context of multi-label learning, by using a new estimator based on implicit regularization and label embedding. Unlike the sparse feature selection methods that use a penalized estimator with explicit regularization terms such as $l_{2,1}$-norm, MCP or SCAD, we propose a simple alternative method via Hadamard product parameterization. In order to guide the feature selection process, a latent semantic of multi-label information method is adopted, as a label embedding. Experimental results on some known benchmark datasets suggest that the proposed estimator suffers much less from extra bias, and may lead to benign overfitting.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Digitalizing Railway Operations: An Optimization-Based Train Rescheduling Model for Urban and Interurban Disrupted Networks",
+  "authors": [
+    "Shayan Bafandkar",
+    "Yousef Shafahi",
+    "Alireza Eslami",
+    "Alireza Yazdiani"
+  ],
+  "summary": "This study introduces a novel methodology for managing train network disruptions across the entire rail network, leveraging digital tools and methodologies. The approach involves two stages, taking into account possible and practical features such as allowing trains to occupy opposite tracks and considering infrastructure capacity for train stops. In the first stage, important nodes within the train network are identified, considering both a topological feature and passenger demand. Subsequently, the network is aggregated based on these important nodes, employing a digital approach to reduce problem complexity. In the second stage, we develop an Integer Programming model for train rescheduling. We then solve this model using the CPLEX solver to evaluate its efficiency. The first case study applies this methodology to the Iranian railway, which is known as a sparse rail network. The results show minimal deviation from the initial train timetable due to the low frequency of trips in each block. Although the approach successfully addresses the train rescheduling problem for various disruption scenarios on the Iranian railway, the excessive computational time required by the optimization model prompts us to make adjustments. Finally, the second case study demonstrates the implementation of the adjusted model in a busy test network. This adaptation significantly reduces computational time by up to 88%. It can be effectively utilized for disruption management in busy networks, where trains need to receive a secondary timetable promptly when facing disruptions.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC"
+}

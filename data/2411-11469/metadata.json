@@ -1,0 +1,15 @@
+{
+  "title": "Deegen: A JIT-Capable VM Generator for Dynamic Languages",
+  "authors": [
+    "Haoran Xu",
+    "Fredrik Kjolstad"
+  ],
+  "summary": "Building a high-performance JIT-capable VM for a dynamic language has traditionally required a tremendous amount of time, money, and expertise. We present Deegen, a meta-compiler that allows users to generate a high-performance JIT-capable VM for their own language at an engineering cost similar to writing a simple interpreter. Deegen takes in the execution semantics of the bytecodes implemented as C++ functions, and automatically generates a two-tier VM execution engine with a state-of-the-art interpreter, a state-of-the-art baseline JIT, and the tier-switching logic that connects them into a self-adaptive system.\n  We are the first to demonstrate the automatic generation of a JIT compiler, and the automatic generation of an interpreter that outperforms the state of the art. Our performance comes from a long list of optimizations supported by Deegen, including bytecode specialization and quickening, register pinning, tag register optimization, call inline caching, generic inline caching, JIT polymorphic IC, JIT IC inline slab, type-check removal and strength reduction, type-based slow-path extraction and outlining, JIT hot-cold code splitting, and JIT OSR-entry. These optimizations are either employed automatically, or guided by the language implementer through intuitive APIs. As a result, the disassembly of the Deegen-generated interpreter, baseline JIT, and the generated JIT code rivals the assembly code hand-written by experts in state-of-the-art VMs.\n  We implement LuaJIT Remake (LJR), a standard-compliant Lua 5.1 VM, using Deegen. Across 44 benchmarks, LJR's interpreter is on average 179% faster than the official PUC Lua interpreter, and 31% faster than LuaJIT's interpreter. LJR's baseline JIT has negligible startup delay, and its execution performance is on average 360% faster than PUC Lua and only 33% slower (but faster on 13/44 benchmarks) than LuaJIT's optimizing JIT.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-24"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.PL"
+}

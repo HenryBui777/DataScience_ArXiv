@@ -1,0 +1,26 @@
+{
+  "title": "Mass Transfer in Eccentric Orbits with Self-consistent Stellar Evolution",
+  "authors": [
+    "Kyle Akira Rocha",
+    "Rachel Hur",
+    "Vicky Kalogera",
+    "Seth Gossage",
+    "Meng Sun",
+    "Zoheyr Doctor",
+    "Jeff J. Andrews",
+    "Simone S. Bavera",
+    "Max Briel",
+    "Tassos Fragos",
+    "Konstantinos Kovlakas",
+    "Matthias U. Kruckow",
+    "Devina Misra",
+    "Zepei Xing",
+    "Emmanouil Zapartas"
+  ],
+  "summary": "We investigate Roche lobe overflow mass transfer (MT) in eccentric binary systems between stars and compact objects (COs), modeling the coupled evolution of both the star and the orbit due to eccentric MT (eMT) in a self-consistent framework. We implement the analytic expressions for secular rates of change of the orbital semi-major axis and eccentricity, assuming a delta function MT at periapse, into the binary stellar evolution code MESA. Two scenarios are examined: (1) a simplified model isolating the effects of eMT on stellar and orbital evolution, and (2) realistic binary configurations that include angular momentum exchange (e.g., tides, mass loss, spin-orbit coupling, and gravitational wave radiation). Unlike the ad hoc approach of instant circularization that is often employed, explicit modeling of eMT reveals a large fraction of binaries can remain eccentric post-MT. Even binaries which naturally circularize during eMT have different properties (donor mass and orbital size) compared to predictions from instant circularization, with some showing fundamentally different evolutionary outcomes (e.g., stable versus unstable MT). We demonstrate that a binary's initial mass ratio and eccentricity are predictive of whether it will remain eccentric or circularize after eMT. These findings underscore the importance of eMT in understanding CO-hosting binary populations, including X-ray binaries, gravitational wave sources, and other high-energy transients.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.SR, astro-ph.HE"
+}

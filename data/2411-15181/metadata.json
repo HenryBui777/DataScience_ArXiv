@@ -1,0 +1,17 @@
+{
+  "title": "Optimally Controlling a Random Population",
+  "authors": [
+    "Hugo Gimbert",
+    "Corto Mascle",
+    "Patrick Totzke"
+  ],
+  "summary": "The population control problem is a parameterized control problem where a population of agents has to be moved simultaneously into a target state. The decision problem asks whether this can be achieved for a finite but arbitrarily large population. We focus on the random version of this problem, where every agent is a copy of the same automaton and non-determinism on the global action chosen by the controller is resolved independently and uniformly at random. Controller seeks to almost-surely gather the agents in the target states. We show that the random population control problem is exptime-complete.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-02-08",
+    "2025-02-25"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC"
+}

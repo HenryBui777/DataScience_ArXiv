@@ -1,0 +1,22 @@
+{
+  "title": "Material synthesis through simulations guided by machine learning: a position paper",
+  "authors": [
+    "Usman Syed",
+    "Federico Cunico",
+    "Uzair Khan",
+    "Eros Radicchi",
+    "Francesco Setti",
+    "Adolfo Speghini",
+    "Paolo Marone",
+    "Filiberto Semenzin",
+    "Marco Cristani"
+  ],
+  "summary": "In this position paper, we propose an approach for sustainable data collection in the field of optimal mix design for marble sludge reuse. Marble sludge, a calcium-rich residual from stone-cutting processes, can be repurposed by mixing it with various ingredients. However, determining the optimal mix design is challenging due to the variability in sludge composition and the costly, time-consuming nature of experimental data collection. Also, we investigate the possibility of using machine learning models using meta-learning as an optimization tool to estimate the correct quantity of stone-cutting sludge to be used in aggregates to obtain a mix design with specific mechanical properties that can be used successfully in the building industry. Our approach offers two key advantages: (i) through simulations, a large dataset can be generated, saving time and money during the data collection phase, and (ii) Utilizing machine learning models, with performance enhancement through hyper-parameter optimization via meta-learning, to estimate optimal mix designs reducing the need for extensive manual experimentation, lowering costs, minimizing environmental impact, and accelerating the processing of quarry sludge. Our idea promises to streamline the marble sludge reuse process by leveraging collective data and advanced machine learning, promoting sustainability and efficiency in the stonecutting sector.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-26"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

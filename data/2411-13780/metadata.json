@@ -1,0 +1,15 @@
+{
+  "title": "Convergence/divergence phenomena in the vanishing discount limit of Hamilton-Jacobi equations",
+  "authors": [
+    "Andrea Davini",
+    "Panrui Ni",
+    "Jun Yan",
+    "Maxime Zavidovique"
+  ],
+  "summary": "We study the asymptotic behavior of solutions of an equation of the form \\begin{equation}\\label{abs}\\tag{*} G\\big(x, D_x u,λu(x)\\big) = c_0\\qquad\\hbox{in $M$} \\end{equation} on a closed Riemannian manifold $M$, where $G\\in C(T^*M\\times\\mathbb{R})$ is convex and superlinear in the gradient variable, is globally Lipschitz but not monotone in the last argument, and $c_0$ is the critical constant associated with the Hamiltonian $H:=G(\\cdot,\\cdot,0)$. By assuming that $\\partial_u G(\\cdot,\\cdot,0)$ satisfies a positivity condition of integral type on the Mather set of $H$, we prove that any equi-bounded family of solutions of \\eqref{abs} uniformly converges to a distinguished critical solution $u_0$ as $λ\\to 0^+$. We furthermore show that any other possible family of solutions uniformly diverges to $+\\infty$ or $-\\infty$. We then look into the linear case $G(x,p,u):=a(x)u + H(x,p)$ and prove that the family $(u_λ)_{λ\\in (0,λ_0)}$ of maximal solutions to \\eqref{abs} is well defined and equi-bounded for $λ_0>0$ small enough. When $a$ changes sign and enjoys a stronger localized positivity assumption, we show that equation \\eqref{abs} does admit other solutions too, and that they all uniformly diverge to $-\\infty$ as $λ\\to 0^+$. This is the first time that converging and diverging families of solutions are shown to coexist in such a generality.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AP"
+}

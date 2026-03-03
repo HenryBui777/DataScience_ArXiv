@@ -1,0 +1,14 @@
+{
+  "title": "Packet Steering Mechanisms for MLO in Wi-Fi 7",
+  "authors": [
+    "Gianluca Cena",
+    "Matteo Rosani",
+    "Stefano Scanzio"
+  ],
+  "summary": "Besides extremely high throughput, Wi-Fi 7 is also aimed at providing users a more deterministic behavior, characterized by shorter average latency and smaller jitters. A key mechanism to achieve this is multi-link operation, which brings simultaneous multi-band communication to client stations as well. In this paper, traffic steering policies are briefly reviewed and grouped into general classes, each one with its advantages and limitations. A basic mechanism for supporting dynamic steering is then described, which is simple enough to allow implementation in real Wi-Fi chipsets but highly flexible at the same time. Its operation can be driven by the host on a per-packet basis, and this permits to optimize spectrum usage depending on the requirements of applications and the traffic pattern they generate.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "29th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA 2024)",
+  "pdf_url": null,
+  "category": "cs.NI"
+}

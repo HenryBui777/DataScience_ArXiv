@@ -1,0 +1,19 @@
+{
+  "title": "MGHF: Multi-Granular High-Frequency Perceptual Loss for Image Super-Resolution",
+  "authors": [
+    "Shoaib Meraj Sami",
+    "Md Mahedi Hasan",
+    "Mohammad Saeed Ebrahimi Saadabadi",
+    "Jeremy Dawson",
+    "Nasser Nasrabadi",
+    "Raghuveer Rao"
+  ],
+  "summary": "While different variants of perceptual losses have been employed in super-resolution literature to synthesize more realistic, appealing, and detailed high-resolution images, most are convolutional neural networks-based, causing information loss during guidance and often relying on complicated architectures and training procedures. We propose an invertible neural network (INN)-based naive \\textbf{M}ulti-\\textbf{G}ranular \\textbf{H}igh-\\textbf{F}requency (MGHF-n) perceptual loss trained on ImageNet to overcome these issues. Furthermore, we develop a comprehensive framework (MGHF-c) with several constraints to preserve, prioritize, and regularize information across multiple perspectives: texture and style preservation, content preservation, regional detail preservation, and joint content-style regularization. Information is prioritized through adaptive entropy-based pruning and reweighting of INN features. We utilize Gram matrix loss for style preservation and mean-squared error loss for content preservation. Additionally, we propose content-style consistency through correlation loss to regulate unnecessary texture generation while preserving content information. Since small image regions may contain intricate details, we employ modulated PatchNCE in the INN features as a local information preservation objective. Extensive experiments on various super-resolution algorithms, including GAN- and diffusion-based methods, demonstrate that our MGHF framework significantly improves performance. After the review process, our code will be released in the public repository.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-06-23"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.LG"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Initial Evidence of Elevated Reconnaissance Attacks Against Nodes in P2P Overlay Networks",
+  "authors": [
+    "Scott Seidenberger",
+    "Anindya Maiti"
+  ],
+  "summary": "We hypothesize that peer-to-peer (P2P) overlay network nodes can be attractive to attackers due to their visibility, sustained uptime, and resource potential. Towards validating this hypothesis, we investigate the state of active reconnaissance attacks on Ethereum P2P network nodes by deploying a series of honeypots alongside actual Ethereum nodes across globally distributed vantage points. We find that Ethereum nodes experience not only increased attacks, but also specific types of attacks targeting particular ports and services. Furthermore, we find evidence that the threat assessment on our nodes is applicable to the wider P2P network by having performed port scans on other reachable peers. Our findings provide insights into potential mitigation strategies to improve the security of the P2P networking layer.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-27"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR, cs.NI"
+}

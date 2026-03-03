@@ -1,0 +1,15 @@
+{
+  "title": "Lifting Generators in Connected Lie Groups",
+  "authors": [
+    "Tal Cohen",
+    "Itamar Vigdorovich"
+  ],
+  "summary": "Given an epimorphism between topological groups $f:G\\to H$, when can a generating set of $H$ be lifted to a generating set of $G$?\n  We show that for connected Lie groups the problem is fundamentally abelian: generators can be lifted if and only if they can be lifted in the induced map between the abelianisations (assuming the number of generators is at least the minimal number of generators of $G$). As a consequence, we deduce that connected perfect Lie groups satisfy the Gaschütz lemma: generating sets of quotients can always be lifted. If the Lie group is not perfect, this may fail. The extent to which a group fails to satisfy the Gaschütz lemma is measured by its \\emph{Gaschütz rank}, which we bound for all connected Lie groups, and compute exactly in most cases. Additionally, we compute the maximal size of an irredundant generating set of connected abelian Lie groups, and discuss connections between such generation problems with the Wiegold conjecture.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-10-16"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.GR"
+}

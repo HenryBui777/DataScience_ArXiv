@@ -1,0 +1,16 @@
+{
+  "title": "A More Advanced Group Polarization Measurement Approach Based on LLM-Based Agents and Graphs",
+  "authors": [
+    "Zixin Liu",
+    "Ji Zhang",
+    "Yiran Ding"
+  ],
+  "summary": "Group polarization is an important research direction in social media content analysis, attracting many researchers to explore this field. Therefore, how to effectively measure group polarization has become a critical topic. Measuring group polarization on social media presents several challenges that have not yet been addressed by existing solutions. First, social media group polarization measurement involves processing vast amounts of text, which poses a significant challenge for information extraction. Second, social media texts often contain hard-to-understand content, including sarcasm, memes, and internet slang. Additionally, group polarization research focuses on holistic analysis, while texts is typically fragmented. To address these challenges, we designed a solution based on a multi-agent system and used a graph-structured Community Sentiment Network (CSN) to represent polarization states. Furthermore, we developed a metric called Community Opposition Index (COI) based on the CSN to quantify polarization. Finally, we tested our multi-agent system through a zero-shot stance detection task and achieved outstanding results. In summary, the proposed approach has significant value in terms of usability, accuracy, and interpretability.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-12-16"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CY, cs.AI"
+}

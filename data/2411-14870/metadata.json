@@ -1,0 +1,16 @@
+{
+  "title": "Application of AI to formal methods - an analysis of current trends",
+  "authors": [
+    "Sebastian Stock",
+    "Jannik Dunkelau",
+    "Atif Mashkoor"
+  ],
+  "summary": "Context: With artificial intelligence (AI) being well established within the daily lives of research communities, we turn our gaze toward formal methods (FM). FM aim to provide sound and verifiable reasoning about problems in computer science. Objective: We conduct a systematic mapping study to overview the current landscape of research publications that apply AI to FM. We aim to identify how FM can benefit from AI techniques and highlight areas for further research. Our focus lies on the previous five years (2019-2023) of research. Method: Following the proposed guidelines for systematic mapping studies, we searched for relevant publications in four major databases, defined inclusion and exclusion criteria, and applied extensive snowballing to uncover potential additional sources. Results: This investigation results in 189 entries which we explored to find current trends and highlight research gaps. We find a strong focus on AI in the area of theorem proving while other subfields of FM are less represented. Conclusions: The mapping study provides a quantitative overview of the modern state of AI application in FM. The current trend of the field is yet to mature. Many primary studies focus on practical application, yet we identify a lack of theoretical groundwork, standard benchmarks, or case studies. Further, we identify issues regarding shared training data sets and standard benchmarks.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-08-27"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LO, cs.AI, cs.LG"
+}

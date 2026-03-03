@@ -1,0 +1,14 @@
+{
+  "title": "Spatial error models with heteroskedastic normal perturbations and joint modeling of mean and variance",
+  "authors": [
+    "J. D. Toloza",
+    "O. O. Melo",
+    "N. A. Cruz"
+  ],
+  "summary": "This work presents the spatial error model with heteroskedasticity, which allows the joint modeling of the parameters associated with both the mean and the variance, within a traditional approach to spatial econometrics. The estimation algorithm is based on the log-likelihood function and incorporates the use of GAMLSS models in an iterative form. Two theoretical results show the advantages of the model to the usual models of spatial econometrics and allow obtaining the bias of weighted least squares estimators. The proposed methodology is tested through simulations, showing notable results in terms of the ability to recover all parameters and the consistency of its estimates. Finally, this model is applied to identify the factors associated with school desertion in Colombia.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME"
+}

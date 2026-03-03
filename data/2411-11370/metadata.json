@@ -1,0 +1,19 @@
+{
+  "title": "Transmission Line Defect Detection Based on UAV Patrol Images and Vision-language Pretraining",
+  "authors": [
+    "Ke Zhang",
+    "Zhaoye Zheng",
+    "Yurong Guo",
+    "Jiacun Wang",
+    "Jiyuan Yang",
+    "Yangjie Xiao"
+  ],
+  "summary": "Unmanned aerial vehicle (UAV) patrol inspection has emerged as a predominant approach in transmission line monitoring owing to its cost-effectiveness. Detecting defects in transmission lines is a critical task during UAV patrol inspection. However, due to imaging distance and shooting angles, UAV patrol images often suffer from insufficient defect-related visual information, which has an adverse effect on detection accuracy. In this article, we propose a novel method for detecting defects in UAV patrol images, which is based on vision-language pretraining for transmission line (VLP-TL) and a progressive transfer strategy (PTS). Specifically, VLP-TL contains two novel pretraining tasks tailored for the transmission line scenario, aimimg at pretraining an image encoder with abundant knowledge acquired from both visual and linguistic information. Transferring the pretrained image encoder to the defect detector as its backbone can effectively alleviate the insufficient visual information problem. In addition, the PTS further improves transfer performance by progressively bridging the gap between pretraining and downstream defection detection. Experimental results demonstrate that the proposed method significantly improves defect detection accuracy by jointly utilizing multimodal information, overcoming the limitations of insufficient defect-related visual information provided by UAV patrol images.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-05-11"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

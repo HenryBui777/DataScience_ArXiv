@@ -1,0 +1,15 @@
+{
+  "title": "Vertices of the monotone path polytopes of hypersimplicies",
+  "authors": [
+    "Germain Poullot"
+  ],
+  "summary": "The monotone path polytope of a polytope $P$ encapsulates the combinatorial behavior of the shadow vertex rule (a pivot rule used in linear programming) on $P$. Computing monotone path polytopes is the entry door to the larger subject of fiber polytopes, for which explicitly computing examples remains a challenge. We first give a detailed presentation on how to construct monotone path polytopes.\n  Monotone path polytopes of cubes and simplices have been known since the seminal article of Billera and Sturmfels. We extend these results to hypersimplices by linking this problem to the combinatorics of lattice paths. Indeed, we give a combinatorial model which describes the vertices of the monotone path polytope of the hypersimplex $Δ(n, 2)$ (for any generic direction). With this model, we give a precise count of these vertices, and furthermore count the number of coherent monotone paths on $Δ(n, 2)$ according to their lengths.\n  We prove that some of the results obtained also hold for hypersimplices $Δ(n, k)$ for $k\\geq 2$.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-10-16",
+    "2025-10-23"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.CO"
+}

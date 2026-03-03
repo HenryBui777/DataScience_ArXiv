@@ -1,0 +1,16 @@
+{
+  "title": "MORE-Stress: Model Order Reduction based Efficient Numerical Algorithm for Thermal Stress Simulation of TSV Arrays in 2.5D/3D IC",
+  "authors": [
+    "Tianxiang Zhu",
+    "Qipan Wang",
+    "Yibo Lin",
+    "Runsheng Wang",
+    "Ru Huang"
+  ],
+  "summary": "Thermomechanical stress induced by through-silicon vias (TSVs) plays an important role in the performance and reliability analysis of 2.5D/3D ICs. While the finite element method (FEM) adopted by commercial software can provide accurate simulation results, it is very time- and memory-consuming for large-scale analysis. Over the past decade, the linear superposition method has been utilized to perform fast thermal stress estimations of TSV arrays, but it suffers from a lack of accuracy. In this paper, we propose MORE-Stress, a novel strict numerical algorithm for efficient thermal stress simulation of TSV arrays based on model order reduction. Extensive experimental results demonstrate that our algorithm can realize a 153-504 times reduction in computational time and a 39-115 times reduction in memory usage compared with the commercial software ANSYS, with negligible errors less than 1%. Our algorithm is as efficient as the linear superposition method, with an order of magnitude smaller errors and fast convergence.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CE"
+}

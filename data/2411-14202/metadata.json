@@ -1,0 +1,14 @@
+{
+  "title": "Revised Regularization for Efficient Continual Learning through Correlation-Based Parameter Update in Bayesian Neural Networks",
+  "authors": [
+    "Sanchar Palit",
+    "Biplab Banerjee",
+    "Subhasis Chaudhuri"
+  ],
+  "summary": "We propose a Bayesian neural network-based continual learning algorithm using Variational Inference, aiming to overcome several drawbacks of existing methods. Specifically, in continual learning scenarios, storing network parameters at each step to retain knowledge poses challenges. This is compounded by the crucial need to mitigate catastrophic forgetting, particularly given the limited access to past datasets, which complicates maintaining correspondence between network parameters and datasets across all sessions. Current methods using Variational Inference with KL divergence risk catastrophic forgetting during uncertain node updates and coupled disruptions in certain nodes. To address these challenges, we propose the following strategies. To reduce the storage of the dense layer parameters, we propose a parameter distribution learning method that significantly reduces the storage requirements. In the continual learning framework employing variational inference, our study introduces a regularization term that specifically targets the dynamics and population of the mean and variance of the parameters. This term aims to retain the benefits of KL divergence while addressing related challenges. To ensure proper correspondence between network parameters and the data, our method introduces an importance-weighted Evidence Lower Bound term to capture data and parameter correlations. This enables storage of common and distinctive parameter hyperspace bases. The proposed method partitions the parameter space into common and distinctive subspaces, with conditions for effective backward and forward knowledge transfer, elucidating the network-parameter dataset correspondence. The experimental results demonstrate the effectiveness of our method across diverse datasets and various combinations of sequential datasets, yielding superior performance compared to existing approaches.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.CV"
+}

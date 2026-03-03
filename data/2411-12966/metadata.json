@@ -1,0 +1,14 @@
+{
+  "title": "Internal stresses in low-Reynolds-number fractal aggregates",
+  "authors": [
+    "Matteo Polimeno",
+    "Changho Kim",
+    "François Blanchette"
+  ],
+  "summary": "We present a numerical model of fractal-structured aggregates in low-Reynolds-number flows. Assuming that aggregates are made of cubic particles, we first use a boundary integral method to compute the stresses acting on the boundary of the aggregates. From these external stresses, we compute the stresses within the aggregates in order to gain insights on their breakup, or disaggregation. We focus on systems in which aggregates are either settling under gravity or subjected to a background shear flow and study two types of aggregates, one with fractal dimension slightly less than two and one with fractal dimension slightly above two. We partition the aggregates into multiple shells based on the distance between the individual cubes in the aggregates and their center of mass and observe the distribution of internal stresses in each shell. Our findings indicate that large stresses are least likely to occur near the far edges of the aggregates. We also find that, for settling aggregates, the maximum internal stress scales as about 7.5% of the ratio of an aggregate's apparent weight to the area of the thinnest connection, here a single square. For aggregates exposed to a shear flow, we find that the maximum internal stress scales roughly quadratically with the aggregate radius. In addition, after breaking aggregates at the face with the maximum internal stress, we compute the mass distribution of sub-aggregates and observe significant differences between the settling and shear setups for the two types of aggregates, with the low-fractal-dimension aggregates being more likely to split approximately evenly. Information obtained by our numerical model can be used to develop more refined dynamical models that incorporate disaggregation.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.flu-dyn"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Heterogeneous population and its resilience to misinformation in vaccination uptake: A dual ODE and network approach",
+  "authors": [
+    "Komal Tanwar",
+    "Viney Kumar",
+    "Jai Prakash Tripathi"
+  ],
+  "summary": "Misinformation about vaccination poses a significant public health threat by reducing vaccination rates and increasing disease burden. Understanding population heterogeneity can aid in recognizing and mitigating the effects of such misinformation, especially when vaccine effectiveness is low. Our research quantifies the impact of misinformation on vaccination uptake and explores its effects in heterogeneous versus homogeneous populations. We employed a dual approach combining ordinary differential equations (ODE) and complex network models to analyze how different epidemiological parameters influence disease spread and vaccination behaviour. Our results indicate that misinformation significantly lowers vaccination rates, particularly in homogeneous populations, while heterogeneous populations demonstrate greater resilience. Among network topologies, small-world networks achieve higher vaccination rates under varying vaccine efficacies, while scale-free networks experience reduced vaccine coverage with higher misinformation amplification. Notably, cumulative infection remains independent of disease transmission rate when the vaccine is partially effective. In small-world networks, cumulative infection shows high stochasticity across vaccination rates and misinformation parameters, while cumulative vaccination is highest with higher and lower misinformation. To control disease spread, public health efforts should address misinformation, particularly in homogeneous populations and scale-free networks. Building resilience by promoting reliable vaccine information can boost vaccination rates. Focusing campaigns on small-world networks can result in higher vaccine uptake.",
+  "submission_date": "2024-11-11",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.soc-ph"
+}

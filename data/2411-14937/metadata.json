@@ -1,0 +1,19 @@
+{
+  "title": "Geminio: Language-Guided Gradient Inversion Attacks in Federated Learning",
+  "authors": [
+    "Junjie Shan",
+    "Ziqi Zhao",
+    "Jialin Lu",
+    "Rui Zhang",
+    "Siu Ming Yiu",
+    "Ka-Ho Chow"
+  ],
+  "summary": "Foundation models that bridge vision and language have made significant progress. While they have inspired many life-enriching applications, their potential for abuse in creating new threats remains largely unexplored. In this paper, we reveal that vision-language models (VLMs) can be weaponized to enhance gradient inversion attacks (GIAs) in federated learning (FL), where an FL server attempts to reconstruct private data samples from gradients shared by victim clients. Despite recent advances, existing GIAs struggle to reconstruct high-resolution images when the victim has a large local data batch. One promising direction is to focus reconstruction on valuable samples rather than the entire batch, but current methods lack the flexibility to target specific data of interest. To address this gap, we propose Geminio, the first approach to transform GIAs into semantically meaningful, targeted attacks. It enables a brand new privacy attack experience: attackers can describe, in natural language, the data they consider valuable, and Geminio will prioritize reconstruction to focus on those high-value samples. This is achieved by leveraging a pretrained VLM to guide the optimization of a malicious global model that, when shared with and optimized by a victim, retains only gradients of samples that match the attacker-specified query. Geminio can be launched at any FL round and has no impact on normal training (i.e., the FL server can steal clients' data while still producing a high-utility ML model as in benign scenarios). Extensive experiments demonstrate its effectiveness in pinpointing and reconstructing targeted samples, with high success rates across complex datasets and large batch sizes with resilience against defenses.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-08-02"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI, cs.CR"
+}

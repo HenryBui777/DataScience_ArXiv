@@ -1,0 +1,18 @@
+{
+  "title": "Simulating Liquidity: Agent-Based Modeling of Illiquid Markets for Fractional Ownership",
+  "authors": [
+    "Lars Fluri",
+    "A. Ege Yilmaz",
+    "Denis Bieri",
+    "Thomas Ankenbrand",
+    "Aurelio Perucca"
+  ],
+  "summary": "This research investigates liquidity dynamics in fractional ownership markets, focusing on illiquid alternative investments traded on a FinTech platform. By leveraging empirical data and employing agent-based modeling (ABM), the study simulates trading behaviors in sell offer-driven systems, providing a foundation for generating insights into how different market structures influence liquidity. The ABM-based simulation model provides a data augmentation environment which allows for the exploration of diverse trading architectures and rules, offering an alternative to direct experimentation. This approach bridges academic theory and practical application, supported by collaboration with industry and Swiss federal funding. The paper lays the foundation for planned extensions, including the identification of a liquidity-maximizing trading environment and the design of a market maker, by simulating the current functioning of the investment platform using an ABM specified with empirical data.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-12-04"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-fin.TR, econ.GN"
+}

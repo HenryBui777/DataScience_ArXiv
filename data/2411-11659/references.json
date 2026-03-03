@@ -1,0 +1,666 @@
+{
+  "2407-12626": {
+    "title": "Domain-specific or Uncertainty-aware models: Does it really make a difference for biomedical text classification?",
+    "authors": [
+      "Aman Sinha",
+      "Timothee Mickus",
+      "Marianne Clausel",
+      "Mathieu Constant",
+      "Xavier Coubez"
+    ],
+    "publication_date": "2024-07-17",
+    "venue": "Workshop on Biomedical Natural Language Processing",
+    "semantic_scholar_id": "49ac568e4f158a0a835bf480e0aff1d68f9d4352",
+    "corpus_id": 271245185,
+    "category": "Computer Science"
+  },
+  "2403-18624": {
+    "title": "Vulnerability Detection with Code Language Models: How Far are We?",
+    "authors": [
+      "Yangruibo Ding",
+      "Yanjun Fu",
+      "Omniyyah Ibrahim",
+      "Chawin Sitawarin",
+      "Xinyun Chen",
+      "Basel Alomair",
+      "David A. Wagner",
+      "Baishakhi Ray",
+      "Yizheng Chen"
+    ],
+    "publication_date": "2024-03-27",
+    "venue": "International Conference on Software Engineering",
+    "semantic_scholar_id": "8d064f58dd2374f9b702716f75d7ab58485f8eef",
+    "corpus_id": 268724273,
+    "category": "Computer Science"
+  },
+  "2402-19460": {
+    "title": "Benchmarking Uncertainty Disentanglement: Specialized Uncertainties for Specialized Tasks",
+    "authors": [
+      "B'alint Mucs'anyi",
+      "Michael Kirchhof",
+      "Seong Joon Oh"
+    ],
+    "publication_date": "2024-02-29",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "7f30e05242ff4aeea3fbb50cc736678132914b23",
+    "corpus_id": 268091170,
+    "category": "Computer Science, Mathematics"
+  },
+  "2307-08990": {
+    "title": "An Empirical Study on Noisy Label Learning for Program Understanding",
+    "authors": [
+      "Wenhan Wang",
+      "Yanzhou Li",
+      "Anran Li",
+      "Jian Zhang",
+      "Wei Ma",
+      "Yang Liu"
+    ],
+    "publication_date": "2023-07-18",
+    "venue": "International Conference on Software Engineering",
+    "semantic_scholar_id": "601aadf986aca839e84d2fc75e99865a061201fc",
+    "corpus_id": 259950714,
+    "category": "Computer Science"
+  },
+  "2304-14597": {
+    "title": "AI Safety Subproblems for Software Engineering Researchers",
+    "authors": [
+      "David Gros",
+      "P. Devanbu",
+      "Zhou Yu"
+    ],
+    "publication_date": "2023-04-28",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "64bb97277140067aa4cedc996d0d5c2e34e4319b",
+    "corpus_id": 258417921,
+    "category": "Computer Science"
+  },
+  "2303-07895": {
+    "title": "The Learnability of In-Context Learning",
+    "authors": [
+      "Noam Wies",
+      "Yoav Levine",
+      "A. Shashua"
+    ],
+    "publication_date": "2023-03-14",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "da3aca9d7b50da823f669c983edeb60445720fe0",
+    "corpus_id": 257505009,
+    "category": "Computer Science"
+  },
+  "2301-05456": {
+    "title": "Data Quality for Software Vulnerability Datasets",
+    "authors": [
+      "Roland Croft",
+      "M. A. Babar",
+      "M. M. Kholoosi"
+    ],
+    "publication_date": "2023-01-13",
+    "venue": "International Conference on Software Engineering",
+    "semantic_scholar_id": "c7b2eb27e4e1c82a36ae518a42073ea736ee5e5f",
+    "corpus_id": 255825779,
+    "category": "Computer Science"
+  },
+  "2212-08109": {
+    "title": "An Empirical Study of Deep Learning Models for Vulnerability Detection",
+    "authors": [
+      "Benjamin Steenhoek",
+      "Md. Mahbubur Rahman",
+      "Richard Jiles",
+      "Wei Le"
+    ],
+    "publication_date": "2022-12-15",
+    "venue": "International Conference on Software Engineering",
+    "semantic_scholar_id": "257b7c33ee766dc1c1dc6ea155d1be6ab145403b",
+    "corpus_id": 254823409,
+    "category": "Computer Science"
+  },
+  "2210-13043": {
+    "title": "Data-IQ: Characterizing subgroups with heterogeneous outcomes in tabular data",
+    "authors": [
+      "Nabeel Seedat",
+      "Jonathan Crabbe",
+      "Ioana Bica",
+      "M. Schaar"
+    ],
+    "publication_date": "2022-10-24",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "10f3e8887e3408961b4170d1cc4c05e13b7020ef",
+    "corpus_id": 253098380,
+    "category": "Computer Science"
+  },
+  "2209-03260": {
+    "title": "VulCurator: a vulnerability-fixing commit detector",
+    "authors": [
+      "Truong-Giang Nguyen",
+      "Thanh Le-Cong",
+      "Hong Jin Kang",
+      "X. Le",
+      "D. Lo"
+    ],
+    "publication_date": "2022-09-07",
+    "venue": "ESEC/SIGSOFT FSE",
+    "semantic_scholar_id": "ea48f6c7f0ddbc6d91efb6324134c658cb2c4250",
+    "corpus_id": 252110891,
+    "category": "Computer Science"
+  },
+  "2208-08100": {
+    "title": "CommitBART: A Large Pre-trained Model for GitHub Commits",
+    "authors": [
+      "Shangqing Liu",
+      "Yanzhou Li",
+      "Yang Liu"
+    ],
+    "publication_date": "2022-08-17",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "916bfe3378b2b1828b181477720957e3a6395b26",
+    "corpus_id": 251623222,
+    "category": "Computer Science"
+  },
+  "2207-09022": {
+    "title": "Enhancing Security Patch Identification by Capturing Structures in Commits",
+    "authors": [
+      "Bozhi Wu",
+      "Shangqing Liu",
+      "Ruitao Feng",
+      "Xiaofei Xie",
+      "J. Siow",
+      "Shang-Wei Lin"
+    ],
+    "publication_date": "2022-07-19",
+    "venue": "IEEE Transactions on Dependable and Secure Computing",
+    "semantic_scholar_id": "2afbbf8355e897eb2ed0d7716639c3bd30ad5b29",
+    "corpus_id": 250644098,
+    "category": "Computer Science"
+  },
+  "2206-05480": {
+    "title": "CodeS: Towards Code Model Generalization Under Distribution Shift",
+    "authors": [
+      "Qiang Hu",
+      "Yuejun Guo",
+      "Xiaofei Xie",
+      "Maxime Cordy",
+      "Lei Ma",
+      "Mike Papadakis",
+      "Y. L. Traon"
+    ],
+    "publication_date": "2022-06-11",
+    "venue": "2023 IEEE/ACM 45th International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER)",
+    "semantic_scholar_id": "73b4f4c31852273b38868f2bd362abeafce40232",
+    "corpus_id": 256615674,
+    "category": "Computer Science"
+  },
+  "2204-09308": {
+    "title": "A Deeper Look into Aleatoric and Epistemic Uncertainty Disentanglement",
+    "authors": [
+      "Matias Valdenegro-Toro",
+      "Daniel Saromo"
+    ],
+    "publication_date": "2022-04-20",
+    "venue": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "semantic_scholar_id": "4576a024bccc74819dcd78027bfbe3d0b07ff1bd",
+    "corpus_id": 248266412,
+    "category": "Computer Science"
+  },
+  "2203-07034": {
+    "title": "Active Learning by Feature Mixing",
+    "authors": [
+      "Amin Parvaneh",
+      "Ehsan Abbasnejad",
+      "Damien Teney",
+      "Reza Haffari",
+      "Anton van den Hengel",
+      "Javen Qinfeng Shi"
+    ],
+    "publication_date": "2022-03-14",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "9b0f8f3d9d10eedbc241aaec02aa118ef521a30b",
+    "corpus_id": 247446741,
+    "category": "Computer Science"
+  },
+  "2203-05181": {
+    "title": "LineVD: Statement-level Vulnerability Detection using Graph Neural Networks",
+    "authors": [
+      "David Hin",
+      "Andrey Kan",
+      "Huaming Chen",
+      "M. Babar"
+    ],
+    "publication_date": "2022-03-10",
+    "venue": "IEEE Working Conference on Mining Software Repositories",
+    "semantic_scholar_id": "94f9a28783cff6981099b88f2f0f8b65b83d7268",
+    "corpus_id": 247362653,
+    "category": "Computer Science"
+  },
+  "2110-09635": {
+    "title": "A ground-truth dataset of real security patches",
+    "authors": [
+      "Sofia Reis",
+      "Rui Abreu"
+    ],
+    "publication_date": "2021-10-18",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "6003c6e6ae08851f1e7ff55b8fe56ceaa09957c1",
+    "corpus_id": 237263435,
+    "category": "Computer Science"
+  },
+  "2108-08041": {
+    "title": "DeepCVA: Automated Commit-level Vulnerability Assessment with Deep Multi-task Learning",
+    "authors": [
+      "T. H. Le",
+      "David Hin",
+      "Roland Croft",
+      "M. A. Babar"
+    ],
+    "publication_date": "2021-08-18",
+    "venue": "International Conference on Automated Software Engineering",
+    "semantic_scholar_id": "ac7053c2f056c3ea0b48b2519ebac88b5a22e05a",
+    "corpus_id": 237194654,
+    "category": "Computer Science"
+  },
+  "2108-03358": {
+    "title": "PatchRNN: A Deep Learning-Based System for Security Patch Identification",
+    "authors": [
+      "Xinda Wang",
+      "Shu Wang",
+      "Pengbin Feng",
+      "Kun Sun",
+      "S. Jajodia",
+      "Sanae Benchaaboun",
+      "Frank Geck"
+    ],
+    "publication_date": "2021-08-07",
+    "venue": "IEEE Military Communications Conference",
+    "semantic_scholar_id": "232c956ccba5c1dfc81f9b1568e254ae90e04245",
+    "corpus_id": 236956829,
+    "category": "Computer Science"
+  },
+  "2107-10989": {
+    "title": "Estimating Predictive Uncertainty Under Program Data Distribution Shift",
+    "authors": [
+      "Yufei Li",
+      "Simin Chen",
+      "Wei Yang"
+    ],
+    "publication_date": "2021-07-23",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "ebd67eda6b05dc15a84faf4726a96010a14184a9",
+    "corpus_id": 236318242,
+    "category": "Computer Science"
+  },
+  "2107-08760": {
+    "title": "CVEfixes: automated collection of vulnerabilities and their fixes from open-source software",
+    "authors": [
+      "G. Bhandari",
+      "Amara Naseer",
+      "L. Moonen"
+    ],
+    "publication_date": "2021-07-19",
+    "venue": "International Conference on Predictive Models in Software Engineering",
+    "semantic_scholar_id": "f1d7a4ed38192f156e77cde0785093cc0b66259e",
+    "corpus_id": 236087844,
+    "category": "Computer Science"
+  },
+  "2107-03342": {
+    "title": "A survey of uncertainty in deep neural networks",
+    "authors": [
+      "J. Gawlikowski",
+      "Cedrique Rovile Njieutcheu Tassi",
+      "Mohsin Ali",
+      "Jongseo Lee",
+      "Matthias Humt",
+      "Jianxiang Feng",
+      "Anna M. Kruspe",
+      "Rudolph Triebel",
+      "P. Jung",
+      "R. Roscher",
+      "M. Shahzad",
+      "Wen Yang",
+      "R. Bamler",
+      "Xiaoxiang Zhu"
+    ],
+    "publication_date": "2021-07-07",
+    "venue": "Artificial Intelligence Review",
+    "semantic_scholar_id": "fc70db46738fff97d9ee3d66c6f9c57794d7b4fa",
+    "corpus_id": 235755082,
+    "category": "Computer Science, Mathematics"
+  },
+  "2105-14565": {
+    "title": "SPI: Automated Identification of Security Patches via Commits",
+    "authors": [
+      "Yaqin Zhou",
+      "J. Siow",
+      "Chenyu Wang",
+      "Shangqing Liu",
+      "Yang Liu"
+    ],
+    "publication_date": "2021-05-30",
+    "venue": "ACM Transactions on Software Engineering and Methodology",
+    "semantic_scholar_id": "58ea9241f3f61eeb278a768651c297ebf31d8550",
+    "corpus_id": 235253727,
+    "category": "Computer Science"
+  },
+  "2103-06333": {
+    "title": "Unified Pre-training for Program Understanding and Generation",
+    "authors": [
+      "Wasi Uddin Ahmad",
+      "Saikat Chakraborty",
+      "Baishakhi Ray",
+      "Kai-Wei Chang"
+    ],
+    "publication_date": "2021-03-10",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "0646bb09db4d1ba24150e69b71edcd4aff691b3c",
+    "corpus_id": 232185260,
+    "category": "Computer Science"
+  },
+  "2011-06225": {
+    "title": "A Review of Uncertainty Quantification in Deep Learning: Techniques, Applications and Challenges",
+    "authors": [
+      "Moloud Abdar",
+      "Farhad Pourpanah",
+      "Sadiq Hussain",
+      "Dana Rezazadegan",
+      "Li Liu",
+      "M. Ghavamzadeh",
+      "P. Fieguth",
+      "Xiaochun Cao",
+      "A. Khosravi",
+      "U. R. Acharya",
+      "V. Makarenkov",
+      "S. Nahavandi"
+    ],
+    "publication_date": "2020-11-12",
+    "venue": "Information Fusion",
+    "semantic_scholar_id": "f14fc9e399d44463a17cc47a9b339b58f6ef7502",
+    "corpus_id": 226307260,
+    "category": "Computer Science"
+  },
+  "2009-07235": {
+    "title": "Deep Learning Based Vulnerability Detection: Are We There Yet?",
+    "authors": [
+      "Saikat Chakraborty",
+      "R. Krishna",
+      "Yangruibo Ding",
+      "Baishakhi Ray"
+    ],
+    "publication_date": "2020-09-03",
+    "venue": "IEEE Transactions on Software Engineering",
+    "semantic_scholar_id": "bd02bcf2a437217eaac245abe443b2f672b3b36a",
+    "corpus_id": 221703797,
+    "category": "Computer Science"
+  },
+  "2007-08792": {
+    "title": "Uncertainty Quantification and Deep Ensembles",
+    "authors": [
+      "R. Rahaman",
+      "Alexandre Hoang Thiery"
+    ],
+    "publication_date": "2020-07-17",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "0cd2bbe237eb54ad36f79a1423d84c1692ba189f",
+    "corpus_id": 220633614,
+    "category": "Computer Science, Mathematics"
+  },
+  "2007-06823": {
+    "title": "Hands-On Bayesian Neural Networks—A Tutorial for Deep Learning Users",
+    "authors": [
+      "Laurent Valentin Jospin",
+      "Wray L. Buntine",
+      "F. Boussaid",
+      "Hamid Laga",
+      "Bennamoun"
+    ],
+    "publication_date": "2020-07-14",
+    "venue": "IEEE Computational Intelligence Magazine",
+    "semantic_scholar_id": "9eebd3c7971a239cf69a0358563f397bd8a8f99c",
+    "corpus_id": 220514248,
+    "category": "Computer Science, Mathematics"
+  },
+  "2005-14165": {
+    "title": "Language Models are Few-Shot Learners",
+    "authors": [
+      "Tom B. Brown",
+      "Benjamin Mann",
+      "Nick Ryder",
+      "Melanie Subbiah",
+      "J. Kaplan",
+      "Prafulla Dhariwal",
+      "Arvind Neelakantan",
+      "Pranav Shyam",
+      "Girish Sastry",
+      "Amanda Askell",
+      "Sandhini Agarwal",
+      "Ariel Herbert-Voss",
+      "Gretchen Krueger",
+      "T. Henighan",
+      "R. Child",
+      "A. Ramesh",
+      "Daniel M. Ziegler",
+      "Jeff Wu",
+      "Clemens Winter",
+      "Christopher Hesse",
+      "Mark Chen",
+      "Eric Sigler",
+      "Ma-teusz Litwin",
+      "Scott Gray",
+      "Benjamin Chess",
+      "Jack Clark",
+      "Christopher Berner",
+      "Sam McCandlish",
+      "Alec Radford",
+      "I. Sutskever",
+      "Dario Amodei"
+    ],
+    "publication_date": "2020-05-28",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
+    "corpus_id": 218971783,
+    "category": "Computer Science"
+  },
+  "2002-08155": {
+    "title": "CodeBERT: A Pre-Trained Model for Programming and Natural Languages",
+    "authors": [
+      "Zhangyin Feng",
+      "Daya Guo",
+      "Duyu Tang",
+      "Nan Duan",
+      "Xiaocheng Feng",
+      "Ming Gong",
+      "Linjun Shou",
+      "Bing Qin",
+      "Ting Liu",
+      "Daxin Jiang",
+      "Ming Zhou"
+    ],
+    "publication_date": "2020-02-19",
+    "venue": "Findings",
+    "semantic_scholar_id": "0fe2636446cd686830da3d971b31a004d6094b3c",
+    "corpus_id": 211171605,
+    "category": "Computer Science"
+  },
+  "2001-09148": {
+    "title": "Learning to Catch Security Patches",
+    "authors": [
+      "Arthur D. Sawadogo",
+      "Tegawend'e F. Bissyand'e",
+      "Naouel Moha",
+      "Kevin Allix",
+      "Jacques Klein",
+      "Li Li",
+      "Y. L. Traon"
+    ],
+    "publication_date": "2020-01-24",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "e1e6d28ac7142882fb3218a1c905146a820ca19a",
+    "corpus_id": 210911838,
+    "category": "Computer Science"
+  },
+  "2001-02350": {
+    "title": "VulDeeLocator: A Deep Learning-Based Fine-Grained Vulnerability Detector",
+    "authors": [
+      "Zhuguo Li",
+      "Deqing Zou",
+      "Shouhuai Xu",
+      "Zhaoxuan Chen",
+      "Yawei Zhu",
+      "Hai Jin"
+    ],
+    "publication_date": "2020-01-08",
+    "venue": "IEEE Transactions on Dependable and Secure Computing",
+    "semantic_scholar_id": "3644796b15556338c128ce3e5512d144bea10b15",
+    "corpus_id": 210064554,
+    "category": "Computer Science"
+  },
+  "1911-07605": {
+    "title": "Commit2Vec: Learning Distributed Representations of Code Changes",
+    "authors": [
+      "Rocío Cabrera Lozoya",
+      "Arnaud Baumann",
+      "A. Sabetta",
+      "M. Bezzi"
+    ],
+    "publication_date": "2019-11-18",
+    "venue": "SN Computer Science",
+    "semantic_scholar_id": "1e218cb21ef3378842763a483fc8b20833ec54e0",
+    "corpus_id": 208157948,
+    "category": "Computer Science"
+  },
+  "1910-09457": {
+    "title": "Aleatoric and epistemic uncertainty in machine learning: an introduction to concepts and methods",
+    "authors": [
+      "Eyke Hüllermeier",
+      "W. Waegeman"
+    ],
+    "publication_date": "2019-10-21",
+    "venue": "Machine-mediated learning",
+    "semantic_scholar_id": "b631ba962b4403a9c0fd9cce446ef3b1e21ea059",
+    "corpus_id": 216465307,
+    "category": "Computer Science, Mathematics"
+  },
+  "1906-02530": {
+    "title": "Can You Trust Your Model's Uncertainty? Evaluating Predictive Uncertainty Under Dataset Shift",
+    "authors": [
+      "Yaniv Ovadia",
+      "Emily Fertig",
+      "Jie Jessie Ren",
+      "Zachary Nado",
+      "D. Sculley",
+      "Sebastian Nowozin",
+      "Joshua V. Dillon",
+      "Balaji Lakshminarayanan",
+      "Jasper Snoek"
+    ],
+    "publication_date": "2019-06-06",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "1eb7f46b1a0a7df823194d86543e5554aa21021a",
+    "corpus_id": 174803437,
+    "category": "Computer Science, Mathematics"
+  },
+  "1903-04684": {
+    "title": "The limits of distribution-free conditional predictive inference",
+    "authors": [
+      "R. Barber",
+      "E. Candès",
+      "Aaditya Ramdas",
+      "R. Tibshirani"
+    ],
+    "publication_date": "2019-03-12",
+    "venue": "Information and Inference A Journal of the IMA",
+    "semantic_scholar_id": "ebc3193ae46286f82f741143f5d67891c1625209",
+    "corpus_id": 88524668,
+    "category": "Mathematics"
+  },
+  "1902-02595": {
+    "title": "A Manually-Curated Dataset of Fixes to Vulnerabilities of Open-Source Software",
+    "authors": [
+      "Serena Elisa Ponta",
+      "H. Plate",
+      "A. Sabetta",
+      "M. Bezzi",
+      "Cédric Dangremont"
+    ],
+    "publication_date": "2019-02-07",
+    "venue": "IEEE Working Conference on Mining Software Repositories",
+    "semantic_scholar_id": "1abbaa1dec355d99291d151845e5aa568af46b1c",
+    "corpus_id": 59608838,
+    "category": "Computer Science"
+  },
+  "1803-08533": {
+    "title": "Understanding Measures of Uncertainty for Adversarial Example Detection",
+    "authors": [
+      "Lewis Smith",
+      "Y. Gal"
+    ],
+    "publication_date": "2018-03-01",
+    "venue": "Conference on Uncertainty in Artificial Intelligence",
+    "semantic_scholar_id": "63ed798f1847d8a952cbeb75d3b286f16c144914",
+    "corpus_id": 4362859,
+    "category": "Mathematics, Computer Science"
+  },
+  "1802-10501": {
+    "title": "Predictive Uncertainty Estimation via Prior Networks",
+    "authors": [
+      "A. Malinin",
+      "M. Gales"
+    ],
+    "publication_date": "2018-02-28",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "9fcb88ec529aba79a5860e8fde76e7f4762a267d",
+    "corpus_id": 3580844,
+    "category": "Computer Science, Mathematics"
+  },
+  "1703-04977": {
+    "title": "What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision?",
+    "authors": [
+      "Alex Kendall",
+      "Y. Gal"
+    ],
+    "publication_date": "2017-03-15",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "ff7bcaa4556cb13fc7bf03e477172493546172cd",
+    "corpus_id": 71134,
+    "category": "Computer Science"
+  },
+  "1612-01474": {
+    "title": "Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles",
+    "authors": [
+      "Balaji Lakshminarayanan",
+      "A. Pritzel",
+      "C. Blundell"
+    ],
+    "publication_date": "2016-12-05",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "802168a81571dde28f5ddb94d84677bc007afa7b",
+    "corpus_id": 6294674,
+    "category": "Computer Science, Mathematics"
+  },
+  "1606-06565": {
+    "title": "Concrete Problems in AI Safety",
+    "authors": [
+      "Dario Amodei",
+      "Chris Olah",
+      "J. Steinhardt",
+      "P. Christiano",
+      "John Schulman",
+      "Dandelion Mané"
+    ],
+    "publication_date": "2016-06-21",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "e86f71ca2948d17b003a5f068db1ecb2b77827f7",
+    "corpus_id": 10242377,
+    "category": "Computer Science"
+  },
+  "1506-02142": {
+    "title": "Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning",
+    "authors": [
+      "Y. Gal",
+      "Zoubin Ghahramani"
+    ],
+    "publication_date": "2015-06-06",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "f35de4f9b1a7c4d3fa96a0d2ab1bf8937671f6b6",
+    "corpus_id": 160705,
+    "category": "Computer Science, Mathematics"
+  }
+}

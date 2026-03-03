@@ -1,0 +1,17 @@
+{
+  "title": "Emulating a computing grid in a local environment for feature evaluation",
+  "authors": [
+    "Jananga Kalawana",
+    "Malith Dilshan",
+    "Kaveesha Dinamidu",
+    "Kalana Wijethunga",
+    "Maksim Stortvedt",
+    "Indika Perera"
+  ],
+  "summary": "The necessity for complex calculations in high-energy physics and large-scale data analysis has led to the development of computing grids, such as the ALICE computing grid at CERN. These grids outperform traditional supercomputers but present challenges in directly evaluating new features, as changes can disrupt production operations and require comprehensive assessments, entailing significant time investments across all components. This paper proposes a solution to this challenge by introducing a novel approach for emulating a computing grid within a local environment. This emulation, resembling a mini clone of the original computing grid, encompasses its essential components and functionalities. Local environments provide controlled settings for emulating grid components, enabling researchers to evaluate system features without impacting production environments. This investigation contributes to the evolving field of computing grids and distributed systems, offering insights into the emulation of a computing grid in a local environment for feature evaluation.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DC"
+}

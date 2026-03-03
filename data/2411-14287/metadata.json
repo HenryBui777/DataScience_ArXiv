@@ -1,0 +1,15 @@
+{
+  "title": "Constructing strictly sign regular matrices of all sizes and sign patterns",
+  "authors": [
+    "Projesh Nath Choudhury",
+    "Shivangi Yadav"
+  ],
+  "summary": "The class of strictly sign regular (SSR) matrices has been extensively studied by many authors over the past century, notably by Schoenberg, Motzkin, Gantmacher, and Krein. A classical result of Gantmacher-Krein assures the existence of SSR matrices for any dimension and sign pattern. In this article, we provide an algorithm to explicitly construct an SSR matrix of any given size and sign pattern. (We also provide in an Appendix, a Python code implementing our algorithm.) To develop this algorithm, we show that one can extend an SSR matrix by adding an extra row (column) to its border, resulting in a higher order SSR matrix. Furthermore, we show how inserting a suitable new row/column between any two successive rows/columns of an SSR matrix results in a matrix that remains SSR. We also establish analogous results for strictly sign regular $m \\times n$ matrices of order $p$ for any $p \\in [1, \\min\\{m,n\\}]$.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-04-14"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.RA"
+}

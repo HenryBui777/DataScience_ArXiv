@@ -1,0 +1,14 @@
+{
+  "title": "Tackling prediction tasks in relational databases with LLMs",
+  "authors": [
+    "Marek Wydmuch",
+    "Łukasz Borchmann",
+    "Filip Graliński"
+  ],
+  "summary": "Though large language models (LLMs) have demonstrated exceptional performance across numerous problems, their application to predictive tasks in relational databases remains largely unexplored. In this work, we address the notion that LLMs cannot yield satisfactory results on relational databases due to their interconnected tables, complex relationships, and heterogeneous data types. Using the recently introduced RelBench benchmark, we demonstrate that even a straightforward application of LLMs achieves competitive performance on these tasks. These findings establish LLMs as a promising new baseline for ML on relational databases and encourage further research in this direction.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.CL, cs.DB"
+}

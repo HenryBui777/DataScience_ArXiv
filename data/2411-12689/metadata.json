@@ -1,0 +1,17 @@
+{
+  "title": "IMUVIE: Pickup Timeline Action Localization via Motion Movies",
+  "authors": [
+    "John Clapham",
+    "Kenneth Koltermann",
+    "Yanfu Zhang",
+    "Yuming Sun",
+    "Evie N Burnet",
+    "Gang Zhou"
+  ],
+  "summary": "Falls among seniors due to difficulties with tasks such as picking up objects pose significant health and safety risks, impacting quality of life and independence. Reliable, accessible assessment tools are critical for early intervention but often require costly clinic-based equipment and trained personnel, limiting their use in daily life. Existing wearable-based pickup measurement solutions address some needs but face limitations in generalizability.\n  We present IMUVIE, a wearable system that uses motion movies and a machine-learning model to automatically detect and measure pickup events, providing a practical solution for frequent monitoring. IMUVIE's design principles-data normalization, occlusion handling, and streamlined visuals-enhance model performance and are adaptable to tasks beyond pickup classification.\n  In rigorous leave one subject out cross validation evaluations, IMUVIE achieves exceptional window level localization accuracy of 91-92% for pickup action classification on 256,291 motion movie frame candidates while maintaining an event level recall of 97% when evaluated on 129 pickup events. IMUVIE has strong generalization and performs well on unseen subjects. In an interview survey, IMUVIE demonstrated strong user interest and trust, with ease of use identified as the most critical factor for adoption. IMUVIE offers a practical, at-home solution for fall risk assessment, facilitating early detection of movement deterioration, and supporting safer, independent living for seniors.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

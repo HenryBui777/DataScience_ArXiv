@@ -1,0 +1,15 @@
+{
+  "title": "Enhancing a Hierarchical Graph Rewriting Language based on MELL Cut Elimination",
+  "authors": [
+    "Kento Takyu",
+    "Kazunori Ueda"
+  ],
+  "summary": "Hierarchical graph rewriting is a highly expressive computational formalism that manipulates graphs enhanced with box structures for representing hierarchies. It has provided the foundations of various graph-based modeling tools, but the design of high-level declarative languages based on hierarchical graph rewriting is still a challenge. For a solid design choice, well-established formalisms with backgrounds other than graph rewriting would provide useful guidelines. Proof nets of Multiplicative Exponential Linear Logic (MELL) is such a framework because its original formulation of cut elimination is essentially graph rewriting involving box structures, where so-called Promotion Boxes with an indefinite number of non-local edges may be cloned, migrated and deleted. This work builds on LMNtal as a declarative language based on hierarchical (port) graph rewriting, and discusses how it can be extended to support the above operations on Promotion Boxes of MELL proof nets. LMNtal thus extended turns out to be a practical graph rewriting language that has strong affinity with MELL proof nets. The language features provided are general enough to encode other well-established models of concurrency. Using the toolchain of LMNtal that provides state-space search and model checking, we implemented cut elimination rules of MELL proof nets in extended LMNtal and demonstrated that the platform could serve as a useful workbench for proof nets.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-01-20"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.PL"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Leveraging Bitcoin Mining Machines in Demand-Response Mechanisms to Mitigate Ramping-Induced Transients",
+  "authors": [
+    "Elinor Ginzburg-Ganz",
+    "Ittay Eyal",
+    "Ram Machlev",
+    "Dmitry Baimel",
+    "Leena Santosh",
+    "Juri Belikov",
+    "Yoash Levron"
+  ],
+  "summary": "We propose an extended demand response program, based on ancillary service for supplying flexible electricity demand. In our proposed scheme, we suggest a broader management model to control the scheduling and power consumption of Bitcoin mining machines. The main aspect that we focus on is suppressing the power ramping and related transient effects. We extend previous works on the subject, that study the impact of incorporating cryptocurrency mining machines into existing power grid, and explore the potential profit of exploiting this flexible load in the Israeli electricity market. We analyze a trend based on historical data, of increasing electricity prices and ramping costs due to the increasing penetration of renewable energy sources. We suggest an extension to the unit commitment problem from which we obtain the scheduling scheme of the Bitcoin mining machines. We use simulation and the real-world data acquired from the \"Noga\" grid operator to verify the proposed ancillary service and test its practical limits for reducing the ramping costs, under changing ratio of energy production from renewable sources. Out results suggests that the machine price and ratio of production from renewable sources plays a significant role in determining the profitability of the proposed demand-response program.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

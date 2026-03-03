@@ -1,0 +1,17 @@
+{
+  "title": "Spatiotemporal Tubes for Temporal Reach-Avoid-Stay Tasks in Unknown Systems",
+  "authors": [
+    "Ratnangshu Das",
+    "Ahan Basu",
+    "Pushpak Jagtap"
+  ],
+  "summary": "The paper considers the controller synthesis problem for general MIMO systems with unknown dynamics, aiming to fulfill the temporal reach-avoid-stay task, where the unsafe regions are time-dependent, and the target must be reached within a specified time frame. The primary aim of the paper is to construct the spatiotemporal tube (STT) using a sampling-based approach and thereby devise a closed-form approximation-free control strategy to ensure that system trajectory reaches the target set while avoiding time-dependent unsafe sets. The proposed scheme utilizes a novel method involving STTs to provide controllers that guarantee both system safety and reachability. In our sampling-based framework, we translate the requirements of STTs into a Robust optimization program (ROP). To address the infeasibility of ROP caused by infinite constraints, we utilize the sampling-based Scenario optimization program (SOP). Subsequently, we solve the SOP to generate the tube and closed-form controller for an unknown system, ensuring the temporal reach-avoid-stay specification. Finally, the effectiveness of the proposed approach is demonstrated through three case studies: an omnidirectional robot, a SCARA manipulator, and a magnetic levitation system.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-05-01",
+    "2025-09-12"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY, cs.RO"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "The efficient implementation of transport velocity formulation",
+  "authors": [
+    "Zhentong Wang",
+    "Oskar J. Haidn",
+    "Xiangyu Hu"
+  ],
+  "summary": "The standard smoothed particle hydrodynamics (SPH) method suffers from tensile instability, resulting in particle clumping and void regions under negative pressure conditions. In this study, we extend the transport-velocity formulation of Adami et al. (2013) \\cite{adami2013transport} in the weakly-compressible SPH (WCSPH) framework to address this long-standing issue. Rather than relying on background pressure, our modified and improved transport-velocity correction scales directly to the smoothing length, making it suitable for variable-resolution flows. Additionally, we introduce a limiter to the new formulation to prevent overcorrection, especially for flow with small velocities. These modifications enhance the general applicability of the transport velocity in fluid dynamics. Numerical tests involving low-velocity and variable-resolution cases demonstrate that the new formulation offers a general and accurate solution for multi-physics SPH simulations.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.flu-dyn"
+}

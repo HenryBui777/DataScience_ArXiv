@@ -1,0 +1,15 @@
+{
+  "title": "A note on the mutual-visibility coloring of hypercubes",
+  "authors": [
+    "Maria Axenovich",
+    "Dingyuan Liu"
+  ],
+  "summary": "A subset $M$ of vertices in a graph $G$ is a mutual-visibility set if for any two vertices $u,v\\in{M}$ there exists a shortest $u$-$v$ path in $G$ that contains no elements of $M$ as internal vertices. Let $χ_μ(G)$ be the least number of colors needed to color the vertices of $G$, so that each color class is a mutual-visibility set. Let $n\\in\\mathbb{N}$ and $Q_{n}$ be an $n$-dimensional hypercube. It has been shown that the maximum size of a mutual-visibility set in $Q_{n}$ is at least $Ω(2^{n})$. Klavžar, Kuziak, Valenzuela-Tripodoro, and Yero further asked whether it is true that $χ_μ(Q_{n})=O(1)$. In this note we answer their question in the negative by showing that $$ω(1)=χ_μ(Q_{n})=O(\\log\\log{n}).$$",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-02-07"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.CO"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "ZeFaV: Boosting Large Language Models for Zero-shot Fact Verification",
+  "authors": [
+    "Son T. Luu",
+    "Hiep Nguyen",
+    "Trung Vo",
+    "Le-Minh Nguyen"
+  ],
+  "summary": "In this paper, we propose ZeFaV - a zero-shot based fact-checking verification framework to enhance the performance on fact verification task of large language models by leveraging the in-context learning ability of large language models to extract the relations among the entities within a claim, re-organized the information from the evidence in a relationally logical form, and combine the above information with the original evidence to generate the context from which our fact-checking model provide verdicts for the input claims. We conducted empirical experiments to evaluate our approach on two multi-hop fact-checking datasets including HoVer and FEVEROUS, and achieved potential results results comparable to other state-of-the-art fact verification task methods.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.AI"
+}

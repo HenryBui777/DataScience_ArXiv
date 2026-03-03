@@ -1,0 +1,20 @@
+{
+  "title": "Faster Multi-GPU Training with PPLL: A Pipeline Parallelism Framework Leveraging Local Learning",
+  "authors": [
+    "Xiuyuan Guo",
+    "Chengqi Xu",
+    "Guinan Guo",
+    "Feiyu Zhu",
+    "Changpeng Cai",
+    "Peizhe Wang",
+    "Xiaoming Wei",
+    "Junhao Su",
+    "Jialin Gao"
+  ],
+  "summary": "Currently, training large-scale deep learning models is typically achieved through parallel training across multiple GPUs. However, due to the inherent communication overhead and synchronization delays in traditional model parallelism methods, seamless parallel training cannot be achieved, which, to some extent, affects overall training efficiency. To address this issue, we present PPLL (Pipeline Parallelism based on Local Learning), a novel framework that leverages local learning algorithms to enable effective parallel training across multiple GPUs. PPLL divides the model into several distinct blocks, each allocated to a separate GPU. By utilizing queues to manage data transfers between GPUs, PPLL ensures seamless cross-GPU communication, allowing multiple blocks to execute forward and backward passes in a pipelined manner. This design minimizes idle times and prevents bottlenecks typically caused by sequential gradient updates, thereby accelerating the overall training process. We validate PPLL through extensive experiments using ResNet and Vision Transformer (ViT) architectures on CIFAR-10, SVHN, and STL-10 datasets. Our results demonstrate that PPLL significantly enhances the training speed of the local learning method while achieving comparable or even superior training speed to traditional pipeline parallelism (PP) without sacrificing model performance. In a 4-GPU training setup, PPLL accelerated local learning training on ViT and ResNet by 162% and 33%, respectively, achieving 1.25x and 0.85x the speed of traditional pipeline parallelism.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

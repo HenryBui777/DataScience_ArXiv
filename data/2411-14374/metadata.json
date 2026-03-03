@@ -1,0 +1,15 @@
+{
+  "title": "Using Formal Models, Safety Shields and Certified Control to Validate AI-Based Train Systems",
+  "authors": [
+    "Jan Gruteser",
+    "Jan Roßbach",
+    "Fabian Vu",
+    "Michael Leuschel"
+  ],
+  "summary": "The certification of autonomous systems is an important concern in science and industry. The KI-LOK project explores new methods for certifying and safely integrating AI components into autonomous trains. We pursued a two-layered approach: (1) ensuring the safety of the steering system by formal analysis using the B method, and (2) improving the reliability of the perception system with a runtime certificate checker. This work links both strategies within a demonstrator that runs simulations on the formal model, controlled by the real AI output and the real certificate checker. The demonstrator is integrated into the validation tool ProB. This enables runtime monitoring, runtime verification, and statistical validation of formal safety properties using a formal B model. Consequently, one can detect and analyse potential vulnerabilities and weaknesses of the AI and the certificate checker. We apply these techniques to a signal detection case study and present our findings.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "EPTCS 411, 2024, pp. 151-159",
+  "pdf_url": null,
+  "category": "cs.LO, cs.AI, cs.CV"
+}

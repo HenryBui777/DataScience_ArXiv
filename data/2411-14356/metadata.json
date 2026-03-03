@@ -1,0 +1,15 @@
+{
+  "title": "Learning Probabilistic Obstacle Spaces from Data-driven Uncertainty using Neural Networks",
+  "authors": [
+    "Jun Xiang",
+    "Jun Chen"
+  ],
+  "summary": "Identifying the obstacle space is crucial for path planning. However, generating an accurate obstacle space remains a significant challenge due to various sources of uncertainty, including motion, behavior, and perception limitations. Even though an autonomous system can operate with an inaccurate obstacle space by being over-conservative and using redundant sensors, a more accurate obstacle space generator can reduce both path planning costs and hardware costs. Existing generation methods that generate high-quality output are all computationally expensive. Traditional methods, such as filtering, sensor fusion and data-driven estimators, face significant computational challenges or require large amounts of data, which limits their applicability in realistic scenarios. In this paper, we propose leveraging neural networks, commonly used in imitation learning, to mimic expert methods for modeling uncertainty and generating confidence regions for obstacle positions, which we refer to as the probabilistic obstacle space. The network is trained using a multi-label, supervised learning approach. We adopt a fine-tuned convex approximation method as the expert to construct training datasets. After training, given only a small number of samples, the neural network can accurately replicate the probabilistic obstacle space while achieving substantially faster generation speed. Moreover, the resulting obstacle space is convex, making it more convenient for subsequent path planning.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-09-26"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

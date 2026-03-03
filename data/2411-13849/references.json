@@ -1,0 +1,1037 @@
+{
+  "2410-12182": {
+    "title": "Guided Speaker Embedding",
+    "authors": [
+      "Shota Horiguchi",
+      "Takafumi Moriya",
+      "Atsushi Ando",
+      "Takanori Ashihara",
+      "Hiroshi Sato",
+      "Naohiro Tawara",
+      "Marc Delcroix"
+    ],
+    "publication_date": "2024-10-16",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "3eb9e7c1755e55f6f2354b7f238f45ef97102f2d",
+    "corpus_id": 273375503,
+    "category": "Computer Science, Engineering"
+  },
+  "2409-04859": {
+    "title": "Flow-TSVAD: Target-Speaker Voice Activity Detection via Latent Flow Matching for Speaker Diarization",
+    "authors": [
+      "Zhengyang Chen",
+      "Bing Han",
+      "Shuai Wang",
+      "Yidi Jiang",
+      "Yan-min Qian"
+    ],
+    "publication_date": "2024-09-07",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "60129c06c144d405b55fec8202b35937b1feb3b3",
+    "corpus_id": 272525007,
+    "category": "Computer Science, Engineering"
+  },
+  "2408-14886": {
+    "title": "The VoxCeleb Speaker Recognition Challenge: A Retrospective",
+    "authors": [
+      "Jaesung Huh",
+      "Joon Son Chung",
+      "Arsha Nagrani",
+      "Andrew Brown",
+      "Jee-weon Jung",
+      "Daniel Garcia-Romero",
+      "A. Zisserman"
+    ],
+    "publication_date": "2024-08-27",
+    "venue": "IEEE/ACM Transactions on Audio Speech and Language Processing",
+    "semantic_scholar_id": "960ccf57b1e90128103817cff7b3de23c71f4e08",
+    "corpus_id": 271962799,
+    "category": "Computer Science, Engineering"
+  },
+  "2407-15188": {
+    "title": "Overview of Speaker Modeling and Its Applications: From the Lens of Deep Speaker Representation Learning",
+    "authors": [
+      "Shuai Wang",
+      "Zheng-Shou Chen",
+      "Kong Aik Lee",
+      "Yan-min Qian",
+      "Haizhou Li"
+    ],
+    "publication_date": "2024-07-21",
+    "venue": "IEEE/ACM Transactions on Audio Speech and Language Processing",
+    "semantic_scholar_id": "a83efd32be75023d1fafb181fc0fbb5a841d4f3c",
+    "corpus_id": 271328857,
+    "category": "Computer Science, Engineering"
+  },
+  "2407-11510": {
+    "title": "VoxBlink2: A 100K+ Speaker Recognition Corpus and the Open-Set Speaker-Identification Benchmark",
+    "authors": [
+      "Yuke Lin",
+      "Ming Cheng",
+      "Fulin Zhang",
+      "Yingying Gao",
+      "Shilei Zhang",
+      "Ming Li"
+    ],
+    "publication_date": "2024-07-16",
+    "venue": "Interspeech",
+    "semantic_scholar_id": "57a97f81260ee4d5230e9454ff7eb304d8061a5e",
+    "corpus_id": 271218256,
+    "category": "Computer Science, Engineering"
+  },
+  "2406-07198": {
+    "title": "Target Speech Diarization with Multimodal Prompts",
+    "authors": [
+      "Yidi Jiang",
+      "Ruijie Tao",
+      "Zhengyang Chen",
+      "Yan-min Qian",
+      "Haizhou Li"
+    ],
+    "publication_date": "2024-06-11",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "f8fbc3233bb070d855e205ee29578ef4e405f42f",
+    "corpus_id": 270380255,
+    "category": "Computer Science, Engineering"
+  },
+  "2506-05593": {
+    "title": "Improving Neural Diarization through Speaker Attribute Attractors and Local Dependency Modeling",
+    "authors": [
+      "David Palzer",
+      "Matthew Maciejewski",
+      "E. Fosler-Lussier"
+    ],
+    "publication_date": "2024-04-14",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "5315819ad6ee8b51e2ec31f6cc51289677195226",
+    "corpus_id": 268599038,
+    "category": "Computer Science, Engineering"
+  },
+  "2401-12600": {
+    "title": "EEND-M2F: Masked-attention mask transformers for speaker diarization",
+    "authors": [
+      "Marc Härkönen",
+      "Samuel J. Broughton",
+      "Lahiru Samarakoon"
+    ],
+    "publication_date": "2024-01-23",
+    "venue": "Interspeech",
+    "semantic_scholar_id": "3b1db89e9196e2e70f61954c2b9f95c20b84efe6",
+    "corpus_id": 267095394,
+    "category": "Computer Science, Engineering"
+  },
+  "2401-08052": {
+    "title": "Multi-Input Multi-Output Target-Speaker Voice Activity Detection for Unified, Flexible, and Robust Audio-Visual Speaker Diarization",
+    "authors": [
+      "Ming Cheng",
+      "Ming Li"
+    ],
+    "publication_date": "2024-01-16",
+    "venue": "IEEE Transactions on Audio, Speech, and Language Processing",
+    "semantic_scholar_id": "1346cd408f678bc80eaa38bda31266c296d0caf2",
+    "corpus_id": 266999367,
+    "category": "Engineering"
+  },
+  "2312-04324": {
+    "title": "DiaPer: End-to-End Neural Diarization With Perceiver-Based Attractors",
+    "authors": [
+      "Federico Landini",
+      "Mireia Díez",
+      "Themos Stafylakis",
+      "Luk'avs Burget"
+    ],
+    "publication_date": "2023-12-07",
+    "venue": "IEEE/ACM Transactions on Audio Speech and Language Processing",
+    "semantic_scholar_id": "582d5cf231e5dfcb1f1e6b9513b485c80d3221a0",
+    "corpus_id": 266053619,
+    "category": "Computer Science, Engineering"
+  },
+  "2309-13916": {
+    "title": "Frame-Wise Streaming end-to-end Speaker Diarization with Non-Autoregressive Self-Attention-Based Attractors",
+    "authors": [
+      "Di Liang",
+      "Nian Shao",
+      "Xiaofei Li"
+    ],
+    "publication_date": "2023-09-25",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "a91fc6ea0042c77172acaf6ab30e3fdf85235a78",
+    "corpus_id": 262465343,
+    "category": "Computer Science, Engineering"
+  },
+  "2309-06672": {
+    "title": "Attention-Based Encoder-Decoder End-to-End Neural Diarization With Embedding Enhancer",
+    "authors": [
+      "Zhengyang Chen",
+      "Bing Han",
+      "Shuai Wang",
+      "Yan-min Qian"
+    ],
+    "publication_date": "2023-09-13",
+    "venue": "IEEE/ACM Transactions on Audio Speech and Language Processing",
+    "semantic_scholar_id": "321ff5411d407bb28136410e2abe9d8a62bf0b0a",
+    "corpus_id": 261706062,
+    "category": "Computer Science, Engineering"
+  },
+  "2310-13025": {
+    "title": "Powerset multi-class cross entropy loss for neural speaker diarization",
+    "authors": [
+      "Alexis Plaquet",
+      "H. Bredin"
+    ],
+    "publication_date": "2023-08-20",
+    "venue": "Interspeech",
+    "semantic_scholar_id": "2ab5f1d4fa37a5d329fc2817c97b68ef10b55c1b",
+    "corpus_id": 260919244,
+    "category": "Computer Science, Engineering"
+  },
+  "2308-07595": {
+    "title": "The DKU-MSXF Diarization System for the VoxCeleb Speaker Recognition Challenge 2023",
+    "authors": [
+      "Ming Cheng",
+      "Weiqing Wang",
+      "Xiaoyi Qin",
+      "Yuke Lin",
+      "Ning Jiang",
+      "Guoqing Zhao",
+      "Ming Li"
+    ],
+    "publication_date": "2023-08-15",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "72887a05b336efc0bb4d24b994c2ac554e3a8077",
+    "corpus_id": 260900217,
+    "category": "Engineering"
+  },
+  "2305-11013": {
+    "title": "FunASR: A Fundamental End-to-End Speech Recognition Toolkit",
+    "authors": [
+      "Zhifu Gao",
+      "Zerui Li",
+      "Jiaming Wang",
+      "Haoneng Luo",
+      "Xian Shi",
+      "Mengzhe Chen",
+      "Yabin Li",
+      "Lingyun Zuo",
+      "Zhihao Du",
+      "Zhangyu Xiao",
+      "Shiliang Zhang"
+    ],
+    "publication_date": "2023-05-18",
+    "venue": "Interspeech",
+    "semantic_scholar_id": "5dc148a0548f63e125acb37badfda87deacd28a4",
+    "corpus_id": 258762651,
+    "category": "Computer Science, Engineering"
+  },
+  "2303-06806": {
+    "title": "Neural Diarization with Non-Autoregressive Intermediate Attractors",
+    "authors": [
+      "Yusuke Fujita",
+      "Tatsuya Komatsu",
+      "Robin Scheibler",
+      "Yusuke Kida",
+      "Tetsuji Ogawa"
+    ],
+    "publication_date": "2023-03-13",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "360d47ed5f75d13d406b1c83844785dcb6134b3c",
+    "corpus_id": 257496627,
+    "category": "Computer Science, Engineering"
+  },
+  "2303-01192": {
+    "title": "Improving Transformer-Based End-to-End Speaker Diarization by Assigning Auxiliary Losses to Attention Heads",
+    "authors": [
+      "Ye-Rin Jeoung",
+      "Joon-Young Yang",
+      "Jeonghwan Choi",
+      "Joon‐Hyuk Chang"
+    ],
+    "publication_date": "2023-03-02",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "d90e7f51c905dfbc201f1cfe978d83b51d16b2aa",
+    "corpus_id": 257280412,
+    "category": "Engineering, Computer Science"
+  },
+  "2302-09523": {
+    "title": "Probabilistic Back-ends for Online Speaker Recognition and Clustering",
+    "authors": [
+      "A. Sholokhov",
+      "Nikita Kuzmin",
+      "Kong Aik LEE",
+      "Chng Eng Siong"
+    ],
+    "publication_date": "2023-02-19",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "e6c66d955c0abcd5016d6241841e442d7b7ad71d",
+    "corpus_id": 257038512,
+    "category": "Engineering, Computer Science"
+  },
+  "2211-04768": {
+    "title": "Absolute Decision Corrupts Absolutely: Conservative Online Speaker Diarisation",
+    "authors": [
+      "Youngki Kwon",
+      "Hee-Soo Heo",
+      "Bong-Jin Lee",
+      "You Jin Kim",
+      "Jee-weon Jung"
+    ],
+    "publication_date": "2022-11-09",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "fa1223f30bb401967b75647f36c6a177ee5ef9df",
+    "corpus_id": 253420656,
+    "category": "Computer Science, Engineering"
+  },
+  "2210-16127": {
+    "title": "Target-Speaker Voice Activity Detection Via Sequence-to-Sequence Prediction",
+    "authors": [
+      "Ming Cheng",
+      "Weiqing Wang",
+      "Yucong Zhang",
+      "Xiaoyi Qin",
+      "Ming Li"
+    ],
+    "publication_date": "2022-10-28",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "09b453250e92f879cc3ee820342ad2ad447e2e1d",
+    "corpus_id": 253224374,
+    "category": "Engineering, Computer Science"
+  },
+  "2210-01677": {
+    "title": "The DKU-DukeECE Diarization System for the VoxCeleb Speaker Recognition Challenge 2022",
+    "authors": [
+      "Weiqing Wang",
+      "Xiaoyi Qin",
+      "Ming Cheng",
+      "Yucong Zhang",
+      "Kang Wang",
+      "Ming Li"
+    ],
+    "publication_date": "2022-10-04",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "b0e711b5179524c6b0cd5de724332547c917be51",
+    "corpus_id": 252693099,
+    "category": "Engineering"
+  },
+  "2208-13085": {
+    "title": "Target Speaker Voice Activity Detection with Transformers and Its Integration with End-To-End Neural Diarization",
+    "authors": [
+      "Dongmei Wang",
+      "Xiong Xiao",
+      "Naoyuki Kanda",
+      "Takuya Yoshioka",
+      "Jian Wu"
+    ],
+    "publication_date": "2022-08-27",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "4fce829df48d682c450e5cd17301409ad80149e1",
+    "corpus_id": 251903793,
+    "category": "Computer Science, Engineering"
+  },
+  "2207-05920": {
+    "title": "Online Target Speaker Voice Activity Detection for Speaker Diarization",
+    "authors": [
+      "Weiqing Wang",
+      "Qingjian Lin",
+      "Ming Li"
+    ],
+    "publication_date": "2022-07-13",
+    "venue": "Interspeech",
+    "semantic_scholar_id": "ecff7c8cc47e861929ad7f1efb371fa5f8996ffa",
+    "corpus_id": 250491628,
+    "category": "Engineering, Computer Science"
+  },
+  "2206-02432": {
+    "title": "Online Neural Diarization of Unlimited Numbers of Speakers Using Global and Local Attractors",
+    "authors": [
+      "Shota Horiguchi",
+      "Shinji Watanabe",
+      "Leibny Paola García-Perera",
+      "Yuki Takashima",
+      "Y. Kawaguchi"
+    ],
+    "publication_date": "2022-06-06",
+    "venue": "IEEE/ACM Transactions on Audio Speech and Language Processing",
+    "semantic_scholar_id": "872c99ead3cc2644fbabd7dab37b82d233cc81cb",
+    "corpus_id": 249394670,
+    "category": "Engineering, Computer Science"
+  },
+  "2204-04166": {
+    "title": "Self-supervised Speaker Diarization",
+    "authors": [
+      "Yehoshua Dissen",
+      "F. Kreuk",
+      "Joseph Keshet"
+    ],
+    "publication_date": "2022-04-08",
+    "venue": "Interspeech",
+    "semantic_scholar_id": "2b7c704071db57a6e6f2a099bd892cd82e108bc1",
+    "corpus_id": 248069434,
+    "category": "Computer Science, Engineering"
+  },
+  "2203-16007": {
+    "title": "Multi-Target Extractor and Detector for Unknown-Number Speaker Diarization",
+    "authors": [
+      "Chin-Yi Cheng",
+      "Hung-Shin Lee",
+      "Yu Tsao",
+      "Hsin-Min Wang"
+    ],
+    "publication_date": "2022-03-30",
+    "venue": "IEEE Signal Processing Letters",
+    "semantic_scholar_id": "ad33882d0a0dd9c7d27b83544ead398908067421",
+    "corpus_id": 258833606,
+    "category": "Computer Science, Engineering"
+  },
+  "2202-06524": {
+    "title": "Tight Integration Of Neural- And Clustering-Based Diarization Through Deep Unfolding Of Infinite Gaussian Mixture Model",
+    "authors": [
+      "K. Kinoshita",
+      "Marc Delcroix",
+      "Tomoharu Iwata"
+    ],
+    "publication_date": "2022-02-14",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "df00d00cb9fea434bfce372b57c6c0a19c477507",
+    "corpus_id": 246823020,
+    "category": "Engineering, Computer Science"
+  },
+  "2202-02687": {
+    "title": "Cross-Channel Attention-Based Target Speaker Voice Activity Detection: Experimental Results for the M2met Challenge",
+    "authors": [
+      "Weiqing Wang",
+      "Xiaoyi Qin",
+      "Ming Li"
+    ],
+    "publication_date": "2022-02-06",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "47d9f0e0d66dda55eaa7620f32e1b1a10a56353b",
+    "corpus_id": 246634058,
+    "category": "Computer Science, Engineering"
+  },
+  "2111-13803": {
+    "title": "Low-Latency Online Speaker Diarization with Graph-Based Label Generation",
+    "authors": [
+      "Yucong Zhang",
+      "Qinjian Lin",
+      "Weiqing Wang",
+      "Lin Yang",
+      "Xuyang Wang",
+      "Junjie Wang",
+      "Ming Li"
+    ],
+    "publication_date": "2021-11-27",
+    "venue": "The Speaker and Language Recognition Workshop",
+    "semantic_scholar_id": "9d5644d416f2110f983acda61f75fd09b84e6d3e",
+    "corpus_id": 244714499,
+    "category": "Engineering, Computer Science"
+  },
+  "2109-06483": {
+    "title": "Overlap-Aware Low-Latency Online Speaker Diarization Based on End-to-End Local Segmentation",
+    "authors": [
+      "Juan Manuel Coria",
+      "H. Bredin",
+      "Sahar Ghannay",
+      "Sophie Rosset"
+    ],
+    "publication_date": "2021-09-14",
+    "venue": "Automatic Speech Recognition & Understanding",
+    "semantic_scholar_id": "eeddc26f17f2ed10b47da2f1d390333437b60480",
+    "corpus_id": 237503024,
+    "category": "Computer Science, Engineering"
+  },
+  "2109-02002": {
+    "title": "The DKU-DukeECE-Lenovo System for the Diarization Task of the 2021 VoxCeleb Speaker Recognition Challenge",
+    "authors": [
+      "Weiqing Wang",
+      "Danwei Cai",
+      "Qingjian Lin",
+      "Lin Yang",
+      "Junjie Wang",
+      "Jin Wang",
+      "Ming Li"
+    ],
+    "publication_date": "2021-09-05",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "aa2a7de8f2b68f1c66a7ffcd91435a7906a2c35e",
+    "corpus_id": 237421186,
+    "category": "Computer Science, Engineering"
+  },
+  "2108-03342": {
+    "title": "Target-Speaker Voice Activity Detection with Improved i-Vector Estimation for Unknown Number of Speaker",
+    "authors": [
+      "Maokui He",
+      "Desh Raj",
+      "Zili Huang",
+      "Jun Du",
+      "Zhuo Chen",
+      "Shinji Watanabe"
+    ],
+    "publication_date": "2021-08-07",
+    "venue": "Interspeech",
+    "semantic_scholar_id": "181e1d4b08dc62237277a6a743576facd8c5e572",
+    "corpus_id": 236957088,
+    "category": "Engineering, Computer Science"
+  },
+  "2107-01545": {
+    "title": "Towards Neural Diarization for Unlimited Numbers of Speakers Using Global and Local Attractors",
+    "authors": [
+      "Shota Horiguchi",
+      "Shinji Watanabe",
+      "Leibny Paola García-Perera",
+      "Yawen Xue",
+      "Yuki Takashima",
+      "Y. Kawaguchi"
+    ],
+    "publication_date": "2021-07-04",
+    "venue": "Automatic Speech Recognition & Understanding",
+    "semantic_scholar_id": "6f173939f6defe3ebae8fb12f19349ba96b7b5c4",
+    "corpus_id": 235732166,
+    "category": "Computer Science, Engineering"
+  },
+  "2106-10654": {
+    "title": "Encoder-Decoder Based Attractors for End-to-End Neural Diarization",
+    "authors": [
+      "Shota Horiguchi",
+      "Yusuke Fujita",
+      "Shinji Watanabe",
+      "Yawen Xue",
+      "Leibny Paola García-Perera"
+    ],
+    "publication_date": "2021-06-20",
+    "venue": "IEEE/ACM Transactions on Audio Speech and Language Processing",
+    "semantic_scholar_id": "8c7628641450203b0aa959b5a69729ff906760ff",
+    "corpus_id": 247685739,
+    "category": "Computer Science, Engineering"
+  },
+  "2106-04764": {
+    "title": "Semi-Supervised Training with Pseudo-Labeling for End-to-End Neural Diarization",
+    "authors": [
+      "Yuki Takashima",
+      "Yusuke Fujita",
+      "Shota Horiguchi",
+      "Shinji Watanabe",
+      "Paola García",
+      "Kenji Nagamatsu"
+    ],
+    "publication_date": "2021-06-09",
+    "venue": "Interspeech",
+    "semantic_scholar_id": "d85c0032d7bb0bd220eb2df8ba6d2130bc87e79e",
+    "corpus_id": 235377265,
+    "category": "Engineering, Computer Science"
+  },
+  "2105-09040": {
+    "title": "Advances in integration of end-to-end neural and clustering-based diarization for real conversational speech",
+    "authors": [
+      "K. Kinoshita",
+      "Marc Delcroix",
+      "Naohiro Tawara"
+    ],
+    "publication_date": "2021-05-19",
+    "venue": "Interspeech",
+    "semantic_scholar_id": "89404c4fe0663aa424ee2f5eeafc5e22c0ac5ce0",
+    "corpus_id": 234777986,
+    "category": "Computer Science, Engineering"
+  },
+  "2104-04045": {
+    "title": "End-to-end speaker segmentation for overlap-aware resegmentation",
+    "authors": [
+      "H. Bredin",
+      "Antoine Laurent"
+    ],
+    "publication_date": "2021-04-08",
+    "venue": "Interspeech",
+    "semantic_scholar_id": "32a927ae2739138eca406a2e978e5d08daaecac5",
+    "corpus_id": 233204561,
+    "category": "Engineering, Computer Science"
+  },
+  "2103-10661": {
+    "title": "USTC-NELSLIP System Description for DIHARD-III Challenge",
+    "authors": [
+      "Yuxuan Wang",
+      "Maokui He",
+      "Shutong Niu",
+      "Lei Sun",
+      "Tian Gao",
+      "Xin Fang",
+      "Jia Pan",
+      "Jun Du",
+      "Chin-Hui Lee"
+    ],
+    "publication_date": "2021-03-19",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "460f949ab004d0e8effc12b6d0f22fd3ce9429bc",
+    "corpus_id": 232290531,
+    "category": "Computer Science, Engineering"
+  },
+  "2102-01363": {
+    "title": "The Hitachi-JHU DIHARD III System: Competitive End-to-End Neural Diarization and X-Vector Clustering Systems Combined by DOVER-Lap",
+    "authors": [
+      "Shota Horiguchi",
+      "Nelson Yalta",
+      "Leibny Paola García-Perera",
+      "Yuki Takashima",
+      "Yawen Xue",
+      "Desh Raj",
+      "Zili Huang",
+      "Yusuke Fujita",
+      "Shinji Watanabe",
+      "S. Khudanpur"
+    ],
+    "publication_date": "2021-02-02",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "7a737872a6693ba3f0c99651191b93dad0dadcee",
+    "corpus_id": 231749872,
+    "category": "Computer Science, Engineering"
+  },
+  "2101-09624": {
+    "title": "A Review of Speaker Diarization: Recent Advances with Deep Learning",
+    "authors": [
+      "Tae Jin Park",
+      "Naoyuki Kanda",
+      "D. Dimitriadis",
+      "Kyu J. Han",
+      "Shinji Watanabe",
+      "Shrikanth S. Narayanan"
+    ],
+    "publication_date": "2021-01-24",
+    "venue": "Computer Speech and Language",
+    "semantic_scholar_id": "69379f55de081938ae9d8b91ef549542ed78f5f0",
+    "corpus_id": 231699117,
+    "category": "Computer Science, Engineering"
+  },
+  "2106-04078": {
+    "title": "End-to-End Speaker Diarization Conditioned on Speech Activity and Overlap Detection",
+    "authors": [
+      "Yuki Takashima",
+      "Yusuke Fujita",
+      "Shinji Watanabe",
+      "Shota Horiguchi",
+      "Leibny Paola García-Perera",
+      "Kenji Nagamatsu"
+    ],
+    "publication_date": "2021-01-19",
+    "venue": "Spoken Language Technology Workshop",
+    "semantic_scholar_id": "cbf9a2560eac548e7b3d5eb7074c40b7bb861909",
+    "corpus_id": 232413801,
+    "category": "Engineering, Computer Science"
+  },
+  "2012-14952": {
+    "title": "Bayesian HMM clustering of x-vector sequences (VBx) in speaker diarization: theory, implementation and analysis on standard tasks",
+    "authors": [
+      "Federico Landini",
+      "Jan Profant",
+      "M. Díez",
+      "L. Burget"
+    ],
+    "publication_date": "2020-12-29",
+    "venue": "Computer Speech and Language",
+    "semantic_scholar_id": "1c49de345ae3e764e7989e7fcf80fc008a429766",
+    "corpus_id": 229923983,
+    "category": "Engineering, Computer Science"
+  },
+  "2012-10055": {
+    "title": "End-To-End Speaker Diarization as Post-Processing",
+    "authors": [
+      "Shota Horiguchi",
+      "Leibny Paola García-Perera",
+      "Yusuke Fujita",
+      "Shinji Watanabe",
+      "Kenji Nagamatsu"
+    ],
+    "publication_date": "2020-12-18",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "7374494ee88608ef76f74b58a8f8c26ab06adfb9",
+    "corpus_id": 229331970,
+    "category": "Computer Science, Engineering"
+  },
+  "2012-01477": {
+    "title": "The Third DIHARD Diarization Challenge",
+    "authors": [
+      "Neville Ryant",
+      "Prachi Singh",
+      "Venkat Krishnamohan",
+      "Rajat Varma",
+      "Kenneth Ward Church",
+      "C. Cieri",
+      "Jun Du",
+      "Sriram Ganapathy",
+      "M. Liberman"
+    ],
+    "publication_date": "2020-12-02",
+    "venue": "Interspeech",
+    "semantic_scholar_id": "22eb08a8f4d272e82b0f5b554a2f5522785c8333",
+    "corpus_id": 227254213,
+    "category": "Engineering, Computer Science"
+  },
+  "2011-02678": {
+    "title": "BW-EDA-EEND: streaming END-TO-END Neural Speaker Diarization for a Variable Number of Speakers",
+    "authors": [
+      "Eunjung Han",
+      "Chul Lee",
+      "A. Stolcke"
+    ],
+    "publication_date": "2020-11-05",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "006b3a17acfa95ff675869607e7edfe290eb57e5",
+    "corpus_id": 226254025,
+    "category": "Computer Science, Engineering"
+  },
+  "2010-13366": {
+    "title": "Integrating End-to-End Neural and Clustering-Based Diarization: Getting the Best of Both Worlds",
+    "authors": [
+      "K. Kinoshita",
+      "Marc Delcroix",
+      "Naohiro Tawara"
+    ],
+    "publication_date": "2020-10-26",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "25d8b0b4f1a511054df87a1197a34ee8e3c375aa",
+    "corpus_id": 225067689,
+    "category": "Computer Science, Engineering, Mathematics"
+  },
+  "2006-10930": {
+    "title": "Joint Speaker Counting, Speech Recognition, and Speaker Identification for Overlapped Speech of Any Number of Speakers",
+    "authors": [
+      "Naoyuki Kanda",
+      "Yashesh Gaur",
+      "Xiaofei Wang",
+      "Zhong Meng",
+      "Zhuo Chen",
+      "Tianyan Zhou",
+      "Takuya Yoshioka"
+    ],
+    "publication_date": "2020-06-19",
+    "venue": "Interspeech",
+    "semantic_scholar_id": "5390502397185775e3bceceb442b7d52d17383be",
+    "corpus_id": 219956281,
+    "category": "Computer Science, Engineering"
+  },
+  "2006-02616": {
+    "title": "Online End-To-End Neural Diarization with Speaker-Tracing Buffer",
+    "authors": [
+      "Yawen Xue",
+      "Shota Horiguchi",
+      "Yusuke Fujita",
+      "Shinji Watanabe",
+      "Kenji Nagamatsu"
+    ],
+    "publication_date": "2020-06-04",
+    "venue": "Spoken Language Technology Workshop",
+    "semantic_scholar_id": "035595ebf6821031a543ee1c30386a6230fc7a41",
+    "corpus_id": 219305269,
+    "category": "Computer Science, Engineering"
+  },
+  "2005-09921": {
+    "title": "End-to-End Speaker Diarization for an Unknown Number of Speakers with Encoder-Decoder Based Attractors",
+    "authors": [
+      "Shota Horiguchi",
+      "Yusuke Fujita",
+      "Shinji Watanabe",
+      "Yawen Xue",
+      "Kenji Nagamatsu"
+    ],
+    "publication_date": "2020-05-20",
+    "venue": "Interspeech",
+    "semantic_scholar_id": "ee33d61522fd70fa4e6470decbdac6c17f8b4fdb",
+    "corpus_id": 218719457,
+    "category": "Computer Science, Engineering"
+  },
+  "2005-08100": {
+    "title": "Conformer: Convolution-augmented Transformer for Speech Recognition",
+    "authors": [
+      "Anmol Gulati",
+      "James Qin",
+      "Chung-Cheng Chiu",
+      "Niki Parmar",
+      "Yu Zhang",
+      "Jiahui Yu",
+      "Wei Han",
+      "Shibo Wang",
+      "Zhengdong Zhang",
+      "Yonghui Wu",
+      "Ruoming Pang"
+    ],
+    "publication_date": "2020-05-16",
+    "venue": "Interspeech",
+    "semantic_scholar_id": "0170fc76e934ee643f869df18fb617d5357e8b4e",
+    "corpus_id": 218674528,
+    "category": "Computer Science, Engineering"
+  },
+  "2005-07272": {
+    "title": "Target-Speaker Voice Activity Detection: a Novel Approach for Multi-Speaker Diarization in a Dinner Party Scenario",
+    "authors": [
+      "I. Medennikov",
+      "M. Korenevsky",
+      "Tatiana Prisyach",
+      "Yuri Y. Khokhlov",
+      "Mariya Korenevskaya",
+      "Ivan Sorokin",
+      "Tatiana Timofeeva",
+      "Anton Mitrofanov",
+      "A. Andrusenko",
+      "Ivan Podluzhny",
+      "A. Laptev",
+      "A. Romanenko"
+    ],
+    "publication_date": "2020-05-14",
+    "venue": "Interspeech",
+    "semantic_scholar_id": "e8cf23806cd487c6d4cc9e1deb988a17d0f6a644",
+    "corpus_id": 218665469,
+    "category": "Computer Science, Engineering"
+  },
+  "2002-11356": {
+    "title": "But System for the Second Dihard Speech Diarization Challenge",
+    "authors": [
+      "Federico Landini",
+      "Shuai Wang",
+      "M. Díez",
+      "L. Burget",
+      "P. Matejka",
+      "Kateřina Žmolíková",
+      "Ladislav Mošner",
+      "Anna Silnova",
+      "Oldrich Plchot",
+      "Ondrej Novotný",
+      "Hossein Zeinali",
+      "Johan Rohdin"
+    ],
+    "publication_date": "2020-02-26",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "8aa2c8f9d34db72d12ea99a38d4a3d9d528337ea",
+    "corpus_id": 211506234,
+    "category": "Computer Science, Engineering"
+  },
+  "1911-01266": {
+    "title": "Supervised Online Diarization with Sample Mean Loss for Multi-Domain Data",
+    "authors": [
+      "Enrico Fini",
+      "A. Brutti"
+    ],
+    "publication_date": "2019-11-04",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "aada4f1ae02b9807d833a57c5ac81e8ec14ce6d3",
+    "corpus_id": 207847649,
+    "category": "Computer Science, Engineering"
+  },
+  "1909-06247": {
+    "title": "End-to-End Neural Speaker Diarization with Self-Attention",
+    "authors": [
+      "Yusuke Fujita",
+      "Naoyuki Kanda",
+      "Shota Horiguchi",
+      "Yawen Xue",
+      "Kenji Nagamatsu",
+      "Shinji Watanabe"
+    ],
+    "publication_date": "2019-09-13",
+    "venue": "Automatic Speech Recognition & Understanding",
+    "semantic_scholar_id": "c340b89e7b7fa84fac85cdcf38ba7007e2e71930",
+    "corpus_id": 202572979,
+    "category": "Computer Science, Engineering"
+  },
+  "1909-05952": {
+    "title": "End-to-End Neural Speaker Diarization with Permutation-Free Objectives",
+    "authors": [
+      "Yusuke Fujita",
+      "Naoyuki Kanda",
+      "Shota Horiguchi",
+      "Kenji Nagamatsu",
+      "Shinji Watanabe"
+    ],
+    "publication_date": "2019-09-12",
+    "venue": "Interspeech",
+    "semantic_scholar_id": "d9dbdd254b02ef1af2769af403cba373c1b1bcb1",
+    "corpus_id": 202572807,
+    "category": "Computer Science, Engineering"
+  },
+  "1907-10393": {
+    "title": "LSTM based Similarity Measurement with Spectral Clustering for Speaker Diarization",
+    "authors": [
+      "Qingjian Lin",
+      "Ruiqing Yin",
+      "Ming Li",
+      "H. Bredin",
+      "C. Barras"
+    ],
+    "publication_date": "2019-07-23",
+    "venue": "Interspeech",
+    "semantic_scholar_id": "d900a0d828cef4ea7da7082e970a7fd4119f86aa",
+    "corpus_id": 198229777,
+    "category": "Computer Science, Engineering, Mathematics"
+  },
+  "1906-07839": {
+    "title": "The Second DIHARD Diarization Challenge: Dataset, task, and baselines",
+    "authors": [
+      "Neville Ryant",
+      "Kenneth Ward Church",
+      "C. Cieri",
+      "Alejandrina Cristia",
+      "Jun Du",
+      "Sriram Ganapathy",
+      "M. Liberman"
+    ],
+    "publication_date": "2019-06-18",
+    "venue": "Interspeech",
+    "semantic_scholar_id": "ff88699c6bac1b289272c445581541ad66848044",
+    "corpus_id": 195069497,
+    "category": "Computer Science, Engineering"
+  },
+  "1901-02860": {
+    "title": "Transformer-XL: Attentive Language Models beyond a Fixed-Length Context",
+    "authors": [
+      "Zihang Dai",
+      "Zhilin Yang",
+      "Yiming Yang",
+      "J. Carbonell",
+      "Quoc V. Le",
+      "R. Salakhutdinov"
+    ],
+    "publication_date": "2019-01-09",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "c4744a7c2bb298e4a52289a1e085c71cc3d37bc6",
+    "corpus_id": 57759363,
+    "category": "Computer Science, Mathematics"
+  },
+  "1810-04719": {
+    "title": "Fully Supervised Speaker Diarization",
+    "authors": [
+      "Aonan Zhang",
+      "Quan Wang",
+      "Zhenyao Zhu",
+      "J. Paisley",
+      "Chong Wang"
+    ],
+    "publication_date": "2018-10-10",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "1f010dd1226834f16515a6610ea57b480266ef2d",
+    "corpus_id": 52966666,
+    "category": "Computer Science, Engineering, Mathematics"
+  },
+  "1806-05622": {
+    "title": "VoxCeleb2: Deep Speaker Recognition",
+    "authors": [
+      "Joon Son Chung",
+      "Arsha Nagrani",
+      "Andrew Zisserman"
+    ],
+    "publication_date": "2018-06-14",
+    "venue": "Interspeech",
+    "semantic_scholar_id": "8875ae233bc074f5cd6c4ebba447b536a7e847a5",
+    "corpus_id": 49211906,
+    "category": "Computer Science, Engineering"
+  },
+  "1710-10468": {
+    "title": "Speaker Diarization with LSTM",
+    "authors": [
+      "Quan Wang",
+      "Carlton Downey",
+      "Li Wan",
+      "P. A. Mansfield",
+      "I. López-Moreno"
+    ],
+    "publication_date": "2017-10-28",
+    "venue": "IEEE International Conference on Acoustics, Speech, and Signal Processing",
+    "semantic_scholar_id": "507271f26a1c40bb128d8e09289e2054d304e49c",
+    "corpus_id": 206743015,
+    "category": "Computer Science, Engineering, Mathematics"
+  },
+  "1706-08612": {
+    "title": "VoxCeleb: A Large-Scale Speaker Identification Dataset",
+    "authors": [
+      "Arsha Nagrani",
+      "Joon Son Chung",
+      "Andrew Zisserman"
+    ],
+    "publication_date": "2017-06-26",
+    "venue": "Interspeech",
+    "semantic_scholar_id": "8a26431833b0ea8659ef1d24bff3ac9e56dcfcd0",
+    "corpus_id": 10475843,
+    "category": "Computer Science"
+  },
+  "1706-03762": {
+    "title": "Attention is All you Need",
+    "authors": [
+      "Ashish Vaswani",
+      "Noam M. Shazeer",
+      "Niki Parmar",
+      "Jakob Uszkoreit",
+      "Llion Jones",
+      "Aidan N. Gomez",
+      "Lukasz Kaiser",
+      "I. Polosukhin"
+    ],
+    "publication_date": "2017-06-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+    "corpus_id": 13756489,
+    "category": "Computer Science"
+  },
+  "1703-06284": {
+    "title": "Multitalker Speech Separation With Utterance-Level Permutation Invariant Training of Deep Recurrent Neural Networks",
+    "authors": [
+      "Morten Kolbaek",
+      "Dong Yu",
+      "Zheng-Hua Tan",
+      "J. Jensen"
+    ],
+    "publication_date": "2017-03-18",
+    "venue": "IEEE/ACM Transactions on Audio Speech and Language Processing",
+    "semantic_scholar_id": "256ad591c6fd5269fc6f88b9715bf379f210f53d",
+    "corpus_id": 1576369,
+    "category": "Computer Science, Engineering"
+  },
+  "1512-03385": {
+    "title": "Deep Residual Learning for Image Recognition",
+    "authors": [
+      "Kaiming He",
+      "X. Zhang",
+      "Shaoqing Ren",
+      "Jian Sun"
+    ],
+    "publication_date": "2015-12-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+    "corpus_id": 206594692,
+    "category": "Computer Science"
+  },
+  "1510-08484": {
+    "title": "MUSAN: A Music, Speech, and Noise Corpus",
+    "authors": [
+      "David Snyder",
+      "Guoguo Chen",
+      "Daniel Povey"
+    ],
+    "publication_date": "2015-10-28",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "32d21dc13f8770958b196a96f99a6f3959c7dc0f",
+    "corpus_id": 15676318,
+    "category": "Computer Science"
+  },
+  "1503-02531": {
+    "title": "Distilling the Knowledge in a Neural Network",
+    "authors": [
+      "Geoffrey E. Hinton",
+      "O. Vinyals",
+      "J. Dean"
+    ],
+    "publication_date": "2015-03-09",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "0c908739fbff75f03469d13d4a1a07de3414ee19",
+    "corpus_id": 7200347,
+    "category": "Mathematics, Computer Science"
+  },
+  "1810-04805": {
+    "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+    "authors": [
+      "Jacob Devlin",
+      "Ming-Wei Chang",
+      "Kenton Lee",
+      "Kristina Toutanova"
+    ],
+    "publication_date": "",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "df2b0e26d0599ce3e70df8a9da02e51594e0e992",
+    "corpus_id": 52967399,
+    "category": "Computer Science"
+  }
+}

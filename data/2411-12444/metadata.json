@@ -1,0 +1,17 @@
+{
+  "title": "Advancing Cloud Computing Capabilities on gem5 by Implementing the RISC-V Hypervisor Extension",
+  "authors": [
+    "George-Marios Fragkoulis",
+    "Nikos Karystinos",
+    "George Papadimitriou",
+    "Dimitris Gizopoulos"
+  ],
+  "summary": "This paper presents the implementation and evaluation of the H (hypervisor) extension for the RISC-V instruction set architecture (ISA) on top of the gem5 microarchitectural simulator. The RISC-V ISA, known for its simplicity and modularity, has seen widespread adoption in various computing domains. The H extension aims to enhance RISC-V's capabilities for cloud computing and virtualization. In this paper, we present the architectural integration of the H extension into gem5, an open-source, modular platform for computer system architecture research. We detail the modifications required in gem5's CPU models and virtualization support to accommodate the H extension. We also present evaluation results regarding the performance impact and functional correctness of the extension's implementation on gem5. This study not only provides a pathway for further research and development of RISC-V extensions but also contributes valuable insights into the optimization of the gem5 simulator for advanced architectural features.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-20"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AR"
+}

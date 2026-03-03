@@ -1,0 +1,15 @@
+{
+  "title": "MetaCropFollow: Few-Shot Adaptation with Meta-Learning for Under-Canopy Navigation",
+  "authors": [
+    "Thomas Woehrle",
+    "Arun N. Sivakumar",
+    "Naveen Uppalapati",
+    "Girish Chowdhary"
+  ],
+  "summary": "Autonomous under-canopy navigation faces additional challenges compared to over-canopy settings - for example the tight spacing between the crop rows, degraded GPS accuracy and excessive clutter. Keypoint-based visual navigation has been shown to perform well in these conditions, however the differences between agricultural environments in terms of lighting, season, soil and crop type mean that a domain shift will likely be encountered at some point of the robot deployment. In this paper, we explore the use of Meta-Learning to overcome this domain shift using a minimal amount of data. We train a base-learner that can quickly adapt to new conditions, enabling more robust navigation in low-data regimes.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO, cs.AI, cs.CV, cs.LG"
+}

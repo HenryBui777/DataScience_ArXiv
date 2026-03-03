@@ -1,0 +1,16 @@
+{
+  "title": "ACING: Actor-Critic for Instruction Learning in Black-Box LLMs",
+  "authors": [
+    "Salma Kharrat",
+    "Fares Fourati",
+    "Marco Canini"
+  ],
+  "summary": "The effectiveness of Large Language Models (LLMs) in solving tasks depends significantly on the quality of their instructions, which often require substantial human effort to craft. This underscores the need for automated instruction optimization. However, optimizing instructions is particularly challenging when working with black-box LLMs, where model parameters and gradients are inaccessible. We introduce ACING, an actor-critic reinforcement learning framework that formulates instruction optimization as a stateless, continuous-action problem, enabling exploration of infinite instruction spaces using only black-box feedback. ACING automatically discovers prompts that outperform human-written prompts in 76% of instruction-induction tasks, with gains of up to 33 points and a 10-point median improvement over the best automatic baseline in 33 tasks spanning instruction-induction, summarization, and chain-of-thought reasoning. Extensive ablations highlight its robustness and efficiency. An implementation of ACING is available at https://github.com/salmakh1/ACING.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-09-04"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.AI, cs.LG, eess.SY, math.OC"
+}

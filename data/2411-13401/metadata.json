@@ -1,0 +1,15 @@
+{
+  "title": "Quantum reservoir computing in atomic lattices",
+  "authors": [
+    "Guillem Llodrà",
+    "Pere Mujal",
+    "Roberta Zambrini",
+    "Gian Luca Giorgi"
+  ],
+  "summary": "Quantum reservoir computing (QRC) exploits the dynamical properties of quantum systems to perform machine learning tasks. We demonstrate that optimal performance in QRC can be achieved without relying on disordered systems. Systems with all-to-all topologies and random couplings are generally considered to minimize redundancies and enhance performance. In contrast, our work investigates the one-dimensional Bose-Hubbard model with homogeneous couplings, where a chaotic phase arises from the interplay between coupling and interaction terms. Interestingly, we find that performance in different tasks can be enhanced either in the chaotic regime or in the weak interaction limit. Our findings challenge conventional design principles and indicate the potential for simpler and more efficient QRC implementations tailored to specific tasks in Bose-Hubbard lattices.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

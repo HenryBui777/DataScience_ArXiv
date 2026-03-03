@@ -1,0 +1,17 @@
+{
+  "title": "CWENO Interpolation for Non-Oscillatory Stochastic Collocation in Uncertainty Quantification Problems",
+  "authors": [
+    "Alina Chertock",
+    "Arsen S. Iskhakov",
+    "Anna Iskhakova",
+    "Alexander Kurganov"
+  ],
+  "summary": "Uncertainty quantification (UQ) in mathematical models is essential for accurately predicting system behavior under variability. This study provides guidance on method selection for reliable UQ across varied functional behaviors in engineering applications. Specifically, we compare several interpolation and approximation methods within a stochastic collocation (SC) framework, namely: generalized polynomial chaos (gPC), B-splines, shape-preserving (SP) splines, and central weighted essentially nonoscillatory (CWENO) interpolation, to reconstruct probability density functions (PDFs) and estimate statistical moments. These methods are assessed for both smooth and discontinuous functions, as well as for the solution of the 1-D Euler and shallow water equations. While gPC and interpolation B-splines perform well with smooth data, they produce oscillations near discontinuities. Approximation B-splines and SP splines, while avoiding oscillations, converge more slowly. In contrast, CWENO interpolation demonstrates high robustness, effectively capturing sharp gradients without oscillations, making it suitable for complex, discontinuous data. Overall, CWENO interpolation emerges as a versatile and effective approach for SC, particularly in handling discontinuities in UQ.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-01-15"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

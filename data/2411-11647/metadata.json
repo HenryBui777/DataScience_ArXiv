@@ -1,0 +1,18 @@
+{
+  "title": "Secure Reinforcement Learning via Shuffle Privacy Model",
+  "authors": [
+    "Shaojie Bai",
+    "Mohammad Sadegh Talebi",
+    "Chengcheng Zhao",
+    "Peng Cheng",
+    "Jiming Chen"
+  ],
+  "summary": "Reinforcement learning (RL) is a powerful tool for sequential decision-making, but its application is often hindered by privacy concerns arising from its interaction data. This challenge is particularly acute in advanced Cyber-Physical Systems (CPS), where learning from operational and user data can expose systems to privacy inference attacks. Existing differential privacy (DP) models for RL are often inadequate: the centralized model requires a fully trusted server, creating a single point of failure risk, while the local model incurs significant performance degradation that is unsuitable for many control applications. This paper addresses this gap by leveraging the emerging shuffle model of privacy, an intermediate trust model that provides strong privacy guarantees without a centralized trust assumption. We present Shuffle Differentially Private Policy Elimination (SDP-PE), the first generic policy elimination-based algorithm for episodic RL under the shuffle model. Our method introduces a novel exponential batching schedule and a ``forgetting'' mechanism to balance the competing demands of privacy and learning performance. Our analysis shows that SDP-PE achieves a near-optimal regret bound, demonstrating a superior privacy-regret trade-off that significantly outperforms the local model. This work establishes the viability of the shuffle model for secure data-driven control in advanced CPS.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-08-26"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI, cs.CR"
+}

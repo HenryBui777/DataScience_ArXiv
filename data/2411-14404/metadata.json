@@ -1,0 +1,14 @@
+{
+  "title": "Resolving Multiple-Dynamic Model Uncertainty in Hypothesis-Driven Belief-MDPs",
+  "authors": [
+    "Ofer Dagan",
+    "Tyler Becker",
+    "Zachary N. Sunberg"
+  ],
+  "summary": "When human operators of cyber-physical systems encounter surprising behavior, they often consider multiple hypotheses that might explain it. In some cases, taking information-gathering actions such as additional measurements or control inputs given to the system can help resolve uncertainty and determine the most accurate hypothesis. The task of optimizing these actions can be formulated as a belief-space Markov decision process that we call a hypothesis-driven belief MDP. Unfortunately, this problem suffers from the curse of history similar to a partially observable Markov decision process (POMDP). To plan in continuous domains, an agent needs to reason over countlessly many possible action-observation histories, each resulting in a different belief over the unknown state. The problem is exacerbated in the hypothesis-driven context because each action-observation pair spawns a different belief for each hypothesis, leading to additional branching. This paper considers the case in which each hypothesis corresponds to a different dynamic model in an underlying POMDP. We present a new belief MDP formulation that: (i) enables reasoning over multiple hypotheses, (ii) balances the goals of determining the (most likely) correct hypothesis and performing well in the underlying POMDP, and (iii) can be solved with sparse tree search.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AI, cs.RO"
+}

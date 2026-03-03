@@ -1,0 +1,19 @@
+{
+  "title": "Exploring the Potential of Quantum Approximate Optimization Algorithm in Tackling the Perfect Domination Problem",
+  "authors": [
+    "Haoqian Pan",
+    "Changhong Lu",
+    "Yuqing Zheng",
+    "Chunxing Yan"
+  ],
+  "summary": "Perfect Domination Problem (PDP), a canonical challenge in combinatorial optimization, finds critical applications in real-world systems such as error-correcting codes, wireless communication networks, and social networks. Decades of research have firmly established its NP-completeness across numerous graph classes. Motivated by rapid advances in quantum computing, significant effort has recently been directed toward quantum algorithms for NP-complete problems, most notably the Quantum Approximate Optimization Algorithm (QAOA). Nonetheless, the applicability and efficacy of quantum approaches to the PDP remain entirely unexplored. This paper initiates the first systematic investigation of the PDP via QAOA. We evaluate solution quality on three benchmark instances of 6, 7, and 8 vertices using 15-18 qubits on a quantum simulator, examining more than 400 distinct parameter configurations. Experimental results confirm the algorithm's effectiveness and expose discernible trends in parameter selection. These outcomes substantiate QAOA's viability for the PDP and mark a seminal step toward situating this classical problem within the quantum-computing paradigm.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-12-29",
+    "2025-04-09",
+    "2025-09-17"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

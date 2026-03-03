@@ -1,0 +1,13 @@
+{
+  "title": "Fermionic Neural Networks through the lens of Group Theory",
+  "authors": [
+    "J. Rozalén Sarmiento",
+    "A. Rios"
+  ],
+  "summary": "We present an overview of the method of Neural Quantum States applied to the many-body problem of atomic nuclei. Through the lens of group representation theory, we focus on the problem of constructing neural-network ansätze that respect physical symmetries. We explicitly prove that determinants, which are among the most common methods to build antisymmetric neural-network wave functions, can be understood as the result of a group convolution. We also identify the reason why this construction is so efficient in practice compared to other group convolutional operations. We conclude that group representation theory is a promising avenue to incorporate explicitly symmetries in Neural Quantum States.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "nucl-th, quant-ph"
+}

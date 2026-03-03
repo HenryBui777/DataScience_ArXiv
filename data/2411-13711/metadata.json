@@ -1,0 +1,15 @@
+{
+  "title": "Almost Sure Convergence Rates and Concentration of Stochastic Approximation and Reinforcement Learning with Markovian Noise",
+  "authors": [
+    "Xiaochi Qian",
+    "Zixuan Xie",
+    "Xinyu Liu",
+    "Shangtong Zhang"
+  ],
+  "summary": "This paper establishes the first almost sure convergence rate and the first maximal concentration bound with exponential tails for general contractive stochastic approximation algorithms with Markovian noise. As a corollary, we also obtain convergence rates in $L^p$. Key to our successes is a novel discretization of the mean ODE of stochastic approximation algorithms using intervals with diminishing (instead of constant) length. As applications, we provide the first almost sure convergence rate for $Q$-learning with Markovian samples without count-based learning rates. We also provide the first concentration bound for off-policy temporal difference learning with Markovian samples.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, math.OC, stat.ML"
+}

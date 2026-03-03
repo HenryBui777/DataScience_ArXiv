@@ -1,0 +1,16 @@
+{
+  "title": "Cross-Patient Pseudo Bags Generation and Curriculum Contrastive Learning for Imbalanced Multiclassification of Whole Slide Image",
+  "authors": [
+    "Yonghuang Wu",
+    "Xuan Xie",
+    "Xinyuan Niu",
+    "Chengqian Zhao",
+    "Jinhua Yu"
+  ],
+  "summary": "Pathology computing has dramatically improved pathologists' workflow and diagnostic decision-making processes. Although computer-aided diagnostic systems have shown considerable value in whole slide image (WSI) analysis, the problem of multi-classification under sample imbalance remains an intractable challenge. To address this, we propose learning fine-grained information by generating sub-bags with feature distributions similar to the original WSIs. Additionally, we utilize a pseudo-bag generation algorithm to further leverage the abundant and redundant information in WSIs, allowing efficient training in unbalanced-sample multi-classification tasks. Furthermore, we introduce an affinity-based sample selection and curriculum contrastive learning strategy to enhance the stability of model representation learning. Unlike previous approaches, our framework transitions from learning bag-level representations to understanding and exploiting the feature distribution of multi-instance bags. Our method demonstrates significant performance improvements on three datasets, including tumor classification and lymph node metastasis. On average, it achieves a 4.39-point improvement in F1 score compared to the second-best method across the three tasks, underscoring its superior performance.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI"
+}

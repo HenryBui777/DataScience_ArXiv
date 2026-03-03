@@ -1,0 +1,17 @@
+{
+  "title": "Benchmarking Quantum Convolutional Neural Networks for Classification and Data Compression Tasks",
+  "authors": [
+    "Jun Yong Khoo",
+    "Chee Kwan Gan",
+    "Wenjun Ding",
+    "Stefano Carrazza",
+    "Jun Ye",
+    "Jian Feng Kong"
+  ],
+  "summary": "Quantum Convolutional Neural Networks (QCNNs) have emerged as promising models for quantum machine learning tasks, including classification and data compression. This paper investigates the performance of QCNNs in comparison to the hardware-efficient ansatz (HEA) for classifying the phases of quantum ground states of the transverse field Ising model and the XXZ model. Various system sizes, including 4, 8, and 16 qubits, through simulation were examined. Additionally, QCNN and HEA-based autoencoders were implemented to assess their capabilities in compressing quantum states. The results show that QCNN with RY gates can be trained faster due to fewer trainable parameters while matching the performance of HEAs.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

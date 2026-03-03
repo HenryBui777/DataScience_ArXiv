@@ -1,0 +1,14 @@
+{
+  "title": "Transformers with Sparse Attention for Granger Causality",
+  "authors": [
+    "Riya Mahesh",
+    "Rahul Vashisht",
+    "Chandrashekar Lakshminarayanan"
+  ],
+  "summary": "Temporal causal analysis means understanding the underlying causes behind observed variables over time. Deep learning based methods such as transformers are increasingly used to capture temporal dynamics and causal relationships beyond mere correlations. Recent works suggest self-attention weights of transformers as a useful indicator of causal links. We leverage this to propose a novel modification to the self-attention module to establish causal links between the variables of multivariate time-series data with varying lag dependencies. Our Sparse Attention Transformer captures causal relationships using a two-fold approach - performing temporal attention first followed by attention between the variables across the time steps masking them individually to compute Granger Causality indices. The key novelty in our approach is the ability of the model to assert importance and pick the most significant past time instances for its prediction task against manually feeding a fixed time lag value. We demonstrate the effectiveness of our approach via extensive experimentation on several synthetic benchmark datasets. Furthermore, we compare the performance of our model with the traditional Vector Autoregression based Granger Causality method that assumes fixed lag length.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

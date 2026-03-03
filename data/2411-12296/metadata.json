@@ -1,0 +1,13 @@
+{
+  "title": "Modeling and Analysis of Terahertz Wave Propagation in Charged Dust Using Extended Mie Scattering Theory",
+  "authors": [
+    "Weijun Gao",
+    "Chong Han"
+  ],
+  "summary": "Terahertz (THz) band (0.1-10 THz) possesses multi-gigahertz continuous bandwidth resources, making it a promising frequency band for high-speed wireless communications and environment sensing. The interaction between the THz wave and the external environment has been studied for various scenarios. However, it has recently been revealed that the friction forces in dust storms as well as the irradiation of sunlight and solar wind lead to the electrification of dust particles on Earth and the Moon. The THz wave propagation in these charged dust has not been fully investigated, which is essential for THz aerial communications in dust storms and lunar communications. In this paper, a channel model for THz wave propagation in charged dust is developed for wireless communications. Specifically, an extended Mie scattering model for charged dust is first introduced, which captures the electrodynamic feature of the interaction between THz wave and charged particles. Then, the diameter and density distributions of dust particles are modeled, based on which the propagation loss of THz wave in charged dust is modeled and elaborated. Finally, numerical results on the additional loss caused by these charged dust with different sizes in the THz band are evaluated and compared. Extensive results demonstrate that as the number of dust charges increases, the extinction cross section of smaller-sized particles significantly increases, and the overall attenuation led by charged dust increases by at most 50% at 0.3 THz.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP"
+}

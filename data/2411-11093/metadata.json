@@ -1,0 +1,18 @@
+{
+  "title": "Dynamic Dimensioning of Frequency Containment Reserves: The Case of the Nordic Grid",
+  "authors": [
+    "Jöbke Janssen",
+    "Alessandro Zocca",
+    "Bert Zwart",
+    "Jalal Kazempour"
+  ],
+  "summary": "One of the main responsibilities of a Transmission System Operator (TSO) operating an electric grid is to maintain a designated frequency (e.g., 50 Hz in Europe). To achieve this, TSOs have created several products called frequency-supporting ancillary services. The Frequency Containment Reserve (FCR) is one of these ancillary service products. This article focuses on the TSO problem of determining the volume procured for FCR. Specifically, we investigate the potential benefits and impact on grid security when transitioning from a traditionally \\textit{static} procurement method to a \\textit{dynamic} strategy for FCR volume. We take the Nordic synchronous area in Europe as a case study and use a diffusion model to capture its frequency development. We introduce a controlled mean reversal parameter to assess changes in FCR obligations, in particular for the Nordic FCR-N ancillary service product. We establish closed-form expressions for exceedance probabilities and use historical frequency data as input to calibrate the model. We show that a dynamic dimensioning approach for FCR has the potential to significantly reduce the exceedance probabilities (up to $37\\%$) while maintaining the total yearly procured FCR volume equal to that of the current static approach. Alternatively, a dynamic dimensioning approach could significantly increase security at limited extra cost.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [
+    "2025-05-02",
+    "2025-10-27"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

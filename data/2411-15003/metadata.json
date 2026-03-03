@@ -1,0 +1,21 @@
+{
+  "title": "Autonomous Tail-Sitter Flights in Unknown Environments",
+  "authors": [
+    "Guozheng Lu",
+    "Yunfan Ren",
+    "Fangcheng Zhu",
+    "Haotian Li",
+    "Ruize Xue",
+    "Yixi Cai",
+    "Ximin Lyu",
+    "Fu Zhang"
+  ],
+  "summary": "Trajectory generation for fully autonomous flights of tail-sitter unmanned aerial vehicles (UAVs) presents substantial challenges due to their highly nonlinear aerodynamics. In this paper, we introduce, to the best of our knowledge, the world's first fully autonomous tail-sitter UAV capable of high-speed navigation in unknown, cluttered environments. The UAV autonomy is enabled by cutting-edge technologies including LiDAR-based sensing, differential-flatness-based trajectory planning and control with purely onboard computation. In particular, we propose an optimization-based tail-sitter trajectory planning framework that generates high-speed, collision-free, and dynamically-feasible trajectories. To efficiently and reliably solve this nonlinear, constrained \\textcolor{black}{problem}, we develop an efficient feasibility-assured solver, EFOPT, tailored for the online planning of tail-sitter UAVs. We conduct extensive simulation studies to benchmark EFOPT's superiority in planning tasks against conventional NLP solvers. We also demonstrate exhaustive experiments of aggressive autonomous flights with speeds up to 15m/s in various real-world environments, including indoor laboratories, underground parking lots, and outdoor parks. A video demonstration is available at https://youtu.be/OvqhlB2h3k8, and the EFOPT solver is open-sourced at https://github.com/hku-mars/EFOPT.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-11-26"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

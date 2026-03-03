@@ -1,0 +1,12 @@
+{
+  "title": "Gill and Massar type bound for estimation of $SU(2)$ channel",
+  "authors": [
+    "Koichi Yamagata"
+  ],
+  "summary": "In the estimation for a parametric family of quantum state on a Hilbert space $\\mathcal{H}$, the Gill and Massar bound is known as a lower bound of weighted traces of covariances of unbiased estimators. The Gill and Massar bound is derived by considering the convexity of the set of classical Fisher information matrices, and the bound is locally achievable by using randomized strategies when $\\mathcal{H}=\\mathbb{C}^{2}$. In this paper, we show that estimation for a parametric $SU(2)$ unitary channel model has a similar convex structure as qubit state model, and a Gill and Massar type lower bound of weighted traces of covariances of unbiased estimators can be derived for any weight matrix. We show that the Gill and Massar type lower bound is achievable by using randomized strategies when certain conditions are satisfied. To derive a convex structure of the set of classical Fisher information matrices, we introduce a Fisher information matrix $J^{(U)}$ for a $SU(2)$ unitary channel model, and we show a upper bound of inverse $J^{(U)}$ weighted trace of classical Fisher information matrix. The optimal randomized strategy we construct in this paper does not require ancilla systems in many cases.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "Physica Scripta 99(12) 125266, 2024",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

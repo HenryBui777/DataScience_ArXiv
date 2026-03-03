@@ -1,0 +1,20 @@
+{
+  "title": "How Does Topology Bias Distort Message Passing? A Dirichlet Energy Perspective",
+  "authors": [
+    "Yanbiao Ji",
+    "Yue Ding",
+    "Dan Luo",
+    "Chang Liu",
+    "Yuxiang Lu",
+    "Xin Xin",
+    "Hongtao Lu"
+  ],
+  "summary": "Graph-based recommender systems have achieved remarkable effectiveness by modeling high-order interactions between users and items. However, such approaches are significantly undermined by popularity bias, which distorts the interaction graph's structure, referred to as topology bias. This leads to overrepresentation of popular items, thereby reinforcing biases and fairness issues through the user-system feedback loop. Despite attempts to study this effect, most prior work focuses on the embedding or gradient level bias, overlooking how topology bias fundamentally distorts the message passing process itself. We bridge this gap by providing an empirical and theoretical analysis from a Dirichlet energy perspective, revealing that graph message passing inherently amplifies topology bias and consistently benefits highly connected nodes. To address these limitations, we propose Test-time Simplicial Propagation (TSP), which extends message passing to higher-order simplicial complexes. By incorporating richer structures beyond pairwise connections, TSP mitigates harmful topology bias and substantially improves the representation and recommendation of long-tail items during inference. Extensive experiments across five real-world datasets demonstrate the superiority of our approach in mitigating topology bias and enhancing recommendation quality.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-05-20"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IR"
+}

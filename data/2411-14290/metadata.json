@@ -1,0 +1,16 @@
+{
+  "title": "Soft Manipulation Surface With Reduced Actuator Density For Heterogeneous Object Manipulation",
+  "authors": [
+    "Pratik Ingle",
+    "Kasper Støy",
+    "Andres Faiña"
+  ],
+  "summary": "Object manipulation in robotics faces challenges due to diverse object shapes, sizes, and fragility. Gripper-based methods offer precision and low degrees of freedom (DOF) but the gripper limits the kind of objects to grasp. On the other hand, surface-based approaches provide flexibility for handling fragile and heterogeneous objects but require numerous actuators, increasing complexity. We propose new manipulation hardware that utilizes equally spaced linear actuators placed vertically and connected by a soft surface. In this setup, object manipulation occurs on the soft surface through coordinated movements of the surrounding actuators. This approach requires fewer actuators to cover a large manipulation area, offering a cost-effective solution with a lower DOF compared to dense actuator arrays. It also effectively handles heterogeneous objects of varying shapes and weights, even when they are significantly smaller than the distance between actuators. This method is particularly suitable for managing highly fragile objects in the food industry.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-08-29"
+  ],
+  "publication_venue": "10.1109/RoboSoft63089.2025.11020841",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

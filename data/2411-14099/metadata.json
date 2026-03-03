@@ -1,0 +1,16 @@
+{
+  "title": "Asymmetric Opinion Formation of Emotional Eccitable Agents",
+  "authors": [
+    "Irene Ferri",
+    "Emanuele Cozzo",
+    "Aleix Nicolas-Olive",
+    "Albert Diaz-Guilera",
+    "Luce Prignano"
+  ],
+  "summary": "The bounded confidence model represents a widely adopted framework for modeling opinion dynamics wherein actors have a continuous-valued opinion and interact and approach their positions in the opinion space only if their opinions are within a specified confidence threshold. Here, we propose a novel framework where the confidence bound is determined by a decreasing function of their emotional arousal, an additional independent variable distinct from the opinion value. Additionally, our framework accounts for agents' ability to broadcast messages, with interactions influencing the timing of each other's message emissions. Our findings underscore the significant role of synchronization in shaping consensus formation. Furthermore, we demonstrate that variable confidence intervals alter the impact of step length when navigating the opinion space, leading to deviations from observations in the traditional Deffuant model.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.soc-ph"
+}

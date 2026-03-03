@@ -1,0 +1,17 @@
+{
+  "title": "Kinetic model for transport in granular mixtures",
+  "authors": [
+    "Pablo Avilés",
+    "David González Méndez",
+    "Vicente Garzó"
+  ],
+  "summary": "A kinetic model for granular mixtures is considered to study three different non-equilibrium situations. The model is based on the equivalence between a gas of elastic hard spheres subjected to a drag force proportional to the particle velocity and a gas of inelastic hard spheres. As a first problem, the relaxation of the velocity moments to their forms in the homogeneous cooling state (HCS) is studied. Then, taking the HCS as the reference state, the kinetic model is solved by the Chapman-Enskog method, which is conveniently adapted to inelastic collisions. For small spatial gradients, the mass, momentum and heat fluxes of the mixture are determined and exact expressions for the Navier-Stokes transport coefficients are obtained. As a third nonequilibrium problem, the kinetic model is solved exactly in the uniform shear flow (USF) state, where the rheological properties of the mixture are computed in terms of the parameter space of the mixture. In addition to the transport properties, the velocity distribution functions of each species are also explicitly obtained. To assess the reliability of the model, its theoretical predictions are compared with both (approximate) analytical results and computer simulations of the original Boltzmann equation. In general, the comparison shows a reasonable agreement between the two kinetic equations. While the diffusion transport coefficients show excellent agreement with the Boltzmann results, more quantitative differences appear in the case of the shear viscosity coefficient and the heat flux transport coefficients. In the case of the USF, although the model qualitatively captures the shear rate dependence of the rheological properties well, the discrepancies increase with increasing inelasticity in collisions.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-11-25",
+    "2025-01-08"
+  ],
+  "publication_venue": "Phys. Fluids 37, 023384 (2025)",
+  "pdf_url": null,
+  "category": "cond-mat.soft, cond-mat.stat-mech"
+}

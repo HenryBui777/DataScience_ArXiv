@@ -1,0 +1,16 @@
+{
+  "title": "Large sample scaling analysis of the Zig-Zag algorithm for Bayesian inference",
+  "authors": [
+    "Sanket Agrawal",
+    "Joris Bierkens",
+    "Gareth O. Roberts"
+  ],
+  "summary": "Piecewise deterministic Markov processes provide scalable methods for sampling from the posterior distributions in big data settings by admitting principled sub-sampling strategies that do not bias the output. An important example is the Zig-Zag process of [Ann. Stats. 47 (2019) 1288 - 1320] where clever sub-sampling has been shown to produce an essentially independent sample at a cost that does not scale with the size of the data. However, sub-sampling also leads to slower convergence and poor mixing of the process, a behaviour which questions the promised scalability of the algorithm. We provide a large sample scaling analysis of the Zig-Zag process and its sub-sampling versions in settings of parametric Bayesian inference. In the transient phase of the algorithm, we show that the Zig-Zag trajectories are well approximated by the solution to a system of ODEs. These ODEs possess a drift in the direction of decreasing KL-divergence between the assumed model and the true distribution and are explicitly characterized in the paper. In the stationary phase, we give weak convergence results for different versions of the Zig-Zag process. Based on our results, we estimate that for large data sets of size n, using suitable control variates with sub-sampling in Zig-Zag, the algorithm costs O(1) to obtain an essentially independent sample; a computational speed-up of O(n) over the canonical version of Zig-Zag and other traditional MCMC methods",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-08-01"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.CO"
+}

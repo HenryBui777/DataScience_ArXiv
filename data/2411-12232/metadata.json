@@ -1,0 +1,13 @@
+{
+  "title": "Wavespeed selection of travelling wave solutions of a two-component reaction-diffusion model of cell invasion",
+  "authors": [
+    "Yuhui Chen",
+    "Michael C. Dallaston"
+  ],
+  "summary": "We consider a two-component reaction-diffusion system that has previously been developed to model invasion of cells into a resident cell population. This system is a generalisation of the well-studied Fisher--KPP reaction diffusion equation. By explicitly calculating families of travelling wave solutions to this problem, we observe that a general initial condition with either compact support, or sufficiently large exponential decay in the far field, tends to the travelling wave solution that has the largest possible decay at its front. Initial conditions with sufficiently slow exponential decay tend to those travelling wave solutions that have the same exponential decay as their initial conditions. We also show that in the limit that the (nondimensional) resident cell death rate is large, the system has similar asymptotic structure as the Fisher--KPP model with small cut-off factor, with the same universal (leading order) logarithmic dependence on the large parameter. The asymptotic analysis in this limit explains the formation of an interstitial gap (a region preceding the invasion front in which both cell populations are small), the width of which is also logarithmically large in the cell death rate.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AP, q-bio.PE"
+}

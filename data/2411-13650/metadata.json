@@ -1,0 +1,14 @@
+{
+  "title": "Theory of charge dynamics in bilayer electron system with long-range Coulomb interaction",
+  "authors": [
+    "Hiroyuki Yamase"
+  ],
+  "summary": "We perform a comprehensive study of charge excitations in a bilayer electron system in the presence of the long-range Coulomb interaction (LRC). Our major point is to derive formulae of the LRC that fully respect the bilayer lattice structure. This is an extension of the LRC obtained by Fetter in the electron-gas model 50 years ago and can now be applicable to any electron density. We then provide general formulae of the charge susceptibility in the random phase approximation and study them numerically. The charge ordering tendency is not found and instead we find two plasmon modes, w_{+} and w_{-} modes. Our second major point is to elucidate their spectral weight distribution and the effect of electron tunneling between the layers. The spectral weight of the w_{+-} modes does not have 2pi periodicity along the q_{z}c direction. The w_{+} mode loses spectral weight at inplane momentum q_{||}=(0,0) at q_{z}c=2n pi with n being integer whereas the w_{-} mode has no spectral weight at q_{z}c=0 for any q_{||} but acquires sizable spectral weight at q_{z}c=2n pi with n \\ne 0. Both w_{+-} modes are gapped at q_{||}=(0,0). When q_{z}c is away from 2n pi, the w_{+-} modes show striking behavior. When the intrabilayer hopping t_z is relatively small (large), the w_{-} (w_{+}) mode becomes gapless at q_{||}=(0,0) whereas the w_{+} (w_{-}) mode retains the gap. However, when the interbilayer hopping integral t_{z}' is taken into account, the gapless mode acquires a gap at q_{||}=(0,0) and both w_{+-} modes are gapped at any q_{z}c. To highlight the special feature of the LRC, we also clarify a difference to the case of a short-range interaction. While the strong electron correlation effects are not included, the present theory captures available data of the charge excitations observed by resonant inelastic x-ray scattering for Y-based cuprate superconductors.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-02-22"
+  ],
+  "publication_venue": "Phys. Rev. B 111, 085138 (2025)",
+  "pdf_url": null,
+  "category": "cond-mat.str-el, cond-mat.supr-con"
+}

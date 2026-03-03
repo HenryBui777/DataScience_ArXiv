@@ -1,0 +1,21 @@
+{
+  "title": "Deep Learning-Based Prediction of PET Amyloid Status Using Multi-Contrast MRI",
+  "authors": [
+    "Donghoon Kim",
+    "Jon Andre Ottesen",
+    "Ashwin Kumar",
+    "Brandon C. Ho",
+    "Elsa Bismuth",
+    "Christina B. Young",
+    "Elizabeth Mormino",
+    "Greg Zaharchuk"
+  ],
+  "summary": "Identifying amyloid-beta positive patients is crucial for determining eligibility for Alzheimer's disease (AD) clinical trials and new disease-modifying treatments, but currently requires PET or CSF sampling. Previous MRI-based deep learning models for predicting amyloid positivity, using only T1w sequences, have shown moderate performance. We trained deep learning models to predict amyloid PET positivity and evaluated whether multi-contrast inputs improve performance. A total of 4,058 exams with multi-contrast MRI and PET-based quantitative amyloid deposition were obtained from three public datasets: the Alzheimer's Disease Neuroimaging Initiative (ADNI), the Open Access Series of Imaging Studies 3 (OASIS3), and the Anti-Amyloid Treatment in Asymptomatic Alzheimer's Disease (A4). Two separate EfficientNet models were trained for amyloid positivity prediction: one with only T1w images and the other with both T1w and T2-FLAIR images as network inputs. The area under the curve (AUC), accuracy, sensitivity, and specificity were determined using an internal held-out test set. The trained models were further evaluated using an external test set. In the held-out test sets, the T1w and T1w+T2FLAIR models demonstrated AUCs of 0.62 (95% CI: 0.60, 0.64) and 0.67 (95% CI: 0.64, 0.70) (p = 0.006); accuracies were 61% (95% CI: 60%, 63%) and 64% (95% CI: 62%, 66%) (p = 0.008); sensitivities were 0.88 and 0.71; and specificities were 0.23 and 0.53, respectively. The trained models showed similar performance in the external test set. Performance of the current model on both test sets exceeded that of the publicly available model. In conclusion, the use of multi-contrast MRI, specifically incorporating T2-FLAIR in addition to T1w images, significantly improved the predictive accuracy of PET-determined amyloid status from MRI scans using a deep learning approach.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-25"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV"
+}

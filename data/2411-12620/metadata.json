@@ -1,0 +1,17 @@
+{
+  "title": "Maps from Motion (MfM): Generating 2D Semantic Maps from Sparse Multi-view Images",
+  "authors": [
+    "Matteo Toso",
+    "Stefano Fiorini",
+    "Stuart James",
+    "Alessio Del Bue"
+  ],
+  "summary": "World-wide detailed 2D maps require enormous collective efforts. OpenStreetMap is the result of 11 million registered users manually annotating the GPS location of over 1.75 billion entries, including distinctive landmarks and common urban objects. At the same time, manual annotations can include errors and are slow to update, limiting the map's accuracy. Maps from Motion (MfM) is a step forward to automatize such time-consuming map making procedure by computing 2D maps of semantic objects directly from a collection of uncalibrated multi-view images. From each image, we extract a set of object detections, and estimate their spatial arrangement in a top-down local map centered in the reference frame of the camera that captured the image. Aligning these local maps is not a trivial problem, since they provide incomplete, noisy fragments of the scene, and matching detections across them is unreliable because of the presence of repeated pattern and the limited appearance variability of urban objects. We address this with a novel graph-based framework, that encodes the spatial and semantic distribution of the objects detected in each image, and learns how to combine them to predict the objects' poses in a global reference system, while taking into account all possible detection matches and preserving the topology observed in each image. Despite the complexity of the problem, our best model achieves global 2D registration with an average accuracy within 4 meters (i.e., below GPS accuracy) even on sparse sequences with strong viewpoint change, on which COLMAP has an 80% failure rate. We provide extensive evaluation on synthetic and real-world data, showing how the method obtains a solution even in scenarios where standard optimization techniques fail.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-22"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

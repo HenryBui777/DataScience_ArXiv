@@ -1,0 +1,17 @@
+{
+  "title": "VioPose: Violin Performance 4D Pose Estimation by Hierarchical Audiovisual Inference",
+  "authors": [
+    "Seong Jong Yoo",
+    "Snehesh Shrestha",
+    "Irina Muresanu",
+    "Cornelia Fermüller"
+  ],
+  "summary": "Musicians delicately control their bodies to generate music. Sometimes, their motions are too subtle to be captured by the human eye. To analyze how they move to produce the music, we need to estimate precise 4D human pose (3D pose over time). However, current state-of-the-art (SoTA) visual pose estimation algorithms struggle to produce accurate monocular 4D poses because of occlusions, partial views, and human-object interactions. They are limited by the viewing angle, pixel density, and sampling rate of the cameras and fail to estimate fast and subtle movements, such as in the musical effect of vibrato. We leverage the direct causal relationship between the music produced and the human motions creating them to address these challenges. We propose VioPose: a novel multimodal network that hierarchically estimates dynamics. High-level features are cascaded to low-level features and integrated into Bayesian updates. Our architecture is shown to produce accurate pose sequences, facilitating precise motion analysis, and outperforms SoTA. As part of this work, we collected the largest and the most diverse calibrated violin-playing dataset, including video, sound, and 3D motion capture poses. Code and dataset can be found in our project page \\url{https://sj-yoo.info/viopose/}.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-25"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

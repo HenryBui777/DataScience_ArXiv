@@ -1,0 +1,15 @@
+{
+  "title": "Disjoint pairs in set systems and combinatorics of low rank matrices",
+  "authors": [
+    "Zach Hunter",
+    "Aleksa Milojević",
+    "Benny Sudakov",
+    "István Tomon"
+  ],
+  "summary": "We study and solve several problems in two closely related settings: set families in $2^{[n]}$ with many disjoint pairs of sets and low rank matrices with many zero entries.\n  - More than 40 years ago, Daykin and Erdős asked for the maximum number of disjoint pairs of sets in a family $F\\subseteq 2^{[n]}$ of size $2^{(1/2+δ)n}$ and conjectured it contains at most $o(|F|^2)$ such pairs. This was proven by Alon and Frankl in 1985. In this paper we completely resolve this problem, proving an optimal dependence of the number of disjoint pairs on the size of family $F$. We also prove the natural variant of the Daykin-Erdős conjecture in which disjoint pairs are replaced by pairs with intersection $λ\\neq 0$.\n  - Motivated by a conjecture of Lovett related to the famous log-rank conjecture, Singer and Sudan asked to show that for two families $A, B \\subseteq 2^{[n]}$ with a positive constant fraction of set pairs $(a,b)\\in A\\times B$ being disjoint, there are $R\\subset A$ and $S\\subset B$ such that all set pairs $(r, s)\\in R\\times S$ are disjoint, and $|R|\\geq 2^{-O(\\sqrt{n})}|A|$ and $|S|\\geq 2^{-O(\\sqrt{n})}|B|$. We prove this conjecture in a strong quantitative form.\n  - We prove the following generalizations of the best known bounds for the log-rank conjecture. If $M$ is an $n\\times n$ non-negative integer matrix of rank $r$ in which the average of the entries is $\\varepsilon\\leq 1/2$, then $M$ contains an all-zero submatrix of size at least $2^{-O(\\sqrt{\\varepsilon r})}n$. Unlike the known bounds for the log-rank conjecture, this result is optimal. Moreover, using similar methods, we also prove that any $n\\times n$ matrix of rank $r$ with entries from $\\{0,\\dots,t\\}$ contains a constant submatrix of size at least $2^{-O(t\\sqrt{r})}n$.\n  Our proofs use probabilistic, entropy and discrepancy methods and explore connections to additive combinatorics and coding theory.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.CO"
+}

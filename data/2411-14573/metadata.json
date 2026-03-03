@@ -1,0 +1,18 @@
+{
+  "title": "Capacity-Achieving Entanglement Purification Protocol for Pauli Dephasing Channel",
+  "authors": [
+    "Ozlem Erkilic",
+    "Matthew S. Winnel",
+    "Aritra Das",
+    "Sebastian Kish",
+    "Ping Koy Lam",
+    "Jie Zhao",
+    "Syed M. Assad"
+  ],
+  "summary": "Quantum communication facilitates the secure transmission of information and the distribution of entanglement, but the rates at which these tasks can be achieved are fundamentally constrained by the capacities of quantum channels. Although quantum repeaters typically enhance these rates by mitigating losses and noise, a simple entanglement swapping protocol via a central node is not effective against the Pauli dephasing channel due to the additional degradation introduced by Bell-state measurements. This highlights the importance of purifying distributed Bell states before performing entanglement swapping. In this work, we introduce an entanglement purification protocol assisted by two-way classical communication that not only purifies the states but also achieves the channel capacities. Our protocol uses an iterative process involving CNOT gates and Hadamard basis measurements, progressively increasing the fidelity of Bell states with each iteration. This process ensures that the resulting Bell pairs are perfect in the limit of many recursive iterations, making them ideal for use in quantum repeaters and for correcting dephasing errors in quantum computers. The explicit circuit we propose is versatile and applicable to any number of Bell pairs, offering a practical solution for mitigating decoherence in quantum networks and distributed quantum computing.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, math-ph"
+}

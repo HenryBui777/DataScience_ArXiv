@@ -1,0 +1,23 @@
+{
+  "title": "Unconditionally stable symplectic integrators for the Navier-Stokes equations and other dissipative systems",
+  "authors": [
+    "Sutthikiat Sungkeetanon",
+    "Joseph S. Gaglione",
+    "Robert L. Chapman",
+    "Tyler M. Kelly",
+    "Howard A. Cushman",
+    "Blakeley H. Odom",
+    "Bryan MacGavin",
+    "Gafar A. Elamin",
+    "Nathan J. Washuta",
+    "Jonathan E. Crosmer",
+    "Adam C. DeVoria",
+    "John W. Sanders"
+  ],
+  "summary": "Symplectic integrators offer vastly superior performance over traditional numerical techniques for conservative dynamical systems, but their application to \\emph{dissipative} systems is inherently difficult due to dissipative systems' lack of symplectic structure. Leveraging the intrinsic variational structure of higher-order dynamics, this paper presents a general technique for applying existing symplectic integration schemes to dissipative systems, with particular emphasis on viscous fluids modeled by the Navier-Stokes equations. Two very simple such schemes are developed here. Not only are these schemes unconditionally stable for dissipative systems, they also outperform traditional methods with a similar degree of complexity in terms of accuracy for a given time step. For example, in the case of viscous flow between two infinite, flat plates, one of the schemes developed here is found to outperform both the implicit Euler method and the explicit fourth-order Runge-Kutta method in predicting the velocity profile. To the authors' knowledge, this is the very first time that a symplectic integration scheme has been applied successfully to the Navier-Stokes equations. We interpret the present success as direct empirical validation of the canonical Hamiltonian formulation of the Navier-Stokes problem recently published by Sanders~\\emph{et al.} More sophisticated symplectic integration schemes are expected to exhibit even greater performance. It is hoped that these results will lead to improved numerical methods in computational fluid dynamics.",
+  "submission_date": "2024-11-12",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA, math.DS, physics.flu-dyn"
+}

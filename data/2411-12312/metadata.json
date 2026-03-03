@@ -1,0 +1,14 @@
+{
+  "title": "Age of Information Minimization in UAV-Assisted Covert Communication: Trajectory and Beamforming Design",
+  "authors": [
+    "Shima Salar Hosseini",
+    "Paeiz Azmi",
+    "Ali Nazari"
+  ],
+  "summary": "Unmanned aerial vehicles (UAVs) have the potential for time-sensitive applications. Due to wireless channel variation, received data may have an expiration time, particularly in critical situations such as rescue operations, natural disasters, or the military. Age of Information (AoI) is a metric that measures the freshness of received packets to specify the validity period of information. In addition, it is necessary to guarantee the privacy of confidential information transmission through air-to-ground links against eavesdroppers. This paper investigates UAV-assisted covert communication to minimize AoI in the presence of an aerial eavesdropper for the first time. However, to ensure the eavesdropper's error detection rate, UAV-enabled beamforming employs the power-domain non-orthogonal multiple access (PD-NOMA) technique to cover the covert user by a public user. PD-NOMA technique significantly improves the user's AoI, too. The joint optimization problem contains non-convex constraints and coupled optimization variables, including UAV trajectory, beamforming design, and the user's AoI which is challenging to derive a direct solution. We have developed an efficient alternating optimization technique to address the formulated optimization problem. Numerical results demonstrate the impact of the main parameters on the performance of the proposed communication system.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY, cs.IT"
+}

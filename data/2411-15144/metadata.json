@@ -1,0 +1,21 @@
+{
+  "title": "Physically Parameterized Differentiable MUSIC for DoA Estimation with Uncalibrated Arrays",
+  "authors": [
+    "Baptiste Chatelier",
+    "José Miguel Mateos-Ramos",
+    "Vincent Corlay",
+    "Christian Häger",
+    "Matthieu Crussière",
+    "Henk Wymeersch",
+    "Luc Le Magoarou"
+  ],
+  "summary": "Direction of arrival (DoA) estimation is a common sensing problem in radar, sonar, audio, and wireless communication systems. It has gained renewed importance with the advent of the integrated sensing and communication paradigm. To fully exploit the potential of such sensing systems, it is crucial to take into account potential hardware impairments that can negatively impact the obtained performance. This study introduces a joint DoA estimation and hardware impairment learning scheme following a model-based approach. Specifically, a differentiable version of the multiple signal classification (MUSIC) algorithm is derived, allowing efficient learning of the considered impairments. The proposed approach supports both supervised and unsupervised learning strategies, showcasing its practical potential. Simulation results indicate that the proposed method successfully learns significant inaccuracies in both antenna locations and complex gains. Additionally, the proposed method outperforms the classical MUSIC algorithm in the DoA estimation task.",
+  "submission_date": "2024-11-06",
+  "revised_dates": [
+    "2024-11-26",
+    "2025-03-20"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP, cs.AI, cs.IT, cs.LG"
+}

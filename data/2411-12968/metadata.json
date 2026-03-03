@@ -1,0 +1,19 @@
+{
+  "title": "Quadratic Programming Optimization for Bio-Inspired Thruster-Assisted Bipedal Locomotion on Inclined Slopes",
+  "authors": [
+    "Shreyansh Pitroda",
+    "Eric Sihite",
+    "Kaushik Venkatesh Krishnamurthy",
+    "Chenghao Wang",
+    "Adarsh Salagame",
+    "Reza Nemovi",
+    "Alireza Ramezani",
+    "Morteza Gharib"
+  ],
+  "summary": "Our work aims to make significant strides in understanding unexplored locomotion control paradigms based on the integration of posture manipulation and thrust vectoring. These techniques are commonly seen in nature, such as Chukar birds using their wings to run on a nearly vertical wall. In this work, we show quadratic programming with contact constraints which is then given to the whole body controller to map on robot states to produce a thruster-assisted slope walking controller for our state-of-the-art Harpy platform. Harpy is a bipedal robot capable of legged-aerial locomotion using its legs and thrusters attached to its main frame. The optimization-based walking controller has been used for dynamic locomotion such as slope walking, but the addition of thrusters to perform inclined slope walking has not been extensively explored. In this work, we derive a thruster-assisted bipedal walking with the quadratic programming (QP) controller and implement it in simulation to study its performance.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

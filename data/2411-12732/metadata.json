@@ -1,0 +1,14 @@
+{
+  "title": "Benchmarking Positional Encodings for GNNs and Graph Transformers",
+  "authors": [
+    "Florian Grötschla",
+    "Jiaqing Xie",
+    "Roger Wattenhofer"
+  ],
+  "summary": "Recent advances in Graph Neural Networks (GNNs) and Graph Transformers (GTs) have been driven by innovations in architectures and Positional Encodings (PEs), which are critical for augmenting node features and capturing graph topology. PEs are essential for GTs, where topological information would otherwise be lost without message-passing. However, PEs are often tested alongside novel architectures, making it difficult to isolate their effect on established models. To address this, we present a comprehensive benchmark of PEs in a unified framework that includes both message-passing GNNs and GTs. We also establish theoretical connections between MPNNs and GTs and introduce a sparsified GRIT attention mechanism to examine the influence of global connectivity. Our findings demonstrate that previously untested combinations of GNN architectures and PEs can outperform existing methods and offer a more comprehensive picture of the state-of-the-art. To support future research and experimentation in our framework, we make the code publicly available.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI"
+}

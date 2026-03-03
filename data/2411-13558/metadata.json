@@ -1,0 +1,16 @@
+{
+  "title": "Finding the nonnegative minimal solutions of Cauchy PDEs in a volatility-stabilized market",
+  "authors": [
+    "Nicole Tianjiao Yang",
+    "Tomoyuki Ichiba"
+  ],
+  "summary": "The strong relative arbitrage problem in Stochastic Portfolio Theory seeks an investment strategy that almost surely outperforms a benchmark portfolio at the end of a given time horizon. The highest relative return in relative arbitrage opportunities is characterized by the smallest nonnegative continuous solution of a Cauchy problem for a partial differential equation (PDE). However, solving this type of PDE poses analytical and numerical challenges, due to the high dimensionality and its non-unique solutions. In this paper, we discuss numerical methods to address the relative arbitrage problem and the associated PDE in a volatility-stabilized market, using time-changed Bessel bridges. We present a practical algorithm and demonstrate numerical results through an example in volatility-stabilized markets.",
+  "submission_date": "2024-11-06",
+  "revised_dates": [
+    "2024-12-04",
+    "2025-05-31"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-fin.CP, math.PR, q-fin.MF"
+}

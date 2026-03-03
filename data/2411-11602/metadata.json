@@ -1,0 +1,16 @@
+{
+  "title": "Discrete vs. continuous dynamics in biology: When do they align and when do they diverge?",
+  "authors": [
+    "Shuyun Jiao",
+    "David Waxman"
+  ],
+  "summary": "Many biological systems are governed by difference equations and exhibit discrete-time dynamics. Examples include the size of a population when generations are non-overlapping, and the incidence of a disease when infections are recorded at fixed intervals. For discrete-time systems lacking exact solutions, continuous-time approximations are frequently employed when small changes occur between discrete time steps.\n  Here, we present an approach motivated by exactly soluble discrete time problems. We show that such systems have continuous-time descriptions (governed by differential equations) whose solutions precisely agree, at the discrete times, with the discrete time solutions, irrespective of the size of changes that occur.\n  For discrete-time systems lacking exact solutions, we develop approximate continuous-time models that can, to high accuracy, capture rapid growth and decay. Our approach employs mappings between difference and differential equations, generating functional solutions that exactly or closely preserve the original discrete time behaviour. It uncovers fundamental structural parallels and also distinctions between the difference equation and the `equivalent' differential equation. The findings we present cover both time-homogeneous and time-inhomogeneous systems.\n  For completeness, we also consider discrete-time systems with the most rapid oscillatory behaviour possible, namely a sign change each time step. We show, for exactly soluble cases, that such systems also have a continuous-time description, but that this comes at the expense of generally complex-valued solutions.\n  This work has applications in, for example, population genetics, ecology and epidemic modelling. By bridging discrete and continuous representations of a system, it enhances insights/analysis of different types of dynamics.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-02-22",
+    "2025-09-24"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-bio.PE, nlin.SI, q-bio.QM"
+}

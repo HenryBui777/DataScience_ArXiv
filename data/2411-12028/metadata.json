@@ -1,0 +1,21 @@
+{
+  "title": "In-Situ Melt Pool Characterization via Thermal Imaging for Defect Detection in Directed Energy Deposition Using Vision Transformers",
+  "authors": [
+    "Israt Zarin Era",
+    "Fan Zhou",
+    "Ahmed Shoyeb Raihan",
+    "Imtiaz Ahmed",
+    "Alan Abul-Haj",
+    "James Craig",
+    "Srinjoy Das",
+    "Zhichao Liu"
+  ],
+  "summary": "Directed Energy Deposition (DED) offers significant potential for manufacturing complex and multi-material parts. However, internal defects such as porosity and cracks can compromise mechanical properties and overall performance. This study focuses on in-situ monitoring and characterization of melt pools associated with porosity, aiming to improve defect detection and quality control in DED-printed parts. Traditional machine learning approaches for defect identification rely on extensive labeled datasets, often scarce and expensive to generate in real-world manufacturing. To address this, our framework employs self-supervised learning on unlabeled melt pool data using a Vision Transformer-based Masked Autoencoder (MAE) to produce highly representative embeddings. These fine-tuned embeddings are leveraged via transfer learning to train classifiers on a limited labeled dataset, enabling the effective identification of melt pool anomalies. We evaluate two classifiers: (1) a Vision Transformer (ViT) classifier utilizing the fine-tuned MAE Encoder's parameters and (2) the fine-tuned MAE Encoder combined with an MLP classifier head. Our framework achieves overall accuracy ranging from 95.44% to 99.17% and an average F1 score exceeding 80%, with the ViT Classifier slightly outperforming the MAE Encoder Classifier. This demonstrates the scalability and cost-effectiveness of our approach for automated quality control in DED, effectively detecting defects with minimal labeled data.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-02-11"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

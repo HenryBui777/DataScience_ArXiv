@@ -1,0 +1,12 @@
+{
+  "title": "Asymmetry of the tidal tails of open star clusters in direct N-body integrations in Milgrom-law dynamics",
+  "authors": [
+    "J. Pflamm-Altenburg"
+  ],
+  "summary": "Numerical QUMOND-simulations of star clusters orbiting in a Galactic disk potential show that the leading tidal arm of open star clusters contains tendentially more members than the trailing arm. However, these type of simulations are performed by solving the field-equations of QUMOND and already become non-practical for star cluster masses at around 5000 Msun. Nearby star clusters have masses of 1000 Msun or ~1000 particles and less/fewer and can currently not be simulated reliably in field-theoretical formulations of MOND. In order to handle particle numbers below the QUMOND-limit the star cluster is simulated in Milgrom-law dynamics (MLD): Milgrom's law is postulated to be valid for discrete systems in vectorial form. In order to suppress the Newtonisation of compact subsystems in the star cluster the gravitational force is softened below particle distances of 0.001 pc ~206 AU. Thus, MLD can only be considered as an approximation of a full MOND-theoretical description of discrete systems which are internally in the MOND regime. The MLD equations of motion are integrated by the standard Hermite scheme generally applied to Newtonian N-body systems, which is extended to solve for the accelerations and jerks associated with Milgrom's law. It is found that the tidal tails of a low-mass star cluster are populated asymmetrically in the MLD-treatment, very similar to the QUMOND simulations of the higher-mass star clusters. In the MLD-simulations the leading tail hosts up to twice as many members than the trailing arm and the low-mass open star cluster dissolves approximately 25% faster than in the respective Newtonian case.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "A&A 693, A127 (2025)",
+  "pdf_url": null,
+  "category": "astro-ph.GA"
+}

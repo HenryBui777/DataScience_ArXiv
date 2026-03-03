@@ -1,0 +1,13 @@
+{
+  "title": "GNNAS-Dock: Budget Aware Algorithm Selection with Graph Neural Networks for Molecular Docking",
+  "authors": [
+    "Yiliang Yuan",
+    "Mustafa Misir"
+  ],
+  "summary": "Molecular docking is a major element in drug discovery and design. It enables the prediction of ligand-protein interactions by simulating the binding of small molecules to proteins. Despite the availability of numerous docking algorithms, there is no single algorithm consistently outperforms the others across a diverse set of docking scenarios. This paper introduces GNNAS-Dock, a novel Graph Neural Network (GNN)-based automated algorithm selection system for molecular docking in blind docking situations. GNNs are accommodated to process the complex structural data of both ligands and proteins. They benefit from the inherent graph-like properties to predict the performance of various docking algorithms under different conditions. The present study pursues two main objectives: 1) predict the performance of each candidate docking algorithm, in terms of Root Mean Square Deviation (RMSD), thereby identifying the most accurate method for specific scenarios; and 2) choose the best computationally efficient docking algorithm for each docking case, aiming to reduce the time required for docking while maintaining high accuracy. We validate our approach on PDBBind 2020 refined set, which contains about 5,300 pairs of protein-ligand complexes.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-bio.BM, cs.LG"
+}

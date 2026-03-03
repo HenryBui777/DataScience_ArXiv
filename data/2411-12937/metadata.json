@@ -1,0 +1,14 @@
+{
+  "title": "Demonstration of OpenMC as a framework for atomic transport and plasma interaction",
+  "authors": [
+    "George J. Wilkie",
+    "Paul K. Romano",
+    "R. Michael Churchill"
+  ],
+  "summary": "Modern tooling is demanded for predicting the transport and reaction characteristics of atoms and molecules, especially in the context of magnetic confinement fusion. DEGAS2, among the most common and capable tools currently in use, shares many fundamental similarities with the OpenMC framework, which was primarily developed for neutron and photon transport. In this work, we demonstrate that OpenMC is suitable for atomic transport calculations. The relative error between the models is small, and the performance of OpenMC is at least comparable to DEGAS2. This is the case even without taking advantage of heterogeneous computing architecture, which is only one of the several remarkable new capabilities that this demonstration heralds.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.plasm-ph, physics.comp-ph"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "AmpliNetECG12: A lightweight SoftMax-based relativistic amplitude amplification architecture for 12 lead ECG classification",
+  "authors": [
+    "Shreya Srivastava"
+  ],
+  "summary": "The urgent need to promptly detect cardiac disorders from 12-lead Electrocardiograms using limited computations is motivated by the heart's fast and complex electrical activity and restricted computational power of portable devices. Timely and precise diagnoses are crucial since delays might significantly impact patient health outcomes. This research presents a novel deep-learning architecture that aims to diagnose heart abnormalities quickly and accurately. We devised a new activation function called aSoftMax, designed to improve the visibility of ECG deflections. The proposed activation function is used with Convolutional Neural Network architecture to includes kernel weight sharing across the ECG's various leads. This innovative method thoroughly generalizes the global 12-lead ECG features and minimizes the model's complexity by decreasing the trainable parameters. aSoftMax, combined with enhanced CNN architecture yielded AmpliNetECG12, we obtain exceptional accuracy of 84% in diagnosing cardiac disorders. AmpliNetECG12 shows outstanding prediction ability when used with the CPSC2018 dataset for arrhythmia classification. The model attains an F1-score of 80.71% and a ROC-AUC score of 96.00%, with 280,000 trainable parameters which signifies the lightweight yet efficient nature of AmpliNetECG12. The stochastic characteristics of aSoftMax, a fundamental element of AmpliNetECG12, improve prediction accuracy and also increasse the model's interpretability. This feature enhances comprehension of important ECG segments in different forms of arrhythmias, establishing a new standard of explainable architecture for cardiac disorder classification.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP, cs.AI, cs.LG"
+}

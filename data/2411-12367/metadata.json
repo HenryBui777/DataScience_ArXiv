@@ -1,0 +1,13 @@
+{
+  "title": "Left-truncated discrete lifespans: The AFiD enterprise panel",
+  "authors": [
+    "Eric Scholz",
+    "Rafael Weißbach"
+  ],
+  "summary": "Our model for the lifespan of an enterprise is the geometric distribution. We do not formulate a model for enterprise foundation, but assume that foundations and lifespans are independent. We aim to fit the model to information about foundation and closure of German enterprises in the AFiD panel. The lifespan for an enterprise that has been founded before the first wave of the panel is either left truncated, when the enterprise is contained in the panel, or missing, when it already closed down before the first wave. Marginalizing the likelihood to that part of the enterprise history after the first wave contributes to the aim of a closed-form estimate and standard error. Invariance under the foundation distribution is achived by conditioning on observability of the enterprises. The conditional marginal likelihood can be written as a function of a martingale. The later arises when calculating the compensator, with respect some filtration, of a process that counts the closures. The estimator itself can then also be written as a martingale transform and consistency as well as asymptotic normality are easily proven. The life expectancy of German enterprises, estimated from the demographic information about 1.4 million enterprises for the years 2018 and 2019, are ten years. The width of the confidence interval are two months. Closure after the last wave is taken into account as right censored.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME, stat.AP"
+}

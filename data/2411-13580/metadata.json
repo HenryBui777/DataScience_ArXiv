@@ -1,0 +1,16 @@
+{
+  "title": "A Multi-Server Information-Sharing Environment for Cross-Party Collaboration on A Private Cloud",
+  "authors": [
+    "Jianping Zhang",
+    "Qiang Liu",
+    "Zhenzhong Hu",
+    "Jiarui Lin",
+    "Fangqiang Yu"
+  ],
+  "summary": "Interoperability remains the key problem in multi-discipline collaboration based on building information modeling (BIM). Although various methods have been proposed to solve the technical issues of interoperability, such as data sharing and data consistency; organizational issues, including data ownership and data privacy, remain unresolved to date. These organizational issues prevent different stakeholders from sharing their data due to concerns regarding losing control of the data. This study proposes a multi-server information-sharing approach on a private cloud after analyzing the requirements for cross-party collaboration to address the aforementioned issues and prepare for massive data handling in the near future. This approach adopts a global controller to track the location, ownership and privacy of the data, which are stored in different servers that are controlled by different parties. Furthermore, data consistency conventions, parallel sub-model extraction, and sub-model integration with model verification are investigated in depth to support information sharing in a distributed environment and to maintain data consistency. Thus, with this approach, the ownership and privacy of the data can be controlled by its owner while still enabling certain required data to be shared with other parties. Application of the multi-server approach for information interoperability and cross-party collaboration is illustrated using a real construction project of an airport terminal. Validation shows that the proposed approach is feasible for maintaining the ownership and privacy of the data while supporting cross-party data sharing and collaboration at the same time, thus avoiding possible legal problems regarding data copyrights or other legal issues.",
+  "submission_date": "2024-11-15",
+  "revised_dates": [],
+  "publication_venue": "Automation in Construction,2017",
+  "pdf_url": null,
+  "category": "cs.CR, cs.DC"
+}

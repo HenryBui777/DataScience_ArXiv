@@ -1,0 +1,16 @@
+{
+  "title": "AsynEIO: Asynchronous Monocular Event-Inertial Odometry Using Gaussian Process Regression",
+  "authors": [
+    "Zhixiang Wang",
+    "Xudong Li",
+    "Yizhai Zhang",
+    "Fan Zhang",
+    "Panfeng"
+  ],
+  "summary": "Event cameras, when combined with inertial sensors, show significant potential for motion estimation in challenging scenarios, such as high-speed maneuvers and low-light environments. There are many methods for producing such estimations, but most boil down to a synchronous discrete-time fusion problem. However, the asynchronous nature of event cameras and their unique fusion mechanism with inertial sensors remain underexplored. In this paper, we introduce a monocular event-inertial odometry method called AsynEIO, designed to fuse asynchronous event and inertial data within a unified Gaussian Process (GP) regression framework. Our approach incorporates an event-driven frontend that tracks feature trajectories directly from raw event streams at a high temporal resolution. These tracked feature trajectories, along with various inertial factors, are integrated into the same GP regression framework to enable asynchronous fusion. With deriving analytical residual Jacobians and noise models, our method constructs a factor graph that is iteratively optimized and pruned using a sliding-window optimizer. Comparative assessments highlight the performance of different inertial fusion strategies, suggesting optimal choices for varying conditions. Experimental results on both public datasets and our own event-inertial sequences indicate that AsynEIO outperforms existing methods, especially in high-speed and low-illumination scenarios.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "IEEE Transactions on Robotics, 2025",
+  "pdf_url": null,
+  "category": "cs.RO, cs.CV"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "A canonical Ramsey theorem for even cycles in random graphs",
+  "authors": [
+    "José D. Alvarado",
+    "Y. Kohayakawa",
+    "Patrick Morris",
+    "Guilherme O. Mota"
+  ],
+  "summary": "The celebrated canonical Ramsey theorem of Erdős and Rado implies that for $2\\leq k\\in \\mathbb{N}$, any colouring of the edges of $K_n$ with $n$ sufficiently large gives a copy of $C_{2k}$ which has one of three canonical colour patterns: monochromatic, rainbow or lexicographic. In this paper we show that if $p=ω(n^{-1+1/(2k-1)}\\log n)$, then ${\\mathbf{G}}(n,p)$ will asymptotically almost surely also have the property that any colouring of its edges induces canonical copies of $C_{2k}$. This determines the threshold for the canonical Ramsey property with respect to even cycles, up to a $\\log$ factor.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.CO"
+}

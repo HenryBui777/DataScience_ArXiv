@@ -1,0 +1,16 @@
+{
+  "title": "Exact solution for a class of quantum models of interacting bosons",
+  "authors": [
+    "Valery Shchesnovich"
+  ],
+  "summary": "Quantum models of interacting bosons have a wide range of applications, including the propagation of optical modes in nonlinear media, such as the $k$-photon down-conversion. Many of these models are related to nonlinear deformations of finite group algebras and, in this sense, are exactly solvable. While advanced group-theoretic methods were developed to study the eigenvalue spectrum, in quantum optics, the primary focus is not on the spectrum of the Hamiltonian but rather on the evolution of an initial state -- such as the generation of optical signal modes by a strong pump mode propagating through a nonlinear medium. I propose a simple and general method to solve the state evolution problem, applicable to a broad class of quantum models of interacting bosons. For the k-photon down-conversion model and its generalizations, the solution to the state evolution problem is expressed as an infinite series expansion in powers of the propagation time, with coefficients determined by a recursion relation involving only a single polynomial function. This polynomial function is unique to each nonlinear model. As an application, I compare the exact solution of the parametric down-conversion process with the semiclassical parametric approximation.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-02-23",
+    "2025-03-11",
+    "2025-06-18"
+  ],
+  "publication_venue": "Journal of Physics A: Mathematical and Theoretical, 58, 115204 (2025)",
+  "pdf_url": null,
+  "category": "quant-ph, cond-mat.quant-gas, math-ph, nlin.SI"
+}

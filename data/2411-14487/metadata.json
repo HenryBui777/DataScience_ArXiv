@@ -1,0 +1,29 @@
+{
+  "title": "Ensuring Safety and Trust: Analyzing the Risks of Large Language Models in Medicine",
+  "authors": [
+    "Yifan Yang",
+    "Qiao Jin",
+    "Robert Leaman",
+    "Xiaoyu Liu",
+    "Guangzhi Xiong",
+    "Maame Sarfo-Gyamfi",
+    "Changlin Gong",
+    "Santiago Ferrière-Steinert",
+    "W. John Wilbur",
+    "Xiaojun Li",
+    "Jiaxin Yuan",
+    "Bang An",
+    "Kelvin S. Castro",
+    "Francisco Erramuspe Álvarez",
+    "Matías Stockle",
+    "Aidong Zhang",
+    "Furong Huang",
+    "Zhiyong Lu"
+  ],
+  "summary": "The remarkable capabilities of Large Language Models (LLMs) make them increasingly compelling for adoption in real-world healthcare applications. However, the risks associated with using LLMs in medical applications have not been systematically characterized. We propose using five key principles for safe and trustworthy medical AI: Truthfulness, Resilience, Fairness, Robustness, and Privacy, along with ten specific aspects. Under this comprehensive framework, we introduce a novel MedGuard benchmark with 1,000 expert-verified questions. Our evaluation of 11 commonly used LLMs shows that the current language models, regardless of their safety alignment mechanisms, generally perform poorly on most of our benchmarks, particularly when compared to the high performance of human physicians. Despite recent reports indicate that advanced LLMs like ChatGPT can match or even exceed human performance in various medical tasks, this study underscores a significant safety gap, highlighting the crucial need for human oversight and the implementation of AI safety guardrails.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.AI, cs.CY"
+}

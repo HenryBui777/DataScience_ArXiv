@@ -1,0 +1,18 @@
+{
+  "title": "Millimeter-Wave Superconducting Qubit",
+  "authors": [
+    "Alexander Anferov",
+    "Fanghui Wan",
+    "Shannon P. Harvey",
+    "Jonathan Simon",
+    "David I. Schuster"
+  ],
+  "summary": "Manipulating the electromagnetic spectrum at the single-photon level is fundamental for quantum experiments. In the visible and infrared range, this can be accomplished with atomic quantum emitters, and with superconducting qubits such control is extended to the microwave range (below 10 GHz). Meanwhile, the region between these two energy ranges presents an unexplored opportunity for innovation. We bridge this gap by scaling up a superconducting qubit to the millimeter-wave range (near 100 GHz). Working in this energy range greatly reduces sensitivity to thermal noise compared to microwave devices, enabling operation at significantly higher temperatures, up to 1 K. This has many advantages by removing the dependence on rare $^3$He for refrigeration, simplifying cryogenic systems, and providing orders of magnitude higher cooling power, lending the flexibility needed for novel quantum sensing and hybrid experiments. Using low-loss niobium trilayer junctions, we realize a qubit at 72 GHz cooled to 0.87 K using only $^4$He. We perform Rabi oscillations to establish control over the qubit state, and measure relaxation and dephasing times of 15.8 and 17.4 ns respectively. This demonstration of a millimeter-wave quantum emitter offers exciting prospects for enhanced sensitivity thresholds in high-frequency photon detection, provides new options for quantum transduction and for scaling up and speeding up quantum computing, enables integration of quantum systems where $^3$He refrigeration units are impractical, and importantly paves the way for quantum experiments exploring a novel energy range.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [
+    "2025-05-13"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

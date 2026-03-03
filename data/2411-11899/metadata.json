@@ -1,0 +1,15 @@
+{
+  "title": "Data-driven assessment for the predictability of On-Demand Responsive Transit",
+  "authors": [
+    "Pierfrancesco Leonardi",
+    "Vincenza Torrisi",
+    "Andrea Araldo",
+    "Matteo Ignaccolo"
+  ],
+  "summary": "By adapting bus routes to users' requests, Demand-Responsive Transit (DRT) can serve low-demand areas more efficiently than conventional fixed-line buses. However, a main barrier to its adoption of DRT is its unpredictability, i.e., it is not possible to know a-priori how much time a certain trip will take, especially when no large prebooking is imposed. To remove this barrier, we propose a data-driven method that, based on few previously observed trips, quantifies the level of predictability of a DRT service. We simulate different scenarios in VISUM in two Italian cities. We find that, above reasonable levels of flexibility, DRT is more predictable than one would expect, as it is possible to build a model that is able to provide a time indication with more than 90% reliability. We show how our method can support the operators in dimensioning of the service to ensure sufficient predictability.",
+  "submission_date": "2024-11-14",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.soc-ph, stat.AP"
+}

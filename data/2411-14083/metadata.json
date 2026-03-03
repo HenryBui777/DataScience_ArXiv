@@ -1,0 +1,13 @@
+{
+  "title": "Existence and Non-existence for Exchange-Driven Growth Model",
+  "authors": [
+    "Saroj Si",
+    "Ankik Kumar Giri"
+  ],
+  "summary": "The exchange-driven growth (EDG) model describes the evolution of clusters through the exchange of single monomers between pairs of interacting clusters. The dynamics of this process are primarily influenced by the interaction kernel $K_{j,k}$. In this paper, the global existence of classical solutions to the EDG equations is established for non-negative, symmetric interaction kernels satisfying $K_{j,k} \\leq C(j^μk^ν + j^νk^μ) $, where $μ, ν\\leq 2$, $μ+ ν\\leq 3$, and $C>0$, with a broader class of initial data. This result extends the previous existence results obtained by Esenturk [10], Schlichting [23], and Eichenberg \\& Schlichting [7].\n  Furthermore, the local existence of classical solutions to the EDG equations is demonstrated for symmetric interaction kernels that satisfy $K_{j,k} \\leq C j^{2} k^{2}$ with $C > 0$, considering a broader class of initial data. In the intermediate regime $3 < μ+ ν\\leq 4$, the occurrence of finite-time gelation is established for symmetric interaction kernels satisfying $C_{1}\\left(j^{2}k^α+j^αk^{2}\\right)\\leq K_{j,k}\\leq Cj^{2}k^{2}$, where $1 < α\\leq 2$, $C>0$, and $C_{1} > 0$, as conjectured in [10]. In this case, the non-existence of the global solutions is ensured by the occurrence of finite-time gelation. Finally, the occurrence of instantaneous gelation of the solutions to EDG equations for symmetric interaction kernels satisfying $K_{j,k}\\geq C\\left(j^β+k^β\\right)$ ($β>2, C>0)$ is shown, which also implies the non-existence of solutions in this case.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AP"
+}

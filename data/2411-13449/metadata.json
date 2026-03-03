@@ -1,0 +1,19 @@
+{
+  "title": "A Digital Twin for Telesurgery under Intermittent Communication",
+  "authors": [
+    "Junxiang Wang",
+    "Juan Antonio Barragan",
+    "Hisashi Ishida",
+    "Jingkai Guo",
+    "Yu-Chun Ku",
+    "Peter Kazanzides"
+  ],
+  "summary": "Telesurgery is an effective way to deliver service from expert surgeons to areas without immediate access to specialized resources. However, many of these areas, such as rural districts or battlefields, might be subject to different problems in communication, especially latency and intermittent periods of communication outage. This challenge motivates the use of a digital twin for the surgical system, where a simulation would mirror the robot hardware and surgical environment in the real world. The surgeon would then be able to interact with the digital twin during communication outage, followed by a recovery strategy on the real robot upon reestablishing communication. This paper builds the digital twin for the da Vinci surgical robot, with a buffering and replay strategy that reduces the mean task completion time by 23% when compared to the baseline, for a peg transfer task subject to intermittent communication outage. The relevant code can be found here: https://github.com/LCSR-CIIS/dvrk_digital_twin_teleoperation.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-04-01"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

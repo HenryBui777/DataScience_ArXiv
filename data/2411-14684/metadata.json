@@ -1,0 +1,22 @@
+{
+  "title": "Learning Modality-Aware Representations: Adaptive Group-wise Interaction Network for Multimodal MRI Synthesis",
+  "authors": [
+    "Tao Song",
+    "Yicheng Wu",
+    "Minhao Hu",
+    "Xiangde Luo",
+    "Linda Wei",
+    "Guotai Wang",
+    "Yi Guo",
+    "Feng Xu",
+    "Shaoting Zhang"
+  ],
+  "summary": "Multimodal MR image synthesis aims to generate missing modality images by effectively fusing and mapping from a subset of available MRI modalities. Most existing methods adopt an image-to-image translation paradigm, treating multiple modalities as input channels. However, these approaches often yield sub-optimal results due to the inherent difficulty in achieving precise feature- or semantic-level alignment across modalities. To address these challenges, we propose an Adaptive Group-wise Interaction Network (AGI-Net) that explicitly models both inter-modality and intra-modality relationships for multimodal MR image synthesis. Specifically, feature channels are first partitioned into predefined groups, after which an adaptive rolling mechanism is applied to conventional convolutional kernels to better capture feature and semantic correspondences between different modalities. In parallel, a cross-group attention module is introduced to enable effective feature fusion across groups, thereby enhancing the network's representational capacity. We validate the proposed AGI-Net on the publicly available IXI and BraTS2023 datasets. Experimental results demonstrate that AGI-Net achieves state-of-the-art performance in multimodal MR image synthesis tasks, confirming the effectiveness of its modality-aware interaction design. We release the relevant code at: https://github.com/zunzhumu/Adaptive-Group-wise-Interaction-Network-for-Multimodal-MRI-Synthesis.git.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-04-28"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.AI, cs.CV"
+}

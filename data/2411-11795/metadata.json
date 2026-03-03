@@ -1,0 +1,19 @@
+{
+  "title": "Exploring adversarial robustness of JPEG AI: methodology, comparison and new methods",
+  "authors": [
+    "Egor Kovalev",
+    "Georgii Bychkov",
+    "Khaled Abud",
+    "Aleksandr Gushchin",
+    "Anna Chistyakova",
+    "Sergey Lavrushkin",
+    "Dmitriy Vatolin",
+    "Anastasia Antsiferova"
+  ],
+  "summary": "Adversarial robustness of neural networks is an increasingly important area of research, combining studies on computer vision models, large language models (LLMs), and others. With the release of JPEG AI - the first standard for end-to-end neural image compression (NIC) methods - the question of its robustness has become critically significant. JPEG AI is among the first international, real-world applications of neural-network-based models to be embedded in consumer devices. However, research on NIC robustness has been limited to open-source codecs and a narrow range of attacks. This paper proposes a new methodology for measuring NIC robustness to adversarial attacks. We present the first large-scale evaluation of JPEG AI's robustness, comparing it with other NIC models. Our evaluation results and code are publicly available online (link is hidden for a blind review).",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.AI, cs.CV"
+}

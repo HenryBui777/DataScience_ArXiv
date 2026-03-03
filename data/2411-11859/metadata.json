@@ -1,0 +1,12 @@
+{
+  "title": "On sums of powers of natural numbers",
+  "authors": [
+    "Eteri Samsonadze"
+  ],
+  "summary": "The problem of finding the sum of a polynomial's values is considered. In particular, for any $n\\geq 3$, the explicit formula for the sum of the $n$th powers of natural numbers $S_n=\\sum_{x=1}^{m}x^{n}$ is proved: $$\\sum_{x=1}^{m}x^{n}=(-1)^{n}m(m+1)(-\\frac{1}{2}+\\sum_{i=2}^{n}a_i(m+2)(m+3)...(m+i)),$$ here $a_i=\\frac{1}{i+1}\\sum_{k=1}^{i}\\frac{(-1)^{k}k^{n}}{k!(i-k)!}$, $(i=2,3,...,n-1)$, $a_n=\\frac{(-1)^n}{n+1}$. Note that this formula does not contain Bernoulli numbers.",
+  "submission_date": "2024-11-02",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.GM"
+}

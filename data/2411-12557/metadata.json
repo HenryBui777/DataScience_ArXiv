@@ -1,0 +1,17 @@
+{
+  "title": "Power Efficient Cooperative Communication within IIoT Subnetworks: Relay or RIS?",
+  "authors": [
+    "Hamid Reza Hashempour",
+    "Gilberto Berardinelli",
+    "Ramoni Adeogun",
+    "Eduard A. Jorswieck"
+  ],
+  "summary": "The forthcoming sixth-generation (6G) industrial Internet-of-Things (IIoT) subnetworks are expected to support ultra-fast control communication cycles for numerous IoT devices. However, meeting the stringent requirements for low latency and high reliability poses significant challenges, particularly due to signal fading and physical obstructions. In this paper, we propose novel time division multiple access (TDMA) and frequency division multiple access (FDMA) communication protocols for cooperative transmission in IIoT subnetworks. These protocols leverage secondary access points (sAPs) as Decode-and-Forward (DF) and Amplify-and-Forward (AF) relays, enabling shorter cycle times while minimizing overall transmit power. A classification mechanism determines whether the highest-gain link for each IoT device is a single-hop or two-hop connection, and selects the corresponding sAP. We then formulate the problem of minimizing transmit power for DF/AF relaying while adhering to the delay and maximum power constraints. In the FDMA case, an additional constraint is introduced for bandwidth allocation to IoT devices during the first and second phases of cooperative transmission. To tackle the nonconvex problem, we employ the sequential parametric convex approximation (SPCA) method. We extend our analysis to a system model with reconfigurable intelligent surfaces (RISs), enabling transmission through direct and RIS-assisted channels, and optimizing for a multi-RIS scenario for comparative analysis. Simulation results show that our cooperative communication approach reduces the emitted power by up to 7.5 dB while maintaining an outage probability and a resource overflow rate below $10^{-6}$. While the RIS-based solution achieves greater power savings, the relay-based protocol outperforms RIS in terms of outage probability.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-12-24"
+  ],
+  "publication_venue": "IEEE Internet of Things Journal (2024)",
+  "pdf_url": null,
+  "category": "eess.SP"
+}

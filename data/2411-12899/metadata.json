@@ -1,0 +1,13 @@
+{
+  "title": "Adaptive Control Barrier Functions with Vanishing Conservativeness Under Persistency of Excitation",
+  "authors": [
+    "Ricardo Gutierrez",
+    "Jesse B. Hoagg"
+  ],
+  "summary": "This article presents a closed-form adaptive controlbarrier-function (CBF) approach for satisfying state constraints in systems with parametric uncertainty. This approach uses a sampled-data recursive-least-squares algorithm to estimate the unknown model parameters and construct a nonincreasing upper bound on the norm of the estimation error. Together, this estimate and upper bound are used to construct a CBF-based constraint that has nonincreasing conservativeness. Furthermore, if a persistency of excitation condition is satisfied, then the CBFbased constraint has vanishing conservativeness in the sense that the CBF-based constraint converges to the ideal constraint corresponding to the case where the uncertainty is known. In addition, the approach incorporates a monotonically improving estimate of the unknown model parameters thus, this estimate can be effectively incorporated into a desired control law. We demonstrate constraint satisfaction and performance using 2 two numerical examples, namely, a nonlinear pendulum and a nonholonomic robot.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

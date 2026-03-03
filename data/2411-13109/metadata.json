@@ -1,0 +1,14 @@
+{
+  "title": "Special Unitary Parameterized Estimators of Rotation",
+  "authors": [
+    "Akshay Chandrasekhar"
+  ],
+  "summary": "This paper explores rotation estimation from the perspective of special unitary matrices. First, multiple solutions to Wahba's problem are derived through special unitary matrices, providing linear constraints on quaternion rotation parameters. Next, from these constraints, closed-form solutions to the problem are presented for minimal cases. Finally, motivated by these results, we investigate new representations for learning rotations in neural networks. Numerous experiments validate the proposed methods.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-12-06"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

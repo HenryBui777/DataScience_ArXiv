@@ -1,0 +1,41 @@
+{
+  "title": "Window convolution of the galaxy clustering bispectrum",
+  "authors": [
+    "Mike Shengbo Wang",
+    "Florian Beutler",
+    "J. Aguilar",
+    "S. Ahlen",
+    "D. Bianchi",
+    "D. Brooks",
+    "T. Claybaugh",
+    "A. de la Macorra",
+    "P. Doel",
+    "A. Font-Ribera",
+    "E. Gaztañaga",
+    "G. Gutierrez",
+    "K. Honscheid",
+    "C. Howlett",
+    "D. Kirkby",
+    "A. Lambert",
+    "M. Landriau",
+    "R. Miquel",
+    "G. Niz",
+    "F. Prada",
+    "I. Pérez-Ràfols",
+    "G. Rossi",
+    "E. Sanchez",
+    "D. Schlegel",
+    "M. Schubnell",
+    "D. Sprayberry",
+    "G. Tarlé",
+    "B. A. Weaver"
+  ],
+  "summary": "In galaxy survey analysis, the observed clustering statistics do not directly match theoretical predictions but rather have been processed by a window function that arises from the survey geometry including the sky footprint, redshift-dependent background number density and systematic weights. While window convolution of the power spectrum is well studied, for the bispectrum with a larger number of degrees of freedom, it poses a significant numerical and computational challenge. In this work, we consider the effect of the survey window in the tripolar spherical harmonic decomposition of the bispectrum and lay down a formal procedure for their convolution via a series expansion of configuration-space three-point correlation functions, which was first proposed by Sugiyama et al. (2019). We then provide a linear algebra formulation of the full window convolution, where an unwindowed bispectrum model vector can be directly premultiplied by a window matrix specific to each survey geometry. To validate the pipeline, we focus on the Dark Energy Spectroscopic Instrument (DESI) Data Release 1 (DR1) luminous red galaxy (LRG) sample in the South Galactic Cap (SGC) in the redshift bin $0.4 \\leqslant z \\leqslant 0.6$. We first perform convergence checks on the measurement of the window function from discrete random catalogues, and then investigate the convergence of the window convolution series expansion truncated at a finite of number of terms as well as the performance of the window matrix. This work highlights the differences in window convolution between the power spectrum and bispectrum, and provides a streamlined pipeline for the latter for current surveys such as DESI and the Euclid mission.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-06-18"
+  ],
+  "publication_venue": "JCAP06(2025)031",
+  "pdf_url": null,
+  "category": "astro-ph.CO"
+}

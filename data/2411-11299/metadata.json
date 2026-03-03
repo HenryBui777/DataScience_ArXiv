@@ -1,0 +1,17 @@
+{
+  "title": "Receiver-device-independent quantum secure direct communication",
+  "authors": [
+    "Cheng Liu",
+    "Cheng Zhang",
+    "Shi-Pu Gu",
+    "Xing-Fu Wang",
+    "Lan Zhou",
+    "Yu-Bo Sheng"
+  ],
+  "summary": "Quantum secure direct communication (QSDC) enables the message sender to directly send secure messages to the receiver through the quantum channel without keys. Device-independent (DI) and measurement-device-independent (MDI) QSDC protocols can enhance QSDC's practical security in theory. DI QSDC requires extremely high global detection efficiency and has quite low secure communication distance. DI and MDI QSDC both require high-quality entanglement. Current entanglement sources prepare entangled photon pairs with low efficiency, largely reducing their practical communication efficiency. In the paper, we propose a single-photon-based receiver-device-independent (RDI) QSDC protocol. It only relies on the trusted single-photon source, which is nearly on-demand under current technology, and treats all the receiving devices in both communication parties as ``black-boxes''. The parties ensure the message security only from the observed statistics. We develop a numerical method to simulate its performance in practical noisy communication situation. RDI QSDC provides the same security level as MDI QSDC. Compared with DI and MDI QSDC, RDI QSDC has some advantages. First, it uses the single-photon source and single-photon measurement, which makes it obtain the practical communication efficiency about 3415 times of that in DI QSDC and easy to implement. The whole protocol is feasible with current technology. Second, it has higher photon loss robustness and noise tolerance than DI QSDC, which enables it to have a secure communication distance about 26 times of that in DI QSDC. Based on above features, the RDI QSDC protocol makes it possible to achieve highly-secure and high-efficient QSDC in the near future.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

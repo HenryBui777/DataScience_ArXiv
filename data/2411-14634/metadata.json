@@ -1,0 +1,13 @@
+{
+  "title": "Combining the theorems of Turán and de Bruijn-Erd\\H os",
+  "authors": [
+    "Sayok Chakravarty",
+    "Dhruv Mubayi"
+  ],
+  "summary": "Fix an integer $s \\ge 2$. Let $\\mathcal{P}$ be a set of $n$ points and let $\\mathcal{L}$ be a set of lines in a linear space such that no line in $\\mathcal{L}$ contains more than $(n-1)/(s-1)$ points of $\\mathcal{P}$. Suppose that for every $s$-set $S$ in $\\mathcal{P}$, there is a pair of points in $S$ that lies in a line from $\\mathcal{L}$. We prove that $|\\mathcal{L}| \\ge (n-1)/(s-1)+s-1$ for $n$ large, and this is sharp when $n-1$ is a multiple of $s-1$. This generalizes the de Bruijn-Erd\\H os theorem which is the case $s=2$. Our result is proved in the more general setting of linear hypergraphs.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.CO"
+}

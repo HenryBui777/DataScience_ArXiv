@@ -1,0 +1,17 @@
+{
+  "title": "Dynamic Structural Clustering Unleashed: Flexible Similarities, Versatile Updates and for All Parameters",
+  "authors": [
+    "Zhuowei Zhao",
+    "Junhao Gan",
+    "Boyu Ruan",
+    "Zhifeng Bao",
+    "Jianzhong Qi",
+    "Sibo Wang"
+  ],
+  "summary": "We study structural clustering on graphs in dynamic scenarios, where the graphs can be updated by arbitrary insertions or deletions of edges/vertices. The goal is to efficiently compute structural clustering results for any clustering parameters $ε$ and $μ$ given on the fly, for arbitrary graph update patterns, and for all typical similarity measurements. Specifically, we adopt the idea of update affordability and propose an a-lot-simpler yet more efficient (both theoretically and practically) algorithm (than state of the art), named VD-STAR to handle graph updates. First, with a theoretical clustering result quality guarantee, VD-STAR can output high-quality clustering results with up to 99.9% accuracy. Second, our VD-STAR is easy to implement as it just needs to maintain certain sorted linked lists and hash tables, and hence, effectively enhances its deployment in practice. Third and most importantly, by careful analysis, VD-STAR improves the per-update time bound of the state-of-the-art from $O(\\log^2 n)$ expected with certain update pattern assumption to $O(\\log n)$ amortized in expectation without any update pattern assumption. We further design two variants of VD-STAR to enhance its empirical performance. Experimental results show that our algorithms consistently outperform the state-of-the-art competitors by up to 9,315 times in update time across nine real datasets.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DS"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Designing Robust Quantum Neural Networks via Optimized Circuit Metrics",
+  "authors": [
+    "Walid El Maouaki",
+    "Alberto Marchisio",
+    "Taoufik Said",
+    "Muhammad Shafique",
+    "Mohamed Bennai"
+  ],
+  "summary": "In this study, we investigated the robustness of Quanvolutional Neural Networks (QuNNs) in comparison to their classical counterparts, Convolutional Neural Networks (CNNs), against two adversarial attacks: Fast Gradient Sign Method (FGSM) and Projected Gradient Descent (PGD), for the image classification task on both Modified National Institute of Standards and Technology (MNIST) and Fashion-MNIST (FMNIST) datasets. To enhance the robustness of QuNNs, we developed a novel methodology that utilizes three quantum circuit metrics: expressibility, entanglement capability, and controlled rotation gate selection. Our analysis shows that these metrics significantly influence data representation within the Hilbert space, thereby directly affecting QuNN robustness. We rigorously established that circuits with higher expressibility and lower entanglement capability generally exhibit enhanced robustness under adversarial conditions, particularly at low-spectrum perturbation strengths where most attacks occur. Furthermore, our findings challenge the prevailing assumption that expressibility alone dictates circuit robustness; instead, we demonstrate that the inclusion of controlled rotation gates around the Z-axis generally enhances the resilience of QuNNs. Our results demonstrate that QuNNs exhibit up to 60% greater robustness on the MNIST dataset and 40% on the Fashion-MNIST dataset compared to CNNs. Collectively, our work elucidates the relationship between quantum circuit metrics and robust data feature extraction, advancing the field by improving the adversarial robustness of QuNNs.",
+  "submission_date": "2024-11-03",
+  "revised_dates": [
+    "2025-03-21"
+  ],
+  "publication_venue": "Adv Quantum Technol. 2025, 2400601",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

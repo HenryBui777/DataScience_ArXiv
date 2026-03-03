@@ -1,0 +1,21 @@
+{
+  "title": "Machine Learning Evaluation Metric Discrepancies across Programming Languages and Their Components: Need for Standardization",
+  "authors": [
+    "Mohammad R. Salmanpour",
+    "Morteza Alizadeh",
+    "Ghazal Mousavi",
+    "Saba Sadeghi",
+    "Sajad Amiri",
+    "Mehrdad Oveisi",
+    "Arman Rahmim",
+    "Ilker Hacihaliloglu"
+  ],
+  "summary": "This study evaluates metrics for tasks such as classification, regression, clustering, correlation analysis, statistical tests, segmentation, and image-to-image (I2I) translation. Metrics were compared across Python libraries, R packages, and Matlab functions to assess their consistency and highlight discrepancies. The findings underscore the need for a unified roadmap to standardize metrics, ensuring reliable and reproducible ML evaluations across platforms. This study examined a wide range of evaluation metrics across various tasks and found only some to be consistent across platforms, such as (i) Accuracy, Balanced Accuracy, Cohens Kappa, F-beta Score, MCC, Geometric Mean, AUC, and Log Loss in binary classification; (ii) Accuracy, Cohens Kappa, and F-beta Score in multi-class classification; (iii) MAE, MSE, RMSE, MAPE, Explained Variance, Median AE, MSLE, and Huber in regression; (iv) Davies-Bouldin Index and Calinski-Harabasz Index in clustering; (v) Pearson, Spearman, Kendall's Tau, Mutual Information, Distance Correlation, Percbend, Shepherd, and Partial Correlation in correlation analysis; (vi) Paired t-test, Chi-Square Test, ANOVA, Kruskal-Wallis Test, Shapiro-Wilk Test, Welchs t-test, and Bartlett's test in statistical tests; (vii) Accuracy, Precision, and Recall in 2D segmentation; (viii) Accuracy in 3D segmentation; (ix) MAE, MSE, RMSE, and R-Squared in 2D-I2I translation; and (x) MAE, MSE, and RMSE in 3D-I2I translation. Given observation of discrepancies in a number of metrics (e.g. precision, recall and F1 score in binary classification, WCSS in clustering, multiple statistical tests, and IoU in segmentation, amongst multiple metrics), this study concludes that ML evaluation metrics require standardization and recommends that future research use consistent metrics for different tasks to effectively compare ML techniques and solutions.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-03-08"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.SE, physics.comp-ph"
+}

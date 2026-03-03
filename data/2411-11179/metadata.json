@@ -1,0 +1,12 @@
+{
+  "title": "Enhanced Anime Image Generation Using USE-CMHSA-GAN",
+  "authors": [
+    "J. Lu"
+  ],
+  "summary": "With the growing popularity of ACG (Anime, Comics, and Games) culture, generating high-quality anime character images has become an important research topic. This paper introduces a novel Generative Adversarial Network model, USE-CMHSA-GAN, designed to produce high-quality anime character images. The model builds upon the traditional DCGAN framework, incorporating USE and CMHSA modules to enhance feature extraction capabilities for anime character images. Experiments were conducted on the anime-face-dataset, and the results demonstrate that USE-CMHSA-GAN outperforms other benchmark models, including DCGAN, VAE-GAN, and WGAN, in terms of FID and IS scores, indicating superior image quality. These findings suggest that USE-CMHSA-GAN is highly effective for anime character image generation and provides new insights for further improving the quality of generative models.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI"
+}

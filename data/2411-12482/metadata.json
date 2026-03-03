@@ -1,0 +1,20 @@
+{
+  "title": "Stabilizer Tensor Networks with Magic State Injection",
+  "authors": [
+    "Azar C. Nakhl",
+    "Ben Harper",
+    "Maxwell West",
+    "Neil Dowling",
+    "Martin Sevior",
+    "Thomas Quella",
+    "Muhammad Usman"
+  ],
+  "summary": "This work augments the recently introduced Stabilizer Tensor Network (STN) protocol with magic state injection, reporting a new framework with significantly enhanced ability to simulate circuits with an extensive number of non-Clifford operations. Specifically, for random $T$-doped $N$-qubit Clifford circuits the computational cost of circuits prepared with magic state injection scales as $\\mathcal{O}(\\text{poly}(N))$ when the circuit has $t \\lesssim N$ $T$-gates compared to an exponential scaling for the STN approach, which is demonstrated in systems of up to $200$ qubits. In the case of the Hidden Bit Shift circuit, a paradigmatic benchmarking system for extended stabilizer methods with a tunable amount of magic, we report that our magic state injected STN framework can efficiently simulate $4000$ qubits and $320$ $T$-gates. These findings provide a promising outlook for the use of this protocol in the classical modelling of quantum circuits that are conventionally difficult to simulate efficiently.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-04-15"
+  ],
+  "publication_venue": "Phys. Rev. Lett. 134, 190602 (2025)",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

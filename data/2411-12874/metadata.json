@@ -1,0 +1,14 @@
+{
+  "title": "Residual Vision Transformer (ResViT) Based Self-Supervised Learning Model for Brain Tumor Classification",
+  "authors": [
+    "Meryem Altin Karagoz",
+    "O. Ufuk Nalbantoglu",
+    "Geoffrey C. Fox"
+  ],
+  "summary": "Deep learning has proven very promising for interpreting MRI in brain tumor diagnosis. However, deep learning models suffer from a scarcity of brain MRI datasets for effective training. Self-supervised learning (SSL) models provide data-efficient and remarkable solutions to limited dataset problems. Therefore, this paper introduces a generative SSL model for brain tumor classification in two stages. The first stage is designed to pre-train a Residual Vision Transformer (ResViT) model for MRI synthesis as a pretext task. The second stage includes fine-tuning a ResViT-based classifier model as a downstream task. Accordingly, we aim to leverage local features via CNN and global features via ViT, employing a hybrid CNN-transformer architecture for ResViT in pretext and downstream tasks. Moreover, synthetic MRI images are utilized to balance the training set. The proposed model performs on public BraTs 2023, Figshare, and Kaggle datasets. Furthermore, we compare the proposed model with various deep learning models, including A-UNet, ResNet-9, pix2pix, pGAN for MRI synthesis, and ConvNeXtTiny, ResNet101, DenseNet12, Residual CNN, ViT for classification. According to the results, the proposed model pretraining on the MRI dataset is superior compared to the pretraining on the ImageNet dataset. Overall, the proposed model attains the highest accuracy, achieving 90.56% on the BraTs dataset with T1 sequence, 98.53% on the Figshare, and 98.47% on the Kaggle brain tumor datasets. As a result, the proposed model demonstrates a robust, effective, and successful approach to handling insufficient dataset challenges in MRI analysis by incorporating SSL, fine-tuning, data augmentation, and combining CNN and ViT.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.CV, cs.LG"
+}

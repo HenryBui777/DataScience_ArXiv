@@ -1,0 +1,30 @@
+{
+  "title": "AtomThink: Multimodal Slow Thinking with Atomic Step Reasoning",
+  "authors": [
+    "Kun Xiang",
+    "Zhili Liu",
+    "Terry Jingchen Zhang",
+    "Yinya Huang",
+    "Yunshuang Nie",
+    "Kaixin Cai",
+    "Yiyang Yin",
+    "Runhui Huang",
+    "Hanhui Li",
+    "Yihan Zeng",
+    "Yu-Jie Yuan",
+    "Jianhua Han",
+    "Lanqing Hong",
+    "Hang Xu",
+    "Xiaodan Liang"
+  ],
+  "summary": "In this paper, we address the challenging task of multimodal mathematical reasoning by incorporating the notion of ``slow thinking'' into multimodal large language models (MLLMs). Our core idea is that models can learn to adaptively use different levels of reasoning to tackle questions of different complexity. We propose a novel paradigm of Self-structured Chain of Thought (SCoT), which comprises of minimal semantic atomic steps. Different from existing methods that rely on structured templates or free-form paradigms, our method can not only generate cognitive CoT structures for various complex tasks but also mitigates the phenomena of overthinking for easier tasks. To introduce structured reasoning into visual cognition, we further design a novel AtomThink framework with four key modules, including (i) a data engine to generate high-quality multimodal reasoning paths; (ii) a supervised fine-tuning (SFT) process with serialized inference data; (iii) a policy-guided multi-turn inference method; and (iv) an atomic capability metric to evaluate the single step utilization rate. We conduct extensive experiments to show that the proposed AtomThink significantly improves the performance of baseline MLLMs, achieving more than 10\\% average accuracy gains on MathVista and MathVerse. Compared to state-of-the-art structured CoT approaches, our method not only achieves higher accuracy but also improves data utilization by 5 times and boosts inference efficiency by 85.3\\%. Our code is now public available in https://github.com/Quinn777/AtomThink.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-22",
+    "2024-12-13",
+    "2025-08-02"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI"
+}

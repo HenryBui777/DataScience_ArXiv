@@ -1,0 +1,18 @@
+{
+  "title": "High-Resolution Image Synthesis via Next-Token Prediction",
+  "authors": [
+    "Dengsheng Chen",
+    "Jie Hu",
+    "Tiezhu Yue",
+    "Xiaoming Wei",
+    "Enhua Wu"
+  ],
+  "summary": "Recently, autoregressive models have demonstrated remarkable performance in class-conditional image generation. However, the application of next-token prediction to high-resolution text-to-image generation remains largely unexplored. In this paper, we introduce \\textbf{D-JEPA$\\cdot$T2I}, an autoregressive model based on continuous tokens that incorporates innovations in both architecture and training strategy to generate high-quality, photorealistic images at arbitrary resolutions, up to 4K. Architecturally, we adopt the denoising joint embedding predictive architecture (D-JEPA) while leveraging a multimodal visual transformer to effectively integrate textual and visual features. Additionally, we introduce flow matching loss alongside the proposed Visual Rotary Positional Embedding (VoPE) to enable continuous resolution learning. In terms of training strategy, we propose a data feedback mechanism that dynamically adjusts the sampling procedure based on statistical analysis and an online learning critic model. This encourages the model to move beyond its comfort zone, reducing redundant training on well-mastered scenarios and compelling it to address more challenging cases with suboptimal generation quality. For the first time, we achieve state-of-the-art high-resolution image synthesis via next-token prediction.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-03-02"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI, cs.LG"
+}

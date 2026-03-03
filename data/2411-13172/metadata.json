@@ -1,0 +1,16 @@
+{
+  "title": "Enhanced average for event-related potential analysis using dynamic time warping",
+  "authors": [
+    "Mario Molina",
+    "Lorenzo J. Tardon",
+    "Ana M. Barbancho",
+    "Irene De-Torres",
+    "Isabel Barbancho"
+  ],
+  "summary": "Electroencephalography (EEG) provides a way to understand, and evaluate neurotransmission. In this context, time-locked EEG activity or event-related potentials (ERPs) are often used to capture neural activity related to specific mental processes. Normally, they are considered on the basis of averages across a number of trials. However, there exist notable variability in latency jitter, jitter, and amplitude, across trials, and, also, across users; this causes the average ERP waveform to blur, and, furthermore, diminish the amplitude of underlying waves. For these reasons, a strategy is proposed for obtaining ERP waveforms based on dynamic time warping (DTW) to adapt, and adjust individual trials to the averaged ERP, previously calculated, to build an enhanced average by making use of these warped signals. At the sight of the experiments carried out on the behaviour of the proposed scheme using publicly available datasets, this strategy reduces the attenuation in amplitude of ERP components thanks to the reduction of the influence of variability of latency and jitter, and, thus, improves the averaged ERP waveforms.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "Biomed. Signal Proces. and Cont.,Vol.87,2024",
+  "pdf_url": null,
+  "category": "eess.SP"
+}

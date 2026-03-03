@@ -1,0 +1,15 @@
+{
+  "title": "Multi-hop Differential Topology based Algorithms for Resilient Network of UAV Swarm",
+  "authors": [
+    "Huan Lin",
+    "Lianghui Ding"
+  ],
+  "summary": "Unmanned aerial vehicle (UAV) swarm networks face severe challenges of communication network split (CNS) issues caused by massive damage in hostile environments. In this paper, we propose a new paradigm to restore network connectivity by repositioning remaining UAVs based on damage information within local topologies. Particularly, the locations of destroyed UAVs distributed in gaps between disconnected sub-nets are considered for recovery trajectory planning. Specifically, we construct the multi-hop differential sub-graph (MDSG) to represent local damage-varying topologies. Based on this, we develop two distinct algorithms to address CNS issues. The first approach leverages an artificial potential field algorithm to calculate the recovery velocities via MDSG, enabling simple deployment on low-intelligence UAVs. In the second approach, we design an MDSG-based graph convolution framework to find the recovery topology for high-intelligence swarms. As per the unique topology of MDSG, we propose a novel bipartite graph convolution operation, enhanced with a batch-processing mechanism to improve graph convolution efficiency. Simulation results show that the proposed algorithms expedite the recovery with significant margin while improving the spatial coverage and topology degree uniformity after recovery.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-03-25"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.NI"
+}

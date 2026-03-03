@@ -1,0 +1,17 @@
+{
+  "title": "Unsupervised Machine Learning for Classifying CHIME Fast Radio Bursts and Investigating Empirical Relations",
+  "authors": [
+    "Da-Chun Qiang",
+    "Jie Zheng",
+    "Zhi-Qiang You",
+    "Sheng Yang"
+  ],
+  "summary": "Fast Radio Bursts (FRBs) are highly energetic millisecond-duration astrophysical phenomena typically categorized as repeaters or non-repeaters. However, observational limitations may result in misclassifications, potentially leading to a higher proportion of repeaters than currently identified. In this study, we leverage unsupervised machine learning techniques to classify FRBs using data from the CHIME/FRB catalogs, including both the first catalog and a recent repeater catalog. By employing Uniform Manifold Approximation and Projection for dimensionality reduction and clustering algorithms (k-means and Hierarchical Density-Based Spatial Clustering of Applications with Noise), we successfully segregate repeaters and non-repeaters into distinct clusters, identifying over 100 potential repeater candidates. Our analysis reveals several empirical relations within the clusters, including the ${\\rm log \\,}Δt_{sc}-{\\rm log \\,}Δt_{rw}$, ${\\rm log \\,}Δt_{sc}-{\\rm log \\,}T_B$, and $r - γ$ correlations, where ${Δt_{sc}, Δt_{rw}, T_B, r, γ}$ represent scattering time, rest-frame width, brightness temperature, spectral running, and spectral index, respectively. The Chow test results reveal that while some repeaters and non-repeaters share similar empirical relationships, the overall distinctions between the two groups remain significant, reinforcing the classification of FRBs into repeaters and non-repeaters. These findings provide new insights into the physical properties and emission mechanisms of FRBs. This study demonstrates the effectiveness of unsupervised learning in classifying FRBs and identifying potential repeaters, paving the way for more precise investigations into their origins and applications in cosmology. Future improvements in observational data and machine learning methodologies are expected to further enhance our understanding of FRBs.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-04-15"
+  ],
+  "publication_venue": "2025 ApJ 982 16",
+  "pdf_url": null,
+  "category": "astro-ph.HE, astro-ph.CO, astro-ph.IM"
+}

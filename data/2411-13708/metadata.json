@@ -1,0 +1,14 @@
+{
+  "title": "Comments on \"$\\mathcal{O}(m\\cdot n)$ algorithms for the recognition and isomorphism problems on circular-arc graphs\"",
+  "authors": [
+    "Tomasz Krawczyk"
+  ],
+  "summary": "In the work [$\\mathcal{O}(m\\cdot n)$ algorithms for the recognition and isomorphism problems on circular-arc graphs, SIAM J. Comput. 24(3), 411--439, (1995)], Wen-Lian Hsu claims three results concerning the class of circular-arc graphs: - the design of so-called \\emph{decomposition trees} that represent the structure of all normalized intersection models of circular-arc graphs, - an $\\mathcal{O}(m\\cdot n)$ recognition algorithm for circular-arc graphs, - an $\\mathcal{O}(m\\cdot n)$ isomorphism algorithm for circular-arc graphs. In [Discrete Math. Theor. Comput. Sci., 15(1), 157--182, 2013] Curtis, Lin, McConnell, Nussbaum, Soulignac, Spinrad, and Szwarcfiter showed that Hsu's isomorphism algorithm is incorrect. In this note, we show that the other two results -- namely, the construction of decomposition trees and the recognition algorithm -- are also flawed.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-26"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DS, math.CO"
+}

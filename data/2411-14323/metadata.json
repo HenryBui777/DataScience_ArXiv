@@ -1,0 +1,20 @@
+{
+  "title": "Estimands and Their Implications for Evidence Synthesis for Oncology: A Simulation Study of Treatment Switching in Meta-Analysis",
+  "authors": [
+    "Rebecca K. Metcalfe",
+    "Antonio Remiro-Azócar",
+    "Quang Vuong",
+    "Anders Gorst-Rasmussen",
+    "Oliver Keene",
+    "Shomoita Alam",
+    "Jay J. H. Park"
+  ],
+  "summary": "The ICH E9(R1) addendum provides guidelines on accounting for intercurrent events in clinical trials using the estimands framework. However, there has been limited attention to the estimands framework for meta-analysis. Using treatment switching, a well-known intercurrent event that occurs frequently in oncology, we conducted a simulation study to explore the bias introduced by pooling together estimates targeting different estimands in a meta-analysis of randomized clinical trials (RCTs) that allowed treatment switching. We simulated overall survival data of a collection of RCTs that allowed patients in the control group to switch to the intervention treatment after disease progression under fixed-effects and random-effects models. For each RCT, we calculated effect estimates for a treatment policy estimand that ignored treatment switching, and a hypothetical estimand that accounted for treatment switching either by fitting rank-preserving structural failure time models or by censoring switchers. Then, we performed random-effects and fixed-effects meta-analyses to pool together RCT effect estimates while varying the proportions of trials providing treatment policy and hypothetical effect estimates. We compared the results of meta-analyses that pooled different types of effect estimates with those that pooled only treatment policy or hypothetical estimates. We found that pooling estimates targeting different estimands results in pooled estimators that do not target any estimand of interest, and that pooling estimates of varying estimands can generate misleading results, even under a random-effects model. Adopting the estimands framework for meta-analysis may improve alignment between meta-analytic results and the clinical research question of interest.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-08-18"
+  ],
+  "publication_venue": "Research Synthesis Methods, 2025 First View, pp 1-24",
+  "pdf_url": null,
+  "category": "stat.ME"
+}

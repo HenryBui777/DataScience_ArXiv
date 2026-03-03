@@ -1,0 +1,14 @@
+{
+  "title": "Performance Evaluation of Geospatial Images based on Zarr and Tiff",
+  "authors": [
+    "Jaheer Khan",
+    "Swarup E",
+    "Rakshit Ramesh"
+  ],
+  "summary": "This evaluate the performance of geospatial image processing using two distinct data storage formats: Zarr and TIFF. Geospatial images, converted to numerous applications like environmental monitoring, urban planning, and disaster management. Traditional Tagged Image File Format is mostly used because it is simple and compatible but may lack by performance limitations while working on large datasets. Zarr is a new format designed for the cloud systems,that offers scalability and efficient storage with data chunking and compression techniques. This study compares the two formats in terms of storage efficiency, access speed, and computational performance during typical geospatial processing tasks. Through analysis on a range of geospatial datasets, this provides details about the practical advantages and limitations of each format,helping users to select the appropriate format based on their specific needs and constraints.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

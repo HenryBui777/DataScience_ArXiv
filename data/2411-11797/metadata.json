@@ -1,0 +1,21 @@
+{
+  "title": "A Multi-Component, Multi-Physics Computational Model for Solving Coupled Cardiac Electromechanics and Vascular Haemodynamics",
+  "authors": [
+    "Sharp C. Y. Lo",
+    "Alberto Zingaro",
+    "Jon W. S. McCullough",
+    "Xiao Xue",
+    "Pablo Gonzalez-Martin",
+    "Balint Joo",
+    "Mariano Vázquez",
+    "Peter V. Coveney"
+  ],
+  "summary": "The circulatory system, comprising the heart and blood vessels, is vital for nutrient transport, waste removal, and homeostasis. Traditional computational models often treat cardiac electromechanics and blood flow dynamics separately, overlooking the integrated nature of the system. This paper presents an innovative approach that couples a 3D electromechanical model of the heart with a 3D fluid mechanics model of vascular blood flow. Using a file-based partitioned coupling scheme, these models run independently while sharing essential data through intermediate files. We validate this approach using solvers developed by separate research groups, each targeting disparate dynamical scales employing distinct discretisation schemes, and implemented in different programming languages. Numerical simulations using idealised and realistic anatomies show that the coupling scheme is reliable and requires minimal additional computation time relative to advancing individual time steps in the heart and blood flow models. Notably, the coupled model predicts muscle displacement and aortic wall shear stress differently than the standalone models, highlighting the importance of coupling between cardiac and vascular dynamics in cardiovascular simulations. Moreover, we demonstrate the model's potential for medical applications by simulating the effects of myocardial scarring on downstream vascular flow. This study presents a paradigm case of how to build virtual human models and digital twins by productive collaboration between teams with complementary expertise.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-04-18"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.flu-dyn, physics.comp-ph"
+}

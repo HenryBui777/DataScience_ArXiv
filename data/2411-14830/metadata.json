@@ -1,0 +1,14 @@
+{
+  "title": "The Boundedness of the Bilinear Fractional Integrals along Curves",
+  "authors": [
+    "Junfeng Li",
+    "Haixia Yu",
+    "Minqun Zhao"
+  ],
+  "summary": "In this paper, for general curves $(t,γ(t))$ satisfying some suitable curvature conditions, we obtain some $L^p(\\mathbb{R})\\times L^q(\\mathbb{R}) \\rightarrow L^r(\\mathbb{R})$ estimates for the bilinear fractional integrals $H_{α,γ}$ along the curves $(t,γ(t))$, where\n  $$H_{α,γ}(f,g)(x):=\\int_{0}^{\\infty}f(x-t)g(x-γ(t))\\,\\frac{\\textrm{d}t}{t^{1-α}}$$\n  and $α\\in (0,1)$. At the same time, we also establish an almost sharp Hardy-Littlewood-Sobolev inequality, i.e., the $L^p(\\mathbb{R})\\rightarrow L^q(\\mathbb{R})$ estimate, for the fractional integral operators $I_{α,γ}$ along the curves $(t,γ(t))$, where $$I_{α,γ}f(x):=\\int_{0}^{\\infty}\\left|f(x-γ(t))\\right|\\,\\frac{\\textrm{d}t}{t^{1-α}}.$$",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.CA"
+}

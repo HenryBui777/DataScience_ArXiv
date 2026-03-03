@@ -1,0 +1,16 @@
+{
+  "title": "Find Any Part in 3D",
+  "authors": [
+    "Ziqi Ma",
+    "Yisong Yue",
+    "Georgia Gkioxari"
+  ],
+  "summary": "Why don't we have foundation models in 3D yet? A key limitation is data scarcity. For 3D object part segmentation, existing datasets are small in size and lack diversity. We show that it is possible to break this data barrier by building a data engine powered by 2D foundation models. Our data engine automatically annotates any number of object parts: 1755x more unique part types than existing datasets combined. By training on our annotated data with a simple contrastive objective, we obtain an open-world model that generalizes to any part in any object based on any text query. Even when evaluated zero-shot, we outperform existing methods on the datasets they train on. We achieve 260% improvement in mIoU and boost speed by 6x to 300x. Our scaling analysis confirms that this generalization stems from the data scale, which underscores the impact of our data engine. Finally, to advance general-category open-world 3D part segmentation, we release a benchmark covering a wide range of objects and parts. Project website: https://ziqi-ma.github.io/find3dsite/",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-03-28"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

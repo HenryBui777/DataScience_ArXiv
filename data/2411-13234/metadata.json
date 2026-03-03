@@ -1,0 +1,14 @@
+{
+  "title": "Extremum and Nash Equilibrium Seeking with Delays and PDEs: Designs & Applications",
+  "authors": [
+    "Tiago Roux Oliveira",
+    "Miroslav Krstić",
+    "Tamer Başar"
+  ],
+  "summary": "The development of extremum seeking (ES) has progressed, over the past hundred years, from static maps, to finite-dimensional dynamic systems, to networks of static and dynamic agents. Extensions from ODE dynamics to maps and agents that incorporate delays or even partial differential equations (PDEs) is the next natural step in that progression through ascending research challenges. This paper reviews results on algorithm design and theory of ES for such infinite-dimensional systems. Both hyperbolic and parabolic dynamics are presented: delays or transport equations, heat-dominated equation, wave equations, and reaction-advection-diffusion equations. Nash equilibrium seeking (NES) methods are introduced for noncooperative game scenarios of the model-free kind and then specialized to single-agent optimization. Even heterogeneous PDE games, such as a duopoly with one parabolic and one hyperbolic agent, are considered. Several engineering applications are touched upon for illustration, including flow-traffic control for urban mobility, oil-drilling systems, deep-sea cable-actuated source seeking, additive manufacturing modeled by the Stefan PDE, biological reactors, light-source seeking with flexible-beam structures, and neuromuscular electrical stimulation.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC, eess.SY"
+}

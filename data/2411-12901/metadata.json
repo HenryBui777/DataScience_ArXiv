@@ -1,0 +1,12 @@
+{
+  "title": "Signformer is all you need: Towards Edge AI for Sign Language",
+  "authors": [
+    "Eta Yang"
+  ],
+  "summary": "Sign language translation, especially in gloss-free paradigm, is confronting a dilemma of impracticality and unsustainability due to growing resource-intensive methodologies. Contemporary state-of-the-arts (SOTAs) have significantly hinged on pretrained sophiscated backbones such as Large Language Models (LLMs), embedding sources, or extensive datasets, inducing considerable parametric and computational inefficiency for sustainable use in real-world scenario. Despite their success, following this research direction undermines the overarching mission of this domain to create substantial value to bridge hard-hearing and common populations. Committing to the prevailing trend of LLM and Natural Language Processing (NLP) studies, we pursue a profound essential change in architecture to achieve ground-up improvements without external aid from pretrained models, prior knowledge transfer, or any NLP strategies considered not-from-scratch.\n  Introducing Signformer, a from-scratch Feather-Giant transforming the area towards Edge AI that redefines extremities of performance and efficiency with LLM-competence and edgy-deployable compactness. In this paper, we present nature analysis of sign languages to inform our algorithmic design and deliver a scalable transformer pipeline with convolution and attention novelty. We achieve new 2nd place on leaderboard with a parametric reduction of 467-1807x against the finests as of 2024 and outcompete almost every other methods in a lighter configuration of 0.57 million parameters.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.CV, cs.CY, cs.HC, cs.LG"
+}

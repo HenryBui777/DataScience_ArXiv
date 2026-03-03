@@ -1,0 +1,24 @@
+{
+  "title": "Aperture correction for Beamforming in radiometric detection of ultra-high energy cosmic rays",
+  "authors": [
+    "O. Scholten",
+    "T. N. G. Trinh",
+    "S. Buitink",
+    "A. Corstanje",
+    "B. M. Hare",
+    "T. Huege",
+    "B. V. Jhansi",
+    "K. Mulrey",
+    "A. Nelles",
+    "H. Schoorlemmer",
+    "S. Thoudam",
+    "P. Turekova",
+    "K. de Vries"
+  ],
+  "summary": "For high-energy cosmic-ray physics, it is imperative to determine the mass and energy of the cosmic ray that initiated the air shower in the atmosphere. This information can be extracted from the longitudinal profile of the air shower. In radio-metric observations, this profile is customarily determined through an extensive fitting procedure where calculated radio intensity is fitted to data. Beamforming the measured signals offers a promising alternative to bypass the cumbersome fitting procedure and to determine the longitudinal profile directly. Finite aperture effects in beamforming hamper the resolution with which this profile can be determined. We present a comprehensive investigation of the beamforming resolution in radiometric observations of air showers. There are two, principally different, approaches possible in air-shower beamforming, one where the total beamforming intensity is determined and an alternative where the beamforming trace is cross-correlated with a known response function. The effects due to a finite aperture (size of antenna array and bandwidth) are large for both approaches. We argue that it is possible to correct for the aperture corrections using an unfolding procedure. We give an explicit expression for the folding function, the kernel. Being able to calculate the folding function allows for unfolding the finite aperture effects from the data. We show that, in a model-to-model comparison, this allows for an accurate reconstruction of the current profile as the shower develops in the atmosphere. We present also an example where we reconstruct the longitudinal current profile of a shower developing under thunderstorm conditions where the atmospheric electric fields greatly alter the orientation of the transverse current in the shower front.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "Phys. Rev. D110 (2024) 103036",
+  "pdf_url": null,
+  "category": "astro-ph.IM, astro-ph.HE"
+}

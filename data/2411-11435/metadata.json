@@ -1,0 +1,23 @@
+{
+  "title": "GLDesigner: Leveraging Multi-Modal LLMs as Designer for Enhanced Aesthetic Text Glyph Layouts",
+  "authors": [
+    "Junwen He",
+    "Yifan Wang",
+    "Lijun Wang",
+    "Huchuan Lu",
+    "Jun-Yan He",
+    "Chenyang Li",
+    "Hanyuan Chen",
+    "Jin-Peng Lan",
+    "Bin Luo",
+    "Yifeng Geng"
+  ],
+  "summary": "Text logo design heavily relies on the creativity and expertise of professional designers, in which arranging element layouts is one of the most important procedures. However, this specific task has received limited attention, often overshadowed by broader layout generation tasks such as document or poster design. In this paper, we propose a Vision-Language Model (VLM)-based framework that generates content-aware text logo layouts by integrating multi-modal inputs with user-defined constraints, enabling more flexible and robust layout generation for real-world applications. We introduce two model techniques that reduce the computational cost for processing multiple glyph images simultaneously, without compromising performance. To support instruction tuning of our model, we construct two extensive text logo datasets that are five times larger than existing public datasets. In addition to geometric annotations (\\textit{e.g.}, text masks and character recognition), our datasets include detailed layout descriptions in natural language, enabling the model to reason more effectively in handling complex designs and custom user inputs. Experimental results demonstrate the effectiveness of our proposed framework and datasets, outperforming existing methods on various benchmarks that assess geometric aesthetics and human preferences.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-08-02"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

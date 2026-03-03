@@ -1,0 +1,13 @@
+{
+  "title": "Performance Analysis of Traditional and Network Coded Transmission in Infrastructure-less Multi-hop Wireless Networks",
+  "authors": [
+    "Muhammad Ali",
+    "Alister Burr"
+  ],
+  "summary": "Infrastructure-less Multi-hop Wireless Networks are the backbone for mission critical communications such as in disaster and battlefield scenarios. However, interference signals in the wireless channel cause losses to transmission in wireless networks resulting in a reduced network throughput and making efficient transmission very challenging. Therefore, techniques to overcome interference and increase transmission efficiency have been a hot area of research for decades. In this paper two methods for transmitting data through infrastructure-less multi hop wireless networks, Traditional (TR) and Network Coded (NC) transmission are thoroughly examined for scenarios having one or two communication streams in a network. The study has developed network models in MATLAB for each transmission technique and scenario. The simulation results showed that the NC transmission method yielded a better throughput under the same network settings and physical interference. Furthermore, the impact of increasing numbers of hops between source and destination on the network capacity and the communications latency was also observed and conclusions were drawn.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.NI, eess.SP"
+}

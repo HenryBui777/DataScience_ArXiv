@@ -1,0 +1,219 @@
+@article{Lele1992,
+  abstract = {Finite difference schemes providing an improved representation of a range of scales (spectral-like resolution) in the evaluation of first, second, and higher order derivatives are presented and compared with well-known schemes. The schemes may be used on non-uniform meshes and a variety of boundary conditions may be imposed. Schemes are also presented for derivatives at mid-cell locations, for accurate interpolation and for spectral-like filtering. Applications to fluid mechanics problems are discussed.},
+  author = {Lele, Sanjiva K.},
+  address = {Legacy CDMS},
+  copyright = {1992},
+  issn = {0021-9991},
+  journal = {Journal of computational physics},
+  keywords = {Numerical analysis ; Physics ; Turbulence ; Evaluation ; Finite differences ; Engineering},
+  language = {eng},
+  number = {1},
+  pages = {16-42},
+  publisher = {Elsevier Inc},
+  title = {Compact finite difference schemes with spectral-like resolution},
+  volume = {103},
+  year = {1992},
+}
+
+@article{Sun1995,
+  abstract = {The Parallel Diagonal Dominant (PDD) algorithm is an efficient tridiagonal solver. In this paper, a detailed study of the PDD algorithm is given. First the PDD algorithm is extended to solve periodic tridiagonal systems and its scalability is studied. Then the reduced PDD algorithm, which has a smaller operation count than that of the conventional sequential algorithm for many applications, is proposed. Accuracy analysis is provided for a class of tridiagonal systems, the symmetric and skew-symmetric Toeplitz tridiagonal systems. Implementation results show that the analysis gives a good bound on the relative error, and the PDD and reduced PDD algorithms are good candidates for emerging massively parallel machines.},
+  author = {Sun, Xian-He},
+  address = {Amsterdam},
+  copyright = {1995},
+  issn = {0167-8191},
+  journal = {Parallel computing},
+  language = {eng},
+  number = {8},
+  pages = {1241-1267},
+  publisher = {Elsevier B.V},
+  title = {Application and accuracy of the parallel diagonal dominant algorithm},
+  volume = {21},
+  year = {1995},
+}
+
+@article{Laszlo2016,
+  abstract = {Engineering, scientific, and financial applications often require the simultaneous solution of a large number of independent tridiagonal systems of equations with varying coefficients. Since the number of systems is large enough to offer considerable parallelism on manycore systems, the choice between different tridiagonal solution algorithms, such as Thomas, Cyclic Reduction (CR) or Parallel Cyclic Reduction (PCR) needs to be reexamined. This work investigates the optimal choice of tridiagonal algorithm for CPU, Intel MIC, and NVIDIA GPU with a focus on minimizing the amount of data transfer to and from the main memory using novel algorithms and the register-blocking mechanism, and maximizing the achieved bandwidth. It also considers block tridiagonal solutions, which are sometimes required in Computational Fluid Dynamic (CFD) applications. A novel work-sharing and register blocking--based Thomas solver is also presented.},
+  author = {László, Endre and Giles, Mike and Appleyard, Jeremy},
+  issn = {0098-3500},
+  journal = {ACM transactions on mathematical software},
+  language = {eng},
+  number = {4},
+  pages = {1-36},
+  title = {Manycore Algorithms for Batch Scalar and Block Tridiagonal Solvers},
+  volume = {42},
+  year = {2016},
+}
+
+@article{Kim2021,
+  abstract = {The aim of this study is to devise an efficient and scalable computational procedure to solve the many tridiagonal systems in multi-dimensional partial differential equations. The modified Thomas algorithm and a newly designed communication scheme were used to reduce the communication overhead encountered while solving the many tridiagonal systems. Benchmark test results reveal an advantage of the proposed procedures compared to global all-to-all communication methods — a significantly reduced communication time that becomes more prominent for larger problem sizes and greater number of cores. The proposed computational procedures are fully implemented in an open-source library called Parallel and Scalable Library for TDMA (PaScaL_TDMA). Considering a three-dimensional heat conduction problem as a practical example, we obtain good strong and weak scalability results up to 262,144 computing cores on the KISTI Nurion cluster system, which, to the best of our knowledge, is the largest parallel simulation for solving tridiagonal systems. The potential of this library for large-scale substantive problems in physics is also demonstrated through direct numerical simulations of the Rayleigh–Bénard convection problem, which yielded excellent scalability and accurate results.},
+  author = {Kim, Ki-Ha and Kang, Ji-Hoon and Pan, Xiaomin and Choi, Jung-Il},
+  copyright = {2020 Elsevier B.V.},
+  issn = {0010-4655},
+  journal = {Computer physics communications},
+  language = {eng},
+  pages = {107722-},
+  publisher = {Elsevier B.V},
+  title = {{PaScaL\_TDMA},
+  volume = {260},
+  year = {2021},
+}
+
+@article{Akkurt2022,
+  title = {Cache blocking strategies applied to flux reconstruction},
+  journal = {Computer Physics Communications},
+  volume = {271},
+  pages = {108193},
+  year = {2022},
+  issn = {0010-4655},
+  author = {Semih Akkurt and Freddie Witherden and Peter Vincent},
+}
+
+@article{Rolfo2023,
+  year = {2023},
+  publisher = {The Open Journal},
+  volume = {8},
+  number = {91},
+  pages = {5813},
+  author = {Stefano Rolfo and Cédric Flageul and Paul Bartholomew and Filippo Spiga and Sylvain Laizet},
+  title = {The {2DECOMP\&FFT},
+  journal = {Journal of Open Source Software},
+}
+
+@article{Balogh2022,
+  abstract = {In this article, we present a novel distributed memory tridiagonal solver library, targeting large-scale systems based on modern multicore and many-core processor architectures. The library uses methods based on both approximate and exact algorithms. Performance comparisons with the state of the art, using both a large Cray EX system and a GPU cluster show the algorithmic tradeoffs required at increasing machine scale to achieve good performance, particularly considering the advent of exascale systems.},
+  author = {Balogh, Gabor D. and Flynn, Tobias S. and Laizet, Sylvain and Mudalige, Gihan R. and Reguly, Istan Z.},
+  issn = {1521-9615},
+  journal = {Computing in science \& engineering},
+  keywords = {Jacobians ; Graphics processing units ; High performance computing ; Convergence},
+  language = {eng},
+  number = {1},
+  pages = {26-35},
+  publisher = {IEEE},
+  title = {Scalable Many-Core Algorithms for Tridiagonal Solvers},
+  volume = {24},
+  year = {2022},
+}
+
+@article{ADI,
+  author = {Peaceman, D. W. and Rachford, H. H.},
+  address = {Philadelphia},
+  copyright = {Copyright 1955 Society for Industrial and Applied Mathematics},
+  issn = {0368-4245},
+  journal = {Journal of the Society for Industrial and Applied Mathematics},
+  keywords = {Equations, Simultaneous ; Difference equations ; Differential equations ; Arithmetic ; Heat ; Methods ; Methodology},
+  language = {eng},
+  number = {1},
+  pages = {28-41},
+  publisher = {Society for Industrial and Applied Mathematics},
+  title = {The Numerical Solution of Parabolic and Elliptic Differential Equations},
+  volume = {3},
+  year = {1955},
+}
+
+@article{Incompact3D,
+  author = {Laizet, Sylvain and Li, Ning},
+  title = {Incompact3d: A powerful tool to tackle turbulence problems with up to {$O(10^5)$},
+  journal = {International Journal for Numerical Methods in Fluids},
+  volume = {67},
+  number = {11},
+  pages = {1735-1757},
+  year = {2011},
+}
+
+@article{SONG2022111443,
+  title = {Scalable parallel linear solver for compact banded systems on heterogeneous architectures},
+  journal = {Journal of Computational Physics},
+  volume = {468},
+  pages = {111443},
+  year = {2022},
+  issn = {0021-9991},
+  author = {Hang Song and Kristen V. Matsuno and Jacob R. West and Akshay Subramaniam and Aditya S. Ghate and Sanjiva K. Lele},
+  keywords = {Compact banded system, Periodic boundary, Parallel cyclic reduction, Distributed memory, Parallel computing},
+}
+
+@article{BabelStream,
+  author = {Tom Deakin and James Price and Matt Martineau and Simon McIntosh-Smith},
+  title = {Evaluating attainable memory bandwidth of parallel programming models via BabelStream},
+  journal = {International Journal of Computational Science and Engineering},
+  pages = {247-262},
+  note = {},
+}
+
+@inproceedings{STREAM,
+  author = {John D McCalpin},
+  title = {Memory Bandwidth and
+Machine Balance in Current High Performance
+Computers},
+  booktitle = {IEEE Computer Society Technical
+Committee on Computer Architecture (TCCA)
+Newsletter},
+  pages = {19–25},
+  year = {1995},
+}
+
+@misc{STREAM2,
+  author = {John D McCalpin},
+  title = {STREAM2},
+  howpublished = {https://www.cs.virginia.edu/stream/stream2/},
+  year = {1999},
+}
+
+@article{ShermanMorrison,
+  author = {Jack Sherman and Winifred J. Morrison},
+  title = {{Adjustment of an Inverse Matrix Corresponding to a Change in One Element of a Given Matrix},
+  volume = {21},
+  journal = {The Annals of Mathematical Statistics},
+  number = {1},
+  publisher = {Institute of Mathematical Statistics},
+  pages = {124 -- 127},
+  year = {1950},
+}
+
+@misc{OpenMP,
+  title = {{OpenMP Reference Guide},
+  howpublished = {https://www.openmp.org/resources/refguides/},
+  year = {2021},
+}
+
+@misc{CUDA,
+  title = {{CUDA Programming Model},
+  howpublished = {https://docs.nvidia.com/cuda/cuda-c-programming-guide/},
+  year = {2024},
+}
+
+@misc{ARCHER2,
+  title = {{ARCHER2 Hardware Specifications},
+  howpublished = {https://www.archer2.ac.uk/about/hardware.html},
+  year = {2021},
+}
+
+@misc{Cirrus,
+  title = {{Cirrus Hardware Specifications},
+  howpublished = {https://www.cirrus.ac.uk/about/hardware.html},
+}
+
+@misc{Isambard3,
+  title = {{Isambard 3 Hardware Specifications},
+  howpublished = {https://docs.isambard.ac.uk/specs/\#system-specifications-isambard-3-grace},
+  year = {2024},
+}
+
+@misc{Marenostrum5,
+  title = {{Marenostrum 5 Hardware Specifications},
+  howpublished = {https://www.bsc.es/ca/marenostrum/marenostrum-5},
+  year = {2023},
+}
+
+@misc{THOMAS,
+  author = {Llewellyn Hilleth Thomas},
+  title = {Elliptic Problems in Linear Difference Equations over a Network},
+  howpublished = {Watson Sc. Comp. Lab. Rep., Columbia University, New York},
+  year = {1949},
+}
+
+@inproceedings{PCR,
+  author = {Walter Gander and Gene H. Golub},
+  title = {Cyclic reduction - history and applications},
+  booktitle = {In Proceedings of the Workshop on Scientific Computing},
+  year = {1997},
+}

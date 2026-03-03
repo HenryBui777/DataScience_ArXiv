@@ -1,0 +1,14 @@
+{
+  "title": "Stream-Based Active Learning for Process Monitoring",
+  "authors": [
+    "Christian Capezza",
+    "Antonio Lepore",
+    "Kamran Paynabar"
+  ],
+  "summary": "Statistical process monitoring (SPM) methods are essential tools in quality management to check the stability of industrial processes, i.e., to dynamically classify the process state as in control (IC), under normal operating conditions, or out of control (OC), otherwise. Traditional SPM methods are based on unsupervised approaches, which are popular because in most industrial applications the true OC states of the process are not explicitly known. This hampered the development of supervised methods that could instead take advantage of process data containing labels on the true process state, although they still need improvement in dealing with class imbalance, as OC states are rare in high-quality processes, and the dynamic recognition of unseen classes, e.g., the number of possible OC states. This article presents a novel stream-based active learning strategy for SPM that enhances partially hidden Markov models to deal with data streams. The ultimate goal is to optimize labeling resources constrained by a limited budget and dynamically update the possible OC states. The proposed method performance in classifying the true state of the process is assessed through a simulation and a case study on the SPM of a resistance spot welding process in the automotive industry, which motivated this research.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ML, cs.LG"
+}

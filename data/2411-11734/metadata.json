@@ -1,0 +1,17 @@
+{
+  "title": "Joint-Space Control of a Structurally Elastic Humanoid Robot",
+  "authors": [
+    "Connor W. Herron",
+    "Christian Runyon",
+    "Isaac Pressgrove",
+    "Benjamin C. Beiter",
+    "Bhaben Kalita",
+    "Alexander Leonessa"
+  ],
+  "summary": "In this work, the joint-control strategy is presented for the humanoid robot, PANDORA, whose structural components are designed to be compliant. As opposed to contemporary approaches which design the elasticity internal to the actuator housing, PANDORA's structural components are designed to be compliant under load or, in other words, structurally elastic. To maintain the rapid design benefit of additive manufacturing, this joint control strategy employs a disturbance observer (DOB) modeled from an ideal elastic actuator. This robust controller treats the model variation from the structurally elastic components as a disturbance and eliminates the need for system identification of the 3D printed parts. This enables mechanical design engineers to iterate on the 3D printed linkages without requiring consistent tuning from the joint controller. Two sets of hardware results are presented for validating the controller. The first set of results are conducted on an ideal elastic actuator testbed that drives an unmodeled, 1 DoF weighted pendulum with a 10 kg mass. The results support the claim that the DOB can handle significant model variation. The second set of results is from a robust balancing experiment conducted on the 12 DoF lower body of PANDORA. The robot maintains balance while an operator applies 50 N pushes to the pelvis, where the actuator tracking results are presented for the left leg.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

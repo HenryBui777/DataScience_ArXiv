@@ -1,0 +1,14 @@
+{
+  "title": "Extremal Values of the Atom-Bond Connectivity Index for Trees with Given Roman Domination Numbers",
+  "authors": [
+    "Waqar Ali",
+    "Mohamad Nazri Bin Husin",
+    "Muhammad Faisal Nadeem"
+  ],
+  "summary": "Consider that $\\mathbb{G}=(\\mathbb{X}, \\mathbb{Y})$ is a simple, connected graph with $\\mathbb{X}$ as the vertex set and $\\mathbb{Y}$ as the edge set. The atom-bond connectivity ($ABC$) index is a novel topological index that Estrada introduced in Estrada et al. (1998). It is defined as $$ A B C(\\mathbb{G})=\\sum_{xy \\in Y(\\mathbb{G})} \\sqrt{\\frac{ζ_x+ζ_y-2}{ζ_x ζ_y}} $$ where $ζ_x$ and $ζ_x$ represent the degrees of the vertices $x$ and $y$, respectively. In this work, we explore the behavior of the $A B C$ index for tree graphs. We establish both lower and upper bounds for the $A B C$ index, expressed in terms of the graph's order and its Roman domination number. Additionally, we characterize the tree structures that correspond to these extremal values, offering a deeper understanding of how the Roman domination number ($RDN$) influences the $A B C$ index in tree graphs.",
+  "submission_date": "2024-10-31",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.GM"
+}

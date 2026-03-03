@@ -1,0 +1,20 @@
+{
+  "title": "Conjugate momentum based thruster force estimate in dynamic multimodal robot",
+  "authors": [
+    "Shreyansh Pitroda",
+    "Eric Sihite",
+    "Taoran Liu",
+    "Kaushik Venkatesh Krishnamurthy",
+    "Chenghao Wang",
+    "Adarsh Salagame",
+    "Reza Nemovi",
+    "Alireza Ramezani",
+    "Morteza Gharib"
+  ],
+  "summary": "In a multi-modal system which combines thruster and legged locomotion such our state-of-the-art Harpy platform to perform dynamic locomotion. Therefore, it is very important to have a proper estimate of Thruster force. Harpy is a bipedal robot capable of legged-aerial locomotion using its legs and thrusters attached to its main frame. we can characterize thruster force using a thrust stand but it generally does not account for working conditions such as battery voltage. In this study, we present a momentum-based thruster force estimator. One of the key information required to estimate is terrain information. we show estimation results with and without terrain knowledge. In this work, we derive a conjugate momentum thruster force estimator and implement it on a numerical simulator that uses thruster force to perform thruster-assisted walking.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

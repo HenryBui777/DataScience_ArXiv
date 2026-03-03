@@ -1,0 +1,14 @@
+{
+  "title": "SynCoTrain: A Dual Classifier PU-learning Framework for Synthesizability Prediction",
+  "authors": [
+    "Sasan Amariamir",
+    "Janine George",
+    "Philipp Benner"
+  ],
+  "summary": "Material discovery is a cornerstone of modern science, driving advancements in diverse disciplines from biomedical technology to climate solutions. Predicting synthesizability, a critical factor in realizing novel materials, remains a complex challenge due to the limitations of traditional heuristics and thermodynamic proxies. While stability metrics such as formation energy offer partial insights, they fail to account for kinetic factors and technological constraints that influence synthesis outcomes. These challenges are further compounded by the scarcity of negative data, as failed synthesis attempts are often unpublished or context-specific.\n  We present SynCoTrain, a semi-supervised machine learning model designed to predict the synthesizability of materials. SynCoTrain employs a co-training framework leveraging two complementary graph convolutional neural networks: SchNet and ALIGNN. By iteratively exchanging predictions between classifiers, SynCoTrain mitigates model bias and enhances generalizability. Our approach uses Positive and Unlabeled (PU) Learning to address the absence of explicit negative data, iteratively refining predictions through collaborative learning.\n  The model demonstrates robust performance, achieving high recall on internal and leave-out test sets. By focusing on oxide crystals, a well-characterized material family with extensive experimental data, we establish SynCoTrain as a reliable tool for predicting synthesizability while balancing dataset variability and computational efficiency. This work highlights the potential of co-training to advance high-throughput materials discovery and generative research, offering a scalable solution to the challenge of synthesizability prediction.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cond-mat.mtrl-sci, cs.LG"
+}

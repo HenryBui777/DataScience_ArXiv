@@ -1,0 +1,14 @@
+{
+  "title": "A Note on Complexity for Two Classes of Structured Non-Smooth Non-Convex Compositional Optimization",
+  "authors": [
+    "Yao Yao",
+    "Qihang Lin",
+    "Tianbao Yang"
+  ],
+  "summary": "This note studies numerical methods for solving compositional optimization problems, where the inner function is smooth, and the outer function is Lipschitz continuous, non-smooth, and non-convex but exhibits one of two special structures that enable the design of efficient first-order methods. In the first structure, the outer function allows for an easily solvable proximal mapping. We demonstrate that, in this case, a smoothing compositional gradient method can find a $(δ,ε)$-stationary point--specifically defined for compositional optimization--in $O(1/(δε^2))$ iterations. In the second structure, the outer function is expressed as a difference-of-convex function, where each convex component is simple enough to allow an efficiently solvable proximal linear subproblem. In this case, we show that a prox-linear method can find a nearly $ε$-critical point in $O(1/ε^2)$ iterations.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC"
+}

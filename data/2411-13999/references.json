@@ -1,0 +1,245 @@
+{
+  "2307-12725": {
+    "title": "Accelerated Zero-Order SGD Method for Solving the Black Box Optimization Problem Under \"Overparametrization\" Condition",
+    "authors": [
+      "A. Lobanov",
+      "A. Gasnikov"
+    ],
+    "publication_date": "2023-07-24",
+    "venue": "OPTIMA",
+    "semantic_scholar_id": "363653e980695343c8b655529a29327a5e9242e1",
+    "corpus_id": 260126036,
+    "category": "Computer Science, Mathematics"
+  },
+  "2306-02159": {
+    "title": "Gradient-free optimization of highly smooth functions: improved analysis and a new algorithm",
+    "authors": [
+      "A. Akhavan",
+      "Evgenii Chzhen",
+      "M. Pontil",
+      "A. Tsybakov"
+    ],
+    "publication_date": "2023-06-03",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "3291de81cbeb7f3fdf49c31ecc3446e018b3898e",
+    "corpus_id": 259075646,
+    "category": "Mathematics"
+  },
+  "2305-07759": {
+    "title": "TinyStories: How Small Can Language Models Be and Still Speak Coherent English?",
+    "authors": [
+      "Ronen Eldan",
+      "Yuan-Fang Li"
+    ],
+    "publication_date": "2023-05-12",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "28085f480ce456a376ebace9b899e3bc93dbc048",
+    "corpus_id": 258686446,
+    "category": "Computer Science"
+  },
+  "2304-07861": {
+    "title": "Stochastic Adversarial Noise in the \"Black Box\" Optimization Problem",
+    "authors": [
+      "A. Lobanov"
+    ],
+    "publication_date": "2023-04-16",
+    "venue": "OPTIMA",
+    "semantic_scholar_id": "01e05fd37f2d3e3fb02fe861b95060ab760bfd59",
+    "corpus_id": 258179324,
+    "category": "Mathematics, Computer Science"
+  },
+  "2205-13910": {
+    "title": "A gradient estimator via L1-randomization for online zero-order optimization with two point feedback",
+    "authors": [
+      "A. Akhavan",
+      "Evgenii Chzhen",
+      "M. Pontil",
+      "A. Tsybakov"
+    ],
+    "publication_date": "2022-05-27",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "1305c02d969405733629c23df1cad178dbb072b9",
+    "corpus_id": 249151855,
+    "category": "Mathematics, Computer Science"
+  },
+  "2203-15556": {
+    "title": "Training Compute-Optimal Large Language Models",
+    "authors": [
+      "Jordan Hoffmann",
+      "Sebastian Borgeaud",
+      "A. Mensch",
+      "Elena Buchatskaya",
+      "Trevor Cai",
+      "Eliza Rutherford",
+      "Diego de Las Casas",
+      "Lisa Anne Hendricks",
+      "Johannes Welbl",
+      "Aidan Clark",
+      "Tom Hennigan",
+      "Eric Noland",
+      "Katie Millican",
+      "George van den Driessche",
+      "Bogdan Damoc",
+      "Aurelia Guy",
+      "Simon Osindero",
+      "K. Simonyan",
+      "Erich Elsen",
+      "Jack W. Rae",
+      "O. Vinyals",
+      "L. Sifre"
+    ],
+    "publication_date": "2022-03-29",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "8342b592fe238f3d230e4959b06fd10153c45db1",
+    "corpus_id": 247778764,
+    "category": "Computer Science"
+  },
+  "2202-06114": {
+    "title": "Gradient-Free Optimization for Non-Smooth Saddle Point Problems under Adversarial Noise",
+    "authors": [
+      "D. Dvinskikh",
+      "Vladislav Tominin",
+      "Yaroslav Tominin",
+      "A. Gasnikov"
+    ],
+    "publication_date": "2022-02-12",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "68626cb6cd1dc4a908112043a26968a0f010721d",
+    "corpus_id": 249191822,
+    "category": "Mathematics"
+  },
+  "2201-12289": {
+    "title": "The power of first-order smooth optimization for black-box non-smooth problems",
+    "authors": [
+      "A. Gasnikov",
+      "A. Novitskii",
+      "Vasilii Novitskii",
+      "Farshed Abdukhakimov",
+      "Dmitry Kamzolov",
+      "Aleksandr Beznosikov",
+      "Martin Takác",
+      "P. Dvurechensky",
+      "Bin Gu"
+    ],
+    "publication_date": "2022-01-28",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "0f2560d7234725d4a0ee7011b9fe561863985e46",
+    "corpus_id": 246411334,
+    "category": "Mathematics, Computer Science"
+  },
+  "2106-02720": {
+    "title": "An Even More Optimal Stochastic Optimization Algorithm: Minibatching and Interpolation Learning",
+    "authors": [
+      "Blake E. Woodworth",
+      "N. Srebro"
+    ],
+    "publication_date": "2021-06-04",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "ad26e42d8dea6a19b357d396610bcd186210f431",
+    "corpus_id": 235358785,
+    "category": "Computer Science, Mathematics"
+  },
+  "2005-05913": {
+    "title": "Gradient-Free Methods with Inexact Oracle for Convex-Concave Stochastic Saddle-Point Problem",
+    "authors": [
+      "Aleksandr Beznosikov",
+      "Abdurakhmon Sadiev",
+      "A. Gasnikov"
+    ],
+    "publication_date": "2020-05-12",
+    "venue": "Mathematical Optimization Theory and Operations Research",
+    "semantic_scholar_id": "d47060a5b49e470bc91693d895b646b15e1d3285",
+    "corpus_id": 218596313,
+    "category": "Mathematics, Computer Science"
+  },
+  "1812-11118": {
+    "title": "Reconciling modern machine-learning practice and the classical bias–variance trade-off",
+    "authors": [
+      "M. Belkin",
+      "Daniel J. Hsu",
+      "Siyuan Ma",
+      "Soumik Mandal"
+    ],
+    "publication_date": "2018-12-28",
+    "venue": "Proceedings of the National Academy of Sciences of the United States of America",
+    "semantic_scholar_id": "f86f1748d1b6d22870f4347fd5d65314ba800583",
+    "corpus_id": 198496504,
+    "category": "Mathematics, Computer Science, Medicine"
+  },
+  "1811-04918": {
+    "title": "Learning and Generalization in Overparameterized Neural Networks, Going Beyond Two Layers",
+    "authors": [
+      "Zeyuan Allen-Zhu",
+      "Yuanzhi Li",
+      "Yingyu Liang"
+    ],
+    "publication_date": "2018-11-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "611fe6e34df07ea1b2104899e49642b4531b53e9",
+    "corpus_id": 53287096,
+    "category": "Computer Science, Mathematics"
+  },
+  "1806-07572": {
+    "title": "Neural Tangent Kernel: Convergence and Generalization in Neural Networks",
+    "authors": [
+      "Arthur Jacot",
+      "Franck Gabriel",
+      "Clément Hongler"
+    ],
+    "publication_date": "2018-06-20",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "7a84a692327534fd227fa1e07fcb3816b633c591",
+    "corpus_id": 49321232,
+    "category": "Computer Science, Mathematics"
+  },
+  "1605-08165": {
+    "title": "Highly-Smooth Zero-th Order Online Optimization",
+    "authors": [
+      "F. Bach",
+      "Vianney Perchet"
+    ],
+    "publication_date": "2016-05-26",
+    "venue": "Annual Conference Computational Learning Theory",
+    "semantic_scholar_id": "11f90fb6b7c2309df6254cc8cc78692016cbda1a",
+    "corpus_id": 13636088,
+    "category": "Computer Science, Mathematics"
+  },
+  "1507-08752": {
+    "title": "An Optimal Algorithm for Bandit and Zero-Order Convex Optimization with Two-Point Feedback",
+    "authors": [
+      "Ohad Shamir"
+    ],
+    "publication_date": "2015-07-31",
+    "venue": "Journal of machine learning research",
+    "semantic_scholar_id": "436445b4cf3fe25e5778b5838eb623accad428e5",
+    "corpus_id": 2541603,
+    "category": "Mathematics, Computer Science"
+  },
+  "1312-2139": {
+    "title": "Optimal Rates for Zero-Order Convex Optimization: The Power of Two Function Evaluations",
+    "authors": [
+      "John C. Duchi",
+      "Michael I. Jordan",
+      "M. Wainwright",
+      "Andre Wibisono"
+    ],
+    "publication_date": "2013-12-07",
+    "venue": "IEEE Transactions on Information Theory",
+    "semantic_scholar_id": "d7440b0840c9a1aace59884e73d21250bec096e5",
+    "corpus_id": 552111,
+    "category": "Computer Science, Mathematics"
+  },
+  "cs/0408007": {
+    "title": "Online convex optimization in the bandit setting: gradient descent without a gradient",
+    "authors": [
+      "A. Flaxman",
+      "A. Kalai",
+      "H. B. McMahan"
+    ],
+    "publication_date": "2004-08-02",
+    "venue": "ACM-SIAM Symposium on Discrete Algorithms",
+    "semantic_scholar_id": "4a8d66e20a3727c848f8a5ef1a7e4406541a8e66",
+    "corpus_id": 3264230,
+    "category": "Computer Science, Mathematics"
+  }
+}

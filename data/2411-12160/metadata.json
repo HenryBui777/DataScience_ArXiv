@@ -1,0 +1,13 @@
+{
+  "title": "Space-Efficient Online Computation of String Net Occurrences",
+  "authors": [
+    "Takuya Mieno",
+    "Shunsuke Inenaga"
+  ],
+  "summary": "A substring $u$ of a string $T$ is said to be a repeat if $u$ occurs at least twice in $T$. An occurrence $[i..j]$ of a repeat $u$ in $T$ is said to be a net occurrence if each of the substrings $aub = T[i-1..j+1]$, $au = T[i-1..j+1]$, and $ub = T[i..j+1]$ occurs exactly once in $T$. The occurrence $[i-1..j+1]$ of $aub$ is said to be an extended net occurrence of $u$. Let $T$ be an input string of length $n$ over an alphabet of size $σ$, and let $\\mathsf{ENO}(T)$ denote the set of extended net occurrences of repeats in $T$. Guo et al. [SPIRE 2024] presented an online algorithm which can report $\\mathsf{ENO}(T[1..i])$ in $T[1..i]$ in $O(nσ^2)$ time, for each prefix $T[1..i]$ of $T$. Very recently, Inenaga [arXiv 2024] gave a faster online algorithm that can report $\\mathsf{ENO}(T[1..i])$ in optimal $O(\\#\\mathsf{ENO}(T[1..i]))$ time for each prefix $T[1..i]$ of $T$, where $\\#S$ denotes the cardinality of a set $S$. Both of the aforementioned data structures can be maintained in $O(n \\log σ)$ time and occupy $O(n)$ space, where the $O(n)$-space requirement comes from the suffix tree data structure. In this paper, we propose the two following space-efficient alternatives: (1) A sliding-window algorithm of $O(d)$ working space that can report $\\mathsf{ENO}(T[i-d+1..i])$ in optimal $O(\\#\\mathsf{ENO}(T[i-d+1..i]))$ time for each sliding window $T[i-d+1..i]$ of size $d$ in $T$. (2) A CDAWG-based online algorithm of $O(e)$ working space that can report $\\mathsf{ENO}(T[1..i])$ in optimal $O(\\#\\mathsf{ENO}(T[1..i]))$ time for each prefix $T[1..i]$ of $T$, where $e < 2n$ is the number of edges in the CDAWG for $T$. All of our proposed data structures can be maintained in $O(n \\log σ)$ time for the input online string $T$. We also discuss that the extended net occurrences of repeats in $T$ can be fully characterized in terms of the minimal unique substrings (MUSs) in $T$.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DS"
+}

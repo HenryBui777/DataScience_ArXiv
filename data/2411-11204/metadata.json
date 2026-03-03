@@ -1,0 +1,13 @@
+{
+  "title": "A numerical method for scattering problems with unbounded interfaces",
+  "authors": [
+    "Tristan Goodwill",
+    "Charles L. Epstein"
+  ],
+  "summary": "We introduce a new class of computationally tractable scattering problems in unbounded domains, which we call decomposable problems. In these decomposable problems, the computational domain can be split into a finite collection of subdomains in which the scatterer has a \"simple\" structure. A subdomain is simple if the domain Green's function for this subdomain is either available analytically or can be computed numerically with arbitrary accuracy by a tractable method. These domain Green's functions are then used to reformulate the scattering problem as a system of boundary integral equations on the union of the subdomain boundaries. This reformulation gives a practical numerical method, as the resulting integral equations can then be solved, to any desired degree of accuracy, by using coordinate complexification over a finite interval, and standard discretization techniques.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

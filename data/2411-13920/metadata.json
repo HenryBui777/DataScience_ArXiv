@@ -1,0 +1,22 @@
+{
+  "title": "iHQGAN: A Lightweight Invertible Hybrid Quantum-Classical Generative Adversarial Network for Unsupervised Image-to-Image Translation",
+  "authors": [
+    "Xue Yang",
+    "Rigui Zhou",
+    "ShiZheng Jia",
+    "YaoChong Li",
+    "Jicheng Yan",
+    "ZhengYu Long",
+    "Wenyu Guo",
+    "Fuhui Xiong",
+    "Wenshan Xu"
+  ],
+  "summary": "Leveraging quantum computing's intrinsic properties to enhance machine learning has shown promise, with quantum generative adversarial networks (QGANs) demonstrating benefits in data generation. However, the application of QGANs to complex unsupervised image-to-image (I2I) translation remains unexplored. Moreover, classical neural networks often suffer from large parameter spaces, posing challenges for GAN-based I2I methods. Inspired by the fact that unsupervised I2I translation is essentially an approximate reversible problem, we propose a lightweight invertible hybrid quantum-classical unsupervised I2I translation model - iHQGAN, by harnessing the invertibility of quantum computing. Specifically, iHQGAN employs two mutually approximately reversible quantum generators with shared parameters, effectively reducing the parameter scale. To ensure content consistency between generated and source images, each quantum generator is paired with an assisted classical neural network (ACNN), enforcing a unidirectional cycle consistency constraint between them. Simulation experiments were conducted on 19 sub-datasets across three tasks. Qualitative and quantitative assessments indicate that iHQGAN effectively performs unsupervised I2I translation with excellent generalization and can outperform classical methods that use low-complexity CNN-based generators. Additionally, iHQGAN, as with classical reversible methods, reduces the parameter scale of classical irreversible methods via a reversible mechanism. This study presents the first versatile quantum solution for unsupervised I2I translation, extending QGAN research to more complex image generation scenarios and offering a quantum approach to decrease the parameters of GAN-based unsupervised I2I translation methods.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-25"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

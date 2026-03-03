@@ -1,0 +1,15 @@
+{
+  "title": "Supervised Autoencoders with Fractionally Differentiated Features and Triple Barrier Labelling Enhance Predictions on Noisy Data",
+  "authors": [
+    "Bartosz Bieganowski",
+    "Robert Ślepaczuk"
+  ],
+  "summary": "This paper investigates the enhancement of financial time series forecasting with the use of neural networks through supervised autoencoders (SAE), to improve investment strategy performance. Using the Sharpe and Information Ratios, it specifically examines the impact of noise augmentation and triple barrier labeling on risk-adjusted returns. The study focuses on Bitcoin, Litecoin, and Ethereum as the traded assets from January 1, 2016, to April 30, 2022. Findings indicate that supervised autoencoders, with balanced noise augmentation and bottleneck size, significantly boost strategy effectiveness. However, excessive noise and large bottleneck sizes can impair performance.",
+  "submission_date": "2024-11-06",
+  "revised_dates": [
+    "2024-11-30"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-fin.TR, cs.LG, stat.CO, stat.ML"
+}

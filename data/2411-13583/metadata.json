@@ -1,0 +1,16 @@
+{
+  "title": "Enhanced FIWARE-Based Architecture for Cyberphysical Systems With Tiny Machine Learning and Machine Learning Operations: A Case Study on Urban Mobility Systems",
+  "authors": [
+    "Javier Conde",
+    "Andrés Munoz-Arcentales",
+    "Álvaro Alonso",
+    "Joaquín Salvachúa",
+    "Gabriel Huecas"
+  ],
+  "summary": "The rise of AI and the Internet of Things is accelerating the digital transformation of society. Mobility computing presents specific barriers due to its real-time requirements, decentralization, and connectivity through wireless networks. New research on edge computing and tiny machine learning (tinyML) explores the execution of AI models on low-performance devices to address these issues. However, there are not many studies proposing agnostic architectures that manage the entire lifecycle of intelligent cyberphysical systems. This article extends a previous architecture based on FIWARE software components to implement the machine learning operations flow, enabling the management of the entire tinyML lifecycle in cyberphysical systems. We also provide a use case to showcase how to implement the FIWARE architecture through a complete example of a smart traffic system. We conclude that the FIWARE ecosystem constitutes a real reference option for developing tinyML and edge computing in cyberphysical systems.",
+  "submission_date": "2024-11-16",
+  "revised_dates": [],
+  "publication_venue": "IT Professional ( Volume: 26, Issue: 5, Sept.-Oct. 2024)",
+  "pdf_url": null,
+  "category": "cs.CR, cs.AI, cs.DC, cs.NI"
+}

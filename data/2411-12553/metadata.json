@@ -1,0 +1,13 @@
+{
+  "title": "Quantum advantage from soft decoders",
+  "authors": [
+    "André Chailloux",
+    "Jean-Pierre Tillich"
+  ],
+  "summary": "In the last years, Regev's reduction has been used as a quantum algorithmic tool for providing a quantum advantage for variants of the decoding problem. Following this line of work, the authors of [JSW+24] have recently come up with a quantum algorithm called Decoded Quantum Interferometry that is able to solve in polynomial time several optimization problems. They study in particular the Optimal Polynomial Interpolation (OPI) problem, which can be seen as a decoding problem on Reed-Solomon codes. In this work, we provide strong improvements for some instantiations of the OPI problem. The most notable improvements are for the $ISIS_{\\infty}$ problem (originating from lattice-based cryptography) on Reed-Solomon codes but we also study different constraints for OPI. Our results provide natural and convincing decoding problems for which we believe to have a quantum advantage. Our proof techniques involve the use of a soft decoder for Reed-Solomon codes, namely the decoding algorithm from Koetter and Vardy [KV03]. In order to be able to use this decoder in the setting of Regev's reduction, we provide a novel generic reduction from a syndrome decoding problem to a coset sampling problem, providing a powerful and simple to use theorem, which generalizes previous work and is of independent interest. We also provide an extensive study of OPI using the Koetter and Vardy algorithm.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

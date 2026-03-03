@@ -1,0 +1,15 @@
+{
+  "title": "Wafer Map Defect Classification Using Autoencoder-Based Data Augmentation and Convolutional Neural Network",
+  "authors": [
+    "Yin-Yin Bao",
+    "Er-Chao Li",
+    "Hong-Qiang Yang",
+    "Bin-Bin Jia"
+  ],
+  "summary": "In semiconductor manufacturing, wafer defect maps (WDMs) play a crucial role in diagnosing issues and enhancing process yields by revealing critical defect patterns. However, accurately categorizing WDM defects presents significant challenges due to noisy data, unbalanced defect classes, and the complexity of failure modes. To address these challenges, this study proposes a novel method combining a self-encoder-based data augmentation technique with a convolutional neural network (CNN). By introducing noise into the latent space, the self-encoder enhances data diversity and mitigates class imbalance, thereby improving the model's generalization capabilities. The augmented dataset is subsequently used to train the CNN, enabling it to deliver precise classification of both common and rare defect patterns. Experimental results on the WM-811K dataset demonstrate that the proposed method achieves a classification accuracy of 98.56%, surpassing Random Forest, SVM, and Logistic Regression by 19%, 21%, and 27%, respectively. These findings highlight the robustness and effectiveness of the proposed approach, offering a reliable solution for wafer defect detection and classification.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI, eess.IV"
+}

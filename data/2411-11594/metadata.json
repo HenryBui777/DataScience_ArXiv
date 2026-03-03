@@ -1,0 +1,16 @@
+{
+  "title": "Interval Multiplicities of Persistence Modules",
+  "authors": [
+    "Hideto Asashiba",
+    "Enhao Liu"
+  ],
+  "summary": "For any persistence module $M$ over a finite poset $\\mathbf{P}$, and any interval $I$ in $\\mathbf{P}$, we give a formula of the multiplicity $d_M(V_I)$ of the interval module $V_I$ in the indecomposable decomposition of $M$ in terms of the ranks of matrices consisting of structure linear maps of the module $M$, which gives a generalization of the corresponding formula for 1-dimensional persistence modules. This makes it possible to compute the maximal interval-decomposable direct summand of $M$, which gives us a way to decide whether $M$ is interval-decomposable or not. Moreover, the formula tells us which morphisms of $\\mathbf{P}$ are essential to compute the multiplicity $d_M(V_I)$. This suggests us some order-preserving map $ζ\\colon Z \\to \\mathbf{P}$ such that the induced restriction functor $R \\colon \\operatorname{mod} \\mathbf{P} \\to \\operatorname{mod} Z$ has the property that the multiplicity $d:= d_{R(M)}(R(V_I))$ is equal to $d_M(V_I)$. In this case, we say that $ζ$ essentially covers $I$. If $Z$ can be taken as a poset of Dynkin type $\\mathbb{A}$, also known as a zigzag poset, then the calculation of the multiplicity $d$ can be done more efficiently, starting from the filtration level of topological spaces. Thus this even makes it unnecessary to compute the structure linear maps of $M$.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-21",
+    "2025-05-29"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.RT, math.AT, math.RA"
+}

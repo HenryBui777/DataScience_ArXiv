@@ -1,0 +1,21 @@
+{
+  "title": "Signaling and Social Learning in Swarms of Robots",
+  "authors": [
+    "Leo Cazenille",
+    "Maxime Toquebiau",
+    "Nicolas Lobato-Dauzier",
+    "Alessia Loi",
+    "Loona Macabre",
+    "Nathanael Aubert-Kato",
+    "Anthony Genot",
+    "Nicolas Bredeche"
+  ],
+  "summary": "This paper investigates the role of communication in improving coordination within robot swarms, focusing on a paradigm where learning and execution occur simultaneously in a decentralized manner. We highlight the role communication can play in addressing the credit assignment problem (individual contribution to the overall performance), and how it can be influenced by it. We propose a taxonomy of existing and future works on communication, focusing on information selection and physical abstraction as principal axes for classification: from low-level lossless compression with raw signal extraction and processing to high-level lossy compression with structured communication models. The paper reviews current research from evolutionary robotics, multi-agent (deep) reinforcement learning, language models, and biophysics models to outline the challenges and opportunities of communication in a collective of robots that continuously learn from one another through local message exchanges, illustrating a form of social learning.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-19"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO, cs.AI, cs.LG, cs.MA"
+}

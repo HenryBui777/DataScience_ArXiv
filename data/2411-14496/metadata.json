@@ -1,0 +1,12 @@
+{
+  "title": "Multi-agent reinforcement learning strategy to maximize the lifetime of Wireless Rechargeable",
+  "authors": [
+    "Bao Nguyen"
+  ],
+  "summary": "The thesis proposes a generalized charging framework for multiple mobile chargers to maximize the network lifetime and ensure target coverage and connectivity in large scale WRSNs. Moreover, a multi-point charging model is leveraged to enhance charging efficiency, where the MC can charge multiple sensors simultaneously at each charging location. The thesis proposes an effective Decentralized Partially Observable Semi-Markov Decision Process (Dec POSMDP) model that promotes Mobile Chargers (MCs) cooperation and detects optimal charging locations based on realtime network information. Furthermore, the proposal allows reinforcement algorithms to be applied to different networks without requiring extensive retraining. To solve the Dec POSMDP model, the thesis proposes an Asynchronous Multi Agent Reinforcement Learning algorithm (AMAPPO) based on the Proximal Policy Optimization algorithm (PPO).",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.CV, cs.GT, cs.MA"
+}

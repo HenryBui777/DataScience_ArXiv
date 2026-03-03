@@ -1,0 +1,16 @@
+{
+  "title": "Optimal Transcoding Preset Selection for Live Video Streaming",
+  "authors": [
+    "Zahra Nabizadeh",
+    "Maedeh Jamali",
+    "Nader Karimi",
+    "Shadrokh Samavi",
+    "Shahram Shirani"
+  ],
+  "summary": "In today's digital landscape, video content dominates internet traffic, underscoring the need for efficient video processing to support seamless live streaming experiences on platforms like YouTube Live, Twitch, and Facebook Live. This paper introduces a comprehensive framework designed to optimize video transcoding parameters, with a specific focus on preset and bitrate selection to minimize distortion while respecting constraints on bitrate and transcoding time. The framework comprises three main steps: feature extraction, prediction, and optimization. It leverages extracted features to predict transcoding time and rate-distortion, employing both supervised and unsupervised methods. By utilizing integer linear programming, it identifies the optimal sequence of presets and bitrates for video segments, ensuring real-time application feasibility under set constraints. The results demonstrate the framework's effectiveness in enhancing video quality for live streaming, maintaining high standards of video delivery while managing computational resources efficiently. This optimization approach meets the evolving demands of video delivery by offering a solution for real-time transcoding optimization. Evaluation using the User Generated Content dataset showed an average PSNR improvement of 1.5 dB over the default Twitch configuration, highlighting significant PSNR gains. Additionally, subsequent experiments demonstrated a BD-rate reduction of -49.60%, reinforcing the framework's superior performance over Twitch's default configuration.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.MM"
+}

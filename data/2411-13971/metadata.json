@@ -1,0 +1,18 @@
+{
+  "title": "How do imperfections cause asymmetry in elastic snap-through?",
+  "authors": [
+    "Andrea Giudici",
+    "Weicheng Huang",
+    "Qiong Wang",
+    "Yuzhe Wang",
+    "Mingchao Liu",
+    "Sameh Tawfick",
+    "Dominic Vella"
+  ],
+  "summary": "A symmetrically-buckled arch whose boundaries are clamped at an angle has two stable equilibria: an inverted and a natural state. When the distance between the clamps is increased (i.e. the confinement is decreased) the system snaps from the inverted to the natural state. Depending on the rate at which the confinement is decreased ('unloading'), the symmetry of the system during snap-through may change: slow unloading results in snap-through occurring asymmetrically, while fast unloading results in a symmetric snap-through. It has recently been shown [Wang et al., Phys. Rev. Lett. 132, 267201 (2024)] that the transient asymmetry at slow unloading rates is the result of the amplification of small asymmetric precursor oscillations (shape perturbations) introduced dynamically to the system, even when the system itself is perfectly symmetric. In reality, however, imperfections, such as small asymmetries in the boundary conditions, are present too. Using numerical simulations and a simple toy model, we discuss the relative importance of intrinsic imperfections and initial asymmetric shape perturbations in determining the transient asymmetry observed. We show that, for small initial perturbations, the magnitude of the asymmetry grows in proportion to the size of the intrinsic imperfection but that, when initial shape perturbations are large, intrinsic imperfections are unimportant - the asymmetry of the system is dominated by the transient amplification of the initial asymmetric shape perturbations. We also show that the dominant origin of asymmetry changes the way that asymmetry grows dynamically. Our results may guide engineering and design of snapping beams used to control insect-sized jumping robots.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "Phys. Rev. E 111, 045503 (2025)",
+  "pdf_url": null,
+  "category": "cond-mat.soft"
+}

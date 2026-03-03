@@ -1,0 +1,17 @@
+{
+  "title": "Robust Energy System Design via Semi-infinite Programming",
+  "authors": [
+    "Moritz Wedemeyer",
+    "Eike Cramer",
+    "Alexander Mitsos",
+    "Manuel Dahmen"
+  ],
+  "summary": "Time-series information needs to be incorporated into energy system optimization to account for the uncertainty of renewable energy sources. Typically, time-series aggregation methods are used to reduce historical data to a few representative scenarios but they may neglect extreme scenarios, which disproportionally drive the costs in energy system design. We propose the robust energy system design (RESD) approach based on semi-infinite programming and use an adaptive discretization-based algorithm to identify worst-case scenarios during optimization. The RESD approach can guarantee robust designs for problems with nonconvex operational behavior, which current methods cannot achieve. The RESD approach is demonstrated by designing an energy supply system for the island of La Palma. To improve computational performance, principal component analysis is used to reduce the dimensionality of the uncertainty space. The robustness and costs of the approximated problem with significantly reduced dimensionality approximate the full-dimensional solution closely. Even with strong dimensionality reduction, the RESD approach is computationally intense and thus limited to small problems.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-05-21"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC"
+}

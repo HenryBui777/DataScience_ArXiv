@@ -1,0 +1,38 @@
+{
+  "title": "High-Efficiency and Low-Noise Detectors for the Upgraded CLASS 90 GHz Focal Plane",
+  "authors": [
+    "Carolina Núñez",
+    "John W. Appel",
+    "Rahul Datta",
+    "Charles L. Bennett",
+    "Michael K. Brewer",
+    "Sarah Marie Bruno",
+    "Ricardo Bustos",
+    "David T. Chuss",
+    "Nick Costen",
+    "Jullianna Denes Couto",
+    "Sumit Dahal",
+    "Kevin L. Denis",
+    "Joseph R. Eimer",
+    "Thomas Essinger-Hileman",
+    "Jeffrey Iuliano",
+    "Yunyang Li",
+    "Tobias A. Marriage",
+    "Jennette Mateo",
+    "Matthew A. Petroff",
+    "Rui Shi",
+    "Karwan Rostem",
+    "Deniz A. N. Valle",
+    "Duncan Watts",
+    "Edward J. Wollack",
+    "Lingzhen Zeng"
+  ],
+  "summary": "We present the in-lab and on-sky performance for the upgraded 90 GHz focal plane of the Cosmology Large Angular Scale Surveyor (CLASS), which had four of its seven detector wafers updated during the austral winter of 2022. The update aimed to improve the transition-edge-sensor (TES) stability and bias range and to realize the high optical efficiency of the sensor design. Modifications included revised circuit terminations, electrical contact between the TES superconductor and the normal metal providing the bulk of the bolometer's heat capacity, and additional filtering on the TES bias lines. The upgrade was successful: 94% of detectors are stable down to 15% of the normal resistance, providing a wide overlapping range of bias voltages for all TESs on a wafer. The median telescope efficiency improved from $0.42^{+0.15}_{-0.22}$ to $0.60^{+0.10}_{-0.32}$ (68% quantiles). For the four upgraded wafers alone, median telescope efficiency increased to $0.65^{+0.06}_{-0.06}$. Given our efficiency estimate for the receiver optics, this telescope efficiency implies a detector efficiency exceeding $0.90$. The overall noise-equivalent temperature of the 90 GHz focal plane improved from 19 $μ$K$\\sqrt{s}$ to 9.7 $μ$K$\\sqrt{s}$.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-07-29"
+  ],
+  "publication_venue": "ApJS 278 56 (2025)",
+  "pdf_url": null,
+  "category": "astro-ph.IM, astro-ph.CO"
+}

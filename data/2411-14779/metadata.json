@@ -1,0 +1,15 @@
+{
+  "title": "New families of non-Reed-Solomon MDS codes",
+  "authors": [
+    "Lingfei Jin",
+    "Liming Ma",
+    "Chaoping Xing",
+    "Haiyan Zhou"
+  ],
+  "summary": "MDS codes have garnered significant attention due to their wide applications in practice. To date, most known MDS codes are equivalent to Reed-Solomon codes. The construction of non-Reed-Solomon (non-RS) type MDS codes has emerged as an intriguing and important problem in both coding theory and finite geometry. Although some constructions of non-RS type MDS codes have been presented in the literature, the parameters of these MDS codes remain subject to strict constraints. In this paper, we introduce a general framework of constructing $[n,k]$ MDS codes using the idea of selecting a suitable set of evaluation polynomials and a set of evaluation points such that all nonzero polynomials have at most $k-1$ zeros in the evaluation set. Moreover, these MDS codes can be proved to be non-Reed-Solomon by computing their Schur squares. Furthermore, several explicit constructions of non-RS MDS codes are given by converting to combinatorial problems. As a result, new families of non-RS MDS codes with much more flexible lengths can be obtained and most of them are not covered by the known results.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IT"
+}

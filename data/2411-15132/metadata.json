@@ -1,0 +1,18 @@
+{
+  "title": "Efficient Eigenstate Preparation in an Integrable Model with Hilbert Space Fragmentation",
+  "authors": [
+    "Roberto Ruiz",
+    "Alejandro Sopena",
+    "Balázs Pozsgay",
+    "Esperanza López"
+  ],
+  "summary": "We consider the preparation of all the eigenstates of spin chains using quantum circuits. It is known that generic eigenstates of free-fermionic spin chains can be prepared with circuits whose depth grows only polynomially with the length of the chain and the number of particles. We show that the polynomial growth is also achievable for selected interacting models where the interaction between the particles is sufficiently simple. Our working example is the folded XXZ model, an integrable spin chain that exhibits Hilbert space fragmentation. We present the explicit quantum circuits that prepare arbitrary eigenstates of this model on an open chain efficiently. We perform error-mitigated noisy simulations with circuits of up to 13 qubits and different connectivities between qubits, achieving a relative error below 5%. As a byproduct, we extend a recent reformulation of the Bethe ansatz as a quantum circuit from closed to open boundary conditions.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-12-03",
+    "2025-09-15"
+  ],
+  "publication_venue": "PRX Quantum 6, 030316 (2025)",
+  "pdf_url": null,
+  "category": "quant-ph, cond-mat.stat-mech, math-ph, nlin.SI"
+}

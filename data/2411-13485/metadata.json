@@ -1,0 +1,18 @@
+{
+  "title": "Utilizing Large Language Models to Synthesize Product Desirability Datasets",
+  "authors": [
+    "John D. Hastings",
+    "Sherri Weitl-Harms",
+    "Joseph Doty",
+    "Zachary J. Myers",
+    "Warren Thompson"
+  ],
+  "summary": "This research explores the application of large language models (LLMs) to generate synthetic datasets for Product Desirability Toolkit (PDT) testing, a key component in evaluating user sentiment and product experience. Utilizing gpt-4o-mini, a cost-effective alternative to larger commercial LLMs, three methods, Word+Review, Review+Word, and Supply-Word, were each used to synthesize 1000 product reviews. The generated datasets were assessed for sentiment alignment, textual diversity, and data generation cost. Results demonstrated high sentiment alignment across all methods, with Pearson correlations ranging from 0.93 to 0.97. Supply-Word exhibited the highest diversity and coverage of PDT terms, although with increased generation costs. Despite minor biases toward positive sentiments, in situations with limited test data, LLM-generated synthetic data offers significant advantages, including scalability, cost savings, and flexibility in dataset production.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-22"
+  ],
+  "publication_venue": "2024 IEEE International Conference on Big Data (IEEE BigData 2024)",
+  "pdf_url": null,
+  "category": "cs.CL, cs.AI, cs.LG"
+}

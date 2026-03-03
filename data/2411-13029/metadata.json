@@ -1,0 +1,17 @@
+{
+  "title": "Probably Approximately Precision and Recall Learning",
+  "authors": [
+    "Lee Cohen",
+    "Yishay Mansour",
+    "Shay Moran",
+    "Han Shao"
+  ],
+  "summary": "Precision and Recall are fundamental metrics in machine learning tasks where both accurate predictions and comprehensive coverage are essential, such as in multi-label learning, language generation, medical studies, and recommender systems. A key challenge in these settings is the prevalence of one-sided feedback, where only positive examples are observed during training--e.g., in multi-label tasks like tagging people in Facebook photos, we may observe only a few tagged individuals, without knowing who else appears in the image. To address learning under such partial feedback, we introduce a Probably Approximately Correct (PAC) framework in which hypotheses are set functions that map each input to a set of labels, extending beyond single-label predictions and generalizing classical binary, multi-class, and multi-label models. Our results reveal sharp statistical and algorithmic separations from standard settings: classical methods such as Empirical Risk Minimization provably fail, even for simple hypothesis classes. We develop new algorithms that learn from positive data alone, achieving optimal sample complexity in the realizable case, and establishing multiplicative--rather than additive-approximation guarantees in the agnostic case, where achieving additive regret is impossible.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-10-23"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, stat.ML"
+}

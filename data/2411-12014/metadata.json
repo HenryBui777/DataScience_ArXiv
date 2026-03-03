@@ -1,0 +1,12 @@
+{
+  "title": "On-the-Go Path Planning and Repair in Static and Dynamic Scenarios",
+  "authors": [
+    "Daniel Ajeleye"
+  ],
+  "summary": "Autonomous systems, including robots and drones, face significant challenges when navigating through dynamic environments, particularly within urban settings where obstacles, fluctuating traffic, and pedestrian activity are constantly shifting. Although, traditional motion planning algorithms like the wavefront planner and gradient descent planner, which use potential functions, work well in static environments, they fall short in situations where the environment is continuously changing. This work proposes a dynamic, real-time path planning approach specifically designed for autonomous systems, allowing them to effectively avoid static and dynamic obstacles, thereby enhancing their overall adaptability. The approach integrates the efficiency of conventional planners with the ability to make rapid adjustments in response to moving obstacles and environmental changes. The simulation results discussed in this article demonstrate the effectiveness of the proposed method, demonstrating its suitability for robotic path planning in both known and unknown environments, including those involving mobile objects, agents, or potential threats.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO, eess.SY"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Information Rates of Channels with Additive White Cauchy Noise",
+  "authors": [
+    "Shuqin Pang",
+    "Wenyi Zhang"
+  ],
+  "summary": "Information transmission over discrete-time channels with memoryless additive noise obeying a Cauchy, rather than Gaussian, distribution, are studied. The channel input satisfies an average power constraint. Upper and lower bounds to such additive white Cauchy noise (AWCN) channel capacity are established. In the high input power regime, the gap between upper and lower bounds is within 0.5 nats per channel use, and the lower bound can be achieved with Gaussian input. In the lower input power regime, the capacity can be asymptotically approached by employing antipodal input. It is shown that the AWCN decoder can be applied to additive white Gaussian noise (AWGN) channels with negligible rate loss, while the AWGN decoder when applied to AWCN channels cannot ensure reliable decoding. For the vector receiver case, it is shown that a linear combining receiver front end loses the channel combining gain, a phenomenon drastically different from AWGN vector channels.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IT"
+}

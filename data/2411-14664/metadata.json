@@ -1,0 +1,17 @@
+{
+  "title": "Sparsifying Suprema of Gaussian Processes",
+  "authors": [
+    "Anindya De",
+    "Shivam Nadimpalli",
+    "Ryan O'Donnell",
+    "Rocco A. Servedio"
+  ],
+  "summary": "We give a dimension-independent sparsification result for suprema of centered Gaussian processes: Let $T$ be any (possibly infinite) bounded set of vectors in $\\mathbb{R}^n$, and let $\\{\\boldsymbol{X}_t := t \\cdot \\boldsymbol{g} \\}_{t\\in T}$ be the canonical Gaussian process on $T$, where $\\boldsymbol{g}\\sim N(0, I_n)$. We show that there is an $O_\\varepsilon(1)$-size subset $S \\subseteq T$ and a set of real values $\\{c_s\\}_{s \\in S}$ such that the random variable $\\sup_{s \\in S} \\{\\boldsymbol{X}_s + c_s\\}$ is an $\\varepsilon$-approximator\\,(in $L^1$) of the random variable $\\sup_{t \\in T} {\\boldsymbol{X}}_t$. Notably, the size of the sparsifier $S$ is completely independent of both $|T|$ and the ambient dimension $n$.\n  We give two applications of this sparsification theorem:\n  - A \"Junta Theorem\" for Norms: We show that given any norm $ν(x)$ on $\\mathbb{R}^n$, there is another norm $ψ(x)$ depending only on the projection of $x$ onto $O_\\varepsilon(1)$ directions, for which $ψ({\\boldsymbol{g}})$ is a multiplicative $(1 \\pm \\varepsilon)$-approximation of $ν({\\boldsymbol{g}})$ with probability $1-\\varepsilon$ for ${\\boldsymbol{g}} \\sim N(0,I_n)$.\n  - Sparsification of Convex Sets: We show that any intersection of (possibly infinitely many) halfspaces in $\\mathbb{R}^n$ that are at distance $r$ from the origin is $\\varepsilon$-close (under $N(0,I_n)$) to an intersection of only $O_{r,\\varepsilon}(1)$ halfspaces. This yields new polynomial-time \\emph{agnostic learning} and \\emph{tolerant property testing} algorithms for intersections of halfspaces.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-11-09"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ML, cs.CC, cs.DS, cs.LG, math.PR"
+}

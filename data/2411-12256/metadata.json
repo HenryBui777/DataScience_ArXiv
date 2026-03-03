@@ -1,0 +1,17 @@
+{
+  "title": "Restructuring Tractable Probabilistic Circuits",
+  "authors": [
+    "Honghua Zhang",
+    "Benjie Wang",
+    "Marcelo Arenas",
+    "Guy Van den Broeck"
+  ],
+  "summary": "Probabilistic circuits (PCs) are a unifying representation for probabilistic models that support tractable inference. Numerous applications of PCs like controllable text generation depend on the ability to efficiently multiply two circuits. Existing multiplication algorithms require that the circuits respect the same structure, i.e. variable scopes decomposes according to the same vtree. In this work, we propose and study the task of restructuring structured(-decomposable) PCs, that is, transforming a structured PC such that it conforms to a target vtree. We propose a generic approach for this problem and show that it leads to novel polynomial-time algorithms for multiplying circuits respecting different vtrees, as well as a practical depth-reduction algorithm that preserves structured decomposibility. Our work opens up new avenues for tractable PC inference, suggesting the possibility of training with less restrictive PC structures while enabling efficient inference by changing their structures at inference time.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-04-30"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AI, cs.LG"
+}

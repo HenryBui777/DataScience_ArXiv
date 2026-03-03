@@ -1,0 +1,17 @@
+{
+  "title": "DBF-Net: A Dual-Branch Network with Feature Fusion for Ultrasound Image Segmentation",
+  "authors": [
+    "Guoping Xu",
+    "Ximing Wu",
+    "Wentao Liao",
+    "Xinglong Wu",
+    "Qing Huang",
+    "Chang Li"
+  ],
+  "summary": "Accurately segmenting lesions in ultrasound images is challenging due to the difficulty in distinguishing boundaries between lesions and surrounding tissues. While deep learning has improved segmentation accuracy, there is limited focus on boundary quality and its relationship with body structures. To address this, we introduce UBBS-Net, a dual-branch deep neural network that learns the relationship between body and boundary for improved segmentation. We also propose a feature fusion module to integrate body and boundary information. Evaluated on three public datasets, UBBS-Net outperforms existing methods, achieving Dice Similarity Coefficients of 81.05% for breast cancer, 76.41% for brachial plexus nerves, and 87.75% for infantile hemangioma segmentation. Our results demonstrate the effectiveness of UBBS-Net for ultrasound image segmentation. The code is available at https://github.com/apple1986/DBF-Net.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.CV"
+}

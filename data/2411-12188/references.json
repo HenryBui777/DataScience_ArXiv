@@ -1,0 +1,709 @@
+{
+  "2502-17423": {
+    "title": "S4S: Solving for a Diffusion Model Solver",
+    "authors": [
+      "Eric Frankel",
+      "Sitan Chen",
+      "Jungshian Li",
+      "Pang Wei Koh",
+      "Lillian J. Ratliff",
+      "Sewoong Oh"
+    ],
+    "publication_date": "2025-02-24",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "dc57141ab21fab8e0229bedbbccb50f1d04fb0e9",
+    "corpus_id": 276575473,
+    "category": "Computer Science"
+  },
+  "2410-07761": {
+    "title": "Jump Your Steps: Optimizing Sampling Schedule of Discrete Diffusion Models",
+    "authors": [
+      "Yonghyun Park",
+      "Chieh-Hsin Lai",
+      "Satoshi Hayakawa",
+      "Yuhta Takida",
+      "Yuki Mitsufuji"
+    ],
+    "publication_date": "2024-10-10",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "30e10edf8f4916c8b3ca04a43f7ec62d44b05b5d",
+    "corpus_id": 273233248,
+    "category": "Computer Science"
+  },
+  "2405-14867": {
+    "title": "Improved Distribution Matching Distillation for Fast Image Synthesis",
+    "authors": [
+      "Tianwei Yin",
+      "Michael Gharbi",
+      "Taesung Park",
+      "Richard Zhang",
+      "Eli Shechtman",
+      "Frédo Durand",
+      "William T. Freeman"
+    ],
+    "publication_date": "2024-05-23",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "cc6fc3c546b354abf6a0aa3b553f28a6b812489f",
+    "corpus_id": 269982921,
+    "category": "Computer Science"
+  },
+  "2405-11326": {
+    "title": "On the Trajectory Regularity of ODE-based Diffusion Sampling",
+    "authors": [
+      "Defang Chen",
+      "Zhenyu Zhou",
+      "Can Wang",
+      "Chunhua Shen",
+      "Siwei Lyu"
+    ],
+    "publication_date": "2024-05-18",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "48856ff99053bb9769c900c93aea2272c764cb30",
+    "corpus_id": 269921711,
+    "category": "Computer Science"
+  },
+  "2404-14507": {
+    "title": "Align Your Steps: Optimizing Sampling Schedules in Diffusion Models",
+    "authors": [
+      "Amirmojtaba Sabour",
+      "Sanja Fidler",
+      "Karsten Kreis"
+    ],
+    "publication_date": "2024-04-22",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "4b6780f894a57330f11ac99f15cf79da07b2125b",
+    "corpus_id": 269302467,
+    "category": "Computer Science"
+  },
+  "2312-00094": {
+    "title": "Fast ODE-based Sampling for Diffusion Models in Around 5 Steps",
+    "authors": [
+      "Zhenyu Zhou",
+      "Defang Chen",
+      "Can Wang",
+      "Chun Chen"
+    ],
+    "publication_date": "2023-11-30",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "7acc1080caae1c12f9262a91def739271c491f47",
+    "corpus_id": 265551613,
+    "category": "Computer Science"
+  },
+  "2311-18828": {
+    "title": "One-Step Diffusion with Distribution Matching Distillation",
+    "authors": [
+      "Tianwei Yin",
+      "Michael Gharbi",
+      "Richard Zhang",
+      "Eli Shechtman",
+      "Frédo Durand",
+      "William T. Freeman",
+      "Taesung Park"
+    ],
+    "publication_date": "2023-11-30",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "516a4c05883d4dc130bb7a638ad8e427b6756aac",
+    "corpus_id": 265506768,
+    "category": "Computer Science"
+  },
+  "2310-17467": {
+    "title": "The Statistical Thermodynamics of Generative Diffusion Models: Phase Transitions, Symmetry Breaking, and Critical Instability",
+    "authors": [
+      "Luca Ambrogioni"
+    ],
+    "publication_date": "2023-10-26",
+    "venue": "Entropy",
+    "semantic_scholar_id": "45211a091c42f2f292622851043ccbd497b7dbf0",
+    "corpus_id": 264490824,
+    "category": "Computer Science, Medicine, Mathematics"
+  },
+  "2310-13268": {
+    "title": "DPM-Solver-v3: Improved Diffusion ODE Solver with Empirical Model Statistics",
+    "authors": [
+      "Kaiwen Zheng",
+      "Cheng Lu",
+      "Jianfei Chen",
+      "Jun Zhu"
+    ],
+    "publication_date": "2023-10-20",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "d0a1dd918288d445d3e8146a186d5256a2fc5ca3",
+    "corpus_id": 264405880,
+    "category": "Computer Science"
+  },
+  "2307-01952": {
+    "title": "SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis",
+    "authors": [
+      "Dustin Podell",
+      "Zion English",
+      "Kyle Lacey",
+      "A. Blattmann",
+      "Tim Dockhorn",
+      "Jonas Muller",
+      "Joe Penna",
+      "Robin Rombach"
+    ],
+    "publication_date": "2023-07-04",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "d7890d1906d95c4ae4c430b350455156d6d8aed9",
+    "corpus_id": 259341735,
+    "category": "Computer Science"
+  },
+  "2303-01469": {
+    "title": "Consistency Models",
+    "authors": [
+      "Yang Song",
+      "Prafulla Dhariwal",
+      "Mark Chen",
+      "I. Sutskever"
+    ],
+    "publication_date": "2023-03-02",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "ac974291d7e3a152067382675524f3e3c2ded11b",
+    "corpus_id": 257280191,
+    "category": "Computer Science, Mathematics"
+  },
+  "2303-00848": {
+    "title": "Understanding Diffusion Objectives as the ELBO with Simple Data Augmentation",
+    "authors": [
+      "Diederik P. Kingma",
+      "Ruiqi Gao"
+    ],
+    "publication_date": "2023-03-01",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "11c8911f787eed34e6f058d5d36287d45c54c961",
+    "corpus_id": 260332161,
+    "category": "Computer Science, Mathematics"
+  },
+  "2302-04867": {
+    "title": "UniPC: A Unified Predictor-Corrector Framework for Fast Sampling of Diffusion Models",
+    "authors": [
+      "Wenliang Zhao",
+      "Lujia Bai",
+      "Yongming Rao",
+      "Jie Zhou",
+      "Jiwen Lu"
+    ],
+    "publication_date": "2023-02-09",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "62d6e95e60ba36abacc5de85078d053316bd1942",
+    "corpus_id": 256697404,
+    "category": "Computer Science"
+  },
+  "2301-10972": {
+    "title": "On the Importance of Noise Scheduling for Diffusion Models",
+    "authors": [
+      "Ting Chen"
+    ],
+    "publication_date": "2023-01-26",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "2c2cb40a2078e0cce1bb92a71fb6f3ea815786fe",
+    "corpus_id": 256274607,
+    "category": "Computer Science"
+  },
+  "2301-11093": {
+    "title": "simple diffusion: End-to-end diffusion for high resolution images",
+    "authors": [
+      "Emiel Hoogeboom",
+      "J. Heek",
+      "Tim Salimans"
+    ],
+    "publication_date": "2023-01-26",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "6e3a3b7a8a0376d867cad72eedf2f9b746f29a33",
+    "corpus_id": 256274516,
+    "category": "Computer Science, Mathematics"
+  },
+  "2211-01095": {
+    "title": "DPM-Solver++: Fast Solver for Guided Sampling of Diffusion Probabilistic Models",
+    "authors": [
+      "Cheng Lu",
+      "Yuhao Zhou",
+      "Fan Bao",
+      "Jianfei Chen",
+      "Chongxuan Li",
+      "Jun Zhu"
+    ],
+    "publication_date": "2022-11-02",
+    "venue": "Machine Intelligence Research",
+    "semantic_scholar_id": "baa4f95081e9663fb045d145acc70049ace16ac9",
+    "corpus_id": 253254916,
+    "category": "Computer Science"
+  },
+  "2210-02303": {
+    "title": "Imagen Video: High Definition Video Generation with Diffusion Models",
+    "authors": [
+      "Jonathan Ho",
+      "William Chan",
+      "Chitwan Saharia",
+      "Jay Whang",
+      "Ruiqi Gao",
+      "A. Gritsenko",
+      "Diederik P. Kingma",
+      "Ben Poole",
+      "Mohammad Norouzi",
+      "David J. Fleet",
+      "Tim Salimans"
+    ],
+    "publication_date": "2022-10-05",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "498ac9b2e494601d20a3d0211c16acf2b7954a54",
+    "corpus_id": 252715883,
+    "category": "Computer Science"
+  },
+  "2206-00927": {
+    "title": "DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps",
+    "authors": [
+      "Cheng Lu",
+      "Yuhao Zhou",
+      "Fan Bao",
+      "Jianfei Chen",
+      "Chongxuan Li",
+      "Jun Zhu"
+    ],
+    "publication_date": "2022-06-02",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "4530c25da949bb2185c50663158ef19d52e3c6b5",
+    "corpus_id": 249282317,
+    "category": "Computer Science, Mathematics"
+  },
+  "2206-00364": {
+    "title": "Elucidating the Design Space of Diffusion-Based Generative Models",
+    "authors": [
+      "Tero Karras",
+      "M. Aittala",
+      "Timo Aila",
+      "S. Laine"
+    ],
+    "publication_date": "2022-06-01",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "2f4c451922e227cbbd4f090b74298445bbd900d0",
+    "corpus_id": 249240415,
+    "category": "Computer Science, Mathematics"
+  },
+  "2205-11487": {
+    "title": "Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding",
+    "authors": [
+      "Chitwan Saharia",
+      "William Chan",
+      "Saurabh Saxena",
+      "Lala Li",
+      "Jay Whang",
+      "Emily L. Denton",
+      "Seyed Kamyar Seyed Ghasemipour",
+      "Burcu Karagol Ayan",
+      "S. S. Mahdavi",
+      "Raphael Gontijo Lopes",
+      "Tim Salimans",
+      "Jonathan Ho",
+      "David J. Fleet",
+      "Mohammad Norouzi"
+    ],
+    "publication_date": "2022-05-23",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "9695824d7a01fad57ba9c01d7d76a519d78d65e7",
+    "corpus_id": 248986576,
+    "category": "Computer Science"
+  },
+  "2204-13902": {
+    "title": "Fast Sampling of Diffusion Models with Exponential Integrator",
+    "authors": [
+      "Qinsheng Zhang",
+      "Yongxin Chen"
+    ],
+    "publication_date": "2022-04-29",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "6651ff3d8c89a3cddfeef0c5d03ac4cb121758e3",
+    "corpus_id": 248476097,
+    "category": "Computer Science"
+  },
+  "2204-03458": {
+    "title": "Video Diffusion Models",
+    "authors": [
+      "Jonathan Ho",
+      "Tim Salimans",
+      "Alexey Gritsenko",
+      "William Chan",
+      "Mohammad Norouzi",
+      "David J. Fleet"
+    ],
+    "publication_date": "2022-04-07",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "3b2a675bb617ae1a920e8e29d535cdf27826e999",
+    "corpus_id": 248006185,
+    "category": "Computer Science"
+  },
+  "2202-09778": {
+    "title": "Pseudo Numerical Methods for Diffusion Models on Manifolds",
+    "authors": [
+      "Luping Liu",
+      "Yi Ren",
+      "Zhijie Lin",
+      "Zhou Zhao"
+    ],
+    "publication_date": "2022-02-20",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "82482585e94192b4e9913727e461f89cd08e9725",
+    "corpus_id": 247011732,
+    "category": "Computer Science, Mathematics"
+  },
+  "2112-10741": {
+    "title": "GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models",
+    "authors": [
+      "Alex Nichol",
+      "Prafulla Dhariwal",
+      "A. Ramesh",
+      "Pranav Shyam",
+      "Pamela Mishkin",
+      "Bob McGrew",
+      "I. Sutskever",
+      "Mark Chen"
+    ],
+    "publication_date": "2021-12-20",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "7002ae048e4b8c9133a55428441e8066070995cb",
+    "corpus_id": 245335086,
+    "category": "Computer Science"
+  },
+  "2112-09130": {
+    "title": "Ensembling Off-the-shelf Models for GAN Training",
+    "authors": [
+      "Nupur Kumari",
+      "Richard Zhang",
+      "Eli Shechtman",
+      "Jun-Yan Zhu"
+    ],
+    "publication_date": "2021-12-16",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "ef8e5663bb7a39c611eb906361a1eea00f037d93",
+    "corpus_id": 245220350,
+    "category": "Computer Science"
+  },
+  "2112-07804": {
+    "title": "Tackling the Generative Learning Trilemma with Denoising Diffusion GANs",
+    "authors": [
+      "Zhisheng Xiao",
+      "Karsten Kreis",
+      "Arash Vahdat"
+    ],
+    "publication_date": "2021-12-15",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "4f73a26f7c2c942d7f1b8267e1307d6f5207613b",
+    "corpus_id": 245144350,
+    "category": "Computer Science, Mathematics"
+  },
+  "2105-14080": {
+    "title": "Gotta Go Fast When Generating Data with Score-Based Models",
+    "authors": [
+      "Alexia Jolicoeur-Martineau",
+      "Ke Li",
+      "Remi Piche-Taillefer",
+      "Tal Kachman",
+      "Ioannis Mitliagkas"
+    ],
+    "publication_date": "2021-05-28",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "dfb90bbc13949bf332683773562eff5c73b2a87b",
+    "corpus_id": 235253926,
+    "category": "Computer Science, Mathematics"
+  },
+  "2105-06337": {
+    "title": "Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech",
+    "authors": [
+      "Vadim Popov",
+      "Ivan Vovk",
+      "Vladimir Gogoryan",
+      "Tasnima Sadekova",
+      "Mikhail Kudinov"
+    ],
+    "publication_date": "2021-05-13",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "2e32cde6e080f990873638f2e113767a6a19c824",
+    "corpus_id": 234483016,
+    "category": "Computer Science, Mathematics"
+  },
+  "2105-05233": {
+    "title": "Diffusion Models Beat GANs on Image Synthesis",
+    "authors": [
+      "Prafulla Dhariwal",
+      "Alex Nichol"
+    ],
+    "publication_date": "2021-05-11",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "64ea8f180d0682e6c18d1eb688afdb2027c02794",
+    "corpus_id": 234357997,
+    "category": "Computer Science, Mathematics"
+  },
+  "2104-07636": {
+    "title": "Image Super-Resolution via Iterative Refinement",
+    "authors": [
+      "Chitwan Saharia",
+      "Jonathan Ho",
+      "William Chan",
+      "Tim Salimans",
+      "David J. Fleet",
+      "Mohammad Norouzi"
+    ],
+    "publication_date": "2021-04-15",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "bc7e6165b00f0c39d40ca2c7a4eb33fcc0e3200d",
+    "corpus_id": 233241040,
+    "category": "Engineering, Computer Science, Medicine"
+  },
+  "2103-03841": {
+    "title": "Generating Images with Sparse Representations",
+    "authors": [
+      "C. Nash",
+      "Jacob Menick",
+      "S. Dieleman",
+      "P. Battaglia"
+    ],
+    "publication_date": "2021-03-05",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "79a79a4c1a43038973c49b0cbc6085e2c6caeeb1",
+    "corpus_id": 232135095,
+    "category": "Computer Science, Mathematics"
+  },
+  "2102-09672": {
+    "title": "Improved Denoising Diffusion Probabilistic Models",
+    "authors": [
+      "Alex Nichol",
+      "Prafulla Dhariwal"
+    ],
+    "publication_date": "2021-02-18",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "de18baa4964804cf471d85a5a090498242d2e79f",
+    "corpus_id": 231979499,
+    "category": "Computer Science, Mathematics"
+  },
+  "2101-02388": {
+    "title": "Knowledge Distillation in Iterative Generative Models for Improved Sampling Speed",
+    "authors": [
+      "Eric Luhman",
+      "Troy Luhman"
+    ],
+    "publication_date": "2021-01-07",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "ba2f73db4e38324f751fbf30f7dde0bf4e7fa520",
+    "corpus_id": 230799531,
+    "category": "Computer Science"
+  },
+  "2011-13456": {
+    "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+    "authors": [
+      "Yang Song",
+      "Jascha Narain Sohl-Dickstein",
+      "Diederik P. Kingma",
+      "Abhishek Kumar",
+      "Stefano Ermon",
+      "Ben Poole"
+    ],
+    "publication_date": "2020-11-26",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "633e2fbfc0b21e959a244100937c5853afca4853",
+    "corpus_id": 227209335,
+    "category": "Computer Science, Mathematics"
+  },
+  "2010-02502": {
+    "title": "Denoising Diffusion Implicit Models",
+    "authors": [
+      "Jiaming Song",
+      "Chenlin Meng",
+      "Stefano Ermon"
+    ],
+    "publication_date": "2020-10-06",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "014576b866078524286802b1d0e18628520aa886",
+    "corpus_id": 222140788,
+    "category": "Computer Science"
+  },
+  "2009-09761": {
+    "title": "DiffWave: A Versatile Diffusion Model for Audio Synthesis",
+    "authors": [
+      "Zhifeng Kong",
+      "Wei Ping",
+      "Jiaji Huang",
+      "Kexin Zhao",
+      "Bryan Catanzaro"
+    ],
+    "publication_date": "2020-09-21",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "34bf13e58c7226d615afead0c0f679432502940e",
+    "corpus_id": 221818900,
+    "category": "Computer Science, Engineering, Mathematics"
+  },
+  "2006-11239": {
+    "title": "Denoising Diffusion Probabilistic Models",
+    "authors": [
+      "Jonathan Ho",
+      "Ajay Jain",
+      "P. Abbeel"
+    ],
+    "publication_date": "2020-06-19",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "5c126ae3421f05768d8edd97ecd44b1364e2c99a",
+    "corpus_id": 219955663,
+    "category": "Computer Science, Mathematics"
+  },
+  "2006-09011": {
+    "title": "Improved Techniques for Training Score-Based Generative Models",
+    "authors": [
+      "Yang Song",
+      "Stefano Ermon"
+    ],
+    "publication_date": "2020-06-16",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "1156e277fa7ec195b043161d3c5c97715da17658",
+    "corpus_id": 219708245,
+    "category": "Computer Science, Mathematics"
+  },
+  "1907-05600": {
+    "title": "Generative Modeling by Estimating Gradients of the Data Distribution",
+    "authors": [
+      "Yang Song",
+      "Stefano Ermon"
+    ],
+    "publication_date": "2019-07-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "965359b3008ab50dd04e171551220ec0e7f83aba",
+    "corpus_id": 196470871,
+    "category": "Computer Science, Mathematics"
+  },
+  "1904-06991": {
+    "title": "Improved Precision and Recall Metric for Assessing Generative Models",
+    "authors": [
+      "T. Kynkäänniemi",
+      "Tero Karras",
+      "S. Laine",
+      "J. Lehtinen",
+      "Timo Aila"
+    ],
+    "publication_date": "2019-04-15",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "d383dd8ced85d7898d8b1546c514a34fb626ea16",
+    "corpus_id": 118648975,
+    "category": "Computer Science, Mathematics"
+  },
+  "1812-04948": {
+    "title": "A Style-Based Generator Architecture for Generative Adversarial Networks",
+    "authors": [
+      "Tero Karras",
+      "S. Laine",
+      "Timo Aila"
+    ],
+    "publication_date": "2018-12-12",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "ceb2ebef0b41e31c1a21b28c2734123900c005e2",
+    "corpus_id": 54482423,
+    "category": "Computer Science, Mathematics"
+  },
+  "1806-00035": {
+    "title": "Assessing Generative Models via Precision and Recall",
+    "authors": [
+      "Mehdi S. M. Sajjadi",
+      "Olivier Bachem",
+      "Mario Lucic",
+      "O. Bousquet",
+      "S. Gelly"
+    ],
+    "publication_date": "2018-05-31",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "1ea9f643171115e4a89e77c9a770c593f0794712",
+    "corpus_id": 44104089,
+    "category": "Computer Science, Mathematics"
+  },
+  "1512-03385": {
+    "title": "Deep Residual Learning for Image Recognition",
+    "authors": [
+      "Kaiming He",
+      "X. Zhang",
+      "Shaoqing Ren",
+      "Jian Sun"
+    ],
+    "publication_date": "2015-12-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+    "corpus_id": 206594692,
+    "category": "Computer Science"
+  },
+  "1512-00567": {
+    "title": "Rethinking the Inception Architecture for Computer Vision",
+    "authors": [
+      "Christian Szegedy",
+      "Vincent Vanhoucke",
+      "Sergey Ioffe",
+      "Jonathon Shlens",
+      "Z. Wojna"
+    ],
+    "publication_date": "2015-12-02",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "23ffaa0fe06eae05817f527a47ac3291077f9e58",
+    "corpus_id": 206593880,
+    "category": "Computer Science"
+  },
+  "1506-03365": {
+    "title": "LSUN: Construction of a Large-scale Image Dataset using Deep Learning with Humans in the Loop",
+    "authors": [
+      "F. Yu",
+      "Yinda Zhang",
+      "Shuran Song",
+      "Ari Seff",
+      "Jianxiong Xiao"
+    ],
+    "publication_date": "2015-06-10",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "4dcdae25a5e33682953f0853ee4cf7ca93be58a9",
+    "corpus_id": 8317437,
+    "category": "Computer Science"
+  },
+  "1503-03585": {
+    "title": "Deep Unsupervised Learning using Nonequilibrium Thermodynamics",
+    "authors": [
+      "Jascha Narain Sohl-Dickstein",
+      "Eric A. Weiss",
+      "Niru Maheswaranathan",
+      "S. Ganguli"
+    ],
+    "publication_date": "2015-03-11",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "2dcef55a07f8607a819c21fe84131ea269cc2e3c",
+    "corpus_id": 14888175,
+    "category": "Computer Science, Mathematics"
+  },
+  "0806-1859": {
+    "title": "Mathematical foundation of quantum annealing",
+    "authors": [
+      "Satoshi Morita",
+      "H. Nishimori"
+    ],
+    "publication_date": "2008-06-11",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "32053071882c8ec7ee89adb5d06b19ca7d13ab84",
+    "corpus_id": 13992889,
+    "category": "Physics, Mathematics"
+  },
+  "quant-ph/0107015": {
+    "title": "Quantum search by local adiabatic evolution",
+    "authors": [
+      "J. Roland",
+      "N. Cerf"
+    ],
+    "publication_date": "2001-07-03",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "c9e5689e01fda5bfa5556514c632884de56e8265",
+    "corpus_id": 28562388,
+    "category": "Physics"
+  },
+  "cond-mat/9804280": {
+    "title": "Quantum annealing in the transverse Ising model",
+    "authors": [
+      "T. Kadowaki",
+      "H. Nishimori"
+    ],
+    "publication_date": "1998-04-25",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "af38085ac160e7f89d6e83751252154681ff4c59",
+    "corpus_id": 36114913,
+    "category": "Physics"
+  }
+}

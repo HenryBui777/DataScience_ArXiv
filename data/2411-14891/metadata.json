@@ -1,0 +1,17 @@
+{
+  "title": "The non-equilibrium Marshak wave problem in non-homogeneous media",
+  "authors": [
+    "Nitay Derei",
+    "Shmuel Balberg",
+    "Shay I. Heizler",
+    "Elad Steinberg",
+    "Ryan G. McClarren",
+    "Menahem Krief"
+  ],
+  "summary": "We derive a family of similarity solutions to the nonlinear non-equilibrium Marshak wave problem for an inhomogeneous planar medium which is coupled to a time dependent radiation driving source. We employ the non-equilibrium gray diffusion approximation in the supersonic regime. The solutions constitute a generalization of the non-equilibrium nonlinear solutions that were developed recently for homogeneous media. Self-similar solutions are constructed for a power law time dependent surface temperature, a spatial power law density profile and a material model with power law temperature and density dependent opacities and specific energy density. The extension of the problem to non-homogeneous media enables the existence of similarity solutions for a general power law specific material energy. It is shown that the solutions exist for specific values of the temporal temperature drive and spatial density exponents, which depend on the material exponents. We also illustrate how the similarity solutions take various qualitatively different forms which are analyzed with respect to various parameters. Based on the solutions, we define a set of non-trivial benchmarks for supersonic non-equilibrium radiative heat transfer. The similarity solutions are compared to gray diffusion simulations as well as to detailed implicit Monte-Carlo and discrete-ordinate transport simulations in the optically-thick regime, showing a great agreement, which highlights the benefit of these solutions as a code verification test problem.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.HE, math-ph, physics.comp-ph, physics.plasm-ph"
+}

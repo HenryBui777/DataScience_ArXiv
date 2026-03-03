@@ -1,0 +1,17 @@
+{
+  "title": "Matching Design with Algorithms and Applications to Foster Care",
+  "authors": [
+    "Terence Highsmith"
+  ],
+  "summary": "We study the problem of an organization that matches agents to objects where agents have preference rankings over objects and the organization uses algorithms to construct a ranking over objects on behalf of each agent. Our new framework carries the interpretation that the organization and its agents may be misaligned in pursuing some underlying matching goal. We design matching mechanisms that integrate agent decision-making and the algorithm by prioritizing matches that are unanimously agreeable between the two parties. Our mechanisms also satisfy restricted efficiency properties. Subsequently, we prove that no unanimous mechanism is strategy-proof but that ours can be non-obviously manipulable. We generalize our framework to allow for any preference aggregation rules and extend the famed Gibbard-Satterthwaite Theorem to our setting. We apply our framework to place foster children in foster homes to maximize welfare. Using a machine learning model that predicts child welfare in placements and a novel \"elicited preferences\" experiment that extracts real caseworkers' preferences, we empirically demonstrate that there are important match-specific welfare gains that our mechanisms extract that are not realized under the status quo.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-21",
+    "2024-12-03",
+    "2025-02-28",
+    "2025-08-11"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "econ.TH"
+}

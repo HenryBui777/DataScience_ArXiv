@@ -1,0 +1,21 @@
+{
+  "title": "Dielectric waveguide setup tested with a superconducting millimeter-wave Fabry-Pérot interferometer at milli-Kelvin temperatures",
+  "authors": [
+    "Jakob Lenschen",
+    "Rosalie Labbe",
+    "Nils Drotleff",
+    "Markus Fuhrmann",
+    "Jürgen Lisenfeld",
+    "Hannes Rotzinger",
+    "Alexey V. Ustinov"
+  ],
+  "summary": "We propose and test a cryogenic setup comprising dielectric waveguides for mm-wave frequencies in the range of 75-110 GHz and temperatures down to 10 mK. The targeted applications are quantum technologies at millimeter-wave frequencies, which require measurements at low photon numbers and noise. We show that the high density polyethylene waveguides combine a frequency independent low photon loss with a very low heat conductance. Black high density polyethylene shows a higher attenuation, which is useful to block thermal photons in a cryogenic environment. The dielectric waveguides are thermally anchored and attenuated at several stages of the cryostat. They are individually protected by additional metallic shields to suppress mutual cross-talk and external interference. With this setup, multiple superconducting resonances of a Fabry-Pérot cavity were measured at 10 mK. We find quality factors up to 15 million in the single photon limit for resonances above 100 GHz. These results show no evident influence of atomic two-level systems in the cavity.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-03-24",
+    "2025-05-09"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.app-ph, cond-mat.supr-con, physics.ins-det"
+}

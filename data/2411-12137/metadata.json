@@ -1,0 +1,17 @@
+{
+  "title": "Towards Understanding the Impact of Data Bugs on Deep Learning Models in Software Engineering",
+  "authors": [
+    "Mehil B Shah",
+    "Mohammad Masudur Rahman",
+    "Foutse Khomh"
+  ],
+  "summary": "Deep learning (DL) techniques have achieved significant success in various software engineering tasks (e.g., code completion by Copilot). However, DL systems are prone to bugs from many sources, including training data. Existing literature suggests that bugs in training data are highly prevalent, but little research has focused on understanding their impacts on the models used in software engineering tasks. In this paper, we address this research gap through a comprehensive empirical investigation focused on three types of data prevalent in software engineering tasks: code-based, text-based, and metric-based. Using state-of-the-art baselines, we compare the models trained on clean datasets with those trained on datasets with quality issues and without proper preprocessing. By analysing the gradients, weights, and biases from neural networks under training, we identify the symptoms of data quality and preprocessing issues. Our analysis reveals that quality issues in code data cause biased learning and gradient instability, whereas problems in text data lead to overfitting and poor generalisation of models. On the other hand, quality issues in metric data result in exploding gradients and model overfitting, and inadequate preprocessing exacerbates these effects across all three data types. Finally, we demonstrate the validity and generalizability of our findings using six new datasets. Our research provides a better understanding of the impact and symptoms of data bugs in software engineering datasets. Practitioners and researchers can leverage these findings to develop better monitoring systems and data-cleaning methods to help detect and resolve data bugs in deep learning systems.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-05-14",
+    "2025-08-11"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SE"
+}

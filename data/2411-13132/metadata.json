@@ -1,0 +1,14 @@
+{
+  "title": "High-order asymptotic expansion for the nonlinear Klein-Gordon equation in the non-relativistic limit regime",
+  "authors": [
+    "Jia Shen",
+    "Yanni Wang",
+    "Haohao Zheng"
+  ],
+  "summary": "This paper presents an investigation into the high-order asymptotic expansion for 2D and 3D cubic nonlinear Klein-Gordon equations in the non-relativistic limit regime. There are extensive numerical and analytic results concerning that the solution of NLKG can be approximated by first-order modulated Schrödinger profiles in terms of $e^{i\\frac t {\\varepsilon^2}}v + c.c. $, where $v$ is the solution of related NLS and ``$c.c.$\" denotes the complex conjugate. Particularly, the best analytic result up to now is given in \\cite{lei}, which proves that the $L_x^2$ norm of the error can be controlled by $\\varepsilon^2 +(\\varepsilon^2t)^{\\frac α4}$ for $H^α_x$-data, $α\\in [1, 4]$. As for the high-order expansion, to our best knowledge, there are only numerical results, while the theoretical one is lacking.\n  In this paper, we extend this study further and give the first high-order analytic result. We introduce the high-order expansion inspired by the numerical experiments in \\cite{schratz2020, faou2014a}: \\[\n  e^{i\\frac t {\\varepsilon^2}}v\n  +\\varepsilon^2\n  \\Big( \\frac 18 e^{3i\\frac t {\\varepsilon^2} }v^3\n  +e^{i\\frac t {\\varepsilon^2}} w\n  \\Big)\n  +c.c.,\n  \\] where $w$ is the solution to some specific Schrödinger-type equation. We show that the $L_x^2$ estimate of the error is of higher order $\\varepsilon^4+\\left(\\varepsilon^2t\\right)^\\fracα{4}$ for $H^α_x$-data, $α\\in [4, 8]$.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AP"
+}

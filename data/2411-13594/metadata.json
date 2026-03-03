@@ -1,0 +1,12 @@
+{
+  "title": "High resolution microprice estimates from limit orderbook data using hyperdimensional vector Tsetlin Machines",
+  "authors": [
+    "Christian D. Blakely"
+  ],
+  "summary": "We propose an error-correcting model for the microprice, a high-frequency estimator of future prices given higher order information of imbalances in the orderbook. The model takes into account a current microprice estimate given the spread and best bid to ask imbalance, and adjusts the microprice based on recent dynamics of higher price rank imbalances. We introduce a computationally fast estimator using a recently proposed hyperdimensional vector Tsetlin machine framework and demonstrate empirically that this estimator can provide a robust estimate of future prices in the orderbook.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-fin.TR, cs.LG, q-fin.ST"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Gravitational self-force with hyperboloidal slicing and spectral methods",
+  "authors": [
+    "Benjamin Leather"
+  ],
+  "summary": "We present a novel approach for calculating the gravitational self-force (GSF) in the Lorenz gauge, employing hyperboloidal slicing and spectral methods. Our method builds on the previous work that applied hyperboloidal surfaces and spectral approaches to scalar-field toy model [Phys. Rev. D 105, 104033 (2022)], extending them to handle gravitational perturbations. Focusing on first-order metric perturbations, we address the construction of the hyperboloidal foliation, detailing the minimal gauge choice. The Lorenz gauge is adopted to facilitate well-understood regularisation procedures, which are essential for obtaining physically meaningful GSF results. We calculate of the Lorenz gauge metric perturbation via a (known) gauge transformation from the Regge-Wheeler gauge. Our approach yields a robust framework for obtaining the metric perturbation components needed to calculate key physical quantities, such as radiative fluxes, the Detweiler redshift, and self-force corrections. Furthermore, the compactified hyperboloidal approach allows us to efficiently calculate the metric perturbation throughout the entire spacetime. This work thus establishes a foundational methodology for future second-order GSF calculations within this gauge, offering computational efficiencies through spectral methods.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-09-24"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "gr-qc"
+}

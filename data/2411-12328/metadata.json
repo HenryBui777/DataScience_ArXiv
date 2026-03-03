@@ -1,0 +1,14 @@
+{
+  "title": "HW/SW Implementation of MiRitH on Embedded Platforms",
+  "authors": [
+    "Maximilian Schöffel",
+    "Hiandra Tomasi",
+    "Norbert Wehn"
+  ],
+  "summary": "Multi-Party Computation in the Head (MPCitH) algorithms are appealing candidates in the additional US NIST standardization rounds for Post-Quantum Cryptography (PQC) with respect to key sizes and mathematical hardness assumptions. However, their complexity presents a significant challenge for platforms with limited computational capabilities. To address this issue, we present, to the best of our knowledge, the first design space exploration of MiRitH, a promising MPCitH algorithm, for embedded devices. We develop a library of mixed HW/SW blocks on the Xilinx ZYNQ 7000, and, based on this library, we explore optimal solutions under runtime or FPGA resource constraints for a given public key infrastructure. Our results show that MiRitH is a viable algorithm for embedded devices in terms of runtime and FPGA resource requirements.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR"
+}

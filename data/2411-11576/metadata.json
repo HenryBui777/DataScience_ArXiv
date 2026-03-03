@@ -1,0 +1,17 @@
+{
+  "title": "Hybrid Data-Driven SSM for Interpretable and Label-Free mmWave Channel Prediction",
+  "authors": [
+    "Yiyong Sun",
+    "Jiajun He",
+    "Zhidi Lin",
+    "Wenqiang Pu",
+    "Feng Yin",
+    "Hing Cheung So"
+  ],
+  "summary": "Accurate prediction of mmWave time-varying channels is essential for mitigating the issue of channel aging in complex scenarios owing to high user mobility. Existing channel prediction methods have limitations: classical model-based methods often struggle to track highly nonlinear channel dynamics due to limited expert knowledge, while emerging data-driven methods typically require substantial labeled data for effective training and often lack interpretability. To address these issues, this paper proposes a novel hybrid method that integrates a data-driven neural network into a conventional model-based workflow based on a state-space model (SSM), implicitly tracking complex channel dynamics from data without requiring precise expert knowledge. Additionally, a novel unsupervised learning strategy is developed to train the embedded neural network solely with unlabeled data. Theoretical analyses and ablation studies are conducted to interpret the enhanced benefits gained from the hybrid integration. Numerical simulations based on the 3GPP mmWave channel model corroborate the superior prediction accuracy of the proposed method, compared to state-of-the-art methods that are either purely model-based or data-driven. Furthermore, extensive experiments validate its robustness against various challenging factors, including among others severe channel variations and high noise levels.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP, cs.AI, cs.LG"
+}

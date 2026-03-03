@@ -1,0 +1,18 @@
+{
+  "title": "TPCNet: Representation learning for HI mapping",
+  "authors": [
+    "Hiep Nguyen",
+    "Haiyang Tang",
+    "Matthew Alger",
+    "Antoine Marchal",
+    "Eric G. M. Muller",
+    "Cheng Soon Ong",
+    "N. M. McClure-Griffiths"
+  ],
+  "summary": "We introduce TPCNet, a neural network predictor that combines Convolutional and Transformer architectures with Positional encodings, for neutral atomic hydrogen (HI) spectral analysis. Trained on synthetic datasets, our models predict cold neutral gas fraction ($f_\\text{CNM}$) and HI opacity correction factor ($R_\\text{HI}$) from emission spectra based on the learned relationships between the desired output parameters and observables (optically-thin column density and peak brightness). As a follow-up to Murray et al. (2020)'s shallow Convolutional Neural Network (CNN), we construct deep CNN models and compare them to TPCNet models. TPCNet outperforms deep CNNs, achieving a 10% average increase in testing accuracy, algorithmic (training) stability, and convergence speed. Our findings highlight the robustness of the proposed model with sinusoidal positional encoding applied directly to the spectral input, addressing perturbations in training dataset shuffling and convolutional network weight initializations. Higher spectral resolutions with increased spectral channels offer advantages, albeit with increased training time. Diverse synthetic datasets enhance model performance and generalization, as demonstrated by producing $f_\\text{CNM}$ and $R_\\text{HI}$ values consistent with evaluation ground truths. Applications of TPCNet to observed emission data reveal strong agreement between the predictions and Gaussian decomposition-based estimates (from emission and absorption surveys), emphasizing its potential in HI spectral analysis.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "MNRAS 2024",
+  "pdf_url": null,
+  "category": "astro-ph.GA"
+}

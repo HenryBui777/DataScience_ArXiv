@@ -1,0 +1,16 @@
+{
+  "title": "Unveiling the Inflexibility of Adaptive Embedding in Traffic Forecasting",
+  "authors": [
+    "Hongjun Wang",
+    "Jiyuan Chen",
+    "Lingyu Zhang",
+    "Renhe Jiang",
+    "Xuan Song"
+  ],
+  "summary": "Spatiotemporal Graph Neural Networks (ST-GNNs) and Transformers have shown significant promise in traffic forecasting by effectively modeling temporal and spatial correlations. However, rapid urbanization in recent years has led to dynamic shifts in traffic patterns and travel demand, posing major challenges for accurate long-term traffic prediction. The generalization capability of ST-GNNs in extended temporal scenarios and cross-city applications remains largely unexplored. In this study, we evaluate state-of-the-art models on an extended traffic benchmark and observe substantial performance degradation in existing ST-GNNs over time, which we attribute to their limited inductive capabilities. Our analysis reveals that this degradation stems from an inability to adapt to evolving spatial relationships within urban environments. To address this limitation, we reconsider the design of adaptive embeddings and propose a Principal Component Analysis (PCA) embedding approach that enables models to adapt to new scenarios without retraining. We incorporate PCA embeddings into existing ST-GNN and Transformer architectures, achieving marked improvements in performance. Notably, PCA embeddings allow for flexibility in graph structures between training and testing, enabling models trained on one city to perform zero-shot predictions on other cities. This adaptability demonstrates the potential of PCA embeddings in enhancing the robustness and generalization of spatiotemporal models.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI"
+}

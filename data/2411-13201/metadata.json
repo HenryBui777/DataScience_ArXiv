@@ -1,0 +1,13 @@
+{
+  "title": "Simultaneous Communication and Tracking using Fused Bistatic Measurements",
+  "authors": [
+    "Avinash M",
+    "Srikrishna Bhashyam"
+  ],
+  "summary": "In this paper, we propose a bistatic sensing-assisted beam tracking method for simultaneous communication and tracking of user vehicles navigating arbitrary-shaped road trajectories. Prior work on simultaneous communication and tracking assumes a colocated radar receiver at the transmitter for sensing measurements using the reflected Integrated Sensing and Communication (ISAC) signals in the mmWave band. Full isolation between transmitter and receiver is required here to avoid self-interference. We consider the bistatic setting where the sensing receivers are not colocated and can be realized in practice using traditional half-duplex transmit or receive nodes. First, we process the echoes reflected from the vehicle at multiple multi-antenna nodes at various locations, facilitating estimation of the vehicle's current position. Then, we propose selection criteria for the estimates and a maximum likelihood (ML) fusion scheme to fuse these selected estimates based on the estimated error covariance matrices of these measurements. This fusion scheme is important in bistatic and multistatic settings as the localization error depends significantly on the geometry of the transmitter, target, and receiver locations. Finally, we predict the vehicle's next location using a simple kinematic equation-based model. Through extensive simulation, we study the average spectral efficiency of communication with a moving user using the proposed simultaneous communication and tracking scheme. The proposed fusion-based scheme achieves almost the same average spectral efficiency as an ideal scheme that knows the exact trajectory. We also show that the proposed scheme can be easily extended to systems with Hybrid Digital-Analog architectures and performs similarly even in these systems.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IT, eess.SP"
+}

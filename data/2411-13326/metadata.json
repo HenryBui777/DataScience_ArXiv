@@ -1,0 +1,14 @@
+{
+  "title": "An Evolutional Neural Network Framework for Classification of Microarray Data",
+  "authors": [
+    "Maryam Eshraghi Evari",
+    "Md Nasir Sulaiman",
+    "Amir Rajabi Behjat"
+  ],
+  "summary": "DNA microarray gene-expression data has been widely used to identify cancerous gene signatures. Microarray can increase the accuracy of cancer diagnosis and prognosis. However, analyzing the large amount of gene expression data from microarray chips pose a challenge for current machine learning researches. One of the challenges lie within classification of healthy and cancerous tissues is high dimensionality of gene expressions. High dimensionality decreases the accuracy of the classification. This research aims to apply a hybrid model of Genetic Algorithm and Neural Network to overcome the problem during subset selection of informative genes. Whereby, a Genetic Algorithm (GA) reduced dimensionality during feature selection and then a Multi-Layer perceptron Neural Network (MLP) is applied to classify selected genes. The performance evaluated by considering to the accuracy and the number of selected genes. Experimental results show the proposed method suggested high accuracy and minimum number of selected genes in comparison with other machine learning algorithms.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.NE, cs.AI, q-bio.GN"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Nonlocal Hamilton-Jacobi Equations on a network with Kirchhoff type conditions",
+  "authors": [
+    "Guy Barles",
+    "Olivier Ley",
+    "Erwin Topp"
+  ],
+  "summary": "In this article, we consider nonlocal Hamilton-Jacobi Equations on networks with Kirchhoff type conditions for the interior vertices and Dirichlet boundary conditions for the boundary ones: our aim is to provide general existence and comparison results in the case when the integro-differential operators are of order strictly less than 1. The main originality of these results is to allow these nonlocal terms to have contributions on several different edges of the network. The existence of Lipschitz continuous solutions is proved in two ways: either by using the vanishing viscosity method or by the usual Perron's method. The comparison proof relies on arguments introduced by Lions and Souganidis. We also introduce a notion of flux-limited solution, nonlocal analog to the one introduced by Imbert and Monneau, and prove that the solutions of the Kirchhoff problem are flux-limited solutions for a suitable flux-limiter. After treating in details the case when we only have one interior vertex, we extend our approach to treat general networks.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AP"
+}

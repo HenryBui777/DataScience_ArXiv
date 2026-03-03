@@ -1,0 +1,16 @@
+{
+  "title": "Capacity Approximations for Insertion Channels with Small Insertion Probabilities",
+  "authors": [
+    "Busra Tegin",
+    "Tolga M Duman"
+  ],
+  "summary": "Channels with synchronization errors, exhibiting deletion and insertion errors, find practical applications in DNA storage, data reconstruction, and various other domains. Presence of insertions and deletions render the channel with memory, complicating capacity analysis. For instance, despite the formulation of an independent and identically distributed (i.i.d.) deletion channel more than fifty years ago, and proof that the channel is information stable, hence its Shannon capacity exists, calculation of the capacity remained elusive. However, a relatively recent result establishes the capacity of the deletion channel in the asymptotic regime of small deletion probabilities by computing the dominant terms of the capacity expansion. This paper extends that result to binary insertion channels, determining the dominant terms of the channel capacity for small insertion probabilities and establishing capacity in this asymptotic regime. Specifically, we consider two i.i.d. insertion channel models: insertion channel with possible random bit insertions after every transmitted bit and the Gallager insertion model, for which a bit is replaced by two random bits with a certain probability. To prove our results, we build on methods used for the deletion channel, employing Bernoulli(1/2) inputs for achievability and coupling this with a converse using stationary and ergodic processes as inputs, and show that the channel capacity differs only in the higher order terms from the achievable rates with i.i.d. inputs. The results, for instance, show that the capacity of the random insertion channel is higher than that of the Gallager insertion channel, and quantifies the difference in the asymptotic regime.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-12-18",
+    "2025-05-11"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IT"
+}

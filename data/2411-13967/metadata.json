@@ -1,0 +1,13 @@
+{
+  "title": "A description of and an upper bound on the set of bad primes in the study of the Casas-Alvero Conjecture",
+  "authors": [
+    "Daniel Schaub",
+    "Mark Spivakovsky"
+  ],
+  "summary": "The Casas--Alvero conjecture predicts that every univariate polynomial over a field of characteristic zero having a common factor with each of its derivatives $H_i(f)$ is a power of a linear polynomial. One approach to proving the conjecture is to first prove it for polynomials of some small degree $n$, compile a list of bad primes for that degree (namely, those primes $p$ for which the conjecture fails in degree $n$ and characteristic $p$) and then deduce the conjecture for all degrees of the form $np^\\ell$, $\\ell\\in \\mathbb{N}$, where $p$ is a good prime for $n$. In this paper we give an explicit description of the set of bad primes in any given degree $n$. In particular, we show that if the conjecture holds in degree $n$ then the bad primes for $n$ are bounded above by $\\binom{\\frac{n^2-n}2}{n-2}!\\prod\\limits_{i=1}^{n-1}\\binom{i+n-2}{n-2}^{\\binom{d-i+n-2}{n-2}}$.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AC, math.AG"
+}

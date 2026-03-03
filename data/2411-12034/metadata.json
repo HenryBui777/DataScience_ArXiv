@@ -1,0 +1,18 @@
+{
+  "title": "Promotion, Tangled Labelings, and Sorting Generating Functions",
+  "authors": [
+    "Margaret Bayer",
+    "Herman Chau",
+    "Mark Denker",
+    "Owen Goff",
+    "Jamie Kimble",
+    "Yi-Lin Lee",
+    "Jinting Liang"
+  ],
+  "summary": "We study Defant and Kravitz's generalization of Schützenberger's promotion operator to arbitrary labelings of finite posets in two directions. Defant and Kravitz showed that applying the promotion operator $n-1$ times to a labeling of a poset on $n$ elements always gives a natural labeling of the poset and called a labeling tangled if it requires the full $n-1$ promotions to reach a natural labeling. They also conjectured that there are at most $(n-1)!$ tangled labelings for any poset on $n$ elements. In the first direction, we propose a further strengthening of their conjecture by partitioning tangled labelings according to the element labeled $n-1$ and prove that this stronger conjecture holds for inflated rooted forest posets and a new class of posets called shoelace posets. In the second direction, we introduce sorting generating functions and cumulative generating functions for the number of labelings that require $k$ applications of the promotion operator to give a natural labeling. We prove that the coefficients of the cumulative generating function of the ordinal sum of antichains are log-concave and obtain a refinement of the weak order on the symmetric group.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.CO"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Extending the Burrows-Wheeler Transform for Cartesian Tree Matching and Constructing It",
+  "authors": [
+    "Eric M. Osterkamp",
+    "Dominik Köppl"
+  ],
+  "summary": "Cartesian tree matching is a form of generalized pattern matching where a substring of the text matches with the pattern if they share the same Cartesian tree. This form of matching finds application for time series of stock prices and can be of interest for melody matching between musical scores. For the indexing problem, the state-of-the-art data structure is a Burrows-Wheeler transform based solution due to [Kim and Cho, CPM'21], which uses nearly succinct space and can count the number of substrings that Cartesian tree match with a pattern in time linear in the pattern length. The authors address the construction of their data structure with a straight-forward solution that, however, requires pointer-based data structures, which asymptotically need more space than compact solutions [Kim and Cho, CPM'21, Section A.4]. We address this bottleneck by a construction that requires compact space and has a time complexity linear in the product of the text length with some logarithmic terms. Additionally, we can extend this index for indexing multiple circular texts in the spirit of the extended Burrows-Wheeler transform without sacrificing the time and space complexities. We present this index in a dynamic variant, where we pay a logarithmic slowdown and need compact space for the extra functionality that we can incrementally add texts. Our extended setting is of interest for finding repetitive motifs common in the aforementioned applications, independent of offsets and scaling.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DS"
+}

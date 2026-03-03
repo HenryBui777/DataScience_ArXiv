@@ -1,0 +1,196 @@
+@article{AGHF_OG,
+  author = {Shenyu Liu and Yinai Fan and Mohamed-Ali Belabbas},
+  doi = {https://doi.org/10.1016/j.ifacol.2019.11.773},
+  url = {https://www.sciencedirect.com/science/article/pii/S2405896319317768},
+  issn = {2405-8963},
+  journal = {IFAC-PapersOnLine},
+  pages = {168-173},
+  year = {2019},
+  abstract = {We present a new method for motion planning for control systems. The method aims to provide a natural computational framework in which a broad class of motion planning problems can be cast; including problems with holonomic and non-holonomic constraints, drift dynamics, obstacle constraints and constraints on the applied controls. The method, which finds its inspiration in recent work on the so-called geometric heat flows and curve shortening flows, relies on a hereby introduced partial differential equation, which we call the affine geometric heat flow, and evolves an arbitrary differentiable path joining initial to final state in configuration space to a path that meets the constraints imposed on the problem. From the path, controls to be applied on the system can be extracted. We provide conditions guaranteeing that the controls extracted will drive the system arbitrarily close to the desired final state, while meeting the imposed constraints and illustrate the method on three canonical examples.},
+  volume = {52},
+  note = {11th IFAC Symposium on Nonlinear Control Systems NOLCOS 2019},
+  title = {Affine Geometric Heat Flow and Motion Planning for Dynamic Systems},
+  keywords = {Motion planning, geometric control methods, partial differential equations, affine system with drift, input constraints, Dubins car},
+  number = {16},
+}
+
+@book{trefethen2019approximation,
+  author = {Trefethen, Lloyd N},
+  year = {2019},
+  publisher = {SIAM},
+  title = {Approximation Theory and Approximation Practice, Extended Edition},
+}
+
+@article{smit2017energetic,
+  author = {Smit-Anseeuw, Nils and Gleason, Rodney and Vasudevan, Ram and Remy, C David},
+  pages = {1124--1131},
+  year = {2017},
+  publisher = {IEEE},
+  volume = {2},
+  title = {The energetic benefit of robotic gait selection—a case study on the Robot RAMone},
+  journal = {IEEE Robotics and Automation Letters},
+  number = {2},
+}
+
+@article{smit2019walking,
+  author = {Smit-Anseeuw, Nils and Remy, C David and Vasudevan, Ram},
+  pages = {4177--4184},
+  year = {2019},
+  publisher = {IEEE},
+  volume = {4},
+  title = {Walking with confidence: Safety regulation for full order biped models},
+  journal = {IEEE Robotics and Automation Letters},
+  number = {4},
+}
+
+@book{boyd2001chebyshev,
+  author = {Boyd, John P},
+  year = {2001},
+  publisher = {Courier Corporation},
+  title = {Chebyshev and Fourier spectral methods},
+}
+
+@article{liu2019homotopy,
+  author = {Liu, Shenyu and Belabbas, Mohamed Ali},
+  year = {2019},
+  title = {A homotopy method for motion planning},
+  journal = {arXiv preprint arXiv:1901.10094},
+}
+
+@book{schiesser2012numerical,
+  author = {Schiesser, William E},
+  year = {2012},
+  publisher = {Elsevier},
+  title = {The numerical method of lines: integration of partial differential equations},
+}
+
+@misc{aligator,
+  author = {Jallet, Wilson and Bambade, Antoine and Arlaud, Etienne and {El-Kazdadi},
+  year = {2023},
+  abstract = {Trajectory optimization (TO) has proven, over the last decade, to be a versatile and effective framework for robot control. Several numerical solvers have been demonstrated to be fast enough to allow recomputing full-dynamics trajectories for various systems at control time, enabling model predictive control (MPC) of complex robots. These first implementations of MPC in robotics predominantly utilize some differential dynamic programming (DDP) variant for its computational speed and ease of use in constraint-free settings. Nevertheless, many scenarios in robotics call for adding hard constraints in TO problems (e.g., torque limits, obstacle avoidance), which existing solvers, based on DDP, often struggle to handle. Effectively addressing path constraints still poses optimization challenges (e.g., numerical stability, efficiency, accuracy of constraint satisfaction) that we propose to solve by combining advances in numerical optimization with the foundational efficiency of DDP. In this article, we leverage proximal methods for constrained optimization and introduce a DDP-like method to achieve fast, constrained trajectory optimization with an efficient warm-starting strategy particularly suited for MPC applications. Compared to earlier solvers, our approach effectively manages hard constraints without warm-start limitations and exhibits commendable convergence accuracy. Additionally, we leverage the computational efficiency of DDP, enabling real-time resolution of complex problems such as whole-body quadruped locomotion. We provide a complete implementation as part of an open-source and flexible C++ trajectory optimization library called ALIGATOR. These algorithmic contributions are validated through several trajectory planning scenarios from the robotics literature and the real-time whole-body MPC of a quadruped robot.},
+  langid = {english},
+  note = {https://inria.hal.science/hal-04332348v1},
+  title = {{PROXDDP: Proximal Constrained Trajectory Optimization},
+}
+
+@article{singh2024second,
+  author = {Singh, Shubham and Russell, Ryan P and Wensing, Patrick M},
+  year = {2024},
+  publisher = {IEEE},
+  title = {On second-order derivatives of rigid-body dynamics: Theory \& implementation},
+  journal = {IEEE Transactions on Robotics},
+}
+
+@article{fan2019midair,
+  author = {Yinai Fan and Shenyu Liu and Mohamed-Ali Belabbas},
+  doi = {https://doi.org/10.1016/j.mechatronics.2020.102323},
+  url = {https://www.sciencedirect.com/science/article/pii/S0957415820300039},
+  issn = {0957-4158},
+  journal = {Mechatronics},
+  pages = {102323},
+  year = {2020},
+  abstract = {We address in this paper the problem of planning motion of free floating robot with state constraints. Due to the conservation of angular and linear momentum during the in-air motion, the problem is two-fold: one needs to design, in addition to the in-air motion, the initial impulse that imparts the robot with the appropriate momentum to perform a desired motion. The existence of state constraints such as joint limit makes the planning problem even more challenging. We propose in this paper a new method to address this problem. The method is a homotopy method which deforms an arbitrary path connecting the desired initial and final states to a feasible trajectory between these states, that is a trajectory that meets the system’s dynamics and constraints. From this trajectory, the method extracts both the controls and initial momentum needed to perform the motion. The deformation of path is leaded by geometric heat flow which is defined by a Riemannian metric that encodes the system dynamics and state constraints. We illustrate the method by designing somersault motions for a diver robot.},
+  volume = {66},
+  title = {Mid-air motion planning of robot using heat flow method with state constraints},
+  keywords = {Motion planning, Geometric control methods, Affine system with drift, Free floating robot, Conservation of angular momentum, Nonholonomic constraints, Underactuated system, State constraints},
+}
+
+@inproceedings{carpentierderivs,
+  author = {Carpentier, Justin and Mansard, Nicolas},
+  hal_id = {hal-01790971},
+  url = {https://laas.hal.science/hal-01790971},
+  booktitle = {{Robotics: Science and Systems (RSS 2018)},
+  year = {2018},
+  address = {Pittsburgh, United States},
+  hal_version = {v2},
+  hal_local_reference = {Rapport LAAS n{\textdegree},
+  title = {{Analytical Derivatives of Rigid Body Dynamics Algorithms},
+  keywords = {Reinforcement Learning ; Analytical Derivatives ; Optimal Estimation ; Optimal Control ; Robotics ; Humanoid},
+  pdf = {https://laas.hal.science/hal-01790971v2/file/18-rss-analytical-derivatives-carpentier.pdf},
+}
+
+@phdthesis{fan2021thesis,
+  author = {Fan, Yinai},
+  year = {2021},
+  school = {University of Illinois at Urbana-Champaign},
+  title = {Robot motion planning via curve shortening flows},
+}
+
+@article{hong2022agile,
+  author = {Hong, Seungwoo and Um, Yong and Park, Jaejun and Park, Hae-Won},
+  pages = {eadd1017},
+  year = {2022},
+  publisher = {American Association for the Advancement of Science},
+  volume = {7},
+  title = {Agile and versatile climbing on ferromagnetic surfaces with a quadrupedal robot},
+  journal = {Science Robotics},
+  number = {73},
+}
+
+@article{michaux2024let,
+  author = {Michaux, Jonathan and Isaacson, Seth and Adu, Challen Enninful and Li, Adam and Swayampakula, Rahul Kashyap and Ewen, Parker and Rice, Sean and Skinner, Katherine A and Vasudevan, Ram},
+  year = {2024},
+  title = {Let's Make a Splan: Risk-Aware Trajectory Optimization in a Normalized Gaussian Splat},
+  journal = {arXiv preprint arXiv:2409.16915},
+}
+
+@article{liuradius,
+  author = {Liu, Jinsun and Adu, Challen Enninful and Lymburner, Lucas and Kaushik, Vishrut and Trang, Lena and Vasudevan, Ram},
+  year = {2023},
+  archiveprefix = {arXiv},
+  url = {https://arxiv.org/abs/2302.07933},
+  primaryclass = {cs.RO},
+  eprint = {2302.07933},
+  title = {RADIUS: Risk-Aware, Real-Time, Reachability-Based Motion Planning},
+}
+
+@inproceedings{ewen2021generating,
+  author = {Ewen, Parker and Sleiman, Jean-Pierre and Chen, Yuxin and Lu, Wei-Chun and Hutter, Marco and Vasudevan, Ram},
+  pages = {4933--4939},
+  year = {2021},
+  organization = {IEEE},
+  booktitle = {2021 IEEE international conference on robotics and automation (ICRA)},
+  title = {Generating continuous motion and force plans in real-time for legged mobile manipulation},
+}
+
+@book{bertsekas2012dynamic,
+  author = {Bertsekas, Dimitri},
+  year = {2012},
+  publisher = {Athena scientific},
+  volume = {4},
+  title = {Dynamic programming and optimal control: Volume I},
+}
+
+@article{pareschi2000implicit,
+  author = {Pareschi, Lorenzo and Russo, Giovanni and others},
+  pages = {269--289},
+  year = {2000},
+  volume = {3},
+  title = {Implicit-explicit Runge-Kutta schemes for stiff systems of differential equations},
+  journal = {Recent trends in numerical analysis},
+}
+
+@article{pmp,
+  author = {Lewis, Andrew D},
+  year = {2006},
+  publisher = {Citeseer},
+  title = {The Maximum Principle of Pontryagin in control and in optimal control},
+  journal = {Handouts for the course taught at the Universitat Politecnica de Catalunya},
+}
+
+@misc{zhang2024rapidrobusttrajectoryoptimization,
+  author = {Bohao Zhang and Ram Vasudevan},
+  year = {2024},
+  archiveprefix = {arXiv},
+  url = {https://arxiv.org/abs/2409.00303},
+  primaryclass = {cs.RO},
+  eprint = {2409.00303},
+  title = {Rapid and Robust Trajectory Optimization for Humanoids},
+}
+
+@article{liu2020geometric,
+  title = {Geometric motion planning for affine control systems with indefinite boundary conditions and free terminal time},
+  author = {Liu, Shenyu and Fan, Yinai and Belabbas, Mohamed-Ali},
+  journal = {arXiv preprint arXiv:2001.04540},
+  year = {2020},
+}

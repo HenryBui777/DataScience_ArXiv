@@ -1,0 +1,15 @@
+{
+  "title": "TEEMATE: Fast and Efficient Confidential Container using Shared Enclave",
+  "authors": [
+    "Chulmin Lee",
+    "Jaewon Hur",
+    "Sangho Lee",
+    "Byoungyoung Lee"
+  ],
+  "summary": "Confidential container is becoming increasingly popular as it meets both needs for efficient resource management by cloud providers, and data protection by cloud users. Specifically, confidential containers integrate the container and the enclave, aiming to inherit the design-wise advantages of both (i.e., resource management and data protection). However, current confidential containers suffer from large performance overheads caused by i) a larger startup latency due to the enclave creation, and ii) a larger memory footprint due to the non-shareable characteristics of enclave memory. This paper explores a design conundrum of confidential container, examining why the confidential containers impose such large performance overheads. Surprisingly, we found there is a universal misconception that an enclave can only be used by a single (containerized) process that created it. However, an enclave can be shared across multiple processes, because an enclave is merely a set of physical resources while the process is an abstraction constructed by the host kernel. To this end, we introduce TeeMate, a new approach to utilize the enclaves on the host system. Especially, TeeMate designs the primitives to i) share the enclave memory between processes, thus preserving memory abstraction, and ii) assign the threads in enclave between processes, thus preserving thread abstraction. We concretized TeeMate on Intel SGX, and implemented confidential serverless computing and confidential database on top of TeeMate based confidential containers. The evaluation clearly demonstrated the strong practical impact of TeeMate by achieving at least 4.5 times lower latency and 2.8 times lower memory usage compared to the applications built on the conventional confidential containers.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR"
+}

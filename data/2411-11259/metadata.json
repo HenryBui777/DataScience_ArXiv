@@ -1,0 +1,16 @@
+{
+  "title": "Graph Retention Networks for Dynamic Graphs",
+  "authors": [
+    "Qian Chang",
+    "Xia Li",
+    "Xiufeng Cheng"
+  ],
+  "summary": "In this work, we propose Graph Retention Network as a unified architecture for deep learning on dynamic graphs. The GRN extends the core computational manner of retention to dynamic graph data as graph retention, which empowers the model with three key computational paradigms that enable training parallelism, $O(1)$ low-cost inference, and long-term batch training. This architecture achieves an optimal balance of effectiveness, efficiency, and scalability. Extensive experiments conducted on benchmark datasets present the superior performance of the GRN in both edge-level prediction and node-level classification tasks. Our architecture achieves cutting-edge results while maintaining lower training latency, reduced GPU memory consumption, and up to an 86.7x improvement in inference throughput compared to baseline models. The GRNs have demonstrated strong potential to become a widely adopted architecture for dynamic graph learning tasks. Code will be available at https://github.com/Chandler-Q/GraphRetentionNet.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-05-20"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

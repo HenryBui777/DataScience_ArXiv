@@ -1,0 +1,13 @@
+{
+  "title": "Segment Any Class (SAC): Multi-Class Few-Shot Semantic Segmentation via Class Region Proposals",
+  "authors": [
+    "Hussni Mohd Zakir",
+    "Eric Tatt Wei Ho"
+  ],
+  "summary": "The Segment-Anything Model (SAM) is a vision foundation model for segmentation with a prompt-driven framework. SAM generates class-agnostic masks based on user-specified instance-referring prompts. However, adapting SAM for automated segmentation -- where manual input is absent -- of specific object classes often requires additional model training. We present Segment Any Class (SAC), a novel, training-free approach that task-adapts SAM for Multi-class segmentation. SAC generates Class-Region Proposals (CRP) on query images which allows us to automatically generate class-aware prompts on probable locations of class instances. CRPs are derived from elementary intra-class and inter-class feature distinctions without any additional training. Our method is versatile, accommodating any N-way K-shot configurations for the multi-class few-shot semantic segmentation (FSS) task. Unlike gradient-learning adaptation of generalist models which risk the loss of generalization and potentially suffer from catastrophic forgetting, SAC solely utilizes automated prompting and achieves superior results over state-of-the-art methods on the COCO-20i benchmark, particularly excelling in high N-way class scenarios. SAC is an interesting demonstration of a prompt-only approach to adapting foundation models for novel tasks with small, limited datasets without any modifications to the foundation model itself. This method offers interesting benefits such as intrinsic immunity to concept or feature loss and rapid, online task adaptation of foundation models.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

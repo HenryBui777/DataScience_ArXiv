@@ -1,0 +1,18 @@
+{
+  "title": "LoRePIE: $\\ell_0$ Regularised Extended Ptychographical Iterative Engine for Low-dose and Fast Electron Ptychography",
+  "authors": [
+    "Amirafshar Moshtaghpour",
+    "Abner Velazco-Torrejon",
+    "Alex W. Robinson",
+    "Nigel D. Browning",
+    "Angus I. Kirkland"
+  ],
+  "summary": "The extended Ptychographical Iterative Engine (ePIE) is a widely used phase retrieval algorithm for Electron Ptychography from 4-dimensional (4-D) Scanning Transmission Electron Microscopy (4-D STEM) measurements acquired with a focused or defocused electron probe. However, ePIE relies on redundancy in the data and hence requires adjacent illuminated areas to overlap. In this paper, we propose a regularised variant of ePIE that is more robust to low overlap ratios. We examine the performance of the proposed algorithm on an experimental 4-D STEM data of double layered Rotavirus particles acquired in a full scan with 85% overlap. By artificial down-sampling of the probe positions, we have created synthetic 4-D STEM datasets with different overlap ratios and use these to show that a high quality reconstruction of Rotavirus particles can be obtained from data with an overlap as low as 56%.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-02-13"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.app-ph"
+}

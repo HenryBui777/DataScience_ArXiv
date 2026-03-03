@@ -1,0 +1,15 @@
+{
+  "title": "Coevolution of relationship-driven cooperation under recommendation protocol on multiplex networks",
+  "authors": [
+    "Hongyu Yue",
+    "Xiaojin Xiong",
+    "Minyu Feng",
+    "Attila Szolnoki"
+  ],
+  "summary": "While traditional game models often simplify interactions among agents as static, real-world social relationships are inherently dynamic, influenced by both immediate payoffs and alternative information. Motivated by this fact, we introduce a coevolutionary multiplex network model that incorporates the concepts of a relationship threshold and a recommendation mechanism to explore how the strength of relationships among agents interacts with their strategy choices within the framework of weak prisoner's dilemma games. In the relationship layer, the relationship strength between agents varies based on interaction outcomes. In return, the strategy choice of agents in the game layer is influenced by both payoffs and relationship indices, and agents can interact with distant agents through a recommendation mechanism. Simulation of various network topologies reveals that a higher average degree supports cooperation, although increased randomness in interactions may inhibit its formation. Interestingly, a higher threshold value of interaction quality is detrimental, while the applied recommendation protocol can improve global cooperation. The best results are obtained when the relative weight of payoff is minimal and the individual fitness is dominated by the relationship indices gained from the quality of links to neighbors. As a consequence, the changes in the distribution of relationship indices are closely correlated with overall levels of cooperation.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "Chaos, Solitons and Fractals 190 (2025) 115753",
+  "pdf_url": null,
+  "category": "cs.SI, physics.soc-ph"
+}

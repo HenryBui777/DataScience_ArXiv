@@ -1,0 +1,19 @@
+{
+  "title": "Label Sharing Incremental Learning Framework for Independent Multi-Label Segmentation Tasks",
+  "authors": [
+    "Deepa Anand",
+    "Bipul Das",
+    "Vyshnav Dangeti",
+    "Antony Jerald",
+    "Rakesh Mullick",
+    "Uday Patil",
+    "Pakhi Sharma",
+    "Prasad Sudhakar"
+  ],
+  "summary": "In a setting where segmentation models have to be built for multiple datasets, each with its own corresponding label set, a straightforward way is to learn one model for every dataset and its labels. Alternatively, multi-task architectures with shared encoders and multiple segmentation heads or shared weights with compound labels can also be made use of. This work proposes a novel label sharing framework where a shared common label space is constructed and each of the individual label sets are systematically mapped to the common labels. This transforms multiple datasets with disparate label sets into a single large dataset with shared labels, and therefore all the segmentation tasks can be addressed by learning a single model. This eliminates the need for task specific adaptations in network architectures and also results in parameter and data efficient models. Furthermore, label sharing framework is naturally amenable for incremental learning where segmentations for new datasets can be easily learnt. We experimentally validate our method on various medical image segmentation datasets, each involving multi-label segmentation. Furthermore, we demonstrate the efficacy of the proposed method in terms of performance and incremental learning ability vis-a-vis alternative methods.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI"
+}

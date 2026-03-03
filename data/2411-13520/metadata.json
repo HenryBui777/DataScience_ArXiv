@@ -1,0 +1,18 @@
+{
+  "title": "Quantum Attention for Vision Transformers in High Energy Physics",
+  "authors": [
+    "Alessandro Tesi",
+    "Gopal Ramesh Dahale",
+    "Sergei Gleyzer",
+    "Kyoungchul Kong",
+    "Tom Magorsch",
+    "Konstantin T. Matchev",
+    "Katia Matcheva"
+  ],
+  "summary": "We present a novel hybrid quantum-classical vision transformer architecture incorporating quantum orthogonal neural networks (QONNs) to enhance performance and computational efficiency in high-energy physics applications. Building on advancements in quantum vision transformers, our approach addresses limitations of prior models by leveraging the inherent advantages of QONNs, including stability and efficient parameterization in high-dimensional spaces. We evaluate the proposed architecture using multi-detector jet images from CMS Open Data, focusing on the task of distinguishing quark-initiated from gluon-initiated jets. The results indicate that embedding quantum orthogonal transformations within the attention mechanism can provide robust performance while offering promising scalability for machine learning challenges associated with the upcoming High Luminosity Large Hadron Collider. This work highlights the potential of quantum-enhanced models to address the computational demands of next-generation particle physics experiments.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, cs.LG, hep-ex, hep-ph"
+}

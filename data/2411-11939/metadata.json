@@ -1,0 +1,18 @@
+{
+  "title": "Fair Distillation: Teaching Fairness from Biased Teachers in Medical Imaging",
+  "authors": [
+    "Milad Masroor",
+    "Tahir Hassan",
+    "Yu Tian",
+    "Kevin Wells",
+    "David Rosewarne",
+    "Thanh-Toan Do",
+    "Gustavo Carneiro"
+  ],
+  "summary": "Deep learning has achieved remarkable success in image classification and segmentation tasks. However, fairness concerns persist, as models often exhibit biases that disproportionately affect demographic groups defined by sensitive attributes such as race, gender, or age. Existing bias-mitigation techniques, including Subgroup Re-balancing, Adversarial Training, and Domain Generalization, aim to balance accuracy across demographic groups, but often fail to simultaneously improve overall accuracy, group-specific accuracy, and fairness due to conflicts among these interdependent objectives. We propose the Fair Distillation (FairDi) method, a novel fairness approach that decomposes these objectives by leveraging biased ``teacher'' models, each optimized for a specific demographic group. These teacher models then guide the training of a unified ``student'' model, which distills their knowledge to maximize overall and group-specific accuracies, while minimizing inter-group disparities. Experiments on medical imaging datasets show that FairDi achieves significant gains in both overall and group-specific accuracy, along with improved fairness, compared to existing methods. FairDi is adaptable to various medical tasks, such as classification and segmentation, and provides an effective solution for equitable model performance.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

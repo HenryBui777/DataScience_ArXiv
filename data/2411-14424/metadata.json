@@ -1,0 +1,13 @@
+{
+  "title": "Learning Fair Robustness via Domain Mixup",
+  "authors": [
+    "Meiyu Zhong",
+    "Ravi Tandon"
+  ],
+  "summary": "Adversarial training is one of the predominant techniques for training classifiers that are robust to adversarial attacks. Recent work, however has found that adversarial training, which makes the overall classifier robust, it does not necessarily provide equal amount of robustness for all classes. In this paper, we propose the use of mixup for the problem of learning fair robust classifiers, which can provide similar robustness across all classes. Specifically, the idea is to mix inputs from the same classes and perform adversarial training on mixed up inputs. We present a theoretical analysis of this idea for the case of linear classifiers and show that mixup combined with adversarial training can provably reduce the class-wise robustness disparity. This method not only contributes to reducing the disparity in class-wise adversarial risk, but also the class-wise natural risk. Complementing our theoretical analysis, we also provide experimental results on both synthetic data and the real world dataset (CIFAR-10), which shows improvement in class wise disparities for both natural and adversarial risks.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.CR, cs.CY"
+}

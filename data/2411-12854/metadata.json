@@ -1,0 +1,14 @@
+{
+  "title": "A new Input Convex Neural Network with application to options pricing",
+  "authors": [
+    "Vincent Lemaire",
+    "Gilles Pagès",
+    "Christian Yeo"
+  ],
+  "summary": "We introduce a new class of neural networks designed to be convex functions of their inputs, leveraging the principle that any convex function can be represented as the supremum of the affine functions it dominates. These neural networks, inherently convex with respect to their inputs, are particularly well-suited for approximating the prices of options with convex payoffs. We detail the architecture of this, and establish theoretical convergence bounds that validate its approximation capabilities. We also introduce a \\emph{scrambling} phase to improve the training of these networks. Finally, we demonstrate numerically the effectiveness of these networks in estimating prices for three types of options with convex payoffs: Basket, Bermudan, and Swing options.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ML, cs.LG"
+}

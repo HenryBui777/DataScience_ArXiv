@@ -1,0 +1,864 @@
+@article{roar_graph,
+  author = {Chen, Meng and Zhang, Kai and He, Zhenying and Jing, Yinan and Wang, X. Sean},
+  title = {RoarGraph: A Projected Bipartite Graph for Efficient Cross-Modal Approximate Nearest Neighbor Search},
+  year = {2024},
+  issue_date = {July 2024},
+  publisher = {VLDB Endowment},
+  volume = {17},
+  number = {11},
+  issn = {2150-8097},
+  url = {https://doi.org/10.14778/3681954.3681959},
+  doi = {10.14778/3681954.3681959},
+  abstract = {Approximate Nearest Neighbor Search (ANNS) is a fundamental and critical component in many applications, including recommendation systems and large language model-based applications. With the advancement of multimodal neural models, which transform data from different modalities into a shared high-dimensional space as feature vectors, cross-modal ANNS aims to use the data vector from one modality (e.g., texts) as the query to retrieve the most similar items from another (e.g., images or videos). However, there is an inherent distribution gap between embeddings from different modalities, and cross-modal queries become Out-of-Distribution (OOD) to the base data. Consequently, state-of-the-art ANNS approaches suffer poor performance for OOD workloads.In this paper, we quantitatively analyze the properties of the OOD workloads to gain an understanding of their ANNS efficiency. Unlike single-modal workloads, we reveal OOD queries spatially deviate from base data, and the k-nearest neighbors of an OOD query are distant from each other in the embedding space. The property breaks the assumptions of existing ANNS approaches and mismatches their design for efficient search. With the insights from the OOD workloads, we propose pRojected bipartite Graph (RoarGraph), an efficient ANNS graph index that is built under the guidance of query distribution. Extensive experiments show that RoarGraph significantly outperforms state-of-the-art approaches on modern cross-modal datasets, achieving up to 3.56\texttimes{},
+  journal = {Proc. VLDB Endow.},
+  pages = {2735–2749},
+  numpages = {15},
+}
+
+@inproceedings{han2024efficient,
+  title = {Efficient Proximity Search in Time-accumulating High-dimensional Data using Multi-level Block Indexing.},
+  author = {Han, Changhun and Kim, Suji and Park, Ha-Myung},
+  booktitle = {EDBT},
+  pages = {547--558},
+  year = {2024},
+}
+
+@article{marco_graph,
+  title = {A survey on graph-based methods for similarity searches in metric spaces},
+  author = {Shimomura, Larissa C and Oyamada, Rafael Seidi and Vieira, Marcos R and Kaster, Daniel S},
+  journal = {Information Systems},
+  volume = {95},
+  pages = {101507},
+  year = {2021},
+  publisher = {Elsevier},
+}
+
+@article{moromips,
+  title = {Non-metric similarity graphs for maximum inner product search},
+  author = {Morozov, Stanislav and Babenko, Artem},
+  journal = {Advances in Neural Information Processing Systems},
+  volume = {31},
+  year = {2018},
+}
+
+@article{zhoumips,
+  title = {M{\"o},
+  author = {Zhou, Zhixin and Tan, Shulong and Xu, Zhaozhuo and Li, Ping},
+  journal = {Advances in Neural Information Processing Systems},
+  volume = {32},
+  year = {2019},
+}
+
+@book{similarity_search_book2,
+  author = {Samet, Hanan},
+  title = {Foundations of Multidimensional and Metric Data Structures (The Morgan Kaufmann Series in Computer Graphics and Geometric Modeling)},
+  year = {2005},
+  isbn = {0123694469},
+  publisher = {Morgan Kaufmann Publishers Inc.},
+  address = {San Francisco, CA, USA},
+}
+
+@book{similarity_search_book1,
+  author = {Zezula, Pavel and Amato, Giuseppe and Dohnal, Vlastislav and Batko, Michal},
+  title = {Similarity Search: The Metric Space Approach},
+  year = {2010},
+  isbn = {1441939725},
+  publisher = {Springer Publishing Company, Incorporated},
+  edition = {1st},
+  abstract = {The proliferation of information housed in computerized domains makes it vital to find tools to search these resources efficiently and effectively. Ordinary retrieval techniques are inadequate because sorting is simply impossible. Consequently, proximity searching has become a fundamental computation task in a variety of application areas. Similarity Search focuses on the state of the art in developing index structures for searching the metric space. Part I of the text describes major theoretical principles, and provides an extensive survey of specific techniques for a large range of applications. Part II concentrates on approaches particularly designed for searching in large collections of data. After describing the most popular centralized disk-based metric indexes, approximation techniques are presented as a way to significantly speed up search time at the cost of some imprecision in query results. Finally, the scalable and distributed metric structures are discussed.},
+}
+
+@article{SRHT,
+  author = {Ailon, Nir and Chazelle, Bernard},
+  title = {The Fast Johnson–Lindenstrauss Transform and Approximate Nearest Neighbors},
+  journal = {SIAM Journal on Computing},
+  volume = {39},
+  number = {1},
+  pages = {302-322},
+  year = {2009},
+  doi = {10.1137/060673096},
+  url = {https://doi.org/10.1137/060673096},
+  eprint = {https://doi.org/10.1137/060673096},
+  abstract = {We introduce a new low-distortion embedding of \$\ell\_2^d\$ into \$\ell\_p^{O(\log n)},
+}
+
+@article{marco_survey,
+  author = {Patella, Marco and Ciaccia, Paolo},
+  title = {Approximate Similarity Search: A Multi-Faceted Problem},
+  year = {2009},
+  issue_date = {March, 2009},
+  publisher = {Elsevier Science Publishers B. V.},
+  address = {NLD},
+  volume = {7},
+  number = {1},
+  issn = {1570-8667},
+  url = {https://doi.org/10.1016/j.jda.2008.09.014},
+  doi = {10.1016/j.jda.2008.09.014},
+  abstract = {We review the major paradigms for approximate similarity queries and propose a classification schema that easily allows existing approaches to be compared along several independent coordinates. Then, we discuss the impact that scheduling of index nodes can have on performance and show that, unlike exact similarity queries, no provable optimal scheduling strategy exists for approximate queries. On the positive side, we show that optimal-on-the-average schedules are well-defined and that their performance is indeed the best among practical schedules.},
+  journal = {J. of Discrete Algorithms},
+  month = {mar},
+  pages = {36–48},
+  numpages = {13},
+  keywords = {Scheduling strategy, Similarity search, Approximate queries},
+}
+
+@article{gao2024rabitq,
+  author = {Gao, Jianyang and Long, Cheng},
+  title = {RaBitQ: Quantizing High-Dimensional Vectors with a Theoretical Error Bound for Approximate Nearest Neighbor Search},
+  year = {2024},
+  issue_date = {June 2024},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  volume = {2},
+  number = {3},
+  url = {https://doi.org/10.1145/3654970},
+  doi = {10.1145/3654970},
+  abstract = {Searching for approximate nearest neighbors (ANN) in the high-dimensional Euclidean space is a pivotal problem. Recently, with the help of fast SIMD-based implementations, Product Quantization (PQ) and its variants can often efficiently and accurately estimate the distances between the vectors and have achieved great success in the in-memory ANN search. Despite their empirical success, we note that these methods do not have a theoretical error bound and are observed to fail disastrously on some real-world datasets. Motivated by this, we propose a new randomized quantization method named RaBitQ, which quantizes D-dimensional vectors into D-bit strings. RaBitQ guarantees a sharp theoretical error bound and provides good empirical accuracy at the same time. In addition, we introduce efficient implementations of RaBitQ, supporting to estimate the distances with bitwise operations or SIMD-based operations. Extensive experiments on real-world datasets confirm that (1) our method outperforms PQ and its variants in terms of accuracy-efficiency trade-off by a clear margin and (2) its empirical performance is well-aligned with our theoretical analysis.},
+  journal = {Proc. ACM Manag. Data},
+  month = {may},
+  articleno = {167},
+  numpages = {27},
+  keywords = {Johnson-Lindenstrauss transformation, approximate nearest neighbor search, quantization},
+}
+
+@article{adsampling,
+  title = {High-dimensional approximate nearest neighbor search: with reliable and efficient distance comparison operations},
+  author = {Gao, Jianyang and Long, Cheng},
+  journal = {Proceedings of the ACM on Management of Data},
+  volume = {1},
+  number = {2},
+  pages = {1--27},
+  year = {2023},
+  publisher = {ACM New York, NY, USA},
+}
+
+@article{wei2020analyticdb,
+  title = {Analyticdb-v: A hybrid analytical engine towards query fusion for structured and unstructured data},
+  author = {Wei, Chuangxian and Wu, Bin and Wang, Sheng and Lou, Renjie and Zhan, Chaoqun and Li, Feifei and Cai, Yuanzhe},
+  journal = {Proceedings of the VLDB Endowment},
+  volume = {13},
+  number = {12},
+  pages = {3152--3165},
+  year = {2020},
+  publisher = {VLDB Endowment},
+}
+
+@incollection{schafer2007collaborative,
+  title = {Collaborative filtering recommender systems},
+  author = {Schafer, J Ben and Frankowski, Dan and Herlocker, Jon and Sen, Shilad},
+  booktitle = {The adaptive web: methods and strategies of web personalization},
+  pages = {291--324},
+  year = {2007},
+  publisher = {Springer},
+}
+
+@article{johnson1984extensions,
+  title = {Extensions of Lipschitz mappings into a Hilbert space 26},
+  author = {Johnson, William B and Lindenstrauss, Joram},
+  journal = {Contemporary mathematics},
+  volume = {26},
+  pages = {28},
+  year = {1984},
+}
+
+@inproceedings{asai2023retrieval,
+  title = {Retrieval-based language models and applications},
+  author = {Asai, Akari and Min, Sewon and Zhong, Zexuan and Chen, Danqi},
+  booktitle = {Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 6: Tutorial Abstracts)},
+  pages = {41--46},
+  year = {2023},
+}
+
+@article{echihabi2023pros,
+  title = {ProS: data series progressive k-NN similarity search and classification with probabilistic quality guarantees},
+  author = {Echihabi, Karima and Tsandilas, Theophanis and Gogolou, Anna and Bezerianos, Anastasia and Palpanas, Themis},
+  journal = {The VLDB Journal},
+  volume = {32},
+  number = {4},
+  pages = {763--789},
+  year = {2023},
+  publisher = {Springer},
+}
+
+@article{azizi2023elpis,
+  title = {Elpis: Graph-based similarity search for scalable data science},
+  author = {Azizi, Ilias and Echihabi, Karima and Palpanas, Themis},
+  journal = {Proceedings of the VLDB Endowment},
+  volume = {16},
+  number = {6},
+  pages = {1548--1559},
+  year = {2023},
+  publisher = {VLDB Endowment},
+}
+
+@article{echihabi2022hercules,
+  title = {Hercules against data series similarity search},
+  author = {Echihabi, Karima and Fatourou, Panagiota and Zoumpatianos, Kostas and Palpanas, Themis and Benbrahim, Houda},
+  journal = {arXiv preprint arXiv:2212.13297},
+  year = {2022},
+}
+
+@article{mohoney2023high,
+  title = {High-throughput vector similarity search in knowledge graphs},
+  author = {Mohoney, Jason and Pacaci, Anil and Chowdhury, Shihabur Rahman and Mousavi, Ali and Ilyas, Ihab F and Minhas, Umar Farooq and Pound, Jeffrey and Rekatsinas, Theodoros},
+  journal = {Proceedings of the ACM on Management of Data},
+  volume = {1},
+  number = {2},
+  pages = {1--25},
+  year = {2023},
+  publisher = {ACM New York, NY, USA},
+}
+
+@article{zhao2023towards,
+  title = {Towards efficient index construction and approximate nearest neighbor search in high-dimensional spaces},
+  author = {Zhao, Xi and Tian, Yao and Huang, Kai and Zheng, Bolong and Zhou, Xiaofang},
+  journal = {Proceedings of the VLDB Endowment},
+  volume = {16},
+  number = {8},
+  pages = {1979--1991},
+  year = {2023},
+  publisher = {VLDB Endowment},
+}
+
+@inproceedings{hakanvq,
+  author = {Tuncel, Ertem and Ferhatosmanoglu, Hakan and Rose, Kenneth},
+  title = {VQ-index: an index structure for similarity searching in multimedia databases},
+  year = {2002},
+  isbn = {158113620X},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/641007.641117},
+  doi = {10.1145/641007.641117},
+  abstract = {In this paper, we introduce a novel indexing technique based on efficient compression of the feature space for approximate similarity searching in large multimedia databases. Its main novelty is that state-of-the-art tools from the discipline of data compression are adopted to optimize the complexity-performance tradeoff in large data sets. The design procedure optimizes the query access time by jointly accounting for both database distribution and query statistics. We achieve efficient compression by using appropriate vector quantization (VQ) techniques, namely, multi-stage VQ and split-VQ, which are especially suited for limited memory applications. We partition the data set using the accumulated query history, and each partition of data points is separately compressed using a vector quantizer tailored to its distribution. The employed VQ techniques inherently provide a spectrum of points to choose from on the time/accuracy plane. This property is especially crucial for large multimedia databases where I/O time is a bottleneck, because it offers the flexibility to trade time for better accuracy. Our experiments demonstrate speedups of 20 to 35 over a VA-file technique that has been adapted for approximate nearest neighbor searching.},
+  booktitle = {Proceedings of the Tenth ACM International Conference on Multimedia},
+  pages = {543–552},
+  numpages = {10},
+  keywords = {approximate similarity searching, clustering, indexing, retrieved information reduction, retrieved set reduction, vector quantization},
+  location = {Juan-les-Pins, France},
+  series = {MULTIMEDIA '02},
+}
+
+@article{nsw,
+  title = {Approximate nearest neighbor algorithm based on navigable small world graphs},
+  author = {Malkov, Yury and Ponomarenko, Alexander and Logvinov, Andrey and Krylov, Vladimir},
+  journal = {Information Systems},
+  volume = {45},
+  pages = {61--68},
+  year = {2014},
+  publisher = {Elsevier},
+}
+
+@article{hnsw,
+  title = {Efficient and robust approximate nearest neighbor search using hierarchical navigable small world graphs},
+  author = {Malkov, Yu A and Yashunin, Dmitry A},
+  journal = {IEEE transactions on pattern analysis and machine intelligence},
+  volume = {42},
+  number = {4},
+  pages = {824--836},
+  year = {2018},
+  publisher = {IEEE},
+}
+
+@inproceedings{fanng,
+  title = {Fanng: Fast approximate nearest neighbour graphs},
+  author = {Harwood, Ben and Drummond, Tom},
+  booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages = {5713--5722},
+  year = {2016},
+}
+
+@article{fu2016efanna,
+  title = {Efanna: An extremely fast approximate nearest neighbor search algorithm based on knn graph},
+  author = {Fu, Cong and Cai, Deng},
+  journal = {arXiv preprint arXiv:1609.07228},
+  year = {2016},
+}
+
+@inproceedings{iwasaki2016pruned,
+  title = {Pruned bi-directed k-nearest neighbor graph for proximity search},
+  author = {Iwasaki, Masajiro},
+  booktitle = {International Conference on Similarity Search and Applications},
+  pages = {20--33},
+  year = {2016},
+  organization = {Springer},
+}
+
+@article{spann,
+  title = {Spann: Highly-efficient billion-scale approximate nearest neighborhood search},
+  author = {Chen, Qi and Zhao, Bing and Wang, Haidong and Li, Mingqin and Liu, Chuanjie and Li, Zengzhong and Yang, Mao and Wang, Jingdong},
+  journal = {Advances in Neural Information Processing Systems},
+  volume = {34},
+  pages = {5199--5212},
+  year = {2021},
+}
+
+@article{rng,
+  title = {The relative neighbourhood graph of a finite planar set},
+  author = {Toussaint, Godfried T},
+  journal = {Pattern recognition},
+  volume = {12},
+  number = {4},
+  pages = {261--268},
+  year = {1980},
+  publisher = {Elsevier},
+}
+
+@article{nsg,
+  title = {Fast approximate nearest neighbor search with the navigating spreading-out graph},
+  author = {Fu, Cong and Xiang, Chao and Wang, Changxu and Cai, Deng},
+  journal = {arXiv preprint arXiv:1707.00143},
+  year = {2017},
+}
+
+@article{2019diskann,
+  title = {Diskann: Fast accurate billion-point nearest neighbor search on a single node},
+  author = {Jayaram Subramanya, Suhas and Devvrit, Fnu and Simhadri, Harsha Vardhan and Krishnawamy, Ravishankar and Kadekodi, Rohan},
+  journal = {Advances in Neural Information Processing Systems},
+  volume = {32},
+  year = {2019},
+}
+
+@manual{SPTAG,
+  author = {Qi Chen and
+               Haidong Wang and
+               Mingqin Li and 
+               Gang Ren and
+               Scarlett Li and
+               Jeffery Zhu and
+               Jason Li and
+               Chuanjie Liu and
+               Lintao Zhang and
+               Jingdong Wang},
+  title = {SPTAG: A library for fast approximate nearest neighbor search},
+  url = {https://github.com/Microsoft/SPTAG},
+  year = {2018},
+}
+
+@misc{yang2024bridgingspeedaccuracyapproximate,
+  title = {Bridging Speed and Accuracy to Approximate $K$-Nearest Neighbor Search},
+  author = {Mingyu Yang and Jiabao Jin and Xiangyu Wang and Zhitao Shen and Wei Jia and Wentao Li and Wei Wang},
+  year = {2024},
+  eprint = {2404.16322},
+  archiveprefix = {arXiv},
+  primaryclass = {cs.DB},
+  url = {https://arxiv.org/abs/2404.16322},
+}
+
+@misc{wang2024distancecomparisonoperatorsapproximate,
+  title = {Distance Comparison Operators for Approximate Nearest Neighbor Search: Exploration and Benchmark},
+  author = {Zeyu Wang and Haoran Xiong and Zhenying He and Peng Wang and Wei wang},
+  year = {2024},
+  eprint = {2403.13491},
+  archiveprefix = {arXiv},
+  primaryclass = {cs.DB},
+  url = {https://arxiv.org/abs/2403.13491},
+}
+
+@article{hcnng,
+  title = {Hierarchical clustering-based graphs for large scale approximate nearest neighbor search},
+  author = {Munoz, Javier Vargas and Gon{\c{c},
+  journal = {Pattern Recognition},
+  volume = {96},
+  pages = {106970},
+  year = {2019},
+  publisher = {Elsevier},
+}
+
+@misc{onng,
+  title = {Optimization of Indexing Based on k-Nearest Neighbor Graph for Proximity Search in High-dimensional Data},
+  author = {Masajiro Iwasaki and Daisuke Miyazaki},
+  year = {2018},
+  eprint = {1810.07355},
+  archiveprefix = {arXiv},
+  primaryclass = {cs.DB},
+}
+
+@article{tau-mng,
+  title = {Efficient approximate nearest neighbor search in multi-dimensional databases},
+  author = {Peng, Yun and Choi, Byron and Chan, Tsz Nam and Yang, Jianye and Xu, Jianliang},
+  journal = {Proceedings of the ACM on Management of Data},
+  volume = {1},
+  number = {1},
+  pages = {1--27},
+  year = {2023},
+  publisher = {ACM New York, NY, USA},
+}
+
+@inproceedings{chen2023finger,
+  title = {Finger: Fast inference for graph-based approximate nearest neighbor search},
+  author = {Chen, Patrick and Chang, Wei-Cheng and Jiang, Jyun-Yu and Yu, Hsiang-Fu and Dhillon, Inderjit and Hsieh, Cho-Jui},
+  booktitle = {Proceedings of the ACM Web Conference 2023},
+  pages = {3225--3235},
+  year = {2023},
+}
+
+@article{pq,
+  title = {Product quantization for nearest neighbor search},
+  author = {Jegou, Herve and Douze, Matthijs and Schmid, Cordelia},
+  journal = {IEEE transactions on pattern analysis and machine intelligence},
+  volume = {33},
+  number = {1},
+  pages = {117--128},
+  year = {2010},
+  publisher = {IEEE},
+}
+
+@article{opq,
+  title = {Optimized product quantization},
+  author = {Ge, Tiezheng and He, Kaiming and Ke, Qifa and Sun, Jian},
+  journal = {IEEE transactions on pattern analysis and machine intelligence},
+  volume = {36},
+  number = {4},
+  pages = {744--755},
+  year = {2013},
+  publisher = {IEEE},
+}
+
+@inproceedings{pqfs,
+  title = {Cache locality is not enough: High-performance nearest neighbor search with product quantization fast scan},
+  author = {Andr{\'e},
+  booktitle = {42nd International Conference on Very Large Data Bases},
+  volume = {9},
+  pages = {12},
+  year = {2016},
+}
+
+@inproceedings{addq,
+  title = {Additive quantization for extreme vector compression},
+  author = {Babenko, Artem and Lempitsky, Victor},
+  booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages = {931--938},
+  year = {2014},
+}
+
+@article{babenko2014inverted,
+  title = {The inverted multi-index},
+  author = {Babenko, Artem and Lempitsky, Victor},
+  journal = {IEEE transactions on pattern analysis and machine intelligence},
+  volume = {37},
+  number = {6},
+  pages = {1247--1260},
+  year = {2014},
+  publisher = {IEEE},
+}
+
+@inproceedings{guo2020accelerating,
+  title = {Accelerating large-scale inference with anisotropic vector quantization},
+  author = {Guo, Ruiqi and Sun, Philip and Lindgren, Erik and Geng, Quan and Simcha, David and Chern, Felix and Kumar, Sanjiv},
+  booktitle = {International Conference on Machine Learning},
+  pages = {3887--3896},
+  year = {2020},
+  organization = {PMLR},
+}
+
+@inproceedings{quickadc,
+  title = {Accelerated nearest neighbor search with quick adc},
+  author = {Andr{\'e},
+  booktitle = {Proceedings of the 2017 ACM on International Conference on Multimedia Retrieval},
+  pages = {159--166},
+  year = {2017},
+}
+
+@article{intellvq,
+  title = {Similarity search in the blink of an eye with compressed indices},
+  author = {Aguerrebere, Cecilia and Bhati, Ishwar and Hildebrand, Mark and Tepper, Mariano and Willke, Ted},
+  journal = {arXiv preprint arXiv:2304.04759},
+  year = {2023},
+}
+
+@inproceedings{datar2004locality,
+  title = {Locality-sensitive hashing scheme based on p-stable distributions},
+  author = {Datar, Mayur and Immorlica, Nicole and Indyk, Piotr and Mirrokni, Vahab S},
+  booktitle = {Proceedings of the twentieth annual symposium on Computational geometry},
+  pages = {253--262},
+  year = {2004},
+}
+
+@inproceedings{gan2012locality,
+  title = {Locality-sensitive hashing scheme based on dynamic collision counting},
+  author = {Gan, Junhao and Feng, Jianlin and Fang, Qiong and Ng, Wilfred},
+  booktitle = {Proceedings of the 2012 ACM SIGMOD international conference on management of data},
+  pages = {541--552},
+  year = {2012},
+}
+
+@article{huang2015query,
+  title = {Query-aware locality-sensitive hashing for approximate nearest neighbor search},
+  author = {Huang, Qiang and Feng, Jianlin and Zhang, Yikai and Fang, Qiong and Ng, Wilfred},
+  journal = {Proceedings of the VLDB Endowment},
+  volume = {9},
+  number = {1},
+  pages = {1--12},
+  year = {2015},
+  publisher = {VLDB Endowment},
+}
+
+@inproceedings{indyk1998approximate,
+  title = {Approximate nearest neighbors: towards removing the curse of dimensionality},
+  author = {Indyk, Piotr and Motwani, Rajeev},
+  booktitle = {Proceedings of the thirtieth annual ACM symposium on Theory of computing},
+  pages = {604--613},
+  year = {1998},
+}
+
+@article{sun2014srs,
+  title = {SRS: solving c-approximate nearest neighbor queries in high dimensional euclidean space with a tiny index},
+  author = {Sun, Yifang and Wang, Wei and Qin, Jianbin and Zhang, Ying and Lin, Xuemin},
+  journal = {Proceedings of the VLDB Endowment},
+  year = {2014},
+}
+
+@article{tao2010efficient,
+  title = {Efficient and accurate nearest neighbor and closest pair search in high-dimensional space},
+  author = {Tao, Yufei and Yi, Ke and Sheng, Cheng and Kalnis, Panos},
+  journal = {ACM Transactions on Database Systems (TODS)},
+  volume = {35},
+  number = {3},
+  pages = {1--46},
+  year = {2010},
+  publisher = {ACM New York, NY, USA},
+}
+
+@inproceedings{beygelzimer2006cover,
+  title = {Cover trees for nearest neighbor},
+  author = {Beygelzimer, Alina and Kakade, Sham and Langford, John},
+  booktitle = {Proceedings of the 23rd international conference on Machine learning},
+  pages = {97--104},
+  year = {2006},
+}
+
+@inproceedings{arya1993approximate,
+  title = {Approximate nearest neighbor queries in fixed dimensions.},
+  author = {Arya, Sunil and Mount, David M},
+  booktitle = {SODA},
+  volume = {93},
+  pages = {271--280},
+  year = {1993},
+  organization = {Citeseer},
+}
+
+@inproceedings{gu2022parallel,
+  title = {Parallel cover trees and their applications},
+  author = {Gu, Yan and Napier, Zachary and Sun, Yihan and Wang, Letong},
+  booktitle = {Proceedings of the 34th ACM Symposium on Parallelism in Algorithms and Architectures},
+  pages = {259--272},
+  year = {2022},
+}
+
+@inproceedings{mtree,
+  author = {Ciaccia, Paolo and Patella, Marco and Zezula, Pavel},
+  title = {M-tree: An Efficient Access Method for Similarity Search in Metric Spaces},
+  year = {1997},
+  isbn = {1558604707},
+  publisher = {Morgan Kaufmann Publishers Inc.},
+  address = {San Francisco, CA, USA},
+  booktitle = {Proceedings of the 23rd International Conference on Very Large Data Bases},
+  pages = {426–435},
+  numpages = {10},
+  series = {VLDB '97},
+}
+
+@inproceedings{wang_survey,
+  author = {Pan, James Jie and Wang, Jianguo and Li, Guoliang},
+  title = {Vector Database Management Techniques and Systems},
+  year = {2024},
+  isbn = {9798400704222},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3626246.3654691},
+  doi = {10.1145/3626246.3654691},
+  abstract = {Feature vectors are now mission-critical for many applications, including retrieval-based large language models (LLMs). Traditional database management systems are not equipped to deal with the unique characteristics of feature vectors, such as the vague notion of semantic similarity, large size of vectors, expensive similarity comparisons, lack of indexable structure, and difficulty of answering "hybrid" queries that combine structured attributes with feature vectors. A number of vector database management systems (VDBMSs) have been developed to address these challenges, combining novel techniques for query processing, storage and indexing, and query optimization and execution and culminating in a spectrum of performance and accuracy characteristics and capabilities. In this tutorial, we review the existing vector database management techniques and systems. For query processing, we review similarity score design and selection, vector query types, and vector query interfaces. For storage and indexing, we review various indexes and discuss compression as well as disk-resident indexes. For query optimization and execution, we review hybrid query processing, hardware acceleration, and distibuted search. We then review existing systems, search engines and libraries, and benchmarks. Finally, we present research challenges and open problems.},
+  booktitle = {Companion of the 2024 International Conference on Management of Data},
+  pages = {597–604},
+  numpages = {8},
+  keywords = {dense retrieval, k-NN, vector database, vector similarity search},
+  location = {Santiago AA, Chile},
+  series = {SIGMOD/PODS '24},
+}
+
+@article{graph_benchmark,
+  author = {Mengzhao Wang and
+               Xiaoliang Xu and
+               Qiang Yue and
+               Yuxiang Wang},
+  title = {A Comprehensive Survey and Experimental Comparison of Graph-Based
+               Approximate Nearest Neighbor Search},
+  journal = {Proc. {VLDB},
+  volume = {14},
+  number = {11},
+  pages = {1964--1978},
+  year = {2021},
+  url = {http://www.vldb.org/pvldb/vol14/p1964-wang.pdf},
+  timestamp = {Fri, 27 Aug 2021 17:02:27 +0200},
+  biburl = {https://dblp.org/rec/journals/pvldb/WangXY021.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}
+
+@article{li2019approximate,
+  title = {Approximate nearest neighbor search on high dimensional data—experiments, analyses, and improvement},
+  author = {Li, Wen and Zhang, Ying and Sun, Yifang and Wang, Wei and Li, Mingjie and Zhang, Wenjie and Lin, Xuemin},
+  journal = {IEEE Transactions on Knowledge and Data Engineering},
+  volume = {32},
+  number = {8},
+  pages = {1475--1488},
+  year = {2019},
+  publisher = {IEEE},
+}
+
+@article{tutorialThemis,
+  author = {Echihabi, Karima and Zoumpatianos, Kostas and Palpanas, Themis},
+  title = {New Trends in High-D Vector Similarity Search: Al-Driven, Progressive, and Distributed},
+  year = {2021},
+  issue_date = {July 2021},
+  publisher = {VLDB Endowment},
+  volume = {14},
+  number = {12},
+  issn = {2150-8097},
+  url = {https://doi.org/10.14778/3476311.3476407},
+  doi = {10.14778/3476311.3476407},
+  abstract = {Similarity search is a core operation of many critical applications, involving massive collections of high-dimensional (high-d) objects. Objects can be data series, text, multimedia, graphs, database tables or deep network embeddings. In this tutorial, we revisit the similarity search problem in light of the recent advances in the field and the new big data landscape. We discuss key data science applications that require efficient high-d similarity search, we survey recent approaches and share surprising insights about their strengths and weaknesses, and we discuss open research problems, including the directions of AI-driven, progressive, and distributed high-d similarity search.},
+  journal = {Proc. VLDB Endow.},
+  month = {jul},
+  pages = {3198–3201},
+  numpages = {4},
+}
+
+@inproceedings{tutorialXiao,
+  author = {Qin, Jianbin and Wang, Wei and Xiao, Chuan and Zhang, Ying and Wang, Yaoshu},
+  title = {High-Dimensional Similarity Query Processing for Data Science},
+  year = {2021},
+  isbn = {9781450383325},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3447548.3470811},
+  doi = {10.1145/3447548.3470811},
+  abstract = {Similarity query (a.k.a. nearest neighbor query) processing has been an active research topic for several decades. It is an essential procedure in a wide range of applications (e.g., classification &amp; regression, deduplication, image retrieval, and recommender systems). Recently, representation learning and auto-encoding methods as well as pre-trained models have gained popularity. They basically deal with dense high-dimensional data, and this trend brings new opportunities and challenges to similarity query processing. Meanwhile, new techniques have emerged to tackle this long-standing problem theoretically and empirically. This tutorial aims to provide a comprehensive review of high-dimensional similarity query processing for data science. It introduces solutions from a variety of research communities, including data mining (DM), database (DB), machine learning (ML), computer vision (CV), natural language processing (NLP), and theoretical computer science (TCS), thereby highlighting the interplay between modern computer science and artificial intelligence technologies. We first discuss the importance of high-dimensional similarity query processing in data science applications, and then review query processing algorithms such as cover tree, locality sensitive hashing, product quantization, proximity graphs, as well as recent advancements such as learned indexes. We analyze their strengths and weaknesses and discuss the selection of algorithms in various application scenarios. Moreover, we consider the selectivity estimation of high-dimensional similarity queries, and show how researchers are bringing in state-of-the-art ML techniques to address this problem. We expect that this tutorial will provide an impetus towards new technologies for data science.},
+  booktitle = {Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  pages = {4062–4063},
+  numpages = {2},
+  keywords = {similarity query processing, similarity search, high-dimensional data, nearest neighbor},
+  location = {Virtual Event, Singapore},
+  series = {KDD '21},
+}
+
+@article{annbenchmark,
+  title = {ANN-Benchmarks: A benchmarking tool for approximate nearest neighbor algorithms},
+  author = {Aum{\"u},
+  journal = {Information Systems},
+  volume = {87},
+  pages = {101374},
+  year = {2020},
+  publisher = {Elsevier},
+}
+
+@misc{bigann2021,
+  title = {Billion-Scale Approximate Nearest Neighbor Search Challenge: NeurIPS'21 competition track},
+  author = {NeurIPS'21},
+  year = {2021},
+  url = {https://big-ann-benchmarks.com/neurips21.html},
+  note = {Accessed: 17 Apr, 2024},
+}
+
+@misc{bigann2023,
+  title = {NeurIPS'23 Competition Track: Big-ANN},
+  author = {NeurIPS'23},
+  year = {2023},
+  url = {https://big-ann-benchmarks.com/neurips23.html},
+  note = {Accessed: 17 Apr, 2024},
+}
+
+@inproceedings{wang2021milvus,
+  title = {Milvus: A purpose-built vector data management system},
+  author = {Wang, Jianguo and Yi, Xiaomeng and Guo, Rentong and Jin, Hai and Xu, Peng and Li, Shengjun and Wang, Xiangyu and Guo, Xiangzhou and Li, Chengming and Xu, Xiaohai and others},
+  booktitle = {Proceedings of the 2021 International Conference on Management of Data},
+  pages = {2614--2627},
+  year = {2021},
+}
+
+@article{vexless2024,
+  title = {Vexless: {{A Serverless Vector Data Management System Using Cloud Functions},
+  shorttitle = {Vexless},
+  author = {Su, Yongye and Sun, Yinqi and Zhang, Minjia and Wang, Jianguo},
+  date = {2024-05-29},
+  journaltitle = {Proceedings of the ACM on Management of Data},
+  shortjournal = {Proc. ACM Manag. Data},
+  volume = {2},
+  number = {3},
+  pages = {1--26},
+  issn = {2836-6573},
+  doi = {10.1145/3654990},
+  url = {https://dl.acm.org/doi/10.1145/3654990},
+  urldate = {2024-09-19},
+  langid = {english},
+}
+
+@misc{faiss,
+  title = {The Faiss library},
+  author = {Matthijs Douze and Alexandr Guzhva and Chengqi Deng and Jeff Johnson and Gergely Szilvasy and Pierre-Emmanuel Mazaré and Maria Lomeli and Lucas Hosseini and Hervé Jégou},
+  year = {2024},
+  eprint = {2401.08281},
+  archiveprefix = {arXiv},
+  primaryclass = {cs.LG},
+}
+
+@misc{nnsbench,
+  title = {NNS Benchmark: Evaluating Approximate Nearest Neighbor Search Algorithms in High Dimensional Euclidean Space},
+  author = {Li, Wen and Zhang, Ying and Sun, Yifang and Wang, Wei and Li, Mingjie and Zhang, Wenjie and Lin, Xuemin},
+  year = {2016},
+  howpublished = {\url{https://github.com/DBAIWangGroup/nns_benchmark},
+  note = {Accessed: 17 Apr, 2024},
+}
+
+@misc{glass,
+  title = {Pyglass - Graph Library for Approximate Similarity Search},
+  author = {Zilliz},
+  year = {2023},
+  howpublished = {\url{https://github.com/zilliztech/pyglass},
+  note = {Accessed: 17 Apr, 2024},
+}
+
+@misc{hnswlib,
+  title = {Hnswlib - fast approximate nearest neighbor search},
+  author = {Yury Malkov, Leonid Boytsov},
+  year = {2018},
+  howpublished = {\url{https://github.com/nmslib/hnswlib},
+  note = {Accessed: 17 Apr, 2024},
+}
+
+@misc{faiss_fastscan,
+  title = {Fast accumulation of PQ and AQ codes (FastScan)},
+  author = {faiss},
+  year = {2022},
+  howpublished = {\url{https://github.com/facebookresearch/faiss/wiki/Fast-accumulation-of-PQ-and-AQ-codes-(FastScan)},
+  note = {Accessed: 17 Apr, 2024},
+}
+
+@misc{ngtlib,
+  title = {Neighborhood Graph and Tree for Indexing High-dimensional Data},
+  author = {Yahoo Japan},
+  year = {2018},
+  howpublished = {\url{https://github.com/yahoojapan/NGT},
+  note = {Accessed: 17 Apr, 2024},
+}
+
+@misc{falconn,
+  title = {Practical and Optimal LSH for Angular Distance},
+  author = {Alexandr Andoni and Piotr Indyk and Thijs Laarhoven and Ilya Razenshteyn and Ludwig Schmidt},
+  year = {2015},
+  eprint = {1509.02897},
+  archiveprefix = {arXiv},
+  primaryclass = {cs.DS},
+}
+
+@misc{ffhtlib,
+  title = {Library for Fast Fast Hadamard Transform},
+  author = {FALCONN-LIB},
+  year = {2015},
+  howpublished = {\url{https://github.com/FALCONN-LIB/FFHT},
+  note = {Accessed: 17 Apr, 2024},
+}
+
+@article{dobson2023scaling_billion_benchmark,
+  title = {Scaling Graph-Based ANNS Algorithms to Billion-Size Datasets: A Comparative Analysis},
+  author = {Dobson, Magdalen and Shen, Zheqi and Blelloch, Guy E and Dhulipala, Laxman and Gu, Yan and Simhadri, Harsha Vardhan and Sun, Yihan},
+  journal = {arXiv preprint arXiv:2305.04359},
+  year = {2023},
+}
+
+@article{wang2023graph,
+  title = {Graph-and Tree-based Indexes for High-dimensional Vector Similarity Search: Analyses, Comparisons, and Future Directions},
+  author = {Wang, Zeyu and Wang, Peng and Palpanas, Themis and Wang, Wei},
+  journal = {Data Engineering},
+  pages = {3--21},
+  year = {2023},
+}
+
+@article{aumullerrecent2023,
+  title = {Recent Approaches and Trends in Approximate Nearest Neighbor Search, with Remarks on Benchmarking},
+  author = {Aum{\"u},
+  journal = {Data Engineering},
+  pages = {89},
+  year = {2023},
+}
+
+@article{ciaccia2002searching,
+  title = {Searching in metric spaces with user-defined and approximate distances},
+  author = {Ciaccia, Paolo and Patella, Marco},
+  journal = {ACM Transactions on Database Systems (TODS)},
+  volume = {27},
+  number = {4},
+  pages = {398--437},
+  year = {2002},
+  publisher = {ACM New York, NY, USA},
+}
+
+@inproceedings{wang2023integrity,
+  title = {Integrity and junkiness failure handling for embedding-based retrieval: A case study in social network search},
+  author = {Wang, Wenping and Guo, Yunxi and Shen, Chiyao and Ding, Shuai and Liao, Guangdeng and Fu, Hao and Prabhakar, Pramodh Karanth},
+  booktitle = {Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages = {3250--3254},
+  year = {2023},
+}
+
+@article{single_store,
+  author = {Chen, Cheng and Jin, Chenzhe and Zhang, Yunan and Podolsky, Sasha and Wu, Chun and Wang, Szu-Po and Hanson, Eric and Sun, Zhou and Walzer, Robert and Wang, Jianguo},
+  title = {SingleStore-V: An Integrated Vector Database System in SingleStore},
+  year = {2024},
+  issue_date = {August 2024},
+  publisher = {VLDB Endowment},
+  volume = {17},
+  number = {12},
+  issn = {2150-8097},
+  url = {https://doi.org/10.14778/3685800.3685805},
+  doi = {10.14778/3685800.3685805},
+  abstract = {Vector databases have recently gained significant attention due to the emergence of large language models that produce vector embeddings for text. Existing vector databases can be broadly categorized into two types: specialized and generalized. Specialized vector databases are explicitly designed and optimized for managing vector data, while generalized ones support vector data management within a general purpose database. While specialized vector databases are interesting, there is a substantial customer base interested in generalized vector databases for various reasons, e.g., a reluctance to move data out of relational databases to reduce data silos and costs, the desire to use SQL, and the need for more sophisticated query processing of vector and non-vector data. However, generalized vector databases face two main challenges: performance and interoperability of vector search with SQL, such as combining vector search with filters, joins, or even fulltext search.In this paper, we present SingleStore-V, a full-fledged generalized vector database integrated into SingleStore, a modern distributed relational database optimized for both OLAP and OLTP workloads. SingleStore-V achieves high performance and interoperability via a suite of optimizations. Experiments on standard vector benchmarks show that SingleStore-V performs comparably to Milvus, a highly-optimized specialized vector database, and significantly outperforms pgvector, a popular generalized vector database in PostgreSQL. We believe this paper will shed light on integrating vector search into relational databases in general, as many design concepts and optimizations apply to other databases.},
+  journal = {Proc. VLDB Endow.},
+  pages = {3772–3785},
+  numpages = {14},
+}
+
+@inproceedings{colbert,
+  title = {Colbert: Efficient and effective passage search via contextualized late interaction over bert},
+  author = {Khattab, Omar and Zaharia, Matei},
+  booktitle = {Proceedings of the 43rd International ACM SIGIR conference on research and development in Information Retrieval},
+  pages = {39--48},
+  year = {2020},
+}
+
+@article{colbertv2,
+  title = {Colbertv2: Effective and efficient retrieval via lightweight late interaction},
+  author = {Santhanam, Keshav and Khattab, Omar and Saad-Falcon, Jon and Potts, Christopher and Zaharia, Matei},
+  journal = {arXiv preprint arXiv:2112.01488},
+  year = {2021},
+}
+
+@article{li2022survey,
+  title = {A survey on retrieval-augmented text generation},
+  author = {Li, Huayang and Su, Yixuan and Cai, Deng and Wang, Yan and Liu, Lemao},
+  journal = {arXiv preprint arXiv:2202.01110},
+  year = {2022},
+}
+
+@article{lewis2020retrieval,
+  title = {Retrieval-augmented generation for knowledge-intensive nlp tasks},
+  author = {Lewis, Patrick and Perez, Ethan and Piktus, Aleksandra and Petroni, Fabio and Karpukhin, Vladimir and Goyal, Naman and K{\"u},
+  journal = {Advances in Neural Information Processing Systems},
+  volume = {33},
+  pages = {9459--9474},
+  year = {2020},
+}
+
+@article{chang2020pre,
+  title = {Pre-training tasks for embedding-based large-scale retrieval},
+  author = {Chang, Wei-Cheng and Yu, Felix X and Chang, Yin-Wen and Yang, Yiming and Kumar, Sanjiv},
+  journal = {arXiv preprint arXiv:2002.03932},
+  year = {2020},
+}
+
+@inproceedings{kim2022applications,
+  title = {Applications and future of dense retrieval in industry},
+  author = {Kim, Yubin},
+  booktitle = {Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages = {3373--3374},
+  year = {2022},
+}

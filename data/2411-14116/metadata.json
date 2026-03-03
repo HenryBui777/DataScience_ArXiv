@@ -1,0 +1,19 @@
+{
+  "title": "Equivalent slip length of flow around a super-hydrophobic cylinder",
+  "authors": [
+    "Zhi-yong Li",
+    "Ya-kang Xiao",
+    "Yan-cheng Li",
+    "Li Yu",
+    "Sai Peng",
+    "Yong-liang Xiong"
+  ],
+  "summary": "In this research, a two-dimensional numerical simulation is conducted to determine the equivalent wall slip length for flow around a circular cylinder featuring a super-hydrophobic surface. The super-hydrophobic surface is modeled as an alternating distribution of slip and no-slip conditions along the cylinder's surface. The smallest unit of this alternating pattern is referred to as a monomer. The study takes into account the Reynolds number and two critical dimensionless parameters: the gas fraction (GF) and the ratio l/a. GF indicates the proportion of the slip length relative to the total length of the monomer, while l/a denotes the ratio of the monomer length (l) to the cylinder's radius (a). The ranges considered for the Reynolds number, GF, and l/a are from 0.2 to 180, 0.1 to 0.99, and $π$/80 to $π$/5, respectively. A dimensionless number, the Knudsen number (Kn), is introduced to measure the ratio between the equivalent slip length ($λ$) and the cylinder's diameter (D). By equating the integral wall friction resistance on the cylinder surface, a quantitative relationship between the equivalent Kn and the parameters (Re, GF, l/a) is established. A meticulous comparison of flow parameters between the equivalent slip length model and the slip-no-slip scenario reveals that the slip length model is an effective approximation for the slip-no-slip alternating model.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-11-11"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.flu-dyn"
+}

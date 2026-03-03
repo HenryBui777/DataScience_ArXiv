@@ -1,0 +1,14 @@
+{
+  "title": "A Robust Solver for Phasor-Domain Short-Circuit Analysis with Inverter-Based Resources",
+  "authors": [
+    "Aboutaleb Haddadi",
+    "Evangelos Farantatos",
+    "Ilhan Kocar"
+  ],
+  "summary": "The integration of Inverter-Based Resource (IBR) model into phasor-domain short circuit (SC) solvers challenges their numerical stability. To address the challenge, this paper proposes a solver that improves numerical stability by employing the Newton-Raphson iterative method. The solver can integrate the latest implementation of IBR SC model in industry-standard fault analysis programs including the voltage controlled current source tabular model as well as vendor-specific black-box and white-box equation-based models. The superior numerical stability of the proposed solver has been mathematically demonstrated, with identified convergence conditions. An algorithm for the implementation of the proposed solver in fault analysis programs has been developed. The objective is to improve the capability of the industry to accurately represent IBRs in SC studies and ensure system protection reliability in an IBR-dominated future.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

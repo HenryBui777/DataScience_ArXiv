@@ -1,0 +1,15 @@
+{
+  "title": "Person Segmentation and Action Classification for Multi-Channel Hemisphere Field of View LiDAR Sensors",
+  "authors": [
+    "Svetlana Seliunina",
+    "Artem Otelepko",
+    "Raphael Memmesheimer",
+    "Sven Behnke"
+  ],
+  "summary": "Robots need to perceive persons in their surroundings for safety and to interact with them. In this paper, we present a person segmentation and action classification approach that operates on 3D scans of hemisphere field of view LiDAR sensors. We recorded a data set with an Ouster OSDome-64 sensor consisting of scenes where persons perform three different actions and annotated it. We propose a method based on a MaskDINO model to detect and segment persons and to recognize their actions from combined spherical projected multi-channel representations of the LiDAR data with an additional positional encoding. Our approach demonstrates good performance for the person segmentation task and further performs well for the estimation of the person action states walking, waving, and sitting. An ablation study provides insights about the individual channel contributions for the person segmentation task. The trained models, code and dataset are made publicly available.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.RO"
+}

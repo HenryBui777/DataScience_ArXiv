@@ -1,0 +1,25 @@
+{
+  "title": "NeuralMag: an open-source nodal finite-difference code for inverse micromagnetics",
+  "authors": [
+    "Claas Abert",
+    "Florian Bruckner",
+    "Andrey Voronov",
+    "Martin Lang",
+    "Swapneel Amit Pathak",
+    "Samuel Holt",
+    "Robert Kraft",
+    "Ruslan Allayarov",
+    "Peter Flauger",
+    "Sabri Koraltan",
+    "Thomas Schrefl",
+    "Andrii Chumak",
+    "Hans Fangohr",
+    "Dieter Suess"
+  ],
+  "summary": "We present NeuralMag, a flexible and high-performance open-source Python library for micromagnetic simulations. NeuralMag leverages modern machine learning frameworks, such as PyTorch and JAX, to perform efficient tensor operations on various parallel hardware, including CPUs, GPUs, and TPUs. The library implements a novel nodal finite-difference discretization scheme that provides improved accuracy over traditional finite-difference methods without increasing computational complexity. NeuralMag is particularly well-suited for solving inverse problems, especially those with time-dependent objectives, thanks to its automatic differentiation capabilities. Performance benchmarks show that NeuralMag is competitive with state-of-the-art simulation codes while offering enhanced flexibility through its Python interface and integration with high-level computational backends.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.comp-ph"
+}

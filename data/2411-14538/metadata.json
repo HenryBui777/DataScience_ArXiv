@@ -1,0 +1,13 @@
+{
+  "title": "A hierarchy of reversible finite automata",
+  "authors": [
+    "Maria Radionova",
+    "Alexander Okhotin"
+  ],
+  "summary": "In this paper, different variants of reversible finite automata are compared, and their hierarchy by the expressive power is established. It is shown that one-way reversible automata with multiple initial states (MRFA) recognize strictly more languages than sweeping reversible automata (sRFA), which are in turn stronger than one-way reversible automata with a single initial state (1RFA). The latter recognize strictly more languages than one-way permutation automata (1PerFA). It is also shown that the hierarchy of sRFA by the number of passes over the input string collapses: it turns out that three passes are always enough. On the other hand, MRFA form a hierarchy by the number of initial states: their subclass with at most $k$ initial states (MRFA$^k$) recognize strictly fewer languages than MRFA$^{k + 1}$, and also MRFA$^k$ are incomparable with sRFA. In the unary case, sRFA, MRFA$^k$ and MRFA become equal in their expressive power, and the inclusion of 1RFA into sRFA remains proper.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.FL"
+}

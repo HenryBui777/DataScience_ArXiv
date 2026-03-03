@@ -1,0 +1,17 @@
+{
+  "title": "Why Anticipatory Sensing Matters in Commercial ACC Systems under Cut-In Scenarios: A Perspective from Stochastic Safety Analysis",
+  "authors": [
+    "Hao Zhang",
+    "Sixu Li",
+    "Zihao Li",
+    "Mohammad Anis",
+    "Dominique Lord",
+    "Yang Zhou"
+  ],
+  "summary": "This study presents an analytical solution for the vehicle state evolution of Adaptive Cruise Control (ACC) systems under cut-in scenarios, incorporating sensing delays and anticipation using the Lambert W function. The theoretical analysis demonstrates that the vehicle state evolution and the corresponding safety of ACC in cut-in situations are influenced by multiple factors, including the original leading vehicle's state, the initial conditions of the cut-in vehicle, subsequent cut-in maneuvers, sensing delays, and the ACC's anticipation capabilities. To quantitatively assess these influences, a series of numerical experiments were conducted to perform a stochastic safety analysis of ACC systems, accounting for embedded sensing delays and anticipation, using empirically calibrated control parameters from real-world data. The experiments revealed that the impact of sensing delays on ACC is multifaceted. Specifically, sensing delays negatively affect ACC stability, with the severity increasing as the delay lengthens. Furthermore, collision risk in cut-in scenarios becomes more significant with sensing delays, particularly when the cut-in vehicle is slower than the following vehicle and when cut-ins are aggressive. However, anticipation plays a crucial role in mitigating these risks. Even with a 0.6-second anticipation, collision risk can be reduced by 91% in highly adverse scenarios. Finally, both sensing delays and anticipation have effects that intensify with their duration. An anticipation period of 2 seconds effectively ensures safety in aggressive cut-in conditions, even in the presence of sensing delays.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

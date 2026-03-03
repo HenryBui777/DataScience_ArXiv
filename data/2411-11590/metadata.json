@@ -1,0 +1,15 @@
+{
+  "title": "Robust Causal Analysis of Linear Cyclic Systems With Hidden Confounders",
+  "authors": [
+    "Boris Lorbeer",
+    "Axel Küpper"
+  ],
+  "summary": "We live in a world full of complex systems which we need to improve our understanding of. To accomplish this, purely probabilistic investigations are often not enough. They are only the first step and must be followed by learning the system's underlying mechanisms. This is what the discipline of causality is concerned with. Many of those complex systems contain feedback loops which means that our methods have to allow for cyclic causal relations. Furthermore, systems are rarely sufficiently isolated, which means that there are usually hidden confounders, i.e., unmeasured variables that each causally affects more than one measured variable. Finally, data is often distorted by contaminating processes, and we need to apply methods that are robust against such distortions. That's why we consider the robustness of LLC, see \\cite{llc}, one of the few causal analysis methods that can deal with cyclic models with hidden confounders. Following a theoretical analysis of LLC's robustness properties, we also provide robust extensions of LLC. To facilitate reproducibility and further research in this field, we make the source code publicly available.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-12-22"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ML, cs.LG"
+}

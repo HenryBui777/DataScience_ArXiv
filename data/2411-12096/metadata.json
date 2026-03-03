@@ -1,0 +1,17 @@
+{
+  "title": "Cartesian atomic moment machine learning interatomic potentials",
+  "authors": [
+    "Mingjian Wen",
+    "Wei-Fan Huang",
+    "Jin Dai",
+    "Santosh Adhikari"
+  ],
+  "summary": "Machine learning interatomic potentials (MLIPs) have substantially advanced atomistic simulations in materials science and chemistry by balancing accuracy and computational efficiency. While leading MLIPs rely on representing atomic environments using spherical tensors, Cartesian representations offer potential advantages in simplicity and efficiency. Here, we introduce the Cartesian Atomic Moment Potential (CAMP), an approach to building MLIPs entirely in Cartesian space. CAMP constructs atomic moment tensors from neighboring atoms and employs tensor products to incorporate higher body-order interactions, providing a complete description of local atomic environments. Integrated into a graph neural network (GNN) framework, CAMP enables physically motivated, systematically improvable potentials. The model demonstrates excellent performance across diverse systems, including periodic structures, small organic molecules, and two-dimensional materials, achieving accuracy, efficiency, and stability in molecular dynamics simulations that rival or surpass current leading models. CAMP provides a powerful tool for atomistic simulations to accelerate materials understanding and discovery.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-05-02"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cond-mat.mtrl-sci"
+}

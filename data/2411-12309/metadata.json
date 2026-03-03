@@ -1,0 +1,23 @@
+{
+  "title": "DGTR: Distributed Gaussian Turbo-Reconstruction for Sparse-View Vast Scenes",
+  "authors": [
+    "Hao Li",
+    "Yuanyuan Gao",
+    "Haosong Peng",
+    "Chenming Wu",
+    "Weicai Ye",
+    "Yufeng Zhan",
+    "Chen Zhao",
+    "Dingwen Zhang",
+    "Jingdong Wang",
+    "Junwei Han"
+  ],
+  "summary": "Novel-view synthesis (NVS) approaches play a critical role in vast scene reconstruction. However, these methods rely heavily on dense image inputs and prolonged training times, making them unsuitable where computational resources are limited. Additionally, few-shot methods often struggle with poor reconstruction quality in vast environments. This paper presents DGTR, a novel distributed framework for efficient Gaussian reconstruction for sparse-view vast scenes. Our approach divides the scene into regions, processed independently by drones with sparse image inputs. Using a feed-forward Gaussian model, we predict high-quality Gaussian primitives, followed by a global alignment algorithm to ensure geometric consistency. Synthetic views and depth priors are incorporated to further enhance training, while a distillation-based model aggregation mechanism enables efficient reconstruction. Our method achieves high-quality large-scale scene reconstruction and novel-view synthesis in significantly reduced training times, outperforming existing approaches in both speed and scalability. We demonstrate the effectiveness of our framework on vast aerial scenes, achieving high-quality results within minutes. Code will released on our [https://3d-aigc.github.io/DGTR].",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-20"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

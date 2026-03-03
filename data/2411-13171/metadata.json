@@ -1,0 +1,16 @@
+{
+  "title": "Parameterized Geometric Graph Modification with Disk Scaling",
+  "authors": [
+    "Fedor V. Fomin",
+    "Petr A. Golovach",
+    "Tanmay Inamdar",
+    "Saket Saurabh",
+    "Meirav Zehavi"
+  ],
+  "summary": "The parameterized analysis of graph modification problems represents the most extensively studied area within Parameterized Complexity. Given a graph $G$ and an integer $k\\in\\mathbb{N}$ as input, the goal is to determine whether we can perform at most $k$ operations on $G$ to transform it into a graph belonging to a specified graph class $\\mathcal{F}$. Typical operations are combinatorial and include vertex deletions and edge deletions, insertions, and contractions. However, in many real-world scenarios, when the input graph is constrained to be a geometric intersection graph, the modification of the graph is influenced by changes in the geometric properties of the underlying objects themselves, rather than by combinatorial modifications. It raises the question of whether vertex deletions or adjacency modifications are necessarily the most appropriate modification operations for studying modifications of geometric graphs.\n  We propose the study of the disk intersection graph modification through the scaling of disks. This operation is typical in the realm of topology control but has not yet been explored in the context of Parameterized Complexity. We design parameterized algorithms and kernels for modifying to the most basic graph classes: edgeless, connected, and acyclic. Our technical contributions encompass a novel combination of linear programming, branching, and kernelization techniques, along with a fresh application of bidimensionality theory to analyze the area covered by disks, which may have broader applicability.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CG, cs.DS"
+}

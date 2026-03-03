@@ -1,0 +1,14 @@
+{
+  "title": "SAM-I2I: Unleash the Power of Segment Anything Model for Medical Image Translation",
+  "authors": [
+    "Jiayu Huo",
+    "Sebastien Ourselin",
+    "Rachel Sparks"
+  ],
+  "summary": "Medical image translation is crucial for reducing the need for redundant and expensive multi-modal imaging in clinical field. However, current approaches based on Convolutional Neural Networks (CNNs) and Transformers often fail to capture fine-grain semantic features, resulting in suboptimal image quality. To address this challenge, we propose SAM-I2I, a novel image-to-image translation framework based on the Segment Anything Model 2 (SAM2). SAM-I2I utilizes a pre-trained image encoder to extract multiscale semantic features from the source image and a decoder, based on the mask unit attention module, to synthesize target modality images. Our experiments on multi-contrast MRI datasets demonstrate that SAM-I2I outperforms state-of-the-art methods, offering more efficient and accurate medical image translation.",
+  "submission_date": "2024-11-13",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.CV"
+}

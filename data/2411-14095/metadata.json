@@ -1,0 +1,14 @@
+{
+  "title": "WARLearn: Weather-Adaptive Representation Learning",
+  "authors": [
+    "Shubham Agarwal",
+    "Raz Birman",
+    "Ofer Hadar"
+  ],
+  "summary": "This paper introduces WARLearn, a novel framework designed for adaptive representation learning in challenging and adversarial weather conditions. Leveraging the in-variance principal used in Barlow Twins, we demonstrate the capability to port the existing models initially trained on clear weather data to effectively handle adverse weather conditions. With minimal additional training, our method exhibits remarkable performance gains in scenarios characterized by fog and low-light conditions. This adaptive framework extends its applicability beyond adverse weather settings, offering a versatile solution for domains exhibiting variations in data distributions. Furthermore, WARLearn is invaluable in scenarios where data distributions undergo significant shifts over time, enabling models to remain updated and accurate. Our experimental findings reveal a remarkable performance, with a mean average precision (mAP) of 52.6% on unseen real-world foggy dataset (RTTS). Similarly, in low light conditions, our framework achieves a mAP of 55.7% on unseen real-world low light dataset (ExDark). Notably, WARLearn surpasses the performance of state-of-the-art frameworks including FeatEnHancer, Image Adaptive YOLO, DENet, C2PNet, PairLIE and ZeroDCE, by a substantial margin in adverse weather, improving the baseline performance in both foggy and low light conditions. The WARLearn code is available at https://github.com/ShubhamAgarwal12/WARLearn",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

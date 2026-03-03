@@ -1,0 +1,16 @@
+{
+  "title": "Continuous Automatic Polarization Channel Stabilization from Heterodyne Detection of Coexisting Dim Reference Signals",
+  "authors": [
+    "Joseph C. Chapman",
+    "Muneer Alshowkan",
+    "Kazi Reaz",
+    "Tian Li",
+    "Mariam Kiran"
+  ],
+  "summary": "Quantum networking continues to encode information in polarization states due to ease and precision. The variable environmental polarization transformations induced by deployed fiber need correction for deployed quantum networking. Here we present a new method for automatic polarization compensation (APC) and demonstrate its performance on a metropolitan quantum network. Designing an APC involves many design decisions indicated by the diversity of previous solutions in the literature. Our design leverages heterodyne detection of wavelength-multiplexed dim classical references for continuous high-bandwidth polarization measurements used by newly developed multi-axis (non-)linear control algorithm(s) for complete polarization channel stabilization with no downtime. This enables continuous relatively high-bandwidth correction without significant added noise from classical reference signals. We demonstrate the performance of our APC using a variety of classical and quantum characterizations. Finally, we use C-band and L-band APC versions to demonstrate continuous high-fidelity entanglement distribution on a metropolitan quantum network with average relative fidelity of $0.94\\pm0.03$ for over 30 hrs",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

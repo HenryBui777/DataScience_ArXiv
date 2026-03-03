@@ -1,0 +1,14 @@
+{
+  "title": "Validation of Tumbling Robot Dynamics with Posture Manipulation for Closed-Loop Heading Angle Control",
+  "authors": [
+    "Adarsh Salagame",
+    "Eric Sihite",
+    "Alireza Ramezani"
+  ],
+  "summary": "Navigating rugged terrain and steep slopes is a challenge for mobile robots. Conventional legged and wheeled systems struggle with these environments due to limited traction and stability. Northeastern University's COBRA (Crater Observing Bio-inspired Rolling Articulator), a novel multi-modal snake-like robot, addresses these issues by combining traditional snake gaits for locomotion on flat and inclined surfaces with a tumbling mode for controlled descent on steep slopes. Through dynamic posture manipulation, COBRA can modulate its heading angle and velocity during tumbling. This paper presents a reduced-order cascade model for COBRA's tumbling locomotion and validates it against a high-fidelity rigid-body simulation, presenting simulation results that show that the model captures key system dynamics.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO, eess.SY"
+}

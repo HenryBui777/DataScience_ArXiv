@@ -1,0 +1,19 @@
+{
+  "title": "U-Motion: Learned Point Cloud Video Compression with U-Structured Temporal Context Generation",
+  "authors": [
+    "Tingyu Fan",
+    "Yueyu Hu",
+    "Ran Gong",
+    "Yao Wang"
+  ],
+  "summary": "Point cloud video (PCV) is a versatile 3D representation of dynamic scenes with emerging applications. This paper introduces U-Motion, a learning-based compression scheme for both PCV geometry and attributes. We propose a U-Structured inter-frame prediction framework, U-Inter, which performs explicit motion estimation and compensation (ME/MC) at different scales with varying levels of detail. It integrates Top-Down (Fine-to-Coarse) Motion Propagation, Bottom-Up Motion Predictive Coding and Multi-scale Group Motion Compensation to enable accurate motion estimation and efficient motion compression at each scale. In addition, we design a multi-scale spatial-temporal predictive coding module to capture the cross-scale spatial redundancy remaining after U-Inter prediction. We conduct experiments following the MPEG Common Test Condition for dense dynamic point clouds and demonstrate that U-Motion can achieve significant gains over MPEG G-PCC-GesTM v3.0 and recently published learning-based methods for both geometry and attribute compression.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-03-10",
+    "2025-03-12",
+    "2025-03-20"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, eess.IV"
+}

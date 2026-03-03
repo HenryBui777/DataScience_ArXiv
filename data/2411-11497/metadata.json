@@ -1,0 +1,18 @@
+{
+  "title": "Physics Encoded Blocks in Residual Neural Network Architectures for Digital Twin Models",
+  "authors": [
+    "Muhammad Saad Zia",
+    "Ashiq Anjum",
+    "Lu Liu",
+    "Anthony Conway",
+    "Anasol Pena Rios"
+  ],
+  "summary": "Physics Informed Machine Learning has emerged as a popular approach for modeling and simulation in digital twins, enabling the generation of accurate models of processes and behaviors in real-world systems. However, existing methods either rely on simple loss regularizations that offer limited physics integration or employ highly specialized architectures that are difficult to generalize across diverse physical systems. This paper presents a generic approach based on a novel physics-encoded residual neural network (PERNN) architecture that seamlessly combines data-driven and physics-based analytical models to overcome these limitations. Our method integrates differentiable physics blocks-implementing mathematical operators from physics-based models with feed-forward learning blocks, while intermediate residual blocks ensure stable gradient flow during training. Consequently, the model naturally adheres to the underlying physical principles even when prior physics knowledge is incomplete, thereby improving generalizability with low data requirements and reduced model complexity. We investigate our approach in two application domains. The first is a steering model for autonomous vehicles in a simulation environment, and the second is a digital twin for climate modeling using an ordinary differential equation (ODE)-based model of Net Ecosystem Exchange (NEE) to enable gap-filling in flux tower data. In both cases, our method outperforms conventional neural network approaches as well as state-of-the-art Physics Informed Machine Learning methods.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-07-07"
+  ],
+  "publication_venue": "Machine Learning, Volume 114, Article 180 (2025)",
+  "pdf_url": null,
+  "category": "cs.LG, cs.RO"
+}

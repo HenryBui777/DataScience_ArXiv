@@ -1,0 +1,12 @@
+{
+  "title": "Markov-Functional Models with Local Drift",
+  "authors": [
+    "ShengQuan Zhou"
+  ],
+  "summary": "We introduce a Markov-functional approach to construct local volatility models that are calibrated to a discrete set of marginal distributions. The method is inspired by and extends the volatility interpolation of Bass (1983) and Conze and Henry-Labordère (2022). The method is illustrated with efficient numerical algorithms in the cases where the constructed local volatility functions are: (1) time-homogeneous between or (2) continuous across, the successive maturities. The step-wise time-homogeneous construction produces a parsimonious representation of the local volatility term structure.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-fin.CP"
+}

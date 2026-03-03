@@ -1,0 +1,18 @@
+{
+  "title": "EEG Signal Denoising Using pix2pix GAN: Enhancing Neurological Data Analysis",
+  "authors": [
+    "Haoyi Wang",
+    "Xufang Chen",
+    "Yue Yang",
+    "Kewei Zhou",
+    "Meining Lv",
+    "Dongrui Wang",
+    "Wenjie Zhang"
+  ],
+  "summary": "Electroencephalography (EEG) is essential in neuroscience and clinical practice, yet it suffers from physiological artifacts, particularly electromyography (EMG), which distort signals. We propose a deep learning model using pix2pixGAN to remove such noise and generate reliable EEG signals. Leveraging the EEGdenoiseNet dataset, we created synthetic datasets with controlled EMG noise levels for model training and testing across a signal-to-noise ratio (SNR) from -7 to 2. Our evaluation metrics included RRMSE and Pearson's CC, assessing both time and frequency domains, and compared our model with others. The pix2pixGAN model excelled, especially under high noise conditions, showing significant improvements in lower RRMSE and higher CC values. This demonstrates the model's superior accuracy and stability in purifying EEG signals, offering a robust solution for EEG analysis challenges and advancing clinical and neuroscience applications.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP"
+}

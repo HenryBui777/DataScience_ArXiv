@@ -1,0 +1,13 @@
+{
+  "title": "Data-Driven Multi-step Nonlinear Model Predictive Control for Industrial Heavy Load Hydraulic Robot",
+  "authors": [
+    "Dexian Ma",
+    "Bo Zhou"
+  ],
+  "summary": "Automating complex industrial robots requires precise nonlinear control and efficient energy management. This paper introduces a data-driven nonlinear model predictive control (NMPC) framework to optimize control under multiple objectives. To enhance the prediction accuracy of the dynamic model, we design a single-shot multi-step prediction (SSMP) model based on long short-term memory (LSTM) and multilayer perceptrons (MLP), which can directly obtain the predictive horizon without iterative repetition and reduce computational pressure. Moreover, we combine offline and online models to address disturbances stemming from environmental interactions, similar to the superposition of the robot's free and forced responses. The online model learns the system's variations from the prediction mismatches of the offline model and updates its weights in real time. The proposed hybrid predictive model simplifies the relationship between inputs and outputs into matrix multiplication, which can quickly obtain the derivative. Therefore, the solution for the control signal sequence employs a gradient descent method with an adaptive learning rate, allowing the NMPC cost function to be formulated as a convex function incorporating critical states. The learning rate is dynamically adjusted based on state errors to counteract the inherent prediction inaccuracies of neural networks. The controller outputs the average value of the control signal sequence instead of the first value. Simulations and experiments on a 22-ton hydraulic excavator have validated the effectiveness of our method, showing that the proposed NMPC approach can be widely applied to industrial systems, including nonlinear control and energy management.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

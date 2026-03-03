@@ -1,0 +1,19 @@
+{
+  "title": "Beyond Training: Dynamic Token Merging for Zero-Shot Video Understanding",
+  "authors": [
+    "Yiming Zhang",
+    "Zhuokai Zhao",
+    "Zhaorun Chen",
+    "Zenghui Ding",
+    "Xianjun Yang",
+    "Yining Sun"
+  ],
+  "summary": "Recent advancements in multimodal large language models (MLLMs) have opened new avenues for video understanding. However, achieving high fidelity in zero-shot video tasks remains challenging. Traditional video processing methods rely heavily on fine-tuning to capture nuanced spatial-temporal details, which incurs significant data and computation costs. In contrast, training-free approaches, though efficient, often lack robustness in preserving context-rich features across complex video content. To this end, we propose DYTO, a novel dynamic token merging framework for zero-shot video understanding that adaptively optimizes token efficiency while preserving crucial scene details. DYTO integrates a hierarchical frame selection and a bipartite token merging strategy to dynamically cluster key frames and selectively compress token sequences, striking a balance between computational efficiency with semantic richness. Extensive experiments across multiple benchmarks demonstrate the effectiveness of DYTO, achieving superior performance compared to both fine-tuned and training-free methods and setting a new state-of-the-art for zero-shot video understanding.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-03-24"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.LG"
+}

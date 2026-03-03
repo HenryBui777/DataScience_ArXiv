@@ -1,0 +1,17 @@
+{
+  "title": "Topological Symmetry Enhanced Graph Convolution for Skeleton-Based Action Recognition",
+  "authors": [
+    "Zeyu Liang",
+    "Hailun Xia",
+    "Naichuan Zheng",
+    "Huan Xu"
+  ],
+  "summary": "Skeleton-based action recognition has achieved remarkable performance with the development of graph convolutional networks (GCNs). However, most of these methods tend to construct complex topology learning mechanisms while neglecting the inherent symmetry of the human body. Additionally, the use of temporal convolutions with certain fixed receptive fields limits their capacity to effectively capture dependencies in time sequences. To address the issues, we (1) propose a novel Topological Symmetry Enhanced Graph Convolution (TSE-GC) to enable distinct topology learning across different channel partitions while incorporating topological symmetry awareness and (2) construct a Multi-Branch Deformable Temporal Convolution (MBDTC) for skeleton-based action recognition. The proposed TSE-GC emphasizes the inherent symmetry of the human body while enabling efficient learning of dynamic topologies. Meanwhile, the design of MBDTC introduces the concept of deformable modeling, leading to more flexible receptive fields and stronger modeling capacity of temporal dependencies. Combining TSE-GC with MBDTC, our final model, TSE-GCN, achieves competitive performance with fewer parameters compared with state-of-the-art methods on three large datasets, NTU RGB+D, NTU RGB+D 120, and NW-UCLA. On the cross-subject and cross-set evaluations of NTU RGB+D 120, the accuracies of our model reach 90.0\\% and 91.1\\%, with 1.1M parameters and 1.38 GFLOPS for one stream.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-20"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI"
+}

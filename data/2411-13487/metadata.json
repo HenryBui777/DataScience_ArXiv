@@ -1,0 +1,14 @@
+{
+  "title": "Long-term behaviour of symmetric partitioned linear multistep methods I. Global error and conservation of invariants",
+  "authors": [
+    "B. Cano",
+    "A. Durán",
+    "M. Rodríguez"
+  ],
+  "summary": "In this paper an asymptotic expansion of the global error on the stepsize for partitioned linear multistep methods is proved. This provides a tool to analyse the behaviour of these integrators with respect to error growth with time and conservation of invariants. In particular, symmetric partitioned linear multistep methods with no common roots in their first characteristic polynomials, except unity, appear as efficient methods to approximate non-separable Hamiltonian systems since they can be explicit and show good long term behaviour at the same time. As a case study, a thorough analysis is given for small oscillations of the double pendulum problem, which is illustrated by numerical experiments.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

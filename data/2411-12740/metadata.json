@@ -1,0 +1,16 @@
+{
+  "title": "WIA-SZZ: Work Item Aware SZZ",
+  "authors": [
+    "Salomé Perez-Rosero",
+    "Robert Dyer",
+    "Samuel W. Flint",
+    "Shane McIntosh",
+    "Witawas Srisa-an"
+  ],
+  "summary": "Many software engineering maintenance tasks require linking a commit that induced a bug with the commit that later fixed that bug. Several existing SZZ algorithms provide a way to identify the potential commit that induced a bug when given a fixing commit as input. Prior work introduced the notion of a \"work item\", a logical grouping of commits that could be a single unit of work. Our key insight in this work is to recognize that a bug-inducing commit and the fix(es) for that bug together represent a \"work item.\" It is not currently understood how these work items, which are logical groups of revisions addressing a single issue or feature, could impact the performance of algorithms such as SZZ. In this paper, we propose a heuristic that, given an input commit, uses information about changed methods to identify related commits that form a work item with the input commit. We hypothesize that given such a work item identifying heuristic, we can identify bug-inducing commits more accurately than existing SZZ approaches. We then build a new variant of SZZ that we call Work Item Aware SZZ (WIA-SZZ), that leverages our work item detecting heuristic to first suggest bug-inducing commits. If our heuristic fails to find any candidates, we then fall back to baseline variants of SZZ. We conduct a manual evaluation to assess the accuracy of our heuristic to identify work items. Our evaluation reveals the heuristic is 64% accurate in finding work items, but most importantly it is able to find many bug-inducing commits. We then evaluate our approach on 821 repositories that have been previously used to study the performance of SZZ, comparing our work against six SZZ variants. That evaluation shows an improvement in F1 scores ranging from 2% to 9%, or when looking only at the subset of cases that found work item improved 3% to 14%.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SE"
+}

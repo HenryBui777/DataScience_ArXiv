@@ -1,0 +1,15 @@
+{
+  "title": "Assessing AI-Enhanced Single-Sweep Approximations for Problems with Forward-Peaked Scattering in Slab Geometry",
+  "authors": [
+    "Japan K. Patel",
+    "Matthew C. Schmidt",
+    "Anthony Magliari",
+    "Todd A. Wareing"
+  ],
+  "summary": "While the Boltzmann transport equation can accurately model transport problems with highly forward-peaked scattering, obtaining its solution can become arbitrarily slow due to near-unity spectral radius associated with source iteration. Standard acceleration techniques like diffusion synthetic acceleration and nonlinear diffusion acceleration obtain merely one order of magnitude speedups compared to source iteration due to slowly decaying error moments. Additionally, converging approximations to the Boltzmann equation like Fokker-Planck and Boltzmann Fokker Planck run into similar problems with slow convergence. In this paper we assess the feasibility of using Fourier neural operators to obtain AI-enhanced low order, and single-sweep solutions for the transport equation in slab geometry using a predictor-corrector framework.",
+  "submission_date": "2024-11-01",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CE, math.NA"
+}

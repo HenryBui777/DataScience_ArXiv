@@ -1,0 +1,12 @@
+{
+  "title": "Semi-Automatic Extraction of Formal Models from Object Oriented Code",
+  "authors": [
+    "P. H. M. van Spaendonck"
+  ],
+  "summary": "Behavioral models are incredibly useful for understanding and validating software. However, the automatic extraction of such models from actual industrial code remains a largely unsolved problem with current solutions often not scaling well with the complexity and size of industrial systems or having to rely on approximations. To enable the extraction of useful models from code, we provide a framework for transforming object-oriented code into processes from which, when paired with minimal user input, models can be automatically generated and composed. Paired with this, we introduce the novel SSTraGen (StateSpace Transformation & Generation) tool, which provides an implementation of this framework. Through case studies at Philips Image Guided Therapy Systems, we showcase the practical applicability and usefulness of this tool, including the transformation of a component with >1000 LOC.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SE, cs.FL"
+}

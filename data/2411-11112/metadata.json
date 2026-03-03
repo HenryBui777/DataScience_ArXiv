@@ -1,0 +1,14 @@
+{
+  "title": "Simple yet effective: a comparative study of statistical models for yearly hurricane forecasting",
+  "authors": [
+    "Pietro Colombo",
+    "Raffaele Mattera",
+    "Philipp Otto"
+  ],
+  "summary": "In this paper, we study the problem of forecasting the next year's number of Atlantic hurricanes, which is relevant in many fields of applications such as land-use planning, hazard mitigation, reinsurance and long-term weather derivative market. Considering a set of well-known predictors, we compare the forecasting accuracy of both machine learning and simpler models, showing that the latter may be more adequate than the first. Quantile regression models, which are adopted for the first time for forecasting hurricane numbers, provide the best results. Moreover, we construct a new index showing good properties in anticipating the direction of the future number of hurricanes. We consider different evaluation metrics based on both magnitude forecasting errors and directional accuracy.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.AP"
+}

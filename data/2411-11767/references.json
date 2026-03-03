@@ -1,0 +1,847 @@
+{
+  "2411-18069": {
+    "title": "Overview of TREC 2024 Biomedical Generative Retrieval (BioGen) Track",
+    "authors": [
+      "Deepak Gupta",
+      "Dina Demner-Fushman",
+      "William R. Hersh",
+      "Steven Bedrick",
+      "Kirk Roberts"
+    ],
+    "publication_date": "2024-11-27",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "ed8bf70a84aa5ddbe9d39718941b7d970f2d6c3a",
+    "corpus_id": 274306244,
+    "category": "Computer Science"
+  },
+  "2411-17501": {
+    "title": "Inference Scaling fLaws: The Limits of LLM Resampling with Imperfect Verifiers",
+    "authors": [
+      "Benedikt Stroebl",
+      "Sayash Kapoor",
+      "Arvind Narayanan"
+    ],
+    "publication_date": "2024-11-26",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "5bb98b72874e2dc80a8937558968c87e88269e79",
+    "corpus_id": 274281169,
+    "category": "Computer Science"
+  },
+  "2410-04343": {
+    "title": "Inference Scaling for Long-Context Retrieval Augmented Generation",
+    "authors": [
+      "Zhenrui Yue",
+      "Honglei Zhuang",
+      "Aijun Bai",
+      "Kai Hui",
+      "R. Jagerman",
+      "Hansi Zeng",
+      "Zhen Qin",
+      "Dong Wang",
+      "Xuanhui Wang",
+      "Michael Bendersky"
+    ],
+    "publication_date": "2024-10-06",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "29528d8cb030a65f62a35b1237f1f5483077ad0a",
+    "corpus_id": 273185794,
+    "category": "Computer Science"
+  },
+  "2410-05318": {
+    "title": "Improving LLM Reasoning through Scaling Inference Computation with Collaborative Verification",
+    "authors": [
+      "Zhenwen Liang",
+      "Ye Liu",
+      "Tong Niu",
+      "Xiangliang Zhang",
+      "Yingbo Zhou",
+      "Semih Yavuz"
+    ],
+    "publication_date": "2024-10-05",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "03c3737116ec11828fd63b182723ec54fc2985da",
+    "corpus_id": 273229503,
+    "category": "Computer Science"
+  },
+  "2407-21787": {
+    "title": "Large Language Monkeys: Scaling Inference Compute with Repeated Sampling",
+    "authors": [
+      "Bradley Brown",
+      "Jordan Juravsky",
+      "Ryan Ehrlich",
+      "Ronald Clark",
+      "Quoc V. Le",
+      "Christopher R'e",
+      "Azalia Mirhoseini"
+    ],
+    "publication_date": "2024-07-31",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "f66b6049946a10080d1f2a7ee6a40e5cca3ee6a0",
+    "corpus_id": 271571035,
+    "category": "Computer Science"
+  },
+  "2407-19669": {
+    "title": "mGTE: Generalized Long-Context Text Representation and Reranking Models for Multilingual Text Retrieval",
+    "authors": [
+      "Xin Zhang",
+      "Yanzhao Zhang",
+      "Dingkun Long",
+      "Wen Xie",
+      "Ziqi Dai",
+      "Jialong Tang",
+      "Huan Lin",
+      "Baosong Yang",
+      "Pengjun Xie",
+      "Fei Huang",
+      "Meishan Zhang",
+      "Wenjie Li",
+      "Min Zhang"
+    ],
+    "publication_date": "2024-07-29",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "a5d5a3a9b3c31d03c4ab863b01a18120b0a847d1",
+    "corpus_id": 271534420,
+    "category": "Computer Science"
+  },
+  "2407-12883": {
+    "title": "BRIGHT: A Realistic and Challenging Benchmark for Reasoning-Intensive Retrieval",
+    "authors": [
+      "Hongjin Su",
+      "Howard Yen",
+      "Mengzhou Xia",
+      "Weijia Shi",
+      "Niklas Muennighoff",
+      "Han-yu Wang",
+      "Haisu Liu",
+      "Quan Shi",
+      "Zachary S. Siegel",
+      "Michael Tang",
+      "Ruoxi Sun",
+      "Jinsung Yoon",
+      "Sercan Ö. Arik",
+      "Danqi Chen",
+      "Tao Yu"
+    ],
+    "publication_date": "2024-07-16",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "d79927715a88825737d2ff44f70b1d6698e0bae9",
+    "corpus_id": 271270735,
+    "category": "Computer Science"
+  },
+  "2406-16828": {
+    "title": "Ragnarök: A Reusable RAG Framework and Baselines for TREC 2024 Retrieval-Augmented Generation Track",
+    "authors": [
+      "Ronak Pradeep",
+      "Nandan Thakur",
+      "Sahel Sharifymoghaddam",
+      "Eric Zhang",
+      "Ryan Nguyen",
+      "Daniel Campos",
+      "Nick Craswell",
+      "Jimmy Lin"
+    ],
+    "publication_date": "2024-06-24",
+    "venue": "European Conference on Information Retrieval",
+    "semantic_scholar_id": "680824bef5d6f98d669c49246363f0894a678e3b",
+    "corpus_id": 270702738,
+    "category": "Computer Science"
+  },
+  "2406-02900": {
+    "title": "Scaling Laws for Reward Model Overoptimization in Direct Alignment Algorithms",
+    "authors": [
+      "Rafael Rafailov",
+      "Yaswanth Chittepu",
+      "Ryan Park",
+      "Harshit S. Sikchi",
+      "Joey Hejna",
+      "Bradley Knox",
+      "Chelsea Finn",
+      "S. Niekum"
+    ],
+    "publication_date": "2024-06-05",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "0c43750030198dbe7fe164e1ce743ec64427bca1",
+    "corpus_id": 270257855,
+    "category": "Computer Science"
+  },
+  "2405-14589": {
+    "title": "Top-Down Partitioning for Efficient List-Wise Ranking",
+    "authors": [
+      "Andrew Parry",
+      "Sean MacAvaney",
+      "Debasis Ganguly"
+    ],
+    "publication_date": "2024-05-23",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "68aa7caae3906fa5124588ea4ff45f633268a86e",
+    "corpus_id": 269983636,
+    "category": "Computer Science"
+  },
+  "2405-01122": {
+    "title": "Generative Relevance Feedback and Convergence of Adaptive Re-Ranking: University of Glasgow Terrier Team at TREC DL 2023",
+    "authors": [
+      "Andrew Parry",
+      "Thomas Jaenich",
+      "Sean MacAvaney",
+      "I. Ounis"
+    ],
+    "publication_date": "2024-05-02",
+    "venue": "Text Retrieval Conference",
+    "semantic_scholar_id": "17123e1828be192aaf498c2ab5241fabcfe9676f",
+    "corpus_id": 269502169,
+    "category": "Computer Science"
+  },
+  "2405-00175": {
+    "title": "Towards a Search Engine for Machines: Unified Ranking for Multiple Retrieval-Augmented Large Language Models",
+    "authors": [
+      "Alireza Salemi",
+      "Hamed Zamani"
+    ],
+    "publication_date": "2024-04-30",
+    "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+    "semantic_scholar_id": "1bce5a6d8c037a90e9cd49d38fe6446652389674",
+    "corpus_id": 269484332,
+    "category": "Computer Science"
+  },
+  "2404-12096": {
+    "title": "LongEmbed: Extending Embedding Models for Long Context Retrieval",
+    "authors": [
+      "Dawei Zhu",
+      "Liang Wang",
+      "Nan Yang",
+      "Yifan Song",
+      "Wenhao Wu",
+      "Furu Wei",
+      "Sujian Li"
+    ],
+    "publication_date": "2024-04-18",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "bdd07688083de2fc792a48ba935cd33256066827",
+    "corpus_id": 269214659,
+    "category": "Computer Science"
+  },
+  "2404-05961": {
+    "title": "LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders",
+    "authors": [
+      "Parishad BehnamGhader",
+      "Vaibhav Adlakha",
+      "Marius Mosbach",
+      "Dzmitry Bahdanau",
+      "Nicolas Chapados",
+      "Siva Reddy"
+    ],
+    "publication_date": "2024-04-09",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "18594d3f15b39385bace39657d14f0c8c7479db1",
+    "corpus_id": 269009682,
+    "category": "Computer Science"
+  },
+  "2403-18684": {
+    "title": "Scaling Laws For Dense Retrieval",
+    "authors": [
+      "Yan Fang",
+      "Jingtao Zhan",
+      "Qingyao Ai",
+      "Jiaxin Mao",
+      "Weihang Su",
+      "Jia Chen",
+      "Yiqun Liu"
+    ],
+    "publication_date": "2024-03-27",
+    "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+    "semantic_scholar_id": "38cd208cdbc3631fcac4148bd4a421dd87c8d110",
+    "corpus_id": 268723791,
+    "category": "Computer Science"
+  },
+  "2403-16435": {
+    "title": "InstUPR : Instruction-based Unsupervised Passage Reranking with Large Language Models",
+    "authors": [
+      "Chao-Wei Huang",
+      "Yun-Nung Chen"
+    ],
+    "publication_date": "2024-03-25",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "05d1ccd11597aeccf5f9c2374238d51e0c064377",
+    "corpus_id": 268681628,
+    "category": "Computer Science"
+  },
+  "2402-14151": {
+    "title": "BIRCO: A Benchmark of Information Retrieval Tasks with Complex Objectives",
+    "authors": [
+      "Xiaoyue Wang",
+      "Jianyou Wang",
+      "Weili Cao",
+      "Kaicheng Wang",
+      "R. Paturi",
+      "Leon Bergen"
+    ],
+    "publication_date": "2024-02-21",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "991c2164c85a80034afeeeee88b3208da766e76f",
+    "corpus_id": 267782730,
+    "category": "Computer Science"
+  },
+  "2312-02724": {
+    "title": "RankZephyr: Effective and Robust Zero-Shot Listwise Reranking is a Breeze!",
+    "authors": [
+      "Ronak Pradeep",
+      "Sahel Sharifymoghaddam",
+      "Jimmy J. Lin"
+    ],
+    "publication_date": "2023-12-05",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "5605e5bbe71a6d52be0930865f1635ed8644dea8",
+    "corpus_id": 265659387,
+    "category": "Computer Science"
+  },
+  "2311-11944": {
+    "title": "FinanceBench: A New Benchmark for Financial Question Answering",
+    "authors": [
+      "Pranab Islam",
+      "Anand Kannappan",
+      "Douwe Kiela",
+      "Rebecca Qian",
+      "Nino Scherrer",
+      "Bertie Vidgen"
+    ],
+    "publication_date": "2023-11-20",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "89ed7fd00319d45269906a9b05e10c8680bf9cec",
+    "corpus_id": 265294665,
+    "category": "Computer Science, Mathematics"
+  },
+  "2311-09175": {
+    "title": "Can Query Expansion Improve Generalization of Strong Cross-Encoder Rankers?",
+    "authors": [
+      "Minghan Li",
+      "Honglei Zhuang",
+      "Kai Hui",
+      "Zhen Qin",
+      "Jimmy Lin",
+      "R. Jagerman",
+      "Xuanhui Wang",
+      "Michael Bendersky"
+    ],
+    "publication_date": "2023-11-15",
+    "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+    "semantic_scholar_id": "5164f5861fda46e1bccbfbfe8c71116205246b58",
+    "corpus_id": 265212774,
+    "category": "Computer Science"
+  },
+  "2311-00168": {
+    "title": "The Alignment Ceiling: Objective Mismatch in Reinforcement Learning from Human Feedback",
+    "authors": [
+      "Nathan Lambert",
+      "Roberto Calandra"
+    ],
+    "publication_date": "2023-10-31",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "9cb7f7415fb0590186a3d903a8d5d7044b7a3fdc",
+    "corpus_id": 264832734,
+    "category": "Computer Science"
+  },
+  "2310-08319": {
+    "title": "Fine-Tuning LLaMA for Multi-Stage Text Retrieval",
+    "authors": [
+      "Xueguang Ma",
+      "Liang Wang",
+      "Nan Yang",
+      "Furu Wei",
+      "Jimmy Lin"
+    ],
+    "publication_date": "2023-10-12",
+    "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+    "semantic_scholar_id": "a531e9a328ad1488567fa68c15d5bf30bfb90c78",
+    "corpus_id": 263908865,
+    "category": "Computer Science"
+  },
+  "2310-04407": {
+    "title": "Policy-Gradient Training of Language Models for Ranking",
+    "authors": [
+      "Ge Gao",
+      "Jonathan D. Chang",
+      "Claire Cardie",
+      "Kianté Brantley",
+      "Thorsten Joachims"
+    ],
+    "publication_date": "2023-10-06",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "185b6b42fbb01ce8a5a08b64bd56a6fbe011d3dd",
+    "corpus_id": 263829952,
+    "category": "Computer Science"
+  },
+  "2212-06121": {
+    "title": "In Defense of Cross-Encoders for Zero-Shot Retrieval",
+    "authors": [
+      "G. Rosa",
+      "L. Bonifacio",
+      "Vitor Jeronymo",
+      "Hugo Abonizio",
+      "Marzieh Fadaee",
+      "R. Lotufo",
+      "Rodrigo Nogueira"
+    ],
+    "publication_date": "2022-12-12",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "128e7a8312876f4894648f3fbff2ffe9d7d548d8",
+    "corpus_id": 254564419,
+    "category": "Computer Science"
+  },
+  "2210-10760": {
+    "title": "Scaling Laws for Reward Model Overoptimization",
+    "authors": [
+      "Leo Gao",
+      "John Schulman",
+      "Jacob Hilton"
+    ],
+    "publication_date": "2022-10-19",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "fb3dc5e20e0a71134ca916f0d6d8d41f01225b4b",
+    "corpus_id": 252992904,
+    "category": "Computer Science, Mathematics"
+  },
+  "2210-10634": {
+    "title": "RankT5: Fine-Tuning T5 for Text Ranking with Ranking Losses",
+    "authors": [
+      "Honglei Zhuang",
+      "Zhen Qin",
+      "R. Jagerman",
+      "Kai Hui",
+      "Ji Ma",
+      "Jing Lu",
+      "Jianmo Ni",
+      "Xuanhui Wang",
+      "Michael Bendersky"
+    ],
+    "publication_date": "2022-10-12",
+    "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+    "semantic_scholar_id": "4f26132fe5a982f47bba8941dba84cc0d6aa4cbc",
+    "corpus_id": 252993059,
+    "category": "Computer Science"
+  },
+  "2207-06300": {
+    "title": "Re2G: Retrieve, Rerank, Generate",
+    "authors": [
+      "Michael R. Glass",
+      "Gaetano Rossiello",
+      "Md. Faisal Mahbub Chowdhury",
+      "Ankita Rajaram Naik",
+      "Pengshan Cai",
+      "A. Gliozzo"
+    ],
+    "publication_date": "2022-07-13",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "c406074e331fa11604059bdeb36433dc9d1e20de",
+    "corpus_id": 250391085,
+    "category": "Computer Science"
+  },
+  "2203-10053": {
+    "title": "RELiC: Retrieving Evidence for Literary Claims",
+    "authors": [
+      "Katherine Thai",
+      "Yapei Chang",
+      "Kalpesh Krishna",
+      "Mohit Iyyer"
+    ],
+    "publication_date": "2022-03-18",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "796f29cee975603c7a1469df1eb21ed5142ecff5",
+    "corpus_id": 247593935,
+    "category": "Computer Science"
+  },
+  "2201-03544": {
+    "title": "The Effects of Reward Misspecification: Mapping and Mitigating Misaligned Models",
+    "authors": [
+      "Alexander Pan",
+      "K. Bhatia",
+      "J. Steinhardt"
+    ],
+    "publication_date": "2022-01-10",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "10b9ca173c665e3f2c322c2d5ce9b9d433fe4629",
+    "corpus_id": 245837268,
+    "category": "Computer Science, Mathematics"
+  },
+  "2112-09332": {
+    "title": "WebGPT: Browser-assisted question-answering with human feedback",
+    "authors": [
+      "Reiichiro Nakano",
+      "Jacob Hilton",
+      "S. Balaji",
+      "Jeff Wu",
+      "Ouyang Long",
+      "Christina Kim",
+      "Christopher Hesse",
+      "Shantanu Jain",
+      "Vineet Kosaraju",
+      "W. Saunders",
+      "Xu Jiang",
+      "K. Cobbe",
+      "Tyna Eloundou",
+      "Gretchen Krueger",
+      "Kevin Button",
+      "Matthew Knight",
+      "Benjamin Chess",
+      "John Schulman"
+    ],
+    "publication_date": "2021-12-17",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "2f3efe44083af91cef562c1a3451eee2f8601d22",
+    "corpus_id": 245329531,
+    "category": "Computer Science"
+  },
+  "2112-09118": {
+    "title": "Unsupervised Dense Information Retrieval with Contrastive Learning",
+    "authors": [
+      "Gautier Izacard",
+      "Mathilde Caron",
+      "Lucas Hosseini",
+      "Sebastian Riedel",
+      "Piotr Bojanowski",
+      "Armand Joulin",
+      "Edouard Grave"
+    ],
+    "publication_date": "2021-12-16",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "4f4a409f701f7552d45c46a5b0fea69dca6f8e84",
+    "corpus_id": 249097975,
+    "category": "Computer Science"
+  },
+  "2104-08663": {
+    "title": "BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models",
+    "authors": [
+      "Nandan Thakur",
+      "Nils Reimers",
+      "Andreas Ruckl'e",
+      "Abhishek Srivastava",
+      "Iryna Gurevych"
+    ],
+    "publication_date": "2021-04-17",
+    "venue": "NeurIPS Datasets and Benchmarks",
+    "semantic_scholar_id": "807600ef43073cd9c59d4208ee710e90cf14efa8",
+    "corpus_id": 233296016,
+    "category": "Computer Science"
+  },
+  "2103-03335": {
+    "title": "A Systematic Evaluation of Transfer Learning and Pseudo-labeling with BERT-based Ranking Models",
+    "authors": [
+      "Iurii Mokrii",
+      "Leonid Boytsov",
+      "Pavel Braslavski"
+    ],
+    "publication_date": "2021-03-04",
+    "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+    "semantic_scholar_id": "9952fe8cbd09e4fc89dc7d76595d138e36c7d7b5",
+    "corpus_id": 232135374,
+    "category": "Computer Science"
+  },
+  "2101-08751": {
+    "title": "Rethink Training of BERT Rerankers in Multi-Stage Retrieval Pipeline",
+    "authors": [
+      "Luyu Gao",
+      "Zhuyun Dai",
+      "Jamie Callan"
+    ],
+    "publication_date": "2021-01-21",
+    "venue": "European Conference on Information Retrieval",
+    "semantic_scholar_id": "fbda1180145f48d3749c5a6dbef90ce712838e5e",
+    "corpus_id": 231662379,
+    "category": "Computer Science"
+  },
+  "2010-06467": {
+    "title": "Pretrained Transformers for Text Ranking: BERT and Beyond",
+    "authors": [
+      "Jimmy J. Lin",
+      "Rodrigo Nogueira",
+      "Andrew Yates"
+    ],
+    "publication_date": "2020-10-13",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "2c953a3c378b40dadf2e3fb486713c8608b8e282",
+    "corpus_id": 222310837,
+    "category": "Computer Science"
+  },
+  "2009-01325": {
+    "title": "Learning to summarize from human feedback",
+    "authors": [
+      "Nisan Stiennon",
+      "Long Ouyang",
+      "Jeff Wu",
+      "Daniel M. Ziegler",
+      "Ryan J. Lowe",
+      "Chelsea Voss",
+      "Alec Radford",
+      "Dario Amodei",
+      "Paul Christiano"
+    ],
+    "publication_date": "2020-09-02",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "053b1d7b97eb2c91fc3921d589c160b0923c70b1",
+    "corpus_id": 221665105,
+    "category": "Computer Science"
+  },
+  "2007-00808": {
+    "title": "Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval",
+    "authors": [
+      "Lee Xiong",
+      "Chenyan Xiong",
+      "Ye Li",
+      "Kwok-Fung Tang",
+      "Jialin Liu",
+      "Paul N. Bennett",
+      "Junaid Ahmed",
+      "Arnold Overwijk"
+    ],
+    "publication_date": "2020-07-01",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "c9b8593db099869fe7254aa1fa53f3c9073b0176",
+    "corpus_id": 220302524,
+    "category": "Computer Science"
+  },
+  "2005-00181": {
+    "title": "Sparse, Dense, and Attentional Representations for Text Retrieval",
+    "authors": [
+      "Y. Luan",
+      "Jacob Eisenstein",
+      "Kristina Toutanova",
+      "M. Collins"
+    ],
+    "publication_date": "2020-05-01",
+    "venue": "Transactions of the Association for Computational Linguistics",
+    "semantic_scholar_id": "050050e30d0f162c4dd87c1aac8d37df266e4c93",
+    "corpus_id": 218470027,
+    "category": "Computer Science"
+  },
+  "2004-14974": {
+    "title": "Fact or Fiction: Verifying Scientific Claims",
+    "authors": [
+      "David Wadden",
+      "Kyle Lo",
+      "Lucy Lu Wang",
+      "Shanchuan Lin",
+      "Madeleine van Zuylen",
+      "Arman Cohan",
+      "Hannaneh Hajishirzi"
+    ],
+    "publication_date": "2020-04-30",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "b770d84055c32febe922be9931c453fdbebe9002",
+    "corpus_id": 216867133,
+    "category": "Computer Science"
+  },
+  "2004-13012": {
+    "title": "Choppy: Cut Transformer for Ranked List Truncation",
+    "authors": [
+      "Dara Bahri",
+      "Yi Tay",
+      "Che Zheng",
+      "Donald Metzler",
+      "A. Tomkins"
+    ],
+    "publication_date": "2020-04-26",
+    "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+    "semantic_scholar_id": "a21d23ac157c8a21ad41fd7596face4542e2ce0a",
+    "corpus_id": 216562654,
+    "category": "Computer Science, Mathematics"
+  },
+  "2004-04906": {
+    "title": "Dense Passage Retrieval for Open-Domain Question Answering",
+    "authors": [
+      "Vladimir Karpukhin",
+      "Barlas Oğuz",
+      "Sewon Min",
+      "Patrick Lewis",
+      "Ledell Yu Wu",
+      "Sergey Edunov",
+      "Danqi Chen",
+      "Wen-tau Yih"
+    ],
+    "publication_date": "2020-04-10",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "b26f2037f769d5ffc5f7bdcec2de8da28ec14bee",
+    "corpus_id": 215737187,
+    "category": "Computer Science"
+  },
+  "2002-01854": {
+    "title": "Interpretable & Time-Budget-Constrained Contextualization for Re-Ranking",
+    "authors": [
+      "Sebastian Hofstätter",
+      "Markus Zlabinger",
+      "A. Hanbury"
+    ],
+    "publication_date": "2020-02-04",
+    "venue": "European Conference on Artificial Intelligence",
+    "semantic_scholar_id": "6dbdc34000b034b75b8ff70872fc7c35549e273a",
+    "corpus_id": 211031834,
+    "category": "Computer Science"
+  },
+  "2001-08361": {
+    "title": "Scaling Laws for Neural Language Models",
+    "authors": [
+      "J. Kaplan",
+      "Sam McCandlish",
+      "T. Henighan",
+      "Tom B. Brown",
+      "Benjamin Chess",
+      "R. Child",
+      "Scott Gray",
+      "Alec Radford",
+      "Jeff Wu",
+      "Dario Amodei"
+    ],
+    "publication_date": "2020-01-23",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "e6c561d02500b2596a230b341a8eb8b921ca5bf2",
+    "corpus_id": 210861095,
+    "category": "Computer Science, Mathematics"
+  },
+  "1910-14424": {
+    "title": "Multi-Stage Document Ranking with BERT",
+    "authors": [
+      "Rodrigo Nogueira",
+      "Wei Yang",
+      "Kyunghyun Cho",
+      "Jimmy J. Lin"
+    ],
+    "publication_date": "2019-10-31",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "63a2fabbe4b1615a84d5f4d90987733cf09e3ff8",
+    "corpus_id": 207758365,
+    "category": "Computer Science"
+  },
+  "1909-00986": {
+    "title": "Certified Robustness to Adversarial Word Substitutions",
+    "authors": [
+      "Robin Jia",
+      "Aditi Raghunathan",
+      "Kerem Göksel",
+      "Percy Liang"
+    ],
+    "publication_date": "2019-09-03",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "4690190d6c110f7525f7250e1acf4a4eab42519f",
+    "corpus_id": 202538141,
+    "category": "Computer Science"
+  },
+  "1908-10084": {
+    "title": "Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks",
+    "authors": [
+      "Nils Reimers",
+      "Iryna Gurevych"
+    ],
+    "publication_date": "2019-08-14",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "93d63ec754f29fa22572615320afe0521f7ec66d",
+    "corpus_id": 201646309,
+    "category": "Computer Science"
+  },
+  "1905-01969": {
+    "title": "Poly-encoders: Architectures and Pre-training Strategies for Fast and Accurate Multi-sentence Scoring",
+    "authors": [
+      "Samuel Humeau",
+      "Kurt Shuster",
+      "M. Lachaux",
+      "J. Weston"
+    ],
+    "publication_date": "2019-04-22",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "301e13f3df8f9dfb79ea782da3693e2942392279",
+    "corpus_id": 210063976,
+    "category": "Computer Science"
+  },
+  "1901-04085": {
+    "title": "Passage Re-ranking with BERT",
+    "authors": [
+      "Rodrigo Nogueira",
+      "Kyunghyun Cho"
+    ],
+    "publication_date": "2019-01-13",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "85e07116316e686bf787114ba10ca60f4ea7c5b2",
+    "corpus_id": 58004692,
+    "category": "Computer Science"
+  },
+  "1811-04415": {
+    "title": "Learning Groupwise Multivariate Scoring Functions Using Deep Neural Networks",
+    "authors": [
+      "Qingyao Ai",
+      "Xuanhui Wang",
+      "Sebastian Bruch",
+      "Nadav Golbandi",
+      "Michael Bendersky",
+      "Marc Najork"
+    ],
+    "publication_date": "2018-11-11",
+    "venue": "International Conference on the Theory of Information Retrieval",
+    "semantic_scholar_id": "98e4d281425c1420805cf3b91f1340f00f07e166",
+    "corpus_id": 199441954,
+    "category": "Computer Science"
+  },
+  "1811-09300": {
+    "title": "Strength in Numbers: Trading-off Robustness and Computation via Adversarially-Trained Ensembles",
+    "authors": [
+      "Edward Grefenstette",
+      "Robert Stanforth",
+      "Brendan O'Donoghue",
+      "Jonathan Uesato",
+      "G. Swirszcz",
+      "Pushmeet Kohli"
+    ],
+    "publication_date": "2018-09-27",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "49956bdcfb55d8b42c696a743843f2a1e232d739",
+    "corpus_id": 53717538,
+    "category": "Computer Science"
+  },
+  "1804-05936": {
+    "title": "Learning a Deep Listwise Context Model for Ranking Refinement",
+    "authors": [
+      "Qingyao Ai",
+      "Keping Bi",
+      "J. Guo",
+      "W. Bruce Croft"
+    ],
+    "publication_date": "2018-04-16",
+    "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+    "semantic_scholar_id": "e01afd8b7c12894fbe0d48fd87045d9b2ad4c5e3",
+    "corpus_id": 4956076,
+    "category": "Computer Science"
+  },
+  "1702-08734": {
+    "title": "Billion-Scale Similarity Search with GPUs",
+    "authors": [
+      "Jeff Johnson",
+      "Matthijs Douze",
+      "H. Jégou"
+    ],
+    "publication_date": "2017-02-28",
+    "venue": "IEEE Transactions on Big Data",
+    "semantic_scholar_id": "2cbb8de53759e75411bc528518947a3094fbce3a",
+    "corpus_id": 926364,
+    "category": "Computer Science"
+  },
+  "1603-09320": {
+    "title": "Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs",
+    "authors": [
+      "Yury Malkov",
+      "Dmitry A. Yashunin"
+    ],
+    "publication_date": "2016-03-30",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "699a2e3b653c69aff5cf7a9923793b974f8ca164",
+    "corpus_id": 8915893,
+    "category": "Medicine, Computer Science, Mathematics"
+  },
+  "1106-0257": {
+    "title": "Popular Ensemble Methods: An Empirical Study",
+    "authors": [
+      "R. Maclin",
+      "D. Opitz"
+    ],
+    "publication_date": "1999-07-01",
+    "venue": "Journal of Artificial Intelligence Research",
+    "semantic_scholar_id": "4af31c2819d3f2c7f01942f053750ad1a87253db",
+    "corpus_id": 2594813,
+    "category": "Computer Science"
+  }
+}

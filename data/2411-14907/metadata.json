@@ -1,0 +1,12 @@
+{
+  "title": "DAIRHuM: A Platform for Directly Aligning AI Representations with Human Musical Judgments applied to Carnatic Music",
+  "authors": [
+    "Prashanth Thattai Ravikumar"
+  ],
+  "summary": "Quantifying and aligning music AI model representations with human behavior is an important challenge in the field of MIR. This paper presents a platform for exploring the Direct alignment between AI music model Representations and Human Musical judgments (DAIRHuM). It is designed to enable musicians and experimentalists to label similarities in a dataset of music recordings, and examine a pre-trained model's alignment with their labels using quantitative scores and visual plots. DAIRHuM is applied to analyze alignment between NSynth representations, and a rhythmic duet between two percussionists in a Carnatic quartet ensemble, an example of a genre where annotated data is scarce and assessing alignment is non-trivial. The results demonstrate significant findings on model alignment with human judgments of rhythmic harmony, while highlighting key differences in rhythm perception and music similarity judgments specific to Carnatic music. This work is among the first efforts to enable users to explore human-AI model alignment in Carnatic music and advance MIR research in Indian music while dealing with data scarcity and cultural specificity. The development of this platform provides greater accessibility to music AI tools for under-represented genres.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SD, cs.AI, eess.AS"
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Steering Language Model Refusal with Sparse Autoencoders",
+  "authors": [
+    "Kyle O'Brien",
+    "David Majercak",
+    "Xavier Fernandes",
+    "Richard Edgar",
+    "Blake Bullwinkel",
+    "Jingya Chen",
+    "Harsha Nori",
+    "Dean Carignan",
+    "Eric Horvitz",
+    "Forough Poursabzi-Sangdeh"
+  ],
+  "summary": "Responsible deployment of language models requires mechanisms for refusing unsafe prompts while preserving model performance. While most approaches modify model weights through additional training, we explore an alternative: steering model activations at inference time via amplifying sparse autoencoder (SAE) features that mediate refusal. This work uncovers a fundamental tension between SAE steering-based safety improvements and general model capabilities. While feature steering successfully improves robustness against both single-turn and challenging multi-turn jailbreak attempts, we discover that this comes at a previously underexplored cost -- systematic degradation of performance across multiple benchmark tasks, even on safe inputs with no apparent connection to refusal behavior. This suggests that features mediating refusal may be more deeply entangled with general language model capabilities than previously understood. Our findings reveal important open questions about the nature of safety-relevant features in language models and the feasibility of isolating them for targeted intervention. While SAE-based steering shows promise as a flexible approach to enhancing language model safety, our results highlight the critical need to understand and address the mechanisms behind these capability tradeoffs before such techniques can be practically deployed.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-05-22"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

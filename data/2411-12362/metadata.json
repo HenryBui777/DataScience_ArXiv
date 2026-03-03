@@ -1,0 +1,13 @@
+{
+  "title": "Quantum memory circuit for ion channel dynamics in the nervous system",
+  "authors": [
+    "Yu-Juan Sun",
+    "Wei-Min Zhang"
+  ],
+  "summary": "The opening or closing mechanism of a voltage-gated ion channel is triggered by the potential difference crossing the cell membrane in the nervous system. Based on this picture, we model the ion channel as a nanoscale two-terminal ionic tunneling junction. External time-varying voltage exerting on the two-terminal ionic tunneling junction mimics the stimulation of neurons from the outside. By deriving the quantum Langevin equation from quantum mechanics, the ion channel current is obtained by the quantum tunneling of ions controlled by the time-varying voltage. The time-varying voltage induces an effective magnetic flux which causes quantum coherence in ion tunnelings and leads to sideband effects in the ion channel current dynamics. The sideband effects in the ionic current dynamics manifest a multi-crossing hysteresis in the I-V curve, which is the memory dynamics responding to the variation of the external voltage. Such memory dynamics is defined as the active quantum memory with respect to the time-varying stimuli. We can quantitatively describe how active quantum memory is generated and changed. We find that the number of the non-zero cross points in the I-V curve hysteresis and the oscillation of the differential conductance are the characteristics for quantitatively describing the active quantum memory. We also explore the temperature dependence of the active quantum memory in such a system. The discovery of this active quantum memory characteristics provides a new understanding about the underlying mechanism of ion channel dynamics.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.bio-ph, cond-mat.mes-hall, quant-ph"
+}

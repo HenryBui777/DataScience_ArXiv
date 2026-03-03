@@ -1,0 +1,13 @@
+{
+  "title": "Promoting User Data Autonomy During the Dissolution of a Monopolistic Firm",
+  "authors": [
+    "Rushabh Solanki",
+    "Elliot Creager"
+  ],
+  "summary": "The deployment of AI in consumer products is currently focused on the use of so-called foundation models, large neural networks pre-trained on massive corpora of digital records. This emphasis on scaling up datasets and pre-training computation raises the risk of further consolidating the industry, and enabling monopolistic (or oligopolistic) behavior. Judges and regulators seeking to improve market competition may employ various remedies. This paper explores dissolution -- the breaking up of a monopolistic entity into smaller firms -- as one such remedy, focusing in particular on the technical challenges and opportunities involved in the breaking up of large models and datasets. We show how the framework of Conscious Data Contribution can enable user autonomy during under dissolution. Through a simulation study, we explore how fine-tuning and the phenomenon of \"catastrophic forgetting\" could actually prove beneficial as a type of machine unlearning that allows users to specify which data they want used for what purposes.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

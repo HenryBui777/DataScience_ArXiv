@@ -1,0 +1,17 @@
+{
+  "title": "A Modular Open Source Framework for Genomic Variant Calling",
+  "authors": [
+    "Ankita Vaishnobi Bisoi",
+    "Shreyas V",
+    "Jose Siguenza",
+    "Bharath Ramsundar"
+  ],
+  "summary": "Variant calling is a fundamental task in genomic research, essential for detecting genetic variations such as single nucleotide polymorphisms (SNPs) and insertions or deletions (indels). This paper presents an enhancement to DeepChem, a widely used open-source drug discovery framework, through the integration of DeepVariant. In particular, we introduce a variant calling pipeline that leverages DeepVariant's convolutional neural network (CNN) architecture to improve the accuracy and reliability of variant detection. The implemented pipeline includes stages for realignment of sequencing reads, candidate variant detection, and pileup image generation, followed by variant classification using a modified Inception v3 model. Our work adds a modular and extensible variant calling framework to the DeepChem framework and enables future work integrating DeepChem's drug discovery infrastructure more tightly with bioinformatics pipelines.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-07-28"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-bio.QM, cs.LG"
+}

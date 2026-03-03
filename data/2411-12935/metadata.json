@@ -1,0 +1,16 @@
+{
+  "title": "Improving Low-Fidelity Models of Li-ion Batteries via Hybrid Sparse Identification of Nonlinear Dynamics",
+  "authors": [
+    "Samuel Filgueira da Silva",
+    "Mehmet Fatih Ozkan",
+    "Faissal El Idrissi",
+    "Prashanth Ramesh",
+    "Marcello Canova"
+  ],
+  "summary": "Accurate modeling of lithium ion (li-ion) batteries is essential for enhancing the safety, and efficiency of electric vehicles and renewable energy systems. This paper presents a data-inspired approach for improving the fidelity of reduced-order li-ion battery models. The proposed method combines a Genetic Algorithm with Sequentially Thresholded Ridge Regression (GA-STRidge) to identify and compensate for discrepancies between a low-fidelity model (LFM) and data generated either from testing or a high-fidelity model (HFM). The hybrid model, combining physics-based and data-driven methods, is tested across different driving cycles to demonstrate the ability to significantly reduce the voltage prediction error compared to the baseline LFM, while preserving computational efficiency. The model robustness is also evaluated under various operating conditions, showing low prediction errors and high Pearson correlation coefficients for terminal voltage in unseen environments.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY, cs.LG, cs.NE"
+}

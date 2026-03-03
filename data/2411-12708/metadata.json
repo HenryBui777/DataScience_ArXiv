@@ -1,0 +1,19 @@
+{
+  "title": "The pale blue dot: using the Planetary Spectrum Generator to simulate signals from hyper realistic exo-Earths",
+  "authors": [
+    "Vincent Kofman",
+    "Geronimo Villanueva",
+    "Thomas Fauchez",
+    "Avi Mandell",
+    "Ted Johnson",
+    "Allison Payne",
+    "Natasha Latouf",
+    "Soumil Kelkar"
+  ],
+  "summary": "The atmospheres and surfaces of planets show tremendous amount of spatial variation, which has a direct effect on the spectrum of the object, even if this may not be spatially resolved. Here, we apply hyper realistic radiative simulations of Earth as an exoplanet comprising thousands of simulations and study the unresolved spectrum. The GlobES module on the Planetary Spectrum Generator was used, and we parameterized the atmosphere as described in the modern earth retrospective analysis for research and applications, MERRA2, database. The simulations were made into high spatial resolution images and compared to space based observations from the DSCOVR EPIC, at L1, and Himawari8, geostationary, satellites, confirming spatial variations and the spectral intensities of the simulations. The DSCOVR EPIC camera only functions in narrow wavelength bands, but strong agreement is demonstrated. It is shown that aerosols and small particles play an important role in defining Earths reflectance spectra, contributing significantly to its characteristic blue color. Subsequently, a comprehensive noise model is employed to constrain the exposure time required to detect O2, O3 and H2O as a function of varying ground and cloud cover for several concept observatories, including the habitable worlds observatory. Cloud coverage enhances the detectability of planets in reflected light, with important consequences for the design of the future HWO. The HWO concept would require between 3 to 10 times longer to observe the studied features than LUVOIR A but performs better than the HabEx without a starshade. The codes, routines, and the noise models are made publicly available.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "The Planetary Science Journal,2024 5 197",
+  "pdf_url": null,
+  "category": "astro-ph.EP, astro-ph.IM"
+}

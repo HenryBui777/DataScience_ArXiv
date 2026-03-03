@@ -1,0 +1,13 @@
+{
+  "title": "CardioLab: Laboratory Values Estimation and Monitoring from Electrocardiogram Signals -- A Multimodal Deep Learning Approach",
+  "authors": [
+    "Juan Miguel Lopez Alcaraz",
+    "Nils Strodthoff"
+  ],
+  "summary": "Background: Laboratory values are fundamental to medical diagnosis and management, but acquiring these values can be costly, invasive, and time-consuming. While electrocardiogram (ECG) patterns have been linked to certain laboratory abnormalities, the comprehensive modeling of these relationships remains underexplored.\n  Methods: We utilize MIMIC-IV dataset to develop multimodal deep-learning models to demonstrate the feasibility of estimating (real-time) and monitoring (predict at future intervals) laboratory value abnormalities from ECG waveforms, demographics, biometrics, and vital signs.\n  Results: The models exhibit a strong predictive performance with AUROC scores above 0.70 in a statistically significant manner for 23 laboratory values in the estimation setting and up to 26 values in the monitoring setting. Most notably, the accurately predictable values encompassing abnormalities across diverse physiological categories such as cardiac, renal, hematological, metabolic, immunological and coagulation. To name examples, for estimation NTproBNP (>353 pg/mL) with 0.882, whereas for monitoring at 30 minutes Urea nitrogen (<6 mg/dL) with 0.851, at 60 minutes creatinine (<0.5 mg/dL) with 0.85, and at 120 minutes hemoglobin (>17.5 g/dL) with 0.821.\n  Conclusions: This study provides first evidence for the feasibility of using ECG data alongside clinical routine data for the real-time estimation and monitoring of laboratory value abnormalities, which could provide a non-invasive, cost-effective supplement to traditional laboratory testing, with strong implications for enhanced patient monitoring and early intervention. Further validation could facilitate their integration into routine clinical practice.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP, cs.LG"
+}

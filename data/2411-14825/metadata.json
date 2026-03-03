@@ -1,0 +1,21 @@
+{
+  "title": "Distributed Model Checking in Graphs Classes of Bounded Expansion",
+  "authors": [
+    "Lélia Blin",
+    "Fedor V. Fomin",
+    "Pierre Fraigniaud",
+    "Sylvain Gay",
+    "Petr A. Golovach",
+    "Pedro Montealegre",
+    "Ivan Rapaport",
+    "Ioan Todinca"
+  ],
+  "summary": "The sparsity theory of Nešetřil and Ossona de Mendez provides generic combinatorial and algorithmic methods suitable for many classes of sparse graphs. As such, it has already driven major advances in model checking, parameterized complexity, and approximation algorithms. We show that this theory is equally well suited to the design of distributed algorithms, providing the first generic algorithmic results for distributed first-order (FO) model checking on graphs of bounded expansion. The latter form a rich graph family which subsumes planar, bounded-genus, bounded-treewidth, and bounded-degree graphs, as well as graphs excluding a fixed minor or topological minor, and sparse Erdos-Rényi graphs (a.a.s).\n  Our main results are the following algorithmic meta-theorems for distributed algorithms in the standard CONGEST model on every graph class $\\mathcal{G}$ of bounded expansion.\n  First, we resolve an open problem originally posed by Nešetřil and Ossona de Mendez (Distributed Computing 2016), and reiterated by Pilipczuk, Siebertz, and Toruńczyk (LICS 2018). A formula $\\varphi(x)$ is local if the satisfaction of $\\varphi(x)$ depends only on the $r$-neighbourhood of its free variable $x$, for some fixed $r$. For instance, the formula '$x$ belongs to a triangle' is local. We show that, for every local FO formula $\\varphi(x)$, there exists a deterministic algorithm that, for every $n$-vertex graph $G\\in \\mathcal{G}$, identifies all vertices $v\\in V(G)$ such that $G\\models \\varphi(v)$, in $O(\\log n)$ rounds.\n  Second, we show that, for every FO formula $\\varphi$, there is a deterministic algorithm that, for every $n$-vertex graph $G\\in \\mathcal{G}$, decides whether $G\\models \\varphi$, in $\\mathcal{O}(D+\\log n)$ rounds, where $D$ is the diameter of $G$. The techniques extend to distributed counting, optimization, and certification problems.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-07-24"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DS"
+}

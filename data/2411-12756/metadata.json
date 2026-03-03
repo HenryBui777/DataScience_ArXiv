@@ -1,0 +1,15 @@
+{
+  "title": "FedCL-Ensemble Learning: A Framework of Federated Continual Learning with Ensemble Transfer Learning Enhanced for Alzheimer's MRI Classifications while Preserving Privacy",
+  "authors": [
+    "Rishit Kapoor",
+    "Jesher Joshua",
+    "Muralidharan Vijayarangan",
+    "Natarajan B"
+  ],
+  "summary": "This research work introduces a novel approach to the classification of Alzheimer's disease by using the advanced deep learning techniques combined with secure data processing methods. This research work primary uses transfer learning models such as ResNet, ImageNet, and VNet to extract high-level features from medical image data. Thereafter, these pre-trained models were fine-tuned for Alzheimer's related subtle patterns such that the model is capable of robust feature extraction over varying data sources. Further, the federated learning approaches were incorporated to tackle a few other challenges related to classification, aimed to provide better prediction performance and protect data privacy. The proposed model was built using federated learning without sharing sensitive patient data. This way, the decentralized model benefits from the large and diversified dataset that it is trained upon while ensuring confidentiality. The cipher-based encryption mechanism is added that allows us to secure the transportation of data and further ensure the privacy and integrity of patient information throughout training and classification. The results of the experiments not only help to improve the accuracy of the classification of Alzheimer's but at the same time provides a framework for secure and collaborative analysis of health care data.",
+  "submission_date": "2024-11-15",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.AI, cs.CV, cs.IR, cs.LG"
+}

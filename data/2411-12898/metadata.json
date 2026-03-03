@@ -1,0 +1,17 @@
+{
+  "title": "Problem-dependent convergence bounds for randomized linear gradient compression",
+  "authors": [
+    "Thomas Flynn",
+    "Patrick Johnstone",
+    "Shinjae Yoo"
+  ],
+  "summary": "In distributed optimization, the communication of model updates can be a performance bottleneck. Consequently, gradient compression has been proposed as a means of increasing optimization throughput. In general, due to information loss, compression introduces a penalty on the number of iterations needed to reach a solution. In this work, we investigate how the iteration penalty depends on the interaction between compression and problem structure, in the context of non-convex stochastic optimization. We focus on linear schemes, where compression and decompression can be modeled as multiplication with a random matrix. We consider several distributions of matrices, among them Haar-distributed orthogonal matrices and matrices with random Gaussian entries. We find that the impact of compression on convergence can be quantified in terms of a smoothness matrix associated with the objective function, using a norm defined by the compression scheme. The analysis reveals that in certain cases, compression performance is related to low-rank structure or other spectral properties of the problem and our bounds predict that the penalty introduced by compression is significantly reduced compared to worst-case bounds that only consider the compression level, ignoring problem data. We verify the theoretical findings experimentally, including fine-tuning an image classification model.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-12-15",
+    "2025-07-15"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC, cs.LG"
+}

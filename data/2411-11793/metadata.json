@@ -1,0 +1,14 @@
+{
+  "title": "A Potential Game Perspective in Federated Learning",
+  "authors": [
+    "Kang Liu",
+    "Ziqi Wang",
+    "Enrique Zuazua"
+  ],
+  "summary": "Federated learning (FL) is an emerging paradigm for training machine learning models across distributed clients. Traditionally, in FL settings, a central server assigns training efforts (or strategies) to clients. However, from a market-oriented perspective, clients may independently choose their training efforts based on rational self-interest. To explore this, we propose a potential game framework where each client's payoff is determined by their individual efforts and the rewards provided by the server. The rewards are influenced by the collective efforts of all clients and can be modulated through a reward factor. Our study begins by establishing the existence of Nash equilibria (NEs), followed by an investigation of uniqueness in homogeneous settings. We demonstrate a significant improvement in clients' training efforts at a critical reward factor, identifying it as the optimal choice for the server. Furthermore, we prove the convergence of the best-response algorithm to compute NEs for our FL game. Finally, we apply the training efforts derived from specific NEs to a real-world FL scenario, validating the effectiveness of the identified optimal reward factor.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

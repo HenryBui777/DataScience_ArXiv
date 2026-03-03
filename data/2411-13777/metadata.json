@@ -1,0 +1,16 @@
+{
+  "title": "Evidence is All We Need: Do Self-Admitted Technical Debts Impact Method-Level Maintenance?",
+  "authors": [
+    "Shaiful Chowdhury",
+    "Hisham Kidwai",
+    "Muhammad Asaduzzaman"
+  ],
+  "summary": "Self-Admitted Technical Debt (SATD) refers to the phenomenon where developers explicitly acknowledge technical debt through comments in the source code. While considerable research has focused on detecting and addressing SATD, its true impact on software maintenance remains underexplored. The few studies that have examined this critical aspect have not provided concrete evidence linking SATD to negative effects on software maintenance. These studies, however, focused only on file- or class-level code granularity. This paper aims to empirically investigate the influence of SATD on various facets of software maintenance at the method level. We assess SATD's effects on code quality, bug susceptibility, change frequency, and the time practitioners typically take to resolve SATD.\n  By analyzing a dataset of 774,051 methods from 49 open-source projects, we discovered that methods containing SATD are not only larger and more complex but also exhibit lower readability and a higher tendency for bugs and changes. We also found that SATD often remains unresolved for extended periods, adversely affecting code quality and maintainability. Our results provide empirical evidence highlighting the necessity of early identification, resource allocation, and proactive management of SATD to mitigate its long-term impacts on software quality and maintenance costs.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-02-05"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SE"
+}

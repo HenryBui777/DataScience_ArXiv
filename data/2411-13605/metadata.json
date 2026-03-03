@@ -1,0 +1,15 @@
+{
+  "title": "Quantum Field Measurements in the Fewster-Verch Framework",
+  "authors": [
+    "Jan Mandrysch",
+    "Miguel Navascués"
+  ],
+  "summary": "The Fewster-Verch (FV) framework provides a local and covariant approach for defining measurements in quantum field theory (QFT). Within this framework, a probe QFT represents the measurement device, which, after interacting with the target QFT, undergoes an arbitrary local measurement. Remarkably, the FV framework is free from Sorkin-like causal paradoxes and robust enough to enable quantum state tomography. However, two open issues remain.\n  First, it is unclear if the FV framework allows conducting arbitrary local measurements. Second, if the probe field is interpreted as physical and the FV framework as fundamental, then one must demand the probe measurement to be itself implementable within the framework. That would involve a new probe, which should also be subject to an FV measurement, and so on. It is unknown if there exist non-trivial FV measurements for which such an ``FV-Heisenberg cut\" can be moved arbitrarily far away. In this work, we advance the first problem by proving that Gaussian-modulated measurements of locally smeared fields fit within the FV framework. We solve the second problem by showing that any such measurement admits a movable FV-Heisenberg cut.\n  As a technical byproduct, we establish that state transformations induced by finite-rank perturbations of the classical phase space underlying a linear scalar field preserve the Hadamard property.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-10-28"
+  ],
+  "publication_venue": "Lett. Math. Phys. 115(115), 2025",
+  "pdf_url": null,
+  "category": "hep-th, math-ph, quant-ph"
+}

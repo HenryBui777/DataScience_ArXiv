@@ -1,0 +1,15 @@
+{
+  "title": "A distributed Douglas-Rachford splitting method for solving linear constrained multi-block weakly convex problems",
+  "authors": [
+    "Leyu Hu",
+    "Jiaxin Xie",
+    "Xingju Cai",
+    "Deren Han"
+  ],
+  "summary": "In recent years, a distributed Douglas-Rachford splitting method (DDRSM) has been proposed to tackle multi-block separable convex optimization problems. This algorithm offers relatively easier subproblems and greater efficiency for large-scale problems compared to various augmented-Lagrangian-based parallel algorithms. Building upon this, we explore the extension of DDRSM to weakly convex cases. By assuming weak convexity of the objective function and introducing an error bound assumption, we demonstrate the linear convergence rate of DDRSM. Some promising numerical experiments involving compressed sensing and robust alignment of structures across images (RASL) show that DDRSM has advantages over augmented-Lagrangian-based algorithms, even in weakly convex scenarios.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC"
+}

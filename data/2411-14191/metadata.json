@@ -1,0 +1,19 @@
+{
+  "title": "Post-processing subtraction of tilt-to-length noise in LISA in the presence of gravitational wave signals",
+  "authors": [
+    "Marie-Sophie Hartig",
+    "Sarah Paczkowski",
+    "Martin Hewitson",
+    "Gerhard Heinzel",
+    "Gudrun Wanner"
+  ],
+  "summary": "The Laser Interferometer Space Antenna (LISA) will be the first space-based gravitational wave (GW) observatory. It will measure gravitational wave signals in the frequency regime from 0.1 mHz to 1 Hz. The success of these measurements will depend on the suppression of the various instrument noises. One important noise source in LISA will be tilt-to-length (TTL) coupling. Here, it is understood as the coupling of angular jitter, predominantly from the spacecraft, into the interferometric length readout. The current plan is to subtract this noise in-flight in post-processing as part of a noise minimization strategy. It is crucial to distinguish TTL coupling well from the GW signals in the same readout to ensure that the noise will be properly modeled. Furthermore, it is important that the subtraction of TTL noise will not degrade the GW signals. In the present manuscript, we show on simulated LISA data and for four different GW signal types that the GW responses have little effect on the quality of the TTL coupling fit and subtraction. Also, the GW signal characteristics were not altered by the TTL coupling subtraction.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-22",
+    "2025-02-02"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.IM, gr-qc"
+}

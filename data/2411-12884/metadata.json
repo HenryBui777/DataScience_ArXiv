@@ -1,0 +1,14 @@
+{
+  "title": "The Frenet immersed finite element method for elliptic interface problems: An error analysis",
+  "authors": [
+    "Slimane Adjerid",
+    "Tao Lin",
+    "Haroun Meghaichi"
+  ],
+  "summary": "This article presents an error analysis of the recently introduced Frenet immersed finite element (IFE) method. The Frenet IFE space employed in this method is constructed to be locally conforming to the function space of the associated weak form for the interface problem. This article further establishes a critical trace inequality for the Frenet IFE functions. These features enable us to prove that the Frenet IFE method converges optimally under mesh refinement in both $L^2$ and energy norms.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

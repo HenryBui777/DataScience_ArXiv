@@ -1,0 +1,17 @@
+{
+  "title": "Paying more attention to local contrast: improving infrared small target detection performance via prior knowledge",
+  "authors": [
+    "Peichao Wang",
+    "Jiabao Wang",
+    "Yao Chen",
+    "Rui Zhang",
+    "Yang Li",
+    "Zhuang Miao"
+  ],
+  "summary": "The data-driven method for infrared small target detection (IRSTD) has achieved promising results. However, due to the small scale of infrared small target datasets and the limited number of pixels occupied by the targets themselves, it is a challenging task for deep learning methods to directly learn from these samples. Utilizing human expert knowledge to assist deep learning methods in better learning is worthy of exploration. To effectively guide the model to focus on targets' spatial features, this paper proposes the Local Contrast Attention Enhanced infrared small target detection Network (LCAE-Net), combining prior knowledge with data-driven deep learning methods. LCAE-Net is a U-shaped neural network model which consists of two developed modules: a Local Contrast Enhancement (LCE) module and a Channel Attention Enhancement (CAE) module. The LCE module takes advantages of prior knowledge, leveraging handcrafted convolution operator to acquire Local Contrast Attention (LCA), which could realize background suppression while enhance the potential target region, thus guiding the neural network to pay more attention to potential infrared small targets' location information. To effectively utilize the response information throughout downsampling progresses, the CAE module is proposed to achieve the information fusion among feature maps' different channels. Experimental results indicate that our LCAE-Net outperforms existing state-of-the-art methods on the three public datasets NUDT-SIRST, NUAA-SIRST, and IRSTD-1K, and its detection speed could reach up to 70 fps. Meanwhile, our model has a parameter count and Floating-Point Operations (FLOPs) of 1.945M and 4.862G respectively, which is suitable for deployment on edge devices.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

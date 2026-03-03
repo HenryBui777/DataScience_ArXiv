@@ -1,0 +1,18 @@
+{
+  "title": "Ichnos: A Carbon Footprint Estimator for Scientific Workflows",
+  "authors": [
+    "Kathleen West",
+    "Magnus Reid",
+    "Yehia Elkhatib",
+    "Lauritz Thamsen"
+  ],
+  "summary": "Scientific workflows facilitate the automation of data analysis, and are used to process increasing amounts of data. Therefore, they tend to be resource-intensive and long-running, leading to significant energy consumption and carbon emissions. With ever-increasing emissions from the ICT sector, it is crucial to quantify and understand the carbon footprint of scientific workflows. However, existing tooling requires significant effort from users - such as setting up power monitoring before executing workloads, or translating monitored metrics into the carbon footprints post-execution. In this paper, we introduce a system to estimate the carbon footprint of Nextflow scientific workflows that enables post-hoc estimation based on existing workflow traces, power models for computational resources utilised, and carbon intensity data aligned with the execution time. We discuss our automated power modelling approach, and compare it with commonly used estimation methodologies. Furthermore, we exemplify several potential use cases and evaluate our energy consumption estimation approach, finding its estimation error to be between 3.9-10.3%, outperforming both baseline methodologies.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-06-03",
+    "2025-08-06"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DC"
+}

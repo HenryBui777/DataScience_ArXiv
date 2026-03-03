@@ -1,0 +1,16 @@
+{
+  "title": "Beyond likelihood ratio bias: Nested multi-time-scale stochastic approximation for likelihood-free parameter estimation",
+  "authors": [
+    "Zehao Li",
+    "Zhouchen Lin",
+    "Yijie Peng"
+  ],
+  "summary": "We study parameter inference in simulation-based stochastic models where the analytical form of the likelihood is unknown. The main difficulty is that score evaluation as a ratio of noisy Monte Carlo estimators induces bias and instability, which we overcome with a ratio-free nested multi-time-scale (NMTS) stochastic approximation (SA) method that simultaneously tracks the score and drives the parameter update. We provide a comprehensive theoretical analysis of the proposed NMTS algorithm for solving likelihood-free inference problems, including strong convergence, asymptotic normality, and convergence rates. We show that our algorithm can eliminate the original asymptotic bias $O\\big(\\sqrt{\\frac{1}{N}}\\big)$ and accelerate the convergence rate from $O\\big(β_k+\\sqrt{\\frac{1}{N}}\\big)$ to $O\\big(\\frac{β_k}{α_k}+\\sqrt{\\frac{α_k}{N}}\\big)$, where $N$ is the fixed batch size, $α_k$ and $β_k$ are decreasing step sizes with $α_k$, $β_k$, $β_k/α_k\\rightarrow 0$. With proper choice of $α_k$ and $β_k$, our convergence rates can match the optimal rate in the multi-time-scale SA literature. Numerical experiments demonstrate that our algorithm can improve the estimation accuracy by one to two orders of magnitude at the same computational cost, making it efficient for parameter estimation in stochastic systems.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-10-30"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ML, cs.LG, math.OC"
+}

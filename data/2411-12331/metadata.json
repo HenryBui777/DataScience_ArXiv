@@ -1,0 +1,12 @@
+{
+  "title": "Accelerating UMAP for Large-Scale Datasets Through Spectral Coarsening",
+  "authors": [
+    "Yongyu Wang"
+  ],
+  "summary": "This paper introduces an innovative approach to dramatically accelerate UMAP using spectral data compression.The proposed method significantly reduces the size of the dataset, preserving its essential manifold structure through an advanced spectral compression technique. This allows UMAP to perform much faster while maintaining the quality of its embeddings. Experiments on real-world datasets, such as USPS, demonstrate the method's ability to achieve substantial data reduction without compromising embedding fidelity.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

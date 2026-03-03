@@ -1,0 +1,22 @@
+{
+  "title": "SoK: On the Role and Future of AIGC Watermarking in the Era of Gen-AI",
+  "authors": [
+    "Kui Ren",
+    "Ziqi Yang",
+    "Li Lu",
+    "Jian Liu",
+    "Yiming Li",
+    "Jie Wan",
+    "Xiaodi Zhao",
+    "Xianheng Feng",
+    "Shuo Shao"
+  ],
+  "summary": "The rapid advancement of AI technology, particularly in generating AI-generated content (AIGC), has transformed numerous fields, e.g., art video generation, but also brings new risks, including the misuse of AI for misinformation and intellectual property theft. To address these concerns, AIGC watermarks offer an effective solution to mitigate malicious activities. However, existing watermarking surveys focus more on traditional watermarks, overlooking AIGC-specific challenges. In this work, we propose a systematic investigation into AIGC watermarking and provide the first formal definition of AIGC watermarking. Different from previous surveys, we provide a taxonomy based on the core properties of the watermark which are summarized through comprehensive literature from various AIGC modalities. Derived from the properties, we discuss the functionality and security threats of AIGC watermarking. In the end, we thoroughly investigate the AIGC governance of different countries and practitioners. We believe this taxonomy better aligns with the practical demands for watermarking in the era of GenAI, thus providing a clearer summary of existing work and uncovering potential future research directions for the community.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-19"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR"
+}

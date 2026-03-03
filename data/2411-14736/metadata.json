@@ -1,0 +1,18 @@
+{
+  "title": "Generalized Steppingstone Sampling: Efficient marginal likelihood estimation in gravitational wave analysis of Pulsar Timing Array data",
+  "authors": [
+    "El Mehdi Zahraoui",
+    "Patricio Maturana-Russel",
+    "Willem van Straten",
+    "Renate Meyer",
+    "Sergei Gulyaev"
+  ],
+  "summary": "Globally, Pulsar Timing Array (PTA) experiments have revealed evidence supporting an existing gravitational wave background (GWB) signal in the PTA data set. Apart from acquiring more observations, the sensitivity of PTA experiments can be increased by improving the accuracy of the noise modeling. In PTA data analysis, noise modeling is conducted primarily using Bayesian statistics, relying on the marginal likelihood and the Bayes factor to assess the evidence. We introduce generalized steppingstone (GSS) as an efficient and accurate marginal likelihood estimation method for the PTA-Bayesian framework. This method enables low-cost estimates with high accuracy, especially when comparing expensive models such as the Hellings-Downs (HD) model or the overlap reduction function model (ORF). We demonstrate the efficiency and the accuracy of GSS for model selection and evidence calculation by reevaluating the evidence of previous analyses from the North American Nanohertz Observatory for Gravitational Waves (NANOGrav) 15 yr data set and the European PTA (EPTA) second data release. We find similar evidence for the GWB compared to the one reported by the NANOGrav 15-year data set. Compared to the evidence reported for the EPTA second data release, we find a substantial increase in evidence supporting GWB across all data sets.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-04-01"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.IM"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Solving Zero-Shot 3D Visual Grounding as Constraint Satisfaction Problems",
+  "authors": [
+    "Qihao Yuan",
+    "Kailai Li",
+    "Jiaming Zhang"
+  ],
+  "summary": "3D visual grounding (3DVG) aims to locate objects in a 3D scene with natural language descriptions. Supervised methods have achieved decent accuracy, but have a closed vocabulary and limited language understanding ability. Zero-shot methods utilize large language models (LLMs) to handle natural language descriptions, where the LLM either produces grounding results directly or generates programs that compute results (symbolically). In this work, we propose a zero-shot method that reformulates the 3DVG task as a Constraint Satisfaction Problem (CSP), where the variables and constraints represent objects and their spatial relations, respectively. This allows a global symbolic reasoning of all relevant objects, producing grounding results of both the target and anchor objects. Moreover, we demonstrate the flexibility of our framework by handling negation- and counting-based queries with only minor extra coding efforts. Our system, Constraint Satisfaction Visual Grounding (CSVG), has been extensively evaluated on the public datasets ScanRefer and Nr3D datasets using only open-source LLMs. Results show the effectiveness of CSVG and superior grounding accuracy over current state-of-the-art zero-shot 3DVG methods with improvements of $+7.0\\%$ (Acc@0.5 score) and $+11.2\\%$ on the ScanRefer and Nr3D datasets, respectively. The code of our system is available at https://asig-x.github.io/csvg_web.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-08-11"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "Binary Black Hole Waveforms from High-Resolution GR-Athena++ Simulations",
+  "authors": [
+    "Alireza Rashti",
+    "Rossella Gamba",
+    "Koustav Chandra",
+    "David Radice",
+    "Boris Daszuta",
+    "William Cook",
+    "Sebastiano Bernuzzi"
+  ],
+  "summary": "The detection and subsequent inference of binary black hole signals rely heavily on the accuracy of the waveform model employed. In the highly non-linear, dynamic, and strong-field regime near merger, these waveforms can only be accurately modeled through numerical relativity simulations. Considering the precision requirements of next-generation gravitational wave observatories, we present in this paper high-resolution simulations of four non-spinning quasi-circular binary black hole systems with mass ratios of 1, 2, 3, and 4, conducted using the GR-Athena++ code. We extract waveforms from these simulations using both finite radius and Cauchy characteristic extraction (CCE) methods. Additionally, we provide a comprehensive error analysis to evaluate the accuracy and convergence of the waveforms. Our self-mismatch study shows that the (2, 2) mode of the CCE strains, for the world tube extraction radius of $R=50$, reaches the level of ${\\sim} 10^{-12}$ mismatch for mass ratios of 1, 2, 3, and ${\\sim} 10^{-11}$ mismatch for the mass ratio of 4. However, when larger extraction radii are considered or when more modes are included the mismatches increase. These results highlight both the promise and limitations of current simulations in achieving the precision required for upcoming detectors such as LISA, Cosmic Explorer, and Einstein Telescope. The waveforms are publicly available on ScholarSphere, and represent the first set of waveforms of the new GR-Athena++ catalog.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-25",
+    "2025-05-13"
+  ],
+  "publication_venue": "Phys. Rev. D 111, 104078 (2025)",
+  "pdf_url": null,
+  "category": "gr-qc"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Assistive Control of Knee Exoskeletons for Human Walking on Granular Terrains",
+  "authors": [
+    "Chunchu Zhu",
+    "Xunjie Chen",
+    "Jingang Yi"
+  ],
+  "summary": "Human walkers traverse diverse environments and demonstrate different gait locomotion and energy cost on granular terrains compared to solid ground. We present a stiffness-based model predictive control approach of knee exoskeleton assistance on sand. The gait and locomotion comparison is first discussed for human walkers on sand and solid ground. A machine learning-based estimation scheme is then presented to predict the ground reaction forces (GRFs) for human walkers on different terrains in real time. Built on the estimated GRFs and human joint torques, a knee exoskeleton controller is designed to provide assistive torque through a model predictive stiffness control scheme. We conduct indoor and outdoor experiments to validate the modeling and control design and their performance. The experiments demonstrate the major muscle activation and metabolic reductions by respectively 15% and 3.7% under the assistive exoskeleton control of human walking on sand.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-02-16"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

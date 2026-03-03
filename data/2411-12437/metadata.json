@@ -1,0 +1,14 @@
+{
+  "title": "Stationary regimes of piecewise linear dynamical systems with priorities",
+  "authors": [
+    "Xavier Allamigeon",
+    "Pascal Capetillo",
+    "Stephane Gaubert"
+  ],
+  "summary": "Dynamical systems governed by priority rules appear in the modeling of emergency organizations and road traffic. These systems can be modeled by piecewise linear time-delay dynamics, specifically using Petri nets with priority rules. A central question is to show the existence of stationary regimes (i.e., steady state solutions) -- taking the form of invariant half-lines -- from which essential performance indicators like the throughput and congestion phases can be derived. Our primary result proves the existence of stationary solutions under structural conditions involving the spectrum of the linear parts within the piecewise linear dynamics. This extends to a broader class of systems a fundamental theorem of Kohlberg (1980) dealing with nonexpansive dynamics. The proof of our result relies on topological degree theory and the notion of ``Blackwell optimality'' from the theory of Markov decision processes. Finally, we validate our findings by demonstrating that these structural conditions hold for a wide range of dynamics, especially those stemming from Petri nets with priority rules. This is illustrated on real-world examples from road traffic management and emergency call center operations.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Machine Learning Insights into Quark-Antiquark Interactions: Probing Field Distributions and String Tension in QCD",
+  "authors": [
+    "Wei Kou",
+    "Xurong Chen"
+  ],
+  "summary": "Understanding the interactions between quark-antiquark pairs is essential for elucidating quark confinement within the framework of quantum chromodynamics (QCD). This study investigates the field distribution patterns that arise between these pairs by employing advanced machine learning techniques, namely multilayer perceptrons (MLP) and Kolmogorov-Arnold networks (KAN), to analyze data obtained from lattice QCD simulations. The models developed through this training are then applied to calculate the string tension and width associated with chromo flux tubes, and these results are rigorously compared to those derived from lattice QCD. Moreover, we introduce a preliminary analytical expression that characterizes the field distribution as a function of quark separation, utilizing the KAN methodology. Our comprehensive quantitative analysis underscores the potential of integrating machine learning approaches into conventional QCD research.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-11-25",
+    "2025-03-04"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "hep-ph"
+}

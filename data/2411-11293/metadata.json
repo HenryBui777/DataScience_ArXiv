@@ -1,0 +1,19 @@
+{
+  "title": "AnomalyAID: Reliable Interpretation for Semi-supervised Network Anomaly Detection",
+  "authors": [
+    "Yachao Yuan",
+    "Yu Huang",
+    "Yingwen Wu",
+    "Jin Wang"
+  ],
+  "summary": "Semi-supervised Learning plays a crucial role in network anomaly detection applications, however, learning anomaly patterns with limited labeled samples is not easy. Additionally, the lack of interpretability creates key barriers to the adoption of semi-supervised frameworks in practice. Most existing interpretation methods are developed for supervised/unsupervised frameworks or non-security domains and fail to provide reliable interpretations. In this paper, we propose AnomalyAID, a general framework aiming to (1) make the anomaly detection process interpretable and improve the reliability of interpretation results, and (2) assign high-confidence pseudo labels to unlabeled samples for improving the performance of anomaly detection systems with limited supervised data. For (1), we propose a novel interpretation approach that leverages global and local interpreters to provide reliable explanations, while for (2), we design a new two-stage semi-supervised learning framework for network anomaly detection by aligning both stages' model predictions with special constraints. We apply AnomalyAID over two representative network anomaly detection tasks and extensively evaluate AnomalyAID with representative prior works. Experimental results demonstrate that AnomalyAID can provide accurate detection results with reliable interpretations for semi-supervised network anomaly detection systems.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-02-24",
+    "2025-11-06",
+    "2025-11-10"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

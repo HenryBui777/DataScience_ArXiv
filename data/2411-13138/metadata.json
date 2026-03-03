@@ -1,0 +1,20 @@
+{
+  "title": "SAGA: Synthetic Audit Log Generation for APT Campaigns",
+  "authors": [
+    "Yi-Ting Huang",
+    "Ying-Ren Guo",
+    "Yu-Sheng Yang",
+    "Guo-Wei Wong",
+    "Yu-Zih Jheng",
+    "Yeali Sun",
+    "Jessemyn Modini",
+    "Timothy Lynar",
+    "Meng Chang Chen"
+  ],
+  "summary": "With the increasing sophistication of Advanced Persistent Threats (APTs), the demand for effective detection and mitigation strategies and methods has escalated. Program execution leaves traces in the system audit log, which can be analyzed to detect malicious activities. However, collecting and analyzing large volumes of audit logs over extended periods is challenging, further compounded by insufficient labeling that hinders their usability. Addressing these challenges, this paper introduces SAGA (Synthetic Audit log Generation for APT campaigns), a novel approach for generating find-grained labeled synthetic audit logs that mimic real-world system logs while embedding stealthy APT attacks. SAGA generates configurable audit logs for arbitrary duration, blending benign logs from normal operations with malicious logs based on the definitions the MITRE ATT\\&CK framework. Malicious audit logs follow an APT lifecycle, incorporating various attack techniques at each stage. These synthetic logs can serve as benchmark datasets for training machine learning models and assessing diverse APT detection methods. To demonstrate the usefulness of synthetic audit logs, we ran established baselines of event-based technique hunting and APT campaign detection using various synthetic audit logs. In addition, we show that a deep learning model trained on synthetic audit logs can detect previously unseen techniques within audit logs.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR"
+}

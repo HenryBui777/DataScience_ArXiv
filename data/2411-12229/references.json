@@ -1,0 +1,320 @@
+{
+  "2408-08933": {
+    "title": "RoarGraph: A Projected Bipartite Graph for Efficient Cross-Modal Approximate Nearest Neighbor Search",
+    "authors": [
+      "Meng Chen",
+      "Kai Zhang",
+      "Zhenying He",
+      "Yinan Jing",
+      "X. Wang"
+    ],
+    "publication_date": "2024-07-01",
+    "venue": "Proceedings of the VLDB Endowment",
+    "semantic_scholar_id": "5a4edec9b30464be0f71ff388f872acef7bac1e5",
+    "corpus_id": 271903075,
+    "category": "Computer Science"
+  },
+  "2405-12497": {
+    "title": "RaBitQ: Quantizing High-Dimensional Vectors with a Theoretical Error Bound for Approximate Nearest Neighbor Search",
+    "authors": [
+      "Jianyang Gao",
+      "Cheng Long"
+    ],
+    "publication_date": "2024-05-21",
+    "venue": "Proc. ACM Manag. Data",
+    "semantic_scholar_id": "0957a9ed24f966830a03c65bf4c640f9f7f2626c",
+    "corpus_id": 269929866,
+    "category": "Computer Science"
+  },
+  "2304-09287": {
+    "title": "Integrity and Junkiness Failure Handling for Embedding-based Retrieval: A Case Study in Social Network Search",
+    "authors": [
+      "Wenping Wang",
+      "Yunxi Guo",
+      "Chiyao Shen",
+      "Shuai Ding",
+      "Guangdeng Liao",
+      "Hao Fu",
+      "Pramodh Karanth Prabhakar"
+    ],
+    "publication_date": "2023-04-18",
+    "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+    "semantic_scholar_id": "d01ce2777d735d5829e8961e4f2d000854a401cf",
+    "corpus_id": 258212678,
+    "category": "Computer Science"
+  },
+  "2304-04759": {
+    "title": "Similarity search in the blink of an eye with compressed indices",
+    "authors": [
+      "C. Aguerrebere",
+      "I. Bhati",
+      "Mark Hildebrand",
+      "Mariano Tepper",
+      "Ted Willke"
+    ],
+    "publication_date": "2023-04-07",
+    "venue": "Proceedings of the VLDB Endowment",
+    "semantic_scholar_id": "6c6483941d193f6570a39a3775dd4340679fccb3",
+    "corpus_id": 258059674,
+    "category": "Computer Science"
+  },
+  "2304-01926": {
+    "title": "High-Throughput Vector Similarity Search in Knowledge Graphs",
+    "authors": [
+      "Jason Mohoney",
+      "Anil Pacaci",
+      "S. R. Chowdhury",
+      "A. Mousavi",
+      "Ihab F. Ilyas",
+      "U. F. Minhas",
+      "Jeffrey Pound",
+      "Theodoros Rekatsinas"
+    ],
+    "publication_date": "2023-04-04",
+    "venue": "Proc. ACM Manag. Data",
+    "semantic_scholar_id": "4f662c42b2bd52422b70d8f44175f33cec4f8969",
+    "corpus_id": 257921758,
+    "category": "Computer Science"
+  },
+  "2303-09855": {
+    "title": "High-Dimensional Approximate Nearest Neighbor Search: with Reliable and Efficient Distance Comparison Operations",
+    "authors": [
+      "Jianyang Gao",
+      "Cheng Long"
+    ],
+    "publication_date": "2023-03-17",
+    "venue": "Proc. ACM Manag. Data",
+    "semantic_scholar_id": "59f31992ebf4b9b5664eed5819408265eaf5efc9",
+    "corpus_id": 257623101,
+    "category": "Computer Science"
+  },
+  "2212-13310": {
+    "title": "ProS: data series progressive k-NN similarity search and classification with probabilistic quality guarantees",
+    "authors": [
+      "Karima Echihabi",
+      "Theophanis Tsandilas",
+      "Anna Gogolou",
+      "A. Bezerianos",
+      "Themis Palpanas"
+    ],
+    "publication_date": "2022-11-30",
+    "venue": "The VLDB journal",
+    "semantic_scholar_id": "30fcde1d6db07b8ce76b0e98ef9d86adba134a59",
+    "corpus_id": 253449936,
+    "category": "Computer Science"
+  },
+  "2206-11408": {
+    "title": "FINGER: Fast Inference for Graph-based Approximate Nearest Neighbor Search",
+    "authors": [
+      "Patrick H. Chen",
+      "Wei-Cheng Chang",
+      "Hsiang-Fu Yu",
+      "I. Dhillon",
+      "Cho-Jui Hsieh"
+    ],
+    "publication_date": "2022-06-22",
+    "venue": "The Web Conference",
+    "semantic_scholar_id": "d64432b0ebbfb1b738f70ff2f63b2f812c01f764",
+    "corpus_id": 249954091,
+    "category": "Computer Science"
+  },
+  "2212-13297": {
+    "title": "Hercules Against Data Series Similarity Search",
+    "authors": [
+      "Karima Echihabi",
+      "P. Fatourou",
+      "Konstantinos Zoumpatianos",
+      "Themis Palpanas",
+      "H. Benbrahim"
+    ],
+    "publication_date": "2022-06-01",
+    "venue": "Proceedings of the VLDB Endowment",
+    "semantic_scholar_id": "4389b25c1a26fe22d76ce3cf5c8c8e24b5a714a9",
+    "corpus_id": 251863126,
+    "category": "Computer Science"
+  },
+  "2202-01110": {
+    "title": "A Survey on Retrieval-Augmented Text Generation",
+    "authors": [
+      "Huayang Li",
+      "Yixuan Su",
+      "Deng Cai",
+      "Yan Wang",
+      "Lemao Liu"
+    ],
+    "publication_date": "2022-02-02",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "e6770e3f5e74210c6863aaeed527ac4c1da419d7",
+    "corpus_id": 246472929,
+    "category": "Computer Science"
+  },
+  "2112-01488": {
+    "title": "ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction",
+    "authors": [
+      "Keshav Santhanam",
+      "O. Khattab",
+      "Jon Saad-Falcon",
+      "Christopher Potts",
+      "M. Zaharia"
+    ],
+    "publication_date": "2021-12-02",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "590432f953b6ce1b4b36bf66a2ac65eeee567515",
+    "corpus_id": 244799249,
+    "category": "Computer Science"
+  },
+  "2101-12631": {
+    "title": "A Comprehensive Survey and Experimental Comparison of Graph-Based Approximate Nearest Neighbor Search",
+    "authors": [
+      "Mengzhao Wang",
+      "Xiaoliang Xu",
+      "Qiang Yue",
+      "Yuxiang Wang"
+    ],
+    "publication_date": "2021-01-29",
+    "venue": "Proceedings of the VLDB Endowment",
+    "semantic_scholar_id": "f1613881b5f90cd779bf9c8511f3af410ce49846",
+    "corpus_id": 231728434,
+    "category": "Computer Science"
+  },
+  "2005-11401": {
+    "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+    "authors": [
+      "Patrick Lewis",
+      "Ethan Perez",
+      "Aleksandara Piktus",
+      "F. Petroni",
+      "Vladimir Karpukhin",
+      "Naman Goyal",
+      "Heinrich Kuttler",
+      "M. Lewis",
+      "Wen-tau Yih",
+      "Tim Rocktäschel",
+      "Sebastian Riedel",
+      "Douwe Kiela"
+    ],
+    "publication_date": "2020-05-22",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "659bf9ce7175e1ec266ff54359e2bd76e0b7ff31",
+    "corpus_id": 218869575,
+    "category": "Computer Science"
+  },
+  "2004-12832": {
+    "title": "ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT",
+    "authors": [
+      "O. Khattab",
+      "M. Zaharia"
+    ],
+    "publication_date": "2020-04-27",
+    "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+    "semantic_scholar_id": "60b8ad6177230ad5402af409a6edb5af441baeb4",
+    "corpus_id": 216553223,
+    "category": "Computer Science"
+  },
+  "2002-03932": {
+    "title": "Pre-training Tasks for Embedding-based Large-scale Retrieval",
+    "authors": [
+      "Wei-Cheng Chang",
+      "Felix X. Yu",
+      "Yin-Wen Chang",
+      "Yiming Yang",
+      "Sanjiv Kumar"
+    ],
+    "publication_date": "2020-02-10",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "beb21c9f339bb040e8f360b45eda0f9b10b2c95c",
+    "corpus_id": 211068995,
+    "category": "Computer Science, Mathematics"
+  },
+  "1810-07355": {
+    "title": "Optimization of Indexing Based on k-Nearest Neighbor Graph for Proximity Search in High-dimensional Data",
+    "authors": [
+      "M. Iwasaki",
+      "D. Miyazaki"
+    ],
+    "publication_date": "2018-10-17",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "01aa43470c726eb4501dff999f192facda864905",
+    "corpus_id": 52984926,
+    "category": "Computer Science"
+  },
+  "1807-05614": {
+    "title": "ANN-Benchmarks: A Benchmarking Tool for Approximate Nearest Neighbor Algorithms",
+    "authors": [
+      "Martin Aumüller",
+      "Erik Bernhardsson",
+      "A. Faithfull"
+    ],
+    "publication_date": "2018-07-15",
+    "venue": "Similarity Search and Applications",
+    "semantic_scholar_id": "8a65888ea8199749f05b95471138fe9f1d946fb0",
+    "corpus_id": 36089988,
+    "category": "Computer Science"
+  },
+  "1707-00143": {
+    "title": "Fast Approximate Nearest Neighbor Search With The Navigating Spreading-out Graph",
+    "authors": [
+      "Cong Fu",
+      "Chao Xiang",
+      "Changxu Wang",
+      "Deng Cai"
+    ],
+    "publication_date": "2017-07-01",
+    "venue": "Proceedings of the VLDB Endowment",
+    "semantic_scholar_id": "8843bdc4548bd2f9b483aafe90b7ee41c8b8fdc8",
+    "corpus_id": 44175941,
+    "category": "Mathematics, Computer Science"
+  },
+  "1704-07355": {
+    "title": "Accelerated Nearest Neighbor Search with Quick ADC",
+    "authors": [
+      "Fabien André",
+      "Anne-Marie Kermarrec",
+      "Nicolas Le Scouarnec"
+    ],
+    "publication_date": "2017-04-24",
+    "venue": "International Conference on Multimedia Retrieval",
+    "semantic_scholar_id": "b98c684947a2da5b7a7e020ff8a7c4d80c5a8d3b",
+    "corpus_id": 14788025,
+    "category": "Computer Science"
+  },
+  "1609-07228": {
+    "title": "EFANNA : An Extremely Fast Approximate Nearest Neighbor Search Algorithm Based on kNN Graph",
+    "authors": [
+      "Cong Fu",
+      "Deng Cai"
+    ],
+    "publication_date": "2016-09-23",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "b3ad93627a8eeff3030425b04248c8427fdf731a",
+    "corpus_id": 9041621,
+    "category": "Computer Science"
+  },
+  "1603-09320": {
+    "title": "Efficient and Robust Approximate Nearest Neighbor Search Using Hierarchical Navigable Small World Graphs",
+    "authors": [
+      "Yury Malkov",
+      "Dmitry A. Yashunin"
+    ],
+    "publication_date": "2016-03-30",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "699a2e3b653c69aff5cf7a9923793b974f8ca164",
+    "corpus_id": 8915893,
+    "category": "Medicine, Computer Science, Mathematics"
+  },
+  "1509-02897": {
+    "title": "Practical and Optimal LSH for Angular Distance",
+    "authors": [
+      "Alexandr Andoni",
+      "P. Indyk",
+      "Thijs Laarhoven",
+      "Ilya P. Razenshteyn",
+      "Ludwig Schmidt"
+    ],
+    "publication_date": "2015-09-09",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "50645e3dc912d597e89d59bffb96ccc0f8e1aefa",
+    "corpus_id": 9222460,
+    "category": "Mathematics, Computer Science"
+  }
+}

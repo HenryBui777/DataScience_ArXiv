@@ -1,0 +1,16 @@
+{
+  "title": "Prediction of Wireless Channel Statistics with Ray Tracing and Uncalibrated Digital Twin",
+  "authors": [
+    "Mahmoud Saad Abouamer",
+    "Robin J. Williams",
+    "Petar Popovski"
+  ],
+  "summary": "We introduce a framework for predicting wireless channel statistics based on digital twin (DT) and ray tracing. The DT is derived from satellite images and is uncalibrated, as it does not assume precise information on the electromagnetic properties of the materials in the environment. The uncalibrated DT is utilized to derive a geometric prior that informs a Gaussian process (GP) and thereby predict channel statistics using only a few measurements. The framework also quantifies uncertainty, offering statistical guarantees for rate selection in ultra-reliable low-latency communication (URLLC). Experimental validation demonstrates the efficacy of the proposed framework using measurement data.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-06-25"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IT, eess.SP"
+}

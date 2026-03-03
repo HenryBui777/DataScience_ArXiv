@@ -1,0 +1,19 @@
+{
+  "title": "The Complexity Landscape of Dynamic Distributed Subgraph Finding",
+  "authors": [
+    "Yi-Jun Chang",
+    "Lyuting Chen",
+    "Yanyu Chen",
+    "Gopinath Mishra",
+    "Mingyang Yang"
+  ],
+  "summary": "Bonne and Censor-Hillel (ICALP 2019) initiated the study of distributed subgraph finding in dynamic networks of limited bandwidth. For the case where the target subgraph is a clique, they determined the tight bandwidth complexity bounds in nearly all settings. However, several open questions remain, and very little is known about finding subgraphs beyond cliques. In this work, we consider these questions and explore subgraphs beyond cliques in the deterministic setting.\n  For finding cliques, we establish an $Ω(\\log \\log n)$ bandwidth lower bound for one-round membership-detection under edge insertions only and an $Ω(\\log \\log \\log n)$ bandwidth lower bound for one-round detection under both edge insertions and node insertions. Moreover, we demonstrate new algorithms to show that our lower bounds are \\emph{tight} in bounded-degree networks when the target subgraph is a triangle. Prior to our work, no lower bounds were known for these problems.\n  For finding subgraphs beyond cliques, we present a complete characterization of the bandwidth complexity of the membership-listing problem for every target subgraph, every number of rounds, and every type of topological change: node insertions, node deletions, edge insertions, and edge deletions. We also show partial characterizations for one-round membership-detection and listing.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-01-01",
+    "2025-08-22"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DS"
+}

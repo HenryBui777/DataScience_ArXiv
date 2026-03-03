@@ -1,0 +1,14 @@
+{
+  "title": "Expansion Laws for Forward-Reverse, Forward, and Reverse Bisimilarities via Proved Encodings",
+  "authors": [
+    "Marco Bernardo",
+    "Andrea Esposito",
+    "Claudio A. Mezzina"
+  ],
+  "summary": "Reversible systems exhibit both forward computations and backward computations, where the aim of the latter is to undo the effects of the former. Such systems can be compared via forward-reverse bisimilarity as well as its two components, i.e., forward bisimilarity and reverse bisimilarity. The congruence, equational, and logical properties of these equivalences have already been studied in the setting of sequential processes. In this paper we address concurrent processes and investigate compositionality and axiomatizations of forward bisimilarity, which is interleaving, and reverse and forward-reverse bisimilarities, which are truly concurrent. To uniformly derive expansion laws for the three equivalences, we develop encodings based on the proved trees approach of Degano & Priami. In the case of reverse and forward-reverse bisimilarities, we show that in the encoding every action prefix needs to be extended with the backward ready set of the reached process.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "EPTCS 412, 2024, pp. 51-70",
+  "pdf_url": null,
+  "category": "cs.LO"
+}

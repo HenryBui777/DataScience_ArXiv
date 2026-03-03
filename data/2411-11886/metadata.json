@@ -1,0 +1,21 @@
+{
+  "title": "How Much Data is Enough? Optimization of Data Collection for Artifact Detection in EEG Recordings",
+  "authors": [
+    "Lu Wang-Nöth",
+    "Philipp Heiler",
+    "Hai Huang",
+    "Daniel Lichtenstern",
+    "Alexandra Reichenbach",
+    "Luis Flacke",
+    "Linus Maisch",
+    "Helmut Mayer"
+  ],
+  "summary": "Objective. Electroencephalography (EEG) is a widely used neuroimaging technique known for its cost-effectiveness and user-friendliness. However, various artifacts, particularly biological artifacts like Electromyography (EMG) signals, lead to a poor signal-to-noise ratio, limiting the precision of analyses and applications. The currently reported EEG data cleaning performance largely depends on the data used for validation, and in the case of machine learning approaches, also on the data used for training. The data are typically gathered either by recruiting subjects to perform specific artifact tasks or by integrating existing datasets. Prevailing approaches, however, tend to rely on intuitive, concept-oriented data collection with minimal justification for the selection of artifacts and their quantities. Given the substantial costs associated with biological data collection and the pressing need for effective data utilization, we propose an optimization procedure for data-oriented data collection design using deep learning-based artifact detection. Approach. We apply a binary classification between artifact epochs (time intervals containing artifacts) and non-artifact epochs (time intervals containing no artifact) using three different neural architectures. Our aim is to minimize data collection efforts while preserving the cleaning efficiency. Main results. We were able to reduce the number of artifact tasks from twelve to three and decrease repetitions of isometric contraction tasks from ten to three or sometimes even just one. Significance. Our work addresses the need for effective data utilization in biological data collection, offering a systematic and dynamic quantitative approach. By providing clear justifications for the choices of artifacts and their quantity, we aim to guide future studies toward more effective and economical data collection in EEG and EMG research.",
+  "submission_date": "2024-11-05",
+  "revised_dates": [
+    "2024-11-20"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP, cs.LG"
+}

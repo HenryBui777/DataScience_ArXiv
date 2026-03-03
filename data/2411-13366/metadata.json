@@ -1,0 +1,19 @@
+{
+  "title": "Predicting Wall Thickness Changes in Cold Forging Processes: An Integrated FEM and Neural Network approach",
+  "authors": [
+    "Sasa Ilic",
+    "Abdulkerim Karaman",
+    "Johannes Pöppelbaum",
+    "Jan Niclas Reimann",
+    "Michael Marré",
+    "Andreas Schwung"
+  ],
+  "summary": "This study presents a novel approach for predicting wall thickness changes in tubes during the nosing process. Specifically, we first provide a thorough analysis of nosing processes and the influencing parameters. We further set-up a Finite Element Method (FEM) simulation to better analyse the effects of varying process parameters. As however traditional FEM simulations, while accurate, are time-consuming and computationally intensive, which renders them inapplicable for real-time application, we present a novel modeling framework based on specifically designed graph neural networks as surrogate models. To this end, we extend the neural network architecture by directly incorporating information about the nosing process by adding different types of edges and their corresponding encoders to model object interactions. This augmentation enhances model accuracy and opens the possibility for employing precise surrogate models within closed-loop production processes. The proposed approach is evaluated using a new evaluation metric termed area between thickness curves (ABTC). The results demonstrate promising performance and highlight the potential of neural networks as surrogate models in predicting wall thickness changes during nosing forging processes.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-21"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

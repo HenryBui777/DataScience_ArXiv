@@ -1,0 +1,15 @@
+{
+  "title": "Automatic staff reconstruction within SIMSSA proect",
+  "authors": [
+    "Lorenzo J. Tardon",
+    "Isabel Barbancho",
+    "Ana M. Barbancho",
+    "Ichiro Fujinaga"
+  ],
+  "summary": "The automatic analysis of scores has been a research topic of interest for the last few decades and still is since music databases that include musical scores are currently being created to make musical content available to the public, including scores of ancient music. For the correct analysis of music elements and their interpretation, the identification of staff lines is of key importance. In this paper, a scheme to post-process the output of a previous musical object identification system is described. This system allows the reconstruction by means of detection, tracking and interpolation of the staff lines of ancient scores from the digital Salzinnes Database. The scheme developed shows a remarkable performance on the specific task it was created for.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "Appl. Sci. 2020, 10, 2468",
+  "pdf_url": null,
+  "category": "eess.IV, cs.CV"
+}

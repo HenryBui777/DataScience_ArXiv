@@ -1,0 +1,16 @@
+{
+  "title": "Compute Optimal Inference and Provable Amortisation Gap in Sparse Autoencoders",
+  "authors": [
+    "Charles O'Neill",
+    "Alim Gumran",
+    "David Klindt"
+  ],
+  "summary": "A recent line of work has shown promise in using sparse autoencoders (SAEs) to uncover interpretable features in neural network representations. However, the simple linear-nonlinear encoding mechanism in SAEs limits their ability to perform accurate sparse inference. Using compressed sensing theory, we prove that an SAE encoder is inherently insufficient for accurate sparse inference, even in solvable cases. We then decouple encoding and decoding processes to empirically explore conditions where more sophisticated sparse inference methods outperform traditional SAE encoders. Our results reveal substantial performance gains with minimal compute increases in correct inference of sparse codes. We demonstrate this generalises to SAEs applied to large language models, where more expressive encoders achieve greater interpretability. This work opens new avenues for understanding neural network representations and analysing large language model activations.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-01-30"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

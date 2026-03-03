@@ -1,0 +1,14 @@
+{
+  "title": "$ν$-LPA: Fast GPU-based Label Propagation Algorithm (LPA) for Community Detection",
+  "authors": [
+    "Subhajit Sahu"
+  ],
+  "summary": "Community detection is the problem of identifying natural divisions in networks. Efficient parallel algorithms for identifying such divisions are critical in a number of applications. This report presents an optimized implementation of the Label Propagation Algorithm (LPA) for community detection, featuring an asynchronous LPA with a Pick-Less (PL) method every 4 iterations to handle community swaps, ideal for SIMT hardware like GPUs. It also introduces a novel per-vertex hashtable with hybrid quadratic-double probing for collision resolution. On an NVIDIA A100 GPU, our implementation, $ν$-LPA, outperforms FLPA (sequential), NetworKit LPA (multicore), Gunrock LPA (GPU), and cuGraph Louvain (GPU) by 364x, 62x, 2.6x, and 37x, respectively, while running FLPA and NetworKit LPA on a server with dual 16-core Intel Xeon Gold 6226R processors - processing 3.0B edges/s on a 2.2B edge graph - and achieves 4.7% higher modularity than FLPA, but 6.1% and 9.6% lower than NetworKit LPA and cuGraph Louvain.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-01-06"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DC, cs.SI"
+}

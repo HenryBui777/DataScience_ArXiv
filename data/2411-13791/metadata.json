@@ -1,0 +1,14 @@
+{
+  "title": "Zero-density estimates and the optimality of the error term in the prime number theorem",
+  "authors": [
+    "Daniel R. Johnston"
+  ],
+  "summary": "We demonstrate the impact of a generic zero-free region and zero-density estimate on the error term in the prime number theorem. Consequently, we are able to improve upon previous work of Pintz and provide an essentially optimal error term for some choices of the zero-free region. As an example, we show that if there are no zeros $ρ=β+it$ of $ζ(s)$ with\n  \\begin{equation*}\n  1-β<\\frac{1}{c(\\log t)^{2/3}(\\log\\log t)^{1/3}}=:η(t),\n  \\end{equation*}\n  then\n  \\begin{equation*}\n  \\frac{|ψ(x)-x|}{x}\\ll\\exp(-ω(x))\\frac{(\\log x)^9}{(\\log\\log x)^3},\n  \\end{equation*}\n  where $ψ(x)$ is the Chebyshev prime-counting function, and\n  \\begin{equation*}\n  ω(x)=\\min_{t\\geq 3}\\{η(t)\\log x+\\log t\\}.\n  \\end{equation*}\n  This refines the best known error term for the prime number theorem, previously given by\n  \\begin{equation*}\n  \\frac{|ψ(x)-x|}{x}\\ll_{\\varepsilon}\\exp(-(1-\\varepsilon)ω(x))\n  \\end{equation*}\n  for any $\\varepsilon>0$.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-10-21"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NT"
+}

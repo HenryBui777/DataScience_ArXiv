@@ -1,0 +1,15 @@
+{
+  "title": "KPG 193: A Synthetic Korean Power Grid Test System for Decarbonization Studies",
+  "authors": [
+    "Geonho Song",
+    "Jip Kim"
+  ],
+  "summary": "This paper introduces the 193 bus synthetic Korean power grid (KPG 193), developed using open data sources to address recent challenges of the Korean power system. The KPG 193 test system serves as a valuable platform for decarbonization research, capturing Korean low renewable energy penetration, concentrated urban energy demand, and isolated grid structure. Clustering techniques were applied to preserve key system characteristics while maintaining computational tractability and representativeness. The system includes 193 buses, 123 generators, 407 transmission lines, and incorporates temporal weather datasets. Its feasibility was validated through Unit Commitment (UC) and AC Optimal Power Flow (ACOPF) simulations using 2022 demand and renewable generation data. This test system aims to provide a foundational framework for modeling and analyzing the Korean power grid.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-02-04"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Machine Learning for Arbitrary Single-Qubit Rotations on an Embedded Device",
+  "authors": [
+    "Madhav Narayan Bhat",
+    "Marco Russo",
+    "Luca P. Carloni",
+    "Giuseppe Di Guglielmo",
+    "Farah Fahim",
+    "Andy C. Y. Li",
+    "Gabriel N. Perdue"
+  ],
+  "summary": "Here we present a technique for using machine learning (ML) for single-qubit gate synthesis on field programmable logic for a superconducting transmon-based quantum computer based on simulated studies. Our approach is multi-stage. We first bootstrap a model based on simulation with access to the full statevector for measuring gate fidelity. We next present an algorithm, named adapted randomized benchmarking (ARB), for fine-tuning the gate on hardware based on measurements of the devices. We also present techniques for deploying the model on programmable devices with care to reduce the required resources. While the techniques here are applied to a transmon-based computer, many of them are portable to other architectures.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, cs.ET"
+}

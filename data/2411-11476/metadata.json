@@ -1,0 +1,17 @@
+{
+  "title": "Statistical Mechanics of Heteropolymers from Lattice Gauge Theory",
+  "authors": [
+    "Veronica Panizza",
+    "Alessandro Roggero",
+    "Philipp Hauke",
+    "Pietro Faccioli"
+  ],
+  "summary": "Lattice models are valuable tools to gain insight into the statistical physics of heteropolymers. We rigorously map the partition function of these models into a vacuum expectation value of a $\\mathbb{Z}_2$ lattice gauge theory (LGT), with both fermionic and bosonic degrees of freedom. Because the associated path integral expression is not affected by a sign problem, it is amenable to Monte Carlo (MC) sampling in both the sequence and structure space, unlike conventional polymer field theory. At the same time, since the LGT encoding relies on qubits, it provides a framework for future efforts to capitalize on the development of quantum computing hardware. We discuss two illustrative applications of our formalism: first, we use it to characterize the thermodynamically stable sequences and structures of small heteropolymers consisting of two types of residues. Next, we assess its efficiency to sample ensembles of compact structures, finding that the MC decorrelation time scales only linearly with the chain length.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-03-18"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cond-mat.stat-mech, hep-lat"
+}

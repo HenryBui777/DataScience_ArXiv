@@ -1,0 +1,17 @@
+{
+  "title": "Omni-IML: Towards Unified Image Manipulation Localization",
+  "authors": [
+    "Chenfan Qu",
+    "Yiwu Zhong",
+    "Fengjun Guo",
+    "Lianwen Jin"
+  ],
+  "summary": "Existing Image Manipulation Localization (IML) methods mostly rely heavily on task-specific designs, making them perform well only on the target IML task, while joint training on multiple IML tasks causes significant performance degradation, hindering real applications.\n  To this end, we propose Omni-IML, the first generalist model designed to unify IML across diverse tasks.\n  Specifically, Omni-IML achieves generalization through three key components: (1) a Modal Gate Encoder, which adaptively selects the optimal encoding modality per sample, (2) a Dynamic Weight Decoder, which dynamically adjusts decoder filters to the task at hand, and (3) an Anomaly Enhancement module that leverages box supervision to highlight the tampered regions and facilitate the learning of task-agnostic features.\n  Beyond localization, to support interpretation of the tampered images, we construct Omni-273k, a large high-quality dataset that includes natural language descriptions of tampered artifact. It is annotated through our automatic, chain-of-thoughts annotation technique.\n  We also design a simple-yet-effective interpretation module to better utilize these descriptive annotations.\n  Our extensive experiments show that our single Omni-IML model achieves state-of-the-art performance across all four major IML tasks, providing a valuable solution for practical deployment and a promising direction of generalist models in image forensics. Our code and dataset will be publicly available.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-04-29"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.CR, cs.LG"
+}

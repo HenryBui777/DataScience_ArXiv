@@ -1,0 +1,17 @@
+{
+  "title": "Continuous nonlinear adaptive experimental design with gradient flow",
+  "authors": [
+    "Ruhui Jin",
+    "Qin Li",
+    "Stephen O. Mussmann",
+    "Stephen J. Wright"
+  ],
+  "summary": "In computational inverse problems, the optimal experimental design (OED) problem seeks the best locations in time and space at which to take measurements. We investigate the nonlinear OED problem in the context of continuously-indexed design space for the measurements. In contrast to traditional approaches that select experiments from a finite measurement set, a continuous design space is often a better reflection of practical experimental options, where there is considerable flexibility concerning where and when to take measurements. The continuously-indexed space introduces computational challenges, and we address them by employing gradient-flow and optimal transport techniques, complemented by an adaptive strategy for bi-level optimization. Numerical results on the Lorenz 63 system and Schrodinger equation demonstrate that our solver identifies good measurement times / locations and achieves improved reconstruction of unknown parameters in inverse problems.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-06-08"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

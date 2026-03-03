@@ -1,0 +1,15 @@
+{
+  "title": "Exploring applications of topological data analysis in stock index movement prediction",
+  "authors": [
+    "Dazhi Huang",
+    "Pengcheng Xu",
+    "Xiaocheng Huang",
+    "Jiayi Chen"
+  ],
+  "summary": "Topological Data Analysis (TDA) has recently gained significant attention in the field of financial prediction. However, the choice of point cloud construction methods, topological feature representations, and classification models has a substantial impact on prediction results. This paper addresses the classification problem of stock index movement. First, we construct point clouds for stock indices using three different methods. Next, we apply TDA to extract topological structures from the point clouds. Four distinct topological features are computed to represent the patterns in the data, and 15 combinations of these features are enumerated and input into six different machine learning models. We evaluate the predictive performance of various TDA configurations by conducting index movement classification tasks on datasets such as CSI, DAX, HSI and FTSE providing insights into the efficiency of different TDA setups.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, physics.data-an"
+}

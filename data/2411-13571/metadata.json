@@ -1,0 +1,15 @@
+{
+  "title": "A low-rank balanced truncation approach for large-scale RLCk model order reduction based on extended Krylov subspace and a frequency-aware convergence criterion",
+  "authors": [
+    "Christos Giamouzis",
+    "Dimitrios Garyfallou",
+    "Nestor Evmorfopoulos",
+    "George Stamoulis"
+  ],
+  "summary": "Model order reduction (MOR) is essential in integrated circuit design, particularly when dealing with large-scale electromagnetic models extracted from complex designs. The numerous passive elements introduced in these models pose significant challenges in the simulation process. MOR methods based on balanced truncation (BT) help address these challenges by producing compact reduced-order models (ROMs) that preserve the original model's input-output port behavior. In this work, we present an extended Krylov subspace-based BT approach with a frequency-aware convergence criterion and efficient implementation techniques for reducing large-scale models. Experimental results indicate that our method generates accurate and compact ROMs while achieving up to x22 smaller ROMs with similar accuracy compared to ANSYS RaptorX ROMs for large-scale benchmarks.",
+  "submission_date": "2024-11-12",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA, cs.AR, cs.CE"
+}

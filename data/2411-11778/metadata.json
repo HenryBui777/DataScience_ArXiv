@@ -1,0 +1,16 @@
+{
+  "title": "Design And Optimization Of Multi-rendezvous Manoeuvres Based On Reinforcement Learning And Convex Optimization",
+  "authors": [
+    "Antonio López Rivera",
+    "Lucrezia Marcovaldi",
+    "Jesús Ramírez",
+    "Alex Cuenca",
+    "David Bermejo"
+  ],
+  "summary": "Optimizing space vehicle routing is crucial for critical applications such as on-orbit servicing, constellation deployment, and space debris de-orbiting. Multi-target Rendezvous presents a significant challenge in this domain. This problem involves determining the optimal sequence in which to visit a set of targets, and the corresponding optimal trajectories: this results in a demanding NP-hard problem. We introduce a framework for the design and refinement of multi-rendezvous trajectories based on heuristic combinatorial optimization and Sequential Convex Programming. Our framework is both highly modular and capable of leveraging candidate solutions obtained with advanced approaches and handcrafted heuristics. We demonstrate this flexibility by integrating an Attention-based routing policy trained with Reinforcement Learning to improve the performance of the combinatorial optimization process. We show that Reinforcement Learning approaches for combinatorial optimization can be effectively applied to spacecraft routing problems. We apply the proposed framework to the UARX Space OSSIE mission: we are able to thoroughly explore the mission design space, finding optimal tours and trajectories for a wide variety of mission scenarios.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "Proceedings of the International Astronautical Congress, 75, 2024",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

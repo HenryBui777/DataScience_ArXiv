@@ -1,0 +1,19 @@
+{
+  "title": "Delta-Influence: Unlearning Poisons via Influence Functions",
+  "authors": [
+    "Wenjie Li",
+    "Jiawei Li",
+    "Pengcheng Zeng",
+    "Christian Schroeder de Witt",
+    "Ameya Prabhu",
+    "Amartya Sanyal"
+  ],
+  "summary": "Addressing data integrity challenges, such as unlearning the effects of data poisoning after model training, is necessary for the reliable deployment of machine learning models. State-of-the-art influence functions, such as EK-FAC and TRAK, often fail to accurately attribute abnormal model behavior to the specific poisoned training data responsible for the data poisoning attack. In addition, traditional unlearning algorithms often struggle to effectively remove the influence of poisoned samples, particularly when only a few affected examples can be identified. To address these challenge, we introduce $Δ$-Influence, a novel approach that leverages influence functions to trace abnormal model behavior back to the responsible poisoned training data using as little as just one poisoned test example. $Δ$-Influence applies data transformations that sever the link between poisoned training data and compromised test points without significantly affecting clean data. This allows $Δ$-Influence to detect large negative shifts in influence scores following data transformations, a phenomenon we term as influence collapse, thereby accurately identifying poisoned training data. Unlearning this subset, e.g. through retraining, effectively eliminates the data poisoning. We validate our method across three vision-based poisoning attacks and three datasets, benchmarking against five detection algorithms and five unlearning strategies. We show that $Δ$-Influence consistently achieves the best unlearning across all settings, showing the promise of influence functions for corrective unlearning. Our code is publicly available at: https://github.com/Ruby-a07/delta-influence",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-10-18"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.CR, cs.LG"
+}

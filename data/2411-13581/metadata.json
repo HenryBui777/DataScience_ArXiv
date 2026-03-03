@@ -1,0 +1,16 @@
+{
+  "title": "Browser Extension for Fake URL Detection",
+  "authors": [
+    "Latesh G. Malik",
+    "Rohini Shambharkar",
+    "Shivam Morey",
+    "Shubhlak Kanpate",
+    "Vedika Raut"
+  ],
+  "summary": "In recent years, Cyber attacks have increased in number, and with them, the intensity of the attacks and their potential to damage the user have also increased significantly. In an ever-advancing world, users find it difficult to keep up with the latest developments in technology, which can leave them vulnerable to attacks. To avoid such situations we need tools to deter such attacks, for this machine learning models are among the best options. This paper presents a Browser Extension that uses machine learning models to enhance online security by integrating three crucial functionalities: Malicious URL detection, Spam Email detection and Network logs analysis. The proposed solution uses LGBM classifier for classification of Phishing websites, the model has been trained on a dataset with 87 features, this model achieved an accuracy of 96.5% with a precision of 96.8% and F1 score of 96.49%. The Model for Spam email detection uses Multinomial NB algorithm which has been trained on a dataset with over 5500 messages, this model achieved an accuracy of 97.09% with a precision of 100%. The results demonstrate the effectiveness of using machine learning models for cyber security.",
+  "submission_date": "2024-11-16",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR, cs.CE, cs.CY, cs.LG"
+}

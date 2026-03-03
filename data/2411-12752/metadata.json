@@ -1,0 +1,16 @@
+{
+  "title": "A Library Perspective on Supervised Text Processing in Digital Libraries: An Investigation in the Biomedical Domain",
+  "authors": [
+    "Hermann Kroll",
+    "Pascal Sackhoff",
+    "Bill Matthias Thang",
+    "Maha Ksouri",
+    "Wolf-Tilo Balke"
+  ],
+  "summary": "Digital libraries that maintain extensive textual collections may want to further enrich their content for certain downstream applications, e.g., building knowledge graphs, semantic enrichment of documents, or implementing novel access paths. All of these applications require some text processing, either to identify relevant entities, extract semantic relationships between them, or to classify documents into some categories. However, implementing reliable, supervised workflows can become quite challenging for a digital library because suitable training data must be crafted, and reliable models must be trained. While many works focus on achieving the highest accuracy on some benchmarks, we tackle the problem from a digital library practitioner. In other words, we also consider trade-offs between accuracy and application costs, dive into training data generation through distant supervision and large language models such as ChatGPT, LLama, and Olmo, and discuss how to design final pipelines. Therefore, we focus on relation extraction and text classification, using the showcase of eight biomedical benchmarks.",
+  "submission_date": "2024-11-06",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DL, cs.CL"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "A $\\ell_2-\\ell_p$ regulariser based model for Poisson noise removal using augmented Lagrangian method",
+  "authors": [
+    "Abdul Halim",
+    "Abdur Rohim"
+  ],
+  "summary": "In this article, we propose a variational PDE model using $\\ell_2-\\ell_p$ regulariser for removing Poisson noise in presence of blur. The proposed minimization problem is solved using augmented Lagrangian method. The convergence of the sequence of minimizers have been carried out. Numerical simulations on some standard test images have been shown. The numerical results are compared with that of a few models existed in literature in terms of image quality metric such as SSIM, PSNR and SNR.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-04-11"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

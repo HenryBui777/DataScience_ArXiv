@@ -1,0 +1,15 @@
+{
+  "title": "Continuous and discrete-time accelerated methods for an inequality constrained convex optimization problem",
+  "authors": [
+    "Juan Liu",
+    "Nan-Jing Huang",
+    "Xian-Jun Long",
+    "Xue-song Li"
+  ],
+  "summary": "This paper is devoted to the study of acceleration methods for an inequality constrained convex optimization problem by using Lyapunov functions. We first approximate such a problem as an unconstrained optimization problem by employing the logarithmic barrier function. Using the Hamiltonian principle, we propose a continuous-time dynamical system associated with a Bregman Lagrangian for solving the unconstrained optimization problem. Under certain conditions, we demonstrate that this continuous-time dynamical system exponentially converges to the optimal solution of the inequality constrained convex optimization problem. Moreover, we derive several discrete-time algorithms from this continuous-time framework and obtain their optimal convergence rates. Finally, we present numerical experiments to validate the effectiveness of the proposed algorithms.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC"
+}

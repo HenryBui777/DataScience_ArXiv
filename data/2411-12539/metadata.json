@@ -1,0 +1,13 @@
+{
+  "title": "Predicting Customer Satisfaction by Replicating the Survey Response Distribution",
+  "authors": [
+    "Etienne Manderscheid",
+    "Matthias Lee"
+  ],
+  "summary": "For many call centers, customer satisfaction (CSAT) is a key performance indicator (KPI). However, only a fraction of customers take the CSAT survey after the call, leading to a biased and inaccurate average CSAT value, and missed opportunities for coaching, follow-up, and rectification. Therefore, call centers can benefit from a model predicting customer satisfaction on calls where the customer did not complete the survey. Given that CSAT is a closely monitored KPI, it is critical to minimize any bias in the average predicted CSAT (pCSAT). In this paper, we introduce a method such that predicted CSAT (pCSAT) scores accurately replicate the distribution of survey CSAT responses for every call center with sufficient data in a live production environment. The method can be applied to many multiclass classification problems to improve the class balance and minimize its changes upon model updates.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI, cs.CL"
+}

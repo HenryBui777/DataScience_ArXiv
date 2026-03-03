@@ -1,0 +1,661 @@
+{
+  "2505-03432": {
+    "title": "Wasserstein Convergence of Score-based Generative Models under Semiconvexity and Discontinuous Gradients",
+    "authors": [
+      "Stefano Bruno",
+      "S. Sabanis"
+    ],
+    "publication_date": "2025-05-06",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "270de06288fbe734d78bd4dedd4a5a1225e3fb53",
+    "corpus_id": 278339549,
+    "category": "Computer Science, Mathematics"
+  },
+  "2501-14993": {
+    "title": "Convergence Analysis of the Wasserstein Proximal Algorithm beyond Geodesic Convexity",
+    "authors": [
+      "Shuailong Zhu",
+      "Xiaohui Chen"
+    ],
+    "publication_date": "2025-01-25",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "0868b503d6506e044874955854f6df47b209b9d6",
+    "corpus_id": 275921235,
+    "category": "Mathematics"
+  },
+  "2406-00502": {
+    "title": "Non-geodesically-convex optimization in the Wasserstein space",
+    "authors": [
+      "Hoang Phuc Hau Luu",
+      "Hanlin Yu",
+      "Bernardo Williams",
+      "P. Mikkola",
+      "Marcelo Hartmann",
+      "Kai Puolamaki",
+      "Arto Klami"
+    ],
+    "publication_date": "2024-06-01",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "9347ab1956f37f82b12f902871fafc872cc5bb02",
+    "corpus_id": 270210387,
+    "category": "Computer Science, Mathematics"
+  },
+  "2404-18834": {
+    "title": "Interpolating between Optimal Transport and KL regularized Optimal Transport using R\\'enyi Divergences",
+    "authors": [
+      "Jonas Bresch",
+      "Viktor Stein"
+    ],
+    "publication_date": "2024-04-29",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "63c65c44a5bd5a7bddfad2687092458e0c206c3a",
+    "corpus_id": 269449047,
+    "category": "Computer Science, Mathematics"
+  },
+  "2402-15285": {
+    "title": "Generative Modelling with Tensor Train approximations of Hamilton-Jacobi-Bellman equations",
+    "authors": [
+      "David Sommer",
+      "Robert Gruhlke",
+      "Max Kirstein",
+      "M. Eigel",
+      "Claudia Schillings"
+    ],
+    "publication_date": "2024-02-23",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "250534572fe17ac58646c6233aee60cb88f69352",
+    "corpus_id": 266847125,
+    "category": "Mathematics, Computer Science"
+  },
+  "2401-13125": {
+    "title": "Tensor train based sampling algorithms for approximating regularized Wasserstein proximal operators",
+    "authors": [
+      "Fuqun Han",
+      "Stanley Osher",
+      "Wuchen Li"
+    ],
+    "publication_date": "2024-01-23",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "8630f6018b5258d6f3105aa763cb9d4a2c8507d7",
+    "corpus_id": 267199724,
+    "category": "Mathematics, Computer Science"
+  },
+  "2401-03892": {
+    "title": "Sampling in Unit Time with Kernel Fisher-Rao Flow",
+    "authors": [
+      "A. Maurais",
+      "Youssef M. Marzouk"
+    ],
+    "publication_date": "2024-01-08",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "a6a94bfda4cc6faf0a531bb9c4f649d41f1050ab",
+    "corpus_id": 266844721,
+    "category": "Computer Science, Mathematics"
+  },
+  "2312-00800": {
+    "title": "On the Global Convergence of Wasserstein Gradient Flow of the Coulomb Discrepancy",
+    "authors": [
+      "Siwan Boufadene",
+      "Franccois-Xavier Vialard"
+    ],
+    "publication_date": "2023-11-21",
+    "venue": "SIAM Journal on Mathematical Analysis",
+    "semantic_scholar_id": "29a0979bb55d398974264db306cf0284a8f0f6ac",
+    "corpus_id": 265609163,
+    "category": "Mathematics, Computer Science"
+  },
+  "2310-17582": {
+    "title": "Convergence of Flow-Based Generative Models via Proximal Gradient Descent in Wasserstein Space",
+    "authors": [
+      "Xiuyuan Cheng",
+      "Jianfeng Lu",
+      "Yixin Tan",
+      "Yao Xie"
+    ],
+    "publication_date": "2023-10-26",
+    "venue": "IEEE Transactions on Information Theory",
+    "semantic_scholar_id": "f6c905e05fe34bac233506a9c760e345a5ab67b5",
+    "corpus_id": 264491104,
+    "category": "Computer Science, Mathematics"
+  },
+  "2301-10301": {
+    "title": "A kernel formula for regularized Wasserstein proximal operators",
+    "authors": [
+      "Wuchen Li",
+      "Siting Liu",
+      "S. Osher"
+    ],
+    "publication_date": "2023-01-24",
+    "venue": "Research in the Mathematical Sciences",
+    "semantic_scholar_id": "58c338bfaea6993181b6193e0283f38bd0ae2c23",
+    "corpus_id": 256231291,
+    "category": "Computer Science, Mathematics"
+  },
+  "2212-11528": {
+    "title": "Less interaction with forward models in Langevin dynamics",
+    "authors": [
+      "M. Eigel",
+      "Robert Gruhlke",
+      "David Sommer"
+    ],
+    "publication_date": "2022-12-22",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "350d7d659a1627032c7f841bc1b18710458ad6da",
+    "corpus_id": 254973983,
+    "category": "Mathematics, Computer Science"
+  },
+  "2212-00759": {
+    "title": "High-dimensional density estimation with tensorizing flow",
+    "authors": [
+      "Yinuo Ren",
+      "Hongli Zhao",
+      "Y. Khoo",
+      "Lexing Ying"
+    ],
+    "publication_date": "2022-12-01",
+    "venue": "Research in the Mathematical Sciences",
+    "semantic_scholar_id": "4468066b8102baac901f0746a3a0b89db1813aaf",
+    "corpus_id": 254125523,
+    "category": "Computer Science, Mathematics, Physics"
+  },
+  "2208-14391": {
+    "title": "Convergence Rates for Regularized Optimal Transport via Quantization",
+    "authors": [
+      "S. Eckstein",
+      "Marcel Nutz"
+    ],
+    "publication_date": "2022-08-30",
+    "venue": "Mathematics of Operations Research",
+    "semantic_scholar_id": "a8ee7b33322b7be151b3073a8300df75b6487859",
+    "corpus_id": 251929061,
+    "category": "Mathematics, Computer Science"
+  },
+  "2208-03380": {
+    "title": "Black box approximation in the tensor train format initialized by ANOVA decomposition",
+    "authors": [
+      "A. Chertkov",
+      "G. Ryzhakov",
+      "I. Oseledets"
+    ],
+    "publication_date": "2022-08-05",
+    "venue": "SIAM Journal on Scientific Computing",
+    "semantic_scholar_id": "e5888226129f31908b1aca9284f3935baca27a50",
+    "corpus_id": 251402750,
+    "category": "Mathematics, Computer Science"
+  },
+  "2207-04327": {
+    "title": "Error Analysis of Tensor-Train Cross Approximation",
+    "authors": [
+      "Zhen Qin",
+      "Alexander Lidiak",
+      "Zhexuan Gong",
+      "Gongguo Tang",
+      "M. Wakin",
+      "Zhihui Zhu"
+    ],
+    "publication_date": "2022-07-09",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "37667faf1a28c20e65e6573bc2d7e4c5f702ac12",
+    "corpus_id": 250425886,
+    "category": "Computer Science, Mathematics"
+  },
+  "2201-11413": {
+    "title": "Exact Optimal Accelerated Complexity for Fixed-Point Iterations",
+    "authors": [
+      "Jisun Park",
+      "Ernest K. Ryu"
+    ],
+    "publication_date": "2022-01-27",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "708689cc3e5589ed28c4c0272e17ba62d43a1fe7",
+    "corpus_id": 246294831,
+    "category": "Computer Science, Mathematics"
+  },
+  "2108-00089": {
+    "title": "Tensor-Train Density Estimation",
+    "authors": [
+      "Georgii Sergeevich Novikov",
+      "Maxim Panov",
+      "I. Oseledets"
+    ],
+    "publication_date": "2021-07-30",
+    "venue": "Conference on Uncertainty in Artificial Intelligence",
+    "semantic_scholar_id": "5b617d6b888d50242ea849012b8fb3aac32ccf96",
+    "corpus_id": 236772615,
+    "category": "Computer Science, Mathematics"
+  },
+  "2106-01963": {
+    "title": "A Survey on Optimal Transport for Machine Learning: Theory and Applications",
+    "authors": [
+      "Luis Caicedo Torres",
+      "Luiz Manella Pereira",
+      "M. Amini"
+    ],
+    "publication_date": "2021-06-03",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "ee8d2bce77c65a37b0591c73972e1d52197f2a96",
+    "corpus_id": 235313526,
+    "category": "Computer Science"
+  },
+  "2104-11720": {
+    "title": "Entropic optimal transport: convergence of potentials",
+    "authors": [
+      "Marcel Nutz",
+      "J. Wiesel"
+    ],
+    "publication_date": "2021-04-23",
+    "venue": "Probability theory and related fields",
+    "semantic_scholar_id": "bf7912c6e87af22a195819b8a8faa578c97931b4",
+    "corpus_id": 233388152,
+    "category": "Mathematics"
+  },
+  "2102-11830": {
+    "title": "Solving high-dimensional parabolic PDEs using the tensor train format",
+    "authors": [
+      "Lorenz Richter",
+      "Leon Sallandt",
+      "N. Nüsken"
+    ],
+    "publication_date": "2021-02-23",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "ae2170c2c94e9ce58f4a2670ee95c1fb82d2ce9c",
+    "corpus_id": 232014053,
+    "category": "Computer Science, Mathematics"
+  },
+  "2102-08143": {
+    "title": "Solution of the Fokker–Planck Equation by Cross Approximation Method in the Tensor Train Format",
+    "authors": [
+      "A. Chertkov",
+      "I. Oseledets"
+    ],
+    "publication_date": "2021-02-16",
+    "venue": "Frontiers in Artificial Intelligence",
+    "semantic_scholar_id": "ed58d6e30d5c5a80ea49724951651365ed2d34f1",
+    "corpus_id": 231933824,
+    "category": "Computer Science, Medicine, Mathematics"
+  },
+  "2011-13456": {
+    "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+    "authors": [
+      "Yang Song",
+      "Jascha Narain Sohl-Dickstein",
+      "Diederik P. Kingma",
+      "Abhishek Kumar",
+      "Stefano Ermon",
+      "Ben Poole"
+    ],
+    "publication_date": "2020-11-26",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "633e2fbfc0b21e959a244100937c5853afca4853",
+    "corpus_id": 227209335,
+    "category": "Computer Science, Mathematics"
+  },
+  "2010-04465": {
+    "title": "Approximative Policy Iteration for Exit Time Feedback Control Problems Driven by Stochastic Differential Equations using Tensor Train Format",
+    "authors": [
+      "K. Fackeldey",
+      "M. Oster",
+      "Leon Sallandt",
+      "R. Schneider"
+    ],
+    "publication_date": "2020-10-09",
+    "venue": "Multiscale Modeling & simulation",
+    "semantic_scholar_id": "deed3908b84a049a49d2a8ff684ca5f0302d17b6",
+    "corpus_id": 222272106,
+    "category": "Computer Science, Mathematics"
+  },
+  "2007-06968": {
+    "title": "Deep Composition of Tensor-Trains Using Squared Inverse Rosenblatt Transports",
+    "authors": [
+      "T. Cui",
+      "S. Dolgov"
+    ],
+    "publication_date": "2020-07-14",
+    "venue": "Foundations of Computational Mathematics",
+    "semantic_scholar_id": "f205c385060b0fe5e84f6ea895efb801081bd5e1",
+    "corpus_id": 220514590,
+    "category": "Computer Science, Mathematics"
+  },
+  "2006-08172": {
+    "title": "Faster Wasserstein Distance Estimation with the Sinkhorn Divergence",
+    "authors": [
+      "Lénaïc Chizat",
+      "Pierre Roussillon",
+      "Flavien Léger",
+      "François-Xavier Vialard",
+      "Gabriel Peyré"
+    ],
+    "publication_date": "2020-06-13",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "a48e0222014ff62407038767861c6913d74d911d",
+    "corpus_id": 263798741,
+    "category": "Mathematics, Computer Science"
+  },
+  "2005-01620": {
+    "title": "Application of accelerated fixed-point algorithms to hydrodynamic well-fracture coupling",
+    "authors": [
+      "V. Aksenov",
+      "M. Chertov",
+      "K. Sinkov"
+    ],
+    "publication_date": "2020-05-01",
+    "venue": "Computers and geotechnics",
+    "semantic_scholar_id": "4f5ce94a6390302ae38904b5749ab5ec000a7a09",
+    "corpus_id": 218486935,
+    "category": "Computer Science, Mathematics"
+  },
+  "1912-02859": {
+    "title": "Affine invariant interacting Langevin dynamics for Bayesian inference",
+    "authors": [
+      "A. Garbuno-Iñigo",
+      "N. Nüsken",
+      "S. Reich"
+    ],
+    "publication_date": "2019-12-05",
+    "venue": "SIAM Journal on Applied Dynamical Systems",
+    "semantic_scholar_id": "e5ac8bfffd60c671e7509532e92fc130c1254931",
+    "corpus_id": 208857614,
+    "category": "Computer Science, Mathematics"
+  },
+  "1907-08305": {
+    "title": "A variational finite volume scheme for Wasserstein gradient flows",
+    "authors": [
+      "C. Cancès",
+      "T. Gallouët",
+      "Gabriele Todeschi"
+    ],
+    "publication_date": "2019-07-18",
+    "venue": "Numerische Mathematik",
+    "semantic_scholar_id": "ca93e561d835fd358a091ac4d4e93dbb9fc235d1",
+    "corpus_id": 197935170,
+    "category": "Computer Science, Mathematics"
+  },
+  "1907-07587": {
+    "title": "A Differentiable Programming System to Bridge Machine Learning and Scientific Computing",
+    "authors": [
+      "Mike Innes",
+      "A. Edelman",
+      "Keno Fischer",
+      "Chris Rackauckas",
+      "Elliot Saba",
+      "Viral B. Shah",
+      "Will Tebbutt"
+    ],
+    "publication_date": "2019-07-17",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "b208cff55a44f9daa82972f81690be29a2677e2d",
+    "corpus_id": 197431419,
+    "category": "Computer Science"
+  },
+  "1907-02152": {
+    "title": "Fisher information regularization schemes for Wasserstein gradient flows",
+    "authors": [
+      "Wuchen Li",
+      "Jianfeng Lu",
+      "Li Wang"
+    ],
+    "publication_date": "2019-07-03",
+    "venue": "Journal of Computational Physics",
+    "semantic_scholar_id": "d0be63df75efe4850f2e9da2e3037fca9fcdee65",
+    "corpus_id": 195798731,
+    "category": "Computer Science, Mathematics"
+  },
+  "1905-08507": {
+    "title": "Lagrangian Discretization of Crowd Motion and Linear Diffusion",
+    "authors": [
+      "H. Leclerc",
+      "Quentin M'erigot",
+      "F. Santambrogio",
+      "Federico Stra"
+    ],
+    "publication_date": "2019-05-21",
+    "venue": "SIAM Journal on Numerical Analysis",
+    "semantic_scholar_id": "5f6b396576acf0f9e9cfb5bd01f00b655bfb8bff",
+    "corpus_id": 160009526,
+    "category": "Mathematics, Computer Science"
+  },
+  "1903-11554": {
+    "title": "Parallel cross interpolation for high-precision calculation of high-dimensional integrals",
+    "authors": [
+      "S. Dolgov",
+      "D. Savostyanov"
+    ],
+    "publication_date": "2019-03-27",
+    "venue": "Computer Physics Communications",
+    "semantic_scholar_id": "c0ff870a0a62708b6c79d8894b55c53235c24413",
+    "corpus_id": 85531571,
+    "category": "Mathematics, Computer Science"
+  },
+  "1903-01112": {
+    "title": "Quadratically Regularized Optimal Transport",
+    "authors": [
+      "D. Lorenz",
+      "Paul Manns",
+      "C. Meyer"
+    ],
+    "publication_date": "2019-03-04",
+    "venue": "Applied Mathematics and Optimization",
+    "semantic_scholar_id": "48f5dcb48330421f8949aed80bed37d61a81c328",
+    "corpus_id": 85517311,
+    "category": "Mathematics"
+  },
+  "1901-08081": {
+    "title": "Primal Dual Methods for Wasserstein Gradient Flows",
+    "authors": [
+      "J. Carrillo",
+      "Katy Craig",
+      "Li Wang",
+      "Chaozhen Wei"
+    ],
+    "publication_date": "2019-01-23",
+    "venue": "Foundations of Computational Mathematics",
+    "semantic_scholar_id": "ea76fa54d1935e4ab1b4149ce16cde1d620cb39c",
+    "corpus_id": 119276649,
+    "category": "Computer Science, Mathematics"
+  },
+  "1810-08278": {
+    "title": "Interpolating between Optimal Transport and MMD using Sinkhorn Divergences",
+    "authors": [
+      "Jean Feydy",
+      "Thibault Séjourné",
+      "François-Xavier Vialard",
+      "S. Amari",
+      "A. Trouvé",
+      "G. Peyré"
+    ],
+    "publication_date": "2018-10-18",
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "semantic_scholar_id": "dafb021ba04731669e9473477688345ef4962e63",
+    "corpus_id": 84834062,
+    "category": "Mathematics, Computer Science"
+  },
+  "1806-02775": {
+    "title": "Stein Variational Gradient Descent Without Gradient",
+    "authors": [
+      "J. Han",
+      "Qiang Liu"
+    ],
+    "publication_date": "2018-06-07",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "f0878730b29b416ea4ef112804fcd2d33f8981c7",
+    "corpus_id": 46960373,
+    "category": "Mathematics, Computer Science"
+  },
+  "1802-04367": {
+    "title": "Computational Optimal Transport: Complexity by Accelerated Gradient Descent Is Better Than by Sinkhorn's Algorithm",
+    "authors": [
+      "P. Dvurechensky",
+      "A. Gasnikov",
+      "Alexey Kroshnin"
+    ],
+    "publication_date": "2018-02-12",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "2f9717c462f9a9f0e7598173f636291d6985c000",
+    "corpus_id": 3298427,
+    "category": "Computer Science, Mathematics"
+  },
+  "1707-03129": {
+    "title": "Kurdyka–Łojasiewicz–Simon inequality for gradient flows in metric spaces",
+    "authors": [
+      "Daniel Hauer",
+      "Jos'e Mazon University of Sydney",
+      "Australia Universitat de Valencia",
+      "Valencia",
+      "Spain"
+    ],
+    "publication_date": "2017-07-11",
+    "venue": "Transactions of the American Mathematical Society",
+    "semantic_scholar_id": "50bfbe7412304a98797f0e26496ce6002aebc429",
+    "corpus_id": 119143191,
+    "category": "Mathematics"
+  },
+  "1704-07520": {
+    "title": "Stein Variational Gradient Descent as Gradient Flow",
+    "authors": [
+      "Qiang Liu"
+    ],
+    "publication_date": "2017-04-01",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "72a88d39391df054b1a152b9844fffaf4ccaf067",
+    "corpus_id": 684810,
+    "category": "Mathematics, Computer Science"
+  },
+  "1608-04471": {
+    "title": "Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm",
+    "authors": [
+      "Qiang Liu",
+      "Dilin Wang"
+    ],
+    "publication_date": "2016-08-01",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "768f7353718c6d95f2d63f954f2236369a409135",
+    "corpus_id": 697492,
+    "category": "Mathematics, Computer Science"
+  },
+  "1605-08527": {
+    "title": "Stochastic Optimization for Large-scale Optimal Transport",
+    "authors": [
+      "Aude Genevay",
+      "Marco Cuturi",
+      "G. Peyré",
+      "F. Bach"
+    ],
+    "publication_date": "2016-05-27",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "6f840ce7c8373c11f89ea1693d0cab170627d31f",
+    "corpus_id": 6849824,
+    "category": "Computer Science, Mathematics"
+  },
+  "1512-07255": {
+    "title": "Nonconvex gradient flow in the Wasserstein metric and applications to constrained nonlocal interactions",
+    "authors": [
+      "Katy Craig"
+    ],
+    "publication_date": "2015-12-22",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "a1963dd871bcdd8404c8825aba6da04cd017c9be",
+    "corpus_id": 119323741,
+    "category": "Mathematics"
+  },
+  "1512-02783": {
+    "title": "Convergence of Entropic Schemes for Optimal Transport and Gradient Flows",
+    "authors": [
+      "G. Carlier",
+      "V. Duval",
+      "G. Peyré",
+      "Bernhard Schmitzer"
+    ],
+    "publication_date": "2015-12-09",
+    "venue": "SIAM Journal on Mathematical Analysis",
+    "semantic_scholar_id": "0ea842f015af02a06ae47a7db60804b400e9b7b4",
+    "corpus_id": 46156175,
+    "category": "Mathematics, Computer Science"
+  },
+  "1506-04255": {
+    "title": "Entropic and Displacement Interpolation: A Computational Approach Using the Hilbert Metric",
+    "authors": [
+      "Yongxin Chen",
+      "T. Georgiou",
+      "M. Pavon"
+    ],
+    "publication_date": "2015-06-13",
+    "venue": "SIAM Journal on Applied Mathematics",
+    "semantic_scholar_id": "d0774d954c87f5bc8778041c2f668fe3f79bd4fa",
+    "corpus_id": 18596180,
+    "category": "Computer Science, Mathematics"
+  },
+  "1412-4430": {
+    "title": "On the Relation Between Optimal Transport and Schrödinger Bridges: A Stochastic Control Viewpoint",
+    "authors": [
+      "Yongxin Chen",
+      "T. Georgiou",
+      "M. Pavon"
+    ],
+    "publication_date": "2014-12-14",
+    "venue": "Journal of Optimization Theory and Applications",
+    "semantic_scholar_id": "0b6c88002f9f2c9a4ce990d5fa054acf2f6ab969",
+    "corpus_id": 8968928,
+    "category": "Computer Science, Physics, Mathematics"
+  },
+  "1407-0893": {
+    "title": "Fast solvers for unsteady thermal fluid structure interaction",
+    "authors": [
+      "P. Birken",
+      "T. Gleim",
+      "D. Kuhl",
+      "A. Meister"
+    ],
+    "publication_date": "2014-07-03",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "c0cecfb25c3356c30b6ea94c58a12cb308106b5e",
+    "corpus_id": 119271061,
+    "category": "Mathematics"
+  },
+  "1306-0895": {
+    "title": "Sinkhorn Distances: Lightspeed Computation of Optimal Transport",
+    "authors": [
+      "Marco Cuturi"
+    ],
+    "publication_date": "2013-06-04",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "0080118b0eb02af581ff32b85a1bb6aed7081f45",
+    "corpus_id": 15966283,
+    "category": "Computer Science, Mathematics"
+  },
+  "1305-1818": {
+    "title": "Quasioptimality of maximum-volume cross interpolation of tensors",
+    "authors": [
+      "D. Savostyanov"
+    ],
+    "publication_date": "2013-05-08",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "b7cf4b3baf4013777a8c348396a81ad4f5d9661c",
+    "corpus_id": 45043854,
+    "category": "Mathematics"
+  },
+  "1206-5512": {
+    "title": "TT-GMRES: on solution to a linear system in the structured tensor format",
+    "authors": [
+      "S. Dolgov"
+    ],
+    "publication_date": "2012-06-24",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "eca88af5372d84384e7e73f61e1aeb709f7b504f",
+    "corpus_id": 119326474,
+    "category": "Mathematics"
+  },
+  "1202-3665": {
+    "title": "emcee: The MCMC Hammer",
+    "authors": [
+      "D. Foreman-Mackey",
+      "D. Hogg",
+      "D. Lang",
+      "J. Goodman"
+    ],
+    "publication_date": "2012-02-16",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "d4b60fb779eeecc9a91c309320a08bd45eeeda7e",
+    "corpus_id": 88518555,
+    "category": "Physics, Mathematics, Computer Science"
+  }
+}

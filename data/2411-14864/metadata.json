@@ -1,0 +1,14 @@
+{
+  "title": "Bayesian optimal change point detection in high-dimensions",
+  "authors": [
+    "Jaehoon Kim",
+    "Kyoungjae Lee",
+    "Lizhen Lin"
+  ],
+  "summary": "We propose the first Bayesian methods for detecting change points in high-dimensional mean and covariance structures. These methods are constructed using pairwise Bayes factors, leveraging modularization to identify significant changes in individual components efficiently. We establish that the proposed methods consistently detect and estimate change points under much milder conditions than existing approaches in the literature. Additionally, we demonstrate that their localization rates are nearly optimal in terms of rates. The practical performance of the proposed methods is evaluated through extensive simulation studies, where they are compared to state-of-the-art techniques. The results show comparable or superior performance across most scenarios. Notably, the methods effectively detect change points whenever signals of sufficient magnitude are present, irrespective of the number of signals. Finally, we apply the proposed methods to genetic and financial datasets, illustrating their practical utility in real-world applications.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME"
+}

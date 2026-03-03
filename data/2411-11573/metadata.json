@@ -1,0 +1,16 @@
+{
+  "title": "Observability inequality, log-type Hausdorff content and heat equations",
+  "authors": [
+    "Shanlin Huang",
+    "Gengsheng Wang",
+    "Ming Wang"
+  ],
+  "summary": "This paper studies observability inequalities for heat equations on both bounded domains and the whole space $\\mathbb{R}^d$. The observation sets are measured by log-type Hausdorff contents, which are induced by certain log-type gauge functions closely related to the heat kernel. On a bounded domain, we derive the observability inequality for observation sets of positive log-type Hausdorff content. Notably, the aforementioned inequality holds not only for all sets with Hausdorff dimension $s$ for any $s\\in (d-1,d]$, but also for certain sets of Hausdorff dimension $d-1$. On the whole space $\\mathbb{R}^d$, we establish the observability inequality for observation sets that are thick at the scale of the log-type Hausdorff content. Furthermore, we prove that for the 1-dimensional heat equation on an interval, the Hausdorff content we have chosen is an optimal scale for the observability inequality.\n  To obtain these observability inequalities, we use the adapted Lebeau-Robiano strategy from \\cite{Duyckaerts2012resolvent}. For this purpose, we prove the following results at scale of the log-type Hausdorff content, the former being derived from the latter: We establish a spectral inequality/a Logvinenko-Sereda uncertainty principle; we set up a quantitative propagation of smallness of analytic functions; we build up a Remez' inequality; and more fundamentally, we provide an upper bound for the log-type Hausdorff content of a set where a monic polynomial is small, based on an estimate in Lubinsky \\cite{Lubinsky1997small}, which is ultimately traced back to the classical Cartan Lemma. In addition, we set up a capacity-based slicing lemma (related to the log-type gauge functions) and establish a quantitative relationship between Hausdorff contents and capacities. These tools are crucial in the studies of the aforementioned propagation of smallness in high-dimensional situations.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-30"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AP"
+}

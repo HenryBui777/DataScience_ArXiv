@@ -1,0 +1,575 @@
+{
+  "2407-04211": {
+    "title": "TimeLDM: Latent Diffusion Model for Unconditional Time Series Generation",
+    "authors": [
+      "Jian Qian",
+      "Miao Sun",
+      "Sifan Zhou",
+      "Biao Wan",
+      "Minhao Li",
+      "P. Chiang"
+    ],
+    "publication_date": "2024-07-05",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "c127c4b179c7e5d61f7a4347e0003557a02536f1",
+    "corpus_id": 271038876,
+    "category": "Computer Science"
+  },
+  "2406-16028": {
+    "title": "TimeAutoDiff: Combining Autoencoder and Diffusion model for time series tabular data synthesizing",
+    "authors": [
+      "Namjoon Suh",
+      "Yuning Yang",
+      "Din-Yin Hsieh",
+      "Qitong Luan",
+      "Shi Xu",
+      "Shixiang Zhu",
+      "Guang Cheng"
+    ],
+    "publication_date": "2024-06-23",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "78a04be6d94e77047c3251e4480cd08d1194dbd1",
+    "corpus_id": 270703220,
+    "category": "Computer Science"
+  },
+  "2406-13942": {
+    "title": "Synthesizing Multimodal Electronic Health Records via Predictive Diffusion Models",
+    "authors": [
+      "Yuan Zhong",
+      "Xiaochen Wang",
+      "Jiaqi Wang",
+      "Xiaokun Zhang",
+      "Yaqing Wang",
+      "Mengdi Huai",
+      "Cao Xiao",
+      "Fenglong Ma"
+    ],
+    "publication_date": "2024-06-20",
+    "venue": "Knowledge Discovery and Data Mining",
+    "semantic_scholar_id": "75f4245313c0ba1f310959b9dcfa6100bc9bd2ae",
+    "corpus_id": 270619988,
+    "category": "Computer Science, Medicine"
+  },
+  "2403-07815": {
+    "title": "Chronos: Learning the Language of Time Series",
+    "authors": [
+      "Abdul Fatir Ansari",
+      "Lorenzo Stella",
+      "Caner Turkmen",
+      "Xiyuan Zhang",
+      "Pedro Mercado",
+      "Huibin Shen",
+      "Oleksandr Shchur",
+      "Syama Sundar Rangapuram",
+      "Sebastian Pineda Arango",
+      "Shubham Kapoor",
+      "Jasper Zschiegner",
+      "Danielle C. Maddix",
+      "Michael W. Mahoney",
+      "Kari Torkkola",
+      "Andrew Gordon Wilson",
+      "Michael Bohlke-Schneider",
+      "Yuyang Wang"
+    ],
+    "publication_date": "2024-03-12",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "02fa77e4f355198cb4270f6d4a07517bf09c46dd",
+    "corpus_id": 268363551,
+    "category": "Computer Science"
+  },
+  "2403-01742": {
+    "title": "Diffusion-TS: Interpretable Diffusion for General Time Series Generation",
+    "authors": [
+      "Xinyu Yuan",
+      "Yan Qiao"
+    ],
+    "publication_date": "2024-03-04",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "fc690dd28d9a08614e7170fe4979e094710116bc",
+    "corpus_id": 268248137,
+    "category": "Computer Science"
+  },
+  "2402-06318": {
+    "title": "TimEHR: Image-based Time Series Generation for Electronic Health Records",
+    "authors": [
+      "Hojjat Karami",
+      "Mary-Anne Hartley",
+      "David Atienza",
+      "Anisoara Ionescu"
+    ],
+    "publication_date": "2024-02-09",
+    "venue": "IEEE journal of biomedical and health informatics",
+    "semantic_scholar_id": "e2a11d2607ff90fde43663a1359a4cb78d0fe903",
+    "corpus_id": 267616978,
+    "category": "Medicine, Computer Science"
+  },
+  "2402-04400": {
+    "title": "CEHR-GPT: Generating Electronic Health Records with Chronological Patient Timelines",
+    "authors": [
+      "Chao Pang",
+      "Xinzhuo Jiang",
+      "N. Pavinkurve",
+      "Krishna S. Kalluri",
+      "Elise Minto",
+      "Jason Patterson",
+      "Linying Zhang",
+      "G. Hripcsak",
+      "Noémie Elhadad",
+      "Karthik Natarajan"
+    ],
+    "publication_date": "2024-02-06",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "465aa8a632016054ddf12568fc5465fd85730082",
+    "corpus_id": 267523270,
+    "category": "Computer Science"
+  },
+  "2402-02592": {
+    "title": "Unified Training of Universal Time Series Forecasting Transformers",
+    "authors": [
+      "Gerald Woo",
+      "Chenghao Liu",
+      "Akshat Kumar",
+      "Caiming Xiong",
+      "Silvio Savarese",
+      "Doyen Sahoo"
+    ],
+    "publication_date": "2024-02-04",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "4a111f7a3b56d0468f13104999844885157ef17d",
+    "corpus_id": 267411817,
+    "category": "Computer Science"
+  },
+  "2402-02368": {
+    "title": "Timer: Generative Pre-trained Transformers Are Large Time Series Models",
+    "authors": [
+      "Yong Liu",
+      "Haoran Zhang",
+      "Chenyu Li",
+      "Xiangdong Huang",
+      "Jianmin Wang",
+      "Mingsheng Long"
+    ],
+    "publication_date": "2024-02-04",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "73f58b90697f957832f5090946894480849dea3a",
+    "corpus_id": 267412273,
+    "category": "Computer Science, Mathematics"
+  },
+  "2311-16079": {
+    "title": "MEDITRON-70B: Scaling Medical Pretraining for Large Language Models",
+    "authors": [
+      "Zeming Chen",
+      "Alejandro Hern'andez Cano",
+      "Angelika Romanou",
+      "Antoine Bonnet",
+      "Kyle Matoba",
+      "Francesco Salvi",
+      "Matteo Pagliardini",
+      "Simin Fan",
+      "Andreas Kopf",
+      "Amirkeivan Mohtashami",
+      "Alexandre Sallinen",
+      "Alireza Sakhaeirad",
+      "Vinitra Swamy",
+      "Igor Krawczuk",
+      "Deniz Bayazit",
+      "Axel Marmet",
+      "Syrielle Montariol",
+      "Mary-Anne Hartley",
+      "Martin Jaggi",
+      "Antoine Bosselut"
+    ],
+    "publication_date": "2023-11-27",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "ff5f0c5b6905a8c4b361a625b450e9ab417fa854",
+    "corpus_id": 265456229,
+    "category": "Computer Science"
+  },
+  "2311-03303": {
+    "title": "TS-Diffusion: Generating Highly Complex Time Series with Diffusion Models",
+    "authors": [
+      "Yangming Li"
+    ],
+    "publication_date": "2023-11-06",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "8e7aea9a10bb0f722936e506a658a30f677ba179",
+    "corpus_id": 265043144,
+    "category": "Computer Science"
+  },
+  "2305-09617": {
+    "title": "Towards Expert-Level Medical Question Answering with Large Language Models",
+    "authors": [
+      "K. Singhal",
+      "Tao Tu",
+      "Juraj Gottweis",
+      "R. Sayres",
+      "Ellery Wulczyn",
+      "Le Hou",
+      "Kevin Clark",
+      "S. Pfohl",
+      "H. Cole-Lewis",
+      "Darlene Neal",
+      "Mike Schaekermann",
+      "Amy Wang",
+      "Mohamed Amin",
+      "S. Lachgar",
+      "P. A. Mansfield",
+      "Sushant Prakash",
+      "Bradley Green",
+      "Ewa Dominowska",
+      "B. A. Y. Arcas",
+      "Nenad Tomašev",
+      "Yun Liu",
+      "Renee C Wong",
+      "Christopher Semturs",
+      "S. S. Mahdavi",
+      "J. Barral",
+      "D. Webster",
+      "G. Corrado",
+      "Yossi Matias",
+      "Shekoofeh Azizi",
+      "A. Karthikesalingam",
+      "Vivek Natarajan"
+    ],
+    "publication_date": "2023-05-16",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "ea72fb2a0d340f9d14fbcf300cd5f5fbbe1050bb",
+    "corpus_id": 258715226,
+    "category": "Computer Science"
+  },
+  "2303-05656": {
+    "title": "EHRDiff: Exploring Realistic EHR Synthesis with Diffusion Models",
+    "authors": [
+      "Hongyi Yuan",
+      "Songchi Zhou",
+      "Sheng Yu"
+    ],
+    "publication_date": "2023-03-10",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "4e05bad5ed0b8ef54ae3813f27ac5c87cf1ddd8a",
+    "corpus_id": 257482773,
+    "category": "Computer Science"
+  },
+  "2302-14679": {
+    "title": "Synthesizing Mixed-type Electronic Health Records using Diffusion Models",
+    "authors": [
+      "T. Ceritli",
+      "Ghadeer O. Ghosheh",
+      "V. Chauhan",
+      "T. Zhu",
+      "Andrew P. Creagh",
+      "D. Clifton"
+    ],
+    "publication_date": "2023-02-28",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "a0c2c9f8ae3501ead56896a6688b9e3014ec1744",
+    "corpus_id": 257232433,
+    "category": "Computer Science"
+  },
+  "2302-04355": {
+    "title": "MedDiff: Generating Electronic Health Records using Accelerated Denoising Diffusion Model",
+    "authors": [
+      "Huan He",
+      "Shifan Zhao",
+      "Yuanzhe Xi",
+      "Joyce Ho"
+    ],
+    "publication_date": "2023-02-08",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "46c551d6a3893b2189e23b6aa9056d5750d17260",
+    "corpus_id": 256697585,
+    "category": "Computer Science"
+  },
+  "2212-13138": {
+    "title": "Large language models encode clinical knowledge",
+    "authors": [
+      "K. Singhal",
+      "Shekoofeh Azizi",
+      "T. Tu",
+      "S. Mahdavi",
+      "Jason Wei",
+      "Hyung Won Chung",
+      "Nathan Scales",
+      "A. Tanwani",
+      "H. Cole-Lewis",
+      "S. Pfohl",
+      "P. Payne",
+      "Martin G. Seneviratne",
+      "P. Gamble",
+      "C. Kelly",
+      "Nathaneal Scharli",
+      "A. Chowdhery",
+      "P. A. Mansfield",
+      "B. A. Y. Arcas",
+      "D. Webster",
+      "Greg S. Corrado",
+      "Yossi Matias",
+      "K. Chou",
+      "Juraj Gottweis",
+      "Nenad Tomašev",
+      "Yun Liu",
+      "A. Rajkomar",
+      "J. Barral",
+      "Christopher Semturs",
+      "A. Karthikesalingam",
+      "Vivek Natarajan"
+    ],
+    "publication_date": "2022-12-26",
+    "venue": "Nature",
+    "semantic_scholar_id": "6052486bc9144dc1730c12bf35323af3792a1fd0",
+    "corpus_id": 255124952,
+    "category": "Computer Science, Medicine"
+  },
+  "2210-06280": {
+    "title": "Language Models are Realistic Tabular Data Generators",
+    "authors": [
+      "V. Borisov",
+      "Kathrin Seßler",
+      "Tobias Leemann",
+      "Martin Pawelczyk",
+      "Gjergji Kasneci"
+    ],
+    "publication_date": "2022-10-12",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "394bd431e522b86581086bcb5cd9be161cf1cdf4",
+    "corpus_id": 252846328,
+    "category": "Computer Science"
+  },
+  "2211-01761": {
+    "title": "PromptEHR: Conditional Electronic Healthcare Records Generation with Prompt Learning",
+    "authors": [
+      "Zifeng Wang",
+      "Jimeng Sun"
+    ],
+    "publication_date": "2022-10-11",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "3c4f79018c5c68bb470d0f8ddc78e1a8cbf61209",
+    "corpus_id": 253265120,
+    "category": "Medicine, Computer Science"
+  },
+  "2206-06565": {
+    "title": "LIFT: Language-Interfaced Fine-Tuning for Non-Language Machine Learning Tasks",
+    "authors": [
+      "Tuan Dinh",
+      "Yuchen Zeng",
+      "Ruisu Zhang",
+      "Ziqian Lin",
+      "Shashank Rajput",
+      "Michael Gira",
+      "Jy-yong Sohn",
+      "Dimitris Papailiopoulos",
+      "Kangwook Lee"
+    ],
+    "publication_date": "2022-06-14",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "b92628d13e8d090d042232fe6ae0b8998634b893",
+    "corpus_id": 249642722,
+    "category": "Computer Science"
+  },
+  "2204-04797": {
+    "title": "Multi-Label Clinical Time-Series Generation via Conditional GAN",
+    "authors": [
+      "C. Lu",
+      "Chandan K. Reddy",
+      "Ping Wang",
+      "Dong Nie",
+      "Yue Ning"
+    ],
+    "publication_date": "2022-04-10",
+    "venue": "IEEE Transactions on Knowledge and Data Engineering",
+    "semantic_scholar_id": "2a42bf0ae8448d99828bd4c8bc1f8a2cccc259aa",
+    "corpus_id": 248085597,
+    "category": "Computer Science"
+  },
+  "2112-12047": {
+    "title": "Generating synthetic mixed-type longitudinal electronic health records for artificial intelligent applications",
+    "authors": [
+      "Jin Li",
+      "B. Cairns",
+      "Jingsong Li",
+      "T. Zhu"
+    ],
+    "publication_date": "2021-12-22",
+    "venue": "npj Digit. Medicine",
+    "semantic_scholar_id": "358cb124b7532ba16d4d7c95ba3a51a625b5e82b",
+    "corpus_id": 245385659,
+    "category": "Medicine, Computer Science"
+  },
+  "2111-08386": {
+    "title": "Towards Generating Real-World Time Series Data",
+    "authors": [
+      "Hengzhi Pei",
+      "Kan Ren",
+      "Yuqing Yang",
+      "Chang Liu",
+      "Tao Qin",
+      "Dongsheng Li"
+    ],
+    "publication_date": "2021-11-16",
+    "venue": "Industrial Conference on Data Mining",
+    "semantic_scholar_id": "a63b4c2dea6f17030b6ea80c05ece277c46bc6e0",
+    "corpus_id": 244130320,
+    "category": "Computer Science"
+  },
+  "2012-10020": {
+    "title": "EVA: Generating Longitudinal Electronic Health Records Using Conditional Variational Autoencoders",
+    "authors": [
+      "Siddharth Biswal",
+      "S. Ghosh",
+      "J. Duke",
+      "B. Malin",
+      "W. Stewart",
+      "Jimeng Sun"
+    ],
+    "publication_date": "2020-12-18",
+    "venue": "Machine Learning in Health Care",
+    "semantic_scholar_id": "d4f5f382e7dae9f919e290f124bd58189888092f",
+    "corpus_id": 229331795,
+    "category": "Computer Science"
+  },
+  "2003-08119": {
+    "title": "The future of digital health with federated learning",
+    "authors": [
+      "Nicola Rieke",
+      "Jonny Hancox",
+      "Wenqi Li",
+      "F. Milletarì",
+      "H. Roth",
+      "Shadi Albarqouni",
+      "S. Bakas",
+      "M. Galtier",
+      "B. Landman",
+      "K. Maier-Hein",
+      "S. Ourselin",
+      "Micah J. Sheller",
+      "Ronald M. Summers",
+      "Andrew Trask",
+      "Daguang Xu",
+      "Maximilian Baust",
+      "M. Cardoso"
+    ],
+    "publication_date": "2020-03-18",
+    "venue": "npj Digital Medicine",
+    "semantic_scholar_id": "b245c5d36702eaae0ff374fad92848024bc99534",
+    "corpus_id": 212747909,
+    "category": "Computer Science, Medicine"
+  },
+  "2002-09797": {
+    "title": "Reliable Fidelity and Diversity Metrics for Generative Models",
+    "authors": [
+      "Muhammad Ferjad Naeem",
+      "Seong Joon Oh",
+      "Youngjung Uh",
+      "Yunjey Choi",
+      "Jaejun Yoo"
+    ],
+    "publication_date": "2020-02-23",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "c76750c3fe9011cc62e8c73df07c126711f51d1c",
+    "corpus_id": 211259260,
+    "category": "Computer Science, Mathematics"
+  },
+  "2001-09346": {
+    "title": "CorGAN: Correlation-Capturing Convolutional Generative Adversarial Networks for Generating Synthetic Healthcare Records",
+    "authors": [
+      "A. Torfi",
+      "E. Fox"
+    ],
+    "publication_date": "2020-01-25",
+    "venue": "The Florida AI Research Society",
+    "semantic_scholar_id": "78ca71147b455188cd635a53ec80ddfac397af3c",
+    "corpus_id": 216492636,
+    "category": "Computer Science, Mathematics"
+  },
+  "1907-09538": {
+    "title": "BEHRT: Transformer for Electronic Health Records",
+    "authors": [
+      "Yikuan Li",
+      "Shishir Rao",
+      "J. R. A. Solares",
+      "A. Hassaine",
+      "R. Ramakrishnan",
+      "D. Canoy",
+      "Yajie Zhu",
+      "K. Rahimi",
+      "G. Salimi-Khorshidi"
+    ],
+    "publication_date": "2019-07-22",
+    "venue": "Scientific Reports",
+    "semantic_scholar_id": "57633ff5c6f0708be25e651f51eef29d2fbfe48b",
+    "corpus_id": 198179603,
+    "category": "Computer Science, Mathematics, Medicine"
+  },
+  "1904-05342": {
+    "title": "ClinicalBERT: Modeling Clinical Notes and Predicting Hospital Readmission",
+    "authors": [
+      "Kexin Huang",
+      "Jaan Altosaar",
+      "R. Ranganath"
+    ],
+    "publication_date": "2019-04-10",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "b3c2c9f53ab130f3eb76eaaab3afa481c5a405eb",
+    "corpus_id": 119308351,
+    "category": "Computer Science"
+  },
+  "1806-00388": {
+    "title": "A Review of Challenges and Opportunities in Machine Learning for Health.",
+    "authors": [
+      "M. Ghassemi",
+      "Tristan Naumann",
+      "Peter F. Schulam",
+      "A. Beam",
+      "I. Chen",
+      "R. Ranganath"
+    ],
+    "publication_date": "2018-06-01",
+    "venue": "AMIA Joint Summits on Translational Science proceedings. AMIA Joint Summits on Translational Science",
+    "semantic_scholar_id": "5ba3f64789fb54bee10a891bc21222964d83c687",
+    "corpus_id": 208857467,
+    "category": "Medicine, Computer Science, Mathematics, Psychology"
+  },
+  "1706-02633": {
+    "title": "Real-valued (Medical) Time Series Generation with Recurrent Conditional GANs",
+    "authors": [
+      "Cristóbal Esteban",
+      "Stephanie L. Hyland",
+      "G. Rätsch"
+    ],
+    "publication_date": "2017-06-08",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "d01f5f3d1971e7906d58dcc8baf9efb406c47fd2",
+    "corpus_id": 29681354,
+    "category": "Mathematics, Computer Science"
+  },
+  "1703-07771": {
+    "title": "Multitask learning and benchmarking with clinical time series data",
+    "authors": [
+      "Hrayr Harutyunyan",
+      "Hrant Khachatrian",
+      "David C. Kale",
+      "A. Galstyan"
+    ],
+    "publication_date": "2017-03-22",
+    "venue": "Scientific Data",
+    "semantic_scholar_id": "9ae9d2b060e50094be7e473e449f192403019225",
+    "corpus_id": 14502739,
+    "category": "Medicine, Mathematics, Computer Science, Biology"
+  },
+  "1703-06490": {
+    "title": "Generating Multi-label Discrete Patient Records using Generative Adversarial Networks",
+    "authors": [
+      "E. Choi",
+      "Siddharth Biswal",
+      "B. Malin",
+      "J. Duke",
+      "W. Stewart",
+      "Jimeng Sun"
+    ],
+    "publication_date": "2017-03-19",
+    "venue": "Machine Learning in Health Care",
+    "semantic_scholar_id": "5320c90d52541d5581f0a8c4b75d9b2da81299ce",
+    "corpus_id": 7739761,
+    "category": "Mathematics, Computer Science"
+  }
+}

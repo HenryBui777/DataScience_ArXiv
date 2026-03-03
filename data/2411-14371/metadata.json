@@ -1,0 +1,13 @@
+{
+  "title": "Synthesising Robust Controllers for Robot Collectives with Recurrent Tasks: A Case Study",
+  "authors": [
+    "Till Schnittka",
+    "Mario Gleirscher"
+  ],
+  "summary": "When designing correct-by-construction controllers for autonomous collectives, three key challenges are the task specification, the modelling, and its use at practical scale. In this paper, we focus on a simple yet useful abstraction for high-level controller synthesis for robot collectives with optimisation goals (e.g., maximum cleanliness, minimum energy consumption) and recurrence (e.g., re-establish contamination and charge thresholds) and safety (e.g., avoid full discharge, mutually exclusive room occupation) constraints. Due to technical limitations (related to scalability and using constraints in the synthesis), we simplify our graph-based setting from a stochastic two-player game into a single-player game on a partially observable Markov decision process (POMDP). Robustness against environmental uncertainty is encoded via partial observability. Linear-time correctness properties are verified separately after synthesising the POMDP strategy. We contribute at-scale guidance on POMDP modelling and controller synthesis for tasked robot collectives exemplified by the scenario of battery-driven robots responsible for cleaning public buildings with utilisation constraints.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "EPTCS 411, 2024, pp. 109-125",
+  "pdf_url": null,
+  "category": "cs.MA, cs.AI, cs.RO"
+}

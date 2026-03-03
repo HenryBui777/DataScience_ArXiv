@@ -1,0 +1,21 @@
+{
+  "title": "ClickTrack: Towards Real-time Interactive Single Object Tracking",
+  "authors": [
+    "Kuiran Wang",
+    "Xuehui Yu",
+    "Wenwen Yu",
+    "Guorong Li",
+    "Xiangyuan Lan",
+    "Qixiang Ye",
+    "Jianbin Jiao",
+    "Zhenjun Han"
+  ],
+  "summary": "Single object tracking(SOT) relies on precise object bounding box initialization. In this paper, we reconsidered the deficiencies in the current approaches to initializing single object trackers and propose a new paradigm for single object tracking algorithms, ClickTrack, a new paradigm using clicking interaction for real-time scenarios. Moreover, click as an input type inherently lack hierarchical information. To address ambiguity in certain special scenarios, we designed the Guided Click Refiner(GCR), which accepts point and optional textual information as inputs, transforming the point into the bounding box expected by the operator. The bounding box will be used as input of single object trackers. Experiments on LaSOT and GOT-10k benchmarks show that tracker combined with GCR achieves stable performance in real-time interactive scenarios. Furthermore, we explored the integration of GCR into the Segment Anything model(SAM), significantly reducing ambiguity issues when SAM receives point inputs.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-24"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

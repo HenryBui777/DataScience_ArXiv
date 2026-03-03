@@ -1,0 +1,25 @@
+{
+  "title": "Variational learning of integrated quantum photonic circuits",
+  "authors": [
+    "Hui Zhang",
+    "Chengran Yang",
+    "Wai-Keong Mok",
+    "Lingxiao Wan",
+    "Hong Cai",
+    "Qiang Li",
+    "Feng Gao",
+    "Xianshu Luo",
+    "Guo-Qiang Lo",
+    "Lip Ket Chin",
+    "Yuzhi Shi",
+    "Jayne Thompson",
+    "Mile Gu",
+    "Ai Qun Liu"
+  ],
+  "summary": "Integrated photonic circuits play a crucial role in implementing quantum information processing in the noisy intermediate-scale quantum (NISQ) era. Variational learning is a promising avenue that leverages classical optimization techniques to enhance quantum advantages on NISQ devices. However, most variational algorithms are circuit-model-based and encounter challenges when implemented on integrated photonic circuits, because they involve explicit decomposition of large quantum circuits into sequences of basic entangled gates, leading to an exponential decay of success probability due to the non-deterministic nature of photonic entangling gates. Here, we present a variational learning approach for designing quantum photonic circuits, which directly incorporates post-selection and elementary photonic elements into the training process. The complicated circuit is treated as a single nonlinear logical operator, and a unified design is discovered for it through variational learning. Engineering an integrated photonic chip with automated control, we adjust and optimize the internal parameters of the chip in real time for task-specific cost functions. We utilize a simple case of designing photonic circuits for a single ancilla CNOT gate with improved success rate to illustrate how our proposed approach works, and then apply the approach in the first demonstration of quantum stochastic simulation using integrated photonics.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, physics.comp-ph"
+}

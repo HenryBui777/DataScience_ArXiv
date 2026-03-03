@@ -1,0 +1,17 @@
+{
+  "title": "Progressive Generalization Risk Reduction for Data-Efficient Causal Effect Estimation",
+  "authors": [
+    "Hechuan Wen",
+    "Tong Chen",
+    "Guanhua Ye",
+    "Li Kheng Chai",
+    "Shazia Sadiq",
+    "Hongzhi Yin"
+  ],
+  "summary": "Causal effect estimation (CEE) provides a crucial tool for predicting the unobserved counterfactual outcome for an entity. As CEE relaxes the requirement for ``perfect'' counterfactual samples (e.g., patients with identical attributes and only differ in treatments received) that are impractical to obtain and can instead operate on observational data, it is usually used in high-stake domains like medical treatment effect prediction. Nevertheless, in those high-stake domains, gathering a decently sized, fully labelled observational dataset remains challenging due to hurdles associated with costs, ethics, expertise and time needed, etc., of which medical treatment surveys are a typical example. Consequently, if the training dataset is small in scale, low generalization risks can hardly be achieved on any CEE algorithms.\n  Unlike existing CEE methods that assume the constant availability of a dataset with abundant samples, in this paper, we study a more realistic CEE setting where the labelled data samples are scarce at the beginning, while more can be gradually acquired over the course of training -- assuredly under a limited budget considering their expensive nature. Then, the problem naturally comes down to actively selecting the best possible samples to be labelled, e.g., identifying the next subset of patients to conduct the treatment survey. However, acquiring quality data for reducing the CEE risk under limited labelling budgets remains under-explored until now. To fill the gap, we theoretically analyse the generalization risk from an intriguing perspective of progressively shrinking its upper bound, and develop a principled label acquisition pipeline exclusively for CEE tasks. With our analysis, we propose the Model Agnostic Causal Active Learning (MACAL) algorithm for batch-wise label acquisition, which aims to reduce both the CEE model's uncertainty and the post-acquisition ...",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, stat.ML"
+}

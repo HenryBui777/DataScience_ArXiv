@@ -1,0 +1,16 @@
+{
+  "title": "Map-based E/B separation of filtered timestreams using space-based E-mode observations",
+  "authors": [
+    "Yuyang Zhou",
+    "Adrian Lee",
+    "Yuji Chinone"
+  ],
+  "summary": "E to B mixing or \"leakage\" due to time-ordered data (TOD) filtering has become an important source of sensitivity loss that ground-based cosmic microwave background polarization experiments must address. However, it is a difficult problem for which very few viable solutions exist. In this paper, we expand upon satellite E-mode methods to cover E/B leakage specifically due to TOD filtering. We take a satellite E-mode map and TOD filter it through the ground-based experiment data analysis pipeline, from which we construct a map-space \"leakage template\" and subtract it from the ground-based experiment map. We evaluate the residual leakage by simulating the satellite E-mode maps with Planck-like and LiteBIRD-like noise levels, and simulate the ground-based experiment with Simons Observatory-like and CMB-S4-like noise levels. The effectiveness of the method is measured in the improvement of the Fisher uncertainty $σ(r=0)$. We find that our method can reduce $σ(r=0)$ by $\\sim15\\text{--}75\\%$ depending on the noise levels considered.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-02-18"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.CO"
+}

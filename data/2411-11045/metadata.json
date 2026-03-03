@@ -1,0 +1,16 @@
+{
+  "title": "StableV2V: Stablizing Shape Consistency in Video-to-Video Editing",
+  "authors": [
+    "Chang Liu",
+    "Rui Li",
+    "Kaidong Zhang",
+    "Yunwei Lan",
+    "Dong Liu"
+  ],
+  "summary": "Recent advancements of generative AI have significantly promoted content creation and editing, where prevailing studies further extend this exciting progress to video editing. In doing so, these studies mainly transfer the inherent motion patterns from the source videos to the edited ones, where results with inferior consistency to user prompts are often observed, due to the lack of particular alignments between the delivered motions and edited contents. To address this limitation, we present a shape-consistent video editing method, namely StableV2V, in this paper. Our method decomposes the entire editing pipeline into several sequential procedures, where it edits the first video frame, then establishes an alignment between the delivered motions and user prompts, and eventually propagates the edited contents to all other frames based on such alignment. Furthermore, we curate a testing benchmark, namely DAVIS-Edit, for a comprehensive evaluation of video editing, considering various types of prompts and difficulties. Experimental results and analyses illustrate the outperforming performance, visual consistency, and inference efficiency of our method compared to existing state-of-the-art studies.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

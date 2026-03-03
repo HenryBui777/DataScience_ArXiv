@@ -1,0 +1,14 @@
+{
+  "title": "Generalized Multivariate Polynomial Codes for Distributed Matrix-Matrix Multiplication",
+  "authors": [
+    "Jesús Gómez-Vilardebó",
+    "Burak Hasırcıoğlu",
+    "Deniz Gündüz"
+  ],
+  "summary": "Supporting multiple partial computations efficiently at each of the workers is a keystone in distributed coded computing in order to speed up computations and to fully exploit the resources of heterogeneous workers in terms of communication, storage, or computation capabilities. Multivariate polynomial coding schemes have recently been shown to deliver faster results for distributed matrix-matrix multiplication compared to conventional univariate polynomial coding schemes by supporting multiple partial coded computations at each worker at reduced communication costs. In this work, we extend multivariate coding schemes to also support arbitrary matrix partitions. Generalized matrix partitions have been proved useful to trade-off between computation speed and communication costs in distributed (univariate) coded computing. We first formulate the computation latency-communication trade-off in terms of the computation complexity and communication overheads required by coded computing approaches as compared to a single server uncoded computing system. Then, we propose two novel multivariate coded computing schemes supporting arbitrary matrix partitions. The proposed schemes are shown to improve the studied trade-off as compared to univariate schemes.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IT"
+}

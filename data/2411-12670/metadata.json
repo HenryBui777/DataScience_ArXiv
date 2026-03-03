@@ -1,0 +1,16 @@
+{
+  "title": "Reconstructing Graph Signals from Noisy Dynamical Samples",
+  "authors": [
+    "Akram Aldroubi",
+    "Victor Bailey",
+    "Ilya Krishtal",
+    "Brendan Miller",
+    "Armenak Petrosyan"
+  ],
+  "summary": "We investigate the dynamical sampling space-time trade-off problem within a graph setting. Specifically, we derive necessary and sufficient conditions for space-time sampling that enable the reconstruction of an initial band-limited signal on a graph. Additionally, we develop and test numerical algorithms for approximating the optimal placement of sensors on the graph to minimize the mean squared error when recovering signals from time-space measurements corrupted by i.i.d.~additive noise. Our numerical experiments demonstrate that our approach outperforms previously proposed algorithms for related problems.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IT"
+}

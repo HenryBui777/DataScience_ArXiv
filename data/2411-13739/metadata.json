@@ -1,0 +1,16 @@
+{
+  "title": "Conditional t-independent spectral gap for random quantum circuits and implications for t-design depths",
+  "authors": [
+    "James Allen",
+    "Daniel Belkin",
+    "Bryan K. Clark"
+  ],
+  "summary": "A fundamental question is understanding the rate at which random quantum circuits converge to the Haar measure. One quantity which is important in establishing this rate is the spectral gap of a random quantum ensemble. In this work we establish a new bound on the spectral gap of the t-th moment of a one-dimensional brickwork architecture on N qudits. This bound is independent of both t and N, provided t does not exceed the qudit dimension q. We also show that the bound is nearly optimal. The improved spectral gaps gives large improvements to the constant factors in known results on the approximate t-design depths of the 1D brickwork, of generic circuit architectures, and of specially-constructed architectures which scramble in depth O(log N). We moreover show that the spectral gap gives the dominant epsilon-dependence of the t-design depth at small epsilon. Our spectral gap bound is obtained by bounding the N-site 1D brickwork architecture by the spectra of 3-site operators. We then exploit a block-triangular hierarchy and a global symmetry in these operators in order to efficiently bound them. The technical methods used are a qualitatively different approach for bounding spectral gaps and and have little in common with previous techniques.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-02-03"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, physics.comp-ph"
+}

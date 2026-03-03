@@ -1,0 +1,16 @@
+{
+  "title": "Towards a Middleware for Large Language Models",
+  "authors": [
+    "Narcisa Guran",
+    "Florian Knauf",
+    "Man Ngo",
+    "Stefan Petrescu",
+    "Jan S. Rellermeyer"
+  ],
+  "summary": "Large language models have gained widespread popularity for their ability to process natural language inputs and generate insights derived from their training data, nearing the qualities of true artificial intelligence. This advancement has prompted enterprises worldwide to integrate LLMs into their services. So far, this effort is dominated by commercial cloud-based solutions like OpenAI's ChatGPT and Microsoft Azure. As the technology matures, however, there is a strong incentive for independence from major cloud providers through self-hosting \"LLM as a Service\", driven by privacy, cost, and customization needs. In practice, hosting LLMs independently presents significant challenges due to their complexity and integration issues with existing systems. In this paper, we discuss our vision for a forward-looking middleware system architecture that facilitates the deployment and adoption of LLMs in enterprises, even for advanced use cases in which we foresee LLMs to serve as gateways to a complete application ecosystem and, to some degree, absorb functionality traditionally attributed to the middleware.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SE, cs.CL"
+}

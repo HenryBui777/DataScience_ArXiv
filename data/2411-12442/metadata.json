@@ -1,0 +1,15 @@
+{
+  "title": "Online RMLSA in EONs with $A^3G$: Adaptive ACO with Augmentation of Graph",
+  "authors": [
+    "M Jyothi Kiran",
+    "Venkatesh Chebolu",
+    "Goutam Das",
+    "Raja Datta"
+  ],
+  "summary": "Routing and Spectrum Assignment (RSA) represents a significant challenge within Elastic Optical Networks (EONs), particularly in dynamic traffic scenarios where the network undergoes continuous changes. Integrating multiple modulation formats transforms it into Routing Modulation Level and Spectrum Assignment (RMLSA) problem, thereby making it more challenging. Traditionally, addressing the RSA problem involved identifying a fixed number of paths and subsequently allocating spectrum among them. Numerous heuristic and metaheuristic approaches have been proposed for RSA using this two-step methodology. However, solving for routing and assignment of spectrum independently is not recommended due to their interdependencies and their impact on resource utilization, fragmentation and bandwidth blocking probability. In this paper, we propose a novel approach to solve the RMLSA problem jointly in dynamic traffic scenarios, inspired by Ant Colony Optimization (ACO). This approach involves augmenting the network into an Auxiliary Graph and transforming conventional ACO into a constraint-based ACO variant that adapts to the constraints of EONs. This adaptation also includes an adaptive initiation process and an aggressive termination strategy aimed at achieving faster convergence. Moreover, we have introduced a novel objective/fitness function, to minimize average network fragmentation while ensuring optimal spectrum resource utilization, thereby reducing overall blocking probability.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.NI"
+}

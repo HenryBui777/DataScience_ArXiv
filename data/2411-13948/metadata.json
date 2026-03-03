@@ -1,0 +1,19 @@
+{
+  "title": "Quantum key distribution with imperfectly isolated devices",
+  "authors": [
+    "Xoel Sixto",
+    "Álvaro Navarrete",
+    "Margarida Pereira",
+    "Guillermo Currás-Lorenzo",
+    "Kiyoshi Tamaki",
+    "Marcos Curty"
+  ],
+  "summary": "Most security proofs of quantum key distribution (QKD) assume that there is no unwanted information leakage about the state preparation process. However, this assumption is impossible to guarantee in practice, as QKD systems can leak information to the channel due to device imperfections or the active action of an eavesdropper. Here, we solve this pressing issue by introducing a security proof in the presence of information leakage from all state preparation settings for arguably the most popular QKD scheme, namely the decoy-state BB84 protocol. The proof requires minimal experimental characterization, as only a single parameter related to the isolation of the source needs to be determined, thus providing a clear path for bridging the gap between theory and practice. Moreover, if information about the state of the side channels is available, this can be readily incorporated into the analysis to further improve the resulting performance.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-02-03"
+  ],
+  "publication_venue": "Quantum Sci. Technol. 10, 035034 (2025)",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

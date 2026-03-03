@@ -1,0 +1,15 @@
+{
+  "title": "Data driven learning to enhance a kinetic model of distressed crowd dynamics",
+  "authors": [
+    "Daewa Kim",
+    "Demetrio Labate",
+    "Kamrun Mily",
+    "Annalisa Quaini"
+  ],
+  "summary": "The mathematical modeling of crowds is complicated by the fact that crowds possess the behavioral ability to develop and adapt moving strategies in response to the context. For example, in emergency situations, people tend to alter their walking strategy in response to fear. To be able to simulate these situations, we consider a kinetic model of crowd dynamics that features the level of stress as a parameter and propose to estimate this key parameter by solving an inverse crowd dynamics problem. This paper states the mathematical problem and presents a method for its numerical solution. We show some preliminary results based on a synthetic data set, i.e., test cases where the exact stress level is known and the crowd density data are generated numerically by solving a forward crowd dynamics problem.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

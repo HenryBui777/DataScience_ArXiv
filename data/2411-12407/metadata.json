@@ -1,0 +1,15 @@
+{
+  "title": "Bayesian multilevel compositional data analysis with the R package multilevelcoda",
+  "authors": [
+    "Flora Le",
+    "Dorothea Dumuid",
+    "Tyman E. Stanford",
+    "Joshua F. Wiley"
+  ],
+  "summary": "Multilevel compositional data, such as data sampled over time that are non-negative and sum to a constant value, are common in various fields. However, there is currently no software specifically built to model compositional data in a multilevel framework. The R package multilevelcoda implements a collection of tools for modelling compositional data in a Bayesian multivariate, multilevel pipeline. The user-friendly setup only requires the data, model formula, and minimal specification of the analysis. This paper outlines the statistical theory underlying the Bayesian compositional multilevel modelling approach and details the implementation of the functions available in multilevelcoda, using an example dataset of compositional daily sleep-wake behaviours. This innovative method can be used to gain robust answers to scientific questions using the increasingly available multilevel compositional data from intensive, longitudinal studies.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME, stat.CO"
+}

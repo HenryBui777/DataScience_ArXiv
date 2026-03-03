@@ -1,0 +1,15 @@
+{
+  "title": "Simulating squirmers with smoothed particle dynamics",
+  "authors": [
+    "Xinwei Cai",
+    "Kuiliang Wang",
+    "Gaojin Li",
+    "Xin Bian"
+  ],
+  "summary": "Microswimmers play an important role in shaping the world around us. The squirmer is a simple model for microswimmer whose cilia oscillations on its spherical surface induce an effective slip velocity to propel itself. The rapid development of computational fluid dynamics methods has markedly enhanced our capacity to study the behavior of squirmers in aqueous environments. Nevertheless, a unified methodology that can fully address the complexity of fluid-solid coupling at multiple scales and interface tracking for multiphase flows remains elusive, posing an outstanding challenge to the field. To this end, we investigate the potential of the smoothed particle dynamics (SPD) method as an alternative approach for simulating squirmers. The Lagrangian nature of the method allows it to effectively address the aforementioned difficulty. By introducing a novel treatment of the boundary condition and assigning appropriate slip velocities to the boundary particles, the SPD-squirmer model is able to accurately represent a range of microswimmer types including pushers, neutral swimmers, and pullers. We systematically validate the steady-state velocity of the squirmer, the resulting flow field, its hydrodynamic interactions with the surrounding environment, and the mutual collision of two squirmers. In the presence of Brownian motion, the model is also able to correctly calculate the velocity and angular velocity autocorrelation functions at the mesoscale. Finally, we simulate a squirmer within a multiphase flow by considering a droplet that encloses a squirmer and imposing a surface tension between the two flow phases. We find that the squirmer within the droplet exhibits different motion types.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.flu-dyn, cond-mat.soft"
+}

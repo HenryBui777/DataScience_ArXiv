@@ -1,0 +1,13 @@
+{
+  "title": "Leveraging Hierarchical Prototypes as the Verbalizer for Implicit Discourse Relation Recognition",
+  "authors": [
+    "Wanqiu Long",
+    "Bonnie Webber"
+  ],
+  "summary": "Implicit discourse relation recognition involves determining relationships that hold between spans of text that are not linked by an explicit discourse connective. In recent years, the pre-train, prompt, and predict paradigm has emerged as a promising approach for tackling this task. However, previous work solely relied on manual verbalizers for implicit discourse relation recognition, which suffer from issues of ambiguity and even incorrectness. To overcome these limitations, we leverage the prototypes that capture certain class-level semantic features and the hierarchical label structure for different classes as the verbalizer. We show that our method improves on competitive baselines. Besides, our proposed approach can be extended to enable zero-shot cross-lingual learning, facilitating the recognition of discourse relations in languages with scarce resources. These advancement validate the practicality and versatility of our approach in addressing the issues of implicit discourse relation recognition across different languages.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL"
+}

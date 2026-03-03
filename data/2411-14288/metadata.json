@@ -1,0 +1,15 @@
+{
+  "title": "On the Sample Complexity of One Hidden Layer Networks with Equivariance, Locality and Weight Sharing",
+  "authors": [
+    "Arash Behboodi",
+    "Gabriele Cesa"
+  ],
+  "summary": "Weight sharing, equivariance, and local filters, as in convolutional neural networks, are believed to contribute to the sample efficiency of neural networks. However, it is not clear how each one of these design choices contributes to the generalization error. Through the lens of statistical learning theory, we aim to provide insight into this question by characterizing the relative impact of each choice on the sample complexity. We obtain lower and upper sample complexity bounds for a class of single hidden layer networks. For a large class of activation functions, the bounds depend merely on the norm of filters and are dimension-independent. We also provide bounds for max-pooling and an extension to multi-layer networks, both with mild dimension dependence. We provide a few takeaways from the theoretical results. It can be shown that depending on the weight-sharing mechanism, the non-equivariant weight-sharing can yield a similar generalization bound as the equivariant one. We show that locality has generalization benefits, however the uncertainty principle implies a trade-off between locality and expressivity. We conduct extensive experiments and highlight some consistent trends for these models.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-01-23"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, math.ST, stat.ML"
+}

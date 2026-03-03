@@ -1,0 +1,18 @@
+{
+  "title": "Injection Bias Reduction Techniques in Quantitative Angiography Using Patient-Specific Phantoms of Intracranial Aneurysm",
+  "authors": [
+    "Parmita Mondal",
+    "Kyle A Williams",
+    "Parisa Naghdi",
+    "Ahmad Rahmatpour",
+    "Mohammad Mahdi Shiraz Bhurwani",
+    "Swetadri Vasan Setlur Nagesh",
+    "Ciprian N Ionita"
+  ],
+  "summary": "In intracranial aneurysm (IA) treatment, digital subtraction angiography (DSA) monitors device-induced hemodynamic changes. Quantitative angiography (QA) provides more precise assessments but is limited by hand-injection variability. This study evaluates correction methods using in vitro phantoms that mimic diverse aneurysm morphologies and locations, addressing the 2D and temporal limitations of DSA. We used a patient-specific phantom to replicate three distinct IA morphologies at various Circle of Willis points: the middle cerebral artery (MCA), anterior communicating artery (ACA), and the internal carotid artery (ICA), each varying in size and shape. The diameters of the IA at MCA, ACA and ICA are 10.1, 10 and 7 millimeters, respectively. QA parameters for both non-stenosed and stenosed conditions were measured with 5ml and 10ml boluses over various injection durations to generate time density curves (TDCs). To address the variability in injection, several singular value decomposition (SVD) variants, standard SVD (sSVD) with Tikhonov regularization, block-circulant SVD (bSVD), and oscillation index SVD (oSVD) were applied. These methods enabled the extraction of IA impulse response function (IRF), peak height (PHIRF), area under the curve (AUCIRF), and mean transit time (MTT). We evaluated the robustness of bias-reducing methods by observing the invariance of these parameters with respect to the injection conditions, and the location and size of the aneurysm. The application of SVD variants, sSVD, bSVD, and oSVD, significantly reduced QA parameter variability due to injection techniques.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.med-ph"
+}

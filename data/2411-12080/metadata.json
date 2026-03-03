@@ -1,0 +1,14 @@
+{
+  "title": "Controlled Occupied Processes and Viscosity Solutions",
+  "authors": [
+    "H. Mete Soner",
+    "Valentin Tissot-Daguette",
+    "Jianfeng Zhang"
+  ],
+  "summary": "We consider the optimal control of occupied processes which record all positions of the state process. Dynamic programming yields nonlinear equations on the space of positive measures. We develop the viscosity theory for this infinite dimensional parabolic $occupied$ PDE by proving a comparison result between sub and supersolutions, and thus provide a characterization of the value function as the unique viscosity solution. Toward this proof, an extension of the celebrated Crandall-Ishii-Lions (second order) Lemma to this setting, as well as finite-dimensional approximations, is established. Examples including the occupied heat equation, and pricing PDEs of financial derivatives contingent on the occupation measure are also discussed.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC, math.AP"
+}

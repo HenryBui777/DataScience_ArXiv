@@ -1,0 +1,15 @@
+{
+  "title": "Reinforcing Competitive Multi-Agents for Playing 'So Long Sucker'",
+  "authors": [
+    "Medant Sharan",
+    "Chandranath Adak"
+  ],
+  "summary": "This paper investigates the strategy game So Long Sucker (SLS) as a novel benchmark for multi-agent reinforcement learning (MARL). Unlike traditional board or video game testbeds, SLS is distinguished by its coalition formation, strategic deception, and dynamic elimination rules, making it a uniquely challenging environment for autonomous agents. We introduce the first publicly available computational framework for SLS, complete with a graphical user interface and benchmarking support for reinforcement learning algorithms. Using classical deep reinforcement learning methods (e.g., DQN, DDQN, and Dueling DQN), we train self-playing agents to learn the rules and basic strategies of SLS. Experimental results demonstrate that, although these agents achieve roughly half of the maximum attainable reward and consistently outperform random baselines, they require long training horizons (~2000 games) and still commit occasional illegal moves, highlighting both the promise and limitations of classical reinforcement learning. Our findings establish SLS as a negotiation-aware benchmark for MARL, opening avenues for future research that integrates game-theoretic reasoning, coalition-aware strategies, and advanced reinforcement learning architectures to better capture the social and adversarial dynamics of complex multi-agent games.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [
+    "2025-10-14"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AI"
+}

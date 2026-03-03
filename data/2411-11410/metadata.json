@@ -1,0 +1,19 @@
+{
+  "title": "Detecting Multi-Parameter Constraint Inconsistencies in Python Data Science Libraries",
+  "authors": [
+    "Xiufeng Xu",
+    "Fuman Xie",
+    "Chenguang Zhu",
+    "Guangdong Bai",
+    "Sarfraz Khurshid",
+    "Yi Li"
+  ],
+  "summary": "Modern AI- and Data-intensive software systems rely heavily on data science and machine learning libraries that provide essential algorithmic implementations and computational frameworks. These libraries expose complex APIs whose correct usage has to follow constraints among multiple interdependent parameters. Developers using these APIs are expected to learn about the constraints through the provided documentations and any discrepancy may lead to unexpected behaviors. However, maintaining correct and consistent multi-parameter constraints in API documentations remains a significant challenge for API compatibility and reliability. To address this challenge, we propose MPDetector, for detecting inconsistencies between code and documentation, specifically focusing on multi-parameter constraints. MPDetector identifies these constraints at the code level by exploring execution paths through symbolic execution and further extracts corresponding constraints from documentation using large language models (LLMs). We propose a customized fuzzy constraint logic to reconcile the unpredictability of LLM outputs and detects logical inconsistencies between the code and documentation constraints. We collected and constructed two datasets from four popular data science libraries and evaluated MPDetector on them. The results demonstrate that MPDetector can effectively detect inconsistency issues with the precision of 92.8%. We further reported 14 detected inconsistency issues to the library developers, who have confirmed 11 issues at the time of writing.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-19"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SE"
+}

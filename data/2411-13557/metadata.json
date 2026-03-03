@@ -1,0 +1,21 @@
+{
+  "title": "Fast Hyperspectral Reconstruction for Neutron Computed Tomography Using Subspace Extraction",
+  "authors": [
+    "Mohammad Samin Nur Chowdhury",
+    "Diyu Yang",
+    "Shimin Tang",
+    "Singanallur V. Venkatakrishnan",
+    "Andrew W. Needham",
+    "Hassina Z. Bilheux",
+    "Gregery T. Buzzard",
+    "Charles A. Bouman"
+  ],
+  "summary": "Hyperspectral neutron computed tomography enables 3D non-destructive imaging of the spectral characteristics of materials. In traditional hyperspectral reconstruction, the data for each neutron wavelength bin is reconstructed separately. This per-bin reconstruction is extremely time-consuming due to the typically large number of wavelength bins. Furthermore, these reconstructions may suffer from severe artifacts due to the low signal-to-noise ratio in each wavelength bin.\n  We present a novel fast hyperspectral reconstruction algorithm for computationally efficient and accurate reconstruction of hyperspectral neutron data. Our algorithm uses a subspace extraction procedure that transforms hyperspectral data into low-dimensional data within an intermediate subspace. This step effectively reduces data dimensionality and spectral noise. High-quality reconstructions are then performed within this low-dimensional subspace. Finally, the algorithm expands the subspace reconstructions into hyperspectral reconstructions. We apply our algorithm to measured neutron data and demonstrate that it reduces computation and improves reconstruction quality compared to the conventional approach.",
+  "submission_date": "2024-11-05",
+  "revised_dates": [
+    "2025-01-23"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, eess.SP"
+}

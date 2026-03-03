@@ -1,0 +1,15 @@
+{
+  "title": "Moving Horizon Estimation for Simultaneous Localization and Mapping with Robust Estimation Error Bounds",
+  "authors": [
+    "Jelena Trisovic",
+    "Alexandre Didier",
+    "Simon Muntwiler",
+    "Melanie N. Zeilinger"
+  ],
+  "summary": "This paper presents a robust moving horizon estimation (MHE) approach with provable estimation error bounds for solving the simultaneous localization and mapping (SLAM) problem. We derive sufficient conditions to guarantee robust stability in ego-state estimates and bounded errors in landmark position estimates, even under limited landmark visibility which directly affects overall system detectability. This is achieved by decoupling the MHE updates for the ego-state and landmark positions, enabling individual landmark updates only when the required detectability conditions are met. The decoupled MHE structure also allows for parallelization of landmark updates, improving computational efficiency. We discuss the key assumptions, including ego-state detectability and Lipschitz continuity of the landmark measurement model, with respect to typical SLAM sensor configurations, and introduce a streamlined method for the range measurement model. Simulation results validate the considered method, highlighting its efficacy and robustness to noise.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY, cs.RO"
+}

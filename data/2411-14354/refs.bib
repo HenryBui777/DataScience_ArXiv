@@ -1,0 +1,486 @@
+@article{Ahlswede2023,
+  author = {Ahlswede, S. and Schulz, C. and Gava, C. and Helber, P. and Bischke, B. and F\"orster, M. and Arias, F. and Hees, J. and Demir, B. and Kleinschmit, B.},
+  title = {{TreeSatAI},
+  journal = {Earth System Science Data},
+  volume = {15},
+  year = {2023},
+  number = {2},
+  pages = {681--695},
+  doi = {10.5194/essd-15-681-2023},
+}
+
+@article{Ouaknine2023,
+  title = {{OpenForest},
+  author = {Ouaknine, Arthur and Kattenborn, Teja and Lalibert{\'e},
+  journal = {arXiv preprint arXiv:2311.00277},
+  year = {2023},
+}
+
+@article{Bountos2024,
+  title = {{FoMo-Bench},
+  author = {Nikolaos Ioannis Bountos and Arthur Ouaknine and David Rolnick},
+  journal = {arXiv preprint arXiv:2312.10114},
+  year = {2023},
+}
+
+@article{Weinstein2021,
+  doi = {10.1371/journal.pcbi.1009180},
+  author = {Weinstein, Ben G. AND Graves, Sarah J. AND Marconi, Sergio AND Singh, Aditya AND Zare, Alina AND Stewart, Dylan AND Bohlman, Stephanie A. AND White, Ethan P.},
+  journal = {PLOS Computational Biology},
+  publisher = {Public Library of Science},
+  title = {A benchmark dataset for canopy crown detection and delineation in co-registered airborne {RGB},
+  year = {2021},
+  month = {07},
+  volume = {17},
+  pages = {1-18},
+  abstract = {Broad scale remote sensing promises to build forest inventories at unprecedented scales. A crucial step in this process is to associate sensor data into individual crowns. While dozens of crown detection algorithms have been proposed, their performance is typically not compared based on standard data or evaluation metrics. There is a need for a benchmark dataset to minimize differences in reported results as well as support evaluation of algorithms across a broad range of forest types. Combining RGB, LiDAR and hyperspectral sensor data from the USA National Ecological Observatory Network’s Airborne Observation Platform with multiple types of evaluation data, we created a benchmark dataset to assess crown detection and delineation methods for canopy trees covering dominant forest types in the United States. This benchmark dataset includes an R package to standardize evaluation metrics and simplify comparisons between methods. The benchmark dataset contains over 6,000 image-annotated crowns, 400 field-annotated crowns, and 3,000 canopy stem points from a wide range of forest types. In addition, we include over 10,000 training crowns for optional use. We discuss the different evaluation data sources and assess the accuracy of the image-annotated crowns by comparing annotations among multiple annotators as well as overlapping field-annotated crowns. We provide an example submission and score for an open-source algorithm that can serve as a baseline for future methods.},
+  number = {7},
+}
+
+@article{Rubwurm2024,
+  title = {{Meta-learning to address diverse Earth observation problems across resolutions},
+  author = {Marc Rußwurm and Sherrie Wang and Benjamin Kellenberger and Ribana Roscher and Devis Tuia},
+  journal = {Communications Earth \& Environment},
+  volume = {5},
+  number = {37},
+  year = {2024},
+}
+
+@article{Colgan2013,
+  author = {Colgan, Matthew S. and Asner, Gregory P. and Swemmer, Tony},
+  title = {Harvesting tree biomass at the stand level to assess the accuracy of field and airborne biomass estimation in savannas},
+  journal = {Ecological Applications},
+  volume = {23},
+  number = {5},
+  pages = {1170-1184},
+  keywords = {allometry, carbon stocks, Carnegie Airborne Observatory, destructive harvest, Kruger, lidar, object-based model, segmentation, South Africa, tree-level model},
+  doi = {https://doi.org/10.1890/12-0922.1},
+  eprint = {https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1890/12-0922.1},
+  abstract = {Tree biomass is an integrated measure of net growth and is critical for understanding, monitoring, and modeling ecosystem functions. Despite the importance of accurately measuring tree biomass, several fundamental barriers preclude direct measurement at large spatial scales, including the facts that trees must be felled to be weighed and that even modestly sized trees are challenging to maneuver once felled. Allometric methods allow for estimation of tree mass using structural characteristics, such as trunk diameter. Savanna trees present additional challenges, including limited available allometry and a prevalence of multiple stems per individual. Here we collected airborne lidar data over a semiarid savanna adjacent to the Kruger National Park, South Africa, and then harvested and weighed woody plant biomass at the plot scale to provide a standard against which field and airborne estimation methods could be compared. For an existing airborne lidar method, we found that half of the total error was due to averaging canopy height at the plot scale. This error was eliminated by instead measuring maximum height and crown area of individual trees from lidar data using an object-based method to identify individual tree crowns and estimate their biomass. The best object-based model approached the accuracy of field allometry at both the tree and plot levels, and it more than doubled the accuracy compared to existing airborne methods (17\% vs. 44\% deviation from harvested biomass). Allometric error accounted for less than one-third of the total residual error in airborne biomass estimates at the plot scale when using allometry with low bias. Airborne methods also gave more accurate predictions at the plot level than did field methods based on diameter-only allometry. These results provide a novel comparison of field and airborne biomass estimates using harvested plots and advance the role of lidar remote sensing in savanna ecosystems.},
+  year = {2013},
+}
+
+@inproceedings{Corley2023,
+  title = {Revisiting pre-trained remote sensing model benchmarks: resizing and normalization matters},
+  author = {Corley, Isaac and Robinson, Caleb and Dodhia, Rahul and Ferres, Juan M Lavista and Najafirad, Peyman},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages = {3162--3172},
+  year = {2024},
+}
+
+@article{Healey2020,
+  author = {Healey, Sean P. and Yang, Zhiqiang and Gorelick, Noel and Ilyushchenko, Simon},
+  title = {Highly Local Model Calibration with a New {GEDI LiDAR},
+  journal = {Remote Sensing},
+  volume = {12},
+  year = {2020},
+  number = {2840},
+  issn = {2072-4292},
+  abstract = {While Landsat has proved to be effective for monitoring many elements of forest condition and change, the platform has well-documented limitations in measuring forest structure, the vertical distribution of the canopy. This is important because structure determines several key ecosystem functions, including: carbon storage; habitat suitability; and timber volume. Canopy structure is directly measured by LiDAR, and it should be possible to train Landsat structure models at a highly local scale with the dense, global sample of full waveform LiDAR observations collected by NASA’s Global Ecosystem Dynamics Investigation (GEDI). Local models are expected to perform better because: (a) such models may take advantage of localized correlations between structure and canopy surface reflectance; and (b) to the extent that models revert to the mean of the calibration data due to a lack of discrimination, local models will revert to a more representative mean. We tested Landsat-based relative height predictions using a new GEDI asset on Google Earth Engine, described here. Mean prediction error declined by 23% and important prediction biases at the extremes of the range of canopy height dropped as model calibration became more local, minimizing forest structure signal saturation commonly associated with Landsat and other passive optical sensors. Our results suggest that Landsat-based maps of structural variables such as height and biomass may substantially benefit from the kind of local calibration that GEDI’s dense sample of LiDAR data supports.},
+  doi = {10.3390/rs12172840},
+}
+
+@article{Tsao2023,
+  author = {Tsao, Angela and Nzewi, Ikenna and Jayeoba, Ayodeji and Ayogu, Uzoma and Lobell, David B.},
+  title = {Canopy Height Mapping for Plantations in {N},
+  journal = {Remote Sensing},
+  volume = {15},
+  year = {2023},
+  number = {5162},
+  issn = {2072-4292},
+  abstract = {Canopy height data from the Global Ecosystem Dynamics Investigation (GEDI) mission has powered the development of global forest height products, but these data and products have not been validated in non-forest tree plantation settings. In this study, we collected field observations of the canopy heights throughout oil palm plantations in Nigeria and evaluated the performance of existing global canopy height map (CHM) products as well as a local model trained on the GEDI and various Landsat and Sentinel-2 feature combinations. We found that existing CHMs fared poorly in the region, with mean absolute errors (MAE) of 4.2–6.2 m. However, the locally trained models performed well (MAE = 2.5 m), indicating that using the GEDI and optical satellite data can still be effective, even in a region with relatively sparse GEDI coverage. In addition to improved overall performance, the local model was especially effective at reducing errors for short (<5 m) trees, where the global products struggle to capture the canopy height.},
+  doi = {10.3390/rs15215162},
+}
+
+@article{Li2023,
+  title = {First validation of {GEDI},
+  journal = {Remote Sensing of Environment},
+  volume = {285},
+  pages = {113402},
+  year = {2023},
+  issn = {0034-4257},
+  doi = {https://doi.org/10.1016/j.rse.2022.113402},
+  author = {Xiaoxuan Li and Konrad Wessels and John Armston and Steven Hancock and Renaud Mathieu and Russell Main and Laven Naidoo and Barend Erasmus and Robert Scholes},
+  keywords = {LiDAR, GEDI, Vegetation structure, Savannas, Canopy height, Validation, Africa},
+}
+
+@article{Astola2021,
+  author = {Astola, Heikki and Seitsonen, Lauri and Halme, Eelis and Molinier, Matthieu and Lönnqvist, Anne},
+  title = {Deep Neural Networks with Transfer Learning for Forest Variable Estimation Using {Sentinel-2},
+  journal = {Remote Sensing},
+  volume = {13},
+  year = {2021},
+  number = {2392},
+  issn = {2072-4292},
+  abstract = {Estimation of forest structural variables is essential to provide relevant insights for public and private stakeholders in forestry and environmental sectors. Airborne light detection and ranging (LiDAR) enables accurate forest inventory, but it is expensive for large area analyses. Continuously increasing volume of open Earth Observation (EO) imagery from high-resolution (<30 m) satellites together with modern machine learning algorithms provide new prospects for spaceborne large area forest inventory. In this study, we investigated the capability of Sentinel-2 (S2) image and metadata, topography data, and canopy height model (CHM), as well as their combinations, to predict growing stock volume with deep neural networks (DNN) in four forestry districts in Central Finland. We focused on investigating the relevance of different input features, the effect of DNN depth, the amount of training data, and the size of image data sampling window to model prediction performance. We also studied model transfer between different silvicultural districts in Finland, with the objective to minimize the amount of new field data needed. We used forest inventory data provided by the Finnish Forest Centre for model training and performance evaluation. Leaving out CHM features, the model using RGB and NIR bands, the imaging and sun angles, and topography features as additional predictive variables obtained the best plot level accuracy (RMSE% = 42.6%, |BIAS%| = 0.8%). We found 3×3 pixels to be the optimal size for the sampling window, and two to three hidden layer DNNs to produce the best results with relatively small improvement to single hidden layer networks. Including CHM features with S2 data and additional features led to reduced relative RMSE (RMSE% = 28.6–30.7%) but increased the absolute value of relative bias (|BIAS%| = 0.9–4.0%). Transfer learning was found to be beneficial mainly with training data sets containing less than 250 field plots. The performance differences of DNN and random forest models were marginal. Our results contribute to improved structural variable estimation performance in boreal forests with the proposed image sampling and input feature concept.},
+  doi = {10.3390/rs13122392},
+}
+
+@article{Wilkes2015,
+  author = {Wilkes, Phil and Jones, Simon D. and Suarez, Lola and Mellor, Andrew and Woodgate, William and Soto-Berelov, Mariela and Haywood, Andrew and Skidmore, Andrew K.},
+  title = {Mapping Forest Canopy Height Across Large Areas by Upscaling {ALS},
+  journal = {Remote Sensing},
+  volume = {7},
+  year = {2015},
+  number = {9},
+  pages = {12563--12587},
+  issn = {2072-4292},
+  abstract = {Operational assessment of forest structure is an on-going challenge for land managers, particularly over large, remote or inaccessible areas. Here, we present an easily adopted method for generating a continuous map of canopy height at a 30 m resolution, demonstrated over 2.9 million hectares of highly heterogeneous forest (canopy height 0–70 m) in Victoria, Australia. A two-stage approach was utilized where Airborne Laser Scanning (ALS) derived canopy height, captured over ~18% of the study area, was used to train a regression tree ensemble method; random forest. Predictor variables, which have a global coverage and are freely available, included Landsat Thematic Mapper (Tasselled Cap transformed), Moderate Resolution Imaging Spectroradiometer Normalized Difference Vegetation Index time series, Shuttle Radar Topography Mission elevation data and other ancillary datasets. Reflectance variables were further processed to extract additional spatial and temporal contextual and textural variables. Modeled canopy height was validated following two approaches; (i) random sample cross validation; and (ii) with 108 inventory plots from outside the ALS capture extent. Both the cross validation and comparison with inventory data indicate canopy height can be estimated with a Root Mean Square Error (RMSE) of ≤ 31% (~5.6 m) at the 95th percentile confidence interval. Subtraction of the systematic component of model error, estimated from training data error residuals, rescaled canopy height values to more accurately represent the response variable distribution tails e.g., tall and short forest. Two further experiments were carried out to test the applicability and scalability of the presented method. Results suggest that (a) no improvement in canopy height estimation is achieved when models were constructed and validated for smaller geographic areas, suggesting there is no upper limit to model scalability; and (b) training data can be captured over a small percentage of the study area (~6%) if response and predictor variable variance is captured within the training cohort, however RMSE is higher than when compared to a stratified random sample.},
+  doi = {10.3390/rs70912563},
+}
+
+@article{Saul2003,
+  author = {Saul, Lawrence K. and Roweis, Sam T.},
+  title = {Think globally, fit locally: unsupervised learning of low dimensional manifolds},
+  year = {2003},
+  issue_date = {12/1/2003},
+  publisher = {JMLR.org},
+  volume = {4},
+  issn = {1532-4435},
+  doi = {10.1162/153244304322972667},
+  abstract = {The problem of dimensionality reduction arises in many fields of information processing, including machine learning, data compression, scientific visualization, pattern recognition, and neural computation. Here we describe locally linear embedding (LLE), an unsupervised learning algorithm that computes low dimensional, neighborhood preserving embeddings of high dimensional data. The data, assumed to be sampled from an underlying manifold, are mapped into a single global coordinate system of lower dimensionality. The mapping is derived from the symmetries of locally linear reconstructions, and the actual computation of the embedding reduces to a sparse eigenvalue problem. Notably, the optimizations in LLE---though capable of generating highly nonlinear embeddings---are simple to implement, and they do not involve local minima. In this paper, we describe the implementation of the algorithm in detail and discuss several extensions that enhance its performance. We present results of the algorithm applied to data sampled from known manifolds, as well as to collections of images of faces, lips, and handwritten digits. These examples are used to provide extensive illustrations of the algorithm's performance---both successes and failures---and to relate the algorithm to previous and ongoing work in nonlinear dimensionality reduction.},
+  journal = {Journal of Machine Learning Research},
+  pages = {119–155},
+  numpages = {37},
+}
+
+@inproceedings{Zhou2003,
+  author = {Zhou, Dengyong and Bousquet, Olivier and Lal, Thomas and Weston, Jason and Sch\"{o},
+  booktitle = {Advances in Neural Information Processing Systems},
+  pages = {},
+  title = {Learning with Local and Global Consistency},
+  volume = {16},
+  year = {2003},
+}
+
+@inproceedings{stewart2022torchgeo,
+  title = {Torchgeo: deep learning with geospatial data},
+  author = {Stewart, Adam J and Robinson, Caleb and Corley, Isaac A and Ortiz, Anthony and Ferres, Juan M Lavista and Banerjee, Arindam},
+  booktitle = {Proceedings of the 30th International Conference on Advances in Geographic Information Systems},
+  pages = {1--12},
+  year = {2022},
+}
+
+@inproceedings{Rolf2024,
+  title = {Position: Mission Critical -- Satellite Data is a Distinct Modality in Machine Learning},
+  author = {Esther Rolf and Konstantin Klemmer and Caleb Robinson and Hannah Kerner},
+  year = {2024},
+  booktitle = {Proceedings of the International Conference on Machine Learning},
+}
+
+@article{roscher2024better,
+  title = {Better, Not Just More: Data-Centric Machine Learning for {E},
+  author = {Roscher, Ribana and Ru{\ss},
+  journal = {IEEE Geoscience and Remote Sensing Magazine},
+  year = {2024},
+  publisher = {IEEE},
+}
+
+@article{meta,
+  title = {Very high resolution canopy height maps from {RGB},
+  journal = {Remote Sensing of Environment},
+  volume = {300},
+  pages = {113888},
+  year = {2024},
+  issn = {0034-4257},
+  doi = {https://doi.org/10.1016/j.rse.2023.113888},
+  author = {Jamie Tolan and Hung-I Yang and Benjamin Nosarzewski and Guillaume Couairon and Huy V. Vo and John Brandt and Justine Spore and Sayantan Majumdar and Daniel Haziza and Janaki Vamaraju and Theo Moutakanni and Piotr Bojanowski and Tracy Johns and Brian White and Tobias Tiecke and Camille Couprie},
+  keywords = {LIDAR, GEDI, Canopy height, Deep learning, Self-supervised learning, Vision transformers},
+}
+
+@article{eth,
+  title = {{A high-resolution canopy height model of the Earth},
+  author = {Nico Lang and Walter Jetz and Konrad Schindler and Jan Dirk Wegner},
+  journal = {Nature Ecology \& Evolution},
+  volume = {7},
+  year = {2023},
+}
+
+@article{glad,
+  title = {Mapping global forest canopy height through integration of {GEDI},
+  journal = {Remote Sensing of Environment},
+  volume = {253},
+  pages = {112165},
+  year = {2021},
+  issn = {0034-4257},
+  doi = {https://doi.org/10.1016/j.rse.2020.112165},
+  author = {Peter Potapov and Xinyuan Li and Andres Hernandez-Serna and Alexandra Tyukavina and Matthew C. Hansen and Anil Kommareddy and Amy Pickens and Svetlana Turubanova and Hao Tang and Carlos Edibaldo Silva and John Armston and Ralph Dubayah and J. Bryan Blair and Michelle Hofton},
+  keywords = {GEDI, Landsat, Lidar, Forest height, Forest monitoring, Time-series},
+}
+
+@inproceedings{Aiken2023,
+  author = {Aiken, Emily and Rolf, Esther and Blumenstock, Joshua},
+  title = {Fairness and representation in satellite-based poverty maps: Evidence of urban-rural disparities and their impacts on downstream policy},
+  year = {2023},
+  isbn = {978-1-956792-03-4},
+  doi = {10.24963/ijcai.2023/653},
+  abstract = {Poverty maps derived from satellite imagery are increasingly used to inform high-stakes policy decisions, such as the allocation of humanitarian aid and the distribution of government resources. Such poverty maps are typically constructed by training machine learning algorithms on a relatively modest amount of "ground truth" data from surveys, and then predicting poverty levels in areas where imagery exists but surveys do not. Using survey and satellite data from ten countries, this paper investigates disparities in representation, systematic biases in prediction errors, and fairness concerns in satellite-based poverty mapping across urban and rural lines, and shows how these phenomena affect the validity of policies based on predicted maps. Our findings highlight the importance of careful error and bias analysis before using satellite-based poverty maps in real-world policy decisions.},
+  booktitle = {Proceedings of the Thirty-Second International Joint Conference on Artificial Intelligence},
+  articleno = {653},
+  numpages = {9},
+  location = {<conf-loc>, <city>Macao</city>, <country>P.R.China</country>, </conf-loc>},
+}
+
+@article{Kerner2024,
+  title = {{How accurate are existing land cover maps for agriculture in Sub-Saharan Africa?},
+  author = {Hannah Kerner and Catherine Nakalembe and Adam Yang and Ivan Zvonkov and Ryan McWeeny and Gabriel Tseng and Inbal Becker-Reshef},
+  journal = {Scientific Data},
+  volume = {11},
+  number = {486},
+  year = {2024},
+}
+
+@article{Paolo2024,
+  title = {Satellite mapping reveals extensive industrial activity at sea},
+  volume = {625},
+  issn = {1476-4687},
+  doi = {10.1038/s41586-023-06825-8},
+  number = {7993},
+  journal = {Nature},
+  publisher = {Springer Science and Business Media LLC},
+  author = {Paolo,  Fernando S. and Kroodsma,  David and Raynor,  Jennifer and Hochberg,  Tim and Davis,  Pete and Cleary,  Jesse and Marsaglia,  Luca and Orofino,  Sara and Thomas,  Christian and Halpin,  Patrick},
+  year = {2024},
+  pages = {85–91},
+}
+
+@article{Chi2022,
+  title = {Microestimates of wealth for all low- and middle-income countries},
+  volume = {119},
+  issn = {1091-6490},
+  url = {http://dx.doi.org/10.1073/pnas.2113658119},
+  doi = {10.1073/pnas.2113658119},
+  number = {3},
+  journal = {Proceedings of the National Academy of Sciences},
+  publisher = {Proceedings of the National Academy of Sciences},
+  author = {Chi,  Guanghua and Fang,  Han and Chatterjee,  Sourav and Blumenstock,  Joshua E.},
+  year = {2022},
+}
+
+@article{Brown2022,
+  title = {Dynamic {W},
+  volume = {9},
+  issn = {2052-4463},
+  doi = {10.1038/s41597-022-01307-4},
+  number = {1},
+  journal = {Scientific Data},
+  publisher = {Springer Science and Business Media LLC},
+  author = {Brown,  Christopher F. and Brumby,  Steven P. and Guzder-Williams,  Brookie and Birch,  Tanya and Hyde,  Samantha Brooks and Mazzariello,  Joseph and Czerwinski,  Wanda and Pasquarella,  Valerie J. and Haertel,  Robert and Ilyushchenko,  Simon and Schwehr,  Kurt and Weisse,  Mikaela and Stolle,  Fred and Hanson,  Craig and Guinan,  Oliver and Moore,  Rebecca and Tait,  Alexander M.},
+  year = {2022},
+}
+
+@article{vemulapalli2023label,
+  title = {Label-efficient Training of Small Task-specific Models by Leveraging Vision Foundation Models},
+  author = {Vemulapalli, Raviteja and Pouransari, Hadi and Faghri, Fartash and Mehta, Sachin and Farajtabar, Mehrdad and Rastegari, Mohammad and Tuzel, Oncel},
+  journal = {arXiv preprint arXiv:2311.18237},
+  year = {2023},
+}
+
+@article{pauls2024estimating,
+  title = {Estimating Canopy Height at Scale},
+  author = {Pauls, Jan and Zimmer, Max and Kelly, Una M and Schwartz, Martin and Saatchi, Sassan and Ciais, Philippe and Pokutta, Sebastian and Brandt, Martin and Gieseke, Fabian},
+  journal = {International Conference of Machine Learning},
+  year = {2024},
+}
+
+@article{gevaert2024auditing,
+  title = {Auditing geospatial datasets for biases: using global building datasets for disaster risk management},
+  author = {Gevaert, Caroline M and Buunk, Thomas and Van Den Homberg, Marc JC},
+  journal = {IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  year = {2024},
+  publisher = {IEEE},
+}
+
+@article{kuffer2022missing,
+  title = {The missing millions in maps: exploring causes of uncertainties in global gridded population datasets},
+  author = {Kuffer, Monika and Owusu, Maxwell and Oliveira, Lorraine and Sliuzas, Richard and van Rijn, Frank},
+  journal = {ISPRS International Journal of Geo-Information},
+  volume = {11},
+  number = {7},
+  pages = {403},
+  year = {2022},
+  publisher = {MDPI},
+}
+
+@article{rolf2023evaluation,
+  title = {Evaluation challenges for geospatial {ML},
+  author = {Rolf, Esther},
+  journal = {Machine Learning for Remote Sening Workshop at the International Conference on Learning Representations},
+  year = {2023},
+}
+
+@article{loshchilov2017decoupled,
+  title = {Decoupled weight decay regularization},
+  author = {Loshchilov, Ilya and Hutter, Frank},
+  journal = {International Conference on Learning Representations},
+  year = {2019},
+}
+
+@article{scikit-learn,
+  title = {Scikit-learn: Machine Learning in {P},
+  author = {Pedregosa, F. and Varoquaux, G. and Gramfort, A. and Michel, V.
+          and Thirion, B. and Grisel, O. and Blondel, M. and Prettenhofer, P.
+          and Weiss, R. and Dubourg, V. and Vanderplas, J. and Passos, A. and
+          Cournapeau, D. and Brucher, M. and Perrot, M. and Duchesnay, E.},
+  journal = {Journal of Machine Learning Research},
+  volume = {12},
+  pages = {2825--2830},
+  year = {2011},
+}
+
+@inproceedings{lilja2024localization,
+  title = {Localization is all you evaluate: Data leakage in online mapping datasets and how to fix it},
+  author = {Lilja, Adam and Fu, Junsheng and Stenborg, Erik and Hammarstrand, Lars},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages = {22150--22159},
+  year = {2024},
+}
+
+@article{meyer2019importance,
+  title = {Importance of spatial predictor variable selection in machine learning applications--Moving from data reproduction to spatial prediction},
+  author = {Meyer, Hanna and Reudenbach, Christoph and W{\"o},
+  journal = {Ecological Modelling},
+  volume = {411},
+  pages = {108815},
+  year = {2019},
+  publisher = {Elsevier},
+}
+
+@article{fogel2024opencanopy,
+  title = {{Open-Canopy},
+  author = {Fogel, Fajwel and Perron, Yohann and Besic, Nikola and Saint-Andr{\'e},
+  journal = {arXiv preprint arXiv:2407.09392},
+  year = {2024},
+}
+
+@misc{neon,
+  doi = {10.48443/ZZZ8-PR54},
+  url = {https://data.neonscience.org/data-products/DP3.30015.001/RELEASE-2024},
+  author = {{National Ecological Observatory Network (NEON)},
+  keywords = {vegetation, canopy, airborne, aerial, remote sensing, structure, 3D, light detection and ranging (LiDAR), canopy height model (CHM), biodiversity},
+  language = {en},
+  title = {Ecosystem structure (DP3.30015.001)},
+  publisher = {National Ecological Observatory Network (NEON)},
+  year = {2024},
+  copyright = {Creative Commons Zero v1.0 Universal},
+}
+
+@inproceedings{polino2018model,
+  title = {Model compression via distillation and quantization},
+  author = {Polino, Antonio and Pascanu, Razvan and Alistarh, Dan},
+  booktitle = {International Conference on Learning Representations},
+  year = {2018},
+}
+
+@article{rolf2022striving,
+  title = {Striving for data-model efficiency: Identifying data externalities on group performance},
+  author = {Rolf, Esther and Packer, Ben and Beutel, Alex and Diaz, Fernando},
+  journal = {Workshop on Trustworthy and Socially Responsible Machine
+Learning at Neural Information Processing Symposium},
+  year = {2022},
+}
+
+@article{coverdale2023unravelling,
+  title = {Unravelling the relationship between plant diversity and vegetation structural complexity: A review and theoretical framework},
+  author = {Coverdale, Tyler C and Davies, Andrew B},
+  journal = {Journal of Ecology},
+  volume = {111},
+  number = {7},
+  pages = {1378--1395},
+  year = {2023},
+  publisher = {Wiley Online Library},
+}
+
+@article{davies2014advances,
+  title = {Advances in animal ecology from {3D-LiDAR},
+  author = {Davies, Andrew B and Asner, Gregory P},
+  journal = {Trends in ecology \& evolution},
+  volume = {29},
+  number = {12},
+  pages = {681--691},
+  year = {2014},
+  publisher = {Elsevier},
+}
+
+@article{davies2016effects,
+  title = {Effects of vegetation structure on the location of lion kill sites in {A},
+  author = {Davies, Andrew B and Tambling, Craig J and Kerley, Graham IH and Asner, Gregory P},
+  journal = {PloS one},
+  volume = {11},
+  number = {2},
+  pages = {e0149098},
+  year = {2016},
+  publisher = {Public Library of Science San Francisco, CA USA},
+}
+
+@article{loarie2013lion,
+  title = {Lion hunting behaviour and vegetation structure in an {A},
+  author = {Loarie, Scott R and Tambling, Craig J and Asner, Gregory P},
+  journal = {Animal Behaviour},
+  volume = {85},
+  number = {5},
+  pages = {899--906},
+  year = {2013},
+  publisher = {Elsevier},
+}
+
+@article{aponte2020structural,
+  title = {Structural diversity underpins carbon storage in {A},
+  author = {Aponte, Cristina and Kasel, Sabine and Nitschke, Craig R and Tanase, Mihai A and Vickers, Helen and Parker, Linda and Fedrigo, Melissa and Kohout, Michele and Ruiz-Benito, Paloma and Zavala, Miguel A and others},
+  journal = {Global Ecology and Biogeography},
+  volume = {29},
+  number = {5},
+  pages = {789--802},
+  year = {2020},
+  publisher = {Wiley Online Library},
+}
+
+@article{noulekoun2021structural,
+  title = {Structural diversity consistently mediates species richness effects on aboveground carbon along altitudinal gradients in northern {E},
+  author = {Noul{\`e},
+  journal = {Science of the Total Environment},
+  volume = {776},
+  pages = {145838},
+  year = {2021},
+  publisher = {Elsevier},
+}
+
+@article{tetemke2021species,
+  title = {Species diversity and stand structural diversity of woody plants predominantly determine aboveground carbon stock of a dry Afromontane forest in Northern {E},
+  author = {Tetemke, Buruh Abebe and Birhane, Emiru and Rannestad, Meley Mekonen and Eid, Tron},
+  journal = {Forest Ecology and Management},
+  volume = {500},
+  pages = {119634},
+  year = {2021},
+  publisher = {Elsevier},
+}
+
+@article{reiner2023more,
+  title = {More than one quarter of {A},
+  author = {Reiner, Florian and Brandt, Martin and Tong, Xiaoye and Skole, David and Kariryaa, Ankit and Ciais, Philippe and Davies, Andrew and Hiernaux, Pierre and Chave, J{\'e},
+  journal = {Nature Communications},
+  volume = {14},
+  number = {1},
+  pages = {2258},
+  year = {2023},
+  publisher = {Nature Publishing Group UK London},
+}
+
+@article{boucher2023flying,
+  title = {Flying high: Sampling savanna vegetation with {UAV},
+  author = {Boucher, Peter B and Hockridge, Evan G and Singh, Jenia and Davies, Andrew B},
+  journal = {Methods in Ecology and Evolution},
+  volume = {14},
+  number = {7},
+  pages = {1668--1686},
+  year = {2023},
+  publisher = {Wiley Online Library},
+}
+
+@article{nyandwi2024local,
+  title = {Local Evaluation of Large-scale Remote Sensing Machine Learning-generated Building and Road Dataset: The Case of {R},
+  author = {Nyandwi, Emmanuel and Gerke, Markus and Achanccaray, Pedro},
+  journal = {PFG--Journal of Photogrammetry, Remote Sensing and Geoinformation Science},
+  pages = {1--18},
+  year = {2024},
+  publisher = {Springer},
+}

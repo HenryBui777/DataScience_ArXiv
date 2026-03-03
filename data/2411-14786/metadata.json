@@ -1,0 +1,17 @@
+{
+  "title": "FastGrasp: Efficient Grasp Synthesis with Diffusion",
+  "authors": [
+    "Xiaofei Wu",
+    "Tao Liu",
+    "Caoji Li",
+    "Yuexin Ma",
+    "Yujiao Shi",
+    "Xuming He"
+  ],
+  "summary": "Effectively modeling the interaction between human hands and objects is challenging due to the complex physical constraints and the requirement for high generation efficiency in applications. Prior approaches often employ computationally intensive two-stage approaches, which first generate an intermediate representation, such as contact maps, followed by an iterative optimization procedure that updates hand meshes to capture the hand-object relation. However, due to the high computation complexity during the optimization stage, such strategies often suffer from low efficiency in inference. To address this limitation, this work introduces a novel diffusion-model-based approach that generates the grasping pose in a one-stage manner. This allows us to significantly improve generation speed and the diversity of generated hand poses. In particular, we develop a Latent Diffusion Model with an Adaptation Module for object-conditioned hand pose generation and a contact-aware loss to enforce the physical constraints between hands and objects. Extensive experiments demonstrate that our method achieves faster inference, higher diversity, and superior pose quality than state-of-the-art approaches. Code is available at \\href{https://github.com/wuxiaofei01/FastGrasp}{https://github.com/wuxiaofei01/FastGrasp.}",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO, cs.CV"
+}

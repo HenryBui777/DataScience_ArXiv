@@ -1,0 +1,15 @@
+{
+  "title": "Agnostic Learning of Arbitrary ReLU Activation under Gaussian Marginals",
+  "authors": [
+    "Anxin Guo",
+    "Aravindan Vijayaraghavan"
+  ],
+  "summary": "We consider the problem of learning an arbitrarily-biased ReLU activation (or neuron) over Gaussian marginals with the squared loss objective. Despite the ReLU neuron being the basic building block of modern neural networks, we still do not understand the basic algorithmic question of whether one arbitrary ReLU neuron is learnable in the non-realizable setting. In particular, all existing polynomial time algorithms only provide approximation guarantees for the better-behaved unbiased setting or restricted bias setting.\n  Our main result is a polynomial time statistical query (SQ) algorithm that gives the first constant factor approximation for arbitrary bias. It outputs a ReLU activation that achieves a loss of $O(\\mathrm{OPT}) + \\varepsilon$ in time $\\mathrm{poly}(d,1/\\varepsilon)$, where $\\mathrm{OPT}$ is the loss obtained by the optimal ReLU activation. Our algorithm presents an interesting departure from existing algorithms, which are all based on gradient descent and thus fall within the class of correlational statistical query (CSQ) algorithms. We complement our algorithmic result by showing that no polynomial time CSQ algorithm can achieve a constant factor approximation. Together, these results shed light on the intrinsic limitation of gradient descent, while identifying arguably the simplest setting (a single neuron) where there is a separation between SQ and CSQ algorithms.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-22"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.DS, stat.ML"
+}

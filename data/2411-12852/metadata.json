@@ -1,0 +1,13 @@
+{
+  "title": "Enhanced Cross-Dataset Electroencephalogram-based Emotion Recognition using Unsupervised Domain Adaptation",
+  "authors": [
+    "Md Niaz Imtiaz",
+    "Naimul Khan"
+  ],
+  "summary": "Emotion recognition has significant potential in healthcare and affect-sensitive systems such as brain-computer interfaces (BCIs). However, challenges such as the high cost of labeled data and variability in electroencephalogram (EEG) signals across individuals limit the applicability of EEG-based emotion recognition models across domains. These challenges are exacerbated in cross-dataset scenarios due to differences in subject demographics, recording devices, and presented stimuli. To address these issues, we propose a novel approach to improve cross-domain EEG-based emotion classification. Our method, Gradual Proximity-guided Target Data Selection (GPTDS), incrementally selects reliable target domain samples for training. By evaluating their proximity to source clusters and the models confidence in predicting them, GPTDS minimizes negative transfer caused by noisy and diverse samples. Additionally, we introduce Prediction Confidence-aware Test-Time Augmentation (PC-TTA), a cost-effective augmentation technique. Unlike traditional TTA methods, which are computationally intensive, PC-TTA activates only when model confidence is low, improving inference performance while drastically reducing computational costs. Experiments on the DEAP and SEED datasets validate the effectiveness of our approach. When trained on DEAP and tested on SEED, our model achieves 67.44% accuracy, a 7.09% improvement over the baseline. Conversely, training on SEED and testing on DEAP yields 59.68% accuracy, a 6.07% improvement. Furthermore, PC-TTA reduces computational time by a factor of 15 compared to traditional TTA methods. Our method excels in detecting both positive and negative emotions, demonstrating its practical utility in healthcare applications. Code available at: https://github.com/RyersonMultimediaLab/EmotionRecognitionUDA",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP"
+}

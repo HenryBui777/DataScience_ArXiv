@@ -1,0 +1,13 @@
+{
+  "title": "Information geometric regularization of unidimensional pressureless Euler equations yields global strong solutions",
+  "authors": [
+    "Ruijia Cao",
+    "Florian Schäfer"
+  ],
+  "summary": "Partial differential equations describing compressible fluids are prone to the formation of shock singularities, arising from faster upstream fluid particles catching up to slower, downstream ones. In geometric terms, this causes the deformation map to leave the manifold of diffeomorphisms. Information geometric regularization addresses this issue by changing the manifold geometry to make it geodesically complete. Empirical evidence suggests that this results in smooth solutions without adding artificial viscosity. This work makes a first step towards understanding this phenomenon rigorously, in the setting of the unidimensional pressureless Euler equations. It shows that their information geometric regularization has smooth global solutions. By establishing $Γ$-convergence of its variational description, it proves convergence of these solutions to entropy solutions of the nominal problem, in the limit of vanishing regularization parameter. A consequence of these results is that manifolds of unidimensional diffeomorphisms with information geometric regularization are geodesically complete.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AP, math.DG, math.OC"
+}

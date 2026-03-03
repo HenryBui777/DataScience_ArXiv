@@ -1,0 +1,18 @@
+{
+  "title": "SCOP: A Sequence-Structure Contrast-Aware Framework for Protein Function Prediction",
+  "authors": [
+    "Runze Ma",
+    "Chengxin He",
+    "Huiru Zheng",
+    "Xinye Wang",
+    "Haiying Wang",
+    "Yidan Zhang",
+    "Lei Duan"
+  ],
+  "summary": "Improving the ability to predict protein function can potentially facilitate research in the fields of drug discovery and precision medicine. Technically, the properties of proteins are directly or indirectly reflected in their sequence and structure information, especially as the protein function is largely determined by its spatial properties. Existing approaches mostly focus on protein sequences or topological structures, while rarely exploiting the spatial properties and ignoring the relevance between sequence and structure information. Moreover, obtaining annotated data to improve protein function prediction is often time-consuming and costly. To this end, this work proposes a novel contrast-aware pre-training framework, called SCOP, for protein function prediction. We first design a simple yet effective encoder to integrate the protein topological and spatial features under the structure view. Then a convolutional neural network is utilized to learn the protein features under the sequence view. Finally, we pretrain SCOP by leveraging two types of auxiliary supervision to explore the relevance between these two views and thus extract informative representations to better predict protein function. Experimental results on four benchmark datasets and one self-built dataset demonstrate that SCOP provides more specific results, while using less pre-training data.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-bio.BM"
+}

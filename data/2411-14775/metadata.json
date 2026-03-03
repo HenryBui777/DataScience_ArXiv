@@ -1,0 +1,16 @@
+{
+  "title": "A Benchmark Dataset for Collaborative SLAM in Service Environments",
+  "authors": [
+    "Harin Park",
+    "Inha Lee",
+    "Minje Kim",
+    "Hyungyu Park",
+    "Kyungdon Joo"
+  ],
+  "summary": "As service environments have become diverse, they have started to demand complicated tasks that are difficult for a single robot to complete. This change has led to an interest in multiple robots instead of a single robot. C-SLAM, as a fundamental technique for multiple service robots, needs to handle diverse challenges such as homogeneous scenes and dynamic objects to ensure that robots operate smoothly and perform their tasks safely. However, existing C-SLAM datasets do not include the various indoor service environments with the aforementioned challenges. To close this gap, we introduce a new multi-modal C-SLAM dataset for multiple service robots in various indoor service environments, called C-SLAM dataset in Service Environments (CSE). We use the NVIDIA Isaac Sim to generate data in various indoor service environments with the challenges that may occur in real-world service environments. By using simulation, we can provide accurate and precisely time-synchronized sensor data, such as stereo RGB, stereo depth, IMU, and ground truth (GT) poses. We configure three common indoor service environments (Hospital, Office, and Warehouse), each of which includes various dynamic objects that perform motions suitable to each environment. In addition, we drive three robots to mimic the actions of real service robots. Through these factors, we generate a more realistic C-SLAM dataset for multiple service robots. We demonstrate our dataset by evaluating diverse state-of-the-art single-robot SLAM and multi-robot SLAM methods. Our dataset is available at https://github.com/vision3d-lab/CSE_Dataset.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "IEEE Robotics and Automation Letters (RA-L), vol. 9, no. 12, pp. 11337-11344, Dec. 2024",
+  "pdf_url": null,
+  "category": "cs.RO, cs.CV"
+}

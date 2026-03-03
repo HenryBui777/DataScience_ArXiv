@@ -1,0 +1,21 @@
+{
+  "title": "HEIGHT: Heterogeneous Interaction Graph Transformer for Robot Navigation in Crowded and Constrained Environments",
+  "authors": [
+    "Shuijing Liu",
+    "Haochen Xia",
+    "Fatemeh Cheraghi Pouria",
+    "Kaiwen Hong",
+    "Neeloy Chakraborty",
+    "Zichao Hu",
+    "Joydeep Biswas",
+    "Katherine Driggs-Campbell"
+  ],
+  "summary": "We study the problem of robot navigation in dense and interactive crowds with environmental constraints such as corridors and furniture. Previous methods fail to consider all types of interactions among agents and obstacles, leading to unsafe and inefficient robot paths. In this article, we leverage a graph-based representation of crowded and constrained scenarios and propose a structured framework to learn robot navigation policies with deep reinforcement learning. We first split the representations of different components in the environment and propose a heterogeneous spatio-temporal (st) graph to model distinct interactions among humans, robots, and obstacles. Based on the heterogeneous st-graph, we propose HEIGHT, a novel navigation policy network architecture with different components to capture heterogeneous interactions among entities through space and time. HEIGHT utilizes attention mechanisms to prioritize important interactions and a recurrent network to track changes in the dynamic scene over time, encouraging the robot to avoid collisions adaptively. Through extensive simulation and real-world experiments, we demonstrate that HEIGHT outperforms state-of-the-art baselines in terms of success and efficiency in challenging navigation scenarios. Furthermore, we demonstrate that our pipeline achieves better zero-shot generalization capability than previous works when the densities of humans and obstacles change. More videos are available at https://sites.google.com/view/crowdnav-height/home.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-05-01"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO, cs.AI, cs.LG"
+}

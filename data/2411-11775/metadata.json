@@ -1,0 +1,14 @@
+{
+  "title": "Phase-field Modelling of Anisotropic Solid-State Dewetting on Patterned Substrates",
+  "authors": [
+    "Emma Radice",
+    "Marco Salvalaglio",
+    "Roberto Bergamaschini"
+  ],
+  "summary": "We present a phase-field model for simulating the solid-state dewetting of anisotropic crystalline films on non-planar substrates. This model exploits two order parameters to trace implicitly the crystal free surface and the substrate profile in both two and three dimensions. First, we validate the model by comparing numerical simulation results for planar substrates with those obtained by a conventional phase-field approach and by assessing the convergence toward the equilibrium shape predicted by the Winterbottom construction. We then explore non-planar geometries, examining the combined effects of surface-energy anisotropies and parameters controlling the contact angle. Our findings reveal that crystalline particles on curved supports lose self-similarity and exhibit a volume-dependent apparent contact angle, with opposite trends for convex versus concave profiles. Additionally, we investigate the migration of faceted particles on substrates with variable curvature. Applying this model to experimentally relevant cases like spheroidal and pit-patterned substrates demonstrates various behaviors that could be leveraged to direct self-assembly of nanostructures, from ordered nanoparticles to interconnected networks with complex topology.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "Acta Materialia 292 (2025) 120992",
+  "pdf_url": null,
+  "category": "cond-mat.mes-hall"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Towards Mitigating Sim2Real Gaps: A Formal Quantitative Approach",
+  "authors": [
+    "P Sangeerth",
+    "Abolfazl Lavaei",
+    "Pushpak Jagtap"
+  ],
+  "summary": "In this paper, we introduce the notion of simulation-gap functions to formally quantify the potential gap between an approximate nominal mathematical model and the high-fidelity simulator representation of a real system. Given a nominal mathematical model alongside a quantified simulation gap, the system can be conceptualized as one characterized by bounded states and input-dependent disturbances. This allows us to leverage the existing powerful model-based control algorithms effectively, ensuring the enforcement of desired specifications while guaranteeing a seamless transition from simulation to real-world application. To provide a formal guarantee for quantifying the simulation gap, we develop a data-driven approach. In particular, we collect data using high-fidelity simulators, leveraging recent advancements in Real-to-Sim transfer to ensure close alignment with reality. We demonstrate the effectiveness of the proposed method through experiments conducted on a nonlinear pendulum system and a nonlinear Turtlebot model in simulators.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

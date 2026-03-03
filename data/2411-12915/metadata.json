@@ -1,0 +1,39 @@
+{
+  "title": "VILA-M3: Enhancing Vision-Language Models with Medical Expert Knowledge",
+  "authors": [
+    "Vishwesh Nath",
+    "Wenqi Li",
+    "Dong Yang",
+    "Andriy Myronenko",
+    "Mingxin Zheng",
+    "Yao Lu",
+    "Zhijian Liu",
+    "Hongxu Yin",
+    "Yucheng Tang",
+    "Pengfei Guo",
+    "Can Zhao",
+    "Ziyue Xu",
+    "Yufan He",
+    "Greg Heinrich",
+    "Yee Man Law",
+    "Benjamin Simon",
+    "Stephanie Harmon",
+    "Stephen Aylward",
+    "Marc Edgar",
+    "Michael Zephyr",
+    "Song Han",
+    "Pavlo Molchanov",
+    "Baris Turkbey",
+    "Holger Roth",
+    "Daguang Xu"
+  ],
+  "summary": "Generalist vision language models (VLMs) have made significant strides in computer vision, but they fall short in specialized fields like healthcare, where expert knowledge is essential. In traditional computer vision tasks, creative or approximate answers may be acceptable, but in healthcare, precision is paramount.Current large multimodal models like Gemini and GPT-4o are insufficient for medical tasks due to their reliance on memorized internet knowledge rather than the nuanced expertise required in healthcare. VLMs are usually trained in three stages: vision pre-training, vision-language pre-training, and instruction fine-tuning (IFT). IFT has been typically applied using a mixture of generic and healthcare data. In contrast, we propose that for medical VLMs, a fourth stage of specialized IFT is necessary, which focuses on medical data and includes information from domain expert models. Domain expert models developed for medical use are crucial because they are specifically trained for certain clinical tasks, e.g. to detect tumors and classify abnormalities through segmentation and classification, which learn fine-grained features of medical data$-$features that are often too intricate for a VLM to capture effectively especially in radiology. This paper introduces a new framework, VILA-M3, for medical VLMs that utilizes domain knowledge via expert models. Through our experiments, we show an improved state-of-the-art (SOTA) performance with an average improvement of ~9% over the prior SOTA model Med-Gemini and ~6% over models trained on the specific tasks. Our approach emphasizes the importance of domain expertise in creating precise, reliable VLMs for medical applications.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-03-03",
+    "2025-03-04"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

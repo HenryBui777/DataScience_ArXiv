@@ -1,0 +1,16 @@
+{
+  "title": "UniHands: Unifying Various Wild-Collected Keypoints for Personalized Hand Reconstruction",
+  "authors": [
+    "Menghe Zhang",
+    "Joonyeoup Kim",
+    "Yangwen Liang",
+    "Shuangquan Wang",
+    "Kee-Bong Song"
+  ],
+  "summary": "Accurate hand motion capture and standardized 3D representation are essential for various hand-related tasks. Collecting keypoints-only data, while efficient and cost-effective, results in low-fidelity representations and lacks surface information. Furthermore, data inconsistencies across sources challenge their integration and use. We present UniHands, a novel method for creating standardized yet personalized hand models from wild-collected keypoints from diverse sources. Unlike existing neural implicit representation methods, UniHands uses the widely-adopted parametric models MANO and NIMBLE, providing a more scalable and versatile solution. It also derives unified hand joints from the meshes, which facilitates seamless integration into various hand-related tasks. Experiments on the FreiHAND and InterHand2.6M datasets demonstrate its ability to precisely reconstruct hand mesh vertices and keypoints, effectively capturing high-degree articulation motions. Empirical studies involving nine participants show a clear preference for our unified joints over existing configurations for accuracy and naturalism (p-value 0.016).",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.HC"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Semi-blind Channel Estimation for Massive MIMO LEO Satellite Communications",
+  "authors": [
+    "Abdollah Masoud Darya",
+    "Saeed Abdallah"
+  ],
+  "summary": "This letter proposes decision-directed semi-blind channel estimation for massive multiple-input multiple-output low-Earth-orbit satellite communications. Two semi-blind estimators are proposed. The first utilizes detected data symbols in addition to pilot symbols. The second, a modified semi-blind estimator, is specially designed to mitigate the channel-aging effect caused by the highly dynamic nature of low-Earth-orbit satellite communication channels -- an issue that adversely impacts the performance of pilot-based estimators. Consequently, this modified estimator outperforms an optimal pilot-based estimator in terms of normalized mean square error and achieves symbol error rate performance comparable to that of a Genie-aided (perfectly known channel) detector. The trade-offs between the proposed estimators are also examined.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP"
+}

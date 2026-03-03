@@ -1,0 +1,18 @@
+{
+  "title": "Safety Without Semantic Disruptions: Editing-free Safe Image Generation via Context-preserving Dual Latent Reconstruction",
+  "authors": [
+    "Jordan Vice",
+    "Naveed Akhtar",
+    "Mubarak Shah",
+    "Richard Hartley",
+    "Ajmal Mian"
+  ],
+  "summary": "Training multimodal generative models on large, uncurated datasets can result in users being exposed to harmful, unsafe and controversial or culturally-inappropriate outputs. While model editing has been proposed to remove or filter undesirable concepts in embedding and latent spaces, it can inadvertently damage learned manifolds, distorting concepts in close semantic proximity. We identify limitations in current model editing techniques, showing that even benign, proximal concepts may become misaligned. To address the need for safe content generation, we leverage safe embeddings and a modified diffusion process with tunable weighted summation in the latent space to generate safer images. Our method preserves global context without compromising the structural integrity of the learned manifolds. We achieve state-of-the-art results on safe image generation benchmarks and offer intuitive control over the level of model safety. We identify trade-offs between safety and censorship, which presents a necessary perspective in the development of ethical AI models. We will release our code.\n  Keywords: Text-to-Image Models, Generative AI, Safety, Reliability, Model Editing",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-03-05"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI"
+}

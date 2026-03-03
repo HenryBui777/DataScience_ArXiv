@@ -1,0 +1,18 @@
+{
+  "title": "Integrating Dynamic Correlation Shifts and Weighted Benchmarking in Extreme Value Analysis",
+  "authors": [
+    "Dimitrios P. Panagoulias",
+    "Elissaios Sarmas",
+    "Vangelis Marinakis",
+    "Maria Virvou",
+    "George A. Tsihrintzis"
+  ],
+  "summary": "This paper presents an innovative approach to Extreme Value Analysis (EVA) by introducing the Extreme Value Dynamic Benchmarking Method (EVDBM). EVDBM integrates extreme value theory to detect extreme events and is coupled with the novel Dynamic Identification of Significant Correlation (DISC)-Thresholding algorithm, which enhances the analysis of key variables under extreme conditions. By integrating return values predicted through EVA into the benchmarking scores, we are able to transform these scores to reflect anticipated conditions more accurately. This provides a more precise picture of how each case is projected to unfold under extreme conditions. As a result, the adjusted scores offer a forward-looking perspective, highlighting potential vulnerabilities and resilience factors for each case in a way that static historical data alone cannot capture. By incorporating both historical and probabilistic elements, the EVDBM algorithm provides a comprehensive benchmarking framework that is adaptable to a range of scenarios and contexts. The methodology is applied to real PV data, revealing critical low - production scenarios and significant correlations between variables, which aid in risk management, infrastructure design, and long-term planning, while also allowing for the comparison of different production plants. The flexibility of EVDBM suggests its potential for broader applications in other sectors where decision-making sensitivity is crucial, offering valuable insights to improve outcomes.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-25"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.AP, cs.AI"
+}

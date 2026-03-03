@@ -1,0 +1,16 @@
+{
+  "title": "Exploring LLMs for Verifying Technical System Specifications Against Requirements",
+  "authors": [
+    "Lasse M. Reinpold",
+    "Marvin Schieseck",
+    "Lukas P. Wagner",
+    "Felix Gehlhoff",
+    "Alexander Fay"
+  ],
+  "summary": "Requirements engineering is a knowledge intensive process and crucial for the success of engineering projects. The field of knowledge-based requirements engineering (KBRE) aims to support engineers by providing knowledge to assist in the elicitation, validation, and management of system requirements. The advent of large language models (LLMs) opens new opportunities in the field of KBRE. This work experimentally investigates the potential of LLMs in requirements verification. Therein, LLMs are provided with a set of requirements and a textual system specification and are prompted to assess which requirements are fulfilled by the system specification. Different experimental variables such as system specification complexity, the number of requirements, and prompting strategies were analyzed. Formal rule-based systems serve as a benchmark to compare LLM performance to. Requirements and system specifications are derived from the smart-grid domain. Results show that advanced LLMs, like GPT-4o and Claude 3.5 Sonnet, achieved f1-scores between 79 % and 94 % in identifying non-fulfilled requirements, indicating potential for LLMs to be leveraged for requirements verification.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SE, eess.SY"
+}

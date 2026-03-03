@@ -1,0 +1,20 @@
+{
+  "title": "Principles of Visual Tokens for Efficient Video Understanding",
+  "authors": [
+    "Xinyue Hao",
+    "Gen Li",
+    "Shreyank N Gowda",
+    "Robert B Fisher",
+    "Jonathan Huang",
+    "Anurag Arnab",
+    "Laura Sevilla-Lara"
+  ],
+  "summary": "Video understanding has made huge strides in recent years, relying largely on the power of transformers. As this architecture is notoriously expensive and video data is highly redundant, research into improving efficiency has become particularly relevant. Some creative solutions include token selection and merging. While most methods succeed in reducing the cost of the model and maintaining accuracy, an interesting pattern arises: most methods do not outperform the baseline of randomly discarding tokens. In this paper we take a closer look at this phenomenon and observe 5 principles of the nature of visual tokens. For example, we observe that the value of tokens follows a clear Pareto-distribution where most tokens have remarkably low value, and just a few carry most of the perceptual information. We build on these and further insights to propose a lightweight video model, LITE, that can select a small number of tokens effectively, outperforming state-of-the-art and existing baselines across datasets (Kinetics-400 and Something-Something-V2) in the challenging trade-off of computation (GFLOPs) vs accuracy. Experiments also show that LITE generalizes across datasets and even other tasks without the need for retraining.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-03-23"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Multiset Transformer: Advancing Representation Learning in Persistence Diagrams",
+  "authors": [
+    "Minghua Wang",
+    "Ziyun Huang",
+    "Jinhui Xu"
+  ],
+  "summary": "To improve persistence diagram representation learning, we propose Multiset Transformer. This is the first neural network that utilizes attention mechanisms specifically designed for multisets as inputs and offers rigorous theoretical guarantees of permutation invariance. The architecture integrates multiset-enhanced attentions with a pool-decomposition scheme, allowing multiplicities to be preserved across equivariant layers. This capability enables full leverage of multiplicities while significantly reducing both computational and spatial complexity compared to the Set Transformer. Additionally, our method can greatly benefit from clustering as a preprocessing step to further minimize complexity, an advantage not possessed by the Set Transformer. Experimental results demonstrate that the Multiset Transformer outperforms existing neural network methods in the realm of persistence diagram representation learning.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

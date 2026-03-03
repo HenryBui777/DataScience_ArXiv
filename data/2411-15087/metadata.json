@@ -1,0 +1,15 @@
+{
+  "title": "Instance-Aware Generalized Referring Expression Segmentation",
+  "authors": [
+    "E-Ro Nguyen",
+    "Hieu Le",
+    "Dimitris Samaras",
+    "Michael Ryoo"
+  ],
+  "summary": "Recent works on Generalized Referring Expression Segmentation (GRES) struggle with handling complex expressions referring to multiple distinct objects. This is because these methods typically employ an end-to-end foreground-background segmentation and lack a mechanism to explicitly differentiate and associate different object instances to the text query. To this end, we propose InstAlign, a method that incorporates object-level reasoning into the segmentation process. Our model leverages both text and image inputs to extract a set of object-level tokens that capture both the semantic information in the input prompt and the objects within the image. By modeling the text-object alignment via instance-level supervision, each token uniquely represents an object segment in the image, while also aligning with relevant semantic information from the text. Extensive experiments on the gRefCOCO and Ref-ZOM benchmarks demonstrate that our method significantly advances state-of-the-art performance, setting a new standard for precise and flexible GRES.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.CL, cs.LG"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Edge-Enhanced Dilated Residual Attention Network for Multimodal Medical Image Fusion",
+  "authors": [
+    "Meng Zhou",
+    "Yuxuan Zhang",
+    "Xiaolan Xu",
+    "Jiayi Wang",
+    "Farzad Khalvati"
+  ],
+  "summary": "Multimodal medical image fusion is a crucial task that combines complementary information from different imaging modalities into a unified representation, thereby enhancing diagnostic accuracy and treatment planning. While deep learning methods, particularly Convolutional Neural Networks (CNNs) and Transformers, have significantly advanced fusion performance, some of the existing CNN-based methods fall short in capturing fine-grained multiscale and edge features, leading to suboptimal feature integration. Transformer-based models, on the other hand, are computationally intensive in both the training and fusion stages, making them impractical for real-time clinical use. Moreover, the clinical application of fused images remains unexplored. In this paper, we propose a novel CNN-based architecture that addresses these limitations by introducing a Dilated Residual Attention Network Module for effective multiscale feature extraction, coupled with a gradient operator to enhance edge detail learning. To ensure fast and efficient fusion, we present a parameter-free fusion strategy based on the weighted nuclear norm of softmax, which requires no additional computations during training or inference. Extensive experiments, including a downstream brain tumor classification task, demonstrate that our approach outperforms various baseline methods in terms of visual quality, texture preservation, and fusion speed, making it a possible practical solution for real-world clinical applications. The code will be released at https://github.com/simonZhou86/en_dran.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.AI, cs.CV"
+}

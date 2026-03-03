@@ -1,0 +1,21 @@
+{
+  "title": "GraCo -- A Graph Composer for Integrated Circuits",
+  "authors": [
+    "Stefan Uhlich",
+    "Andrea Bonetti",
+    "Arun Venkitaraman",
+    "Ali Momeni",
+    "Ryoga Matsuo",
+    "Chia-Yu Hsieh",
+    "Eisaku Ohbuchi",
+    "Lorenzo Servadei"
+  ],
+  "summary": "Designing integrated circuits involves substantial complexity, posing challenges in revealing its potential applications - from custom digital cells to analog circuits. Despite extensive research over the past decades in building versatile and automated frameworks, there remains open room to explore more computationally efficient AI-based solutions. This paper introduces the graph composer GraCo, a novel method for synthesizing integrated circuits using reinforcement learning (RL). GraCo learns to construct a graph step-by-step, which is then converted into a netlist and simulated with SPICE. We demonstrate that GraCo is highly configurable, enabling the incorporation of prior design knowledge into the framework. We formalize how this prior knowledge can be utilized and, in particular, show that applying consistency checks enhances the efficiency of the sampling process. To evaluate its performance, we compare GraCo to a random baseline, which is known to perform well for smaller design space problems. We demonstrate that GraCo can discover circuits for tasks such as generating standard cells, including the inverter and the two-input NAND (NAND2) gate. Compared to a random baseline, GraCo requires 5x fewer sampling steps to design an inverter and successfully synthesizes a NAND2 gate that is 2.5x faster.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-03-13"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AR"
+}

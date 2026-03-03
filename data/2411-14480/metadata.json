@@ -1,0 +1,18 @@
+{
+  "title": "Associative Knowledge Graphs for Efficient Sequence Storage and Retrieval",
+  "authors": [
+    "Przemysław Stokłosa",
+    "Janusz A. Starzyk",
+    "Paweł Raif",
+    "Adrian Horzyk",
+    "Marcin Kowalik"
+  ],
+  "summary": "The paper addresses challenges in storing and retrieving sequences in contexts like anomaly detection, behavior prediction, and genetic information analysis. Associative Knowledge Graphs (AKGs) offer a promising approach by leveraging sparse graph structures to encode sequences. The objective was to develop a method for sequence storage and retrieval using AKGs that maintain high memory capacity and context-based retrieval accuracy while introducing algorithms for efficient element ordering. The study utilized Sequential Structural Associative Knowledge Graphs (SSAKGs). These graphs encode sequences as transitive tournaments with nodes representing objects and edges defining the order. Four ordering algorithms were developed and tested: Simple Sort, Node Ordering, Enhanced Node Ordering, and Weighted Edges Node Ordering. The evaluation was conducted on synthetic datasets consisting of random sequences of varying lengths and distributions, and real-world datasets, including sentence-based sequences from the NLTK library and miRNA sequences mapped symbolically with a window-based approach. Metrics such as precision, sensitivity, and specificity were employed to assess performance. SSAKGs exhibited quadratic growth in memory capacity relative to graph size. This study introduces a novel structural approach for sequence storage and retrieval. Key advantages include no training requirements, flexible context-based reconstruction, and high efficiency in sparse memory graphs. With broad applications in computational neuroscience and bioinformatics, the approach offers scalable solutions for sequence-based memory tasks.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-09-09"
+  ],
+  "publication_venue": "Comput. Methods Programs Biomed. 269 (2025) 108865",
+  "pdf_url": null,
+  "category": "cs.AI, cs.DB"
+}

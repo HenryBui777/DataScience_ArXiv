@@ -1,0 +1,13 @@
+{
+  "title": "Light-Matter Hybridization and Entanglement from the First-Principles",
+  "authors": [
+    "Ilia Mazin",
+    "Yu Zhang"
+  ],
+  "summary": "The hybridization between light and matter is fundamental for achieving cavity-induced control over quantum materials, necessitating accurate ab initio methods for their analysis. Among these, the quantum electrodynamics Hartree-Fock framework stands out as an essential mean field approximation for electron-electron and electron-photon interactions, forming the basis for advanced post-Hartree-Fock methods like quantum electrodynamics coupled cluster and auxiliary field quantum Monte Carlo. However, trivial quantum electrodynamics Hartere-Fock (QEDHF) methods assume a product state ansätze and thus cannot describe the light-matter Entanglement. Furthermore, our previous work on variational ansätze approaches lacked the capability to capture anharmonic or nonlinear fluctuations, limiting their applicability to strongly coupled systems. To overcome these limitations, we propose an extended QEDHF formalism by introducing a variational Squeeze transformation capable of describing anharmonic quantum fluctuations in photon fields. By optimizing the squeezing parameters, our framework provides a more nuanced and accurate characterization of photon field quantum fluctuations, significantly enhancing the predictive power of QEDHF in strong coupling regimes. Moreover, this formalism enhances the description of light-matter Entanglement, providing a first-principles framework for understanding light-matter hybridization and paving the way for deeper insights into cavity-modified quantum phenomena.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, physics.chem-ph"
+}

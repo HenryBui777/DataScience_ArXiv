@@ -1,0 +1,17 @@
+{
+  "title": "The Sound of Water: Inferring Physical Properties from Pouring Liquids",
+  "authors": [
+    "Piyush Bagad",
+    "Makarand Tapaswi",
+    "Cees G. M. Snoek",
+    "Andrew Zisserman"
+  ],
+  "summary": "We study the connection between audio-visual observations and the underlying physics of a mundane yet intriguing everyday activity: pouring liquids. Given only the sound of liquid pouring into a container, our objective is to automatically infer physical properties such as the liquid level, the shape and size of the container, the pouring rate and the time to fill. To this end, we: (i) show in theory that these properties can be determined from the fundamental frequency (pitch); (ii) train a pitch detection model with supervision from simulated data and visual data with a physics-inspired objective; (iii) introduce a new large dataset of real pouring videos for a systematic study; (iv) show that the trained model can indeed infer these physical properties for real data; and finally, (v) we demonstrate strong generalization to various container shapes, other datasets, and in-the-wild YouTube videos. Our work presents a keen understanding of a narrow yet rich problem at the intersection of acoustics, physics, and learning. It opens up applications to enhance multisensory perception in robotic pouring.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-01-13"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.MM, cs.SD, eess.AS"
+}

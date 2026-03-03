@@ -1,0 +1,14 @@
+{
+  "title": "Sound Value Iteration for Simple Stochastic Games",
+  "authors": [
+    "Muqsit Azeem",
+    "Jan Kretinsky",
+    "Maximilian Weininger"
+  ],
+  "summary": "Algorithmic analysis of Markov decision processes (MDP) and stochastic games (SG) in practice relies on value-iteration (VI) algorithms. Since the basic version of VI does not provide guarantees on the precision of the result, variants of VI have been proposed that offer such guarantees. In particular, sound value iteration (SVI) not only provides precise lower and upper bounds on the result, but also converges faster in the presence of probabilistic cycles. Unfortunately, it is neither applicable to SG, nor to MDP with end components. In this paper, we extend SVI and cover both cases. The technical challenge consists mainly in proper treatment of end components, which require different handling than in the literature. Moreover, we provide several optimizations of SVI. Finally, we also evaluate our prototype implementation experimentally to confirm its advantages on systems with probabilistic cycles.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.GT, cs.LO, eess.SY"
+}

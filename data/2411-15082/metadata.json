@@ -1,0 +1,13 @@
+{
+  "title": "Towards Speaker Identification with Minimal Dataset and Constrained Resources using 1D-Convolution Neural Network",
+  "authors": [
+    "Irfan Nafiz Shahan",
+    "Pulok Ahmed Auvi"
+  ],
+  "summary": "Voice recognition and speaker identification are vital for applications in security and personal assistants. This paper presents a lightweight 1D-Convolutional Neural Network (1D-CNN) designed to perform speaker identification on minimal datasets. Our approach achieves a validation accuracy of 97.87%, leveraging data augmentation techniques to handle background noise and limited training samples. Future improvements include testing on larger datasets and integrating transfer learning methods to enhance generalizability. We provide all code, the custom dataset, and the trained models to facilitate reproducibility. These resources are available on our GitHub repository: https://github.com/IrfanNafiz/RecMe.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SD, cs.AI, cs.LG, eess.AS"
+}

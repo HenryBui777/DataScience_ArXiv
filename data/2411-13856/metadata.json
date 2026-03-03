@@ -1,0 +1,15 @@
+{
+  "title": "A Data-Driven Modeling and Motion Control of Heavy-Load Hydraulic Manipulators via Reversible Transformation",
+  "authors": [
+    "Dexian Ma",
+    "Yirong Liu",
+    "Wenbo Liu",
+    "Bo Zhou"
+  ],
+  "summary": "This work proposes a data-driven modeling and the corresponding hybrid motion control framework for unmanned and automated operation of industrial heavy-load hydraulic manipulator. Rather than the direct use of a neural network black box, we construct a reversible nonlinear model by using multilayer perceptron to approximate dynamics in the physical integrator chain system after reversible transformations. The reversible nonlinear model is trained offline using supervised learning techniques, and the data are obtained from simulations or experiments. Entire hybrid motion control framework consists of the model inversion controller that compensates for the nonlinear dynamics and proportional-derivative controller that enhances the robustness. The stability is proved with Lyapunov theory. Co-simulation and Experiments show the effectiveness of proposed modeling and hybrid control framework. With a commercial 39-ton class hydraulic excavator for motion control tasks, the root mean square error of trajectory tracking error decreases by at least 50\\% compared to traditional control methods. In addition, by analyzing the system model, the proposed framework can be rapidly applied to different control plants.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Pushing the Limits of Sparsity: A Bag of Tricks for Extreme Pruning",
+  "authors": [
+    "Andy Li",
+    "Aiden Durrant",
+    "Milan Markovic",
+    "Tianjin Huang",
+    "Souvik Kundu",
+    "Tianlong Chen",
+    "Lu Yin",
+    "Georgios Leontidis"
+  ],
+  "summary": "Pruning of deep neural networks has been an effective technique for reducing model size while preserving most of the performance of dense networks, crucial for deploying models on memory and power-constrained devices. While recent sparse learning methods have shown promising performance up to moderate sparsity levels such as 95% and 98%, accuracy quickly deteriorates when pushing sparsities to extreme levels due to unique challenges such as fragile gradient flow. In this work, we explore network performance beyond the commonly studied sparsities, and propose a collection of techniques that enable the continuous learning of networks without accuracy collapse even at extreme sparsities, including 99.90%, 99.95% and 99.99% on ResNet architectures. Our approach combines 1) Dynamic ReLU phasing, where DyReLU initially allows for richer parameter exploration before being gradually replaced by standard ReLU, 2) weight sharing which reuses parameters within a residual layer while maintaining the same number of learnable parameters, and 3) cyclic sparsity, where both sparsity levels and sparsity patterns evolve dynamically throughout training to better encourage parameter exploration. We evaluate our method, which we term Extreme Adaptive Sparse Training (EAST) at extreme sparsities using ResNet-34 and ResNet-50 on CIFAR-10, CIFAR-100, and ImageNet, achieving significant performance improvements over state-of-the-art methods we compared with.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-21",
+    "2025-03-10"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

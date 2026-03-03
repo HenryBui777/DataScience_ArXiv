@@ -1,0 +1,32 @@
+{
+  "title": "Leveraging LLMs for Legacy Code Modernization: Challenges and Opportunities for LLM-Generated Documentation",
+  "authors": [
+    "Colin Diggs",
+    "Michael Doyle",
+    "Amit Madan",
+    "Siggy Scott",
+    "Emily Escamilla",
+    "Jacob Zimmer",
+    "Naveed Nekoo",
+    "Paul Ursino",
+    "Michael Bartholf",
+    "Zachary Robin",
+    "Anand Patel",
+    "Chris Glasz",
+    "William Macke",
+    "Paul Kirk",
+    "Jasper Phillips",
+    "Arun Sridharan",
+    "Doug Wendt",
+    "Scott Rosen",
+    "Nitin Naik",
+    "Justin F. Brunelle",
+    "Samruddhi Thaker"
+  ],
+  "summary": "Legacy software systems, written in outdated languages like MUMPS and mainframe assembly, pose challenges in efficiency, maintenance, staffing, and security. While LLMs offer promise for modernizing these systems, their ability to understand legacy languages is largely unknown. This paper investigates the utilization of LLMs to generate documentation for legacy code using two datasets: an electronic health records (EHR) system in MUMPS and open-source applications in IBM mainframe Assembly Language Code (ALC). We propose a prompting strategy for generating line-wise code comments and a rubric to evaluate their completeness, readability, usefulness, and hallucination. Our study assesses the correlation between human evaluations and automated metrics, such as code complexity and reference-based metrics. We find that LLM-generated comments for MUMPS and ALC are generally hallucination-free, complete, readable, and useful compared to ground-truth comments, though ALC poses challenges. However, no automated metrics strongly correlate with comment quality to predict or measure LLM performance. Our findings highlight the limitations of current automated measures and the need for better evaluation metrics for LLM-generated documentation in legacy systems.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.SE"
+}

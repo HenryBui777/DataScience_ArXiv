@@ -1,0 +1,15 @@
+{
+  "title": "Generalized Treatment of Energy Accommodation in Gas-Surface Interactions for Satellite Aerodynamics Applications",
+  "authors": [
+    "Friedrich Tuttas",
+    "Constantin Traub",
+    "Marcel Pfeiffer",
+    "Walter Fichter"
+  ],
+  "summary": "In the context of satellite aerodynamics in the Very-Low-Earth-Orbit (VLEO) regime, accurate modeling of gas-surface interactions (GSI) is crucial for determining aerodynamic forces and torques. Common models such as Sentman's assume that gas particles are reflected diffusely from a surface, which leads to the incorporation of energy accommodation into the model. This technical note discusses the limitations of existing approaches for handling energy accommodation and provides a generalized treatment thereof that is valid for any molecular speed ratio. A new general expression for the temperature ratio of reflected to impinging particles is derived, which, when used in a GSI model, retains its validity even in hypothermal flows. Additionally, a simplified hyperthermal approximation is presented, proven to be an asymptote of the general expression, and shown to be an improvement upon existing approximations by comparison for a realistic VLEO scenario. The results contribute to a better understanding and modeling of GSI, potentially benefiting scientific investigations and operational applications in satellite aerodynamics.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.flu-dyn, physics.space-ph"
+}

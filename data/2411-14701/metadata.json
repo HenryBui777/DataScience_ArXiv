@@ -1,0 +1,17 @@
+{
+  "title": "Personalised 3D Human Digital Twin with Soft-Body Feet for Walking Simulation",
+  "authors": [
+    "Kum Yew Loke",
+    "Sherwin Stephen Chan",
+    "Mingyuan Lei",
+    "Henry Johan",
+    "Bingran Zuo",
+    "Wei Tech Ang"
+  ],
+  "summary": "With the increasing use of assistive robots in rehabilitation and assisted mobility of human patients, there has been a need for a deeper understanding of human-robot interactions particularly through simulations, allowing an understanding of these interactions in a digital environment. There is an emphasis on accurately modelling personalised 3D human digital twins in these simulations, to glean more insights on human-robot interactions. In this paper, we propose to integrate personalised soft-body feet, generated using the motion capture data of real human subjects, into a skeletal model and train it with a walking control policy. Through evaluation using ground reaction force and joint angle results, the soft-body feet were able to generate ground reaction force results comparable to real measured data and closely follow joint angle results of the bare skeletal model and the reference motion. This presents an interesting avenue to produce a dynamically accurate human model in simulation driven by their own control policy while only seeing kinematic information during training.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

@@ -1,0 +1,734 @@
+{
+  "2406-03369": {
+    "title": "Posterior and variational inference for deep neural networks with heavy-tailed weights",
+    "authors": [
+      "Ismael Castillo",
+      "Paul Egels"
+    ],
+    "publication_date": "2024-06-05",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "ea419aee5101ccbeff9bc7659361ce7ea77d1c6d",
+    "corpus_id": 270258321,
+    "category": "Mathematics, Computer Science"
+  },
+  "2406-03345": {
+    "title": "Feature Contamination: Neural Networks Learn Uncorrelated Features and Fail to Generalize",
+    "authors": [
+      "Tianren Zhang",
+      "Chujie Zhao",
+      "Guanyu Chen",
+      "Yizhou Jiang",
+      "Feng Chen"
+    ],
+    "publication_date": "2024-06-05",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "05993d6e5afef04879d88b87f51326609de80fa8",
+    "corpus_id": 270258361,
+    "category": "Computer Science"
+  },
+  "2402-12323": {
+    "title": "Expressing and Visualizing Model Uncertainty in Bayesian Variable Selection Using Cartesian Credible Sets",
+    "authors": [
+      "Jim Griffin"
+    ],
+    "publication_date": "2024-02-19",
+    "venue": "Bayesian Analysis",
+    "semantic_scholar_id": "55fccb2c00d41c015d00423bfd19871c27902a75",
+    "corpus_id": 267750244,
+    "category": "Mathematics"
+  },
+  "2310-01651": {
+    "title": "Fool Your (Vision and) Language Model With Embarrassingly Simple Permutations",
+    "authors": [
+      "Yongshuo Zong",
+      "Tingyang Yu",
+      "Bingchen Zhao",
+      "Ruchika Chavhan",
+      "Timothy M. Hospedales"
+    ],
+    "publication_date": "2023-10-02",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "d25abd12a3453180900bd6194a6f30f6ed893f94",
+    "corpus_id": 263609099,
+    "category": "Computer Science"
+  },
+  "2309-16314": {
+    "title": "A Primer on Bayesian Neural Networks: Review and Debates",
+    "authors": [
+      "Julyan Arbel",
+      "Konstantinos Pitas",
+      "M. Vladimirova",
+      "Vincent Fortuin"
+    ],
+    "publication_date": "2023-09-28",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "74565c3b2f7e4300fd218a39b2d27663fc57029c",
+    "corpus_id": 263134168,
+    "category": "Mathematics, Computer Science"
+  },
+  "2307-15073": {
+    "title": "Drug Discovery under Covariate Shift with Domain-Informed Prior Distributions over Functions",
+    "authors": [
+      "Leo Klarner",
+      "Tim G. J. Rudner",
+      "M. Reutlinger",
+      "Torsten Schindler",
+      "G. Morris",
+      "C. Deane",
+      "Y. Teh"
+    ],
+    "publication_date": "2023-07-14",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "b8aa70a1f688a6186a9f79970aad785ae03febd6",
+    "corpus_id": 260316347,
+    "category": "Computer Science, Biology, Mathematics"
+  },
+  "2306-01122": {
+    "title": "On the Convergence of Coordinate Ascent Variational Inference",
+    "authors": [
+      "A. Bhattacharya",
+      "D. Pati",
+      "Yun Yang"
+    ],
+    "publication_date": "2023-06-01",
+    "venue": "Annals of Statistics",
+    "semantic_scholar_id": "616dae5f6c995e64de90f6b55a9c9818e921d904",
+    "corpus_id": 259064317,
+    "category": "Computer Science, Mathematics"
+  },
+  "2305-20009": {
+    "title": "Protein Design with Guided Discrete Diffusion",
+    "authors": [
+      "Nate Gruver",
+      "S. Stanton",
+      "Nathan C Frey",
+      "Tim G. J. Rudner",
+      "I. Hotzel",
+      "J. Lafrance-Vanasse",
+      "A. Rajpal",
+      "Kyunghyun Cho",
+      "A. Wilson"
+    ],
+    "publication_date": "2023-05-31",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "7b14cef8a08519d7ea33800d52aba8410f48a3f7",
+    "corpus_id": 258987335,
+    "category": "Computer Science, Biology"
+  },
+  "2305-12082": {
+    "title": "SneakyPrompt: Jailbreaking Text-to-image Generative Models",
+    "authors": [
+      "Yuchen Yang",
+      "Bo Hui",
+      "Haolin Yuan",
+      "N. Gong",
+      "Yinzhi Cao"
+    ],
+    "publication_date": "2023-05-20",
+    "venue": "IEEE Symposium on Security and Privacy",
+    "semantic_scholar_id": "9867456c81f262162c2fdf9c8498218a8936c84d",
+    "corpus_id": 265150147,
+    "category": "Computer Science"
+  },
+  "2302-13971": {
+    "title": "LLaMA: Open and Efficient Foundation Language Models",
+    "authors": [
+      "Hugo Touvron",
+      "Thibaut Lavril",
+      "Gautier Izacard",
+      "Xavier Martinet",
+      "M. Lachaux",
+      "Timothée Lacroix",
+      "Baptiste Rozière",
+      "Naman Goyal",
+      "Eric Hambro",
+      "Faisal Azhar",
+      "Aur'elien Rodriguez",
+      "Armand Joulin",
+      "Edouard Grave",
+      "Guillaume Lample"
+    ],
+    "publication_date": "2023-02-27",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "57e849d0de13ed5f91d086936296721d4ff75a75",
+    "corpus_id": 257219404,
+    "category": "Computer Science"
+  },
+  "2206-00241": {
+    "title": "Asymptotic Properties for Bayesian Neural Network in Besov Space",
+    "authors": [
+      "Kyeongwon Lee",
+      "Jaeyong Lee"
+    ],
+    "publication_date": "2022-06-01",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "93f16adf653ad599417129dfa34608e58b556f09",
+    "corpus_id": 249240208,
+    "category": "Mathematics, Computer Science"
+  },
+  "2202-11670": {
+    "title": "Wide Mean-Field Bayesian Neural Networks Ignore the Data",
+    "authors": [
+      "Beau Coker",
+      "W. Bruinsma",
+      "David R. Burt",
+      "Weiwei Pan",
+      "F. Doshi-Velez"
+    ],
+    "publication_date": "2022-02-23",
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "semantic_scholar_id": "99229188a719a89d4599c0025540070ecfb8eb11",
+    "corpus_id": 247058315,
+    "category": "Computer Science, Mathematics"
+  },
+  "2111-14397": {
+    "title": "Dependence between Bayesian neural network units",
+    "authors": [
+      "M. Vladimirova",
+      "Julyan Arbel",
+      "S. Girard"
+    ],
+    "publication_date": "2021-11-29",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "b4c57d3c3b52ec43e6635ecd19a09fb89b679bb9",
+    "corpus_id": 244714377,
+    "category": "Mathematics"
+  },
+  "2109-03204": {
+    "title": "Adaptive variational Bayes: Optimality, computation and applications",
+    "authors": [
+      "Ilsang Ohn",
+      "Lizhen Lin"
+    ],
+    "publication_date": "2021-09-07",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "ece20780bfe66a7a55c8390983326cecdf7624cd",
+    "corpus_id": 237431254,
+    "category": "Mathematics"
+  },
+  "2102-11010": {
+    "title": "Resilience of Bayesian Layer-Wise Explanations under Adversarial Attacks",
+    "authors": [
+      "Ginevra Carbone",
+      "G. Sanguinetti",
+      "L. Bortolussi"
+    ],
+    "publication_date": "2021-02-22",
+    "venue": "IEEE International Joint Conference on Neural Network",
+    "semantic_scholar_id": "4546e3db1bf8fd58824fca7e6aca193721d349b1",
+    "corpus_id": 231985861,
+    "category": "Computer Science, Mathematics"
+  },
+  "2012-10943": {
+    "title": "Trace-class Gaussian priors for Bayesian learning of neural networks with MCMC",
+    "authors": [
+      "Torben Sell",
+      "Sumeetpal S. Singh"
+    ],
+    "publication_date": "2020-12-20",
+    "venue": "Journal of the Royal Statistical Society Series B: Statistical Methodology",
+    "semantic_scholar_id": "b600cd499f9c5a49b073c12833b7def9f5a43b17",
+    "corpus_id": 240354227,
+    "category": "Mathematics"
+  },
+  "2011-07439": {
+    "title": "Efficient Variational Inference for Sparse Deep Learning with Theoretical Guarantee",
+    "authors": [
+      "Jincheng Bai",
+      "Qifan Song",
+      "Guang Cheng"
+    ],
+    "publication_date": "2020-11-15",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "730be081f6e6a0e48402d3a58361821050d822fb",
+    "corpus_id": 226964971,
+    "category": "Computer Science, Mathematics"
+  },
+  "2010-13229": {
+    "title": "Latent Network Estimation and Variable Selection for Compositional Data Via Variational EM",
+    "authors": [
+      "Nathan Osborne",
+      "Christine B. Peterson",
+      "M. Vannucci"
+    ],
+    "publication_date": "2020-10-25",
+    "venue": "Journal of Computational And Graphical Statistics",
+    "semantic_scholar_id": "d536911e01a8c0575f6dc9ec5797235ea8c3cf0a",
+    "corpus_id": 225067956,
+    "category": "Medicine, Computer Science, Mathematics"
+  },
+  "2010-11929": {
+    "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+    "authors": [
+      "Alexey Dosovitskiy",
+      "Lucas Beyer",
+      "Alexander Kolesnikov",
+      "Dirk Weissenborn",
+      "Xiaohua Zhai",
+      "Thomas Unterthiner",
+      "Mostafa Dehghani",
+      "M. Minderer",
+      "G. Heigold",
+      "S. Gelly",
+      "Jakob Uszkoreit",
+      "N. Houlsby"
+    ],
+    "publication_date": "2020-10-22",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "268d347e8a55b5eb82fb5e7d2f800e33c75ab18a",
+    "corpus_id": 225039882,
+    "category": "Computer Science"
+  },
+  "2007-06823": {
+    "title": "Hands-On Bayesian Neural Networks—A Tutorial for Deep Learning Users",
+    "authors": [
+      "Laurent Valentin Jospin",
+      "Wray L. Buntine",
+      "F. Boussaid",
+      "Hamid Laga",
+      "Bennamoun"
+    ],
+    "publication_date": "2020-07-14",
+    "venue": "IEEE Computational Intelligence Magazine",
+    "semantic_scholar_id": "9eebd3c7971a239cf69a0358563f397bd8a8f99c",
+    "corpus_id": 220514248,
+    "category": "Computer Science, Mathematics"
+  },
+  "2006-12335": {
+    "title": "Stacking for Non-mixing Bayesian Computations: The Curse and Blessing of Multimodal Posteriors",
+    "authors": [
+      "Yuling Yao",
+      "Aki Vehtari",
+      "A. Gelman"
+    ],
+    "publication_date": "2020-06-22",
+    "venue": "Journal of machine learning research",
+    "semantic_scholar_id": "9b6fbc7bd422e78d0a58a5ffed62816e444e2d22",
+    "corpus_id": 219966748,
+    "category": "Computer Science, Mathematics"
+  },
+  "2003-00394": {
+    "title": "Stable behaviour of infinitely wide deep neural networks",
+    "authors": [
+      "S. Favaro",
+      "S. Fortini",
+      "Stefano Peluchetti"
+    ],
+    "publication_date": "2020-03-01",
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "semantic_scholar_id": "b571f091a2124cfae8677be0b722ca51dd403946",
+    "corpus_id": 211677286,
+    "category": "Mathematics, Computer Science"
+  },
+  "2002-06470": {
+    "title": "Pitfalls of In-Domain Uncertainty Estimation and Ensembling in Deep Learning",
+    "authors": [
+      "Arsenii Ashukha",
+      "Alexander Lyzhov",
+      "Dmitry Molchanov",
+      "D. Vetrov"
+    ],
+    "publication_date": "2020-02-15",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "d12fd94337ac804470dc78911e74b5b6480eef8e",
+    "corpus_id": 209314627,
+    "category": "Computer Science, Mathematics"
+  },
+  "2002-04359": {
+    "title": "Robustness of Bayesian Neural Networks to Gradient-Based Attacks",
+    "authors": [
+      "Ginevra Carbone",
+      "Matthew Wicker",
+      "L. Laurenti",
+      "A. Patané",
+      "L. Bortolussi",
+      "G. Sanguinetti"
+    ],
+    "publication_date": "2020-02-11",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "1def98f70ec304a0d9ed3eb767a3bcd79b48dace",
+    "corpus_id": 211075850,
+    "category": "Computer Science, Mathematics"
+  },
+  "2001-00921": {
+    "title": "Wide Neural Networks with Bottlenecks are Deep Gaussian Processes",
+    "authors": [
+      "Devanshu Agrawal",
+      "T. Papamarkou",
+      "Jacob Hinkle"
+    ],
+    "publication_date": "2020-01-03",
+    "venue": "Journal of machine learning research",
+    "semantic_scholar_id": "d011ebda83f3768b72f1d1e878de11bd40abbc4a",
+    "corpus_id": 209832451,
+    "category": "Computer Science, Mathematics"
+  },
+  "1912-11554": {
+    "title": "Composable Effects for Flexible and Accelerated Probabilistic Programming in NumPyro",
+    "authors": [
+      "Du Phan",
+      "Neeraj Pradhan",
+      "M. Jankowiak"
+    ],
+    "publication_date": "2019-09-16",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "4c006a6fc9150b6ddd53c36c8f6561e967d19b1e",
+    "corpus_id": 203595078,
+    "category": "Computer Science, Mathematics"
+  },
+  "1908-04847": {
+    "title": "Convergence Rates of Variational Inference in Sparse Deep Learning",
+    "authors": [
+      "Badr-Eddine Ch'erief-Abdellatif"
+    ],
+    "publication_date": "2019-08-09",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "fabecc4081f6490e95ca74c17dc07b22718932c1",
+    "corpus_id": 202539828,
+    "category": "Computer Science, Mathematics"
+  },
+  "1904-07150": {
+    "title": "Variational Bayes for High-Dimensional Linear Regression With Sparse Priors",
+    "authors": [
+      "Kolyan Ray",
+      "Botond Szabó"
+    ],
+    "publication_date": "2019-04-15",
+    "venue": "Journal of the American Statistical Association",
+    "semantic_scholar_id": "1c5cb60367eeaa53dbf8f953290c9f2b03e8f17b",
+    "corpus_id": 118674906,
+    "category": "Computer Science, Mathematics"
+  },
+  "1812-05720": {
+    "title": "Why ReLU Networks Yield High-Confidence Predictions Far Away From the Training Data and How to Mitigate the Problem",
+    "authors": [
+      "Matthias Hein",
+      "Maksym Andriushchenko",
+      "Julian Bitterwolf"
+    ],
+    "publication_date": "2018-12-13",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "a25b63a6a0071d7d88ff4671c1fd40f320a08533",
+    "corpus_id": 55700923,
+    "category": "Computer Science, Mathematics"
+  },
+  "1810-02406": {
+    "title": "Projective Inference in High-dimensional Problems: Prediction and Feature Selection",
+    "authors": [
+      "Juho Piironen",
+      "Markus Paasiniemi",
+      "Aki Vehtari"
+    ],
+    "publication_date": "2018-10-04",
+    "venue": "Electronic Journal of Statistics",
+    "semantic_scholar_id": "735858485b370673010cb354fea85ac4ea64c5bf",
+    "corpus_id": 52926923,
+    "category": "Mathematics, Computer Science"
+  },
+  "1806-05975": {
+    "title": "Structured Variational Learning of Bayesian Neural Networks with Horseshoe Priors",
+    "authors": [
+      "S. Ghosh",
+      "Jiayu Yao",
+      "F. Doshi-Velez"
+    ],
+    "publication_date": "2018-06-13",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "d57a82012f732863a8fdca17fc40c2e00bd2b14c",
+    "corpus_id": 49272383,
+    "category": "Computer Science, Mathematics"
+  },
+  "1803-09138": {
+    "title": "Posterior Concentration for Sparse Deep Learning",
+    "authors": [
+      "Nicholas G. Polson",
+      "V. Ročková"
+    ],
+    "publication_date": "2018-03-24",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "a24ea9ee6e23a80599db1ebb923c1fdcc97fd65d",
+    "corpus_id": 4400590,
+    "category": "Computer Science, Mathematics"
+  },
+  "1804-11271": {
+    "title": "Gaussian Process Behaviour in Wide Deep Neural Networks",
+    "authors": [
+      "A. G. Matthews",
+      "Mark Rowland",
+      "Jiri Hron",
+      "Richard E. Turner",
+      "Zoubin Ghahramani"
+    ],
+    "publication_date": "2018-02-15",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "fb350d3b03e9308ccbd131d3d45dd44e383e6227",
+    "corpus_id": 13757156,
+    "category": "Computer Science, Mathematics"
+  },
+  "1802-02538": {
+    "title": "Yes, but Did It Work?: Evaluating Variational Inference",
+    "authors": [
+      "Yuling Yao",
+      "Aki Vehtari",
+      "Daniel P. Simpson",
+      "A. Gelman"
+    ],
+    "publication_date": "2018-02-07",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "db1a81f3eaaf61586ce924bc7e4e10425ad6b3ac",
+    "corpus_id": 46993797,
+    "category": "Computer Science, Mathematics"
+  },
+  "1712-02519": {
+    "title": "Convergence rates of variational posterior distributions",
+    "authors": [
+      "Fengshuo Zhang",
+      "Chao Gao"
+    ],
+    "publication_date": "2017-12-07",
+    "venue": "Annals of Statistics",
+    "semantic_scholar_id": "5fc55681145fcb7e287115faefcc9a28bd206807",
+    "corpus_id": 88522158,
+    "category": "Mathematics"
+  },
+  "1711-06999": {
+    "title": "Conditionally Conjugate Mean-Field Variational Bayes for Logistic Models",
+    "authors": [
+      "Daniele Durante",
+      "T. Rigon"
+    ],
+    "publication_date": "2017-11-19",
+    "venue": "Statistical Science",
+    "semantic_scholar_id": "399bc94b5ec174faaa3cf1865327fc38fa4c061e",
+    "corpus_id": 88516390,
+    "category": "Mathematics"
+  },
+  "1711-05597": {
+    "title": "Advances in Variational Inference",
+    "authors": [
+      "Cheng Zhang",
+      "Judith Bütepage",
+      "H. Kjellström",
+      "S. Mandt"
+    ],
+    "publication_date": "2017-11-15",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "9884d18f265f9178ff9862d53cacbbc9957ddc4c",
+    "corpus_id": 10040085,
+    "category": "Medicine, Computer Science, Mathematics"
+  },
+  "1711-00165": {
+    "title": "Deep Neural Networks as Gaussian Processes",
+    "authors": [
+      "Jaehoon Lee",
+      "Yasaman Bahri",
+      "Roman Novak",
+      "S. Schoenholz",
+      "Jeffrey Pennington",
+      "Jascha Narain Sohl-Dickstein"
+    ],
+    "publication_date": "2017-11-01",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "075556dd42900a6bc4552a2f2531ba21b9b7b4c0",
+    "corpus_id": 3708505,
+    "category": "Mathematics, Computer Science"
+  },
+  "1706-09293": {
+    "title": "Concentration of tempered posteriors and of their variational approximations",
+    "authors": [
+      "Pierre Alquier",
+      "James Ridgway"
+    ],
+    "publication_date": "2017-06-28",
+    "venue": "Annals of Statistics",
+    "semantic_scholar_id": "f9832eb4d8dc7cde63676a195f778167c8cafc31",
+    "corpus_id": 21555234,
+    "category": "Mathematics, Computer Science"
+  },
+  "1706-04599": {
+    "title": "On Calibration of Modern Neural Networks",
+    "authors": [
+      "Chuan Guo",
+      "Geoff Pleiss",
+      "Yu Sun",
+      "Kilian Q. Weinberger"
+    ],
+    "publication_date": "2017-06-14",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "d65ce2b8300541414bfe51d03906fca72e93523c",
+    "corpus_id": 28671436,
+    "category": "Computer Science, Mathematics"
+  },
+  "1705-03439": {
+    "title": "Frequentist Consistency of Variational Bayes",
+    "authors": [
+      "Yixin Wang",
+      "D. Blei"
+    ],
+    "publication_date": "2017-05-09",
+    "venue": "Journal of the American Statistical Association",
+    "semantic_scholar_id": "534403a65fa011cc29a09e29864a88cd6216a0dd",
+    "corpus_id": 26011675,
+    "category": "Mathematics, Computer Science"
+  },
+  "1612-01474": {
+    "title": "Simple and Scalable Predictive Uncertainty Estimation using Deep Ensembles",
+    "authors": [
+      "Balaji Lakshminarayanan",
+      "A. Pritzel",
+      "C. Blundell"
+    ],
+    "publication_date": "2016-12-05",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "802168a81571dde28f5ddb94d84677bc007afa7b",
+    "corpus_id": 6294674,
+    "category": "Computer Science, Mathematics"
+  },
+  "1610-05559": {
+    "title": "On the Hyperprior Choice for the Global Shrinkage Parameter in the Horseshoe Prior",
+    "authors": [
+      "Juho Piironen",
+      "Aki Vehtari"
+    ],
+    "publication_date": "2016-10-18",
+    "venue": "International Conference on Artificial Intelligence and Statistics",
+    "semantic_scholar_id": "c3d50c14744a1b939fb09c113909059a8d081370",
+    "corpus_id": 6718840,
+    "category": "Mathematics, Computer Science"
+  },
+  "1602-05897": {
+    "title": "Toward Deeper Understanding of Neural Networks: The Power of Initialization and a Dual View on Expressivity",
+    "authors": [
+      "Amit Daniely",
+      "Roy Frostig",
+      "Y. Singer"
+    ],
+    "publication_date": "2016-02-18",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "dade3d81749385e08ec0f163c806308c94b56f32",
+    "corpus_id": 263787277,
+    "category": "Computer Science, Mathematics"
+  },
+  "1601-00670": {
+    "title": "Variational Inference: A Review for Statisticians",
+    "authors": [
+      "D. Blei",
+      "A. Kucukelbir",
+      "Jon D. McAuliffe"
+    ],
+    "publication_date": "2016-01-04",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "6f24d7a6e1c88828e18d16c6db20f5329f6a6827",
+    "corpus_id": 3554631,
+    "category": "Mathematics, Computer Science"
+  },
+  "1503-04303": {
+    "title": "Variable selection using shrinkage priors",
+    "authors": [
+      "Hanning Li",
+      "D. Pati"
+    ],
+    "publication_date": "2015-03-14",
+    "venue": "Computational Statistics & Data Analysis",
+    "semantic_scholar_id": "881539ccc5cf9f8ded02efd9473e1e6256710d5a",
+    "corpus_id": 42676470,
+    "category": "Computer Science, Mathematics"
+  },
+  "1502-01852": {
+    "title": "Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification",
+    "authors": [
+      "Kaiming He",
+      "X. Zhang",
+      "Shaoqing Ren",
+      "Jian Sun"
+    ],
+    "publication_date": "2015-02-06",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "d6f2f611da110b5b5061731be3fc4c7f45d8ee23",
+    "corpus_id": 13740328,
+    "category": "Computer Science"
+  },
+  "1412-1897": {
+    "title": "Deep neural networks are easily fooled: High confidence predictions for unrecognizable images",
+    "authors": [
+      "Anh Totti Nguyen",
+      "J. Yosinski",
+      "J. Clune"
+    ],
+    "publication_date": "2014-12-04",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "4543670c4b2d88a9b67525e0084044adef94ae76",
+    "corpus_id": 206592585,
+    "category": "Computer Science"
+  },
+  "1408-0464": {
+    "title": "Decoupling Shrinkage and Selection in Bayesian Linear Models: A Posterior Summary Perspective",
+    "authors": [
+      "By P. Richard Hahn",
+      "C. Carvalho"
+    ],
+    "publication_date": "2014-08-03",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "a3dba6e4b636bfeb942a9db29c195bf7cb4433b3",
+    "corpus_id": 51821006,
+    "category": "Mathematics"
+  },
+  "1312-6199": {
+    "title": "Intriguing properties of neural networks",
+    "authors": [
+      "Christian Szegedy",
+      "Wojciech Zaremba",
+      "I. Sutskever",
+      "Joan Bruna",
+      "D. Erhan",
+      "I. Goodfellow",
+      "R. Fergus"
+    ],
+    "publication_date": "2013-12-20",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "d891dc72cbd40ffaeefdc79f2e7afe1e530a23ad",
+    "corpus_id": 604334,
+    "category": "Computer Science"
+  },
+  "1310-4546": {
+    "title": "Distributed Representations of Words and Phrases and their Compositionality",
+    "authors": [
+      "Tomas Mikolov",
+      "I. Sutskever",
+      "Kai Chen",
+      "G. Corrado",
+      "J. Dean"
+    ],
+    "publication_date": "2013-10-16",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "87f40e6f3022adbc1f1905e3e506abad05a9964f",
+    "corpus_id": 16447573,
+    "category": "Computer Science, Mathematics"
+  },
+  "1206-7051": {
+    "title": "Stochastic variational inference",
+    "authors": [
+      "M. Hoffman",
+      "D. Blei",
+      "Chong Wang",
+      "J. Paisley"
+    ],
+    "publication_date": "2012-06-29",
+    "venue": "Journal of machine learning research",
+    "semantic_scholar_id": "bccb2f99a9d1c105699f5d88c479569085e2c7ba",
+    "corpus_id": 5652538,
+    "category": "Computer Science, Mathematics"
+  },
+  "1101-6037": {
+    "title": "Sequential Monte Carlo on large binary sampling spaces",
+    "authors": [
+      "C. Schäfer",
+      "N. Chopin"
+    ],
+    "publication_date": "2011-01-31",
+    "venue": "Statistics and computing",
+    "semantic_scholar_id": "406065d3fa91b37d1ea3e1c70e88f8c24c895f18",
+    "corpus_id": 2832910,
+    "category": "Computer Science, Mathematics"
+  }
+}

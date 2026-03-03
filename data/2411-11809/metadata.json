@@ -1,0 +1,13 @@
+{
+  "title": "The Lambda Calculus is Quantifiable",
+  "authors": [
+    "Valentin Maestracci",
+    "Paolo Pistone"
+  ],
+  "summary": "In this paper we introduce several quantitative methods for the lambda-calculus based on partial metrics, a well-studied variant of standard metric spaces that have been used to metrize non-Hausdorff topologies, like those arising from Scott domains. First, we study quantitative variants, based on program distances, of sensible equational theories for the $λ$-calculus, like those arising from Böhm trees and from the contextual preorder. Then, we introduce applicative distances capturing higher-order Scott topologies, including reflexive objects like the $D_\\infty$ model. Finally, we provide a quantitative insight on the well-known connection between the Böhm tree of a $λ$-term and its Taylor expansion, by showing that the latter can be presented as an isometric transformation.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LO, cs.PL, math.LO"
+}

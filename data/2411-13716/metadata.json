@@ -1,0 +1,15 @@
+{
+  "title": "Developing Normative Gait Cycle Parameters for Clinical Analysis Using Human Pose Estimation",
+  "authors": [
+    "Rahm Ranjan",
+    "David Ahmedt-Aristizabal",
+    "Mohammad Ali Armin",
+    "Juno Kim"
+  ],
+  "summary": "Gait analysis using computer vision is an emerging field in AI, offering clinicians an objective, multi-feature approach to analyse complex movements. Despite its promise, current applications using RGB video data alone are limited in measuring clinically relevant spatial and temporal kinematics and establishing normative parameters essential for identifying movement abnormalities within a gait cycle. This paper presents a data-driven method using RGB video data and 2D human pose estimation for developing normative kinematic gait parameters. By analysing joint angles, an established kinematic measure in biomechanics and clinical practice, we aim to enhance gait analysis capabilities and improve explainability. Our cycle-wise kinematic analysis enables clinicians to simultaneously measure and compare multiple joint angles, assessing individuals against a normative population using just monocular RGB video. This approach expands clinical capacity, supports objective decision-making, and automates the identification of specific spatial and temporal deviations and abnormalities within the gait cycle.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

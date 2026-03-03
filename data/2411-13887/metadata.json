@@ -1,0 +1,18 @@
+{
+  "title": "A cohomology-based Gromov-Hausdorff metric approach for quantifying molecular similarity",
+  "authors": [
+    "JunJie Wee",
+    "Xue Gong",
+    "Wilderich Tuschmann",
+    "Kelin Xia"
+  ],
+  "summary": "We introduce, for the first time, a cohomology-based Gromov-Hausdorff ultrametric method to analyze 1-dimensional and higher-dimensional (co)homology groups, focusing on loops, voids, and higher-dimensional cavity structures in simplicial complexes, to address typical clustering questions arising in molecular data analysis. The Gromov-Hausdorff distance quantifies the dissimilarity between two metric spaces. In this framework, molecules are represented as simplicial complexes, and their cohomology vector spaces are computed to capture intrinsic topological invariants encoding loop and cavity structures. These vector spaces are equipped with a suitable distance measure, enabling the computation of the Gromov-Hausdorff ultrametric to evaluate structural dissimilarities. We demonstrate the methodology using organic-inorganic halide perovskite (OIHP) structures. The results highlight the effectiveness of this approach in clustering various molecular structures. By incorporating geometric information, our method provides deeper insights compared to traditional persistent homology techniques.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-01-13",
+    "2025-02-26"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AT, cond-mat.mtrl-sci, cs.CG, math.MG, stat.ML"
+}

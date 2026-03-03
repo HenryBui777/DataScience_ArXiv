@@ -1,0 +1,21 @@
+{
+  "title": "Visualizing Loss Functions as Topological Landscape Profiles",
+  "authors": [
+    "Caleb Geniesse",
+    "Jiaqing Chen",
+    "Tiankai Xie",
+    "Ge Shi",
+    "Yaoqing Yang",
+    "Dmitriy Morozov",
+    "Talita Perciano",
+    "Michael W. Mahoney",
+    "Ross Maciejewski",
+    "Gunther H. Weber"
+  ],
+  "summary": "In machine learning, a loss function measures the difference between model predictions and ground-truth (or target) values. For neural network models, visualizing how this loss changes as model parameters are varied can provide insights into the local structure of the so-called loss landscape (e.g., smoothness) as well as global properties of the underlying model (e.g., generalization performance). While various methods for visualizing the loss landscape have been proposed, many approaches limit sampling to just one or two directions, ignoring potentially relevant information in this extremely high-dimensional space. This paper introduces a new representation based on topological data analysis that enables the visualization of higher-dimensional loss landscapes. After describing this new topological landscape profile representation, we show how the shape of loss landscapes can reveal new details about model performance and learning dynamics, highlighting several use cases, including image segmentation (e.g., UNet) and scientific machine learning (e.g., physics-informed neural networks). Through these examples, we provide new insights into how loss landscapes vary across distinct hyperparameter spaces: we find that the topology of the loss landscape is simpler for better-performing models; and we observe greater variation in the shape of loss landscapes near transitions from low to high model performance.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI"
+}

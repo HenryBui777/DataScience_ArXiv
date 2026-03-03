@@ -1,0 +1,14 @@
+{
+  "title": "An exact way to verify whether n is a congruent number using Heegner points",
+  "authors": [
+    "Heng Chen",
+    "Rong Ma",
+    "Tuoping Du"
+  ],
+  "summary": "We introduce the relationship between congruent numbers and elliptic curves, and compute the conductor of the elliptic curve $y^2 = x^3 - n^2 x$ associated with it. Furthermore, we prove that its $L$-series coefficient $a_m = 0$ when $m \\equiv 3 \\mod 4$.By using the invariants of the elliptic curve introduced above, we calculate Heegner points to quickly verify whether $n$ is a congruent number.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NT"
+}

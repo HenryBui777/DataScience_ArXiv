@@ -1,0 +1,25 @@
+{
+  "title": "RankByGene: Gene-Guided Histopathology Representation Learning Through Cross-Modal Ranking Consistency",
+  "authors": [
+    "Wentao Huang",
+    "Meilong Xu",
+    "Xiaoling Hu",
+    "Shahira Abousamra",
+    "Aniruddha Ganguly",
+    "Saarthak Kapse",
+    "Alisa Yurovsky",
+    "Prateek Prasanna",
+    "Tahsin Kurc",
+    "Joel Saltz",
+    "Michael L. Miller",
+    "Chao Chen"
+  ],
+  "summary": "Spatial transcriptomics (ST) provides essential spatial context by mapping gene expression within tissue, enabling detailed study of cellular heterogeneity and tissue organization. However, aligning ST data with histology images poses challenges due to inherent spatial distortions and modality-specific variations. Existing methods largely rely on direct alignment, which often fails to capture complex cross-modal relationships. To address these limitations, we propose a novel framework that aligns gene and image features using a ranking-based alignment loss, preserving relative similarity across modalities and enabling robust multi-scale alignment. To further enhance the alignment's stability, we employ self-supervised knowledge distillation with a teacher-student network architecture, effectively mitigating disruptions from high dimensionality, sparsity, and noise in gene expression data. Extensive experiments on seven public datasets that encompass gene expression prediction, slide-level classification, and survival analysis demonstrate the efficacy of our method, showing improved alignment and predictive performance over existing methods.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-03-22"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.CV, q-bio.QM"
+}

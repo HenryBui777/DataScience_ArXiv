@@ -1,0 +1,19 @@
+{
+  "title": "DRL-Based Optimization for AoI and Energy Consumption in C-V2X Enabled IoV",
+  "authors": [
+    "Zheng Zhang",
+    "Qiong Wu",
+    "Pingyi Fan",
+    "Nan Cheng",
+    "Wen Chen",
+    "Khaled B. Letaief"
+  ],
+  "summary": "To address communication latency issues, the Third Generation Partnership Project (3GPP) has defined Cellular-Vehicle to Everything (C-V2X) technology, which includes Vehicle-to-Vehicle (V2V) communication for direct vehicle-to-vehicle communication. However, this method requires vehicles to autonomously select communication resources based on the Semi-Persistent Scheduling (SPS) protocol, which may lead to collisions due to different vehicles sharing the same communication resources, thereby affecting communication effectiveness. Non-Orthogonal Multiple Access (NOMA) is considered a potential solution for handling large-scale vehicle communication, as it can enhance the Signal-to-Interference-plus-Noise Ratio (SINR) by employing Successive Interference Cancellation (SIC), thereby reducing the negative impact of communication collisions. When evaluating vehicle communication performance, traditional metrics such as reliability and transmission delay present certain contradictions. Introducing the new metric Age of Information (AoI) provides a more comprehensive evaluation of communication system. Additionally, to ensure service quality, user terminals need to possess high computational capabilities, which may lead to increased energy consumption, necessitating a trade-off between communication energy consumption and effectiveness. Given the complexity and dynamics of communication systems, Deep Reinforcement Learning (DRL) serves as an intelligent learning method capable of learning optimal strategies in dynamic environments. Therefore, this paper analyzes the effects of multi-priority queues and NOMA on AoI in the C-V2X vehicular communication system and proposes an energy consumption and AoI optimization method based on DRL. Finally, through comparative simulations with baseline methods, the proposed approach demonstrates its advances in terms of energy consumption and AoI.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-06-18"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.NI"
+}

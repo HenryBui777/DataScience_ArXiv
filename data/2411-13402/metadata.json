@@ -1,0 +1,23 @@
+{
+  "title": "Extraction of gravitational wave signals from LISA data in the presence of artifacts",
+  "authors": [
+    "Eleonora Castelli",
+    "Quentin Baghi",
+    "John G. Baker",
+    "Jacob Slutsky",
+    "Jérôme Bobin",
+    "Nikolaos Karnesis",
+    "Antoine Petiteau",
+    "Orion Sauter",
+    "Peter Wass",
+    "William J. Weber"
+  ],
+  "summary": "The Laser Interferometer Space Antenna (LISA) mission is being developed by ESA with NASA participation. As it has recently passed the Mission Adoption milestone, models of the instruments and noise performance are becoming more detailed, and likewise prototype data analyses must as well. Assumptions such as Gaussianity, stationarity, and data continuity are unrealistic, and must be replaced with physically motivated data simulations, and data analysis methods adapted to accommodate such likely imperfections. To this end, the LISA Data Challenges have produced datasets featuring time-varying and unequal constellation armlength, and measurement artifacts including data interruptions and instrumental transients. In this work, we assess the impact of these data artifacts on the inference of Galactic Binary and Massive Black Hole properties. Our analysis shows that the treatment of noise transients and gaps is necessary for effective parameter estimation, as they substantially corrupt the analysis if unmitigated. We find that straightforward mitigation techniques can significantly if imperfectly suppress artifacts. For the Galactic Binaries, mitigation of glitches was essentially total, while mitigations of the data gaps increased parameter uncertainty by approximately 10%. For the Massive Black Hole binaries the particularly pernicious glitches resulted in a 30% uncertainty increase after mitigations, while the data gaps can increase parameter uncertainty by up to several times. Critically, this underlines the importance of early detection of transient gravitational waves to ensure they are protected from planned data interruptions.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-01-27"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "gr-qc, astro-ph.IM, physics.data-an"
+}

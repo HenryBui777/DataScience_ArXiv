@@ -1,0 +1,662 @@
+{
+  "2505-18556": {
+    "title": "Exploring the Vulnerability of the Content Moderation Guardrail in Large Language Models via Intent Manipulation",
+    "authors": [
+      "Jun Zhuang",
+      "Haibo Jin",
+      "Ye Zhang",
+      "Zhengjian Kang",
+      "Wenbin Zhang",
+      "Gaby G. Dagher",
+      "Haohan Wang"
+    ],
+    "publication_date": "2025-05-24",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "fb45aaf7b0031670558b3baaed817225a3be6c7a",
+    "corpus_id": 278904506,
+    "category": "Computer Science"
+  },
+  "2505-17132": {
+    "title": "Robustifying Vision-Language Models via Dynamic Token Reweighting",
+    "authors": [
+      "Tanqiu Jiang",
+      "Jiacheng Liang",
+      "Rongyi Zhu",
+      "Jiawei Zhou",
+      "Fenglong Ma",
+      "Ting Wang"
+    ],
+    "publication_date": "2025-05-22",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "11f0e05fb15a151d9a62418a52c87582c9402d43",
+    "corpus_id": 278886120,
+    "category": "Computer Science"
+  },
+  "2412-14426": {
+    "title": "All-in-One Tuning and Structural Pruning for Domain-Specific LLMs",
+    "authors": [
+      "Lei Lu",
+      "Zhepeng Wang",
+      "Runxue Bao",
+      "Mengbing Wang",
+      "Fangyi Li",
+      "Yawen Wu",
+      "Weiwen Jiang",
+      "Jie Xu",
+      "Yanzhi Wang",
+      "Shangqian Gao"
+    ],
+    "publication_date": "2024-12-19",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "8fe581be02a8389932eb6d2be28781f63ae73726",
+    "corpus_id": 274859662,
+    "category": "Computer Science"
+  },
+  "2411-18479": {
+    "title": "SoK: Watermarking for AI-Generated Content",
+    "authors": [
+      "Xuandong Zhao",
+      "Sam Gunn",
+      "Miranda Christ",
+      "Jaiden Fairoze",
+      "Andres Fabrega",
+      "Nicholas Carlini",
+      "Sanjam Garg",
+      "Sanghyun Hong",
+      "Milad Nasr",
+      "Florian Tramèr",
+      "Somesh Jha",
+      "Lei Li",
+      "Yu-Xiang Wang",
+      "D. Song"
+    ],
+    "publication_date": "2024-11-27",
+    "venue": "IEEE Symposium on Security and Privacy",
+    "semantic_scholar_id": "ad200cf8c1e4659e42510aa339d71299a1abc9d9",
+    "corpus_id": 274305578,
+    "category": "Computer Science"
+  },
+  "2410-19937": {
+    "title": "RobustKV: Defending Large Language Models against Jailbreak Attacks via KV Eviction",
+    "authors": [
+      "Tanqiu Jiang",
+      "Zian Wang",
+      "Jiacheng Liang",
+      "Changjiang Li",
+      "Yuhui Wang",
+      "Ting Wang"
+    ],
+    "publication_date": "2024-10-25",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "c17d9fbc03f960594870054bc72a3401521e2e61",
+    "corpus_id": 273654300,
+    "category": "Computer Science"
+  },
+  "2410-11327": {
+    "title": "Sequential LLM Framework for Fashion Recommendation",
+    "authors": [
+      "Han Liu",
+      "Xianfeng Tang",
+      "Tianlang Chen",
+      "Jiapeng Liu",
+      "Indu Indu",
+      "Henry Peng Zou",
+      "Peng Dai",
+      "Roberto Fernandez Galan",
+      "Michael D Porter",
+      "Dongmei Jia",
+      "Ning Zhang",
+      "Lian Xiong"
+    ],
+    "publication_date": "2024-10-15",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "039ceced46418da90b081a9f38c5124c72f4e89c",
+    "corpus_id": 273350703,
+    "category": "Computer Science"
+  },
+  "2410-02220": {
+    "title": "Data to Defense: The Role of Curation in Customizing LLMs Against Jailbreaking Attacks",
+    "authors": [
+      "Xiaoqun Liu",
+      "Jiacheng Liang",
+      "Luoxi Tang",
+      "Muchao Ye",
+      "Weichang Ma",
+      "Zhaohan Xi"
+    ],
+    "publication_date": "2024-10-03",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "17052ea02eaad2cbb28af5690d1218e8ddc8e940",
+    "corpus_id": 273098000,
+    "category": "Computer Science"
+  },
+  "2405-19358": {
+    "title": "Robustifying Safety-Aligned Large Language Models through Clean Data Curation",
+    "authors": [
+      "Xiaoqun Liu",
+      "Jiacheng Liang",
+      "Muchao Ye",
+      "Zhaohan Xi"
+    ],
+    "publication_date": "2024-05-24",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "c443c05601c91ab9bbe45283846eccee3eb80d74",
+    "corpus_id": 270123059,
+    "category": "Computer Science"
+  },
+  "2404-15668": {
+    "title": "MalleTrain: Deep Neural Networks Training on Unfillable Supercomputer Nodes",
+    "authors": [
+      "Xiaolong Ma",
+      "Feng Yan",
+      "Lei Yang",
+      "Ian T. Foster",
+      "M. Papka",
+      "Zhengchun Liu",
+      "R. Kettimuthu"
+    ],
+    "publication_date": "2024-04-24",
+    "venue": "International Conference on Performance Engineering",
+    "semantic_scholar_id": "fd0eb4429f8df6d4c4da557e55a67d13c8afb5a8",
+    "corpus_id": 269330077,
+    "category": "Computer Science"
+  },
+  "2403-13485": {
+    "title": "An Entropy-based Text Watermarking Detection Method",
+    "authors": [
+      "Yijian Lu",
+      "Aiwei Liu",
+      "Dianzhi Yu",
+      "Jingjing Li",
+      "Irwin King"
+    ],
+    "publication_date": "2024-03-20",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "ff4ac308b02331c75c431b4bf01c0485b91761c8",
+    "corpus_id": 268536698,
+    "category": "Computer Science"
+  },
+  "2403-04808": {
+    "title": "WaterMax: breaking the LLM watermark detectability-robustness-quality trade-off",
+    "authors": [
+      "Eva Giboulot",
+      "Teddy Furon"
+    ],
+    "publication_date": "2024-03-06",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "c199b7ee0609a560a7607ea84add32b6f819ecf7",
+    "corpus_id": 268296923,
+    "category": "Computer Science"
+  },
+  "2312-07913": {
+    "title": "A Survey of Text Watermarking in the Era of Large Language Models",
+    "authors": [
+      "Aiwei Liu",
+      "Leyi Pan",
+      "Yijian Lu",
+      "Jingjing Li",
+      "Xuming Hu",
+      "Lijie Wen",
+      "Irwin King",
+      "Philip S. Yu"
+    ],
+    "publication_date": "2023-12-13",
+    "venue": "ACM Computing Surveys",
+    "semantic_scholar_id": "3686311263da911309233e93a271f44f2a1f1c3a",
+    "corpus_id": 266191530,
+    "category": "Computer Science"
+  },
+  "2312-02382": {
+    "title": "New Evaluation Metrics Capture Quality Degradation due to LLM Watermarking",
+    "authors": [
+      "Karanpartap Singh",
+      "James Zou"
+    ],
+    "publication_date": "2023-12-04",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "92105d2f3716786528bd8e7498e13162b409cd37",
+    "corpus_id": 265658859,
+    "category": "Computer Science"
+  },
+  "2311-08721": {
+    "title": "A Robust Semantics-based Watermark for Large Language Model against Paraphrasing",
+    "authors": [
+      "Jie Ren",
+      "Han Xu",
+      "Yiding Liu",
+      "Yingqian Cui",
+      "Shuaiqiang Wang",
+      "Dawei Yin",
+      "Jiliang Tang"
+    ],
+    "publication_date": "2023-11-15",
+    "venue": "NAACL-HLT",
+    "semantic_scholar_id": "3faa802714bfc051ada8317fdbf483742df65bd0",
+    "corpus_id": 265213008,
+    "category": "Computer Science"
+  },
+  "2311-04378": {
+    "title": "Watermarks in the Sand: Impossibility of Strong Watermarking for Generative Models",
+    "authors": [
+      "Hanlin Zhang",
+      "Benjamin L. Edelman",
+      "Danilo Francati",
+      "Daniele Venturi",
+      "G. Ateniese",
+      "Boaz Barak"
+    ],
+    "publication_date": "2023-11-07",
+    "venue": "IACR Cryptology ePrint Archive",
+    "semantic_scholar_id": "582b0aae8be848fb2d39bcc881f07475d3a6f1e1",
+    "corpus_id": 265050535,
+    "category": "Computer Science"
+  },
+  "2310-18491": {
+    "title": "Publicly Detectable Watermarking for Language Models",
+    "authors": [
+      "Jaiden Fairoze",
+      "Sanjam Garg",
+      "Somesh Jha",
+      "Saeed Mahloujifar",
+      "Mohammad Mahmoody",
+      "Mingyuan Wang"
+    ],
+    "publication_date": "2023-10-27",
+    "venue": "IACR Cryptology ePrint Archive",
+    "semantic_scholar_id": "702e727976e4f08c1ddc3a08cf76cd689dab2f63",
+    "corpus_id": 264560541,
+    "category": "Computer Science"
+  },
+  "2308-14401": {
+    "title": "CodeMark: Imperceptible Watermarking for Code Datasets against Neural Code Completion Models",
+    "authors": [
+      "Zhensu Sun",
+      "Xiaoning Du",
+      "Fu Song",
+      "Li Li"
+    ],
+    "publication_date": "2023-08-28",
+    "venue": "ESEC/SIGSOFT FSE",
+    "semantic_scholar_id": "c47cb9d407b8cfd51699881a804811cc0e5fcade",
+    "corpus_id": 261244028,
+    "category": "Computer Science"
+  },
+  "2307-15593": {
+    "title": "Robust Distortion-free Watermarks for Language Models",
+    "authors": [
+      "Rohith Kuditipudi",
+      "John Thickstun",
+      "Tatsunori Hashimoto",
+      "Percy Liang"
+    ],
+    "publication_date": "2023-07-28",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "ccaff61e0c1e629d91d78f82a64b3cbc8f3f7023",
+    "corpus_id": 260315804,
+    "category": "Computer Science"
+  },
+  "2307-09288": {
+    "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models",
+    "authors": [
+      "Hugo Touvron",
+      "Louis Martin",
+      "Kevin R. Stone",
+      "Peter Albert",
+      "Amjad Almahairi",
+      "Yasmine Babaei",
+      "Niko-lay Bashlykov",
+      "Soumya Batra",
+      "Prajjwal Bhargava",
+      "Shruti Bhosale",
+      "D. Bikel",
+      "Lukas Blecher",
+      "Cris-tian Cantón Ferrer",
+      "Moya Chen",
+      "Guillem Cucurull",
+      "David Esiobu",
+      "Jude Fernandes",
+      "J. Fu",
+      "Wenyin Fu",
+      "Brian Fuller",
+      "Cynthia Gao",
+      "Vedanuj Goswami",
+      "Naman Goyal",
+      "A. Hartshorn",
+      "Saghar Hosseini",
+      "Rui Hou",
+      "Hakan Inan",
+      "Marcin Kardas",
+      "Viktor Kerkez",
+      "Madian Khabsa",
+      "Isabel M. Kloumann",
+      "A. Korenev",
+      "Punit Singh Koura",
+      "M. Lachaux",
+      "Thibaut Lavril",
+      "Jenya Lee",
+      "Diana Liskovich",
+      "Yinghai Lu",
+      "Yuning Mao",
+      "Xavier Martinet",
+      "Todor Mihaylov",
+      "Pushkar Mishra",
+      "Igor Molybog",
+      "Yixin Nie",
+      "Andrew Poulton",
+      "J. Reizenstein",
+      "Rashi Rungta",
+      "Kalyan Saladi",
+      "A. Schelten",
+      "Ruan Silva",
+      "Eric Michael Smith",
+      "R. Subramanian",
+      "Xia Tan",
+      "Binh Tang",
+      "Ross Taylor",
+      "Adina Williams",
+      "Jian Xiang Kuan",
+      "Puxin Xu",
+      "Zhengxu Yan",
+      "Iliyan Zarov",
+      "Yuchen Zhang",
+      "Angela Fan",
+      "M. Kambadur",
+      "Sharan Narang",
+      "Aur'elien Rodriguez",
+      "Robert Stojnic",
+      "Sergey Edunov",
+      "Thomas Scialom"
+    ],
+    "publication_date": "2023-07-18",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "104b0bb1da562d53cbda87aec79ef6a2827d191a",
+    "corpus_id": 259950998,
+    "category": "Computer Science"
+  },
+  "2306-17439": {
+    "title": "Provable Robust Watermarking for AI-Generated Text",
+    "authors": [
+      "Xuandong Zhao",
+      "P. Ananth",
+      "Lei Li",
+      "Yu-Xiang Wang"
+    ],
+    "publication_date": "2023-06-30",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "75b68d0903af9d9f6e47ce3cf7e1a7d27ec811dc",
+    "corpus_id": 259308864,
+    "category": "Computer Science"
+  },
+  "2305-15060": {
+    "title": "Who Wrote this Code? Watermarking for Code Generation",
+    "authors": [
+      "Taehyun Lee",
+      "Seokhee Hong",
+      "Jaewoo Ahn",
+      "Ilgee Hong",
+      "Hwaran Lee",
+      "Sangdoo Yun",
+      "Jamin Shin",
+      "Gunhee Kim"
+    ],
+    "publication_date": "2023-05-24",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "90213971da84c974bc7502b1112a0ee8a0a33601",
+    "corpus_id": 258865409,
+    "category": "Computer Science"
+  },
+  "2305-13257": {
+    "title": "Watermarking Text Data on Large Language Models for Dataset Copyright Protection",
+    "authors": [
+      "Yixin Liu",
+      "Hongsheng Hu",
+      "Xuyun Zhang",
+      "Lichao Sun"
+    ],
+    "publication_date": "2023-05-22",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "78c516bc91be667fa25115c9d5c029ec3ac210da",
+    "corpus_id": 271213502,
+    "category": "Computer Science"
+  },
+  "2305-08883": {
+    "title": "Watermarking Text Generated by Black-Box Language Models",
+    "authors": [
+      "Xi Yang",
+      "Kejiang Chen",
+      "Weiming Zhang",
+      "Chang Liu",
+      "Yuang Qi",
+      "Jie Zhang",
+      "Han Fang",
+      "Neng H. Yu"
+    ],
+    "publication_date": "2023-05-14",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "bd7a45fa6dce81dbbc61a5728bf54e040e206da7",
+    "corpus_id": 258714683,
+    "category": "Computer Science"
+  },
+  "2303-13408": {
+    "title": "Paraphrasing evades detectors of AI-generated text, but retrieval is an effective defense",
+    "authors": [
+      "Kalpesh Krishna",
+      "Yixiao Song",
+      "Marzena Karpinska",
+      "J. Wieting",
+      "Mohit Iyyer"
+    ],
+    "publication_date": "2023-03-23",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "1c13af186d1e177b85ef1ec3fc7b8d33ec314cfd",
+    "corpus_id": 257687440,
+    "category": "Computer Science"
+  },
+  "2303-11156": {
+    "title": "Can AI-Generated Text be Reliably Detected?",
+    "authors": [
+      "Vinu Sankar Sadasivan",
+      "Aounon Kumar",
+      "S. Balasubramanian",
+      "Wenxiao Wang",
+      "S. Feizi"
+    ],
+    "publication_date": "2023-03-17",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "5ee8bb4fc80a291b2e416a2a879e7153a783d7e9",
+    "corpus_id": 257631570,
+    "category": "Computer Science"
+  },
+  "2301-11305": {
+    "title": "DetectGPT: Zero-Shot Machine-Generated Text Detection using Probability Curvature",
+    "authors": [
+      "E. Mitchell",
+      "Yoonho Lee",
+      "Alexander Khazatsky",
+      "Christopher D. Manning",
+      "Chelsea Finn"
+    ],
+    "publication_date": "2023-01-26",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "9a7ac45eafe11ca003db3a300505f3b5c3f9009a",
+    "corpus_id": 256274849,
+    "category": "Computer Science"
+  },
+  "2208-03299": {
+    "title": "Few-shot Learning with Retrieval Augmented Language Models",
+    "authors": [
+      "Gautier Izacard",
+      "Patrick Lewis",
+      "M. Lomeli",
+      "Lucas Hosseini",
+      "F. Petroni",
+      "Timo Schick",
+      "Jane A. Yu",
+      "Armand Joulin",
+      "Sebastian Riedel",
+      "Edouard Grave"
+    ],
+    "publication_date": "2022-08-05",
+    "venue": "Journal of machine learning research",
+    "semantic_scholar_id": "916be31cbf847faa65cad0549e153f0c25b9f424",
+    "corpus_id": 251371732,
+    "category": "Computer Science"
+  },
+  "2110-12925": {
+    "title": "CoProtector: Protect Open-Source Code against Unauthorized Training Usage with Data Poisoning",
+    "authors": [
+      "Zhensu Sun",
+      "Xiaoning Du",
+      "Fu Song",
+      "Mingze Ni",
+      "Li Li"
+    ],
+    "publication_date": "2021-10-25",
+    "venue": "The Web Conference",
+    "semantic_scholar_id": "02183e69f1dfd6e9b2d0fb876153299bab4bb82b",
+    "corpus_id": 239768432,
+    "category": "Computer Science"
+  },
+  "2108-04974": {
+    "title": "SoK: How Robust is Image Classification Deep Neural Network Watermarking?",
+    "authors": [
+      "Nils Lukas",
+      "Edward Jiang",
+      "Xinda Li",
+      "F. Kerschbaum"
+    ],
+    "publication_date": "2021-08-11",
+    "venue": "IEEE Symposium on Security and Privacy",
+    "semantic_scholar_id": "12d8814c294b3e386fc125588b76775123bdebec",
+    "corpus_id": 236975869,
+    "category": "Computer Science"
+  },
+  "2104-13733": {
+    "title": "Gradient-based Adversarial Attacks against Text Transformers",
+    "authors": [
+      "Chuan Guo",
+      "Alexandre Sablayrolles",
+      "Herv'e J'egou",
+      "Douwe Kiela"
+    ],
+    "publication_date": "2021-04-15",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "59c2b4ef91d4ce23cd4f270c8750a00de9054ec2",
+    "corpus_id": 233423658,
+    "category": "Computer Science"
+  },
+  "2102-01454": {
+    "title": "MAUVE: Measuring the Gap Between Neural Text and Human Text using Divergence Frontiers",
+    "authors": [
+      "Krishna Pillutla",
+      "Swabha Swayamdipta",
+      "Rowan Zellers",
+      "John Thickstun",
+      "S. Welleck",
+      "Yejin Choi",
+      "Zaïd Harchaoui"
+    ],
+    "publication_date": "2021-02-02",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "8484fdb56e4690927dc0191ede11c2d24bc5e2ef",
+    "corpus_id": 244488758,
+    "category": "Computer Science"
+  },
+  "2009-03015": {
+    "title": "Adversarial Watermarking Transformer: Towards Tracing Text Provenance with Data Hiding",
+    "authors": [
+      "Sahar Abdelnabi",
+      "Mario Fritz"
+    ],
+    "publication_date": "2020-09-07",
+    "venue": "IEEE Symposium on Security and Privacy",
+    "semantic_scholar_id": "78db1529bd67ef885fe550ab3ed7f965067e8928",
+    "corpus_id": 221516138,
+    "category": "Computer Science"
+  },
+  "2007-03213": {
+    "title": "Enabling On-Device CNN Training by Self-Supervised Instance Filtering and Error Map Pruning",
+    "authors": [
+      "Yawen Wu",
+      "Zhepeng Wang",
+      "Yiyu Shi",
+      "J. Hu"
+    ],
+    "publication_date": "2020-07-07",
+    "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+    "semantic_scholar_id": "27088479c86dc8912eff9dacdda23a9f2494d41b",
+    "corpus_id": 220381251,
+    "category": "Computer Science, Mathematics"
+  },
+  "2004-11293": {
+    "title": "Intermittent Inference with Nonuniformly Compressed Multi-Exit Neural Network for Energy Harvesting Powered Devices",
+    "authors": [
+      "Yawen Wu",
+      "Zhepeng Wang",
+      "Zhenge Jia",
+      "Yiyu Shi",
+      "J. Hu"
+    ],
+    "publication_date": "2020-04-23",
+    "venue": "Design Automation Conference",
+    "semantic_scholar_id": "b191f734fb4935728034e1df0f0a0616de1b0c0d",
+    "corpus_id": 216080542,
+    "category": "Computer Science, Mathematics"
+  },
+  "1904-09675": {
+    "title": "BERTScore: Evaluating Text Generation with BERT",
+    "authors": [
+      "Tianyi Zhang",
+      "Varsha Kishore",
+      "Felix Wu",
+      "Kilian Q. Weinberger",
+      "Yoav Artzi"
+    ],
+    "publication_date": "2019-04-21",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "295065d942abca0711300b2b4c39829551060578",
+    "corpus_id": 127986044,
+    "category": "Computer Science"
+  },
+  "1812-05271": {
+    "title": "TextBugger: Generating Adversarial Text Against Real-world Applications",
+    "authors": [
+      "Jinfeng Li",
+      "S. Ji",
+      "Tianyu Du",
+      "Bo Li",
+      "Ting Wang"
+    ],
+    "publication_date": "2018-12-13",
+    "venue": "Network and Distributed System Security Symposium",
+    "semantic_scholar_id": "f91175950edf3804ff1573f570b03db9b108dece",
+    "corpus_id": 54815878,
+    "category": "Computer Science"
+  },
+  "1808-06226": {
+    "title": "SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing",
+    "authors": [
+      "Taku Kudo",
+      "John Richardson"
+    ],
+    "publication_date": "2018-08-19",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "b5246fa284f86b544a7c31f050b3bd0defd053fd",
+    "corpus_id": 52051958,
+    "category": "Computer Science"
+  },
+  "1810-04805": {
+    "title": "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
+    "authors": [
+      "Jacob Devlin",
+      "Ming-Wei Chang",
+      "Kenton Lee",
+      "Kristina Toutanova"
+    ],
+    "publication_date": "",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "df2b0e26d0599ce3e70df8a9da02e51594e0e992",
+    "corpus_id": 52967399,
+    "category": "Computer Science"
+  }
+}

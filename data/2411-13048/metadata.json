@@ -1,0 +1,16 @@
+{
+  "title": "Conditional gene genealogies given the population pedigree for a diploid Moran model with selfing",
+  "authors": [
+    "Maximillian Newman",
+    "John Wakeley",
+    "Wai-Tong Louis Fan"
+  ],
+  "summary": "We introduce a stochastic model of a population with overlapping generations and arbitrary levels of self-fertilization versus outcrossing. We study how the global graph of reproductive relationships, or population pedigree, influences the genealogical relationships of a sample of two gene copies at a genetic locus. Specifically, we consider a diploid Moran model with constant population size $N$ over time, in which a proportion of offspring are produced by selfing. We show that the conditional distribution of the pairwise coalescence time at a single locus given the random pedigree converges to a limit law as $N$ tends to infinity. The distribution of coalescence times obtained in this way predicts variation among unlinked loci in a sample of individuals. Traditional coalescent analyses implicitly average over pedigrees and generally make different predictions. We describe three different behaviors in the limit depending on the relative strengths, from large to small, of selfing versus outcrossing: partial selfing, limited outcrossing, and negligible outcrossing. In the case of partial selfing, coalescence times are related to the Kingman coalescent, similar to what is found in traditional analyses. In the case of limited outcrossing, the retained pedigree information forms a random graph, with coalescence times given by the meeting times of random walks on this graph. In the case of negligible outcrossing, which represents complete or nearly complete selfing, coalescence times are determined entirely by the fixed times to common ancestry of diploid individuals in the pedigree.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-05-17"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-bio.PE, math.PR"
+}

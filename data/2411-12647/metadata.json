@@ -1,0 +1,17 @@
+{
+  "title": "A Survey of General Relativistic Magnetohydrodynamic Models for Black Hole Accretion Systems",
+  "authors": [
+    "Vedant Dhruv",
+    "Ben Prather",
+    "George Wong",
+    "Charles F. Gammie"
+  ],
+  "summary": "General Relativistic Magnetohydrodynamics (GRMHD) simulations are an indispensable tool in studying accretion onto compact objects. The Event Horizon Telescope (EHT) frequently uses libraries of ideal GRMHD simulations to interpret polarimetric, event-horizon-scale observations of supermassive black holes at the centers of galaxies. In this work, we present a library of ten non-radiative, ideal GRMHD simulations that were utilized by the EHT Collaboration in their analysis of Sagittarius A*. The parameter survey explores both low (SANE) and high (MAD) magnetization states across five black hole spins $a_{*}=-15/16,-1/2,0,+1/2,+15/16$ where each simulation was run out to $30,000\\hspace{0.1cm}\\mathrm{GM/c}^{3}$. We find the angular momentum and energy flux in SANE simulations closely matches the thin-disk value, with minor deviations in prograde models due to fluid forces. This leads to spin equilibrium around $a_{*}\\sim0.94$, consistent with previous studies. We study the flow of conserved quantities in our simulations and find mass, angular momentum, and energy transport in SANE accretion flows to be primarily inward and fluid-dominated. MAD models produce powerful jets with outflow efficiency $>1$ for $a_{*}=+0.94$, leading to black hole spin-down in prograde cases. We observe outward directed energy and angular momentum fluxes on the horizon, as expected for the Blandford-Znajek mechanism. MAD accretion flows are sub-Keplerian and exhibit greater variability than their SANE counterpart. They are also hotter than SANE disks within $r\\lesssim 10\\hspace{0.1cm}\\mathrm{GM/c}^{2}$. This study is accompanied by a public release of simulation data at \\url{http://thz.astro.illinois.edu/}.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-01-24"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.HE"
+}

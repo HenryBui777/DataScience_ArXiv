@@ -1,0 +1,17 @@
+{
+  "title": "Addressing Hallucinations in Language Models with Knowledge Graph Embeddings as an Additional Modality",
+  "authors": [
+    "Viktoriia Chekalina",
+    "Anton Razzhigaev",
+    "Elizaveta Goncharova",
+    "Andrey Kuznetsov"
+  ],
+  "summary": "In this paper we present an approach to reduce hallucinations in Large Language Models (LLMs) by incorporating Knowledge Graphs (KGs) as an additional modality. Our method involves transforming input text into a set of KG embeddings and using an adapter to integrate these embeddings into the language model space, without relying on external retrieval processes.\n  To facilitate this, we created WikiEntities, a dataset containing over 3 million Wikipedia texts annotated with entities from Wikidata and their corresponding embeddings from PyTorch-BigGraph. This dataset serves as a valuable resource for training Entity Linking models and adapting the described method to various LLMs using specialized adapters.\n  Our method does not require fine-tuning of the language models themselves; instead, we only train the adapter. This ensures that the model's performance on other tasks is not affected. We trained an adapter for the Mistral 7B, LLaMA 2-7B (chat), and LLaMA 3-8B (instruct) models using this dataset and demonstrated that our approach improves performance on the HaluEval, True-False benchmarks and FEVER dataset. The results indicate that incorporating KGs as a new modality can effectively reduce hallucinations and improve the factual accuracy of language models, all without the need for external retrieval.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-01-14"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.AI"
+}

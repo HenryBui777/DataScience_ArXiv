@@ -1,0 +1,15 @@
+{
+  "title": "Chebyshev's method for exponential maps",
+  "authors": [
+    "Subhasis Ghora",
+    "Tarakanta Nayak",
+    "Soumen Pal",
+    "Pooja Phogat"
+  ],
+  "summary": "It is proved that the Chebyshev's method applied to an entire function $f$ is a rational map if and only if $f(z) = p(z) e^{q(z)}$, for some polynomials $p$ and $q$. These are referred to as rational Chebyshev maps, and their fixed points are discussed in this article. It is seen that $\\infty$ is a parabolic fixed point with multiplicity one bigger than the degree of $q$. Considering $q(z)=p(z)^n+c$, where $p$ is a linear polynomial, $n \\in \\mathbb{N}$ and $c$ is a non-zero constant, we show that the Chebyshev's method applied to $pe^q$ is affine conjugate to that applied to $z e^{z^n}$. We denote this by $C_n$. All the finite extraneous fixed points of $C_n$ are shown to be repelling. The Julia set $\\mathcal{J}(C_n)$ of $C_n$ is found to be preserved under rotations of order $n$ about the origin. For each $n$, the immediate basin of $0$ is proved to be simply connected. For all $n \\leq 16$, we prove that $\\mathcal{J}(C_n)$ is connected. The Newton's method applied to $ze^{z^n}$ is found to be conjugate to a polynomial, and its dynamics is also completely determined.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.DS"
+}

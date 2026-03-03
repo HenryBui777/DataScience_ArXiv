@@ -1,0 +1,14 @@
+{
+  "title": "Parametric study of filament and gap models of resistive switching in TaO$_x$-based devices",
+  "authors": [
+    "Rongchen Li",
+    "Yang Bai",
+    "Marek Skowronski"
+  ],
+  "summary": "A finite element model consisting of a conducting filament with or without a gap was used to reproduce behavior of TaO$_x$-based resistive switching devices. The specific goal was to explore the range of possible filament parameters such a filament diameter, composition, gap width, and composition to reproduce the conductance and shape of I-V while keeping the maximum temperature within acceptable range allowing for ion motion and preventing melting. The model solving heat and charge transport produced a good agreement with experimental data for the oxygen content in the filament below TaO$_{1.3}$, the filament diameter range between 6 and 22 nm, and the gap oxygen content between TaO$_{1.7}$ and TaO$_{1.85}$. Gap width was not limited on either low or high sides by the criteria considered in this report. The obtained filament composition corresponds to oxygen deficiency an order of magnitude higher than one estimated by other modelling efforts. This was in a large part due to use of recent experimental values of conductivity as a function of composition and temperature. Our modelling results imply that a large fraction of atoms leaves and/or accumulates within the filament to produce large relative concentration change. This, in turn, necessitates inclusion of strain energy in the filament formation modelling. In addition, the results reproduce non-linear I-V without the necessity of assuming the Poole-Frenkel type of electrical conduction or presence of a barrier at the oxide/metal interface.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.app-ph, cond-mat.mtrl-sci"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Automating Equational Proofs in Dirac Notation",
+  "authors": [
+    "Yingte Xu",
+    "Gilles Barthe",
+    "Li Zhou"
+  ],
+  "summary": "Dirac notation is widely used in quantum physics and quantum programming languages to define, compute and reason about quantum states. This paper considers Dirac notation from the perspective of automated reasoning. We prove two main results: first, the first-order theory of Dirac notation is decidable, by a reduction to the theory of real closed fields and Tarski's theorem. Then, we prove that validity of equations can be decided efficiently, using term-rewriting techniques. We implement our equivalence checking algorithm in Mathematica, and showcase its efficiency across more than 100 examples from the literature.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "Proc. ACM Program. Lang. 9, POPL, Article 42 (January 2025), 33 pages",
+  "pdf_url": null,
+  "category": "cs.PL"
+}

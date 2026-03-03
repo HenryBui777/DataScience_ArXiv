@@ -1,0 +1,421 @@
+{
+  "2305-19454": {
+    "title": "Dynamic Sparsity Is Channel-Level Sparsity Learner",
+    "authors": [
+      "Lu Yin",
+      "Gen Li",
+      "Meng Fang",
+      "Lijuan Shen",
+      "Tianjin Huang",
+      "Zhangyang Wang",
+      "V. Menkovski",
+      "Xiaolong Ma",
+      "Mykola Pechenizkiy",
+      "Shiwei Liu"
+    ],
+    "publication_date": "2023-05-30",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "8f4358ee06b8ecbff57b0c2f08bf801f0836b6e2",
+    "corpus_id": 258987797,
+    "category": "Computer Science"
+  },
+  "2110-14032": {
+    "title": "MEST: Accurate and Fast Memory-Economic Sparse Training Framework on the Edge",
+    "authors": [
+      "Geng Yuan",
+      "Xiaolong Ma",
+      "Wei Niu",
+      "Zhengang Li",
+      "Zhenglun Kong",
+      "Ning Liu",
+      "Yifan Gong",
+      "Zheng Zhan",
+      "Chaoyang He",
+      "Qing Jin",
+      "Siyue Wang",
+      "Minghai Qin",
+      "Bin Ren",
+      "Yanzhi Wang",
+      "Sijia Liu",
+      "Xue Lin"
+    ],
+    "publication_date": "2021-10-26",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "d18d01be0a0a40327e13c1c89aa547a5c73fe3e8",
+    "corpus_id": 239998338,
+    "category": "Computer Science"
+  },
+  "2106-10404": {
+    "title": "Sparse Training via Boosting Pruning Plasticity with Neuroregeneration",
+    "authors": [
+      "Shiwei Liu",
+      "Tianlong Chen",
+      "Xiaohan Chen",
+      "Zahra Atashgahi",
+      "Lu Yin",
+      "Huanyu Kou",
+      "Li Shen",
+      "Mykola Pechenizkiy",
+      "Zhangyang Wang",
+      "D. Mocanu"
+    ],
+    "publication_date": "2021-06-19",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "a85ba5bb3e97c999f5f6dbc78f277b107af1dba2",
+    "corpus_id": 235490153,
+    "category": "Computer Science"
+  },
+  "2106-03517": {
+    "title": "Top-KAST: Top-K Always Sparse Training",
+    "authors": [
+      "Siddhant M. Jayakumar",
+      "Razvan Pascanu",
+      "Jack W. Rae",
+      "Simon Osindero",
+      "Erich Elsen"
+    ],
+    "publication_date": "2021-06-07",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "9c4dd36ad206ca8be96ae4000568e899f4acfa91",
+    "corpus_id": 227275472,
+    "category": "Computer Science, Mathematics"
+  },
+  "2102-07655": {
+    "title": "Dense for the Price of Sparse: Improved Performance of Sparsely Initialized Networks via a Subspace Offset",
+    "authors": [
+      "Ilan Price",
+      "Jared Tanner"
+    ],
+    "publication_date": "2021-02-12",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "0ee7dbb58be11c3583e0be47f6c5e672ffb6a819",
+    "corpus_id": 231924624,
+    "category": "Computer Science"
+  },
+  "2102-02887": {
+    "title": "Do We Actually Need Dense Over-Parameterization? In-Time Over-Parameterization in Sparse Training",
+    "authors": [
+      "Shiwei Liu",
+      "Lu Yin",
+      "D. Mocanu",
+      "Mykola Pechenizkiy"
+    ],
+    "publication_date": "2021-02-04",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "78d17d2ee5ed0a4b3a48e0ed76376491035d47c2",
+    "corpus_id": 231839425,
+    "category": "Computer Science"
+  },
+  "2010-03533": {
+    "title": "Gradient Flow in Sparse Neural Networks and How Lottery Tickets Win",
+    "authors": [
+      "Utku Evci",
+      "Yani Ioannou",
+      "Cem Keskin",
+      "Yann Dauphin"
+    ],
+    "publication_date": "2020-10-07",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "917b18b8dad23284c0a42f665f2ba1984fa360de",
+    "corpus_id": 222177996,
+    "category": "Computer Science"
+  },
+  "2009-08576": {
+    "title": "Pruning Neural Networks at Initialization: Why are We Missing the Mark?",
+    "authors": [
+      "Jonathan Frankle",
+      "G. Dziugaite",
+      "Daniel M. Roy",
+      "Michael Carbin"
+    ],
+    "publication_date": "2020-09-18",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "0932abfd0fb90e8a28f7bd195633c9891bfd7ecb",
+    "corpus_id": 221802286,
+    "category": "Computer Science, Mathematics"
+  },
+  "2006-09081": {
+    "title": "Progressive Skeletonization: Trimming more fat from a network at initialization",
+    "authors": [
+      "Pau de Jorge",
+      "Amartya Sanyal",
+      "Harkirat Singh Behl",
+      "Philip H. S. Torr",
+      "Grégory Rogez",
+      "P. Dokania"
+    ],
+    "publication_date": "2020-06-16",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "0b5c5571ab9dd88ebf010e8dc6898d8078d8e877",
+    "corpus_id": 219708931,
+    "category": "Computer Science"
+  },
+  "2006-05467": {
+    "title": "Pruning neural networks without any data by iteratively conserving synaptic flow",
+    "authors": [
+      "Hidenori Tanaka",
+      "D. Kunin",
+      "Daniel L. K. Yamins",
+      "S. Ganguli"
+    ],
+    "publication_date": "2020-06-09",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "3b0fb765716ef6861a84abffcbe40643857c613b",
+    "corpus_id": 219558821,
+    "category": "Computer Science, Physics, Biology, Mathematics"
+  },
+  "2006-00896": {
+    "title": "Pruning via Iterative Ranking of Sensitivity Statistics",
+    "authors": [
+      "Stijn Verdenius",
+      "M. Stol",
+      "Patrick Forr'e"
+    ],
+    "publication_date": "2020-06-01",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "ead63b8f9d335ef3f5aa7ac1f86864347d894e4c",
+    "corpus_id": 219177398,
+    "category": "Computer Science, Mathematics"
+  },
+  "2003-10027": {
+    "title": "Dynamic ReLU",
+    "authors": [
+      "Yinpeng Chen",
+      "Xiyang Dai",
+      "Mengchen Liu",
+      "Dongdong Chen",
+      "Lu Yuan",
+      "Zicheng Liu"
+    ],
+    "publication_date": "2020-03-22",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "c5e475417ad4bb22175e170f52f8ebf1e042a42d",
+    "corpus_id": 214612334,
+    "category": "Computer Science"
+  },
+  "2002-07376": {
+    "title": "Picking Winning Tickets Before Training by Preserving Gradient Flow",
+    "authors": [
+      "Chaoqi Wang",
+      "Chaoqi Wang",
+      "Guodong Zhang",
+      "R. Grosse"
+    ],
+    "publication_date": "2020-02-18",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "e08557d60dc47af675b48688a3524a7b0a6eac84",
+    "corpus_id": 211146532,
+    "category": "Computer Science, Mathematics"
+  },
+  "2002-03231": {
+    "title": "Soft Threshold Weight Reparameterization for Learnable Sparsity",
+    "authors": [
+      "Aditya Kusupati",
+      "Vivek Ramanujan",
+      "Raghav Somani",
+      "Mitchell Wortsman",
+      "Prateek Jain",
+      "S. Kakade",
+      "Ali Farhadi"
+    ],
+    "publication_date": "2020-02-08",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "8eb599d5d7f1821b205e3b56fef5340b1622ba52",
+    "corpus_id": 211069143,
+    "category": "Computer Science, Mathematics"
+  },
+  "2002-00585": {
+    "title": "Proving the Lottery Ticket Hypothesis: Pruning is All You Need",
+    "authors": [
+      "Eran Malach",
+      "Gilad Yehudai",
+      "Shai Shalev-Shwartz",
+      "Ohad Shamir"
+    ],
+    "publication_date": "2020-02-03",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "1bcf4553d841ad78cf51b4d3d48a61f9f3c71ebf",
+    "corpus_id": 211010722,
+    "category": "Computer Science, Mathematics"
+  },
+  "1912-05671": {
+    "title": "Linear Mode Connectivity and the Lottery Ticket Hypothesis",
+    "authors": [
+      "Jonathan Frankle",
+      "G. Dziugaite",
+      "Daniel M. Roy",
+      "Michael Carbin"
+    ],
+    "publication_date": "2019-12-11",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "3f06d02513a2763e472d2b5d5db08e9061081b9e",
+    "corpus_id": 209324341,
+    "category": "Computer Science, Mathematics"
+  },
+  "1911-11134": {
+    "title": "Rigging the Lottery: Making All Tickets Winners",
+    "authors": [
+      "Utku Evci",
+      "Trevor Gale",
+      "Jacob Menick",
+      "P. S. Castro",
+      "Erich Elsen"
+    ],
+    "publication_date": "2019-11-25",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "2e3002f131e1815bda7a10303eff97f79dea01ec",
+    "corpus_id": 208267757,
+    "category": "Computer Science, Mathematics"
+  },
+  "1907-04840": {
+    "title": "Sparse Networks from Scratch: Faster Training without Losing Performance",
+    "authors": [
+      "Tim Dettmers",
+      "Luke Zettlemoyer"
+    ],
+    "publication_date": "2019-07-10",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "60ed82ca3ec8fbfef4d52e98e49ab687ce501a0c",
+    "corpus_id": 195873969,
+    "category": "Computer Science, Mathematics"
+  },
+  "1902-05967": {
+    "title": "Parameter Efficient Training of Deep Convolutional Neural Networks by Dynamic Sparse Reparameterization",
+    "authors": [
+      "H. Mostafa",
+      "Xin Wang"
+    ],
+    "publication_date": "2019-02-15",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "8e2c65ff58b28a076883c99b96840e19b5e0b916",
+    "corpus_id": 53556443,
+    "category": "Computer Science, Mathematics"
+  },
+  "1810-02340": {
+    "title": "SNIP: Single-shot Network Pruning based on Connection Sensitivity",
+    "authors": [
+      "Namhoon Lee",
+      "Thalaiyasingam Ajanthan",
+      "Philip H. S. Torr"
+    ],
+    "publication_date": "2018-09-27",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "cf440ccce4a7a8681e238b4f26d5b95109add55d",
+    "corpus_id": 52920837,
+    "category": "Computer Science"
+  },
+  "1803-03635": {
+    "title": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks",
+    "authors": [
+      "Jonathan Frankle",
+      "Michael Carbin"
+    ],
+    "publication_date": "2018-03-09",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "21937ecd9d66567184b83eca3d3e09eb4e6fbd60",
+    "corpus_id": 53388625,
+    "category": "Computer Science, Mathematics"
+  },
+  "1708-06519": {
+    "title": "Learning Efficient Convolutional Networks through Network Slimming",
+    "authors": [
+      "Zhuang Liu",
+      "Jianguo Li",
+      "Zhiqiang Shen",
+      "Gao Huang",
+      "Shoumeng Yan",
+      "Changshui Zhang"
+    ],
+    "publication_date": "2017-08-22",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "90a16f34d109b63d95ab4da2d491cbe3a1c8b656",
+    "corpus_id": 5993328,
+    "category": "Computer Science"
+  },
+  "1707-04780": {
+    "title": "Scalable training of artificial neural networks with adaptive sparse connectivity inspired by network science",
+    "authors": [
+      "D. Mocanu",
+      "Elena Mocanu",
+      "P. Stone",
+      "Phuong H. Nguyen",
+      "M. Gibescu",
+      "A. Liotta"
+    ],
+    "publication_date": "2017-07-15",
+    "venue": "Nature Communications",
+    "semantic_scholar_id": "6dbb9e4b2e3b67dc4e1634989511f67d41373dd0",
+    "corpus_id": 49310977,
+    "category": "Computer Science, Medicine"
+  },
+  "1608-08710": {
+    "title": "Pruning Filters for Efficient ConvNets",
+    "authors": [
+      "Hao Li",
+      "Asim Kadav",
+      "Igor Durdanovic",
+      "H. Samet",
+      "H. Graf"
+    ],
+    "publication_date": "2016-08-31",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "c2a1cb1612ba21e067a5c3ba478a8d73b796b77a",
+    "corpus_id": 14089312,
+    "category": "Computer Science"
+  },
+  "1512-03385": {
+    "title": "Deep Residual Learning for Image Recognition",
+    "authors": [
+      "Kaiming He",
+      "X. Zhang",
+      "Shaoqing Ren",
+      "Jian Sun"
+    ],
+    "publication_date": "2015-12-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+    "corpus_id": 206594692,
+    "category": "Computer Science"
+  },
+  "1510-00149": {
+    "title": "Deep Compression: Compressing Deep Neural Network with Pruning, Trained Quantization and Huffman Coding",
+    "authors": [
+      "Song Han",
+      "Huizi Mao",
+      "W. Dally"
+    ],
+    "publication_date": "2015-10-01",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "642d0f49b7826adcf986616f4af77e736229990f",
+    "corpus_id": 2134321,
+    "category": "Computer Science"
+  },
+  "1506-02626": {
+    "title": "Learning both Weights and Connections for Efficient Neural Network",
+    "authors": [
+      "Song Han",
+      "Jeff Pool",
+      "J. Tran",
+      "W. Dally"
+    ],
+    "publication_date": "2015-06-08",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "1ff9a37d766e3a4f39757f5e1b235a42dacf18ff",
+    "corpus_id": 2238772,
+    "category": "Computer Science"
+  },
+  "1502-01852": {
+    "title": "Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification",
+    "authors": [
+      "Kaiming He",
+      "X. Zhang",
+      "Shaoqing Ren",
+      "Jian Sun"
+    ],
+    "publication_date": "2015-02-06",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "d6f2f611da110b5b5061731be3fc4c7f45d8ee23",
+    "corpus_id": 13740328,
+    "category": "Computer Science"
+  }
+}

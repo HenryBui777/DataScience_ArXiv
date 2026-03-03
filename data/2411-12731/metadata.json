@@ -1,0 +1,19 @@
+{
+  "title": "Finite-size scaling on the torus with periodic projected entangled-pair states",
+  "authors": [
+    "Gleb Fedorovich",
+    "Lukas Devos",
+    "Jutho Haegeman",
+    "Laurens Vanderstraeten",
+    "Frank Verstraete",
+    "Atsushi Ueda"
+  ],
+  "summary": "An efficient algorithm is constructed for contracting two-dimensional tensor networks under periodic boundary conditions. The central ingredient is a novel renormalization step that scales linearly with system size, i.e. from $L \\to L+1$. The numerical accuracy is comparable to state-of-the-art tensor network methods, while giving access to much more data points, and at a lower computational cost. Combining this contraction routine with the use of automatic differentiation, we arrive at an efficient algorithm for optimizing fully translation invariant projected entangled-pair states on the torus. Our benchmarks show that this method yields finite-size energy results that are comparable to those from quantum Monte Carlo simulations. When combined with field-theoretical scaling techniques, our approach enables accurate estimates of critical properties for two-dimensional quantum lattice systems.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-04-16"
+  ],
+  "publication_venue": "Phys. Rev. B 111, 165124, 2025",
+  "pdf_url": null,
+  "category": "cond-mat.str-el"
+}

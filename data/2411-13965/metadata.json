@@ -1,0 +1,13 @@
+{
+  "title": "Does the square-root price impact law belong to the strict universal scalings?: quantitative support by a complete survey of the Tokyo stock exchange market",
+  "authors": [
+    "Yuki Sato",
+    "Kiyoshi Kanazawa"
+  ],
+  "summary": "Universal power laws have been scrutinised in physics and beyond, and a long-standing debate exists in econophysics regarding the strict universality of the nonlinear price impact, commonly referred to as the square-root law (SRL). The SRL posits that the average price impact $I$ follows a power law with respect to transaction volume $Q$, such that $I(Q) \\propto Q^δ$ with $δ\\approx 1/2$. Some researchers argue that the exponent $δ$ should be system-specific, without universality. Conversely, others contend that $δ$ should be exactly $1/2$ for all stocks across all countries, implying universality. However, resolving this debate requires high-precision measurements of $δ$ with errors of around $0.1$ across hundreds of stocks, which has been extremely challenging due to the scarcity of large microscopic datasets -- those that enable tracking the trading behaviour of all individual accounts. Here we conclusively support the universality hypothesis of the SRL by a complete survey of all trading accounts for all liquid stocks on the Tokyo Stock Exchange (TSE) over eight years. Using this comprehensive microscopic dataset, we show that the exponent $δ$ is equal to $1/2$ within statistical errors at both the individual stock level and the individual trader level. Additionally, we rejected two prominent models supporting the nonuniversality hypothesis: the Gabaix-Gopikrishnan-Plerou-Stanley and the Farmer-Gerig-Lillo-Waelbroeck models. Our work provides exceptionally high-precision evidence for the universality hypothesis in social science and could prove useful in evaluating the price impact by large investors -- an important topic even among practitioners.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-fin.TR, cond-mat.stat-mech, econ.GN, q-fin.PM, q-fin.RM"
+}

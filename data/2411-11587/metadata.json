@@ -1,0 +1,15 @@
+{
+  "title": "A Linear Differential Inclusion for Contraction Analysis to Known Trajectories",
+  "authors": [
+    "Akash Harapanahalli",
+    "Samuel Coogan"
+  ],
+  "summary": "Infinitesimal contraction analysis provides exponential convergence rates between arbitrary pairs of trajectories of a system by studying the system's linearization. An essentially equivalent viewpoint arises through stability analysis of a linear differential inclusion (LDI) encompassing the incremental behavior of the system. In this note, we use contraction tools to study the exponential stability of a system to a particular known trajectory, deriving a new LDI characterizing the error between arbitrary trajectories and this known trajectory. As with classical contraction analysis, this new inclusion is constructed via first partial derivatives of the system's vector field, and convergence rates are obtained with familiar tools: uniform bounding of the logarithmic norm and LMI-based Lyapunov conditions. Our LDI is guaranteed to outperform a usual contraction analysis in two special circumstances: i) when the bound on the logarithmic norm arises from an interval overapproximation of the Jacobian matrix, and ii) when the norm considered is the $\\ell_1$ norm. Finally, we demonstrate how the proposed approach strictly improves an existing framework for ellipsoidal reachable set computation.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-08-08"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY, math.OC"
+}

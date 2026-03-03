@@ -1,0 +1,13 @@
+{
+  "title": "Efficient Training in Multi-Agent Reinforcement Learning: A Communication-Free Framework for the Box-Pushing Problem",
+  "authors": [
+    "David Ge",
+    "Hao Ji"
+  ],
+  "summary": "Self-organizing systems consist of autonomous agents that can perform complex tasks and adapt to dynamic environments without a central controller. Prior research often relies on reinforcement learning to enable agents to gain the skills needed for task completion, such as in the box-pushing environment. However, when agents push from opposing directions during exploration, they tend to exert equal and opposite forces on the box, resulting in minimal displacement and inefficient training. This paper proposes a model called Shared Pool of Information (SPI), which enables information to be accessible to all agents and facilitates coordination, reducing force conflicts among agents and enhancing exploration efficiency. Through computer simulations, we demonstrate that SPI not only expedites the training process but also requires fewer steps per episode, significantly improving the agents' collaborative effectiveness.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AI"
+}

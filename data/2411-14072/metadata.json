@@ -1,0 +1,17 @@
+{
+  "title": "The Master-Slave Encoder Model for Improving Patent Text Summarization: A New Approach to Combining Specifications and Claims",
+  "authors": [
+    "Shu Zhou",
+    "Xin Wang",
+    "Zhengda Zhou",
+    "Haohan Yi",
+    "Xuhui Zheng",
+    "Hao Wan"
+  ],
+  "summary": "In order to solve the problem of insufficient generation quality caused by traditional patent text abstract generation models only originating from patent specifications, the problem of new terminology OOV caused by rapid patent updates, and the problem of information redundancy caused by insufficient consideration of the high professionalism, accuracy, and uniqueness of patent texts, we proposes a patent text abstract generation model (MSEA) based on a master-slave encoder architecture; Firstly, the MSEA model designs a master-slave encoder, which combines the instructions in the patent text with the claims as input, and fully explores the characteristics and details between the two through the master-slave encoder; Then, the model enhances the consideration of new technical terms in the input sequence based on the pointer network, and further enhances the correlation with the input text by re weighing the \"remembered\" and \"for-gotten\" parts of the input sequence from the encoder; Finally, an enhanced repetition suppression mechanism for patent text was introduced to ensure accurate and non redundant abstracts generated. On a publicly available patent text dataset, compared to the state-of-the-art model, Improved Multi-Head Attention Mechanism (IMHAM), the MSEA model achieves an improvement of 0.006, 0.005, and 0.005 in Rouge-1, Rouge-2, and Rouge-L scores, respectively. MSEA leverages the characteristics of patent texts to effectively enhance the quality of patent text generation, demonstrating its advancement and effectiveness in the experiments.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.PL"
+}

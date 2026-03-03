@@ -1,0 +1,17 @@
+{
+  "title": "SkillTree: Explainable Skill-Based Deep Reinforcement Learning for Long-Horizon Control Tasks",
+  "authors": [
+    "Yongyan Wen",
+    "Siyuan Li",
+    "Rongchang Zuo",
+    "Lei Yuan",
+    "Hangyu Mao",
+    "Peng Liu"
+  ],
+  "summary": "Deep reinforcement learning (DRL) has achieved remarkable success in various research domains. However, its reliance on neural networks results in a lack of transparency, which limits its practical applications. To achieve explainability, decision trees have emerged as a popular and promising alternative to neural networks. Nonetheless, due to their limited expressiveness, traditional decision trees struggle with high-dimensional long-horizon continuous control tasks. In this paper, we proposes SkillTree, a novel framework that reduces complex continuous action spaces into discrete skill spaces. Our hierarchical approach integrates a differentiable decision tree within the high-level policy to generate skill embeddings, which subsequently guide the low-level policy in executing skills. By making skill decisions explainable, we achieve skill-level explainability, enhancing the understanding of the decision-making process in complex tasks. Experimental results demonstrate that our method achieves performance comparable to skill-based neural networks in complex robotic arm control domains. Furthermore, SkillTree offers explanations at the skill level, thereby increasing the transparency of the decision-making process.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Optimal reduction of an epidemic outbreak size via temporary quarantine",
+  "authors": [
+    "Eyal Atias",
+    "Michael Assaf"
+  ],
+  "summary": "Understanding the dynamics of an epidemic spread is crucial for effective control measures. During the COVID-19 pandemic, quarantines were implemented to minimize infections while mitigating social and economic impacts, raising the question of how to maximize quarantine efficiency. Previous research on periodic quarantines using the susceptible-infected-recovered (SIR) and similar models identified optimal duration for periodic quarantines. However, the question of the optimal initiation time for a single quarantine remains unanswered. Here, we use the SIR model in order to determine the optimal quarantine initiation time, by computing the optimal susceptible fraction at the onset of the quarantine, which minimizes the total outbreak size. Our analysis extends from a well-mixed scenario to strongly-heterogeneous social networks. We show that the optimal quarantine initiation time is closely related to the so-called \"herd immunity\" threshold, occurring at the onset of epidemic decline. Importantly, providing a methodology for identifying the optimal quarantine initiation time across different network structures, entails significant implications for epidemic control.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cond-mat.stat-mech, physics.comp-ph, q-bio.PE"
+}

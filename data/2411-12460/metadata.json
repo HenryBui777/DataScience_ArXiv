@@ -1,0 +1,21 @@
+{
+  "title": "Exploring Iterative Controllable Summarization with Large Language Models",
+  "authors": [
+    "Sangwon Ryu",
+    "Heejin Do",
+    "Daehee Kim",
+    "Hwanjo Yu",
+    "Dongwoo Kim",
+    "Yunsu Kim",
+    "Gary Geunbae Lee",
+    "Jungseul Ok"
+  ],
+  "summary": "Large language models (LLMs) have demonstrated remarkable performance in abstractive summarization tasks. However, their ability to precisely control summary attributes (e.g., length or topic) remains underexplored, limiting their adaptability to specific user preferences. In this paper, we systematically explore the controllability of LLMs. To this end, we revisit summary attribute measurements and introduce iterative evaluation metrics, failure rate and average iteration count to precisely evaluate controllability of LLMs, rather than merely assessing errors. Our findings show that LLMs struggle more with numerical attributes than with linguistic attributes. To address this challenge, we propose a guide-to-explain framework (GTE) for controllable summarization. Our GTE framework enables the model to identify misaligned attributes in the initial draft and guides it in self-explaining errors in the previous output. By allowing the model to reflect on its misalignment, GTE generates well-adjusted summaries that satisfy the desired attributes with robust effectiveness, requiring surprisingly fewer iterations than other iterative approaches.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-03-03"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.AI"
+}

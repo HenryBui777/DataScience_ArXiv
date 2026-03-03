@@ -1,0 +1,19 @@
+{
+  "title": "Automatic marker-free registration based on similar tetrahedras for single-tree point clouds",
+  "authors": [
+    "Jing Ren",
+    "Pei Wang",
+    "Hanlong Li",
+    "Yuhan Wu",
+    "Yuhang Gao",
+    "Wenxin Chen",
+    "Mingtai Zhang",
+    "Lingyun Zhang"
+  ],
+  "summary": "In recent years, terrestrial laser scanning technology has been widely used to collect tree point cloud data, aiding in measurements of diameter at breast height, biomass, and other forestry survey data. Since a single scan from terrestrial laser systems captures data from only one angle, multiple scans must be registered and fused to obtain complete tree point cloud data. This paper proposes a marker-free automatic registration method for single-tree point clouds based on similar tetrahedras. First, two point clouds from two scans of the same tree are used to generate tree skeletons, and key point sets are constructed from these skeletons. Tetrahedra are then filtered and matched according to similarity principles, with the vertices of these two matched tetrahedras selected as matching point pairs, thus completing the coarse registration of the point clouds from the two scans. Subsequently, the ICP method is applied to the coarse-registered leaf point clouds to obtain fine registration parameters, completing the precise registration of the two tree point clouds. Experiments were conducted using terrestrial laser scanning data from eight trees, each from different species and with varying shapes. The proposed method was evaluated using RMSE and Hausdorff distance, compared against the traditional ICP and NDT methods. The experimental results demonstrate that the proposed method significantly outperforms both ICP and NDT in registration accuracy, achieving speeds up to 593 times and 113 times faster than ICP and NDT, respectively. In summary, the proposed method shows good robustness in single-tree point cloud registration, with significant advantages in accuracy and speed compared to traditional ICP and NDT methods, indicating excellent application prospects in practical registration scenarios.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

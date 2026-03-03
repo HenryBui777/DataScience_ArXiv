@@ -1,0 +1,16 @@
+{
+  "title": "Neuromorphic Attitude Estimation and Control",
+  "authors": [
+    "Stein Stroobants",
+    "Christophe de Wagter",
+    "Guido C. H. E. De Croon"
+  ],
+  "summary": "The real-world application of small drones is mostly hampered by energy limitations. Neuromorphic computing promises extremely energy-efficient AI for autonomous flight but is still challenging to train and deploy on real robots. To reap the maximal benefits from neuromorphic computing, it is necessary to perform all autonomy functions end-to-end on a single neuromorphic chip, from low-level attitude control to high-level navigation. This research presents the first neuromorphic control system using a spiking neural network (SNN) to effectively map a drone's raw sensory input directly to motor commands. We apply this method to low-level attitude estimation and control for a quadrotor, deploying the SNN on a tiny Crazyflie. We propose a modular SNN, separately training and then merging estimation and control sub-networks. The SNN is trained with imitation learning, using a flight dataset of sensory-motor pairs. Post-training, the network is deployed on the Crazyflie, issuing control commands from sensor inputs at 500Hz. Furthermore, for the training procedure we augmented training data by flying a controller with additional excitation and time-shifting the target data to enhance the predictive capabilities of the SNN. On the real drone, the perception-to-control SNN tracks attitude commands with an average error of 3.0 degrees, compared to 2.7 degrees for the regular flight stack. We also show the benefits of the proposed learning modifications for reducing the average tracking error and reducing oscillations. Our work shows the feasibility of performing neuromorphic end-to-end control, laying the basis for highly energy-efficient and low-latency neuromorphic autopilots.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-03-21"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO, cs.LG, cs.NE"
+}

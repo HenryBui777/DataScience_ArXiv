@@ -1,0 +1,16 @@
+{
+  "title": "Adaptive Cache Management for Complex Storage Systems Using CNN-LSTM-Based Spatiotemporal Prediction",
+  "authors": [
+    "Xiaoye Wang",
+    "Xuan Li",
+    "Linji Wang",
+    "Tingyi Ruan",
+    "Pochun Li"
+  ],
+  "summary": "This paper proposes an intelligent cache management strategy based on CNN-LSTM to improve the performance and cache hit rate of storage systems. Through comparative experiments with traditional algorithms (such as LRU and LFU) and other deep learning models (such as RNN, GRU-RNN and LSTM), the results show that the CNN-LSTM model has significant advantages in cache demand prediction. The MSE and MAE values of this model are significantly reduced, proving its effectiveness under complex data access patterns. This study not only verifies the potential of deep learning technology in storage system optimization, but also provides direction and reference for further optimizing and improving cache management strategies. This intelligent cache management strategy performs well in complex storage environments. By combining the spatial feature extraction capabilities of convolutional neural networks and the time series modeling capabilities of long short-term memory networks, the CNN-LSTM model can more accurately predict cache needs, thereby Dynamically optimize cache allocation to improve system response speed and resource utilization. This research provides theoretical support and practical reference for cache optimization under large-scale data access modes, and is of great significance to improving the performance of future storage systems.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DC"
+}

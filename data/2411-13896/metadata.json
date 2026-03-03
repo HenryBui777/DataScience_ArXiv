@@ -1,0 +1,15 @@
+{
+  "title": "A blow up solution of the Navier-Stokes equations with a critical force",
+  "authors": [
+    "Qi S. Zhang"
+  ],
+  "summary": "A forced solution $v$ of the Navier-Stokes equation in any open domain with no slip\n  boundary condition is constructed. The scaling factor of the forcing term is the\n  critical order $-2$. The velocity, which is smooth until its final blow up moment,\n  is in the energy space through out. Since most physical forces from a point source\n  in nature are regarded as order $-2$, such as Coulomb force, Yukawa force, this\n  result indicates possible singularity formation under these kind of forces. The result\n  even holds for some log subcritical forces or some forces in the standard critical space $L^\\infty_t\n  L^{3/2}_x$, including the explicit force: $F=- δ\\frac{e^{-|x|^2}}{(|x|^2 + T-t) \\,[1+ | \\ln (|x|^2 + T-t)|]} (1, 0, 0) $ for any small $δ>0$. The result can also be considered as a step in Scheffer's plan.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-12-03",
+    "2024-12-29"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AP"
+}

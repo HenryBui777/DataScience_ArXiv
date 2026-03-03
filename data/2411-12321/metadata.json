@@ -1,0 +1,12 @@
+{
+  "title": "Enhancing Blind Source Separation with Dissociative Principal Component Analysis",
+  "authors": [
+    "Muhammad Usman Khalid"
+  ],
+  "summary": "Sparse principal component analysis (sPCA) enhances the interpretability of principal components (PCs) by imposing sparsity constraints on loading vectors (LVs). However, when used as a precursor to independent component analysis (ICA) for blind source separation (BSS), sPCA may underperform due to its focus on simplicity, potentially disregarding some statistical information essential for effective ICA. To overcome this limitation, a sophisticated approach is proposed that preserves the interpretability advantages of sPCA while significantly enhancing its source extraction capabilities. This consists of two tailored algorithms, dissociative PCA (DPCA1 and DPCA2), which employ adaptive and firm thresholding alongside gradient and coordinate descent approaches to optimize the proposed model dynamically. These algorithms integrate left and right singular vectors from singular value decomposition (SVD) through dissociation matrices (DMs) that replace traditional singular values, thus capturing latent interdependencies effectively to model complex source relationships. This leads to refined PCs and LVs that more accurately represent the underlying data structure. The proposed approach avoids focusing on individual eigenvectors, instead, it collaboratively combines multiple eigenvectors to disentangle interdependencies within each SVD variate. The superior performance of the proposed DPCA algorithms is demonstrated across four varied imaging applications including functional magnetic resonance imaging (fMRI) source retrieval, foreground-background separation, image reconstruction, and image inpainting. They outperformed traditional methods such as PCA+ICA, PPCA+ICA, SPCA+ICA, PMD, and GPower.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

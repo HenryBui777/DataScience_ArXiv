@@ -1,0 +1,20 @@
+{
+  "title": "Self-supervised denoising of visual field data improves detection of glaucoma progression",
+  "authors": [
+    "Sean Wu",
+    "Jun Yu Chen",
+    "Vahid Mohammadzadeh",
+    "Sajad Besharati",
+    "Jaewon Lee",
+    "Kouros Nouri-Mahdavi",
+    "Joseph Caprioli",
+    "Zhe Fei",
+    "Fabien Scalzo"
+  ],
+  "summary": "Perimetric measurements provide insight into a patient's peripheral vision and day-to-day functioning and are the main outcome measure for identifying progression of visual damage from glaucoma. However, visual field data can be noisy, exhibiting high variance, especially with increasing damage. In this study, we demonstrate the utility of self-supervised deep learning in denoising visual field data from over 4000 patients to enhance its signal-to-noise ratio and its ability to detect true glaucoma progression. We deployed both a variational autoencoder (VAE) and a masked autoencoder to determine which self-supervised model best smooths the visual field data while reconstructing salient features that are less noisy and more predictive of worsening disease. Our results indicate that including a categorical p-value at every visual field location improves the smoothing of visual field data. Masked autoencoders led to cleaner denoised data than previous methods, such as variational autoencoders. A 4.7% increase in detection of progressing eyes with pointwise linear regression (PLR) was observed. The masked and variational autoencoders' smoothed data predicted glaucoma progression 2.3 months earlier when p-values were included compared to when they were not. The faster prediction of time to progression (TTP) and the higher percentage progression detected support our hypothesis that masking out visual field elements during training while including p-values at each location would improve the task of detection of visual field progression. Our study has clinically relevant implications regarding masking when training neural networks to denoise visual field data, resulting in earlier and more accurate detection of glaucoma progression. This denoising model can be integrated into future models for visual field analysis to enhance detection of glaucoma progression.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.IV, cs.CV, cs.LG"
+}

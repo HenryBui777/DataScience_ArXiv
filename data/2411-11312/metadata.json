@@ -1,0 +1,14 @@
+{
+  "title": "Study of the Performance of CEEMDAN in Underdetermined Speech Separation",
+  "authors": [
+    "Rawad Melhem",
+    "Riad Hamadeh",
+    "Assef Jafar"
+  ],
+  "summary": "The CEEMDAN algorithm is one of the modern methods used in the analysis of non-stationary signals. This research presents a study of the effectiveness of this method in audio source separation to know the limits of its work. It concluded two conditions related to frequencies and amplitudes of mixed signals to be separated by CEEMDAN. The performance of the algorithm in separating noise from speech and separating speech signals from each other is studied. The research reached a conclusion that CEEMDAN can remove some types of noise from speech (speech improvement), and it cannot separate speech signals from each other (cocktail party). Simulation is done using Matlab environment and Noizeus database.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "Damascus University Journal For Engineering Sciences, Vol 40 No.3 (2024):204 -218",
+  "pdf_url": null,
+  "category": "cs.SD, cs.AI, eess.AS"
+}

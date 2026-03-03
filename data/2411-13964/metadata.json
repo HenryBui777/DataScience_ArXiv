@@ -1,0 +1,16 @@
+{
+  "title": "Long-time analysis of a pair of on-lattice and continuous run-and-tumble particles with jamming interactions",
+  "authors": [
+    "Arnaud Guillin",
+    "Leo Hahn",
+    "Manon Michel"
+  ],
+  "summary": "Run-and-Tumble Particles (RTPs) are a key model of active matter. They are characterized by alternating phases of linear travel and random direction reshuffling. By this dynamic behavior, they break time reversibility and energy conservation at the microscopic level. It leads to complex out-of-equilibrium phenomena such as collective motion, pattern formation, and motility-induced phase separation (MIPS). In this work, we study two fundamental dynamical models of a pair of RTPs with jamming interactions and provide a rigorous link between their discrete- and continuous-space descriptions. We demonstrate that as the lattice spacing vanishes, the discrete models converge to a continuous RTP model on the torus, described by a Piecewise Deterministic Markov Process (PDMP). This establishes that the invariant measures of the discrete models converge to that of the continuous model, which reveals finite mass at jamming configurations and exponential decay away from them. This indicates effective attraction, which is consistent with MIPS. Furthermore, we quantitatively explore the convergence towards the invariant measure. Such convergence study is critical for understanding and characterizing how MIPS emerges over time. Because RTP systems are non-reversible, usual methods may fail or are limited to qualitative results. Instead, we adopt a coupling approach to obtain more accurate, non-asymptotic bounds on mixing times. The findings thus provide deeper theoretical insights into the mixing times of these RTP systems, revealing the presence of both persistent and diffusive regimes.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-07-17"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.PR, cond-mat.stat-mech"
+}

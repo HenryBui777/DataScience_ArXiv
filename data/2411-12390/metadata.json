@@ -1,0 +1,17 @@
+{
+  "title": "The impact of stochastic resetting on resource allocation: The case of Reallocating geometric Brownian motion",
+  "authors": [
+    "Petar Jolakoski",
+    "Pece Trajanovski",
+    "Arnab Pal",
+    "Viktor Stojkoski",
+    "Ljupco Kocarev",
+    "Trifce Sandev"
+  ],
+  "summary": "We study the effects of stochastic resetting on the Reallocating geometric Brownian motion (RGBM), an established model for resource redistribution relevant to systems such as population dynamics, evolutionary processes, economic activity, and even cosmology. The RGBM model is inherently non-stationary and non-ergodic, leading to complex resource redistribution dynamics. By introducing stochastic resetting, which periodically returns the system to a predetermined state, we examine how this mechanism modifies RGBM behavior. Our analysis uncovers distinct long-term regimes determined by the interplay between the resetting rate, the strength of resource redistribution, and standard geometric Brownian motion parameters: the drift and the noise amplitude. Notably, we identify a critical resetting rate beyond which the self-averaging time becomes effectively infinite. In this regime, the first two moments are stationary, indicating a stabilized distribution of an initially unstable, mean-repulsive process. We demonstrate that optimal resetting can effectively balance growth and redistribution, reducing inequality in the resource distribution. These findings help us understand better the management of resource dynamics in uncertain environments.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cond-mat.stat-mech"
+}

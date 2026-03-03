@@ -1,0 +1,19 @@
+{
+  "title": "Comparative Analysis of Audio Feature Extraction for Real-Time Talking Portrait Synthesis",
+  "authors": [
+    "Pegah Salehi",
+    "Sajad Amouei Sheshkal",
+    "Vajira Thambawita",
+    "Sushant Gautam",
+    "Saeed S. Sabet",
+    "Dag Johansen",
+    "Michael A. Riegler",
+    "Pål Halvorsen"
+  ],
+  "summary": "This paper examines the integration of real-time talking-head generation for interviewer training, focusing on overcoming challenges in Audio Feature Extraction (AFE), which often introduces latency and limits responsiveness in real-time applications. To address these issues, we propose and implement a fully integrated system that replaces conventional AFE models with Open AI's Whisper, leveraging its encoder to optimize processing and improve overall system efficiency. Our evaluation of two open-source real-time models across three different datasets shows that Whisper not only accelerates processing but also improves specific aspects of rendering quality, resulting in more realistic and responsive talking-head interactions. These advancements make the system a more effective tool for immersive, interactive training applications, expanding the potential of AI-driven avatars in interviewer training.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SD, cs.AI, cs.HC, eess.AS"
+}

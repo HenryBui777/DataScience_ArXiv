@@ -1,0 +1,338 @@
+{
+  "2402-00341": {
+    "title": "Recasting Regional Lighting for Shadow Removal",
+    "authors": [
+      "Yuhao Liu",
+      "Zhanghan Ke",
+      "Ke Xu",
+      "Fang Liu",
+      "Zhenwei Wang",
+      "Rynson W. H. Lau"
+    ],
+    "publication_date": "2024-02-01",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "35076f0d473822a78f017e995596e54696b2579b",
+    "corpus_id": 267364873,
+    "category": "Computer Science"
+  },
+  "2302-05361": {
+    "title": "Leveraging Inpainting for Single-Image Shadow Removal",
+    "authors": [
+      "Xiaoguang Li",
+      "Qing Guo",
+      "R. Abdelfattah",
+      "Di Lin",
+      "Wei Feng",
+      "I. Tsang",
+      "Song Wang"
+    ],
+    "publication_date": "2023-02-10",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "4d1b2a5430e93e4a410ce338fc8f25f31b6547b8",
+    "corpus_id": 256808697,
+    "category": "Computer Science"
+  },
+  "2212-04711": {
+    "title": "ShadowDiffusion: When Degradation Prior Meets Diffusion Model for Shadow Removal",
+    "authors": [
+      "Lanqing Guo",
+      "Chong Wang",
+      "Wenhan Yang",
+      "Siyu Huang",
+      "Yufei Wang",
+      "H. Pfister",
+      "B. Wen"
+    ],
+    "publication_date": "2022-12-09",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "afd674940791fb2daeecb0801a5068d80d9f77a7",
+    "corpus_id": 254535902,
+    "category": "Computer Science"
+  },
+  "2211-14751": {
+    "title": "Estimating Reflectance Layer from A Single Image: Integrating Reflectance Guidance and Shadow/Specular Aware Learning",
+    "authors": [
+      "Yeying Jin",
+      "Ruoteng Li",
+      "Wenhan Yang",
+      "R. Tan"
+    ],
+    "publication_date": "2022-11-27",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "d3054551f9f9dfd8d49d029e16b0d27f46990826",
+    "corpus_id": 254043603,
+    "category": "Computer Science"
+  },
+  "2211-08089": {
+    "title": "DeS3: Adaptive Attention-Driven Self and Soft Shadow Removal Using ViT Similarity",
+    "authors": [
+      "Yeying Jin",
+      "Wenhan Yang",
+      "W. Ye",
+      "Yuan Yuan",
+      "R. Tan"
+    ],
+    "publication_date": "2022-11-15",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "de8cfa46816293b2c50b8260366cbb82807caf7e",
+    "corpus_id": 257772113,
+    "category": "Computer Science"
+  },
+  "2203-03818": {
+    "title": "Shadows can be Dangerous: Stealthy and Effective Physical-world Adversarial Attack by Natural Phenomenon",
+    "authors": [
+      "Yiqi Zhong",
+      "Xianming Liu",
+      "Deming Zhai",
+      "Junjun Jiang",
+      "Xiangyang Ji"
+    ],
+    "publication_date": "2022-03-08",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "4d46be305392998365cb7e9ad0304bf8996ad7fe",
+    "corpus_id": 247315328,
+    "category": "Computer Science"
+  },
+  "2207-10434": {
+    "title": "DC-ShadowNet: Single-Image Hard and Soft Shadow Removal Using Unsupervised Domain-Classifier Guided Network",
+    "authors": [
+      "Yeying Jin",
+      "Aashish Sharma",
+      "R. Tan"
+    ],
+    "publication_date": "2021-10-01",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "1e43f2cf13601c7ec323ea1bd29c1727bc96cd4b",
+    "corpus_id": 244037200,
+    "category": "Computer Science"
+  },
+  "2108-10257": {
+    "title": "SwinIR: Image Restoration Using Swin Transformer",
+    "authors": [
+      "Jingyun Liang",
+      "Jie Cao",
+      "Guolei Sun",
+      "K. Zhang",
+      "L. Gool",
+      "R. Timofte"
+    ],
+    "publication_date": "2021-08-23",
+    "venue": "2021 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)",
+    "semantic_scholar_id": "7a9a708ca61c14886aa0dcd6d13dac7879713f5f",
+    "corpus_id": 237266491,
+    "category": "Engineering, Computer Science"
+  },
+  "2108-09894": {
+    "title": "CANet: A Context-Aware Network for Shadow Removal",
+    "authors": [
+      "Zipei Chen",
+      "Chengjiang Long",
+      "Ling Zhang",
+      "Chunxia Xiao"
+    ],
+    "publication_date": "2021-08-23",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "59b1f6ff776b51c107dcae17a37b90969b52d981",
+    "corpus_id": 237266702,
+    "category": "Computer Science"
+  },
+  "2106-03106": {
+    "title": "Uformer: A General U-Shaped Transformer for Image Restoration",
+    "authors": [
+      "Zhendong Wang",
+      "Xiaodong Cun",
+      "Jianmin Bao",
+      "Jianzhuang Liu"
+    ],
+    "publication_date": "2021-06-06",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2835951fabf12804e17d5a525b2be2bee70e7910",
+    "corpus_id": 235358213,
+    "category": "Computer Science"
+  },
+  "2103-12997": {
+    "title": "From Shadow Generation to Shadow Removal",
+    "authors": [
+      "Zhihao Liu",
+      "Hui Yin",
+      "Xinyi Wu",
+      "Zhenyao Wu",
+      "Yang Mi",
+      "Song Wang"
+    ],
+    "publication_date": "2021-03-24",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "3622d9b5f03e9d40967ee2748588f78f2df6d29a",
+    "corpus_id": 232335747,
+    "category": "Computer Science"
+  },
+  "2103-01255": {
+    "title": "Auto-Exposure Fusion for Single-Image Shadow Removal",
+    "authors": [
+      "Lan Fu",
+      "Changqing Zhou",
+      "Qing Guo",
+      "Felix Juefei-Xu",
+      "Hongkai Yu",
+      "Wei Feng",
+      "Yang Liu",
+      "Song Wang"
+    ],
+    "publication_date": "2021-03-01",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "c0a17e62bb45de3e3d9ae835b86796af08949e9f",
+    "corpus_id": 232092282,
+    "category": "Computer Science"
+  },
+  "2010-11929": {
+    "title": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale",
+    "authors": [
+      "Alexey Dosovitskiy",
+      "Lucas Beyer",
+      "Alexander Kolesnikov",
+      "Dirk Weissenborn",
+      "Xiaohua Zhai",
+      "Thomas Unterthiner",
+      "Mostafa Dehghani",
+      "M. Minderer",
+      "G. Heigold",
+      "S. Gelly",
+      "Jakob Uszkoreit",
+      "N. Houlsby"
+    ],
+    "publication_date": "2020-10-22",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "268d347e8a55b5eb82fb5e7d2f800e33c75ab18a",
+    "corpus_id": 225039882,
+    "category": "Computer Science"
+  },
+  "1911-08718": {
+    "title": "Towards Ghost-free Shadow Removal via Dual Hierarchical Aggregation Network and Shadow Matting GAN",
+    "authors": [
+      "Xiaodong Cun",
+      "Chi-Man Pun",
+      "Cheng Shi"
+    ],
+    "publication_date": "2019-11-20",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "6602aa9efddb5197365a4f536efb8173288c2ee6",
+    "corpus_id": 208175610,
+    "category": "Computer Science"
+  },
+  "1908-08628": {
+    "title": "Shadow Removal via Shadow Image Decomposition",
+    "authors": [
+      "Hieu Le",
+      "D. Samaras"
+    ],
+    "publication_date": "2019-08-23",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "375320876af495b431d22bf9db23701e55574ae2",
+    "corpus_id": 201645098,
+    "category": "Computer Science"
+  },
+  "1903-10683": {
+    "title": "Mask-ShadowGAN: Learning to Remove Shadows From Unpaired Data",
+    "authors": [
+      "Xiaowei Hu",
+      "Yitong Jiang",
+      "Chi-Wing Fu",
+      "P. Heng"
+    ],
+    "publication_date": "2019-03-26",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "877439aea8f08c849689f0dd7a47475f4ad30f95",
+    "corpus_id": 85518390,
+    "category": "Computer Science"
+  },
+  "1805-04635": {
+    "title": "Direction-Aware Spatial Context Features for Shadow Detection and Removal",
+    "authors": [
+      "Xiaowei Hu",
+      "Lei Zhu",
+      "Chi-Wing Fu",
+      "J. Qin",
+      "P. Heng"
+    ],
+    "publication_date": "2018-05-12",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "06bd0cbc705a067d3d7d7cea5361d540dba3b00a",
+    "corpus_id": 8182535,
+    "category": "Computer Science, Medicine"
+  },
+  "1712-02478": {
+    "title": "Stacked Conditional Generative Adversarial Networks for Jointly Learning Shadow Detection and Shadow Removal",
+    "authors": [
+      "Jifeng Wang",
+      "Xiang Li",
+      "Le Hui",
+      "Jian Yang"
+    ],
+    "publication_date": "2017-12-07",
+    "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "7ae613ab4925975be47c6d5418a5153b73b4ba55",
+    "corpus_id": 413731,
+    "category": "Computer Science"
+  },
+  "1710-09412": {
+    "title": "mixup: Beyond Empirical Risk Minimization",
+    "authors": [
+      "Hongyi Zhang",
+      "Moustapha Cissé",
+      "Yann Dauphin",
+      "David Lopez-Paz"
+    ],
+    "publication_date": "2017-10-25",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "4feef0fd284feb1233399b400eb897f59ec92755",
+    "corpus_id": 3162051,
+    "category": "Mathematics, Computer Science"
+  },
+  "1710-01992": {
+    "title": "Fast and Accurate Image Super-Resolution with Deep Laplacian Pyramid Networks",
+    "authors": [
+      "Wei-Sheng Lai",
+      "Jia-Bin Huang",
+      "N. Ahuja",
+      "Ming-Hsuan Yang"
+    ],
+    "publication_date": "2017-10-04",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "0bbbe0ee7648a260275809699e146b6a2da57008",
+    "corpus_id": 26229170,
+    "category": "Computer Science, Medicine"
+  },
+  "1709-01507": {
+    "title": "Squeeze-and-Excitation Networks",
+    "authors": [
+      "Jie Hu",
+      "Li Shen",
+      "Samuel Albanie",
+      "Gang Sun",
+      "E. Wu"
+    ],
+    "publication_date": "2017-09-05",
+    "venue": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "fb37561499573109fc2cebb6a7b08f44917267dd",
+    "corpus_id": 140309863,
+    "category": "Computer Science"
+  },
+  "2103-14030": {
+    "title": "Swin Transformer: Hierarchical Vision Transformer using Shifted Windows",
+    "authors": [
+      "Ze Liu",
+      "Yutong Lin",
+      "Yue Cao",
+      "Han Hu",
+      "Yixuan Wei",
+      "Zheng Zhang",
+      "Stephen Lin",
+      "B. Guo"
+    ],
+    "publication_date": "",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "c8b25fab5608c3e033d34b4483ec47e68ba109b7",
+    "corpus_id": 232352874,
+    "category": "Computer Science"
+  }
+}

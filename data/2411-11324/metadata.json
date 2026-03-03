@@ -1,0 +1,17 @@
+{
+  "title": "Cuvis.Ai: An Open-Source, Low-Code Software Ecosystem for Hyperspectral Processing and Classification",
+  "authors": [
+    "Nathaniel Hanson",
+    "Philip Manke",
+    "Simon Birkholz",
+    "Maximilian Mühlbauer",
+    "Rene Heine",
+    "Arnd Brandes"
+  ],
+  "summary": "Machine learning is an important tool for analyzing high-dimension hyperspectral data; however, existing software solutions are either closed-source or inextensible research products. In this paper, we present cuvis.ai, an open-source and low-code software ecosystem for data acquisition, preprocessing, and model training. The package is written in Python and provides wrappers around common machine learning libraries, allowing both classical and deep learning models to be trained on hyperspectral data. The codebase abstracts processing interconnections and data dependencies between operations to minimize code complexity for users. This software package instantiates nodes in a directed acyclic graph to handle all stages of a machine learning ecosystem, from data acquisition, including live or static data sources, to final class assignment or property prediction. User-created models contain convenient serialization methods to ensure portability and increase sharing within the research community. All code and data are available online: https://github.com/cubert-hyperspectral/cuvis.ai",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.SE"
+}

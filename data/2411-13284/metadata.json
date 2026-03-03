@@ -1,0 +1,15 @@
+{
+  "title": "DATTA: Domain-Adversarial Test-Time Adaptation for Cross-Domain WiFi-Based Human Activity Recognition",
+  "authors": [
+    "Julian Strohmayer",
+    "Rafael Sterzinger",
+    "Matthias Wödlinger",
+    "Martin Kampel"
+  ],
+  "summary": "Cross-domain generalization is an open problem in WiFi-based sensing due to variations in environments, devices, and subjects, causing domain shifts in channel state information. To address this, we propose Domain-Adversarial Test-Time Adaptation (DATTA), a novel framework combining domain-adversarial training (DAT), test-time adaptation (TTA), and weight resetting to facilitate adaptation to unseen target domains and to prevent catastrophic forgetting. DATTA is integrated into a lightweight, flexible architecture optimized for speed. We conduct a comprehensive evaluation of DATTA, including an ablation study on all key components using publicly available data, and verify its suitability for real-time applications such as human activity recognition. When combining a SotA video-based variant of TTA with WiFi-based DAT and comparing it to DATTA, our method achieves an 8.1% higher F1-Score. The PyTorch implementation of DATTA is publicly available at: https://github.com/StrohmayerJ/DATTA.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI, cs.ET, cs.LG"
+}

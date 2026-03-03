@@ -1,0 +1,16 @@
+{
+  "title": "Pulsar Consensus",
+  "authors": [
+    "Samer Afach",
+    "Benjamin Marsh",
+    "Enrico Rubboli"
+  ],
+  "summary": "In this paper, we informally introduce the Pulsar proof of stake consensus paper and discuss the relevant design decisions and considerations. The Pulsar protocol we propose is designed to facilitate the creation of a proof of stake sidechain for a proof of work blockchain. We present an overview of a novel composable density-based chain selection rule for proof of stake systems which can be seen as a superset of some standard existing longest chain rules for proof of stake protocols. We discuss the Pulsar protocol in comparison to existing proof of stake protocols and define its benefits over existing designs while defining the limitations of the work. Pulsar is currently implemented in the Mintlayer proof of stake Bitcoin sidechain.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-07-17"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR"
+}

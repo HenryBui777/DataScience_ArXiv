@@ -1,0 +1,16 @@
+{
+  "title": "Coexistence of Radar and Communication with Rate-Splitting Wireless Access",
+  "authors": [
+    "Anup Mishra",
+    "Israel Leyva-Mayorga",
+    "Petar Popovski"
+  ],
+  "summary": "Future wireless networks are envisioned to facilitate the seamless coexistence of communication and sensing functionalities, thereby enabling the much-touted integrated sensing and communication (ISAC) paradigm. A key challenge in ISAC is managing inter-functionality interference while maintaining a balanced performance trade-off. In this work, we propose a rate-splitting (RS)-inspired approach to address this challenge in an uplink ISAC scenario, where a base station (BS) serves an uplink communication user while detecting a radar target. We derive inner bounds on the ergodic data information rate for the communication user and the ergodic radar estimation information rate for the sensing target. A closed-form solution is also derived for the optimal power split in RS that maximizes the communication user's performance. Compared to orthogonal multiple access (OMA)- and non-orthogonal multiple access (NOMA)-inspired approaches, the proposed approach achieves a more favorable sensing-communication trade-off by virtue of the decoding order flexibility introduced through splitting the communication message. Notably, this is the first work to employ an RS-inspired strategy as a general framework for non-orthogonal coexistence of sensing and communication, extending its applicability beyond traditional digital-only settings.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-08-30"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP"
+}

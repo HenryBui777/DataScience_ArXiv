@@ -1,0 +1,14 @@
+{
+  "title": "Introducing IHARDS-CNN: A Cutting-Edge Deep Learning Method for Human Activity Recognition Using Wearable Sensors",
+  "authors": [
+    "Nazanin Sedaghati",
+    "Masoud Kargar",
+    "Sina Abbaskhani"
+  ],
+  "summary": "Human activity recognition, facilitated by smart devices, has recently garnered significant attention. Deep learning algorithms have become pivotal in daily activities, sports, and healthcare. Nevertheless, addressing the challenge of extracting features from sensor data processing necessitates the utilization of diverse algorithms in isolation, subsequently transforming them into a standard mode. This research introduces a novel approach called IHARDS-CNN, amalgamating data from three distinct datasets (UCI-HAR, WISDM, and KU-HAR) for human activity recognition. The data collected from sensors embedded in smartwatches or smartphones encompass five daily activity classes. This study initially outlines the dataset integration approach, follows with a comprehensive statistical analysis, and assesses dataset accuracy. The proposed methodology employs a one-dimensional deep convolutional neural network for classification. Compared to extant activity recognition methods, this approach stands out for its high speed, reduced detection steps, and absence of the need to aggregate classified results. Despite fewer detection steps, empirical results demonstrate an impressive accuracy of nearly 100%, marking it the highest among existing methods. Evaluation outcomes further highlight superior classification performance when compared to analogous architectures.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.HC"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "BERT-Based Approach for Automating Course Articulation Matrix Construction with Explainable AI",
+  "authors": [
+    "Natenaile Asmamaw Shiferaw",
+    "Simpenzwe Honore Leandre",
+    "Aman Sinha",
+    "Dillip Rout"
+  ],
+  "summary": "Course Outcome (CO) and Program Outcome (PO)/Program-Specific Outcome (PSO) alignment is a crucial task for ensuring curriculum coherence and assessing educational effectiveness. The construction of a Course Articulation Matrix (CAM), which quantifies the relationship between COs and POs/PSOs, typically involves assigning numerical values (0, 1, 2, 3) to represent the degree of alignment. In this study, We experiment with four models from the BERT family: BERT Base, DistilBERT, ALBERT, and RoBERTa, and use multiclass classification to assess the alignment between CO and PO/PSO pairs. We first evaluate traditional machine learning classifiers, such as Decision Tree, Random Forest, and XGBoost, and then apply transfer learning to evaluate the performance of the pretrained BERT models. To enhance model interpretability, we apply Explainable AI technique, specifically Local Interpretable Model-agnostic Explanations (LIME), to provide transparency into the decision-making process. Our system achieves accuracy, precision, recall, and F1-score values of 98.66%, 98.67%, 98.66%, and 98.66%, respectively. This work demonstrates the potential of utilizing transfer learning with BERT-based models for the automated generation of CAMs, offering high performance and interpretability in educational outcome assessment.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI, cs.CY"
+}

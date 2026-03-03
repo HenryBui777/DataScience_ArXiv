@@ -1,0 +1,15 @@
+{
+  "title": "On the applicability of CCSD(T) for dispersion interactions in large conjugated systems",
+  "authors": [
+    "S. Lambie",
+    "D. Kats",
+    "D. Usyvat",
+    "A. Alavi"
+  ],
+  "summary": "In light of the recent discrepancies reported between fixed node diffusion Monte Carlo and local natural orbital coupled cluster with single, double and perturbative triples (CCSD(T)) methodologies for non-covalent interactions in large molecular systems [Al-Hamdani et al., Nat. Comm., 2021, 12, 3927], the applicability of CCSD(T) is assessed using a model framework. The use of the Pariser-Parr-Pople (PPP) model for studying large molecules is critically examined and is shown to recover both bandgap closure as system size increases and long range dispersive behavior of r^-6 with increasing separation between monomers, in corollary with real systems. Using the PPP model, coupled cluster methodologies, CCSDTQ and CCSDT(Q), are then used to benchmark CCSDT and CCSD(T) methodologies for non-covalent interactions in large one- and two-dimensional molecular systems up to the dibenzocoronene dimer. We show that CCSD(T) demonstrates no signs of overestimating the interaction energy for these systems. Furthermore, by examining the Hartree-Fock HOMO-LUMO gap of these large molecules, the perturbative treatment of the triples contribution in CCSD(T) is not expected to cause problems for accurately capturing the interaction energy for system sizes up to at least circumcoronene.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.chem-ph"
+}

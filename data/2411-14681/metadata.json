@@ -1,0 +1,22 @@
+{
+  "title": "TrojanEdit: Multimodal Backdoor Attack Against Image Editing Model",
+  "authors": [
+    "Ji Guo",
+    "Peihong Chen",
+    "Wenbo Jiang",
+    "Xiaolei Wen",
+    "Jiaming He",
+    "Jiachen Li",
+    "Guoming Lu",
+    "Aiguo Chen",
+    "Hongwei Li"
+  ],
+  "summary": "Multimodal diffusion models for image editing generate outputs conditioned on both textual instructions and visual inputs, aiming to modify target regions while preserving the rest of the image. Although diffusion models have been shown to be vulnerable to backdoor attacks, existing efforts mainly focus on unimodal generative models and fail to address the unique challenges in multimodal image editing. In this paper, we present the first study of backdoor attacks on multimodal diffusion-based image editing models. We investigate the use of both textual and visual triggers to embed a backdoor that achieves high attack success rates while maintaining the model's normal functionality. However, we identify a critical modality bias. Simply combining triggers from different modalities leads the model to primarily rely on the stronger one, often the visual modality, which results in a loss of multimodal behavior and degrades editing quality. To overcome this issue, we propose TrojanEdit, a backdoor injection framework that dynamically adjusts the gradient contributions of each modality during training. This allows the model to learn a truly multimodal backdoor that activates only when both triggers are present. Extensive experiments on multiple image editing models show that TrojanEdit successfully integrates triggers from different modalities, achieving balanced multimodal backdoor learning while preserving clean editing performance and ensuring high attack effectiveness.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-05-30"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Anisotropic Gaussian Smoothing for Gradient-based Optimization",
+  "authors": [
+    "Andrew Starnes",
+    "Guannan Zhang",
+    "Viktor Reshniak",
+    "Clayton Webster"
+  ],
+  "summary": "This article introduces a novel family of optimization algorithms - Anisotropic Gaussian Smoothing Gradient Descent (AGS-GD), AGS-Stochastic Gradient Descent (AGS-SGD), and AGS-Adam - that employ anisotropic Gaussian smoothing to enhance traditional gradient-based methods, including GD, SGD, and Adam. The primary goal of these approaches is to address the challenge of optimization methods becoming trapped in suboptimal local minima by replacing the standard gradient with a non-local gradient derived from averaging function values using anisotropic Gaussian smoothing. Unlike isotropic Gaussian smoothing (IGS), AGS adapts the smoothing directionality based on the properties of the underlying function, aligning better with complex loss landscapes and improving convergence. The anisotropy is computed by adjusting the covariance matrix of the Gaussian distribution, allowing for directional smoothing tailored to the gradient's behavior. This technique mitigates the impact of minor fluctuations, enabling the algorithms to approach global minima more effectively. We provide detailed convergence analyses that extend the results from both the original (unsmoothed) methods and the IGS case to the more general anisotropic smoothing, applicable to both convex and non-convex, L-smooth functions. In the stochastic setting, these algorithms converge to a noisy ball, with its size determined by the smoothing parameters. The article also outlines the theoretical benefits of anisotropic smoothing and details its practical implementation using Monte Carlo estimation, aligning with established zero-order optimization techniques.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC"
+}

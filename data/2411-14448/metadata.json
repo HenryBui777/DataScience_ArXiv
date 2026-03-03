@@ -1,0 +1,18 @@
+{
+  "title": "Universal graph representation of stabilizer codes",
+  "authors": [
+    "Andrey Boris Khesin",
+    "Jonathan Z. Lu",
+    "Peter W. Shor"
+  ],
+  "summary": "While stabilizer tableaus have proven useful as a descriptive tool for additive quantum codes, they otherwise offer little guidance for concrete constructions or algorithm analysis. We introduce a representation of stabilizer codes as graphs with certain structures, and prove via the ZX Calculus that this representation is related to stabilizer tableaus by an efficiently computable bijection. This gives a new universal recipe for code construction by way of finding graphs with nice properties. The graph representation gives insight into both code construction and algorithms. We construct as examples families of $[[ n, \\;Θ(\\frac{n}{\\log n}), \\;Θ(\\log n)]]$ and $[[ n, \\;Ω(n^{4/5}), \\;Θ(n^{1/5}) ]]$ codes. We use graphs in a probabilistic analysis to extend the quantum Gilbert-Varshamov bound into a three-way distance-rate-weight trade-off. Moreover, code properties such as distance and encoding circuit depth are bounded by simple functions of the graph degree. We prove that key coding algorithms -- distance approximation, minimum weight generator selection, and decoding -- are unified as instances of one optimization game on a graph. By studying this game, we construct an efficient greedy decoder and prove that it corrects all recoverable errors for all graphs with cycle lengths no shorter than 13 (reducible to 5 with mild extra constraints); these include the above two families. Our results suggest that graphs are generically useful for the study of stabilizer codes.",
+  "submission_date": "2024-11-07",
+  "revised_dates": [
+    "2024-12-19",
+    "2025-02-10",
+    "2025-11-07"
+  ],
+  "publication_venue": "PRX Quantum 6, 040325 (2025)",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

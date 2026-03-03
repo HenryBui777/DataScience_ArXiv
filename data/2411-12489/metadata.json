@@ -1,0 +1,15 @@
+{
+  "title": "A polarizable CASSCF/MM approach using the interface between OpenMMPol library and CFour",
+  "authors": [
+    "Tommaso Nottoli",
+    "Mattia Bondanza",
+    "Filippo Lipparini",
+    "Benedetta Mennucci"
+  ],
+  "summary": "We present a polarizable embedding quantum mechanics/molecular mechanics (QM/MM) framework for ground- and excited-state Complete Active Space Self-Consistent Field (CASSCF) calculations on molecules within complex environments, such as biological systems. These environments are modeled using the AMOEBA polarizable force field. This approach is implemented by integrating the OpenMMPol library with the CFour quantum chemistry software suite. The implementation supports both single-point energy evaluations and geometry optimizations, facilitated by the availability of analytical gradients. We demonstrate the methodology by applying it to two distinct photoreceptors, exploring the impact of the protein environment on the structural and photophysical properties of their embedded chromophores.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.chem-ph"
+}

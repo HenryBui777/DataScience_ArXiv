@@ -1,0 +1,17 @@
+{
+  "title": "Unsupervised Multi-view UAV Image Geo-localization via Iterative Rendering",
+  "authors": [
+    "Haoyuan Li",
+    "Chang Xu",
+    "Wen Yang",
+    "Li Mi",
+    "Huai Yu",
+    "Haijian Zhang"
+  ],
+  "summary": "Unmanned Aerial Vehicle (UAV) Cross-View Geo-Localization (CVGL) presents significant challenges due to the view discrepancy between oblique UAV images and overhead satellite images. Existing methods heavily rely on the supervision of labeled datasets to extract viewpoint-invariant features for cross-view retrieval. However, these methods have expensive training costs and tend to overfit the region-specific cues, showing limited generalizability to new regions. To overcome this issue, we propose an unsupervised solution that lifts the scene representation to 3d space from UAV observations for satellite image generation, providing robust representation against view distortion. By generating orthogonal images that closely resemble satellite views, our method reduces view discrepancies in feature representation and mitigates shortcuts in region-specific image pairing. To further align the rendered image's perspective with the real one, we design an iterative camera pose updating mechanism that progressively modulates the rendered query image with potential satellite targets, eliminating spatial offsets relative to the reference images. Additionally, this iterative refinement strategy enhances cross-view feature invariance through view-consistent fusion across iterations. As such, our unsupervised paradigm naturally avoids the problem of region-specific overfitting, enabling generic CVGL for UAV images without feature fine-tuning or data-driven training. Experiments on the University-1652 and SUES-200 datasets demonstrate that our approach significantly improves geo-localization accuracy while maintaining robustness across diverse regions. Notably, without model fine-tuning or paired training, our method achieves competitive performance with recent supervised methods.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.RO, eess.IV"
+}

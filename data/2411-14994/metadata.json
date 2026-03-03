@@ -1,0 +1,14 @@
+{
+  "title": "Approximating Prize-Collecting Variants of TSP",
+  "authors": [
+    "Morteza Alimi",
+    "Tobias Mömke",
+    "Michael Ruderer"
+  ],
+  "summary": "We present an approximation algorithm for the Prize-collecting Ordered Traveling Salesman Problem (PCOTSP), which simultaneously generalizes the Prize-collecting TSP and the Ordered TSP. The Prize-collecting TSP is well-studied and has a long history, with the current best approximation factor slightly below $1.6$, shown by Blauth, Klein and Nägele [IPCO 2024]. The best approximation ratio for Ordered TSP is $\\frac{3}{2}+\\frac{1}{e}$, presented by Böhm, Friggstad, Mömke, Spoerhase [SODA 2025] and Armbruster, Mnich, Nägele [Approx 2024]. The former also present a factor 2.2131 approximation algorithm for Multi-Path-TSP.\n  By carefully tuning the techniques of the latest results on the aforementioned problems and leveraging the unique properties of our problem, we present a 2.097-approximation algorithm for PCOTSP. A key idea in our result is to first sample a set of trees, and then probabilistically pick up some vertices, while using the pruning ideas of Blauth, Klein, Nägele [IPCO 2024] on other vertices to get cheaper parity correction; the sampling probability and the penalty paid by the LP playing a crucial part in both cases. A straightforward adaptation of the aforementioned pruning ideas would only give minuscule improvements over standard parity correction methods. Instead, we use the specific characteristics of our problem together with properties gained from running a simple combinatorial algorithm to bring the approximation factor below 2.1. Our techniques extend to Prize-collecting Multi-Path TSP, building on results from Böhm, Friggstad, Mömke, Spoerhase [SODA 2025], leading to a 2.41-approximation.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DS"
+}

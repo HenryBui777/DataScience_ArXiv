@@ -1,0 +1,14 @@
+{
+  "title": "Consistency Regularization for Complementary Clothing Recommendations",
+  "authors": [
+    "Shuiying Liao",
+    "P. Y. Mok",
+    "Li Li"
+  ],
+  "summary": "This paper reports on the development of a Consistency Regularized model for Bayesian Personalized Ranking (CR-BPR), addressing to the drawbacks in existing complementary clothing recommendation methods, namely limited consistency and biased learning caused by diverse feature scale of multi-modal data. Compared to other product types, fashion preferences are inherently subjective and more personal, and fashion are often presented, not by individual clothing product, but with other complementary product(s) in a well coordinated fashion outfit. Current complementary-product recommendation studies primarily focus on user preference and product matching, this study further emphasizes the consistency observed in user-product interactions as well as product-product interactions, in the specific context of clothing matching. Most traditional approaches often underplayed the impact of existing wardrobe items on future matching choices, resulting in less effective preference prediction models. Moreover, many multi-modal information based models overlook the limitations arising from various feature scales being involved. To address these gaps, the CR-BPR model integrates collaborative filtering techniques to incorporate both user preference and product matching modeling, with a unique focus on consistency regularization for each aspect. Additionally, the incorporation of a feature scaling process further addresses the imbalances caused by different feature scales, ensuring that the model can effectively handle multi-modal data without being skewed by any particular type of feature. The effectiveness of the CR-BPR model was validated through detailed analysis involving two benchmark datasets. The results confirmed that the proposed approach significantly outperforms existing models.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IR"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Mapping Galactic Dust Emission and Extinction with HI, HII, and H$_2$",
+  "authors": [
+    "Yun-Ting Cheng",
+    "Brandon S. Hensley",
+    "Tzu-Ching Chang",
+    "Olivier Doré"
+  ],
+  "summary": "Neutral hydrogen (HI) emission closely traces the dust column density at high Galactic latitudes and is thus a powerful tool for predicting dust extinction. However, the relation between HI column density $N_{\\rm HI}$ and high-latitude dust emission observed by Planck has large-scale residuals at the level of $\\lesssim 20\\%$ on tens of degree scales. In this work, we improve HI-based dust templates in the north/south Galactic poles covering a sky fraction of $f_{\\rm sky}=13.5\\%/11.0\\%$ (5577/4555\\,deg$^2$) by incorporating data from ionized (HII) and molecular (H$_2$) gas phases. We make further improvements by employing a clustering analysis on the HI spectral data to identify discrete clouds with distinct dust properties. However, only a modest reduction in fitting residuals is achieved. We quantify the contributions to these residuals from variations in the dust-to-gas ratio, dust temperature and opacity, and magnetic field orientation using ancillary datasets. Although residuals in a few particular regions can be attributed to these factors, no single explanation accounts for the majority. Assuming a constant dust temperature along each line of sight, we derive an upper limit on the high-latitude dust temperature variation of $σ_T<1.28$K, lower than the temperature variation reported in previous studies. Joint analysis of multiple existing and upcoming datasets that trace Galactic gas and dust properties is needed to clarify the origins of the variation of gas and dust properties found here and to significantly improve gas-based extinction maps.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-04-25"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.GA, astro-ph.CO"
+}

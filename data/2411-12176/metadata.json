@@ -1,0 +1,19 @@
+{
+  "title": "Hidden Markov model analysis to fluorescence blinking of fluorescently labeled DNA",
+  "authors": [
+    "Tatsuhiro Furuta",
+    "Shuya Fan",
+    "Tadao Takada",
+    "Yohei Kondo",
+    "Mamoru Fujitsuka",
+    "Atsushi Maruyama",
+    "Kiyohiko Kawai",
+    "Kazuma Nakamura"
+  ],
+  "summary": "We examine quantitatively the transition process from emitting to not-emitting states of fluorescent molecules with a machine learning technique. In a fluorescently labeled DNA, the fluorescence occurs continuously under irradiation, but it often transfers to the not-emitting state corresponding to a charge-separated state. The trajectory of the fluorescence consists of repetitions of light-emitting (ON) and not-emitting (OFF) states, called blinking, and it contains a very large amount of noise due to the several reasons, so in principle, it is difficult to distinguish the ON and OFF states quantitatively. The fluorescence trajectory is a typical stochastic process, and therefore requires advanced time-series data analysis. In the present study, we analyze the fluorescence trajectories using a hidden Markov model, and calculate the probability density of the ON and OFF duration. From the analysis, we found that the ON-duration probability density can be well described by an exponential function, and the OFF-duration probability density can be well described by a log-normal function, which are verified in terms of Kolmogorov-Smirnov test. The time-bin dependence in the fluorescence trajectory on the probability density is carefully analyzed. We also discuss the ON and OFF processes from failure-rate analysis used in life testing of semiconductor devices.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cond-mat.mtrl-sci"
+}

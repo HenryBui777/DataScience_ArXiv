@@ -1,0 +1,18 @@
+{
+  "title": "StereoCrafter-Zero: Zero-Shot Stereo Video Generation with Noisy Restart",
+  "authors": [
+    "Jian Shi",
+    "Qian Wang",
+    "Zhenyu Li",
+    "Ramzi Idoughi",
+    "Peter Wonka"
+  ],
+  "summary": "Generating high-quality stereo videos that mimic human binocular vision requires consistent depth perception and temporal coherence across frames. Despite advances in image and video synthesis using diffusion models, producing high-quality stereo videos remains a challenging task due to the difficulty of maintaining consistent temporal and spatial coherence between left and right views. We introduce StereoCrafter-Zero, a novel framework for zero-shot stereo video generation that leverages video diffusion priors without requiring paired training data. Our key innovations include a noisy restart strategy to initialize stereo-aware latent representations and an iterative refinement process that progressively harmonizes the latent space, addressing issues like temporal flickering and view inconsistencies. In addition, we propose the use of dissolved depth maps to streamline latent space operations by reducing high-frequency depth information. Our comprehensive evaluations, including quantitative metrics and user studies, demonstrate that StereoCrafter-Zero produces high-quality stereo videos with enhanced depth consistency and temporal smoothness, even when depth estimations are imperfect. Our framework is robust and adaptable across various diffusion models, setting a new benchmark for zero-shot stereo video generation and enabling more immersive visual experiences. Our code is in https://github.com/shijianjian/StereoCrafter-Zero.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-03-12"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

@@ -1,0 +1,21 @@
+{
+  "title": "New Insights on the High Reconnection Rate and the Diminishment of Ion Outflow",
+  "authors": [
+    "Cheng-Yu Fan",
+    "Shan Wang",
+    "Xu-Zhi Zhou",
+    "San Lu",
+    "Quanming Lu",
+    "Prayash Sharma Pyakurel",
+    "Qiugang Zong",
+    "Zhi-Yang Liu"
+  ],
+  "summary": "The recently discovered electron-only reconnection has drawn great interests due to abnormal features like lack of ion outflows and high reconnection rates. Using particle-in-cell simulations, we investigate their physical mechanisms. The reconnection rate, when normalized by ion parameters ($R_i$), may appear anomalously high, whereas that normalized by electron parameters ($R_e$) remains ~0.1. We propose that the essence of high $R_i$ is insufficient field line bending outside the electron diffusion region, indicating an incomplete development of the ion diffusion region. It may result from bursty reconnection in thin current sheets, or small system sizes. The ion outflow diminishes at high $β_i$ when the gyroradius ($ρ_i$) exceeds the system size. Low-velocity ions still experience notable acceleration from Hall fields. However, a local distribution includes many high-velocity ions that experience random accelerations from different electric fields across $ρ_i$, resulting in near-zero bulk velocities. Our study helps understand reconnection structures and the underlying physics for transitions between different regimes.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-01-16"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.plasm-ph, physics.space-ph"
+}

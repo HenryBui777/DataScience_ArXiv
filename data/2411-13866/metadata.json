@@ -1,0 +1,19 @@
+{
+  "title": "A Phase-Space Electronic Hamiltonian for Molecules in a Static Magnetic Field I: Conservation of Total Pseudomomentum and Angular Momentum",
+  "authors": [
+    "Mansi Bhati",
+    "Zhen Tao",
+    "Xuezhi Bian",
+    "Jonathan Rawlinson",
+    "Robert Littlejohn",
+    "Joseph E. Subotnik"
+  ],
+  "summary": "We develop a phase-space electronic structure theory of molecules in magnetic fields. For a system of electrons in a magnetic field with vector potential $\\bf{A}(\\hat{\\bf{r}})$, the usual Born-Oppenheimer Hamiltonian is the sum of the nuclear kinetic energy and the electronic Hamiltonian, $\\frac{(\\bf{P} - q\\bf{A}(\\bf{X}) )^2}{2M} + \\hat{H}_{e}(\\bf{X})$ (where $q$ is a nuclear charge). To include the effects of coupled nuclear-electron motion in the presence of magnetic field, we propose that the proper phase-space electronic structure Hamiltonian will be of the form $\\frac{(\\bf{P} - q^{\\textit{eff}}\\bf{A}(\\bf{X}) - e\\hat{\\bfΓ})^2}{2M} + \\hat{H}_{e}(\\bf{X})$. Here, $q^{\\textit{eff}}$ represents the {\\em screened} nuclear charges and the $\\hat{\\bfΓ}$ term captures the local pseudomomentum of the electrons. This form reproduces exactly the energy levels for a hydrogen atom in a magnetic field; moreover, single-surface dynamics along the eigenstates is guaranteed to conserve both the total pseudomomentum as well as the total angular momentum in the direction of the magnetic field. This Hamiltonian form can be immediately implemented within modern electronic structure packages (where the electronic orbitals will now depend on nuclear position ($\\bf{X}$) and nuclear momentum ($\\bf{P}$)). One can expect to find novel beyond Born-Oppenheimer magnetic field effects for strong enough fields and/or nonadiabatic systems.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-22"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.chem-ph"
+}

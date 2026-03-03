@@ -1,0 +1,15 @@
+{
+  "title": "Regularity results for a class of mixed local and nonlocal singular problems involving distance function",
+  "authors": [
+    "Kaushik Bal",
+    "Stuti Das"
+  ],
+  "summary": "We investigate the following mixed local and nonlocal quasilinear equation with singularity given by \\begin{eqnarray*} \\begin{split} -Δ_pu+(-Δ)_q^s u&=\\frac{f(x)}{u^δ}\\text { in } Ω, \\\\u&>0 \\text{ in } Ω,\\\\u&=0 \\text { in }\\mathbb{R}^n \\backslash Ω; \\end{split} \\end{eqnarray*} where, \\begin{equation*} (-Δ)_q^s u(x):= c_{n,s}\\operatorname{P.V.}\\int_{\\mathbb{R}^n}\\frac{|u(x)-u(y)|^{q-2}(u(x)-u(y))}{|x-y|^{n+sq}} d y, \\end{equation*} with $Ω$ being a bounded domain in $\\mathbb{R}^{n}$ with $C^2$ boundary, $1<q\\leq p<\\infty$, $s\\in(0,1)$, $δ>0$ and $f\\in L^\\infty_{\\mathrm{loc}}(Ω)$ is a non-negative function which behaves like $\\mathbf{dist(x,\\partial Ω)^{-β}}$, $β\\geq 0$ near $\\partial Ω$. We start by proving several Hölder and gradient Hölder regularity results for a more general class of quasilinear operators when $δ=0$. Using the regularity results we deduce existence, uniqueness and Hölder regularity of a weak solution of the singular problem in $W_{\\mathrm{loc}}^{1,p}(Ω)$ and its behavior near $\\partial Ω$ albeit with different exponents depending on $β+δ$. Boundedness and Hölder regularity result to the singular equation with critical exponent were also discussed.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-01-21"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AP"
+}

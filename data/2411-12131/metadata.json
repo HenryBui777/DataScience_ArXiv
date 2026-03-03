@@ -1,0 +1,14 @@
+{
+  "title": "Empowering Large Scale Quantum Circuit Development: Effective Simulation of Sycamore Circuits",
+  "authors": [
+    "Venkateswaran Kasirajan",
+    "Torey Battelle",
+    "Bob Wold"
+  ],
+  "summary": "Simulating quantum systems using classical computing equipment has been a significant research focus. This work demonstrates that circuits as large and complex as the random circuit sampling (RCS) circuits published as a part of Google's pioneering work [4-7] claiming quantum supremacy can be effectively simulated with high fidelity on classical systems commonly available to developers, using the universal quantum simulator included in the Quantum Rings SDK, making this advancement accessible to everyone. This study achieved an average linear cross-entropy benchmarking (XEB) score of 0.678, indicating a strong correlation with ideal quantum simulation and exceeding the XEB values currently reported for the same circuits today while completing circuit execution in a reasonable timeframe. This capability empowers researchers and developers to build, debug, and execute large-scale quantum circuits ahead of the general availability of low-error rate quantum computers and invent new quantum algorithms or deploy commercial-grade applications.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, cs.CC, cs.ET"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Multilayer occupancy grid for obstacle avoidance in an autonomous ground vehicle using RGB-D camera",
+  "authors": [
+    "Jhair S. Gallego",
+    "Ricardo E. Ramirez"
+  ],
+  "summary": "This work describes the process of integrating a depth camera into the navigation system of a self-driving ground vehicle (SDV) and the implementation of a multilayer costmap that enhances the vehicle's obstacle identification process by expanding its two-dimensional field of view, based on 2D LIDAR, to a three-dimensional perception system using an RGB-D camera. This approach lays the foundation for a robust vision-based navigation and obstacle detection system. A theoretical review is presented and implementation results are discussed for future work.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

@@ -1,0 +1,18 @@
+{
+  "title": "An Integrated Approach to Robotic Object Grasping and Manipulation",
+  "authors": [
+    "Owais Ahmed",
+    "M Huzaifa",
+    "M Areeb",
+    "Hamza Ali Khan"
+  ],
+  "summary": "In response to the growing challenges of manual labor and efficiency in warehouse operations, Amazon has embarked on a significant transformation by incorporating robotics to assist with various tasks. While a substantial number of robots have been successfully deployed for tasks such as item transportation within warehouses, the complex process of object picking from shelves remains a significant challenge. This project addresses the issue by developing an innovative robotic system capable of autonomously fulfilling a simulated order by efficiently selecting specific items from shelves. A distinguishing feature of the proposed robotic system is its capacity to navigate the challenge of uncertain object positions within each bin of the shelf. The system is engineered to autonomously adapt its approach, employing strategies that enable it to efficiently locate and retrieve the desired items, even in the absence of pre-established knowledge about their placements.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-03-21",
+    "2025-07-29"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO, cs.CV"
+}

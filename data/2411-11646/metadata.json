@@ -1,0 +1,15 @@
+{
+  "title": "Can Highlighting Help GitHub Maintainers Track Security Fixes?",
+  "authors": [
+    "Xueqing Liu",
+    "Yuchen Xiong",
+    "Qiushi Liu",
+    "Jiangrui Zheng"
+  ],
+  "summary": "In recent years, the rapid growth of security vulnerabilities poses great challenges to tracing and managing them. For example, it was reported that the NVD database experienced significant delays due to the shortage of maintainers. Such delay creates challenges for third-party security personnel (e.g., administrators) to trace the information related to the CVE. To help security personnel trace a vulnerability patch, we build a retrieval system that automatically retrieves the patch in the repository.\n  Inspired by existing work on explainable machine learning, we ask the following research question: can explanations help security maintainers make decisions in patch tracing? First, we investigate using LIME (a widely used explainable machine learning method) to highlight the rationale tokens in the commit message and code. In addition, we propose an explanation method called TfIdf-Highlight, which leverages the Tf-Idf statistics to select the most informative words in the repository and the dataset. We evaluate the effectiveness of highlighting using two experiments. First, we compare LIME and TfIdf-Highlight using a faithfulness score (i.e., sufficiency and comprehensiveness) defined for ranking. We find that TfIdf-Highlight significantly outperforms LIME's sufficiency scores by 15\\% and slightly outperforms the comprehensiveness scores. Second, we conduct a blind human labeling experiment by asking the annotators to guess the patch under 3 settings (TfIdf-Highlight, LIME, and no highlight). We find that the helpfulness score for TfIdf-Highlight is higher than LIME while the labeling accuracies of LIME and TfIdf-Highlight are similar. Nevertheless, highlighting does not improve the accuracy over non-highlighting.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR, cs.SE"
+}

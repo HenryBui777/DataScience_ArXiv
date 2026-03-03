@@ -1,0 +1,18 @@
+{
+  "title": "Debiasing Watermarks for Large Language Models via Maximal Coupling",
+  "authors": [
+    "Yangxinyu Xie",
+    "Xiang Li",
+    "Tanwi Mallick",
+    "Weijie J. Su",
+    "Ruixun Zhang"
+  ],
+  "summary": "Watermarking language models is essential for distinguishing between human and machine-generated text and thus maintaining the integrity and trustworthiness of digital communication. We present a novel green/red list watermarking approach that partitions the token set into ``green'' and ``red'' lists, subtly increasing the generation probability for green tokens. To correct token distribution bias, our method employs maximal coupling, using a uniform coin flip to decide whether to apply bias correction, with the result embedded as a pseudorandom watermark signal. Theoretical analysis confirms this approach's unbiased nature and robust detection capabilities. Experimental results show that it outperforms prior techniques by preserving text quality while maintaining high detectability, and it demonstrates resilience to targeted modifications aimed at improving text quality. This research provides a promising watermarking solution for language models, balancing effective detection with minimal impact on text quality.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [
+    "2025-06-12"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ML, cs.CL, cs.CR, cs.LG, stat.ME"
+}

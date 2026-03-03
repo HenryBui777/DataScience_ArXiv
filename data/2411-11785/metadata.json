@@ -1,0 +1,15 @@
+{
+  "title": "Regular subgraphs at every density",
+  "authors": [
+    "Debsoumya Chakraborti",
+    "Oliver Janzer",
+    "Abhishek Methuku",
+    "Richard Montgomery"
+  ],
+  "summary": "In 1975, Erdős and Sauer asked to estimate, for any constant $r$, the maximum number of edges an $n$-vertex graph can have without containing an $r$-regular subgraph. In a recent breakthrough, Janzer and Sudakov proved that any $n$-vertex graph with no $r$-regular subgraph has at most $C_r n \\log \\log n$ edges, matching an earlier lower bound by Pyber, Rödl and Szemerédi and thereby resolving the Erdős-Sauer problem up to a constant depending on $r$. We prove that every $n$-vertex graph without an $r$-regular subgraph has at most $Cr^2 n \\log \\log n$ edges. This bound is tight up to the value of $C$ for $n\\geq n_0(r)$ and hence resolves the Erdős-Sauer problem up to an absolute constant.\n  Moreover, we obtain similarly tight results for the whole range of possible values of $r$ (i.e., not just when $r$ is a constant), apart from a small error term at a transition point near $r\\approx \\log n$, where, perhaps surprisingly, the answer changes. More specifically, we show that every $n$-vertex graph with average degree at least $\\min(Cr\\log(n/r),Cr^2 \\log\\log n)$ contains an $r$-regular subgraph. The bound $Cr\\log(n/r)$ is tight for $r\\geq \\log n$, while the bound $Cr^2 \\log \\log n$ is tight for $r<(\\log n)^{1-Ω(1)}$. These results resolve a problem of Rödl and Wysocka from 1997 for almost all values of $r$.\n  Among other tools, we develop a novel random process that efficiently finds a very nearly regular subgraph in any almost-regular graph. A key step in our proof uses this novel random process to show that every $K$-almost-regular graph with average degree $d$ contains an $r$-regular subgraph for some $r=Ω_K(d)$, which is of independent interest.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.CO"
+}

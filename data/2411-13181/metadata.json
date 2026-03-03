@@ -1,0 +1,16 @@
+{
+  "title": "Cross-Camera Distracted Driver Classification through Feature Disentanglement and Contrastive Learning",
+  "authors": [
+    "Simone Bianco",
+    "Luigi Celona",
+    "Paolo Napoletano"
+  ],
+  "summary": "The classification of distracted drivers is pivotal for ensuring safe driving. Previous studies demonstrated the effectiveness of neural networks in automatically predicting driver distraction, fatigue, and potential hazards. However, recent research has uncovered a significant loss of accuracy in these models when applied to samples acquired under conditions that differ from the training data. In this paper, we introduce a robust model designed to withstand changes in camera position within the vehicle. Our Driver Behavior Monitoring Network (DBMNet) relies on a lightweight backbone and integrates a disentanglement module to discard camera view information from features, coupled with contrastive learning to enhance the encoding of various driver actions. Experiments conducted using a leave-one-camera-out protocol on the daytime and nighttime subsets of the 100-Driver dataset validate the effectiveness of our approach. Cross-dataset and cross-camera experiments conducted on three benchmark datasets, namely AUCDD-V1, EZZ2021 and SFD, demonstrate the superior generalization capabilities of the proposed method. Overall DBMNet achieves an improvement of 7% in Top-1 accuracy compared to existing approaches. Moreover, a quantized version of the DBMNet and all considered methods has been deployed on a Coral Dev Board board. In this deployment scenario, DBMNet outperforms alternatives, achieving the lowest average error while maintaining a compact model size, low memory footprint, fast inference time, and minimal power consumption.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-06-21"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI, cs.CY"
+}

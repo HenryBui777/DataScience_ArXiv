@@ -1,0 +1,23 @@
+{
+  "title": "From Estimands to Robust Inference of Treatment Effects in Platform Trials",
+  "authors": [
+    "Yuhan Qian",
+    "Yifan Yi",
+    "Jun Shao",
+    "Yanyao Yi",
+    "Gregory Levin",
+    "Nicole Mayer-Hamblett",
+    "Patrick J. Heagerty",
+    "Ting Ye"
+  ],
+  "summary": "A platform trial is an innovative clinical trial design that uses a master protocol to evaluate multiple treatments, where patients are often assigned to different subsets of treatment arms based on individual characteristics, enrollment timing, and treatment availability. While offering increased flexibility, this constrained and non-uniform treatment assignment poses inferential challenges, with two fundamental ones being the precise definition of treatment effects and robust, efficient inference on these effects. Such challenges arise primarily because some commonly used analysis approaches may target estimands defined on populations inadvertently depending on randomization ratios or trial operation format, thereby undermining interpretability. This article, for the first time, presents a formal framework for constructing a clinically meaningful estimand with precise specification of the population of interest. Specifically, the proposed entire concurrently eligible (ECE) population not only preserves the integrity of randomized comparisons but also remains invariant to both the randomization ratio and trial operation format. Then, we develop weighting and post-stratification methods to estimate treatment effects under the same minimal assumptions used in traditional randomized trials. We also consider model-assisted covariate adjustment to fully unlock the efficiency potential of platform trials while maintaining robustness against model misspecification. For all proposed estimators, we derive asymptotic distributions and propose robust variance estimators and compare them in theory and through simulations. The SIMPLIFY trial, a master protocol assessing continuation versus discontinuation of two common therapies in cystic fibrosis, is utilized to further highlight the practical significance of this research. All analyses are conducted using the R package RobinCID.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-01-01",
+    "2025-01-23",
+    "2025-05-22"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME"
+}

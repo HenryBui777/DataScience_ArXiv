@@ -1,0 +1,16 @@
+{
+  "title": "gggenomes: effective and versatile visualizations for comparative genomics",
+  "authors": [
+    "Thomas Hackl",
+    "Markus Ankenbrand",
+    "Bart van Adrichem",
+    "David Wilkins",
+    "Kristina Haslinger"
+  ],
+  "summary": "The effective visualization of genomic data is crucial for exploring and interpreting complex relationships within and across genes and genomes. Despite advances in developing dedicated bioinformatics software, common visualization tools often fail to efficiently integrate the diverse datasets produced in comparative genomics, lack intuitive interfaces to construct complex plots and are missing functionalities to inspect the underlying data iteratively and at scale. Here, we introduce gggenomes, a versatile R package designed to overcome these challenges by extending the widely used ggplot2 framework for comparative genomics. gggenomes is available from CRAN and GitHub, accompanied by detailed and user-friendly documentation (https://thackl.github.io/gggenomes).",
+  "submission_date": "2024-11-05",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-bio.GN"
+}

@@ -1,0 +1,31 @@
+{
+  "title": "QARM: Quantitative Alignment Multi-Modal Recommendation at Kuaishou",
+  "authors": [
+    "Xinchen Luo",
+    "Jiangxia Cao",
+    "Tianyu Sun",
+    "Jinkai Yu",
+    "Rui Huang",
+    "Wei Yuan",
+    "Hezheng Lin",
+    "Yichen Zheng",
+    "Shiyao Wang",
+    "Qigen Hu",
+    "Changqing Qiu",
+    "Jiaqi Zhang",
+    "Xu Zhang",
+    "Zhiheng Yan",
+    "Jingming Zhang",
+    "Simin Zhang",
+    "Mingxing Wen",
+    "Zhaojie Liu",
+    "Kun Gai",
+    "Guorui Zhou"
+  ],
+  "summary": "In recent years, with the significant evolution of multi-modal large models, many recommender researchers realized the potential of multi-modal information for user interest modeling. In industry, a wide-used modeling architecture is a cascading paradigm: (1) first pre-training a multi-modal model to provide omnipotent representations for downstream services; (2) The downstream recommendation model takes the multi-modal representation as additional input to fit real user-item behaviours. Although such paradigm achieves remarkable improvements, however, there still exist two problems that limit model performance: (1) Representation Unmatching: The pre-trained multi-modal model is always supervised by the classic NLP/CV tasks, while the recommendation models are supervised by real user-item interaction. As a result, the two fundamentally different tasks' goals were relatively separate, and there was a lack of consistent objective on their representations; (2) Representation Unlearning: The generated multi-modal representations are always stored in cache store and serve as extra fixed input of recommendation model, thus could not be updated by recommendation model gradient, further unfriendly for downstream training. Inspired by the two difficulties challenges in downstream tasks usage, we introduce a quantitative multi-modal framework to customize the specialized and trainable multi-modal information for different downstream models.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IR, cs.AI"
+}

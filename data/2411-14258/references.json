@@ -1,0 +1,634 @@
+{
+  "2411-04368": {
+    "title": "Measuring short-form factuality in large language models",
+    "authors": [
+      "Jason Wei",
+      "Nguyen Karina",
+      "Hyung Won Chung",
+      "Yunxin Joy Jiao",
+      "Spencer Papay",
+      "Amelia Glaese",
+      "John Schulman",
+      "W. Fedus"
+    ],
+    "publication_date": "2024-11-07",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "3f99d8e6dada94f5bcfc650be3aab7a24e39bab3",
+    "corpus_id": 273877483,
+    "category": "Computer Science"
+  },
+  "2410-18270": {
+    "title": "Multilingual Hallucination Gaps in Large Language Models",
+    "authors": [
+      "Cl'ea Chataigner",
+      "Afaf Taïk",
+      "G. Farnadi"
+    ],
+    "publication_date": "2024-10-23",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "ff0450c78e5fabaa8aab61a368f267bd83753a64",
+    "corpus_id": 273549630,
+    "category": "Computer Science"
+  },
+  "2409-05746": {
+    "title": "LLMs Will Always Hallucinate, and We Need to Live With This",
+    "authors": [
+      "Sourav Banerjee",
+      "Ayushi Agarwal",
+      "Saloni Singla"
+    ],
+    "publication_date": "2024-09-09",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "4b07942251b9101ff1e06a51fb506fcdf45e40bc",
+    "corpus_id": 272524830,
+    "category": "Computer Science, Mathematics"
+  },
+  "2407-10793": {
+    "title": "GraphEval: A Knowledge-Graph Based LLM Hallucination Evaluation Framework",
+    "authors": [
+      "Hannah Sansford",
+      "Nicholas Richardson",
+      "Hermina Petric Maretic",
+      "Juba Nait Saada"
+    ],
+    "publication_date": "2024-07-15",
+    "venue": "KiL@KDD",
+    "semantic_scholar_id": "8129729be4fffcf1ecad00325ee809cde46dec23",
+    "corpus_id": 271197177,
+    "category": "Computer Science"
+  },
+  "2406-12128": {
+    "title": "AI \"News\" Content Farms Are Easy to Make and Hard to Detect: A Case Study in Italian",
+    "authors": [
+      "Giovanni Puccetti",
+      "Anna Rogers",
+      "Chiara Alzetta",
+      "F. Dell’Orletta",
+      "Andrea Esuli"
+    ],
+    "publication_date": "2024-06-17",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "77dc09e14d0faa39998d9988e2b46731e859ea2f",
+    "corpus_id": 270562338,
+    "category": "Computer Science"
+  },
+  "2406-09155": {
+    "title": "DefAn: Definitive Answer Dataset for LLMs Hallucination Evaluation",
+    "authors": [
+      "A. Rahman",
+      "Saeed Anwar",
+      "Muhammad Usman",
+      "Ajmal Mian"
+    ],
+    "publication_date": "2024-06-13",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "03c90140680c6af76bda0e4ece552381944d5cbf",
+    "corpus_id": 270440870,
+    "category": "Computer Science"
+  },
+  "2404-14741": {
+    "title": "Generate-on-Graph: Treat LLM as both Agent and KG for Incomplete Knowledge Graph Question Answering",
+    "authors": [
+      "Yao Xu",
+      "Shizhu He",
+      "Jiabei Chen",
+      "Zihao Wang",
+      "Yangqiu Song",
+      "Hanghang Tong",
+      "Kang Liu",
+      "Jun Zhao"
+    ],
+    "publication_date": "2024-04-23",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "648f11073506154d061c8d2bfd7bfba546d3c2be",
+    "corpus_id": 269302548,
+    "category": "Computer Science"
+  },
+  "2403-07726": {
+    "title": "SemEval-2024 Task 6: SHROOM, a Shared-task on Hallucinations and Related Observable Overgeneration Mistakes",
+    "authors": [
+      "Timothee Mickus",
+      "Elaine Zosa",
+      "Ra'ul V'azquez",
+      "Teemu Vahtola",
+      "Jörg Tiedemann",
+      "Vincent Segonne",
+      "Alessandro Raganato",
+      "Marianna Apidianaki"
+    ],
+    "publication_date": "2024-03-12",
+    "venue": "International Workshop on Semantic Evaluation",
+    "semantic_scholar_id": "8b711fa604c7a214251d0fb055772d5c64757bab",
+    "corpus_id": 268363664,
+    "category": "Computer Science"
+  },
+  "2402-10496": {
+    "title": "Comparing Hallucination Detection Metrics for Multilingual Generation",
+    "authors": [
+      "Haoqiang Kang",
+      "Terra Blevins",
+      "Luke Zettlemoyer"
+    ],
+    "publication_date": "2024-02-16",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "4bb30cdd7216d0bde3f937489ec04b161b44977c",
+    "corpus_id": 267740651,
+    "category": "Computer Science"
+  },
+  "2401-11817": {
+    "title": "Hallucination is Inevitable: An Innate Limitation of Large Language Models",
+    "authors": [
+      "Ziwei Xu",
+      "Sanjay Jain",
+      "Mohan Kankanhalli"
+    ],
+    "publication_date": "2024-01-22",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "5cd671efa2af8456c615c5faf54d1be4950f3819",
+    "corpus_id": 267069207,
+    "category": "Computer Science"
+  },
+  "2401-00595": {
+    "title": "State of What Art? A Call for Multi-Prompt LLM Evaluation",
+    "authors": [
+      "Moran Mizrahi",
+      "Guy Kaplan",
+      "Daniel Malkin",
+      "Rotem Dror",
+      "Dafna Shahaf",
+      "Gabriel Stanovsky"
+    ],
+    "publication_date": "2023-12-31",
+    "venue": "Transactions of the Association for Computational Linguistics",
+    "semantic_scholar_id": "8dce168f723158b771b526401113064c36fc875e",
+    "corpus_id": 266693922,
+    "category": "Computer Science"
+  },
+  "2311-15781": {
+    "title": "Increasing Coverage and Precision of Textual Information in Multilingual Knowledge Graphs",
+    "authors": [
+      "Simone Conia",
+      "Min Li",
+      "Daniel Lee",
+      "U. F. Minhas",
+      "Ihab Ilyas",
+      "Yunyao Li"
+    ],
+    "publication_date": "2023-11-27",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "8d24e6680a19c2f4c113e45145ec067130069805",
+    "corpus_id": 265456539,
+    "category": "Computer Science"
+  },
+  "2311-13314": {
+    "title": "Mitigating Large Language Model Hallucinations via Autonomous Knowledge Graph-based Retrofitting",
+    "authors": [
+      "Xinyan Guan",
+      "Yanjiang Liu",
+      "Hongyu Lin",
+      "Yaojie Lu",
+      "Ben He",
+      "Xianpei Han",
+      "Le Sun"
+    ],
+    "publication_date": "2023-11-22",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "612cb53584b23e2066631d143e09b471852afaeb",
+    "corpus_id": 265351547,
+    "category": "Computer Science"
+  },
+  "2311-13230": {
+    "title": "Enhancing Uncertainty-Based Hallucination Detection with Stronger Focus",
+    "authors": [
+      "Tianhang Zhang",
+      "Lin Qiu",
+      "Qipeng Guo",
+      "Cheng Deng",
+      "Yue Zhang",
+      "Zheng Zhang",
+      "Cheng Zhou",
+      "Xinbing Wang",
+      "Luoyi Fu"
+    ],
+    "publication_date": "2023-11-22",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "2fae69cea48d332c5788537a0b5e9e76c10e3baf",
+    "corpus_id": 265351856,
+    "category": "Computer Science"
+  },
+  "2311-05232": {
+    "title": "A Survey on Hallucination in Large Language Models: Principles, Taxonomy, Challenges, and Open Questions",
+    "authors": [
+      "Lei Huang",
+      "Weijiang Yu",
+      "Weitao Ma",
+      "Weihong Zhong",
+      "Zhangyin Feng",
+      "Haotian Wang",
+      "Qianglong Chen",
+      "Weihua Peng",
+      "Xiaocheng Feng",
+      "Bing Qin",
+      "Ting Liu"
+    ],
+    "publication_date": "2023-11-09",
+    "venue": "ACM Trans. Inf. Syst.",
+    "semantic_scholar_id": "1e909e2a8cdacdcdff125ebcc566f37cb869a1c8",
+    "corpus_id": 265067168,
+    "category": "Computer Science"
+  },
+  "2310-17119": {
+    "title": "FLEEK: Factual Error Detection and Correction with Evidence Retrieved from External Knowledge",
+    "authors": [
+      "Farima Fatahi Bayat",
+      "Kun Qian",
+      "Benjamin Han",
+      "Yisi Sang",
+      "Anton Belyi",
+      "Samira Khorshidi",
+      "Fei Wu",
+      "Ihab Ilyas",
+      "Yunyao Li"
+    ],
+    "publication_date": "2023-10-26",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "bfe40e4eb3e21cc91aceefa17a199e02fcf042bb",
+    "corpus_id": 264490676,
+    "category": "Computer Science"
+  },
+  "2310-13132": {
+    "title": "Better to Ask in English: Cross-Lingual Evaluation of Large Language Models for Healthcare Queries",
+    "authors": [
+      "Yiqiao Jin",
+      "Mohit Chandra",
+      "Gaurav Verma",
+      "Yibo Hu",
+      "Munmun De Choudhury",
+      "Srijan Kumar"
+    ],
+    "publication_date": "2023-10-19",
+    "venue": "The Web Conference",
+    "semantic_scholar_id": "a5b499835d1781acb58e19b571a95b31e1b3f088",
+    "corpus_id": 264405758,
+    "category": "Computer Science"
+  },
+  "2310-10378": {
+    "title": "Cross-Lingual Consistency of Factual Knowledge in Multilingual Language Models",
+    "authors": [
+      "Jirui Qi",
+      "R. Fern'andez",
+      "Arianna Bisazza"
+    ],
+    "publication_date": "2023-10-16",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "468d1e2d75a23fecaf96fe65d8b01ff35ea5d0bd",
+    "corpus_id": 264145744,
+    "category": "Computer Science"
+  },
+  "2310-01061": {
+    "title": "Reasoning on Graphs: Faithful and Interpretable Large Language Model Reasoning",
+    "authors": [
+      "Linhao Luo",
+      "Yuan-Fang Li",
+      "Gholamreza Haffari",
+      "Shirui Pan"
+    ],
+    "publication_date": "2023-10-02",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "b47e96762351b2dbf7e863ece4640df6194bcc0c",
+    "corpus_id": 263605944,
+    "category": "Computer Science"
+  },
+  "2310-00741": {
+    "title": "FELM: Benchmarking Factuality Evaluation of Large Language Models",
+    "authors": [
+      "Shiqi Chen",
+      "Yiran Zhao",
+      "Jinghan Zhang",
+      "Ethan Chern",
+      "Siyang Gao",
+      "Pengfei Liu",
+      "Junxian He"
+    ],
+    "publication_date": "2023-10-01",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "837a3c0417fb677d4f22c346b345a450ec417f2c",
+    "corpus_id": 263334039,
+    "category": "Computer Science"
+  },
+  "2309-01219": {
+    "title": "Siren's Song in the AI Ocean: A Survey on Hallucination in Large Language Models",
+    "authors": [
+      "Yue Zhang",
+      "Yafu Li",
+      "Leyang Cui",
+      "Deng Cai",
+      "Lemao Liu",
+      "Tingchen Fu",
+      "Xinting Huang",
+      "Enbo Zhao",
+      "Yu Zhang",
+      "Yulong Chen",
+      "Longyue Wang",
+      "A. Luu",
+      "Wei Bi",
+      "Freda Shi",
+      "Shuming Shi"
+    ],
+    "publication_date": "2023-09-03",
+    "venue": "Computational Linguistics",
+    "semantic_scholar_id": "d00735241af700d21762d2f3ca00d920241a15a4",
+    "corpus_id": 261530162,
+    "category": "Computer Science"
+  },
+  "2308-11884": {
+    "title": "YAGO 4.5: A Large and Clean Knowledge Base with a Rich Taxonomy",
+    "authors": [
+      "Fabian M. Suchanek",
+      "Mehwish Alam",
+      "T. Bonald",
+      "Pierre-Henri Paris",
+      "J. Soria"
+    ],
+    "publication_date": "2023-08-23",
+    "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+    "semantic_scholar_id": "0456bc829c199d5f8adf9ee5a3460c9dc5dc1453",
+    "corpus_id": 261076094,
+    "category": "Computer Science"
+  },
+  "2308-06374": {
+    "title": "Large Language Models and Knowledge Graphs: Opportunities and Challenges",
+    "authors": [
+      "Jeff Z. Pan",
+      "S. Razniewski",
+      "Jan-Christoph Kalo",
+      "Sneha Singhania",
+      "Jiaoyan Chen",
+      "S. Dietze",
+      "Hajira Jabeen",
+      "Janna Omeliyanenko",
+      "Wen Zhang",
+      "Matteo Lissandrini",
+      "Russa Biswas",
+      "Gerard de Melo",
+      "A. Bonifati",
+      "Edlira Vakaj",
+      "M. Dragoni",
+      "D. Graux"
+    ],
+    "publication_date": "2023-08-11",
+    "venue": "TGDK",
+    "semantic_scholar_id": "d25f8c388677d287d00ca67d44ef02da2b45f2d9",
+    "corpus_id": 260887174,
+    "category": "Computer Science"
+  },
+  "2307-15343": {
+    "title": "Med-HALT: Medical Domain Hallucination Test for Large Language Models",
+    "authors": [
+      "Logesh Kumar Umapathi",
+      "Ankit Pal",
+      "Malaikannan Sankarasubbu"
+    ],
+    "publication_date": "2023-07-28",
+    "venue": "Conference on Computational Natural Language Learning",
+    "semantic_scholar_id": "3b0792f6d7f6aa6aadd316e73943116afef2979b",
+    "corpus_id": 260316324,
+    "category": "Computer Science, Mathematics"
+  },
+  "2306-08302": {
+    "title": "Unifying Large Language Models and Knowledge Graphs: A Roadmap",
+    "authors": [
+      "Shirui Pan",
+      "Linhao Luo",
+      "Yufei Wang",
+      "Chen Chen",
+      "Jiapu Wang",
+      "Xindong Wu"
+    ],
+    "publication_date": "2023-06-14",
+    "venue": "IEEE Transactions on Knowledge and Data Engineering",
+    "semantic_scholar_id": "9e8b7b0d4c628c12b6a65ab56ac5f33a35eff2e6",
+    "corpus_id": 259165563,
+    "category": "Computer Science"
+  },
+  "2306-05685": {
+    "title": "Judging LLM-as-a-judge with MT-Bench and Chatbot Arena",
+    "authors": [
+      "Lianmin Zheng",
+      "Wei-Lin Chiang",
+      "Ying Sheng",
+      "Siyuan Zhuang",
+      "Zhanghao Wu",
+      "Yonghao Zhuang",
+      "Zi Lin",
+      "Zhuohan Li",
+      "Dacheng Li",
+      "E. Xing",
+      "Haotong Zhang",
+      "Joseph E. Gonzalez",
+      "Ion Stoica"
+    ],
+    "publication_date": "2023-06-09",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "a0a79dad89857a96f8f71b14238e5237cbfc4787",
+    "corpus_id": 259129398,
+    "category": "Computer Science"
+  },
+  "2305-14739": {
+    "title": "Trusting Your Evidence: Hallucinate Less with Context-aware Decoding",
+    "authors": [
+      "Weijia Shi",
+      "Xiaochuang Han",
+      "M. Lewis",
+      "Yulia Tsvetkov",
+      "Luke Zettlemoyer",
+      "S. Yih"
+    ],
+    "publication_date": "2023-05-24",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "984d4a1d41bfc8184fb77b8aa0eb8e96d536d048",
+    "corpus_id": 258866080,
+    "category": "Computer Science"
+  },
+  "2305-14251": {
+    "title": "FActScore: Fine-grained Atomic Evaluation of Factual Precision in Long Form Text Generation",
+    "authors": [
+      "Sewon Min",
+      "Kalpesh Krishna",
+      "Xinxi Lyu",
+      "M. Lewis",
+      "Wen-tau Yih",
+      "Pang Wei Koh",
+      "Mohit Iyyer",
+      "Luke Zettlemoyer",
+      "Hannaneh Hajishirzi"
+    ],
+    "publication_date": "2023-05-23",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "bd5deadc58ee45b5e004378ba1d54a96bc947b4a",
+    "corpus_id": 258841470,
+    "category": "Computer Science"
+  },
+  "2305-11747": {
+    "title": "HaluEval: A Large-Scale Hallucination Evaluation Benchmark for Large Language Models",
+    "authors": [
+      "Junyi Li",
+      "Xiaoxue Cheng",
+      "Wayne Xin Zhao",
+      "J. Nie",
+      "Ji-rong Wen"
+    ],
+    "publication_date": "2023-05-19",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "e0384ba36555232c587d4a80d527895a095a9001",
+    "corpus_id": 258832847,
+    "category": "Computer Science"
+  },
+  "2210-13617": {
+    "title": "Adapters for Enhanced Modeling of Multilingual Knowledge and Text",
+    "authors": [
+      "Yifan Hou",
+      "Wenxiang Jiao",
+      "Mei-Jun Liu",
+      "Zhaopeng Tu",
+      "Carl Allen",
+      "Mrinmaya Sachan"
+    ],
+    "publication_date": "2022-10-24",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "9519b1cdad21528632819e9ecece00f987e3fd8c",
+    "corpus_id": 253107898,
+    "category": "Computer Science"
+  },
+  "2204-06508": {
+    "title": "FactGraph: Evaluating Factuality in Summarization with Semantic Graph Representations",
+    "authors": [
+      "Leonardo F. R. Ribeiro"
+    ],
+    "publication_date": "2022-04-13",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "c4960e3cd29f0af3c9120a4173bf681ed2131814",
+    "corpus_id": 264614849,
+    "category": "Computer Science"
+  },
+  "2109-07958": {
+    "title": "TruthfulQA: Measuring How Models Mimic Human Falsehoods",
+    "authors": [
+      "Stephanie C. Lin",
+      "Jacob Hilton",
+      "Owain Evans"
+    ],
+    "publication_date": "2021-09-08",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "77d956cdab4508d569ae5741549b78e715fd0749",
+    "corpus_id": 237532606,
+    "category": "Computer Science"
+  },
+  "2107-02137": {
+    "title": "ERNIE 3.0: Large-scale Knowledge Enhanced Pre-training for Language Understanding and Generation",
+    "authors": [
+      "Yu Sun",
+      "Shuohuan Wang",
+      "Shikun Feng",
+      "Siyu Ding",
+      "Chao Pang",
+      "Junyuan Shang",
+      "Jiaxiang Liu",
+      "Xuyi Chen",
+      "Yanbin Zhao",
+      "Yuxiang Lu",
+      "Weixin Liu",
+      "Zhihua Wu",
+      "Weibao Gong",
+      "Jianzhong Liang",
+      "Zhizhou Shang",
+      "Peng Sun",
+      "Wei Liu",
+      "Ouyang Xuan",
+      "Dianhai Yu",
+      "Hao Tian",
+      "Hua Wu",
+      "Haifeng Wang"
+    ],
+    "publication_date": "2021-07-05",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "319b84be7a843250bc81d7086f79a4126d550277",
+    "corpus_id": 235731579,
+    "category": "Computer Science"
+  },
+  "2106-11520": {
+    "title": "BARTScore: Evaluating Generated Text as Text Generation",
+    "authors": [
+      "Weizhe Yuan",
+      "Graham Neubig",
+      "Pengfei Liu"
+    ],
+    "publication_date": "2021-06-22",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "a6a7724763d8adba466519489b0b9d209e7f2d15",
+    "corpus_id": 235593404,
+    "category": "Computer Science"
+  },
+  "2005-11401": {
+    "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+    "authors": [
+      "Patrick Lewis",
+      "Ethan Perez",
+      "Aleksandara Piktus",
+      "F. Petroni",
+      "Vladimir Karpukhin",
+      "Naman Goyal",
+      "Heinrich Kuttler",
+      "M. Lewis",
+      "Wen-tau Yih",
+      "Tim Rocktäschel",
+      "Sebastian Riedel",
+      "Douwe Kiela"
+    ],
+    "publication_date": "2020-05-22",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "659bf9ce7175e1ec266ff54359e2bd76e0b7ff31",
+    "corpus_id": 218869575,
+    "category": "Computer Science"
+  },
+  "2005-04308": {
+    "title": "Building a PubMed knowledge graph",
+    "authors": [
+      "Jian Xu",
+      "Sunkyu Kim",
+      "Min Song",
+      "Minbyul Jeong",
+      "Donghyeon Kim",
+      "Jaewoo Kang",
+      "Justin F. Rousseau",
+      "Xin Li",
+      "Weijia Xu",
+      "Vetle I. Torvik",
+      "Yi Bu",
+      "Chongyan Chen",
+      "Islam Akef Ebeid",
+      "Daifeng Li",
+      "Ying Ding"
+    ],
+    "publication_date": "2020-05-08",
+    "venue": "Scientific Data",
+    "semantic_scholar_id": "10853ea84c7d4aeda17a4002370ff56048fd7e61",
+    "corpus_id": 218581469,
+    "category": "Medicine, Computer Science"
+  },
+  "1904-09675": {
+    "title": "BERTScore: Evaluating Text Generation with BERT",
+    "authors": [
+      "Tianyi Zhang",
+      "Varsha Kishore",
+      "Felix Wu",
+      "Kilian Q. Weinberger",
+      "Yoav Artzi"
+    ],
+    "publication_date": "2019-04-21",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "295065d942abca0711300b2b4c39829551060578",
+    "corpus_id": 127986044,
+    "category": "Computer Science"
+  }
+}

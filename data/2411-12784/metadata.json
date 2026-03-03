@@ -1,0 +1,18 @@
+{
+  "title": "Cancer incidence estimation from mortality data: a validation study within a population-based cancer registry",
+  "authors": [
+    "Daniel Redondo-Sánchez",
+    "Miguel Rodríguez-Barranco",
+    "Alberto Ameijide",
+    "Francisco J. Alonso",
+    "Pablo Fernández-Navarro",
+    "Jose Juan Jiménez-Moleón",
+    "María-José Sánchez"
+  ],
+  "summary": "We assessed the validity of one of the most frequently used methods to estimate cancer incidence, on the basis of cancer mortality data and the incidence-to-mortality ratio IMR, the IMR method. Using the previous 15 year cancer mortality time series, we derived the expected yearly number of cancer cases in the period 2004 to 2013 for six cancer sites for each sex. Generalized linear mixed models, including a polynomial function for the year of death and smoothing splines for age, were adjusted. Models were fitted under a Bayesian framework based on Markov chain Monte Carlo methods. The IMR method was applied to five scenarios reflecting different assumptions regarding the behavior of the IMR. We compared incident cases estimated with the IMR method to observed cases diagnosed in 2004 to 2013 in Granada. A goodness-of-fit GOF indicator was formulated to determine the best estimation scenario. The relative differences between the observed and predicted numbers of cancer cases were less than 10 percent for most cancer sites. The constant assumption for the IMR trend provided the best GOF for colon, rectal, lung, bladder, and stomach cancers in men and colon, rectum, breast, and corpus uteri in women.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "Population Health Metrics, Volume 19, 18, 2021",
+  "pdf_url": null,
+  "category": "q-bio.QM"
+}

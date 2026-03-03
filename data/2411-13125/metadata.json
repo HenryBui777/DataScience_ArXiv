@@ -1,0 +1,13 @@
+{
+  "title": "An Expressive Trace Logic for Recursive Programs",
+  "authors": [
+    "Dilian Gurov",
+    "Reiner Hähnle"
+  ],
+  "summary": "We present an expressive logic over trace formulas, based on binary state predicates, chop, and least fixed-points, for precise specification of programs with recursive procedures. Both, programs and trace formulas, are equipped with a direct-style, fully compositional, denotational semantics that on programs coincides with the standard SOS of recursive programs. We design a compositional proof calculus for proving finite-trace program properties, and prove soundness as well as (relative) completeness. We show that each program can be mapped to a semantics-preserving trace formula and, vice versa, each trace formula can be mapped to a canonical program over slightly extended programs, resulting in a Galois connection between programs and formulas. Our results shed light on the correspondence between programming constructs and logical connectives.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LO, cs.SE"
+}

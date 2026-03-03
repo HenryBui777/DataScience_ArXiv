@@ -1,0 +1,691 @@
+@book{molnar2022,
+  author = {Christoph Molnar},
+  year = {2022},
+  subtitle = {A Guide for Making Black Box Models Explainable},
+  url = {https://christophm.github.io/interpretable-ml-book},
+  edition = {2},
+  title = {Interpretable Machine Learning},
+}
+
+@article{ROC-curves,
+  author = {Jayawant N. Mandrekar},
+  doi = {https://doi.org/10.1097/JTO.0b013e3181ec173d},
+  url = {https://www.sciencedirect.com/science/article/pii/S1556086415306043},
+  issn = {1556-0864},
+  journal = {Journal of Thoracic Oncology},
+  pages = {1315-1316},
+  year = {2010},
+  abstract = {The performance of a diagnostic test in the case of a binary predictor can be evaluated using the measures of sensitivity and specificity. However, in many instances, we encounter predictors that are measured on a continuous or ordinal scale. In such cases, it is desirable to assess performance of a diagnostic test over the range of possible cutpoints for the predictor variable. This is achieved by a receiver operating characteristic (ROC) curve that includes all the possible decision thresholds from a diagnostic test result. In this brief report, we discuss the salient features of the ROC curve, as well as discuss and interpret the area under the ROC curve, and its utility in comparing two different tests or predictor variables of interest.},
+  volume = {5},
+  title = {Receiver Operating Characteristic Curve in Diagnostic Test Assessment},
+  keywords = {Sensitivity, Specificity, ROC, AUC},
+  number = {9},
+}
+
+@article{august-metadata,
+  author = {Terry, J. Christopher D. and Roy, Helen E. and August, Tom A.},
+  doi = {https://doi.org/10.1111/2041-210X.13335},
+  url = {https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13335},
+  eprint = {https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/2041-210X.13335},
+  journal = {Methods in Ecology and Evolution},
+  pages = {303-315},
+  abstract = {Abstract The accurate identification of species in images submitted by citizen scientists is currently a bottleneck for many data uses. Machine learning tools offer the potential to provide rapid, objective and scalable species identification for the benefit of many aspects of ecological science. Currently, most approaches only make use of image pixel data for classification. However, an experienced naturalist would also use a wide variety of contextual information such as the location and date of recording. Here, we examine the automated identification of ladybird (Coccinellidae) records from the British Isles submitted to the UK Ladybird Survey, a volunteer-led mass participation recording scheme. Each image is associated with metadata; a date, location and recorder ID, which can be cross-referenced with other data sources to determine local weather at the time of recording, habitat types and the experience of the observer. We built multi-input neural network models that synthesize metadata and images to identify records to species level. We show that machine learning models can effectively harness contextual information to improve the interpretation of images. Against an image-only baseline of 48.2\%, we observe a 9.1 percentage-point improvement in top-1 accuracy with a multi-input model compared to only a 3.6\% increase when using an ensemble of image and metadata models. This suggests that contextual data are being used to interpret an image, beyond just providing a prior expectation. We show that our neural network models appear to be utilizing similar pieces of evidence as human naturalists to make identifications. Metadata is a key tool for human naturalists. We show it can also be harnessed by computer vision systems. Contextualization offers considerable extra information, particularly for challenging species, even within small and relatively homogeneous areas such as the British Isles. Although complex relationships between disparate sources of information can be profitably interpreted by simple neural network architectures, there is likely considerable room for further progress. Contextualizing images has the potential to lead to a step change in the accuracy of automated identification tools, with considerable benefits for large-scale verification of submitted records.},
+  year = {2020},
+  volume = {11},
+  title = {Thinking like a naturalist: Enhancing computer vision of citizen science images by harnessing contextual data},
+  keywords = {citizen science, computer vision, convolutional neural network, ladybird, machine learning, metadata, naturalists, species identification},
+  number = {2},
+}
+
+@article{Hierarchical-insects,
+  author = {Kim Bjerge and Quentin Geissmann and Jamie Alison and Hjalte M.R. Mann and Toke T. Høye and Mads Dyrmann and Henrik Karstoft},
+  doi = {https://doi.org/10.1016/j.ecoinf.2023.102278},
+  url = {https://www.sciencedirect.com/science/article/pii/S1574954123003072},
+  issn = {1574-9541},
+  journal = {Ecological Informatics},
+  pages = {102278},
+  year = {2023},
+  abstract = {Cameras and computer vision are revolutionising the study of insects, creating new research opportunities within agriculture, epidemiology, evolution, ecology and monitoring of biodiversity. However, the diversity of insects and close resemblances of many species are a major challenge for image-based species-level classification. Here, we present an algorithm to hierarchically classify insects from images, leveraging a simple taxonomy to (1) classify specimens across multiple taxonomic ranks simultaneously, and (2) identify the lowest rank at which a reliable classification can be reached. Specifically, we propose multitask learning, a loss function incorporating class dependency at each taxonomic rank, and anomaly detection based on outlier analysis to quantify the uncertainty. First, we compile a dataset of 41,731 images of insects, combining images from time-lapse monitoring of floral scenes with images from the Global Biodiversity Information Facility (GBIF). Second, we adapt state-of-the-art convolutional neural networks, ResNet and EfficientNet, for the hierarchical classification of insects belonging to three orders, five families and nine species. Third, we assess model generalization for 11 species unseen by the trained models. Here, anomaly detection is used to predict the higher rank of the species which were not present in the training set. We found that incorporating a simple taxonomy into our model increased the accuracy at higher taxonomic ranks. As expected, our algorithm correctly classified new insect species at higher taxonomic ranks, while classification was uncertain at lower taxonomic ranks. Anomaly detection can effectively flag novel taxa that are visually distinct from species in the training data. However, five novel taxa were consistently mistaken for visually similar species in the training data. Above all, we have demonstrated a practical approach to hierarchical classification based on species taxonomy and uncertainty during automated in situ monitoring of live insects. Our method is simple and versatile, forming a valuable step towards high-level classification of species not found in training data.},
+  volume = {77},
+  title = {Hierarchical classification of insects with multitask learning and anomaly detection},
+  keywords = {nomaly detection, Computer vision, Deep learning, Hierarchical classification, Insects, Taxonomy},
+}
+
+@inproceedings{insect-foundation,
+  author = {Nguyen, Hoang-Quan and Truong, Thanh-Dat and Nguyen, Xuan Bac and Dowling, Ashley and Li, Xin and Luu, Khoa},
+  pages = {21945--21955},
+  year = {2024},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  title = {Insect-foundation: A foundation model and large-scale 1m dataset for visual insect understanding},
+}
+
+@article{acoustic-hornets-bees,
+  author = {Satoshi Kawakita and Kotaro Ichikawa},
+  title = {Automated classification of bees and hornet using acoustic analysis of their flight sounds},
+  journal = {Apidologie},
+  year = {2019},
+  volume = {50},
+  number = {1},
+  pages = {71--79},
+  doi = {10.1007/s13592-018-0619-6},
+  url = {https://doi.org/10.1007/s13592-018-0619-6},
+  issn = {1297-9678},
+  abstract = {To investigate how to accurately identify bee species using their sounds, we conducted acoustic analysis to identify three pollinating bee species (Apis mellifera, Bombus ardens, Tetralonia nipponensis) and a hornet (Vespa simillima xanthoptera) by their flight sounds. Sounds of the insects and their environment (background noises and birdsong) were recorded in the field. The use of fundamental frequency and mel-frequency cepstral coefficients to describe feature values of the sounds, and supported vector machines to classify the sounds, correctly distinguished sound samples from environmental sounds with high recalls and precision (0.96–1.00). At the species level, our approach could classify the insect species with relatively high recalls and precisions (0.7–1.0). The flight sounds of V.s. xanthoptera, in particular, were perfectly identified (precision and recall 1.0). Our results suggest that insect flight sounds are potentially useful for detecting bees and quantifying their activity.},
+}
+
+@inproceedings{stevens2024bioclip,
+  author = {Stevens, Samuel and Wu, Jiaman and Thompson, Matthew J and Campolongo, Elizabeth G and Song, Chan Hee and Carlyn, David Edward and Dong, Li and Dahdul, Wasila M and Stewart, Charles and Berger-Wolf, Tanya and others},
+  pages = {19412--19424},
+  year = {2024},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  title = {Bioclip: A vision foundation model for the tree of life},
+}
+
+@article{ivan-mosquitos,
+  author = {Ivan Kiskin and Davide Zilli and Yunpeng Li and Marianne Sinka and Kathy Willis and Stephen Roberts},
+  title = {Bioacoustic detection with wavelet-conditioned convolutional neural networks},
+  journal = {Neural Computing and Applications},
+  year = {2020},
+  volume = {32},
+  number = {4},
+  pages = {915--927},
+  doi = {10.1007/s00521-018-3626-7},
+  url = {https://doi.org/10.1007/s00521-018-3626-7},
+  issn = {1433-3058},
+  abstract = {Many real-world time series analysis problems are characterized by low signal-to-noise ratios and compounded by scarce data. Solutions to these types of problems often rely on handcrafted features extracted in the time or frequency domain. Recent high-profile advances in deep learning have improved performance across many application domains; however, they typically rely on large data sets that may not always be available. This paper presents an application of deep learning for acoustic event detection in a challenging, data-scarce, real-world problem. We show that convolutional neural networks (CNNs), operating on wavelet transformations of audio recordings, demonstrate superior performance over conventional classifiers that utilize handcrafted features. Our key result is that wavelet transformations offer a clear benefit over the more commonly used short-time Fourier transform. Furthermore, we show that features, handcrafted for a particular dataset, do not generalize well to other datasets. Conversely, CNNs trained on generic features are able to achieve comparable results across multiple datasets, along with outperforming human labellers. We present our results on the application of both detecting the presence of mosquitoes and the classification of bird species.},
+}
+
+@article{75percent-decline,
+  author = {Hallmann, Caspar A. AND Sorg, Martin AND Jongejans, Eelke AND Siepel, Henk AND Hofland, Nick AND Schwan, Heinz AND Stenmans, Werner AND Müller, Andreas AND Sumser, Hubert AND Hörren, Thomas AND Goulson, Dave AND de Kroon, Hans},
+  doi = {10.1371/journal.pone.0185809},
+  url = {https://doi.org/10.1371/journal.pone.0185809},
+  journal = {PLOS ONE},
+  publisher = {Public Library of Science},
+  year = {2017},
+  pages = {1-21},
+  abstract = {Global declines in insects have sparked wide interest among scientists, politicians, and the general public. Loss of insect diversity and abundance is expected to provoke cascading effects on food webs and to jeopardize ecosystem services. Our understanding of the extent and underlying causes of this decline is based on the abundance of single species or taxonomic groups only, rather than changes in insect biomass which is more relevant for ecological functioning. Here, we used a standardized protocol to measure total insect biomass using Malaise traps, deployed over 27 years in 63 nature protection areas in Germany (96 unique location-year combinations) to infer on the status and trend of local entomofauna. Our analysis estimates a seasonal decline of 76%, and mid-summer decline of 82% in flying insect biomass over the 27 years of study. We show that this decline is apparent regardless of habitat type, while changes in weather, land use, and habitat characteristics cannot explain this overall decline. This yet unrecognized loss of insect biomass must be taken into account in evaluating declines in abundance of species depending on insects as a food source, and ecosystem functioning in the European landscape.},
+  volume = {12},
+  title = {More than 75 percent decline over 27 years in total flying insect biomass in protected areas},
+  month = {10},
+  number = {10},
+}
+
+@misc{pruning,
+  author = {Hongrong Cheng and Miao Zhang and Javen Qinfeng Shi},
+  year = {2024},
+  archiveprefix = {arXiv},
+  url = {https://arxiv.org/abs/2308.06767},
+  primaryclass = {cs.LG},
+  eprint = {2308.06767},
+  title = {A Survey on Deep Neural Network Pruning-Taxonomy, Comparison, Analysis, and Recommendations},
+}
+
+@misc{inat2021,
+  author = {Grant Van Horn and Elijah Cole and Sara Beery and Kimberly Wilber and Serge Belongie and Oisin Mac Aodha},
+  year = {2021},
+  archiveprefix = {arXiv},
+  url = {https://arxiv.org/abs/2103.16483},
+  primaryclass = {cs.CV},
+  eprint = {2103.16483},
+  title = {Benchmarking Representation Learning for Natural World Image Collections},
+}
+
+@article{insect-disease-vector,
+  author = {Duane J Gubler},
+  doi = {https://doi.org/10.1016/S0188-4409(02)00378-8},
+  url = {https://www.sciencedirect.com/science/article/pii/S0188440902003788},
+  issn = {0188-4409},
+  journal = {Archives of Medical Research},
+  pages = {330-342},
+  year = {2002},
+  abstract = {During the past 20 years there has been a dramatic resurgence or emergence of epidemic arboviral diseases affecting both humans and domestic animals. These epidemics have been caused primarily by viruses thought to be under control such as dengue, Japanese encephalitis, yellow fever, and Venezuelan equine encephalitis, or viruses that have expanded their geographic distribution such as West Nile and Rift Valley fever. Several of these viruses are presented as case studies to illustrate the changing epidemiology. The factors responsible for the dramatic resurgence of arboviral diseases in the waning years of the 20th century are discussed, as is the need for rebuilding the public health infrastructure to deal with epidemic vector-borne diseases in the 21st century.},
+  volume = {33},
+  title = {The Global Emergence/Resurgence of Arboviral Diseases As Public Health Problems},
+  keywords = {Arbovirus, Dengue, Emerging infectious diseases, Japanese encephalitis, Rift Valley fever, Venezuelan equine encephalitis, West Nile, Yellow fever},
+  number = {4},
+}
+
+@article{scalable-insect-monitoring,
+  author = {Meier, Rudolf  and Hartop, Emily  and Pylatiuk, Christian  and Srivathsan, Amrita},
+  doi = {10.1098/rstb.2023.0120},
+  url = {https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2023.0120},
+  eprint = {https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2023.0120},
+  journal = {Philosophical Transactions of the Royal Society B: Biological Sciences},
+  pages = {20230120},
+  year = {2024},
+  abstract = {Holistic insect monitoring needs scalable techniques to overcome taxon biases, determine species abundances, and gather functional traits for all species. This requires that we address taxonomic impediments and the paucity of data on abundance, biomass and functional traits. We here outline how these data deficiencies could be addressed at scale. The workflow starts with large-scale barcoding (megabarcoding) of all specimens from mass samples obtained at biomonitoring sites. The barcodes are then used to group the specimens into molecular operational taxonomic units that are subsequently tested/validated as species with a second data source (e.g. morphology). New species are described using barcodes, images and short diagnoses, and abundance data are collected for both new and described species. The specimen images used for species discovery then become the raw material for training artificial intelligence identification algorithms and collecting trait data such as body size, biomass and feeding modes. Additional trait data can be obtained from vouchers by using genomic tools developed by molecular ecologists. Applying this pipeline to a few samples per site will lead to greatly improved insect monitoring regardless of whether the species composition of a sample is determined with images, metabarcoding or megabarcoding. This article is part of the theme issue ‘Towards a toolkit for global insect biodiversity monitoring’.},
+  volume = {379},
+  title = {Towards holistic insect monitoring: species discovery, description, identification and traits for all insects},
+  number = {1904},
+}
+
+@article{integrated-pest-monitoring-cameras,
+  author = {Michele Preti and François Verheggen and Sergio Angeli},
+  doi = {10.1007/s10340-020-01309-4},
+  url = {https://doi.org/10.1007/s10340-020-01309-4},
+  issn = {1612-4766},
+  journal = {Journal of Pest Science},
+  pages = {203--217},
+  year = {2021},
+  abstract = {Integrated pest management relies on insect pest monitoring to support the decision of counteracting a given level of infestation and to select the adequate control method. The classic monitoring approach of insect pests is based on placing in single infested areas a series of traps that are checked by human operators on a temporal basis. This strategy requires high labor cost and provides poor spatial and temporal resolution achievable by single operators. The adoption of image sensors to monitor insect pests can result in several practical advantages. The purpose of this review is to summarize the progress made on automatic traps with a particular focus on camera-equipped traps. The use of software and image recognition algorithms can support automatic trap usage to identify and/or count insect species from pictures. Considering the high image resolution achievable and the opportunity to exploit data transfer systems through wireless technology, it is possible to have remote control of insect captures, limiting field visits. The availability of real-time and on-line pest monitoring systems from a distant location opens the opportunity for measuring insect population dynamics constantly and simultaneously in a large number of traps with a limited human labor requirement. The actual limitations are the high cost, the low power autonomy and the low picture quality of some prototypes together with the need for further improvements in fully automated pest detection. Limits and benefits resulting from several case studies are examined with a perspective for the future development of technology-driven insect pest monitoring and management.},
+  volume = {94},
+  title = {Insect pest monitoring with camera-equipped traps: strengths and limitations},
+  number = {2},
+}
+
+@article{meek,
+  author = {Meek, PD and Pittet, A},
+  pages = {649--660},
+  year = {2012},
+  publisher = {CSIRO Publishing},
+  volume = {39},
+  title = {User-based design specifications for the ultimate camera trap for wildlife research},
+  journal = {Wildlife Research},
+  number = {8},
+}
+
+@article{snapshotser,
+  author = {Swanson, Alexandra and Kosmala, Margaret and Lintott, Chris and Simpson, Robert and Smith, Arfon and Packer, Craig},
+  doi = {10.1038/sdata.2015.26},
+  url = {https://doi.org/10.1038/sdata.2015.26},
+  issn = {2052-4463},
+  journal = {Scientific Data},
+  pages = {150026},
+  year = {2015},
+  abstract = {Camera traps can be used to address large-scale questions in community ecology by providing systematic data on an array of wide-ranging species. We deployed 225 camera traps across 1,125 km2 in Serengeti National Park, Tanzania, to evaluate spatial and temporal inter-species dynamics. The cameras have operated continuously since 2010 and had accumulated 99,241 camera-trap days and produced 1.2 million sets of pictures by 2013. Members of the general public classified the images via the citizen-science website www.snapshotserengeti.org. Multiple users viewed each image and recorded the species, number of individuals, associated behaviours, and presence of young. Over 28,000 registered users contributed 10.8 million classifications. We applied a simple algorithm to aggregate these individual classifications into a final ‘consensus’ dataset, yielding a final classification for each image and a measure of agreement among individual answers. The consensus classifications and raw imagery provide an unparalleled opportunity to investigate multi-species dynamics in an intact ecosystem and a valuable resource for machine-learning and computer-vision research.},
+  volume = {2},
+  title = {Snapshot Serengeti, high-frequency annotated camera trap images of 40 mammalian species in an African savanna},
+  month = {Jun},
+  number = {1},
+}
+
+@misc{keras,
+  author = {Chollet, Fran\c{c},
+  year = {2015},
+  howpublished = {\url{https://keras.io},
+  title = {Keras},
+}
+
+@article{tflite-paper,
+  author = {Benoit Jacob and
+                  Skirmantas Kligys and
+                  Bo Chen and
+                  Menglong Zhu and
+                  Matthew Tang and
+                  Andrew G. Howard and
+                  Hartwig Adam and
+                  Dmitry Kalenichenko},
+  url = {http://arxiv.org/abs/1712.05877},
+  eprint = {1712.05877},
+  timestamp = {Thu, 27 May 2021 16:20:51 +0200},
+  biburl = {https://dblp.org/rec/journals/corr/abs-1712-05877.bib},
+  journal = {CoRR},
+  year = {2017},
+  volume = {abs/1712.05877},
+  eprinttype = {arXiv},
+  title = {Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only
+                  Inference},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}
+
+@inproceedings{mobilenetv2,
+  author = {Sandler, Mark and Howard, Andrew and Zhu, Menglong and Zhmoginov, Andrey and Chen, Liang-Chieh},
+  pages = {4510--4520},
+  year = {2018},
+  booktitle = {Proceedings of the IEEE conference on computer vision and pattern recognition},
+  title = {Mobilenetv2: Inverted residuals and linear bottlenecks},
+}
+
+@article{tflite-micro,
+  author = {Robert David and
+                  Jared Duke and
+                  Advait Jain and
+                  Vijay Janapa Reddi and
+                  Nat Jeffries and
+                  Jian Li and
+                  Nick Kreeger and
+                  Ian Nappier and
+                  Meghna Natraj and
+                  Shlomi Regev and
+                  Rocky Rhodes and
+                  Tiezhen Wang and
+                  Pete Warden},
+  url = {https://proceedings.mlsys.org/paper_files/paper/2021/file/6c44dc73014d66ba49b28d483a8f8b0d-Paper.pdf},
+  eprint = {2010.08678},
+  timestamp = {Wed, 21 Oct 2020 12:11:48 +0200},
+  booktitle = {Proceedings of Machine Learning and Systems},
+  editor = {A. Smola and A. Dimakis and I. Stoica},
+  biburl = {https://dblp.org/rec/journals/corr/abs-2010-08678.bib},
+  journal = {CoRR},
+  pages = {800--811},
+  year = {2020},
+  volume = {abs/2010.08678},
+  eprinttype = {arXiv},
+  title = {TensorFlow Lite Micro: Embedded Machine Learning for TinyML Systems},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}
+
+@article{camera-trap-survey,
+  author = {Glover-Kapfer, Paul and Soto-Navarro, Carolina A. and Wearn, Oliver R.},
+  title = {Camera-trapping version 3.0: current constraints and future priorities for development},
+  journal = {Remote Sensing in Ecology and Conservation},
+  volume = {5},
+  number = {3},
+  pages = {209-223},
+  keywords = {Camera-trapping, conservation technology, market research, user survey, wildlife monitoring},
+  doi = {https://doi.org/10.1002/rse2.106},
+  url = {https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1002/rse2.106},
+  eprint = {https://zslpublications.onlinelibrary.wiley.com/doi/pdf/10.1002/rse2.106},
+  abstract = {Abstract Camera traps are a widely used tool in wildlife research and conservation, but in situ factors such as theft, poor performance in extreme environments and damage by wildlife may be hindering the effectiveness of the technology. However, we still know little about how widespread these constraints are and which are the priorities to solve in the short- and mid-term. We present results from a global survey of camera-trappers working across a diversity of institutions and habitats, and using camera traps for a range of purposes. We show that: (1) the major current constraints on effective camera-trapping are cost, theft and sensor performance (with 66\%, 50\% and 42\% of respondents respectively classifying those as important or extremely important barriers for camera-trapping); (2) the most-needed technological developments are related to sensor performance (faster triggering responses and higher sensitivity), resistance to extreme environmental conditions (extreme temperatures and high humidity) and automated filtering of blank images; and (3) there is considerable variation among camera trap manufacturers in user-rated performance, and none of the manufacturer ratings exhibited a trend over time, despite improvements in the technology. Our results serve as valuable market research for both open-source and commercial camera trap developers. On the basis of our survey of camera-trappers, we foresee a transition towards camera-trapping 3.0 in the near-future, consisting of both more effective camera trap units, but also greater use of wireless data transmission, sensor networks, automation of processes using algorithms and better, more collaborative tools for managing and analysing camera trap data. Ultimately, this will increase the capacity of researchers and conservationists to implement coordinated wildlife monitoring at unprecedented scales.},
+  year = {2019},
+}
+
+@article{pollinator-detect,
+  author = {Bjerge, Kim and Frigaard, Carsten Eie and Karstoft, Henrik},
+  doi = {10.3390/s23167242},
+  url = {https://www.mdpi.com/1424-8220/23/16/7242},
+  issn = {1424-8220},
+  journal = {Sensors},
+  abstract = {As pollinators, insects play a crucial role in ecosystem management and world food production. However, insect populations are declining, necessitating efficient insect monitoring methods. Existing methods analyze video or time-lapse images of insects in nature, but analysis is challenging as insects are small objects in complex and dynamic natural vegetation scenes. In this work, we provide a dataset of primarily honeybees visiting three different plant species during two months of the summer. The dataset consists of 107,387 annotated time-lapse images from multiple cameras, including 9423 annotated insects. We present a method for detecting insects in time-lapse RGB images, which consists of a two-step process. Firstly, the time-lapse RGB images are preprocessed to enhance insects in the images. This motion-informed enhancement technique uses motion and colors to enhance insects in images. Secondly, the enhanced images are subsequently fed into a convolutional neural network (CNN) object detector. The method improves on the deep learning object detectors You Only Look Once (YOLO) and faster region-based CNN (Faster R-CNN). Using motion-informed enhancement, the YOLO detector improves the average micro F1-score from 0.49 to 0.71, and the Faster R-CNN detector improves the average micro F1-score from 0.32 to 0.56. Our dataset and proposed method provide a step forward for automating the time-lapse camera monitoring of flying insects.},
+  year = {2023},
+  pubmedid = {37631778},
+  volume = {23},
+  title = {Object Detection of Small Insects in Time-Lapse Camera Recordings},
+  number = {7242},
+}
+
+@article{sticky-hoye,
+  title = {An annotated image dataset of pests on different coloured sticky traps acquired with different imaging devices},
+  journal = {Data in Brief},
+  volume = {55},
+  pages = {110741},
+  year = {2024},
+  issn = {2352-3409},
+  doi = {https://doi.org/10.1016/j.dib.2024.110741},
+  url = {https://www.sciencedirect.com/science/article/pii/S235234092400708X},
+  author = {Song-Quan Ong and Toke Thomas Høye},
+  keywords = {Glue trap, Insect monitoring, Integrated pest management, Automated pest monitoring},
+  abstract = {The sticky trap is probably the most cost-effective tool for catching insect pests, but the identification and counting of insects on sticky traps is very labour-intensive. When investigating the automatic identification and counting of pests on sticky traps using computer vision and machine learning, two aspects can strongly influence the performance of the model – the colour of the sticky trap and the device used to capture the images of the pests on the sticky trap. As far as we know, there are no available image datasets to study these two aspects in computer vision and deep learning algorithms. Therefore, this paper presents a new dataset consisting of images of two pests commonly found in post-harvest crops – the red flour beetle (Tribolium castaneum) and the rice weevil (Sitophilus oryzae) – captured with three different devices (DSLR, webcam and smartphone) on blue, yellow, white and transparent sticky traps. The images were sorted by device, colour and species and divided into training, validation and test parts for the development of the deep learning model.},
+}
+
+@dataset{ami-dataset,
+  author = {Jain, Aditya and
+                  Cunha, Fagner and
+                  Bunsen, Michael James and
+                  Cañas, Juan Sebastián and
+                  Pasi, Léonard and
+                  Pinoy, Nathan and
+                  Helsing, Flemming and
+                  Russo, JoAnne and
+                  Botham, Marc and
+                  Sabourin, Michael and
+                  Frechette, Jonathan and
+                  Anctil, Alexandre and
+                  Lopez, Yacksecari and
+                  Navarro, Eduardo and
+                  Pimentel, Filonila Perez and
+                  Zamora, Ana Cecilia and
+                  Silva, José Alejandro Ramirez and
+                  Gagnon, Jonathan and
+                  August, Tom and
+                  Bjerge, Kim and
+                  Segura, Alba Gomez and
+                  Bélisle, Marc and
+                  Basset, Yves and
+                  McFarland, Kent P. and
+                  Roy, David and
+                  Høye, Toke Thomas and
+                  Larrivée, Maxim and
+                  Rolnick, David},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.11358689},
+  url = {https://doi.org/10.5281/zenodo.11358689},
+  title = {Insect Identification in the Wild: The AMI Dataset},
+}
+
+@article{time-lapse-insects,
+  author = {Naqvi, Qaim and Wolff, Patrick J. and Molano-Flores, Brenda and Sperry, Jinelle H.},
+  doi = {https://doi.org/10.1002/ece3.8962},
+  url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.8962},
+  eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/ece3.8962},
+  journal = {Ecology and Evolution},
+  pages = {e8962},
+  abstract = {Abstract Insect and pollinator populations are vitally important to the health of ecosystems, food production, and economic stability, but are declining worldwide. New, cheap, and simple monitoring methods are necessary to inform management actions and should be available to researchers around the world. Here, we evaluate the efficacy of a commercially available, close-focus automated camera trap to monitor insect–plant interactions and insect behavior. We compared two video settings—scheduled and motion-activated—to a traditional human observation method. Our results show that camera traps with scheduled video settings detected more insects overall than humans, but relative performance varied by insect order. Scheduled cameras significantly outperformed motion-activated cameras, detecting more insects of all orders and size classes. We conclude that scheduled camera traps are an effective and relatively inexpensive tool for monitoring interactions between plants and insects of all size classes, and their ease of accessibility and set-up allows for the potential of widespread use. The digital format of video also offers the benefits of recording, sharing, and verifying observations.},
+  year = {2022},
+  volume = {12},
+  title = {Camera traps are an effective tool for monitoring insect–plant interactions},
+  keywords = {Camera trap, detection, digital video recording, game camera, insect monitoring, pollination, pollination biology, pollinator monitoring},
+  number = {6},
+}
+
+@article{moth-pir,
+  author = {Peter R. Houlihan and Mac Stone and Shawn E. Clem and Mike Owen and Thomas C. Emmel},
+  doi = {10.1038/s41598-019-49387-4},
+  url = {https://doi.org/10.1038/s41598-019-49387-4},
+  issn = {2045-2322},
+  journal = {Scientific Reports},
+  pages = {12850},
+  year = {2019},
+  abstract = {The structural variation of orchids enables myriad fascinating symbiotic relationships with organisms across kingdoms. Orchids are frequently known for having elaborate arms races with their pollinators that result in intricate morphologies in both parties, and flowers with long corollas hypothesized to be pollinated only by individual species of long tongued hawkmoths are of particular concern for conservation. Florida’s endangered ghost orchid, Dendrophylax lindenii, has long been confidently assumed to be pollinated by one species (Cocytius antaeus), despite the presence of a resident community of multiple suitable long-tongued candidates. Here we present the first description of ghost orchid pollination, and describe novel remote camera trapping methods. Pollination of \emph{D. lindenii},
+  volume = {9},
+  title = {Pollination ecology of the ghost orchid ({Dendrophylax lindenii},
+  number = {1},
+}
+
+@article{mobilenet,
+  author = {Andrew G. Howard and
+                  Menglong Zhu and
+                  Bo Chen and
+                  Dmitry Kalenichenko and
+                  Weijun Wang and
+                  Tobias Weyand and
+                  Marco Andreetto and
+                  Hartwig Adam},
+  url = {http://arxiv.org/abs/1704.04861},
+  eprint = {1704.04861},
+  timestamp = {Thu, 27 May 2021 16:20:51 +0200},
+  biburl = {https://dblp.org/rec/journals/corr/HowardZCKWWAA17.bib},
+  journal = {CoRR},
+  year = {2017},
+  volume = {abs/1704.04861},
+  eprinttype = {arXiv},
+  title = {MobileNets: Efficient Convolutional Neural Networks for Mobile Vision
+                  Applications},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+}
+
+@article{camera-trap-backgrounds,
+  author = {Schneider, Stefan and Greenberg, Saul and Taylor, Graham W. and Kremer, Stefan C.},
+  doi = {https://doi.org/10.1002/ece3.6147},
+  url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/ece3.6147},
+  eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/ece3.6147},
+  journal = {Ecology and Evolution},
+  pages = {3503-3517},
+  abstract = {Abstract Ecological camera traps are increasingly used by wildlife biologists to unobtrusively monitor an ecosystems animal population. However, manual inspection of the images produced is expensive, laborious, and time-consuming. The success of deep learning systems using camera trap images has been previously explored in preliminary stages. These studies, however, are lacking in their practicality. They are primarily focused on extremely large datasets, often millions of images, and there is little to no focus on performance when tasked with species identification in new locations not seen during training. Our goal was to test the capabilities of deep learning systems trained on camera trap images using modestly sized training data, compare performance when considering unseen background locations, and quantify the gradient of lower bound performance to provide a guideline of data requirements in correspondence to performance expectations. We use a dataset provided by Parks Canada containing 47,279 images collected from 36 unique geographic locations across multiple environments. Images represent 55 animal species and human activity with high-class imbalance. We trained, tested, and compared the capabilities of six deep learning computer vision networks using transfer learning and image augmentation: DenseNet201, Inception-ResNet-V3, InceptionV3, NASNetMobile, MobileNetV2, and Xception. We compare overall performance on “trained” locations where DenseNet201 performed best with 95.6\% top-1 accuracy showing promise for deep learning methods for smaller scale research efforts. Using trained locations, classifications with <500 images had low and highly variable recall of 0.750 ± 0.329, while classifications with over 1,000 images had a high and stable recall of 0.971 ± 0.0137. Models tasked with classifying species from untrained locations were less accurate, with DenseNet201 performing best with 68.7\% top-1 accuracy. Finally, we provide an open repository where ecologists can insert their image data to train and test custom species detection models for their desired ecological domain.},
+  year = {2020},
+  volume = {10},
+  title = {Three critical factors affecting automated image species recognition performance for camera traps},
+  keywords = {camera traps, computer vision, convolutional networks, deep learning, density estimation, monitoring, population dynamics, species classification},
+  number = {7},
+}
+
+@article{whytock,
+  author = {Whytock, Robin C. and Świeżewski, Jędrzej and Zwerts, Joeri A. and Bara-Słupski, Tadeusz and Koumba Pambo, Aurélie Flore and Rogala, Marek and Bahaa-el-din, Laila and Boekee, Kelly and Brittain, Stephanie and Cardoso, Anabelle W. and Henschel, Philipp and Lehmann, David and Momboua, Brice and Kiebou Opepa, Cisquet and Orbell, Christopher and Pitman, Ross T. and Robinson, Hugh S. and Abernethy, Katharine A.},
+  doi = {https://doi.org/10.1111/2041-210X.13576},
+  url = {https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13576},
+  eprint = {https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/2041-210X.13576},
+  journal = {Methods in Ecology and Evolution},
+  pages = {1080-1092},
+  abstract = {Abstract Ecological data are collected over vast geographic areas using digital sensors such as camera traps and bioacoustic recorders. Camera traps have become the standard method for surveying many terrestrial mammals and birds, but camera trap arrays often generate millions of images that are time-consuming to label. This causes significant latency between data collection and subsequent inference, which impedes conservation at a time of ecological crisis. Machine learning algorithms have been developed to improve the speed of labelling camera trap data, but it is uncertain how the outputs of these models can be used in ecological analyses without secondary validation by a human. Here, we present our approach to developing, testing and applying a machine learning model to camera trap data for the purpose of achieving fully automated ecological analyses. As a case-study, we built a model to classify 26 Central African forest mammal and bird species (or groups). The model generalizes to new spatially and temporally independent data (n = 227 camera stations, n = 23,868 images), and outperforms humans in several respects (e.g. detecting ‘invisible’ animals). We demonstrate how ecologists can evaluate a machine learning model's precision and accuracy in an ecological context by comparing species richness, activity patterns (n = 4 species tested) and occupancy (n = 4 species tested) derived from machine learning labels with the same estimates derived from expert labels. Results show that fully automated species labels can be equivalent to expert labels when calculating species richness, activity patterns (n = 4 species tested) and estimating occupancy (n = 3 of 4 species tested) in a large, completely out-of-sample test dataset. Simple thresholding using the Softmax values (i.e. excluding ‘uncertain’ labels) improved the model's performance when calculating activity patterns and estimating occupancy but did not improve estimates of species richness. We conclude that, with adequate testing and evaluation in an ecological context, a machine learning model can generate labels for direct use in ecological analyses without the need for manual validation. We provide the user-community with a multi-platform, multi-language graphical user interface that can be used to run our model offline.},
+  year = {2021},
+  volume = {12},
+  title = {Robust ecological analysis of camera trap data labelled by a machine learning model},
+  keywords = {artificial intelligence, biodiversity, birds, Central Africa, mammals},
+  number = {6},
+}
+
+@article{pir-misconceptions,
+  author = {Welbourne, Dustin J. and Claridge, Andrew W. and Paull, David J. and Lambert, Andrew},
+  doi = {https://doi.org/10.1002/rse2.20},
+  url = {https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1002/rse2.20},
+  eprint = {https://zslpublications.onlinelibrary.wiley.com/doi/pdf/10.1002/rse2.20},
+  journal = {Remote Sensing in Ecology and Conservation},
+  pages = {77-83},
+  abstract = {Abstract The use of passive infrared (PIR) triggered camera traps has dramatically increased in recent decades. Unfortunately, technical descriptions of how PIR triggered camera traps operate have not been sufficiently clear. Descriptions have often been ambiguous or misleading and in several cases are demonstrably wrong. Such descriptions have led to erroneous interpretations of camera trapping data. This short communication clarifies how PIR sensors operate. We clarify how infrared radiation is emitted and transmitted, and we describe the parts of the PIR sensor and how they detect infrared radiation and, by extension, fauna. Several problematic descriptions of PIR sensors are drawn on to highlight flawed descriptions and demonstrate where erroneous interpretations of camera trapping data occurred. By clarifying the language and the description of PIR triggered camera traps, this paper ensures that wildlife researchers and managers using camera traps will avoid flawed interpretations of their data. Avoiding flawed interpretations of data should reduce wasted effort and resources that would otherwise come about as researchers attempt to test flawed hypotheses. Furthermore, this paper provides a thorough technical reference for camera trapping practitioners, which is not present elsewhere in the wildlife research literature.},
+  year = {2016},
+  volume = {2},
+  title = {How do passive infrared triggered camera traps operate and why does it matter? Breaking down common misconceptions},
+  keywords = {Camera traps, emissivity, infrared, PIR, radiation, technical description},
+  number = {2},
+}
+
+@article{motion-vectors,
+  author = {Miklas Riechmann and Ross Gardiner and Kai Waddington and Ryan Rueger and Frederic Fol Leymarie and Stefan Rueger},
+  doi = {https://doi.org/10.1016/j.ecoinf.2022.101657},
+  url = {https://www.sciencedirect.com/science/article/pii/S1574954122001066},
+  issn = {1574-9541},
+  journal = {Ecological Informatics},
+  pages = {101657},
+  year = {2022},
+  abstract = {Commercial camera traps are usually triggered by a Passive Infra-Red (PIR) motion sensor necessitating a delay between triggering and the image being captured. This often seriously limits the ability to record images of small and fast moving animals. It also results in many “empty” images, e.g., owing to moving foliage against a background of different temperature. In this paper we detail a new triggering mechanism based solely on the camera sensor. This is intended for use by citizen scientists and for deployment on an affordable, compact, low-power Raspberry Pi computer (RPi). Our system introduces a video frame filtering pipeline consisting of movement and image-based processing. This makes use of Machine Learning (ML) feasible on a live camera stream on an RPi. We describe our free and open-source software implementation of the system; introduce a suitable ecology efficiency measure that mediates between specificity and recall; provide ground-truth for a video clip collection from camera traps; and evaluate the effectiveness of our system thoroughly. Overall, our video camera trap turns out to be robust and effective.},
+  volume = {69},
+  title = {Motion vectors and deep neural networks for video camera traps},
+  keywords = {AI, Computer vision, Machine learning, Motion vectors, Video camera trap, Video pipeline},
+}
+
+@article{halt-hobbs,
+  author = {Hobbs, Michael T. AND Brehme, Cheryl S.},
+  doi = {10.1371/journal.pone.0185026},
+  url = {https://doi.org/10.1371/journal.pone.0185026},
+  journal = {PLOS ONE},
+  publisher = {Public Library of Science},
+  year = {2017},
+  pages = {1-15},
+  abstract = {Camera traps are valuable sampling tools commonly used to inventory and monitor wildlife communities but are challenged to reliably sample small animals. We introduce a novel active camera trap system enabling the reliable and efficient use of wildlife cameras for sampling small animals, particularly reptiles, amphibians, small mammals and large invertebrates. It surpasses the detection ability of commonly used passive infrared (PIR) cameras for this application and eliminates problems such as high rates of false triggers and high variability in detection rates among cameras and study locations. Our system, which employs a HALT trigger, is capable of coupling to digital PIR cameras and is designed for detecting small animals traversing small tunnels, narrow trails, small clearings and along walls or drift fencing.},
+  volume = {12},
+  title = {An improved camera trap for amphibians, reptiles, small mammals, and large invertebrates},
+  month = {10},
+  number = {10},
+}
+
+@article{9-month-lidar,
+  author = {Topu Saha and Adrien P. Genoud and Gregory M. Williams and Benjamin P. Thomas},
+  doi = {10.1038/s41598-023-42884-7},
+  url = {https://doi.org/10.1038/s41598-023-42884-7},
+  issn = {2045-2322},
+  journal = {Scientific Reports},
+  pages = {15606},
+  year = {2023},
+  abstract = {Monitoring the dynamics of insect populations is key to assessing the impact of human activities on insect populations. However, traditional methodologies relying on physical traps have inherent limitations in accurately monitoring insect abundance. Here, we present findings from a 9-month campaign conducted in New Jersey, USA, utilizing a near-infrared optical sensor known as eBoss. From April to December 2022, the eBoss derived the aerial density (insect/m3) and biomass density (mg/m3) with a 1-min resolution from a total of 302,093 insect observations. The data collected were analyzed in relation to air temperature, relative humidity, and wind speed. The results revealed that the abundance of flying insects exhibited an initial increase from April to June, reaching a peak of 0.094 insect/m3 and 1.34 mg/m3, followed by a subsequent decline towards the end of the year. Our investigation showed a surge in insect abundance above 12.5 °C, with particularly high levels observed between 19 and 31 °C. The impact of relative humidity and wind speed on insect populations was also explored. Overall, this campaign demonstrated the efficacy of photonic sensors in gathering novel and extensive data for the field of entomology, paving the way for improved understanding and management of insect populations.},
+  volume = {13},
+  title = {Monitoring the abundance of flying insects and atmospheric conditions during a 9-month campaign using an entomological optical sensor},
+  number = {1},
+}
+
+@article{scaling-camera-traps,
+  author = {Steenweg, Robin and Hebblewhite, Mark and Kays, Roland and Ahumada, Jorge and Fisher, Jason T and Burton, Cole and Townsend, Susan E and Carbone, Chris and Rowcliffe, J Marcus and Whittington, Jesse and Brodie, Jedediah and Royle, J Andrew and Switalski, Adam and Clevenger, Anthony P and Heim, Nicole and Rich, Lindsey N},
+  doi = {https://doi.org/10.1002/fee.1448},
+  url = {https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1002/fee.1448},
+  eprint = {https://esajournals.onlinelibrary.wiley.com/doi/pdf/10.1002/fee.1448},
+  journal = {Frontiers in Ecology and the Environment},
+  pages = {26-34},
+  abstract = {Countries committed to implementing the Convention on Biological Diversity's 2011–2020 strategic plan need effective tools to monitor global trends in biodiversity. Remote cameras are a rapidly growing technology that has great potential to transform global monitoring for terrestrial biodiversity and can be an important contributor to the call for measuring Essential Biodiversity Variables. Recent advances in camera technology and methods enable researchers to estimate changes in abundance and distribution for entire communities of animals and to identify global drivers of biodiversity trends. We suggest that interconnected networks of remote cameras will soon monitor biodiversity at a global scale, help answer pressing ecological questions, and guide conservation policy. This global network will require greater collaboration among remote-camera studies and citizen scientists, including standardized metadata, shared protocols, and security measures to protect records about sensitive species. With modest investment in infrastructure, and continued innovation, synthesis, and collaboration, we envision a global network of remote cameras that not only provides real-time biodiversity data but also serves to connect people with nature.},
+  year = {2017},
+  volume = {15},
+  title = {Scaling-up camera traps: monitoring the planet's biodiversity with networks of remote sensors},
+  number = {1},
+}
+
+@article{dropout,
+  author = {Nitish Srivastava and Geoffrey Hinton and Alex Krizhevsky and Ilya Sutskever and Ruslan Salakhutdinov},
+  year = {2014},
+  pages = {1929--1958},
+  url = {http://jmlr.org/papers/v15/srivastava14a.html},
+  volume = {15},
+  title = {Dropout: A Simple Way to Prevent Neural Networks from Overfitting},
+  journal = {Journal of Machine Learning Research},
+  number = {56},
+}
+
+@inproceedings{adam,
+  author = {Kingma, Diederik and Ba, Jimmy},
+  year = {2015},
+  address = {San Diega, CA, USA},
+  optmonth = {12},
+  booktitle = {International Conference on Learning Representations (ICLR)},
+  title = {Adam: A Method for Stochastic Optimization},
+}
+
+@inproceedings{inaturalist,
+  author = {Van Horn, Grant and Mac Aodha, Oisin and Song, Yang and Cui, Yin and Sun, Chen and Shepard, Alex and Adam, Hartwig and Perona, Pietro and Belongie, Serge},
+  pages = {8769--8778},
+  year = {2018},
+  booktitle = {Proceedings of the IEEE conference on computer vision and pattern recognition},
+  title = {The inaturalist species classification and detection dataset},
+}
+
+@inproceedings{embedded-camera-trap-images,
+  author = {Cunha, Fagner and dos Santos, Eulanda M. and Barreto, Raimundo and Colonna, Juan G.},
+  year = {2021},
+  pages = {2438-2446},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+  title = {Filtering Empty Camera Trap Images in Embedded Systems},
+  month = {June},
+}
+
+@misc{visualwakewords,
+  author = {Aakanksha Chowdhery and Pete Warden and Jonathon Shlens and Andrew Howard and Rocky Rhodes},
+  year = {2019},
+  archiveprefix = {arXiv},
+  url = {https://arxiv.org/abs/1906.05721},
+  primaryclass = {cs.CV},
+  eprint = {1906.05721},
+  title = {Visual Wake Words Dataset},
+}
+
+@article{tinyml,
+  author = {Kallimani, Rakhee and Pai, Krishna and Raghuwanshi, Prasoon and Iyer, Sridhar and L{\'o},
+  pages = {29015--29045},
+  year = {2024},
+  publisher = {Springer},
+  volume = {83},
+  title = {TinyML: Tools, applications, challenges, and future research directions},
+  journal = {Multimedia Tools and Applications},
+  number = {10},
+}
+
+@inproceedings{gebauer2024towards,
+  author = {Gebauer, Eike and Thiele, Sebastian and Ouvrard, Pierre and Sicard, Adrien and Risse, Benjamin},
+  pages = {7157--7166},
+  year = {2024},
+  booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+  title = {Towards a Dynamic Vision Sensor-based Insect Camera Trap},
+}
+
+@article{buzzometer,
+  author = {Volponi, Paolo and Dapporto, Leonardo and Skowron Volponi, Marta},
+  doi = {https://doi.org/10.1111/2041-210X.14224},
+  url = {https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.14224},
+  eprint = {https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/2041-210X.14224},
+  journal = {Methods in Ecology and Evolution},
+  pages = {2985-2993},
+  abstract = {Abstract The role of sounds produced by free-flying insects is challenging to research due to technical difficulties in obtaining audio recordings suitable for playback experiments. Experimental studies using flight sounds are needed to understand if buzzes carry information and by whom it is perceived. We developed the ‘buzzOmeter system’ for recording untethered, flying insects in their habitat, followed by file processing that allows precise measurements of acoustic parameters, including those dependent on the distance of the sound source from the microphone, that is signal magnitude measurements. The system consists of commercially available elements and open source software. We provide a practical guide for the assembly and use of two alternative setups of the buzzOmeter system, followed by a video tutorial on file processing and an R script for the assignment of audio recordings to the corresponding species based on mixture discriminant analysis. Recordings of nine insect species (bees, wasps and lepidopterans) obtained with the use of our system in various habitats demonstrate its feasibility for field studies. Diverse species interactions are based on sound, and our new tool can aid researchers studying acoustical signalling in predator–prey, pollinator-plant and mimic-model complexes, among others.},
+  year = {2023},
+  volume = {14},
+  title = {The buzzOmeter system: In situ audio recordings of pollinators in flight},
+  keywords = {audio, buzz, flight, insect bioacoustics, pollinators, predator–prey interactions, sound, wingbeat frequency},
+  number = {12},
+}
+
+@article{standard-ai-insect,
+  author = {Roy, D. B.  and Alison, J.  and August, T. A.  and Bélisle, M.  and Bjerge, K.  and Bowden, J. J.  and Bunsen, M. J.  and Cunha, F.  and Geissmann, Q.  and Goldmann, K.  and Gomez-Segura, A.  and Jain, A.  and Huijbers, C.  and Larrivée, M.  and Lawson, J. L.  and Mann, H. M.  and Mazerolle, M. J.  and McFarland, K. P.  and Pasi, L.  and Peters, S.  and Pinoy, N.  and Rolnick, D.  and Skinner, G. L.  and Strickson, O. T.  and Svenning, A.  and Teagle, S.  and Høye, T. T.},
+  title = {Towards a standardized framework for AI-assisted, image-based monitoring of nocturnal insects},
+  journal = {Philosophical Transactions of the Royal Society B: Biological Sciences},
+  volume = {379},
+  number = {1904},
+  pages = {20230108},
+  year = {2024},
+  doi = {10.1098/rstb.2023.0108},
+  url = {https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2023.0108},
+  eprint = {https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2023.0108},
+  abstract = {Automated sensors have potential to standardize and expand the monitoring of insects across the globe. As one of the most scalable and fastest developing sensor technologies, we describe a framework for automated, image-based monitoring of nocturnal insects—from sensor development and field deployment to workflows for data processing and publishing. Sensors comprise a light to attract insects, a camera for collecting images and a computer for scheduling, data storage and processing. Metadata is important to describe sampling schedules that balance the capture of relevant ecological information against power and data storage limitations. Large data volumes of images from automated systems necessitate scalable and effective data processing. We describe computer vision approaches for the detection, tracking and classification of insects, including models built from existing aggregations of labelled insect images. Data from automated camera systems necessitate approaches that account for inherent biases. We advocate models that explicitly correct for bias in species occurrence or abundance estimates resulting from the imperfect detection of species or individuals present during sampling occasions. We propose ten priorities towards a step-change in automated monitoring of nocturnal insects, a vital task in the face of rapid biodiversity loss from global threats. This article is part of the theme issue ‘Towards a toolkit for global insect biodiversity monitoring’.},
+}
+
+@article{pict,
+  author = {Droissart, Vincent and Azandi, Laura and Onguene, Eric Rostand and Savignac, Marie and Smith, Thomas B. and Deblauwe, Vincent},
+  doi = {https://doi.org/10.1111/2041-210X.13618},
+  url = {https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.13618},
+  eprint = {https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/2041-210X.13618},
+  journal = {Methods in Ecology and Evolution},
+  pages = {1389-1396},
+  abstract = {Abstract Commercial camera traps (CTs) commonly used in wildlife studies have several technical limitations that restrict their scope of application. They are not easily customizable, unit prices sharply increase with image quality and importantly, they are not designed to record the activity of ectotherms such as insects. Those developed for the study of plant–insect interactions are yet to be widely adopted as they rely on expensive and heavy equipment. We developed PICT (plant–insect interactions camera trap), an inexpensive (<100 USD) do-it-yourself CT system based on a Raspberry Pi Zero computer designed to continuously film animal activity. The system is particularly well suited for the study of pollination, insect behaviour and predator–prey interactions. The focus distance can be manually adjusted to under 5cm. In low light conditions, a near-infrared light automatically illuminates the subject. Frame rate, resolution and video compression levels can be set by the user. The system can be remotely controlled using either a smartphone, tablet or laptop via the onboard Wi-Fi. PICT can record up to 72-hr day and night videos at >720p resolution with a 110-Wh power bank (30,000 mAh). Its ultra-portable (<1 kg) waterproof design and modular architecture is practical in diverse field settings. We provide an illustrated technical guide detailing the steps involved in building and operating a PICT and for video post-processing. We successfully field-tested PICT in a Central African rainforest in two contrasting research settings: an insect pollinator survey in the canopy of the African ebony Diospyros crassiflora and the observation of rare pollination events of an epiphytic orchid Cyrtorchis letouzeyi. PICT overcomes many of the limitations commonly associated with CT systems designed to monitor ectotherms. Increased portability and image quality at lower costs allow for large-scale deployment and the acquisition of novel insights into the reproductive biology of plants and their interactions with difficult to observe animals. ​},
+  year = {2021},
+  volume = {12},
+  title = {PICT: A low-cost, modular, open-source camera trap system to study plant–insect interactions},
+  keywords = {behavioural ecology, digital video recording, DIY camera trap, e-ecology, low-cost technology, plant–insect interaction, pollination biology, Raspberry Pi},
+  number = {8},
+}
+
+@article{amt,
+  author = {Bjerge, Kim and Nielsen, Jakob Bonde and Sepstrup, Martin Videbæk and Helsing-Nielsen, Flemming and Høye, Toke Thomas},
+  doi = {10.3390/s21020343},
+  url = {https://www.mdpi.com/1424-8220/21/2/343},
+  issn = {1424-8220},
+  journal = {Sensors},
+  abstract = {Insect monitoring methods are typically very time-consuming and involve substantial investment in species identification following manual trapping in the field. Insect traps are often only serviced weekly, resulting in low temporal resolution of the monitoring data, which hampers the ecological interpretation. This paper presents a portable computer vision system capable of attracting and detecting live insects. More specifically, the paper proposes detection and classification of species by recording images of live individuals attracted to a light trap. An Automated Moth Trap (AMT) with multiple light sources and a camera was designed to attract and monitor live insects during twilight and night hours. A computer vision algorithm referred to as Moth Classification and Counting (MCC), based on deep learning analysis of the captured images, tracked and counted the number of insects and identified moth species. Observations over 48 nights resulted in the capture of more than 250,000 images with an average of 5675 images per night. A customized convolutional neural network was trained on 2000 labeled images of live moths represented by eight different classes, achieving a high validation F1-score of 0.93. The algorithm measured an average classification and tracking F1-score of 0.71 and a tracking detection rate of 0.79. Overall, the proposed computer vision system and algorithm showed promising results as a low-cost solution for non-destructive and automatic monitoring of moths.},
+  year = {2021},
+  pubmedid = {33419136},
+  volume = {21},
+  title = {An Automated Light Trap to Monitor Moths (Lepidoptera) Using Computer Vision-Based Tracking and Deep Learning},
+  number = {343},
+}
+
+@article{Insect-detect,
+  author = {Sittinger, Maximilian AND Uhler, Johannes AND Pink, Maximilian AND Herz, Annette},
+  doi = {10.1371/journal.pone.0295474},
+  url = {https://doi.org/10.1371/journal.pone.0295474},
+  journal = {PLOS ONE},
+  publisher = {Public Library of Science},
+  year = {2024},
+  pages = {1-28},
+  abstract = {Insect monitoring is essential to design effective conservation strategies, which are indispensable to mitigate worldwide declines and biodiversity loss. For this purpose, traditional monitoring methods are widely established and can provide data with a high taxonomic resolution. However, processing of captured insect samples is often time-consuming and expensive, which limits the number of potential replicates. Automated monitoring methods can facilitate data collection at a higher spatiotemporal resolution with a comparatively lower effort and cost. Here, we present the Insect Detect DIY (do-it-yourself) camera trap for non-invasive automated monitoring of flower-visiting insects, which is based on low-cost off-the-shelf hardware components combined with open-source software. Custom trained deep learning models detect and track insects landing on an artificial flower platform in real time on-device and subsequently classify the cropped detections on a local computer. Field deployment of the solar-powered camera trap confirmed its resistance to high temperatures and humidity, which enables autonomous deployment during a whole season. On-device detection and tracking can estimate insect activity/abundance after metadata post-processing. Our insect classification model achieved a high top-1 accuracy on the test dataset and generalized well on a real-world dataset with captured insect images. The camera trap design and open-source software are highly customizable and can be adapted to different use cases. With custom trained detection and classification models, as well as accessible software programming, many possible applications surpassing our proposed deployment method can be realized.},
+  volume = {19},
+  title = {Insect detect: An open-source DIY camera trap for automated insect monitoring},
+  month = {04},
+  number = {4},
+}
+
+@article{ecostack,
+  author = {Bjerge, Kim AND Alison, Jamie AND Dyrmann, Mads AND Frigaard, Carsten Eie AND Mann, Hjalte M. R. AND Høye, Toke Thomas},
+  doi = {10.1371/journal.pstr.0000051},
+  url = {https://doi.org/10.1371/journal.pstr.0000051},
+  journal = {PLOS Sustainability and Transformation},
+  publisher = {Public Library of Science},
+  year = {2023},
+  pages = {1-18},
+  abstract = {Reported insect declines have dramatically increased the global demand for standardized insect monitoring data. Image-based monitoring can generate such data cost-efficiently and non-invasively. However, extracting ecological data from images is more challenging for insects than for vertebrates because of their small size and great diversity. Deep learning facilitates fast and accurate insect detection and identification, but the lack of training data for coveted deep learning models is a major obstacle for their application. We present a large annotated image dataset of functionally important insect taxa. The primary dataset consists of 29,960 annotated insects representing nine taxa including bees, hoverflies, butterflies and beetles across more than two million images recorded with ten time-lapse cameras mounted over flowers during the summer of 2019. The insect image dataset was extracted using an iterative approach: First, a preliminary detection model identified candidate insects. Second, candidate insects were manually screened by users of an online citizen science platform. Finally, all annotations were quality checked by experts. We used the dataset to train and compare the performance of selected You Only Look Once (YOLO) deep learning algorithms. We show that these models detect and classify small insects in complex scenes with unprecedented accuracy. The best performing YOLOv5 model consistently identifies nine dominant insect species that play important roles in pollination and pest control across Europe. The model reached an average precision of 92.7% and recall of 93.8% in detection and classification across species. Importantly, when presented with uncommon or unclear insects not seen during training, our model detects 80% of individuals and usually interprets them as closely related species. This is a useful property to (1) detect rare insects for which training data are absent, and (2) generate new training data to correctly identify those insects in future. Our camera system, dataset and deep learning framework show promising results in non-destructive monitoring of insects. Furthermore, resulting data are useful to quantify phenology, abundance, and foraging behaviour of flower-visiting insects. Above all, this dataset represents a critical first benchmark for future development and evaluation of deep learning models for insect detection and identification.},
+  volume = {2},
+  title = {Accurate detection and identification of insects from camera trap images with deep learning},
+  month = {03},
+  number = {3},
+}
+
+@article{darras,
+  author = {Darras, Kevin F. A. and Balle, Marcel and Xu, Wenxiu and Yan, Yang and Zakka, Vincent G. and Toledo-Hernández, Manuel and Sheng, Dong and Lin, Wei and Zhang, Boyu and Lan, Zhenzhong and Fupeng, Li and Wanger, Thomas C.},
+  title = {Eyes on nature: Embedded vision cameras for terrestrial biodiversity monitoring},
+  journal = {Methods in Ecology and Evolution},
+  volume = {15},
+  number = {12},
+  pages = {2262-2275},
+  keywords = {biodiversity monitoring, camera trap, edge computing, embedded vision},
+  doi = {https://doi.org/10.1111/2041-210X.14436},
+  url = {https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.14436},
+  eprint = {https://besjournals.onlinelibrary.wiley.com/doi/pdf/10.1111/2041-210X.14436},
+  year = {2024},
+}
+
+@article{bjerge-jetson,
+  author = {Bjerge, Kim and Mann, Hjalte M. R. and Høye, Toke Thomas},
+  title = {Real-time insect tracking and monitoring with computer vision and deep learning},
+  journal = {Remote Sensing in Ecology and Conservation},
+  volume = {8},
+  number = {3},
+  pages = {315-327},
+  keywords = {Computer vision, deep learning, insects, pollinators, real-time, tracking},
+  doi = {https://doi.org/10.1002/rse2.245},
+  url = {https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1002/rse2.245},
+  eprint = {https://zslpublications.onlinelibrary.wiley.com/doi/pdf/10.1002/rse2.245},
+  year = {2022},
+}
+
+@article{ethics-lethal,
+  title = {Ethical issues in lethal insect monitoring},
+  journal = {Current Opinion in Insect Science},
+  volume = {66},
+  pages = {101279},
+  year = {2024},
+  issn = {2214-5745},
+  doi = {https://doi.org/10.1016/j.cois.2024.101279},
+  url = {https://www.sciencedirect.com/science/article/pii/S2214574524001214},
+  author = {Meghan Barrett and Bob Fischer},
+}

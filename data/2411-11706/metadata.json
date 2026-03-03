@@ -1,0 +1,26 @@
+{
+  "title": "MC-LLaVA: Multi-Concept Personalized Vision-Language Model",
+  "authors": [
+    "Ruichuan An",
+    "Sihan Yang",
+    "Ming Lu",
+    "Renrui Zhang",
+    "Kai Zeng",
+    "Yulin Luo",
+    "Jiajun Cao",
+    "Hao Liang",
+    "Ying Chen",
+    "Qi She",
+    "Shanghang Zhang",
+    "Wentao Zhang"
+  ],
+  "summary": "Current vision-language models (VLMs) show exceptional abilities across diverse tasks, such as visual question answering. To enhance user experience, recent studies investigate VLM personalization to understand user-provided concepts. However, they mainly focus on single-concept personalization, neglecting the existence and interplay of multiple concepts, which limits real-world applicability. This paper proposes the first multi-concept personalization paradigm, MC-LLaVA. Specifically, MC-LLaVA employs a multi-concept instruction tuning strategy, effectively integrating multiple concepts in a single training step. To reduce the costs related to joint training, we propose a personalized textual prompt that uses visual token information to initialize concept tokens. Additionally, we introduce a personalized visual prompt during inference, aggregating location confidence maps for enhanced recognition and grounding capabilities. To advance multi-concept personalization research, we further contribute a high-quality instruction tuning dataset. We carefully collect images with multiple characters and objects from movies and manually generate question-answer samples for multi-concept scenarios, featuring superior diversity. Comprehensive qualitative and quantitative experiments demonstrate that MC-LLaVA can achieve impressive multi-concept personalized responses, paving the way for VLMs to become better user-specific assistants. The code and dataset will be publicly available at https://github.com/arctanxarc/MC-LLaVA.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-12-05",
+    "2025-03-26"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI"
+}

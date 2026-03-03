@@ -1,0 +1,15 @@
+{
+  "title": "An efficient fifth-order interpolation-based Hermite WENO scheme for hyperbolic conservation laws",
+  "authors": [
+    "Xiaoyang Xie",
+    "Zhanjing Tao",
+    "Chunhai Jiao",
+    "Min Zhang"
+  ],
+  "summary": "In this paper, we develop a simple, efficient, and fifth-order finite difference interpolation-based Hermite WENO (HWENO-I) scheme for one- and two-dimensional hyperbolic conservation laws. We directly interpolate the solution and first-order derivative values and evaluate the numerical fluxes based on these interpolated values. We do not need the split of the flux functions when reconstructing numerical fluxes and there is no need for any additional HWENO interpolation for the modified derivative. The HWENO interpolation only needs to be applied one time which utilizes the same candidate stencils, Hermite interpolation polynomials, and linear/nonlinear weights for the solution and first-order derivative at the cell interface, as well as the modified derivative at the cell center. The HWENO-I scheme inherits the advantages of the finite difference flux-reconstruction-based HWENO-R scheme [Fan et al., Comput. Methods Appl. Mech. Engrg., 2023], including fifth-order accuracy, compact stencils, arbitrary positive linear weights, and high resolution. The HWENO-I scheme is simpler and more efficient than the HWENO-R scheme and the previous finite difference interpolation-based HWENO scheme [Liu and Qiu, J. Sci. Comput., 2016] which needs the split of flux functions for the stability and upwind performance for the high-order derivative terms. Various benchmark numerical examples are presented to demonstrate the accuracy, efficiency, high resolution, and robustness of the proposed HWENO-I scheme.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

@@ -1,0 +1,342 @@
+{
+  "2403-07221": {
+    "title": "LookupFFN: Making Transformers Compute-lite for CPU inference",
+    "authors": [
+      "Zhanpeng Zeng",
+      "Michael Davies",
+      "Pranav Pulijala",
+      "Karthikeyan Sankaralingam",
+      "Vikas Singh"
+    ],
+    "publication_date": "2024-03-12",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "0e5fa7f688540257c57298d020c919add04b304d",
+    "corpus_id": 260870151,
+    "category": "Computer Science"
+  },
+  "2402-09360": {
+    "title": "HiRE: High Recall Approximate Top-k Estimation for Efficient LLM Inference",
+    "authors": [
+      "Yashas Samaga",
+      "Varun Yerram",
+      "Chong You",
+      "Srinadh Bhojanapalli",
+      "Sanjiv Kumar",
+      "Prateek Jain",
+      "Praneeth Netrapalli"
+    ],
+    "publication_date": "2024-02-14",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "91ce2245d50c91c3bc5d9310d264982a184e965e",
+    "corpus_id": 267657774,
+    "category": "Computer Science"
+  },
+  "2310-06825": {
+    "title": "Mistral 7B",
+    "authors": [
+      "Albert Qiaochu Jiang",
+      "Alexandre Sablayrolles",
+      "A. Mensch",
+      "Chris Bamford",
+      "Devendra Singh Chaplot",
+      "Diego de Las Casas",
+      "Florian Bressand",
+      "Gianna Lengyel",
+      "Guillaume Lample",
+      "Lucile Saulnier",
+      "Lélio Renard Lavaud",
+      "M. Lachaux",
+      "Pierre Stock",
+      "Teven Le Scao",
+      "Thibaut Lavril",
+      "Thomas Wang",
+      "Timothée Lacroix",
+      "William El Sayed"
+    ],
+    "publication_date": "2023-10-10",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "db633c6b1c286c0386f0078d8a2e6224e03a6227",
+    "corpus_id": 263830494,
+    "category": "Computer Science"
+  },
+  "2309-06626": {
+    "title": "Accelerating Deep Neural Networks via Semi-Structured Activation Sparsity",
+    "authors": [
+      "Matteo Grimaldi",
+      "Darshan C. Ganji",
+      "Ivan Lazarevich",
+      "Sudhakar Sah"
+    ],
+    "publication_date": "2023-09-12",
+    "venue": "2023 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)",
+    "semantic_scholar_id": "3ef884a4fe704985e91fb7711432a1043a037253",
+    "corpus_id": 261705612,
+    "category": "Computer Science"
+  },
+  "2304-01373": {
+    "title": "Pythia: A Suite for Analyzing Large Language Models Across Training and Scaling",
+    "authors": [
+      "Stella Biderman",
+      "Hailey Schoelkopf",
+      "Quentin Anthony",
+      "Herbie Bradley",
+      "Kyle O'Brien",
+      "Eric Hallahan",
+      "Mohammad Aflah Khan",
+      "Shivanshu Purohit",
+      "USVSN Sai Prashanth",
+      "Edward Raff",
+      "Aviya Skowron",
+      "Lintang Sutawika",
+      "Oskar van der Wal"
+    ],
+    "publication_date": "2023-04-03",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "be55e8ec4213868db08f2c3168ae666001bea4b8",
+    "corpus_id": 257921893,
+    "category": "Computer Science"
+  },
+  "2205-14135": {
+    "title": "FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness",
+    "authors": [
+      "Tri Dao",
+      "Daniel Y. Fu",
+      "Stefano Ermon",
+      "A. Rudra",
+      "Christopher R'e"
+    ],
+    "publication_date": "2022-05-27",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "87c5b281fa43e6f27191b20a8dd694eda1126336",
+    "corpus_id": 249151871,
+    "category": "Computer Science"
+  },
+  "2202-08791": {
+    "title": "cosFormer: Rethinking Softmax in Attention",
+    "authors": [
+      "Zhen Qin",
+      "Weixuan Sun",
+      "Huicai Deng",
+      "Dongxu Li",
+      "Yunshen Wei",
+      "Baohong Lv",
+      "Junjie Yan",
+      "Lingpeng Kong",
+      "Yiran Zhong"
+    ],
+    "publication_date": "2022-02-17",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "c49ac1f916d6d2edeb187e6619c8d23acd95eb21",
+    "corpus_id": 246904340,
+    "category": "Computer Science"
+  },
+  "2111-09714": {
+    "title": "You Only Sample (Almost) Once: Linear Cost Self-Attention Via Bernoulli Sampling",
+    "authors": [
+      "Zhanpeng Zeng",
+      "Yunyang Xiong",
+      "Sathya Ravi",
+      "Shailesh Acharya",
+      "G. Fung",
+      "Vikas Singh"
+    ],
+    "publication_date": "2021-11-18",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "f10d9715c1b5e2f07ef5c32fa3231358bdda94b4",
+    "corpus_id": 235826270,
+    "category": "Computer Science"
+  },
+  "2101-00027": {
+    "title": "The Pile: An 800GB Dataset of Diverse Text for Language Modeling",
+    "authors": [
+      "Leo Gao",
+      "Stella Biderman",
+      "Sid Black",
+      "Laurence Golding",
+      "Travis Hoppe",
+      "Charles Foster",
+      "Jason Phang",
+      "Horace He",
+      "Anish Thite",
+      "Noa Nabeshima",
+      "Shawn Presser",
+      "Connor Leahy"
+    ],
+    "publication_date": "2020-12-31",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "db1afe3b3cd4cd90e41fbba65d3075dd5aebb61e",
+    "corpus_id": 230435736,
+    "category": "Computer Science"
+  },
+  "2009-14794": {
+    "title": "Rethinking Attention with Performers",
+    "authors": [
+      "K. Choromanski",
+      "Valerii Likhosherstov",
+      "David Dohan",
+      "Xingyou Song",
+      "Andreea Gane",
+      "Tamás Sarlós",
+      "Peter Hawkins",
+      "Jared Davis",
+      "Afroz Mohiuddin",
+      "Lukasz Kaiser",
+      "David Belanger",
+      "Lucy J. Colwell",
+      "Adrian Weller"
+    ],
+    "publication_date": "2020-09-30",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "3fbf6339273c50b04e886fa9bd4ad18c952a683d",
+    "corpus_id": 222067132,
+    "category": "Computer Science, Mathematics"
+  },
+  "2010-15875": {
+    "title": "Retrieve, Program, Repeat: Complex Knowledge Base Question Answering via Alternate Meta-learning",
+    "authors": [
+      "Jian Liu",
+      "Leyang Cui",
+      "Hanmeng Liu",
+      "Dandan Huang",
+      "Yile Wang",
+      "Yue Zhang"
+    ],
+    "publication_date": "2020-07-01",
+    "venue": "International Joint Conference on Artificial Intelligence",
+    "semantic_scholar_id": "a942cc84412d6a52adab325909b52296c017df48",
+    "corpus_id": 220483148,
+    "category": "Computer Science"
+  },
+  "2006-16236": {
+    "title": "Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention",
+    "authors": [
+      "Angelos Katharopoulos",
+      "Apoorv Vyas",
+      "Nikolaos Pappas",
+      "Franccois Fleuret"
+    ],
+    "publication_date": "2020-06-29",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "6f68e1bb253925d8431588555d3010419f322e04",
+    "corpus_id": 220250819,
+    "category": "Computer Science, Mathematics"
+  },
+  "2006-04768": {
+    "title": "Linformer: Self-Attention with Linear Complexity",
+    "authors": [
+      "Sinong Wang",
+      "Belinda Z. Li",
+      "Madian Khabsa",
+      "Han Fang",
+      "Hao Ma"
+    ],
+    "publication_date": "2020-06-08",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "c0b79e6a5fd88ef13aa4780df5aae0aaa6b2be87",
+    "corpus_id": 219530577,
+    "category": "Computer Science, Mathematics"
+  },
+  "2001-04451": {
+    "title": "Reformer: The Efficient Transformer",
+    "authors": [
+      "Nikita Kitaev",
+      "Lukasz Kaiser",
+      "Anselm Levskaya"
+    ],
+    "publication_date": "2020-01-13",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "055fd6a9f7293269f1b22c1470e63bd02d8d9500",
+    "corpus_id": 209315300,
+    "category": "Computer Science, Mathematics"
+  },
+  "1911-11641": {
+    "title": "PIQA: Reasoning about Physical Commonsense in Natural Language",
+    "authors": [
+      "Yonatan Bisk",
+      "Rowan Zellers",
+      "Ronan Le Bras",
+      "Jianfeng Gao",
+      "Yejin Choi"
+    ],
+    "publication_date": "2019-11-26",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "04f4e55e14150b7c48b0287ba77c7443df76ed45",
+    "corpus_id": 208290939,
+    "category": "Computer Science"
+  },
+  "1903-03129": {
+    "title": "SLIDE : In Defense of Smart Algorithms over Hardware Acceleration for Large-Scale Deep Learning Systems",
+    "authors": [
+      "Beidi Chen",
+      "Tharun Medini",
+      "Anshumali Shrivastava"
+    ],
+    "publication_date": "2019-03-07",
+    "venue": "Conference on Machine Learning and Systems",
+    "semantic_scholar_id": "71a906c1dca08af227d7311c2018932ea616bffa",
+    "corpus_id": 72941083,
+    "category": "Computer Science"
+  },
+  "1803-05457": {
+    "title": "Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge",
+    "authors": [
+      "Peter Clark",
+      "Isaac Cowhey",
+      "Oren Etzioni",
+      "Tushar Khot",
+      "Ashish Sabharwal",
+      "Carissa Schoenick",
+      "Oyvind Tafjord"
+    ],
+    "publication_date": "2018-03-14",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "88bb0a28bb58d847183ec505dda89b63771bb495",
+    "corpus_id": 3922816,
+    "category": "Computer Science"
+  },
+  "1706-03762": {
+    "title": "Attention is All you Need",
+    "authors": [
+      "Ashish Vaswani",
+      "Noam M. Shazeer",
+      "Niki Parmar",
+      "Jakob Uszkoreit",
+      "Llion Jones",
+      "Aidan N. Gomez",
+      "Lukasz Kaiser",
+      "I. Polosukhin"
+    ],
+    "publication_date": "2017-06-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+    "corpus_id": 13756489,
+    "category": "Computer Science"
+  },
+  "1411-4199": {
+    "title": "Revisiting kernelized locality-sensitive hashing for improved large-scale image retrieval",
+    "authors": [
+      "Ke Jiang",
+      "Qichao Que",
+      "Brian Kulis"
+    ],
+    "publication_date": "2014-11-15",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "5f39c3c8de4867b377e3703c46336829c96e879d",
+    "corpus_id": 15640036,
+    "category": "Computer Science, Mathematics"
+  },
+  "1306-1547": {
+    "title": "Beyond Locality-Sensitive Hashing",
+    "authors": [
+      "Alexandr Andoni",
+      "P. Indyk",
+      "Huy L. Nguyen",
+      "Ilya P. Razenshteyn"
+    ],
+    "publication_date": "2013-06-06",
+    "venue": "ACM-SIAM Symposium on Discrete Algorithms",
+    "semantic_scholar_id": "51bcfe9229cf4cce00b86f3b857ffebef7adcfa2",
+    "corpus_id": 1234761,
+    "category": "Mathematics, Computer Science"
+  }
+}

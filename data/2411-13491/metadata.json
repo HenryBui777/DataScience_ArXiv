@@ -1,0 +1,21 @@
+{
+  "title": "Neural machine translation of seismic waves for petrophysical inversion",
+  "authors": [
+    "José Cunha Teixeira",
+    "Ludovic Bodet",
+    "Agnès Rivière",
+    "Santiago G. Solazzi",
+    "Amélie Hallier",
+    "Alexandrine Gesret",
+    "Sanae El Janyani",
+    "Marine Dangeard",
+    "Amine Dhemaied",
+    "Joséphine Boisson Gaboriau"
+  ],
+  "summary": "Effective structural assessment of urban infrastructure is essential for sustainable land use and resilience to climate change and natural hazards. Seismic wave methods are widely applied in these areas for subsurface characterization and monitoring, yet they often rely on time-consuming inversion techniques that fall short in delivering comprehensive geological, hydrogeological, and geomechanical descriptions. Here, we explore the effectiveness of a passive seismic approach coupled with artificial intelligence (AI) for monitoring geological structures and hydrogeological conditions in the context of sinkhole hazard assessment. We introduce a deterministic petrophysical inversion technique based on a language model that decodes seismic wave velocity measurements to infer soil petrophysical and mechanical parameters as textual descriptions. Results successfully delineate 3D subsurface structures with their respective soil nature and mechanical characteristics, while accurately predicting daily water table levels. Validation demonstrates high accuracy, with a normalized root mean square error of 8%, closely rivaling with conventional stochastic seismic inversion methods, while delivering broader insights into subsurface conditions 2,000 times faster. These findings underscore the potential of advanced AI techniques to significantly enhance subsurface characterization across diverse scales, supporting decision-making for natural hazard mitigation.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.geo-ph"
+}

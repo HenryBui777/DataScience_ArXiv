@@ -1,0 +1,13 @@
+{
+  "title": "Generalized Ping-Pong: Off-Chip Memory Bandwidth Centric Pipelining Strategy for Processing-In-Memory Accelerators",
+  "authors": [
+    "Ruibao Wang",
+    "Bonan Yan"
+  ],
+  "summary": "Processing-in-memory (PIM) is a promising choice for accelerating deep neural networks (DNNs) featuring high efficiency and low power. However, the rapid upscaling of neural network model sizes poses a crucial challenge for the limited on-chip PIM capacity. When the PIM presumption of \"pre-loading DNN weights/parameters only once before repetitive computing\" is no longer practical, concurrent writing and computing techniques become necessary for PIM. Conventional methods of naive ping-pong or in~situ concurrent write/compute scheduling for PIM cause low utilization of off-chip memory bandwidth, subsequently offsetting the efficiency gain brought by PIM technology. To address this challenge, we propose an off-chip memory bandwidth centric pipelining strategy, named \"generalized ping-pong\", to maximize the utilization and performance of PIM accelerators toward large DNN models. The core idea of the proposed generalized ping-pong strategy is to evenly distribute the active time and fully utilize the off-chip memory bandwidth. Based on a programmable and scalable SRAM PIM architecture, we quantitatively analyze and compare the generalized ping-pong with the conventional scheduling strategies of naive ping-pong and in-situ write/compute for PIM. Experiments show that the generalized ping-pong strategy achieves acceleration of over 1.67 times when fully utilizing the off-chip memory bandwidth. When further limiting the off-chip memory bandwidth ranging in 8~256 bytes per clock cycle, the proposed generalized ping-pong strategy accelerates 1.22~7.71 times versus naive ping-pong. The developed PIM accelerator design with the generalized ping-poing strategy is open-sourced at https://github.com/rw999creator/gpp-pim.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AR"
+}

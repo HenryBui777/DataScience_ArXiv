@@ -1,0 +1,17 @@
+{
+  "title": "A Novel Speech Analysis and Correction Tool for Arabic-Speaking Children",
+  "authors": [
+    "Lamia Berriche",
+    "Maha Driss",
+    "Areej Ahmed Almuntashri",
+    "Asma Mufreh Lghabi",
+    "Heba Saleh Almudhi",
+    "Munerah Abdul-Aziz Almansour"
+  ],
+  "summary": "This paper introduces a new application named ArPA for Arabic kids who have trouble with pronunciation. Our application comprises two key components: the diagnostic module and the therapeutic module. The diagnostic process involves capturing the child's speech signal, preprocessing, and analyzing it using different machine learning classifiers like K-Nearest Neighbors (KNN), Support Vector Machine (SVM), and Decision Trees as well as deep neural network classifiers like ResNet18. The therapeutic module offers eye-catching gamified interfaces in which each correctly spoken letter earns a higher avatar level, providing positive reinforcement for the child's pronunciation improvement. Two datasets were used for experimental evaluation: one from a childcare centre and the other including Arabic alphabet pronunciation recordings. Our work uses a novel technique for speech recognition using Melspectrogram and MFCC images. The results show that the ResNet18 classifier on speech-to-image converted data effectively identifies mispronunciations in Arabic speech with an accuracy of 99.015\\% with Mel-Spectrogram images outperforming ResNet18 with MFCC images.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.SD, cs.AI"
+}

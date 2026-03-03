@@ -1,0 +1,16 @@
+{
+  "title": "A Python-Based Approach to Sputter Deposition Simulations in Combinatorial Materials Science",
+  "authors": [
+    "Felix Thelen",
+    "Rico Zehl",
+    "Jan Lukas Bürgel",
+    "Diederik Depla",
+    "Alfred Ludwig"
+  ],
+  "summary": "Magnetron sputtering is an essential technique in combinatorial materials science, enabling the efficient synthesis of thin-film materials libraries with continuous compositional gradients. For exploring multidimensional search spaces, minimizing preliminary experiments is essen-tial, as numerous materials libraries are required to adequately cover the space, making it crucial to fabricate only those libraries that are absolutely necessary. This can be achieved by Monte Carlo particle simulations to model the deposition profile, e.g. by SIMTRA, which is an established package mainly designed for single cathode simulations. A strong enhance-ment of its capabilities is the development of a Python-based wrapper, designed to simulate multi-cathode sputter processes through parallel Monte Carlo simulations. By modeling a sputter chamber and determining the relationship between deposition power and rate for an exemplary quaternary system Ni-Pd-Pt-Ru, we achieve a match between simulated and measured compositions, with a mean Euclidean distance of 3.5%. The object-oriented design of the package allows easy customization and enables the definition of complex sputter sys-tems. Due to parallelization, simulating multiple cathodes results in no additional simulation time. These additions extend the capabilities of SIMTRA making it applicable in combinatorial materials research.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cond-mat.mtrl-sci, physics.comp-ph"
+}

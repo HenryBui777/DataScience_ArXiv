@@ -1,0 +1,13 @@
+{
+  "title": "Accelerating Construction of Non-Intrusive Nonlinear Structural Dynamics Reduced Order Models through Hyperreduction",
+  "authors": [
+    "Alexander Saccani",
+    "Paolo Tiso"
+  ],
+  "summary": "We present a novel technique to significantly reduce the offline cost associated to non-intrusive nonlinear tensors identification in reduced order models (ROMs) of geometrically nonlinear, finite elements (FE)-discretized structural dynamics problems. The ROM is obtained by Galerkin-projection of the governing equations on a reduction basis (RB) of Vibration Modes (VMs) and Static Modal Derivatives (SMDs), resulting in reduced internal forces that are cubic polynomial in the reduced coordinates. The unknown coefficients of the nonlinear tensors associated with this polynomial representation are identified using a modified version of Enhanced Enforced Displacement (EED) method which leverages Energy Conserving Sampling and Weighting (ECSW) as hyperreduction technique for efficiency improvement. Specifically, ECSW is employed to accelerate the evaluations of the nonlinear reduced tangent stiffness matrix that are required within EED. Simulation-free training sets of forces for ECSW are obtained from displacements corresponding to quasi-random samples of a nonlinear second order static displacement manifold. The proposed approach is beneficial for the investigation of the dynamic response of structures subjected to acoustic loading, where multiple VMs must be added in the RB, resulting in expensive nonlinear tensor identification. Superiority of the novel method over standard EED is demonstrated on FE models of a shallow curved clamped panel and of a nine-bay aeronautical reinforced panel modelled, using the commercial finite element program Abaqus.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA, physics.comp-ph"
+}

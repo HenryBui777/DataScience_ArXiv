@@ -1,0 +1,17 @@
+{
+  "title": "Optimal Beamforming for Multi-User Continuous Aperture Array (CAPA) Systems",
+  "authors": [
+    "Zhaolin Wang",
+    "Chongjun Ouyang",
+    "Yuanwei Liu"
+  ],
+  "summary": "The optimal beamforming design for multi-user continuous aperture array (CAPA) systems is proposed. In contrast to conventional spatially discrete array (SPDA), the beamformer for CAPA is a continuous function rather than a discrete vector or matrix, rendering beamforming optimization a non-convex integral-based functional programming. To address this challenging issue, the closed-form optimal structure of the CAPA beamformer is first derived for maximizing generic system utility functions, by addressing the inversion of continuous functions and using the Lagrangian duality and the calculus of variations. The derived optimal structure is a linear combination of the continuous channel responses for CAPA, with the linear weights determined by the channel correlations. As a further advance, a monotonic optimization method is proposed for obtaining globally optimal CAPA beamforming based on the derived optimal structure. More particularly, a closed-form fixed-point iteration is proposed to obtain the globally optimal solution to the power minimization problem for CAPA beamforming. Furthermore, based on the optimal structure, the low-complexity maximum ratio transmission (MRT), zero-forcing (ZF), and minimum mean-squared error (MMSE) designs for CAPA beamforming are derived. It is theoretically proved that: 1) the MRT and ZF designs are asymptotically optimal in low and high signal-to-noise ratio (SNR) regimes, respectively, and 2) the MMSE design is optimal for signal-to-leakage-plus-noise ratio (SLNR) maximization. Our numerical results validate the effectiveness of the proposed designs and reveal that: i) CAPA achieves significant communication performance gain over SPDA, and ii) the MMSE design achieves nearly optimal performance in most cases, while the MRT and ZF designs achieve nearly optimal performance in specific cases",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-02-16",
+    "2025-02-18"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IT, eess.SP"
+}

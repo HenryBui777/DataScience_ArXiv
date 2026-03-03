@@ -1,0 +1,15 @@
+{
+  "title": "A $k^{\\frac{q}{q-2}}$ Lower Bound for Odd Query Locally Decodable Codes from Bipartite Kikuchi Graphs",
+  "authors": [
+    "Oliver Janzer",
+    "Peter Manohar"
+  ],
+  "summary": "A code $C \\colon \\{0,1\\}^k \\to \\{0,1\\}^n$ is a $q$-query locally decodable code ($q$-LDC) if one can recover any chosen bit $b_i$ of the message $b \\in \\{0,1\\}^k$ with good confidence by querying a corrupted string $\\tilde{x}$ of the codeword $x = C(b)$ in at most $q$ coordinates. For $2$ queries, the Hadamard code is a $2$-LDC of length $n = 2^k$, and this code is in fact essentially optimal. For $q \\geq 3$, there is a large gap in our understanding: the best constructions achieve $n = \\exp(k^{o(1)})$, while prior to the recent work of [AGKM23], the best lower bounds were $n \\geq \\tildeΩ(k^{\\frac{q}{q-2}})$ for $q$ even and $n \\geq \\tildeΩ(k^{\\frac{q+1}{q-1}})$ for $q$ odd.\n  The recent work of [AGKM23] used techniques from semirandom XOR refutation to prove a lower bound of $n \\geq \\tildeΩ(k^3)$ for $q = 3$, thus achieving the \"$k^{\\frac{q}{q-2}}$ bound\" for an odd value of $q$. However, their proof does not extend to any odd $q \\geq 5$. In this paper, we prove a $q$-LDC lower bound of $n \\geq \\tildeΩ(k^{\\frac{q}{q-2}})$ for any odd $q$. Our key technical idea is the use of an imbalanced bipartite Kikuchi graph, which gives a simpler method to analyze spectral refutations of odd arity XOR without using the standard \"Cauchy-Schwarz trick\", a trick that typically produces random matrices with nontrivially correlated entries and makes the analysis for odd arity XOR significantly more complicated than even arity XOR.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-08-25"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CC, cs.IT"
+}

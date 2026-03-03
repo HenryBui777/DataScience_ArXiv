@@ -1,0 +1,18 @@
+{
+  "title": "Performance evaluation of a ROS2 based Automated Driving System",
+  "authors": [
+    "Jorin Kouril",
+    "Bernd Schäufele",
+    "Ilja Radusch",
+    "Bettina Schnor"
+  ],
+  "summary": "Automated driving is currently a prominent area of scientific work. In the future, highly automated driving and new Advanced Driver Assistance Systems will become reality. While Advanced Driver Assistance Systems and automated driving functions for certain domains are already commercially available, ubiquitous automated driving in complex scenarios remains a subject of ongoing research. Contrarily to single-purpose Electronic Control Units, the software for automated driving is often executed on high performance PCs. The Robot Operating System 2 (ROS2) is commonly used to connect components in an automated driving system. Due to the time critical nature of automated driving systems, the performance of the framework is especially important. In this paper, a thorough performance evaluation of ROS2 is conducted, both in terms of timeliness and error rate. The results show that ROS2 is a suitable framework for automated driving systems.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-19",
+    "2025-10-28"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "sEMG-based Gesture-Free Hand Intention Recognition: System, Dataset, Toolbox, and Benchmark Results",
+  "authors": [
+    "Hongxin Li",
+    "Jingsheng Tang",
+    "Xuechao Xu",
+    "Wei Dai",
+    "Yaru Liu",
+    "Junhao Xiao",
+    "Huimin Lu",
+    "Zongtan Zhou"
+  ],
+  "summary": "In sensitive scenarios, such as meetings, negotiations, and team sports, messages must be conveyed without detection by non-collaborators. Previous methods, such as encrypting messages, eye contact, and micro-gestures, had problems with either inaccurate information transmission or leakage of interaction intentions. To this end, a novel gesture-free hand intention recognition scheme was proposed, that adopted surface electromyography(sEMG) and isometric contraction theory to recognize different hand intentions without any gesture. Specifically, this work includes four parts: (1) the experimental system, consisting of the upper computer software, self-conducted myoelectric watch, and sports platform, is built to get sEMG signals and simulate multiple usage scenarios; (2) the paradigm is designed to standard prompt and collect the gesture-free sEMG datasets. Eight-channel signals of ten subjects were recorded twice per subject at about 5-10 days intervals; (3) the toolbox integrates preprocessing methods (data segmentation, filter, normalization, etc.), commonly used sEMG signal decoding methods, and various plotting functions, to facilitate the research of the dataset; (4) the benchmark results of widely used methods are provided. The results involve single-day, cross-day, and cross-subject experiments of 6-class and 12-class gesture-free hand intention when subjects with different sports motions. To help future research, all data, hardware, software, and methods are open-sourced on the following website: click here.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.HC"
+}

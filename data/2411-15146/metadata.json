@@ -1,0 +1,15 @@
+{
+  "title": "TIMBRE: Efficient Job Recommendation On Heterogeneous Graphs For Professional Recruiters",
+  "authors": [
+    "Eric Behar",
+    "Julien Romero",
+    "Amel Bouzeghoub",
+    "Katarzyna Wegrzyn-Wolska"
+  ],
+  "summary": "Job recommendation gathers many challenges well-known in recommender systems. First, it suffers from the cold start problem, with the user (the candidate) and the item (the job) having a very limited lifespan. It makes the learning of good user and item representations hard. Second, the temporal aspect is crucial: We cannot recommend an item in the future or too much in the past. Therefore, using solely collaborative filtering barely works. Finally, it is essential to integrate information about the users and the items, as we cannot rely only on previous interactions. This paper proposes a temporal graph-based method for job recommendation: TIMBRE (Temporal Integrated Model for Better REcommendations). TIMBRE integrates user and item information into a heterogeneous graph. This graph is adapted to allow efficient temporal recommendation and evaluation, which is later done using a graph neural network. Finally, we evaluate our approach with recommender system metrics, rarely computed on graph-based recommender systems.",
+  "submission_date": "2024-11-06",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IR"
+}

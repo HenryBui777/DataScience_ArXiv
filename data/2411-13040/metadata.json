@@ -1,0 +1,17 @@
+{
+  "title": "RobustFormer: Noise-Robust Pre-training for images and videos",
+  "authors": [
+    "Ashish Bastola",
+    "Nishant Luitel",
+    "Hao Wang",
+    "Danda Pani Paudel",
+    "Roshani Poudel",
+    "Abolfazl Razi"
+  ],
+  "summary": "While deep learning models are powerful tools that revolutionized many areas, they are also vulnerable to noise as they rely heavily on learning patterns and features from the exact details of the clean data. Transformers, which have become the backbone of modern vision models, are no exception. Current Discrete Wavelet Transforms (DWT) based methods do not benefit from masked autoencoder (MAE) pre-training since the inverse DWT (iDWT) introduced in these approaches is computationally inefficient and lacks compatibility with video inputs in transformer architectures.\n  In this work, we present RobustFormer, a method that overcomes these limitations by enabling noise-robust pre-training for both images and videos; improving the efficiency of DWT-based methods by removing the need for computationally iDWT steps and simplifying the attention mechanism. To our knowledge, the proposed method is the first DWT-based method compatible with video inputs and masked pre-training. Our experiments show that MAE-based pre-training allows us to bypass the iDWT step, greatly reducing computation. Through extensive tests on benchmark datasets, RobustFormer achieves state-of-the-art results for both image and video tasks.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

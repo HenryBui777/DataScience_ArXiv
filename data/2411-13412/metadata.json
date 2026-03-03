@@ -1,0 +1,16 @@
+{
+  "title": "Complete Test Suites for Automata in Monoidal Closed Categories",
+  "authors": [
+    "Bálint Kocsis",
+    "Jurriaan Rot"
+  ],
+  "summary": "Conformance testing of automata is about checking the equivalence of a known specification and a black-box implementation. An important notion in conformance testing is that of a complete test suite, which guarantees that if an implementation satisfying certain conditions passes all tests, then it is equivalent to the specification.\n  We introduce a framework for proving completeness of test suites at the general level of automata in monoidal closed categories. Moreover, we provide a generalization of a classical conformance testing technique, the W-method. We demonstrate the applicability of our results by recovering the W-method for deterministic finite automata, Moore machines, and Mealy machines, and by deriving new instances of complete test suites for weighted automata and deterministic nominal automata.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-03-10",
+    "2025-03-17"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.FL, cs.LO"
+}

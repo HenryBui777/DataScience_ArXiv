@@ -1,0 +1,403 @@
+{
+  "partition": "train",
+  "groundtruth": {
+    "wang2022yolov7trainablebagoffreebiessets": "2207-02696",
+    "redmon2016yolo9000betterfasterstronger": "1612-08242",
+    "ge2021otaoptimaltransportassignment": "2103-14259",
+    "feng2021toodtaskalignedonestageobject": "2108-07755",
+    "xu2022ppyoloeevolvedversionyolo": "2203-16250",
+    "long2020ppyoloeffectiveefficientimplementation": "2007-12099",
+    "huang2021ppyolov2practicalobjectdetector": "2104-10419",
+    "nieradzik2023automating": "2307-09588",
+    "carion2020endtoendobjectdetectiontransformers": "2005-12872",
+    "zhang2022dinodetrimproveddenoising": "2203-03605",
+    "ouyangzhang2022nmsstrikes": "2212-06137",
+    "redmon2016lookonceunifiedrealtime": "1506-02640",
+    "redmon2018yolov3incrementalimprovement": "1804-02767",
+    "bochkovskiy2020yolov4optimalspeedaccuracy": "2004-10934",
+    "wang2021scaledyolov4scalingcrossstage": "2011-08036",
+    "li2022yolov6singlestageobjectdetection": "2209-02976",
+    "xu2023damoyoloreportrealtime": "2211-15444",
+    "wang2024yolov9learningwantlearn": "2402-13616",
+    "wang2024yolov10realtimeendtoendobject": "2405-14458",
+    "wang2019cspnetnewbackboneenhance": "1911-11929",
+    "zheng2021enhancinggeometricfactorsmodel": "2005-03572",
+    "zheng2019distanceioulossfasterbetter": "1911-08287",
+    "rezatofighi2019generalizedintersectionunionmetric": "1902-09630",
+    "ge2021yoloxexceedingyoloseries": "2107-08430",
+    "tian2019fcosfullyconvolutionalonestage": "1904-01355",
+    "simonyan2015deepconvolutionalnetworkslargescale": "1409-1556",
+    "liu2022convnet2020s": "2201-03545",
+    "he2015deepresiduallearningimage": "1512-03385",
+    "hu2019squeezeandexcitationnetworks": "1709-01507",
+    "ding2021repvggmakingvggstyleconvnets": "2101-03697",
+    "tan2020efficientnetrethinkingmodelscaling": "1905-11946",
+    "Qamar2024": "2401-16937"
+  },
+  "prediction": {
+    "wang2022yolov7trainablebagoffreebiessets": [
+      "2207-02696",
+      "2004-10934",
+      "2011-08036",
+      "2402-13616",
+      "1911-11929"
+    ],
+    "redmon2016yolo9000betterfasterstronger": [
+      "1612-08242",
+      "1804-02767",
+      "1506-02640",
+      "1709-01507",
+      "2405-14458"
+    ],
+    "ge2021otaoptimaltransportassignment": [
+      "2103-14259",
+      "2107-08430",
+      "2101-03697",
+      "1911-08287",
+      "1512-03385"
+    ],
+    "feng2021toodtaskalignedonestageobject": [
+      "2108-07755",
+      "1904-01355",
+      "2405-14458",
+      "2004-10934",
+      "2107-08430"
+    ],
+    "xu2022ppyoloeevolvedversionyolo": [
+      "2203-16250",
+      "2104-10419",
+      "2304-08069",
+      "2007-12099",
+      "2209-02976"
+    ],
+    "long2020ppyoloeffectiveefficientimplementation": [
+      "2007-12099",
+      "2405-14458",
+      "2304-08069",
+      "2203-16250",
+      "2104-10419"
+    ],
+    "huang2021ppyolov2practicalobjectdetector": [
+      "2104-10419",
+      "2203-16250",
+      "2304-08069",
+      "2405-14458",
+      "2007-12099"
+    ],
+    "10.1007/s11263-009-0275-4": [
+      "1409-1556",
+      "2405-14458",
+      "2101-03697",
+      "2005-12872",
+      "2011-08036"
+    ],
+    "nieradzik2023automating": [
+      "2307-09588",
+      "2304-08069",
+      "1409-1556",
+      "2207-02696",
+      "1905-11946"
+    ],
+    "carion2020endtoendobjectdetectiontransformers": [
+      "2005-12872",
+      "2405-14458",
+      "2203-03605",
+      "2108-07755",
+      "2007-12099"
+    ],
+    "zhao2024detrsbeatyolosrealtime": [
+      "2304-08069",
+      "2203-16250",
+      "2104-10419",
+      "2007-12099",
+      "2107-08430"
+    ],
+    "zhang2022dinodetrimproveddenoising": [
+      "2203-03605",
+      "2107-08430",
+      "2103-14259",
+      "2005-12872",
+      "2211-15444"
+    ],
+    "ouyangzhang2022nmsstrikes": [
+      "2212-06137",
+      "2209-02976",
+      "2201-03545",
+      "2203-16250",
+      "2211-15444"
+    ],
+    "redmon2016lookonceunifiedrealtime": [
+      "1506-02640",
+      "1612-08242",
+      "1804-02767",
+      "2304-08069",
+      "2004-10934"
+    ],
+    "redmon2018yolov3incrementalimprovement": [
+      "1804-02767",
+      "1612-08242",
+      "1506-02640",
+      "1405-0312",
+      "2203-16250"
+    ],
+    "bochkovskiy2020yolov4optimalspeedaccuracy": [
+      "2004-10934",
+      "2011-08036",
+      "2207-02696",
+      "2402-13616",
+      "1911-11929"
+    ],
+    "wang2021scaledyolov4scalingcrossstage": [
+      "2011-08036",
+      "2004-10934",
+      "2207-02696",
+      "2402-13616",
+      "1911-11929"
+    ],
+    "li2022yolov6singlestageobjectdetection": [
+      "2209-02976",
+      "2211-15444",
+      "2212-06137",
+      "2203-16250",
+      "2304-08069"
+    ],
+    "xu2023damoyoloreportrealtime": [
+      "2211-15444",
+      "2101-03697",
+      "1512-03385",
+      "2007-12099",
+      "2209-02976"
+    ],
+    "wang2024yolov9learningwantlearn": [
+      "2402-13616",
+      "2207-02696",
+      "2004-10934",
+      "2011-08036",
+      "1911-11929"
+    ],
+    "wang2024yolov10realtimeendtoendobject": [
+      "2405-14458",
+      "2101-03697",
+      "2107-08430",
+      "2104-10419",
+      "2007-12099"
+    ],
+    "wang2019cspnetnewbackboneenhance": [
+      "1911-11929",
+      "1911-08287",
+      "2004-10934",
+      "2402-13616",
+      "2005-03572"
+    ],
+    "zheng2021enhancinggeometricfactorsmodel": [
+      "2005-03572",
+      "1911-08287",
+      "2104-10419",
+      "2107-08430",
+      "2405-14458"
+    ],
+    "zheng2019distanceioulossfasterbetter": [
+      "1911-08287",
+      "2005-03572",
+      "2103-14259",
+      "2107-08430",
+      "2405-14458"
+    ],
+    "rezatofighi2019generalizedintersectionunionmetric": [
+      "1902-09630",
+      "1911-11929",
+      "2203-03605",
+      "2209-02976",
+      "2401-16937"
+    ],
+    "ge2021yoloxexceedingyoloseries": [
+      "2107-08430",
+      "2103-14259",
+      "2101-03697",
+      "2405-14458",
+      "1512-03385"
+    ],
+    "tian2019fcosfullyconvolutionalonestage": [
+      "1904-01355",
+      "2108-07755",
+      "1911-08287",
+      "1905-11946",
+      "1911-11929"
+    ],
+    "simonyan2015deepconvolutionalnetworkslargescale": [
+      "1409-1556",
+      "1512-03385",
+      "1506-02640",
+      "1911-11929",
+      "2402-13616"
+    ],
+    "liu2022convnet2020s": [
+      "2201-03545",
+      "2212-06137",
+      "2203-16250",
+      "2209-02976",
+      "2211-15444"
+    ],
+    "he2015deepresiduallearningimage": [
+      "1512-03385",
+      "2103-14259",
+      "2101-03697",
+      "2107-08430",
+      "2211-15444"
+    ],
+    "hu2019squeezeandexcitationnetworks": [
+      "1709-01507",
+      "1612-08242",
+      "1904-01355",
+      "1804-02767",
+      "1911-11929"
+    ],
+    "ding2021repvggmakingvggstyleconvnets": [
+      "2101-03697",
+      "2107-08430",
+      "2103-14259",
+      "2211-15444",
+      "2405-14458"
+    ],
+    "tan2020efficientnetrethinkingmodelscaling": [
+      "1905-11946",
+      "2011-08036",
+      "2004-10934",
+      "2005-03572",
+      "2007-12099"
+    ],
+    "ilvessalo1995fiber": [
+      "2011-08036",
+      "2004-10934",
+      "2304-08069",
+      "2405-14458",
+      "2211-15444"
+    ],
+    "tsuchikawa2015review": [
+      "2401-16937",
+      "2402-13616",
+      "2307-09588",
+      "2207-02696",
+      "1902-09630"
+    ],
+    "schmitz2020overview": [
+      "2307-09588",
+      "2007-12099",
+      "2011-08036",
+      "2005-12872",
+      "2004-10934"
+    ],
+    "ruffinatto2019atlas": [
+      "1902-09630",
+      "2307-09588",
+      "1911-08287",
+      "2005-03572",
+      "1911-11929"
+    ],
+    "silva2022computer": [
+      "2011-08036",
+      "2209-02976",
+      "2203-16250",
+      "2004-10934",
+      "2203-03605"
+    ],
+    "wiedenhoeft2020xylophone": [
+      "2207-02696",
+      "2005-03572",
+      "2007-12099",
+      "2307-09588",
+      "2005-12872"
+    ],
+    "ravindran2020xylotron": [
+      "2007-12099",
+      "2207-02696",
+      "1902-09630",
+      "2011-08036",
+      "2005-12872"
+    ],
+    "MyWood": [
+      "2212-06137",
+      "1804-02767",
+      "2201-03545",
+      "2211-15444",
+      "2209-02976"
+    ],
+    "helmling2018atlas": [
+      "2307-09588",
+      "2211-15444",
+      "2007-12099",
+      "2103-14259",
+      "2004-10934"
+    ],
+    "lin2015microsoftcococommonobjects": [
+      "1405-0312",
+      "1506-02640",
+      "2304-08069",
+      "1804-02767",
+      "2405-14458"
+    ],
+    "he2018bagtricksimageclassification": [
+      "2203-03605",
+      "1904-01355",
+      "2211-15444",
+      "1512-03385",
+      "2209-02976"
+    ],
+    "LpezFlrez2023": [
+      "1911-08287",
+      "2304-08069",
+      "1911-11929",
+      "2007-12099",
+      "1905-11946"
+    ],
+    "Aldughayfiq2023": [
+      "1902-09630",
+      "2207-02696",
+      "1409-1556",
+      "2307-09588",
+      "2007-12099"
+    ],
+    "rs15153770": [
+      "1409-1556",
+      "1905-11946",
+      "1506-02640",
+      "2304-08069",
+      "2007-12099"
+    ],
+    "european2023regulation": [
+      "2307-09588",
+      "2304-08069",
+      "1405-0312",
+      "1512-03385",
+      "1506-02640"
+    ],
+    "FlaigBergerWenigOlbrichSaake+2023+860+878": [
+      "2307-09588",
+      "2207-02696",
+      "2005-03572",
+      "1902-09630",
+      "2304-08069"
+    ],
+    "Qamar2024": [
+      "2401-16937",
+      "2207-02696",
+      "2402-13616",
+      "1409-1556",
+      "2203-03605"
+    ],
+    "franklin1945preparation": [
+      "2307-09588",
+      "2005-03572",
+      "2207-02696",
+      "2402-13616",
+      "2007-12099"
+    ],
+    "helmling2016qualitative": [
+      "2307-09588",
+      "1612-08242",
+      "2405-14458",
+      "2402-13616",
+      "2007-12099"
+    ]
+  }
+}

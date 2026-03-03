@@ -1,0 +1,24 @@
+{
+  "title": "Process and Policy Insights from an Intercomparison of Open Electricity System Capacity Expansion Models",
+  "authors": [
+    "Greg Schivley",
+    "Aurora Barone",
+    "Michael Blackhurst",
+    "Patricia Hidalgo-Gonzalez",
+    "Jesse Jenkins",
+    "Oleg Lugovoy",
+    "Qian Luo",
+    "Michael J. Roberts",
+    "Rangrang Zheng",
+    "Cameron Wade",
+    "Matthias Fripp"
+  ],
+  "summary": "This study performs a detailed intercomparison of four open-source electricity capacity expansion models - Temoa, Switch, GenX, and USENSYS - to evaluate 1) how closely the results of these models align when inputs and configurations are harmonized, and 2) the degree to which varying model configurations affect outputs. We harmonize the inputs to each model using PowerGenome and use clearly defined scenarios (policy conditions) and configurations (model setup choices). This allows us to isolate how differences in model structure affect policy outcomes and investment decisions. Our framework allows each model to be tested on identical assumptions for policy, technology costs, and operational constraints, allowing us to focus on differences that arise from inherent model structures. Key findings highlight that, when harmonized, models produce very similar capacity portfolios under current policies and net-zero scenarios, with less than 1% difference in system costs for most configurations. This agreement among models allows us to focus on how configuration choices affect model results. For instance, configurations with unit commitment constraints or economic retirement yield different investments and system costs compared to simpler configurations. Our findings underscore the importance of aligning input data and transparently defining scenarios and configurations to provide robust policy insights.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-04-05"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "econ.GN, math.OC"
+}

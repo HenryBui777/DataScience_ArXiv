@@ -1,0 +1,28 @@
+{
+  "title": "Introducing Milabench: Benchmarking Accelerators for AI",
+  "authors": [
+    "Pierre Delaunay",
+    "Xavier Bouthillier",
+    "Olivier Breuleux",
+    "Satya Ortiz-Gagné",
+    "Olexa Bilaniuk",
+    "Fabrice Normandin",
+    "Arnaud Bergeron",
+    "Bruno Carrez",
+    "Guillaume Alain",
+    "Soline Blanc",
+    "Frédéric Osterrath",
+    "Joseph Viviano",
+    "Roger Creus-Castanyer Darshan Patil",
+    "Rabiul Awal",
+    "Le Zhang"
+  ],
+  "summary": "AI workloads, particularly those driven by deep learning, are introducing novel usage patterns to high-performance computing (HPC) systems that are not comprehensively captured by standard HPC benchmarks. As one of the largest academic research centers dedicated to deep learning, Mila identified the need to develop a custom benchmarking suite to address the diverse requirements of its community, which consists of over 1,000 researchers. This report introduces Milabench, the resulting benchmarking suite. Its design was informed by an extensive literature review encompassing 867 papers, as well as surveys conducted with Mila researchers. This rigorous process led to the selection of 26 primary benchmarks tailored for procurement evaluations, alongside 16 optional benchmarks for in-depth analysis. We detail the design methodology, the structure of the benchmarking suite, and provide performance evaluations using GPUs from NVIDIA, AMD, and Intel. The Milabench suite is open source and can be accessed at github.com/mila-iqia/milabench.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-22"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

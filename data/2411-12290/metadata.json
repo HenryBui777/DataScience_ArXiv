@@ -1,0 +1,13 @@
+{
+  "title": "SSEditor: Controllable Mask-to-Scene Generation with Diffusion Model",
+  "authors": [
+    "Haowen Zheng",
+    "Yanyan Liang"
+  ],
+  "summary": "Recent advancements in 3D diffusion-based semantic scene generation have gained attention. However, existing methods rely on unconditional generation and require multiple resampling steps when editing scenes, which significantly limits their controllability and flexibility. To this end, we propose SSEditor, a controllable Semantic Scene Editor that can generate specified target categories without multiple-step resampling. SSEditor employs a two-stage diffusion-based framework: (1) a 3D scene autoencoder is trained to obtain latent triplane features, and (2) a mask-conditional diffusion model is trained for customizable 3D semantic scene generation. In the second stage, we introduce a geometric-semantic fusion module that enhance the model's ability to learn geometric and semantic information. This ensures that objects are generated with correct positions, sizes, and categories. Extensive experiments on SemanticKITTI and CarlaSC demonstrate that SSEditor outperforms previous approaches in terms of controllability and flexibility in target generation, as well as the quality of semantic scene generation and reconstruction. More importantly, experiments on the unseen Occ-3D Waymo dataset show that SSEditor is capable of generating novel urban scenes, enabling the rapid construction of 3D scenes.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI"
+}

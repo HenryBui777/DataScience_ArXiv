@@ -1,0 +1,14 @@
+{
+  "title": "Diffusion Product Quantization",
+  "authors": [
+    "Jie Shao",
+    "Hanxiao Zhang",
+    "Jianxin Wu"
+  ],
+  "summary": "In this work, we explore the quantization of diffusion models in extreme compression regimes to reduce model size while maintaining performance. We begin by investigating classical vector quantization but find that diffusion models are particularly susceptible to quantization error, with the codebook size limiting generation quality. To address this, we introduce product quantization, which offers improved reconstruction precision and larger capacity -- crucial for preserving the generative capabilities of diffusion models. Furthermore, we propose a method to compress the codebook by evaluating the importance of each vector and removing redundancy, ensuring the model size remaining within the desired range. We also introduce an end-to-end calibration approach that adjusts assignments during the forward pass and optimizes the codebook using the DDPM loss. By compressing the model to as low as 1 bit (resulting in over 24 times reduction in model size), we achieve a balance between compression and quality. We apply our compression method to the DiT model on ImageNet and consistently outperform other quantization approaches, demonstrating competitive generative performance.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

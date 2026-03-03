@@ -1,0 +1,17 @@
+{
+  "title": "KAAE: Numerical Reasoning for Knowledge Graphs via Knowledge-aware Attributes Learning",
+  "authors": [
+    "Ming Yin",
+    "Qiang Zhou",
+    "Zongsheng Cao",
+    "Mei Li"
+  ],
+  "summary": "Numerical reasoning is pivotal in various artificial intelligence applications, such as natural language processing and recommender systems, where it involves using entities, relations, and attribute values (e.g., weight, length) to infer new factual relations (e.g., the Nile is longer than the Amazon). However, existing approaches encounter two critical challenges in modeling: (1) semantic relevance-the challenge of insufficiently capturing the necessary contextual interactions among entities, relations, and numerical attributes, often resulting in suboptimal inference; and (2) semantic ambiguity-the difficulty in accurately distinguishing ordinal relationships during numerical reasoning, which compromises the generation of high-quality samples and limits the effectiveness of contrastive learning. To address these challenges, we propose the novel Knowledge-Aware Attributes Embedding model (KAAE) for knowledge graph embeddings in numerical reasoning. Specifically, to overcome the challenge of semantic relevance, we introduce a Mixture-of-Experts-Knowledge-Aware (MoEKA) Encoder, designed to integrate the semantics of entities, relations, and numerical attributes into a joint semantic space. To tackle semantic ambiguity, we implement a new ordinal knowledge contrastive learning (OKCL) strategy that generates high-quality ordinal samples from the original data with the aid of ordinal relations, capturing fine-grained semantic nuances essential for accurate numerical reasoning. Experiments on three public benchmark datasets demonstrate the superior performance of KAAE across various attribute value distributions.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-23"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AI"
+}

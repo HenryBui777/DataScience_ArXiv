@@ -1,0 +1,19 @@
+{
+  "title": "Simulation of Quantum Transduction Strategies for Quantum Networks",
+  "authors": [
+    "Laura d'Avossa",
+    "Caitao Zhan",
+    "Joaquin Chung",
+    "Rajkumar Kettimuthu",
+    "Angela Sara Cacciapuoti",
+    "Marcello Caleffi"
+  ],
+  "summary": "The Quantum Internet would likely be composed of diverse qubit technologies that interact through a heterogeneous quantum network. Thus, quantum transduction has been identified as a key enabler of the Quantum Internet. To better study heterogeneous quantum networks, the integration of a quantum transducer component into quantum network simulators has become crucial. In this paper, we extend SeQUeNCe, an open-source, discrete-event simulator of quantum networks, with a quantum transduction component along with auxiliary hardware device models and protocols. Moreover, we explore two strategies for transmitting quantum information between superconducting nodes via optical channels, with a focus on the impact of quantum transduction on the transmission process. The performance of these strategies is analyzed and compared through simulations conducted using SeQUeNCe. Our results align with theoretical predictions, offering simulation-based validation of the strategies and providing a path to accurate, larger-scale simulations of heterogeneous quantum networks.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-08-29"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

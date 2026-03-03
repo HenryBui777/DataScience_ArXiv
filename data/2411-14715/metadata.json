@@ -1,0 +1,16 @@
+{
+  "title": "Any-to-3D Generation via Hybrid Diffusion Supervision",
+  "authors": [
+    "Yijun Fan",
+    "Yiwei Ma",
+    "Jiayi Ji",
+    "Xiaoshuai Sun",
+    "Rongrong Ji"
+  ],
+  "summary": "Recent progress in 3D object generation has been fueled by the strong priors offered by diffusion models. However, existing models are tailored to specific tasks, accommodating only one modality at a time and necessitating retraining to change modalities. Given an image-to-3D model and a text prompt, a naive approach is to convert text prompts to images and then use the image-to-3D model for generation. This approach is both time-consuming and labor-intensive, resulting in unavoidable information loss during modality conversion. To address this, we introduce XBind, a unified framework for any-to-3D generation using cross-modal pre-alignment techniques. XBind integrates an multimodal-aligned encoder with pre-trained diffusion models to generate 3D objects from any modalities, including text, images, and audio. We subsequently present a novel loss function, termed Modality Similarity (MS) Loss, which aligns the embeddings of the modality prompts and the rendered images, facilitating improved alignment of the 3D objects with multiple modalities. Additionally, Hybrid Diffusion Supervision combined with a Three-Phase Optimization process improves the quality of the generated 3D objects. Extensive experiments showcase XBind's broad generation capabilities in any-to-3D scenarios. To our knowledge, this is the first method to generate 3D objects from any modality prompts. Project page: https://zeroooooooow1440.github.io/.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

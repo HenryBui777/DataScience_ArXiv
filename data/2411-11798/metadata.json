@@ -1,0 +1,17 @@
+{
+  "title": "COST CA20120 INTERACT Framework of Artificial Intelligence Based Channel Modeling",
+  "authors": [
+    "Ruisi He",
+    "Nicola D. Cicco",
+    "Bo Ai",
+    "Mi Yang",
+    "Yang Miao",
+    "Mate Boban"
+  ],
+  "summary": "Accurate channel models are the prerequisite for communication-theoretic investigations as well as system design. Channel modeling generally relies on statistical and deterministic approaches. However, there are still significant limits for the traditional modeling methods in terms of accuracy, generalization ability, and computational complexity. The fundamental reason is that establishing a quantified and accurate mapping between physical environment and channel characteristics becomes increasing challenging for modern communication systems. Here, in the context of COST CA20120 Action, we evaluate and discuss the feasibility and implementation of using artificial intelligence (AI) for channel modeling, and explore where the future of this field lies. Firstly, we present a framework of AI-based channel modeling to characterize complex wireless channels. Then, we highlight in detail some major challenges and present the possible solutions: i) estimating the uncertainty of AI-based channel predictions, ii) integrating prior knowledge of propagation to improve generalization capabilities, and iii) interpretable AI for channel modeling. We present and discuss illustrative numerical results to showcase the capabilities of AI-based channel modeling.",
+  "submission_date": "2024-10-31",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IT, cs.AI, eess.SP"
+}

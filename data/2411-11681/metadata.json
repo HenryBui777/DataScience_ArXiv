@@ -1,0 +1,20 @@
+{
+  "title": "PSPO*: An Effective Process-supervised Policy Optimization for Reasoning Alignment",
+  "authors": [
+    "Jiawei Li",
+    "Xinyue Liang",
+    "Junlong Zhang",
+    "Yizhe Yang",
+    "Chong Feng",
+    "Yang Gao"
+  ],
+  "summary": "Process supervision enhances the performance of large language models in reasoning tasks by providing feedback at each step of chain-of-thought reasoning. However, due to the lack of effective process supervision methods, even advanced large language models are prone to logical errors and redundant reasoning. We claim that the effectiveness of process supervision significantly depends on both the accuracy and the length of reasoning chains. Moreover, we identify that these factors exhibit a nonlinear relationship with the overall reward score of the reasoning process. Inspired by these insights, we propose a novel process supervision paradigm, PSPO*, which systematically outlines the workflow from reward model training to policy optimization, and highlights the importance of nonlinear rewards in process supervision. Based on PSPO*, we develop the PSPO-WRS, which considers the number of reasoning steps in determining reward scores and utilizes an adjusted Weibull distribution for nonlinear reward shaping. Experimental results on six mathematical reasoning datasets demonstrate that PSPO-WRS consistently outperforms current mainstream models.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-11-23",
+    "2025-05-14"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AI, cs.LG"
+}

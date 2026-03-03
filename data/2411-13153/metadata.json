@@ -1,0 +1,15 @@
+{
+  "title": "Long-term Detection System for Six Kinds of Abnormal Behavior of the Elderly Living Alone",
+  "authors": [
+    "Kai Tanaka",
+    "Mineichi Kudo",
+    "Keigo Kimura",
+    "Atsuyoshi Nakamura"
+  ],
+  "summary": "The proportion of elderly people is increasing worldwide, particularly those living alone in Japan. As elderly people get older, their risks of physical disabilities and health issues increase. To automatically discover these issues at a low cost in daily life, sensor-based detection in a smart home is promising. As part of the effort towards early detection of abnormal behaviors, we propose a simulator-based detection systems for six typical anomalies: being semi-bedridden, being housebound, forgetting, wandering, fall while walking and fall while standing. Our detection system can be customized for various room layout, sensor arrangement and resident's characteristics by training detection classifiers using the simulator with the parameters fitted to individual cases. Considering that the six anomalies that our system detects have various occurrence durations, such as being housebound for weeks or lying still for seconds after a fall, the detection classifiers of our system produce anomaly labels depending on each anomaly's occurrence duration, e.g., housebound per day and falls per second. We propose a method that standardizes the processing of sensor data, and uses a simple detection approach. Although the validity depends on the realism of the simulation, numerical evaluations using sensor data that includes a variety of resident behavior patterns over nine years as test data show that (1) the methods for detecting wandering and falls are comparable to previous methods, and (2) the methods for detecting being semi-bedridden, being housebound, and forgetting achieve a sensitivity of over 0.9 with fewer than one false alarm every 50 days.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

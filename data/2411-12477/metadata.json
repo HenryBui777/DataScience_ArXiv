@@ -1,0 +1,13 @@
+{
+  "title": "Robust Bayesian causal estimation for causal inference in medical diagnosis",
+  "authors": [
+    "Tathagata Basu",
+    "Matthias C. M. Troffaes"
+  ],
+  "summary": "Causal effect estimation is a critical task in statistical learning that aims to find the causal effect on subjects by identifying causal links between a number of predictor (or, explanatory) variables and the outcome of a treatment. In a regressional framework, we assign a treatment and outcome model to estimate the average causal effect. Additionally, for high dimensional regression problems, variable selection methods are also used to find a subset of predictor variables that maximises the predictive performance of the underlying model for better estimation of the causal effect. In this paper, we propose a different approach. We focus on the variable selection aspects of high dimensional causal estimation problem. We suggest a cautious Bayesian group LASSO (least absolute shrinkage and selection operator) framework for variable selection using prior sensitivity analysis. We argue that in some cases, abstaining from selecting (or, rejecting) a predictor is beneficial and we should gather more information to obtain a more decisive result. We also show that for problems with very limited information, expert elicited variable selection can give us a more stable causal effect estimation as it avoids overfitting. Lastly, we carry a comparative study with synthetic dataset and show the applicability of our method in real-life situations.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME, stat.AP"
+}

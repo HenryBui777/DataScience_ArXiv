@@ -1,0 +1,14 @@
+{
+  "title": "On algebraic analysis of Baker-Campbell-Hausdorff formula for Quantum Control and Quantum Speed Limit",
+  "authors": [
+    "Go Kato",
+    "Masaki Owari",
+    "Koji Maruyama"
+  ],
+  "summary": "The necessary time required to control a many-body quantum system is a critically important issue for the future development of quantum technologies. However, it is generally quite difficult to analyze directly, since the time evolution operator acting on a quantum system is in the form of time-ordered exponential. In this work, we examine the Baker-Campbell-Hausdorff (BCH) formula in detail and show that a distance between unitaries can be introduced, allowing us to obtain a lower bound on the control time. We find that, as far as we can compare, this lower bound on control time is tighter (better) than the standard quantum speed limits. This is because this distance takes into account the algebraic structure induced by Hamiltonians through the BCH formula, reflecting the curved nature of operator space. Consequently, we can avoid estimates based on shortcuts through algebraically impossible paths, in contrast to geometric methods that estimate the control time solely by looking at the target state or unitary operator.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

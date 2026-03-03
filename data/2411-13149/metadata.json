@@ -1,0 +1,12 @@
+{
+  "title": "YCB-LUMA: YCB Object Dataset with Luminance Keying for Object Localization",
+  "authors": [
+    "Thomas Pöllabauer"
+  ],
+  "summary": "Localizing target objects in images is an important task in computer vision. Often it is the first step towards solving a variety of applications in autonomous driving, maintenance, quality insurance, robotics, and augmented reality. Best in class solutions for this task rely on deep neural networks, which require a set of representative training data for best performance. Creating sets of sufficient quality, variety, and size is often difficult, error prone, and expensive. This is where the method of luminance keying can help: it provides a simple yet effective solution to record high quality data for training object detection and segmentation. We extend previous work that presented luminance keying on the common YCB-V set of household objects by recording the remaining objects of the YCB superset. The additional variety of objects - addition of transparency, multiple color variations, non-rigid objects - further demonstrates the usefulness of luminance keying and might be used to test the applicability of the approach on new 2D object detection and segmentation algorithms.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI"
+}

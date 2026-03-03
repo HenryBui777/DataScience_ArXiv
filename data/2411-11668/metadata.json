@@ -1,0 +1,15 @@
+{
+  "title": "Efficient and Robust Continual Graph Learning for Graph Classification in Biology",
+  "authors": [
+    "Ding Zhang",
+    "Jane Downer",
+    "Can Chen",
+    "Ren Wang"
+  ],
+  "summary": "Graph classification is essential for understanding complex biological systems, where molecular structures and interactions are naturally represented as graphs. Traditional graph neural networks (GNNs) perform well on static tasks but struggle in dynamic settings due to catastrophic forgetting. We present Perturbed and Sparsified Continual Graph Learning (PSCGL), a robust and efficient continual graph learning framework for graph data classification, specifically targeting biological datasets. We introduce a perturbed sampling strategy to identify critical data points that contribute to model learning and a motif-based graph sparsification technique to reduce storage needs while maintaining performance. Additionally, our PSCGL framework inherently defends against graph backdoor attacks, which is crucial for applications in sensitive biological contexts. Extensive experiments on biological datasets demonstrate that PSCGL not only retains knowledge across tasks but also enhances the efficiency and robustness of graph classification models in biology.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, q-bio.QM"
+}

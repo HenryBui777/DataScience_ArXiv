@@ -1,0 +1,13 @@
+{
+  "title": "The ballistic limit of the log-Sobolev constant equals the Polyak-Łojasiewicz constant",
+  "authors": [
+    "Sinho Chewi",
+    "Austin J. Stromme"
+  ],
+  "summary": "The Polyak-Lojasiewicz (PL) constant of a function $f \\colon \\mathbb{R}^d \\to \\mathbb{R}$ characterizes the best exponential rate of convergence of gradient flow for $f$, uniformly over initializations. Meanwhile, in the theory of Markov diffusions, the log-Sobolev (LS) constant plays an analogous role, governing the exponential rate of convergence for the Langevin dynamics from arbitrary initialization in the Kullback-Leibler divergence. We establish a new connection between optimization and sampling by showing that the low temperature limit $\\lim_{t\\to 0^+} t^{-1} C_{\\mathsf{LS}}(μ_t)$ of the LS constant of $μ_t \\propto \\exp(-f/t)$ is exactly the PL constant of $f$, under mild assumptions. In contrast, we show that the corresponding limit for the Poincaré constant is the inverse of the smallest eigenvalue of $\\nabla^2 f$ at the minimizer.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.PR, math.FA, math.OC"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Exploration by Running Away from the Past",
+  "authors": [
+    "Paul-Antoine Le Tolguenec",
+    "Yann Besse",
+    "Florent Teichteil-Koenigsbuch",
+    "Dennis G. Wilson",
+    "Emmanuel Rachelson"
+  ],
+  "summary": "The ability to explore efficiently and effectively is a central challenge of reinforcement learning. In this work, we consider exploration through the lens of information theory. Specifically, we cast exploration as a problem of maximizing the Shannon entropy of the state occupation measure. This is done by maximizing a sequence of divergences between distributions representing an agent's past behavior and its current behavior. Intuitively, this encourages the agent to explore new behaviors that are distinct from past behaviors. Hence, we call our method RAMP, for ``$\\textbf{R}$unning $\\textbf{A}$way fro$\\textbf{m}$ the $\\textbf{P}$ast.'' A fundamental question of this method is the quantification of the distribution change over time. We consider both the Kullback-Leibler divergence and the Wasserstein distance to quantify divergence between successive state occupation measures, and explain why the former might lead to undesirable exploratory behaviors in some tasks. We demonstrate that by encouraging the agent to explore by actively distancing itself from past experiences, it can effectively explore mazes and a wide range of behaviors on robotic manipulation and locomotion tasks.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

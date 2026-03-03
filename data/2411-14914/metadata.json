@@ -1,0 +1,16 @@
+{
+  "title": "A Reproducibility and Generalizability Study of Large Language Models for Query Generation",
+  "authors": [
+    "Moritz Staudinger",
+    "Wojciech Kusa",
+    "Florina Piroi",
+    "Aldo Lipani",
+    "Allan Hanbury"
+  ],
+  "summary": "Systematic literature reviews (SLRs) are a cornerstone of academic research, yet they are often labour-intensive and time-consuming due to the detailed literature curation process. The advent of generative AI and large language models (LLMs) promises to revolutionize this process by assisting researchers in several tedious tasks, one of them being the generation of effective Boolean queries that will select the publications to consider including in a review. This paper presents an extensive study of Boolean query generation using LLMs for systematic reviews, reproducing and extending the work of Wang et al. and Alaniz et al. Our study investigates the replicability and reliability of results achieved using ChatGPT and compares its performance with open-source alternatives like Mistral and Zephyr to provide a more comprehensive analysis of LLMs for query generation.\n  Therefore, we implemented a pipeline, which automatically creates a Boolean query for a given review topic by using a previously defined LLM, retrieves all documents for this query from the PubMed database and then evaluates the results. With this pipeline we first assess whether the results obtained using ChatGPT for query generation are reproducible and consistent. We then generalize our results by analyzing and evaluating open-source models and evaluating their efficacy in generating Boolean queries.\n  Finally, we conduct a failure analysis to identify and discuss the limitations and shortcomings of using LLMs for Boolean query generation. This examination helps to understand the gaps and potential areas for improvement in the application of LLMs to information retrieval tasks. Our findings highlight the strengths, limitations, and potential of LLMs in the domain of information retrieval and literature review automation.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IR"
+}

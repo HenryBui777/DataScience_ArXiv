@@ -1,0 +1,25 @@
+{
+  "title": "Scaling Laws for Online Advertisement Retrieval",
+  "authors": [
+    "Yunli Wang",
+    "Zhen Zhang",
+    "Zixuan Yang",
+    "Tianyu Xu",
+    "Zhiqiang Wang",
+    "Yu Li",
+    "Rufan Zhou",
+    "Zhiqiang Liu",
+    "Yanjie Zhu",
+    "Jian Yang",
+    "Shiyang Wen",
+    "Peng Jiang"
+  ],
+  "summary": "The scaling law is a notable property of neural network models and has significantly propelled the development of large language models. Scaling laws hold great promise in guiding model design and resource allocation. Recent research increasingly shows that scaling laws are not limited to NLP tasks or Transformer architectures; they also apply to domains such as recommendation. However, there is still a lack of literature on scaling law research in online advertisement retrieval systems. This may be because 1) identifying the scaling law for resource cost and online revenue is often expensive in both time and training resources for industrial applications, and 2) varying settings for different systems prevent the scaling law from being applied across various scenarios. To address these issues, we propose a lightweight paradigm to identify online scaling laws of retrieval models, incorporating a novel offline metric and an offline simulation algorithm. We prove that under mild assumptions, the correlation between the novel metric and online revenue asymptotically approaches 1 and empirically validates its effectiveness. The simulation algorithm can estimate the machine cost offline. Based on the lightweight paradigm, we can identify online scaling laws for retrieval models almost exclusively through offline experiments, and quickly estimate machine costs and revenues for given model configurations. We further validate the existence of scaling laws across mainstream model architectures (e.g., Transformer, MLP, and DSSM) in our real-world advertising system. With the identified scaling laws, we demonstrate practical applications for ROI-constrained model designing and multi-scenario resource allocation in the online advertising system. To the best of our knowledge, this is the first work to study identification and application of online scaling laws for online advertisement retrieval.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-09-25"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IR, cs.AI, cs.LG"
+}

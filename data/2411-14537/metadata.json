@@ -1,0 +1,16 @@
+{
+  "title": "Experimental optimal discrimination of $N$ states of a qubit with fixed rates of inconclusive outcomes",
+  "authors": [
+    "L. F. Melo",
+    "M. A. Solís-Prosser",
+    "O. Jiménez",
+    "A. Delgado",
+    "L. Neves"
+  ],
+  "summary": "In a general optimized measurement scheme for discriminating between nonorthogonal quantum states, the error rate is minimized under the constraint of a fixed rate of inconclusive outcomes (FRIO). This so-called optimal FRIO measurement encompasses the standard and well known minimum-error and optimal unambiguous (or maximum-confidence) discrimination strategies as particular cases. Here, we experimentally demonstrate the optimal FRIO discrimination between $N=2,3,5,$ and $7$ equally likely symmetric states of a qubit encoded in photonic path modes. Our implementation consists of applying a probabilistic quantum map which increases the distinguishability between the inputs in a controlled way, followed by a minimum-error measurement on the successfully transformed outputs. The results obtained corroborate this two-step approach and, in our experimental scheme, it can be straightforwardly extended to higher dimensions. The optimized measurement demonstrated here will be useful for quantum communication scenarios where the error rate and the inconclusive rate must be kept below the levels provided by the respective standard strategies.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "Physical Review Research 5, 043149 (2023)",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

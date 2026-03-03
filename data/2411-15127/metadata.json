@@ -1,0 +1,17 @@
+{
+  "title": "PRIMUS: Pretraining IMU Encoders with Multimodal Self-Supervision",
+  "authors": [
+    "Arnav M. Das",
+    "Chi Ian Tang",
+    "Fahim Kawsar",
+    "Mohammad Malekzadeh"
+  ],
+  "summary": "Sensing human motions through Inertial Measurement Units (IMUs) embedded in personal devices has enabled significant applications in health and wellness. Labeled IMU data is scarce, however, unlabeled or weakly labeled IMU data can be used to model human motions. For video or text modalities, the \"pretrain and adapt\" approach utilizes large volumes of unlabeled or weakly labeled data to build a strong feature extractor, followed by adaptation to specific tasks using limited labeled data. However, pretraining methods are poorly understood for IMU data, and pipelines are rarely evaluated on out-of-domain tasks. We propose PRIMUS: a method for PRetraining IMU encoderS that uses a novel pretraining objective that is empirically validated based on downstream performance on both in-domain and out-of-domain datasets. The PRIMUS objective effectively enhances downstream performance by combining self-supervision, multimodal, and nearest-neighbor supervision. With fewer than 500 labeled samples per class, PRIMUS improves test accuracy by up to 15%, compared to state-of-the-art baselines. To benefit the broader community, we have open-sourced our code at github.com/nokia-bell-labs/pretrained-imu-encoders.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-01-21"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

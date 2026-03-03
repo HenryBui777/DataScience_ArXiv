@@ -1,0 +1,15 @@
+{
+  "title": "About Time: Advances, Challenges, and Outlooks of Action Understanding",
+  "authors": [
+    "Alexandros Stergiou",
+    "Ronald Poppe"
+  ],
+  "summary": "We have witnessed impressive advances in video action understanding. Increased dataset sizes, variability, and computation availability have enabled leaps in performance and task diversification. Current systems can provide coarse- and fine-grained descriptions of video scenes, extract segments corresponding to queries, synthesize unobserved parts of videos, and predict context across multiple modalities. This survey comprehensively reviews advances in uni- and multi-modal action understanding across a range of tasks. We focus on prevalent challenges, overview widely adopted datasets, and survey seminal works with an emphasis on recent advances. We broadly distinguish between three temporal scopes: (1) recognition tasks of actions observed in full, (2) prediction tasks for ongoing partially observed actions, and (3) forecasting tasks for subsequent unobserved action(s). This division allows us to identify specific action modeling and video representation challenges. Finally, we outline future directions to address current shortcomings.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-05-06"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI, cs.LG"
+}

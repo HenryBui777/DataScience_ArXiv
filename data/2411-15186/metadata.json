@@ -1,0 +1,15 @@
+{
+  "title": "Preliminary Evaluation of the Test-Time Training Layers in Recommendation System (Student Abstract)",
+  "authors": [
+    "Tianyu Zhan",
+    "Zheqi Lv",
+    "Shengyu Zhang",
+    "Jiwei Li"
+  ],
+  "summary": "This paper explores the application and effectiveness of Test-Time Training (TTT) layers in improving the performance of recommendation systems. We developed a model, TTT4Rec, utilizing TTT-Linear as the feature extraction layer. Our tests across multiple datasets indicate that TTT4Rec, as a base model, performs comparably or even surpasses other baseline models in similar environments.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.IR"
+}

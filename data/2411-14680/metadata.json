@@ -1,0 +1,14 @@
+{
+  "title": "Self-Supervised Learning for Ordered Three-Dimensional Structures",
+  "authors": [
+    "Matthew Spellings",
+    "Maya Martirossyan",
+    "Julia Dshemuchadse"
+  ],
+  "summary": "Recent work has proven that training large language models with self-supervised tasks and fine-tuning these models to complete new tasks in a transfer learning setting is a powerful idea, enabling the creation of models with many parameters, even with little labeled data; however, the number of domains that have harnessed these advancements has been limited. In this work, we formulate a set of geometric tasks suitable for the large-scale study of ordered three-dimensional structures, without requiring any human intervention in data labeling. We build deep rotation- and permutation-equivariant neural networks based on geometric algebra and use them to solve these tasks on both idealized and simulated three-dimensional structures. Quantifying order in complex-structured assemblies remains a long-standing challenge in materials physics; these models can elucidate the behavior of real self-assembling systems in a variety of ways, from distilling insights from learned tasks without further modification to solving new tasks with smaller amounts of labeled data via transfer learning.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

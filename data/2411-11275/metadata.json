@@ -1,0 +1,17 @@
+{
+  "title": "Effective Predictive Modeling for Emergency Department Visits and Evaluating Exogenous Variables Impact: Using Explainable Meta-learning Gradient Boosting",
+  "authors": [
+    "Mehdi Neshat",
+    "Michael Phipps",
+    "Nikhil Jha",
+    "Danial Khojasteh",
+    "Michael Tong",
+    "Amir Gandomi"
+  ],
+  "summary": "Over an extensive duration, administrators and clinicians have endeavoured to predict Emergency Department (ED) visits with precision, aiming to optimise resource distribution. Despite the proliferation of diverse AI-driven models tailored for precise prognostication, this task persists as a formidable challenge, besieged by constraints such as restrained generalisability, susceptibility to overfitting and underfitting, scalability issues, and complex fine-tuning hyper-parameters. In this study, we introduce a novel Meta-learning Gradient Booster (Meta-ED) approach for precisely forecasting daily ED visits and leveraging a comprehensive dataset of exogenous variables, including socio-demographic characteristics, healthcare service use, chronic diseases, diagnosis, and climate parameters spanning 23 years from Canberra Hospital in ACT, Australia. The proposed Meta-ED consists of four foundational learners-Catboost, Random Forest, Extra Tree, and lightGBoost-alongside a dependable top-level learner, Multi-Layer Perceptron (MLP), by combining the unique capabilities of varied base models (sub-learners). Our study assesses the efficacy of the Meta-ED model through an extensive comparative analysis involving 23 models. The evaluation outcomes reveal a notable superiority of Meta-ED over the other models in accuracy at 85.7% (95% CI ;85.4%, 86.0%) and across a spectrum of 10 evaluation metrics. Notably, when compared with prominent techniques, XGBoost, Random Forest (RF), AdaBoost, LightGBoost, and Extra Tree (ExT), Meta-ED showcases substantial accuracy enhancements of 58.6%, 106.3%, 22.3%, 7.0%, and 15.7%, respectively. Furthermore, incorporating weather-related features demonstrates a 3.25% improvement in the prediction accuracy of visitors' numbers. The encouraging outcomes of our study underscore Meta-ED as a foundation model for the precise prediction of daily ED visitors.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.NE"
+}

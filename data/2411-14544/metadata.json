@@ -1,0 +1,17 @@
+{
+  "title": "Interpreting seasonal and interannual Hadley cell descending edge migrations via the cell-mean Rossby number",
+  "authors": [
+    "Spencer A Hill",
+    "Simona Bordoni",
+    "Jonathan L Mitchell",
+    "Juan M Lora"
+  ],
+  "summary": "The poleward extent of Earth's zonal-mean Hadley cells varies across seasons and years, which would be nice to capture in a simple theory. A plausible, albeit diagnostic, candidate from Hill et al (2022) combines the conventional two-layer, quasi-geostrophic, baroclinic instability-based framework with a less conventional assumption: that each cell's upper-branch zonal winds are suitably captured by a single, cell-wide Rossby number, with meridional variations in the local Rossby number neglected. We test this theory against ERA5 reanalysis data, finding that it captures both seasonal and interannual variations in the Hadley cell zonal winds and poleward extent fairly well. For the seasonal cycle of the NH cell poleward edge only, this requires empirically lagging the prediction by one month, for reasons unclear to us. In all cases, the bulk Rossby number value that yields the most accurate zonal wind fields is approximately equal to the actual, diagnosed cell-mean value. Variations in these cell-mean Rossby numbers, in turn, predominantly drive variations in each cell's poleward extent. All other terms matter much less -- including the subtropical static stability, which, by increasing under global warming, is generally considered the predominant driver of future Hadley cell expansion. These results argue for developing a predictive theory for the cell-mean Rossby number and for diagnosing its role in climate model projections of future Hadley cell expansion.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-04-16"
+  ],
+  "publication_venue": "Journal of Climate 2025",
+  "pdf_url": null,
+  "category": "physics.ao-ph"
+}

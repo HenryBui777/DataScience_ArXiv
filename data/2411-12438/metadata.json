@@ -1,0 +1,16 @@
+{
+  "title": "Dimension Reduction via Sum-of-Squares and Improved Clustering Algorithms for Non-Spherical Mixtures",
+  "authors": [
+    "Prashanti Anderson",
+    "Mitali Bafna",
+    "Rares-Darius Buhai",
+    "Pravesh K. Kothari",
+    "David Steurer"
+  ],
+  "summary": "We develop a new approach for clustering non-spherical (i.e., arbitrary component covariances) Gaussian mixture models via a subroutine, based on the sum-of-squares method, that finds a low-dimensional separation-preserving projection of the input data. Our method gives a non-spherical analog of the classical dimension reduction, based on singular value decomposition, that forms a key component of the celebrated spherical clustering algorithm of Vempala and Wang [VW04] (in addition to several other applications).\n  As applications, we obtain an algorithm to (1) cluster an arbitrary total-variation separated mixture of $k$ centered (i.e., zero-mean) Gaussians with $n\\geq \\operatorname{poly}(d) f(w_{\\min}^{-1})$ samples and $\\operatorname{poly}(n)$ time, and (2) cluster an arbitrary total-variation separated mixture of $k$ Gaussians with identical but arbitrary unknown covariance with $n \\geq d^{O(\\log w_{\\min}^{-1})} f(w_{\\min}^{-1})$ samples and $n^{O(\\log w_{\\min}^{-1})}$ time. Here, $w_{\\min}$ is the minimum mixing weight of the input mixture, and $f$ does not depend on the dimension $d$. Our algorithms naturally extend to tolerating a dimension-independent fraction of arbitrary outliers. Before this work, the techniques in the state-of-the-art non-spherical clustering algorithms needed $d^{O(k)} f(w_{\\min}^{-1})$ time and samples for clustering such mixtures.\n  Our results may come as a surprise in the context of the $d^{Ω(k)}$ statistical query lower bound [DKS17] for clustering non-spherical Gaussian mixtures. While this result is usually thought to rule out $d^{o(k)}$ cost algorithms for the problem, our results show that the lower bounds can in fact be circumvented for a remarkably general class of Gaussian mixtures.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DS, cs.LG, stat.ML"
+}

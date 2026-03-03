@@ -1,0 +1,13 @@
+{
+  "title": "Safe Multi-Agent Reinforcement Learning with Convergence to Generalized Nash Equilibrium",
+  "authors": [
+    "Zeyang Li",
+    "Navid Azizan"
+  ],
+  "summary": "Multi-agent reinforcement learning (MARL) has achieved notable success in cooperative tasks, demonstrating impressive performance and scalability. However, deploying MARL agents in real-world applications presents critical safety challenges. Current safe MARL algorithms are largely based on the constrained Markov decision process (CMDP) framework, which enforces constraints only on discounted cumulative costs and lacks an all-time safety assurance. Moreover, these methods often overlook the feasibility issue (the system will inevitably violate state constraints within certain regions of the constraint set), resulting in either suboptimal performance or increased constraint violations. To address these challenges, we propose a novel theoretical framework for safe MARL with $\\textit{state-wise}$ constraints, where safety requirements are enforced at every state the agents visit. To resolve the feasibility issue, we leverage a control-theoretic notion of the feasible region, the controlled invariant set (CIS), characterized by the safety value function. We develop a multi-agent method for identifying CISs, ensuring convergence to a Nash equilibrium on the safety value function. By incorporating CIS identification into the learning process, we introduce a multi-agent dual policy iteration algorithm that guarantees convergence to a generalized Nash equilibrium in state-wise constrained cooperative Markov games, achieving an optimal balance between feasibility and performance. Furthermore, for practical deployment in complex high-dimensional systems, we propose $\\textit{Multi-Agent Dual Actor-Critic}$ (MADAC), a safe MARL algorithm that approximates the proposed iteration scheme within the deep RL paradigm. Empirical evaluations on safe MARL benchmarks demonstrate that MADAC consistently outperforms existing methods, delivering much higher rewards while reducing constraint violations.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, eess.SY"
+}

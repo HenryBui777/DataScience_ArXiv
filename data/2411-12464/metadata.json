@@ -1,0 +1,19 @@
+{
+  "title": "Improved Estimation Accuracy in OFDM-based Joint Communication and Sensing through Kalman Tracking and Interpolation",
+  "authors": [
+    "Charlotte Muth",
+    "Leon Schmidt",
+    "Shrinivas Chimmalgi",
+    "Laurent Schmalen"
+  ],
+  "summary": "We investigate a monostatic orthogonal frequency-division multiplexing (OFDM)-based joint communication and sensing (JCAS) system for object tracking. Our setup consists of a transmitter and receiver equipped with an antenna array for fully digital beamforming. The native resolution of range and velocity in all radar-like sensing, including OFDM radar sensing, is limited by the observation time and bandwidth. In this work, we improve the parameter estimates (estimates of range) through interpolation methods and tracking algorithms. We verify our method by comparing the root mean squared error (RMSE) of the estimated range, velocity and angle and by comparing the mean Euclidean distance between the estimated and true position. We demonstrate how both a Kalman filter for tracking, and interpolation methods using zero-padding and the chirp Z-transform (CZT) improve the estimation error. We discuss the computational complexity of the different methods. We propose the KalmanCZT approach that combines tracking via Kalman filtering and interpolation via the CZT, resulting in a solution with flexible resolution that significantly improves the range RMSE.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-12-16",
+    "2025-01-08",
+    "2025-03-05"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP"
+}

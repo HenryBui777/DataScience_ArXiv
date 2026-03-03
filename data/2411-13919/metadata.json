@@ -1,0 +1,16 @@
+{
+  "title": "Predictive Maintenance Study for High-Pressure Industrial Compressors: Hybrid Clustering Models",
+  "authors": [
+    "Alessandro Costa",
+    "Emilio Mastriani",
+    "Federico Incardona",
+    "Kevin Munari",
+    "Sebastiano Spinello"
+  ],
+  "summary": "This study introduces a predictive maintenance strategy for high pressure industrial compressors using sensor data and features derived from unsupervised clustering integrated into classification models. The goal is to enhance model accuracy and efficiency in detecting compressor failures. After data pre processing, sensitive clustering parameters were tuned to identify algorithms that best capture the dataset's temporal and operational characteristics. Clustering algorithms were evaluated using quality metrics like Normalized Mutual Information (NMI) and Adjusted Rand Index (ARI), selecting those most effective at distinguishing between normal and non normal conditions. These features enriched regression models, improving failure detection accuracy by 4.87 percent on average. Although training time was reduced by 22.96 percent, the decrease was not statistically significant, varying across algorithms. Cross validation and key performance metrics confirmed the benefits of clustering based features in predictive maintenance models.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

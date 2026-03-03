@@ -1,0 +1,16 @@
+{
+  "title": "VayuBuddy: an LLM-Powered Chatbot to Democratize Air Quality Insights",
+  "authors": [
+    "Zeel B Patel",
+    "Yash Bachwana",
+    "Nitish Sharma",
+    "Sarath Guttikunda",
+    "Nipun Batra"
+  ],
+  "summary": "Nearly 6.7 million lives are lost due to air pollution every year. While policymakers are working on the mitigation strategies, public awareness can help reduce the exposure to air pollution. Air pollution data from government-installed sensors is often publicly available in raw format, but there is a non-trivial barrier for various stakeholders in deriving meaningful insights from that data. In this work, we present VayuBuddy, a Large Language Model (LLM)-powered chatbot system to reduce the barrier between the stakeholders and air quality sensor data. VayuBuddy receives the questions in natural language, analyses the structured sensory data with a LLM-generated Python code and provides answers in natural language. We use the data from Indian government air quality sensors. We benchmark the capabilities of 7 LLMs on 45 diverse question-answer pairs prepared by us. Additionally, VayuBuddy can also generate visual analysis such as line-plots, map plot, bar charts and many others from the sensory data as we demonstrate in this work.",
+  "submission_date": "2024-11-16",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.HC, cs.CY, cs.LG"
+}

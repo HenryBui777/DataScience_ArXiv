@@ -1,0 +1,18 @@
+{
+  "title": "Thermodynamic Algorithms for Quadratic Programming",
+  "authors": [
+    "Patryk-Lipka Bartosik",
+    "Kaelan Donatella",
+    "Maxwell Aifer",
+    "Denis Melanson",
+    "Marti Perarnau-Llobet",
+    "Nicolas Brunner",
+    "Patrick J. Coles"
+  ],
+  "summary": "Thermodynamic computing has emerged as a promising paradigm for accelerating computation by harnessing the thermalization properties of physical systems. This work introduces a novel approach to solving quadratic programming problems using thermodynamic hardware. By incorporating a thermodynamic subroutine for solving linear systems into the interior-point method, we present a hybrid digital-analog algorithm that outperforms traditional digital algorithms in terms of speed. Notably, we achieve a polynomial asymptotic speedup compared to conventional digital approaches. Additionally, we simulate the algorithm for a support vector machine and predict substantial practical speedups with only minimal degradation in solution quality. Finally, we detail how our method can be applied to portfolio optimization and the simulation of nonlinear resistive networks.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.ET, cond-mat.stat-mech, math.OC"
+}

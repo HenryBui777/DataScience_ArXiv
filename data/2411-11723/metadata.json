@@ -1,0 +1,12 @@
+{
+  "title": "Using LSTM Predictions for RANS Simulations",
+  "authors": [
+    "Hugo D. Pasinato"
+  ],
+  "summary": "This study constitutes the second phase of a research endeavor aimed at evaluating the feasibility of employing Long Short-Term Memory (LSTM) neural networks as a replacement for Reynolds-Averaged Navier-Stokes (RANS) turbulence models.\n  In the initial phase of this investigation (titled Modeling Turbulent Flows with LSTM Neural Networks, arXiv:2307.13784v1 [physics.flu-dyn] 25 Jul 2023), the application of an LSTM-based recurrent neural network (RNN) as an alternative to traditional RANS models was demonstrated. LSTM models were used to predict shear Reynolds stresses in both developed and developing turbulent channel flows, and these predictions were propagated through RANS simulations to obtain mean flow fields of turbulent flows. A comparative analysis was conducted, juxtaposing the LSTM results from computational fluid dynamics (CFD) simulations with outcomes from the $κ-ε$ model and data from direct numerical simulations (DNS). These initial findings indicated promising performance of the LSTM approach.\n  This second phase delves further into the challenges encountered and presents robust solutions. Additionally, new results are provided, demonstrating the efficacy of the LSTM model in predicting turbulent behavior in perturbed flows. While the overall study serves as a proof-of-concept for the application of LSTM networks in RANS turbulence modeling, this phase offers compelling evidence of its potential in handling more complex flow scenarios.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.flu-dyn"
+}

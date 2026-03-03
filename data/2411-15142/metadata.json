@@ -1,0 +1,16 @@
+{
+  "title": "Data-driven Modeling of Granular Chains with Modern Koopman Theory",
+  "authors": [
+    "Atoosa Parsa",
+    "James Bagrow",
+    "Corey S. O'Hern",
+    "Rebecca Kramer-Bottiglio",
+    "Josh Bongard"
+  ],
+  "summary": "Externally driven dense packings of particles can exhibit nonlinear wave phenomena that are not described by effective medium theory or linearized approximate models. Such nontrivial wave responses can be exploited to design sound-focusing/scrambling devices, acoustic filters, and analog computational units. At high amplitude vibrations or low confinement pressures, the effect of nonlinear particle contacts becomes increasingly noticeable, and the interplay of nonlinearity, disorder, and discreteness in the system gives rise to remarkable properties, particularly useful in designing structures with exotic properties. In this paper, we build upon the data-driven methods in dynamical system analysis and show that the Koopman spectral theory can be applied to granular crystals, enabling their phase space analysis beyond the linearizable regime and without recourse to any approximations considered in the previous works. We show that a deep neural network can map the dynamics to a latent space where the essential nonlinearity of the granular system unfolds into a high-dimensional linear space. As a proof of concept, we use data from numerical simulations of a two-particle system and evaluate the accuracy of the trajectory predictions under various initial conditions. By incorporating data from experimental measurements, our proposed framework can directly capture the underlying dynamics without imposing any assumptions about the physics model. Spectral analysis of the trained surrogate system can help bridge the gap between the simulation results and the physical realization of granular crystals and facilitate the inverse design of materials with desired behaviors.",
+  "submission_date": "2024-11-01",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cond-mat.soft, cs.LG, math.DS"
+}

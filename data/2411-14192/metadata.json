@@ -1,0 +1,14 @@
+{
+  "title": "Learning Pore-scale Multi-phase Flow from Experimental Data with Graph Neural Network",
+  "authors": [
+    "Yuxuan Gu",
+    "Catherine Spurin",
+    "Gege Wen"
+  ],
+  "summary": "Understanding the process of multiphase fluid flow through porous media is crucial for many climate change mitigation technologies, including CO$_2$ geological storage, hydrogen storage, and fuel cells. However, current numerical models are often incapable of accurately capturing the complex pore-scale physics observed in experiments. In this study, we address this challenge using a graph neural network-based approach and directly learn pore-scale fluid flow using micro-CT experimental data. We propose a Long-Short-Edge MeshGraphNet (LSE-MGN) that predicts the state of each node in the pore space at each time step. During inference, given an initial state, the model can autoregressively predict the evolution of the multiphase flow process over time. This approach successfully captures the physics from the high-resolution experimental data while maintaining computational efficiency, providing a promising direction for accurate and efficient pore-scale modeling of complex multiphase fluid flow dynamics.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.flu-dyn, cs.LG"
+}

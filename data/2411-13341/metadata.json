@@ -1,0 +1,13 @@
+{
+  "title": "Attention-based hybrid solvers for linear equations that are geometry aware",
+  "authors": [
+    "Idan Versano",
+    "Eli Turkel"
+  ],
+  "summary": "We present a novel architecture for learning geometry-aware preconditioners for linear partial differential equations (PDEs). We show that a deep operator network (Deeponet) can be trained on a simple geometry and remain a robust preconditioner for problems defined by different geometries without further fine-tuning or additional data mining. We demonstrate our method for the Helmholtz equation, which is used to solve problems in electromagnetics and acoustics; the Helmholtz equation is not positive definite, and with absorbing boundary conditions, it is not symmetric.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA"
+}

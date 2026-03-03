@@ -1,0 +1,13 @@
+{
+  "title": "Umbrella Reinforcement Learning -- computationally efficient tool for hard non-linear problems",
+  "authors": [
+    "Egor E. Nuzhin",
+    "Nikolai V. Brilliantov"
+  ],
+  "summary": "We report a novel, computationally efficient approach for solving hard nonlinear problems of reinforcement learning (RL). Here we combine umbrella sampling, from computational physics/chemistry, with optimal control methods. The approach is realized on the basis of neural networks, with the use of policy gradient. It outperforms, by computational efficiency and implementation universality, all available state-of-the-art algorithms, in application to hard RL problems with sparse reward, state traps and lack of terminal states. The proposed approach uses an ensemble of simultaneously acting agents, with a modified reward which includes the ensemble entropy, yielding an optimal exploration-exploitation balance.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI"
+}

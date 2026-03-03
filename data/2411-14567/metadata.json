@@ -1,0 +1,17 @@
+{
+  "title": "Energy Efficient Automated Driving as a GNEP: Vehicle-in-the-loop Experiments",
+  "authors": [
+    "Viranjan Bhattacharyya",
+    "Tyler Ard",
+    "Rongyao Wang",
+    "Ardalan Vahidi",
+    "Yunyi Jia",
+    "Jihun Han"
+  ],
+  "summary": "In this paper, a multi-agent motion planning problem is studied aiming to minimize energy consumption of connected automated vehicles (CAVs) in lane change scenarios. We model this interactive motion planning as a generalized Nash equilibrium problem and formalize how vehicle-to-vehicle intention sharing enables solution of the game between multiple CAVs as an optimal control problem for each agent, to arrive at a generalized Nash equilibrium. The method is implemented via model predictive control (MPC) and compared with an advanced baseline MPC which utilizes unilateral predictions of other agents' future states. A ROS-based in-the-loop testbed is developed: the method is first evaluated in software-in-the-loop and then vehicle-in-the-loop experiments are conducted. Experimental results demonstrate energy and travel time benefits of the presented method in interactive lane change maneuvers.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

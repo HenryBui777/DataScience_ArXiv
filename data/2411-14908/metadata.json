@@ -1,0 +1,14 @@
+{
+  "title": "Reactive Robot Navigation Using Quasi-conformal Mappings and Control Barrier Functions",
+  "authors": [
+    "Gennaro Notomista",
+    "Gary P. T. Choi",
+    "Matteo Saveriano"
+  ],
+  "summary": "This paper presents a robot control algorithm suitable for safe reactive navigation tasks in cluttered environments. The proposed approach consists of transforming the robot workspace into the \\emph{ball world}, an artificial representation where all obstacle regions are closed balls. Starting from a polyhedral representation of obstacles in the environment, obtained using exteroceptive sensor readings, a computationally efficient mapping to ball-shaped obstacles is constructed using quasi-conformal mappings and Möbius transformations. The geometry of the ball world is amenable to provably safe navigation tasks achieved via control barrier functions employed to ensure collision-free robot motions with guarantees both on safety and on the absence of deadlocks. The performance of the proposed navigation algorithm is showcased and analyzed via extensive simulations and experiments performed using different types of robotic systems, including manipulators and mobile robots.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.RO, math.DS, math.OC"
+}

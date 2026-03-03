@@ -1,0 +1,25 @@
+{
+  "title": "New Evidence for a Flux-independent Spectral Index of Sgr A* in the Near-infrared",
+  "authors": [
+    "Hadrien Paugnat",
+    "Tuan Do",
+    "Abhimat K. Gautam",
+    "Gregory D. Martinez",
+    "Andrea M. Ghez",
+    "Shoko Sakai",
+    "Grant C. Weldon",
+    "Matthew W. Hosek",
+    "Zoë Haggard",
+    "Kelly Kosmo O'Neil",
+    "Eric E. Becklin",
+    "Gunther Witzel",
+    "Jessica R. Lu",
+    "Keith Matthews"
+  ],
+  "summary": "In this work, we measure the spectral index of Sagittarius A* (Sgr A*) between the $H$ (1.6 $μ$m) and $K^\\prime$ (2.2 $μ$m) broadband filters in the near-infrared (NIR), sampling over a factor $\\sim 40$ in brightness, the largest range probed to date by a factor $\\sim 3$. Sgr A*-NIR is highly variable, and studying the spectral index $α$ (with $F_ν\\propto ν^α$) is essential to determine the underlying emission mechanism. For example, variations in $α$ with flux may arise from shifts in the synchrotron cutoff frequency, changes in the distribution of electrons, or multiple concurrent emission mechanisms. We investigate potential variations of $α_{H-K^\\prime}$ with flux by analyzing 7 epochs (2005 to 2022) of Keck Observatory imaging observations from the Galactic Center Orbits Initiative (GCOI). We remove the flux contribution of known sources confused with Sgr A*-NIR, which can significantly impact color at faint flux levels. We interpolate between the interleaved $H$ and $K^\\prime$ observations using Multi-Output Gaussian Processes. We introduce a flexible empirical model to quantify $α$ variations and probe different scenarios. The observations are best fit by an $α_{H-K^\\prime} = - 0.50 \\pm 0.08 _{\\rm stat} \\pm 0.17_{\\rm sys}$ that is constant from $\\sim 1$ mJy to $\\sim 40$ mJy (dereddened 2 $μ$m flux). We find no evidence for a flux-dependence of Sgr A*'s intrinsic spectral index. In particular, we rule out a model explaining NIR variability purely by shifts in the synchrotron cutoff frequency. We also constrain the presence of redder, quiescent emission from the black hole, concluding that the dereddened 2 $μ$m flux contribution must be $\\leq 0.3$ mJy at 95% confidence level.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.HE, astro-ph.GA"
+}

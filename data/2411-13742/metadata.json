@@ -1,0 +1,16 @@
+{
+  "title": "Benchmarking a wide range of optimisers for solving the Fermi-Hubbard model using the variational quantum eigensolver",
+  "authors": [
+    "Benjamin D. M. Jones",
+    "Lana Mineh",
+    "Ashley Montanaro"
+  ],
+  "summary": "We numerically benchmark 30 optimisers on 372 instances of the variational quantum eigensolver for solving the Fermi-Hubbard system with the Hamiltonian variational ansatz. We rank the optimisers with respect to metrics such as final energy achieved and function calls needed to get within a certain tolerance level, and find that the best performing optimisers are variants of gradient descent such as Momentum and ADAM (using finite difference), SPSA, CMAES, and BayesMGD. We also perform gradient analysis and observe that the step size for finite difference has a very significant impact. We also consider using simultaneous perturbation (inspired by SPSA) as a gradient subroutine: here finite difference can lead to a more precise estimate of the ground state but uses more calls, whereas simultaneous perturbation can converge quicker but may be less precise in the later stages. Finally, we also study the quantum natural gradient algorithm: we implement this method for 1-dimensional Fermi-Hubbard systems, and find that whilst it can reach a lower energy with fewer iterations, this improvement is typically lost when taking total function calls into account. Our method involves performing careful hyperparameter sweeping on 4 instances. We present a variety of analysis and figures, detailed optimiser notes, and discuss future directions.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-01-20"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, cs.LG, cs.NE"
+}

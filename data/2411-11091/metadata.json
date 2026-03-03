@@ -1,0 +1,25 @@
+{
+  "title": "KV-Tandem -- a Modular Approach to Building High-Speed LSM Storage Engines",
+  "authors": [
+    "Edward Bortnikov",
+    "Michael Azran",
+    "Asa Bornstein",
+    "Shmuel Dashevsky",
+    "Dennis Huang",
+    "Omer Kepten",
+    "Michael Pan",
+    "Gali Sheffi",
+    "Moshe Twitto",
+    "Tamar Weiss Orzech",
+    "Idit Keidar",
+    "Guy Gueta",
+    "Roey Maor",
+    "Niv Dayan"
+  ],
+  "summary": "We present~\\emph{KV-Tandem}, a modular architecture for building LSM-based storage engines on top of simple, non-ordered persistent key-value stores (KVSs). KV-Tandem enables advanced functionalities such as range queries and snapshot reads, while maintaining the native KVS performance for random reads and writes. Its modular design offers better performance trade-offs compared to previous KV-separation solutions, which struggle to decompose the monolithic LSM structure. Central to KV-Tandem is~\\emph{LSM bypass} -- a novel algorithm that offers a fast path to basic operations while ensuring the correctness of advanced APIs.\n  We implement KV-Tandem in \\emph{XDP-Rocks}, a RocksDB-compatible storage engine that leverages the XDP KVS and incorporates practical design optimizations for real-world deployment. Through extensive microbenchmark and system-level comparisons, we demonstrate that XDP-Rocks achieves 3x to 4x performance improvements over RocksDB across various workloads. XDP-Rocks is already deployed in production, delivering significant operator cost savings consistent with these performance gains.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DB"
+}

@@ -1,0 +1,1132 @@
+{
+  "2410-08015": {
+    "title": "Non-transferable Pruning",
+    "authors": [
+      "Ruyi Ding",
+      "Lili Su",
+      "A. A. Ding",
+      "Yunsi Fei"
+    ],
+    "publication_date": "2024-10-10",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "99b80266106a89750192ff93ece4b21fccafd349",
+    "corpus_id": 273233625,
+    "category": "Computer Science"
+  },
+  "2308-07308": {
+    "title": "LLM Self Defense: By Self Examination, LLMs Know They Are Being Tricked",
+    "authors": [
+      "Alec Helbling",
+      "Mansi Phute",
+      "Matthew Hull",
+      "Sebastian Szyller",
+      "Duen Horng Chau"
+    ],
+    "publication_date": "2023-08-14",
+    "venue": "Tiny Papers @ ICLR",
+    "semantic_scholar_id": "2cdd5c3dc42c0df40bc8839709869af3560d4bfe",
+    "corpus_id": 260887487,
+    "category": "Computer Science"
+  },
+  "2307-12533": {
+    "title": "PUMA: Secure Inference of LLaMA-7B in Five Minutes",
+    "authors": [
+      "Ye Dong",
+      "Wen-jie Lu",
+      "Yancheng Zheng",
+      "Haoqi Wu",
+      "Derun Zhao",
+      "Jin Tan",
+      "Zhicong Huang",
+      "Cheng Hong",
+      "Tao Wei",
+      "Wen-Chang Cheng"
+    ],
+    "publication_date": "2023-07-24",
+    "venue": "Security and Safety",
+    "semantic_scholar_id": "5d74e5fe624aa81c94a6ecf74436fce214ebd0b2",
+    "corpus_id": 260125556,
+    "category": "Computer Science"
+  },
+  "2307-11342": {
+    "title": "Tuning Pre-trained Model via Moment Probing",
+    "authors": [
+      "Mingze Gao",
+      "Qilong Wang",
+      "Zhenyi Lin",
+      "Pengfei Zhu",
+      "Qinghua Hu",
+      "Jingbo Zhou"
+    ],
+    "publication_date": "2023-07-21",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "0d40b812ffd9735d46a1a9a928b06f759fb54fea",
+    "corpus_id": 260091697,
+    "category": "Computer Science"
+  },
+  "2306-04356": {
+    "title": "Fine-Grained Visual Prompting",
+    "authors": [
+      "Lingfeng Yang",
+      "Yueze Wang",
+      "Xiang Li",
+      "Xinlong Wang",
+      "Jian Yang"
+    ],
+    "publication_date": "2023-06-07",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "a01a9c4a114fbf201540268f928ccf77bc3f9357",
+    "corpus_id": 259096008,
+    "category": "Computer Science"
+  },
+  "2303-11078": {
+    "title": "Model Barrier: A Compact Un-Transferable Isolation Domain for Model Intellectual Property Protection",
+    "authors": [
+      "Lianyu Wang",
+      "Meng Wang",
+      "Daoqiang Zhang",
+      "H. Fu"
+    ],
+    "publication_date": "2023-03-20",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "217295a8209cd73d330d1129ee10b1f4a22961ed",
+    "corpus_id": 257632560,
+    "category": "Computer Science"
+  },
+  "2303-08774": {
+    "title": "GPT-4 Technical Report",
+    "authors": [
+      "OpenAI Josh Achiam",
+      "Steven Adler",
+      "Sandhini Agarwal",
+      "Lama Ahmad",
+      "Ilge Akkaya",
+      "Florencia Leoni Aleman",
+      "Diogo Almeida",
+      "Janko Altenschmidt",
+      "Sam Altman",
+      "Shyamal Anadkat",
+      "Red Avila",
+      "Igor Babuschkin",
+      "S. Balaji",
+      "Valerie Balcom",
+      "Paul Baltescu",
+      "Haim-ing Bao",
+      "Mo Bavarian",
+      "J. Belgum",
+      "Irwan Bello",
+      "Jake Berdine",
+      "Gabriel Bernadett-Shapiro",
+      "Christopher Berner",
+      "Lenny Bogdonoff",
+      "Oleg Boiko",
+      "Made-laine Boyd",
+      "Anna-Luisa Brakman",
+      "Greg Brockman",
+      "Tim Brooks",
+      "Miles Brundage",
+      "Kevin Button",
+      "Trevor Cai",
+      "Rosie Campbell",
+      "Andrew Cann",
+      "Brittany Carey",
+      "Chelsea Carlson",
+      "Rory Carmichael",
+      "Brooke Chan",
+      "Che Chang",
+      "Fotis Chantzis",
+      "Derek Chen",
+      "Sully Chen",
+      "Ruby Chen",
+      "Jason Chen",
+      "Mark Chen",
+      "Benjamin Chess",
+      "Chester Cho",
+      "Casey Chu",
+      "Hyung Won Chung",
+      "Dave Cummings",
+      "Jeremiah Currier",
+      "Yunxing Dai",
+      "Cory Decareaux",
+      "Thomas Degry",
+      "Noah Deutsch",
+      "Damien Deville",
+      "Arka Dhar",
+      "David Dohan",
+      "Steve Dowling",
+      "Sheila Dunning",
+      "Adrien Ecoffet",
+      "Atty Eleti",
+      "Tyna Eloundou",
+      "David Farhi",
+      "L. Fedus",
+      "Niko Felix",
+      "Sim'on Posada Fishman",
+      "Juston Forte",
+      "Is-abella Fulford",
+      "Leo Gao",
+      "Elie Georges",
+      "C. Gibson",
+      "Vik Goel",
+      "Tarun Gogineni",
+      "Gabriel Goh",
+      "Raphael Gontijo-Lopes",
+      "Jonathan Gordon",
+      "Morgan Grafstein",
+      "Scott Gray",
+      "Ryan Greene",
+      "Joshua Gross",
+      "S. Gu",
+      "Yufei Guo",
+      "Chris Hallacy",
+      "Jesse Han",
+      "Jeff Harris",
+      "Yuchen He",
+      "Mike Heaton",
+      "Johannes Heidecke",
+      "Chris Hesse",
+      "Alan Hickey",
+      "W. Hickey",
+      "Peter Hoeschele",
+      "Brandon Houghton",
+      "Kenny Hsu",
+      "Shengli Hu",
+      "Xin Hu",
+      "Joost Huizinga",
+      "Shantanu Jain",
+      "Shawn Jain",
+      "Joanne Jang",
+      "Angela Jiang",
+      "Roger Jiang",
+      "Haozhun Jin",
+      "Denny Jin",
+      "Shino Jomoto",
+      "B. Jonn",
+      "Heewoo Jun",
+      "Tomer Kaftan",
+      "Lukasz Kaiser",
+      "Ali Kamali",
+      "I. Kanitscheider",
+      "N. Keskar",
+      "Tabarak Khan",
+      "Logan Kilpatrick",
+      "Jong Wook Kim",
+      "Christina Kim",
+      "Yongjik Kim",
+      "Hendrik Kirchner",
+      "J. Kiros",
+      "Matthew Knight",
+      "Daniel Kokotajlo",
+      "Lukasz Kondraciuk",
+      "Andrew Kondrich",
+      "Aris Konstantinidis",
+      "Kyle Kosic",
+      "Gretchen Krueger",
+      "Vishal Kuo",
+      "Michael Lampe",
+      "Ikai Lan",
+      "Teddy Lee",
+      "Jan Leike",
+      "Jade Leung",
+      "Daniel Levy",
+      "Chak Li",
+      "Rachel Lim",
+      "Molly Lin",
+      "Stephanie Lin",
+      "Ma-teusz Litwin",
+      "Theresa Lopez",
+      "Ryan Lowe",
+      "Patricia Lue",
+      "A. Makanju",
+      "Kim Malfacini",
+      "Sam Manning",
+      "Todor Markov",
+      "Yaniv Markovski",
+      "Bianca Martin",
+      "Katie Mayer",
+      "Andrew Mayne",
+      "Bob McGrew",
+      "S. McKinney",
+      "Christine McLeavey",
+      "Paul McMillan",
+      "Jake McNeil",
+      "David Medina",
+      "Aalok Mehta",
+      "Jacob Menick",
+      "Luke Metz",
+      "An-drey Mishchenko",
+      "Pamela Mishkin",
+      "Vinnie Monaco",
+      "Evan Morikawa",
+      "Daniel P. Mossing",
+      "Tong Mu",
+      "Mira Murati",
+      "O. Murk",
+      "David M'ely",
+      "Ashvin Nair",
+      "Reiichiro Nakano",
+      "Rajeev Nayak",
+      "Arvind Neelakantan",
+      "Richard Ngo",
+      "Hyeonwoo Noh",
+      "Ouyang Long",
+      "Cullen O'Keefe",
+      "J. Pachocki",
+      "A. Paino",
+      "Joe Palermo",
+      "Ashley Pantuliano",
+      "Giambattista Parascandolo",
+      "J. Parish",
+      "Emy Parparita",
+      "Alexandre Passos",
+      "Mikhail Pavlov",
+      "Andrew Peng",
+      "Adam Perelman",
+      "Filipe de Avila Belbute Peres",
+      "Michael Petrov",
+      "Henrique Pondé de Oliveira Pinto",
+      "Michael Pokorny",
+      "Michelle Pokrass",
+      "Vitchyr H. Pong",
+      "Tolly Powell",
+      "Alethea Power",
+      "Boris Power",
+      "Elizabeth Proehl",
+      "Raul Puri",
+      "Alec Radford",
+      "Jack W. Rae",
+      "Aditya Ramesh",
+      "Cameron Raymond",
+      "Francis Real",
+      "Kendra Rimbach",
+      "Carl Ross",
+      "Bob Rotsted",
+      "Henri Roussez",
+      "N. Ryder",
+      "M. Saltarelli",
+      "Ted Sanders",
+      "Shibani Santurkar",
+      "Girish Sastry",
+      "Heather Schmidt",
+      "David Schnurr",
+      "John Schulman",
+      "Daniel Selsam",
+      "Kyla Sheppard",
+      "Toki Sherbakov",
+      "Jessica Shieh",
+      "Sarah Shoker",
+      "Pranav Shyam",
+      "Szymon Sidor",
+      "Eric Sigler",
+      "Maddie Simens",
+      "Jordan Sitkin",
+      "Katarina Slama",
+      "Ian Sohl",
+      "Benjamin Sokolowsky",
+      "Yang Song",
+      "Natalie Staudacher",
+      "F. Such",
+      "Natalie Summers",
+      "I. Sutskever",
+      "Jie Tang",
+      "N. Tezak",
+      "Madeleine Thompson",
+      "P. Tillet",
+      "Amin Tootoonchian",
+      "Elizabeth Tseng",
+      "Preston Tuggle",
+      "Nick Turley",
+      "Jerry Tworek",
+      "Juan Felipe Cer'on Uribe",
+      "Andrea Vallone",
+      "Arun Vijayvergiya",
+      "Chelsea Voss",
+      "Carroll L. Wainwright",
+      "Justin Jay Wang",
+      "Alvin Wang",
+      "Ben Wang",
+      "Jonathan Ward",
+      "Jason Wei",
+      "CJ Weinmann",
+      "Akila Welihinda",
+      "Peter Welinder",
+      "Jiayi Weng",
+      "Lilian Weng",
+      "Matt Wiethoff",
+      "Dave Willner",
+      "Clemens Winter",
+      "Samuel Wolrich",
+      "Hannah Wong",
+      "Lauren Workman",
+      "Sherwin Wu",
+      "Jeff Wu",
+      "Michael Wu",
+      "Kai Xiao",
+      "Tao Xu",
+      "Sarah Yoo",
+      "Kevin Yu",
+      "Qim-ing Yuan",
+      "Wojciech Zaremba",
+      "Rowan Zellers",
+      "Chong Zhang",
+      "Marvin Zhang",
+      "Shengjia Zhao",
+      "Tianhao Zheng",
+      "Juntang Zhuang",
+      "William Zhuk",
+      "Barret Zoph"
+    ],
+    "publication_date": "2023-03-15",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "163b4d6a79a5b19af88b8585456363340d9efd04",
+    "corpus_id": 257532815,
+    "category": "Computer Science"
+  },
+  "2301-02905": {
+    "title": "REaaS: Enabling Adversarially Robust Downstream Classifiers via Robust Encoder as a Service",
+    "authors": [
+      "Wenjie Qu",
+      "Jinyuan Jia",
+      "N. Gong"
+    ],
+    "publication_date": "2023-01-07",
+    "venue": "Network and Distributed System Security Symposium",
+    "semantic_scholar_id": "02566f16ef93471b375f382c4a42aed2da33ebcc",
+    "corpus_id": 255545785,
+    "category": "Computer Science"
+  },
+  "2212-04145": {
+    "title": "Decorate the Newcomers: Visual Domain Prompt for Continual Test Time Adaptation",
+    "authors": [
+      "Yulu Gan",
+      "Xianzheng Ma",
+      "Yihang Lou",
+      "Yan Bai",
+      "Renrui Zhang",
+      "Nian Shi",
+      "Lin Luo"
+    ],
+    "publication_date": "2022-12-08",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "165503c48e553a5559190ce74cda823f4e166b54",
+    "corpus_id": 254408580,
+    "category": "Computer Science"
+  },
+  "2209-10083": {
+    "title": "Federated Learning from Pre-Trained Models: A Contrastive Learning Approach",
+    "authors": [
+      "Yue Tan",
+      "Guodong Long",
+      "Jie Ma",
+      "Lu Liu",
+      "Tianyi Zhou",
+      "Jing Jiang"
+    ],
+    "publication_date": "2022-09-21",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "2510bd1b8bc09d7b8f08cf888297753c97c5ef44",
+    "corpus_id": 252407543,
+    "category": "Computer Science"
+  },
+  "2205-12390": {
+    "title": "Toxicity Detection with Generative Prompt-based Inference",
+    "authors": [
+      "Yau-Shian Wang",
+      "Y. Chang"
+    ],
+    "publication_date": "2022-05-24",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "2afb07359e9c67499e1f373ac6f1520d3ea9c46a",
+    "corpus_id": 249062985,
+    "category": "Computer Science"
+  },
+  "2203-17274": {
+    "title": "Exploring Visual Prompts for Adapting Large-Scale Models",
+    "authors": [
+      "Hyojin Bahng",
+      "Ali Jahanian",
+      "S. Sankaranarayanan",
+      "Phillip Isola"
+    ],
+    "publication_date": "2022-03-31",
+    "venue": "arXiv reference",
+    "semantic_scholar_id": "aa8c61c9f6bb21c57e49611ccb995cfda1b53b10",
+    "corpus_id": 249375187,
+    "category": "Computer Science"
+  },
+  "2203-12119": {
+    "title": "Visual Prompt Tuning",
+    "authors": [
+      "Menglin Jia",
+      "Luming Tang",
+      "Bor-Chun Chen",
+      "Claire Cardie",
+      "Serge J. Belongie",
+      "Bharath Hariharan",
+      "S. Lim"
+    ],
+    "publication_date": "2022-03-23",
+    "venue": "European Conference on Computer Vision",
+    "semantic_scholar_id": "adb272fbdea3631059cf88ab764bb6c2ce29f965",
+    "corpus_id": 247618727,
+    "category": "Computer Science"
+  },
+  "2203-03580": {
+    "title": "The Unsurprising Effectiveness of Pre-Trained Vision Models for Control",
+    "authors": [
+      "Simone Parisi",
+      "A. Rajeswaran",
+      "Senthil Purushwalkam",
+      "A. Gupta"
+    ],
+    "publication_date": "2022-03-07",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "7b3d26bd1d65ed5937c76043b5cd058260d8469f",
+    "corpus_id": 247292805,
+    "category": "Computer Science"
+  },
+  "2201-09679": {
+    "title": "A Review of Deep Transfer Learning and Recent Advancements",
+    "authors": [
+      "Mohammadreza Iman",
+      "K. Rasheed",
+      "H. Arabnia"
+    ],
+    "publication_date": "2022-01-19",
+    "venue": "Technologies",
+    "semantic_scholar_id": "5ca7cc4977a3394038fc083c5927aa4396607c72",
+    "corpus_id": 246240811,
+    "category": "Computer Science"
+  },
+  "2112-10752": {
+    "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+    "authors": [
+      "Robin Rombach",
+      "A. Blattmann",
+      "Dominik Lorenz",
+      "Patrick Esser",
+      "B. Ommer"
+    ],
+    "publication_date": "2021-12-20",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "c10075b3746a9f3dd5811970e93c8ca3ad39b39d",
+    "corpus_id": 245335280,
+    "category": "Computer Science"
+  },
+  "2203-00667": {
+    "title": "Generative Adversarial Networks",
+    "authors": [
+      "I. Goodfellow",
+      "Jean Pouget-Abadie",
+      "Mehdi Mirza",
+      "Bing Xu",
+      "David Warde-Farley",
+      "Sherjil Ozair",
+      "Aaron C. Courville",
+      "Yoshua Bengio"
+    ],
+    "publication_date": "2021-12-15",
+    "venue": "International Conference on Computing Communication and Networking Technologies",
+    "semantic_scholar_id": "6296aa7cab06eaf058f7291040b320b5a83c0091",
+    "corpus_id": 1033682,
+    "category": "Computer Science, Engineering"
+  },
+  "2111-11432": {
+    "title": "Florence: A New Foundation Model for Computer Vision",
+    "authors": [
+      "Lu Yuan",
+      "Dongdong Chen",
+      "Yi-Ling Chen",
+      "N. Codella",
+      "Xiyang Dai",
+      "Jianfeng Gao",
+      "Houdong Hu",
+      "Xuedong Huang",
+      "Boxin Li",
+      "Chunyuan Li",
+      "Ce Liu",
+      "Mengchen Liu",
+      "Zicheng Liu",
+      "Yumao Lu",
+      "Yu Shi",
+      "Lijuan Wang",
+      "Jianfeng Wang",
+      "Bin Xiao",
+      "Zhen Xiao",
+      "Jianwei Yang",
+      "Michael Zeng",
+      "Luowei Zhou",
+      "Pengchuan Zhang"
+    ],
+    "publication_date": "2021-11-22",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "21ec90872abd986c12afe39bebe807732ffa70c9",
+    "corpus_id": 244477674,
+    "category": "Computer Science"
+  },
+  "2111-06377": {
+    "title": "Masked Autoencoders Are Scalable Vision Learners",
+    "authors": [
+      "Kaiming He",
+      "Xinlei Chen",
+      "Saining Xie",
+      "Yanghao Li",
+      "Piotr Doll'ar",
+      "Ross B. Girshick"
+    ],
+    "publication_date": "2021-11-11",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "6351ebb4a3287f5f3e1273464b3b91e5df5a16d7",
+    "corpus_id": 243985980,
+    "category": "Computer Science"
+  },
+  "2106-07139": {
+    "title": "Pre-Trained Models: Past, Present and Future",
+    "authors": [
+      "Xu Han",
+      "Zhengyan Zhang",
+      "Ning Ding",
+      "Yuxian Gu",
+      "Xiao Liu",
+      "Yuqi Huo",
+      "J. Qiu",
+      "Liang Zhang",
+      "Wentao Han",
+      "Minlie Huang",
+      "Qin Jin",
+      "Yanyan Lan",
+      "Yang Liu",
+      "Zhiyuan Liu",
+      "Zhiwu Lu",
+      "Xipeng Qiu",
+      "Ruihua Song",
+      "Jie Tang",
+      "Ji-rong Wen",
+      "Jinhui Yuan",
+      "Wayne Xin Zhao",
+      "Jun Zhu"
+    ],
+    "publication_date": "2021-06-14",
+    "venue": "AI Open",
+    "semantic_scholar_id": "feba0c47bf12a02c3a725174bb53df78658a72a8",
+    "corpus_id": 235421816,
+    "category": "Computer Science"
+  },
+  "2106-06916": {
+    "title": "Non-Transferable Learning: A New Approach for Model Ownership Verification and Applicability Authorization",
+    "authors": [
+      "Lixu Wang",
+      "Shichao Xu",
+      "Ruiqi Xu",
+      "Xiao Wang",
+      "Qi Zhu"
+    ],
+    "publication_date": "2021-06-13",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "a343ed52ae6075168272f0c70ee989ef81c46a83",
+    "corpus_id": 247158489,
+    "category": "Computer Science, Mathematics"
+  },
+  "2106-08890": {
+    "title": "ModelDiff: testing-based DNN similarity comparison for model reuse detection",
+    "authors": [
+      "Yuanchun Li",
+      "Ziqi Zhang",
+      "Bingyan Liu",
+      "Ziyue Yang",
+      "Yunxin Liu"
+    ],
+    "publication_date": "2021-06-11",
+    "venue": "International Symposium on Software Testing and Analysis",
+    "semantic_scholar_id": "9fd00a4044aa2eab1cc5f8bfafee59604fb01989",
+    "corpus_id": 235446674,
+    "category": "Computer Science"
+  },
+  "2105-10185": {
+    "title": "A Non-Linear Structural Probe",
+    "authors": [
+      "Jennifer C. White",
+      "Tiago Pimentel",
+      "Naomi Saphra",
+      "Ryan Cotterell"
+    ],
+    "publication_date": "2021-05-21",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "380ed27cad8475c70eff7508f0ef4bc962fad0d3",
+    "corpus_id": 235097306,
+    "category": "Computer Science"
+  },
+  "2104-14294": {
+    "title": "Emerging Properties in Self-Supervised Vision Transformers",
+    "authors": [
+      "Mathilde Caron",
+      "Hugo Touvron",
+      "Ishan Misra",
+      "Herv'e J'egou",
+      "J. Mairal",
+      "Piotr Bojanowski",
+      "Armand Joulin"
+    ],
+    "publication_date": "2021-04-29",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "ad4a0938c48e61b7827869e4ac3baffd0aefab35",
+    "corpus_id": 233444273,
+    "category": "Computer Science"
+  },
+  "2103-01542": {
+    "title": "TransTailor: Pruning the Pre-trained Model for Improved Transfer Learning",
+    "authors": [
+      "Bingyan Liu",
+      "Yifeng Cai",
+      "Yao Guo",
+      "Xiangqun Chen"
+    ],
+    "publication_date": "2021-03-02",
+    "venue": "AAAI Conference on Artificial Intelligence",
+    "semantic_scholar_id": "4e28880fdfea67e411fb7184e656d1471f293f76",
+    "corpus_id": 232092752,
+    "category": "Computer Science"
+  },
+  "2103-00020": {
+    "title": "Learning Transferable Visual Models From Natural Language Supervision",
+    "authors": [
+      "Alec Radford",
+      "Jong Wook Kim",
+      "Chris Hallacy",
+      "A. Ramesh",
+      "Gabriel Goh",
+      "Sandhini Agarwal",
+      "Girish Sastry",
+      "Amanda Askell",
+      "Pamela Mishkin",
+      "Jack Clark",
+      "Gretchen Krueger",
+      "I. Sutskever"
+    ],
+    "publication_date": "2021-02-26",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4",
+    "corpus_id": 231591445,
+    "category": "Computer Science"
+  },
+  "2102-12452": {
+    "title": "Probing Classifiers: Promises, Shortcomings, and Advances",
+    "authors": [
+      "Yonatan Belinkov"
+    ],
+    "publication_date": "2021-02-24",
+    "venue": "International Conference on Computational Logic",
+    "semantic_scholar_id": "3dcfa05a1c162e6cab927c5b08d0444f7b6691f4",
+    "corpus_id": 236924832,
+    "category": "Computer Science"
+  },
+  "2012-12556": {
+    "title": "A Survey on Vision Transformer",
+    "authors": [
+      "Kai Han",
+      "Yunhe Wang",
+      "Hanting Chen",
+      "Xinghao Chen",
+      "Jianyuan Guo",
+      "Zhenhua Liu",
+      "Yehui Tang",
+      "An Xiao",
+      "Chunjing Xu",
+      "Yixing Xu",
+      "Zhaohui Yang",
+      "Yiman Zhang",
+      "D. Tao"
+    ],
+    "publication_date": "2020-12-23",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "d40c77c010c8dbef6142903a02f2a73a85012d5d",
+    "corpus_id": 236986986,
+    "category": "Medicine, Computer Science"
+  },
+  "2011-00362": {
+    "title": "A Survey on Contrastive Self-supervised Learning",
+    "authors": [
+      "Ashish Jaiswal",
+      "Ashwin Ramesh Babu",
+      "Mohammad Zaki Zadeh",
+      "Debapriya Banerjee",
+      "F. Makedon"
+    ],
+    "publication_date": "2020-10-31",
+    "venue": "Technologies",
+    "semantic_scholar_id": "02f3c052a9cf675a6f033eac56c9dacb0a10ea28",
+    "corpus_id": 226227230,
+    "category": "Computer Science"
+  },
+  "2010-05113": {
+    "title": "Contrastive Representation Learning: A Framework and Review",
+    "authors": [
+      "Phúc H. Lê Khắc",
+      "G. Healy",
+      "A. Smeaton"
+    ],
+    "publication_date": "2020-10-10",
+    "venue": "IEEE Access",
+    "semantic_scholar_id": "4f0a8cad6d6a8d0397ad1bd35acce6458aa7164c",
+    "corpus_id": 222291214,
+    "category": "Computer Science, Mathematics"
+  },
+  "2008-05966": {
+    "title": "Deep-Lock: Secure Authorization for Deep Neural Networks",
+    "authors": [
+      "Manaar Alam",
+      "Sayandeep Saha",
+      "Debdeep Mukhopadhyay",
+      "S. Kundu"
+    ],
+    "publication_date": "2020-08-13",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "fb6910aecf6c44927b81cffbc67d4dabec831e7b",
+    "corpus_id": 221112193,
+    "category": "Computer Science, Mathematics"
+  },
+  "2005-00719": {
+    "title": "Probing the Probing Paradigm: Does Probing Accuracy Entail Task Relevance?",
+    "authors": [
+      "Abhilasha Ravichander",
+      "Yonatan Belinkov",
+      "E. Hovy"
+    ],
+    "publication_date": "2020-05-02",
+    "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "a4c0c16da0caaf4ed47fe94681f57029bff4be3b",
+    "corpus_id": 218486796,
+    "category": "Computer Science"
+  },
+  "2003-08271": {
+    "title": "Pre-trained models for natural language processing: A survey",
+    "authors": [
+      "Xipeng Qiu",
+      "Tianxiang Sun",
+      "Yige Xu",
+      "Yunfan Shao",
+      "Ning Dai",
+      "Xuanjing Huang"
+    ],
+    "publication_date": "2020-03-18",
+    "venue": "Science China Technological Sciences",
+    "semantic_scholar_id": "3bcb17559ce96eb20fa79af8194f4af0380d194a",
+    "corpus_id": 212747830,
+    "category": "Computer Science"
+  },
+  "2002-12200": {
+    "title": "Entangled Watermarks as a Defense against Model Extraction",
+    "authors": [
+      "Hengrui Jia",
+      "Christopher A. Choquette-Choo",
+      "Nicolas Papernot"
+    ],
+    "publication_date": "2020-02-27",
+    "venue": "USENIX Security Symposium",
+    "semantic_scholar_id": "abbb0fd559ade70265f4f528df094fbbd8ae2040",
+    "corpus_id": 211532649,
+    "category": "Computer Science, Mathematics"
+  },
+  "2002-07217": {
+    "title": "Decision-Making with Auto-Encoding Variational Bayes",
+    "authors": [
+      "Romain Lopez",
+      "Pierre Boyeau",
+      "N. Yosef",
+      "Michael I. Jordan",
+      "J. Regier"
+    ],
+    "publication_date": "2020-02-17",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "ef4f5a50837a7c1b3e87b9300ffc7ba00d461a0f",
+    "corpus_id": 211146177,
+    "category": "Mathematics, Computer Science"
+  },
+  "2002-05709": {
+    "title": "A Simple Framework for Contrastive Learning of Visual Representations",
+    "authors": [
+      "Ting Chen",
+      "Simon Kornblith",
+      "Mohammad Norouzi",
+      "Geoffrey E. Hinton"
+    ],
+    "publication_date": "2020-02-13",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "7af72a461ed7cda180e7eab878efd5f35d79bbf4",
+    "corpus_id": 211096730,
+    "category": "Computer Science, Mathematics"
+  },
+  "2002-04688": {
+    "title": "fastai: A Layered API for Deep Learning",
+    "authors": [
+      "Jeremy Howard",
+      "Sylvain Gugger"
+    ],
+    "publication_date": "2020-02-11",
+    "venue": "Inf.",
+    "semantic_scholar_id": "91e611c3e8705002438fb4439733e47ddec85b5d",
+    "corpus_id": 211082837,
+    "category": "Computer Science, Mathematics"
+  },
+  "1911-05722": {
+    "title": "Momentum Contrast for Unsupervised Visual Representation Learning",
+    "authors": [
+      "Kaiming He",
+      "Haoqi Fan",
+      "Yuxin Wu",
+      "Saining Xie",
+      "Ross B. Girshick"
+    ],
+    "publication_date": "2019-11-13",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "add2f205338d70e10ce5e686df4a690e2851bdfc",
+    "corpus_id": 207930212,
+    "category": "Computer Science"
+  },
+  "1911-03584": {
+    "title": "On the Relationship between Self-Attention and Convolutional Layers",
+    "authors": [
+      "Jean-Baptiste Cordonnier",
+      "Andreas Loukas",
+      "Martin Jaggi"
+    ],
+    "publication_date": "2019-11-08",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "bb713d56a39a040b35e4f9e036fb4422f543e614",
+    "corpus_id": 207852415,
+    "category": "Computer Science, Mathematics"
+  },
+  "1906-12340": {
+    "title": "Using Self-Supervised Learning Can Improve Model Robustness and Uncertainty",
+    "authors": [
+      "Dan Hendrycks",
+      "Mantas Mazeika",
+      "Saurav Kadavath",
+      "D. Song"
+    ],
+    "publication_date": "2019-06-28",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "db787640c9b42416ff8d7015546e667e58267177",
+    "corpus_id": 195750576,
+    "category": "Computer Science, Mathematics"
+  },
+  "1905-12032": {
+    "title": "Fault Sneaking Attack: a Stealthy Framework for Misleading Deep Neural Networks",
+    "authors": [
+      "Pu Zhao",
+      "Siyue Wang",
+      "Cheng Gongye",
+      "Yanzhi Wang",
+      "Yunsi Fei",
+      "X. Lin"
+    ],
+    "publication_date": "2019-05-28",
+    "venue": "Design Automation Conference",
+    "semantic_scholar_id": "549180d76bc15ec3fcb9fa0e34d06bf7173faa6b",
+    "corpus_id": 163164543,
+    "category": "Computer Science, Mathematics"
+  },
+  "1903-12269": {
+    "title": "Bit-Flip Attack: Crushing Neural Network With Progressive Bit Search",
+    "authors": [
+      "A. S. Rakin",
+      "Zhezhi He",
+      "Deliang Fan"
+    ],
+    "publication_date": "2019-03-28",
+    "venue": "IEEE International Conference on Computer Vision",
+    "semantic_scholar_id": "18f1029ed3291268932cd2d268f2d8b1ded0abcf",
+    "corpus_id": 88517934,
+    "category": "Computer Science"
+  },
+  "1902-10547": {
+    "title": "An Embarrassingly Simple Approach for Transfer Learning from Pretrained Language Models",
+    "authors": [
+      "Alexandra Chronopoulou",
+      "Christos Baziotis",
+      "A. Potamianos"
+    ],
+    "publication_date": "2019-02-27",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "578e050d6e007797d032a07e712142035f2666dc",
+    "corpus_id": 67855637,
+    "category": "Computer Science"
+  },
+  "1810-05270": {
+    "title": "Rethinking the Value of Network Pruning",
+    "authors": [
+      "Zhuang Liu",
+      "Mingjie Sun",
+      "Tinghui Zhou",
+      "Gao Huang",
+      "Trevor Darrell"
+    ],
+    "publication_date": "2018-09-27",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "4a1004ecd34118116344633c7cdcc34493c423ee",
+    "corpus_id": 52978527,
+    "category": "Computer Science, Mathematics"
+  },
+  "1803-03635": {
+    "title": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks",
+    "authors": [
+      "Jonathan Frankle",
+      "Michael Carbin"
+    ],
+    "publication_date": "2018-03-09",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "21937ecd9d66567184b83eca3d3e09eb4e6fbd60",
+    "corpus_id": 53388625,
+    "category": "Computer Science, Mathematics"
+  },
+  "1710-01878": {
+    "title": "To prune, or not to prune: exploring the efficacy of pruning for model compression",
+    "authors": [
+      "Michael Zhu",
+      "Suyog Gupta"
+    ],
+    "publication_date": "2017-10-05",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "3b4d671a8c7018c0b42673ba581e5ff3ae762d6c",
+    "corpus_id": 27494814,
+    "category": "Computer Science, Mathematics"
+  },
+  "1611-08331": {
+    "title": "An Overview on Data Representation Learning: From Traditional Feature Learning to Recent Deep Learning",
+    "authors": [
+      "G. Zhong",
+      "Lina Wang",
+      "Junyu Dong"
+    ],
+    "publication_date": "2016-11-25",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "3fcce81b891697a56d0a6e65e35b5443fa51fab4",
+    "corpus_id": 14070411,
+    "category": "Computer Science, Mathematics"
+  },
+  "1610-02391": {
+    "title": "Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization",
+    "authors": [
+      "Ramprasaath R. Selvaraju",
+      "Abhishek Das",
+      "Ramakrishna Vedantam",
+      "Michael Cogswell",
+      "Devi Parikh",
+      "Dhruv Batra"
+    ],
+    "publication_date": "2016-10-07",
+    "venue": "International Journal of Computer Vision",
+    "semantic_scholar_id": "5582bebed97947a41e3ddd9bd1f284b73f1648c2",
+    "corpus_id": 15019293,
+    "category": "Computer Science"
+  },
+  "1706-00712": {
+    "title": "Convolutional Neural Networks for Medical Image Analysis: Full Training or Fine Tuning?",
+    "authors": [
+      "Nima Tajbakhsh",
+      "Jae Y. Shin",
+      "S. Gurudu",
+      "R. T. Hurst",
+      "Christopher B. Kendall",
+      "M. Gotway",
+      "Jianming Liang"
+    ],
+    "publication_date": "2016-03-07",
+    "venue": "IEEE Transactions on Medical Imaging",
+    "semantic_scholar_id": "ccdc50de7a0602d3df5ed9bd9782565bbff2a8eb",
+    "corpus_id": 32710,
+    "category": "Computer Science, Mathematics, Medicine"
+  },
+  "1512-03385": {
+    "title": "Deep Residual Learning for Image Recognition",
+    "authors": [
+      "Kaiming He",
+      "X. Zhang",
+      "Shaoqing Ren",
+      "Jian Sun"
+    ],
+    "publication_date": "2015-12-10",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "2c03df8b48bf3fa39054345bafabfeff15bfd11d",
+    "corpus_id": 206594692,
+    "category": "Computer Science"
+  },
+  "1505-07818": {
+    "title": "Domain-Adversarial Training of Neural Networks",
+    "authors": [
+      "Yaroslav Ganin",
+      "E. Ustinova",
+      "Hana Ajakan",
+      "Pascal Germain",
+      "H. Larochelle",
+      "François Laviolette",
+      "M. Marchand",
+      "V. Lempitsky"
+    ],
+    "publication_date": "2015-05-28",
+    "venue": "Journal of machine learning research",
+    "semantic_scholar_id": "1d5972b32a9b5a455a6eef389de5b7fca25771ad",
+    "corpus_id": 2871880,
+    "category": "Computer Science, Mathematics"
+  },
+  "1412-6980": {
+    "title": "Adam: A Method for Stochastic Optimization",
+    "authors": [
+      "Diederik P. Kingma",
+      "Jimmy Ba"
+    ],
+    "publication_date": "2014-12-22",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "a6cb366736791bcccc5c8639de5a8f9636bf87e8",
+    "corpus_id": 6628106,
+    "category": "Mathematics, Computer Science"
+  },
+  "1409-7495": {
+    "title": "Unsupervised Domain Adaptation by Backpropagation",
+    "authors": [
+      "Yaroslav Ganin",
+      "V. Lempitsky"
+    ],
+    "publication_date": "2014-09-26",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "2530cfc7764bda1330c48c0c8e2cd0e0c671d7e1",
+    "corpus_id": 6755881,
+    "category": "Mathematics, Computer Science"
+  },
+  "1409-1556": {
+    "title": "Very Deep Convolutional Networks for Large-Scale Image Recognition",
+    "authors": [
+      "K. Simonyan",
+      "Andrew Zisserman"
+    ],
+    "publication_date": "2014-09-04",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "eb42cf88027de515750f230b23b1a057dc782108",
+    "corpus_id": 14124313,
+    "category": "Computer Science"
+  },
+  "1212-5701": {
+    "title": "ADADELTA: An Adaptive Learning Rate Method",
+    "authors": [
+      "Matthew D. Zeiler"
+    ],
+    "publication_date": "2012-12-22",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "8729441d734782c3ed532a7d2d9611b438c0a09a",
+    "corpus_id": 7365802,
+    "category": "Computer Science"
+  },
+  "1206-5538": {
+    "title": "Representation Learning: A Review and New Perspectives",
+    "authors": [
+      "Yoshua Bengio",
+      "Aaron C. Courville",
+      "Pascal Vincent"
+    ],
+    "publication_date": "2012-06-24",
+    "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+    "semantic_scholar_id": "184ac0766262312ba76bbdece4e7ffad0aa8180b",
+    "corpus_id": 393948,
+    "category": "Computer Science, Medicine, Mathematics"
+  }
+}

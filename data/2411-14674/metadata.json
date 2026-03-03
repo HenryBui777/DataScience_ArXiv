@@ -1,0 +1,18 @@
+{
+  "title": "Summarizing Bayesian Nonparametric Mixture Posterior -- Sliced Optimal Transport Metrics for Gaussian Mixtures",
+  "authors": [
+    "Khai Nguyen",
+    "Peter Mueller"
+  ],
+  "summary": "Existing methods to summarize posterior inference for mixture models focus on identifying a point estimate of the implied random partition for clustering, with density estimation as a secondary goal (Wade and Ghahramani, 2018; Dahl et al., 2022). We propose a novel approach for summarizing posterior inference in nonparametric Bayesian mixture models, prioritizing estimation of the mixing measure (or mixture) as an inference target. One of the key features is the model-agnostic nature of the approach, which remains valid under arbitrarily complex dependence structures in the underlying sampling model. Using a decision-theoretic framework, our method identifies a point estimate by minimizing posterior expected loss. A loss function is defined as a discrepancy between mixing measures. Estimating the mixing measure implies inference on the mixture density and the random partition. Exploiting the discrete nature of the mixing measure, we use a version of sliced Wasserstein distance. We introduce two specific variants for Gaussian mixtures. The first, mixed sliced Wasserstein, applies generalized geodesic projections on the product of the Euclidean space and the manifold of symmetric positive definite matrices. The second, sliced mixture Wasserstein, leverages the linearity of Gaussian mixture measures for efficient projection",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2024-11-25",
+    "2025-01-02",
+    "2025-01-03",
+    "2025-05-08"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME, stat.AP, stat.CO, stat.ML"
+}

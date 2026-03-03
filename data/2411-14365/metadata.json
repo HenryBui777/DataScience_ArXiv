@@ -1,0 +1,15 @@
+{
+  "title": "Formal Simulation and Visualisation of Hybrid Programs",
+  "authors": [
+    "Pedro Mendes",
+    "Ricardo Correia",
+    "Renato Neves",
+    "José Proença"
+  ],
+  "summary": "The design and analysis of systems that combine computational behaviour with physical processes' continuous dynamics - such as movement, velocity, and voltage - is a famous, challenging task. Several theoretical results from programming theory emerged in the last decades to tackle the issue; some of which are the basis of a proof-of-concept tool, called Lince, that aids in the analysis of such systems, by presenting simulations of their respective behaviours.\n  However being a proof-of-concept, the tool is quite limited with respect to usability, and when attempting to apply it to a set of common, concrete problems, involving autonomous driving and others, it either simply cannot simulate them or fails to provide a satisfactory user-experience.\n  The current work complements the aforementioned theoretical approaches with a more practical perspective, by improving Lince along several dimensions: to name a few, richer syntactic constructs, more operations, more informative plotting systems and errors messages, and a better performance overall. We illustrate our improvements via a variety of examples that involve both autonomous driving and electrical systems.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "EPTCS 411, 2024, pp. 20-37",
+  "pdf_url": null,
+  "category": "eess.SY, cs.PL"
+}

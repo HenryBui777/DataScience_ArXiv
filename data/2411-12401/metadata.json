@@ -1,0 +1,16 @@
+{
+  "title": "Design of an FPGA-Based Neutral Atom Rearrangement Accelerator for Quantum Computing",
+  "authors": [
+    "Xiaorang Guo",
+    "Jonas Winklmann",
+    "Dirk Stober",
+    "Amr Elsharkawy",
+    "Martin Schulz"
+  ],
+  "summary": "Neutral atoms have emerged as a promising technology for implementing quantum computers due to their scalability and long coherence times. However, the execution frequency of neutral atom quantum computers is constrained by image processing procedures, particularly the assembly of defect-free atom arrays, which is a crucial step in preparing qubits (atoms) for execution. To optimize this assembly process, we propose a novel quadrant-based rearrangement algorithm that employs a divide-and-conquer strategy and also enables the simultaneous movement of multiple atoms, even across different columns and rows. We implement the algorithm on FPGA to handle each quadrant independently (hardware-level optimization) while maximizing parallelization. To the best of our knowledge, this is the first hardware acceleration work for atom rearrangement, and it significantly reduces the processing time. This achievement also contributes to the ongoing efforts of tightly integrating quantum accelerators into High-Performance Computing (HPC) systems. Tested on a Zynq RFSoC FPGA at 250 MHz, our hardware implementation is able to complete the rearrangement process of a 30$\\times$30 compact target array, derived from a 50$\\times$50 initial loaded array, in approximately 1.0 $μs$. Compared to a comparable CPU implementation and to state-of-the-art FPGA work, we achieved about 54$\\times$ and 300$\\times$ speedups in the rearrangement analysis time, respectively. Additionally, the FPGA-based acceleration demonstrates good scalability, allowing for seamless adaptation to varying sizes of the atom array, which makes this algorithm a promising solution for large-scale quantum systems.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph, cs.AR, cs.ET"
+}

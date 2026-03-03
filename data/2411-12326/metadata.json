@@ -1,0 +1,12 @@
+{
+  "title": "A note on contractive semi-groups on a 1:1 junction for scalar conservation laws and Hamilton-Jacobi equations",
+  "authors": [
+    "P Cardaliaguet"
+  ],
+  "summary": "We show that any continuous semi-group on $L^1$ which is (i) $L^1-$contractive, (ii) satisfies the conservation law $\\partial_t ρ+\\partial_x(H(x,ρ))=0$ in $\\mathbb{R}_+\\times (\\mathbb{R}\\backslash\\{0\\})$ (for a space discontinuous flux $H(x,p)= H^l(p) {\\bf 1}_{x<0}+ H^r(p) {\\bf 1}_{x>0}$), and (iii) satisfies natural continuity and scaling properties, is necessarily given by a germ condition at the junction: $ρ(t,0)\\in \\mathcal G$ a.e., where $\\mathcal G$ is a maximal, $L^1-$dissipative and complete germ. In a symmetric way, we prove that any continuous semi-group on $L^\\infty$ which is (i) $L^\\infty-$contractive, (ii) satisfies with the Hamilton-Jacobi equation $\\partial_t u+H(x,\\partial_x u)=0$ in $\\mathbb{R}_+\\times (\\mathbb{R}\\backslash\\{0\\})$ (for a space discontinuous Hamiltonian $H$ as above), and (iii) satisfies natural continuity and scaling properties, is necessarily given by a flux limited solution of the Hamilton-Jacobi equation.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.AP"
+}

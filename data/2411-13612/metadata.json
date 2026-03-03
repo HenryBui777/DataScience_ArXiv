@@ -1,0 +1,16 @@
+{
+  "title": "Efficient Streaming Voice Steganalysis in Challenging Detection Scenarios",
+  "authors": [
+    "Pengcheng Zhou",
+    "Zhengyang Fang",
+    "Zhongliang Yang",
+    "Zhili Zhou",
+    "Linna Zhou"
+  ],
+  "summary": "In recent years, there has been an increasing number of information hiding techniques based on network streaming media, focusing on how to covertly and efficiently embed secret information into real-time transmitted network media signals to achieve concealed communication. The misuse of these techniques can lead to significant security risks, such as the spread of malicious code, commands, and viruses. Current steganalysis methods for network voice streams face two major challenges: efficient detection under low embedding rates and short duration conditions. These challenges arise because, with low embedding rates (e.g., as low as 10%) and short transmission durations (e.g., only 0.1 second), detection models struggle to acquire sufficiently rich sample features, making effective steganalysis difficult. To address these challenges, this paper introduces a Dual-View VoIP Steganalysis Framework (DVSF). The framework first randomly obfuscates parts of the native steganographic descriptors in VoIP stream segments, making the steganographic features of hard-to-detect samples more pronounced and easier to learn. It then captures fine-grained local features related to steganography, building on the global features of VoIP. Specially constructed VoIP segment triplets further adjust the feature distances within the model. Ultimately, this method effectively address the detection difficulty in VoIP. Extensive experiments demonstrate that our method significantly improves the accuracy of streaming voice steganalysis in these challenging detection scenarios, surpassing existing state-of-the-art methods and offering superior near-real-time performance.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR, cs.LG, cs.SD, eess.AS"
+}

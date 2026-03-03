@@ -1,0 +1,18 @@
+{
+  "title": "Quantum versatility in PageRank",
+  "authors": [
+    "Wei-Wei Zhang",
+    "Zheping Wu",
+    "Hengyue Jia",
+    "Wei Zhao",
+    "Qingbing Ji",
+    "Wei Pan",
+    "Haobin Shi"
+  ],
+  "summary": "Quantum mechanics empowers the emergence of quantum advantages in various fields, including quantum algorithms. Quantum PageRank is a promising tool for a future quantum internet. Recently, arbitrary phase rotations (APR) have been introduced in the underlying Szegedy's quantum walk of quantum PageRank algorithm. In this work, we thoroughly study the role APR plays in quantum PageRank. We discover the versatility resulting from quantumness. Specifically, we discover the emergence of a cluster phenomenon in rankings considering the rotation phases, i.e. the existence of similar clusters in the distribution of the rankings and their fidelity with the corresponding classical PageRanks, the ranking distribution variance, the coherence and entanglement of PageRank states, and the power law parameter in the ranking distributions on a scale-free network concerning the two rotation phases. Furthermore, we propose an alternate quantum PageRank with APR which provides an extra tunnel for the analysis of PageRank. We also study the PageRank on the trackback graph of a scale-free graph for the investigation of network information traffic tracking. We demonstrate the rich cluster diversity formed in our alternate quantum PageRank, which offers a novel perspective on the quantum versatility of PageRank. Our results present the quantum-enabled perspective for PageRanking and shed light on the design and application of practical quantum PageRank algorithms.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "Phys. Rev. Research 6, 043163 (2024)",
+  "pdf_url": null,
+  "category": "quant-ph, physics.soc-ph"
+}

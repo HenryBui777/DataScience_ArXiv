@@ -1,0 +1,19 @@
+{
+  "title": "Just Leaf It: Accelerating Diffusion Classifiers with Hierarchical Class Pruning",
+  "authors": [
+    "Arundhati S. Shanbhag",
+    "Brian B. Moser",
+    "Tobias C. Nauen",
+    "Stanislav Frolov",
+    "Federico Raue",
+    "Andreas Dengel"
+  ],
+  "summary": "Diffusion models, celebrated for their generative capabilities, have recently demonstrated surprising effectiveness in image classification tasks by using Bayes' theorem. Yet, current diffusion classifiers must evaluate every label candidate for each input, creating high computational costs that impede their use in large-scale applications. To address this limitation, we propose a Hierarchical Diffusion Classifier (HDC) that exploits hierarchical label structures or well-defined parent-child relationships in the dataset. By pruning irrelevant high-level categories and refining predictions only within relevant subcategories (leaf nodes and sub-trees), HDC reduces the total number of class evaluations. As a result, HDC can speed up inference by as much as 60% while preserving and sometimes even improving classification accuracy. In summary, our work provides a tunable control mechanism between speed and precision, making diffusion-based classification more feasible for large-scale applications.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-03-08"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI, cs.LG"
+}

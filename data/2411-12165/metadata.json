@@ -1,0 +1,15 @@
+{
+  "title": "A slow spin to win -- the gradual evolution of the proto-Galaxy to the old disc",
+  "authors": [
+    "Akshara Viswanathan",
+    "Danny Horta",
+    "Adrian M. Price-Whelan",
+    "Else Starkenburg"
+  ],
+  "summary": "Observational studies are identifying stars thought to be remnants from the earliest stages of the hierarchical mass assembly of the Milky Way, referred to as the proto-Galaxy. We use red giant stars with kinematics and [$α$/M] and [M/H] estimates from Gaia DR3 data to investigate the relationship between azimuthal velocity and metallicity, aiming to understand the transition from a chaotic proto-Galaxy to a well-ordered, rotating (old) disc-like population. To analyse the structure of the data in [M/H]-v$_φ$ space for both high- and low-$α$ samples with carefully defined $α$-separation, we develop a model with two Gaussian components in v$_φ$: one representing a disc-like population and the other a halo-like population. This model is designed to capture the conditional distribution P(v$_φ$ $\\mid$ [M/H]) with a 2-component Gaussian Mixture Model with fixed azimuthal velocities means and standard deviations. To quantify the spin-up of the high-$α$ disc population, we extend this two-component model by allowing the mean velocity and velocity dispersion to vary between the spline knots across the metallicity range used. We also compare our findings with existing literature using traditional Gaussian Mixture Modelling in bins of [M/H] and investigate using orbital circularity instead of azimuthal velocity. Our findings show that the metal-poor high-$α$ disc gradually spins up across [M/H] $\\sim$ -1.7 to -1.0, while the low-$α$ sample exhibits a sharp transition at [M/H] $\\sim$ -1.0. This latter result is due to the accreted debris dominating the metal-poor end, underscoring the critical role of [$α$/M] selection in studying the (old) disc evolution of the Milky Way. These results indicate that the proto-Galaxy underwent a slow, monotonic spin-up phase rather than a rapid, dramatic spin-up at [M/H] $\\sim$ -1.0, as previously inferred.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.GA, astro-ph.SR"
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Steady-State Initialization of Object-Oriented Advanced Thermal Power Generation System Models with Application to the Case of the SOS-CO2 Cycle",
+  "authors": [
+    "Matteo Luigi De Pascali",
+    "Francesco Casella"
+  ],
+  "summary": "The forthcoming energy transition calls for a new generation of thermal power generation systems with low- or zero-emission and highly flexible operation. Dynamic modelling and simulation is a key enabling factor in this field, as controlling such plants is a difficult task for which there is no previous experience and very short design times are expected. The steady-state initialization of those dynamic models is an essential step in the design process, but is unfortunately a difficult task which involves the numerical solution of large systems of nonlinear equations with iterative Newton methods, which is often prone to numerical failures.\n  In this work, several strategies and methodologies are discussed to successfully achieve steady-state initialization of first-principles equation-based, object-oriented models of advanced thermal power generation systems. These are presented in the context of the Modelica modelling language, but could be applied to other equation-based, object-oriented modelling and simulation environments.\n  Finally, the successful application of such strategies and methodologies to the SOS-CO2 advanced power generation system is presented.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-01-22"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SY"
+}

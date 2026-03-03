@@ -1,0 +1,13 @@
+{
+  "title": "Hyper-parameter Optimization for Federated Learning with Step-wise Adaptive Mechanism",
+  "authors": [
+    "Yasaman Saadati",
+    "M. Hadi Amini"
+  ],
+  "summary": "Federated Learning (FL) is a decentralized learning approach that protects sensitive information by utilizing local model parameters rather than sharing clients' raw datasets. While this privacy-preserving method is widely employed across various applications, it still requires significant development and optimization. Automated Machine Learning (Auto-ML) has been adapted for reducing the need for manual adjustments. Previous studies have explored the integration of AutoML with different FL algorithms to evaluate their effectiveness in enhancing FL settings. However, Automated FL (Auto-FL) faces additional challenges due to the involvement of a large cohort of clients and global training rounds between clients and the server, rendering the tuning process time-consuming and nearly impossible on resource-constrained edge devices (e.g., IoT devices). This paper investigates the deployment and integration of two lightweight Hyper-Parameter Optimization (HPO) tools, Raytune and Optuna, within the context of FL settings. A step-wise feedback mechanism has also been designed to accelerate the hyper-parameter tuning process and coordinate AutoML toolkits with the FL server. To this end, both local and global feedback mechanisms are integrated to limit the search space and expedite the HPO process. Further, a novel client selection technique is introduced to mitigate the straggler effect in Auto-FL. The selected hyper-parameter tuning tools are evaluated using two benchmark datasets, FEMNIST, and CIFAR10. Further, the paper discusses the essential properties of successful HPO tools, the integration mechanism with the FL pipeline, and the challenges posed by the distributed and heterogeneous nature of FL environments.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.DC"
+}

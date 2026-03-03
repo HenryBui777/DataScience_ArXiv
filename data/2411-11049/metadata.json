@@ -1,0 +1,14 @@
+{
+  "title": "Fault-Equivalent Lowest Common Ancestors",
+  "authors": [
+    "Asaf Petruschka"
+  ],
+  "summary": "Let $T$ be a rooted tree in which a set $M$ of vertices are marked. The lowest common ancestor (LCA) of $M$ is the unique vertex $\\ell$ with the following property: after failing (i.e., deleting) any single vertex $x$ from $T$, the root remains connected to $\\ell$ if and only if it remains connected to some marked vertex. In this note, we introduce a generalized notion called $f$-fault-equivalent LCAs ($f$-FLCA), obtained by adapting the above view to $f$ failures for arbitrary $f \\geq 1$. We show that there is a unique vertex set $M^* = \\operatorname{FLCA}(M,f)$ of minimal size such after the failure of any $f$ vertices (or less), the root remains connected to some $v \\in M$ iff it remains connected to some $u \\in M^*$. Computing $M^*$ takes linear time. A bound of $|M^*| \\leq 2^{f-1}$ always holds, regardless of $|M|$, and holds with equality for some choice of $T$ and $M$.",
+  "submission_date": "2024-11-17",
+  "revised_dates": [
+    "2024-11-24"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DS"
+}

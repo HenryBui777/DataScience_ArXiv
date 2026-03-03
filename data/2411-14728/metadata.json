@@ -1,0 +1,14 @@
+{
+  "title": "K-GBS3FCM -- KNN Graph-Based Safe Semi-Supervised Fuzzy C-Means",
+  "authors": [
+    "Gabriel Santos",
+    "Rita Julia",
+    "Marcelo Nascimento"
+  ],
+  "summary": "Clustering data using prior domain knowledge, starting from a partially labeled set, has recently been widely investigated. Often referred to as semi-supervised clustering, this approach leverages labeled data to enhance clustering accuracy. To maximize algorithm performance, it is crucial to ensure the safety of this prior knowledge. Methods addressing this concern are termed safe semi-supervised clustering (S3C) algorithms. This paper introduces the KNN graph-based safety-aware semi-supervised fuzzy c-means algorithm (K-GBS3FCM), which dynamically assesses neighborhood relationships between labeled and unlabeled data using the K-Nearest Neighbors (KNN) algorithm. This approach aims to optimize the use of labeled data while minimizing the adverse effects of incorrect labels. Additionally, it is proposed a mechanism that adjusts the influence of labeled data on unlabeled ones through regularization parameters and the average safety degree. Experimental results on multiple benchmark datasets demonstrate that the graph-based approach effectively leverages prior knowledge to enhance clustering accuracy. The proposed method was significantly superior in 64% of the 56 test configurations, obtaining higher levels of clustering accuracy when compared to other semi-supervised and traditional unsupervised methods. This research highlights the potential of integrating graph-based approaches, such as KNN, with established techniques to develop advanced clustering algorithms, offering significant applications in fields that rely on both labeled and unlabeled data for more effective clustering.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

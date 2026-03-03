@@ -1,0 +1,16 @@
+{
+  "title": "MGNiceNet: Unified Monocular Geometric Scene Understanding",
+  "authors": [
+    "Markus Schön",
+    "Michael Buchholz",
+    "Klaus Dietmayer"
+  ],
+  "summary": "Monocular geometric scene understanding combines panoptic segmentation and self-supervised depth estimation, focusing on real-time application in autonomous vehicles. We introduce MGNiceNet, a unified approach that uses a linked kernel formulation for panoptic segmentation and self-supervised depth estimation. MGNiceNet is based on the state-of-the-art real-time panoptic segmentation method RT-K-Net and extends the architecture to cover both panoptic segmentation and self-supervised monocular depth estimation. To this end, we introduce a tightly coupled self-supervised depth estimation predictor that explicitly uses information from the panoptic path for depth prediction. Furthermore, we introduce a panoptic-guided motion masking method to improve depth estimation without relying on video panoptic segmentation annotations. We evaluate our method on two popular autonomous driving datasets, Cityscapes and KITTI. Our model shows state-of-the-art results compared to other real-time methods and closes the gap to computationally more demanding methods. Source code and trained models are available at https://github.com/markusschoen/MGNiceNet.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-03-10"
+  ],
+  "publication_venue": "Proceedings of the Asian Conference on Computer Vision (ACCV), 2024, pp. 1502-1519",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

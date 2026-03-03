@@ -1,0 +1,13 @@
+{
+  "title": "ukbFGSEA: an R Package for Applying Fast Preranked Gene Set Enrichment Analysis to UK Biobank Exome Data",
+  "authors": [
+    "Pengjun Guo",
+    "He Zhu"
+  ],
+  "summary": "The Genebass dataset, released by Karczewski et al. (2022), provides a comprehensive resource elucidating associations between genes and 4,529 phenotypes based on nearly 400,000 exomes from the UK Biobank. This extensive dataset enables the evaluation of gene set enrichment across a wide range of phenotypes, facilitating the inference of associations between specified gene sets and phenotypic traits. Despite its potential, no established method for applying gene set enrichment analysis (GSEA) to Genebass data exists. To address this gap, we propose utilizing fast pre-ranked gene set enrichment analysis (FGSEA) as a novel approach to determine whether a specified set of genes is significantly enriched in phenotypes within the UK Biobank. We developed an R package, ukbFGSEA, to implement this analysis, completed with a hands-on tutorial. Our approach has been validated by analyzing gene sets associated with autism spectrum disorder, developmental disorder, and neurodevelopmental disorders, demonstrating its capability to reveal established and novel associations.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "q-bio.GN"
+}

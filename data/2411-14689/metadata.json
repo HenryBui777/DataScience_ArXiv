@@ -1,0 +1,13 @@
+{
+  "title": "Hyperreal differentiation with an idempotent ultrafilter",
+  "authors": [
+    "Samuel Allen Alexander",
+    "Bryan Dawson"
+  ],
+  "summary": "In the hyperreals constructed using a free ultrafilter on R, where [f] is the hyperreal represented by f:R->R, it is tempting to define a derivative operator by [f]'=[f'], but unfortunately this is not generally well-defined. We show that if the ultrafilter in question is idempotent and contains (0,epsilon) for arbitrarily small real epsilon then the desired derivative operator is well-defined for all f such that [f'] exists. We also introduce a hyperreal variation of the derivative from finite calculus, and show that it has surprising relationships to the standard derivative. We give an alternate proof, and strengthened version of, Hindman's theorem.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.LO"
+}

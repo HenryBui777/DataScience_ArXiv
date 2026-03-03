@@ -1,0 +1,18 @@
+{
+  "title": "Simple But Not Secure: An Empirical Security Analysis of Two-factor Authentication Systems",
+  "authors": [
+    "Zhi Wang",
+    "Xin Yang",
+    "Du Chen",
+    "Han Gao",
+    "Meiqi Tian",
+    "Yan Jia",
+    "Wanpeng Li"
+  ],
+  "summary": "To protect users from data breaches and phishing attacks, service providers typically implement two-factor authentication (2FA) to add an extra layer of security against suspicious login attempts. However, since 2FA can sometimes hinder user experience by introducing additional steps, many websites aim to reduce inconvenience by minimizing the frequency of 2FA prompts. One approach to achieve this is by storing the user's ``Remember the Device'' preference in a cookie. As a result, users are only prompted for 2FA when this cookie expires or if they log in from a new device.\n  To understand and improve the security of 2FA systems in real-world settings, we propose SE2FA, a vulnerability evaluation framework designed to detect vulnerabilities in 2FA systems. This framework enables us to analyze the security of 407 2FA systems across popular websites from the Tranco Top 10,000 list. Our analysis and evaluation found three zero-day vulnerabilities on three service providers that could allow an attacker to access a victim's account without possessing the victim's second authentication factor, thereby bypassing 2FA protections entirely. A further investigation found that these vulnerabilities stem from design choices aimed at simplifying 2FA for users but that unintentionally reduce its security effectiveness. We have disclosed these findings to the affected websites and assisted them in mitigating the risks. Based on the insights from this research, we provide practical recommendations for countermeasures to strengthen 2FA security and address these newly identified threats.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CR"
+}

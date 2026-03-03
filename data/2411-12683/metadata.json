@@ -1,0 +1,19 @@
+{
+  "title": "Disentangling critical quantum spin chains with Clifford circuits",
+  "authors": [
+    "Chaohui Fan",
+    "Xiangjian Qian",
+    "Hua-Chen Zhang",
+    "Rui-Zhen Huang",
+    "Mingpu Qin",
+    "Tao Xiang"
+  ],
+  "summary": "Clifford circuits can be utilized to disentangle quantum states with polynomial cost, thanks to the Gottesman-Knill theorem. Based on this idea, the Clifford circuits augmented matrix product states (CAMPS) method, which is a seamless integration of Clifford circuits within the density-matrix renormalization group algorithm, was proposed recently and was shown to be able to reduce entanglement in various quantum systems. In this work, we further explore the power of the CAMPS method in critical spin chains described by conformal field theories (CFTs) in the scaling limit. We find that the optimized disentanglers correspond to {\\it duality} transformations, which significantly reduce the entanglement entropy in the ground state. For the critical quantum Ising spin chain governed by the Ising CFT with self-duality, the Clifford circuits found by CAMPS coincide with the duality transformation, i.e., the Kramers-Wannier self-duality in the critical Ising chain. It reduces the entanglement entropy by mapping the free conformal boundary condition to the fixed one. In the more general case of the XXZ chain, the CAMPS gives rise to a duality transformation mapping the model to the quantum Ashkin-Teller spin chain. Our results highlight the potential of the framework as a versatile tool for uncovering hidden dualities and simplifying the entanglement structure of critical quantum systems.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-02-11"
+  ],
+  "publication_venue": "Phys. Rev. B 111, 085121 (2025)",
+  "pdf_url": null,
+  "category": "quant-ph, cond-mat.stat-mech, cond-mat.str-el, hep-th"
+}

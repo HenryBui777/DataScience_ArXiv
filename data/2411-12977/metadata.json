@@ -1,0 +1,20 @@
+{
+  "title": "MindForge: Empowering Embodied Agents with Theory of Mind for Lifelong Cultural Learning",
+  "authors": [
+    "Mircea Lică",
+    "Ojas Shirekar",
+    "Baptiste Colle",
+    "Chirag Raman"
+  ],
+  "summary": "Embodied agents powered by large language models (LLMs), such as Voyager, promise open-ended competence in worlds such as Minecraft. However, when powered by open-weight LLMs they still falter on elementary tasks after domain-specific fine-tuning. We propose MindForge, a generative-agent framework for cultural lifelong learning through explicit perspective taking. We introduce three key innovations: (1) a structured theory of mind representation linking percepts, beliefs, desires, and actions; (2) natural inter-agent communication; and (3) a multi-component memory system. Following the cultural learning framework, we test MindForge in both instructive and collaborative settings within Minecraft. In an instructive setting with GPT-4, MindForge agents powered by open-weight LLMs significantly outperform their Voyager counterparts in basic tasks yielding $3\\times$ more tech-tree milestones and collecting $2.3\\times$ more unique items than the Voyager baseline. Furthermore, in fully \\textit{collaborative} settings, we find that the performance of two underachieving agents improves with more communication rounds, echoing the Condorcet Jury Theorem. MindForge agents demonstrate sophisticated behaviors, including expert-novice knowledge transfer, collaborative problem solving, and adaptation to out-of-distribution tasks through accumulated cultural experiences.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2024-11-25",
+    "2025-02-19",
+    "2025-06-11",
+    "2025-10-23"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.AI, cs.CL"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "An additive Mori-Tanaka scheme for elastic-viscoplastic composites based on a modified tangent linearization",
+  "authors": [
+    "Katarzyna Kowalczyk-Gajewska",
+    "Stephane Berbenni",
+    "Sebastien Mercier"
+  ],
+  "summary": "Mean-field modeling based on the Eshelby inclusion problem poses some difficulties when the non-linear Maxwell-type constitutive law is used for elasto-viscoplasticity. One difficulty is that this behavior involves different orders of time differentiation, which leads a long-term memory effect. One of the possible solutions to this problem is the additive interaction law. Generally, mean field models solely use the mean values of stress and strain fields per phase, while variational approaches consider the second moments of stresses and strains. It is seen that the latter approach improves model predictions allowing to account for stress fluctuation within the phases. However, the complexity of the variational formulations still makes them difficult to apply in the large scale finite element calculations and for non-proportional loadings. Thus, there is a need to include the second moments within homogenization models based on the additive interaction law. In the present study, the incorporation of the second moments of stresses into the formulation of the additive Mori-Tanaka model of two-phase elastic-viscoplastic material is discussed. A modified tangent linearization of the viscoplastic law is proposed, while the Hill-Mandel's lemma is used to track the evolution of second moments of stresses. To study the model performance and efficiency, the results are compared to the full-field numerical calculations and predictions of other models available in the literature. Very good performance of the modified tangent linearization is demonstrated from these benchmarks for both monotonic and non monotonic loading responses.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.comp-ph, cond-mat.mtrl-sci"
+}

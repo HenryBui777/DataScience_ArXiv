@@ -1,0 +1,15 @@
+{
+  "title": "TopoCode: Topologically Informed Error Detection and Correction in Communication Systems",
+  "authors": [
+    "Hongzhi Guo"
+  ],
+  "summary": "Traditional error detection and correction codes focus on bit-level fidelity, which is insufficient for emerging technologies like eXtended Reality (XR) and holographic communications requiring high-data-rate, low-latency systems. Bit-level metrics cannot comprehensively evaluate Quality-of-Service (QoS) in these scenarios. This letter proposes TopoCode which leverages Topological Data Analysis (TDA) and persistent homology to encode topological information for message-level error detection and correction. It introduces minimal redundancy while enabling effective data reconstruction, especially in low Signal-to-Noise Ratio (SNR) conditions. TopoCode offers a promising approach to meet the demands of next-generation communication systems prioritizing semantic accuracy and message-level integrity.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-12-06",
+    "2025-03-08"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.MM"
+}

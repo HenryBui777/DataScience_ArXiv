@@ -1,0 +1,14 @@
+{
+  "title": "Identifying Semantic Similarity for UX Items from Established Questionnaires Using ChatGPT-4",
+  "authors": [
+    "Stefan Graser",
+    "Martin Schrepp",
+    "Stephan Böhm"
+  ],
+  "summary": "Questionnaires are a widely used tool for measuring the user experience (UX) of products. There exists a huge number of such questionnaires that contain different items (questions) and scales representing distinct aspects of UX, such as efficiency, learnability, fun of use, or aesthetics. These items and scales are not independent; they often have semantic overlap. However, due to the large number of available items and scales in the UX f ield, analyzing and understanding these semantic dependencies can be challenging. Large language models (LLM) are powerful tools to categorize texts, including UX items. We explore how ChatGPT-4 can be utilized to analyze the semantic structure of sets of UX items. This paper investigates three different use cases. In the first investigation, ChatGPT-4 is used to generate a semantic classification of UX items extracted from 40 UX questionnaires. The results demonstrate that ChatGPT-4 can effectively classify items into meaningful topics. The second investigation demonstrates ChatGPT-4's ability to filter items related to a predefined UX concept from a pool of UX items. In the third investigation, a second set of more abstract items is used to describe another classification task. The outcome of this investigation helps to determine semantic similarities between common UX concepts and enhances our understanding of the concept of UX. Overall, it is considered useful to apply GenAI in UX research",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.HC"
+}

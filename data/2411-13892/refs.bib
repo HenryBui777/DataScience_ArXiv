@@ -1,0 +1,1053 @@
+@inproceedings{lightgcn,
+  author = {He, Xiangnan and Deng, Kuan and Wang, Xiang and Li, Yan and Zhang, YongDong and Wang, Meng},
+  doi = {10.1145/3397271.3401063},
+  booktitle = {Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  location = {Virtual Event, China},
+  abstract = {Graph Convolution Network (GCN) has become new state-of-the-art for collaborative filtering. Nevertheless, the reasons of its effectiveness for recommendation are not well understood. Existing work that adapts GCN to recommendation lacks thorough ablation analyses on GCN, which is originally designed for graph classification tasks and equipped with many neural network operations. However, we empirically find that the two most common designs in GCNs -- feature transformation and nonlinear activation -- contribute little to the performance of collaborative filtering. Even worse, including them adds to the difficulty of training and degrades recommendation performance.In this work, we aim to simplify the design of GCN to make it more concise and appropriate for recommendation. We propose a new model named LightGCN, including only the most essential component in GCN -- neighborhood aggregation -- for collaborative filtering. Specifically, LightGCN learns user and item embeddings by linearly propagating them on the user-item interaction graph, and uses the weighted sum of the embeddings learned at all layers as the final embedding. Such simple, linear, and neat model is much easier to implement and train, exhibiting substantial improvements (about 16.0\% relative improvement on average) over Neural Graph Collaborative Filtering (NGCF) -- a state-of-the-art GCN-based recommender model -- under exactly the same experimental setting. Further analyses are provided towards the rationality of the simple LightGCN from both analytical and empirical perspectives.},
+  year = {2020},
+  pages = {639–648},
+  isbn = {9781450380164},
+  publisher = {Association for Computing Machinery},
+  numpages = {10},
+  address = {New York, NY, USA},
+  series = {SIGIR '20},
+  title = {LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation},
+  keywords = {collaborative filtering, embedding propagation, graph neural network, recommendation},
+}
+
+@article{simgcl,
+  author = {Yu, Junliang and Xia, Xin and Chen, Tong and Cui, Lizhen and Hung, Nguyen Quoc Viet and Yin, Hongzhi},
+  doi = {10.1109/TKDE.2023.3288135},
+  issn = {0219-1377},
+  issue_date = {Feb. 2024},
+  journal = {IEEE Trans. on Knowl. and Data Eng.},
+  abstract = {Graph Contrastive learning (GCL) has been widely studied in unsupervised graph representation learning. Most existing GCL methods focus on modeling the invariances of identical instances in different augmented views of a graph and using the Graph Neural Network (GNN) as the underlying encoder to generate node representations. GNNs generally learn node representations by aggregating information from their neighbors, where homophily and heterophily in the graph can strongly affect the performance of GNNs. Existing GCL methods neglect the effect of homophily/heterophily in graphs, resulting in sub-optimal learned representations of graphs with more complex patterns, especially in the case of high heterophily. We propose a novel Similarity-based Graph Contrastive Learning model (SimGCL), which generates augmented views with a higher homophily ratio at the topology level by adding or removing edges. We treat dimension-wise features as weak labels and introduce a new similarity metric based on feature and feature dimension-wise distribution patterns as a guide to improving homophily in an unsupervised manner. To preserve node diversity in augmented views, we retain feature dimensions with higher heterophily to amplify the differences between nodes in augmented views at the feature level. We also use the proposed similarity in the negative sampling process to eliminate possible false negative samples. We conduct extensive experiments comparing our model with ten baseline methods on seven benchmark datasets. Experimental results show that SimGCL significantly outperforms the state-of-the-art GCL methods on both homophilic and heterophilic graphs and brings more than 10\% improvement on heterophilic graphs.},
+  year = {2023},
+  address = {Berlin, Heidelberg},
+  pages = {2089–2114},
+  publisher = {IEEE Educational Activities Department},
+  numpages = {26},
+  volume = {66},
+  title = {XSimGCL: Towards Extremely Simple Graph Contrastive Learning for Recommendation},
+  keywords = {Graph neural network, Heterophilic graph, Local assortativity, Contrastive learning},
+  month = {nov},
+  number = {3},
+}
+
+@inproceedings{lightgcl,
+  author = {Cai, Xuheng and Huang, Chao and Xia, Lianghao and Ren, Xubin},
+  year = {2023},
+  booktitle = {The Eleventh International Conference on Learning Representations},
+  title = {LightGCL: Simple Yet Effective Graph Contrastive Learning for Recommendation},
+}
+
+@inproceedings{gnnpower,
+  author = {Wang, Xiyuan and Zhang, Muhan},
+  booktitle = {Proceedings of the 39th International Conference on Machine Learning},
+  editor = {Chaudhuri, Kamalika and Jegelka, Stefanie and Song, Le and Szepesvari, Csaba and Niu, Gang and Sabato, Sivan},
+  pages = {23341--23362},
+  year = {2022},
+  publisher = {PMLR},
+  abstract = {Spectral Graph Neural Network is a kind of Graph Neural Network (GNN) based on graph signal filters. Some models able to learn arbitrary spectral filters have emerged recently. However, few works analyze the expressive power of spectral GNNs. This paper studies spectral GNNs’ expressive power theoretically. We first prove that even spectral GNNs without nonlinearity can produce arbitrary graph signals and give two conditions for reaching universality. They are: 1) no multiple eigenvalues of graph Laplacian, and 2) no missing frequency components in node features. We also establish a connection between the expressive power of spectral GNNs and Graph Isomorphism (GI) testing, the latter of which is often used to characterize spatial GNNs’ expressive power. Moreover, we study the difference in empirical performance among different spectral GNNs with the same expressive power from an optimization perspective, and motivate the use of an orthogonal basis whose weight function corresponds to the graph signal density in the spectrum. Inspired by the analysis, we propose JacobiConv, which uses Jacobi basis due to its orthogonality and flexibility to adapt to a wide range of weight functions. JacobiConv deserts nonlinearity while outperforming all baselines on both synthetic and real-world datasets.},
+  volume = {162},
+  series = {Proceedings of Machine Learning Research},
+  title = {How Powerful are Spectral Graph Neural Networks},
+  month = {17--23 Jul},
+}
+
+@inproceedings{ips,
+  author = {Schnabel, Tobias and Swaminathan, Adith and Singh, Ashudeep and Chandak, Navin and Joachims, Thorsten},
+  booktitle = {Proceedings of the 33rd International Conference on International Conference on Machine Learning - Volume 48},
+  location = {New York, NY, USA},
+  publisher = {JMLR.org},
+  year = {2016},
+  abstract = {Most data for evaluating and training recommender systems is subject to selection biases, either through self-selection by the users or through the actions of the recommendation system itself. In this paper, we provide a principled approach to handle selection biases by adapting models and estimation techniques from causal inference. The approach leads to unbiased performance estimators despite biased data, and to a matrix factorization method that provides substantially improved prediction performance on real-world data. We theoretically and empirically characterize the robustness of the approach, and find that it is highly practical and scalable.},
+  pages = {1670–1679},
+  numpages = {10},
+  series = {ICML'16},
+  title = {Recommendations as treatments: debiasing learning and evaluation},
+}
+
+@inproceedings{cause,
+  author = {Bonner, Stephen and Vasile, Flavian},
+  booktitle = {Proceedings of the 12th ACM Conference on Recommender Systems},
+  abstract = {Many current applications use recommendations in order to modify the natural user behavior, such as to increase the number of sales or the time spent on a website. This results in a gap between the final recommendation objective and the classical setup where recommendation candidates are evaluated by their coherence with past user behavior, by predicting either the missing entries in the user-item matrix, or the most likely next event. To bridge this gap, we optimize a recommendation policy for the task of increasing the desired outcome versus the organic user behavior. We show this is equivalent to learning to predict recommendation outcomes under a fully random recommendation policy. To this end, we propose a new domain adaptation algorithm that learns from logged data containing outcomes from a biased recommendation policy and predicts recommendation outcomes according to random exposure. We compare our method against state-of-the-art factorization methods, in addition to new approaches of causal recommendation and show significant improvements.},
+  year = {2018},
+  pages = {104–112},
+  isbn = {9781450359016},
+  numpages = {9},
+  series = {RecSys '18},
+  title = {Causal embeddings for recommendation},
+  keywords = {recommender systems, neural networks, embeddings, counterfactual inference, causality},
+}
+
+@article{macr,
+  author = {Tianxin Wei and Fuli Feng and Jiawei Chen and Chufeng Shi and Ziwei Wu and Jinfeng Yi and Xiangnan He},
+  doi = {10.1145/3447548.3467289},
+  booktitle = {Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery \& Data Mining},
+  location = {Virtual Event, Singapore},
+  journal = {Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery \& Data Mining},
+  publisher = {Association for Computing Machinery},
+  year = {2020},
+  address = {New York, NY, USA},
+  isbn = {9781450383325},
+  pages = {1791–1800},
+  numpages = {10},
+  series = {KDD '21},
+  title = {Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System},
+  keywords = {recommendation, popularity bias, causal reasoning},
+}
+
+@inproceedings{substruct,
+  author = {Chen, Zhengdao and Chen, Lei and Villar, Soledad and Bruna, Joan},
+  booktitle = {Proceedings of the 34th International Conference on Neural Information Processing Systems},
+  articleno = {871},
+  abstract = {The ability to detect and count certain substructures in graphs is important for solving many tasks on graph-structured data, especially in the contexts of computational chemistry and biology as well as social network analysis. Inspired by this, we propose to study the expressive power of graph neural networks (GNNs) via their ability to count attributed graph substructures, extending recent works that examine their power in graph isomorphism testing and function approximation. We distinguish between two types of substructure counting: induced-subgraph-count and subgraph-count, and establish both positive and negative answers for popular GNN architectures. Specifically, we prove that Message Passing Neural Networks (MPNNs), 2-Weisfeiler-Lehman (2-WL) and 2-Invariant Graph Networks (2-IGNs) cannot perform induced-subgraph-count of any connected substructure consisting of 3 or more nodes, while they can perform subgraph-count of star-shaped substructures. As an intermediary step, we prove that 2-WL and 2-IGNs are equivalent in distinguishing non-isomorphic graphs, partly answering an open problem raised in [38]. We also prove positive results for k-WL and k-IGNs as well as negative results for k-WL with a finite number of iterations. We then conduct experiments that support the theoretical results for MPNNs and 2-IGNs. Moreover, motivated by substructure counting and inspired by [45], we propose the Local Relational Pooling model and demonstrate that it is not only effective for substructure counting but also able to achieve competitive performance on molecular prediction tasks.},
+  year = {2020},
+  isbn = {9781713829546},
+  numpages = {13},
+  series = {NIPS '20},
+  title = {Can graph neural networks count substructures?},
+}
+
+@inproceedings{sdro,
+  author = {Wen, Hongyi and Yi, Xinyang and Yao, Tiansheng and Tang, Jiaxi and Hong, Lichan and Chi, Ed H.},
+  doi = {10.1145/3485447.3512255},
+  booktitle = {Proceedings of the ACM Web Conference 2022},
+  abstract = {Modern recommender systems have evolved rapidly along with deep learning models that are well-optimized for overall performance, especially those trained under Empirical Risk Minimization (ERM). However, a recommendation algorithm that focuses solely on the average performance may reinforce the exposure bias and exacerbate the “rich-get-richer” effect, leading to unfair user experience. In a simulation study, we demonstrate that such performance gap among various user groups is enlarged by an ERM-trained recommender in the long-term. To mitigate such amplification effects, we propose to optimize for the worst-case performance under the Distributionally Robust Optimization (DRO) framework, with the goal of improving long-term fairness for disadvantaged subgroups. In addition, we propose a simple-yet-effective streaming optimization improvement called Streaming-DRO (S-DRO), which effectively reduces loss variances for recommendation problems with sparse and long-tailed data distributions. Our results on two large-scale datasets suggest that (1) DRO is a flexible and effective technique for improving worst-case performance, and (2) Streaming-DRO outperforms vanilla DRO and other strong baselines by improving the worst-case and overall performance at the same time.},
+  year = {2022},
+  pages = {3606–3610},
+  isbn = {9781450390965},
+  numpages = {5},
+  series = {WWW '22},
+  title = {Distributionally-robust Recommendations for Improving Worst-case User Experience},
+}
+
+@inproceedings{snn,
+  author = {Ebli, Stefania and Defferrard, Michaël and Spreemann, Gard},
+  year = {2020},
+  archiveprefix = {arXiv},
+  url = {https://arxiv.org/abs/2010.03633},
+  eprint = {2010.03633},
+  booktitle = {Topological Data Analysis and Beyond workshop at NeurIPS},
+  title = {Simplicial Neural Networks},
+}
+
+@inproceedings{mpsn,
+  title = {Weisfeiler and Lehman Go Topological: Message Passing Simplicial Networks},
+  author = {Bodnar, Cristian and Frasca, Fabrizio and Wang, Yuguang and Otter, Nina and Montufar, Guido F and Li{\'o},
+  booktitle = {Proceedings of the 38th International Conference on Machine Learning},
+  pages = {1026--1037},
+  year = {2021},
+  volume = {139},
+  series = {Proceedings of Machine Learning Research},
+  abstract = {The pairwise interaction paradigm of graph machine learning has predominantly governed the modelling of relational systems. However, graphs alone cannot capture the multi-level interactions present in many complex systems and the expressive power of such schemes was proven to be limited. To overcome these limitations, we propose Message Passing Simplicial Networks (MPSNs), a class of models that perform message passing on simplicial complexes (SCs). To theoretically analyse the expressivity of our model we introduce a Simplicial Weisfeiler-Lehman (SWL) colouring procedure for distinguishing non-isomorphic SCs. We relate the power of SWL to the problem of distinguishing non-isomorphic graphs and show that SWL and MPSNs are strictly more powerful than the WL test and not less powerful than the 3-WL test. We deepen the analysis by comparing our model with traditional graph neural networks (GNNs) with ReLU activations in terms of the number of linear regions of the functions they can represent. We empirically support our theoretical claims by showing that MPSNs can distinguish challenging strongly regular graphs for which GNNs fail and, when equipped with orientation equivariant layers, they can improve classification accuracy in oriented SCs compared to a GNN baseline.},
+}
+
+@inproceedings{sann,
+  title = {Sa{NN},
+  author = {Sravanthi Gurugubelli and Sundeep Prabhakar Chepuri},
+  booktitle = {The Twelfth International Conference on Learning Representations},
+  year = {2024},
+}
+
+@inproceedings{ngcf,
+  author = {Wang, Xiang and He, Xiangnan and Wang, Meng and Feng, Fuli and Chua, Tat-Seng},
+  doi = {10.1145/3331184.3331267},
+  booktitle = {Proceedings of the 42nd International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  abstract = {Learning vector representations (aka. embeddings) of users and items lies at the core of modern recommender systems. Ranging from early matrix factorization to recently emerged deep learning based methods, existing efforts typically obtain a user's (or an item's) embedding by mapping from pre-existing features that describe the user (or the item), such as ID and attributes. We argue that an inherent drawback of such methods is that, the collaborative signal, which is latent in user-item interactions, is not encoded in the embedding process. As such, the resultant embeddings may not be sufficient to capture the collaborative filtering effect.In this work, we propose to integrate the user-item interactions - more specifically the bipartite graph structure - into the embedding process. We develop a new recommendation framework Neural Graph Collaborative Filtering (NGCF), which exploits the user-item graph structure by propagating embeddings on it. This leads to the expressive modeling of high-order connectivity in user-item graph, effectively injecting the collaborative signal into the embedding process in an explicit manner. We conduct extensive experiments on three public benchmarks, demonstrating significant improvements over several state-of-the-art models like HOP-Rec [39] and Collaborative Memory Network [5]. Further analysis verifies the importance of embedding propagation for learning better user and item representations, justifying the rationality and effectiveness of NGCF. Codes are available at https://github.com/xiangwang1223/neural_graph_collaborative_filtering.},
+  year = {2019},
+  isbn = {9781450361729},
+  numpages = {10},
+  series = {SIGIR'19},
+  title = {Neural Graph Collaborative Filtering},
+  keywords = {recommendation, high-order connectivity, graph neural network, embedding propagation, collaborative filtering},
+}
+
+@inproceedings{svdgcn,
+  author = {Peng, Shaowen and Sugiyama, Kazunari and Mine, Tsunenori},
+  year = {2022},
+  abstract = {With the tremendous success of Graph Convolutional Networks (GCNs), they have been widely applied to recommender systems and have shown promising performance. However, most GCN-based methods rigorously stick to a common GCN learning paradigm and suffer from two limitations: (1) the limited scalability due to the high computational cost and slow training convergence; (2) the notorious over-smoothing issue which reduces performance as stacking graph convolution layers. We argue that the above limitations are due to the lack of a deep understanding of GCN-based methods. To this end, we first investigate what design makes GCN effective for recommendation. By simplifying LightGCN, we show the close connection between GCN-based and low-rank methods such as Singular Value Decomposition (SVD) and Matrix Factorization (MF), where stacking graph convolution layers is to learn a low-rank representation by emphasizing (suppressing) components with larger (smaller) singular values. Based on this observation, we replace the core design of GCN-based methods with a flexible truncated SVD and propose a simplified GCN learning paradigm dubbed SVD-GCN, which only exploits K-largest singular vectors for recommendation. To alleviate the over-smoothing issue, we propose a renormalization trick to adjust the singular value gap, resulting in significant improvement. Extensive experiments on three real-world datasets show that our proposed SVD-GCN not only significantly outperforms state-of-the-arts but also achieves over 100x and 10x speedups over LightGCN and MF, respectively.},
+  isbn = {9781450392365},
+  series = {CIKM '22},
+  booktitle = {Proceedings of the 31st ACM International Conference on Information \& Knowledge Management},
+  title = {SVD-GCN: A Simplified Graph Convolution Paradigm for Recommendation},
+}
+
+@inproceedings{ultragcn,
+  author = {Mao, Kelong and Zhu, Jieming and Xiao, Xi and Lu, Biao and Wang, Zhaowei and He, Xiuqiang},
+  year = {2021},
+  abstract = {With the recent success of graph convolutional networks (GCNs), they have been widely applied for recommendation, and achieved impressive performance gains. The core of GCNs lies in its message passing mechanism to aggregate neighborhood information. However, we observed that message passing largely slows down the convergence of GCNs during training, especially for large-scale recommender systems, which hinders their wide adoption. LightGCN makes an early attempt to simplify GCNs for collaborative filtering by omitting feature transformations and nonlinear activations. In this paper, we take one step further to propose an ultra-simplified formulation of GCNs (dubbed UltraGCN), which skips infinite layers of message passing for efficient recommendation. Instead of explicit message passing, UltraGCN resorts to directly approximate the limit of infinite-layer graph convolutions via a constraint loss. Meanwhile, UltraGCN allows for more appropriate edge weight assignments and flexible adjustment of the relative importances among different types of relationships. This finally yields a simple yet effective UltraGCN model, which is easy to implement and efficient to train. Experimental results on four benchmark datasets show that UltraGCN not only outperforms the state-of-the-art GCN models but also achieves more than 10x speedup over LightGCN.},
+  series = {CIKM '21},
+  booktitle = {Proceedings of the 30th ACM International Conference on Information \& Knowledge Management},
+  title = {UltraGCN: Ultra Simplification of Graph Convolutional Networks for Recommendation},
+}
+
+@inproceedings{ssl,
+  author = {Wu, Jiancan and Wang, Xiang and Feng, Fuli and He, Xiangnan and Chen, Liang and Lian, Jianxun and Xie, Xing},
+  year = {2021},
+  series = {SIGIR '21},
+  title = {Self-supervised Graph Learning for Recommendation},
+}
+
+@inproceedings{chebynet,
+  author = {Defferrard, Micha\"{e},
+  year = {2016},
+  abstract = {In this work, we are interested in generalizing convolutional neural networks (CNNs) from low-dimensional regular grids, where image, video and speech are represented, to high-dimensional irregular domains, such as social networks, brain connectomes or words' embedding, represented by graphs. We present a formulation of CNNs in the context of spectral graph theory, which provides the necessary mathematical background and efficient numerical schemes to design fast localized convolutional filters on graphs. Importantly, the proposed technique offers the same linear computational complexity and constant learning complexity as classical CNNs, while being universal to any graph structure. Experiments on MNIST and 20NEWS demonstrate the ability of this novel deep learning system to learn local, stationary, and compositional features on graphs.},
+  series = {NIPS'16},
+  booktitle = {Proceedings of the 30th International Conference on Neural Information Processing Systems},
+  title = {Convolutional neural networks on graphs with fast localized spectral filtering},
+}
+
+@inproceedings{gat,
+  author = {Petar Veličković and Guillem Cucurull and Arantxa Casanova and Adriana Romero and Pietro Liò and Yoshua Bengio},
+  year = {2018},
+  booktitle = {International Conference on Learning Representations},
+  title = {Graph Attention Networks},
+}
+
+@misc{gcmc,
+  title = {Graph Convolutional Matrix Completion},
+  author = {Rianne van den Berg and Thomas N. Kipf and Max Welling},
+  year = {2017},
+  eprint = {1706.02263},
+  archiveprefix = {arXiv},
+  primaryclass = {stat.ML},
+}
+
+@inproceedings{stargcn,
+  author = {Zhang, Jiani and Shi, Xingjian and Zhao, Shenglin and King, Irwin},
+  title = {STAR-GCN: stacked and reconstructed graph convolutional networks for recommender systems},
+  year = {2019},
+  publisher = {AAAI Press},
+  abstract = {We propose a new STAcked and Reconstructed Graph Convolutional Networks (STAR-GCN) architecture to learn node representations for boosting the performance in recommender systems, especially in the cold start scenario. STAR-GCN employs a stack of GCN encoder-decoders combined with intermediate supervision to improve the final prediction performance. Unlike the graph convolutional matrix completion model with one-hot encoding node inputs, our STAR-GCN learns low-dimensional user and item latent factors as the input to restrain the model space complexity. Moreover, our STAR-GCN can produce node embeddings for new nodes by reconstructing masked input node embeddings, which essentially tackles the cold start problem. Furthermore, we discover a label leakage issue when training GCN-based models for link prediction tasks and propose a training strategy to avoid the issue. Empirical results on multiple rating prediction benchmarks demonstrate our model achieves state-of-the-art performance in four out of five real-world datasets and significant improvements in predicting ratings in the cold start scenario. The code implementation is available in https://github.com/jennyzhang0215/STAR-GCN.},
+  booktitle = {Proceedings of the 28th International Joint Conference on Artificial Intelligence},
+  series = {IJCAI'19},
+}
+
+@inproceedings{ssgr,
+  author = {Zhang, Junwei and Gao, Min and Yu, Junliang and Guo, Lei and Li, Jundong and Yin, Hongzhi},
+  year = {2021},
+  abstract = {With the prevalence of social media, there has recently been a proliferation of recommenders that shift their focus from individual modeling to group recommendation. Since the group preference is a mixture of various predilections from group members, the fundamental challenge of group recommendation is to model the correlations among members. Existing methods mostly adopt heuristic or attention-based preference aggregation strategies to synthesize group preferences. However, these models mainly focus on the pairwise connections of users and ignore the complex high-order interactions within and beyond groups. Besides, group recommendation suffers seriously from the problem of data sparsity due to severely sparse group-item interactions. In this paper, we propose a self-supervised hypergraph learning framework for group recommendation to achieve two goals: (1) capturing the intra- and inter-group interactions among users; (2) alleviating the data sparsity issue with the raw data itself. Technically, for (1), a hierarchical hypergraph convolutional network based on the user- and group-level hypergraphs is developed to model the complex tuplewise correlations among users within and beyond groups. For (2), we design a double-scale node dropout strategy to create self-supervision signals that can regularize user representations with different granularities against the sparsity issue. The experimental analysis on multiple benchmark datasets demonstrates the superiority of the proposed model and also elucidates the rationality of the hypergraph modeling and the double-scale self-supervision.},
+  series = {CIKM '21},
+  booktitle = {Proceedings of the 30th ACM International Conference on Information \& Knowledge Management},
+  title = {Double-Scale Self-Supervised Hypergraph Learning for Group Recommendation},
+}
+
+@inproceedings{PCRec,
+  author = {Wang, Chen and Liang, Yueqing and Liu, Zhiwei and Zhang, Tao and Yu, Philip S.},
+  year = {2021},
+  booktitle = {2021 IEEE Third International Conference on Cognitive Machine Intelligence (CogMI)},
+  title = {Pre-training Graph Neural Network for Cross Domain Recommendation},
+  keywords = {Training;Representation learning;Measurement;Art;Conferences;Graph neural networks;Task analysis;Recommender system;Cross-domain;Pre-training;Contrastive learning},
+}
+
+@inproceedings{reg1,
+  author = {Siyi Lin and
+                  Chongming Gao and
+                  Jiawei Chen and
+                  Sheng Zhou and
+                  Binbin Hu and
+                  Yan Feng and
+                  Chun Chen and
+                  Can Wang},
+  year = {2017},
+  abstract = {Many recommendation algorithms suffer from popularity bias in their output: popular items are recommended frequently and less popular ones rarely, if at all. However, less popular, long-tail items are precisely those that are often desirable recommendations. In this paper, we introduce a flexible regularization-based framework to enhance the long-tail coverage of recommendation lists in a learning-to-rank algorithm. We show that regularization provides a tunable mechanism for controlling the trade-off between accuracy and coverage. Moreover, the experimental results using two data sets show that it is possible to improve coverage of long tail items without substantial loss of ranking performance.},
+  pages = {659--668},
+  publisher = {{ACM},
+  doi = {10.1145/3701551.3703579},
+  series = {RecSys '17},
+  booktitle = {Proceedings of the Eleventh ACM Conference on Recommender Systems},
+  title = {How Do Recommendation Models Amplify Popularity Bias? An Analysis
+                  from the Spectral Perspective},
+  editor = {Wolfgang Nejdl and
+                  S{\"{o},
+  keywords = {coverage, learning to rank, long-tail, recommendation evaluation, recommender systems},
+}
+
+@inproceedings{reg2,
+  author = {Wasilewski, Jacek and Hurley, Neil},
+  year = {2016},
+  month = {05},
+  pages = {},
+  title = {Incorporating Diversity in a Learning to Rank Recommender System},
+}
+
+@inproceedings{reg3,
+  author = {Chen, Zhihong and Xiao, Rong and Li, Chenliang and Ye, Gangfeng and Sun, Haochuan and Deng, Hongbo},
+  title = {ESAM: Discriminative Domain Adaptation with Non-Displayed Items to Improve Long-Tail Performance},
+  year = {2020},
+  booktitle = {Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  keywords = {domain adaptation, non-displayed items, ranking model},
+  series = {SIGIR '20},
+}
+
+@article{reg4,
+  author = {Boratto, Ludovico and Fenu, Gianni and Marras, Mirko},
+  year = {2021},
+  pages = {102387},
+  title = {Connecting user and item perspectives in popularity debiasing for collaborative recommendation},
+  month = {01},
+  journal = {Information Processing and Management},
+}
+
+@article{adv1,
+  author = {Huiting Liu and Lingling Guo and Peipei Li and Peng Zhao and Xindong Wu},
+  doi = {https://doi.org/10.1016/j.ins.2021.02.009},
+  url = {https://www.sciencedirect.com/science/article/pii/S0020025521001432},
+  issn = {0020-0255},
+  journal = {Information Sciences},
+  pages = {370-389},
+  year = {2021},
+  abstract = {Cross-domain recommendation can alleviate the data sparsity problem in the target domain and has become a promising research area. Recently, various models have been proposed to provide recommendation across domains. Some models successfully embedded adversarial learning to reduce domain discrepancies between the source and target domains; however, these models only focuse on extracting the domain-shared features among multiple domains. In this paper, we devise a novel framework that considers both domain-shared and domain-specific knowledge across domains, namely, DAAN. Specifically, we tightly couple matrix factorization-based collaborative filtering with deep adversarial domain adaptation via an attention network. In this framework, we first learn the domain-specific representations for each user and each item from the source and target user-item interaction matrices. Then, we capture the domain-shared features between two domains with common user (or item) embeddings in a domain-adversarial paradigm. Additionally, an attention network is used to adjust the degree of importance between domain-shared and domain-specific knowledge. Extensive experiments on six tasks demonstrate that our method outperforms various baselines in terms of two ranking metrics. To the best of our knowledge, our proposed approach is the first deep model that considers both domain-shared and domain-specific knowledge across domains within a domain-adversarial training paradigm for cross-domain recommendation.},
+  volume = {565},
+  title = {Collaborative filtering with a deep adversarial and attention network for cross-domain recommendation},
+  keywords = {Cross-domain recommendation, Collaborative filtering, Matrix factorization, Adversarial learning, Domain adaptation, Attention network},
+}
+
+@misc{adv2,
+  author = {An Zhang and Wenchang Ma and Pengbo Wei and Leheng Sheng and Xiang Wang},
+  year = {2024},
+  archiveprefix = {arXiv},
+  primaryclass = {cs.IR},
+  eprint = {2402.13769},
+  title = {General Debiasing for Graph-based Collaborative Filtering via Adversarial Graph Dropout},
+}
+
+@inproceedings{bpr,
+  author = {Rendle, Steffen and Freudenthaler, Christoph and Gantner, Zeno and Schmidt-Thieme, Lars},
+  title = {BPR: Bayesian personalized ranking from implicit feedback},
+  year = {2009},
+  isbn = {9780974903958},
+  publisher = {AUAI Press},
+  address = {Arlington, Virginia, USA},
+  abstract = {Item recommendation is the task of predicting a personalized ranking on a set of items (e.g. websites, movies, products). In this paper, we investigate the most common scenario with implicit feedback (e.g. clicks, purchases). There are many methods for item recommendation from implicit feedback like matrix factorization (MF) or adaptive k-nearest-neighbor (kNN). Even though these methods are designed for the item prediction task of personalized ranking, none of them is directly optimized for ranking. In this paper we present a generic optimization criterion BPR-Opt for personalized ranking that is the maximum posterior estimator derived from a Bayesian analysis of the problem. We also provide a generic learning algorithm for optimizing models with respect to BPR-Opt. The learning method is based on stochastic gradient descent with bootstrap sampling. We show how to apply our method to two state-of-the-art recommender models: matrix factorization and adaptive kNN. Our experiments indicate that for the task of personalized ranking our optimization method outperforms the standard learning techniques for MF and kNN. The results show the importance of optimizing models for the right criterion.},
+  booktitle = {Proceedings of the Twenty-Fifth Conference on Uncertainty in Artificial Intelligence},
+  pages = {452–461},
+  numpages = {10},
+  location = {Montreal, Quebec, Canada},
+  series = {UAI '09},
+}
+
+@inproceedings{adv3,
+  author = {Krishnan, Adit and Sharma, Ashish and Sankar, Aravind and Sundaram, Hari},
+  year = {2018},
+  pages = {1491–1494},
+  isbn = {9781450360142},
+  numpages = {4},
+  series = {CIKM '18},
+  booktitle = {Proceedings of the 27th ACM International Conference on Information and Knowledge Management},
+  title = {An Adversarial Approach to Improve Long-Tail Performance in Neural Collaborative Filtering},
+}
+
+@article{debias,
+  author = {Chen, Jiawei and Dong, Hande and Wang, Xiang and Feng, Fuli and Wang, Meng and He, Xiangnan},
+  title = {Bias and Debias in Recommender System: A Survey and Future Directions},
+  year = {2023},
+  issue_date = {July 2023},
+  volume = {41},
+  number = {3},
+  issn = {1046-8188},
+  journal = {ACM Trans. Inf. Syst.},
+  month = {feb},
+  articleno = {67},
+  numpages = {39},
+  keywords = {adaption, efficiency, recommendation, Sampling},
+}
+
+@article{casual1,
+  author = {Zhao, Zihao and Chen, Jiawei and Zhou, Sheng and He, Xiangnan and Cao, Xuezhi and Zhang, Fuzheng and Wu, Wei},
+  year = {2023},
+  pages = {9920-9931},
+  volume = {35},
+  title = {Popularity Bias is not Always Evil: Disentangling Benign and Harmful Bias for Recommendation},
+  keywords = {Tides;Correlation;Behavioral sciences;Task analysis;Knowledge engineering;Data engineering;Correlation coefficient;Recommendation;popularity bias;conformity;item quality},
+  journal = {IEEE Transactions on Knowledge and Data Engineering},
+  number = {10},
+}
+
+@inproceedings{casual2,
+  author = {Zheng, Yu and Gao, Chen and Li, Xiang and He, Xiangnan and Li, Yong and Jin, Depeng},
+  title = {Disentangling User Interest and Conformity for Recommendation with Causal Embedding},
+  year = {2021},
+  booktitle = {Proceedings of the Web Conference 2021},
+  pages = {2980–2991},
+  numpages = {12},
+  series = {WWW '21},
+}
+
+@inproceedings{casual3,
+  author = {Wang, Wenjie and Feng, Fuli and He, Xiangnan and Wang, Xiang and Chua, Tat-Seng},
+  title = {Deconfounded Recommendation for Alleviating Bias Amplification},
+  year = {2021},
+  booktitle = {Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery \& Data Mining},
+  pages = {1717–1725},
+  numpages = {9},
+  keywords = {user interest imbalance, deconfounded recommendation, bias amplification},
+  series = {KDD '21},
+}
+
+@inproceedings{topo1,
+  author = {Luo, Sichun and Ma, Chen and Xiao, Yuanzhang and Song, Linqi},
+  doi = {10.1145/3583780.3614929},
+  booktitle = {Proceedings of the 32nd ACM International Conference on Information and Knowledge Management},
+  location = {Birmingham, United Kingdom},
+  abstract = {The ubiquitous long-tail distribution of inherent user behaviors results in worse recommendation performance for the items with fewer user records (i.e., tail items) than those with richer ones (i.e., head items). Graph-based recommendation methods (e.g., using graph neural networks) have recently emerged as a powerful tool for recommender systems, often outperforming traditional methods. However, existing techniques for alleviating the long-tail problem mainly focus on traditional methods. There is a lack of graph-based methods that can efficiently deal with the long-tail problem.In this paper, we propose a novel approach, Graph Augmentation for Long-tail Recommendation (GALORE), which can be plugged into any graph-based recommendation models to improve the performance for tail items. GALORE incorporates an edge addition module that enriches the graph's connectivity for tail items by injecting additional item-to-item edges. To further balance the graph structure, GALORE utilizes a degree-aware edge dropping strategy, preserving the more valuable edges from the tail items while selectively discarding less informative edges from the head items. Beyond structural augmentation, we synthesize new data samples, thereby addressing the data scarcity issue for tail items. We further introduce a two-stage training strategy to facilitate the learning for both head and tail items. Comprehensive empirical studies conducted on four datasets show that GALORE outperforms existing methods in terms of the performance for tail items as well as the overall performance.},
+  year = {2023},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  isbn = {9798400701245},
+  pages = {1707–1716},
+  numpages = {10},
+  series = {CIKM '23},
+  title = {Improving Long-Tail Item Recommendation with Graph Augmentation},
+  keywords = {recommender system, long-tail distribution, graph augmentation},
+}
+
+@inproceedings{topo2,
+  author = {Zhao, Qian and Wu, Zhengwei and Zhang, Zhiqiang and Zhou, Jun},
+  year = {2023},
+  booktitle = {Machine Learning and Knowledge Discovery in Databases: Research Track: European Conference, ECML PKDD 2023, Turin, Italy, September 18–22, 2023, Proceedings, Part IV},
+  title = {Long-Tail Augmented Graph Contrastive Learning for Recommendation},
+}
+
+@inproceedings{topo3,
+  author = {Long, Meixiu and Chen, Siyuan and Du, Xin and Wang, Jiahai},
+  title = {DegUIL: Degree-Aware Graph Neural Networks for Long-Tailed User Identity Linkage},
+  year = {2023},
+  booktitle = {Machine Learning and Knowledge Discovery in Databases: Applied Data Science and Demo Track: European Conference, ECML PKDD 2023, Turin, Italy, September 18–22, 2023, Proceedings, Part VI},
+}
+
+@misc{san1,
+  author = {Christopher Wei Jin Goh and Cristian Bodnar and Pietro Liò},
+  year = {2022},
+  archiveprefix = {arXiv},
+  primaryclass = {cs.LG},
+  eprint = {2204.09455},
+  title = {Simplicial Attention Networks},
+}
+
+@misc{san2,
+  author = {L. Giusti and C. Battiloro and P. Di Lorenzo and S. Sardellitti and S. Barbarossa},
+  year = {2022},
+  archiveprefix = {arXiv},
+  primaryclass = {cs.LG},
+  eprint = {2203.07485},
+  title = {Simplicial Attention Neural Networks},
+}
+
+@inproceedings{san3,
+  author = {Lee, See Hian and Ji, Feng and Tay, Wee Peng},
+  year = {2022},
+  booktitle = {Proceedings of the Thirty-First International Joint Conference on
+               Artificial Intelligence, {IJCAI-22},
+  title = {SGAT: Simplicial Graph Attention Network},
+  month = {7},
+}
+
+@inproceedings{hsn,
+  author = {Mustafa Hajij and Karthikeyan Natesan Ramamurthy and Aldo Guzm{\'a},
+  year = {2022},
+  booktitle = {ICLR 2022 Workshop on Geometrical and Topological Representation Learning},
+  title = {{HIGH},
+}
+
+@inproceedings{hccf,
+  author = {Xia, Lianghao and Huang, Chao and Xu, Yong and Zhao, Jiashu and Yin, Dawei and Huang, Jimmy},
+  title = {Hypergraph Contrastive Collaborative Filtering},
+  year = {2022},
+  booktitle = {Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages = {70–79},
+  numpages = {10},
+  series = {SIGIR '22},
+}
+
+@article{laplacian,
+  title = {Signal processing on higher-order networks: Livin’ on the edge... and beyond},
+  journal = {Signal Processing},
+  volume = {187},
+  pages = {108149},
+  year = {2021},
+  issn = {0165-1684},
+  author = {Michael T. Schaub and Yu Zhu and Jean-Baptiste Seby and T. Mitchell Roddenberry and Santiago Segarra},
+  keywords = {Simplicial complex, Hypergraph, Higher-order network, Graph signal processing, Node embeddings},
+}
+
+@article{survey,
+  author = {Wu, Le and He, Xiangnan and Wang, Xiang and Zhang, Kun and Wang, Meng},
+  title = {A Survey on Accuracy-Oriented Neural Recommendation: From Collaborative Filtering to Information-Rich Recommendation},
+  year = {2023},
+  issue_date = {May 2023},
+  publisher = {IEEE Educational Activities Department},
+  volume = {35},
+  number = {5},
+  issn = {1041-4347},
+  url = {https://doi.org/10.1109/TKDE.2022.3145690},
+  journal = {IEEE Trans. on Knowl. and Data Eng.},
+  month = {may},
+  pages = {4425–4445},
+  numpages = {21},
+}
+
+@article{pareto,
+  author = {Flux, A. W.},
+  journal = {The Economic Journal},
+  volume = {7},
+  number = {25},
+  pages = {91-94},
+  year = {1897},
+  month = {03},
+  issn = {0013-0133},
+  doi = {10.2307/2956966},
+}
+
+@article{amplify,
+  author = {Chen, Jiajia and Wu, Jiancan and Chen, Jiawei and Xin, Xin and Li, Yong and He, Xiangnan},
+  doi = {10.1007/s11704-023-2655-2},
+  url = {https://doi.org/10.1007/s11704-023-2655-2},
+  issn = {2095-2228},
+  issue_date = {Oct 2024},
+  journal = {Frontiers of Computer Science},
+  publisher = {Springer-Verlag},
+  year = {2023},
+  address = {Berlin, Heidelberg},
+  abstract = {Graph convolutional networks (GCNs) have become prevalent in recommender system (RS) due to their superiority in modeling collaborative patterns. Although improving the overall accuracy, GCNs unfortunately amplify popularity bias — tail items are less likely to be recommended. This effect prevents the GCN-based RS from making precise and fair recommendations, decreasing the effectiveness of recommender systems in the long run.In this paper, we investigate how graph convolutions amplify the popularity bias in RS. Through theoretical analyses, we identify two fundamental factors: (1) with graph convolution (i.e., neighborhood aggregation), popular items exert larger influence than tail items on neighbor users, making the users move towards popular items in the representation space; (2) after multiple times of graph convolution, popular items would affect more high-order neighbors and become more influential. The two points make popular items get closer to almost users and thus being recommended more frequently. To rectify this, we propose to estimate the amplified effect of popular nodes on each node’s representation, and intervene the effect after each graph convolution. Specifically, we adopt clustering to discover highly-influential nodes and estimate the amplification effect of each node, then remove the effect from the node embeddings at each graph convolution layer. Our method is simple and generic — it can be used in the inference stage to correct existing models rather than training a new model from scratch, and can be applied to various GCN models. We demonstrate our method on two representative GCN backbones LightGCN and UltraGCN, verifying its ability in improving the recommendations of tail items without sacrificing the performance of popular items. Codes are open-sourced 1).},
+  pages = {185603},
+  numpages = {12},
+  volume = {18},
+  title = {How graph convolutions amplify popularity bias for recommendation?},
+  keywords = {popularity bias, graph convolution networks, recommendation},
+  month = {dec},
+  number = {5},
+}
+
+@article{simplicialsignal,
+  title = {Networks beyond pairwise interactions: Structure and dynamics},
+  journal = {Physics Reports},
+  volume = {874},
+  pages = {1-92},
+  year = {2020},
+  note = {Networks beyond pairwise interactions: Structure and dynamics},
+  issn = {0370-1573},
+  doi = {https://doi.org/10.1016/j.physrep.2020.05.004},
+  url = {https://www.sciencedirect.com/science/article/pii/S0370157320302489},
+  author = {Federico Battiston and Giulia Cencetti and Iacopo Iacopini and Vito Latora and Maxime Lucas and Alice Patania and Jean-Gabriel Young and Giovanni Petri},
+  abstract = {The complexity of many biological, social and technological systems stems from the richness of the interactions among their units. Over the past decades, a variety of complex systems has been successfully described as networks whose interacting pairs of nodes are connected by links. Yet, from human communications to chemical reactions and ecological systems, interactions can often occur in groups of three or more nodes and cannot be described simply in terms of dyads. Until recently little attention has been devoted to the higher-order architecture of real complex systems. However, a mounting body of evidence is showing that taking the higher-order structure of these systems into account can enhance our modeling capacities and help us understand and predict their dynamical behavior. Here we present a complete overview of the emerging field of networks beyond pairwise interactions. We discuss how to represent higher-order interactions and introduce the different frameworks used to describe higher-order systems, highlighting the links between the existing concepts and representations. We review the measures designed to characterize the structure of these systems and the models proposed to generate synthetic structures, such as random and growing bipartite graphs, hypergraphs and simplicial complexes. We introduce the rapidly growing research on higher-order dynamical systems and dynamical topology, discussing the relations between higher-order interactions and collective behavior. We focus in particular on new emergent phenomena characterizing dynamical processes, such as diffusion, synchronization, spreading, social dynamics and games, when extended beyond pairwise interactions. We conclude with a summary of empirical applications, and an outlook on current modeling and conceptual frontiers.},
+}
+
+@inproceedings{lapconv,
+  author = {Li, Qimai and Han, Zhichao and Wu, Xiao-Ming},
+  title = {Deeper insights into graph convolutional networks for semi-supervised learning},
+  year = {2018},
+  isbn = {978-1-57735-800-8},
+  publisher = {AAAI Press},
+  booktitle = {Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence and Thirtieth Innovative Applications of Artificial Intelligence Conference and Eighth AAAI Symposium on Educational Advances in Artificial Intelligence},
+  articleno = {433},
+  numpages = {8},
+  location = {New Orleans, Louisiana, USA},
+  series = {AAAI'18/IAAI'18/EAAI'18},
+}
+
+@article{FGNN,
+  title = {Provably powerful graph networks},
+  author = {Maron, Haggai and Ben-Hamu, Heli and Serviansky, Hadar and Lipman, Yaron},
+  journal = {Advances in neural information processing systems},
+  volume = {32},
+  year = {2019},
+}
+
+@inproceedings{GNNML3,
+  title = {Breaking the limits of message passing graph neural networks},
+  author = {Balcilar, Muhammet and H{\'e},
+  booktitle = {International Conference on Machine Learning},
+  pages = {599--608},
+  year = {2021},
+  organization = {PMLR},
+}
+
+@article{hypergraph,
+  author = {Kim, Sunwoo and Lee, Soo Yong and Gao, Yue and Antelmi, Alessia and Polato, Mirko and Shin, Kijung},
+  journal = {arXiv},
+  year = {2024},
+  pages = {},
+  publisher = {},
+  title = {A {Survey},
+  volume = {abs/2404.01039},
+}
+
+@inproceedings{gnn1,
+  author = {Yuxi Liu and
+                  Lianghao Xia and
+                  Chao Huang},
+  doi = {10.1145/3626772.3657716},
+  url = {https://doi.org/10.1145/3626772.3657716},
+  booktitle = {Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  editor = {Grace Hui Yang and
+                  Hongning Wang and
+                  Sam Han and
+                  Claudia Hauff and
+                  Guido Zuccon and
+                  Yi Zhang},
+  location = {Washington DC, USA},
+  publisher = {Association for Computing Machinery},
+  year = {2024},
+  address = {New York, NY, USA},
+  isbn = {9798400704314},
+  abstract = {Sequential recommendation effectively addresses information overload by modeling users' temporal and sequential interaction patterns. To overcome the limitations of supervision signals, recent approaches have adopted self-supervised learning techniques in recommender systems. However, there are still two critical challenges that remain unsolved. Firstly, existing sequential models primarily focus on long-term modeling of individual interaction sequences, overlooking the valuable short-term collaborative relationships among the behaviors of different users. Secondly, real-world data often contain noise, particularly in users' short-term behaviors, which can arise from temporary intents or misclicks. Such noise negatively impacts the accuracy of both graph and sequence models, further complicating the modeling process. To address these challenges, we propose a novel framework called Self-Supervised Graph Neural Network (SelfGNN) for sequential recommendation. The SelfGNN framework encodes short-term graphs based on time intervals and utilizes Graph Neural Networks (GNNs) to learn short-term collaborative relationships. It captures long-term user and item representations at multiple granularity levels through interval fusion and dynamic behavior modeling. Importantly, our personalized self-augmented learning structure enhances model robustness by mitigating noise in short-term graphs based on long-term user interests and personal stability. Extensive experiments conducted on four real-world datasets demonstrate that SelfGNN outperforms various state-of-the-art baselines. Our model implementation codes are available at https://github.com/HKUDS/SelfGNN.},
+  pages = {1609--1618},
+  numpages = {10},
+  series = {SIGIR '24},
+  title = {SelfGNN: Self-Supervised Graph Neural Networks for Sequential Recommendation},
+  keywords = {collaborative filtering, graph neural networks, recommender systems, self-supervised learning, sequential recommendation},
+}
+
+@inproceedings{gnn2,
+  author = {Wu, Wei and Wang, Chao and Shen, Dazhong and Qin, Chuan and Chen, Liyi and Xiong, Hui},
+  title = {AFDGCF: Adaptive Feature De-correlation Graph Collaborative Filtering for Recommendations},
+  year = {2024},
+  isbn = {9798400704314},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3626772.3657724},
+  doi = {10.1145/3626772.3657724},
+  abstract = {Collaborative filtering methods based on graph neural networks (GNNs) have witnessed significant success in recommender systems (RS), capitalizing on their ability to capture collaborative signals within intricate user-item relationships via message-passing mechanisms. However, these GNN-based RS inadvertently introduce excess linear correlation between user and item embeddings, contradicting the goal of providing personalized recommendations. While existing research predominantly ascribes this flaw to the over-smoothing problem, this paper underscores the critical, often overlooked role of the over-correlation issue in diminishing the effectiveness of GNN representations and subsequent recommendation performance. Up to now, the over-correlation issue remains unexplored in RS. Meanwhile, how to mitigate the impact of over-correlation while preserving collaborative filtering signals is a significant challenge. To this end, this paper aims to address the aforementioned gap by undertaking a comprehensive study of the over-correlation issue in graph collaborative filtering models. Firstly, we present empirical evidence to demonstrate the widespread prevalence of over-correlation in these models. Subsequently, we dive into a theoretical analysis which establishes a pivotal connection between the over-correlation and over-smoothing issues. Leveraging these insights, we introduce the <u>A</u>daptive <u>F</u>eature <u>De</u>-correlation <u>G</u>raph <u>C</u>ollaborative <u>F</u>iltering (AFDGCF) framework, which dynamically applies correlation penalties to the feature dimensions of the representation matrix, effectively alleviating both over-correlation and over-smoothing issues. The efficacy of the proposed framework is corroborated through extensive experiments conducted with four representative graph collaborative filtering models across four publicly available datasets. Our results show the superiority of AFDGCF in enhancing the performance landscape of graph collaborative filtering models.},
+  booktitle = {Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages = {1242–1252},
+  numpages = {11},
+  keywords = {collaborative filtering, graph neural networks, over-correlation, over-smoothing, recommender systems},
+  location = {Washington DC, USA},
+  series = {SIGIR '24},
+}
+
+@article{debias1,
+  author = {Chenxu Wang and Aodian Liu and Tao Qin},
+  doi = {https://doi.org/10.1016/j.neucom.2024.127681},
+  url = {https://www.sciencedirect.com/science/article/pii/S0925231224004521},
+  issn = {0925-2312},
+  journal = {Neurocomputing},
+  pages = {127681},
+  year = {2024},
+  abstract = {Most learning-to-rank recommendation models assume users prefer interacted items more than non-interacted ones. All non-interacted items have the same chance to be selected as negative samples. However, the observed interaction data usually shows long-tailed distributions, making traditional recommendation models trained on such data tend to rank popular items higher than users’ true preference and degrading the performance of recommender systems. Some existing debias methods focus on eliminating such popularity bias, while simply removing all the popularity bias may diminish recommendation accuracy because popularity also contains some useful information implying item attractiveness, making it pivotal to handling popularity bias in proper ways. In this paper, popularity is recognized to have both positive and negative effects on recommendation. The positive effect of popularity should be amplified while the negative effect should be mitigated. Therefore, this paper proposes two novel schemes to distinguish the positive and negative impact of popularity in learning-to-rank models. First, we propose a popular-weighted sampler to sample non-interacted popular items from users’ collaborative items as negative samples with higher probabilities. We believe that if a popular item is collaboratively similar to a user but not interacted with by him, it is more likely to be a true negative sample for the user. We sample such items with higher probabilities to mitigate the harmful negative popularity bias. Second, popularity could be a significant indicator of items’ intrinsic quality. Hence, we design a popularity regularization scheme to capture item attractiveness, prompting cold-start users to prefer popular items. Finally, we conduct extensive experiments to evaluate the performance of the proposed schemes. Experimental results demonstrate that our approach can improve existing learning-to-rank models’ performance and outperform state-of-the-art debias methods.},
+  volume = {587},
+  title = {Learning-to-rank debias with popularity-weighted negative sampling and popularity regularization},
+  keywords = {Popularity bias, Negative sampling, Popularity regularization},
+}
+
+@article{pop1,
+  title = {Multi-sided Exposure Bias in Recommendation},
+  author = {Himan Abdollahpouri and Masoud Mansoury},
+  year = {2020},
+  eprint = {2006.15772},
+  archiveprefix = {arXiv},
+  primaryclass = {cs.IR},
+  journal = {arXiv preprint arXiv:2006.15772},
+}
+
+@inproceedings{pop2,
+  author = {Abdollahpouri, Himan and Burke, Robin and Mobasher, Bamshad},
+  title = {Controlling Popularity Bias in Learning-to-Rank Recommendation},
+  year = {2017},
+  isbn = {9781450346528},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  doi = {10.1145/3109859.3109912},
+  booktitle = {Proceedings of the Eleventh ACM Conference on Recommender Systems},
+  pages = {42–46},
+  numpages = {5},
+  location = {Como, Italy},
+  series = {RecSys '17},
+}
+
+@inproceedings{bubble1,
+  author = {Nguyen, Tien T. and Hui, Pik-Mai and Harper, F. Maxwell and Terveen, Loren and Konstan, Joseph A.},
+  title = {Exploring the filter bubble: the effect of using recommender systems on content diversity},
+  year = {2014},
+  isbn = {9781450327442},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  doi = {10.1145/2566486.2568012},
+  booktitle = {Proceedings of the 23rd International Conference on World Wide Web},
+  pages = {677–686},
+  numpages = {10},
+  location = {Seoul, Korea},
+  series = {WWW '14},
+}
+
+@inproceedings{bubble2,
+  author = {Sukiennik, Nicholas and Gao, Chen and Li, Nian},
+  title = {Uncovering the Deep Filter Bubble: Narrow Exposure in Short-Video Recommendation},
+  year = {2024},
+  isbn = {9798400701719},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  doi = {10.1145/3589334.3648159},
+  booktitle = {Proceedings of the ACM Web Conference 2024},
+  pages = {4727–4735},
+  numpages = {9},
+  keywords = {filter bubble, recommender systems, short-video recommendation},
+  location = {Singapore, Singapore},
+  series = {WWW '24},
+}
+
+@article{div,
+  author = {Zhao, Yuying and Wang, Yu and Liu, Yunchao and Cheng, Xueqi and Aggarwal, Charu C. and Derr, Tyler},
+  title = {Fairness and Diversity in Recommender Systems: A Survey},
+  year = {2025},
+  issue_date = {February 2025},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  volume = {16},
+  number = {1},
+  issn = {2157-6904},
+  doi = {10.1145/3664928},
+  journal = {ACM Trans. Intell. Syst. Technol.},
+  articleno = {2},
+  numpages = {28},
+  keywords = {Fairness, Diversity},
+}
+
+@inproceedings{tail2,
+  author = {Chunyu Wei and
+                  Jian Liang and
+                  Di Liu and
+                  Zehui Dai and
+                  Mang Li and
+                  Fei Wang},
+  title = {Meta Graph Learning for Long-tail Recommendation},
+  booktitle = {Proceedings of the 29th {ACM},
+  pages = {2512--2522},
+  publisher = {{ACM},
+  year = {2023},
+  doi = {10.1145/3580305.3599428},
+}
+
+@inproceedings{emb1,
+  author = {Lee, Geon and Kim, Kyungho and Shin, Kijung},
+  title = {Post-Training Embedding Enhancement for Long-Tail Recommendation},
+  year = {2024},
+  isbn = {9798400704369},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  doi = {10.1145/3627673.3679978},
+  booktitle = {Proceedings of the 33rd ACM International Conference on Information and Knowledge Management},
+  pages = {3857–3861},
+  numpages = {5},
+  location = {Boise, ID, USA},
+  series = {CIKM '24},
+}
+
+@inproceedings{emb2,
+  author = {Kim, Dain and Park, Jinhyeok and Kim, Dongwoo},
+  title = {Test-Time Embedding Normalization for Popularity Bias Mitigation},
+  year = {2023},
+  isbn = {9798400701245},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  doi = {10.1145/3583780.3615281},
+  booktitle = {Proceedings of the 32nd ACM International Conference on Information and Knowledge Management},
+  pages = {4023–4027},
+  numpages = {5},
+  keywords = {recommender systems, popularity bias, fairness},
+  location = {Birmingham, United Kingdom},
+  series = {CIKM '23},
+}
+
+@inproceedings{directau,
+  title = {Towards Representation Alignment and Uniformity in Collaborative Filtering},
+  author = {Wang, Chenyang and Yu, Yuanqing and Ma, Weizhi and Zhang, Min and Chen, Chong and Liu, Yiqun and Ma, Shaoping},
+  booktitle = {Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  pages = {1816--1825},
+  year = {2022},
+}
+
+@inproceedings{normlap,
+  title = {Simplifying Graph Convolutional Networks},
+  author = {Wu, Felix and Souza, Amauri and Zhang, Tianyi and Fifty, Christopher and Yu, Tao and Weinberger, Kilian},
+  booktitle = {Proceedings of the 36th International Conference on Machine Learning},
+  pages = {6861--6871},
+  year = {2019},
+  editor = {Chaudhuri, Kamalika and Salakhutdinov, Ruslan},
+  volume = {97},
+  series = {Proceedings of Machine Learning Research},
+  month = {09--15 Jun},
+  publisher = {PMLR},
+}
+
+@book{scbook,
+  author = {Zomorodian, Afra},
+  year = {2005},
+  month = {01},
+  pages = {},
+  title = {Topology for Computing},
+  volume = {16},
+  doi = {10.1017/CBO9780511546945},
+}
+
+@book{lap,
+  title = {Spectral Graph Theory},
+  author = {Chung, F.R.K.},
+  number = {no. 92},
+  isbn = {9780821889367},
+  series = {CBMS Regional Conference Series},
+  publisher = {Conference Board of the Mathematical Sciences},
+}
+
+@inproceedings{intro1,
+  author = {Ding, Yue and Ji, Yanbiao and Cai, Xun and Xin, Xin and Lu, Yuxiang and Huang, Suizhi and Liu, Chang and Gao, Xiaofeng and Murata, Tsuyoshi and Lu, Hongtao},
+  title = {Towards Personalized Federated Multi-Scenario Multi-Task Recommendation},
+  year = {2025},
+  isbn = {9798400713293},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  doi = {10.1145/3701551.3703523},
+  booktitle = {Proceedings of the Eighteenth ACM International Conference on Web Search and Data Mining},
+  pages = {429–438},
+  numpages = {10},
+  keywords = {collaborative filtering, federated learning, multi-task recommendation},
+  location = {Hannover, Germany},
+  series = {WSDM '25},
+}
+
+@inproceedings{intro2,
+  author = {Fan Yao and
+                  Yiming Liao and
+                  Jingzhou Liu and
+                  Shaoliang Nie and
+                  Qifan Wang and
+                  Haifeng Xu and
+                  Hongning Wang},
+  editor = {Amir Globersons and
+                  Lester Mackey and
+                  Danielle Belgrave and
+                  Angela Fan and
+                  Ulrich Paquet and
+                  Jakub M. Tomczak and
+                  Cheng Zhang},
+  title = {Unveiling User Satisfaction and Creator Productivity Trade-Offs in
+                  Recommendation Platforms},
+  booktitle = {Advances in Neural Information Processing Systems 38: Annual Conference
+                  on Neural Information Processing Systems 2024, NeurIPS 2024, Vancouver,
+                  BC, Canada, December 10 - 15, 2024},
+  year = {2024},
+}
+
+@inproceedings{intro3,
+  author = {Thomas Kleine Buening and
+                  Aadirupa Saha and
+                  Christos Dimitrakakis and
+                  Haifeng Xu},
+  title = {Bandits Meet Mechanism Design to Combat Clickbait in Online Recommendation},
+  booktitle = {The Twelfth International Conference on Learning Representations,
+                  {ICLR},
+  publisher = {OpenReview.net},
+  year = {2024},
+  timestamp = {Mon, 29 Jul 2024 17:17:48 +0200},
+}
+
+@inproceedings{gr2,
+  author = {Wenhui Yu and
+                  Zheng Qin},
+  pages = {10936--10945},
+  publisher = {JMLR.org},
+  year = {2020},
+  numpages = {10},
+  volume = {119},
+  series = {Proceedings of Machine Learning Research},
+  booktitle = {Proceedings of the 37th International Conference on Machine Learning,
+                  {ICML},
+  title = {Graph Convolutional Network for Recommendation with Low-pass Collaborative
+                  Filters},
+  articleno = {1014},
+}
+
+@inproceedings{gr3,
+  author = {Ziqi Yang and
+                  Zhaopeng Peng and
+                  Zihui Wang and
+                  Jianzhong Qi and
+                  Chaochao Chen and
+                  Weike Pan and
+                  Chenglu Wen and
+                  Cheng Wang and
+                  Xiaoliang Fan},
+  editor = {Amir Globersons and
+                  Lester Mackey and
+                  Danielle Belgrave and
+                  Angela Fan and
+                  Ulrich Paquet and
+                  Jakub M. Tomczak and
+                  Cheng Zhang},
+  title = {Federated Graph Learning for Cross-Domain Recommendation},
+  booktitle = {Advances in Neural Information Processing Systems 38: Annual Conference
+                  on Neural Information Processing Systems 2024, NeurIPS 2024, Vancouver,
+                  BC, Canada, December 10 - 15, 2024},
+  year = {2024},
+}
+
+@inproceedings{gr4,
+  author = {Chu Zhao and
+                  Enneng Yang and
+                  Yuliang Liang and
+                  Pengxiang Lan and
+                  Yuting Liu and
+                  Jianzhe Zhao and
+                  Guibing Guo and
+                  Xingwei Wang},
+  editor = {Guodong Long and
+                  Michale Blumestein and
+                  Yi Chang and
+                  Liane Lewin{-},
+  title = {Graph Representation Learning via Causal Diffusion for Out-of-Distribution
+                  Recommendation},
+  booktitle = {Proceedings of the {ACM},
+  pages = {334--346},
+  publisher = {{ACM},
+  year = {2025},
+}
+
+@inproceedings{grad2,
+  title = {Mitigating the Popularity Bias of  Graph Collaborative Filtering: A Dimensional Collapse Perspective},
+  author = {Yifei Zhang and Hao Zhu and Yankai Chen and Zixing Song and Piotr Koniusz and Irwin King},
+  booktitle = {Thirty-seventh Conference on Neural Information Processing Systems},
+  year = {2023},
+}
+
+@inproceedings{amp,
+  author = {Zhu, Ziwei and He, Yun and Zhao, Xing and Zhang, Yin and Wang, Jianling and Caverlee, James},
+  title = {Popularity-Opportunity Bias in Collaborative Filtering},
+  year = {2021},
+  isbn = {9781450382977},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  booktitle = {Proceedings of the 14th ACM International Conference on Web Search and Data Mining},
+  pages = {85–93},
+  numpages = {9},
+  keywords = {statistical parity, recommender systems, recommendation bias, equal opportunity},
+  location = {Virtual Event, Israel},
+  series = {WSDM '21},
+}
+
+@book{tikh,
+  address = {Washington, D.C.: John Wiley \& Sons, New York},
+  author = {Tikhonov, Andrey N. and Arsenin, Vasiliy Y.},
+  note = {Translated from the Russian, Preface by translation editor Fritz John, Scripta Series in Mathematics},
+  pages = {xiii+258},
+  publisher = {V. H. Winston \& Sons},
+  title = {Solutions of ill-posed problems},
+  year = {1977},
+}
+
+@book{hodgebook,
+  title = {The Theory and Applications of Harmonic Integrals},
+  author = {Hodge, W.V.D.},
+  isbn = {9780521358811},
+  lccn = {89188865},
+  series = {Cambridge mathematical library},
+  year = {1989},
+  publisher = {Cambridge University Press},
+}
+
+@misc{simpenergy,
+  title = {Hodge-Aware Learning on Simplicial Complexes},
+  author = {Maosheng Yang and Elvin Isufi},
+  year = {2023},
+  url = {https://openreview.net/forum?id=QSJKrO1Qpy},
+}
+
+@inproceedings{ndcg,
+  author = {J\"{a},
+  title = {IR evaluation methods for retrieving highly relevant documents},
+  year = {2000},
+  isbn = {1581132263},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/345508.345545},
+  doi = {10.1145/345508.345545},
+  booktitle = {Proceedings of the 23rd Annual International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages = {41–48},
+  numpages = {8},
+  location = {Athens, Greece},
+  series = {SIGIR '00},
+}
+
+@misc{mm,
+  title = {Generating Negative Samples for Multi-Modal Recommendation},
+  author = {Yanbiao Ji and Yue Ding and Dan Luo and Chang Liu and Jing Tong and Shaokai Wu and Hongtao Lu},
+  year = {2025},
+  eprint = {2501.15183},
+  archiveprefix = {arXiv},
+  primaryclass = {cs.IR},
+  url = {https://arxiv.org/abs/2501.15183},
+}
+
+@inproceedings{llmrec,
+  author = {Wei, Wei and Ren, Xubin and Tang, Jiabin and Wang, Qinyong and Su, Lixin and Cheng, Suqi and Wang, Junfeng and Yin, Dawei and Huang, Chao},
+  title = {LLMRec: Large Language Models with Graph Augmentation for Recommendation},
+  year = {2024},
+  isbn = {9798400703713},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3616855.3635853},
+  doi = {10.1145/3616855.3635853},
+  booktitle = {Proceedings of the 17th ACM International Conference on Web Search and Data Mining},
+  pages = {806–815},
+  numpages = {10},
+  keywords = {bias in recommender system, collaborative filtering, content-based recommendation, data augmentation, data sparsity, graph learning, large language models, multi-modal recommendation},
+  location = {Merida, Mexico},
+  series = {WSDM '24},
+}
+
+@inproceedings{llmrg,
+  author = {Wang, Yan and Chu, Zhixuan and Ouyang, Xin and Wang, Simeng and Hao, Hongyan and Shen, Yue and Gu, Jinjie and Xue, Siqiao and Zhang, James and Cui, Qing and Li, Longfei and Zhou, Jun and Li, Sheng},
+  title = {LLMRG: improving recommendations through large language model reasoning graphs},
+  year = {2024},
+  isbn = {978-1-57735-887-9},
+  publisher = {AAAI Press},
+  url = {https://doi.org/10.1609/aaai.v38i17.29887},
+  doi = {10.1609/aaai.v38i17.29887},
+  booktitle = {Proceedings of the Thirty-Eighth AAAI Conference on Artificial Intelligence and Thirty-Sixth Conference on Innovative Applications of Artificial Intelligence and Fourteenth Symposium on Educational Advances in Artificial Intelligence},
+  articleno = {2139},
+  numpages = {8},
+  series = {AAAI'24/IAAI'24/EAAI'24},
+}
+
+@article{rl1,
+  author = {Shi, Xiaoyu and Liu, Quanliang and Xie, Hong and Wu, Di and Peng, Bo and Shang, MingSheng and Lian, Defu},
+  title = {Relieving Popularity Bias in Interactive Recommendation: A Diversity-Novelty-Aware Reinforcement Learning Approach},
+  year = {2023},
+  issue_date = {March 2024},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  volume = {42},
+  number = {2},
+  issn = {1046-8188},
+  url = {https://doi.org/10.1145/3618107},
+  doi = {10.1145/3618107},
+  journal = {ACM Trans. Inf. Syst.},
+  articleno = {52},
+  numpages = {30},
+}
+
+@inproceedings{rl2,
+  author = {Lin, Allen and Wang, Jianling and Zhu, Ziwei and Caverlee, James},
+  title = {Quantifying and Mitigating Popularity Bias in Conversational Recommender Systems},
+  year = {2022},
+  isbn = {9781450392365},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  url = {https://doi.org/10.1145/3511808.3557423},
+  doi = {10.1145/3511808.3557423},
+  booktitle = {Proceedings of the 31st ACM International Conference on Information \& Knowledge Management},
+  pages = {1238–1247},
+  numpages = {10},
+  keywords = {popularity bias, debiasing, conversational recommender system},
+  location = {Atlanta, GA, USA},
+  series = {CIKM '22},
+}
+
+@article{toponetx,
+  title = {TopoX: A Suite of Python Packages for Machine Learning on Topological Domains},
+  author = {PYT-Team},
+  journal = {arXiv preprint arXiv:2402.02441},
+  year = {2024},
+}

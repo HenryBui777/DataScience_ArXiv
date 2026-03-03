@@ -1,0 +1,17 @@
+{
+  "title": "Mean Estimation in Banach Spaces Under Infinite Variance and Martingale Dependence",
+  "authors": [
+    "Justin Whitehouse",
+    "Ben Chugg",
+    "Diego Martinez-Taboada",
+    "Aaditya Ramdas"
+  ],
+  "summary": "We consider estimating the shared mean of a sequence of heavy-tailed random variables taking values in a Banach space. In particular, we revisit and extend a simple truncation-based mean estimator first proposed by Catoni and Giulini. While existing truncation-based approaches require a bound on the raw (non-central) second moment of observations, our results hold under a bound on either the central or non-central $p$th moment for some $p \\in (1,2]$. Our analysis thus handles distributions with infinite variance. The main contributions of the paper follow from exploiting connections between truncation-based mean estimation and the concentration of martingales in smooth Banach spaces. We prove two types of time-uniform bounds on the distance between the estimator and unknown mean: line-crossing inequalities, which can be optimized for a fixed sample size $n$, and iterated logarithm inequalities, which match the tightness of line-crossing inequalities at all points in time up to a doubly logarithmic factor in $n$. Our results do not depend on the dimension of the Banach space, hold under martingale dependence, and all constants in the inequalities are known and small.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-03-24"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.ST, math.PR, stat.ME"
+}

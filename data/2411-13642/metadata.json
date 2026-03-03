@@ -1,0 +1,14 @@
+{
+  "title": "Designing Atomtronic Circuits via Superfluid Dynamics",
+  "authors": [
+    "Sarah Jährling",
+    "Vijay Pal Singh",
+    "Ludwig Mathey"
+  ],
+  "summary": "We propose to design atomtronic circuits with Bose-Einstein condensates (BECs) in circuit-like traps that are controlled via mobile barriers. Using classical-field simulations, we demonstrate a universal set of logical gates and show how to assemble them into circuits. We first demonstrate an AND gate based on a T-shaped BEC, utilizing a combination of mobile and static barriers. The mobile barriers provide the logical input of the gate, while the static barrier functions as a Josephson junction that generates the AND output of the gate via a density imbalance across the barrier. Next we show how to combine three AND gates into a circuit, with a design composed of two T-shapes and an H-shape. Furthermore, we demonstrate how to use Josephson oscillations to create a NOT gate and combine it with an AND gate, thereby showcasing a universal set of gates and their assembly into circuits.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "Phys. Rev. Research 7, 033112 (2025)",
+  "pdf_url": null,
+  "category": "cond-mat.quant-gas, quant-ph"
+}

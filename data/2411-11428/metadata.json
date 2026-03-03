@@ -1,0 +1,21 @@
+{
+  "title": "Weak Simplicial Bisimilarity and Minimisation for Polyhedral Model Checking",
+  "authors": [
+    "Nick Bezhanishvili",
+    "Laura Bussi",
+    "Vincenzo Ciancia",
+    "David Gabelaia",
+    "Mamuka Jibladze",
+    "Diego Latella",
+    "Mieke Massink",
+    "Erik P. de Vink"
+  ],
+  "summary": "The work described in this paper builds on the polyhedral semantics of the Spatial Logic for Closure Spaces (SLCS) and the geometric spatial model checker PolyLogicA. Polyhedral models are central in domains that exploit mesh processing, such as 3D computer graphics. A discrete representation of polyhedral models is given by cell poset models, which are amenable to geometric spatial model checking on polyhedral models using the logical language SLCS$η$, a weaker version of SLCS, where by ``weak'' we mean that the relevant equivalence is coarser than the corresponding one for SLCS, leading to a greater reduction of the size of models and thus to more efficient model checking. We show that the proposed bisimilarities enjoy the Hennessy-Milner property, i.e. two points are weakly simplicial bisimilar if and only if they are logically equivalent for SLCS$η$. Similarly, two cells are weakly $\\pm$-bisimilar if and only if they are logically equivalent in the poset-model interpretation of SLCS$η$. Furthermore we present a model minimisation procedure, and prove that it correctly computes the minimal model with respect to weak $\\pm$-bisimilarity, i.e. with respect to logical equivalence of SLCS$η$. The procedure works via an encoding into LTSs and then exploits branching bisimilarity on those LTSs, exploiting the minimisation capabilities as included in the mCRL2 toolset. Various examples show the effectiveness of the approach.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-06-06"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LO"
+}

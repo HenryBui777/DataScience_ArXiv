@@ -1,0 +1,19 @@
+{
+  "title": "PrometheusFree: Concurrent Detection of Laser Fault Injection Attacks in Optical Neural Networks",
+  "authors": [
+    "Kota Nishida",
+    "Yoshihiro Midoh",
+    "Noriyuki Miura",
+    "Satoshi Kawakami",
+    "Alex Orailoglu",
+    "Jun Shiomi"
+  ],
+  "summary": "Silicon Photonics-based AI Accelerators (SPAAs) have been considered as promising AI accelerators achieving high energy efficiency and low latency. While many researchers focus on improving SPAAs' energy efficiency and latency, their physical security has only recently received attention. While it is essential to deliver strong optical neural network inferencing approaches, their success and adoption are predicated on their ability to deliver a secure execution environment. Towards this end, this paper proposes PrometheusFree, an optical neural network framework that is capable of concurrent detection of laser fault injection attacks. This paper first presents an illustrative threat of laser fault injection attacks on SPAAs, capable of subjecting the optical neural network to misclassifications. The threat then is addressed in this paper by developing techniques for concurrent detection of the laser fault injection attacks. Furthermore, this paper introduces a novel application of Wavelength Division Perturbation (WDP) technique where wavelength-dependent Vector Matrix Multiplication (VMM) results are utilized to boost fault attack detection accuracy. Simulation results show that PrometheusFree achieves over 96% attack-caused misprediction recall as the use of the WDP technique squashes the attack success rate by 38.6% on average. Compared with prior art, PrometheusFree limits the average attack success ratio to 0.019, yielding a 95.3% reduction. The experimental results confirm the superiority of the concurrent detection and the boost in attack detection abilities imparted by the WDP approaches.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [
+    "2025-11-10"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.optics, cs.CR"
+}

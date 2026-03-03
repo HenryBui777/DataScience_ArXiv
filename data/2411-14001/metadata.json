@@ -1,0 +1,17 @@
+{
+  "title": "Graph Domain Adaptation with Dual-branch Encoder and Two-level Alignment for Whole Slide Image-based Survival Prediction",
+  "authors": [
+    "Yuntao Shou",
+    "Peiqiang Yan",
+    "Xingjian Yuan",
+    "Xiangyong Cao",
+    "Qian Zhao",
+    "Deyu Meng"
+  ],
+  "summary": "In recent years, histopathological whole slide image (WSI)- based survival analysis has attracted much attention in medical image analysis. In practice, WSIs usually come from different hospitals or laboratories, which can be seen as different domains, and thus may have significant differences in imaging equipment, processing procedures, and sample sources. These differences generally result in large gaps in distribution between different WSI domains, and thus the survival analysis models trained on one domain may fail to transfer to another. To address this issue, we propose a Dual-branch Encoder and Two-level Alignment (DETA) framework to explore both feature and category-level alignment between different WSI domains. Specifically, we first formulate the concerned problem as graph domain adaptation (GDA) by virtue the graph representation of WSIs. Then we construct a dual-branch graph encoder, including the message passing branch and the shortest path branch, to explicitly and implicitly extract semantic information from the graph-represented WSIs. To realize GDA, we propose a two-level alignment approach: at the category level, we develop a coupling technique by virtue of the dual-branch structure, leading to reduced divergence between the category distributions of the two domains; at the feature level, we introduce an adversarial perturbation strategy to better augment source domain feature, resulting in improved alignment in feature distribution. To the best of our knowledge, our work is the first attempt to alleviate the domain shift issue for WSI data analysis. Extensive experiments on four TCGA datasets have validated the effectiveness of our proposed DETA framework and demonstrated its superior performance in WSI-based survival analysis.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

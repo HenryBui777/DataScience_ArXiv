@@ -1,0 +1,16 @@
+{
+  "title": "Implementation and performance of a fiber-coupled CMOS camera in an ultrafast reflective high-energy electron diffraction experiment",
+  "authors": [
+    "Jonas D. Fortmann",
+    "Alexander Kaßen",
+    "Christian Brand",
+    "Thomas Duden",
+    "Michael Horn-von Hoegen"
+  ],
+  "summary": "The implementation of a monolithic fiber-optically coupled CMOS-based TemCam-XF416 camera into our ultra-high vacuum (UHV) ultrafast reflection high-energy electron diffraction setup is reported. A combination of a pumpable gate valve and a self-built cooling collar allows UHV conditions to be reached without the need to remove the heat-sensitive device. The water-cooled collar is mounted to the camera housing and prevents heating of the detector upon bake-out of the UHV chamber. The TemCam provides an one order of magnitude higher spatial resolution than the previously used microchannel plate (MCP) based detector (Burle Chevron 3040FM) which enables a 30% higher resolution in reciprocal space. The low background intensity and the 4$\\times$ lager dynamic range enables analysis of the diffuse intensity of the diffraction pattern like Kikuchi lines and bands. A key advantage over the previous MCP detector is the complete absence of the blooming effect, which enables the quantitative spot profile analysis of the diffraction spots. The inherent light sensitivity in an optical pump experiment can be overcome by using photons with hν < 1.12 eV, i.e., the indirect band gap of silicon, or by shielding any stray light.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cond-mat.mes-hall, physics.ins-det"
+}

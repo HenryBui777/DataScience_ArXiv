@@ -1,0 +1,16 @@
+{
+  "title": "SL-YOLO: A Stronger and Lighter Drone Target Detection Model",
+  "authors": [
+    "Defan Chen",
+    "Luchan Zhang"
+  ],
+  "summary": "Detecting small objects in complex scenes, such as those captured by drones, is a daunting challenge due to the difficulty in capturing the complex features of small targets. While the YOLO family has achieved great success in large target detection, its performance is less than satisfactory when faced with small targets. Because of this, this paper proposes a revolutionary model SL-YOLO (Stronger and Lighter YOLO) that aims to break the bottleneck of small target detection. We propose the Hierarchical Extended Path Aggregation Network (HEPAN), a pioneering cross-scale feature fusion method that can ensure unparalleled detection accuracy even in the most challenging environments. At the same time, without sacrificing detection capabilities, we design the C2fDCB lightweight module and add the SCDown downsampling module to greatly reduce the model's parameters and computational complexity. Our experimental results on the VisDrone2019 dataset reveal a significant improvement in performance, with mAP@0.5 jumping from 43.0% to 46.9% and mAP@0.5:0.95 increasing from 26.0% to 28.9%. At the same time, the model parameters are reduced from 11.1M to 9.6M, and the FPS can reach 132, making it an ideal solution for real-time small object detection in resource-constrained environments.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-12-02",
+    "2025-01-13"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

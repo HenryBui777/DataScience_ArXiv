@@ -1,0 +1,15 @@
+{
+  "title": "Parallelly Tempered Generative Adversarial Nets: Toward Stabilized Gradients",
+  "authors": [
+    "Jinwon Sohn",
+    "Qifan Song"
+  ],
+  "summary": "A generative adversarial network (GAN) has been a representative backbone model in generative artificial intelligence (AI) because of its powerful performance in capturing intricate data-generating processes. However, the GAN training is well-known for its notorious training instability, usually characterized by the occurrence of mode collapse. Through the lens of gradients' variance, this work particularly analyzes the training instability and inefficiency in the presence of mode collapse by linking it to multimodality in the target distribution. To ease the raised training issues from severe multimodality, we introduce a novel GAN training framework that leverages a series of tempered distributions produced via convex interpolation. With our newly developed GAN objective function, the generator can learn all the tempered distributions simultaneously, conceptually resonating with the parallel tempering in statistics. Our simulation studies demonstrate the superiority of our approach over existing popular training strategies in both image and tabular data synthesis. We theoretically analyze that such significant improvement can arise from reducing the variance of gradient estimates by using the tempered distributions. Finally, we further develop a variant of the proposed framework aimed at generating fair synthetic data which is one of the growing interests in the field of trustworthy AI.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-08-19"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ML, cs.LG"
+}

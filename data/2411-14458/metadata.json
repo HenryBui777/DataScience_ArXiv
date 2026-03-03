@@ -1,0 +1,20 @@
+{
+  "title": "Improving training time and GPU utilization in geo-distributed language model training",
+  "authors": [
+    "Palak",
+    "Tella Rajashekhar Reddy",
+    "Bhaskar Kataria",
+    "Rohan Gandhi",
+    "Karan Tandon",
+    "Debopam Bhattacherjee",
+    "Venkata N. Padmanabhan"
+  ],
+  "summary": "The widespread adoption of language models (LMs) has caused a huge surge in demand for GPUs. Training large LMs requires tens of thousands of GPUs and housing them in the same datacenter (DC) is a challenge due to many constraints including availability of peak power. We focus on training such models across multiple DCs connected via the Wide-Area-Network (WAN). We built Atlas that speeds up the training time using novel workload-aware temporal bandwidth sharing and other design choices. While Atlas improves the training time, it does not completely eliminate the bubbles (idle GPU cycles). We built BubbleTea that runs prefill-as-a-service (part of LM inference) during the bubbles thus improving the GPU utilization without any impact on training. Compared to state-of-the-art designs, Atlas and BubbleTea together achieve up to 17x faster training, and up to 94% GPU utilization. The code will be open-sourced.",
+  "submission_date": "2024-11-16",
+  "revised_dates": [
+    "2025-10-18"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.DC, cs.AI, cs.LG"
+}

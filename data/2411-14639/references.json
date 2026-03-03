@@ -1,0 +1,463 @@
+{
+  "2403-14421": {
+    "title": "DP-RDM: Adapting Diffusion Models to Private Domains Without Fine-Tuning",
+    "authors": [
+      "Jonathan Lebensold",
+      "Maziar Sanjabi",
+      "Pietro Astolfi",
+      "Adriana Romero-Soriano",
+      "Kamalika Chaudhuri",
+      "Michael Rabbat",
+      "Chuan Guo"
+    ],
+    "publication_date": "2024-03-21",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "c0875f62cf69911fc9599c5d0f96df0972d489d9",
+    "corpus_id": 268553771,
+    "category": "Computer Science"
+  },
+  "2403-02506": {
+    "title": "Differentially Private Representation Learning via Image Captioning",
+    "authors": [
+      "Tom Sander",
+      "Yaodong Yu",
+      "Maziar Sanjabi",
+      "A. Durmus",
+      "Yi Ma",
+      "Kamalika Chaudhuri",
+      "Chuan Guo"
+    ],
+    "publication_date": "2024-03-04",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "2b123991fac7dc7e86ed2e7fb828ab9b22ca4db5",
+    "corpus_id": 268247916,
+    "category": "Computer Science"
+  },
+  "2401-09603": {
+    "title": "Rethinking FID: Towards a Better Evaluation Metric for Image Generation",
+    "authors": [
+      "Sadeep Jayasumana",
+      "Srikumar Ramalingam",
+      "Andreas Veit",
+      "Daniel Glasner",
+      "Ayan Chakrabarti",
+      "Sanjiv Kumar"
+    ],
+    "publication_date": "2023-11-30",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "ee9017b716c49006f423595624593b87df0a491b",
+    "corpus_id": 267035198,
+    "category": "Computer Science"
+  },
+  "2307-01952": {
+    "title": "SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis",
+    "authors": [
+      "Dustin Podell",
+      "Zion English",
+      "Kyle Lacey",
+      "A. Blattmann",
+      "Tim Dockhorn",
+      "Jonas Muller",
+      "Joe Penna",
+      "Robin Rombach"
+    ],
+    "publication_date": "2023-07-04",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "d7890d1906d95c4ae4c430b350455156d6d8aed9",
+    "corpus_id": 259341735,
+    "category": "Computer Science"
+  },
+  "2306-08842": {
+    "title": "ViP: A Differentially Private Foundation Model for Computer Vision",
+    "authors": [
+      "Yaodong Yu",
+      "Maziar Sanjabi",
+      "Y. Ma",
+      "Kamalika Chaudhuri",
+      "Chuan Guo"
+    ],
+    "publication_date": "2023-06-15",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "d74b100d22638d5f8bfd1ebf1f5bbb2d945de6e1",
+    "corpus_id": 259164707,
+    "category": "Computer Science"
+  },
+  "2305-14822": {
+    "title": "Can Copyright be Reduced to Privacy?",
+    "authors": [
+      "N. Elkin-Koren",
+      "Uri Y. Hacohen",
+      "Roi Livni",
+      "S. Moran"
+    ],
+    "publication_date": "2023-05-24",
+    "venue": "Symposium on Foundations of Responsible Computing",
+    "semantic_scholar_id": "a502c1d4ef8c0113812a5236cad12ba9f22cc91d",
+    "corpus_id": 258865475,
+    "category": "Computer Science"
+  },
+  "2302-13861": {
+    "title": "Differentially Private Diffusion Models Generate Useful Synthetic Images",
+    "authors": [
+      "Sahra Ghalebikesabi",
+      "Leonard Berrada",
+      "Sven Gowal",
+      "Ira Ktena",
+      "Robert Stanforth",
+      "Jamie Hayes",
+      "Soham De",
+      "Samuel L. Smith",
+      "Olivia Wiles",
+      "Borja Balle"
+    ],
+    "publication_date": "2023-02-27",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "510a068ba6ce4979202e309a0eafb82d6d89f243",
+    "corpus_id": 257219853,
+    "category": "Computer Science, Mathematics"
+  },
+  "2302-10870": {
+    "title": "On Provable Copyright Protection for Generative Models",
+    "authors": [
+      "Nikhil Vyas",
+      "S. Kakade",
+      "B. Barak"
+    ],
+    "publication_date": "2023-02-21",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "36e21d8093361027088c1977ebaa2acf105c2b28",
+    "corpus_id": 257050406,
+    "category": "Computer Science, Mathematics"
+  },
+  "2302-07121": {
+    "title": "Universal Guidance for Diffusion Models",
+    "authors": [
+      "Arpit Bansal",
+      "Hong-Min Chu",
+      "Avi Schwarzschild",
+      "Soumyadip Sengupta",
+      "Micah Goldblum",
+      "Jonas Geiping",
+      "T. Goldstein"
+    ],
+    "publication_date": "2023-02-14",
+    "venue": "2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+    "semantic_scholar_id": "d24b4f34197df0257390b57f02537e6ce3284f2e",
+    "corpus_id": 256846836,
+    "category": "Computer Science"
+  },
+  "2302-01316": {
+    "title": "Are Diffusion Models Vulnerable to Membership Inference Attacks?",
+    "authors": [
+      "Jinhao Duan",
+      "Fei Kong",
+      "Shiqi Wang",
+      "Xiaoshuang Shi",
+      "Kaidi Xu"
+    ],
+    "publication_date": "2023-02-02",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "38c14931cf5dc7781b4f24af15e8938dfb898317",
+    "corpus_id": 256503774,
+    "category": "Computer Science"
+  },
+  "2301-13188": {
+    "title": "Extracting Training Data from Diffusion Models",
+    "authors": [
+      "Nicholas Carlini",
+      "Jamie Hayes",
+      "Milad Nasr",
+      "Matthew Jagielski",
+      "Vikash Sehwag",
+      "Florian Tramèr",
+      "Borja Balle",
+      "Daphne Ippolito",
+      "Eric Wallace"
+    ],
+    "publication_date": "2023-01-30",
+    "venue": "USENIX Security Symposium",
+    "semantic_scholar_id": "2e965b5d97c2d6fb4af284307735be39283792ba",
+    "corpus_id": 256389993,
+    "category": "Computer Science"
+  },
+  "2212-06470": {
+    "title": "Considerations for Differentially Private Learning with Large-Scale Public Pretraining",
+    "authors": [
+      "Florian Tramèr",
+      "Gautam Kamath",
+      "Nicholas Carlini"
+    ],
+    "publication_date": "2022-12-13",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "7932b714e2ae1def5828df52b97f1decb9bebd32",
+    "corpus_id": 254591584,
+    "category": "Computer Science, Mathematics"
+  },
+  "2210-09929": {
+    "title": "Differentially Private Diffusion Models",
+    "authors": [
+      "Tim Dockhorn",
+      "Tianshi Cao",
+      "Arash Vahdat",
+      "Karsten Kreis"
+    ],
+    "publication_date": "2022-10-18",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "9dea2c15a044a3c83d0d66b9c3daa91d457d905f",
+    "corpus_id": 252968205,
+    "category": "Computer Science, Mathematics"
+  },
+  "2210-08402": {
+    "title": "LAION-5B: An open large-scale dataset for training next generation image-text models",
+    "authors": [
+      "Christoph Schuhmann",
+      "R. Beaumont",
+      "R. Vencu",
+      "Cade Gordon",
+      "Ross Wightman",
+      "Mehdi Cherti",
+      "Theo Coombes",
+      "Aarush Katta",
+      "Clayton Mullis",
+      "Mitchell Wortsman",
+      "P. Schramowski",
+      "Srivatsa Kundurthy",
+      "Katherine Crowson",
+      "Ludwig Schmidt",
+      "R. Kaczmarczyk",
+      "J. Jitsev"
+    ],
+    "publication_date": "2022-10-16",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "e5c8960eb2ec034ffbd353ef39fd1cb541d3c7c9",
+    "corpus_id": 252917726,
+    "category": "Computer Science"
+  },
+  "2210-00597": {
+    "title": "Composition of Differential Privacy & Privacy Amplification by Subsampling",
+    "authors": [
+      "T. Steinke"
+    ],
+    "publication_date": "2022-10-02",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "fa61bfc90e60f5bf05f9c9374279898808de348a",
+    "corpus_id": 252683292,
+    "category": "Computer Science"
+  },
+  "2208-12242": {
+    "title": "DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation",
+    "authors": [
+      "Nataniel Ruiz",
+      "Yuanzhen Li",
+      "Varun Jampani",
+      "Y. Pritch",
+      "Michael Rubinstein",
+      "Kfir Aberman"
+    ],
+    "publication_date": "2022-08-25",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "5b19bf6c3f4b25cac96362c98b930cf4b37f6744",
+    "corpus_id": 251800180,
+    "category": "Computer Science"
+  },
+  "2208-01618": {
+    "title": "An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion",
+    "authors": [
+      "Rinon Gal",
+      "Yuval Alaluf",
+      "Y. Atzmon",
+      "Or Patashnik",
+      "Amit H. Bermano",
+      "Gal Chechik",
+      "D. Cohen-Or"
+    ],
+    "publication_date": "2022-08-02",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "5406129d9d7d00dc310671c43597101b0ee93629",
+    "corpus_id": 251253049,
+    "category": "Computer Science"
+  },
+  "2207-12598": {
+    "title": "Classifier-Free Diffusion Guidance",
+    "authors": [
+      "Jonathan Ho"
+    ],
+    "publication_date": "2022-07-26",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "af9f365ed86614c800f082bd8eb14be76072ad16",
+    "corpus_id": 249145348,
+    "category": "Computer Science"
+  },
+  "2112-10752": {
+    "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+    "authors": [
+      "Robin Rombach",
+      "A. Blattmann",
+      "Dominik Lorenz",
+      "Patrick Esser",
+      "B. Ommer"
+    ],
+    "publication_date": "2021-12-20",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "c10075b3746a9f3dd5811970e93c8ca3ad39b39d",
+    "corpus_id": 245335280,
+    "category": "Computer Science"
+  },
+  "2110-06500": {
+    "title": "Differentially Private Fine-tuning of Language Models",
+    "authors": [
+      "Da Yu",
+      "Saurabh Naik",
+      "A. Backurs",
+      "Sivakanth Gopi",
+      "Huseyin A. Inan",
+      "Gautam Kamath",
+      "Janardhan Kulkarni",
+      "Y. Lee",
+      "Andre Manoel",
+      "Lukas Wutschitz",
+      "S. Yekhanin",
+      "Huishuai Zhang"
+    ],
+    "publication_date": "2021-10-13",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "56874f9aef515902c5a49d84d10f629f8dcd5f40",
+    "corpus_id": 238743879,
+    "category": "Computer Science, Mathematics"
+  },
+  "2110-02711": {
+    "title": "DiffusionCLIP: Text-Guided Diffusion Models for Robust Image Manipulation",
+    "authors": [
+      "Gwanghyun Kim",
+      "Taesung Kwon",
+      "Jong-Chul Ye"
+    ],
+    "publication_date": "2021-10-06",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "8f8dedb511c0324d1cb7f9750560109ca9290b5f",
+    "corpus_id": 244909410,
+    "category": "Computer Science"
+  },
+  "2103-00020": {
+    "title": "Learning Transferable Visual Models From Natural Language Supervision",
+    "authors": [
+      "Alec Radford",
+      "Jong Wook Kim",
+      "Chris Hallacy",
+      "A. Ramesh",
+      "Gabriel Goh",
+      "Sandhini Agarwal",
+      "Girish Sastry",
+      "Amanda Askell",
+      "Pamela Mishkin",
+      "Jack Clark",
+      "Gretchen Krueger",
+      "I. Sutskever"
+    ],
+    "publication_date": "2021-02-26",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "6f870f7f02a8c59c3e23f407f3ef00dd1dcf8fc4",
+    "corpus_id": 231591445,
+    "category": "Computer Science"
+  },
+  "2011-13456": {
+    "title": "Score-Based Generative Modeling through Stochastic Differential Equations",
+    "authors": [
+      "Yang Song",
+      "Jascha Narain Sohl-Dickstein",
+      "Diederik P. Kingma",
+      "Abhishek Kumar",
+      "Stefano Ermon",
+      "Ben Poole"
+    ],
+    "publication_date": "2020-11-26",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "633e2fbfc0b21e959a244100937c5853afca4853",
+    "corpus_id": 227209335,
+    "category": "Computer Science, Mathematics"
+  },
+  "2010-02502": {
+    "title": "Denoising Diffusion Implicit Models",
+    "authors": [
+      "Jiaming Song",
+      "Chenlin Meng",
+      "Stefano Ermon"
+    ],
+    "publication_date": "2020-10-06",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "014576b866078524286802b1d0e18628520aa886",
+    "corpus_id": 222140788,
+    "category": "Computer Science"
+  },
+  "2006-11239": {
+    "title": "Denoising Diffusion Probabilistic Models",
+    "authors": [
+      "Jonathan Ho",
+      "Ajay Jain",
+      "P. Abbeel"
+    ],
+    "publication_date": "2020-06-19",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "5c126ae3421f05768d8edd97ecd44b1364e2c99a",
+    "corpus_id": 219955663,
+    "category": "Computer Science, Mathematics"
+  },
+  "1805-06530": {
+    "title": "Improving the Gaussian Mechanism for Differential Privacy: Analytical Calibration and Optimal Denoising",
+    "authors": [
+      "Borja Balle",
+      "Yu-Xiang Wang"
+    ],
+    "publication_date": "2018-05-16",
+    "venue": "International Conference on Machine Learning",
+    "semantic_scholar_id": "7d45ac8d29160103cd0bba76aa99b0f60f23a1cd",
+    "corpus_id": 21713075,
+    "category": "Computer Science, Mathematics"
+  },
+  "1801-01401": {
+    "title": "Demystifying MMD GANs",
+    "authors": [
+      "Mikolaj Binkowski",
+      "Danica J. Sutherland",
+      "M. Arbel",
+      "A. Gretton"
+    ],
+    "publication_date": "2018-01-04",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "9723066a5587e6267d8abfd7feefd0637a5a211c",
+    "corpus_id": 3531856,
+    "category": "Mathematics, Computer Science"
+  },
+  "1607-00133": {
+    "title": "Deep Learning with Differential Privacy",
+    "authors": [
+      "Martín Abadi",
+      "Andy Chu",
+      "I. Goodfellow",
+      "H. B. McMahan",
+      "Ilya Mironov",
+      "Kunal Talwar",
+      "Li Zhang"
+    ],
+    "publication_date": "2016-07-01",
+    "venue": "Conference on Computer and Communications Security",
+    "semantic_scholar_id": "e9a986c8ff6c2f381d026fe014f6aaa865f34da7",
+    "corpus_id": 207241585,
+    "category": "Computer Science, Mathematics"
+  },
+  "1512-00567": {
+    "title": "Rethinking the Inception Architecture for Computer Vision",
+    "authors": [
+      "Christian Szegedy",
+      "Vincent Vanhoucke",
+      "Sergey Ioffe",
+      "Jonathon Shlens",
+      "Z. Wojna"
+    ],
+    "publication_date": "2015-12-02",
+    "venue": "Computer Vision and Pattern Recognition",
+    "semantic_scholar_id": "23ffaa0fe06eae05817f527a47ac3291077f9e58",
+    "corpus_id": 206593880,
+    "category": "Computer Science"
+  }
+}

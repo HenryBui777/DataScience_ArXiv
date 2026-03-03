@@ -1,0 +1,18 @@
+{
+  "title": "Axial-radial plasma transport and performance of a plasma thruster magnetic nozzle under Bohm's anomalous diffusion scaling",
+  "authors": [
+    "Shaun Andrews",
+    "Raoul Andriulli",
+    "Nabil Souhair",
+    "Mirko Magarotto",
+    "Fabrizio Ponti"
+  ],
+  "summary": "Magnetic nozzles (MN) are known to be subject to anomalous non-collisional diffusion mechanisms driven by instabilities and wave-particle interactions. This study therefore employs a fully kinetic axial-radial particle-in-cell (PIC) model to examine the impact of this anomalous diffusion on plasma transport and the propulsive performance of MNs typical of low-power cathode-less radio-frequency (RF) plasma thrusters. A Bohm-type anomalous collisionality scaling ($ν_{an}=α_{an}ω_{ce}$) is implemented to simulations of the 150 W-class REGULUS-150-Xe thruster, evaluating both low-power (30 W) and high-power (150 W) operating conditions. The impact on azimuthal electron current formation is assessed, as well as its subsequent effect on thrust generation, momentum and power balance, and overall propulsive efficiency. A critical value of the Bohm coefficient was found to exist, where the MN expansion transitions from a well-collimated to an under-collimated state and electron transport shifts from being dominated by magnetic advection to being dominated by cross-field diffusion. This critical transition was found to occur within a narrow interval between $α_{an}$=1/128 and 1/64. Beyond this threshold, it is found that the enhanced cross-field transport of electrons inhibits the formation of the typical MN potential barrier, reducing the radial confinement. The downstream potential drop is reduced by up to 15\\%. Diamagnetic electron current is diminished in the absence of steep pressure gradients and the $E\\times B$ current becomes purely paramagnetic. The MN efficiency is cut from circa 0.5 to 0.2 due to loss of electron thermal energy conversion and increased plume divergence. At the Bohm limit of $α_{an}=1/16$, agreement to experimental thrust profiles of $<20\\%$ is achieved in contrast to 48\\% overestimation at high-power in the classical case.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-03-25"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.plasm-ph"
+}

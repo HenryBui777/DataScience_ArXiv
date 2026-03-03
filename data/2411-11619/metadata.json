@@ -1,0 +1,14 @@
+{
+  "title": "FERT: Real-Time Facial Expression Recognition with Short-Range FMCW Radar",
+  "authors": [
+    "Sabri Mustafa Kahya",
+    "Muhammet Sami Yavuz",
+    "Eckehard Steinbach"
+  ],
+  "summary": "This study proposes a novel approach for real-time facial expression recognition utilizing short-range Frequency-Modulated Continuous-Wave (FMCW) radar equipped with one transmit (Tx), and three receive (Rx) antennas. The system leverages four distinct modalities simultaneously: Range-Doppler images (RDIs), micro range-Doppler Images (micro-RDIs), range azimuth images (RAIs), and range elevation images (REIs). Our innovative architecture integrates feature extractor blocks, intermediate feature extractor blocks, and a ResNet block to accurately classify facial expressions into smile, anger, neutral, and no-face classes. Our model achieves an average classification accuracy of 98.91% on the dataset collected using a 60 GHz short-range FMCW radar. The proposed solution operates in real-time in a person-independent manner, which shows the potential use of low-cost FMCW radars for effective facial expression recognition in various applications.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.LG, eess.SP"
+}

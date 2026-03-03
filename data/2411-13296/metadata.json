@@ -1,0 +1,13 @@
+{
+  "title": "Permissive Equilibria in Multiplayer Reachability Games",
+  "authors": [
+    "Aline Goeminne",
+    "Benjamin Monmege"
+  ],
+  "summary": "We study multi-strategies in multiplayer reachability games played on finite graphs. A multi-strategy prescribes a set of possible actions, instead of a single action as usual strategies: it represents a set of all strategies that are consistent with it. We aim for profiles of multi-strategies (a multi-strategy per player), where each profile of consistent strategies is a Nash equilibrium, or a subgame perfect equilibrium. The permissiveness of two multi-strategies can be compared with penalties, as already used in the two-player zero-sum setting by Bouyer, Duflot, Markey and Renault. We show that we can decide the existence of a multi-strategy that is a Nash equilibrium or a subgame perfect equilibrium, while satisfying some upper-bound constraints on the penalties in PSPACE, if the upper-bound penalties are given in unary. The same holds when we search for multi-strategies where certain players are asked to win in at least one play or in all plays",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.GT"
+}

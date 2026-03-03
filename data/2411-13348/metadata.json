@@ -1,0 +1,15 @@
+{
+  "title": "Parameterized Complexity of the Star Decomposition Problem",
+  "authors": [
+    "Sahab Hajebi",
+    "Ramin Javadi"
+  ],
+  "summary": "A star of length $ \\ell $ is defined as the complete bipartite graph $ K_{1,\\ell } $. In this paper we deal with the problem of edge decomposition of graphs into stars of varying lengths.\n  Given a graph $ G $ and a list of integers $S=(s_1,\\ldots, s_t) $, an $S$-star decomposition of $ G $ is an edge decomposition of $ G $ into graphs $G_1 ,G_2 ,\\ldots,G_t $ such that $G_i$ is isomorphic to an star of length $s_i$, for each $i \\in\\{1,2,\\ldots,t\\}$. Given a graph $G$ and a list of integers $S$, the \\sdp problem asks if $G$ admits an $ S $-star decomposition. The problem is known to be NP-complete even when all stars are of length three. In this paper, we investigate parametrized complexity of the problem with respect to the structural parameters of the input graph such as minimum vertex cover, treewidth, tree-depth and neighborhood diversity as well as some intrinsic parameters of the problem such as the number of distinct star lengths, the maximum size of stars and the maximum degree of the input graph, giving a roughly complete picture of the parameterized complexity landscape of the problem.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-06-06"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CC"
+}

@@ -1,0 +1,20 @@
+{
+  "title": "DiffCom: Decoupled Sparse Priors Guided Diffusion Compression for Point Clouds",
+  "authors": [
+    "Xiaoge Zhang",
+    "Zijie Wu",
+    "Mehwish Nasim",
+    "Mingtao Feng",
+    "Saeed Anwar",
+    "Ajmal Mian"
+  ],
+  "summary": "Lossy compression relies on an autoencoder to transform a point cloud into latent points for storage, leaving the inherent redundancy of latent representations unexplored. To reduce redundancy in latent points, we propose a diffusion-based framework guided by sparse priors that achieves high reconstruction quality, especially at low bitrates. Our approach features an efficient dual-density data flow that relaxes size constraints on latent points. It hybridizes a probabilistic conditional diffusion model to encapsulate essential details for reconstruction within sparse priors, which are decoupled hierarchically into intra- and inter-point priors. Specifically, our DiffCom encodes the original point cloud into latent points and decoupled sparse priors through separate encoders. To dynamically attend to geometric and semantic cues from the priors at each encoding and decoding layer, we employ an attention-guided latent denoiser conditioned on the decoupled priors. Additionally, we integrate the local distribution into the arithmetic encoder and decoder to enhance local context modeling of the sparse points. The original point cloud is reconstructed through a point decoder. Compared to state-of-the-art methods, our approach achieves a superior rate-distortion trade-off, as evidenced by extensive evaluations on the ShapeNet dataset and standard test datasets from the MPEG PCC Group.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-09-09",
+    "2025-10-07"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, eess.IV"
+}

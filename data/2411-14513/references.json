@@ -1,0 +1,345 @@
+{
+  "2403-01273": {
+    "title": "NoMAD-Attention: Efficient LLM Inference on CPUs Through Multiply-add-free Attention",
+    "authors": [
+      "Tianyi Zhang",
+      "Jonah Yi",
+      "Bowen Yao",
+      "Zhaozhuo Xu",
+      "Anshumali Shrivastava"
+    ],
+    "publication_date": "2024-03-02",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "88b5bcf03af95e9616bd7f2cb632f924f34c26f1",
+    "corpus_id": 268231045,
+    "category": "Computer Science"
+  },
+  "2401-11817": {
+    "title": "Hallucination is Inevitable: An Innate Limitation of Large Language Models",
+    "authors": [
+      "Ziwei Xu",
+      "Sanjay Jain",
+      "Mohan Kankanhalli"
+    ],
+    "publication_date": "2024-01-22",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "5cd671efa2af8456c615c5faf54d1be4950f3819",
+    "corpus_id": 267069207,
+    "category": "Computer Science"
+  },
+  "2312-02003": {
+    "title": "A Survey on Large Language Model (LLM) Security and Privacy: The Good, the Bad, and the Ugly",
+    "authors": [
+      "Yifan Yao",
+      "Jinhao Duan",
+      "Kaidi Xu",
+      "Yuanfang Cai",
+      "Eric Sun",
+      "Yue Zhang"
+    ],
+    "publication_date": "2023-12-04",
+    "venue": "High-Confidence Computing",
+    "semantic_scholar_id": "383c598625110e0a4c60da4db10a838ef822fbcf",
+    "corpus_id": 265609409,
+    "category": "Computer Science"
+  },
+  "2308-07107": {
+    "title": "Large Language Models for Information Retrieval: A Survey",
+    "authors": [
+      "Yutao Zhu",
+      "Huaying Yuan",
+      "Shuting Wang",
+      "Jiongnan Liu",
+      "Wenhan Liu",
+      "Chenlong Deng",
+      "Zhicheng Dou",
+      "Ji-rong Wen"
+    ],
+    "publication_date": "2023-08-14",
+    "venue": "ACM Transactions on Information Systems",
+    "semantic_scholar_id": "0b220041eb83c23b7b10d32a5d08c0309d528071",
+    "corpus_id": 260887838,
+    "category": "Computer Science"
+  },
+  "2305-13245": {
+    "title": "GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints",
+    "authors": [
+      "J. Ainslie",
+      "J. Lee-Thorp",
+      "Michiel de Jong",
+      "Yury Zemlyanskiy",
+      "Federico Lebr'on",
+      "Sumit K. Sanghai"
+    ],
+    "publication_date": "2023-05-22",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "5ae6fb6b5a3c7df515ff4a82ac9673bae6a8e200",
+    "corpus_id": 258833177,
+    "category": "Computer Science"
+  },
+  "2305-09612": {
+    "title": "Large Language Models are Built-in Autoregressive Search Engines",
+    "authors": [
+      "Noah Ziems",
+      "W. Yu",
+      "Zhihan Zhang",
+      "Meng Jiang"
+    ],
+    "publication_date": "2023-05-16",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "a19193ef534619654d3252d4034ef154407562dc",
+    "corpus_id": 258714822,
+    "category": "Computer Science"
+  },
+  "2305-03236": {
+    "title": "A Survey on Out-of-Distribution Detection in NLP",
+    "authors": [
+      "Hao Lang",
+      "Yinhe Zheng",
+      "Yixuan Li",
+      "Jian Sun",
+      "Feiling Huang",
+      "Yongbin Li"
+    ],
+    "publication_date": "2023-05-05",
+    "venue": "Trans. Mach. Learn. Res.",
+    "semantic_scholar_id": "dcfca93185c49811ec6cf7c995eea58cf88c7bb3",
+    "corpus_id": 258546843,
+    "category": "Computer Science"
+  },
+  "2305-03111": {
+    "title": "Can LLM Already Serve as A Database Interface? A BIg Bench for Large-Scale Database Grounded Text-to-SQLs",
+    "authors": [
+      "Jinyang Li",
+      "Binyuan Hui",
+      "Ge Qu",
+      "Binhua Li",
+      "Jiaxi Yang",
+      "Bowen Li",
+      "Bailin Wang",
+      "Bowen Qin",
+      "Rongyu Cao",
+      "Ruiying Geng",
+      "Nan Huo",
+      "Chenhao Ma",
+      "K. Chang",
+      "Fei Huang",
+      "Reynold Cheng",
+      "Yongbin Li"
+    ],
+    "publication_date": "2023-05-04",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "8f831f341e959955a495730d81996e62c57cc0bd",
+    "corpus_id": 258547040,
+    "category": "Computer Science"
+  },
+  "2304-01933": {
+    "title": "LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models",
+    "authors": [
+      "Zhiqiang Hu",
+      "Yihuai Lan",
+      "Lei Wang",
+      "Wanyu Xu",
+      "Ee-Peng Lim",
+      "Roy Ka-Wei Lee",
+      "Lidong Bing",
+      "Soujanya Poria"
+    ],
+    "publication_date": "2023-04-04",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "bdb68c5e2369633b20e733774ac66eb4600c34d1",
+    "corpus_id": 257921386,
+    "category": "Computer Science"
+  },
+  "2211-05102": {
+    "title": "Efficiently Scaling Transformer Inference",
+    "authors": [
+      "Reiner Pope",
+      "Sholto Douglas",
+      "A. Chowdhery",
+      "Jacob Devlin",
+      "James Bradbury",
+      "Anselm Levskaya",
+      "J. Heek",
+      "Kefan Xiao",
+      "Shivani Agrawal",
+      "J. Dean"
+    ],
+    "publication_date": "2022-11-09",
+    "venue": "Conference on Machine Learning and Systems",
+    "semantic_scholar_id": "379e42895f6d40ab9e9559609f505aba89145a5d",
+    "corpus_id": 253420623,
+    "category": "Computer Science"
+  },
+  "2109-07506": {
+    "title": "Dialogue State Tracking with a Language Model using Schema-Driven Prompting",
+    "authors": [
+      "Chia-Hsuan Lee",
+      "Hao Cheng",
+      "Mari Ostendorf"
+    ],
+    "publication_date": "2021-09-15",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "9c5a5e932139621da37c93d48f8a8df40a9c61d4",
+    "corpus_id": 237532404,
+    "category": "Computer Science"
+  },
+  "2109-05687": {
+    "title": "Raise a Child in Large Language Model: Towards Effective and Generalizable Fine-tuning",
+    "authors": [
+      "Runxin Xu",
+      "Fuli Luo",
+      "Zhiyuan Zhang",
+      "Chuanqi Tan",
+      "Baobao Chang",
+      "Songfang Huang",
+      "Fei Huang"
+    ],
+    "publication_date": "2021-09-13",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "f45261b7b53043c316f45f613cb735907b93fb5a",
+    "corpus_id": 237491053,
+    "category": "Computer Science"
+  },
+  "2104-04473": {
+    "title": "Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM",
+    "authors": [
+      "D. Narayanan",
+      "M. Shoeybi",
+      "J. Casper",
+      "P. LeGresley",
+      "M. Patwary",
+      "V. Korthikanti",
+      "Dmitri Vainbrand",
+      "Prethvi Kashinkunti",
+      "J. Bernauer",
+      "Bryan Catanzaro",
+      "Amar Phanishayee",
+      "M. Zaharia"
+    ],
+    "publication_date": "2021-04-09",
+    "venue": "International Conference for High Performance Computing, Networking, Storage and Analysis",
+    "semantic_scholar_id": "774591fdd988eaaff3917e7c5171d044b0843e63",
+    "corpus_id": 236635565,
+    "category": "Computer Science"
+  },
+  "2005-11401": {
+    "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+    "authors": [
+      "Patrick Lewis",
+      "Ethan Perez",
+      "Aleksandara Piktus",
+      "F. Petroni",
+      "Vladimir Karpukhin",
+      "Naman Goyal",
+      "Heinrich Kuttler",
+      "M. Lewis",
+      "Wen-tau Yih",
+      "Tim Rocktäschel",
+      "Sebastian Riedel",
+      "Douwe Kiela"
+    ],
+    "publication_date": "2020-05-22",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "659bf9ce7175e1ec266ff54359e2bd76e0b7ff31",
+    "corpus_id": 218869575,
+    "category": "Computer Science"
+  },
+  "2004-12832": {
+    "title": "ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT",
+    "authors": [
+      "O. Khattab",
+      "M. Zaharia"
+    ],
+    "publication_date": "2020-04-27",
+    "venue": "Annual International ACM SIGIR Conference on Research and Development in Information Retrieval",
+    "semantic_scholar_id": "60b8ad6177230ad5402af409a6edb5af441baeb4",
+    "corpus_id": 216553223,
+    "category": "Computer Science"
+  },
+  "2002-03932": {
+    "title": "Pre-training Tasks for Embedding-based Large-scale Retrieval",
+    "authors": [
+      "Wei-Cheng Chang",
+      "Felix X. Yu",
+      "Yin-Wen Chang",
+      "Yiming Yang",
+      "Sanjiv Kumar"
+    ],
+    "publication_date": "2020-02-10",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "beb21c9f339bb040e8f360b45eda0f9b10b2c95c",
+    "corpus_id": 211068995,
+    "category": "Computer Science, Mathematics"
+  },
+  "2004-05785": {
+    "title": "Learning under Concept Drift: A Review",
+    "authors": [
+      "Jie Lu",
+      "Anjin Liu",
+      "Fan Dong",
+      "Feng Gu",
+      "João Gama",
+      "Guangquan Zhang"
+    ],
+    "publication_date": "2019-12-01",
+    "venue": "IEEE Transactions on Knowledge and Data Engineering",
+    "semantic_scholar_id": "1904d633fca15140e35d893637232803b6dde6d9",
+    "corpus_id": 69449458,
+    "category": "Computer Science, Mathematics"
+  },
+  "1911-02150": {
+    "title": "Fast Transformer Decoding: One Write-Head is All You Need",
+    "authors": [
+      "Noam M. Shazeer"
+    ],
+    "publication_date": "2019-11-06",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "dc52b09089704ebd6f471177474bc29741c50023",
+    "corpus_id": 207880429,
+    "category": "Computer Science"
+  },
+  "2011-00242": {
+    "title": "A Qualitative Study of Application-Level Caching",
+    "authors": [
+      "Jhonny Mertz",
+      "Ingrid Nunes"
+    ],
+    "publication_date": "2017-09-01",
+    "venue": "IEEE Transactions on Software Engineering",
+    "semantic_scholar_id": "616833cdada812cb95ad2c6d13b388bc99353a4c",
+    "corpus_id": 19885542,
+    "category": "Computer Science"
+  },
+  "1706-03762": {
+    "title": "Attention is All you Need",
+    "authors": [
+      "Ashish Vaswani",
+      "Noam M. Shazeer",
+      "Niki Parmar",
+      "Jakob Uszkoreit",
+      "Llion Jones",
+      "Aidan N. Gomez",
+      "Lukasz Kaiser",
+      "I. Polosukhin"
+    ],
+    "publication_date": "2017-06-12",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
+    "corpus_id": 13756489,
+    "category": "Computer Science"
+  },
+  "1703-07019": {
+    "title": "Continuous Integration, Delivery and Deployment: A Systematic Review on Approaches, Tools, Challenges and Practices",
+    "authors": [
+      "Mojtaba Shahin",
+      "Muhammad Ali Babar",
+      "Liming Zhu"
+    ],
+    "publication_date": "2017-03-21",
+    "venue": "IEEE Access",
+    "semantic_scholar_id": "062c4d4493df2f0a9ab0d30bbfec0b09f664e6bf",
+    "corpus_id": 11638909,
+    "category": "Computer Science"
+  }
+}

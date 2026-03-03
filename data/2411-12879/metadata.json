@@ -1,0 +1,16 @@
+{
+  "title": "Wireless Sensor Networks based on TSCH/TDMA with Power Consumption and Latency Constraints",
+  "authors": [
+    "Stefano Scanzio",
+    "Gabriele Formis",
+    "Tullio Facchinetti",
+    "Giacomo Paolini",
+    "Gianluca Cena"
+  ],
+  "summary": "One of the main goals of wireless sensor networks is to permit the involved nodes to communicate with low energy budgets, as they are typically battery-powered. When such networks are employed in industrial scenarios, constraints about latency may have a significant role, too. The TSCH mechanism, and more in general TDMA schemes, rely on traffic scheduling, and consequently they can feature low power consumption and more predictable latency. Some recent proposals like PRIL-M enable further consistent energy savings, but unfortunately they cause at the same time a dramatic increase in latency. This work presents an extension of PRIL-M, we named PRIL-ML, that achieves a significantly shorter latency in exchange for a slight increase in power consumption. Its operating principles are first illustrated, then some approximate equations are provided for assessing analytically the improvements it achieves, starting from simulation results obtained for both standard TSCH and the original PRIL-M technique.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "IEEE 29th International Conference on Emerging Technologies and Factory Automation (ETFA 2024)",
+  "pdf_url": null,
+  "category": "cs.NI"
+}

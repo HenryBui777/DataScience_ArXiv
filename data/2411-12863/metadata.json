@@ -1,0 +1,13 @@
+{
+  "title": "On corona of Konig-Egervary graphs",
+  "authors": [
+    "Vadim E. Levit",
+    "Eugen Mandrescu"
+  ],
+  "summary": "Let $α(G)$ denote the cardinality of a maximum independent set and $μ(G)$ be the size of a maximum matching of a graph $G=\\left( V,E\\right) $. If $α(G)+μ(G)=\\left\\vert V\\right\\vert $, then $G$ is a König-Egerváry graph, and $G$ is a $1$-König-Egerváry graph whenever $α(G)+μ(G)=\\left\\vert V\\right\\vert -1$. The corona $H\\circ\\mathcal{X}$ of a graph $H$ and a family of graphs $\\mathcal{X}=\\left\\{ X_{i}:1\\leq i\\leq\\left\\vert V(H)\\right\\vert \\right\\} $ is obtained by joining each vertex $v_{i}$ of $H$ to all the vertices of the corresponding graph $X_{i},i=1,2,...,\\left\\vert V(H)\\right\\vert $.\n  In this paper we completely characterize graphs whose coronas are $k$-König-Egerváry graphs, where $k\\in\\left\\{ 0,1\\right\\} $.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.CO, cs.DM"
+}

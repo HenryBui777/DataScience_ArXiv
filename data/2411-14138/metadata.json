@@ -1,0 +1,18 @@
+{
+  "title": "Sharp Thresholds for Factors in Random Graphs",
+  "authors": [
+    "Fabian Burghart",
+    "Annika Heckel",
+    "Marc Kaufmann",
+    "Noela Müller",
+    "Matija Pasch"
+  ],
+  "summary": "Let $F$ be a graph on $r$ vertices and let $G$ be a graph on $n$ vertices. Then an $F$-factor in $G$ is a subgraph of $G$ composed of $n/r$ vertex-disjoint copies of $F$, if $r$ divides $n$. In other words, an $F$-factor yields a partition of the $n$ vertices of $G$. The study of such $F$-factors in the Erdős-Rényi random graph dates back to Erdős himself. Decades later, in 2008, Johansson, Kahn and Vu established the thresholds for the existence of an $F$-factor for strictly 1-balanced $F$ -- up to the leading constant. The sharp thresholds, meaning the leading constants, were obtained only recently by Riordan and Heckel, but only for complete graphs $F=K_r$ and for so-called nice graphs. Their results rely on sophisticated couplings that utilize the recent, celebrated solution of Shamir's problem by Kahn.\n  We extend the couplings by Riordan and Heckel to any strictly 1-balanced $F$ and thereby obtain the sharp threshold for the existence of an $F$-factor. In particular, we confirm the thirty year old conjecture by Rucínski that this sharp threshold indeed coincides with the sharp threshold for the disappearance of the last vertices which are not contained in a copy of $F$.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-08-12"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.CO, math.PR"
+}

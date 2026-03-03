@@ -1,0 +1,1767 @@
+@article{microcontrollers,
+  title = {Comparison of Embedded System Design for Industrial Applications},
+  author = {A. {Malinowski},
+  journal = {IEEE Transactions on Industrial Informatics},
+  pages = {244--254},
+}
+
+@article{rtos,
+  title = {Real-Time Operating Systems for Small Microcontrollers},
+  author = {T. N. B. {Anh},
+  journal = {IEEE Micro},
+  pages = {30--45},
+}
+
+@article{hip,
+  title = {HIP: hybrid interrupt-polling for the network interface},
+  author = {Dovrolis, Constantinos and Thayer, Brad and Ramanathan, Parameswaran},
+  journal = {ACM SIGOPS Operating Systems Review},
+  publisher = {ACM New York, NY, USA},
+  pages = {50--60},
+}
+
+@article{lwip,
+  title = {Design and Implementation of the lwIP TCP/IP Stack},
+  author = {Dunkels, Adam},
+  journal = {Swedish Institute of Computer Science},
+}
+
+@article{ipv6,
+  title = {IPv6 Addressing Strategies for IoT},
+  author = {T. {Savolainen},
+  journal = {IEEE Sensors Journal},
+  pages = {3511--3519},
+}
+
+@inproceedings{hermes,
+  title = {Hermes: A Real Time Hypervisor for Mobile and IoT Systems},
+  author = {Klingensmith, Neil and Banerjee, Suman},
+  booktitle = {Proceedings of the 19th International Workshop on Mobile Computing Systems \& Applications},
+  publisher = {ACM},
+  pages = {101--106},
+}
+
+@inproceedings{sloth,
+  title = {Sloth: Threads as interrupts},
+  author = {Hofer, Wanja and Lohmann, Daniel and Scheler, Fabian and Schr{\"o},
+  booktitle = {2009 30th IEEE Real-Time Systems Symposium},
+  pages = {204--213},
+  organization = {IEEE},
+}
+
+@inproceedings{sleepy_sloth,
+  title = {Sleepy Sloth: Threads as Interrupts as Threads},
+  author = {W. {Hofer},
+  booktitle = {2011 IEEE 32nd Real-Time Systems Symposium},
+  volume = {},
+  number = {},
+  pages = {67--77},
+  organization = {IEEE},
+}
+
+@inproceedings{sloth_time,
+  title = {Sloth on Time: Efficient Hardware-Based Scheduling for Time-Triggered RTOS},
+  author = {W. {Hofer},
+  booktitle = {2012 IEEE 33rd Real-Time Systems Symposium},
+  volume = {},
+  number = {},
+  pages = {237--247},
+  organization = {IEEE},
+}
+
+@inproceedings{safer_sloth,
+  title = {Safer Sloth: Efficient, hardware-tailored memory protection},
+  author = {D. {Danner},
+  booktitle = {2014 IEEE 19th Real-Time and Embedded Technology and Applications Symposium (RTAS)},
+  volume = {},
+  number = {},
+  pages = {37--48},
+  organization = {IEEE},
+}
+
+@article{task_aware,
+  title = {Task-aware interrupt controller: Priority space unification in real-time systems},
+  author = {Gomes, Tiago and Garcia, Paulo and Salgado, Filipe and Monteiro, Jo{\~a},
+  journal = {IEEE Embedded Systems Letters},
+  publisher = {IEEE},
+  pages = {27--30},
+}
+
+@inproceedings{wei2013rt,
+  title = {RT-WiFi: Real-time high-speed communication protocol for wireless cyber-physical control applications},
+  author = {Wei, Yi-Hung and Leng, Quan and Han, Song and Mok, Aloysius K and Zhang, Wenlong and Tomizuka, Masayoshi},
+  booktitle = {2013 IEEE 34th Real-Time Systems Symposium},
+  pages = {140--149},
+  organization = {IEEE},
+}
+
+@inproceedings{iotnetstack,
+  title = {Old Wine in New Skins? Revisiting the Software Architecture for IP Network Stacks on Constrained IoT Devices},
+  author = {Petersen, Hauke and Lenders, Martine and W\"{a},
+  booktitle = {Proceedings of the 2015 Workshop on IoT Challenges in Mobile and Industrial Systems},
+  location = {Florence, Italy},
+  publisher = {ACM},
+  series = {IoT-Sys '15},
+  pages = {31--35},
+  doi = {10.1145/2753476.2753485},
+  keywords = {deployment, software architecture, os, ipv6, network stack, iot},
+}
+
+@inproceedings{leyvadelfoyo04custom,
+  title = {Custom interrupt management for real-time and embedded system kernels},
+  author = {Leyva-del-Foyo, Luis E and Mejia-Alvarez, Pedro},
+  booktitle = {Proceedings of the Embedded Real-Time Systems Implementation Workshop at the 25th IEEE International Real-Time Systems Symposium (RTSS’04)},
+  publisher = {IEEE},
+  comment = {* context
+
+		* embedded systems * interrupt vs. task priorities * kernel (and hence ISRs) non-uninterruptible
+
+		* problem
+
+		* two "priority spaces": ISRs and tasks * tasks that need exclusive access need to raise interrupt level
+
+		* lower response time * lowers timing predictability
+
+		* weird scenarios (low priority task raises interrupt level to medium due to shared critical section with medium tasks, high priority tasks gets scheduled, lowers interrupt level to low again, things are complex, a bit screwed up and timing predictability hard)
+
+		* design experimental micro-kernel for embedded real-time systems
+
+		* prototype implementation in FPGA
+
+		* solution
+
+		* make the ISRs "interrupt service tasks" (ISTs)
+
+		* run as ordinary tasks * block using wait()/receive() * ? is this "deferred interrupts" etc. or something different
+
+		* 14 citations … so it must be me not understanding the difference to the above
+
+		* wrap interrupts in lowest level of kernel},
+  file = {:leyvadelfoyo04custom - Custom interrupt management for real-time and embedded system kernels.pdf:PDF},
+  groups = {trippertos},
+  timestamp = {2020-07-23},
+}
+
+@inproceedings{scheler09parallel,
+  title = {Parallel, hardware-supported interrupt handling in an event-triggered real-time operating system},
+  author = {Scheler, Fabian and Hofer, Wanja and Oechslein, Benjamin and Pfister, Rudi and Schr{\"o},
+  booktitle = {Proceedings of the 2009 international conference on Compilers, architecture, and synthesis for embedded systems},
+  location = {{New York, NY, USA},
+  publisher = {{ACM},
+  series = {{{CASES},
+  pages = {167--174},
+  organization = {IEEE},
+  comment = {* problem: low-priority logic implemented in interrupt handlers disturbing high-priority logic implemented as threads
+
+		* "rate-monotonic priority inversion"
+
+		* approach:
+
+		* use co-processor * co-processor handles all interrupts
+
+		* prototypical implementation
+
+		* on TriCore microcontroller * in CiAO operating system
+
+		* mention AUTOSAR here and there},
+  file = {:scheler09parallel - Parallel, hardware-supported interrupt handling in an event-triggered real-time operating system.pdf:PDF},
+  groups = {trippertos},
+  timestamp = {2020-07-24},
+  abstract = {A common problem in event-triggered real-time systems is caused by low-priority tasks that are implemented as interrupt handlers interrupting and disturbing high-priority tasks that are implemented as threads. This problem is termed rate-monotonic priority inversion, and current software-based solutions are restricted in terms of more sophisticated scheduler features as demanded for instance by the AUTOSAR embedded-operating-system specification. We propose a hardware-based approach that makes use of a coprocessor to eliminate the potential priority inversion. By evaluating a prototypical implementation, we show that our approach both overcomes the restrictions of software approaches and introduces only a slight processing overhead in exchange for increased predictability.},
+  keywords = {ciao,interrupt handling,priority-driven,rate-monotonic priority inversion,real-time systems,tricore},
+}
+
+@inproceedings{strnadel12monitoring,
+  title = {Monitoring-Driven {{HW},
+  author = {Strnadel, Josef},
+  month = {04},
+  booktitle = {15th {{International Symposium},
+  pages = {121--126},
+  organization = {IEEE},
+  comment = {* use FPGA as an "interrupt gateway" to actual real-time system
+
+		* use mitigation approaches (apparently inspired) by regehr05preventing to prevent interrupt overload * FPGA monitors actual real-time system
+
+		* on low level (IO pins? not sure…) * ISR prologue and epilogue modified to generate monitoring signals
+
+		* automatic tuning based on monitoring
+
+		* measurements},
+  file = {:strnadel12monitoring - Monitoring-driven HW_SW interrupt overload prevention for embedded real-time systems.pdf:PDF},
+  groups = {trippertos},
+  timestamp = {2020-07-26},
+  abstract = {In the paper, a concept and an early analysis of an embedded hardware/software architecture designed to prevent the software from both timing disturbances and interrupt overloads is outlined. The architecture is composed of an FPGA (MCU) used to run the hardware (software) part of an embedded application. Comparing to previous approaches, novelty of the architecture can be seen in the fact it is able to adapt interrupt service rates to the actual software load being monitored with no intrusion to the software. According to the actual software load it is able to buffer all interrupts and related data while the software is highly loaded and redirect the interrupts to the MCU as soon as the software becomes underloaded.},
+  eventtitle = {2012 {{IEEE},
+  keywords = {Context,embedded,embedded hardware-software architecture,embedded real-time system,embedded systems,field programmable gate arrays,Field programmable gate arrays,FPGA,hardware-software codesign,HW/SW interrupt overload prevention,interrupt,interrupt service rates,limiter,MCU,Memory management,monitoring,Monitoring,operating systems (computers),overload,prevention,Real time systems,real-time,Software,software architecture,Timing,timing disturbances},
+}
+
+@article{penaflor01real,
+  title = {Real-time control of DIII--D plasma discharges using a Linux alpha computing cluster},
+  author = {Penaflor, BG and Ferron, JR and Walker, ML and Piglowski, DA and Johnson, RD},
+  journal = {Fusion engineering and design},
+  publisher = {Elsevier},
+  pages = {739--742},
+  comment = {example where Linux is used for a hard real-time application},
+  groups = {trippertos},
+}
+
+@inproceedings{will09real,
+  title = {A real-time kernel for wireless sensor networks employed in rescue scenarios},
+  author = {Will, Heiko and Schleiser, Kaspar and Schiller, Jochen},
+  booktitle = {2009 IEEE 34th Conference on Local Computer Networks},
+  pages = {834--841},
+  organization = {IEEE},
+  comment = {* skimmed with the context of Trippertos in mind:
+
+		* develop real-time kernel for wireless sensor networks * show efficiency of kernel * do not consider interrupt load on high priority tasks},
+  file = {:will09real - A real-time kernel for wireless sensor networks employed in rescue scenarios.pdf:PDF},
+  groups = {trippertos},
+  timestamp = {2020-07-26},
+}
+
+@article{regehr05preventing,
+  title = {Preventing Interrupt Overload},
+  author = {Regehr, John and Duongsaa, Usit},
+  journal = {SIGPLAN Not.},
+  publisher = {Association for Computing Machinery},
+  pages = {50--58},
+  issue_date = {July 2005},
+  journaltitle = {ACM SIGPLAN Notices},
+}
+
+@article{regnier08evaluation,
+  title = {Evaluation of Interrupt Handling Timeliness in Real-Time Linux Operating Systems},
+  author = {Regnier, Paul and Lima, George and Barreto, Luciano},
+  journal = {SIGOPS Oper. Syst. Rev.},
+  publisher = {ACM},
+  pages = {52–63},
+  doi = {10.1145/1453775.1453787},
+  issue_date = {October 2008},
+  journaltitle = {ACM SIGOPS Operating Systems Review},
+}
+
+@inproceedings{zhang15communication,
+  title = {Communication security in internet of thing: preventive measure and avoid DDoS attack over IoT network},
+  author = {Zhang, Congyingzi and Green, Robert},
+  booktitle = {Proceedings of the 18th Symposium on Communications \& Networking},
+  pages = {8--15},
+  comment = {* (D)DoS attacks on IoT devices are a risk
+
+		* different from, e.g., traditional CPS
+
+		* no/less network (traffic) policing * networks open (e.g. to new devices) by design * heterogeneous * automated communication between devices
+
+		* authors see IoT devices mainly passive (collecting information) not active (e.g. controlling CPS) * interrupt overload not considered * approach: heuristics to classify traffic
+
+		* frequency and content * \# I don't see the specifics regarding a *distributed* attack
+
+		* i.e., single remotes are banned upon malicious traffic; but not, e.g., other nodes which start to send similar traffic
+
+		* prototype for Contiki operating system and COOJA network simulator},
+  file = {:zhang15communication - Communication security in internet of thing_ preventive measure and avoid DDoS attack over IoT network.pdf:PDF},
+  groups = {trippertos},
+  timestamp = {2020-07-25},
+}
+
+@misc{bunnell95operating,
+  title = {Operating system architecture using multiple priority light weight kernel task based interrupt handling},
+  author = {Bunnell, Mitchell},
+  publisher = {Google Patents},
+  note = {US Patent 5,469,571},
+  date = {1995-11},
+  comment = {* related to LynxOS * according to Andreas Polze, tl;dr is: run network stack in context of (user space) tasks * deferred ISRs
+
+		* ISR call "server tasks" which is then being scheduled just as any other task * → ISR block high-priority tasks for a minimal amount of time * # don't know if the concept of deferred ISRs was new here, probably not},
+  file = {:bunnell95operating - Operating system architecture using multiple priority light weight kernel task based interrupt handling.pdf:PDF},
+  groups = {trippertos},
+  timestamp = {2020-07-23},
+}
+
+@misc{oracle19oracle,
+  title = {Oracle Solaris 11.4 Programming Interfaces Guide},
+  author = {Oracle},
+  url = {https://docs.oracle.com/cd/E37838_01/html/E61059/chap7rt-19493.html},
+  date = {2019-12},
+  groups = {trippertos},
+  journaltitle = {Real-Time Scheduler - Oracle Solaris 11.4 Programming Interfaces Guide},
+  timestamp = {2020-07-28},
+}
+
+@misc{microsoft13history,
+  title = {History of Windows Embedded Compact 7},
+  author = {Microsoft},
+  url = {https://web.archive.org/web/20130412030437/http://www.microsoft.com/windowsembedded/en-us/evaluate/history-of-windows-embedded-compact-7.aspx},
+  groups = {trippertos},
+  timestamp = {2020-07-28},
+}
+
+@inproceedings{iiot_mcu,
+  title = {The IIoT devices to cloud gateway design and implementation based on microcontroller for real-time monitoring and control in automation systems},
+  author = {S. {Nuratch},
+  booktitle = {2017 12th IEEE Conference on Industrial Electronics and Applications (ICIEA)},
+  volume = {},
+  number = {},
+  pages = {919--923},
+}
+
+@inproceedings{indusTempMonit,
+  title = {Design of industrial temperature monitoring system based on single chip microcontroller},
+  author = {{Bin Li},
+  booktitle = {2011 International Conference on Computer Science and Service System (CSSS)},
+  volume = {},
+  number = {},
+  pages = {342--344},
+}
+
+@inproceedings{robots,
+  title = {Embedded control system for industrial robots},
+  author = {{Chen Youdong},
+  booktitle = {2010 International Conference on Computer, Mechatronics, Control and Electronic Engineering},
+  number = {},
+  pages = {122--125},
+}
+
+@book{Murphy2012,
+  title = {Machine Learning: {{A},
+  author = {Murphy, Kevin Patrick},
+  publisher = {{MIT Press},
+  at = {2019-10-05T21:15:12.000+0200},
+  biburl = {https://www.bibsonomy.org/bibtex/2c0c2632618e3b6b8f15ede858f296a1f/lopuszₖdd},
+  description = {Machine Learning: A Probabilistic Perspective (Adaptive Computation and Machine Learning series): Kevin P. Murphy: 9780262018029: Amazon.com: Books},
+  interhash = {997486e4e92adad73560717a6a07bf82},
+  intrahash = {c0c2632618e3b6b8f15ede858f296a1f},
+  keywords = {generalₘachineₗearning},
+  timestamp = {2019-10-12T23:48:54.000+0200},
+}
+
+@incollection{krasnoselskiiStaticHysteron1989,
+  title = {Static Hysteron},
+  author = {Krasnosel’skiǐ, Mark A. and Pokrovskiǐ, Aleksei V.},
+  booktitle = {Systems with {{Hysteresis},
+  location = {{Berlin, Heidelberg},
+  publisher = {{Springer},
+  pages = {1--58},
+  editor = {Krasnosel’skiǐ, Mark A. and Pokrovskiǐ, Aleksei V.},
+  keywords = {Canonical Representation,Continuous Input,Feasible State,Lipschitz Condition,Wiener Space},
+  langid = {english},
+}
+
+@article{closebutnotcloseenough,
+  title = {Denial of service attacks on network-based control systems: impact and mitigation},
+  author = {M. {Long},
+  month = {05},
+  journal = {IEEE Transactions on Industrial Informatics},
+  pages = {85--96},
+  abstract = {Replacing specialized industrial networks with the Internet is a growing trend in industrial informatics, where packets are used to transmit feedback and control signals between a plant and a controller. Today, denial of service (DoS) attacks cause significant disruptions to the Internet, which will threaten the operation of network-based control systems (NBCS). In this paper, we propose two queueing models to simulate the stochastic process of packet delay jitter and loss under DoS attacks. The motivation is to quantitatively investigate how these attacks degrade the performance of NBCS. The example control system consists of a proportional integral controller, a second-order plant, and two one-way delay vectors induced by attacks. The simulation results indicate that Model I attack (local network DoS attack) impairs the performance because a large number of NBCS packets are lost. Model II attack (nonlocal network DoS attack) deteriorates the performance or even destabilizes the system. In this case, the traffic for NBCS exhibits strong autocorrelation of delay jitter and packet loss. Mitigating measures based on packet filtering are discussed and shown to be capable of ameliorating the performance degradation.},
+  keywords = {control systems;telecontrol;packet switching;digital communication;Internet;stochastic processes;security of data;denial of service attacks;network-based control systems;Internet;industrial informatics;queueing models;stochastic process;packet delay jitter simulation;packet loss simulation;packet filtering;Computer crime;Control systems;Niobium compounds;Delay;Electrical equipment industry;Industrial control;IP networks;Jitter;Degradation;Pi control;Delay jitter;denial of service (DoS) attacks;network-based control system (NBCS);packet loss;queueing model;security},
+}
+
+@article{jia2020flowguard,
+  title = {FlowGuard: An Intelligent Edge Defense Mechanism Against IoT DDoS Attacks},
+  author = {Yizhen {Jia},
+  journal = {IEEE Internet of Things Journal},
+  pages = {9552--9562},
+  doi = {10.1109/JIOT.2020.2993782},
+}
+
+@article{lee_interrupt_2010,
+  title = {On interrupt scheduling based on process priority for predictable real-time behavior},
+  author = {Lee, Minsub and Lee, Juyoung and Shyshkalov, Andrii and Seo, Jaevaek and Hong, Intaek and Shin, Insik},
+  journal = {{ACM},
+}
+
+@article{lee_priority-based_2015,
+  title = {Priority-Based Network Interrupt Scheduling for Predictable Real-Time Support},
+  author = {Lee, Minsub and Kim, Hyosu and Shin, Insik},
+  journal = {Journal of Computing Science and Engineering},
+  publisher = {Korean Institute of Information Scientists and Engineers},
+}
+
+@inproceedings{niedermaier_you_2018,
+  title = {You Snooze, You Lose: Measuring {PLC},
+  author = {Matthias Niedermaier and Jan-Ole Malchow and Florian Fischer and Daniel Marzin and Dominik Merli and Volker Roth and Alexander von Bodisco},
+  booktitle = {12th Workshop on Offensive Technologies},
+  publisher = {USENIX},
+}
+
+@article{druschel1996lazy,
+  title = {Lazy receiver processing (LRP): a network subsystem architecture for server systems},
+  author = {Druschel, Peter and Banga, Gaurav},
+  journal = {ACM SIGOPS Operating Systems Review},
+  publisher = {ACM},
+  number = {SI},
+}
+
+@inproceedings{nics,
+  title = {We need to talk about NICs},
+  author = {Shinde, Pravin and Kaufmann, Antoine and Roscoe, Timothy and Kaestle, Stefan},
+  booktitle = {14th Workshop on Hot Topics in Operating Systems},
+  publisher = {ACM},
+}
+
+@article{8412458,
+  title = {Introduction to time-sensitive networking},
+  author = {Finn, Norman},
+  journal = {IEEE Communications Standards Magazine},
+}
+
+@article{kent1987fragmentation,
+  title = {Fragmentation Considered Harmful},
+  author = {Kent, C. A. and Mogul, J. C.},
+  journal = {SIGCOMM Comput. Commun. Rev.},
+  publisher = {ACM},
+}
+
+@article{liu1973scheduling,
+  title = {Scheduling algorithms for multiprogramming in a hard-real-time environment},
+  author = {Liu, Chung Laung and Layland, James W},
+  journal = {Journal of the ACM},
+  publisher = {ACM},
+}
+
+@inproceedings{smartnics,
+  title = {What you need to know about (smart) network interface cards},
+  author = {Katsikas, Georgios P and Barbette, Tom and Chiesa, Marco and Kosti{\'c},
+  booktitle = {International Conference on Passive and Active Network Measurement},
+  publisher = {Springer},
+  editor = {Hohlfeld, Oliver and Lutu, Andra and Levin, Dave},
+  organization = {Springer},
+}
+
+@inproceedings{gilad2011fragmentation,
+  title = {Fragmentation considered vulnerable: blindly intercepting and discarding fragments},
+  author = {Gilad, Yossi and Herzberg, Amir},
+  booktitle = {Proceedings of the 5th  Conference on Offensive Technologies},
+  publisher = {USENIX},
+}
+
+@inproceedings{jazdi2014cyber,
+  title = {Cyber physical systems in the context of Industry 4.0},
+  author = {Jazdi, Nasser},
+  booktitle = {International conference on automation, quality and testing, robotics},
+  organization = {IEEE},
+}
+
+@inproceedings{shinde2013unicorn,
+  title = {Modeling NICs with Unicorn},
+  author = {Shinde, Pravin and Kaufmann, Antoine and Kourtis, Kornilios and Roscoe, Timothy},
+  booktitle = {Proceedings of the Seventh Workshop on Programming Languages and Operating Systems},
+}
+
+@inproceedings{tripathi2009crossbow,
+  title = {Crossbow: A vertically integrated QoS stack},
+  author = {Tripathi, Sunay and Droux, Nicolas and Srinivasan, Thirumalai and Belgaied, Kais and Iyer, Venu},
+  booktitle = {Proceedings of the 1st Workshop on Research on Enterprise Networking},
+  publisher = {ACM},
+}
+
+@article{honda2014userlevelstacks,
+  title = {Rekindling network protocol innovation with user-level stacks},
+  author = {Honda, Michio and Huici, Felipe and Raiciu, Costin and Araujo, Joao and Rizzo, Luigi},
+  journal = {ACM SIGCOMM Computer Communication Review},
+  publisher = {ACM},
+}
+
+@inproceedings{mercer1991evaluation,
+  title = {An evaluation of priority consistency in protocol architectures},
+  author = {Clifford W. Mercer and Hideyuki Tokuda.},
+  booktitle = {16th Conference on Local Computer Networks},
+  publisher = {IEEE},
+}
+
+@inproceedings{rizzo2012netmap,
+  title = {netmap: a novel framework for fast packet I/O},
+  author = {Rizzo, Luigi},
+  booktitle = {21st Security Symposium},
+  publisher = {USENIX},
+}
+
+@inproceedings{schoeberl_tpip_2018,
+  title = {{tpIP},
+  author = {Schoeberl, Martin and Pedersen, Rasmus Ulslev},
+  booktitle = {21st {International},
+  publisher = {IEEE},
+}
+
+@article{bruckner_introduction_2019,
+  title = {An introduction to OPC UA TSN for industrial communication systems},
+  author = {Bruckner, Dietmar and St{\u{a},
+  journal = {Proceedings of the IEEE},
+  publisher = {IEEE},
+}
+
+@inproceedings{behnke2022priority,
+  title = {A Priority-Aware Multiqueue NIC Design for Real-Time IoT Devices},
+  author = {Behnke, Ilja and Wiesner, Philipp and Danicki, Robert and Thamsen, Lauritz},
+  booktitle = {Proceedings of the 35th Annual ACM Symposium on Applied Computing},
+  publisher = {ACM},
+}
+
+@inproceedings{amiri2015predictable,
+  title = {A predictable interrupt management policy for real-time operating systems},
+  author = {Amiri, Javad Ebrahimian and Kargahi, Mehdi},
+  booktitle = {CSI Symposium on Real-Time and Embedded Systems and Technologies},
+  publisher = {IEEE},
+}
+
+@article{alcacer2019scanning,
+  title = {Scanning the industry 4.0: A literature review on technologies for manufacturing systems},
+  author = {Alc{\'a},
+  journal = {Engineering science and technology, an international journal},
+  publisher = {Elsevier},
+}
+
+@inproceedings{humphries2019mind,
+  title = {Mind the gap: A case for informed request scheduling at the nic},
+  author = {Humphries, Jack Tigar and Kaffes, Kostis and Mazi{\`e},
+  booktitle = {Proceedings of the 18th ACM Workshop on Hot Topics in Networks},
+  publisher = {ACM},
+}
+
+@article{strosnider1995deferrable,
+  title = {The deferrable server algorithm for enhanced aperiodic responsiveness in hard real-time environments},
+  author = {Strosnider, Jay K. and Lehoczky, John P. and Sha, Lui},
+  journal = {IEEE Transactions on Computers},
+  publisher = {IEEE},
+}
+
+@article{sprunt1989aperiodic,
+  title = {Aperiodic task scheduling for hard-real-time systems},
+  author = {Sprunt, Brinkley and Sha, Lui and Lehoczky, John},
+  journal = {Real-Time Systems},
+  publisher = {Springer},
+}
+
+@incollection{zhu2020data,
+  title = {{NIC},
+  author = {Zhu, Heqing},
+  booktitle = {Data Plane Development Kit (DPDK): A Software Optimization Guide to the User Space-Based Network Applications},
+  publisher = {CRC Press},
+}
+
+@inproceedings{niedermaier2019secure,
+  title = {A Secure Dual-{MCU},
+  author = {M. {Niedermaier},
+  booktitle = {8th Mediterranean Conference on Embedded Computing},
+  publisher = {IEEE},
+}
+
+@inproceedings{interruptmoderation_hpc,
+  title = {Bridging the Virtualization Performance Gap for {HPC},
+  author = {Musleh, Malek and Pai, Vijay and Walters, John Paul and Younge, Andrew and Crago, Stephen},
+  booktitle = {7th International Conference on Cloud Computing},
+  publisher = {IEEE},
+}
+
+@article{qiu2020edge,
+  title = {Edge Computing in Industrial Internet of Things: Architecture, Advances and Challenges},
+  author = {Qiu, Tie and Chi, Jiancheng and Zhou, Xiaobo and Ning, Zhaolong and Atiquzzaman, Mohammed and Wu, Dapeng Oliver},
+  journal = {IEEE Communications Surveys \& Tutorials},
+  doi = {10.1109/COMST.2020.3009103},
+}
+
+@inproceedings{danicki2021detecting,
+  title = {Detecting and Mitigating Network Packet Overloads on Real-Time Devices in {IoT},
+  author = {Danicki, Robert and Haug, Martin and Behnke, Ilja and M{\"a},
+  booktitle = {Proceedings of the 4th International Workshop on Edge Systems, Analytics and Networking},
+  publisher = {ACM},
+}
+
+@inproceedings{makineni2006receive,
+  title = {Receive side coalescing for accelerating {TCP/IP},
+  author = {Makineni, Srihari and Iyer, Ravi and Sarangam, Partha and Newell, Donald and Zhao, Li and Illikkal, Ramesh and Moses, Jaideep},
+  booktitle = {International Conference on High-Performance Computing},
+  publisher = {Springer},
+}
+
+@inproceedings{frazao2018denial,
+  title = {Denial of service attacks: Detecting the frailties of machine learning algorithms in the classification process},
+  author = {Fraz{\~a},
+  booktitle = {International Conference on Critical Information Infrastructures Security},
+  publisher = {Springer},
+}
+
+@inproceedings{mandalari2021blocking,
+  title = {Blocking without Breaking: Identification and Mitigation of Non-Essential IoT Traffic},
+  author = {Mandalari, Anna Maria and Dubois, Daniel J and Kolcun, Roman and Paracha, Muhammad Talha and Haddadi, Hamed and Choffnes, David},
+  booktitle = {Proceedings on Privacy Enhancing Technologies},
+}
+
+@inproceedings{multisloth,
+  title = {Multi Sloth: An Efficient Multi-core RTOS Using Hardware-Based Scheduling},
+  author = {Müller, Rainer and Danner, Daniel and Preikschat, Wolfgang Schröder and Lohmann, Daniel},
+  booktitle = {26th Euromicro Conference on Real-Time Systems},
+  publisher = {IEEE},
+}
+
+@article{bansal2020iot,
+  title = {IoT ecosystem: A survey on devices, gateways, operating systems, middleware and communication},
+  author = {Bansal, Sharu and Kumar, Dilip},
+  journal = {International Journal of Wireless Information Networks},
+  publisher = {Springer},
+}
+
+@inproceedings{haar2019fane,
+  title = {Fane: a firewall appliance for the smart home},
+  author = {Haar, Christoph and Buchmann, Erik},
+  booktitle = {Federated Conference on Computer Science and Information Systems},
+  organization = {IEEE},
+}
+
+@article{liu2020latency,
+  title = {On the latency, rate, and reliability tradeoff in wireless networked control systems for IIoT},
+  author = {Liu, Wanchun and Nair, Girish and Li, Yonghui and Nesic, Dragan and Vucetic, Branka and Poor, H Vincent},
+  journal = {IEEE Internet of Things Journal},
+  publisher = {IEEE},
+}
+
+@article{foschini_sdn-enabled_2021,
+  title = {An {SDN},
+  author = {Foschini, Luca and Mignardi, Valentina and Montanari, Rebecca and Scotece, Domenico},
+  journal = {Future Internet},
+  publisher = {MDPI},
+}
+
+@article{lin_dte-sdn_2018,
+  title = {{DTE},
+  author = {Lin, Chuan and Bi, Yuanguo and Zhao, Hai and Liu, Zheng and Jia, Siyuan and Zhu, Jian},
+  journal = {IEEE Internet of Things Journal},
+}
+
+@article{schriegel_migration_2021,
+  title = {A {Migration},
+  author = {Schriegel, Sebastian and Jasperneite, Jürgen},
+  journal = {IEEE Industrial Electronics Magazine},
+}
+
+@inproceedings{stephens2019loom,
+  title = {Loom: Flexible and efficient {NIC},
+  author = {Stephens, Brent and Akella, Aditya and Swift, Michael},
+  booktitle = {16th Symposium on Networked Systems Design and Implementation (NSDI)},
+  publisher = {USENIX},
+}
+
+@article{lonardo2015fpga,
+  title = {A FPGA-based Network Interface Card with GPUDirect enabling realtime GPU computing in HEP experiments},
+  author = {Lonardo, Alessandro and Lo Cicero, Francesca and Cotta Ramusino, Angelo and Neri, Ilaria and Simeone, Francesco and Sozzi, Marco and Biagioni, Andrea and Frezza, Ottorino and Paolucci, Pier Stanislao and Ammendola, Roberto and others},
+}
+
+@article{ieee:802.1ba_2021,
+  title = {IEEE Standard for Local and Metropolitan Area Networks--Audio Video Bridging (AVB) Systems},
+  author = {Jeffree, Tony and Congdon, Paul and Teener, Michael Johasg},
+  journal = {IEEE Std 802.1BA-2021 (Revision of IEEE Std 802.1BA-2011)},
+  volume = {},
+  number = {},
+}
+
+@article{ieee:802.1Qat,
+  title = {IEEE Standard for Local and metropolitan area networks--Virtual Bridged Local Area Networks Amendment 14: Stream Reservation Protocol (SRP)},
+  author = {Jeffree, Tony and Congdon, Paul and Teener, Michael Johas and Gunther, Craig},
+  journal = {IEEE Std 802.1Qat-2010 (Revision of IEEE Std 802.1Q-2005)},
+  volume = {},
+  number = {},
+}
+
+@inproceedings{gebert2016performance,
+  title = {Performance modeling of softwarized network functions using discrete-time analysis},
+  author = {Gebert, Steffen and Zinner, Thomas and Lange, Stanislav and Schwartz, Christian and Tran-Gia, Phuoc},
+  booktitle = {2016 28th International Teletraffic Congress},
+  organization = {IEEE},
+}
+
+@article{spanos2008internals,
+  title = {The internals of advanced interrupt handling techniques: Performance optimization of an embedded Linux network interface},
+  author = {Spanos, Stergios and Meliones, Apostolos and Stassinopoulos, George},
+  journal = {Computer Communications},
+  publisher = {Elsevier},
+}
+
+@inproceedings{blumschein2022differentiating,
+  title = {Differentiating Network Flows for Priority-Aware Scheduling of Incoming Packets in Real-Time IoT Systems},
+  author = {Blumschein, Christoph and Behnke, Ilja and Thamsen, Lauritz and Kao, Odej},
+  booktitle = {25th International Symposium on Real-Time Distributed Computing (ISORC)},
+  publisher = {IEEE},
+}
+
+@inproceedings{becker2022network,
+  title = {Network Emulation in Large-Scale Virtual Edge Testbeds: A Note of Caution and the Way Forward},
+  author = {Becker, Soeren and Pfandzelter, Tobias and Japke, Nils and Bermbach, David and Kao, Odej},
+  booktitle = {International Conference on Cloud Engineering (IC2E)},
+  organization = {IEEE},
+}
+
+@article{hubert2002linux,
+  title = {Linux advanced routing \& traffic control HOWTO},
+  author = {Hubert, Bert and others},
+  journal = {Netherlabs BV},
+}
+
+@article{kiangala_effective_2021,
+  title = {An {Effective},
+  author = {Kiangala, Kahiomba Sonia and Wang, Zenghui},
+  journal = {Processes},
+  keywords = {TSN, network technology},
+}
+
+@article{li_practical_2020,
+  title = {Practical {Implementation},
+  author = {Li, Yuting and Jiang, Junhui and Lee, Changdae and Hong, Seung Ho},
+  journal = {IEEE Access},
+}
+
+@article{wen_private_2022,
+  title = {Private {5G},
+  author = {Wen, Miaowen and Li, Qiang and Kim, Kyeong Jin and López-Pérez, David and Dobre, Octavia A. and Poor, H. Vincent and Popovski, Petar and Tsiftsis, Theodoros A.},
+  journal = {IEEE Journal of Selected Topics in Signal Processing},
+}
+
+@article{morato_assessment_2021,
+  title = {Assessment of {Different},
+  author = {Morato, Alberto and Vitturi, Stefano and Tramarin, Federico and Cenedese, Angelo},
+  journal = {IEEE Transactions on Instrumentation and Measurement},
+}
+
+@article{wang_adaptive_2018,
+  title = {Adaptive {Computing},
+  author = {Wang, Juan and Li, Di},
+  journal = {Sensors},
+}
+
+@inproceedings{ishtaique_ul_huque_system_2019,
+  title = {A system architecture for time-sensitive heterogeneous wireless distributed software-defined networks},
+  author = {Ishtaique ul Huque, Tanvir and Yego, Kiplimo and Sioutis, Christos and Nobakht, Mehdi and Sitnikova, Elena and den Hartog, Frank},
+  booktitle = {2019 {Military},
+}
+
+@article{nasrallah_ultra-low_2019,
+  title = {Ultra-{Low},
+  author = {Nasrallah, Ahmed and Thyagaturu, Akhilesh S. and Alharbi, Ziyad and Wang, Cuixiang and Shao, Xing and Reisslein, Martin and ElBakoury, Hesham},
+  journal = {IEEE Communications Surveys \& Tutorials},
+}
+
+@inproceedings{sudhakaran_enabling_2021,
+  title = {Enabling {QoS},
+  author = {Sudhakaran, Susruth and Mageshkumar, Vincent and Baxi, Amit and Cavalcanti, Dave},
+  booktitle = {{International},
+  publisher = {IEEE},
+}
+
+@article{watteyne_industrial_2016,
+  title = {Industrial {Wireless},
+  author = {Watteyne, Thomas and Handziski, Vlado and Vilajosana, Xavier and Duquennoy, Simon and Hahm, Oliver and Baccelli, Emmanuel and Wolisz, Adam},
+  journal = {Proceedings of the IEEE},
+}
+
+@article{felser_fieldbus_2002,
+  title = {The fieldbus standards: {History},
+  author = {Felser, Max},
+  journal = {Technology Leadership Day},
+}
+
+@article{rwsn_industrial_AI_smart_factory_2021,
+  title = {Robotic wireless sensor networks, industrial artificial intelligence, and deep learning-assisted smart process planning in sustainable cyber-physical manufacturing systems},
+  author = {Blake, Richard and Michalkova, Lucia and Bilan, Yuriy},
+  journal = {Journal of Self-Governance and Management Economics},
+  publisher = {Addleton Academic Publishers},
+}
+
+@article{park_wireless_2018,
+  title = {Wireless {Network},
+  author = {Park, Pangun and Coleri Ergen, Sinem and Fischione, Carlo and Lu, Chenyang and Johansson, Karl Henrik},
+  journal = {IEEE Communications Surveys \& Tutorials},
+}
+
+@article{ostling_cutting_2018,
+  title = {Cutting process monitoring with an instrumented boring bar measuring cutting force and vibration},
+  author = {Östling, Dan and Jensen, Tormod and Tjomsland, Mathias and Standal, Oddvar and Mugaas, Terje},
+  journal = {Procedia CIRP},
+  series = {8th {CIRP},
+}
+
+@inproceedings{specht2016urgency,
+  title = {Urgency-based scheduler for time-sensitive switched ethernet networks},
+  author = {Specht, Johannes and Samii, Soheil},
+  booktitle = {2016 28th Euromicro Conference on Real-Time Systems (ECRTS)},
+  organization = {IEEE},
+}
+
+@article{pirayesh_jamming_2022,
+  title = {Jamming {Attacks},
+  author = {Pirayesh, Hossein and Zeng, Huacheng},
+  journal = {IEEE Communications Surveys \& Tutorials},
+}
+
+@article{zunino_factory_2020,
+  title = {Factory {Communications},
+  author = {Zunino, Claudio and Valenzano, Adriano and Obermaisser, Roman and Petersen, Stig},
+  journal = {Computer Standards \& Interfaces},
+}
+
+@article{chen_wireless_2021,
+  title = {Wireless {Networked},
+  author = {Chen, Kwang-Cheng and Lin, Shih-Chun and Hsiao, Jen-Hao and Liu, Chun-Hung and Molisch, Andreas F. and Fettweis, Gerhard P.},
+  journal = {Proceedings of the IEEE},
+}
+
+@inproceedings{azua_avb_modelling_2014,
+  title = {Complete modelling of AVB in network calculus framework},
+  author = {De Azua, Joan Adri{\`a},
+  booktitle = {Proceedings of the 22nd International Conference on Real-Time Networks and Systems},
+}
+
+@inproceedings{nc_intro_tsn_maile_2020,
+  title = {Network calculus results for TSN: An introduction},
+  author = {Maile, Lisa and Hielscher, Kai-Steffen and German, Reinhard},
+  booktitle = {Information Communication Technologies Conference (ICTC)},
+  organization = {IEEE},
+}
+
+@inproceedings{hicking2021collaboration,
+  title = {Collaboration Through Digital Integration--An Overview of IT-OT-Integration Use-Cases and Requirements},
+  author = {Hicking, Jan and Stroh, Max-Ferdinand and Kremer, Sebastian},
+  booktitle = {Working Conference on Virtual Enterprises},
+  organization = {Springer},
+}
+
+@article{ma2021tcda,
+  title = {TCDA: Truthful combinatorial double auctions for mobile edge computing in industrial Internet of Things},
+  author = {Ma, Lianbo and Wang, Xueyi and Wang, Xingwei and Wang, Liang and Shi, Ying and Huang, Min},
+  journal = {IEEE Transactions on Mobile Computing},
+  publisher = {IEEE},
+}
+
+@article{mirani2022key,
+  title = {Key Challenges and Emerging Technologies in Industrial IoT Architectures: A Review},
+  author = {Mirani, Akseer Ali and Velasco-Hernandez, Gustavo and Awasthi, Anshul and Walsh, Joseph},
+  journal = {Sensors},
+  publisher = {MDPI},
+}
+
+@article{lohan2018benefits,
+  title = {Benefits of positioning-aided communication technology in high-frequency industrial IoT},
+  author = {Lohan, Elena Simona and Koivisto, Mike and Galinina, Olga and Andreev, Sergey and Tolli, Antti and Destino, Giuseppe and Costa, Mario and Leppanen, Kari and Koucheryavy, Yevgeni and Valkama, Mikko},
+  journal = {IEEE Communications Magazine},
+  publisher = {IEEE},
+}
+
+@article{zhan2022industrial,
+  title = {Industrial internet of things and unsupervised deep learning enabled real-time occupational safety monitoring in cold storage warehouse},
+  author = {Zhan, Xuegang and Wu, Wei and Shen, Leidi and Liao, Wangyunyan and Zhao, Zhiheng and Xia, Jing},
+  journal = {Safety Science},
+  publisher = {Elsevier},
+}
+
+@article{nordal2021modeling,
+  title = {Modeling a predictive maintenance management architecture to meet industry 4.0 requirements: A case study},
+  author = {Nordal, Helge and El-Thalji, Idriss},
+  journal = {Systems Engineering},
+  publisher = {Wiley Online Library},
+}
+
+@inproceedings{harju_co_operation_2000,
+  title = {Co-operation and comparison of {DiffServ},
+  author = {Harju, J. and Kivimaki, P.},
+  booktitle = {Proceedings 25th {Conference},
+  publisher = {IEEE},
+}
+
+@article{devan_survey_2021,
+  title = {A {Survey},
+  author = {Devan, P. Arun Mozhi and Hussin, Fawnizu Azmadi and Ibrahim, Rosdiazli and Bingi, Kishore and Khanday, Farooq Ahmad},
+  journal = {Sensors},
+}
+
+@article{8558500,
+  title = {Toward Real-Time Control in Future Wireless Networks: Communication-Control Co-Design},
+  author = {Zhao, Guodong and Imran, Muhammad Ali and Pang, Zhibo and Chen, Zhi and Li, Liying},
+  journal = {IEEE Communications Magazine},
+}
+
+@article{power_reduce_2009,
+  title = {Reduce {Costs},
+  author = {Sparks, Robb},
+  journal = {POWER Magazine},
+}
+
+@article{kong_industrial_2019,
+  title = {Industrial wearable system: the human-centric empowering technology in {Industry},
+  author = {Kong, Xiang T. R. and Luo, Hao and Huang, George Q. and Yang, Xuan},
+  journal = {Journal of Intelligent Manufacturing},
+}
+
+@inproceedings{lorenz_industrial_2018,
+  title = {Industrial {Augmented},
+  author = {Lorenz, Mario and Knopp, Sebastian and Klimant, Philipp},
+  booktitle = {{International},
+  publisher = {IEEE},
+}
+
+@article{walia_5g_2019,
+  title = {{5G},
+  author = {Walia, Jaspreet Singh and Hämmäinen, Heikki and Kilkki, Kalevi and Yrjölä, Seppo},
+  journal = {IEEE Computers in Industry},
+}
+
+@inproceedings{zhohov_real-time_2018,
+  title = {Real-time {Performance},
+  author = {Zhohov, Roman and Minovski, Dimitar and Johansson, Per and Andersson, Karl},
+  booktitle = {43rd {Conference},
+  publisher = {IEEE},
+}
+
+@inproceedings{kanawaday_machine_2017,
+  title = {Machine learning for predictive maintenance of industrial machines using {IoT},
+  author = {Kanawaday, Ameeth and Sane, Aditya},
+  booktitle = {8th {International},
+  publisher = {IEEE},
+}
+
+@article{blanes_80211n_2015,
+  title = {802.11n {Performance},
+  author = {Blanes, Javier Silvestre and Berenguer-Sebastiá, Joaquin and Sempere-Paya, Víctor and Ferrandis, David Todolí},
+  journal = {Computers in Industry},
+}
+
+@article{hossain_edge_2020,
+  title = {Edge computational task offloading scheme using reinforcement learning for IIoT scenario},
+  author = {Hossain, Md Sajjad and Nwakanma, Cosmas Ifeanyi and Lee, Jae Min and Kim, Dong-Seong},
+  journal = {ICT Express},
+  publisher = {Elsevier},
+}
+
+@article{deng_intelligent_2021,
+  title = {Intelligent {Delay},
+  author = {Deng, Xiaoheng and Yin, Jian and Guan, Peiyuan and Xiong, Neal N. and Zhang, Lan and Mumtaz, Shahid},
+  journal = {IEEE Internet of Things Journal},
+}
+
+@article{xu_joint_2022,
+  title = {Joint {Task},
+  author = {Xu, Jincheng and Yang, Bo and Liu, Yuxiang and Chen, Cailian and Guan, Xinping},
+  journal = {IEEE Internet of Things Journal},
+}
+
+@article{iqbal_cooperative_2017,
+  title = {A {Cooperative},
+  author = {Iqbal, Zafar and Kim, Kiseon and Lee, Heung-No},
+  journal = {IEEE Transactions on Industrial Informatics},
+}
+
+@article{miljkovic_new_2013,
+  title = {New hybrid vision-based control approach for automated guided vehicles},
+  author = {Miljković, Zoran and Vuković, Najdan and Mitić, Marko and Babić, Bojan},
+  journal = {The International Journal of Advanced Manufacturing Technology},
+}
+
+@article{kajan_control_2013,
+  title = {Control of automated guided vehicle with PLC SIMATIC ET200S CPU},
+  author = {Kajan, Martin and Mrafko, Leo and Ducho{\v{n},
+  journal = {American Journal of Mechanical Engineering},
+}
+
+@inproceedings{singholi_review_2021,
+  title = {A {Review},
+  author = {Singholi, Ajay K. S. and Mittal, Mamta and Bhargava, Ankur},
+  booktitle = {Advances in {Electromechanical},
+  publisher = {Springer},
+  series = {Lecture {Notes},
+  editor = {Pandey, V. C. and Pandey, P. M. and Garg, S. K.},
+}
+
+@incollection{chavhan_smart_2021,
+  title = {Smart {Sensors},
+  author = {Chavhan, Suresh and Kulkarni, Ravi Arun and Zilpe, Atul Ramesh},
+  booktitle = {Smart {Sensors},
+  publisher = {Springer},
+  series = {Internet of {Things},
+  editor = {Gupta, Deepak and Hugo C. de Albuquerque, Victor and Khanna, Ashish and Mehta, Purnima Lala},
+}
+
+@article{lo_bello_perspective_2019,
+  title = {A {Perspective},
+  author = {Lo Bello, Lucia and Steiner, Wilfried},
+  journal = {Proceedings of the IEEE},
+}
+
+@article{svertoka_wearables_2021,
+  title = {Wearables for {Industrial},
+  author = {Svertoka, Ekaterina and Saafi, Salwa and Rusu-Casandra, Alexandru and Burget, Radim and Marghescu, Ion and Hosek, Jiri and Ometov, Aleksandr},
+  journal = {Sensors},
+}
+
+@article{rosales_iiot_2021,
+  title = {{IIoT},
+  author = {Rosales, Jonathan and Deshpande, Sourabh and Anand, Sam},
+  journal = {Procedia Manufacturing},
+  series = {49th {SME},
+}
+
+@article{batalla_analyzing_2020,
+  title = {On {Analyzing},
+  author = {Batalla, Jordi Mongay},
+  journal = {IEEE Access},
+}
+
+@article{kayan_cybersecurity_2022,
+  title = {Cybersecurity of industrial cyber-physical systems: a review},
+  author = {Kayan, Hakan and Nunes, Matthew and Rana, Omer and Burnap, Pete and Perera, Charith},
+  journal = {ACM Computing Surveys (CSUR)},
+  publisher = {ACM},
+  number = {11s},
+}
+
+@article{kivela2018towards,
+  title = {Towards an approach for assuring machinery safety in the IIoT-age},
+  author = {Kivel{\"a},
+  journal = {Logistics Journal: Proceedings},
+  number = {01},
+}
+
+@article{mcninch2019leveraging,
+  title = {Leveraging IIoT to improve machine safety in the mining industry},
+  author = {McNinch, M and Parks, D and Jacksha, R and Miller, A},
+  journal = {Mining, metallurgy \& exploration},
+  publisher = {Springer},
+}
+
+@article{zhou2017industrial,
+  title = {Industrial Internet of Things:(IIoT) applications in underground coal mines},
+  author = {Zhou, C and Damiano, N and Whisner, B and Reyes, M},
+  journal = {Mining engineering},
+  publisher = {NIH Public Access},
+}
+
+@article{reyes2013intelligent,
+  title = {Intelligent machine guard monitoring: A wireless system to improve miner safety},
+  author = {Reyes, Miguel Angel and King, Grant W and Miller, Gregory G},
+  journal = {IEEE Industry Applications Magazine},
+  publisher = {IEEE},
+}
+
+@article{salhaoui2019smart,
+  title = {Smart industrial iot monitoring and control system based on UAV and cloud computing applied to a concrete plant},
+  author = {Salhaoui, Marouane and Guerrero-Gonz{\'a},
+  journal = {Sensors},
+  publisher = {MDPI},
+}
+
+@article{ma2022reliability,
+  title = {Reliability Versus Latency in IIoT Visual Applications: A Scalable Task Offloading Framework},
+  author = {Ma, Junchao and Shang, Bodong and Song, Hao and Huang, Yongming and Fan, Pingzhi},
+  journal = {IEEE Internet of Things Journal},
+  publisher = {IEEE},
+}
+
+@article{li2021helically,
+  title = {Helically Intersected Conductive Network Design for Wearable Electronic Devices: From Theory to Application},
+  author = {Li, Yijun and Zhang, Kailin and Geng, Qiang and Nie, Min and Wang, Qi and Huang, Zhaoxia and Wu, Zhenghao and Pi, Lin},
+  journal = {ACS Applied Materials \& Interfaces},
+  publisher = {ACS Publications},
+}
+
+@inproceedings{huang_sense_2019,
+  title = {To {Sense},
+  author = {Huang, Kang and Liu, Wanchun and Li, Yonghui and Vucetic, Branka},
+  booktitle = {{Global},
+  publisher = {IEEE},
+}
+
+@misc{ieee:802.1Q-2018,
+  title = {{IEEE},
+  author = {IEEE 802.1 Working Group},
+}
+
+@misc{rfc675,
+  title = {{Specification of Internet Transmission Control Program},
+  author = {Cerf, V and Dalal, Y and Sunshine, C},
+  howpublished = {RFC 675},
+}
+
+@techreport{iec61158,
+  title = {{Industrial communication networks - Fieldbus specifications},
+  author = {IEC},
+  month = {04},
+  address = {Geneva, CH},
+  type = {International Standard},
+  key = {IEC 61158-1},
+  institution = {International Electrotechnical Commission},
+}
+
+@article{ieee:802.1Qbv-2015,
+  title = {IEEE Standard for Local and metropolitan area networks -- Bridges and Bridged Networks - Amendment 25: Enhancements for Scheduled Traffic},
+  author = {Teener, Michael Johas and Farkas, János and TSN WG},
+  journal = {IEEE Std 802.1Qbv-2015},
+  volume = {},
+  number = {},
+  editor = {Jeffrey, Tony},
+}
+
+@article{ieee:802.3-2022,
+  title = {IEEE Standard for Ethernet},
+  author = {Law, David J. and Healey, Adam and Lewis, Jon and Carlson, Steven B. and Maguire, Valerie},
+  journal = {IEEE Std 802.3-2022},
+  volume = {},
+  number = {},
+}
+
+@article{pokhrel_towards_2020,
+  title = {Towards {Enabling},
+  author = {Pokhrel, Shiva Raj and Ding, Jie and Park, Jihong and Park, Ok-Sun and Choi, Jinho},
+  journal = {IEEE Access},
+}
+
+@article{aijaz_private_2020,
+  title = {Private {5G},
+  author = {Aijaz, Adnan},
+  journal = {IEEE Industrial Electronics Magazine},
+}
+
+@inproceedings{yun_rt-wifi_2022,
+  title = {RT-WiFi on Software-Defined Radio: Design and Implementation},
+  author = {Yun, Zelin and Wu, Peng and Zhou, Shengli and Mok, Aloysius K and Nixon, Mark and Han, Song},
+  booktitle = {28th Real-Time and Embedded Technology and Applications Symposium (RTAS)},
+  organization = {IEEE},
+}
+
+@article{zeng2019time,
+  title = {Time-slotted software-defined Industrial Ethernet for real-time Quality of Service in Industry 4.0},
+  author = {Zeng, Peng and Wang, Zhaowei and Jia, Zhengyi and Kong, Linghe and Li, Dong and Jin, Xi},
+  journal = {Future Generation Computer Systems},
+  publisher = {Elsevier},
+}
+
+@inproceedings{bujosa2022hermes,
+  title = {HERMES: Heuristic Multi-queue Scheduler for TSN Time-Triggered Traffic with Zero Reception Jitter Capabilities},
+  author = {Bujosa, Daniel and Ashjaei, Mohammad and Papadopoulos, Alessandro V and Nolte, Thomas and Proenza, Julian},
+  booktitle = {Proceedings of the 30th International Conference on Real-Time Networks and Systems},
+}
+
+@inproceedings{chaine2022egress,
+  title = {Egress-TT Configurations for TSN Networks},
+  author = {Chaine, Pierre-Julien and Boyer, Marc and Pagetti, Claire and Wartel, Franck},
+  booktitle = {Proceedings of the 30th International Conference on Real-Time Networks and Systems},
+}
+
+@inproceedings{johansson2022priority,
+  title = {Priority Based Ethernet Handling in Real-Time End System with Ethernet Controller Filtering},
+  author = {Johansson, Bjarne and R{\aa},
+  booktitle = {IECON 2022--48th Annual Conference of the IEEE Industrial Electronics Society},
+  organization = {IEEE},
+}
+
+@article{cavalcanti2019extending,
+  title = {Extending accurate time distribution and timeliness capabilities over the air to enable future wireless industrial automation systems},
+  author = {Cavalcanti, Dave and Perez-Ramirez, Javier and Rashid, Mohammad Mamunur and Fang, Juan and Galeev, Mikhail and Stanton, Kevin B},
+  journal = {Proceedings of the IEEE},
+  publisher = {IEEE},
+}
+
+@article{8823854,
+  title = {Multi-Level Time-Sensitive Networking (TSN) Using the Data Distribution Services (DDS) for Synchronized Three-Phase Measurement Data Transfer},
+  author = {Agarwal, Tanushree and Niknejad, Payam and Barzegaran, M. R. and Vanfretti, Luigi},
+  journal = {IEEE Access},
+  number = {},
+}
+
+@article{austad_ftc,
+  title = {Composable distributed real-time systems with deterministic network channels},
+  author = {Henrik Austad and Erling Rennemo Jellum and Sverre Hendseth and Geir Mathisen and Torleiv Håland Bryne and Kristoffer Nyborg Gregertsen and Sigurd Mørkved Albrektsen and Bjarne Emil Helvik},
+  journal = {Journal of Systems Architecture},
+}
+
+@article{xu2018survey,
+  title = {A Survey on Industrial Internet of Things: A Cyber-Physical Systems Perspective},
+  author = {Xu, Hansong and Yu, Wei and Griffith, David and Golmie, Nada},
+  journal = {IEEE Access},
+  number = {},
+}
+
+@article{kim2017survey,
+  title = {A survey on real-time communications in wireless sensor networks},
+  author = {Kim, Beom-Su and Park, HoSung and Kim, Kyong Hoon and Godfrey, Daniel and Kim, Ki-Il},
+  journal = {Wireless communications and mobile computing},
+  publisher = {Hindawi},
+}
+
+@article{sisinni2018industrial,
+  title = {Industrial internet of things: Challenges, opportunities, and directions},
+  author = {Sisinni, Emiliano and Saifullah, Abusayeed and Han, Song and Jennehag, Ulf and Gidlund, Mikael},
+  journal = {IEEE transactions on industrial informatics},
+  publisher = {IEEE},
+}
+
+@article{modbus_smartgrid,
+  title = {Comparison of smart grid architectures for monitoring and analyzing power grid data via Modbus and REST},
+  author = {Kenner, Susanne and Thaler, Raphael and Kucera, Markus and Volbert, Klaus and Waas, Thomas},
+  month = {08},
+  journal = {EURASIP Journal on Embedded Systems},
+  doi = {10.1186/s13639-016-0045-7},
+}
+
+@inproceedings{nguyenEtherCATNetworkLatency2016,
+  title = {{{EtherCAT},
+  author = {Nguyen, Vinh Quang and Jeon, Jae Wook},
+  booktitle = {{{International Conference},
+  pages = {432--436},
+  doi = {10.1109/CCAA.2016.7813815},
+  url = {https://ieeexplore.ieee.org/abstract/document/7813815?casa_token=97yI6uSw7voAAAAA:w24N2wA6sM7VVCrPzpJ94QtzqrHAdRiFfhoX4-SdZyua4M3d89fSf85CJFvQZVyseJvRojYa1tCj},
+}
+
+@misc{profinet_chans,
+  title = {PROFINET Communication Channels},
+  note = {Accessed: 2023-09-30},
+  howpublished = {\url{https://profinetuniversity.com/profinet-basics/profinet-communication-channels/},
+}
+
+@article{junAnalysisPROFIBUSDPNetwork2005,
+  title = {Analysis of {{PROFIBUS-DP},
+  author = {Jun, Tao and {Zhan-lin},
+  journal = {Wuhan University Journal of Natural Sciences},
+  pages = {877--882},
+  doi = {10.1007/BF02832431},
+  url = {http://link.springer.com/10.1007/BF02832431},
+  langid = {english},
+}
+
+@inproceedings{godoyEvaluatingSerialZigBee2012,
+  title = {Evaluating Serial {{ZigBee},
+  author = {Godoy, Eduardo Paci{\^e},
+  booktitle = {{{IECON},
+}
+
+@article{godoyDesignCANbasedDistributed2010,
+  title = {Design of {{CAN-based},
+  author = {Godoy, Eduardo P. and de Sousa, Rafael V. and Porto, Arthur Jos{\'e},
+  journal = {Journal of the Brazilian Society of Mechanical Sciences and Engineering},
+}
+
+@inproceedings{austermannConceptsBitrateEnhancement2020,
+  title = {Concepts for {{Bitrate Enhancement},
+  author = {Austermann, Carina and Frei, Stephan},
+  booktitle = {{{International Symposium},
+}
+
+@article{zhao2017timing,
+  title = {Timing analysis of rate-constrained traffic in TTEthernet using network calculus},
+  author = {Zhao, Luxi and Pop, Paul and Li, Qiao and Chen, Junyan and Xiong, Huagang},
+  journal = {Real-Time Systems},
+  publisher = {Springer},
+}
+
+@article{bankovEnablingRealtimeApplications2019,
+  title = {Enabling Real-Time Applications in {{Wi-Fi},
+  author = {Bankov, Dmitry and Khorov, Evgeny and Lyakhov, Andrey and Sandal, Mark},
+  journal = {International Journal of Distributed Sensor Networks},
+  publisher = {{SAGE Publications},
+}
+
+@article{oughton_revisiting_2021,
+  title = {Revisiting {Wireless},
+  author = {Oughton, Edward J. and Lehr, William and Katsaros, Konstantinos and Selinis, Ioannis and Bubley, Dean and Kusuma, Julius},
+  journal = {Telecommunications Policy},
+  language = {en},
+}
+
+@inproceedings{rubiobenitoPerformanceEvaluationFour1999,
+  title = {Performance Evaluation of Four Field Buses},
+  author = {Rubio Benito, M.D. and Fuertes, J.M. and Kahoraho, E. and Perez Arzoz, N.},
+  booktitle = {1999 7th {{IEEE International Conference},
+  pages = {881--890 vol.2},
+  doi = {10.1109/ETFA.1999.813085},
+}
+
+@article{alessandriaPERFORMANCEANALYSISETHERNET2007,
+  title = {{{Performance Analysis of Ethernet},
+  author = {Alessandria, E. and Seno, L. and Vitturi, S.},
+  journal = {IFAC Proceedings Volumes},
+  series = {7th {{IFAC Conference},
+  pages = {391--398},
+  doi = {10.3182/20071107-3-FR-3907.00054},
+  keywords = {EtherNet/IP,Industrial Communications,Performance Analysis,Real\textendash Time Ethernet},
+}
+
+@article{rondonEvaluatingBluetoothLow2017,
+  title = {Evaluating {{Bluetooth Low Energy Suitability},
+  author = {Rond{\'o},
+  journal = {International Journal of Wireless Information Networks},
+  pages = {278--290},
+  doi = {10.1007/s10776-017-0357-0},
+}
+
+@article{elashri_energy-efficient_2020,
+  title = {Energy-efficient offloading of real-time tasks using cloud computing},
+  author = {Elashri, Suzanne and Azim, Akramul},
+  journal = {Cluster Computing},
+}
+
+@article{ma_reliability_2022,
+  title = {Reliability {Versus},
+  author = {Ma, Junchao and Shang, Bodong and Song, Hao and Huang, Yongming and Fan, Pingzhi},
+  journal = {IEEE Internet of Things Journal},
+}
+
+@article{hong_multi-hop_2019,
+  title = {Multi-Hop Cooperative Computation Offloading for Industrial IoT–Edge–Cloud Computing Environments},
+  author = {Hong, Zicong and Chen, Wuhui and Huang, Huawei and Guo, Song and Zheng, Zibin},
+  journal = {IEEE Transactions on Parallel and Distributed Systems},
+}
+
+@inproceedings{shukla_efficient_2017,
+  title = {An efficient computation offloading architecture for the {Internet},
+  author = {Shukla, Raj Mani and Munir, Arslan},
+  booktitle = {{Annual},
+  publisher = {IEEE},
+}
+
+@inproceedings{liu_real-time_2020,
+  title = {Real-time Task Offloading for Data and Computation Intensive Services in Vehicular Fog Computing Environments},
+  author = {Liu, Chunhui and Liu, Kai and Xu, Xincao and Ren, Hualing and Jin, Feiyu and Guo, Songtao},
+  booktitle = {Int. Conference on Mobility, Sensing and Networking (MSN)},
+  publisher = {IEEE},
+}
+
+@inproceedings{llt,
+  title = {Scheduling coprocessor for enhanced least-laxity-first scheduling in hard real-time systems},
+  author = {Hildebrandt, Jens and Golatowski, Frank and Timmermann, Dirk},
+  booktitle = {Euromicro Conference on Real-Time Systems},
+}
+
+@article{dhall,
+  title = {On a real-time scheduling problem},
+  author = {Dhall, Sudarshan K and Liu, Chung Laung},
+  journal = {Operations research},
+  publisher = {INFORMS},
+}
+
+@article{iiot_offloading_energy,
+  title = {Energy-Optimal Dynamic Computation Offloading for Industrial IoT in Fog Computing},
+  author = {Chen, Siguang and Zheng, Yimin and Lu, Weifeng and Varadarajan, Vijayakumar and Wang, Kun},
+  journal = {IEEE Transactions on Green Communications and Networking},
+}
+
+@article{e2e_delay_1,
+  title = {End-to-End Communication Delay Analysis in Industrial Wireless Networks},
+  author = {Saifullah, Abusayeed and Xu, You and Lu, Chenyang and Chen, Yixin},
+  journal = {IEEE Transactions on Computers},
+}
+
+@article{e2e_delay_2,
+  title = {Real-Time Query Scheduling for Wireless Sensor Networks},
+  author = {Chipara, Octav and Lu, Chenyang and Roman, Gruia-Catalin},
+  journal = {IEEE Transactions on Computers},
+}
+
+@article{e2e_delay_3,
+  title = {End-to-End Reliability-Aware Scheduling for Wireless Sensor Networks},
+  author = {Dobslaw, Felix and Zhang, Tingting and Gidlund, Mikael},
+  journal = {IEEE Transactions on Industrial Informatics},
+}
+
+@article{scheduling_difficult,
+  title = {Scheduling in distributed systems: A cloud computing perspective},
+  author = {Bittencourt, Luiz F and Goldman, Alfredo and Madeira, Edmundo RM and da Fonseca, Nelson LS and Sakellariou, Rizos},
+  journal = {Computer science review},
+  publisher = {Elsevier},
+}
+
+@inproceedings{bock2021performance,
+  title = {Performance impact of network conditions on an IIoT system.},
+  author = {Bock, R and Uren, KR and van Schoor, G},
+  booktitle = {Robotics and Mechatronics Conference (RobMech)},
+  publisher = {IEEE},
+}
+
+@inproceedings{barzegaran_fogification_2020,
+  title = {Fogification of electric drives: An industrial use case},
+  author = {Barzegaran, Mohammadreza and Desai, Nitin and Qian, Jia and Tange, Koen and Zarrin, Bahram and Pop, Paul and Kuusela, Juha},
+  booktitle = {25th International Conference on Emerging Technologies and Factory Automation (ETFA)},
+  publisher = {IEEE},
+}
+
+@article{roy2020contention,
+  title = {Contention-aware optimal scheduling of real-time precedence-constrained task graphs on heterogeneous distributed systems},
+  author = {Roy, Sanjit Kumar and Devaraj, Rajesh and Sarkar, Arnab and Maji, Kankana and Sinha, Sayani},
+  journal = {Journal of Systems Architecture},
+  publisher = {Elsevier},
+}
+
+@article{yi2020task,
+  title = {Task optimization and scheduling of distributed cyber--physical system based on improved ant colony algorithm},
+  author = {Yi, Na and Xu, Jianjun and Yan, Limei and Huang, Lin},
+  journal = {Future Generation Computer Systems},
+  publisher = {Elsevier},
+}
+
+@inproceedings{pei2016wifi,
+  title = {WiFi can be the weakest link of round trip network latency in the wild},
+  author = {Pei, Changhua and Zhao, Youjian and Chen, Guo and Tang, Ruming and Meng, Yuan and Ma, Minghua and Ling, Ken and Pei, Dan},
+  booktitle = {IEEE INFOCOM},
+  publisher = {IEEE},
+}
+
+@inproceedings{becker2021local,
+  title = {Los: Local-optimistic scheduling of periodic model training for anomaly detection on sensor data streams in meshed edge networks},
+  author = {Becker, Soeren and Schmidt, Florian and Thamsen, Lauritz and Ferrer, Ana Juan and Kao, Odej},
+  booktitle = {IEEE International Conference on Autonomic Computing and Self-Organizing Systems (ACSOS)},
+  publisher = {IEEE},
+}
+
+@book{wang2017real,
+  title = {Real-time embedded systems},
+  author = {Wang, Jiacun},
+  publisher = {John Wiley \& Sons},
+}
+
+@article{peltomaki2011algorithms,
+  title = {Algorithms for self-organized resource allocation in wireless networks},
+  author = {Peltomaki, Matti and Koljonen, Juha-Matti and Tirkkonen, Olav and Alava, Mikko},
+  journal = {IEEE Transactions on Vehicular Technology},
+  publisher = {IEEE},
+}
+
+@article{aakerberg2021future,
+  title = {Future industrial networks in process automation: Goals, challenges, and future directions},
+  author = {{\AA},
+  journal = {Applied Sciences},
+  publisher = {MDPI},
+}
+
+@inproceedings{watson2006netfpga,
+  title = {NetFPGA: A tool for network research and education},
+  author = {Watson, Greg and McKeown, Nick and Casado, Martin},
+  booktitle = {2nd workshop on Architectural Research using FPGA Platforms (WARFP)},
+}
+
+@techreport{shafer2006reconfigurable,
+  title = {A reconfigurable and programmable gigabit ethernet network interface card},
+  author = {Shafer, Jeffrey and Rixner, Scott},
+  institution = {Rice University},
+}
+
+@inproceedings{forencich2020corundum,
+  title = {Corundum: An open-source 100-gbps nic},
+  author = {Forencich, Alex and Snoeren, Alex C and Porter, George and Papen, George},
+  booktitle = {2020 IEEE 28th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM)},
+  organization = {IEEE},
+}
+
+@techreport{doring2021smartnics,
+  title = {Smartnics: Current trends in research and industry},
+  author = {D{\"o},
+  institution = {Technische Universität München},
+}
+
+@inproceedings{nimmagadda2010real,
+  title = {Real-time moving object recognition and tracking using computation offloading},
+  author = {Nimmagadda, Yamini and Kumar, Karthik and Lu, Yung-Hsiang and Lee, CS George},
+  booktitle = {2010 IEEE/RSJ International Conference on Intelligent Robots and Systems},
+  organization = {IEEE},
+}
+
+@article{wang2019edge,
+  title = {Edge cloud offloading algorithms: Issues, methods, and perspectives},
+  author = {Wang, Jianyu and Pan, Jianli and Esposito, Flavio and Calyam, Prasad and Yang, Zhicheng and Mohapatra, Prasant},
+  journal = {ACM Computing Surveys (CSUR)},
+  publisher = {ACM},
+}
+
+@article{lin2019computation,
+  title = {Computation offloading toward edge computing},
+  author = {Lin, Li and Liao, Xiaofei and Jin, Hai and Li, Peng},
+  journal = {Proceedings of the IEEE},
+  publisher = {IEEE},
+}
+
+@article{mobile_edge_offloading,
+  title = {Multi-User Multi-Task Computation Offloading in Green Mobile Edge Cloud Computing},
+  author = {Chen, Weiwei and Wang, Dong and Li, Keqin},
+  journal = {IEEE Transactions on Services Computing},
+  doi = {10.1109/TSC.2018.2826544},
+}
+
+@article{dist_sched_1985,
+  title = {Evaluation of a flexible task scheduling algorithm for distributed hard real-time systems},
+  author = {Stankovic, John A. and Ramamritham, Krithivasan and Cheng, Shengchang},
+  journal = {IEEE Transactions on Computers},
+  volume = {C-34},
+  doi = {10.1109/TC.1985.6312211},
+}
+
+@inproceedings{relwork_1,
+  title = {Distributed real-time system design using CBS-based end-to-end scheduling},
+  author = {Nolte, T. and Kwei-Jay Lin},
+  booktitle = {Ninth International Conference on Parallel and Distributed Systems, 2002. Proceedings.},
+  doi = {10.1109/ICPADS.2002.1183424},
+}
+
+@inproceedings{dist_sched_1994,
+  title = {Dynamic end-to-end guarantees in distributed real time systems},
+  author = {Di Natale and Stankovic},
+  booktitle = {Proceedings Real-Time Systems Symposium},
+  doi = {10.1109/REAL.1994.342714},
+}
+
+@inproceedings{delay_estimation_1,
+  title = {Estimation and removal of clock skew from network delay measurements},
+  author = {Moon, S.B. and Skelly, P. and Towsley, D.},
+  booktitle = {IEEE INFOCOM '99. Conference on Computer Communications. Proceedings. Eighteenth Annual Joint Conference of the IEEE Computer and Communications Societies. The Future is Now (Cat. No.99CH36320)},
+  doi = {10.1109/INFCOM.1999.749287},
+}
+
+@article{delay_estimation_2,
+  title = {One-way delay estimation using network-wide measurements},
+  author = {Gurewitz, O. and Cidon, I. and Sidi, M.},
+  journal = {IEEE Transactions on Information Theory},
+  doi = {10.1109/TIT.2006.874414},
+}
+
+@inproceedings{delay_estimation_3,
+  title = {Scalable, low-overhead network delay estimation},
+  author = {Ozdemir, V. and Muthukrishnan, S. and Rhee, I.},
+  booktitle = {Proceedings IEEE INFOCOM 2000. Conference on Computer Communications. Nineteenth Annual Joint Conference of the IEEE Computer and Communications Societies (Cat. No.00CH37064)},
+  publisher = {IEEE},
+  doi = {10.1109/INFCOM.2000.832531},
+}
+
+@article{clock_sync_1,
+  title = {Clock Synchronization in Distributed Real-Time Systems},
+  author = {Kopetz, Hermann and Ochsenreiter, Wilhelm},
+  journal = {IEEE Transactions on Computers},
+  volume = {C-36},
+  doi = {10.1109/TC.1987.5009516},
+}
+
+@article{ptp_ieee,
+  title = {{IEEE Standard for a Precision Clock Synchronization Protocol for Networked Measurement and Control Systems},
+  author = {},
+  journal = {IEEE Std. 1588-2019},
+}
+
+@inproceedings{iiot2,
+  title = {Future research challenges in wireless sensor and actuator networks targeting industrial automation},
+  author = {{\AA},
+  booktitle = {2011 9th IEEE International Conference on Industrial Informatics},
+  publisher = {IEEE},
+}
+
+@article{wcet_survey,
+  title = {The Worst-Case Execution-Time Problem — Overview of Methods and Survey of Tools},
+  author = {Wilhelm, Reinhard and Engblom, Jakob and Ermedahl, Andreas and Holsti, Niklas and Thesing, Stephan and Whalley, David and Bernat, Guillem and Ferdinand, Christian and Heckmann, Reinhold and Mitra, Tulika and Mueller, Frank and Puaut, Isabelle and Puschner, Peter and Staschulat, Jan and Stenstr\"{o},
+  publisher = {ACM},
+  doi = {10.1145/1347375.1347389},
+}
+
+@misc{RTOScharacteristics,
+  title = {The RTOS Difference},
+  author = {Morgan, Kevin D.},
+  month = {08},
+  journal = {Byte Magazine},
+}
+
+@book{distributedRTOS,
+  title = {Distributed Real-Time Systems},
+  author = {K. Erciyes},
+  publisher = {Springer International Publishing},
+  doi = {10.1007/978-3-030-22570-4},
+}
+
+@article{rtcache,
+  title = {The use of cache memory in real-time systems},
+  author = {M.K.J. Milligan and H.G. Cragon},
+  journal = {Control Engineering Practice},
+  doi = {10.1016/0967-0661(96)00154-2},
+}
+
+@article{rtsched,
+  title = {Scheduling algorithms and operating systems support for real-time systems},
+  author = {Ramamritham, K. and Stankovic, J.A.},
+  journal = {Proceedings of the IEEE},
+  doi = {10.1109/5.259426},
+}
+
+@book{LiuJane,
+  title = {Real time systems},
+  author = {Liu, Jane W. S},
+  publisher = {Prentice-Hall},
+}
+
+@article{yen1998performance,
+  title = {Performance estimation for real-time distributed embedded systems},
+  author = {Yen, Ti-Yen and Wolf, W.},
+  journal = {IEEE Transactions on Parallel and Distributed Systems},
+  doi = {10.1109/71.735959},
+}
+
+@article{zhou2020dependable,
+  title = {Dependable scheduling for real-time workflows on cyber--physical cloud systems},
+  author = {Zhou, Junlong and Sun, Jin and Zhang, Mingyue and Ma, Yue},
+  journal = {IEEE Transactions on Industrial Informatics},
+  publisher = {IEEE},
+}
+
+@inproceedings{akesson2020empirical,
+  title = {An empirical survey-based study into industry practice in real-time systems},
+  author = {Akesson, Benny and Nasri, Mitra and Nelissen, Geoffrey and Altmeyer, Sebastian and Davis, Robert I},
+  booktitle = {2020 IEEE Real-Time Systems Symposium (RTSS)},
+  pages = {3--11},
+  organization = {IEEE},
+}
+
+@inproceedings{schweitzer2016millisecond,
+  title = {Millisecond, microsecond, nanosecond: What can we do with more precise time?},
+  author = {Schweitzer, Edmund O and Whitehead, David E and Zweigle, Greg and Skendzic, Veselin and Achanta, Shankar V},
+  booktitle = {2016 69th Annual Conference for Protective Relay Engineers (CPRE)},
+  organization = {IEEE},
+}
+
+@inproceedings{hamdan2022using,
+  title = {Using Real-Time Kinematics Algorithm in Mission Critical Communication for Accurate Positioning and Time Correction over 5G and Beyond Networks},
+  author = {Hamdan, Mutasem Q and Foh, Chuan Heng and Quddus, Atta Ul and Hancock, Stephen and Holland, Oliver and Woodling, Richard},
+  booktitle = {2022 IEEE 95th Vehicular Technology Conference:(VTC2022-Spring)},
+  organization = {IEEE},
+}
+
+@inproceedings{paventhan2022latency,
+  title = {Latency-Aware Tactile Cyber-Physical Systems for Mission-Critical Applications},
+  author = {Paventhan, A and others},
+  booktitle = {2022 IEEE International Conference on Electronics, Computing and Communication Technologies (CONECCT)},
+  organization = {IEEE},
+}
+
+@article{ehie2020understanding,
+  title = {Understanding the influence of IT/OT Convergence on the adoption of Internet of Things (IoT) in manufacturing organizations: An empirical investigation},
+  author = {Ehie, Ike C and Chilton, Michael A},
+  journal = {Computers in Industry},
+  publisher = {Elsevier},
+}
+
+@article{ahmad2021using,
+  title = {Using the internet of things in smart energy systems and networks},
+  author = {Ahmad, Tanveer and Zhang, Dongdong},
+  journal = {Sustainable Cities and Society},
+  publisher = {Elsevier},
+}
+
+@article{martinez2020use,
+  title = {On the use of an IoT integrated system for water quality monitoring and management in wastewater treatment plants},
+  author = {Mart{\'\i},
+  journal = {Water},
+  publisher = {MDPI},
+}
+
+@inproceedings{kodali2015implementation,
+  title = {An implementation of IoT for healthcare},
+  author = {Kodali, Ravi Kishore and Swamy, Govinda and Lakshmi, Boppana},
+  booktitle = {2015 IEEE Recent Advances in Intelligent Computational Systems (RAICS)},
+  organization = {IEEE},
+}
+
+@incollection{sahoo2023integration,
+  title = {Integration of Information Technology and Operation Technology in Agriculture Toward Sustainable and Competitive Farming},
+  author = {Sahoo, Jitranjan and Dash, Manoranjan and Shadangi, Preeti Y},
+  booktitle = {Advancement of GI-Science and Sustainable Agriculture: A Multi-dimensional Approach},
+  publisher = {Springer},
+}
+
+@inproceedings{goebel2018application,
+  title = {An Application-Specific Memory Management Unit for FPGA-SoCs},
+  author = {Goebel, Matthias and Behnke, Ilja and Elhossini, Ahmed and Juurlink, Ben},
+  booktitle = {International Parallel and Distributed Processing Symposium Workshops (IPDPSW)},
+  publisher = {IEEE},
+  doi = {10.1109/IPDPSW.2018.00043},
+}
+
+@inproceedings{behnke2019hector,
+  title = {H{\'e},
+  author = {Behnke, Ilja and Thamsen, Lauritz and Kao, Odej},
+  booktitle = {Proceedings of the 12th International Conference on Utility and Cloud Computing},
+  publisher = {ACM},
+  doi = {10.1145/3368235.3368832},
+}
+
+@inproceedings{lorenz2020fingerprinting,
+  title = {Fingerprinting analog IoT sensors for secret-free authentication},
+  author = {Lorenz, Felix and Thamsen, Lauritz and Wilke, Andreas and Behnke, Ilja and Waldm{\"u},
+  booktitle = {29th International Conference on Computer Communications and Networks (ICCCN)},
+  publisher = {IEEE},
+  doi = {10.1109/ICCCN49398.2020.9209643},
+}
+
+@inproceedings{beilharz2021towards,
+  title = {Towards a Staging Environment for the Internet of Things},
+  author = {Beilharz, Jossekin and Wiesner, Philipp and Boockmeyer, Arne and Brokhausen, Florian and Behnke, Ilja and Schmid, Robert and Pirl, Lukas and Thamsen, Lauritz},
+  booktitle = {International Conference on Pervasive Computing and Communications Workshops},
+  publisher = {Springer},
+  doi = {10.1109/PerComWorkshops51409.2021.9431087},
+}
+
+@inproceedings{lorenz2020scalable,
+  title = {A scalable and dependable data analytics platform for water infrastructure monitoring},
+  author = {Lorenz, Felix and Geldenhuys, Morgan and Sommer, Harald and Jakobs, Frauke and L{\"u},
+  booktitle = {International Conference on Big Data (Big Data)},
+  publisher = {IEEE},
+  doi = {10.1109/BigData50022.2020.9378138},
+}
+
+@inproceedings{behnke2020interrupting,
+  title = {Interrupting Real-Time IoT Tasks: How Bad Can It Be to Connect Your Critical Embedded System to the Internet?},
+  author = {Behnke, Ilja and Pirl, Lukas and Thamsen, Lauritz and Danicki, Robert and Polze, Andreas and Kao, Odej},
+  booktitle = {39th International Performance Computing and Communications Conference (IPCCC)},
+  publisher = {IEEE},
+  doi = {10.1109/IPCCC50635.2020.9391536},
+}
+
+@inproceedings{bender2021pieres,
+  title = {PIERES: A Playground for Network Interrupt Experiments on Real-Time Embedded Systems in the IoT},
+  author = {Bender, Franz and Brune, Jan Jonas and Keutel, Nick Lauritz and Behnke, Ilja and Thamsen, Lauritz},
+  booktitle = {International Conference on Performance Engineering Companion},
+  series = {LTB '21},
+  organization = {ACM/SPEC},
+}
+
+@inproceedings{wiesner2021let,
+  title = {Let's wait awhile: how temporal workload shifting can reduce carbon emissions in the cloud},
+  author = {Wiesner, Philipp and Behnke, Ilja and Scheinert, Dominik and Gontarska, Kordian and Thamsen, Lauritz},
+  booktitle = {Proceedings of the 22nd International Middleware Conference},
+  publisher = {ACM},
+  doi = {10.1145/3464298.3493399},
+}
+
+@inproceedings{beilharz2021continuously,
+  title = {Continuously Testing Distributed IoT Systems: An Overview of the State of the Art},
+  author = {Beilharz, Jossekin and Wiesner, Philipp and Boockmeyer, Arne and Pirl, Lukas and Friedenberger, Dirk and Brokhausen, Florian and Behnke, Ilja and Polze, Andreas and Thamsen, Lauritz},
+  booktitle = {19th International Conference on Service-Oriented Computing (ICSOC)},
+  publisher = {Springer},
+  doi = {10.1007/978-3-031-14135-5_30},
+}
+
+@inproceedings{toll2022iotreeplay,
+  title = {IoTreeplay: Synchronous Distributed Traffic Replay in IoT Environments},
+  author = {Toll, Markus and Behnke, Ilja and Kao, Odej},
+  booktitle = {International Conference on Cloud Engineering (IC2E)},
+  doi = {10.1109/IC2E55432.2022.00008},
+  organization = {IEEE},
+}
+
+@article{behnke2023towards,
+  title = {Towards a real-time IoT: Approaches for incoming packet processing in cyber-physical systems},
+  author = {Behnke, Ilja and Blumschein, Christoph and Danicki, Robert and Wiesner, Philipp and Thamsen, Lauritz and Kao, Odej},
+  journal = {Journal of Systems Architecture},
+  publisher = {Elsevier},
+  doi = {10.1016/j.sysarc.2023.102891},
+}
+
+@inproceedings{behnke2023offloading,
+  title = {Offloading Real-Time Tasks in IIoT Environments under Consideration of Networking Uncertainties},
+  author = {Behnke, Ilja and Wiesner, Philipp and Voelker, Paul and Kao, Odej},
+  booktitle = {2nd International Workshop on Middleware for the Edge (MiddleWEdge) at Middleware '23},
+  publisher = {ACM},
+  doi = {10.1145/3630180.3631202},
+}
+
+@article{behnke2023realtime,
+  title = {Real-Time Performance of Industrial IoT Communication Technologies: A Review},
+  author = {Behnke, Ilja and Austad, Henrik},
+  journal = {IEEE Internet of Things Journal},
+  doi = {10.1109/JIOT.2023.3332507},
+}

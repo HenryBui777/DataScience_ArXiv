@@ -1,0 +1,16 @@
+{
+  "title": "Whats in a Video: Factorized Autoregressive Decoding for Online Dense Video Captioning",
+  "authors": [
+    "AJ Piergiovanni",
+    "Dahun Kim",
+    "Michael S. Ryoo",
+    "Isaac Noble",
+    "Anelia Angelova"
+  ],
+  "summary": "Generating automatic dense captions for videos that accurately describe their contents remains a challenging area of research. Most current models require processing the entire video at once. Instead, we propose an efficient, online approach which outputs frequent, detailed and temporally aligned captions, without access to future frames. Our model uses a novel autoregressive factorized decoding architecture, which models the sequence of visual features for each time segment, outputting localized descriptions and efficiently leverages the context from the previous video segments. This allows the model to output frequent, detailed captions to more comprehensively describe the video, according to its actual local content, rather than mimic the training data. Second, we propose an optimization for efficient training and inference, which enables scaling to longer videos. Our approach shows excellent performance compared to both offline and online methods, and uses 20\\% less compute. The annotations produced are much more comprehensive and frequent, and can further be utilized in automatic video tagging and in large-scale video data harvesting.",
+  "submission_date": "2024-11-22",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.CL, cs.LG"
+}

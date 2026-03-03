@@ -1,0 +1,21 @@
+{
+  "title": "Self-supervised learning for radio-astronomy source classification: a benchmark",
+  "authors": [
+    "Thomas Cecconello",
+    "Simone Riggi",
+    "Ugo Becciani",
+    "Fabio Vitello",
+    "Andrew M. Hopkins",
+    "Giuseppe Vizzari",
+    "Concetto Spampinato",
+    "Simone Palazzo"
+  ],
+  "summary": "The upcoming Square Kilometer Array (SKA) telescope marks a significant step forward in radio astronomy, presenting new opportunities and challenges for data analysis. Traditional visual models pretrained on optical photography images may not perform optimally on radio interferometry images, which have distinct visual characteristics.\n  Self-Supervised Learning (SSL) offers a promising approach to address this issue, leveraging the abundant unlabeled data in radio astronomy to train neural networks that learn useful representations from radio images. This study explores the application of SSL to radio astronomy, comparing the performance of SSL-trained models with that of traditional models pretrained on natural images, evaluating the importance of data curation for SSL, and assessing the potential benefits of self-supervision to different domain-specific radio astronomy datasets.\n  Our results indicate that, SSL-trained models achieve significant improvements over the baseline in several downstream tasks, especially in the linear evaluation setting; when the entire backbone is fine-tuned, the benefits of SSL are less evident but still outperform pretraining. These findings suggest that SSL can play a valuable role in efficiently enhancing the analysis of radio astronomical data. The trained models and code is available at: \\url{https://github.com/dr4thmos/solo-learn-radio}",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2024-11-22"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "astro-ph.IM, cs.CV"
+}

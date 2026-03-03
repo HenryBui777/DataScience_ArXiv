@@ -1,0 +1,15 @@
+{
+  "title": "Dyson Brownian motion and random matrix dynamics of weight matrices during learning",
+  "authors": [
+    "Gert Aarts",
+    "Ouraman Hajizadeh",
+    "Biagio Lucini",
+    "Chanju Park"
+  ],
+  "summary": "During training, weight matrices in machine learning architectures are updated using stochastic gradient descent or variations thereof. In this contribution we employ concepts of random matrix theory to analyse the resulting stochastic matrix dynamics. We first demonstrate that the dynamics can generically be described using Dyson Brownian motion, leading to e.g. eigenvalue repulsion. The level of stochasticity is shown to depend on the ratio of the learning rate and the mini-batch size, explaining the empirically observed linear scaling rule. We verify this linear scaling in the restricted Boltzmann machine. Subsequently we study weight matrix dynamics in transformers (a nano-GPT), following the evolution from a Marchenko-Pastur distribution for eigenvalues at initialisation to a combination with additional structure at the end of learning.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cond-mat.dis-nn, cs.LG, hep-lat"
+}

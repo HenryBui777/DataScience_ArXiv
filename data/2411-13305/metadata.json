@@ -1,0 +1,19 @@
+{
+  "title": "Mutual Information-oriented ISAC Beamforming Design for Large Dimensional Antenna Array",
+  "authors": [
+    "Shanfeng Xu",
+    "Yanshuo Cheng",
+    "Siqiang Wang",
+    "Xinyi Wang",
+    "Zhong Zheng",
+    "Zesong Fei"
+  ],
+  "summary": "Existing integrated sensing and communication (ISAC) beamforming design were mostly designed under perfect instantaneous channel state information (CSI), limiting their use in practical dynamic environments. In this paper, we study the beamforming design for multiple-input multiple-output (MIMO) ISAC systems based on statistical CSI, with the weighted mutual information (MI) comprising sensing and communication perspectives adopted as the performance metric. In particular, the operator-valued free probability theory is utilized to derive the closed-form expression for the weighted MI under statistical CSI. Subsequently, an efficient projected gradient ascent (PGA) algorithm is proposed to optimize the transmit beamforming matrix with the aim of maximizing the weighted MI.Numerical results validate that the derived closed-form expression matches well with the Monte Carlo simulation results and the proposed optimization algorithm is able to improve the weighted MI significantly. We also illustrate the trade-off between sensing and communication MI.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [
+    "2025-06-17"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "eess.SP"
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Testability of Instrumental Variables in Additive Nonlinear, Non-Constant Effects Models",
+  "authors": [
+    "Xichen Guo",
+    "Zheng Li",
+    "Biwei Huang",
+    "Yan Zeng",
+    "Zhi Geng",
+    "Feng Xie"
+  ],
+  "summary": "We address the issue of the testability of instrumental variables derived from observational data. Most existing testable implications are centered on scenarios where the treatment is a discrete variable, e.g., instrumental inequality (Pearl, 1995), or where the effect is assumed to be constant, e.g., instrumental variables condition based on the principle of independent mechanisms (Burauel, 2023). However, treatments can often be continuous variables, such as drug dosages or nutritional content levels, and non-constant effects may occur in many real-world scenarios. In this paper, we consider an additive nonlinear, non-constant effects model with unmeasured confounders, in which treatments can be either discrete or continuous, and propose an Auxiliary-based Independence Test (AIT) condition to test whether a variable is a valid instrument. We first show that if the candidate instrument is valid, then the AIT condition holds. Moreover, we illustrate the implications of the AIT condition and demonstrate that, in certain conditions, AIT conditions are necessary and sufficient to detect all invalid IVs. We also extend the AIT condition to include covariates and introduce a practical testing algorithm. Experimental results on both synthetic and three different real-world datasets show the effectiveness of our proposed condition.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME, cs.AI, cs.LG"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Integrating Physics and Topology in Neural Networks for Learning Rigid Body Dynamics",
+  "authors": [
+    "Amaury Wei",
+    "Olga Fink"
+  ],
+  "summary": "Rigid body interactions are fundamental to numerous scientific disciplines, but remain challenging to simulate due to their abrupt nonlinear nature and sensitivity to complex, often unknown environmental factors. These challenges call for adaptable learning-based methods capable of capturing complex interactions beyond explicit physical models and simulations. While graph neural networks can handle simple scenarios, they struggle with complex scenes and long-term predictions. We introduce a novel framework for modeling rigid body dynamics and learning collision interactions, addressing key limitations of existing graph-based methods. Our approach extends the traditional representation of meshes by incorporating higher-order topology complexes, offering a physically consistent representation. Additionally, we propose a physics-informed message-passing neural architecture, embedding physical laws directly in the model. Our method demonstrates superior accuracy, even during long rollouts, and exhibits strong generalization to unseen scenarios. Importantly, this work addresses the challenge of multi-entity dynamic interactions, with applications spanning diverse scientific and engineering domains.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2025-04-17",
+    "2025-07-25"
+  ],
+  "publication_venue": "Nature Communications 16, Article number: 6867 (2025)",
+  "pdf_url": null,
+  "category": "cs.LG"
+}

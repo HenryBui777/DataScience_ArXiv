@@ -1,0 +1,19 @@
+{
+  "title": "Contourlet Refinement Gate Framework for Thermal Spectrum Distribution Regularized Infrared Image Super-Resolution",
+  "authors": [
+    "Yang Zou",
+    "Zhixin Chen",
+    "Zhipeng Zhang",
+    "Xingyuan Li",
+    "Long Ma",
+    "Jinyuan Liu",
+    "Peng Wang",
+    "Yanning Zhang"
+  ],
+  "summary": "Image super-resolution (SR) is a classical yet still active low-level vision problem that aims to reconstruct high-resolution (HR) images from their low-resolution (LR) counterparts, serving as a key technique for image enhancement. Current approaches to address SR tasks, such as transformer-based and diffusion-based methods, are either dedicated to extracting RGB image features or assuming similar degradation patterns, neglecting the inherent modal disparities between infrared and visible images. When directly applied to infrared image SR tasks, these methods inevitably distort the infrared spectral distribution, compromising the machine perception in downstream tasks. In this work, we emphasize the infrared spectral distribution fidelity and propose a Contourlet refinement gate framework to restore infrared modal-specific features while preserving spectral distribution fidelity. Our approach captures high-pass subbands from multi-scale and multi-directional infrared spectral decomposition to recover infrared-degraded information through a gate architecture. The proposed Spectral Fidelity Loss regularizes the spectral frequency distribution during reconstruction, which ensures the preservation of both high- and low-frequency components and maintains the fidelity of infrared-specific features. We propose a two-stage prompt-learning optimization to guide the model in learning infrared HR characteristics from LR degradation. Extensive experiments demonstrate that our approach outperforms existing image SR models in both visual and perceptual tasks while notably enhancing machine perception in downstream tasks. Our code is available at https://github.com/hey-it-s-me/CoRPLE.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV"
+}

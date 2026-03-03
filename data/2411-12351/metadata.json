@@ -1,0 +1,18 @@
+{
+  "title": "Multipacking in Euclidean Metric Space",
+  "authors": [
+    "Arun Kumar Das",
+    "Sandip Das",
+    "Sk Samim Islam",
+    "Ritam M Mitra",
+    "Bodhayan Roy"
+  ],
+  "summary": "Here we study the multipacking problems for geometric point sets with respect to their Euclidean distances. We consider a set of $n$ points $P$ and define $N_s[v]$ as the subset of $P$ that includes the $s$ nearest points of $v \\in P$ and the point $v$ itself. We assume that the \\emph{$s$-th neighbor} of each point is unique, for every $s \\in \\{0, 1, 2, \\dots , n-1\\}$. For a natural number $r \\leq n-1$, an $r$-multipacking is a set $ M \\subseteq P $ such that for each point $ v \\in P $ and for every integer $ 1\\leq s \\leq r $, $|N_s[v]\\cap M|\\leq (s+1)/2$. The $r$-multipacking number of $ P $ is the maximum cardinality of an $r$-multipacking of $ P $ and is denoted by $ \\MP_{r}(P) $. For $r=n-1$, an $r$-multipacking is called a multipacking and $r$-multipacking number is called as multipacking number. For $r=1 \\text{ and } 2$, we study the problem of computing a maximum $r$-multipacking of the point sets in $\\mathbb{R}^2$. We show that a maximum $1$-multipacking can be computed in polynomial time but computing a maximum $2$-multipacking is \\textsc{NP-hard}. Further, we provide approximation and parameterized solutions to the $2$-multipacking problem.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-07-15"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CG, math.CO"
+}

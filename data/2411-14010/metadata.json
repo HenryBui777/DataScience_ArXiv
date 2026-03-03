@@ -1,0 +1,14 @@
+{
+  "title": "Spectral domain likelihoods for Bayesian inference in time-varying parameter models",
+  "authors": [
+    "Oskar Gustafsson",
+    "Mattias Villani",
+    "Robert Kohn"
+  ],
+  "summary": "Inference for locally stationary processes is often based on some local Whittle-type approximation of the likelihood function defined in the frequency domain. The main reasons for using such a likelihood approximation is that i) it has substantially lower computational cost and better scalability to long time series compared to the time domain likelihood, particularly when used for Bayesian inference via Markov Chain Monte Carlo (MCMC), ii) convenience when the model itself is specified in the frequency domain, and iii) it provides access to bootstrap and subsampling MCMC which exploits the asymptotic independence of Fourier transformed data. Most of the existing literature compares the asymptotic performance of the maximum likelihood estimator (MLE) from such frequency domain likelihood approximation with the exact time domain MLE. Our article uses three simulation studies to assess the finite-sample accuracy of several frequency domain likelihood functions when used to approximate the posterior distribution in time-varying parameter models. The methods are illustrated on an application to egg price data.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "stat.ME"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Heuristic-Free Multi-Teacher Learning",
+  "authors": [
+    "Huy Thong Nguyen",
+    "En-Hung Chu",
+    "Lenord Melvix",
+    "Jazon Jiao",
+    "Chunglin Wen",
+    "Benjamin Louie"
+  ],
+  "summary": "We introduce Teacher2Task, a novel framework for multi-teacher learning that eliminates the need for manual aggregation heuristics. Existing multi-teacher methods typically rely on such heuristics to combine predictions from multiple teachers, often resulting in sub-optimal aggregated labels and the propagation of aggregation errors. Teacher2Task addresses these limitations by introducing teacher-specific input tokens and reformulating the training process. Instead of relying on aggregated labels, the framework transforms the training data, consisting of ground truth labels and annotations from N teachers, into N+1 distinct tasks: N auxiliary tasks that predict the labeling styles of the N individual teachers, and one primary task that focuses on the ground truth labels. This approach, drawing upon principles from multiple learning paradigms, demonstrates strong empirical results across a range of architectures, modalities, and tasks.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-01-24"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI, cs.CV"
+}

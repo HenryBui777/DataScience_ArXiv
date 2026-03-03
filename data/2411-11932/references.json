@@ -1,0 +1,499 @@
+{
+  "2407-10671": {
+    "title": "Qwen2 Technical Report",
+    "authors": [
+      "An Yang",
+      "Baosong Yang",
+      "Binyuan Hui",
+      "Bo Zheng",
+      "Bowen Yu",
+      "Chang Zhou",
+      "Chengpeng Li",
+      "Chengyuan Li",
+      "Dayiheng Liu",
+      "Fei Huang",
+      "Guanting Dong",
+      "Haoran Wei",
+      "Huan Lin",
+      "Jialong Tang",
+      "Jialin Wang",
+      "Jian Yang",
+      "Jianhong Tu",
+      "Jianwei Zhang",
+      "Jianxin Ma",
+      "Jin Xu",
+      "Jingren Zhou",
+      "Jinze Bai",
+      "Jinzheng He",
+      "Junyang Lin",
+      "Kai Dang",
+      "Keming Lu",
+      "Ke-Yang Chen",
+      "Kexin Yang",
+      "Mei Li",
+      "Min Xue",
+      "Na Ni",
+      "Pei Zhang",
+      "Peng Wang",
+      "Ru Peng",
+      "Rui Men",
+      "Ruize Gao",
+      "Runji Lin",
+      "Shijie Wang",
+      "Shuai Bai",
+      "Sinan Tan",
+      "Tianhang Zhu",
+      "Tianhao Li",
+      "Tianyu Liu",
+      "Wenbin Ge",
+      "Xiaodong Deng",
+      "Xiaohuan Zhou",
+      "Xingzhang Ren",
+      "Xinyu Zhang",
+      "Xipin Wei",
+      "Xuancheng Ren",
+      "Yang Fan",
+      "Yang Yao",
+      "Yichang Zhang",
+      "Yunyang Wan",
+      "Yunfei Chu",
+      "Zeyu Cui",
+      "Zhenru Zhang",
+      "Zhi-Wei Fan"
+    ],
+    "publication_date": "2024-07-15",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "54fb839f621e3fe787437ab8ca5f37e7e4726bfe",
+    "corpus_id": 271212307,
+    "category": "Computer Science"
+  },
+  "2406-14828": {
+    "title": "Word Matters: What Influences Domain Adaptation in Summarization?",
+    "authors": [
+      "Yinghao Li",
+      "Siyu Miao",
+      "Heyan Huang",
+      "Yang Gao"
+    ],
+    "publication_date": "2024-06-21",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "cf19f20b8e1427b15b7a9e76b63bbac2ed340a93",
+    "corpus_id": 270688452,
+    "category": "Computer Science"
+  },
+  "2406-06391": {
+    "title": "Towards Lifelong Learning of Large Language Models: A Survey",
+    "authors": [
+      "Junhao Zheng",
+      "Shengjie Qiu",
+      "Chengming Shi",
+      "Qianli Ma"
+    ],
+    "publication_date": "2024-06-10",
+    "venue": "ACM Computing Surveys",
+    "semantic_scholar_id": "dcd0a2e67235add9e520e43c1d1fb4a89d76f98d",
+    "corpus_id": 270371124,
+    "category": "Computer Science"
+  },
+  "2403-11435": {
+    "title": "InsCL: A Data-efficient Continual Learning Paradigm for Fine-tuning Large Language Models with Instructions",
+    "authors": [
+      "Yifan Wang",
+      "Yafei Liu",
+      "Chufan Shi",
+      "Haoling Li",
+      "Chen Chen",
+      "H. Lu",
+      "Yujiu Yang"
+    ],
+    "publication_date": "2024-03-18",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "76b65c248677314865a110424542c220886dbb67",
+    "corpus_id": 268513020,
+    "category": "Computer Science"
+  },
+  "2403-01244": {
+    "title": "Mitigating Catastrophic Forgetting in Large Language Models with Self-Synthesized Rehearsal",
+    "authors": [
+      "Jianheng Huang",
+      "Leyang Cui",
+      "Ante Wang",
+      "Chengyi Yang",
+      "Xinting Liao",
+      "Linfeng Song",
+      "Junfeng Yao",
+      "Jinsong Su"
+    ],
+    "publication_date": "2024-03-02",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "015f62d7a59f7a4301c0cdbe997460c38148d07b",
+    "corpus_id": 268230393,
+    "category": "Computer Science"
+  },
+  "2402-18344": {
+    "title": "Focus on Your Question! Interpreting and Mitigating Toxic CoT Problems in Commonsense Reasoning",
+    "authors": [
+      "Jiachun Li",
+      "Pengfei Cao",
+      "Chenhao Wang",
+      "Zhuoran Jin",
+      "Yubo Chen",
+      "Daojian Zeng",
+      "Kang Liu",
+      "Jun Zhao"
+    ],
+    "publication_date": "2024-02-28",
+    "venue": "Annual Meeting of the Association for Computational Linguistics",
+    "semantic_scholar_id": "879b54d587afd74a18378ef44bef0170d07ab526",
+    "corpus_id": 268041342,
+    "category": "Computer Science"
+  },
+  "2402-16767": {
+    "title": "CorpusBrain++: A Continual Generative Pre-Training Framework for Knowledge-Intensive Language Tasks",
+    "authors": [
+      "Jiafeng Guo",
+      "Changjiang Zhou",
+      "Ruqing Zhang",
+      "Jiangui Chen",
+      "M. de Rijke",
+      "Yixing Fan",
+      "Xueqi Cheng"
+    ],
+    "publication_date": "2024-02-26",
+    "venue": "ACM Transactions on Information Systems",
+    "semantic_scholar_id": "68225b8e23762d03c65aa8a942edbc67d45a2e33",
+    "corpus_id": 268032853,
+    "category": "Computer Science"
+  },
+  "2310-15777": {
+    "title": "MindLLM: Pre-training Lightweight Large Language Model from Scratch, Evaluations and Domain Applications",
+    "authors": [
+      "Yizhe Yang",
+      "Huashan Sun",
+      "Jiawei Li",
+      "Runheng Liu",
+      "Yinghao Li",
+      "Yuhang Liu",
+      "Heyan Huang",
+      "Yang Gao"
+    ],
+    "publication_date": "2023-10-24",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "7bca28a11b7bd50dd378dd59e97f3556b16183f3",
+    "corpus_id": 264439266,
+    "category": "Computer Science"
+  },
+  "2310-14541": {
+    "title": "Continual Named Entity Recognition without Catastrophic Forgetting",
+    "authors": [
+      "Duzhen Zhang",
+      "Wei Cong",
+      "Jiahua Dong",
+      "Yahan Yu",
+      "Xiuyi Chen",
+      "Yonggang Zhang",
+      "Zhen Fang"
+    ],
+    "publication_date": "2023-10-23",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "c1a2a16a5ba8b082677e9e4de7d6c113cd0f3d2c",
+    "corpus_id": 264425964,
+    "category": "Computer Science"
+  },
+  "2310-14510": {
+    "title": "CITB: A Benchmark for Continual Instruction Tuning",
+    "authors": [
+      "Zihan Zhang",
+      "Meng Fang",
+      "Ling Chen",
+      "Mohammad-Reza Namazi-Rad"
+    ],
+    "publication_date": "2023-10-23",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "75a85d74433d03a78a07bb95f6f261323a79eb80",
+    "corpus_id": 264426357,
+    "category": "Computer Science"
+  },
+  "2310-14152": {
+    "title": "Orthogonal Subspace Learning for Language Model Continual Learning",
+    "authors": [
+      "Xiao Wang",
+      "Tianze Chen",
+      "Qiming Ge",
+      "Han Xia",
+      "Rong Bao",
+      "Rui Zheng",
+      "Qi Zhang",
+      "Tao Gui",
+      "Xuanjing Huang"
+    ],
+    "publication_date": "2023-10-22",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "28fde851680a40fbbc5c6a44bd3ac6f5ca4ad284",
+    "corpus_id": 264426441,
+    "category": "Computer Science"
+  },
+  "2310-00492": {
+    "title": "From Language Modeling to Instruction Following: Understanding the Behavior Shift in LLMs after Instruction Tuning",
+    "authors": [
+      "Xuansheng Wu",
+      "Wenlin Yao",
+      "Jianshu Chen",
+      "Xiaoman Pan",
+      "Xiaoyang Wang",
+      "Ninghao Liu",
+      "Dong Yu"
+    ],
+    "publication_date": "2023-09-30",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "04b880e1e32f37b3796d41a47d013fa07095ae32",
+    "corpus_id": 263334329,
+    "category": "Computer Science"
+  },
+  "2309-10105": {
+    "title": "Understanding Catastrophic Forgetting in Language Models via Implicit Inference",
+    "authors": [
+      "Suhas Kotha",
+      "Jacob Mitchell Springer",
+      "Aditi Raghunathan"
+    ],
+    "publication_date": "2023-09-18",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "6988596f88276920a4e555cbe624e1431bc8a9f7",
+    "corpus_id": 262054014,
+    "category": "Computer Science"
+  },
+  "2307-15043": {
+    "title": "Universal and Transferable Adversarial Attacks on Aligned Language Models",
+    "authors": [
+      "Andy Zou",
+      "Zifan Wang",
+      "J. Z. Kolter",
+      "Matt Fredrikson"
+    ],
+    "publication_date": "2023-07-27",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "47030369e97cc44d4b2e3cf1be85da0fd134904a",
+    "corpus_id": 260202961,
+    "category": "Computer Science"
+  },
+  "2307-09288": {
+    "title": "Llama 2: Open Foundation and Fine-Tuned Chat Models",
+    "authors": [
+      "Hugo Touvron",
+      "Louis Martin",
+      "Kevin R. Stone",
+      "Peter Albert",
+      "Amjad Almahairi",
+      "Yasmine Babaei",
+      "Niko-lay Bashlykov",
+      "Soumya Batra",
+      "Prajjwal Bhargava",
+      "Shruti Bhosale",
+      "D. Bikel",
+      "Lukas Blecher",
+      "Cris-tian Cantón Ferrer",
+      "Moya Chen",
+      "Guillem Cucurull",
+      "David Esiobu",
+      "Jude Fernandes",
+      "J. Fu",
+      "Wenyin Fu",
+      "Brian Fuller",
+      "Cynthia Gao",
+      "Vedanuj Goswami",
+      "Naman Goyal",
+      "A. Hartshorn",
+      "Saghar Hosseini",
+      "Rui Hou",
+      "Hakan Inan",
+      "Marcin Kardas",
+      "Viktor Kerkez",
+      "Madian Khabsa",
+      "Isabel M. Kloumann",
+      "A. Korenev",
+      "Punit Singh Koura",
+      "M. Lachaux",
+      "Thibaut Lavril",
+      "Jenya Lee",
+      "Diana Liskovich",
+      "Yinghai Lu",
+      "Yuning Mao",
+      "Xavier Martinet",
+      "Todor Mihaylov",
+      "Pushkar Mishra",
+      "Igor Molybog",
+      "Yixin Nie",
+      "Andrew Poulton",
+      "J. Reizenstein",
+      "Rashi Rungta",
+      "Kalyan Saladi",
+      "A. Schelten",
+      "Ruan Silva",
+      "Eric Michael Smith",
+      "R. Subramanian",
+      "Xia Tan",
+      "Binh Tang",
+      "Ross Taylor",
+      "Adina Williams",
+      "Jian Xiang Kuan",
+      "Puxin Xu",
+      "Zhengxu Yan",
+      "Iliyan Zarov",
+      "Yuchen Zhang",
+      "Angela Fan",
+      "M. Kambadur",
+      "Sharan Narang",
+      "Aur'elien Rodriguez",
+      "Robert Stojnic",
+      "Sergey Edunov",
+      "Thomas Scialom"
+    ],
+    "publication_date": "2023-07-18",
+    "venue": "arXiv.org",
+    "semantic_scholar_id": "104b0bb1da562d53cbda87aec79ef6a2827d191a",
+    "corpus_id": 259950998,
+    "category": "Computer Science"
+  },
+  "2306-04751": {
+    "title": "How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources",
+    "authors": [
+      "Yizhong Wang",
+      "Hamish Ivison",
+      "Pradeep Dasigi",
+      "Jack Hessel",
+      "Tushar Khot",
+      "Khyathi Raghavi Chandu",
+      "David Wadden",
+      "Kelsey MacMillan",
+      "Noah A. Smith",
+      "Iz Beltagy",
+      "Hannaneh Hajishirzi"
+    ],
+    "publication_date": "2023-06-07",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "fbd2c8089870814449f9254a711041bbae145a82",
+    "corpus_id": 259108263,
+    "category": "Computer Science"
+  },
+  "2305-14160": {
+    "title": "Label Words are Anchors: An Information Flow Perspective for Understanding In-Context Learning",
+    "authors": [
+      "Lean Wang",
+      "Lei Li",
+      "Damai Dai",
+      "Deli Chen",
+      "Hao Zhou",
+      "Fandong Meng",
+      "Jie Zhou",
+      "Xu Sun"
+    ],
+    "publication_date": "2023-05-23",
+    "venue": "Conference on Empirical Methods in Natural Language Processing",
+    "semantic_scholar_id": "7bd4ca8706a79983d31ab74e6c79bfdfd949602e",
+    "corpus_id": 258841117,
+    "category": "Computer Science"
+  },
+  "2301-12314": {
+    "title": "Progressive Prompts: Continual Learning for Language Models",
+    "authors": [
+      "Anastasia Razdaibiedina",
+      "Yuning Mao",
+      "Rui Hou",
+      "Madian Khabsa",
+      "M. Lewis",
+      "Amjad Almahairi"
+    ],
+    "publication_date": "2023-01-29",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "86478f285356b5c8d27423e6b939634d9e010fba",
+    "corpus_id": 256390383,
+    "category": "Computer Science"
+  },
+  "2110-07298": {
+    "title": "LFPT5: A Unified Framework for Lifelong Few-shot Language Learning Based on Prompt Tuning of T5",
+    "authors": [
+      "Chengwei Qin",
+      "Shafiq R. Joty"
+    ],
+    "publication_date": "2021-10-14",
+    "venue": "International Conference on Learning Representations",
+    "semantic_scholar_id": "fa133b4200729a57db96ae50aff8c4a5ff819f43",
+    "corpus_id": 238856821,
+    "category": "Computer Science"
+  },
+  "2104-05489": {
+    "title": "Continual Learning for Text Classification with Information Disentanglement Based Regularization",
+    "authors": [
+      "Yufan Huang",
+      "Yanzhe Zhang",
+      "Jiaao Chen",
+      "Xuezhi Wang",
+      "Diyi Yang"
+    ],
+    "publication_date": "2021-04-12",
+    "venue": "North American Chapter of the Association for Computational Linguistics",
+    "semantic_scholar_id": "677a7a940dcff639bd066f25b395a361a08a60f9",
+    "corpus_id": 233210110,
+    "category": "Computer Science"
+  },
+  "2011-00678": {
+    "title": "Investigating Catastrophic Forgetting During Continual Training for Neural Machine Translation",
+    "authors": [
+      "Shuhao Gu",
+      "Yang Feng"
+    ],
+    "publication_date": "2020-11-02",
+    "venue": "International Conference on Computational Linguistics",
+    "semantic_scholar_id": "855604bdf8799dc0c2584bf6010447073ac8c070",
+    "corpus_id": 226227476,
+    "category": "Computer Science"
+  },
+  "1905-00537": {
+    "title": "SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems",
+    "authors": [
+      "Alex Wang",
+      "Yada Pruksachatkun",
+      "Nikita Nangia",
+      "Amanpreet Singh",
+      "Julian Michael",
+      "Felix Hill",
+      "Omer Levy",
+      "Samuel R. Bowman"
+    ],
+    "publication_date": "2019-05-02",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "d9f6ada77448664b71128bb19df15765336974a6",
+    "corpus_id": 143424870,
+    "category": "Computer Science"
+  },
+  "1804-07461": {
+    "title": "GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding",
+    "authors": [
+      "Alex Wang",
+      "Amanpreet Singh",
+      "Julian Michael",
+      "Felix Hill",
+      "Omer Levy",
+      "Samuel R. Bowman"
+    ],
+    "publication_date": "2018-04-20",
+    "venue": "BlackboxNLP@EMNLP",
+    "semantic_scholar_id": "451d4a16e425ecbf38c4b1cca0dcf5d9bec8255c",
+    "corpus_id": 5034059,
+    "category": "Computer Science"
+  },
+  "1509-01626": {
+    "title": "Character-level Convolutional Networks for Text Classification",
+    "authors": [
+      "Xiang Zhang",
+      "J. Zhao",
+      "Yann LeCun"
+    ],
+    "publication_date": "2015-09-04",
+    "venue": "Neural Information Processing Systems",
+    "semantic_scholar_id": "51a55df1f023571a7e07e338ee45a3e3d66ef73e",
+    "corpus_id": 368182,
+    "category": "Computer Science, Mathematics"
+  }
+}

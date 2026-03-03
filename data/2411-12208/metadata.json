@@ -1,0 +1,15 @@
+{
+  "title": "Extremal Maximal Entanglement",
+  "authors": [
+    "Wanchen Zhang",
+    "Yu Ning",
+    "Fei Shi",
+    "Xiande Zhang"
+  ],
+  "summary": "A pure multipartite quantum state is called absolutely maximally entangled if all reductions of no more than half of the parties are maximally mixed. However, an $n$-qubit absolutely maximally entangled state only exists when $n$ equals $2$, $3$, $5$, and $6$. A natural question arises when it does not exist: which $n$-qubit pure state has the largest number of maximally mixed $\\lfloor n/2 \\rfloor$-party reductions? Denote this number by $Qex(n)$. It was shown that $Qex(4)=4$ in [Higuchi et al.Phys. Lett. A (2000)] and $Qex(7)=32$ in [Huber et al.Phys. Rev. Lett. (2017)]. In this paper, we give a general upper bound of $Qex(n)$ by linking the well-known Turán's problem in graph theory, and provide lower bounds by constructive and probabilistic methods. In particular, we show that $Qex(8)=56$, which is the third known value for this problem.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "quant-ph"
+}

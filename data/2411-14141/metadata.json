@@ -1,0 +1,13 @@
+{
+  "title": "Differentiable SVD based on Moore-Penrose Pseudoinverse for Inverse Imaging Problems",
+  "authors": [
+    "Yinghao Zhang",
+    "Yue Hu"
+  ],
+  "summary": "Low-rank regularization-based deep unrolling networks have achieved remarkable success in various inverse imaging problems (IIPs). However, the singular value decomposition (SVD) is non-differentiable when duplicated singular values occur, leading to severe numerical instability during training. In this paper, we propose a differentiable SVD based on the Moore-Penrose pseudoinverse to address this issue. To the best of our knowledge, this is the first work to provide a comprehensive analysis of the differentiability of the trivial SVD. Specifically, we show that the non-differentiability of SVD is essentially due to an underdetermined system of linear equations arising in the derivation process. We utilize the Moore-Penrose pseudoinverse to solve the system, thereby proposing a differentiable SVD. A numerical stability analysis in the context of IIPs is provided. Experimental results in color image compressed sensing and dynamic MRI reconstruction show that our proposed differentiable SVD can effectively address the numerical instability issue while ensuring computational precision. Code is available at https://github.com/yhao-z/SVD-inv.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.NA, cs.AI, cs.CV"
+}

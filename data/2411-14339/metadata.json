@@ -1,0 +1,17 @@
+{
+  "title": "On Dual of LMIs for Absolute Stability Analysis of Nonlinear Feedback Systems with Static O'Shea-Zames-Falb Multipliers",
+  "authors": [
+    "Hibiki Gyotoku",
+    "Tsuyoshi Yuno",
+    "Yoshio Ebihara",
+    "Victor Magron",
+    "Dimitri Peaucelle",
+    "Sophie Tarbouriech"
+  ],
+  "summary": "This study investigates the absolute stability criteria based on the framework of integral quadratic constraint (IQC) for feedback systems with slope-restricted nonlinearities. In existing works, well-known absolute stability certificates expressed in the IQC-based linear matrix inequalities (LMIs) were derived, in which the input-to-output characteristics of the slope-restricted nonlinearities were captured through static O'Shea-Zames-Falb multipliers. However, since these certificates are only sufficient conditions, they provide no clue about the absolute stability in the case where the LMIs are infeasible. In this paper, by taking advantage of the duality theory of LMIs, we derive a condition for systems to be not absolutely stable when the above-mentioned LMIs are infeasible. In particular, we can identify a destabilizing nonlinearity within the assumed class of slope-restricted nonlinearities as well as a non-zero equilibrium point of the resulting closed-loop system, by which the system is proved to be not absolutely stable. We demonstrate the soundness of our results by numerical examples.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC"
+}

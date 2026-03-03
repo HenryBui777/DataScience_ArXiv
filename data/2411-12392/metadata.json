@@ -1,0 +1,19 @@
+{
+  "title": "A buoyancy-drag model with a time-varying drag coefficient for evaluating bubble front penetration depth",
+  "authors": [
+    "Dongxue Liu",
+    "Tao Tao",
+    "Jun Li",
+    "Qing Jia",
+    "Rui Yan",
+    "Jian Zheng"
+  ],
+  "summary": "To evaluate and control bubble front penetration depth ${{h}_{B}}$ induced by ablative Rayleigh-Taylor instability (ARTI) from a weakly nonlinear phase to a self-similar phase, we first propose an improved buoyancy-drag (BD) model with a time-varying drag coefficient. The coefficient incorporates the influence of multiple physical mechanisms, including non-steady ablation, preheating, and other mechanisms during this phase. The model is validated through simulations under various conditions, demonstrating improved accuracy compared to the classical BD model and the self-similar growth. Furthermore, the model suggests controlling ${{h}_{B}}$ by suppressing the \"most dangerous mode\", which is influenced by initial perturbations and ablative acceleration history, thus offering novel insights for target manufacturing and pulse optimization near the ignition threshold.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2025-01-01"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.flu-dyn"
+}

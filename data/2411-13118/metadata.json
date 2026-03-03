@@ -1,0 +1,14 @@
+{
+  "title": "Using ChatGPT-4 for the Identification of Common UX Factors within a Pool of Measurement Items from Established UX Questionnaires",
+  "authors": [
+    "Stefan Graser",
+    "Stephan Böhm",
+    "Martin Schrepp"
+  ],
+  "summary": "Measuring User Experience (UX) with standardized questionnaires is a widely used method. A questionnaire is based on different scales that represent UX factors and items. However, the questionnaires have no common ground concerning naming different factors and the items used to measure them. This study aims to identify general UX factors based on the formulation of the measurement items. Items from a set of 40 established UX questionnaires were analyzed by Generative AI (GenAI) to identify semantically similar items and to cluster similar topics. We used the LLM ChatGPT-4 for this analysis. Results show that ChatGPT-4 can classify items into meaningful topics and thus help to create a deeper understanding of the structure of the UX research field. In addition, we show that ChatGPT-4 can filter items related to a predefined UX concept out of a pool of UX items.",
+  "submission_date": "2024-11-20",
+  "revised_dates": [],
+  "publication_venue": "Proceedings of the Sixteenth International Conference on Advances in Human-oriented and Personalized Mechanisms, Technologies, and Services CENTRIC 2023, Valencia, pp 19 - 28, ISSN 2308-3492",
+  "pdf_url": null,
+  "category": "cs.HC"
+}

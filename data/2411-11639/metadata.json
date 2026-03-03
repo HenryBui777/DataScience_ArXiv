@@ -1,0 +1,18 @@
+{
+  "title": "Trade-off Invariance Principle for minimizers of regularized functionals",
+  "authors": [
+    "Massimo Fornasier",
+    "Jona Klemenc",
+    "Alessandro Scagliotti"
+  ],
+  "summary": "In this paper, we consider functionals of the form $H_α(u)=F(u)+αG(u)$ with $α\\in[0,+\\infty)$, where $u$ varies in a set $U\\neq\\emptyset$ (without further structure). We first revisit a result stating that, excluding at most countably many values of $α$, we have $\\inf_{H_α^\\star}G= \\sup_{H_α^\\star}G$, where $H_α^\\star := \\arg\\min_UH_α$, which is assumed to be non-empty. Then, we prove a stronger result that concerns the invariance of the limiting value of the functional $G$ along minimizing sequences for $H_α$, which extends the above Principle to the case $H_α^\\star= \\emptyset$. Moreover, we show to what extent these findings generalize to multi-regularized functionals and -- in the presence of an underlying differentiable structure -- to critical points. Finally, the main result implies an unexpected consequence for functionals regularized with uniformly convex norms: excluding again at most countably many values of $α$, it turns out that for a minimizing sequence, convergence to a minimizer in the weak or strong sense is equivalent.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [
+    "2024-12-02",
+    "2025-01-07",
+    "2025-01-27"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "math.OC"
+}

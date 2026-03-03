@@ -1,0 +1,15 @@
+{
+  "title": "Chapter 7 Review of Data-Driven Generative AI Models for Knowledge Extraction from Scientific Literature in Healthcare",
+  "authors": [
+    "Leon Kopitar",
+    "Primoz Kocbek",
+    "Lucija Gosak",
+    "Gregor Stiglic"
+  ],
+  "summary": "This review examines the development of abstractive NLP-based text summarization approaches and compares them to existing techniques for extractive summarization. A brief history of text summarization from the 1950s to the introduction of pre-trained language models such as Bidirectional Encoder Representations from Transformer (BERT) and Generative Pre-training Transformers (GPT) are presented. In total, 60 studies were identified in PubMed and Web of Science, of which 29 were excluded and 24 were read and evaluated for eligibility, resulting in the use of seven studies for further analysis. This chapter also includes a section with examples including an example of a comparison between GPT-3 and state-of-the-art GPT-4 solutions in scientific text summarisation. Natural language processing has not yet reached its full potential in the generation of brief textual summaries. As there are acknowledged concerns that must be addressed, we can expect gradual introduction of such models in practise.",
+  "submission_date": "2024-11-18",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CL, cs.AI"
+}

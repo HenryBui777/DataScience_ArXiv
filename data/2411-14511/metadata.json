@@ -1,0 +1,17 @@
+{
+  "title": "Variational Autoencoders for Efficient Simulation-Based Inference",
+  "authors": [
+    "Mayank Nautiyal",
+    "Andrey Shternshis",
+    "Andreas Hellander",
+    "Prashant Singh"
+  ],
+  "summary": "We present a generative modeling approach based on the variational inference framework for likelihood-free simulation-based inference. The method leverages latent variables within variational autoencoders to efficiently estimate complex posterior distributions arising from stochastic simulations. We explore two variations of this approach distinguished by their treatment of the prior distribution. The first model adapts the prior based on observed data using a multivariate prior network, enhancing generalization across various posterior queries. In contrast, the second model utilizes a standard Gaussian prior, offering simplicity while still effectively capturing complex posterior distributions. We demonstrate the ability of the proposed approach to approximate complex posteriors while maintaining computational efficiency on well-established benchmark problems.",
+  "submission_date": "2024-11-21",
+  "revised_dates": [
+    "2025-10-16"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.LG, cs.AI"
+}

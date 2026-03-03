@@ -1,0 +1,17 @@
+{
+  "title": "Balancing property optimization and constraint satisfaction for constrained multi-property molecular optimization",
+  "authors": [
+    "Xin Xia",
+    "Yajie Zhang",
+    "Xiangxiang Zeng",
+    "Xingyi Zhang",
+    "Chunhou Zheng",
+    "Yansen Su"
+  ],
+  "summary": "Molecular optimization, which aims to discover improved molecules from a vast chemical search space, is a critical step in chemical development. Various artificial intelligence technologies have demonstrated high effectiveness and efficiency on molecular optimization tasks. However, few of these technologies focus on balancing property optimization with constraint satisfaction, making it difficult to obtain high-quality molecules that not only possess desirable properties but also meet various constraints. To address this issue, we propose a constrained multi-property molecular optimization framework (CMOMO), which is a flexible and efficient method to simultaneously optimize multiple molecular properties while satisfying several drug-like constraints. CMOMO improves multiple properties of molecules with constraints based on dynamic cooperative optimization, which dynamically handles the constraints across various scenarios. Besides, CMOMO evaluates multiple properties within discrete chemical spaces cooperatively with the evolution of molecules within an implicit molecular space to guide the evolutionary search. Experimental results show the superior performance of the proposed CMOMO over five state-of-the-art molecular optimization methods on two benchmark tasks of simultaneously optimizing multiple non-biological activity properties while satisfying two structural constraints. Furthermore, the practical applicability of CMOMO is verified on two practical tasks, where it identified a collection of candidate ligands of $β$2-adrenoceptor GPCR and candidate inhibitors of glycogen synthase kinase-3$β$ with high properties and under drug-like constraints.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "physics.chem-ph, cs.AI, q-bio.BM"
+}

@@ -1,0 +1,14 @@
+{
+  "title": "CLIP Unreasonable Potential in Single-Shot Face Recognition",
+  "authors": [
+    "Nhan T. Luu"
+  ],
+  "summary": "Face recognition is a core task in computer vision designed to identify and authenticate individuals by analyzing facial patterns and features. This field intersects with artificial intelligence image processing and machine learning with applications in security authentication and personalization. Traditional approaches in facial recognition focus on capturing facial features like the eyes, nose and mouth and matching these against a database to verify identities. However challenges such as high false positive rates have persisted often due to the similarity among individuals facial features. Recently Contrastive Language Image Pretraining (CLIP) a model developed by OpenAI has shown promising advancements by linking natural language processing with vision tasks allowing it to generalize across modalities. Using CLIP's vision language correspondence and single-shot finetuning the model can achieve lower false positive rates upon deployment without the need of mass facial features extraction. This integration demonstrating CLIP's potential to address persistent issues in face recognition model performance without complicating our training paradigm.",
+  "submission_date": "2024-11-19",
+  "revised_dates": [
+    "2024-11-20"
+  ],
+  "publication_venue": "arXiv preprint",
+  "pdf_url": null,
+  "category": "cs.CV, cs.AI"
+}
