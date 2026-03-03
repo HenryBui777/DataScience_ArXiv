@@ -16,25 +16,9 @@ pip install -r src/requirements.txt
 
 ---
 
-## 2. Project Structure
+## 2. Structure
 
 ```
-23120257/
-├── 23120257/                    # Source papers (5000 papers)
-│   └── {paper_id}/
-│       ├── hierarchy.json
-│       ├── metadata.json
-│       ├── refs.bib
-│       ├── references.json
-│       └── pred.json
-│
-├── data_modelling/              # Processed data (636 papers)
-│   └── {paper_id}/
-│       ├── refs_cleaned.json
-│       ├── references_cleaned.json
-│       ├── ground_truth.json
-│       └── pred.json
-│
 ├── src/                         # Source code
 │   ├── multifile_gathering_01.py
 │   ├── multifile_gathering_02.py
@@ -52,9 +36,7 @@ pip install -r src/requirements.txt
 │   ├── model_training.py
 │   ├── model_evaluation.py
 │   └── requirements.txt
-│
-├── README.md
-└── Report.pdf                   # User report
+
 ```
 
 ---
@@ -65,26 +47,26 @@ pip install -r src/requirements.txt
 
 | File | Description |
 |------|-------------|
-| `multifile_gathering_01.py` | Tìm main .tex file từ nhiều .tex files |
-| `multifile_gathering_02.py` | Xử lý `\input`, `\include` để gom nội dung |
-| `hierarchy_construction.py` | Parse LaTeX → cấu trúc phân cấp `hierarchy.json` |
-| `normalization_format_math.py` | Chuẩn hóa inline/block math, xóa LaTeX commands không cần |
-| `reference_extraction.py` | Trích xuất `\bibitem` → BibTeX format |
-| `bib_deduplication.py` | Xử lý duplicate bib entries, tạo `refs.bib` |
-| `text_deduplication.py` | Xử lý duplicate text content trong hierarchy |
+| `multifile_gathering_01.py` | Find main .tex file from multiple .tex files |
+| `multifile_gathering_02.py` | Process `\input`, `\include` to gather content |
+| `hierarchy_construction.py` | Parse LaTeX → hierarchical structure `hierarchy.json` |
+| `normalization_format_math.py` | Normalize inline/block math, remove unnecessary LaTeX commands |
+| `reference_extraction.py` | Extract `\bibitem` → BibTeX format |
+| `bib_deduplication.py` | Handle duplicate bib entries, create `refs.bib` |
+| `text_deduplication.py` | Handle duplicate text content in hierarchy |
 
 ### 3.2 Reference Matching 
 
 | File | Description |
 |------|-------------|
-| `data_selection.py` | Chọn papers có đủ dữ liệu cho training |
+| `data_selection.py` | Select papers with sufficient data for training |
 | `data_cleaning.py` | Text preprocessing: lowercasing, stopword removal |
-| `data_labelling.py` | Tạo `ground_truth.json` từ matching rules |
-| `feature_engineering.py` | Tạo 15 features cho mỗi (bib, candidate) pair |
-| `eda.py` | Phân tích dữ liệu các nhóm features, vẽ biểu đồ so sánh positive/negative |
-| `model_comparison.py` | So sánh XGBoost vs Naive Bayes vs Logistic Regression |
+| `data_labelling.py` | Create `ground_truth.json` based on matching rules |
+| `feature_engineering.py` | Create 15 features for each (bib, candidate) pair |
+| `eda.py` | Analyze feature groups, plot positive/negative comparison charts |
+| `model_comparison.py` | Compare XGBoost vs Naive Bayes vs Logistic Regression |
 | `model_training.py` | Train XGBoost + GridSearchCV + Early stopping |
-| `model_evaluation.py` | Tính MRR và Hit Rate trên train/valid/test |
+| `model_evaluation.py` | Calculate MRR and Hit Rate on train/valid/test |
 
 ---
 
